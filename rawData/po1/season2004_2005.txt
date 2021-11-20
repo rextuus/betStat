@@ -1,0 +1,306 @@
+Os Belenenses	CS MarÃ­timo	2:0	3:0	28.08.2004	20:15	2004	2005	1
+Sporting CP	Gil Vicente	2:0	3:2	28.08.2004	22:15	2004	2005	1
+FC Penafiel	VitÃ³ria SetÃºbal	1:1	1:4	29.08.2004	17:00	2004	2005	1
+GD Estoril	Rio Ave FC	0:0	0:0	29.08.2004	17:00	2004	2005	1
+Moreirense FC	VitÃ³ria GuimarÃ£es	0:0	0:0	29.08.2004	18:00	2004	2005	1
+Boavista	CD Nacional	0:0	1:0	29.08.2004	19:00	2004	2005	1
+SC Beira-Mar	SL Benfica	0:2	2:3	29.08.2004	21:30	2004	2005	1
+AcadÃ©mica de Coimbra	Sporting Braga	1:2	2:2	30.08.2004	21:30	2004	2005	1
+FC Porto	UniÃ£o Leiria	1:0	1:1	22.09.2004	22:00	2004	2005	1
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	2:0	2:1	05.09.2004	17:00	2004	2005	2
+Gil Vicente	Boavista	0:1	0:1	10.09.2004	22:30	2004	2005	2
+CS MarÃ­timo	FC Penafiel	1:0	3:0	11.09.2004	17:00	2004	2005	2
+UniÃ£o Leiria	GD Estoril	2:1	4:2	11.09.2004	19:00	2004	2005	2
+Sporting Braga	FC Porto	0:1	1:1	11.09.2004	20:00	2004	2005	2
+SL Benfica	Moreirense FC	1:0	2:0	11.09.2004	22:15	2004	2005	2
+CD Nacional	SC Beira-Mar	1:1	2:1	12.09.2004	17:00	2004	2005	2
+VitÃ³ria SetÃºbal	Sporting CP	0:0	2:0	12.09.2004	20:30	2004	2005	2
+Rio Ave FC	Os Belenenses	2:0	3:3	13.09.2004	21:30	2004	2005	2
+Boavista	VitÃ³ria SetÃºbal	1:0	1:1	17.09.2004	22:30	2004	2005	3
+FC Porto	GD Estoril	1:2	2:2	18.09.2004	22:15	2004	2005	3
+Os Belenenses	UniÃ£o Leiria	2:0	2:1	19.09.2004	17:00	2004	2005	3
+SC Beira-Mar	Gil Vicente	1:0	1:0	19.09.2004	17:00	2004	2005	3
+FC Penafiel	Rio Ave FC	0:0	1:1	19.09.2004	17:00	2004	2005	3
+Moreirense FC	CD Nacional	2:0	3:2	19.09.2004	17:00	2004	2005	3
+AcadÃ©mica de Coimbra	SL Benfica	0:0	0:1	19.09.2004	22:15	2004	2005	3
+Sporting CP	CS MarÃ­timo	0:1	0:1	20.09.2004	21:30	2004	2005	3
+Sporting Braga	VitÃ³ria GuimarÃ£es	1:0	1:0	21.09.2004	21:30	2004	2005	3
+VitÃ³ria SetÃºbal	SC Beira-Mar	1:1	1:2	24.09.2004	22:30	2004	2005	4
+CS MarÃ­timo	Boavista	1:1	2:1	25.09.2004	20:00	2004	2005	4
+VitÃ³ria GuimarÃ£es	FC Porto	0:0	0:1	25.09.2004	22:15	2004	2005	4
+UniÃ£o Leiria	FC Penafiel	0:2	1:2	26.09.2004	17:00	2004	2005	4
+Gil Vicente	Moreirense FC	0:0	3:1	26.09.2004	17:00	2004	2005	4
+CD Nacional	AcadÃ©mica de Coimbra	0:0	2:1	26.09.2004	17:00	2004	2005	4
+SL Benfica	Sporting Braga	0:0	0:0	26.09.2004	20:15	2004	2005	4
+Rio Ave FC	Sporting CP	0:0	0:0	26.09.2004	22:15	2004	2005	4
+GD Estoril	Os Belenenses	0:0	1:0	27.09.2004	21:30	2004	2005	4
+Boavista	Rio Ave FC	0:0	0:1	01.10.2004	22:30	2004	2005	5
+FC Penafiel	GD Estoril	2:1	2:1	03.10.2004	17:00	2004	2005	5
+AcadÃ©mica de Coimbra	Gil Vicente	2:1	2:1	03.10.2004	17:00	2004	2005	5
+Moreirense FC	VitÃ³ria SetÃºbal	1:0	2:2	03.10.2004	17:00	2004	2005	5
+FC Porto	Os Belenenses	1:0	3:0	03.10.2004	20:15	2004	2005	5
+VitÃ³ria GuimarÃ£es	SL Benfica	0:0	1:2	03.10.2004	22:30	2004	2005	5
+Sporting CP	UniÃ£o Leiria	1:1	2:2	04.10.2004	21:30	2004	2005	5
+Sporting Braga	CD Nacional	1:0	3:2	05.10.2004	21:30	2004	2005	5
+SC Beira-Mar	CS MarÃ­timo	1:0	2:2	10.10.2004	20:45	2004	2005	5
+Gil Vicente	Sporting Braga	0:0	0:1	15.10.2004	22:30	2004	2005	6
+CS MarÃ­timo	Moreirense FC	0:0	1:0	16.10.2004	17:00	2004	2005	6
+CD Nacional	VitÃ³ria GuimarÃ£es	1:0	1:0	16.10.2004	20:15	2004	2005	6
+GD Estoril	Sporting CP	0:2	1:4	16.10.2004	22:15	2004	2005	6
+Os Belenenses	FC Penafiel	1:1	4:1	17.10.2004	17:00	2004	2005	6
+UniÃ£o Leiria	Boavista	0:1	0:3	17.10.2004	17:00	2004	2005	6
+Rio Ave FC	SC Beira-Mar	1:0	1:1	17.10.2004	17:00	2004	2005	6
+SL Benfica	FC Porto	0:1	0:1	17.10.2004	20:45	2004	2005	6
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	0:0	1:0	18.10.2004	20:45	2004	2005	6
+Boavista	GD Estoril	0:0	0:0	22.10.2004	22:30	2004	2005	7
+Moreirense FC	Rio Ave FC	0:0	0:0	23.10.2004	17:00	2004	2005	7
+Sporting Braga	VitÃ³ria SetÃºbal	2:1	2:3	23.10.2004	20:15	2004	2005	7
+Sporting CP	Os Belenenses	0:0	2:0	23.10.2004	22:30	2004	2005	7
+VitÃ³ria GuimarÃ£es	Gil Vicente	2:0	2:1	24.10.2004	17:00	2004	2005	7
+SC Beira-Mar	UniÃ£o Leiria	0:0	0:1	24.10.2004	17:00	2004	2005	7
+AcadÃ©mica de Coimbra	CS MarÃ­timo	1:0	1:0	24.10.2004	17:00	2004	2005	7
+SL Benfica	CD Nacional	0:0	2:1	24.10.2004	20:15	2004	2005	7
+FC Porto	FC Penafiel	2:0	2:0	24.10.2004	22:30	2004	2005	7
+FC Penafiel	Sporting CP	0:0	0:3	30.10.2004	20:15	2004	2005	8
+CD Nacional	FC Porto	0:1	2:2	30.10.2004	22:15	2004	2005	8
+UniÃ£o Leiria	Moreirense FC	0:0	0:0	31.10.2004	17:00	2004	2005	8
+Rio Ave FC	AcadÃ©mica de Coimbra	1:0	3:1	31.10.2004	17:00	2004	2005	8
+GD Estoril	SC Beira-Mar	3:0	5:0	31.10.2004	17:00	2004	2005	8
+Os Belenenses	Boavista	1:1	1:2	31.10.2004	19:00	2004	2005	8
+Gil Vicente	SL Benfica	1:0	1:1	31.10.2004	21:30	2004	2005	8
+CS MarÃ­timo	Sporting Braga	1:0	2:0	01.11.2004	18:45	2004	2005	8
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	0:0	1:0	01.11.2004	21:30	2004	2005	8
+SC Beira-Mar	Os Belenenses	1:1	3:3	05.11.2004	22:30	2004	2005	9
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	0:1	1:1	06.11.2004	20:15	2004	2005	9
+Boavista	FC Penafiel	0:1	2:1	06.11.2004	22:30	2004	2005	9
+Sporting Braga	Rio Ave FC	2:0	3:0	07.11.2004	17:00	2004	2005	9
+AcadÃ©mica de Coimbra	UniÃ£o Leiria	0:1	0:1	07.11.2004	17:00	2004	2005	9
+Moreirense FC	GD Estoril	1:0	1:2	07.11.2004	17:00	2004	2005	9
+CD Nacional	Gil Vicente	0:0	0:0	07.11.2004	17:00	2004	2005	9
+SL Benfica	VitÃ³ria SetÃºbal	1:0	4:0	07.11.2004	20:15	2004	2005	9
+FC Porto	Sporting CP	0:0	3:0	08.11.2004	21:30	2004	2005	9
+GD Estoril	AcadÃ©mica de Coimbra	0:0	0:1	12.11.2004	22:30	2004	2005	10
+Os Belenenses	Moreirense FC	1:0	3:0	13.11.2004	17:00	2004	2005	10
+VitÃ³ria SetÃºbal	CD Nacional	0:0	1:0	13.11.2004	17:00	2004	2005	10
+FC Penafiel	SC Beira-Mar	2:1	2:1	13.11.2004	17:00	2004	2005	10
+Gil Vicente	FC Porto	0:1	0:2	13.11.2004	20:00	2004	2005	10
+CS MarÃ­timo	SL Benfica	1:1	1:1	13.11.2004	22:15	2004	2005	10
+UniÃ£o Leiria	Sporting Braga	0:0	0:0	14.11.2004	19:15	2004	2005	10
+Sporting CP	Boavista	3:0	6:1	14.11.2004	22:30	2004	2005	10
+Rio Ave FC	VitÃ³ria GuimarÃ£es	1:0	1:1	15.11.2004	21:30	2004	2005	10
+CD Nacional	CS MarÃ­timo	0:0	1:1	19.11.2004	22:30	2004	2005	11
+FC Porto	Boavista	0:0	0:1	20.11.2004	19:15	2004	2005	11
+SC Beira-Mar	Sporting CP	1:1	2:2	20.11.2004	22:15	2004	2005	11
+Sporting Braga	GD Estoril	1:0	2:0	21.11.2004	17:00	2004	2005	11
+VitÃ³ria GuimarÃ£es	UniÃ£o Leiria	1:0	1:1	21.11.2004	17:00	2004	2005	11
+Gil Vicente	VitÃ³ria SetÃºbal	1:0	2:1	21.11.2004	17:00	2004	2005	11
+Moreirense FC	FC Penafiel	2:2	2:2	21.11.2004	17:00	2004	2005	11
+SL Benfica	Rio Ave FC	3:1	3:3	21.11.2004	20:45	2004	2005	11
+AcadÃ©mica de Coimbra	Os Belenenses	1:0	1:1	22.11.2004	21:30	2004	2005	11
+Boavista	SC Beira-Mar	1:0	3:0	26.11.2004	22:30	2004	2005	12
+Os Belenenses	Sporting Braga	0:0	1:2	27.11.2004	22:30	2004	2005	12
+CS MarÃ­timo	Gil Vicente	1:0	1:1	28.11.2004	17:00	2004	2005	12
+Rio Ave FC	CD Nacional	2:0	4:1	28.11.2004	17:00	2004	2005	12
+FC Penafiel	AcadÃ©mica de Coimbra	1:1	3:1	28.11.2004	17:00	2004	2005	12
+GD Estoril	VitÃ³ria GuimarÃ£es	0:0	0:1	28.11.2004	17:00	2004	2005	12
+UniÃ£o Leiria	SL Benfica	1:0	1:0	28.11.2004	19:45	2004	2005	12
+Sporting CP	Moreirense FC	2:0	4:1	28.11.2004	22:00	2004	2005	12
+VitÃ³ria SetÃºbal	FC Porto	0:1	0:1	29.11.2004	21:30	2004	2005	12
+FC Porto	SC Beira-Mar	0:1	0:1	03.12.2004	20:45	2004	2005	13
+VitÃ³ria GuimarÃ£es	Os Belenenses	1:0	1:0	04.12.2004	20:00	2004	2005	13
+CD Nacional	UniÃ£o Leiria	0:0	0:3	04.12.2004	20:30	2004	2005	13
+Sporting Braga	FC Penafiel	0:1	0:1	05.12.2004	17:00	2004	2005	13
+Gil Vicente	Rio Ave FC	1:0	3:1	05.12.2004	17:00	2004	2005	13
+Moreirense FC	Boavista	0:0	1:1	05.12.2004	17:00	2004	2005	13
+VitÃ³ria SetÃºbal	CS MarÃ­timo	1:0	2:0	05.12.2004	20:00	2004	2005	13
+AcadÃ©mica de Coimbra	Sporting CP	0:2	2:3	05.12.2004	22:15	2004	2005	13
+SL Benfica	GD Estoril	2:1	2:1	06.12.2004	21:30	2004	2005	13
+Boavista	AcadÃ©mica de Coimbra	0:0	1:0	10.12.2004	22:30	2004	2005	14
+Rio Ave FC	VitÃ³ria SetÃºbal	1:0	1:0	11.12.2004	19:45	2004	2005	14
+Sporting CP	Sporting Braga	0:0	0:0	11.12.2004	22:15	2004	2005	14
+UniÃ£o Leiria	Gil Vicente	0:1	1:1	12.12.2004	17:00	2004	2005	14
+SC Beira-Mar	Moreirense FC	1:2	1:3	12.12.2004	17:00	2004	2005	14
+FC Penafiel	VitÃ³ria GuimarÃ£es	0:2	1:3	12.12.2004	17:00	2004	2005	14
+GD Estoril	CD Nacional	1:0	2:0	12.12.2004	17:00	2004	2005	14
+Os Belenenses	SL Benfica	3:0	4:1	12.12.2004	21:00	2004	2005	14
+CS MarÃ­timo	FC Porto	1:1	1:1	22.12.2004	21:30	2004	2005	14
+FC Porto	Moreirense FC	1:0	1:0	17.12.2004	22:30	2004	2005	15
+Sporting Braga	Boavista	2:0	3:0	18.12.2004	20:15	2004	2005	15
+SL Benfica	FC Penafiel	1:0	1:0	18.12.2004	22:15	2004	2005	15
+CS MarÃ­timo	Rio Ave FC	1:0	1:1	19.12.2004	17:00	2004	2005	15
+Gil Vicente	GD Estoril	0:0	2:0	19.12.2004	17:00	2004	2005	15
+AcadÃ©mica de Coimbra	SC Beira-Mar	1:0	1:1	19.12.2004	19:00	2004	2005	15
+CD Nacional	Os Belenenses	1:0	2:0	19.12.2004	19:15	2004	2005	15
+VitÃ³ria SetÃºbal	UniÃ£o Leiria	0:0	1:1	19.12.2004	21:30	2004	2005	15
+VitÃ³ria GuimarÃ£es	Sporting CP	1:2	2:4	20.12.2004	21:45	2004	2005	15
+GD Estoril	VitÃ³ria SetÃºbal	0:1	2:1	07.01.2005	22:30	2004	2005	16
+Boavista	VitÃ³ria GuimarÃ£es	1:0	2:1	08.01.2005	18:15	2004	2005	16
+Sporting CP	SL Benfica	1:1	2:1	08.01.2005	21:45	2004	2005	16
+Os Belenenses	Gil Vicente	0:1	0:1	09.01.2005	17:00	2004	2005	16
+SC Beira-Mar	Sporting Braga	1:0	1:4	09.01.2005	17:00	2004	2005	16
+FC Penafiel	CD Nacional	0:0	0:1	09.01.2005	17:00	2004	2005	16
+Moreirense FC	AcadÃ©mica de Coimbra	1:0	1:0	09.01.2005	17:00	2004	2005	16
+FC Porto	Rio Ave FC	0:1	1:1	09.01.2005	20:15	2004	2005	16
+UniÃ£o Leiria	CS MarÃ­timo	0:0	0:0	09.01.2005	22:30	2004	2005	16
+VitÃ³ria GuimarÃ£es	SC Beira-Mar	0:0	1:0	15.01.2005	19:45	2004	2005	17
+AcadÃ©mica de Coimbra	FC Porto	0:0	0:0	15.01.2005	22:15	2004	2005	17
+Sporting Braga	Moreirense FC	0:0	0:0	16.01.2005	17:00	2004	2005	17
+CS MarÃ­timo	GD Estoril	1:0	2:1	16.01.2005	17:00	2004	2005	17
+Gil Vicente	FC Penafiel	0:0	0:1	16.01.2005	17:00	2004	2005	17
+Rio Ave FC	UniÃ£o Leiria	1:0	2:0	16.01.2005	17:00	2004	2005	17
+CD Nacional	Sporting CP	2:0	3:2	16.01.2005	19:30	2004	2005	17
+SL Benfica	Boavista	1:0	4:0	16.01.2005	21:45	2004	2005	17
+VitÃ³ria SetÃºbal	Os Belenenses	0:0	1:2	17.01.2005	21:30	2004	2005	17
+Sporting Braga	AcadÃ©mica de Coimbra	1:0	2:0	21.01.2005	22:30	2004	2005	18
+VitÃ³ria GuimarÃ£es	Moreirense FC	0:0	0:0	22.01.2005	17:00	2004	2005	18
+VitÃ³ria SetÃºbal	FC Penafiel	3:0	4:0	22.01.2005	19:00	2004	2005	18
+CD Nacional	Boavista	0:0	0:2	22.01.2005	19:45	2004	2005	18
+SL Benfica	SC Beira-Mar	0:1	0:2	22.01.2005	22:00	2004	2005	18
+CS MarÃ­timo	Os Belenenses	0:0	0:0	23.01.2005	17:00	2004	2005	18
+Rio Ave FC	GD Estoril	0:1	2:1	23.01.2005	17:00	2004	2005	18
+Gil Vicente	Sporting CP	0:1	0:3	23.01.2005	20:15	2004	2005	18
+UniÃ£o Leiria	FC Porto	0:1	0:1	23.01.2005	22:15	2004	2005	18
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	0:0	0:2	29.01.2005	19:45	2004	2005	19
+Moreirense FC	SL Benfica	0:2	1:2	29.01.2005	22:15	2004	2005	19
+FC Penafiel	CS MarÃ­timo	0:1	0:1	30.01.2005	17:00	2004	2005	19
+GD Estoril	UniÃ£o Leiria	1:1	1:1	30.01.2005	17:00	2004	2005	19
+Os Belenenses	Rio Ave FC	1:0	2:1	30.01.2005	17:00	2004	2005	19
+SC Beira-Mar	CD Nacional	0:1	0:3	30.01.2005	17:00	2004	2005	19
+Boavista	Gil Vicente	0:1	2:2	30.01.2005	19:30	2004	2005	19
+FC Porto	Sporting Braga	1:2	1:3	30.01.2005	21:45	2004	2005	19
+Sporting CP	VitÃ³ria SetÃºbal	0:0	1:1	31.01.2005	21:30	2004	2005	19
+VitÃ³ria GuimarÃ£es	Sporting Braga	0:0	1:0	04.02.2005	22:30	2004	2005	20
+Rio Ave FC	FC Penafiel	1:0	1:0	05.02.2005	19:00	2004	2005	20
+UniÃ£o Leiria	Os Belenenses	0:0	1:0	05.02.2005	20:00	2004	2005	20
+GD Estoril	FC Porto	1:2	1:2	05.02.2005	22:15	2004	2005	20
+Gil Vicente	SC Beira-Mar	0:0	2:0	06.02.2005	17:00	2004	2005	20
+CD Nacional	Moreirense FC	3:1	4:1	06.02.2005	17:00	2004	2005	20
+CS MarÃ­timo	Sporting CP	1:0	3:0	06.02.2005	19:15	2004	2005	20
+SL Benfica	AcadÃ©mica de Coimbra	1:0	3:0	06.02.2005	21:45	2004	2005	20
+VitÃ³ria SetÃºbal	Boavista	0:0	0:0	07.02.2005	21:30	2004	2005	20
+Os Belenenses	GD Estoril	1:0	3:0	11.02.2005	21:30	2004	2005	21
+Sporting Braga	SL Benfica	0:0	0:0	12.02.2005	22:15	2004	2005	21
+Boavista	CS MarÃ­timo	2:0	3:2	13.02.2005	17:00	2004	2005	21
+FC Penafiel	UniÃ£o Leiria	2:0	3:0	13.02.2005	17:00	2004	2005	21
+SC Beira-Mar	VitÃ³ria SetÃºbal	0:1	1:1	13.02.2005	17:00	2004	2005	21
+Moreirense FC	Gil Vicente	0:0	1:0	13.02.2005	17:00	2004	2005	21
+AcadÃ©mica de Coimbra	CD Nacional	0:0	1:0	13.02.2005	17:00	2004	2005	21
+Sporting CP	Rio Ave FC	4:0	5:0	13.02.2005	19:00	2004	2005	21
+FC Porto	VitÃ³ria GuimarÃ£es	0:0	0:0	13.02.2005	21:15	2004	2005	21
+CD Nacional	Sporting Braga	0:0	1:0	18.02.2005	20:15	2004	2005	22
+Os Belenenses	FC Porto	0:0	0:1	18.02.2005	22:30	2004	2005	22
+CS MarÃ­timo	SC Beira-Mar	0:0	0:0	19.02.2005	16:00	2004	2005	22
+GD Estoril	FC Penafiel	1:1	3:2	19.02.2005	17:00	2004	2005	22
+Gil Vicente	AcadÃ©mica de Coimbra	0:1	0:1	19.02.2005	17:00	2004	2005	22
+VitÃ³ria SetÃºbal	Moreirense FC	2:1	2:2	19.02.2005	17:00	2004	2005	22
+Rio Ave FC	Boavista	2:0	2:2	19.02.2005	19:45	2004	2005	22
+UniÃ£o Leiria	Sporting CP	0:0	0:0	19.02.2005	22:15	2004	2005	22
+SL Benfica	VitÃ³ria GuimarÃ£es	2:0	2:1	21.02.2005	21:30	2004	2005	22
+Sporting Braga	Gil Vicente	2:0	2:1	25.02.2005	22:30	2004	2005	23
+FC Penafiel	Os Belenenses	0:0	0:0	26.02.2005	20:15	2004	2005	23
+Boavista	UniÃ£o Leiria	0:0	0:0	26.02.2005	20:30	2004	2005	23
+Moreirense FC	CS MarÃ­timo	1:0	1:0	27.02.2005	17:00	2004	2005	23
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	1:0	3:3	27.02.2005	17:00	2004	2005	23
+SC Beira-Mar	Rio Ave FC	0:0	0:0	27.02.2005	17:00	2004	2005	23
+VitÃ³ria GuimarÃ£es	CD Nacional	0:0	1:1	27.02.2005	19:15	2004	2005	23
+FC Porto	SL Benfica	0:0	1:1	28.02.2005	20:45	2004	2005	23
+Sporting CP	GD Estoril	1:0	4:0	28.02.2005	22:30	2004	2005	23
+Gil Vicente	VitÃ³ria GuimarÃ£es	0:2	1:3	04.03.2005	22:30	2004	2005	24
+GD Estoril	Boavista	1:1	3:3	05.03.2005	20:15	2004	2005	24
+FC Penafiel	FC Porto	1:0	1:2	05.03.2005	22:15	2004	2005	24
+UniÃ£o Leiria	SC Beira-Mar	3:1	5:1	06.03.2005	17:00	2004	2005	24
+CS MarÃ­timo	AcadÃ©mica de Coimbra	0:1	1:1	06.03.2005	17:00	2004	2005	24
+Rio Ave FC	Moreirense FC	1:0	1:0	06.03.2005	17:00	2004	2005	24
+Os Belenenses	Sporting CP	0:0	1:0	06.03.2005	19:30	2004	2005	24
+CD Nacional	SL Benfica	0:0	0:1	06.03.2005	21:45	2004	2005	24
+VitÃ³ria SetÃºbal	Sporting Braga	0:2	1:4	07.03.2005	21:30	2004	2005	24
+FC Porto	CD Nacional	0:1	0:4	11.03.2005	22:30	2004	2005	25
+Sporting Braga	CS MarÃ­timo	0:0	1:1	12.03.2005	19:30	2004	2005	25
+SL Benfica	Gil Vicente	0:0	2:0	12.03.2005	21:45	2004	2005	25
+Moreirense FC	UniÃ£o Leiria	0:0	0:0	13.03.2005	17:00	2004	2005	25
+AcadÃ©mica de Coimbra	Rio Ave FC	0:0	0:0	13.03.2005	17:00	2004	2005	25
+SC Beira-Mar	GD Estoril	0:1	2:1	13.03.2005	17:00	2004	2005	25
+Sporting CP	FC Penafiel	0:0	0:2	13.03.2005	20:15	2004	2005	25
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	2:1	3:1	13.03.2005	22:15	2004	2005	25
+Boavista	Os Belenenses	1:0	2:0	14.03.2005	21:15	2004	2005	25
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	0:1	1:2	18.03.2005	22:30	2004	2005	26
+FC Penafiel	Boavista	1:0	1:1	19.03.2005	19:45	2004	2005	26
+VitÃ³ria SetÃºbal	SL Benfica	0:1	0:2	19.03.2005	22:15	2004	2005	26
+Os Belenenses	SC Beira-Mar	0:0	2:0	20.03.2005	17:00	2004	2005	26
+UniÃ£o Leiria	AcadÃ©mica de Coimbra	0:2	1:2	20.03.2005	17:00	2004	2005	26
+GD Estoril	Moreirense FC	1:0	2:0	20.03.2005	17:00	2004	2005	26
+Gil Vicente	CD Nacional	2:1	3:2	20.03.2005	17:00	2004	2005	26
+Rio Ave FC	Sporting Braga	1:0	1:1	20.03.2005	19:30	2004	2005	26
+Sporting CP	FC Porto	0:0	2:0	21.03.2005	21:30	2004	2005	26
+VitÃ³ria GuimarÃ£es	Rio Ave FC	0:0	0:0	01.04.2005	22:30	2004	2005	27
+Boavista	Sporting CP	0:2	0:4	02.04.2005	22:15	2004	2005	27
+Moreirense FC	Os Belenenses	0:0	0:1	03.04.2005	17:00	2004	2005	27
+CD Nacional	VitÃ³ria SetÃºbal	0:1	1:3	03.04.2005	17:00	2004	2005	27
+SC Beira-Mar	FC Penafiel	1:0	1:3	03.04.2005	17:00	2004	2005	27
+AcadÃ©mica de Coimbra	GD Estoril	1:0	1:0	03.04.2005	17:00	2004	2005	27
+FC Porto	Gil Vicente	1:0	1:0	03.04.2005	19:15	2004	2005	27
+SL Benfica	CS MarÃ­timo	3:2	4:3	03.04.2005	21:30	2004	2005	27
+Sporting Braga	UniÃ£o Leiria	1:0	1:0	04.04.2005	21:30	2004	2005	27
+CS MarÃ­timo	CD Nacional	1:0	2:1	08.04.2005	22:30	2004	2005	28
+Boavista	FC Porto	0:0	1:0	09.04.2005	22:30	2004	2005	28
+UniÃ£o Leiria	VitÃ³ria GuimarÃ£es	0:0	0:1	10.04.2005	17:00	2004	2005	28
+VitÃ³ria SetÃºbal	Gil Vicente	0:0	0:0	10.04.2005	17:00	2004	2005	28
+FC Penafiel	Moreirense FC	1:0	1:0	10.04.2005	17:00	2004	2005	28
+Rio Ave FC	SL Benfica	0:0	1:0	10.04.2005	20:15	2004	2005	28
+Sporting CP	SC Beira-Mar	0:0	1:0	10.04.2005	22:15	2004	2005	28
+Os Belenenses	AcadÃ©mica de Coimbra	0:0	0:0	11.04.2005	20:15	2004	2005	28
+GD Estoril	Sporting Braga	0:1	0:1	11.04.2005	22:30	2004	2005	28
+SC Beira-Mar	Boavista	0:0	1:0	15.04.2005	22:30	2004	2005	29
+FC Porto	VitÃ³ria SetÃºbal	1:1	2:1	16.04.2005	20:15	2004	2005	29
+SL Benfica	UniÃ£o Leiria	0:1	1:1	16.04.2005	22:30	2004	2005	29
+Gil Vicente	CS MarÃ­timo	0:0	1:0	17.04.2005	17:00	2004	2005	29
+CD Nacional	Rio Ave FC	0:0	0:0	17.04.2005	17:00	2004	2005	29
+AcadÃ©mica de Coimbra	FC Penafiel	2:0	4:1	17.04.2005	17:00	2004	2005	29
+VitÃ³ria GuimarÃ£es	GD Estoril	0:0	1:0	17.04.2005	19:45	2004	2005	29
+Sporting Braga	Os Belenenses	2:0	2:0	17.04.2005	22:00	2004	2005	29
+Moreirense FC	Sporting CP	0:1	1:3	18.04.2005	22:15	2004	2005	29
+Os Belenenses	VitÃ³ria GuimarÃ£es	0:0	1:0	22.04.2005	22:30	2004	2005	30
+Boavista	Moreirense FC	1:0	1:1	23.04.2005	19:45	2004	2005	30
+Sporting CP	AcadÃ©mica de Coimbra	0:0	0:0	23.04.2005	22:00	2004	2005	30
+CS MarÃ­timo	VitÃ³ria SetÃºbal	2:0	3:1	24.04.2005	17:00	2004	2005	30
+Rio Ave FC	Gil Vicente	0:1	0:1	24.04.2005	17:00	2004	2005	30
+UniÃ£o Leiria	CD Nacional	0:0	1:0	24.04.2005	17:00	2004	2005	30
+GD Estoril	SL Benfica	1:0	1:2	24.04.2005	20:15	2004	2005	30
+SC Beira-Mar	FC Porto	0:0	0:1	24.04.2005	22:15	2004	2005	30
+FC Penafiel	Sporting Braga	0:0	1:0	25.04.2005	21:30	2004	2005	30
+AcadÃ©mica de Coimbra	Boavista	1:0	1:0	29.04.2005	22:30	2004	2005	31
+Gil Vicente	UniÃ£o Leiria	0:0	1:1	30.04.2005	17:00	2004	2005	31
+Moreirense FC	SC Beira-Mar	0:0	0:0	30.04.2005	17:00	2004	2005	31
+VitÃ³ria SetÃºbal	Rio Ave FC	2:0	2:0	30.04.2005	17:00	2004	2005	31
+CD Nacional	GD Estoril	1:1	4:1	30.04.2005	17:00	2004	2005	31
+SL Benfica	Os Belenenses	0:0	1:0	30.04.2005	20:15	2004	2005	31
+FC Porto	CS MarÃ­timo	1:0	1:0	30.04.2005	22:15	2004	2005	31
+Sporting Braga	Sporting CP	0:0	0:3	01.05.2005	21:30	2004	2005	31
+VitÃ³ria GuimarÃ£es	FC Penafiel	1:1	2:1	02.05.2005	21:30	2004	2005	31
+Os Belenenses	CD Nacional	1:0	1:0	06.05.2005	22:30	2004	2005	32
+Boavista	Sporting Braga	0:2	1:2	07.05.2005	20:15	2004	2005	32
+FC Penafiel	SL Benfica	0:0	1:0	07.05.2005	22:15	2004	2005	32
+Rio Ave FC	CS MarÃ­timo	0:0	0:0	08.05.2005	17:00	2004	2005	32
+UniÃ£o Leiria	VitÃ³ria SetÃºbal	0:0	0:2	08.05.2005	17:00	2004	2005	32
+GD Estoril	Gil Vicente	1:0	2:0	08.05.2005	17:00	2004	2005	32
+SC Beira-Mar	AcadÃ©mica de Coimbra	0:0	0:0	08.05.2005	17:00	2004	2005	32
+Moreirense FC	FC Porto	1:0	1:1	08.05.2005	21:15	2004	2005	32
+Sporting CP	VitÃ³ria GuimarÃ£es	0:0	1:0	09.05.2005	21:30	2004	2005	32
+VitÃ³ria GuimarÃ£es	Boavista	1:0	2:0	14.05.2005	17:00	2004	2005	33
+Gil Vicente	Os Belenenses	0:0	1:0	14.05.2005	17:00	2004	2005	33
+CS MarÃ­timo	UniÃ£o Leiria	2:0	2:0	14.05.2005	17:00	2004	2005	33
+CD Nacional	FC Penafiel	0:2	1:3	14.05.2005	17:00	2004	2005	33
+AcadÃ©mica de Coimbra	Moreirense FC	0:1	0:4	14.05.2005	17:00	2004	2005	33
+VitÃ³ria SetÃºbal	GD Estoril	0:1	2:2	14.05.2005	17:00	2004	2005	33
+Rio Ave FC	FC Porto	0:0	0:2	14.05.2005	20:45	2004	2005	33
+Sporting Braga	SC Beira-Mar	1:1	1:1	14.05.2005	20:45	2004	2005	33
+SL Benfica	Sporting CP	0:0	1:0	14.05.2005	20:45	2004	2005	33
+SC Beira-Mar	VitÃ³ria GuimarÃ£es	0:2	2:2	22.05.2005	17:00	2004	2005	34
+GD Estoril	CS MarÃ­timo	0:0	0:1	22.05.2005	17:00	2004	2005	34
+Os Belenenses	VitÃ³ria SetÃºbal	0:0	0:0	22.05.2005	17:00	2004	2005	34
+FC Penafiel	Gil Vicente	1:1	1:3	22.05.2005	17:00	2004	2005	34
+UniÃ£o Leiria	Rio Ave FC	0:2	0:3	22.05.2005	17:00	2004	2005	34
+Moreirense FC	Sporting Braga	0:1	2:1	22.05.2005	20:15	2004	2005	34
+Boavista	SL Benfica	1:1	1:1	22.05.2005	20:15	2004	2005	34
+FC Porto	AcadÃ©mica de Coimbra	0:0	1:1	22.05.2005	20:15	2004	2005	34
+Sporting CP	CD Nacional	1:3	2:4	22.05.2005	20:15	2004	2005	34

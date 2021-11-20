@@ -1,0 +1,240 @@
+Eintracht Frankfurt	FC Schalke 04	0:2	2:2	22.08.1964	16:00	1964	1965	1
+1. FC Kaiserslautern	Werder Bremen	2:1	2:1	22.08.1964	16:00	1964	1965	1
+Hamburger SV	VfB Stuttgart	0:2	2:2	22.08.1964	16:00	1964	1965	1
+Borussia Dortmund	Hannover 96	0:0	0:2	22.08.1964	16:00	1964	1965	1
+Eintracht Braunschweig	TSV 1860 MÃ¼nchen	1:0	1:1	22.08.1964	16:00	1964	1965	1
+Karlsruher SC	MSV Duisburg	1:0	2:1	22.08.1964	16:00	1964	1965	1
+1. FC NÃ¼rnberg	Borussia Neunkirchen	0:0	2:0	22.08.1964	16:00	1964	1965	1
+1. FC KÃ¶ln	Hertha BSC	1:0	2:3	22.08.1964	16:00	1964	1965	1
+VfB Stuttgart	1. FC NÃ¼rnberg	1:1	3:1	29.08.1964	16:00	1964	1965	2
+Hannover 96	1. FC KÃ¶ln	2:0	2:0	29.08.1964	16:00	1964	1965	2
+Hertha BSC	Hamburger SV	0:0	0:0	29.08.1964	16:00	1964	1965	2
+FC Schalke 04	Karlsruher SC	0:0	1:1	29.08.1964	16:00	1964	1965	2
+Borussia Neunkirchen	Borussia Dortmund	0:0	1:2	29.08.1964	16:00	1964	1965	2
+MSV Duisburg	1. FC Kaiserslautern	3:0	3:1	29.08.1964	16:00	1964	1965	2
+Werder Bremen	Eintracht Braunschweig	3:1	5:1	29.08.1964	16:00	1964	1965	2
+TSV 1860 MÃ¼nchen	Eintracht Frankfurt	0:0	0:1	29.08.1964	16:00	1964	1965	2
+Hamburger SV	Hannover 96	0:0	3:0	05.09.1964	16:00	1964	1965	3
+1. FC KÃ¶ln	Borussia Neunkirchen	2:3	4:3	05.09.1964	16:00	1964	1965	3
+1. FC NÃ¼rnberg	Hertha BSC	1:0	2:0	05.09.1964	16:00	1964	1965	3
+Karlsruher SC	TSV 1860 MÃ¼nchen	0:2	1:5	05.09.1964	16:00	1964	1965	3
+Eintracht Frankfurt	Werder Bremen	0:1	0:2	05.09.1964	16:00	1964	1965	3
+1. FC Kaiserslautern	FC Schalke 04	3:0	3:0	05.09.1964	16:00	1964	1965	3
+Eintracht Braunschweig	MSV Duisburg	0:1	0:1	05.09.1964	16:00	1964	1965	3
+Borussia Dortmund	VfB Stuttgart	0:0	1:0	11.09.1964	16:00	1964	1965	3
+VfB Stuttgart	1. FC KÃ¶ln	2:2	3:3	12.09.1964	16:00	1964	1965	4
+Hannover 96	1. FC NÃ¼rnberg	2:2	2:2	12.09.1964	16:00	1964	1965	4
+MSV Duisburg	Eintracht Frankfurt	1:2	1:3	12.09.1964	16:00	1964	1965	4
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	1:2	2:2	12.09.1964	16:00	1964	1965	4
+FC Schalke 04	Eintracht Braunschweig	0:1	0:3	12.09.1964	16:00	1964	1965	4
+Werder Bremen	Karlsruher SC	0:0	1:0	12.09.1964	16:00	1964	1965	4
+Borussia Neunkirchen	Hamburger SV	2:1	3:1	12.09.1964	16:00	1964	1965	4
+Hertha BSC	Borussia Dortmund	0:0	0:0	12.09.1964	16:00	1964	1965	4
+1. FC NÃ¼rnberg	FC Schalke 04	1:1	3:2	19.09.1964	16:00	1964	1965	5
+Hamburger SV	MSV Duisburg	2:0	3:0	19.09.1964	16:00	1964	1965	5
+1. FC KÃ¶ln	Werder Bremen	2:0	4:2	19.09.1964	16:00	1964	1965	5
+VfB Stuttgart	Hertha BSC	1:1	1:1	19.09.1964	16:00	1964	1965	5
+Borussia Dortmund	TSV 1860 MÃ¼nchen	0:0	1:1	19.09.1964	16:00	1964	1965	5
+1. FC Kaiserslautern	Hannover 96	1:0	1:0	19.09.1964	16:00	1964	1965	5
+Eintracht Braunschweig	Borussia Neunkirchen	0:0	1:0	19.09.1964	16:00	1964	1965	5
+Eintracht Frankfurt	Karlsruher SC	0:5	0:7	19.09.1964	16:00	1964	1965	5
+Borussia Neunkirchen	1. FC Kaiserslautern	0:1	0:3	26.09.1964	16:00	1964	1965	6
+TSV 1860 MÃ¼nchen	1. FC NÃ¼rnberg	1:0	2:0	26.09.1964	16:00	1964	1965	6
+Werder Bremen	Hamburger SV	0:0	0:0	26.09.1964	16:00	1964	1965	6
+MSV Duisburg	1. FC KÃ¶ln	0:3	0:3	26.09.1964	16:00	1964	1965	6
+FC Schalke 04	Borussia Dortmund	0:6	2:6	26.09.1964	16:00	1964	1965	6
+Karlsruher SC	VfB Stuttgart	0:0	0:0	26.09.1964	16:00	1964	1965	6
+Hertha BSC	Eintracht Frankfurt	1:2	1:3	26.09.1964	16:00	1964	1965	6
+Hannover 96	Eintracht Braunschweig	1:1	2:2	26.09.1964	16:00	1964	1965	6
+Hertha BSC	TSV 1860 MÃ¼nchen	1:1	2:1	10.10.1964	15:15	1964	1965	7
+1. FC KÃ¶ln	Eintracht Braunschweig	1:1	5:1	10.10.1964	15:15	1964	1965	7
+Borussia Dortmund	1. FC Kaiserslautern	1:1	3:2	10.10.1964	15:15	1964	1965	7
+1. FC NÃ¼rnberg	Karlsruher SC	2:0	4:1	10.10.1964	15:15	1964	1965	7
+Hannover 96	Werder Bremen	1:1	1:2	10.10.1964	15:15	1964	1965	7
+Hamburger SV	Eintracht Frankfurt	1:1	2:1	10.10.1964	15:15	1964	1965	7
+VfB Stuttgart	FC Schalke 04	0:1	2:1	10.10.1964	15:15	1964	1965	7
+Borussia Neunkirchen	MSV Duisburg	2:0	4:2	10.10.1964	15:15	1964	1965	7
+TSV 1860 MÃ¼nchen	Hannover 96	0:0	4:0	17.10.1964	15:15	1964	1965	8
+FC Schalke 04	Hertha BSC	2:0	3:0	17.10.1964	15:15	1964	1965	8
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	1:1	3:2	17.10.1964	15:15	1964	1965	8
+Karlsruher SC	Hamburger SV	1:2	2:2	17.10.1964	15:15	1964	1965	8
+MSV Duisburg	VfB Stuttgart	1:2	3:3	17.10.1964	15:15	1964	1965	8
+Eintracht Braunschweig	Borussia Dortmund	0:0	0:1	17.10.1964	15:15	1964	1965	8
+Werder Bremen	Borussia Neunkirchen	2:0	2:0	17.10.1964	15:15	1964	1965	8
+Eintracht Frankfurt	1. FC KÃ¶ln	0:1	1:4	17.10.1964	15:15	1964	1965	8
+Hamburger SV	1. FC Kaiserslautern	2:2	3:2	24.10.1964	15:15	1964	1965	9
+Hertha BSC	MSV Duisburg	2:1	2:2	24.10.1964	15:15	1964	1965	9
+Borussia Dortmund	Eintracht Frankfurt	1:1	1:3	24.10.1964	15:15	1964	1965	9
+1. FC NÃ¼rnberg	Eintracht Braunschweig	0:2	3:2	24.10.1964	15:15	1964	1965	9
+VfB Stuttgart	Werder Bremen	0:1	1:1	24.10.1964	15:15	1964	1965	9
+Borussia Neunkirchen	TSV 1860 MÃ¼nchen	0:0	3:0	24.10.1964	15:15	1964	1965	9
+1. FC KÃ¶ln	Karlsruher SC	1:1	4:1	24.10.1964	15:15	1964	1965	9
+Hannover 96	FC Schalke 04	1:0	1:0	24.10.1964	15:15	1964	1965	9
+Eintracht Braunschweig	Hamburger SV	2:0	2:0	07.11.1964	14:30	1964	1965	10
+Karlsruher SC	Borussia Dortmund	1:0	2:0	07.11.1964	14:30	1964	1965	10
+Eintracht Frankfurt	1. FC NÃ¼rnberg	0:1	1:1	07.11.1964	14:30	1964	1965	10
+TSV 1860 MÃ¼nchen	VfB Stuttgart	0:0	1:0	07.11.1964	14:30	1964	1965	10
+MSV Duisburg	Hannover 96	1:0	1:0	07.11.1964	14:30	1964	1965	10
+1. FC Kaiserslautern	1. FC KÃ¶ln	0:2	2:2	07.11.1964	14:30	1964	1965	10
+FC Schalke 04	Borussia Neunkirchen	0:1	1:1	07.11.1964	14:30	1964	1965	10
+Werder Bremen	Hertha BSC	0:0	5:1	07.11.1964	14:30	1964	1965	10
+Hertha BSC	1. FC Kaiserslautern	4:0	5:3	14.11.1964	14:30	1964	1965	11
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	1:0	1:1	14.11.1964	14:30	1964	1965	11
+Werder Bremen	FC Schalke 04	1:1	2:2	14.11.1964	14:30	1964	1965	11
+VfB Stuttgart	Eintracht Braunschweig	2:1	3:1	14.11.1964	14:30	1964	1965	11
+1. FC NÃ¼rnberg	Hamburger SV	2:2	2:3	14.11.1964	14:30	1964	1965	11
+Hannover 96	Eintracht Frankfurt	1:0	3:2	14.11.1964	14:30	1964	1965	11
+Borussia Dortmund	MSV Duisburg	0:0	0:0	19.11.1964	20:30	1964	1965	11
+Borussia Neunkirchen	Karlsruher SC	0:0	1:0	11.01.1965	22:30	1964	1965	11
+FC Schalke 04	1. FC KÃ¶ln	1:2	2:3	21.11.1964	14:30	1964	1965	12
+Hamburger SV	Borussia Dortmund	0:2	1:4	21.11.1964	14:30	1964	1965	12
+MSV Duisburg	1. FC NÃ¼rnberg	2:0	2:0	21.11.1964	14:30	1964	1965	12
+TSV 1860 MÃ¼nchen	Werder Bremen	1:1	3:1	21.11.1964	14:30	1964	1965	12
+Karlsruher SC	Hannover 96	0:1	2:3	21.11.1964	14:30	1964	1965	12
+1. FC Kaiserslautern	VfB Stuttgart	2:1	2:1	21.11.1964	14:30	1964	1965	12
+Eintracht Frankfurt	Borussia Neunkirchen	0:0	1:0	21.11.1964	14:30	1964	1965	12
+Eintracht Braunschweig	Hertha BSC	0:1	1:1	21.11.1964	14:30	1964	1965	12
+1. FC KÃ¶ln	Hamburger SV	3:0	3:0	28.11.1964	14:30	1964	1965	13
+1. FC NÃ¼rnberg	Borussia Dortmund	0:0	1:0	28.11.1964	14:30	1964	1965	13
+FC Schalke 04	TSV 1860 MÃ¼nchen	1:1	2:2	28.11.1964	14:30	1964	1965	13
+VfB Stuttgart	Eintracht Frankfurt	1:2	1:2	28.11.1964	14:30	1964	1965	13
+Borussia Neunkirchen	Hannover 96	0:0	2:1	28.11.1964	14:30	1964	1965	13
+Eintracht Braunschweig	1. FC Kaiserslautern	1:0	2:0	28.11.1964	14:30	1964	1965	13
+Hertha BSC	Karlsruher SC	0:0	2:1	28.11.1964	14:30	1964	1965	13
+Werder Bremen	MSV Duisburg	0:0	1:0	28.11.1964	18:30	1964	1965	13
+Hamburger SV	TSV 1860 MÃ¼nchen	1:2	3:2	05.12.1964	14:15	1964	1965	14
+Borussia Dortmund	Werder Bremen	1:1	1:2	05.12.1964	14:15	1964	1965	14
+1. FC NÃ¼rnberg	1. FC KÃ¶ln	2:0	3:0	05.12.1964	14:15	1964	1965	14
+Hannover 96	VfB Stuttgart	1:0	2:1	05.12.1964	14:15	1964	1965	14
+Eintracht Frankfurt	Eintracht Braunschweig	1:0	2:2	05.12.1964	14:15	1964	1965	14
+Borussia Neunkirchen	Hertha BSC	2:1	2:2	05.12.1964	14:15	1964	1965	14
+Karlsruher SC	1. FC Kaiserslautern	3:1	6:1	05.12.1964	18:30	1964	1965	14
+MSV Duisburg	FC Schalke 04	0:1	2:1	05.12.1964	18:30	1964	1965	14
+Hertha BSC	Hannover 96	0:1	1:1	12.12.1964	14:00	1964	1965	15
+VfB Stuttgart	Borussia Neunkirchen	2:0	3:2	12.12.1964	14:15	1964	1965	15
+1. FC Kaiserslautern	Eintracht Frankfurt	0:0	0:1	12.12.1964	14:15	1964	1965	15
+1. FC KÃ¶ln	Borussia Dortmund	1:0	3:3	12.12.1964	14:15	1964	1965	15
+FC Schalke 04	Hamburger SV	2:0	3:1	12.12.1964	14:15	1964	1965	15
+TSV 1860 MÃ¼nchen	MSV Duisburg	1:1	2:1	12.12.1964	14:15	1964	1965	15
+Werder Bremen	1. FC NÃ¼rnberg	1:0	1:1	12.12.1964	18:30	1964	1965	15
+Eintracht Braunschweig	Karlsruher SC	1:0	3:0	12.12.1964	18:30	1964	1965	15
+Hertha BSC	1. FC KÃ¶ln	1:3	1:3	19.12.1964	14:00	1964	1965	16
+FC Schalke 04	Eintracht Frankfurt	0:0	1:1	19.12.1964	14:15	1964	1965	16
+Hannover 96	Borussia Dortmund	2:0	2:0	19.12.1964	14:15	1964	1965	16
+TSV 1860 MÃ¼nchen	Eintracht Braunschweig	0:0	2:0	19.12.1964	14:15	1964	1965	16
+MSV Duisburg	Karlsruher SC	1:1	1:1	19.12.1964	14:15	1964	1965	16
+Borussia Neunkirchen	1. FC NÃ¼rnberg	1:0	1:1	19.12.1964	14:15	1964	1965	16
+Werder Bremen	1. FC Kaiserslautern	0:1	1:1	19.12.1964	18:30	1964	1965	16
+VfB Stuttgart	Hamburger SV	1:2	2:4	19.12.1964	18:30	1964	1965	16
+1. FC NÃ¼rnberg	VfB Stuttgart	0:1	1:1	31.12.1964	15:00	1964	1965	17
+1. FC KÃ¶ln	Hannover 96	0:1	0:1	02.01.1965	15:00	1964	1965	17
+Hamburger SV	Hertha BSC	3:1	4:1	02.01.1965	15:00	1964	1965	17
+Karlsruher SC	FC Schalke 04	1:1	2:2	02.01.1965	15:00	1964	1965	17
+Borussia Dortmund	Borussia Neunkirchen	1:0	5:1	02.01.1965	15:00	1964	1965	17
+1. FC Kaiserslautern	MSV Duisburg	0:0	2:0	02.01.1965	15:00	1964	1965	17
+Eintracht Braunschweig	Werder Bremen	1:0	1:1	02.01.1965	15:00	1964	1965	17
+Eintracht Frankfurt	TSV 1860 MÃ¼nchen	2:0	4:1	02.01.1965	15:00	1964	1965	17
+Hertha BSC	1. FC NÃ¼rnberg	0:1	1:2	09.01.1965	14:00	1964	1965	18
+Hannover 96	Hamburger SV	0:1	1:2	09.01.1965	14:15	1964	1965	18
+Borussia Neunkirchen	1. FC KÃ¶ln	1:1	1:1	09.01.1965	14:15	1964	1965	18
+VfB Stuttgart	Borussia Dortmund	2:2	3:2	09.01.1965	15:00	1964	1965	18
+Werder Bremen	Eintracht Frankfurt	1:0	2:2	09.01.1965	15:00	1964	1965	18
+FC Schalke 04	1. FC Kaiserslautern	0:0	1:0	09.01.1965	15:00	1964	1965	18
+MSV Duisburg	Eintracht Braunschweig	0:0	2:0	09.01.1965	15:00	1964	1965	18
+TSV 1860 MÃ¼nchen	Karlsruher SC	5:0	9:0	27.02.1965	15:00	1964	1965	18
+1. FC KÃ¶ln	VfB Stuttgart	1:0	2:1	23.01.1965	15:30	1964	1965	19
+1. FC NÃ¼rnberg	Hannover 96	0:0	1:0	23.01.1965	15:30	1964	1965	19
+Eintracht Frankfurt	MSV Duisburg	1:0	2:3	23.01.1965	15:30	1964	1965	19
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	1:1	1:2	23.01.1965	15:30	1964	1965	19
+Eintracht Braunschweig	FC Schalke 04	1:1	1:2	23.01.1965	15:30	1964	1965	19
+Karlsruher SC	Werder Bremen	0:1	0:2	23.01.1965	15:30	1964	1965	19
+Hamburger SV	Borussia Neunkirchen	0:2	1:2	23.01.1965	15:30	1964	1965	19
+Borussia Dortmund	Hertha BSC	4:1	6:3	23.01.1965	15:30	1964	1965	19
+FC Schalke 04	1. FC NÃ¼rnberg	1:1	1:3	30.01.1965	15:00	1964	1965	20
+MSV Duisburg	Hamburger SV	0:0	3:2	30.01.1965	15:00	1964	1965	20
+Werder Bremen	1. FC KÃ¶ln	0:0	0:0	30.01.1965	15:00	1964	1965	20
+Hertha BSC	VfB Stuttgart	0:0	0:0	30.01.1965	15:00	1964	1965	20
+TSV 1860 MÃ¼nchen	Borussia Dortmund	2:2	4:4	30.01.1965	15:00	1964	1965	20
+Borussia Neunkirchen	Eintracht Braunschweig	0:0	0:0	30.01.1965	15:00	1964	1965	20
+Karlsruher SC	Eintracht Frankfurt	1:1	3:1	30.01.1965	15:00	1964	1965	20
+Hannover 96	1. FC Kaiserslautern	2:0	4:0	14.04.1965	18:15	1964	1965	20
+1. FC NÃ¼rnberg	TSV 1860 MÃ¼nchen	1:1	2:2	13.02.1965	15:00	1964	1965	21
+Hamburger SV	Werder Bremen	0:2	0:4	13.02.1965	15:00	1964	1965	21
+1. FC KÃ¶ln	MSV Duisburg	0:0	1:2	13.02.1965	15:00	1964	1965	21
+Borussia Dortmund	FC Schalke 04	4:0	4:0	13.02.1965	15:00	1964	1965	21
+VfB Stuttgart	Karlsruher SC	0:1	1:2	13.02.1965	15:00	1964	1965	21
+Eintracht Frankfurt	Hertha BSC	1:0	3:0	13.02.1965	15:00	1964	1965	21
+Eintracht Braunschweig	Hannover 96	2:1	2:2	13.02.1965	15:00	1964	1965	21
+1. FC Kaiserslautern	Borussia Neunkirchen	1:0	2:0	27.02.1965	15:00	1964	1965	21
+TSV 1860 MÃ¼nchen	Hertha BSC	3:1	6:4	20.02.1965	15:00	1964	1965	22
+Eintracht Braunschweig	1. FC KÃ¶ln	1:1	1:1	20.02.1965	15:00	1964	1965	22
+1. FC Kaiserslautern	Borussia Dortmund	1:2	1:3	20.02.1965	15:00	1964	1965	22
+Karlsruher SC	1. FC NÃ¼rnberg	0:1	1:1	20.02.1965	15:00	1964	1965	22
+Werder Bremen	Hannover 96	1:0	3:0	20.02.1965	15:00	1964	1965	22
+Eintracht Frankfurt	Hamburger SV	0:1	2:1	20.02.1965	15:00	1964	1965	22
+FC Schalke 04	VfB Stuttgart	1:0	3:1	20.02.1965	15:00	1964	1965	22
+MSV Duisburg	Borussia Neunkirchen	0:0	1:1	20.02.1965	15:00	1964	1965	22
+Hannover 96	TSV 1860 MÃ¼nchen	0:0	0:2	06.03.1965	16:00	1964	1965	23
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	0:0	1:0	06.03.1965	16:00	1964	1965	23
+Hamburger SV	Karlsruher SC	1:1	2:1	06.03.1965	16:00	1964	1965	23
+Borussia Dortmund	Eintracht Braunschweig	1:1	5:4	06.03.1965	16:00	1964	1965	23
+Borussia Neunkirchen	Werder Bremen	0:0	1:1	06.03.1965	16:00	1964	1965	23
+1. FC KÃ¶ln	Eintracht Frankfurt	1:1	3:4	06.03.1965	16:00	1964	1965	23
+VfB Stuttgart	MSV Duisburg	2:0	4:2	12.03.1965	16:00	1964	1965	23
+Hertha BSC	FC Schalke 04	1:0	2:1	13.03.1965	16:00	1964	1965	23
+1. FC Kaiserslautern	Hamburger SV	1:1	2:1	20.03.1965	16:00	1964	1965	24
+MSV Duisburg	Hertha BSC	1:2	2:2	20.03.1965	16:00	1964	1965	24
+Eintracht Frankfurt	Borussia Dortmund	0:0	0:2	20.03.1965	16:00	1964	1965	24
+Eintracht Braunschweig	1. FC NÃ¼rnberg	0:0	1:0	20.03.1965	16:00	1964	1965	24
+Werder Bremen	VfB Stuttgart	0:0	1:0	20.03.1965	16:00	1964	1965	24
+TSV 1860 MÃ¼nchen	Borussia Neunkirchen	2:0	4:2	20.03.1965	16:00	1964	1965	24
+Karlsruher SC	1. FC KÃ¶ln	1:1	2:4	20.03.1965	16:00	1964	1965	24
+FC Schalke 04	Hannover 96	2:1	2:2	20.03.1965	16:00	1964	1965	24
+Hamburger SV	Eintracht Braunschweig	0:0	0:1	27.03.1965	16:00	1964	1965	25
+Borussia Dortmund	Karlsruher SC	2:1	5:1	27.03.1965	16:00	1964	1965	25
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:0	0:0	27.03.1965	16:00	1964	1965	25
+VfB Stuttgart	TSV 1860 MÃ¼nchen	2:0	3:0	27.03.1965	16:00	1964	1965	25
+Hannover 96	MSV Duisburg	2:0	2:0	27.03.1965	16:00	1964	1965	25
+1. FC KÃ¶ln	1. FC Kaiserslautern	0:0	3:0	27.03.1965	16:00	1964	1965	25
+Hertha BSC	Werder Bremen	0:0	0:0	27.03.1965	16:00	1964	1965	25
+Borussia Neunkirchen	FC Schalke 04	1:1	3:2	02.04.1965	16:00	1964	1965	25
+1. FC Kaiserslautern	Hertha BSC	1:0	1:2	03.04.1965	16:00	1964	1965	26
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	0:2	2:3	03.04.1965	16:00	1964	1965	26
+FC Schalke 04	Werder Bremen	1:0	1:0	03.04.1965	16:00	1964	1965	26
+Eintracht Braunschweig	VfB Stuttgart	1:1	2:1	03.04.1965	16:00	1964	1965	26
+Hamburger SV	1. FC NÃ¼rnberg	1:0	2:1	03.04.1965	16:00	1964	1965	26
+MSV Duisburg	Borussia Dortmund	2:0	3:2	03.04.1965	16:00	1964	1965	26
+Karlsruher SC	Borussia Neunkirchen	2:0	2:1	03.04.1965	16:00	1964	1965	26
+Eintracht Frankfurt	Hannover 96	1:1	3:3	03.04.1965	16:00	1964	1965	26
+1. FC KÃ¶ln	FC Schalke 04	1:0	2:1	10.04.1965	16:00	1964	1965	27
+Borussia Dortmund	Hamburger SV	1:0	2:0	10.04.1965	16:00	1964	1965	27
+1. FC NÃ¼rnberg	MSV Duisburg	1:1	1:1	10.04.1965	16:00	1964	1965	27
+Werder Bremen	TSV 1860 MÃ¼nchen	1:2	3:2	10.04.1965	16:00	1964	1965	27
+Hannover 96	Karlsruher SC	3:0	4:2	10.04.1965	16:00	1964	1965	27
+VfB Stuttgart	1. FC Kaiserslautern	0:0	1:0	10.04.1965	16:00	1964	1965	27
+Borussia Neunkirchen	Eintracht Frankfurt	2:0	4:0	10.04.1965	16:00	1964	1965	27
+Hertha BSC	Eintracht Braunschweig	0:0	0:3	10.04.1965	16:00	1964	1965	27
+Hamburger SV	1. FC KÃ¶ln	0:0	0:0	30.04.1965	20:00	1964	1965	28
+Borussia Dortmund	1. FC NÃ¼rnberg	1:0	2:1	30.04.1965	20:00	1964	1965	28
+TSV 1860 MÃ¼nchen	FC Schalke 04	1:0	3:1	30.04.1965	20:00	1964	1965	28
+Eintracht Frankfurt	VfB Stuttgart	1:2	2:3	30.04.1965	20:00	1964	1965	28
+Hannover 96	Borussia Neunkirchen	0:1	1:1	30.04.1965	20:00	1964	1965	28
+1. FC Kaiserslautern	Eintracht Braunschweig	0:0	2:1	30.04.1965	20:00	1964	1965	28
+Karlsruher SC	Hertha BSC	0:0	0:1	30.04.1965	20:00	1964	1965	28
+MSV Duisburg	Werder Bremen	0:1	2:2	30.04.1965	20:00	1964	1965	28
+TSV 1860 MÃ¼nchen	Hamburger SV	2:1	4:1	08.05.1965	16:00	1964	1965	29
+1. FC Kaiserslautern	Karlsruher SC	0:1	0:1	08.05.1965	16:00	1964	1965	29
+Werder Bremen	Borussia Dortmund	2:0	3:0	08.05.1965	16:00	1964	1965	29
+1. FC KÃ¶ln	1. FC NÃ¼rnberg	0:0	0:0	08.05.1965	16:00	1964	1965	29
+VfB Stuttgart	Hannover 96	0:2	0:3	08.05.1965	16:00	1964	1965	29
+Eintracht Braunschweig	Eintracht Frankfurt	1:1	3:2	08.05.1965	16:00	1964	1965	29
+Hertha BSC	Borussia Neunkirchen	0:1	1:1	08.05.1965	16:00	1964	1965	29
+FC Schalke 04	MSV Duisburg	0:1	1:2	08.05.1965	16:00	1964	1965	29
+Borussia Neunkirchen	VfB Stuttgart	2:0	3:1	15.05.1965	16:00	1964	1965	30
+1. FC NÃ¼rnberg	Werder Bremen	2:2	2:3	15.05.1965	16:00	1964	1965	30
+Eintracht Frankfurt	1. FC Kaiserslautern	1:1	1:2	15.05.1965	16:00	1964	1965	30
+Borussia Dortmund	1. FC KÃ¶ln	1:1	2:2	15.05.1965	16:00	1964	1965	30
+Hannover 96	Hertha BSC	1:1	3:1	15.05.1965	16:00	1964	1965	30
+Hamburger SV	FC Schalke 04	1:1	2:4	15.05.1965	16:00	1964	1965	30
+Karlsruher SC	Eintracht Braunschweig	0:0	3:0	15.05.1965	16:00	1964	1965	30
+MSV Duisburg	TSV 1860 MÃ¼nchen	1:0	3:0	15.05.1965	16:00	1964	1965	30

@@ -1,0 +1,380 @@
+CD Numancia	Real Betis	1:0	1:1	28.08.2004	20:00	2004	2005	1
+AtlÃ©tico Madrid	MÃ¡laga CF	1:0	2:0	28.08.2004	20:00	2004	2005	1
+Espanyol Barcelona	Deportivo La CoruÃ±a	1:0	1:1	28.08.2004	22:00	2004	2005	1
+CA Osasuna	Athletic Bilbao	1:1	1:1	29.08.2004	22:00	2004	2005	1
+RCD Mallorca	Real Madrid	0:0	0:1	29.08.2004	19:30	2004	2005	1
+Real Zaragoza	Getafe CF	1:1	3:1	29.08.2004	19:30	2004	2005	1
+Sevilla FC	Albacete	0:0	1:0	29.08.2004	19:30	2004	2005	1
+Real Sociedad	Levante UD	0:1	1:1	29.08.2004	19:30	2004	2005	1
+Racing Santander	FC Barcelona	0:0	0:2	29.08.2004	21:30	2004	2005	1
+Valencia CF	Villarreal CF	2:0	2:1	30.08.2004	21:30	2004	2005	1
+Athletic Bilbao	Valencia CF	2:0	2:2	11.09.2004	18:00	2004	2005	2
+Real Madrid	CD Numancia	1:0	1:0	11.09.2004	18:00	2004	2005	2
+FC Barcelona	Sevilla FC	1:0	2:0	11.09.2004	22:00	2004	2005	2
+Deportivo La CoruÃ±a	CA Osasuna	1:0	1:3	12.09.2004	22:00	2004	2005	2
+Real Betis	Espanyol Barcelona	0:2	1:4	12.09.2004	19:30	2004	2005	2
+Getafe CF	RCD Mallorca	0:1	1:2	12.09.2004	19:30	2004	2005	2
+MÃ¡laga CF	Real Zaragoza	0:0	0:0	12.09.2004	19:30	2004	2005	2
+Levante UD	Racing Santander	0:1	3:1	12.09.2004	19:30	2004	2005	2
+Villarreal CF	Real Sociedad	0:0	0:0	12.09.2004	19:30	2004	2005	2
+Albacete	AtlÃ©tico Madrid	0:0	0:2	12.09.2004	19:30	2004	2005	2
+CA Osasuna	Real Betis	0:1	3:2	18.09.2004	18:00	2004	2005	3
+Espanyol Barcelona	Real Madrid	1:0	1:0	18.09.2004	18:00	2004	2005	3
+Valencia CF	Real Sociedad	1:0	3:1	18.09.2004	22:00	2004	2005	3
+CD Numancia	Getafe CF	1:0	1:0	19.09.2004	22:00	2004	2005	3
+RCD Mallorca	MÃ¡laga CF	0:1	1:2	19.09.2004	17:30	2004	2005	3
+Real Zaragoza	Albacete	1:2	4:3	19.09.2004	17:30	2004	2005	3
+Sevilla FC	Levante UD	1:0	3:0	19.09.2004	17:30	2004	2005	3
+Racing Santander	Villarreal CF	0:0	1:1	19.09.2004	17:30	2004	2005	3
+AtlÃ©tico Madrid	FC Barcelona	0:1	1:1	19.09.2004	19:30	2004	2005	3
+Athletic Bilbao	Deportivo La CoruÃ±a	0:0	1:2	19.09.2004	19:30	2004	2005	3
+Real Madrid	CA Osasuna	0:0	1:0	21.09.2004	22:00	2004	2005	4
+Albacete	RCD Mallorca	0:0	0:0	22.09.2004	22:00	2004	2005	4
+Real Betis	Athletic Bilbao	1:1	2:1	22.09.2004	21:00	2004	2005	4
+Real Sociedad	Racing Santander	0:1	0:1	22.09.2004	21:00	2004	2005	4
+Getafe CF	Espanyol Barcelona	1:0	1:0	22.09.2004	21:00	2004	2005	4
+Levante UD	AtlÃ©tico Madrid	1:0	1:0	22.09.2004	21:00	2004	2005	4
+Villarreal CF	Sevilla FC	0:0	0:0	22.09.2004	21:00	2004	2005	4
+MÃ¡laga CF	CD Numancia	3:0	4:1	22.09.2004	21:00	2004	2005	4
+Deportivo La CoruÃ±a	Valencia CF	0:4	1:5	22.09.2004	21:30	2004	2005	4
+FC Barcelona	Real Zaragoza	1:1	4:1	23.09.2004	21:30	2004	2005	4
+AtlÃ©tico Madrid	Villarreal CF	1:0	1:0	25.09.2004	18:00	2004	2005	5
+Athletic Bilbao	Real Madrid	2:0	2:1	25.09.2004	18:00	2004	2005	5
+Deportivo La CoruÃ±a	Real Betis	0:0	1:1	25.09.2004	22:00	2004	2005	5
+Espanyol Barcelona	MÃ¡laga CF	0:0	1:0	26.09.2004	22:00	2004	2005	5
+Valencia CF	Racing Santander	2:0	2:0	26.09.2004	17:30	2004	2005	5
+Real Zaragoza	Levante UD	1:2	4:3	26.09.2004	17:30	2004	2005	5
+CA Osasuna	Getafe CF	2:1	2:1	26.09.2004	17:30	2004	2005	5
+CD Numancia	Albacete	0:0	0:0	26.09.2004	17:30	2004	2005	5
+RCD Mallorca	FC Barcelona	0:3	1:3	26.09.2004	19:30	2004	2005	5
+Sevilla FC	Real Sociedad	1:1	2:1	26.09.2004	19:30	2004	2005	5
+Real Betis	Valencia CF	1:1	1:1	02.10.2004	20:00	2004	2005	6
+Real Sociedad	AtlÃ©tico Madrid	1:0	1:0	02.10.2004	20:00	2004	2005	6
+Albacete	Espanyol Barcelona	0:0	1:0	03.10.2004	17:00	2004	2005	6
+Racing Santander	Sevilla FC	0:0	0:0	03.10.2004	17:00	2004	2005	6
+Getafe CF	Athletic Bilbao	1:0	3:1	03.10.2004	17:00	2004	2005	6
+Levante UD	RCD Mallorca	2:0	2:0	03.10.2004	17:00	2004	2005	6
+Villarreal CF	Real Zaragoza	1:0	2:0	03.10.2004	17:00	2004	2005	6
+MÃ¡laga CF	CA Osasuna	1:0	2:0	03.10.2004	17:00	2004	2005	6
+FC Barcelona	CD Numancia	0:0	1:0	03.10.2004	19:00	2004	2005	6
+Real Madrid	Deportivo La CoruÃ±a	0:1	0:1	03.10.2004	19:00	2004	2005	6
+Deportivo La CoruÃ±a	Getafe CF	1:0	2:1	16.10.2004	18:00	2004	2005	7
+Real Betis	Real Madrid	1:0	1:1	16.10.2004	18:00	2004	2005	7
+Espanyol Barcelona	FC Barcelona	0:1	0:1	16.10.2004	22:00	2004	2005	7
+Athletic Bilbao	MÃ¡laga CF	1:0	1:0	17.10.2004	22:00	2004	2005	7
+Real Zaragoza	Real Sociedad	1:1	2:1	17.10.2004	17:00	2004	2005	7
+RCD Mallorca	Villarreal CF	1:1	1:1	17.10.2004	17:00	2004	2005	7
+CD Numancia	Levante UD	0:1	1:3	17.10.2004	17:00	2004	2005	7
+AtlÃ©tico Madrid	Racing Santander	1:0	1:0	17.10.2004	17:00	2004	2005	7
+CA Osasuna	Albacete	2:1	3:2	17.10.2004	19:00	2004	2005	7
+Valencia CF	Sevilla FC	0:0	1:2	17.10.2004	19:00	2004	2005	7
+MÃ¡laga CF	Deportivo La CoruÃ±a	1:0	1:1	23.10.2004	20:00	2004	2005	8
+Real Madrid	Valencia CF	1:0	1:0	23.10.2004	20:00	2004	2005	8
+Albacete	Athletic Bilbao	1:0	1:0	24.10.2004	17:00	2004	2005	8
+Racing Santander	Real Zaragoza	1:0	1:0	24.10.2004	17:00	2004	2005	8
+Real Sociedad	RCD Mallorca	1:0	2:1	24.10.2004	17:00	2004	2005	8
+Getafe CF	Real Betis	0:0	0:2	24.10.2004	17:00	2004	2005	8
+Levante UD	Espanyol Barcelona	0:0	0:2	24.10.2004	17:00	2004	2005	8
+Villarreal CF	CD Numancia	1:0	4:0	24.10.2004	17:00	2004	2005	8
+Sevilla FC	AtlÃ©tico Madrid	1:0	2:1	24.10.2004	19:00	2004	2005	8
+FC Barcelona	CA Osasuna	2:0	3:0	24.10.2004	19:00	2004	2005	8
+Athletic Bilbao	FC Barcelona	1:1	1:1	30.10.2004	20:00	2004	2005	9
+Valencia CF	AtlÃ©tico Madrid	0:0	1:1	30.10.2004	20:00	2004	2005	9
+Deportivo La CoruÃ±a	Albacete	0:0	0:0	31.10.2004	17:00	2004	2005	9
+Espanyol Barcelona	Villarreal CF	0:0	0:0	31.10.2004	17:00	2004	2005	9
+Real Zaragoza	Sevilla FC	2:0	3:0	31.10.2004	17:00	2004	2005	9
+RCD Mallorca	Racing Santander	0:1	1:2	31.10.2004	17:00	2004	2005	9
+CA Osasuna	Levante UD	0:1	0:1	31.10.2004	17:00	2004	2005	9
+CD Numancia	Real Sociedad	0:0	0:2	31.10.2004	17:00	2004	2005	9
+Real Madrid	Getafe CF	1:0	2:0	31.10.2004	19:00	2004	2005	9
+Real Betis	MÃ¡laga CF	1:1	1:1	31.10.2004	19:00	2004	2005	9
+FC Barcelona	Deportivo La CoruÃ±a	2:1	2:1	06.11.2004	20:00	2004	2005	10
+Albacete	Real Betis	0:0	0:0	06.11.2004	20:00	2004	2005	10
+Racing Santander	CD Numancia	0:0	2:0	07.11.2004	17:00	2004	2005	10
+Real Sociedad	Espanyol Barcelona	0:0	0:2	07.11.2004	17:00	2004	2005	10
+Sevilla FC	RCD Mallorca	0:0	1:1	07.11.2004	17:00	2004	2005	10
+Getafe CF	Valencia CF	1:0	1:0	07.11.2004	17:00	2004	2005	10
+Levante UD	Athletic Bilbao	0:0	1:0	07.11.2004	17:00	2004	2005	10
+Villarreal CF	CA Osasuna	2:0	3:0	07.11.2004	17:00	2004	2005	10
+MÃ¡laga CF	Real Madrid	0:1	0:2	07.11.2004	19:00	2004	2005	10
+AtlÃ©tico Madrid	Real Zaragoza	0:1	1:1	07.11.2004	19:00	2004	2005	10
+Athletic Bilbao	Villarreal CF	0:0	2:1	13.11.2004	20:00	2004	2005	11
+Espanyol Barcelona	Racing Santander	1:0	2:1	13.11.2004	20:00	2004	2005	11
+Valencia CF	Real Zaragoza	0:0	0:0	13.11.2004	20:00	2004	2005	11
+Getafe CF	MÃ¡laga CF	0:0	1:0	13.11.2004	20:00	2004	2005	11
+CA Osasuna	Real Sociedad	0:0	1:0	13.11.2004	20:00	2004	2005	11
+CD Numancia	Sevilla FC	0:0	2:1	13.11.2004	20:00	2004	2005	11
+Deportivo La CoruÃ±a	Levante UD	0:0	1:0	13.11.2004	22:00	2004	2005	11
+RCD Mallorca	AtlÃ©tico Madrid	1:0	1:1	14.11.2004	22:00	2004	2005	11
+Real Madrid	Albacete	3:1	6:1	14.11.2004	19:00	2004	2005	11
+Real Betis	FC Barcelona	0:0	2:1	14.11.2004	19:00	2004	2005	11
+Villarreal CF	Deportivo La CoruÃ±a	0:1	0:2	20.11.2004	20:00	2004	2005	12
+MÃ¡laga CF	Valencia CF	0:1	0:2	20.11.2004	20:00	2004	2005	12
+FC Barcelona	Real Madrid	2:0	3:0	20.11.2004	22:00	2004	2005	12
+Albacete	Getafe CF	0:0	1:1	21.11.2004	22:00	2004	2005	12
+Racing Santander	CA Osasuna	0:1	1:1	21.11.2004	17:00	2004	2005	12
+Sevilla FC	Espanyol Barcelona	1:0	1:0	21.11.2004	17:00	2004	2005	12
+Real Zaragoza	RCD Mallorca	0:1	0:1	21.11.2004	17:00	2004	2005	12
+Levante UD	Real Betis	1:1	1:2	21.11.2004	17:00	2004	2005	12
+AtlÃ©tico Madrid	CD Numancia	0:0	2:0	21.11.2004	19:00	2004	2005	12
+Real Sociedad	Athletic Bilbao	0:2	3:2	21.11.2004	19:00	2004	2005	12
+Athletic Bilbao	Racing Santander	2:0	3:0	27.11.2004	18:00	2004	2005	13
+Getafe CF	FC Barcelona	0:2	1:2	27.11.2004	18:00	2004	2005	13
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	2:1	27.11.2004	22:00	2004	2005	13
+Real Betis	Villarreal CF	2:0	2:1	28.11.2004	22:00	2004	2005	13
+Deportivo La CoruÃ±a	Real Sociedad	2:1	2:2	28.11.2004	17:00	2004	2005	13
+CA Osasuna	Sevilla FC	1:1	4:1	28.11.2004	17:00	2004	2005	13
+CD Numancia	Real Zaragoza	2:1	2:1	28.11.2004	17:00	2004	2005	13
+MÃ¡laga CF	Albacete	0:1	0:2	28.11.2004	17:00	2004	2005	13
+Real Madrid	Levante UD	1:0	5:0	28.11.2004	19:00	2004	2005	13
+Valencia CF	RCD Mallorca	1:0	2:0	28.11.2004	19:00	2004	2005	13
+Albacete	Valencia CF	0:0	0:1	04.12.2004	18:00	2004	2005	14
+FC Barcelona	MÃ¡laga CF	2:0	4:0	04.12.2004	18:00	2004	2005	14
+Real Sociedad	Real Betis	1:0	1:0	04.12.2004	22:00	2004	2005	14
+Racing Santander	Deportivo La CoruÃ±a	1:0	2:2	05.12.2004	22:00	2004	2005	14
+Sevilla FC	Athletic Bilbao	0:0	2:0	05.12.2004	17:00	2004	2005	14
+Real Zaragoza	Espanyol Barcelona	0:1	0:1	05.12.2004	17:00	2004	2005	14
+Levante UD	Getafe CF	0:0	0:0	05.12.2004	17:00	2004	2005	14
+RCD Mallorca	CD Numancia	0:1	3:2	05.12.2004	17:00	2004	2005	14
+Villarreal CF	Real Madrid	0:0	0:0	05.12.2004	19:00	2004	2005	14
+AtlÃ©tico Madrid	CA Osasuna	2:1	3:2	05.12.2004	19:00	2004	2005	14
+Albacete	FC Barcelona	0:1	1:2	11.12.2004	20:00	2004	2005	15
+Athletic Bilbao	AtlÃ©tico Madrid	1:0	1:0	11.12.2004	20:00	2004	2005	15
+Real Betis	Racing Santander	1:0	2:1	12.12.2004	17:00	2004	2005	15
+Deportivo La CoruÃ±a	Sevilla FC	0:1	2:2	12.12.2004	17:00	2004	2005	15
+Valencia CF	CD Numancia	1:0	1:0	12.12.2004	17:00	2004	2005	15
+Getafe CF	Villarreal CF	0:1	1:2	12.12.2004	17:00	2004	2005	15
+CA Osasuna	Real Zaragoza	1:1	2:2	12.12.2004	17:00	2004	2005	15
+MÃ¡laga CF	Levante UD	0:0	1:0	12.12.2004	17:00	2004	2005	15
+Espanyol Barcelona	RCD Mallorca	2:0	2:1	12.12.2004	21:00	2004	2005	15
+Real Madrid	Real Sociedad	1:0	2:1	05.01.2005	21:00	2004	2005	15
+Levante UD	Albacete	1:1	1:1	18.12.2004	18:00	2004	2005	16
+Racing Santander	Real Madrid	1:1	2:3	18.12.2004	18:00	2004	2005	16
+FC Barcelona	Valencia CF	0:0	1:1	18.12.2004	22:00	2004	2005	16
+Real Sociedad	Getafe CF	0:0	1:1	19.12.2004	22:00	2004	2005	16
+Real Zaragoza	Athletic Bilbao	0:0	0:2	19.12.2004	17:00	2004	2005	16
+RCD Mallorca	CA Osasuna	0:2	1:2	19.12.2004	17:00	2004	2005	16
+Villarreal CF	MÃ¡laga CF	1:0	3:0	19.12.2004	17:00	2004	2005	16
+CD Numancia	Espanyol Barcelona	0:0	0:0	19.12.2004	17:00	2004	2005	16
+Sevilla FC	Real Betis	1:1	2:1	19.12.2004	19:00	2004	2005	16
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	1:0	19.12.2004	19:00	2004	2005	16
+FC Barcelona	Levante UD	1:0	2:1	21.12.2004	20:00	2004	2005	17
+Real Betis	AtlÃ©tico Madrid	1:0	1:0	21.12.2004	20:00	2004	2005	17
+Albacete	Villarreal CF	1:2	2:2	22.12.2004	20:00	2004	2005	17
+Athletic Bilbao	RCD Mallorca	2:0	4:0	22.12.2004	20:00	2004	2005	17
+Deportivo La CoruÃ±a	Real Zaragoza	0:1	2:3	22.12.2004	20:00	2004	2005	17
+Valencia CF	Espanyol Barcelona	1:0	3:0	22.12.2004	20:00	2004	2005	17
+Getafe CF	Racing Santander	2:0	2:0	22.12.2004	20:00	2004	2005	17
+CA Osasuna	CD Numancia	0:0	2:0	22.12.2004	20:00	2004	2005	17
+MÃ¡laga CF	Real Sociedad	1:1	1:5	22.12.2004	20:00	2004	2005	17
+Real Madrid	Sevilla FC	0:1	0:1	22.12.2004	20:00	2004	2005	17
+Sevilla FC	Getafe CF	0:0	0:0	08.01.2005	20:00	2004	2005	18
+CD Numancia	Athletic Bilbao	0:1	1:1	08.01.2005	20:00	2004	2005	18
+Valencia CF	Levante UD	0:0	2:1	08.01.2005	22:00	2004	2005	18
+Espanyol Barcelona	CA Osasuna	3:1	4:1	09.01.2005	22:00	2004	2005	18
+Racing Santander	MÃ¡laga CF	2:0	2:1	09.01.2005	17:00	2004	2005	18
+Real Sociedad	Albacete	0:1	0:2	09.01.2005	17:00	2004	2005	18
+Real Zaragoza	Real Betis	1:0	1:0	09.01.2005	17:00	2004	2005	18
+RCD Mallorca	Deportivo La CoruÃ±a	0:0	2:2	09.01.2005	17:00	2004	2005	18
+AtlÃ©tico Madrid	Real Madrid	0:1	0:3	09.01.2005	19:00	2004	2005	18
+Villarreal CF	FC Barcelona	1:0	3:0	09.01.2005	19:00	2004	2005	18
+Getafe CF	AtlÃ©tico Madrid	0:1	1:1	15.01.2005	20:00	2004	2005	19
+MÃ¡laga CF	Sevilla FC	0:0	1:0	15.01.2005	20:00	2004	2005	19
+Albacete	Racing Santander	0:0	0:0	16.01.2005	17:00	2004	2005	19
+Athletic Bilbao	Espanyol Barcelona	1:1	1:1	16.01.2005	17:00	2004	2005	19
+Real Betis	RCD Mallorca	1:0	2:0	16.01.2005	17:00	2004	2005	19
+Deportivo La CoruÃ±a	CD Numancia	0:0	1:1	16.01.2005	17:00	2004	2005	19
+Levante UD	Villarreal CF	0:2	2:4	16.01.2005	17:00	2004	2005	19
+CA Osasuna	Valencia CF	0:0	0:0	16.01.2005	17:00	2004	2005	19
+FC Barcelona	Real Sociedad	0:0	1:0	16.01.2005	19:00	2004	2005	19
+Real Madrid	Real Zaragoza	1:1	3:1	16.01.2005	19:00	2004	2005	19
+FC Barcelona	Racing Santander	1:0	3:0	22.01.2005	20:00	2004	2005	20
+Athletic Bilbao	CA Osasuna	0:1	4:3	22.01.2005	20:00	2004	2005	20
+Albacete	Sevilla FC	0:2	0:2	23.01.2005	17:00	2004	2005	20
+Real Betis	CD Numancia	3:0	4:0	23.01.2005	17:00	2004	2005	20
+Deportivo La CoruÃ±a	Espanyol Barcelona	2:1	4:1	23.01.2005	17:00	2004	2005	20
+Getafe CF	Real Zaragoza	3:0	3:0	23.01.2005	17:00	2004	2005	20
+Levante UD	Real Sociedad	1:0	2:1	23.01.2005	17:00	2004	2005	20
+Villarreal CF	Valencia CF	2:0	3:1	23.01.2005	17:00	2004	2005	20
+MÃ¡laga CF	AtlÃ©tico Madrid	0:0	1:0	23.01.2005	19:00	2004	2005	20
+Real Madrid	RCD Mallorca	1:1	3:1	23.01.2005	19:00	2004	2005	20
+AtlÃ©tico Madrid	Albacete	3:1	3:1	29.01.2005	20:00	2004	2005	21
+Sevilla FC	FC Barcelona	0:0	0:4	29.01.2005	20:00	2004	2005	21
+Espanyol Barcelona	Real Betis	1:0	2:2	30.01.2005	17:00	2004	2005	21
+Racing Santander	Levante UD	1:0	2:2	30.01.2005	17:00	2004	2005	21
+Real Sociedad	Villarreal CF	0:0	0:4	30.01.2005	17:00	2004	2005	21
+Real Zaragoza	MÃ¡laga CF	1:0	1:0	30.01.2005	17:00	2004	2005	21
+RCD Mallorca	Getafe CF	2:1	3:1	30.01.2005	17:00	2004	2005	21
+CA Osasuna	Deportivo La CoruÃ±a	0:0	1:1	30.01.2005	17:00	2004	2005	21
+CD Numancia	Real Madrid	0:0	1:2	30.01.2005	19:00	2004	2005	21
+Valencia CF	Athletic Bilbao	0:1	2:2	30.01.2005	19:00	2004	2005	21
+Real Sociedad	Valencia CF	1:1	3:3	05.02.2005	20:00	2004	2005	22
+Real Madrid	Espanyol Barcelona	2:0	4:0	05.02.2005	20:00	2004	2005	22
+Albacete	Real Zaragoza	0:1	2:1	06.02.2005	17:00	2004	2005	22
+Real Betis	CA Osasuna	2:1	3:1	06.02.2005	17:00	2004	2005	22
+Getafe CF	CD Numancia	1:0	1:0	06.02.2005	17:00	2004	2005	22
+Levante UD	Sevilla FC	0:1	0:3	06.02.2005	17:00	2004	2005	22
+Villarreal CF	Racing Santander	0:1	2:1	06.02.2005	17:00	2004	2005	22
+MÃ¡laga CF	RCD Mallorca	0:0	0:0	06.02.2005	17:00	2004	2005	22
+Deportivo La CoruÃ±a	Athletic Bilbao	0:0	1:1	06.02.2005	19:00	2004	2005	22
+FC Barcelona	AtlÃ©tico Madrid	0:1	0:2	06.02.2005	19:00	2004	2005	22
+Real Zaragoza	FC Barcelona	0:3	1:4	12.02.2005	20:00	2004	2005	23
+Valencia CF	Deportivo La CoruÃ±a	0:1	1:2	12.02.2005	20:00	2004	2005	23
+AtlÃ©tico Madrid	Levante UD	0:0	0:0	13.02.2005	17:00	2004	2005	23
+Espanyol Barcelona	Getafe CF	0:0	2:0	13.02.2005	17:00	2004	2005	23
+Racing Santander	Real Sociedad	0:3	1:3	13.02.2005	17:00	2004	2005	23
+Sevilla FC	Villarreal CF	1:0	2:1	13.02.2005	17:00	2004	2005	23
+RCD Mallorca	Albacete	0:1	2:1	13.02.2005	17:00	2004	2005	23
+CD Numancia	MÃ¡laga CF	0:1	0:1	13.02.2005	17:00	2004	2005	23
+CA Osasuna	Real Madrid	1:0	1:2	13.02.2005	19:00	2004	2005	23
+Athletic Bilbao	Real Betis	2:3	4:4	13.02.2005	19:00	2004	2005	23
+FC Barcelona	RCD Mallorca	1:0	2:0	19.02.2005	20:00	2004	2005	24
+Real Madrid	Athletic Bilbao	0:0	0:2	19.02.2005	20:00	2004	2005	24
+Real Sociedad	Sevilla FC	0:0	1:0	19.02.2005	22:00	2004	2005	24
+Albacete	CD Numancia	1:0	1:2	20.02.2005	22:00	2004	2005	24
+Real Betis	Deportivo La CoruÃ±a	1:0	2:0	20.02.2005	17:00	2004	2005	24
+Getafe CF	CA Osasuna	0:0	0:0	20.02.2005	17:00	2004	2005	24
+Levante UD	Real Zaragoza	0:0	0:0	20.02.2005	17:00	2004	2005	24
+MÃ¡laga CF	Espanyol Barcelona	2:0	3:2	20.02.2005	17:00	2004	2005	24
+Racing Santander	Valencia CF	0:0	1:0	20.02.2005	19:00	2004	2005	24
+Villarreal CF	AtlÃ©tico Madrid	0:2	3:2	20.02.2005	19:00	2004	2005	24
+Espanyol Barcelona	Albacete	2:0	2:1	26.02.2005	18:00	2004	2005	25
+RCD Mallorca	Levante UD	0:0	1:2	26.02.2005	18:00	2004	2005	25
+CD Numancia	FC Barcelona	1:0	1:1	26.02.2005	20:00	2004	2005	25
+Deportivo La CoruÃ±a	Real Madrid	2:0	2:0	26.02.2005	20:00	2004	2005	25
+Sevilla FC	Racing Santander	1:1	2:2	27.02.2005	17:00	2004	2005	25
+Real Zaragoza	Villarreal CF	1:0	1:0	27.02.2005	17:00	2004	2005	25
+CA Osasuna	MÃ¡laga CF	0:3	1:6	27.02.2005	17:00	2004	2005	25
+AtlÃ©tico Madrid	Real Sociedad	1:0	1:0	27.02.2005	17:00	2004	2005	25
+Valencia CF	Real Betis	1:1	2:1	27.02.2005	21:00	2004	2005	25
+Athletic Bilbao	Getafe CF	1:0	1:2	16.03.2005	21:00	2004	2005	25
+FC Barcelona	Espanyol Barcelona	0:0	0:0	01.03.2005	22:00	2004	2005	26
+Albacete	CA Osasuna	0:0	1:1	02.03.2005	22:00	2004	2005	26
+Racing Santander	AtlÃ©tico Madrid	1:1	2:1	02.03.2005	20:00	2004	2005	26
+Real Sociedad	Real Zaragoza	1:1	2:1	02.03.2005	20:00	2004	2005	26
+Sevilla FC	Valencia CF	1:1	2:2	02.03.2005	20:00	2004	2005	26
+Getafe CF	Deportivo La CoruÃ±a	0:1	1:1	02.03.2005	20:00	2004	2005	26
+Levante UD	CD Numancia	1:1	1:1	02.03.2005	20:00	2004	2005	26
+Villarreal CF	RCD Mallorca	0:1	2:1	02.03.2005	20:00	2004	2005	26
+MÃ¡laga CF	Athletic Bilbao	1:0	1:0	02.03.2005	20:00	2004	2005	26
+Real Madrid	Real Betis	2:0	3:1	02.03.2005	20:00	2004	2005	26
+CA Osasuna	FC Barcelona	0:1	0:1	05.03.2005	18:00	2004	2005	27
+Valencia CF	Real Madrid	1:1	1:1	05.03.2005	18:00	2004	2005	27
+AtlÃ©tico Madrid	Sevilla FC	3:0	3:0	05.03.2005	22:00	2004	2005	27
+Real Betis	Getafe CF	1:1	2:2	06.03.2005	22:00	2004	2005	27
+Espanyol Barcelona	Levante UD	1:1	2:1	06.03.2005	17:00	2004	2005	27
+Real Zaragoza	Racing Santander	0:0	1:0	06.03.2005	17:00	2004	2005	27
+RCD Mallorca	Real Sociedad	2:2	3:2	06.03.2005	17:00	2004	2005	27
+CD Numancia	Villarreal CF	0:1	1:1	06.03.2005	17:00	2004	2005	27
+Athletic Bilbao	Albacete	1:1	3:1	06.03.2005	19:00	2004	2005	27
+Deportivo La CoruÃ±a	MÃ¡laga CF	1:0	1:0	06.03.2005	19:00	2004	2005	27
+FC Barcelona	Athletic Bilbao	2:0	2:0	12.03.2005	20:00	2004	2005	28
+MÃ¡laga CF	Real Betis	1:2	1:2	12.03.2005	20:00	2004	2005	28
+Albacete	Deportivo La CoruÃ±a	0:1	0:1	13.03.2005	17:00	2004	2005	28
+Villarreal CF	Espanyol Barcelona	1:1	4:1	13.03.2005	17:00	2004	2005	28
+Sevilla FC	Real Zaragoza	0:1	0:1	13.03.2005	17:00	2004	2005	28
+Racing Santander	RCD Mallorca	2:0	3:0	13.03.2005	17:00	2004	2005	28
+Levante UD	CA Osasuna	3:0	4:0	13.03.2005	17:00	2004	2005	28
+Real Sociedad	CD Numancia	1:0	2:1	13.03.2005	17:00	2004	2005	28
+Getafe CF	Real Madrid	1:0	2:1	13.03.2005	19:00	2004	2005	28
+AtlÃ©tico Madrid	Valencia CF	1:0	1:0	13.03.2005	19:00	2004	2005	28
+Real Betis	Albacete	1:0	2:1	19.03.2005	18:00	2004	2005	29
+Espanyol Barcelona	Real Sociedad	1:1	2:2	19.03.2005	18:00	2004	2005	29
+Deportivo La CoruÃ±a	FC Barcelona	0:1	0:1	19.03.2005	21:30	2004	2005	29
+CD Numancia	Racing Santander	2:2	2:3	20.03.2005	21:30	2004	2005	29
+RCD Mallorca	Sevilla FC	0:0	0:1	20.03.2005	17:00	2004	2005	29
+Valencia CF	Getafe CF	2:0	3:1	20.03.2005	17:00	2004	2005	29
+Athletic Bilbao	Levante UD	1:0	3:1	20.03.2005	17:00	2004	2005	29
+Real Madrid	MÃ¡laga CF	0:0	1:0	20.03.2005	17:00	2004	2005	29
+Real Zaragoza	AtlÃ©tico Madrid	0:0	0:0	20.03.2005	21:00	2004	2005	29
+CA Osasuna	Villarreal CF	1:1	3:2	28.04.2005	21:00	2004	2005	29
+Real Sociedad	CA Osasuna	2:0	2:0	02.04.2005	18:00	2004	2005	30
+Real Zaragoza	Valencia CF	1:0	2:2	02.04.2005	18:00	2004	2005	30
+Villarreal CF	Athletic Bilbao	2:1	3:1	02.04.2005	22:00	2004	2005	30
+FC Barcelona	Real Betis	1:2	3:3	03.04.2005	22:00	2004	2005	30
+Levante UD	Deportivo La CoruÃ±a	0:1	0:1	03.04.2005	17:00	2004	2005	30
+Racing Santander	Espanyol Barcelona	1:2	1:3	03.04.2005	17:00	2004	2005	30
+MÃ¡laga CF	Getafe CF	1:1	1:1	03.04.2005	17:00	2004	2005	30
+Sevilla FC	CD Numancia	0:0	1:0	03.04.2005	17:00	2004	2005	30
+AtlÃ©tico Madrid	RCD Mallorca	1:0	4:0	03.04.2005	19:00	2004	2005	30
+Albacete	Real Madrid	1:2	1:2	03.04.2005	19:00	2004	2005	30
+CD Numancia	AtlÃ©tico Madrid	0:0	1:0	09.04.2005	20:00	2004	2005	31
+Athletic Bilbao	Real Sociedad	1:0	3:0	09.04.2005	20:00	2004	2005	31
+Getafe CF	Albacete	0:0	1:0	10.04.2005	17:00	2004	2005	31
+CA Osasuna	Racing Santander	0:0	1:0	10.04.2005	17:00	2004	2005	31
+Espanyol Barcelona	Sevilla FC	0:2	1:3	10.04.2005	17:00	2004	2005	31
+RCD Mallorca	Real Zaragoza	0:0	0:2	10.04.2005	17:00	2004	2005	31
+Real Betis	Levante UD	2:1	2:2	10.04.2005	17:00	2004	2005	31
+Valencia CF	MÃ¡laga CF	2:1	2:2	10.04.2005	17:00	2004	2005	31
+Real Madrid	FC Barcelona	3:1	4:2	10.04.2005	19:00	2004	2005	31
+Deportivo La CoruÃ±a	Villarreal CF	0:0	1:1	10.04.2005	19:00	2004	2005	31
+AtlÃ©tico Madrid	Espanyol Barcelona	0:0	0:0	16.04.2005	20:00	2004	2005	32
+Sevilla FC	CA Osasuna	0:1	0:1	16.04.2005	20:00	2004	2005	32
+Real Sociedad	Deportivo La CoruÃ±a	1:0	1:0	16.04.2005	22:00	2004	2005	32
+Racing Santander	Athletic Bilbao	0:0	0:2	17.04.2005	22:00	2004	2005	32
+Villarreal CF	Real Betis	0:0	0:0	17.04.2005	17:00	2004	2005	32
+RCD Mallorca	Valencia CF	0:0	0:0	17.04.2005	17:00	2004	2005	32
+Real Zaragoza	CD Numancia	0:0	4:1	17.04.2005	17:00	2004	2005	32
+Albacete	MÃ¡laga CF	0:0	1:2	17.04.2005	17:00	2004	2005	32
+Levante UD	Real Madrid	0:1	0:2	17.04.2005	19:00	2004	2005	32
+FC Barcelona	Getafe CF	1:0	2:0	17.04.2005	19:00	2004	2005	32
+CA Osasuna	AtlÃ©tico Madrid	1:0	1:0	23.04.2005	20:00	2004	2005	33
+Real Madrid	Villarreal CF	0:1	2:1	23.04.2005	20:00	2004	2005	33
+Valencia CF	Albacete	0:0	2:0	24.04.2005	17:00	2004	2005	33
+Deportivo La CoruÃ±a	Racing Santander	1:0	1:4	24.04.2005	17:00	2004	2005	33
+Real Betis	Real Sociedad	0:1	2:3	24.04.2005	17:00	2004	2005	33
+Espanyol Barcelona	Real Zaragoza	2:0	3:1	24.04.2005	17:00	2004	2005	33
+Getafe CF	Levante UD	1:0	1:0	24.04.2005	17:00	2004	2005	33
+CD Numancia	RCD Mallorca	0:0	1:2	24.04.2005	17:00	2004	2005	33
+MÃ¡laga CF	FC Barcelona	0:2	0:4	24.04.2005	19:00	2004	2005	33
+Athletic Bilbao	Sevilla FC	0:2	1:3	24.04.2005	19:00	2004	2005	33
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	1:1	30.04.2005	20:00	2004	2005	34
+CD Numancia	Valencia CF	0:0	1:1	30.04.2005	20:00	2004	2005	34
+Real Sociedad	Real Madrid	0:0	0:2	30.04.2005	22:00	2004	2005	34
+Racing Santander	Real Betis	0:0	1:1	01.05.2005	22:00	2004	2005	34
+RCD Mallorca	Espanyol Barcelona	0:1	3:2	01.05.2005	17:00	2004	2005	34
+Villarreal CF	Getafe CF	2:0	4:0	01.05.2005	17:00	2004	2005	34
+Real Zaragoza	CA Osasuna	2:0	5:1	01.05.2005	17:00	2004	2005	34
+Levante UD	MÃ¡laga CF	0:1	0:1	01.05.2005	17:00	2004	2005	34
+FC Barcelona	Albacete	0:0	2:0	01.05.2005	19:00	2004	2005	34
+Sevilla FC	Deportivo La CoruÃ±a	2:0	2:0	01.05.2005	19:00	2004	2005	34
+Athletic Bilbao	Real Zaragoza	0:0	2:0	07.05.2005	18:00	2004	2005	35
+CA Osasuna	RCD Mallorca	0:1	1:1	07.05.2005	18:00	2004	2005	35
+Real Madrid	Racing Santander	2:0	5:0	07.05.2005	20:00	2004	2005	35
+Real Betis	Sevilla FC	1:0	1:0	07.05.2005	20:00	2004	2005	35
+Getafe CF	Real Sociedad	2:0	2:0	08.05.2005	17:00	2004	2005	35
+Albacete	Levante UD	1:0	3:1	08.05.2005	17:00	2004	2005	35
+MÃ¡laga CF	Villarreal CF	0:0	0:2	08.05.2005	17:00	2004	2005	35
+Espanyol Barcelona	CD Numancia	0:0	3:0	08.05.2005	17:00	2004	2005	35
+Valencia CF	FC Barcelona	0:2	0:2	08.05.2005	19:00	2004	2005	35
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:0	2:0	08.05.2005	19:00	2004	2005	35
+Sevilla FC	Real Madrid	1:1	2:2	14.05.2005	20:00	2004	2005	36
+Levante UD	FC Barcelona	1:0	1:1	14.05.2005	20:00	2004	2005	36
+Villarreal CF	Albacete	0:0	1:0	15.05.2005	17:00	2004	2005	36
+RCD Mallorca	Athletic Bilbao	1:2	4:3	15.05.2005	17:00	2004	2005	36
+Real Zaragoza	Deportivo La CoruÃ±a	0:2	2:2	15.05.2005	17:00	2004	2005	36
+Racing Santander	Getafe CF	2:0	2:1	15.05.2005	17:00	2004	2005	36
+CD Numancia	CA Osasuna	1:2	2:2	15.05.2005	17:00	2004	2005	36
+Real Sociedad	MÃ¡laga CF	0:1	1:3	15.05.2005	17:00	2004	2005	36
+AtlÃ©tico Madrid	Real Betis	0:2	1:2	15.05.2005	19:00	2004	2005	36
+Espanyol Barcelona	Valencia CF	1:1	2:2	15.05.2005	19:00	2004	2005	36
+Real Betis	Real Zaragoza	0:1	3:2	21.05.2005	20:00	2004	2005	37
+Real Madrid	AtlÃ©tico Madrid	0:0	0:0	21.05.2005	20:00	2004	2005	37
+CA Osasuna	Espanyol Barcelona	1:1	1:1	22.05.2005	19:00	2004	2005	37
+Albacete	Real Sociedad	2:0	2:2	22.05.2005	19:00	2004	2005	37
+Getafe CF	Sevilla FC	0:0	0:0	22.05.2005	19:00	2004	2005	37
+Levante UD	Valencia CF	0:0	0:0	22.05.2005	19:00	2004	2005	37
+Deportivo La CoruÃ±a	RCD Mallorca	0:2	0:3	22.05.2005	19:00	2004	2005	37
+Athletic Bilbao	CD Numancia	0:1	0:2	22.05.2005	19:00	2004	2005	37
+MÃ¡laga CF	Racing Santander	1:0	2:0	22.05.2005	21:00	2004	2005	37
+FC Barcelona	Villarreal CF	2:2	3:3	22.05.2005	21:00	2004	2005	37
+Real Sociedad	FC Barcelona	0:0	0:0	28.05.2005	19:00	2004	2005	38
+Real Zaragoza	Real Madrid	1:1	1:3	28.05.2005	19:00	2004	2005	38
+Racing Santander	Albacete	1:0	1:0	29.05.2005	19:00	2004	2005	38
+Espanyol Barcelona	Athletic Bilbao	1:0	2:0	29.05.2005	19:00	2004	2005	38
+RCD Mallorca	Real Betis	0:1	1:1	29.05.2005	21:00	2004	2005	38
+CD Numancia	Deportivo La CoruÃ±a	0:0	1:1	29.05.2005	21:00	2004	2005	38
+AtlÃ©tico Madrid	Getafe CF	0:1	2:2	29.05.2005	21:00	2004	2005	38
+Villarreal CF	Levante UD	2:1	4:1	29.05.2005	21:00	2004	2005	38
+Valencia CF	CA Osasuna	0:0	1:0	29.05.2005	21:00	2004	2005	38
+Sevilla FC	MÃ¡laga CF	0:0	0:2	29.05.2005	21:00	2004	2005	38

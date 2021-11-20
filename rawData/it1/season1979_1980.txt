@@ -1,0 +1,240 @@
+US Avellino	Lazio Roma	0:0	0:0	16.09.1979	00:00	1979	1980	1
+Cagliari Calcio	Torino FC	0:0	0:0	16.09.1979	00:00	1979	1980	1
+ACF Fiorentina	Udinese Calcio	1:0	1:1	16.09.1979	00:00	1979	1980	1
+Inter	Pescara Calcio	1:0	2:0	16.09.1979	00:00	1979	1980	1
+Juventus	Bologna FC	0:0	1:1	16.09.1979	00:00	1979	1980	1
+AC Perugia	US Catanzaro	0:0	0:0	16.09.1979	00:00	1979	1980	1
+AS Roma	AC Milan	0:0	0:0	16.09.1979	00:00	1979	1980	1
+Ascoli Calcio	SSC Napoli	0:0	0:0	16.09.1979	00:00	1979	1980	1
+SSC Napoli	Cagliari Calcio	0:0	0:0	23.09.1979	00:00	1979	1980	2
+Udinese Calcio	Inter	0:1	1:1	23.09.1979	00:00	1979	1980	2
+Pescara Calcio	AS Roma	0:2	2:3	23.09.1979	00:00	1979	1980	2
+Bologna FC	AC Perugia	1:0	1:1	23.09.1979	00:00	1979	1980	2
+Lazio Roma	ACF Fiorentina	1:0	2:0	23.09.1979	00:00	1979	1980	2
+US Catanzaro	Juventus	0:0	0:1	23.09.1979	00:00	1979	1980	2
+AC Milan	US Avellino	1:0	1:0	23.09.1979	00:00	1979	1980	2
+Torino FC	Ascoli Calcio	1:0	1:0	23.09.1979	00:00	1979	1980	2
+Cagliari Calcio	AC Milan	0:0	0:0	30.09.1979	00:00	1979	1980	3
+AS Roma	Bologna FC	0:0	1:2	30.09.1979	00:00	1979	1980	3
+AC Perugia	Udinese Calcio	0:0	2:0	30.09.1979	00:00	1979	1980	3
+Juventus	Pescara Calcio	1:0	3:0	30.09.1979	00:00	1979	1980	3
+ACF Fiorentina	SSC Napoli	0:0	0:0	30.09.1979	00:00	1979	1980	3
+US Avellino	Torino FC	0:1	0:2	30.09.1979	00:00	1979	1980	3
+Ascoli Calcio	US Catanzaro	2:0	2:2	30.09.1979	00:00	1979	1980	3
+Inter	Lazio Roma	1:1	2:1	30.09.1979	00:00	1979	1980	3
+Pescara Calcio	Ascoli Calcio	0:0	0:0	07.10.1979	00:00	1979	1980	4
+SSC Napoli	AS Roma	2:0	3:0	07.10.1979	00:00	1979	1980	4
+Udinese Calcio	Cagliari Calcio	0:1	1:1	07.10.1979	00:00	1979	1980	4
+Bologna FC	Inter	1:2	1:2	07.10.1979	00:00	1979	1980	4
+Lazio Roma	AC Perugia	0:1	1:1	07.10.1979	00:00	1979	1980	4
+AC Milan	Juventus	2:0	2:1	07.10.1979	00:00	1979	1980	4
+US Catanzaro	US Avellino	0:0	0:0	07.10.1979	00:00	1979	1980	4
+Torino FC	ACF Fiorentina	1:0	1:1	07.10.1979	00:00	1979	1980	4
+Cagliari Calcio	US Catanzaro	0:0	1:0	14.10.1979	00:00	1979	1980	5
+AS Roma	Torino FC	1:1	1:1	14.10.1979	00:00	1979	1980	5
+AC Perugia	AC Milan	1:1	1:1	14.10.1979	00:00	1979	1980	5
+Juventus	Udinese Calcio	1:1	1:1	14.10.1979	00:00	1979	1980	5
+ACF Fiorentina	Pescara Calcio	2:0	2:0	14.10.1979	00:00	1979	1980	5
+US Avellino	Bologna FC	0:0	1:0	14.10.1979	00:00	1979	1980	5
+Ascoli Calcio	Lazio Roma	1:0	1:1	14.10.1979	00:00	1979	1980	5
+Inter	SSC Napoli	0:0	1:0	14.10.1979	00:00	1979	1980	5
+Lazio Roma	Cagliari Calcio	1:0	1:1	21.10.1979	00:00	1979	1980	6
+Torino FC	Juventus	1:1	1:2	21.10.1979	00:00	1979	1980	6
+Pescara Calcio	US Avellino	1:0	1:1	21.10.1979	00:00	1979	1980	6
+Udinese Calcio	AS Roma	0:0	0:0	21.10.1979	00:00	1979	1980	6
+AC Milan	Ascoli Calcio	2:0	3:0	21.10.1979	00:00	1979	1980	6
+US Catanzaro	Inter	0:0	0:0	21.10.1979	00:00	1979	1980	6
+Bologna FC	ACF Fiorentina	1:0	2:1	21.10.1979	00:00	1979	1980	6
+SSC Napoli	AC Perugia	0:0	1:1	21.10.1979	00:00	1979	1980	6
+Ascoli Calcio	Bologna FC	0:0	2:0	28.10.1979	00:00	1979	1980	7
+US Avellino	Udinese Calcio	0:0	0:0	28.10.1979	00:00	1979	1980	7
+Cagliari Calcio	Pescara Calcio	1:0	1:0	28.10.1979	00:00	1979	1980	7
+ACF Fiorentina	US Catanzaro	2:0	3:0	28.10.1979	00:00	1979	1980	7
+Inter	AC Milan	1:0	2:0	28.10.1979	00:00	1979	1980	7
+Juventus	SSC Napoli	1:0	1:0	28.10.1979	00:00	1979	1980	7
+AC Perugia	Torino FC	0:0	0:2	28.10.1979	00:00	1979	1980	7
+AS Roma	Lazio Roma	1:1	1:1	28.10.1979	00:00	1979	1980	7
+SSC Napoli	US Avellino	0:0	0:1	04.11.1979	00:00	1979	1980	8
+Pescara Calcio	AC Perugia	1:1	1:1	04.11.1979	00:00	1979	1980	8
+Torino FC	Inter	0:0	0:0	04.11.1979	00:00	1979	1980	8
+Lazio Roma	Juventus	1:0	1:0	04.11.1979	00:00	1979	1980	8
+Bologna FC	Cagliari Calcio	0:1	0:1	04.11.1979	00:00	1979	1980	8
+US Catanzaro	AS Roma	2:0	2:2	04.11.1979	00:00	1979	1980	8
+AC Milan	ACF Fiorentina	2:0	2:0	04.11.1979	00:00	1979	1980	8
+Udinese Calcio	Ascoli Calcio	3:0	3:1	04.11.1979	00:00	1979	1980	8
+Cagliari Calcio	US Avellino	1:1	1:1	11.10.1979	00:00	1979	1980	9
+Torino FC	AC Milan	0:0	0:1	11.10.1979	00:00	1979	1980	9
+AC Perugia	AS Roma	2:1	3:1	11.10.1979	00:00	1979	1980	9
+SSC Napoli	Udinese Calcio	1:0	1:0	11.10.1979	00:00	1979	1980	9
+Inter	Juventus	0:0	4:0	11.10.1979	00:00	1979	1980	9
+Bologna FC	US Catanzaro	3:1	4:1	11.10.1979	00:00	1979	1980	9
+Ascoli Calcio	ACF Fiorentina	0:0	1:0	11.10.1979	00:00	1979	1980	9
+Lazio Roma	Pescara Calcio	1:0	2:0	11.10.1979	00:00	1979	1980	9
+ACF Fiorentina	AC Perugia	0:0	0:0	25.11.1979	00:00	1979	1980	10
+Udinese Calcio	Torino FC	0:1	0:1	25.11.1979	00:00	1979	1980	10
+AS Roma	Ascoli Calcio	0:0	1:0	25.11.1979	00:00	1979	1980	10
+Pescara Calcio	Bologna FC	0:0	0:0	25.11.1979	00:00	1979	1980	10
+US Catanzaro	Lazio Roma	1:0	2:1	25.11.1979	00:00	1979	1980	10
+US Avellino	Inter	0:0	0:0	25.11.1979	00:00	1979	1980	10
+AC Milan	SSC Napoli	0:0	1:2	25.11.1979	00:00	1979	1980	10
+Juventus	Cagliari Calcio	0:0	1:0	25.11.1979	00:00	1979	1980	10
+AC Milan	Udinese Calcio	0:0	0:0	02.12.1979	00:00	1979	1980	11
+Torino FC	US Catanzaro	0:0	0:0	02.12.1979	00:00	1979	1980	11
+AS Roma	ACF Fiorentina	1:1	2:1	02.12.1979	00:00	1979	1980	11
+AC Perugia	Ascoli Calcio	0:0	0:0	02.12.1979	00:00	1979	1980	11
+Cagliari Calcio	Inter	0:0	1:1	02.12.1979	00:00	1979	1980	11
+Bologna FC	Lazio Roma	0:0	1:0	02.12.1979	00:00	1979	1980	11
+US Avellino	Juventus	1:0	1:0	02.12.1979	00:00	1979	1980	11
+Pescara Calcio	SSC Napoli	0:0	1:0	02.12.1979	00:00	1979	1980	11
+Cagliari Calcio	ACF Fiorentina	0:0	2:1	09.12.1979	00:00	1979	1980	12
+Lazio Roma	Udinese Calcio	0:0	0:0	09.12.1979	00:00	1979	1980	12
+Juventus	AS Roma	2:0	2:0	09.12.1979	00:00	1979	1980	12
+SSC Napoli	Torino FC	1:0	1:0	09.12.1979	00:00	1979	1980	12
+Bologna FC	AC Milan	0:0	0:1	09.12.1979	00:00	1979	1980	12
+Ascoli Calcio	US Avellino	0:0	0:0	09.12.1979	00:00	1979	1980	12
+Inter	AC Perugia	1:1	3:2	09.12.1979	00:00	1979	1980	12
+US Catanzaro	Pescara Calcio	1:0	1:1	09.12.1979	00:00	1979	1980	12
+SSC Napoli	Lazio Roma	0:0	0:0	16.12.1979	00:00	1979	1980	13
+Udinese Calcio	Bologna FC	0:0	0:2	16.12.1979	00:00	1979	1980	13
+Torino FC	Pescara Calcio	0:0	2:0	16.12.1979	00:00	1979	1980	13
+AC Perugia	Juventus	1:0	1:0	16.12.1979	00:00	1979	1980	13
+AC Milan	US Catanzaro	0:0	0:0	16.12.1979	00:00	1979	1980	13
+ACF Fiorentina	US Avellino	1:0	3:0	16.12.1979	00:00	1979	1980	13
+Ascoli Calcio	Cagliari Calcio	0:0	1:0	16.12.1979	00:00	1979	1980	13
+AS Roma	Inter	0:0	1:0	16.12.1979	00:00	1979	1980	13
+US Catanzaro	Udinese Calcio	1:0	1:1	30.12.1979	00:00	1979	1980	14
+Lazio Roma	Torino FC	0:1	2:1	30.12.1979	00:00	1979	1980	14
+Pescara Calcio	AC Milan	1:1	2:1	30.12.1979	00:00	1979	1980	14
+Inter	ACF Fiorentina	0:0	0:0	30.12.1979	00:00	1979	1980	14
+Bologna FC	SSC Napoli	0:0	0:0	30.12.1979	00:00	1979	1980	14
+US Avellino	AC Perugia	1:1	2:2	30.12.1979	00:00	1979	1980	14
+Juventus	Ascoli Calcio	1:2	2:3	30.12.1979	00:00	1979	1980	14
+Cagliari Calcio	AS Roma	1:2	1:3	30.12.1979	00:00	1979	1980	14
+SSC Napoli	US Catanzaro	1:0	1:1	06.01.1980	00:00	1979	1980	15
+Udinese Calcio	Pescara Calcio	2:1	2:1	06.01.1980	00:00	1979	1980	15
+Torino FC	Bologna FC	0:0	0:0	06.01.1980	00:00	1979	1980	15
+AC Perugia	Cagliari Calcio	1:0	1:0	06.01.1980	00:00	1979	1980	15
+AC Milan	Lazio Roma	2:0	2:1	06.01.1980	00:00	1979	1980	15
+ACF Fiorentina	Juventus	2:1	2:1	06.01.1980	00:00	1979	1980	15
+Ascoli Calcio	Inter	0:1	1:1	06.01.1980	00:00	1979	1980	15
+AS Roma	US Avellino	0:0	1:1	06.01.1980	00:00	1979	1980	15
+Pescara Calcio	Inter	0:1	0:2	13.01.1980	00:00	1979	1980	16
+US Catanzaro	AC Perugia	0:0	2:1	13.01.1980	00:00	1979	1980	16
+Udinese Calcio	ACF Fiorentina	1:1	2:2	13.01.1980	00:00	1979	1980	16
+Torino FC	Cagliari Calcio	0:0	0:0	13.01.1980	00:00	1979	1980	16
+Bologna FC	Juventus	0:0	1:1	13.01.1980	00:00	1979	1980	16
+Lazio Roma	US Avellino	0:1	1:1	13.01.1980	00:00	1979	1980	16
+AC Milan	AS Roma	0:0	0:0	13.01.1980	00:00	1979	1980	16
+SSC Napoli	Ascoli Calcio	0:0	1:0	13.01.1980	00:00	1979	1980	16
+ACF Fiorentina	Lazio Roma	0:0	0:0	20.01.1980	00:00	1979	1980	17
+AS Roma	Pescara Calcio	0:0	2:0	20.01.1980	00:00	1979	1980	17
+AC Perugia	Bologna FC	0:1	1:1	20.01.1980	00:00	1979	1980	17
+Inter	Udinese Calcio	1:1	2:1	20.01.1980	00:00	1979	1980	17
+Cagliari Calcio	SSC Napoli	0:0	1:0	20.01.1980	00:00	1979	1980	17
+US Avellino	AC Milan	0:0	1:0	20.01.1980	00:00	1979	1980	17
+Ascoli Calcio	Torino FC	1:0	1:0	20.01.1980	00:00	1979	1980	17
+Juventus	US Catanzaro	1:0	1:0	20.01.1980	00:00	1979	1980	17
+AC Milan	Cagliari Calcio	1:0	2:0	27.01.1980	00:00	1979	1980	18
+SSC Napoli	ACF Fiorentina	0:0	0:0	27.01.1980	00:00	1979	1980	18
+Udinese Calcio	AC Perugia	0:1	1:2	27.01.1980	00:00	1979	1980	18
+Torino FC	US Avellino	1:0	2:2	27.01.1980	00:00	1979	1980	18
+Bologna FC	AS Roma	0:1	1:1	27.01.1980	00:00	1979	1980	18
+Lazio Roma	Inter	0:0	0:0	27.01.1980	00:00	1979	1980	18
+US Catanzaro	Ascoli Calcio	0:0	1:1	27.01.1980	00:00	1979	1980	18
+Pescara Calcio	Juventus	0:1	0:2	27.01.1980	00:00	1979	1980	18
+ACF Fiorentina	Torino FC	1:0	1:0	03.02.1980	00:00	1979	1980	19
+AS Roma	SSC Napoli	0:0	0:0	03.02.1980	00:00	1979	1980	19
+AC Perugia	Lazio Roma	0:0	0:0	03.02.1980	00:00	1979	1980	19
+Inter	Bologna FC	0:0	0:0	03.02.1980	00:00	1979	1980	19
+Cagliari Calcio	Udinese Calcio	1:0	3:1	03.02.1980	00:00	1979	1980	19
+US Avellino	US Catanzaro	0:0	2:0	03.02.1980	00:00	1979	1980	19
+Ascoli Calcio	Pescara Calcio	0:0	3:1	03.02.1980	00:00	1979	1980	19
+Juventus	AC Milan	0:1	2:1	03.02.1980	00:00	1979	1980	19
+AC Milan	AC Perugia	0:0	1:0	10.02.1980	00:00	1979	1980	20
+SSC Napoli	Inter	2:2	3:4	10.02.1980	00:00	1979	1980	20
+Udinese Calcio	Juventus	0:1	1:3	10.02.1980	00:00	1979	1980	20
+Torino FC	AS Roma	1:0	1:0	10.02.1980	00:00	1979	1980	20
+Bologna FC	US Avellino	0:0	1:0	10.02.1980	00:00	1979	1980	20
+Lazio Roma	Ascoli Calcio	0:1	0:1	10.02.1980	00:00	1979	1980	20
+US Catanzaro	Cagliari Calcio	1:0	1:0	10.02.1980	00:00	1979	1980	20
+Pescara Calcio	ACF Fiorentina	0:0	1:2	10.02.1980	00:00	1979	1980	20
+ACF Fiorentina	Bologna FC	0:0	0:0	24.02.1980	00:00	1979	1980	21
+AS Roma	Udinese Calcio	1:1	1:1	24.02.1980	00:00	1979	1980	21
+AC Perugia	SSC Napoli	0:0	1:0	24.02.1980	00:00	1979	1980	21
+Inter	US Catanzaro	2:0	3:1	24.02.1980	00:00	1979	1980	21
+Cagliari Calcio	Lazio Roma	1:0	1:1	24.02.1980	00:00	1979	1980	21
+US Avellino	Pescara Calcio	1:0	2:0	24.02.1980	00:00	1979	1980	21
+Ascoli Calcio	AC Milan	0:0	0:0	24.02.1980	00:00	1979	1980	21
+Juventus	Torino FC	0:0	0:0	24.02.1980	00:00	1979	1980	21
+AC Milan	Inter	0:0	0:1	02.03.1980	00:00	1979	1980	22
+SSC Napoli	Juventus	0:0	0:0	02.03.1980	00:00	1979	1980	22
+Udinese Calcio	US Avellino	0:0	0:1	02.03.1980	00:00	1979	1980	22
+Torino FC	AC Perugia	0:0	2:0	02.03.1980	00:00	1979	1980	22
+Lazio Roma	AS Roma	0:0	1:2	02.03.1980	00:00	1979	1980	22
+US Catanzaro	ACF Fiorentina	0:1	0:1	02.03.1980	00:00	1979	1980	22
+Bologna FC	Ascoli Calcio	0:0	0:0	02.03.1980	00:00	1979	1980	22
+Pescara Calcio	Cagliari Calcio	0:0	2:0	02.03.1980	00:00	1979	1980	22
+ACF Fiorentina	AC Milan	1:0	1:1	09.03.1980	00:00	1979	1980	23
+AC Perugia	Pescara Calcio	0:0	1:0	09.03.1980	00:00	1979	1980	23
+Inter	Torino FC	0:1	1:1	09.03.1980	00:00	1979	1980	23
+AS Roma	US Catanzaro	0:0	1:0	09.03.1980	00:00	1979	1980	23
+Cagliari Calcio	Bologna FC	0:0	1:0	09.03.1980	00:00	1979	1980	23
+US Avellino	SSC Napoli	1:2	2:3	09.03.1980	00:00	1979	1980	23
+Ascoli Calcio	Udinese Calcio	0:0	3:0	09.03.1980	00:00	1979	1980	23
+Juventus	Lazio Roma	0:0	0:0	09.03.1980	00:00	1979	1980	23
+AC Milan	Torino FC	0:1	0:2	23.03.1980	00:00	1979	1980	24
+AS Roma	AC Perugia	1:0	4:0	23.03.1980	00:00	1979	1980	24
+Udinese Calcio	SSC Napoli	0:0	0:0	23.03.1980	00:00	1979	1980	24
+Pescara Calcio	Lazio Roma	0:0	2:0	23.03.1980	00:00	1979	1980	24
+ACF Fiorentina	Ascoli Calcio	0:1	3:1	23.03.1980	00:00	1979	1980	24
+US Avellino	Cagliari Calcio	1:1	2:2	23.03.1980	00:00	1979	1980	24
+US Catanzaro	Bologna FC	0:0	0:0	23.03.1980	00:00	1979	1980	24
+Juventus	Inter	1:0	2:0	23.03.1980	00:00	1979	1980	24
+Inter	US Avellino	1:0	3:0	30.03.1980	00:00	1979	1980	25
+Torino FC	Udinese Calcio	0:1	1:1	30.03.1980	00:00	1979	1980	25
+AC Perugia	ACF Fiorentina	1:1	1:2	30.03.1980	00:00	1979	1980	25
+Lazio Roma	US Catanzaro	0:0	2:0	30.03.1980	00:00	1979	1980	25
+Cagliari Calcio	Juventus	0:1	2:1	30.03.1980	00:00	1979	1980	25
+Bologna FC	Pescara Calcio	0:0	0:0	30.03.1980	00:00	1979	1980	25
+Ascoli Calcio	AS Roma	0:0	3:0	30.03.1980	00:00	1979	1980	25
+SSC Napoli	AC Milan	0:0	0:1	30.03.1980	00:00	1979	1980	25
+Inter	Cagliari Calcio	1:2	3:3	05.04.1980	00:00	1979	1980	26
+Juventus	US Avellino	0:0	2:0	05.04.1980	00:00	1979	1980	26
+Udinese Calcio	AC Milan	0:1	2:1	05.04.1980	00:00	1979	1980	26
+SSC Napoli	Pescara Calcio	0:0	2:0	05.04.1980	00:00	1979	1980	26
+Ascoli Calcio	AC Perugia	1:0	1:0	05.04.1980	00:00	1979	1980	26
+ACF Fiorentina	AS Roma	3:0	3:1	05.04.1980	00:00	1979	1980	26
+US Catanzaro	Torino FC	0:0	0:0	05.04.1980	00:00	1979	1980	26
+Lazio Roma	Bologna FC	0:0	0:1	05.04.1980	00:00	1979	1980	26
+AC Perugia	Inter	0:0	0:0	13.04.1980	00:00	1979	1980	27
+Torino FC	SSC Napoli	0:0	0:0	13.04.1980	00:00	1979	1980	27
+Pescara Calcio	US Catanzaro	0:0	1:1	13.04.1980	00:00	1979	1980	27
+Udinese Calcio	Lazio Roma	1:0	1:1	13.04.1980	00:00	1979	1980	27
+AC Milan	Bologna FC	2:0	4:0	13.04.1980	00:00	1979	1980	27
+ACF Fiorentina	Cagliari Calcio	0:0	1:1	13.04.1980	00:00	1979	1980	27
+US Avellino	Ascoli Calcio	2:0	2:2	13.04.1980	00:00	1979	1980	27
+AS Roma	Juventus	1:2	1:3	13.04.1980	00:00	1979	1980	27
+Inter	AS Roma	1:2	2:2	27.04.1980	00:00	1979	1980	28
+Lazio Roma	SSC Napoli	1:1	1:1	27.04.1980	00:00	1979	1980	28
+Pescara Calcio	Torino FC	0:1	0:2	27.04.1980	00:00	1979	1980	28
+Juventus	AC Perugia	0:0	3:0	27.04.1980	00:00	1979	1980	28
+Cagliari Calcio	Ascoli Calcio	1:0	1:1	27.04.1980	00:00	1979	1980	28
+US Avellino	ACF Fiorentina	0:2	0:2	27.04.1980	00:00	1979	1980	28
+US Catanzaro	AC Milan	0:2	0:3	27.04.1980	00:00	1979	1980	28
+Bologna FC	Udinese Calcio	1:0	2:1	27.04.1980	00:00	1979	1980	28
+Udinese Calcio	US Catanzaro	1:1	1:2	04.05.1980	00:00	1979	1980	29
+Ascoli Calcio	Juventus	0:0	2:3	04.05.1980	00:00	1979	1980	29
+ACF Fiorentina	Inter	0:2	0:2	04.05.1980	00:00	1979	1980	29
+AC Milan	Pescara Calcio	1:0	3:1	04.05.1980	00:00	1979	1980	29
+SSC Napoli	Bologna FC	0:1	1:1	04.05.1980	00:00	1979	1980	29
+AC Perugia	US Avellino	2:0	2:1	04.05.1980	00:00	1979	1980	29
+AS Roma	Cagliari Calcio	0:1	1:1	04.05.1980	00:00	1979	1980	29
+Torino FC	Lazio Roma	0:0	1:0	04.05.1980	00:00	1979	1980	29
+Lazio Roma	AC Milan	0:1	0:2	11.05.1980	00:00	1979	1980	30
+Juventus	ACF Fiorentina	1:0	3:0	11.05.1980	00:00	1979	1980	30
+Inter	Ascoli Calcio	0:2	2:4	11.05.1980	00:00	1979	1980	30
+US Catanzaro	SSC Napoli	1:0	2:0	11.05.1980	00:00	1979	1980	30
+Cagliari Calcio	AC Perugia	0:0	1:2	11.05.1980	00:00	1979	1980	30
+US Avellino	AS Roma	0:0	0:1	11.05.1980	00:00	1979	1980	30
+Pescara Calcio	Udinese Calcio	0:1	1:1	11.05.1980	00:00	1979	1980	30
+Bologna FC	Torino FC	1:1	1:2	11.05.1980	00:00	1979	1980	30

@@ -1,0 +1,306 @@
+Alemannia Aachen	TSV 1860 MÃ¼nchen	0:0	0:0	16.08.1969	15:30	1969	1970	1
+FC Schalke 04	Bor. MÃ¶nchengladbach	1:0	2:0	16.08.1969	15:30	1969	1970	1
+Hertha BSC	MSV Duisburg	1:0	1:0	16.08.1969	15:30	1969	1970	1
+Rot-WeiÃ Oberhausen	Eintracht Frankfurt	1:1	3:1	16.08.1969	15:30	1969	1970	1
+VfB Stuttgart	Werder Bremen	0:0	1:1	16.08.1969	15:30	1969	1970	1
+Hamburger SV	1. FC Kaiserslautern	0:0	2:1	16.08.1969	15:30	1969	1970	1
+1. FC KÃ¶ln	Eintracht Braunschweig	0:0	3:2	16.08.1969	15:30	1969	1970	1
+Hannover 96	Borussia Dortmund	1:0	4:2	16.08.1969	15:30	1969	1970	1
+Bayern MÃ¼nchen	Rot-Weiss Essen	2:0	4:0	16.08.1969	15:30	1969	1970	1
+Eintracht Frankfurt	FC Schalke 04	0:1	2:1	22.08.1969	20:00	1969	1970	2
+Rot-Weiss Essen	Alemannia Aachen	2:0	2:0	23.08.1969	15:30	1969	1970	2
+TSV 1860 MÃ¼nchen	Hertha BSC	1:0	2:0	23.08.1969	15:30	1969	1970	2
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:1	2:1	23.08.1969	15:30	1969	1970	2
+1. FC Kaiserslautern	Rot-WeiÃ Oberhausen	0:0	0:0	23.08.1969	15:30	1969	1970	2
+MSV Duisburg	VfB Stuttgart	1:1	1:1	23.08.1969	15:30	1969	1970	2
+Eintracht Braunschweig	Hannover 96	0:1	1:1	23.08.1969	15:30	1969	1970	2
+Borussia Dortmund	Hamburger SV	1:0	2:1	23.08.1969	15:30	1969	1970	2
+Werder Bremen	1. FC KÃ¶ln	1:1	2:1	23.08.1969	15:30	1969	1970	2
+Bayern MÃ¼nchen	Eintracht Frankfurt	1:1	2:1	27.08.1969	20:00	1969	1970	3
+1. FC KÃ¶ln	MSV Duisburg	4:0	6:2	29.08.1969	20:00	1969	1970	3
+VfB Stuttgart	TSV 1860 MÃ¼nchen	1:0	3:1	30.08.1969	15:30	1969	1970	3
+Rot-WeiÃ Oberhausen	Borussia Dortmund	0:0	2:1	30.08.1969	15:30	1969	1970	3
+Hannover 96	Werder Bremen	0:1	3:2	30.08.1969	15:30	1969	1970	3
+Hamburger SV	Eintracht Braunschweig	0:1	3:3	30.08.1969	15:30	1969	1970	3
+Bor. MÃ¶nchengladbach	Rot-Weiss Essen	0:1	2:1	30.08.1969	15:30	1969	1970	3
+FC Schalke 04	1. FC Kaiserslautern	1:1	4:2	30.08.1969	15:30	1969	1970	3
+Hertha BSC	Alemannia Aachen	1:0	2:1	30.08.1969	15:30	1969	1970	3
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	0:2	1:2	05.09.1969	20:00	1969	1970	4
+MSV Duisburg	Hannover 96	0:0	1:0	05.09.1969	20:00	1969	1970	4
+1. FC Kaiserslautern	Bayern MÃ¼nchen	0:0	0:0	06.09.1969	15:30	1969	1970	4
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	0:0	1:0	06.09.1969	15:30	1969	1970	4
+Rot-Weiss Essen	Hertha BSC	3:2	5:2	06.09.1969	15:30	1969	1970	4
+Eintracht Braunschweig	Rot-WeiÃ Oberhausen	0:3	0:4	06.09.1969	15:30	1969	1970	4
+Werder Bremen	Hamburger SV	1:1	1:1	06.09.1969	15:30	1969	1970	4
+Alemannia Aachen	VfB Stuttgart	2:2	4:2	06.09.1969	15:30	1969	1970	4
+Borussia Dortmund	FC Schalke 04	0:1	1:1	06.09.1969	15:30	1969	1970	4
+Eintracht Frankfurt	Rot-Weiss Essen	1:1	2:1	12.09.1969	20:00	1969	1970	5
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	1:0	1:1	12.09.1969	20:00	1969	1970	5
+Bayern MÃ¼nchen	Borussia Dortmund	1:0	3:0	12.09.1969	20:00	1969	1970	5
+Hamburger SV	MSV Duisburg	3:1	4:1	13.09.1969	15:30	1969	1970	5
+Rot-WeiÃ Oberhausen	Werder Bremen	2:1	3:1	13.09.1969	15:30	1969	1970	5
+FC Schalke 04	Eintracht Braunschweig	1:1	1:1	13.09.1969	15:30	1969	1970	5
+1. FC KÃ¶ln	Alemannia Aachen	1:0	3:0	13.09.1969	15:30	1969	1970	5
+Hannover 96	TSV 1860 MÃ¼nchen	1:0	3:1	13.09.1969	15:30	1969	1970	5
+VfB Stuttgart	Hertha BSC	1:0	1:4	13.09.1969	15:30	1969	1970	5
+Hertha BSC	1. FC KÃ¶ln	0:0	1:0	26.09.1969	20:00	1969	1970	6
+MSV Duisburg	Rot-WeiÃ Oberhausen	0:1	2:1	26.09.1969	20:00	1969	1970	6
+TSV 1860 MÃ¼nchen	Hamburger SV	0:0	0:2	27.09.1969	15:30	1969	1970	6
+Eintracht Braunschweig	Bayern MÃ¼nchen	0:2	0:4	27.09.1969	15:30	1969	1970	6
+Werder Bremen	FC Schalke 04	0:1	0:1	27.09.1969	15:30	1969	1970	6
+Alemannia Aachen	Hannover 96	0:1	1:1	27.09.1969	15:30	1969	1970	6
+1. FC Kaiserslautern	Eintracht Frankfurt	1:0	2:0	27.09.1969	15:30	1969	1970	6
+Borussia Dortmund	Bor. MÃ¶nchengladbach	0:1	2:1	27.09.1969	15:30	1969	1970	6
+Rot-Weiss Essen	VfB Stuttgart	3:2	3:3	27.09.1969	15:30	1969	1970	6
+Eintracht Frankfurt	Borussia Dortmund	1:0	2:0	03.10.1969	20:00	1969	1970	7
+1. FC KÃ¶ln	VfB Stuttgart	2:0	3:1	04.10.1969	15:30	1969	1970	7
+Hannover 96	Hertha BSC	1:0	2:1	04.10.1969	15:30	1969	1970	7
+Bor. MÃ¶nchengladbach	Eintracht Braunschweig	1:0	1:0	04.10.1969	15:30	1969	1970	7
+Hamburger SV	Alemannia Aachen	0:0	4:1	04.10.1969	15:30	1969	1970	7
+1. FC Kaiserslautern	Rot-Weiss Essen	0:0	0:0	04.10.1969	15:30	1969	1970	7
+Bayern MÃ¼nchen	Werder Bremen	1:0	4:1	04.10.1969	15:30	1969	1970	7
+Rot-WeiÃ Oberhausen	TSV 1860 MÃ¼nchen	2:0	3:0	04.10.1969	15:30	1969	1970	7
+FC Schalke 04	MSV Duisburg	0:0	0:0	04.10.1969	15:30	1969	1970	7
+MSV Duisburg	Bayern MÃ¼nchen	1:1	4:2	10.10.1969	20:00	1969	1970	8
+TSV 1860 MÃ¼nchen	FC Schalke 04	0:1	0:2	10.10.1969	20:00	1969	1970	8
+Borussia Dortmund	1. FC Kaiserslautern	1:1	5:1	11.10.1969	15:30	1969	1970	8
+Rot-Weiss Essen	1. FC KÃ¶ln	0:0	0:0	11.10.1969	15:30	1969	1970	8
+Werder Bremen	Bor. MÃ¶nchengladbach	0:0	0:0	11.10.1969	15:30	1969	1970	8
+Hertha BSC	Hamburger SV	0:0	1:0	11.10.1969	15:30	1969	1970	8
+Eintracht Braunschweig	Eintracht Frankfurt	0:1	3:1	11.10.1969	15:30	1969	1970	8
+VfB Stuttgart	Hannover 96	1:0	2:1	11.10.1969	15:30	1969	1970	8
+Alemannia Aachen	Rot-WeiÃ Oberhausen	1:0	2:0	11.10.1969	15:30	1969	1970	8
+Bor. MÃ¶nchengladbach	MSV Duisburg	2:1	4:1	15.10.1969	20:00	1969	1970	9
+Eintracht Frankfurt	Werder Bremen	0:0	2:1	15.10.1969	20:00	1969	1970	9
+Hamburger SV	VfB Stuttgart	1:3	1:3	15.10.1969	20:00	1969	1970	9
+1. FC Kaiserslautern	Eintracht Braunschweig	0:0	2:0	15.10.1969	20:00	1969	1970	9
+Rot-WeiÃ Oberhausen	Hertha BSC	1:0	3:1	15.10.1969	20:00	1969	1970	9
+Borussia Dortmund	Rot-Weiss Essen	2:1	4:1	15.10.1969	20:00	1969	1970	9
+FC Schalke 04	Alemannia Aachen	1:0	3:0	15.10.1969	20:00	1969	1970	9
+Hannover 96	1. FC KÃ¶ln	1:4	3:4	15.10.1969	20:00	1969	1970	9
+Bayern MÃ¼nchen	TSV 1860 MÃ¼nchen	2:0	2:0	18.10.1969	15:30	1969	1970	9
+MSV Duisburg	Eintracht Frankfurt	0:0	1:1	24.10.1969	20:00	1969	1970	10
+VfB Stuttgart	Rot-WeiÃ Oberhausen	3:1	4:2	25.10.1969	15:30	1969	1970	10
+Werder Bremen	1. FC Kaiserslautern	3:1	3:2	25.10.1969	15:30	1969	1970	10
+1. FC KÃ¶ln	Hamburger SV	1:0	3:0	25.10.1969	15:30	1969	1970	10
+Eintracht Braunschweig	Borussia Dortmund	1:0	1:1	25.10.1969	15:30	1969	1970	10
+Rot-Weiss Essen	Hannover 96	1:0	1:0	25.10.1969	15:30	1969	1970	10
+Hertha BSC	FC Schalke 04	3:0	3:0	25.10.1969	15:30	1969	1970	10
+TSV 1860 MÃ¼nchen	Bor. MÃ¶nchengladbach	0:1	0:3	25.10.1969	15:30	1969	1970	10
+Alemannia Aachen	Bayern MÃ¼nchen	0:2	1:3	25.10.1969	15:30	1969	1970	10
+Bayern MÃ¼nchen	Hertha BSC	1:0	1:2	30.10.1969	20:00	1969	1970	11
+Borussia Dortmund	Werder Bremen	1:1	2:1	31.10.1969	20:00	1969	1970	11
+FC Schalke 04	VfB Stuttgart	0:2	1:2	31.10.1969	20:00	1969	1970	11
+Bor. MÃ¶nchengladbach	Alemannia Aachen	1:1	5:1	31.10.1969	20:00	1969	1970	11
+Eintracht Frankfurt	TSV 1860 MÃ¼nchen	0:0	4:3	01.11.1969	15:30	1969	1970	11
+Hamburger SV	Hannover 96	0:0	2:0	01.11.1969	15:30	1969	1970	11
+Eintracht Braunschweig	Rot-Weiss Essen	0:0	0:0	01.11.1969	15:30	1969	1970	11
+1. FC Kaiserslautern	MSV Duisburg	0:1	0:2	01.11.1969	15:30	1969	1970	11
+Rot-WeiÃ Oberhausen	1. FC KÃ¶ln	0:0	0:2	02.11.1969	15:30	1969	1970	11
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	0:1	0:1	07.11.1969	20:00	1969	1970	12
+MSV Duisburg	Borussia Dortmund	0:0	0:1	07.11.1969	20:00	1969	1970	12
+Hannover 96	Rot-WeiÃ Oberhausen	2:0	2:1	08.11.1969	15:30	1969	1970	12
+Werder Bremen	Eintracht Braunschweig	0:0	0:1	08.11.1969	15:30	1969	1970	12
+Rot-Weiss Essen	Hamburger SV	2:0	2:2	08.11.1969	15:30	1969	1970	12
+1. FC KÃ¶ln	FC Schalke 04	3:0	8:0	08.11.1969	15:30	1969	1970	12
+Alemannia Aachen	Eintracht Frankfurt	0:0	2:1	08.11.1969	15:30	1969	1970	12
+Hertha BSC	Bor. MÃ¶nchengladbach	0:0	1:1	08.11.1969	15:30	1969	1970	12
+VfB Stuttgart	Bayern MÃ¼nchen	0:2	2:3	08.11.1969	15:30	1969	1970	12
+Eintracht Braunschweig	MSV Duisburg	0:0	2:1	15.11.1969	15:30	1969	1970	13
+Rot-WeiÃ Oberhausen	Hamburger SV	1:2	1:3	15.11.1969	15:30	1969	1970	13
+Werder Bremen	Rot-Weiss Essen	1:0	2:1	15.11.1969	15:30	1969	1970	13
+FC Schalke 04	Hannover 96	1:0	2:0	15.11.1969	15:30	1969	1970	13
+1. FC Kaiserslautern	Alemannia Aachen	2:0	3:1	15.11.1969	15:30	1969	1970	13
+Bor. MÃ¶nchengladbach	VfB Stuttgart	2:0	3:0	15.11.1969	15:30	1969	1970	13
+Eintracht Frankfurt	Hertha BSC	0:0	1:1	15.11.1969	15:30	1969	1970	13
+Borussia Dortmund	TSV 1860 MÃ¼nchen	0:1	3:1	15.11.1969	15:30	1969	1970	13
+Bayern MÃ¼nchen	1. FC KÃ¶ln	0:1	1:2	15.11.1969	15:30	1969	1970	13
+Alemannia Aachen	Borussia Dortmund	1:0	3:1	28.11.1969	20:00	1969	1970	14
+MSV Duisburg	Werder Bremen	0:0	1:1	28.11.1969	20:00	1969	1970	14
+TSV 1860 MÃ¼nchen	Eintracht Braunschweig	1:0	1:0	29.11.1969	15:30	1969	1970	14
+Hannover 96	Bayern MÃ¼nchen	0:1	0:1	29.11.1969	15:30	1969	1970	14
+Rot-Weiss Essen	Rot-WeiÃ Oberhausen	0:0	1:0	29.11.1969	15:30	1969	1970	14
+Hamburger SV	FC Schalke 04	1:0	1:1	29.11.1969	15:30	1969	1970	14
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:0	0:1	29.11.1969	15:30	1969	1970	14
+Hertha BSC	1. FC Kaiserslautern	2:0	3:0	29.11.1969	15:30	1969	1970	14
+VfB Stuttgart	Eintracht Frankfurt	2:0	4:0	29.11.1969	15:30	1969	1970	14
+Bor. MÃ¶nchengladbach	Hannover 96	1:0	5:0	05.12.1969	20:00	1969	1970	15
+Borussia Dortmund	Hertha BSC	0:0	0:0	05.12.1969	20:00	1969	1970	15
+Eintracht Braunschweig	Alemannia Aachen	2:0	3:0	05.12.1969	20:00	1969	1970	15
+Rot-Weiss Essen	MSV Duisburg	0:0	0:0	06.12.1969	15:30	1969	1970	15
+Bayern MÃ¼nchen	Hamburger SV	1:0	2:1	06.12.1969	15:30	1969	1970	15
+Eintracht Frankfurt	1. FC KÃ¶ln	0:0	0:0	06.12.1969	15:30	1969	1970	15
+1. FC Kaiserslautern	VfB Stuttgart	1:2	3:2	06.12.1969	15:30	1969	1970	15
+Werder Bremen	TSV 1860 MÃ¼nchen	0:1	1:1	06.12.1969	15:30	1969	1970	15
+Rot-WeiÃ Oberhausen	FC Schalke 04	0:0	0:3	06.12.1969	15:30	1969	1970	15
+Alemannia Aachen	Werder Bremen	0:0	0:0	12.12.1969	20:00	1969	1970	16
+Hertha BSC	Eintracht Braunschweig	0:0	2:0	12.12.1969	20:00	1969	1970	16
+Hamburger SV	Bor. MÃ¶nchengladbach	0:0	1:3	13.12.1969	15:30	1969	1970	16
+Hannover 96	Eintracht Frankfurt	1:1	1:1	13.12.1969	15:30	1969	1970	16
+VfB Stuttgart	Borussia Dortmund	1:0	2:1	13.12.1969	15:30	1969	1970	16
+Rot-WeiÃ Oberhausen	Bayern MÃ¼nchen	2:2	3:3	13.12.1969	15:30	1969	1970	16
+1. FC KÃ¶ln	1. FC Kaiserslautern	4:1	6:1	13.12.1969	15:30	1969	1970	16
+TSV 1860 MÃ¼nchen	MSV Duisburg	1:0	2:2	13.12.1969	15:30	1969	1970	16
+FC Schalke 04	Rot-Weiss Essen	1:3	5:3	13.12.1969	15:30	1969	1970	16
+Borussia Dortmund	1. FC KÃ¶ln	0:0	1:0	19.12.1969	20:00	1969	1970	17
+1. FC Kaiserslautern	Hannover 96	2:0	5:2	19.12.1969	20:00	1969	1970	17
+Bor. MÃ¶nchengladbach	Rot-WeiÃ Oberhausen	3:0	6:1	19.12.1969	20:00	1969	1970	17
+Eintracht Braunschweig	VfB Stuttgart	0:0	1:0	20.12.1969	15:30	1969	1970	17
+Eintracht Frankfurt	Hamburger SV	0:0	2:2	20.12.1969	15:30	1969	1970	17
+Werder Bremen	Hertha BSC	1:0	1:0	20.12.1969	15:30	1969	1970	17
+MSV Duisburg	Alemannia Aachen	1:0	2:1	20.12.1969	15:30	1969	1970	17
+Rot-Weiss Essen	TSV 1860 MÃ¼nchen	1:0	3:0	20.12.1969	15:30	1969	1970	17
+Bayern MÃ¼nchen	FC Schalke 04	3:0	6:0	25.02.1970	20:00	1969	1970	17
+TSV 1860 MÃ¼nchen	Alemannia Aachen	0:0	0:0	10.03.1970	20:00	1969	1970	18
+MSV Duisburg	Hertha BSC	1:3	1:3	10.03.1970	20:00	1969	1970	18
+Werder Bremen	VfB Stuttgart	0:0	1:1	10.03.1970	20:00	1969	1970	18
+Eintracht Braunschweig	1. FC KÃ¶ln	0:2	1:2	10.03.1970	20:00	1969	1970	18
+Borussia Dortmund	Hannover 96	0:1	2:1	10.03.1970	20:00	1969	1970	18
+Rot-Weiss Essen	Bayern MÃ¼nchen	0:1	1:1	10.03.1970	20:00	1969	1970	18
+Bor. MÃ¶nchengladbach	FC Schalke 04	1:0	2:0	11.03.1970	20:00	1969	1970	18
+Eintracht Frankfurt	Rot-WeiÃ Oberhausen	1:1	5:1	18.03.1970	20:00	1969	1970	18
+1. FC Kaiserslautern	Hamburger SV	0:1	1:1	01.04.1970	20:00	1969	1970	18
+FC Schalke 04	Eintracht Frankfurt	0:0	0:0	17.01.1970	15:30	1969	1970	19
+Alemannia Aachen	Rot-Weiss Essen	0:0	0:0	17.01.1970	15:30	1969	1970	19
+Rot-WeiÃ Oberhausen	1. FC Kaiserslautern	0:0	0:0	17.01.1970	15:30	1969	1970	19
+Hannover 96	Eintracht Braunschweig	0:0	0:2	03.03.1970	20:00	1969	1970	19
+VfB Stuttgart	MSV Duisburg	1:0	4:3	18.03.1970	20:00	1969	1970	19
+Hamburger SV	Borussia Dortmund	1:2	4:3	18.03.1970	20:00	1969	1970	19
+1. FC KÃ¶ln	Werder Bremen	2:0	3:0	18.03.1970	20:00	1969	1970	19
+Hertha BSC	TSV 1860 MÃ¼nchen	3:2	4:2	25.03.1970	20:00	1969	1970	19
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	1:0	1:0	15.04.1970	20:00	1969	1970	19
+TSV 1860 MÃ¼nchen	VfB Stuttgart	2:1	4:1	24.01.1970	15:30	1969	1970	20
+Borussia Dortmund	Rot-WeiÃ Oberhausen	2:0	3:2	24.01.1970	15:30	1969	1970	20
+Alemannia Aachen	Hertha BSC	2:2	2:4	24.01.1970	15:30	1969	1970	20
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:0	2:1	03.03.1970	20:00	1969	1970	20
+Werder Bremen	Hannover 96	1:0	1:0	01.04.1970	20:00	1969	1970	20
+MSV Duisburg	1. FC KÃ¶ln	1:0	1:1	14.04.1970	20:00	1969	1970	20
+Eintracht Braunschweig	Hamburger SV	1:0	3:0	21.04.1970	20:00	1969	1970	20
+Rot-Weiss Essen	Bor. MÃ¶nchengladbach	0:0	1:0	21.04.1970	20:00	1969	1970	20
+1. FC Kaiserslautern	FC Schalke 04	0:1	1:1	21.04.1970	20:00	1969	1970	20
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:0	1:2	31.01.1970	15:30	1969	1970	21
+Hannover 96	MSV Duisburg	0:0	0:0	31.01.1970	15:30	1969	1970	21
+Bayern MÃ¼nchen	1. FC Kaiserslautern	0:1	1:1	31.01.1970	15:30	1969	1970	21
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	2:0	2:1	31.01.1970	15:30	1969	1970	21
+Rot-WeiÃ Oberhausen	Eintracht Braunschweig	2:0	2:1	31.01.1970	15:30	1969	1970	21
+VfB Stuttgart	Alemannia Aachen	2:0	5:0	31.01.1970	15:30	1969	1970	21
+FC Schalke 04	Borussia Dortmund	1:0	1:1	31.01.1970	15:30	1969	1970	21
+Hertha BSC	Rot-Weiss Essen	1:0	4:0	25.02.1970	20:00	1969	1970	21
+Hamburger SV	Werder Bremen	0:0	2:2	14.04.1970	20:00	1969	1970	21
+Rot-Weiss Essen	Eintracht Frankfurt	0:0	1:1	07.02.1970	15:30	1969	1970	22
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	1:1	1:4	07.02.1970	15:30	1969	1970	22
+Borussia Dortmund	Bayern MÃ¼nchen	0:1	1:3	07.02.1970	15:30	1969	1970	22
+MSV Duisburg	Hamburger SV	0:0	0:0	07.02.1970	15:30	1969	1970	22
+Werder Bremen	Rot-WeiÃ Oberhausen	0:1	1:1	07.02.1970	15:30	1969	1970	22
+Alemannia Aachen	1. FC KÃ¶ln	0:1	1:3	07.02.1970	15:30	1969	1970	22
+TSV 1860 MÃ¼nchen	Hannover 96	1:0	3:0	07.02.1970	15:30	1969	1970	22
+Eintracht Braunschweig	FC Schalke 04	1:0	3:0	18.02.1970	20:00	1969	1970	22
+Hertha BSC	VfB Stuttgart	2:0	3:1	22.04.1970	20:00	1969	1970	22
+1. FC KÃ¶ln	Hertha BSC	2:0	5:1	14.02.1970	15:30	1969	1970	23
+Hamburger SV	TSV 1860 MÃ¼nchen	0:0	0:1	14.02.1970	15:30	1969	1970	23
+Bayern MÃ¼nchen	Eintracht Braunschweig	2:1	5:1	14.02.1970	15:30	1969	1970	23
+Eintracht Frankfurt	1. FC Kaiserslautern	2:1	2:1	14.02.1970	15:30	1969	1970	23
+Bor. MÃ¶nchengladbach	Borussia Dortmund	3:0	4:2	14.02.1970	15:30	1969	1970	23
+VfB Stuttgart	Rot-Weiss Essen	2:0	4:1	14.02.1970	15:30	1969	1970	23
+FC Schalke 04	Werder Bremen	0:0	0:0	25.03.1970	20:00	1969	1970	23
+Rot-WeiÃ Oberhausen	MSV Duisburg	1:0	2:0	22.04.1970	20:00	1969	1970	23
+Hannover 96	Alemannia Aachen	3:0	5:0	22.04.1970	20:00	1969	1970	23
+VfB Stuttgart	1. FC KÃ¶ln	0:2	0:3	21.02.1970	15:30	1969	1970	24
+TSV 1860 MÃ¼nchen	Rot-WeiÃ Oberhausen	3:1	4:1	21.02.1970	15:30	1969	1970	24
+MSV Duisburg	FC Schalke 04	1:0	2:0	21.02.1970	15:30	1969	1970	24
+Eintracht Braunschweig	Bor. MÃ¶nchengladbach	0:0	0:1	24.03.1970	20:00	1969	1970	24
+Hertha BSC	Hannover 96	1:0	1:1	07.04.1970	20:00	1969	1970	24
+Alemannia Aachen	Hamburger SV	0:1	0:2	07.04.1970	20:00	1969	1970	24
+Borussia Dortmund	Eintracht Frankfurt	1:1	2:1	15.04.1970	20:00	1969	1970	24
+Werder Bremen	Bayern MÃ¼nchen	0:0	1:0	21.04.1970	20:00	1969	1970	24
+Rot-Weiss Essen	1. FC Kaiserslautern	1:1	1:1	30.04.1970	20:00	1969	1970	24
+Bayern MÃ¼nchen	MSV Duisburg	1:0	2:0	28.02.1970	15:30	1969	1970	25
+FC Schalke 04	TSV 1860 MÃ¼nchen	1:0	3:1	28.02.1970	15:30	1969	1970	25
+1. FC Kaiserslautern	Borussia Dortmund	1:1	2:2	28.02.1970	15:30	1969	1970	25
+1. FC KÃ¶ln	Rot-Weiss Essen	2:1	5:2	28.02.1970	15:30	1969	1970	25
+Bor. MÃ¶nchengladbach	Werder Bremen	0:0	1:0	28.02.1970	15:30	1969	1970	25
+Eintracht Frankfurt	Eintracht Braunschweig	0:0	0:0	28.02.1970	15:30	1969	1970	25
+Hannover 96	VfB Stuttgart	2:0	2:0	28.02.1970	15:30	1969	1970	25
+Rot-WeiÃ Oberhausen	Alemannia Aachen	1:0	1:0	28.02.1970	15:30	1969	1970	25
+Hamburger SV	Hertha BSC	0:0	1:0	25.04.1970	15:30	1969	1970	25
+MSV Duisburg	Bor. MÃ¶nchengladbach	0:1	0:1	07.03.1970	15:30	1969	1970	26
+Werder Bremen	Eintracht Frankfurt	1:1	3:2	07.03.1970	15:30	1969	1970	26
+VfB Stuttgart	Hamburger SV	1:1	1:1	07.03.1970	15:30	1969	1970	26
+Eintracht Braunschweig	1. FC Kaiserslautern	0:0	1:0	07.03.1970	15:30	1969	1970	26
+Rot-Weiss Essen	Borussia Dortmund	3:2	3:3	07.03.1970	15:30	1969	1970	26
+Alemannia Aachen	FC Schalke 04	0:2	1:2	07.03.1970	15:30	1969	1970	26
+1. FC KÃ¶ln	Hannover 96	2:0	5:0	07.03.1970	15:30	1969	1970	26
+TSV 1860 MÃ¼nchen	Bayern MÃ¼nchen	2:0	2:1	07.03.1970	15:30	1969	1970	26
+Hertha BSC	Rot-WeiÃ Oberhausen	0:0	1:0	01.04.1970	20:00	1969	1970	26
+Eintracht Frankfurt	MSV Duisburg	0:1	0:1	14.03.1970	15:30	1969	1970	27
+Rot-WeiÃ Oberhausen	VfB Stuttgart	0:0	3:0	14.03.1970	15:30	1969	1970	27
+1. FC Kaiserslautern	Werder Bremen	0:0	1:0	14.03.1970	15:30	1969	1970	27
+Hamburger SV	1. FC KÃ¶ln	0:2	2:5	14.03.1970	15:30	1969	1970	27
+Borussia Dortmund	Eintracht Braunschweig	0:0	2:2	14.03.1970	15:30	1969	1970	27
+Hannover 96	Rot-Weiss Essen	1:0	3:0	14.03.1970	15:30	1969	1970	27
+FC Schalke 04	Hertha BSC	1:0	1:3	14.03.1970	15:30	1969	1970	27
+Bor. MÃ¶nchengladbach	TSV 1860 MÃ¼nchen	2:1	3:1	14.03.1970	15:30	1969	1970	27
+Bayern MÃ¼nchen	Alemannia Aachen	2:0	6:0	14.03.1970	15:30	1969	1970	27
+Hertha BSC	Bayern MÃ¼nchen	0:3	0:4	21.03.1970	15:30	1969	1970	28
+Werder Bremen	Borussia Dortmund	1:1	1:3	21.03.1970	15:30	1969	1970	28
+VfB Stuttgart	FC Schalke 04	0:0	2:0	21.03.1970	15:30	1969	1970	28
+Alemannia Aachen	Bor. MÃ¶nchengladbach	0:1	0:3	21.03.1970	15:30	1969	1970	28
+Hannover 96	Hamburger SV	1:1	1:1	21.03.1970	15:30	1969	1970	28
+MSV Duisburg	1. FC Kaiserslautern	0:0	0:0	21.03.1970	15:30	1969	1970	28
+1. FC KÃ¶ln	Rot-WeiÃ Oberhausen	0:0	0:1	21.03.1970	15:30	1969	1970	28
+Rot-Weiss Essen	Eintracht Braunschweig	1:1	1:1	15.04.1970	20:00	1969	1970	28
+TSV 1860 MÃ¼nchen	Eintracht Frankfurt	0:0	1:1	21.04.1970	20:00	1969	1970	28
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	2:0	3:2	28.03.1970	15:30	1969	1970	29
+Borussia Dortmund	MSV Duisburg	0:0	3:1	28.03.1970	15:30	1969	1970	29
+Rot-WeiÃ Oberhausen	Hannover 96	0:0	0:0	28.03.1970	15:30	1969	1970	29
+Eintracht Braunschweig	Werder Bremen	0:2	1:2	28.03.1970	15:30	1969	1970	29
+Hamburger SV	Rot-Weiss Essen	1:0	1:0	28.03.1970	15:30	1969	1970	29
+FC Schalke 04	1. FC KÃ¶ln	1:0	1:0	28.03.1970	15:30	1969	1970	29
+Bor. MÃ¶nchengladbach	Hertha BSC	1:0	1:1	28.03.1970	15:30	1969	1970	29
+Bayern MÃ¼nchen	VfB Stuttgart	1:1	1:2	28.03.1970	15:30	1969	1970	29
+Eintracht Frankfurt	Alemannia Aachen	1:1	6:2	30.03.1970	20:00	1969	1970	29
+MSV Duisburg	Eintracht Braunschweig	0:0	1:0	04.04.1970	15:30	1969	1970	30
+Hamburger SV	Rot-WeiÃ Oberhausen	1:0	2:1	04.04.1970	15:30	1969	1970	30
+Hannover 96	FC Schalke 04	2:0	3:1	04.04.1970	15:30	1969	1970	30
+VfB Stuttgart	Bor. MÃ¶nchengladbach	0:0	0:0	04.04.1970	15:30	1969	1970	30
+Hertha BSC	Eintracht Frankfurt	0:0	2:0	04.04.1970	15:30	1969	1970	30
+1. FC KÃ¶ln	Bayern MÃ¼nchen	0:0	0:2	04.04.1970	15:30	1969	1970	30
+TSV 1860 MÃ¼nchen	Borussia Dortmund	1:0	3:0	08.04.1970	20:00	1969	1970	30
+Alemannia Aachen	1. FC Kaiserslautern	0:1	1:1	15.04.1970	20:00	1969	1970	30
+Rot-Weiss Essen	Werder Bremen	1:1	3:2	27.04.1970	20:00	1969	1970	30
+Borussia Dortmund	Alemannia Aachen	3:1	3:1	11.04.1970	15:30	1969	1970	31
+Werder Bremen	MSV Duisburg	0:0	0:0	11.04.1970	15:30	1969	1970	31
+Eintracht Braunschweig	TSV 1860 MÃ¼nchen	1:2	2:2	11.04.1970	15:30	1969	1970	31
+Bayern MÃ¼nchen	Hannover 96	4:1	7:2	11.04.1970	15:30	1969	1970	31
+Rot-WeiÃ Oberhausen	Rot-Weiss Essen	1:0	1:1	11.04.1970	15:30	1969	1970	31
+FC Schalke 04	Hamburger SV	0:0	1:1	11.04.1970	15:30	1969	1970	31
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	1:0	2:0	11.04.1970	15:30	1969	1970	31
+1. FC Kaiserslautern	Hertha BSC	0:0	1:0	11.04.1970	15:30	1969	1970	31
+Eintracht Frankfurt	VfB Stuttgart	1:0	4:0	11.04.1970	15:30	1969	1970	31
+Hannover 96	Bor. MÃ¶nchengladbach	1:0	1:0	18.04.1970	15:30	1969	1970	32
+Hertha BSC	Borussia Dortmund	6:0	9:1	18.04.1970	15:30	1969	1970	32
+Alemannia Aachen	Eintracht Braunschweig	1:1	1:1	18.04.1970	15:30	1969	1970	32
+MSV Duisburg	Rot-Weiss Essen	0:1	0:1	18.04.1970	15:30	1969	1970	32
+Hamburger SV	Bayern MÃ¼nchen	1:0	1:3	18.04.1970	15:30	1969	1970	32
+1. FC KÃ¶ln	Eintracht Frankfurt	1:1	1:2	18.04.1970	15:30	1969	1970	32
+VfB Stuttgart	1. FC Kaiserslautern	2:0	2:1	18.04.1970	15:30	1969	1970	32
+TSV 1860 MÃ¼nchen	Werder Bremen	0:1	0:1	18.04.1970	15:30	1969	1970	32
+FC Schalke 04	Rot-WeiÃ Oberhausen	0:0	2:2	18.04.1970	15:30	1969	1970	32
+Rot-Weiss Essen	FC Schalke 04	0:0	1:1	24.04.1970	20:00	1969	1970	33
+1. FC Kaiserslautern	1. FC KÃ¶ln	3:1	3:2	25.04.1970	15:30	1969	1970	33
+Werder Bremen	Alemannia Aachen	2:0	4:1	30.04.1970	15:30	1969	1970	33
+Eintracht Braunschweig	Hertha BSC	0:0	1:2	30.04.1970	15:30	1969	1970	33
+Bor. MÃ¶nchengladbach	Hamburger SV	3:0	4:3	30.04.1970	15:30	1969	1970	33
+Eintracht Frankfurt	Hannover 96	0:1	3:3	30.04.1970	15:30	1969	1970	33
+Borussia Dortmund	VfB Stuttgart	0:0	0:0	30.04.1970	15:30	1969	1970	33
+Bayern MÃ¼nchen	Rot-WeiÃ Oberhausen	4:1	6:2	30.04.1970	15:30	1969	1970	33
+MSV Duisburg	TSV 1860 MÃ¼nchen	0:1	2:1	30.04.1970	15:30	1969	1970	33
+1. FC KÃ¶ln	Borussia Dortmund	2:0	5:2	03.05.1970	15:30	1969	1970	34
+Hannover 96	1. FC Kaiserslautern	2:1	4:2	03.05.1970	15:30	1969	1970	34
+Rot-WeiÃ Oberhausen	Bor. MÃ¶nchengladbach	1:2	3:4	03.05.1970	15:30	1969	1970	34
+VfB Stuttgart	Eintracht Braunschweig	1:1	3:2	03.05.1970	15:30	1969	1970	34
+Hamburger SV	Eintracht Frankfurt	3:0	5:1	03.05.1970	15:30	1969	1970	34
+Hertha BSC	Werder Bremen	1:1	4:1	03.05.1970	15:30	1969	1970	34
+Alemannia Aachen	MSV Duisburg	3:0	3:2	03.05.1970	15:30	1969	1970	34
+TSV 1860 MÃ¼nchen	Rot-Weiss Essen	0:0	0:0	03.05.1970	15:30	1969	1970	34
+FC Schalke 04	Bayern MÃ¼nchen	0:0	2:2	03.05.1970	15:30	1969	1970	34

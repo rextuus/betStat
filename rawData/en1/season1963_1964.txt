@@ -1,0 +1,462 @@
+Arsenal FC	Wolverhampton Wanderers	0:0	1:3	24.08.1963	00:00	1963	1964	1
+Stoke City	Tottenham Hotspur	0:0	2:1	24.08.1963	00:00	1963	1964	1
+Sheffield Wednesday	Manchester United	0:0	3:3	24.08.1963	00:00	1963	1964	1
+Nottingham Forest	Aston Villa	0:0	0:1	24.08.1963	00:00	1963	1964	1
+Ipswich Town	Burnley FC	0:0	3:1	24.08.1963	00:00	1963	1964	1
+Everton FC	Fulham FC	0:0	3:0	24.08.1963	00:00	1963	1964	1
+Chelsea FC	West Ham United	0:0	0:0	24.08.1963	00:00	1963	1964	1
+Blackpool FC	Sheffield United	0:0	2:2	24.08.1963	00:00	1963	1964	1
+Blackburn Rovers	Liverpool FC	0:0	1:2	24.08.1963	00:00	1963	1964	1
+Birmingham City	Bolton Wanderers	0:0	2:1	24.08.1963	00:00	1963	1964	1
+West Bromwich Albion	Leicester City	0:0	1:1	24.08.1963	00:00	1963	1964	1
+Aston Villa	Stoke City	0:0	1:3	26.08.1963	00:00	1963	1964	2
+West Ham United	Blackpool FC	0:0	3:1	26.08.1963	00:00	1963	1964	2
+Arsenal FC	West Bromwich Albion	0:0	3:2	27.08.1963	00:00	1963	1964	2
+Burnley FC	Chelsea FC	0:0	0:0	27.08.1963	00:00	1963	1964	2
+Wolverhampton Wanderers	Tottenham Hotspur	0:0	1:4	28.08.1963	00:00	1963	1964	2
+Sheffield United	Blackburn Rovers	0:0	0:1	28.08.1963	00:00	1963	1964	2
+Manchester United	Ipswich Town	0:0	2:0	28.08.1963	00:00	1963	1964	2
+Liverpool FC	Nottingham Forest	0:0	1:2	28.08.1963	00:00	1963	1964	2
+Leicester City	Birmingham City	0:0	3:0	28.08.1963	00:00	1963	1964	2
+Fulham FC	Sheffield Wednesday	0:0	2:0	28.08.1963	00:00	1963	1964	2
+Everton FC	Bolton Wanderers	0:0	2:0	11.09.1963	00:00	1963	1964	2
+West Ham United	Ipswich Town	0:0	2:2	30.08.1963	00:00	1963	1964	3
+Manchester United	Everton FC	0:0	5:1	31.08.1963	00:00	1963	1964	3
+Wolverhampton Wanderers	Stoke City	0:0	2:1	31.08.1963	00:00	1963	1964	3
+Tottenham Hotspur	Nottingham Forest	0:0	4:1	31.08.1963	00:00	1963	1964	3
+Sheffield United	Chelsea FC	0:0	1:1	31.08.1963	00:00	1963	1964	3
+Liverpool FC	Blackpool FC	0:0	1:2	31.08.1963	00:00	1963	1964	3
+Leicester City	Arsenal FC	0:0	7:2	31.08.1963	00:00	1963	1964	3
+Fulham FC	Birmingham City	0:0	2:1	31.08.1963	00:00	1963	1964	3
+Burnley FC	Sheffield Wednesday	0:0	3:1	31.08.1963	00:00	1963	1964	3
+Bolton Wanderers	West Bromwich Albion	0:0	1:2	31.08.1963	00:00	1963	1964	3
+Aston Villa	Blackburn Rovers	0:0	1:2	31.08.1963	00:00	1963	1964	3
+Blackpool FC	West Ham United	0:0	0:1	02.09.1963	00:00	1963	1964	4
+Ipswich Town	Manchester United	0:0	2:7	03.09.1963	00:00	1963	1964	4
+Nottingham Forest	Liverpool FC	0:0	0:0	03.09.1963	00:00	1963	1964	4
+Bolton Wanderers	Everton FC	0:0	1:3	04.09.1963	00:00	1963	1964	4
+West Bromwich Albion	Arsenal FC	0:0	4:0	04.09.1963	00:00	1963	1964	4
+Tottenham Hotspur	Wolverhampton Wanderers	0:0	4:3	04.09.1963	00:00	1963	1964	4
+Stoke City	Aston Villa	0:0	2:2	04.09.1963	00:00	1963	1964	4
+Sheffield Wednesday	Fulham FC	0:0	3:0	04.09.1963	00:00	1963	1964	4
+Chelsea FC	Burnley FC	0:0	2:0	04.09.1963	00:00	1963	1964	4
+Blackburn Rovers	Sheffield United	0:0	2:2	04.09.1963	00:00	1963	1964	4
+Birmingham City	Leicester City	0:0	2:0	04.09.1963	00:00	1963	1964	4
+Everton FC	Burnley FC	0:0	3:4	07.09.1963	00:00	1963	1964	5
+Arsenal FC	Bolton Wanderers	0:0	4:3	07.09.1963	00:00	1963	1964	5
+West Ham United	Sheffield United	0:0	2:3	07.09.1963	00:00	1963	1964	5
+West Bromwich Albion	Fulham FC	0:0	3:0	07.09.1963	00:00	1963	1964	5
+Stoke City	Leicester City	0:0	3:3	07.09.1963	00:00	1963	1964	5
+Sheffield Wednesday	Ipswich Town	0:0	3:1	07.09.1963	00:00	1963	1964	5
+Nottingham Forest	Wolverhampton Wanderers	0:0	3:0	07.09.1963	00:00	1963	1964	5
+Chelsea FC	Liverpool FC	0:0	1:3	07.09.1963	00:00	1963	1964	5
+Blackpool FC	Aston Villa	0:0	0:4	07.09.1963	00:00	1963	1964	5
+Blackburn Rovers	Tottenham Hotspur	0:0	7:2	07.09.1963	00:00	1963	1964	5
+Birmingham City	Manchester United	0:0	1:1	07.09.1963	00:00	1963	1964	5
+West Ham United	Nottingham Forest	0:0	0:2	09.09.1963	00:00	1963	1964	6
+Wolverhampton Wanderers	Liverpool FC	0:0	1:3	09.09.1963	00:00	1963	1964	6
+Burnley FC	Fulham FC	0:0	4:1	10.09.1963	00:00	1963	1964	6
+Sheffield United	Stoke City	0:0	4:1	11.09.1963	00:00	1963	1964	6
+Manchester United	Blackpool FC	0:0	3:0	11.09.1963	00:00	1963	1964	6
+Leicester City	Sheffield Wednesday	0:0	2:0	11.09.1963	00:00	1963	1964	6
+Chelsea FC	Blackburn Rovers	0:0	1:0	11.09.1963	00:00	1963	1964	6
+Birmingham City	West Bromwich Albion	0:0	0:1	11.09.1963	00:00	1963	1964	6
+Ipswich Town	Bolton Wanderers	0:0	1:3	01.10.1963	00:00	1963	1964	6
+Arsenal FC	Everton FC	0:0	6:0	10.12.1963	00:00	1963	1964	6
+Tottenham Hotspur	Aston Villa	0:0	3:1	25.01.1964	00:00	1963	1964	6
+Ipswich Town	Everton FC	0:0	0:0	14.09.1963	00:00	1963	1964	7
+Aston Villa	Chelsea FC	0:0	2:0	14.09.1963	00:00	1963	1964	7
+Wolverhampton Wanderers	Blackburn Rovers	0:0	1:5	14.09.1963	00:00	1963	1964	7
+Tottenham Hotspur	Blackpool FC	0:0	6:1	14.09.1963	00:00	1963	1964	7
+Stoke City	Nottingham Forest	0:0	0:1	14.09.1963	00:00	1963	1964	7
+Sheffield United	Sheffield Wednesday	0:0	1:1	14.09.1963	00:00	1963	1964	7
+Manchester United	West Bromwich Albion	0:0	1:0	14.09.1963	00:00	1963	1964	7
+Liverpool FC	West Ham United	0:0	1:2	14.09.1963	00:00	1963	1964	7
+Fulham FC	Arsenal FC	0:0	1:4	14.09.1963	00:00	1963	1964	7
+Burnley FC	Birmingham City	0:0	2:1	14.09.1963	00:00	1963	1964	7
+Bolton Wanderers	Leicester City	0:0	0:0	14.09.1963	00:00	1963	1964	7
+Aston Villa	Tottenham Hotspur	0:0	2:4	16.09.1963	00:00	1963	1964	8
+Blackburn Rovers	Chelsea FC	0:0	2:2	16.09.1963	00:00	1963	1964	8
+Blackpool FC	Manchester United	0:0	1:0	16.09.1963	00:00	1963	1964	8
+Liverpool FC	Wolverhampton Wanderers	0:0	6:0	16.09.1963	00:00	1963	1964	8
+Nottingham Forest	West Ham United	0:0	3:1	17.09.1963	00:00	1963	1964	8
+Bolton Wanderers	Ipswich Town	0:0	6:0	18.09.1963	00:00	1963	1964	8
+West Bromwich Albion	Birmingham City	0:0	3:1	18.09.1963	00:00	1963	1964	8
+Stoke City	Sheffield United	0:0	0:2	18.09.1963	00:00	1963	1964	8
+Fulham FC	Burnley FC	0:0	2:1	18.09.1963	00:00	1963	1964	8
+Everton FC	Arsenal FC	0:0	2:1	02.10.1963	00:00	1963	1964	8
+Sheffield Wednesday	Leicester City	0:0	1:2	02.10.1963	00:00	1963	1964	8
+Everton FC	Sheffield Wednesday	0:0	3:2	21.09.1963	00:00	1963	1964	9
+Arsenal FC	Manchester United	0:0	2:1	21.09.1963	00:00	1963	1964	9
+Birmingham City	Ipswich Town	0:0	1:0	21.09.1963	00:00	1963	1964	9
+West Ham United	Aston Villa	0:0	0:1	21.09.1963	00:00	1963	1964	9
+West Bromwich Albion	Burnley FC	0:0	0:0	21.09.1963	00:00	1963	1964	9
+Sheffield United	Liverpool FC	0:0	3:0	21.09.1963	00:00	1963	1964	9
+Nottingham Forest	Bolton Wanderers	0:0	3:1	21.09.1963	00:00	1963	1964	9
+Leicester City	Fulham FC	0:0	0:1	21.09.1963	00:00	1963	1964	9
+Chelsea FC	Tottenham Hotspur	0:0	0:3	21.09.1963	00:00	1963	1964	9
+Blackpool FC	Wolverhampton Wanderers	0:0	1:2	21.09.1963	00:00	1963	1964	9
+Blackburn Rovers	Stoke City	0:0	1:0	21.09.1963	00:00	1963	1964	9
+Liverpool FC	Everton FC	0:0	2:1	28.09.1963	00:00	1963	1964	10
+Burnley FC	Arsenal FC	0:0	0:3	28.09.1963	00:00	1963	1964	10
+Ipswich Town	West Bromwich Albion	0:0	1:2	28.09.1963	00:00	1963	1964	10
+Manchester United	Leicester City	0:0	3:1	28.09.1963	00:00	1963	1964	10
+Aston Villa	Sheffield United	0:0	0:1	28.09.1963	00:00	1963	1964	10
+Wolverhampton Wanderers	Chelsea FC	0:0	4:1	28.09.1963	00:00	1963	1964	10
+Tottenham Hotspur	West Ham United	0:0	3:0	28.09.1963	00:00	1963	1964	10
+Stoke City	Blackpool FC	0:0	1:2	28.09.1963	00:00	1963	1964	10
+Sheffield Wednesday	Birmingham City	0:0	2:1	28.09.1963	00:00	1963	1964	10
+Nottingham Forest	Blackburn Rovers	0:0	1:1	28.09.1963	00:00	1963	1964	10
+Fulham FC	Bolton Wanderers	0:0	3:1	28.09.1963	00:00	1963	1964	10
+West Ham United	Wolverhampton Wanderers	0:0	1:1	05.10.1963	00:00	1963	1964	11
+West Bromwich Albion	Sheffield Wednesday	0:0	1:3	05.10.1963	00:00	1963	1964	11
+Sheffield United	Tottenham Hotspur	0:0	3:3	05.10.1963	00:00	1963	1964	11
+Liverpool FC	Aston Villa	0:0	5:2	05.10.1963	00:00	1963	1964	11
+Arsenal FC	Ipswich Town	0:0	6:0	05.10.1963	00:00	1963	1964	11
+Birmingham City	Everton FC	0:0	0:2	05.10.1963	00:00	1963	1964	11
+Blackburn Rovers	Fulham FC	0:0	2:0	05.10.1963	00:00	1963	1964	11
+Blackpool FC	Nottingham Forest	0:0	1:0	05.10.1963	00:00	1963	1964	11
+Bolton Wanderers	Manchester United	0:0	0:1	05.10.1963	00:00	1963	1964	11
+Chelsea FC	Stoke City	0:0	3:3	05.10.1963	00:00	1963	1964	11
+Leicester City	Burnley FC	0:0	0:0	05.10.1963	00:00	1963	1964	11
+Blackpool FC	Fulham FC	0:0	1:0	30.09.1963	00:00	1963	1964	12
+Chelsea FC	Manchester United	0:0	1:1	02.10.1963	00:00	1963	1964	12
+Tottenham Hotspur	Birmingham City	0:0	6:1	02.10.1963	00:00	1963	1964	12
+Wolverhampton Wanderers	West Bromwich Albion	0:0	0:0	02.10.1963	00:00	1963	1964	12
+Aston Villa	Everton FC	0:0	0:1	07.10.1963	00:00	1963	1964	12
+West Ham United	Burnley FC	0:0	1:1	07.10.1963	00:00	1963	1964	12
+Nottingham Forest	Leicester City	0:0	2:0	08.10.1963	00:00	1963	1964	12
+Liverpool FC	Sheffield Wednesday	0:0	3:1	09.10.1963	00:00	1963	1964	12
+Sheffield United	Ipswich Town	0:0	3:1	09.10.1963	00:00	1963	1964	12
+Stoke City	Arsenal FC	0:0	1:2	09.10.1963	00:00	1963	1964	12
+Blackburn Rovers	Bolton Wanderers	0:0	3:0	09.10.1963	00:00	1963	1964	12
+West Bromwich Albion	Aston Villa	0:0	4:3	12.10.1963	00:00	1963	1964	13
+Sheffield Wednesday	West Ham United	0:0	3:0	12.10.1963	00:00	1963	1964	13
+Ipswich Town	Chelsea FC	0:0	1:3	12.10.1963	00:00	1963	1964	13
+Fulham FC	Nottingham Forest	0:0	0:0	12.10.1963	00:00	1963	1964	13
+Burnley FC	Blackpool FC	0:0	1:0	12.10.1963	00:00	1963	1964	13
+Bolton Wanderers	Stoke City	0:0	3:4	12.10.1963	00:00	1963	1964	13
+Leicester City	Wolverhampton Wanderers	0:0	0:1	14.10.1963	00:00	1963	1964	13
+Everton FC	Sheffield United	0:0	4:1	15.10.1963	00:00	1963	1964	13
+Arsenal FC	Tottenham Hotspur	0:0	4:4	15.10.1963	00:00	1963	1964	13
+Manchester United	Blackburn Rovers	0:0	2:2	28.10.1963	00:00	1963	1964	13
+Birmingham City	Liverpool FC	0:0	3:1	22.04.1964	00:00	1963	1964	13
+Sheffield United	Birmingham City	0:0	3:0	19.10.1963	00:00	1963	1964	14
+West Ham United	Everton FC	0:0	4:2	19.10.1963	00:00	1963	1964	14
+Aston Villa	Arsenal FC	0:0	2:1	19.10.1963	00:00	1963	1964	14
+Wolverhampton Wanderers	Bolton Wanderers	0:0	2:2	19.10.1963	00:00	1963	1964	14
+Tottenham Hotspur	Leicester City	0:0	1:1	19.10.1963	00:00	1963	1964	14
+Stoke City	Fulham FC	0:0	1:1	19.10.1963	00:00	1963	1964	14
+Nottingham Forest	Manchester United	0:0	1:2	19.10.1963	00:00	1963	1964	14
+Liverpool FC	West Bromwich Albion	0:0	1:0	19.10.1963	00:00	1963	1964	14
+Chelsea FC	Sheffield Wednesday	0:0	1:2	19.10.1963	00:00	1963	1964	14
+Blackpool FC	Ipswich Town	0:0	2:2	19.10.1963	00:00	1963	1964	14
+Blackburn Rovers	Burnley FC	0:0	1:2	19.10.1963	00:00	1963	1964	14
+Birmingham City	Wolverhampton Wanderers	0:0	2:2	26.10.1963	00:00	1963	1964	15
+Everton FC	Tottenham Hotspur	0:0	1:0	26.10.1963	00:00	1963	1964	15
+Arsenal FC	Nottingham Forest	0:0	4:2	26.10.1963	00:00	1963	1964	15
+Bolton Wanderers	Blackpool FC	0:0	1:1	26.10.1963	00:00	1963	1964	15
+Fulham FC	Chelsea FC	0:0	0:1	26.10.1963	00:00	1963	1964	15
+Ipswich Town	Liverpool FC	0:0	1:2	26.10.1963	00:00	1963	1964	15
+Leicester City	Blackburn Rovers	0:0	4:3	26.10.1963	00:00	1963	1964	15
+Manchester United	West Ham United	0:0	0:1	26.10.1963	00:00	1963	1964	15
+Sheffield Wednesday	Aston Villa	0:0	1:0	26.10.1963	00:00	1963	1964	15
+West Bromwich Albion	Stoke City	0:0	2:3	26.10.1963	00:00	1963	1964	15
+Burnley FC	Sheffield United	0:0	1:2	26.10.1963	00:00	1963	1964	15
+Chelsea FC	Birmingham City	0:0	2:3	02.11.1963	00:00	1963	1964	16
+Wolverhampton Wanderers	Manchester United	0:0	2:0	02.11.1963	00:00	1963	1964	16
+West Ham United	West Bromwich Albion	0:0	4:2	02.11.1963	00:00	1963	1964	16
+Tottenham Hotspur	Fulham FC	0:0	1:0	02.11.1963	00:00	1963	1964	16
+Stoke City	Burnley FC	0:0	4:4	02.11.1963	00:00	1963	1964	16
+Sheffield United	Arsenal FC	0:0	2:2	02.11.1963	00:00	1963	1964	16
+Nottingham Forest	Ipswich Town	0:0	3:1	02.11.1963	00:00	1963	1964	16
+Liverpool FC	Leicester City	0:0	0:1	02.11.1963	00:00	1963	1964	16
+Blackpool FC	Everton FC	0:0	1:1	02.11.1963	00:00	1963	1964	16
+Aston Villa	Bolton Wanderers	0:0	3:0	02.11.1963	00:00	1963	1964	16
+Blackburn Rovers	Sheffield Wednesday	0:0	1:1	02.11.1963	00:00	1963	1964	16
+Bolton Wanderers	Liverpool FC	0:0	1:2	09.11.1963	00:00	1963	1964	17
+West Bromwich Albion	Chelsea FC	0:0	1:1	09.11.1963	00:00	1963	1964	17
+Sheffield Wednesday	Nottingham Forest	0:0	3:1	09.11.1963	00:00	1963	1964	17
+Manchester United	Tottenham Hotspur	0:0	4:1	09.11.1963	00:00	1963	1964	17
+Leicester City	Sheffield United	0:0	0:1	09.11.1963	00:00	1963	1964	17
+Ipswich Town	Stoke City	0:0	0:2	09.11.1963	00:00	1963	1964	17
+Fulham FC	Aston Villa	0:0	2:0	09.11.1963	00:00	1963	1964	17
+Birmingham City	Blackpool FC	0:0	3:2	09.11.1963	00:00	1963	1964	17
+Arsenal FC	West Ham United	0:0	3:3	09.11.1963	00:00	1963	1964	17
+Burnley FC	Wolverhampton Wanderers	0:0	1:0	09.11.1963	00:00	1963	1964	17
+Everton FC	Blackburn Rovers	0:0	2:4	09.11.1963	00:00	1963	1964	17
+Nottingham Forest	Everton FC	0:0	2:2	16.11.1963	00:00	1963	1964	18
+Wolverhampton Wanderers	Ipswich Town	0:0	2:1	16.11.1963	00:00	1963	1964	18
+West Ham United	Leicester City	0:0	2:2	16.11.1963	00:00	1963	1964	18
+Stoke City	Sheffield Wednesday	0:0	4:4	16.11.1963	00:00	1963	1964	18
+Sheffield United	Bolton Wanderers	0:0	0:1	16.11.1963	00:00	1963	1964	18
+Liverpool FC	Fulham FC	0:0	2:0	16.11.1963	00:00	1963	1964	18
+Blackpool FC	West Bromwich Albion	0:0	1:0	16.11.1963	00:00	1963	1964	18
+Blackburn Rovers	Birmingham City	0:0	3:0	16.11.1963	00:00	1963	1964	18
+Aston Villa	Manchester United	0:0	4:0	16.11.1963	00:00	1963	1964	18
+Chelsea FC	Arsenal FC	0:0	3:1	16.11.1963	00:00	1963	1964	18
+Tottenham Hotspur	Burnley FC	0:0	3:2	16.11.1963	00:00	1963	1964	18
+Everton FC	Stoke City	0:0	2:0	23.11.1963	00:00	1963	1964	19
+Manchester United	Liverpool FC	0:0	0:1	23.11.1963	00:00	1963	1964	19
+Sheffield Wednesday	Wolverhampton Wanderers	0:0	5:0	23.11.1963	00:00	1963	1964	19
+Leicester City	Chelsea FC	0:0	2:4	23.11.1963	00:00	1963	1964	19
+Ipswich Town	Tottenham Hotspur	0:0	2:3	23.11.1963	00:00	1963	1964	19
+Fulham FC	Sheffield United	0:0	3:1	23.11.1963	00:00	1963	1964	19
+Burnley FC	Aston Villa	0:0	2:0	23.11.1963	00:00	1963	1964	19
+Bolton Wanderers	West Ham United	0:0	1:1	23.11.1963	00:00	1963	1964	19
+Birmingham City	Nottingham Forest	0:0	3:3	23.11.1963	00:00	1963	1964	19
+Arsenal FC	Blackpool FC	0:0	5:3	23.11.1963	00:00	1963	1964	19
+West Bromwich Albion	Blackburn Rovers	0:0	1:3	23.11.1963	00:00	1963	1964	19
+Wolverhampton Wanderers	Everton FC	0:0	0:0	30.11.1963	00:00	1963	1964	20
+Tottenham Hotspur	Sheffield Wednesday	0:0	1:1	30.11.1963	00:00	1963	1964	20
+Stoke City	Birmingham City	0:0	4:1	30.11.1963	00:00	1963	1964	20
+Sheffield United	Manchester United	0:0	1:2	30.11.1963	00:00	1963	1964	20
+Nottingham Forest	West Bromwich Albion	0:0	0:3	30.11.1963	00:00	1963	1964	20
+Chelsea FC	Bolton Wanderers	0:0	4:0	30.11.1963	00:00	1963	1964	20
+Blackpool FC	Leicester City	0:0	3:3	30.11.1963	00:00	1963	1964	20
+Aston Villa	Ipswich Town	0:0	0:0	30.11.1963	00:00	1963	1964	20
+West Ham United	Fulham FC	0:0	1:1	30.11.1963	00:00	1963	1964	20
+Blackburn Rovers	Arsenal FC	0:0	4:1	30.11.1963	00:00	1963	1964	20
+Liverpool FC	Burnley FC	0:0	2:0	30.11.1963	00:00	1963	1964	20
+Sheffield Wednesday	Blackpool FC	0:0	1:0	07.12.1963	00:00	1963	1964	21
+Manchester United	Stoke City	0:0	5:2	07.12.1963	00:00	1963	1964	21
+Leicester City	Aston Villa	0:0	0:0	07.12.1963	00:00	1963	1964	21
+Fulham FC	Wolverhampton Wanderers	0:0	4:1	07.12.1963	00:00	1963	1964	21
+Everton FC	Chelsea FC	0:0	1:1	07.12.1963	00:00	1963	1964	21
+Burnley FC	Nottingham Forest	0:0	1:1	07.12.1963	00:00	1963	1964	21
+Bolton Wanderers	Tottenham Hotspur	0:0	1:3	07.12.1963	00:00	1963	1964	21
+Birmingham City	West Ham United	0:0	2:1	07.12.1963	00:00	1963	1964	21
+West Bromwich Albion	Sheffield United	0:0	2:0	07.12.1963	00:00	1963	1964	21
+Arsenal FC	Liverpool FC	0:0	1:1	07.12.1963	00:00	1963	1964	21
+Ipswich Town	Blackburn Rovers	0:0	0:0	07.12.1963	00:00	1963	1964	21
+Tottenham Hotspur	Stoke City	0:0	2:1	14.12.1963	00:00	1963	1964	22
+Sheffield United	Blackpool FC	0:0	1:0	14.12.1963	00:00	1963	1964	22
+Manchester United	Sheffield Wednesday	0:0	3:1	14.12.1963	00:00	1963	1964	22
+Leicester City	West Bromwich Albion	0:0	0:2	14.12.1963	00:00	1963	1964	22
+Fulham FC	Everton FC	0:0	2:2	14.12.1963	00:00	1963	1964	22
+Burnley FC	Ipswich Town	0:0	3:1	14.12.1963	00:00	1963	1964	22
+Bolton Wanderers	Birmingham City	0:0	0:2	14.12.1963	00:00	1963	1964	22
+Aston Villa	Nottingham Forest	0:0	3:0	14.12.1963	00:00	1963	1964	22
+West Ham United	Chelsea FC	0:0	2:2	14.12.1963	00:00	1963	1964	22
+Liverpool FC	Blackburn Rovers	0:0	1:2	14.12.1963	00:00	1963	1964	22
+Wolverhampton Wanderers	Arsenal FC	0:0	2:2	14.12.1963	00:00	1963	1964	22
+Ipswich Town	West Ham United	0:0	3:2	20.12.1963	00:00	1963	1964	23
+Stoke City	Wolverhampton Wanderers	0:0	0:2	21.12.1963	00:00	1963	1964	23
+Sheffield Wednesday	Burnley FC	0:0	3:1	21.12.1963	00:00	1963	1964	23
+Nottingham Forest	Tottenham Hotspur	0:0	1:2	21.12.1963	00:00	1963	1964	23
+Everton FC	Manchester United	0:0	4:0	21.12.1963	00:00	1963	1964	23
+Chelsea FC	Sheffield United	0:0	3:2	21.12.1963	00:00	1963	1964	23
+Blackpool FC	Liverpool FC	0:0	0:1	21.12.1963	00:00	1963	1964	23
+Birmingham City	Fulham FC	0:0	0:0	21.12.1963	00:00	1963	1964	23
+West Bromwich Albion	Bolton Wanderers	0:0	1:1	21.12.1963	00:00	1963	1964	23
+Blackburn Rovers	Aston Villa	0:0	2:0	21.12.1963	00:00	1963	1964	23
+Arsenal FC	Leicester City	0:0	0:1	21.12.1963	00:00	1963	1964	23
+Arsenal FC	Birmingham City	0:0	4:1	05.11.1963	00:00	1963	1964	24
+West Bromwich Albion	Tottenham Hotspur	0:0	4:4	26.12.1963	00:00	1963	1964	24
+Sheffield Wednesday	Bolton Wanderers	0:0	3:0	26.12.1963	00:00	1963	1964	24
+Nottingham Forest	Sheffield United	0:0	3:3	26.12.1963	00:00	1963	1964	24
+Liverpool FC	Stoke City	0:0	6:1	26.12.1963	00:00	1963	1964	24
+Leicester City	Everton FC	0:0	2:0	26.12.1963	00:00	1963	1964	24
+Fulham FC	Ipswich Town	0:0	10:1	26.12.1963	00:00	1963	1964	24
+Blackpool FC	Chelsea FC	0:0	1:5	26.12.1963	00:00	1963	1964	24
+Wolverhampton Wanderers	Aston Villa	0:0	3:3	26.12.1963	00:00	1963	1964	24
+Burnley FC	Manchester United	0:0	6:1	26.12.1963	00:00	1963	1964	24
+West Ham United	Blackburn Rovers	0:0	2:8	26.12.1963	00:00	1963	1964	24
+Tottenham Hotspur	West Bromwich Albion	0:0	0:2	28.12.1963	00:00	1963	1964	25
+Sheffield United	Nottingham Forest	0:0	1:2	28.12.1963	00:00	1963	1964	25
+Ipswich Town	Fulham FC	0:0	4:2	28.12.1963	00:00	1963	1964	25
+Everton FC	Leicester City	0:0	0:3	28.12.1963	00:00	1963	1964	25
+Chelsea FC	Blackpool FC	0:0	1:0	28.12.1963	00:00	1963	1964	25
+Bolton Wanderers	Sheffield Wednesday	0:0	3:0	28.12.1963	00:00	1963	1964	25
+Aston Villa	Wolverhampton Wanderers	0:0	2:2	28.12.1963	00:00	1963	1964	25
+Birmingham City	Arsenal FC	0:0	1:4	28.12.1963	00:00	1963	1964	25
+Blackburn Rovers	West Ham United	0:0	1:3	28.12.1963	00:00	1963	1964	25
+Manchester United	Burnley FC	0:0	5:1	28.12.1963	00:00	1963	1964	25
+Stoke City	Liverpool FC	0:0	3:1	29.04.1964	00:00	1963	1964	25
+Leicester City	Stoke City	0:0	2:1	11.01.1964	00:00	1963	1964	26
+Manchester United	Birmingham City	0:0	1:2	11.01.1964	00:00	1963	1964	26
+Wolverhampton Wanderers	Nottingham Forest	0:0	2:3	11.01.1964	00:00	1963	1964	26
+Sheffield United	West Ham United	0:0	2:1	11.01.1964	00:00	1963	1964	26
+Liverpool FC	Chelsea FC	0:0	2:1	11.01.1964	00:00	1963	1964	26
+Ipswich Town	Sheffield Wednesday	0:0	1:4	11.01.1964	00:00	1963	1964	26
+Fulham FC	West Bromwich Albion	0:0	1:1	11.01.1964	00:00	1963	1964	26
+Burnley FC	Everton FC	0:0	2:3	11.01.1964	00:00	1963	1964	26
+Aston Villa	Blackpool FC	0:0	3:1	11.01.1964	00:00	1963	1964	26
+Bolton Wanderers	Arsenal FC	0:0	1:1	11.01.1964	00:00	1963	1964	26
+Tottenham Hotspur	Blackburn Rovers	0:0	4:1	11.01.1964	00:00	1963	1964	26
+Birmingham City	Burnley FC	0:0	0:0	18.01.1964	00:00	1963	1964	27
+West Ham United	Liverpool FC	0:0	1:0	18.01.1964	00:00	1963	1964	27
+West Bromwich Albion	Manchester United	0:0	1:4	18.01.1964	00:00	1963	1964	27
+Sheffield Wednesday	Sheffield United	0:0	3:0	18.01.1964	00:00	1963	1964	27
+Nottingham Forest	Stoke City	0:0	0:0	18.01.1964	00:00	1963	1964	27
+Leicester City	Bolton Wanderers	0:0	1:0	18.01.1964	00:00	1963	1964	27
+Everton FC	Ipswich Town	0:0	1:1	18.01.1964	00:00	1963	1964	27
+Chelsea FC	Aston Villa	0:0	1:0	18.01.1964	00:00	1963	1964	27
+Blackpool FC	Tottenham Hotspur	0:0	0:2	18.01.1964	00:00	1963	1964	27
+Arsenal FC	Fulham FC	0:0	2:2	18.01.1964	00:00	1963	1964	27
+Blackburn Rovers	Wolverhampton Wanderers	0:0	1:1	18.01.1964	00:00	1963	1964	27
+Liverpool FC	Sheffield United	0:0	6:1	01.02.1964	00:00	1963	1964	28
+Ipswich Town	Birmingham City	0:0	3:2	01.02.1964	00:00	1963	1964	28
+Wolverhampton Wanderers	Blackpool FC	0:0	1:1	01.02.1964	00:00	1963	1964	28
+Tottenham Hotspur	Chelsea FC	0:0	1:2	01.02.1964	00:00	1963	1964	28
+Sheffield Wednesday	Everton FC	0:0	0:3	01.02.1964	00:00	1963	1964	28
+Fulham FC	Leicester City	0:0	2:1	01.02.1964	00:00	1963	1964	28
+Burnley FC	West Bromwich Albion	0:0	3:2	01.02.1964	00:00	1963	1964	28
+Bolton Wanderers	Nottingham Forest	0:0	2:3	01.02.1964	00:00	1963	1964	28
+Aston Villa	West Ham United	0:0	2:2	01.02.1964	00:00	1963	1964	28
+Manchester United	Arsenal FC	0:0	3:1	01.02.1964	00:00	1963	1964	28
+Stoke City	Blackburn Rovers	0:0	3:1	01.02.1964	00:00	1963	1964	28
+Birmingham City	Sheffield Wednesday	0:0	1:2	08.02.1964	00:00	1963	1964	29
+West Ham United	Tottenham Hotspur	0:0	4:0	08.02.1964	00:00	1963	1964	29
+West Bromwich Albion	Ipswich Town	0:0	2:1	08.02.1964	00:00	1963	1964	29
+Leicester City	Manchester United	0:0	3:2	08.02.1964	00:00	1963	1964	29
+Everton FC	Liverpool FC	0:0	3:1	08.02.1964	00:00	1963	1964	29
+Chelsea FC	Wolverhampton Wanderers	0:0	2:3	08.02.1964	00:00	1963	1964	29
+Bolton Wanderers	Fulham FC	0:0	2:1	08.02.1964	00:00	1963	1964	29
+Blackpool FC	Stoke City	0:0	1:0	08.02.1964	00:00	1963	1964	29
+Arsenal FC	Burnley FC	0:0	3:2	08.02.1964	00:00	1963	1964	29
+Blackburn Rovers	Nottingham Forest	0:0	2:0	08.02.1964	00:00	1963	1964	29
+Sheffield United	Aston Villa	0:0	1:1	08.02.1964	00:00	1963	1964	29
+Tottenham Hotspur	Sheffield United	0:0	0:0	15.02.1964	00:00	1963	1964	30
+Sheffield Wednesday	West Bromwich Albion	0:0	2:2	15.02.1964	00:00	1963	1964	30
+Nottingham Forest	Blackpool FC	0:0	0:1	15.02.1964	00:00	1963	1964	30
+Wolverhampton Wanderers	West Ham United	0:0	0:2	17.02.1964	00:00	1963	1964	30
+Everton FC	Birmingham City	0:0	3:0	18.02.1964	00:00	1963	1964	30
+Ipswich Town	Arsenal FC	0:0	1:2	18.02.1964	00:00	1963	1964	30
+Manchester United	Bolton Wanderers	0:0	5:0	19.02.1964	00:00	1963	1964	30
+Aston Villa	Liverpool FC	0:0	2:2	19.02.1964	00:00	1963	1964	30
+Fulham FC	Blackburn Rovers	0:0	1:1	19.02.1964	00:00	1963	1964	30
+Stoke City	Chelsea FC	0:0	2:0	04.03.1964	00:00	1963	1964	30
+Burnley FC	Leicester City	0:0	2:0	10.03.1964	00:00	1963	1964	30
+Stoke City	Bolton Wanderers	0:0	0:1	22.02.1964	00:00	1963	1964	31
+Chelsea FC	Ipswich Town	0:0	4:0	22.02.1964	00:00	1963	1964	31
+Liverpool FC	Birmingham City	0:0	2:1	22.02.1964	00:00	1963	1964	31
+Wolverhampton Wanderers	Leicester City	0:0	1:2	22.02.1964	00:00	1963	1964	31
+West Ham United	Sheffield Wednesday	0:0	4:3	22.02.1964	00:00	1963	1964	31
+Sheffield United	Everton FC	0:0	0:0	22.02.1964	00:00	1963	1964	31
+Nottingham Forest	Fulham FC	0:0	2:0	22.02.1964	00:00	1963	1964	31
+Blackpool FC	Burnley FC	0:0	1:1	22.02.1964	00:00	1963	1964	31
+Aston Villa	West Bromwich Albion	0:0	1:0	22.02.1964	00:00	1963	1964	31
+Blackburn Rovers	Manchester United	0:0	1:3	22.02.1964	00:00	1963	1964	31
+Tottenham Hotspur	Arsenal FC	0:0	3:1	22.02.1964	00:00	1963	1964	31
+Everton FC	Aston Villa	0:0	4:2	28.02.1964	00:00	1963	1964	32
+Birmingham City	Tottenham Hotspur	0:0	1:2	29.02.1964	00:00	1963	1964	32
+West Bromwich Albion	Wolverhampton Wanderers	0:0	3:1	29.02.1964	00:00	1963	1964	32
+Leicester City	Nottingham Forest	0:0	1:1	29.02.1964	00:00	1963	1964	32
+Ipswich Town	Sheffield United	0:0	1:0	29.02.1964	00:00	1963	1964	32
+Fulham FC	Blackpool FC	0:0	1:1	29.02.1964	00:00	1963	1964	32
+Arsenal FC	Stoke City	0:0	1:1	29.02.1964	00:00	1963	1964	32
+Bolton Wanderers	Blackburn Rovers	0:0	0:5	29.02.1964	00:00	1963	1964	32
+Burnley FC	West Ham United	0:0	3:1	03.03.1964	00:00	1963	1964	32
+Sheffield Wednesday	Liverpool FC	0:0	2:2	04.03.1964	00:00	1963	1964	32
+Manchester United	Chelsea FC	0:0	1:1	23.03.1964	00:00	1963	1964	32
+Stoke City	West Bromwich Albion	0:0	1:1	07.03.1964	00:00	1963	1964	33
+Wolverhampton Wanderers	Birmingham City	0:0	5:1	07.03.1964	00:00	1963	1964	33
+West Ham United	Manchester United	0:0	0:2	07.03.1964	00:00	1963	1964	33
+Tottenham Hotspur	Everton FC	0:0	2:4	07.03.1964	00:00	1963	1964	33
+Sheffield United	Burnley FC	0:0	2:0	07.03.1964	00:00	1963	1964	33
+Liverpool FC	Ipswich Town	0:0	6:0	07.03.1964	00:00	1963	1964	33
+Chelsea FC	Fulham FC	0:0	1:2	07.03.1964	00:00	1963	1964	33
+Blackpool FC	Bolton Wanderers	0:0	2:0	07.03.1964	00:00	1963	1964	33
+Aston Villa	Sheffield Wednesday	0:0	2:2	07.03.1964	00:00	1963	1964	33
+Blackburn Rovers	Leicester City	0:0	5:2	07.03.1964	00:00	1963	1964	33
+Nottingham Forest	Arsenal FC	0:0	2:0	07.03.1964	00:00	1963	1964	33
+Birmingham City	Blackburn Rovers	0:0	2:2	13.03.1964	00:00	1963	1964	34
+West Bromwich Albion	Blackpool FC	0:0	2:1	13.03.1964	00:00	1963	1964	34
+Fulham FC	Liverpool FC	0:0	1:0	14.03.1964	00:00	1963	1964	34
+Everton FC	Nottingham Forest	0:0	6:1	14.03.1964	00:00	1963	1964	34
+Arsenal FC	Chelsea FC	0:0	2:4	14.03.1964	00:00	1963	1964	34
+Leicester City	West Ham United	0:0	2:2	18.03.1964	00:00	1963	1964	34
+Manchester United	Aston Villa	0:0	1:0	06.04.1964	00:00	1963	1964	34
+Bolton Wanderers	Sheffield United	0:0	3:0	08.04.1964	00:00	1963	1964	34
+Sheffield Wednesday	Stoke City	0:0	2:0	08.04.1964	00:00	1963	1964	34
+Ipswich Town	Wolverhampton Wanderers	0:0	1:0	14.04.1964	00:00	1963	1964	34
+Burnley FC	Tottenham Hotspur	0:0	7:2	21.04.1964	00:00	1963	1964	34
+Liverpool FC	Bolton Wanderers	0:0	2:0	20.03.1964	00:00	1963	1964	35
+Blackpool FC	Birmingham City	0:0	3:0	20.03.1964	00:00	1963	1964	35
+Tottenham Hotspur	Manchester United	0:0	2:3	21.03.1964	00:00	1963	1964	35
+Stoke City	Ipswich Town	0:0	9:1	21.03.1964	00:00	1963	1964	35
+Aston Villa	Fulham FC	0:0	2:2	21.03.1964	00:00	1963	1964	35
+Chelsea FC	West Bromwich Albion	0:0	3:1	21.03.1964	00:00	1963	1964	35
+Nottingham Forest	Sheffield Wednesday	0:0	3:2	21.03.1964	00:00	1963	1964	35
+Sheffield United	Leicester City	0:0	0:1	21.03.1964	00:00	1963	1964	35
+Wolverhampton Wanderers	Burnley FC	0:0	1:1	21.03.1964	00:00	1963	1964	35
+Blackburn Rovers	Everton FC	0:0	1:2	21.03.1964	00:00	1963	1964	35
+West Ham United	Arsenal FC	0:0	1:1	21.03.1964	00:00	1963	1964	35
+Arsenal FC	Sheffield Wednesday	0:0	1:1	24.03.1964	00:00	1963	1964	36
+Tottenham Hotspur	Liverpool FC	0:0	1:3	27.03.1964	00:00	1963	1964	36
+West Ham United	Stoke City	0:0	4:1	27.03.1964	00:00	1963	1964	36
+Everton FC	West Bromwich Albion	0:0	1:1	27.03.1964	00:00	1963	1964	36
+Fulham FC	Manchester United	0:0	2:2	27.03.1964	00:00	1963	1964	36
+Blackburn Rovers	Blackpool FC	0:0	1:2	27.03.1964	00:00	1963	1964	36
+Aston Villa	Birmingham City	0:0	0:3	30.03.1964	00:00	1963	1964	36
+Ipswich Town	Leicester City	0:0	1:1	30.03.1964	00:00	1963	1964	36
+Wolverhampton Wanderers	Sheffield United	0:0	1:1	30.03.1964	00:00	1963	1964	36
+Bolton Wanderers	Burnley FC	0:0	2:1	30.03.1964	00:00	1963	1964	36
+Chelsea FC	Nottingham Forest	0:0	1:0	30.03.1964	00:00	1963	1964	36
+Birmingham City	Chelsea FC	0:0	3:4	28.03.1964	00:00	1963	1964	37
+Burnley FC	Stoke City	0:0	1:0	28.03.1964	00:00	1963	1964	37
+Ipswich Town	Nottingham Forest	0:0	4:3	28.03.1964	00:00	1963	1964	37
+Manchester United	Wolverhampton Wanderers	0:0	2:2	28.03.1964	00:00	1963	1964	37
+Leicester City	Liverpool FC	0:0	0:2	28.03.1964	00:00	1963	1964	37
+Bolton Wanderers	Aston Villa	0:0	1:1	28.03.1964	00:00	1963	1964	37
+Everton FC	Blackpool FC	0:0	3:1	28.03.1964	00:00	1963	1964	37
+Fulham FC	Tottenham Hotspur	0:0	1:1	28.03.1964	00:00	1963	1964	37
+West Bromwich Albion	West Ham United	0:0	0:1	28.03.1964	00:00	1963	1964	37
+Arsenal FC	Sheffield United	0:0	1:3	28.03.1964	00:00	1963	1964	37
+Sheffield Wednesday	Blackburn Rovers	0:0	5:2	28.03.1964	00:00	1963	1964	37
+Liverpool FC	Tottenham Hotspur	0:0	3:1	30.03.1964	00:00	1963	1964	38
+Manchester United	Fulham FC	0:0	3:0	30.03.1964	00:00	1963	1964	38
+Blackpool FC	Blackburn Rovers	0:0	3:2	30.03.1964	00:00	1963	1964	38
+Sheffield Wednesday	Arsenal FC	0:0	0:4	30.03.1964	00:00	1963	1964	38
+Stoke City	West Ham United	0:0	3:0	31.03.1964	00:00	1963	1964	38
+Birmingham City	Aston Villa	0:0	3:3	31.03.1964	00:00	1963	1964	38
+Leicester City	Ipswich Town	0:0	2:1	31.03.1964	00:00	1963	1964	38
+Sheffield United	Wolverhampton Wanderers	0:0	4:3	31.03.1964	00:00	1963	1964	38
+Burnley FC	Bolton Wanderers	0:0	1:1	31.03.1964	00:00	1963	1964	38
+West Bromwich Albion	Everton FC	0:0	4:2	31.03.1964	00:00	1963	1964	38
+Nottingham Forest	Chelsea FC	0:0	0:1	31.03.1964	00:00	1963	1964	38
+Liverpool FC	Manchester United	0:0	3:0	04.04.1964	00:00	1963	1964	39
+Nottingham Forest	Birmingham City	0:0	4:0	04.04.1964	00:00	1963	1964	39
+Tottenham Hotspur	Ipswich Town	0:0	6:3	04.04.1964	00:00	1963	1964	39
+Wolverhampton Wanderers	Sheffield Wednesday	0:0	1:1	04.04.1964	00:00	1963	1964	39
+West Ham United	Bolton Wanderers	0:0	2:3	04.04.1964	00:00	1963	1964	39
+Stoke City	Everton FC	0:0	3:2	04.04.1964	00:00	1963	1964	39
+Sheffield United	Fulham FC	0:0	1:0	04.04.1964	00:00	1963	1964	39
+Aston Villa	Burnley FC	0:0	2:0	04.04.1964	00:00	1963	1964	39
+Blackburn Rovers	West Bromwich Albion	0:0	0:2	04.04.1964	00:00	1963	1964	39
+Blackpool FC	Arsenal FC	0:0	0:1	04.04.1964	00:00	1963	1964	39
+Chelsea FC	Leicester City	0:0	1:0	06.04.1964	00:00	1963	1964	39
+Birmingham City	Stoke City	0:0	0:1	11.04.1964	00:00	1963	1964	40
+Ipswich Town	Aston Villa	0:0	4:3	11.04.1964	00:00	1963	1964	40
+West Bromwich Albion	Nottingham Forest	0:0	2:3	11.04.1964	00:00	1963	1964	40
+Leicester City	Blackpool FC	0:0	2:3	11.04.1964	00:00	1963	1964	40
+Fulham FC	West Ham United	0:0	2:0	11.04.1964	00:00	1963	1964	40
+Everton FC	Wolverhampton Wanderers	0:0	3:3	11.04.1964	00:00	1963	1964	40
+Arsenal FC	Blackburn Rovers	0:0	0:0	11.04.1964	00:00	1963	1964	40
+Bolton Wanderers	Chelsea FC	0:0	1:0	11.04.1964	00:00	1963	1964	40
+Manchester United	Sheffield United	0:0	2:1	13.04.1964	00:00	1963	1964	40
+Sheffield Wednesday	Tottenham Hotspur	0:0	2:0	13.04.1964	00:00	1963	1964	40
+Burnley FC	Liverpool FC	0:0	0:3	14.04.1964	00:00	1963	1964	40
+West Ham United	Birmingham City	0:0	5:0	17.04.1964	00:00	1963	1964	41
+Stoke City	Manchester United	0:0	3:1	18.04.1964	00:00	1963	1964	41
+Wolverhampton Wanderers	Fulham FC	0:0	4:0	18.04.1964	00:00	1963	1964	41
+Tottenham Hotspur	Bolton Wanderers	0:0	1:0	18.04.1964	00:00	1963	1964	41
+Sheffield United	West Bromwich Albion	0:0	2:1	18.04.1964	00:00	1963	1964	41
+Nottingham Forest	Burnley FC	0:0	1:3	18.04.1964	00:00	1963	1964	41
+Blackpool FC	Sheffield Wednesday	0:0	2:2	18.04.1964	00:00	1963	1964	41
+Aston Villa	Leicester City	0:0	1:3	18.04.1964	00:00	1963	1964	41
+Blackburn Rovers	Ipswich Town	0:0	3:1	18.04.1964	00:00	1963	1964	41
+Chelsea FC	Everton FC	0:0	1:0	18.04.1964	00:00	1963	1964	41
+Liverpool FC	Arsenal FC	0:0	5:0	18.04.1964	00:00	1963	1964	41
+Arsenal FC	Aston Villa	0:0	3:0	10.09.1963	00:00	1963	1964	42
+Burnley FC	Blackburn Rovers	0:0	3:0	01.10.1963	00:00	1963	1964	42
+Sheffield Wednesday	Chelsea FC	0:0	3:2	29.02.1964	00:00	1963	1964	42
+Bolton Wanderers	Wolverhampton Wanderers	0:0	0:4	24.04.1964	00:00	1963	1964	42
+Fulham FC	Stoke City	0:0	3:3	25.04.1964	00:00	1963	1964	42
+West Bromwich Albion	Liverpool FC	0:0	2:2	25.04.1964	00:00	1963	1964	42
+Manchester United	Nottingham Forest	0:0	3:1	25.04.1964	00:00	1963	1964	42
+Leicester City	Tottenham Hotspur	0:0	0:1	25.04.1964	00:00	1963	1964	42
+Ipswich Town	Blackpool FC	0:0	4:3	25.04.1964	00:00	1963	1964	42
+Everton FC	West Ham United	0:0	2:0	25.04.1964	00:00	1963	1964	42
+Birmingham City	Sheffield United	0:0	3:0	25.04.1964	00:00	1963	1964	42

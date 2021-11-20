@@ -1,0 +1,306 @@
+Chievo Verona	AC Perugia	2:0	3:0	06.11.2002	20:30	2002	2003	1
+Piacenza Calcio	Juventus	0:0	0:1	06.11.2002	20:30	2002	2003	1
+Parma AC	Brescia Calcio	2:2	4:3	06.11.2002	20:30	2002	2003	1
+AC Milan	Udinese Calcio	0:0	1:0	06.11.2002	20:30	2002	2003	1
+Torino FC	Bologna FC	1:1	2:1	06.11.2002	20:30	2002	2003	1
+Reggina Calcio	Lazio Roma	0:2	0:3	06.11.2002	20:30	2002	2003	1
+AS Roma	Calcio Como	1:0	2:1	06.11.2002	20:30	2002	2003	1
+Atalanta	Modena FC	0:2	1:3	06.11.2002	20:30	2002	2003	1
+Empoli FC	Inter	1:2	3:4	06.11.2002	20:30	2002	2003	1
+Inter	Torino FC	1:0	1:0	14.09.2002	15:00	2002	2003	2
+Bologna FC	AS Roma	0:1	2:1	14.09.2002	15:00	2002	2003	2
+Calcio Como	Empoli FC	0:1	0:2	14.09.2002	18:00	2002	2003	2
+Modena FC	AC Milan	0:1	0:3	14.09.2002	20:30	2002	2003	2
+Lazio Roma	Chievo Verona	1:1	2:3	15.09.2002	15:00	2002	2003	2
+Udinese Calcio	Parma AC	0:1	1:1	15.09.2002	15:00	2002	2003	2
+Juventus	Atalanta	2:0	3:0	15.09.2002	15:00	2002	2003	2
+AC Perugia	Reggina Calcio	0:0	2:0	15.09.2002	18:00	2002	2003	2
+Brescia Calcio	Piacenza Calcio	0:0	1:2	15.09.2002	20:30	2002	2003	2
+AC Milan	AC Perugia	1:0	3:0	21.09.2002	18:00	2002	2003	3
+Empoli FC	Juventus	0:1	0:2	21.09.2002	20:30	2002	2003	3
+Parma AC	Calcio Como	1:0	2:0	22.09.2002	15:00	2002	2003	3
+Chievo Verona	Brescia Calcio	0:0	1:2	22.09.2002	15:00	2002	2003	3
+Piacenza Calcio	Udinese Calcio	1:0	2:0	22.09.2002	15:00	2002	2003	3
+Atalanta	Bologna FC	1:1	2:2	22.09.2002	15:00	2002	2003	3
+Torino FC	Lazio Roma	0:0	0:1	22.09.2002	15:00	2002	2003	3
+Reggina Calcio	Inter	0:1	1:2	22.09.2002	15:00	2002	2003	3
+AS Roma	Modena FC	1:1	1:2	22.09.2002	20:30	2002	2003	3
+Juventus	Parma AC	0:0	2:2	28.09.2002	18:00	2002	2003	4
+Lazio Roma	AC Milan	0:1	1:1	28.09.2002	20:30	2002	2003	4
+Modena FC	Torino FC	1:0	2:1	29.09.2002	15:00	2002	2003	4
+Calcio Como	Reggina Calcio	1:0	1:1	29.09.2002	15:00	2002	2003	4
+Brescia Calcio	AS Roma	1:2	2:3	29.09.2002	15:00	2002	2003	4
+Udinese Calcio	Atalanta	0:0	1:0	29.09.2002	15:00	2002	2003	4
+AC Perugia	Empoli FC	1:2	1:3	29.09.2002	15:00	2002	2003	4
+Bologna FC	Piacenza Calcio	0:0	1:0	29.09.2002	15:00	2002	2003	4
+Inter	Chievo Verona	1:1	2:1	29.09.2002	20:30	2002	2003	4
+Reggina Calcio	Brescia Calcio	1:1	2:2	05.10.2002	18:00	2002	2003	5
+AS Roma	Udinese Calcio	1:0	4:1	05.10.2002	20:30	2002	2003	5
+AC Milan	Torino FC	3:0	6:0	06.10.2002	15:00	2002	2003	5
+Juventus	Calcio Como	0:0	1:1	06.10.2002	15:00	2002	2003	5
+Chievo Verona	Modena FC	1:0	2:0	06.10.2002	15:00	2002	2003	5
+Parma AC	AC Perugia	1:0	2:2	06.10.2002	15:00	2002	2003	5
+Empoli FC	Bologna FC	0:0	0:0	06.10.2002	15:00	2002	2003	5
+Piacenza Calcio	Inter	0:1	1:4	06.10.2002	15:00	2002	2003	5
+Atalanta	Lazio Roma	0:1	0:1	06.10.2002	20:30	2002	2003	5
+Empoli FC	AS Roma	0:2	1:3	19.10.2002	18:00	2002	2003	6
+Inter	Juventus	0:0	1:1	19.10.2002	20:30	2002	2003	6
+Lazio Roma	AC Perugia	1:0	3:0	20.10.2002	15:00	2002	2003	6
+Udinese Calcio	Reggina Calcio	0:0	1:0	20.10.2002	15:00	2002	2003	6
+Torino FC	Chievo Verona	1:0	1:0	20.10.2002	15:00	2002	2003	6
+Atalanta	AC Milan	1:2	1:4	20.10.2002	15:00	2002	2003	6
+Bologna FC	Brescia Calcio	1:0	3:0	20.10.2002	15:00	2002	2003	6
+Calcio Como	Piacenza Calcio	1:1	1:1	20.10.2002	15:00	2002	2003	6
+Modena FC	Parma AC	0:1	2:1	20.10.2002	20:30	2002	2003	6
+Chievo Verona	AC Milan	1:0	3:2	26.10.2002	18:00	2002	2003	7
+Juventus	Udinese Calcio	0:0	1:0	26.10.2002	20:30	2002	2003	7
+Reggina Calcio	Torino FC	0:0	2:1	27.10.2002	15:00	2002	2003	7
+Brescia Calcio	Calcio Como	0:0	1:1	27.10.2002	15:00	2002	2003	7
+AC Perugia	Modena FC	2:0	2:0	27.10.2002	15:00	2002	2003	7
+Parma AC	Atalanta	1:0	2:1	27.10.2002	15:00	2002	2003	7
+Inter	Bologna FC	0:0	2:0	27.10.2002	15:00	2002	2003	7
+Piacenza Calcio	Empoli FC	1:1	1:2	27.10.2002	15:00	2002	2003	7
+Lazio Roma	AS Roma	0:0	2:2	27.10.2002	20:30	2002	2003	7
+Udinese Calcio	Bologna FC	0:0	0:0	02.11.2002	18:00	2002	2003	8
+Torino FC	Brescia Calcio	0:1	0:2	02.11.2002	20:30	2002	2003	8
+AS Roma	AC Perugia	0:2	2:2	03.11.2002	15:00	2002	2003	8
+AC Milan	Reggina Calcio	1:0	2:0	03.11.2002	15:00	2002	2003	8
+Modena FC	Juventus	0:0	0:1	03.11.2002	15:00	2002	2003	8
+Atalanta	Piacenza Calcio	0:0	2:0	03.11.2002	15:00	2002	2003	8
+Empoli FC	Lazio Roma	1:1	1:2	03.11.2002	15:00	2002	2003	8
+Calcio Como	Inter	0:0	0:2	03.11.2002	15:00	2002	2003	8
+Parma AC	Chievo Verona	0:0	0:1	03.11.2002	20:30	2002	2003	8
+Inter	Udinese Calcio	1:1	1:2	09.11.2002	18:00	2002	2003	9
+Piacenza Calcio	AS Roma	0:1	1:1	09.11.2002	20:30	2002	2003	9
+AC Perugia	Torino FC	1:0	2:1	10.11.2002	15:00	2002	2003	9
+Bologna FC	Calcio Como	0:0	1:0	10.11.2002	15:00	2002	2003	9
+Reggina Calcio	Modena FC	0:0	0:1	10.11.2002	15:00	2002	2003	9
+Chievo Verona	Atalanta	1:1	4:1	10.11.2002	15:00	2002	2003	9
+Brescia Calcio	Empoli FC	0:0	0:2	10.11.2002	15:00	2002	2003	9
+Lazio Roma	Parma AC	0:0	0:0	10.11.2002	15:00	2002	2003	9
+Juventus	AC Milan	2:1	2:1	10.11.2002	20:30	2002	2003	9
+Bologna FC	AC Perugia	2:1	2:1	16.11.2002	18:00	2002	2003	10
+AS Roma	Inter	0:0	2:2	16.11.2002	20:30	2002	2003	10
+Empoli FC	Reggina Calcio	2:1	4:2	17.11.2002	15:00	2002	2003	10
+Udinese Calcio	Chievo Verona	2:0	2:1	17.11.2002	15:00	2002	2003	10
+Atalanta	Brescia Calcio	0:0	2:0	17.11.2002	15:00	2002	2003	10
+Modena FC	Piacenza Calcio	1:0	1:0	17.11.2002	15:00	2002	2003	10
+AC Milan	Parma AC	0:0	2:1	17.11.2002	15:00	2002	2003	10
+Calcio Como	Lazio Roma	1:1	1:3	17.11.2002	15:00	2002	2003	10
+Torino FC	Juventus	0:2	0:4	17.11.2002	20:30	2002	2003	10
+Juventus	Bologna FC	0:0	1:1	23.11.2002	18:00	2002	2003	11
+AC Milan	Inter	1:0	1:0	23.11.2002	20:30	2002	2003	11
+Piacenza Calcio	Torino FC	1:0	1:0	24.11.2002	15:00	2002	2003	11
+AC Perugia	Calcio Como	1:0	3:0	24.11.2002	15:00	2002	2003	11
+Parma AC	AS Roma	2:0	3:0	24.11.2002	15:00	2002	2003	11
+Brescia Calcio	Udinese Calcio	0:1	1:1	24.11.2002	15:00	2002	2003	11
+Reggina Calcio	Atalanta	0:1	1:1	24.11.2002	15:00	2002	2003	11
+Chievo Verona	Empoli FC	1:0	1:0	24.11.2002	15:00	2002	2003	11
+Lazio Roma	Modena FC	2:0	4:0	24.11.2002	20:30	2002	2003	11
+Reggina Calcio	Chievo Verona	1:0	1:1	30.11.2002	20:30	2002	2003	12
+Atalanta	AC Perugia	0:1	0:2	01.12.2002	15:00	2002	2003	12
+Bologna FC	Modena FC	0:0	3:0	01.12.2002	15:00	2002	2003	12
+Torino FC	Parma AC	0:2	0:4	01.12.2002	15:00	2002	2003	12
+Empoli FC	AC Milan	1:0	1:1	01.12.2002	15:00	2002	2003	12
+Piacenza Calcio	Lazio Roma	2:2	2:3	01.12.2002	15:00	2002	2003	12
+Inter	Brescia Calcio	2:0	4:0	01.12.2002	15:00	2002	2003	12
+AS Roma	Juventus	2:1	2:2	01.12.2002	20:30	2002	2003	12
+Calcio Como	Udinese Calcio	0:2	0:2	18.12.2002	20:30	2002	2003	12
+AC Milan	AS Roma	0:0	1:0	07.12.2002	20:45	2002	2003	13
+Lazio Roma	Inter	3:1	3:3	07.12.2002	20:45	2002	2003	13
+Parma AC	Reggina Calcio	0:0	2:0	08.12.2002	15:15	2002	2003	13
+Modena FC	Calcio Como	0:0	1:1	08.12.2002	15:15	2002	2003	13
+Brescia Calcio	Juventus	0:0	2:0	08.12.2002	15:15	2002	2003	13
+AC Perugia	Piacenza Calcio	0:0	0:0	08.12.2002	15:15	2002	2003	13
+Udinese Calcio	Empoli FC	1:1	2:1	08.12.2002	15:15	2002	2003	13
+Chievo Verona	Bologna FC	0:0	0:0	08.12.2002	20:45	2002	2003	13
+Torino FC	Atalanta	0:1	1:1	06.01.2003	15:00	2002	2003	13
+Piacenza Calcio	Chievo Verona	0:0	0:3	14.12.2002	18:00	2002	2003	14
+Bologna FC	Parma AC	2:1	2:1	14.12.2002	20:30	2002	2003	14
+AS Roma	Reggina Calcio	2:0	3:0	15.12.2002	15:00	2002	2003	14
+Empoli FC	Modena FC	0:0	1:0	15.12.2002	15:00	2002	2003	14
+Calcio Como	AC Milan	1:2	1:2	15.12.2002	15:00	2002	2003	14
+Brescia Calcio	AC Perugia	2:0	3:1	15.12.2002	15:00	2002	2003	14
+Udinese Calcio	Torino FC	0:0	1:1	15.12.2002	15:00	2002	2003	14
+Inter	Atalanta	0:0	1:0	15.12.2002	15:00	2002	2003	14
+Juventus	Lazio Roma	1:1	1:2	15.12.2002	20:30	2002	2003	14
+Modena FC	Udinese Calcio	0:1	0:1	21.12.2002	18:00	2002	2003	15
+Torino FC	AS Roma	0:0	0:1	21.12.2002	20:30	2002	2003	15
+Chievo Verona	Calcio Como	0:0	2:0	22.12.2002	15:00	2002	2003	15
+AC Perugia	Juventus	0:0	0:1	22.12.2002	15:00	2002	2003	15
+AC Milan	Brescia Calcio	0:0	0:0	22.12.2002	15:00	2002	2003	15
+Reggina Calcio	Piacenza Calcio	0:1	3:1	22.12.2002	15:00	2002	2003	15
+Lazio Roma	Bologna FC	1:0	1:1	22.12.2002	15:00	2002	2003	15
+Atalanta	Empoli FC	2:0	2:2	22.12.2002	15:00	2002	2003	15
+Parma AC	Inter	0:1	1:2	22.12.2002	20:30	2002	2003	15
+Empoli FC	Torino FC	0:0	1:1	11.01.2003	18:00	2002	2003	16
+Brescia Calcio	Lazio Roma	0:0	0:0	11.01.2003	20:30	2002	2003	16
+Juventus	Reggina Calcio	2:0	5:0	12.01.2003	15:00	2002	2003	16
+AS Roma	Chievo Verona	0:0	0:1	12.01.2003	15:00	2002	2003	16
+Bologna FC	AC Milan	0:0	0:2	12.01.2003	15:00	2002	2003	16
+Udinese Calcio	AC Perugia	0:0	0:0	12.01.2003	15:00	2002	2003	16
+Calcio Como	Atalanta	1:0	1:1	12.01.2003	15:00	2002	2003	16
+Piacenza Calcio	Parma AC	0:1	1:1	12.01.2003	15:00	2002	2003	16
+Inter	Modena FC	2:0	2:0	12.01.2003	20:30	2002	2003	16
+Parma AC	Empoli FC	1:0	2:0	18.01.2003	18:00	2002	2003	17
+Reggina Calcio	Bologna FC	1:0	1:0	18.01.2003	20:30	2002	2003	17
+Atalanta	AS Roma	1:1	2:1	19.01.2003	15:00	2002	2003	17
+Lazio Roma	Udinese Calcio	2:1	2:1	19.01.2003	15:00	2002	2003	17
+Torino FC	Calcio Como	0:0	0:0	19.01.2003	15:00	2002	2003	17
+Modena FC	Brescia Calcio	0:0	0:0	19.01.2003	15:00	2002	2003	17
+AC Milan	Piacenza Calcio	0:0	2:1	19.01.2003	15:00	2002	2003	17
+AC Perugia	Inter	2:0	4:1	19.01.2003	15:00	2002	2003	17
+Chievo Verona	Juventus	0:2	1:4	19.01.2003	20:30	2002	2003	17
+Modena FC	Atalanta	0:1	0:2	25.01.2003	18:00	2002	2003	18
+Calcio Como	AS Roma	0:0	2:0	25.01.2003	20:30	2002	2003	18
+AC Perugia	Chievo Verona	1:0	1:0	26.01.2003	15:00	2002	2003	18
+Juventus	Piacenza Calcio	2:0	2:0	26.01.2003	15:00	2002	2003	18
+Brescia Calcio	Parma AC	1:1	1:1	26.01.2003	15:00	2002	2003	18
+Bologna FC	Torino FC	1:1	2:2	26.01.2003	15:00	2002	2003	18
+Lazio Roma	Reggina Calcio	0:1	0:1	26.01.2003	15:00	2002	2003	18
+Inter	Empoli FC	0:0	3:0	26.01.2003	15:00	2002	2003	18
+Udinese Calcio	AC Milan	1:0	1:0	26.01.2003	20:30	2002	2003	18
+Piacenza Calcio	Brescia Calcio	1:2	1:4	01.02.2003	18:00	2002	2003	19
+AS Roma	Bologna FC	1:1	3:1	01.02.2003	20:30	2002	2003	19
+Reggina Calcio	AC Perugia	2:1	3:1	02.02.2003	15:00	2002	2003	19
+Chievo Verona	Lazio Roma	1:0	1:1	02.02.2003	15:00	2002	2003	19
+Parma AC	Udinese Calcio	1:0	3:2	02.02.2003	15:00	2002	2003	19
+AC Milan	Modena FC	0:0	2:1	02.02.2003	15:00	2002	2003	19
+Atalanta	Juventus	1:0	1:1	02.02.2003	15:00	2002	2003	19
+Empoli FC	Calcio Como	0:0	0:0	02.02.2003	15:00	2002	2003	19
+Torino FC	Inter	0:0	0:2	02.02.2003	20:30	2002	2003	19
+Udinese Calcio	Piacenza Calcio	1:0	2:1	08.02.2003	18:00	2002	2003	20
+Juventus	Empoli FC	1:0	1:0	08.02.2003	20:30	2002	2003	20
+AC Perugia	AC Milan	1:0	1:0	09.02.2003	15:00	2002	2003	20
+Calcio Como	Parma AC	0:1	2:2	09.02.2003	15:00	2002	2003	20
+Modena FC	AS Roma	1:0	1:1	09.02.2003	15:00	2002	2003	20
+Brescia Calcio	Chievo Verona	0:0	0:0	09.02.2003	15:00	2002	2003	20
+Lazio Roma	Torino FC	1:0	1:1	09.02.2003	15:00	2002	2003	20
+Inter	Reggina Calcio	3:0	3:0	09.02.2003	15:00	2002	2003	20
+Bologna FC	Atalanta	0:1	2:3	09.02.2003	20:30	2002	2003	20
+Chievo Verona	Inter	2:0	2:1	15.02.2003	18:00	2002	2003	21
+AS Roma	Brescia Calcio	0:0	0:0	15.02.2003	20:30	2002	2003	21
+Torino FC	Modena FC	0:0	1:1	16.02.2003	15:00	2002	2003	21
+Reggina Calcio	Calcio Como	2:1	4:1	16.02.2003	15:00	2002	2003	21
+Parma AC	Juventus	0:2	1:2	16.02.2003	15:00	2002	2003	21
+Atalanta	Udinese Calcio	0:0	0:0	16.02.2003	15:00	2002	2003	21
+Empoli FC	AC Perugia	1:1	1:1	16.02.2003	15:00	2002	2003	21
+Piacenza Calcio	Bologna FC	2:0	3:1	16.02.2003	15:00	2002	2003	21
+AC Milan	Lazio Roma	0:2	2:2	16.02.2003	20:30	2002	2003	21
+Calcio Como	Juventus	0:3	1:3	22.02.2003	18:00	2002	2003	22
+Torino FC	AC Milan	0:2	0:3	22.02.2003	20:30	2002	2003	22
+Modena FC	Chievo Verona	0:0	1:0	23.02.2003	15:00	2002	2003	22
+Brescia Calcio	Reggina Calcio	0:0	2:1	23.02.2003	15:00	2002	2003	22
+Udinese Calcio	AS Roma	1:0	2:1	23.02.2003	15:00	2002	2003	22
+Bologna FC	Empoli FC	1:0	2:0	23.02.2003	15:00	2002	2003	22
+Lazio Roma	Atalanta	0:0	0:0	23.02.2003	15:00	2002	2003	22
+Inter	Piacenza Calcio	0:0	3:1	23.02.2003	15:00	2002	2003	22
+AC Perugia	Parma AC	0:1	1:2	23.02.2003	20:30	2002	2003	22
+Brescia Calcio	Bologna FC	0:0	0:0	01.03.2003	18:00	2002	2003	23
+Parma AC	Modena FC	1:1	1:1	01.03.2003	20:30	2002	2003	23
+AC Perugia	Lazio Roma	2:1	2:2	02.03.2003	15:00	2002	2003	23
+Reggina Calcio	Udinese Calcio	2:2	3:2	02.03.2003	15:00	2002	2003	23
+Chievo Verona	Torino FC	1:2	3:2	02.03.2003	15:00	2002	2003	23
+AS Roma	Empoli FC	1:1	3:1	02.03.2003	15:00	2002	2003	23
+AC Milan	Atalanta	1:3	3:3	02.03.2003	15:00	2002	2003	23
+Piacenza Calcio	Calcio Como	0:1	0:1	02.03.2003	15:00	2002	2003	23
+Juventus	Inter	2:0	3:0	02.03.2003	20:30	2002	2003	23
+Bologna FC	Inter	1:1	1:2	08.03.2003	18:00	2002	2003	24
+AS Roma	Lazio Roma	0:1	1:1	08.03.2003	20:30	2002	2003	24
+Torino FC	Reggina Calcio	1:0	1:0	09.03.2003	15:00	2002	2003	24
+Calcio Como	Brescia Calcio	0:0	1:1	09.03.2003	15:00	2002	2003	24
+Modena FC	AC Perugia	1:1	1:1	09.03.2003	15:00	2002	2003	24
+Udinese Calcio	Juventus	0:0	0:1	09.03.2003	15:00	2002	2003	24
+Atalanta	Parma AC	0:0	0:0	09.03.2003	15:00	2002	2003	24
+Empoli FC	Piacenza Calcio	0:0	3:1	09.03.2003	15:00	2002	2003	24
+AC Milan	Chievo Verona	0:0	0:0	09.03.2003	20:30	2002	2003	24
+Reggina Calcio	AC Milan	0:0	0:0	15.03.2003	18:00	2002	2003	25
+Juventus	Modena FC	0:0	3:0	15.03.2003	20:30	2002	2003	25
+AC Perugia	AS Roma	0:0	1:0	16.03.2003	15:00	2002	2003	25
+Chievo Verona	Parma AC	0:1	0:4	16.03.2003	15:00	2002	2003	25
+Brescia Calcio	Torino FC	0:0	1:0	16.03.2003	15:00	2002	2003	25
+Piacenza Calcio	Atalanta	1:0	2:0	16.03.2003	15:00	2002	2003	25
+Bologna FC	Udinese Calcio	1:0	1:0	16.03.2003	15:00	2002	2003	25
+Inter	Calcio Como	2:0	4:0	16.03.2003	15:00	2002	2003	25
+Lazio Roma	Empoli FC	2:1	4:1	16.03.2003	20:30	2002	2003	25
+Modena FC	Reggina Calcio	0:0	2:1	22.03.2003	18:00	2002	2003	26
+AC Milan	Juventus	2:1	2:1	22.03.2003	20:30	2002	2003	26
+Torino FC	AC Perugia	0:1	2:1	23.03.2003	15:00	2002	2003	26
+Calcio Como	Bologna FC	1:0	5:1	23.03.2003	15:00	2002	2003	26
+AS Roma	Piacenza Calcio	3:0	3:0	23.03.2003	15:00	2002	2003	26
+Atalanta	Chievo Verona	0:0	1:0	23.03.2003	15:00	2002	2003	26
+Empoli FC	Brescia Calcio	0:0	0:0	23.03.2003	15:00	2002	2003	26
+Parma AC	Lazio Roma	1:0	2:1	23.03.2003	15:00	2002	2003	26
+Udinese Calcio	Inter	0:0	2:1	23.03.2003	20:30	2002	2003	26
+Juventus	Torino FC	1:0	2:0	05.04.2003	18:00	2002	2003	27
+Parma AC	AC Milan	0:0	1:0	05.04.2003	20:30	2002	2003	27
+AC Perugia	Bologna FC	1:0	1:1	06.04.2003	15:00	2002	2003	27
+Reggina Calcio	Empoli FC	0:0	1:0	06.04.2003	15:00	2002	2003	27
+Chievo Verona	Udinese Calcio	2:0	3:0	06.04.2003	15:00	2002	2003	27
+Brescia Calcio	Atalanta	2:0	3:0	06.04.2003	15:00	2002	2003	27
+Piacenza Calcio	Modena FC	1:2	3:3	06.04.2003	15:00	2002	2003	27
+Lazio Roma	Calcio Como	2:0	3:0	06.04.2003	15:00	2002	2003	27
+Inter	AS Roma	0:0	3:3	06.04.2003	20:30	2002	2003	27
+Calcio Como	AC Perugia	1:0	1:1	12.04.2003	18:00	2002	2003	28
+Inter	AC Milan	0:0	0:1	12.04.2003	20:30	2002	2003	28
+Torino FC	Piacenza Calcio	0:0	1:3	13.04.2003	15:00	2002	2003	28
+Modena FC	Lazio Roma	0:0	0:0	13.04.2003	15:00	2002	2003	28
+AS Roma	Parma AC	1:1	2:1	13.04.2003	15:00	2002	2003	28
+Udinese Calcio	Brescia Calcio	0:0	0:0	13.04.2003	15:00	2002	2003	28
+Atalanta	Reggina Calcio	1:0	1:1	13.04.2003	15:00	2002	2003	28
+Empoli FC	Chievo Verona	1:1	2:1	13.04.2003	15:00	2002	2003	28
+Bologna FC	Juventus	1:0	2:2	13.04.2003	20:30	2002	2003	28
+AC Perugia	Atalanta	0:0	1:0	19.04.2003	15:00	2002	2003	29
+Chievo Verona	Reggina Calcio	1:1	2:1	19.04.2003	15:00	2002	2003	29
+Modena FC	Bologna FC	1:1	3:2	19.04.2003	15:00	2002	2003	29
+Parma AC	Torino FC	0:0	1:0	19.04.2003	15:00	2002	2003	29
+Udinese Calcio	Calcio Como	1:0	3:2	19.04.2003	15:00	2002	2003	29
+AC Milan	Empoli FC	0:1	0:1	19.04.2003	15:00	2002	2003	29
+Lazio Roma	Piacenza Calcio	0:1	2:1	19.04.2003	15:00	2002	2003	29
+Brescia Calcio	Inter	0:0	0:1	19.04.2003	15:00	2002	2003	29
+Juventus	AS Roma	2:1	2:1	19.04.2003	20:30	2002	2003	29
+Atalanta	Torino FC	0:1	2:2	26.04.2003	18:00	2002	2003	30
+AS Roma	AC Milan	0:0	2:1	26.04.2003	20:30	2002	2003	30
+Reggina Calcio	Parma AC	0:0	0:0	27.04.2003	15:00	2002	2003	30
+Calcio Como	Modena FC	0:0	0:0	27.04.2003	15:00	2002	2003	30
+Juventus	Brescia Calcio	1:0	2:1	27.04.2003	15:00	2002	2003	30
+Piacenza Calcio	AC Perugia	3:0	5:1	27.04.2003	15:00	2002	2003	30
+Bologna FC	Chievo Verona	1:0	1:1	27.04.2003	15:00	2002	2003	30
+Empoli FC	Udinese Calcio	0:0	1:1	27.04.2003	15:00	2002	2003	30
+Inter	Lazio Roma	1:0	1:1	27.04.2003	20:30	2002	2003	30
+Reggina Calcio	AS Roma	1:0	2:3	03.05.2003	15:00	2002	2003	31
+Chievo Verona	Piacenza Calcio	0:0	3:1	03.05.2003	15:00	2002	2003	31
+Modena FC	Empoli FC	1:0	1:1	03.05.2003	15:00	2002	2003	31
+AC Milan	Calcio Como	1:0	2:0	03.05.2003	15:00	2002	2003	31
+AC Perugia	Brescia Calcio	0:0	0:0	03.05.2003	15:00	2002	2003	31
+Torino FC	Udinese Calcio	0:0	0:1	03.05.2003	15:00	2002	2003	31
+Atalanta	Inter	0:1	1:1	03.05.2003	15:00	2002	2003	31
+Lazio Roma	Juventus	0:0	0:0	03.05.2003	15:00	2002	2003	31
+Parma AC	Bologna FC	0:0	1:2	03.05.2003	15:00	2002	2003	31
+AS Roma	Torino FC	1:0	3:1	10.05.2003	15:00	2002	2003	32
+Udinese Calcio	Modena FC	1:1	2:1	10.05.2003	15:00	2002	2003	32
+Calcio Como	Chievo Verona	0:3	2:4	10.05.2003	15:00	2002	2003	32
+Juventus	AC Perugia	1:1	2:2	10.05.2003	15:00	2002	2003	32
+Brescia Calcio	AC Milan	0:0	1:0	10.05.2003	15:00	2002	2003	32
+Piacenza Calcio	Reggina Calcio	0:0	2:2	10.05.2003	15:00	2002	2003	32
+Bologna FC	Lazio Roma	0:1	0:2	10.05.2003	15:00	2002	2003	32
+Empoli FC	Atalanta	0:0	0:0	10.05.2003	15:00	2002	2003	32
+Inter	Parma AC	1:0	1:1	10.05.2003	15:00	2002	2003	32
+Reggina Calcio	Juventus	1:1	2:1	17.05.2003	15:00	2002	2003	33
+Chievo Verona	AS Roma	0:0	0:0	17.05.2003	15:00	2002	2003	33
+Modena FC	Inter	0:2	0:2	17.05.2003	15:00	2002	2003	33
+AC Milan	Bologna FC	1:0	3:1	17.05.2003	15:00	2002	2003	33
+AC Perugia	Udinese Calcio	0:0	0:2	17.05.2003	15:00	2002	2003	33
+Torino FC	Empoli FC	0:0	1:1	17.05.2003	15:00	2002	2003	33
+Atalanta	Calcio Como	0:1	2:1	17.05.2003	15:00	2002	2003	33
+Lazio Roma	Brescia Calcio	2:1	3:1	17.05.2003	15:00	2002	2003	33
+Parma AC	Piacenza Calcio	0:2	3:2	17.05.2003	15:00	2002	2003	33
+AS Roma	Atalanta	1:1	1:2	24.05.2003	15:00	2002	2003	34
+Udinese Calcio	Lazio Roma	0:0	2:1	24.05.2003	15:00	2002	2003	34
+Calcio Como	Torino FC	0:0	1:0	24.05.2003	15:00	2002	2003	34
+Juventus	Chievo Verona	1:0	4:3	24.05.2003	15:00	2002	2003	34
+Brescia Calcio	Modena FC	0:2	2:2	24.05.2003	15:00	2002	2003	34
+Piacenza Calcio	AC Milan	3:1	4:2	24.05.2003	15:00	2002	2003	34
+Bologna FC	Reggina Calcio	0:1	0:2	24.05.2003	15:00	2002	2003	34
+Empoli FC	Parma AC	0:1	0:2	24.05.2003	15:00	2002	2003	34
+Inter	AC Perugia	1:1	2:2	24.05.2003	15:00	2002	2003	34

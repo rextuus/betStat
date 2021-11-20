@@ -1,0 +1,306 @@
+AS Bari	SSC Napoli	1:0	1:1	27.08.1995	00:00	1995	1996	1
+ACF Fiorentina	Torino FC	0:0	2:0	27.08.1995	00:00	1995	1996	1
+Inter	Vicenza Calcio	0:0	1:0	27.08.1995	00:00	1995	1996	1
+Juventus	US Cremonese	1:0	4:1	27.08.1995	00:00	1995	1996	1
+Lazio Roma	Piacenza Calcio	1:0	4:1	27.08.1995	00:00	1995	1996	1
+Calcio Padova	AC Milan	1:1	1:2	27.08.1995	00:00	1995	1996	1
+Sampdoria	AS Roma	1:1	1:1	27.08.1995	00:00	1995	1996	1
+Udinese Calcio	Cagliari Calcio	0:0	1:0	27.08.1995	00:00	1995	1996	1
+Atalanta	Parma AC	0:0	1:1	27.08.1995	00:00	1995	1996	1
+US Cremonese	Sampdoria	0:0	0:0	10.09.1995	00:00	1995	1996	2
+Vicenza Calcio	ACF Fiorentina	0:0	1:0	10.09.1995	00:00	1995	1996	2
+Torino FC	AS Bari	1:1	3:1	10.09.1995	00:00	1995	1996	2
+AS Roma	Atalanta	0:0	0:1	10.09.1995	00:00	1995	1996	2
+Piacenza Calcio	Juventus	0:1	0:4	10.09.1995	00:00	1995	1996	2
+Parma AC	Inter	0:1	2:1	10.09.1995	00:00	1995	1996	2
+AC Milan	Udinese Calcio	1:0	2:1	10.09.1995	00:00	1995	1996	2
+Cagliari Calcio	Lazio Roma	0:1	0:1	10.09.1995	00:00	1995	1996	2
+SSC Napoli	Calcio Padova	1:0	2:0	10.09.1995	00:00	1995	1996	2
+Calcio Padova	Torino FC	1:1	1:1	17.09.1995	00:00	1995	1996	3
+AS Bari	Lazio Roma	2:1	3:3	17.09.1995	00:00	1995	1996	3
+Udinese Calcio	US Cremonese	0:0	3:2	17.09.1995	00:00	1995	1996	3
+Sampdoria	Parma AC	1:0	3:0	17.09.1995	00:00	1995	1996	3
+AS Roma	AC Milan	1:1	1:2	17.09.1995	00:00	1995	1996	3
+Atalanta	SSC Napoli	1:1	1:3	17.09.1995	00:00	1995	1996	3
+ACF Fiorentina	Cagliari Calcio	3:1	3:1	17.09.1995	00:00	1995	1996	3
+Inter	Piacenza Calcio	0:0	0:0	17.09.1995	00:00	1995	1996	3
+Juventus	Vicenza Calcio	1:0	1:0	17.09.1995	00:00	1995	1996	3
+SSC Napoli	Inter	1:0	2:1	24.09.1995	00:00	1995	1996	4
+Vicenza Calcio	Calcio Padova	1:1	2:1	24.09.1995	00:00	1995	1996	4
+Torino FC	Sampdoria	0:0	1:1	24.09.1995	00:00	1995	1996	4
+Parma AC	ACF Fiorentina	2:0	3:0	24.09.1995	00:00	1995	1996	4
+AC Milan	Atalanta	1:0	3:0	24.09.1995	00:00	1995	1996	4
+Lazio Roma	Udinese Calcio	2:0	2:2	24.09.1995	00:00	1995	1996	4
+US Cremonese	AS Roma	0:0	0:1	24.09.1995	00:00	1995	1996	4
+Cagliari Calcio	Juventus	0:0	0:0	24.09.1995	00:00	1995	1996	4
+Piacenza Calcio	AS Bari	1:0	3:2	24.09.1995	00:00	1995	1996	4
+AS Bari	AC Milan	0:0	1:0	01.10.1995	00:00	1995	1996	5
+Calcio Padova	Parma AC	0:2	1:3	01.10.1995	00:00	1995	1996	5
+Udinese Calcio	Vicenza Calcio	1:0	1:1	01.10.1995	00:00	1995	1996	5
+Sampdoria	Cagliari Calcio	1:0	1:2	01.10.1995	00:00	1995	1996	5
+AS Roma	Lazio Roma	0:0	0:0	01.10.1995	00:00	1995	1996	5
+Atalanta	Piacenza Calcio	1:0	2:0	01.10.1995	00:00	1995	1996	5
+ACF Fiorentina	US Cremonese	2:1	3:2	01.10.1995	00:00	1995	1996	5
+Inter	Torino FC	3:0	4:0	01.10.1995	00:00	1995	1996	5
+Juventus	SSC Napoli	0:0	1:1	01.10.1995	00:00	1995	1996	5
+AC Milan	Juventus	2:0	2:1	15.10.1995	00:00	1995	1996	6
+Vicenza Calcio	AS Bari	2:0	2:0	15.10.1995	00:00	1995	1996	6
+Torino FC	AS Roma	2:2	2:2	15.10.1995	00:00	1995	1996	6
+Piacenza Calcio	Sampdoria	3:0	3:2	15.10.1995	00:00	1995	1996	6
+Parma AC	Udinese Calcio	0:0	1:0	15.10.1995	00:00	1995	1996	6
+Lazio Roma	Calcio Padova	0:0	2:0	15.10.1995	00:00	1995	1996	6
+Cagliari Calcio	US Cremonese	1:0	1:0	15.10.1995	00:00	1995	1996	6
+Atalanta	Inter	0:0	1:1	15.10.1995	00:00	1995	1996	6
+SSC Napoli	ACF Fiorentina	0:0	0:2	15.10.1995	00:00	1995	1996	6
+Juventus	Calcio Padova	1:0	3:1	22.10.1995	00:00	1995	1996	7
+Udinese Calcio	Torino FC	0:0	1:0	22.10.1995	00:00	1995	1996	7
+Sampdoria	ACF Fiorentina	1:0	2:1	22.10.1995	00:00	1995	1996	7
+Vicenza Calcio	AC Milan	0:1	1:1	22.10.1995	00:00	1995	1996	7
+Inter	Lazio Roma	0:0	0:0	22.10.1995	00:00	1995	1996	7
+US Cremonese	Atalanta	1:1	1:1	22.10.1995	00:00	1995	1996	7
+AS Bari	Cagliari Calcio	0:0	3:0	22.10.1995	00:00	1995	1996	7
+AS Roma	Parma AC	0:0	1:1	22.10.1995	00:00	1995	1996	7
+Piacenza Calcio	SSC Napoli	0:0	0:1	22.10.1995	00:00	1995	1996	7
+Inter	AC Milan	1:0	1:1	29.10.1995	00:00	1995	1996	8
+Torino FC	Vicenza Calcio	0:0	1:0	29.10.1995	00:00	1995	1996	8
+Parma AC	Piacenza Calcio	1:0	3:2	29.10.1995	00:00	1995	1996	8
+Calcio Padova	Sampdoria	1:1	1:1	29.10.1995	00:00	1995	1996	8
+Lazio Roma	Juventus	2:0	4:0	29.10.1995	00:00	1995	1996	8
+ACF Fiorentina	AS Bari	1:0	3:2	29.10.1995	00:00	1995	1996	8
+Cagliari Calcio	AS Roma	0:1	0:2	29.10.1995	00:00	1995	1996	8
+Atalanta	Udinese Calcio	0:0	0:0	29.10.1995	00:00	1995	1996	8
+SSC Napoli	US Cremonese	0:0	0:0	29.10.1995	00:00	1995	1996	8
+Torino FC	SSC Napoli	0:0	0:0	05.11.1995	00:00	1995	1996	9
+AS Roma	Calcio Padova	1:0	2:0	05.11.1995	00:00	1995	1996	9
+Udinese Calcio	Juventus	0:0	1:0	05.11.1995	00:00	1995	1996	9
+Sampdoria	Inter	0:0	0:0	05.11.1995	00:00	1995	1996	9
+ACF Fiorentina	Lazio Roma	0:0	2:0	05.11.1995	00:00	1995	1996	9
+AS Bari	Atalanta	1:3	1:3	05.11.1995	00:00	1995	1996	9
+US Cremonese	Parma AC	0:1	0:2	05.11.1995	00:00	1995	1996	9
+Vicenza Calcio	Piacenza Calcio	0:0	1:1	05.11.1995	00:00	1995	1996	9
+AC Milan	Cagliari Calcio	2:1	3:2	05.11.1995	00:00	1995	1996	9
+Juventus	ACF Fiorentina	1:0	1:0	19.11.1995	00:00	1995	1996	10
+Piacenza Calcio	AS Roma	1:0	1:0	19.11.1995	00:00	1995	1996	10
+Parma AC	AC Milan	0:0	0:0	19.11.1995	00:00	1995	1996	10
+Calcio Padova	AS Bari	1:0	3:0	19.11.1995	00:00	1995	1996	10
+Lazio Roma	US Cremonese	1:0	2:1	19.11.1995	00:00	1995	1996	10
+Inter	Udinese Calcio	0:0	2:1	19.11.1995	00:00	1995	1996	10
+Cagliari Calcio	Torino FC	1:0	1:0	19.11.1995	00:00	1995	1996	10
+Atalanta	Sampdoria	1:1	3:2	19.11.1995	00:00	1995	1996	10
+SSC Napoli	Vicenza Calcio	1:1	1:1	19.11.1995	00:00	1995	1996	10
+AS Roma	AS Bari	0:0	2:1	26.11.1995	00:00	1995	1996	11
+Torino FC	Atalanta	0:1	0:1	26.11.1995	00:00	1995	1996	11
+Vicenza Calcio	Lazio Roma	1:0	1:0	26.11.1995	00:00	1995	1996	11
+Sampdoria	Udinese Calcio	0:0	1:0	26.11.1995	00:00	1995	1996	11
+AC Milan	Piacenza Calcio	2:0	3:0	26.11.1995	00:00	1995	1996	11
+ACF Fiorentina	Inter	0:1	1:1	26.11.1995	00:00	1995	1996	11
+Cagliari Calcio	SSC Napoli	1:0	2:0	26.11.1995	00:00	1995	1996	11
+US Cremonese	Calcio Padova	1:1	2:1	26.11.1995	00:00	1995	1996	11
+Parma AC	Juventus	1:1	1:1	26.11.1995	00:00	1995	1996	11
+Piacenza Calcio	Cagliari Calcio	0:0	1:1	03.12.1995	00:00	1995	1996	12
+Atalanta	Vicenza Calcio	2:1	3:1	03.12.1995	00:00	1995	1996	12
+Udinese Calcio	AS Roma	0:0	1:1	03.12.1995	00:00	1995	1996	12
+Calcio Padova	ACF Fiorentina	0:0	0:1	03.12.1995	00:00	1995	1996	12
+SSC Napoli	Parma AC	1:0	1:1	03.12.1995	00:00	1995	1996	12
+Juventus	Torino FC	3:0	5:0	03.12.1995	00:00	1995	1996	12
+Inter	US Cremonese	2:0	2:0	03.12.1995	00:00	1995	1996	12
+AS Bari	Sampdoria	0:2	1:3	03.12.1995	00:00	1995	1996	12
+Lazio Roma	AC Milan	0:0	0:1	03.12.1995	00:00	1995	1996	12
+Calcio Padova	Inter	1:1	2:1	10.12.1995	00:00	1995	1996	13
+AC Milan	SSC Napoli	0:0	0:0	10.12.1995	00:00	1995	1996	13
+Torino FC	Piacenza Calcio	2:0	4:2	10.12.1995	00:00	1995	1996	13
+Sampdoria	Juventus	1:0	2:0	10.12.1995	00:00	1995	1996	13
+Cagliari Calcio	Atalanta	0:0	2:0	10.12.1995	00:00	1995	1996	13
+Parma AC	Lazio Roma	1:0	2:1	10.12.1995	00:00	1995	1996	13
+ACF Fiorentina	Udinese Calcio	1:0	3:0	10.12.1995	00:00	1995	1996	13
+US Cremonese	AS Bari	5:1	7:1	10.12.1995	00:00	1995	1996	13
+AS Roma	Vicenza Calcio	1:1	1:1	10.12.1995	00:00	1995	1996	13
+SSC Napoli	AS Roma	0:1	0:2	17.12.1995	00:00	1995	1996	14
+Udinese Calcio	Calcio Padova	1:1	3:1	17.12.1995	00:00	1995	1996	14
+Vicenza Calcio	Cagliari Calcio	0:0	0:1	17.12.1995	00:00	1995	1996	14
+Piacenza Calcio	US Cremonese	2:0	2:1	17.12.1995	00:00	1995	1996	14
+Lazio Roma	Sampdoria	3:1	6:3	17.12.1995	00:00	1995	1996	14
+Juventus	Inter	1:0	1:0	17.12.1995	00:00	1995	1996	14
+Atalanta	ACF Fiorentina	0:1	1:3	17.12.1995	00:00	1995	1996	14
+AS Bari	Parma AC	1:0	1:1	17.12.1995	00:00	1995	1996	14
+AC Milan	Torino FC	1:1	1:1	17.12.1995	00:00	1995	1996	14
+Juventus	AS Roma	0:1	0:2	23.12.1995	00:00	1995	1996	15
+Udinese Calcio	AS Bari	1:0	1:2	23.12.1995	00:00	1995	1996	15
+Sampdoria	SSC Napoli	1:0	2:2	23.12.1995	00:00	1995	1996	15
+Parma AC	Vicenza Calcio	0:0	0:1	23.12.1995	00:00	1995	1996	15
+Lazio Roma	Atalanta	2:0	5:1	23.12.1995	00:00	1995	1996	15
+Inter	Cagliari Calcio	3:0	4:0	23.12.1995	00:00	1995	1996	15
+ACF Fiorentina	AC Milan	1:1	2:2	23.12.1995	00:00	1995	1996	15
+US Cremonese	Torino FC	0:0	1:1	23.12.1995	00:00	1995	1996	15
+Calcio Padova	Piacenza Calcio	1:0	1:1	23.12.1995	00:00	1995	1996	15
+AC Milan	Sampdoria	2:0	3:0	07.01.1996	00:00	1995	1996	16
+Torino FC	Parma AC	1:1	2:2	07.01.1996	00:00	1995	1996	16
+AS Roma	ACF Fiorentina	1:0	2:2	07.01.1996	00:00	1995	1996	16
+Vicenza Calcio	US Cremonese	0:0	1:0	07.01.1996	00:00	1995	1996	16
+Cagliari Calcio	Calcio Padova	0:0	0:1	07.01.1996	00:00	1995	1996	16
+AS Bari	Inter	1:1	4:1	07.01.1996	00:00	1995	1996	16
+Atalanta	Juventus	0:0	0:1	07.01.1996	00:00	1995	1996	16
+Piacenza Calcio	Udinese Calcio	0:1	0:2	07.01.1996	00:00	1995	1996	16
+SSC Napoli	Lazio Roma	1:0	1:0	07.01.1996	00:00	1995	1996	16
+Juventus	AS Bari	1:1	1:1	14.01.1996	00:00	1995	1996	17
+Udinese Calcio	SSC Napoli	1:1	3:2	14.01.1996	00:00	1995	1996	17
+Sampdoria	Vicenza Calcio	2:1	2:2	14.01.1996	00:00	1995	1996	17
+Parma AC	Cagliari Calcio	1:0	4:0	14.01.1996	00:00	1995	1996	17
+Lazio Roma	Torino FC	0:0	1:1	14.01.1996	00:00	1995	1996	17
+Inter	AS Roma	1:0	2:0	14.01.1996	00:00	1995	1996	17
+ACF Fiorentina	Piacenza Calcio	2:1	2:1	14.01.1996	00:00	1995	1996	17
+US Cremonese	AC Milan	0:0	0:0	14.01.1996	00:00	1995	1996	17
+Calcio Padova	Atalanta	0:0	3:2	14.01.1996	00:00	1995	1996	17
+Piacenza Calcio	Lazio Roma	0:0	2:1	21.01.1996	00:00	1995	1996	18
+SSC Napoli	AS Bari	1:0	1:0	21.01.1996	00:00	1995	1996	18
+Cagliari Calcio	Udinese Calcio	2:0	4:1	21.01.1996	00:00	1995	1996	18
+AS Roma	Sampdoria	1:0	3:1	21.01.1996	00:00	1995	1996	18
+AC Milan	Calcio Padova	0:0	1:0	21.01.1996	00:00	1995	1996	18
+Parma AC	Atalanta	2:0	2:0	21.01.1996	00:00	1995	1996	18
+Torino FC	ACF Fiorentina	0:0	0:3	21.01.1996	00:00	1995	1996	18
+Vicenza Calcio	Inter	0:1	1:1	21.01.1996	00:00	1995	1996	18
+US Cremonese	Juventus	1:1	3:3	21.01.1996	00:00	1995	1996	18
+Calcio Padova	SSC Napoli	1:0	4:2	28.01.1996	00:00	1995	1996	19
+AS Bari	Torino FC	2:1	2:2	28.01.1996	00:00	1995	1996	19
+Atalanta	AS Roma	0:1	2:1	28.01.1996	00:00	1995	1996	19
+Inter	Parma AC	0:1	1:1	28.01.1996	00:00	1995	1996	19
+ACF Fiorentina	Vicenza Calcio	1:0	1:1	28.01.1996	00:00	1995	1996	19
+Udinese Calcio	AC Milan	0:1	0:2	28.01.1996	00:00	1995	1996	19
+Sampdoria	US Cremonese	1:0	2:0	28.01.1996	00:00	1995	1996	19
+Lazio Roma	Cagliari Calcio	4:0	4:0	28.01.1996	00:00	1995	1996	19
+Juventus	Piacenza Calcio	1:0	2:0	28.01.1996	00:00	1995	1996	19
+Vicenza Calcio	Juventus	1:0	2:1	04.02.1996	00:00	1995	1996	20
+Parma AC	Sampdoria	1:0	1:0	04.02.1996	00:00	1995	1996	20
+AC Milan	AS Roma	1:1	3:1	04.02.1996	00:00	1995	1996	20
+Torino FC	Calcio Padova	1:0	2:0	04.02.1996	00:00	1995	1996	20
+Piacenza Calcio	Inter	0:0	1:0	04.02.1996	00:00	1995	1996	20
+Cagliari Calcio	ACF Fiorentina	0:0	0:0	04.02.1996	00:00	1995	1996	20
+SSC Napoli	Atalanta	1:0	2:0	04.02.1996	00:00	1995	1996	20
+US Cremonese	Udinese Calcio	1:1	2:2	04.02.1996	00:00	1995	1996	20
+Lazio Roma	AS Bari	3:1	4:3	04.02.1996	00:00	1995	1996	20
+ACF Fiorentina	Parma AC	1:0	1:0	11.02.1996	00:00	1995	1996	21
+Calcio Padova	Vicenza Calcio	2:0	3:2	11.02.1996	00:00	1995	1996	21
+Sampdoria	Torino FC	0:0	1:0	11.02.1996	00:00	1995	1996	21
+AS Bari	Piacenza Calcio	0:0	0:0	11.02.1996	00:00	1995	1996	21
+Atalanta	AC Milan	0:1	0:1	11.02.1996	00:00	1995	1996	21
+Udinese Calcio	Lazio Roma	1:0	1:1	11.02.1996	00:00	1995	1996	21
+Juventus	Cagliari Calcio	2:0	4:1	11.02.1996	00:00	1995	1996	21
+AS Roma	US Cremonese	2:0	3:0	11.02.1996	00:00	1995	1996	21
+Inter	SSC Napoli	1:0	4:0	11.02.1996	00:00	1995	1996	21
+Torino FC	Inter	0:1	0:1	18.02.1996	00:00	1995	1996	22
+Vicenza Calcio	Udinese Calcio	0:0	0:1	18.02.1996	00:00	1995	1996	22
+Cagliari Calcio	Sampdoria	1:0	3:0	18.02.1996	00:00	1995	1996	22
+Lazio Roma	AS Roma	0:0	1:0	18.02.1996	00:00	1995	1996	22
+SSC Napoli	Juventus	0:0	0:1	18.02.1996	00:00	1995	1996	22
+US Cremonese	ACF Fiorentina	0:0	0:0	18.02.1996	00:00	1995	1996	22
+AC Milan	AS Bari	2:1	3:2	18.02.1996	00:00	1995	1996	22
+Piacenza Calcio	Atalanta	1:1	2:2	18.02.1996	00:00	1995	1996	22
+Parma AC	Calcio Padova	1:0	2:1	18.02.1996	00:00	1995	1996	22
+Udinese Calcio	Parma AC	0:0	0:0	25.02.1996	00:00	1995	1996	23
+AS Bari	Vicenza Calcio	0:0	0:2	25.02.1996	00:00	1995	1996	23
+AS Roma	Torino FC	1:0	1:0	25.02.1996	00:00	1995	1996	23
+Sampdoria	Piacenza Calcio	1:0	3:0	25.02.1996	00:00	1995	1996	23
+Juventus	AC Milan	1:1	1:1	25.02.1996	00:00	1995	1996	23
+Calcio Padova	Lazio Roma	0:1	1:3	25.02.1996	00:00	1995	1996	23
+US Cremonese	Cagliari Calcio	2:0	3:1	25.02.1996	00:00	1995	1996	23
+Inter	Atalanta	1:0	1:0	25.02.1996	00:00	1995	1996	23
+ACF Fiorentina	SSC Napoli	1:0	3:0	25.02.1996	00:00	1995	1996	23
+AC Milan	Vicenza Calcio	0:0	4:0	02.03.1996	00:00	1995	1996	24
+Calcio Padova	Juventus	0:2	0:5	02.03.1996	00:00	1995	1996	24
+Parma AC	AS Roma	1:1	1:1	02.03.1996	00:00	1995	1996	24
+Cagliari Calcio	AS Bari	2:2	4:2	03.03.1996	00:00	1995	1996	24
+Torino FC	Udinese Calcio	1:0	2:0	03.03.1996	00:00	1995	1996	24
+ACF Fiorentina	Sampdoria	0:2	2:2	03.03.1996	00:00	1995	1996	24
+SSC Napoli	Piacenza Calcio	0:0	0:0	03.03.1996	00:00	1995	1996	24
+Atalanta	US Cremonese	0:0	1:1	03.03.1996	00:00	1995	1996	24
+Lazio Roma	Inter	0:0	0:1	03.03.1996	00:00	1995	1996	24
+AC Milan	Inter	0:1	0:1	10.03.1996	00:00	1995	1996	25
+Piacenza Calcio	Parma AC	2:0	2:1	10.03.1996	00:00	1995	1996	25
+Sampdoria	Calcio Padova	2:0	3:1	10.03.1996	00:00	1995	1996	25
+Vicenza Calcio	Torino FC	1:1	2:1	10.03.1996	00:00	1995	1996	25
+AS Bari	ACF Fiorentina	1:0	1:1	10.03.1996	00:00	1995	1996	25
+AS Roma	Cagliari Calcio	1:1	1:1	10.03.1996	00:00	1995	1996	25
+Udinese Calcio	Atalanta	0:0	3:0	10.03.1996	00:00	1995	1996	25
+US Cremonese	SSC Napoli	1:1	1:1	10.03.1996	00:00	1995	1996	25
+Juventus	Lazio Roma	1:2	4:2	10.03.1996	00:00	1995	1996	25
+Cagliari Calcio	AC Milan	1:1	1:2	10.04.1996	00:00	1995	1996	26
+Piacenza Calcio	Vicenza Calcio	0:1	0:1	10.04.1996	00:00	1995	1996	26
+Juventus	Udinese Calcio	1:1	2:1	10.04.1996	00:00	1995	1996	26
+SSC Napoli	Torino FC	1:0	1:0	10.04.1996	00:00	1995	1996	26
+Lazio Roma	ACF Fiorentina	2:0	4:0	10.04.1996	00:00	1995	1996	26
+Parma AC	US Cremonese	0:0	2:0	10.04.1996	00:00	1995	1996	26
+Atalanta	AS Bari	1:0	1:2	10.04.1996	00:00	1995	1996	26
+Inter	Sampdoria	0:1	0:2	10.04.1996	00:00	1995	1996	26
+Calcio Padova	AS Roma	0:1	1:2	10.04.1996	00:00	1995	1996	26
+ACF Fiorentina	Juventus	0:1	0:1	24.03.1996	00:00	1995	1996	27
+AS Roma	Piacenza Calcio	2:0	2:1	24.03.1996	00:00	1995	1996	27
+AC Milan	Parma AC	1:0	3:0	24.03.1996	00:00	1995	1996	27
+AS Bari	Calcio Padova	2:0	2:1	24.03.1996	00:00	1995	1996	27
+US Cremonese	Lazio Roma	0:0	2:1	24.03.1996	00:00	1995	1996	27
+Udinese Calcio	Inter	0:1	1:2	24.03.1996	00:00	1995	1996	27
+Torino FC	Cagliari Calcio	1:1	1:1	24.03.1996	00:00	1995	1996	27
+Sampdoria	Atalanta	2:0	2:3	24.03.1996	00:00	1995	1996	27
+Vicenza Calcio	SSC Napoli	3:0	3:0	24.03.1996	00:00	1995	1996	27
+AS Bari	AS Roma	1:0	1:2	31.03.1996	00:00	1995	1996	28
+Atalanta	Torino FC	0:0	1:0	31.03.1996	00:00	1995	1996	28
+Lazio Roma	Vicenza Calcio	1:0	3:0	31.03.1996	00:00	1995	1996	28
+Udinese Calcio	Sampdoria	1:1	2:4	31.03.1996	00:00	1995	1996	28
+Piacenza Calcio	AC Milan	0:0	0:2	31.03.1996	00:00	1995	1996	28
+Inter	ACF Fiorentina	1:2	1:2	31.03.1996	00:00	1995	1996	28
+SSC Napoli	Cagliari Calcio	0:0	0:0	31.03.1996	00:00	1995	1996	28
+Calcio Padova	US Cremonese	0:1	1:2	31.03.1996	00:00	1995	1996	28
+Juventus	Parma AC	0:0	1:0	31.03.1996	00:00	1995	1996	28
+Torino FC	Juventus	1:0	1:2	06.04.1996	00:00	1995	1996	29
+AS Roma	Udinese Calcio	1:0	2:1	06.04.1996	00:00	1995	1996	29
+Cagliari Calcio	Piacenza Calcio	0:0	0:0	06.04.1996	00:00	1995	1996	29
+ACF Fiorentina	Calcio Padova	2:0	6:4	06.04.1996	00:00	1995	1996	29
+AC Milan	Lazio Roma	0:0	0:0	06.04.1996	00:00	1995	1996	29
+US Cremonese	Inter	0:1	2:4	06.04.1996	00:00	1995	1996	29
+Sampdoria	AS Bari	0:0	2:0	06.04.1996	00:00	1995	1996	29
+Vicenza Calcio	Atalanta	0:0	1:0	06.04.1996	00:00	1995	1996	29
+Parma AC	SSC Napoli	1:0	1:0	06.04.1996	00:00	1995	1996	29
+SSC Napoli	AC Milan	0:1	0:1	14.04.1996	00:00	1995	1996	30
+Piacenza Calcio	Torino FC	1:0	1:0	14.04.1996	00:00	1995	1996	30
+Juventus	Sampdoria	0:1	0:3	14.04.1996	00:00	1995	1996	30
+Vicenza Calcio	AS Roma	1:1	2:1	14.04.1996	00:00	1995	1996	30
+Inter	Calcio Padova	4:1	8:2	14.04.1996	00:00	1995	1996	30
+Udinese Calcio	ACF Fiorentina	1:0	1:0	14.04.1996	00:00	1995	1996	30
+AS Bari	US Cremonese	0:1	2:1	14.04.1996	00:00	1995	1996	30
+Atalanta	Cagliari Calcio	2:0	3:0	14.04.1996	00:00	1995	1996	30
+Lazio Roma	Parma AC	2:0	2:1	14.04.1996	00:00	1995	1996	30
+Sampdoria	Lazio Roma	1:2	3:3	20.04.1996	00:00	1995	1996	31
+Calcio Padova	Udinese Calcio	1:3	2:3	21.04.1996	00:00	1995	1996	31
+US Cremonese	Piacenza Calcio	0:0	0:0	21.04.1996	00:00	1995	1996	31
+Cagliari Calcio	Vicenza Calcio	0:0	2:0	21.04.1996	00:00	1995	1996	31
+Inter	Juventus	0:1	1:2	21.04.1996	00:00	1995	1996	31
+Parma AC	AS Bari	2:1	3:1	21.04.1996	00:00	1995	1996	31
+ACF Fiorentina	Atalanta	1:0	1:0	21.04.1996	00:00	1995	1996	31
+AS Roma	SSC Napoli	1:0	4:1	21.04.1996	00:00	1995	1996	31
+Torino FC	AC Milan	0:0	1:1	21.04.1996	00:00	1995	1996	31
+AS Roma	Juventus	1:0	2:2	28.04.1996	00:00	1995	1996	32
+AS Bari	Udinese Calcio	3:1	4:2	28.04.1996	00:00	1995	1996	32
+SSC Napoli	Sampdoria	0:0	1:0	28.04.1996	00:00	1995	1996	32
+Vicenza Calcio	Parma AC	0:0	0:1	28.04.1996	00:00	1995	1996	32
+Atalanta	Lazio Roma	1:1	1:3	28.04.1996	00:00	1995	1996	32
+Cagliari Calcio	Inter	0:0	0:0	28.04.1996	00:00	1995	1996	32
+AC Milan	ACF Fiorentina	2:1	3:1	28.04.1996	00:00	1995	1996	32
+Torino FC	US Cremonese	1:0	1:0	28.04.1996	00:00	1995	1996	32
+Piacenza Calcio	Calcio Padova	2:0	4:0	28.04.1996	00:00	1995	1996	32
+Sampdoria	AC Milan	3:0	3:0	05.05.1996	00:00	1995	1996	33
+Parma AC	Torino FC	1:0	1:0	05.05.1996	00:00	1995	1996	33
+ACF Fiorentina	AS Roma	1:3	1:4	05.05.1996	00:00	1995	1996	33
+US Cremonese	Vicenza Calcio	0:1	1:1	05.05.1996	00:00	1995	1996	33
+Calcio Padova	Cagliari Calcio	1:1	2:1	05.05.1996	00:00	1995	1996	33
+Inter	AS Bari	2:0	3:0	05.05.1996	00:00	1995	1996	33
+Juventus	Atalanta	0:0	1:0	05.05.1996	00:00	1995	1996	33
+Udinese Calcio	Piacenza Calcio	0:0	0:0	05.05.1996	00:00	1995	1996	33
+Lazio Roma	SSC Napoli	1:0	1:0	05.05.1996	00:00	1995	1996	33
+AS Bari	Juventus	1:1	2:2	12.05.1996	00:00	1995	1996	34
+Vicenza Calcio	Sampdoria	2:1	2:2	12.05.1996	00:00	1995	1996	34
+Cagliari Calcio	Parma AC	1:0	2:0	12.05.1996	00:00	1995	1996	34
+Torino FC	Lazio Roma	0:2	0:2	12.05.1996	00:00	1995	1996	34
+AS Roma	Inter	1:0	1:0	12.05.1996	00:00	1995	1996	34
+Piacenza Calcio	ACF Fiorentina	0:1	0:1	12.05.1996	00:00	1995	1996	34
+AC Milan	US Cremonese	1:1	7:1	12.05.1996	00:00	1995	1996	34
+SSC Napoli	Udinese Calcio	1:1	2:1	12.05.1996	00:00	1995	1996	34
+Atalanta	Calcio Padova	2:0	3:0	12.05.1996	00:00	1995	1996	34

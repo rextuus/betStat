@@ -1,0 +1,306 @@
+MSV Duisburg	Arminia Bielefeld	1:0	1:1	11.08.1978	20:00	1978	1979	1
+FC Schalke 04	Eintracht Frankfurt	2:0	4:0	12.08.1978	15:30	1978	1979	1
+Borussia Dortmund	Bayern MÃ¼nchen	1:0	1:0	12.08.1978	15:30	1978	1979	1
+Hamburger SV	Bor. MÃ¶nchengladbach	3:0	3:0	12.08.1978	15:30	1978	1979	1
+Fortuna DÃ¼sseldorf	Werder Bremen	0:0	3:1	12.08.1978	15:30	1978	1979	1
+1. FC NÃ¼rnberg	VfL Bochum	0:1	0:2	12.08.1978	15:30	1978	1979	1
+1. FC Kaiserslautern	VfB Stuttgart	4:0	5:1	12.08.1978	15:30	1978	1979	1
+SV Darmstadt 98	Hertha BSC	0:0	0:0	12.08.1978	15:30	1978	1979	1
+Eintracht Braunschweig	1. FC KÃ¶ln	1:0	1:0	12.08.1978	15:30	1978	1979	1
+Hertha BSC	1. FC Kaiserslautern	0:0	0:3	17.08.1978	20:00	1978	1979	2
+1. FC KÃ¶ln	SV Darmstadt 98	0:1	2:1	19.08.1978	15:30	1978	1979	2
+VfB Stuttgart	1. FC NÃ¼rnberg	2:0	4:0	19.08.1978	15:30	1978	1979	2
+VfL Bochum	Fortuna DÃ¼sseldorf	1:1	2:2	19.08.1978	15:30	1978	1979	2
+Werder Bremen	Hamburger SV	1:0	1:1	19.08.1978	15:30	1978	1979	2
+Bor. MÃ¶nchengladbach	Borussia Dortmund	2:1	2:2	19.08.1978	15:30	1978	1979	2
+Bayern MÃ¼nchen	MSV Duisburg	4:1	6:2	19.08.1978	15:30	1978	1979	2
+Arminia Bielefeld	FC Schalke 04	2:2	3:2	19.08.1978	15:30	1978	1979	2
+Eintracht Frankfurt	Eintracht Braunschweig	2:0	3:1	19.08.1978	15:30	1978	1979	2
+Borussia Dortmund	Werder Bremen	0:0	1:0	25.08.1978	20:00	1978	1979	3
+Fortuna DÃ¼sseldorf	VfB Stuttgart	2:0	2:0	25.08.1978	20:00	1978	1979	3
+FC Schalke 04	Bayern MÃ¼nchen	1:0	2:1	26.08.1978	15:30	1978	1979	3
+MSV Duisburg	Bor. MÃ¶nchengladbach	0:2	0:3	26.08.1978	15:30	1978	1979	3
+Hamburger SV	VfL Bochum	1:0	1:1	26.08.1978	15:30	1978	1979	3
+1. FC NÃ¼rnberg	Hertha BSC	1:0	2:1	26.08.1978	15:30	1978	1979	3
+1. FC Kaiserslautern	1. FC KÃ¶ln	0:1	1:1	26.08.1978	15:30	1978	1979	3
+Eintracht Frankfurt	Arminia Bielefeld	0:0	1:0	26.08.1978	15:30	1978	1979	3
+Eintracht Braunschweig	SV Darmstadt 98	0:1	4:1	26.08.1978	15:30	1978	1979	3
+1. FC KÃ¶ln	1. FC NÃ¼rnberg	1:0	2:0	02.09.1978	15:30	1978	1979	4
+VfB Stuttgart	Hamburger SV	1:0	1:0	02.09.1978	15:30	1978	1979	4
+VfL Bochum	Borussia Dortmund	2:0	4:1	02.09.1978	15:30	1978	1979	4
+Werder Bremen	MSV Duisburg	1:0	3:2	02.09.1978	15:30	1978	1979	4
+Bor. MÃ¶nchengladbach	FC Schalke 04	0:0	0:0	02.09.1978	15:30	1978	1979	4
+Bayern MÃ¼nchen	Eintracht Frankfurt	3:1	3:1	02.09.1978	15:30	1978	1979	4
+Arminia Bielefeld	Eintracht Braunschweig	0:1	2:2	02.09.1978	15:30	1978	1979	4
+SV Darmstadt 98	1. FC Kaiserslautern	1:0	2:2	02.09.1978	15:30	1978	1979	4
+Hertha BSC	Fortuna DÃ¼sseldorf	2:0	4:1	02.09.1978	15:30	1978	1979	4
+FC Schalke 04	Werder Bremen	1:1	2:1	08.09.1978	20:00	1978	1979	5
+MSV Duisburg	VfL Bochum	1:0	1:0	08.09.1978	20:00	1978	1979	5
+Borussia Dortmund	VfB Stuttgart	2:2	4:3	09.09.1978	15:30	1978	1979	5
+Hamburger SV	Hertha BSC	2:0	4:1	09.09.1978	15:30	1978	1979	5
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	0:0	1:1	09.09.1978	15:30	1978	1979	5
+1. FC NÃ¼rnberg	SV Darmstadt 98	0:0	3:2	09.09.1978	15:30	1978	1979	5
+Arminia Bielefeld	Bayern MÃ¼nchen	0:1	0:2	09.09.1978	15:30	1978	1979	5
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	1:0	2:0	09.09.1978	15:30	1978	1979	5
+Eintracht Braunschweig	1. FC Kaiserslautern	0:0	0:0	09.09.1978	15:30	1978	1979	5
+1. FC KÃ¶ln	Hamburger SV	0:1	1:3	16.09.1978	15:30	1978	1979	6
+VfB Stuttgart	MSV Duisburg	2:0	2:0	16.09.1978	15:30	1978	1979	6
+VfL Bochum	FC Schalke 04	0:1	2:2	16.09.1978	15:30	1978	1979	6
+Werder Bremen	Eintracht Frankfurt	0:0	0:2	16.09.1978	15:30	1978	1979	6
+Bor. MÃ¶nchengladbach	Arminia Bielefeld	2:0	4:1	16.09.1978	15:30	1978	1979	6
+Bayern MÃ¼nchen	Eintracht Braunschweig	4:0	6:1	16.09.1978	15:30	1978	1979	6
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	1:0	3:0	16.09.1978	15:30	1978	1979	6
+SV Darmstadt 98	Fortuna DÃ¼sseldorf	1:2	1:6	16.09.1978	15:30	1978	1979	6
+Hertha BSC	Borussia Dortmund	2:0	4:0	16.09.1978	15:30	1978	1979	6
+FC Schalke 04	VfB Stuttgart	0:2	2:3	30.09.1978	15:30	1978	1979	7
+MSV Duisburg	Hertha BSC	1:0	3:2	30.09.1978	15:30	1978	1979	7
+Borussia Dortmund	1. FC KÃ¶ln	0:0	0:0	30.09.1978	15:30	1978	1979	7
+Hamburger SV	SV Darmstadt 98	1:0	2:1	30.09.1978	15:30	1978	1979	7
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	1:1	2:2	30.09.1978	15:30	1978	1979	7
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	1:1	3:1	30.09.1978	15:30	1978	1979	7
+Arminia Bielefeld	Werder Bremen	0:2	1:3	30.09.1978	15:30	1978	1979	7
+Eintracht Frankfurt	VfL Bochum	2:0	4:2	30.09.1978	15:30	1978	1979	7
+Eintracht Braunschweig	1. FC NÃ¼rnberg	3:0	3:1	30.09.1978	15:30	1978	1979	7
+VfL Bochum	Arminia Bielefeld	0:0	1:0	06.10.1978	20:00	1978	1979	8
+1. FC NÃ¼rnberg	Fortuna DÃ¼sseldorf	1:1	3:2	06.10.1978	20:00	1978	1979	8
+1. FC Kaiserslautern	Hamburger SV	1:1	2:1	06.10.1978	20:00	1978	1979	8
+1. FC KÃ¶ln	MSV Duisburg	2:2	3:3	07.10.1978	15:30	1978	1979	8
+VfB Stuttgart	Eintracht Frankfurt	0:1	3:1	07.10.1978	15:30	1978	1979	8
+Werder Bremen	Bayern MÃ¼nchen	1:0	1:1	07.10.1978	15:30	1978	1979	8
+Bor. MÃ¶nchengladbach	Eintracht Braunschweig	1:2	2:3	07.10.1978	15:30	1978	1979	8
+SV Darmstadt 98	Borussia Dortmund	1:1	3:2	07.10.1978	15:30	1978	1979	8
+Hertha BSC	FC Schalke 04	0:1	1:1	07.10.1978	15:30	1978	1979	8
+FC Schalke 04	1. FC KÃ¶ln	0:0	1:1	14.10.1978	15:30	1978	1979	9
+MSV Duisburg	SV Darmstadt 98	1:2	4:4	14.10.1978	15:30	1978	1979	9
+Borussia Dortmund	1. FC Kaiserslautern	1:1	2:3	14.10.1978	15:30	1978	1979	9
+Hamburger SV	1. FC NÃ¼rnberg	1:0	4:1	14.10.1978	15:30	1978	1979	9
+Bor. MÃ¶nchengladbach	Werder Bremen	1:0	4:0	14.10.1978	15:30	1978	1979	9
+Bayern MÃ¼nchen	VfL Bochum	1:1	2:1	14.10.1978	15:30	1978	1979	9
+Arminia Bielefeld	VfB Stuttgart	1:1	1:1	14.10.1978	15:30	1978	1979	9
+Eintracht Frankfurt	Hertha BSC	1:1	2:2	14.10.1978	15:30	1978	1979	9
+Eintracht Braunschweig	Fortuna DÃ¼sseldorf	0:1	1:1	14.10.1978	15:30	1978	1979	9
+Werder Bremen	Eintracht Braunschweig	1:1	3:1	20.10.1978	20:00	1978	1979	10
+1. FC KÃ¶ln	Eintracht Frankfurt	0:1	0:2	21.10.1978	15:30	1978	1979	10
+VfB Stuttgart	Bayern MÃ¼nchen	0:0	2:0	21.10.1978	15:30	1978	1979	10
+VfL Bochum	Bor. MÃ¶nchengladbach	0:0	0:0	21.10.1978	15:30	1978	1979	10
+Fortuna DÃ¼sseldorf	Hamburger SV	0:1	0:2	21.10.1978	15:30	1978	1979	10
+1. FC NÃ¼rnberg	Borussia Dortmund	1:0	2:2	21.10.1978	15:30	1978	1979	10
+1. FC Kaiserslautern	MSV Duisburg	0:0	2:1	21.10.1978	15:30	1978	1979	10
+SV Darmstadt 98	FC Schalke 04	0:1	1:2	21.10.1978	15:30	1978	1979	10
+Hertha BSC	Arminia Bielefeld	0:1	1:2	21.10.1978	15:30	1978	1979	10
+Werder Bremen	VfL Bochum	2:1	3:3	27.10.1978	20:00	1978	1979	11
+FC Schalke 04	1. FC Kaiserslautern	1:0	1:1	28.10.1978	15:30	1978	1979	11
+MSV Duisburg	1. FC NÃ¼rnberg	0:0	1:0	28.10.1978	15:30	1978	1979	11
+Borussia Dortmund	Fortuna DÃ¼sseldorf	1:0	3:0	28.10.1978	15:30	1978	1979	11
+Bor. MÃ¶nchengladbach	VfB Stuttgart	0:0	0:0	28.10.1978	15:30	1978	1979	11
+Bayern MÃ¼nchen	Hertha BSC	0:0	1:1	28.10.1978	15:30	1978	1979	11
+Arminia Bielefeld	1. FC KÃ¶ln	0:0	1:0	28.10.1978	15:30	1978	1979	11
+Eintracht Frankfurt	SV Darmstadt 98	1:0	2:0	28.10.1978	15:30	1978	1979	11
+Eintracht Braunschweig	Hamburger SV	1:0	1:0	28.10.1978	15:30	1978	1979	11
+1. FC Kaiserslautern	Eintracht Frankfurt	2:1	2:1	03.11.1978	20:00	1978	1979	12
+VfL Bochum	Eintracht Braunschweig	2:0	3:0	03.11.1978	20:00	1978	1979	12
+Hertha BSC	Bor. MÃ¶nchengladbach	0:0	1:0	04.11.1978	14:30	1978	1979	12
+1. FC KÃ¶ln	Bayern MÃ¼nchen	0:0	1:1	04.11.1978	15:30	1978	1979	12
+VfB Stuttgart	Werder Bremen	0:0	1:1	04.11.1978	15:30	1978	1979	12
+Hamburger SV	Borussia Dortmund	3:0	5:0	04.11.1978	15:30	1978	1979	12
+Fortuna DÃ¼sseldorf	MSV Duisburg	0:0	3:0	04.11.1978	15:30	1978	1979	12
+1. FC NÃ¼rnberg	FC Schalke 04	0:2	0:2	04.11.1978	15:30	1978	1979	12
+SV Darmstadt 98	Arminia Bielefeld	1:1	1:1	04.11.1978	15:30	1978	1979	12
+MSV Duisburg	Hamburger SV	0:1	0:2	10.11.1978	20:00	1978	1979	13
+FC Schalke 04	Fortuna DÃ¼sseldorf	1:0	1:2	11.11.1978	15:30	1978	1979	13
+VfL Bochum	VfB Stuttgart	1:1	1:2	11.11.1978	15:30	1978	1979	13
+Werder Bremen	Hertha BSC	1:0	1:1	11.11.1978	15:30	1978	1979	13
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	0:0	2:0	11.11.1978	15:30	1978	1979	13
+Bayern MÃ¼nchen	SV Darmstadt 98	0:0	1:1	11.11.1978	15:30	1978	1979	13
+Arminia Bielefeld	1. FC Kaiserslautern	0:0	0:1	11.11.1978	15:30	1978	1979	13
+Eintracht Frankfurt	1. FC NÃ¼rnberg	0:0	2:0	11.11.1978	15:30	1978	1979	13
+Eintracht Braunschweig	Borussia Dortmund	0:0	2:2	11.11.1978	15:30	1978	1979	13
+1. FC NÃ¼rnberg	Arminia Bielefeld	0:0	0:1	17.11.1978	20:00	1978	1979	14
+1. FC KÃ¶ln	Werder Bremen	2:0	2:0	18.11.1978	15:30	1978	1979	14
+VfB Stuttgart	Eintracht Braunschweig	3:0	3:0	18.11.1978	15:30	1978	1979	14
+Borussia Dortmund	MSV Duisburg	3:1	4:1	18.11.1978	15:30	1978	1979	14
+Hamburger SV	FC Schalke 04	1:2	4:2	18.11.1978	15:30	1978	1979	14
+Fortuna DÃ¼sseldorf	Eintracht Frankfurt	1:2	4:2	18.11.1978	15:30	1978	1979	14
+1. FC Kaiserslautern	Bayern MÃ¼nchen	2:0	2:1	18.11.1978	15:30	1978	1979	14
+SV Darmstadt 98	Bor. MÃ¶nchengladbach	1:0	2:0	18.11.1978	15:30	1978	1979	14
+Hertha BSC	VfL Bochum	1:0	1:1	18.11.1978	15:30	1978	1979	14
+VfL Bochum	1. FC KÃ¶ln	0:2	2:5	24.11.1978	20:00	1978	1979	15
+FC Schalke 04	Borussia Dortmund	1:1	5:1	25.11.1978	15:30	1978	1979	15
+MSV Duisburg	Eintracht Braunschweig	1:0	1:0	25.11.1978	15:30	1978	1979	15
+Werder Bremen	SV Darmstadt 98	1:0	3:0	25.11.1978	15:30	1978	1979	15
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	2:1	5:1	25.11.1978	15:30	1978	1979	15
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	2:0	4:0	25.11.1978	15:30	1978	1979	15
+Arminia Bielefeld	Fortuna DÃ¼sseldorf	0:0	2:0	25.11.1978	15:30	1978	1979	15
+Eintracht Frankfurt	Hamburger SV	0:0	0:0	25.11.1978	15:30	1978	1979	15
+Hertha BSC	VfB Stuttgart	0:0	0:0	25.11.1978	15:30	1978	1979	15
+1. FC Kaiserslautern	Werder Bremen	1:0	4:0	08.12.1978	20:00	1978	1979	16
+MSV Duisburg	FC Schalke 04	1:0	2:1	09.12.1978	15:30	1978	1979	16
+Borussia Dortmund	Eintracht Frankfurt	2:0	3:1	09.12.1978	15:30	1978	1979	16
+Fortuna DÃ¼sseldorf	Bayern MÃ¼nchen	2:1	7:1	09.12.1978	15:30	1978	1979	16
+Eintracht Braunschweig	Hertha BSC	0:1	0:1	09.12.1978	15:30	1978	1979	16
+1. FC KÃ¶ln	VfB Stuttgart	1:0	1:2	23.12.1978	15:30	1978	1979	16
+Hamburger SV	Arminia Bielefeld	1:1	3:1	23.12.1978	15:30	1978	1979	16
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	1:0	1:0	23.12.1978	15:30	1978	1979	16
+SV Darmstadt 98	VfL Bochum	1:0	3:1	30.12.1978	14:00	1978	1979	16
+VfB Stuttgart	SV Darmstadt 98	1:0	3:0	15.12.1978	20:00	1978	1979	17
+VfL Bochum	1. FC Kaiserslautern	0:0	2:2	15.12.1978	20:00	1978	1979	17
+Bor. MÃ¶nchengladbach	Fortuna DÃ¼sseldorf	0:0	1:0	15.12.1978	20:00	1978	1979	17
+FC Schalke 04	Eintracht Braunschweig	2:0	4:4	16.12.1978	15:30	1978	1979	17
+Werder Bremen	1. FC NÃ¼rnberg	1:0	3:1	16.12.1978	15:30	1978	1979	17
+Bayern MÃ¼nchen	Hamburger SV	0:1	0:1	16.12.1978	15:30	1978	1979	17
+Eintracht Frankfurt	MSV Duisburg	0:0	1:0	16.12.1978	15:30	1978	1979	17
+Hertha BSC	1. FC KÃ¶ln	0:1	0:2	16.12.1978	15:30	1978	1979	17
+Arminia Bielefeld	Borussia Dortmund	1:2	4:3	29.12.1978	20:00	1978	1979	17
+Eintracht Frankfurt	FC Schalke 04	0:1	3:1	13.01.1979	15:30	1978	1979	18
+VfB Stuttgart	1. FC Kaiserslautern	2:0	3:0	13.01.1979	15:30	1978	1979	18
+Hertha BSC	SV Darmstadt 98	1:0	1:0	13.01.1979	15:30	1978	1979	18
+Bor. MÃ¶nchengladbach	Hamburger SV	2:1	4:3	09.02.1979	15:30	1978	1979	18
+1. FC KÃ¶ln	Eintracht Braunschweig	1:0	3:1	09.02.1979	15:30	1978	1979	18
+Bayern MÃ¼nchen	Borussia Dortmund	2:0	4:0	10.02.1979	15:30	1978	1979	18
+VfL Bochum	1. FC NÃ¼rnberg	1:0	2:1	20.03.1979	20:00	1978	1979	18
+Arminia Bielefeld	MSV Duisburg	1:0	1:1	27.03.1979	20:00	1978	1979	18
+Werder Bremen	Fortuna DÃ¼sseldorf	1:0	1:1	08.05.1979	20:00	1978	1979	18
+1. FC NÃ¼rnberg	VfB Stuttgart	1:0	1:0	20.01.1979	15:30	1978	1979	19
+Fortuna DÃ¼sseldorf	VfL Bochum	0:1	1:1	20.01.1979	15:30	1978	1979	19
+SV Darmstadt 98	1. FC KÃ¶ln	0:0	0:1	17.02.1979	14:30	1978	1979	19
+1. FC Kaiserslautern	Hertha BSC	1:0	3:0	17.02.1979	15:30	1978	1979	19
+Eintracht Braunschweig	Eintracht Frankfurt	0:0	0:0	13.03.1979	20:00	1978	1979	19
+Hamburger SV	Werder Bremen	1:0	2:2	14.03.1979	20:00	1978	1979	19
+Borussia Dortmund	Bor. MÃ¶nchengladbach	1:1	1:1	31.03.1979	15:30	1978	1979	19
+MSV Duisburg	Bayern MÃ¼nchen	3:1	3:1	08.05.1979	20:00	1978	1979	19
+FC Schalke 04	Arminia Bielefeld	0:1	4:1	26.05.1979	15:30	1978	1979	19
+Bayern MÃ¼nchen	FC Schalke 04	0:1	2:1	27.01.1979	15:30	1978	1979	20
+Hertha BSC	1. FC NÃ¼rnberg	3:0	4:1	27.01.1979	15:30	1978	1979	20
+Arminia Bielefeld	Eintracht Frankfurt	0:0	0:0	27.01.1979	15:30	1978	1979	20
+SV Darmstadt 98	Eintracht Braunschweig	0:1	1:1	24.02.1979	15:30	1978	1979	20
+1. FC KÃ¶ln	1. FC Kaiserslautern	1:0	2:2	02.03.1979	20:00	1978	1979	20
+VfL Bochum	Hamburger SV	0:1	2:1	03.03.1979	15:30	1978	1979	20
+VfB Stuttgart	Fortuna DÃ¼sseldorf	3:0	5:0	03.03.1979	15:30	1978	1979	20
+Werder Bremen	Borussia Dortmund	2:2	4:4	27.03.1979	20:00	1978	1979	20
+Bor. MÃ¶nchengladbach	MSV Duisburg	0:0	0:2	29.05.1979	20:00	1978	1979	20
+Hamburger SV	VfB Stuttgart	0:1	1:1	03.02.1979	15:30	1978	1979	21
+Borussia Dortmund	VfL Bochum	0:1	2:2	03.02.1979	15:30	1978	1979	21
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:0	2:1	03.02.1979	15:30	1978	1979	21
+1. FC Kaiserslautern	SV Darmstadt 98	1:0	2:0	10.02.1979	15:30	1978	1979	21
+Fortuna DÃ¼sseldorf	Hertha BSC	1:1	3:1	14.03.1979	20:00	1978	1979	21
+1. FC NÃ¼rnberg	1. FC KÃ¶ln	1:1	1:1	27.03.1979	20:00	1978	1979	21
+Eintracht Braunschweig	Arminia Bielefeld	3:2	5:2	31.03.1979	15:30	1978	1979	21
+FC Schalke 04	Bor. MÃ¶nchengladbach	1:1	1:1	28.04.1979	15:30	1978	1979	21
+MSV Duisburg	Werder Bremen	2:0	2:0	19.05.1979	15:30	1978	1979	21
+Werder Bremen	FC Schalke 04	2:1	3:1	10.03.1979	15:30	1978	1979	22
+VfL Bochum	MSV Duisburg	0:0	0:0	10.03.1979	15:30	1978	1979	22
+VfB Stuttgart	Borussia Dortmund	1:0	1:1	10.03.1979	15:30	1978	1979	22
+Hertha BSC	Hamburger SV	0:1	1:3	10.03.1979	15:30	1978	1979	22
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	2:1	2:2	10.03.1979	15:30	1978	1979	22
+SV Darmstadt 98	1. FC NÃ¼rnberg	0:1	1:3	10.03.1979	15:30	1978	1979	22
+Bayern MÃ¼nchen	Arminia Bielefeld	0:2	0:4	10.03.1979	15:30	1978	1979	22
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	1:2	1:3	10.03.1979	15:30	1978	1979	22
+1. FC Kaiserslautern	Eintracht Braunschweig	2:1	2:1	10.03.1979	15:30	1978	1979	22
+MSV Duisburg	VfB Stuttgart	1:0	3:1	16.03.1979	20:00	1978	1979	23
+FC Schalke 04	VfL Bochum	1:1	1:3	17.03.1979	15:30	1978	1979	23
+Eintracht Frankfurt	Werder Bremen	2:0	2:1	17.03.1979	15:30	1978	1979	23
+Arminia Bielefeld	Bor. MÃ¶nchengladbach	0:1	0:2	17.03.1979	15:30	1978	1979	23
+Eintracht Braunschweig	Bayern MÃ¼nchen	0:0	0:0	17.03.1979	15:30	1978	1979	23
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	0:0	0:0	17.03.1979	15:30	1978	1979	23
+Fortuna DÃ¼sseldorf	SV Darmstadt 98	1:0	4:0	17.03.1979	15:30	1978	1979	23
+Borussia Dortmund	Hertha BSC	1:0	3:0	17.03.1979	15:30	1978	1979	23
+Hamburger SV	1. FC KÃ¶ln	3:0	6:0	08.05.1979	20:00	1978	1979	23
+VfB Stuttgart	FC Schalke 04	3:0	4:0	24.03.1979	15:30	1978	1979	24
+Hertha BSC	MSV Duisburg	0:0	1:0	24.03.1979	15:30	1978	1979	24
+1. FC KÃ¶ln	Borussia Dortmund	2:0	5:0	24.03.1979	15:30	1978	1979	24
+SV Darmstadt 98	Hamburger SV	1:0	1:2	24.03.1979	15:30	1978	1979	24
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	1:0	3:0	24.03.1979	15:30	1978	1979	24
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	1:5	1:7	24.03.1979	15:30	1978	1979	24
+Werder Bremen	Arminia Bielefeld	1:0	1:0	24.03.1979	15:30	1978	1979	24
+VfL Bochum	Eintracht Frankfurt	0:0	0:0	24.03.1979	15:30	1978	1979	24
+1. FC NÃ¼rnberg	Eintracht Braunschweig	0:1	0:3	24.03.1979	15:30	1978	1979	24
+Eintracht Braunschweig	Bor. MÃ¶nchengladbach	0:0	3:0	03.04.1979	20:00	1978	1979	25
+MSV Duisburg	1. FC KÃ¶ln	0:1	2:1	04.04.1979	20:00	1978	1979	25
+Eintracht Frankfurt	VfB Stuttgart	0:0	1:2	04.04.1979	20:00	1978	1979	25
+Arminia Bielefeld	VfL Bochum	1:1	1:2	04.04.1979	20:00	1978	1979	25
+Bayern MÃ¼nchen	Werder Bremen	1:0	4:0	04.04.1979	20:00	1978	1979	25
+Fortuna DÃ¼sseldorf	1. FC NÃ¼rnberg	2:2	3:3	04.04.1979	20:00	1978	1979	25
+Hamburger SV	1. FC Kaiserslautern	2:0	3:0	04.04.1979	20:00	1978	1979	25
+Borussia Dortmund	SV Darmstadt 98	0:0	0:0	04.04.1979	20:00	1978	1979	25
+FC Schalke 04	Hertha BSC	0:0	1:1	04.04.1979	20:00	1978	1979	25
+1. FC KÃ¶ln	FC Schalke 04	0:0	1:0	07.04.1979	15:30	1978	1979	26
+SV Darmstadt 98	MSV Duisburg	0:0	2:0	07.04.1979	15:30	1978	1979	26
+1. FC Kaiserslautern	Borussia Dortmund	3:0	3:1	07.04.1979	15:30	1978	1979	26
+1. FC NÃ¼rnberg	Hamburger SV	2:3	3:3	07.04.1979	15:30	1978	1979	26
+Werder Bremen	Bor. MÃ¶nchengladbach	2:0	3:1	07.04.1979	15:30	1978	1979	26
+VfL Bochum	Bayern MÃ¼nchen	0:0	0:1	07.04.1979	15:30	1978	1979	26
+VfB Stuttgart	Arminia Bielefeld	3:1	5:1	07.04.1979	15:30	1978	1979	26
+Hertha BSC	Eintracht Frankfurt	3:1	4:1	07.04.1979	15:30	1978	1979	26
+Fortuna DÃ¼sseldorf	Eintracht Braunschweig	0:0	2:2	07.04.1979	15:30	1978	1979	26
+Bayern MÃ¼nchen	VfB Stuttgart	0:0	1:1	12.04.1979	20:00	1978	1979	27
+Eintracht Braunschweig	Werder Bremen	1:1	1:1	12.04.1979	20:00	1978	1979	27
+Borussia Dortmund	1. FC NÃ¼rnberg	1:0	2:0	12.04.1979	20:00	1978	1979	27
+FC Schalke 04	SV Darmstadt 98	2:0	4:2	12.04.1979	20:00	1978	1979	27
+Eintracht Frankfurt	1. FC KÃ¶ln	0:1	1:4	14.04.1979	15:30	1978	1979	27
+Bor. MÃ¶nchengladbach	VfL Bochum	0:0	2:0	14.04.1979	15:30	1978	1979	27
+Hamburger SV	Fortuna DÃ¼sseldorf	0:0	2:1	14.04.1979	15:30	1978	1979	27
+MSV Duisburg	1. FC Kaiserslautern	2:1	3:1	14.04.1979	15:30	1978	1979	27
+Arminia Bielefeld	Hertha BSC	0:0	0:0	14.04.1979	15:30	1978	1979	27
+1. FC Kaiserslautern	FC Schalke 04	0:1	2:2	18.04.1979	20:00	1978	1979	28
+1. FC NÃ¼rnberg	MSV Duisburg	1:0	2:1	18.04.1979	20:00	1978	1979	28
+Fortuna DÃ¼sseldorf	Borussia Dortmund	0:0	3:1	18.04.1979	20:00	1978	1979	28
+VfL Bochum	Werder Bremen	1:0	3:0	18.04.1979	20:00	1978	1979	28
+VfB Stuttgart	Bor. MÃ¶nchengladbach	1:0	2:0	18.04.1979	20:00	1978	1979	28
+Hertha BSC	Bayern MÃ¼nchen	1:1	1:1	18.04.1979	20:00	1978	1979	28
+1. FC KÃ¶ln	Arminia Bielefeld	2:0	2:1	18.04.1979	20:00	1978	1979	28
+SV Darmstadt 98	Eintracht Frankfurt	2:0	2:0	18.04.1979	20:00	1978	1979	28
+Hamburger SV	Eintracht Braunschweig	2:0	2:0	18.04.1979	20:00	1978	1979	28
+Bayern MÃ¼nchen	1. FC KÃ¶ln	4:0	5:1	21.04.1979	15:30	1978	1979	29
+Werder Bremen	VfB Stuttgart	0:2	0:2	21.04.1979	15:30	1978	1979	29
+Eintracht Braunschweig	VfL Bochum	0:0	1:0	21.04.1979	15:30	1978	1979	29
+Borussia Dortmund	Hamburger SV	1:1	1:3	21.04.1979	15:30	1978	1979	29
+MSV Duisburg	Fortuna DÃ¼sseldorf	0:1	1:2	21.04.1979	15:30	1978	1979	29
+FC Schalke 04	1. FC NÃ¼rnberg	0:0	0:0	21.04.1979	15:30	1978	1979	29
+Eintracht Frankfurt	1. FC Kaiserslautern	1:2	2:2	21.04.1979	15:30	1978	1979	29
+Arminia Bielefeld	SV Darmstadt 98	2:0	5:0	21.04.1979	15:30	1978	1979	29
+Bor. MÃ¶nchengladbach	Hertha BSC	0:1	0:2	21.04.1979	15:30	1978	1979	29
+1. FC Kaiserslautern	Arminia Bielefeld	0:0	3:2	04.05.1979	20:00	1978	1979	30
+Fortuna DÃ¼sseldorf	FC Schalke 04	3:0	3:1	05.05.1979	15:30	1978	1979	30
+Hamburger SV	MSV Duisburg	1:0	3:0	05.05.1979	15:30	1978	1979	30
+VfB Stuttgart	VfL Bochum	1:0	2:0	05.05.1979	15:30	1978	1979	30
+Hertha BSC	Werder Bremen	0:1	0:2	05.05.1979	15:30	1978	1979	30
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	1:1	1:1	05.05.1979	15:30	1978	1979	30
+SV Darmstadt 98	Bayern MÃ¼nchen	1:1	1:3	05.05.1979	15:30	1978	1979	30
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:0	0:0	05.05.1979	15:30	1978	1979	30
+Borussia Dortmund	Eintracht Braunschweig	2:0	2:2	05.05.1979	15:30	1978	1979	30
+Werder Bremen	1. FC KÃ¶ln	1:0	1:1	12.05.1979	15:30	1978	1979	31
+Eintracht Braunschweig	VfB Stuttgart	2:1	2:2	12.05.1979	15:30	1978	1979	31
+MSV Duisburg	Borussia Dortmund	0:0	0:0	12.05.1979	15:30	1978	1979	31
+FC Schalke 04	Hamburger SV	0:2	1:3	12.05.1979	15:30	1978	1979	31
+Eintracht Frankfurt	Fortuna DÃ¼sseldorf	1:1	3:2	12.05.1979	15:30	1978	1979	31
+Arminia Bielefeld	1. FC NÃ¼rnberg	0:0	2:0	12.05.1979	15:30	1978	1979	31
+Bayern MÃ¼nchen	1. FC Kaiserslautern	1:0	1:0	12.05.1979	15:30	1978	1979	31
+Bor. MÃ¶nchengladbach	SV Darmstadt 98	1:0	3:1	12.05.1979	15:30	1978	1979	31
+VfL Bochum	Hertha BSC	1:0	1:0	12.05.1979	15:30	1978	1979	31
+Borussia Dortmund	FC Schalke 04	1:0	2:0	19.05.1979	15:30	1978	1979	32
+1. FC KÃ¶ln	VfL Bochum	0:1	1:1	19.05.1979	15:30	1978	1979	32
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	0:1	1:3	19.05.1979	15:30	1978	1979	32
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	2:1	4:2	19.05.1979	15:30	1978	1979	32
+Fortuna DÃ¼sseldorf	Arminia Bielefeld	1:0	3:2	19.05.1979	15:30	1978	1979	32
+Hamburger SV	Eintracht Frankfurt	1:0	4:0	19.05.1979	15:30	1978	1979	32
+VfB Stuttgart	Hertha BSC	1:0	3:0	19.05.1979	15:30	1978	1979	32
+Eintracht Braunschweig	MSV Duisburg	0:1	0:2	26.05.1979	15:30	1978	1979	32
+SV Darmstadt 98	Werder Bremen	1:0	3:0	26.05.1979	15:30	1978	1979	32
+VfB Stuttgart	1. FC KÃ¶ln	0:2	1:4	02.06.1979	15:30	1978	1979	33
+FC Schalke 04	MSV Duisburg	0:0	2:1	02.06.1979	15:30	1978	1979	33
+Eintracht Frankfurt	Borussia Dortmund	1:1	3:1	02.06.1979	15:30	1978	1979	33
+Arminia Bielefeld	Hamburger SV	0:0	0:0	02.06.1979	15:30	1978	1979	33
+Bayern MÃ¼nchen	Fortuna DÃ¼sseldorf	0:1	1:1	02.06.1979	15:30	1978	1979	33
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	2:0	3:1	02.06.1979	15:30	1978	1979	33
+Werder Bremen	1. FC Kaiserslautern	3:0	3:1	02.06.1979	15:30	1978	1979	33
+VfL Bochum	SV Darmstadt 98	0:0	1:2	02.06.1979	15:30	1978	1979	33
+Hertha BSC	Eintracht Braunschweig	1:2	2:2	02.06.1979	15:30	1978	1979	33
+Eintracht Braunschweig	FC Schalke 04	1:0	2:1	09.06.1979	15:30	1978	1979	34
+SV Darmstadt 98	VfB Stuttgart	0:3	1:7	09.06.1979	15:30	1978	1979	34
+1. FC Kaiserslautern	VfL Bochum	0:0	1:1	09.06.1979	15:30	1978	1979	34
+1. FC NÃ¼rnberg	Werder Bremen	0:0	2:2	09.06.1979	15:30	1978	1979	34
+Fortuna DÃ¼sseldorf	Bor. MÃ¶nchengladbach	1:0	3:3	09.06.1979	15:30	1978	1979	34
+Hamburger SV	Bayern MÃ¼nchen	0:0	1:2	09.06.1979	15:30	1978	1979	34
+Borussia Dortmund	Arminia Bielefeld	2:0	2:0	09.06.1979	15:30	1978	1979	34
+MSV Duisburg	Eintracht Frankfurt	0:2	0:2	09.06.1979	15:30	1978	1979	34
+1. FC KÃ¶ln	Hertha BSC	0:0	3:1	09.06.1979	15:30	1978	1979	34

@@ -1,0 +1,306 @@
+VfB Stuttgart	Hannover 96	2:1	2:1	26.07.2019	20:30	2019	2020	1
+Dynamo Dresden	1. FC NÃ¼rnberg	0:0	0:1	27.07.2019	13:00	2019	2020	1
+Holstein Kiel	SV Sandhausen	0:1	1:1	27.07.2019	15:30	2019	2020	1
+VfL OsnabrÃ¼ck	1. FC Heidenheim 1846	0:0	1:3	27.07.2019	15:30	2019	2020	1
+Hamburger SV	SV Darmstadt 98	0:0	1:1	28.07.2019	13:30	2019	2020	1
+Jahn Regensburg	VfL Bochum	1:0	3:1	28.07.2019	15:30	2019	2020	1
+SpVgg Greuther FÃ¼rth	Erzgebirge Aue	0:1	0:2	28.07.2019	15:30	2019	2020	1
+SV Wehen Wiesbaden	Karlsruher SC	0:1	1:2	28.07.2019	15:30	2019	2020	1
+Arminia Bielefeld	FC St. Pauli	0:1	1:1	29.07.2019	20:30	2019	2020	1
+VfL Bochum	Arminia Bielefeld	0:0	3:3	02.08.2019	18:30	2019	2020	2
+SV Sandhausen	VfL OsnabrÃ¼ck	0:0	0:1	02.08.2019	18:30	2019	2020	2
+FC St. Pauli	SpVgg Greuther FÃ¼rth	1:2	1:3	02.08.2019	20:30	2019	2020	2
+Karlsruher SC	Dynamo Dresden	1:1	4:2	03.08.2019	13:00	2019	2020	2
+Hannover 96	Jahn Regensburg	0:0	1:1	03.08.2019	15:30	2019	2020	2
+1. FC Heidenheim 1846	VfB Stuttgart	0:0	2:2	04.08.2019	13:30	2019	2020	2
+SV Darmstadt 98	Holstein Kiel	1:0	2:0	04.08.2019	15:30	2019	2020	2
+Erzgebirge Aue	SV Wehen Wiesbaden	2:1	3:2	04.08.2019	15:30	2019	2020	2
+1. FC NÃ¼rnberg	Hamburger SV	0:2	0:4	05.08.2019	20:30	2019	2020	2
+Hamburger SV	VfL Bochum	0:0	1:0	16.08.2019	18:30	2019	2020	3
+SV Sandhausen	1. FC NÃ¼rnberg	2:1	3:2	16.08.2019	18:30	2019	2020	3
+VfB Stuttgart	FC St. Pauli	0:1	2:1	17.08.2019	13:00	2019	2020	3
+Arminia Bielefeld	Erzgebirge Aue	1:0	3:1	17.08.2019	13:00	2019	2020	3
+SV Wehen Wiesbaden	Hannover 96	0:1	0:3	17.08.2019	13:00	2019	2020	3
+Holstein Kiel	Karlsruher SC	1:1	2:1	18.08.2019	13:30	2019	2020	3
+Dynamo Dresden	1. FC Heidenheim 1846	0:0	2:1	18.08.2019	13:30	2019	2020	3
+SpVgg Greuther FÃ¼rth	Jahn Regensburg	0:0	1:0	18.08.2019	13:30	2019	2020	3
+VfL OsnabrÃ¼ck	SV Darmstadt 98	1:0	4:0	19.08.2019	20:30	2019	2020	3
+SV Darmstadt 98	Dynamo Dresden	0:0	0:0	23.08.2019	18:30	2019	2020	4
+Erzgebirge Aue	VfB Stuttgart	0:0	0:0	23.08.2019	18:30	2019	2020	4
+Hannover 96	SpVgg Greuther FÃ¼rth	0:1	1:1	24.08.2019	13:00	2019	2020	4
+Jahn Regensburg	Arminia Bielefeld	0:1	1:3	24.08.2019	13:00	2019	2020	4
+VfL Bochum	SV Wehen Wiesbaden	0:3	3:3	24.08.2019	13:00	2019	2020	4
+1. FC NÃ¼rnberg	VfL OsnabrÃ¼ck	0:0	1:0	25.08.2019	13:30	2019	2020	4
+1. FC Heidenheim 1846	SV Sandhausen	0:0	0:2	25.08.2019	13:30	2019	2020	4
+Karlsruher SC	Hamburger SV	0:2	2:4	25.08.2019	13:30	2019	2020	4
+FC St. Pauli	Holstein Kiel	0:0	2:1	26.08.2019	20:30	2019	2020	4
+1. FC NÃ¼rnberg	1. FC Heidenheim 1846	1:0	2:2	30.08.2019	18:30	2019	2020	5
+SV Sandhausen	SV Darmstadt 98	0:0	1:0	30.08.2019	18:30	2019	2020	5
+Arminia Bielefeld	SpVgg Greuther FÃ¼rth	1:2	2:2	31.08.2019	13:00	2019	2020	5
+Dynamo Dresden	FC St. Pauli	1:3	3:3	31.08.2019	13:00	2019	2020	5
+SV Wehen Wiesbaden	Jahn Regensburg	0:2	0:5	31.08.2019	13:00	2019	2020	5
+Hamburger SV	Hannover 96	1:0	3:0	01.09.2019	13:30	2019	2020	5
+Holstein Kiel	Erzgebirge Aue	0:0	1:1	01.09.2019	13:30	2019	2020	5
+VfL OsnabrÃ¼ck	Karlsruher SC	1:0	3:0	01.09.2019	13:30	2019	2020	5
+VfB Stuttgart	VfL Bochum	1:1	2:1	02.09.2019	20:30	2019	2020	5
+SpVgg Greuther FÃ¼rth	SV Wehen Wiesbaden	0:0	2:1	13.09.2019	18:30	2019	2020	6
+Karlsruher SC	SV Sandhausen	0:0	1:0	13.09.2019	18:30	2019	2020	6
+Hannover 96	Arminia Bielefeld	0:1	0:2	14.09.2019	13:00	2019	2020	6
+1. FC Heidenheim 1846	Holstein Kiel	2:0	3:0	14.09.2019	13:00	2019	2020	6
+Jahn Regensburg	VfB Stuttgart	0:1	2:3	14.09.2019	13:00	2019	2020	6
+SV Darmstadt 98	1. FC NÃ¼rnberg	1:2	3:3	15.09.2019	13:30	2019	2020	6
+VfL Bochum	Dynamo Dresden	0:0	2:2	15.09.2019	13:30	2019	2020	6
+Erzgebirge Aue	VfL OsnabrÃ¼ck	1:0	1:0	15.09.2019	13:30	2019	2020	6
+FC St. Pauli	Hamburger SV	1:0	2:0	16.09.2019	20:30	2019	2020	6
+1. FC Heidenheim 1846	SV Darmstadt 98	0:0	1:0	20.09.2019	18:30	2019	2020	7
+Holstein Kiel	Hannover 96	0:1	1:2	20.09.2019	18:30	2019	2020	7
+VfB Stuttgart	SpVgg Greuther FÃ¼rth	1:0	2:0	21.09.2019	13:00	2019	2020	7
+1. FC NÃ¼rnberg	Karlsruher SC	1:1	1:1	21.09.2019	13:00	2019	2020	7
+SV Sandhausen	VfL Bochum	0:0	1:1	21.09.2019	13:00	2019	2020	7
+SV Wehen Wiesbaden	Arminia Bielefeld	1:3	2:5	21.09.2019	13:00	2019	2020	7
+Hamburger SV	Erzgebirge Aue	2:0	4:0	22.09.2019	13:30	2019	2020	7
+Dynamo Dresden	Jahn Regensburg	0:1	2:1	22.09.2019	13:30	2019	2020	7
+VfL OsnabrÃ¼ck	FC St. Pauli	1:1	1:1	22.09.2019	13:30	2019	2020	7
+Arminia Bielefeld	VfB Stuttgart	0:0	0:1	27.09.2019	18:30	2019	2020	8
+SV Wehen Wiesbaden	VfL OsnabrÃ¼ck	1:0	2:0	27.09.2019	18:30	2019	2020	8
+Jahn Regensburg	Hamburger SV	1:0	2:2	28.09.2019	13:00	2019	2020	8
+VfL Bochum	SV Darmstadt 98	2:1	2:2	28.09.2019	13:00	2019	2020	8
+Karlsruher SC	1. FC Heidenheim 1846	1:0	1:1	28.09.2019	13:00	2019	2020	8
+FC St. Pauli	SV Sandhausen	2:0	2:0	29.09.2019	13:30	2019	2020	8
+SpVgg Greuther FÃ¼rth	Holstein Kiel	0:1	0:3	29.09.2019	13:30	2019	2020	8
+Erzgebirge Aue	Dynamo Dresden	3:1	4:1	29.09.2019	13:30	2019	2020	8
+Hannover 96	1. FC NÃ¼rnberg	0:3	0:4	30.09.2019	20:30	2019	2020	8
+VfB Stuttgart	SV Wehen Wiesbaden	1:2	1:2	04.10.2019	18:30	2019	2020	9
+SV Darmstadt 98	Karlsruher SC	1:1	1:1	04.10.2019	18:30	2019	2020	9
+Hamburger SV	SpVgg Greuther FÃ¼rth	0:0	2:0	05.10.2019	13:00	2019	2020	9
+Dynamo Dresden	Hannover 96	0:0	0:2	05.10.2019	13:00	2019	2020	9
+SV Sandhausen	Erzgebirge Aue	2:1	2:2	05.10.2019	13:00	2019	2020	9
+1. FC NÃ¼rnberg	FC St. Pauli	0:1	1:1	06.10.2019	13:30	2019	2020	9
+1. FC Heidenheim 1846	VfL Bochum	1:2	2:3	06.10.2019	13:30	2019	2020	9
+Holstein Kiel	Jahn Regensburg	1:1	1:2	06.10.2019	13:30	2019	2020	9
+VfL OsnabrÃ¼ck	Arminia Bielefeld	0:0	0:1	07.10.2019	20:30	2019	2020	9
+SpVgg Greuther FÃ¼rth	Dynamo Dresden	2:0	2:0	18.10.2019	18:30	2019	2020	10
+Erzgebirge Aue	1. FC NÃ¼rnberg	0:0	4:3	18.10.2019	18:30	2019	2020	10
+Jahn Regensburg	SV Sandhausen	0:0	1:0	19.10.2019	13:00	2019	2020	10
+FC St. Pauli	SV Darmstadt 98	0:0	0:1	19.10.2019	13:00	2019	2020	10
+SV Wehen Wiesbaden	1. FC Heidenheim 1846	0:0	0:0	19.10.2019	13:00	2019	2020	10
+VfB Stuttgart	Holstein Kiel	0:0	0:1	20.10.2019	13:30	2019	2020	10
+Hannover 96	VfL OsnabrÃ¼ck	0:0	0:0	20.10.2019	13:30	2019	2020	10
+VfL Bochum	Karlsruher SC	3:2	3:3	20.10.2019	13:30	2019	2020	10
+Arminia Bielefeld	Hamburger SV	0:1	1:1	21.10.2019	20:30	2019	2020	10
+Holstein Kiel	VfL Bochum	1:1	2:1	25.10.2019	18:30	2019	2020	11
+SV Darmstadt 98	Erzgebirge Aue	0:0	1:0	25.10.2019	18:30	2019	2020	11
+Hamburger SV	VfB Stuttgart	3:1	6:2	26.10.2019	13:00	2019	2020	11
+Dynamo Dresden	Arminia Bielefeld	0:0	0:1	26.10.2019	13:00	2019	2020	11
+Karlsruher SC	Hannover 96	1:2	3:3	26.10.2019	13:00	2019	2020	11
+1. FC NÃ¼rnberg	Jahn Regensburg	1:0	1:1	27.10.2019	13:30	2019	2020	11
+1. FC Heidenheim 1846	FC St. Pauli	0:0	1:0	27.10.2019	13:30	2019	2020	11
+VfL OsnabrÃ¼ck	SpVgg Greuther FÃ¼rth	0:0	0:0	27.10.2019	13:30	2019	2020	11
+SV Sandhausen	SV Wehen Wiesbaden	0:0	0:0	28.10.2019	20:30	2019	2020	11
+Hannover 96	SV Sandhausen	1:0	1:1	01.11.2019	18:30	2019	2020	12
+Jahn Regensburg	VfL OsnabrÃ¼ck	2:0	3:3	01.11.2019	18:30	2019	2020	12
+FC St. Pauli	Karlsruher SC	0:0	2:2	02.11.2019	13:00	2019	2020	12
+SpVgg Greuther FÃ¼rth	SV Darmstadt 98	2:0	3:1	02.11.2019	13:00	2019	2020	12
+Erzgebirge Aue	1. FC Heidenheim 1846	0:0	1:1	02.11.2019	13:00	2019	2020	12
+VfB Stuttgart	Dynamo Dresden	2:0	3:1	03.11.2019	13:30	2019	2020	12
+Arminia Bielefeld	Holstein Kiel	1:0	2:1	03.11.2019	13:30	2019	2020	12
+SV Wehen Wiesbaden	Hamburger SV	0:0	1:1	03.11.2019	13:30	2019	2020	12
+VfL Bochum	1. FC NÃ¼rnberg	3:0	3:1	04.11.2019	20:30	2019	2020	12
+FC St. Pauli	VfL Bochum	1:1	1:1	08.11.2019	18:30	2019	2020	13
+Dynamo Dresden	SV Wehen Wiesbaden	1:0	1:0	08.11.2019	18:30	2019	2020	13
+Holstein Kiel	Hamburger SV	1:0	1:1	09.11.2019	13:00	2019	2020	13
+SV Sandhausen	SpVgg Greuther FÃ¼rth	1:1	3:2	09.11.2019	13:00	2019	2020	13
+VfL OsnabrÃ¼ck	VfB Stuttgart	1:0	1:0	09.11.2019	13:00	2019	2020	13
+1. FC NÃ¼rnberg	Arminia Bielefeld	0:3	1:5	10.11.2019	13:30	2019	2020	13
+1. FC Heidenheim 1846	Hannover 96	1:0	4:0	10.11.2019	13:30	2019	2020	13
+SV Darmstadt 98	Jahn Regensburg	0:1	2:2	10.11.2019	13:30	2019	2020	13
+Karlsruher SC	Erzgebirge Aue	0:1	1:1	11.11.2019	20:30	2019	2020	13
+VfL Bochum	VfL OsnabrÃ¼ck	1:1	1:1	22.11.2019	18:30	2019	2020	14
+Erzgebirge Aue	FC St. Pauli	2:0	3:1	22.11.2019	18:30	2019	2020	14
+Hamburger SV	Dynamo Dresden	0:0	2:1	23.11.2019	13:00	2019	2020	14
+Arminia Bielefeld	SV Sandhausen	1:1	1:1	23.11.2019	13:00	2019	2020	14
+SV Wehen Wiesbaden	Holstein Kiel	2:4	3:6	23.11.2019	13:00	2019	2020	14
+VfB Stuttgart	Karlsruher SC	0:0	3:0	24.11.2019	13:30	2019	2020	14
+Jahn Regensburg	1. FC Heidenheim 1846	1:0	3:1	24.11.2019	13:30	2019	2020	14
+SpVgg Greuther FÃ¼rth	1. FC NÃ¼rnberg	0:0	0:0	24.11.2019	13:30	2019	2020	14
+Hannover 96	SV Darmstadt 98	1:2	1:2	25.11.2019	20:30	2019	2020	14
+VfL OsnabrÃ¼ck	Hamburger SV	2:0	2:1	29.11.2019	18:30	2019	2020	15
+Karlsruher SC	Jahn Regensburg	2:0	4:1	29.11.2019	18:30	2019	2020	15
+1. FC NÃ¼rnberg	SV Wehen Wiesbaden	0:1	0:2	30.11.2019	13:00	2019	2020	15
+FC St. Pauli	Hannover 96	0:1	0:1	30.11.2019	13:00	2019	2020	15
+VfL Bochum	Erzgebirge Aue	0:0	2:0	30.11.2019	13:00	2019	2020	15
+Dynamo Dresden	Holstein Kiel	0:2	1:2	30.11.2019	13:00	2019	2020	15
+1. FC Heidenheim 1846	SpVgg Greuther FÃ¼rth	0:0	1:0	01.12.2019	13:30	2019	2020	15
+SV Darmstadt 98	Arminia Bielefeld	0:0	1:3	01.12.2019	13:30	2019	2020	15
+SV Sandhausen	VfB Stuttgart	2:0	2:1	01.12.2019	13:30	2019	2020	15
+Hamburger SV	1. FC Heidenheim 1846	0:0	0:1	06.12.2019	18:30	2019	2020	16
+Arminia Bielefeld	Karlsruher SC	0:1	2:2	06.12.2019	18:30	2019	2020	16
+Hannover 96	Erzgebirge Aue	1:1	3:2	07.12.2019	13:00	2019	2020	16
+Holstein Kiel	VfL OsnabrÃ¼ck	2:1	2:4	07.12.2019	13:00	2019	2020	16
+SpVgg Greuther FÃ¼rth	VfL Bochum	1:0	3:1	07.12.2019	13:00	2019	2020	16
+Jahn Regensburg	FC St. Pauli	1:0	1:0	08.12.2019	13:30	2019	2020	16
+Dynamo Dresden	SV Sandhausen	1:1	1:1	08.12.2019	13:30	2019	2020	16
+SV Wehen Wiesbaden	SV Darmstadt 98	0:0	0:0	08.12.2019	13:30	2019	2020	16
+VfB Stuttgart	1. FC NÃ¼rnberg	0:1	3:1	09.12.2019	20:30	2019	2020	16
+VfL Bochum	Hannover 96	2:0	2:1	13.12.2019	18:30	2019	2020	17
+Erzgebirge Aue	Jahn Regensburg	1:0	1:0	13.12.2019	18:30	2019	2020	17
+1. FC Heidenheim 1846	Arminia Bielefeld	0:0	0:0	14.12.2019	13:00	2019	2020	17
+FC St. Pauli	SV Wehen Wiesbaden	1:0	3:1	14.12.2019	13:00	2019	2020	17
+Karlsruher SC	SpVgg Greuther FÃ¼rth	1:2	1:5	14.12.2019	13:00	2019	2020	17
+1. FC NÃ¼rnberg	Holstein Kiel	1:0	2:2	15.12.2019	13:30	2019	2020	17
+SV Sandhausen	Hamburger SV	1:0	1:1	15.12.2019	13:30	2019	2020	17
+VfL OsnabrÃ¼ck	Dynamo Dresden	1:0	3:0	15.12.2019	13:30	2019	2020	17
+SV Darmstadt 98	VfB Stuttgart	1:1	1:1	16.12.2019	20:30	2019	2020	17
+1. FC NÃ¼rnberg	Dynamo Dresden	1:0	2:0	20.12.2019	18:30	2019	2020	18
+Karlsruher SC	SV Wehen Wiesbaden	0:0	0:1	20.12.2019	18:30	2019	2020	18
+FC St. Pauli	Arminia Bielefeld	2:0	3:0	21.12.2019	13:00	2019	2020	18
+Erzgebirge Aue	SpVgg Greuther FÃ¼rth	1:0	3:1	21.12.2019	13:00	2019	2020	18
+Hannover 96	VfB Stuttgart	1:0	2:2	21.12.2019	13:00	2019	2020	18
+SV Darmstadt 98	Hamburger SV	1:2	2:2	21.12.2019	13:00	2019	2020	18
+SV Sandhausen	Holstein Kiel	0:1	2:2	22.12.2019	13:30	2019	2020	18
+VfL Bochum	Jahn Regensburg	1:2	2:3	22.12.2019	13:30	2019	2020	18
+1. FC Heidenheim 1846	VfL OsnabrÃ¼ck	1:0	3:1	22.12.2019	13:30	2019	2020	18
+Arminia Bielefeld	VfL Bochum	1:0	2:0	28.01.2020	18:30	2019	2020	19
+Jahn Regensburg	Hannover 96	1:0	1:0	28.01.2020	20:30	2019	2020	19
+SpVgg Greuther FÃ¼rth	FC St. Pauli	1:0	3:0	28.01.2020	20:30	2019	2020	19
+SV Wehen Wiesbaden	Erzgebirge Aue	1:0	1:0	28.01.2020	20:30	2019	2020	19
+VfB Stuttgart	1. FC Heidenheim 1846	1:0	3:0	29.01.2020	18:30	2019	2020	19
+Holstein Kiel	SV Darmstadt 98	1:1	1:1	29.01.2020	20:30	2019	2020	19
+Dynamo Dresden	Karlsruher SC	1:0	1:0	29.01.2020	20:30	2019	2020	19
+VfL OsnabrÃ¼ck	SV Sandhausen	0:1	1:3	29.01.2020	20:30	2019	2020	19
+Hamburger SV	1. FC NÃ¼rnberg	2:0	4:1	30.01.2020	20:30	2019	2020	19
+Erzgebirge Aue	Arminia Bielefeld	0:0	0:0	31.01.2020	18:30	2019	2020	20
+Jahn Regensburg	SpVgg Greuther FÃ¼rth	0:2	0:2	31.01.2020	18:30	2019	2020	20
+FC St. Pauli	VfB Stuttgart	0:0	1:1	01.02.2020	13:00	2019	2020	20
+Karlsruher SC	Holstein Kiel	0:2	0:2	01.02.2020	13:00	2019	2020	20
+Hannover 96	SV Wehen Wiesbaden	0:1	2:2	01.02.2020	13:00	2019	2020	20
+1. FC Heidenheim 1846	Dynamo Dresden	0:0	0:0	02.02.2020	13:30	2019	2020	20
+1. FC NÃ¼rnberg	SV Sandhausen	1:0	2:0	02.02.2020	13:30	2019	2020	20
+SV Darmstadt 98	VfL OsnabrÃ¼ck	1:1	2:2	02.02.2020	13:30	2019	2020	20
+VfL Bochum	Hamburger SV	0:0	1:3	03.02.2020	20:30	2019	2020	20
+SV Sandhausen	1. FC Heidenheim 1846	0:1	0:1	07.02.2020	18:30	2019	2020	21
+Dynamo Dresden	SV Darmstadt 98	1:3	2:3	07.02.2020	18:30	2019	2020	21
+VfL OsnabrÃ¼ck	1. FC NÃ¼rnberg	0:0	0:1	08.02.2020	13:00	2019	2020	21
+VfB Stuttgart	Erzgebirge Aue	2:0	3:0	08.02.2020	13:00	2019	2020	21
+Hamburger SV	Karlsruher SC	0:0	2:0	08.02.2020	13:00	2019	2020	21
+SpVgg Greuther FÃ¼rth	Hannover 96	0:1	1:3	09.02.2020	13:30	2019	2020	21
+Arminia Bielefeld	Jahn Regensburg	2:0	6:0	09.02.2020	13:30	2019	2020	21
+SV Wehen Wiesbaden	VfL Bochum	0:1	0:1	09.02.2020	13:30	2019	2020	21
+Holstein Kiel	FC St. Pauli	1:0	2:1	10.02.2020	20:30	2019	2020	21
+1. FC Heidenheim 1846	1. FC NÃ¼rnberg	1:1	2:2	14.02.2020	18:30	2019	2020	22
+FC St. Pauli	Dynamo Dresden	0:0	0:0	14.02.2020	18:30	2019	2020	22
+Hannover 96	Hamburger SV	0:0	1:1	15.02.2020	13:00	2019	2020	22
+SpVgg Greuther FÃ¼rth	Arminia Bielefeld	0:2	2:4	15.02.2020	13:00	2019	2020	22
+Jahn Regensburg	SV Wehen Wiesbaden	0:0	1:0	15.02.2020	13:00	2019	2020	22
+Erzgebirge Aue	Holstein Kiel	0:1	1:2	16.02.2020	13:30	2019	2020	22
+SV Darmstadt 98	SV Sandhausen	0:0	1:0	16.02.2020	13:30	2019	2020	22
+Karlsruher SC	VfL OsnabrÃ¼ck	1:0	1:1	16.02.2020	13:30	2019	2020	22
+VfL Bochum	VfB Stuttgart	0:0	0:1	17.02.2020	20:30	2019	2020	22
+VfL OsnabrÃ¼ck	Erzgebirge Aue	0:0	0:0	21.02.2020	18:30	2019	2020	23
+SV Wehen Wiesbaden	SpVgg Greuther FÃ¼rth	1:0	1:1	21.02.2020	18:30	2019	2020	23
+VfB Stuttgart	Jahn Regensburg	0:0	2:0	22.02.2020	13:00	2019	2020	23
+Hamburger SV	FC St. Pauli	0:2	0:2	22.02.2020	13:00	2019	2020	23
+Holstein Kiel	1. FC Heidenheim 1846	0:0	0:1	22.02.2020	13:00	2019	2020	23
+Dynamo Dresden	VfL Bochum	0:0	1:2	22.02.2020	13:00	2019	2020	23
+1. FC NÃ¼rnberg	SV Darmstadt 98	1:0	1:2	23.02.2020	13:30	2019	2020	23
+SV Sandhausen	Karlsruher SC	0:2	0:2	23.02.2020	13:30	2019	2020	23
+Arminia Bielefeld	Hannover 96	0:0	1:0	23.02.2020	14:00	2019	2020	23
+Jahn Regensburg	Dynamo Dresden	0:0	1:2	28.02.2020	18:30	2019	2020	24
+Karlsruher SC	1. FC NÃ¼rnberg	0:0	0:1	28.02.2020	18:30	2019	2020	24
+SV Darmstadt 98	1. FC Heidenheim 1846	2:0	2:0	29.02.2020	13:00	2019	2020	24
+SpVgg Greuther FÃ¼rth	VfB Stuttgart	0:0	2:0	29.02.2020	13:00	2019	2020	24
+Erzgebirge Aue	Hamburger SV	1:0	3:0	29.02.2020	13:00	2019	2020	24
+Arminia Bielefeld	SV Wehen Wiesbaden	0:0	1:0	01.03.2020	13:30	2019	2020	24
+FC St. Pauli	VfL OsnabrÃ¼ck	2:0	3:1	01.03.2020	13:30	2019	2020	24
+VfL Bochum	SV Sandhausen	2:2	4:4	01.03.2020	13:30	2019	2020	24
+Hannover 96	Holstein Kiel	1:0	3:1	02.03.2020	20:30	2019	2020	24
+1. FC NÃ¼rnberg	Hannover 96	0:2	0:3	06.03.2020	18:30	2019	2020	25
+VfL OsnabrÃ¼ck	SV Wehen Wiesbaden	2:5	2:6	06.03.2020	18:30	2019	2020	25
+Hamburger SV	Jahn Regensburg	1:1	2:1	07.03.2020	13:00	2019	2020	25
+SV Darmstadt 98	VfL Bochum	0:0	0:0	07.03.2020	13:00	2019	2020	25
+1. FC Heidenheim 1846	Karlsruher SC	3:0	3:1	07.03.2020	13:00	2019	2020	25
+SV Sandhausen	FC St. Pauli	1:1	2:2	08.03.2020	13:30	2019	2020	25
+Holstein Kiel	SpVgg Greuther FÃ¼rth	1:1	1:1	08.03.2020	13:30	2019	2020	25
+Dynamo Dresden	Erzgebirge Aue	1:1	2:1	08.03.2020	13:30	2019	2020	25
+VfB Stuttgart	Arminia Bielefeld	0:0	1:1	09.03.2020	20:30	2019	2020	25
+VfL Bochum	1. FC Heidenheim 1846	2:0	3:0	16.05.2020	13:00	2019	2020	26
+Jahn Regensburg	Holstein Kiel	0:1	2:2	16.05.2020	13:00	2019	2020	26
+Karlsruher SC	SV Darmstadt 98	0:0	2:0	16.05.2020	13:00	2019	2020	26
+Erzgebirge Aue	SV Sandhausen	1:0	3:1	16.05.2020	13:00	2019	2020	26
+SV Wehen Wiesbaden	VfB Stuttgart	0:0	2:1	17.05.2020	13:30	2019	2020	26
+FC St. Pauli	1. FC NÃ¼rnberg	0:0	1:0	17.05.2020	13:30	2019	2020	26
+SpVgg Greuther FÃ¼rth	Hamburger SV	1:1	2:2	17.05.2020	13:30	2019	2020	26
+Arminia Bielefeld	VfL OsnabrÃ¼ck	1:0	1:1	17.05.2020	13:30	2019	2020	26
+Hannover 96	Dynamo Dresden	3:0	3:0	03.06.2020	18:30	2019	2020	26
+1. FC NÃ¼rnberg	Erzgebirge Aue	0:0	1:1	22.05.2020	18:30	2019	2020	27
+1. FC Heidenheim 1846	SV Wehen Wiesbaden	0:0	1:0	22.05.2020	18:30	2019	2020	27
+VfL OsnabrÃ¼ck	Hannover 96	1:1	2:4	23.05.2020	13:00	2019	2020	27
+SV Sandhausen	Jahn Regensburg	0:0	0:0	23.05.2020	13:00	2019	2020	27
+SV Darmstadt 98	FC St. Pauli	1:0	4:0	23.05.2020	13:00	2019	2020	27
+Holstein Kiel	VfB Stuttgart	1:0	3:2	24.05.2020	13:30	2019	2020	27
+Hamburger SV	Arminia Bielefeld	0:0	0:0	24.05.2020	13:30	2019	2020	27
+Karlsruher SC	VfL Bochum	0:0	0:0	24.05.2020	13:30	2019	2020	27
+Dynamo Dresden	SpVgg Greuther FÃ¼rth	0:1	1:1	09.06.2020	18:30	2019	2020	27
+Jahn Regensburg	1. FC NÃ¼rnberg	1:1	2:2	26.05.2020	18:30	2019	2020	28
+Erzgebirge Aue	SV Darmstadt 98	1:1	1:3	26.05.2020	18:30	2019	2020	28
+SV Wehen Wiesbaden	SV Sandhausen	0:1	0:1	26.05.2020	18:30	2019	2020	28
+SpVgg Greuther FÃ¼rth	VfL OsnabrÃ¼ck	0:1	0:2	26.05.2020	18:30	2019	2020	28
+FC St. Pauli	1. FC Heidenheim 1846	0:0	0:0	27.05.2020	18:30	2019	2020	28
+VfL Bochum	Holstein Kiel	0:0	2:1	27.05.2020	18:30	2019	2020	28
+Hannover 96	Karlsruher SC	0:0	1:1	27.05.2020	18:30	2019	2020	28
+VfB Stuttgart	Hamburger SV	0:2	3:2	28.05.2020	20:30	2019	2020	28
+Arminia Bielefeld	Dynamo Dresden	1:0	4:0	15.06.2020	20:30	2019	2020	28
+VfL OsnabrÃ¼ck	Jahn Regensburg	0:2	2:2	29.05.2020	18:30	2019	2020	29
+SV Darmstadt 98	SpVgg Greuther FÃ¼rth	0:0	1:1	29.05.2020	18:30	2019	2020	29
+SV Sandhausen	Hannover 96	0:0	3:1	30.05.2020	13:00	2019	2020	29
+Holstein Kiel	Arminia Bielefeld	0:1	1:2	30.05.2020	13:00	2019	2020	29
+Karlsruher SC	FC St. Pauli	0:0	1:1	30.05.2020	13:00	2019	2020	29
+1. FC NÃ¼rnberg	VfL Bochum	0:0	0:0	30.05.2020	13:00	2019	2020	29
+Dynamo Dresden	VfB Stuttgart	0:1	0:2	31.05.2020	13:30	2019	2020	29
+1. FC Heidenheim 1846	Erzgebirge Aue	0:0	3:0	31.05.2020	13:30	2019	2020	29
+Hamburger SV	SV Wehen Wiesbaden	2:1	3:2	31.05.2020	13:30	2019	2020	29
+VfL Bochum	FC St. Pauli	1:0	2:0	05.06.2020	18:30	2019	2020	30
+SpVgg Greuther FÃ¼rth	SV Sandhausen	0:2	1:2	05.06.2020	18:30	2019	2020	30
+Arminia Bielefeld	1. FC NÃ¼rnberg	1:1	1:1	06.06.2020	13:00	2019	2020	30
+Jahn Regensburg	SV Darmstadt 98	1:0	3:0	06.06.2020	13:00	2019	2020	30
+SV Wehen Wiesbaden	Dynamo Dresden	2:2	2:3	06.06.2020	13:00	2019	2020	30
+Hannover 96	1. FC Heidenheim 1846	2:0	2:1	07.06.2020	13:30	2019	2020	30
+VfB Stuttgart	VfL OsnabrÃ¼ck	0:0	0:0	07.06.2020	13:30	2019	2020	30
+Erzgebirge Aue	Karlsruher SC	1:0	1:0	07.06.2020	13:30	2019	2020	30
+Hamburger SV	Holstein Kiel	2:1	3:3	08.06.2020	20:30	2019	2020	30
+Dynamo Dresden	Hamburger SV	0:0	0:1	12.06.2020	18:30	2019	2020	31
+SV Sandhausen	Arminia Bielefeld	0:0	0:0	12.06.2020	18:30	2019	2020	31
+1. FC Heidenheim 1846	Jahn Regensburg	1:0	4:1	13.06.2020	13:00	2019	2020	31
+VfL OsnabrÃ¼ck	VfL Bochum	0:1	0:2	13.06.2020	13:00	2019	2020	31
+1. FC NÃ¼rnberg	SpVgg Greuther FÃ¼rth	0:0	0:1	13.06.2020	13:00	2019	2020	31
+Holstein Kiel	SV Wehen Wiesbaden	1:1	1:2	13.06.2020	13:00	2019	2020	31
+Karlsruher SC	VfB Stuttgart	1:1	2:1	14.06.2020	13:30	2019	2020	31
+SV Darmstadt 98	Hannover 96	1:0	3:2	14.06.2020	13:30	2019	2020	31
+FC St. Pauli	Erzgebirge Aue	2:0	2:1	14.06.2020	13:30	2019	2020	31
+SV Wehen Wiesbaden	1. FC NÃ¼rnberg	0:3	0:6	16.06.2020	18:30	2019	2020	32
+SpVgg Greuther FÃ¼rth	1. FC Heidenheim 1846	0:0	0:0	16.06.2020	18:30	2019	2020	32
+Hamburger SV	VfL OsnabrÃ¼ck	1:0	1:1	16.06.2020	18:30	2019	2020	32
+Hannover 96	FC St. Pauli	2:0	4:0	17.06.2020	18:30	2019	2020	32
+Erzgebirge Aue	VfL Bochum	0:2	1:2	17.06.2020	18:30	2019	2020	32
+Jahn Regensburg	Karlsruher SC	1:0	2:1	17.06.2020	18:30	2019	2020	32
+VfB Stuttgart	SV Sandhausen	4:0	5:1	17.06.2020	18:45	2019	2020	32
+Holstein Kiel	Dynamo Dresden	1:0	2:0	18.06.2020	18:30	2019	2020	32
+Arminia Bielefeld	SV Darmstadt 98	0:0	1:0	18.06.2020	20:30	2019	2020	32
+1. FC NÃ¼rnberg	VfB Stuttgart	0:3	0:6	21.06.2020	15:30	2019	2020	33
+Erzgebirge Aue	Hannover 96	1:0	2:1	21.06.2020	15:30	2019	2020	33
+1. FC Heidenheim 1846	Hamburger SV	0:0	2:1	21.06.2020	15:30	2019	2020	33
+VfL OsnabrÃ¼ck	Holstein Kiel	2:0	4:1	21.06.2020	15:30	2019	2020	33
+Karlsruher SC	Arminia Bielefeld	1:3	3:3	21.06.2020	15:30	2019	2020	33
+FC St. Pauli	Jahn Regensburg	1:1	1:1	21.06.2020	15:30	2019	2020	33
+SV Sandhausen	Dynamo Dresden	0:0	0:1	21.06.2020	15:30	2019	2020	33
+VfL Bochum	SpVgg Greuther FÃ¼rth	1:1	2:2	21.06.2020	15:30	2019	2020	33
+SV Darmstadt 98	SV Wehen Wiesbaden	0:1	3:1	21.06.2020	15:30	2019	2020	33
+Holstein Kiel	1. FC NÃ¼rnberg	0:1	1:1	28.06.2020	15:30	2019	2020	34
+Arminia Bielefeld	1. FC Heidenheim 1846	2:0	3:0	28.06.2020	15:30	2019	2020	34
+SV Wehen Wiesbaden	FC St. Pauli	3:2	5:3	28.06.2020	15:30	2019	2020	34
+VfB Stuttgart	SV Darmstadt 98	1:1	1:3	28.06.2020	15:30	2019	2020	34
+Hannover 96	VfL Bochum	1:0	2:0	28.06.2020	15:30	2019	2020	34
+Jahn Regensburg	Erzgebirge Aue	1:1	1:2	28.06.2020	15:30	2019	2020	34
+Hamburger SV	SV Sandhausen	0:2	1:5	28.06.2020	15:30	2019	2020	34
+Dynamo Dresden	VfL OsnabrÃ¼ck	1:0	2:2	28.06.2020	15:30	2019	2020	34
+SpVgg Greuther FÃ¼rth	Karlsruher SC	1:1	1:2	28.06.2020	15:30	2019	2020	34

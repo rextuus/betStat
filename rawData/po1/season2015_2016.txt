@@ -1,0 +1,306 @@
+CD Tondela	Sporting CP	0:1	1:2	14.08.2015	21:30	2015	2016	1
+Os Belenenses	Rio Ave FC	1:1	3:3	15.08.2015	19:30	2015	2016	1
+FC Porto	VitÃ³ria GuimarÃ£es	1:0	3:0	15.08.2015	21:45	2015	2016	1
+VitÃ³ria SetÃºbal	Boavista	2:0	2:2	16.08.2015	17:00	2015	2016	1
+UniÃ£o da Madeira	CS MarÃ­timo	1:0	2:1	16.08.2015	17:00	2015	2016	1
+Moreirense FC	FC Arouca	0:0	0:2	16.08.2015	18:00	2015	2016	1
+Sporting Braga	CD Nacional	1:1	2:1	16.08.2015	19:15	2015	2016	1
+SL Benfica	GD Estoril	0:0	4:0	16.08.2015	21:30	2015	2016	1
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	1:0	1:0	17.08.2015	21:00	2015	2016	1
+Rio Ave FC	Sporting Braga	1:0	1:0	21.08.2015	21:30	2015	2016	2
+Sporting CP	PaÃ§os de Ferreira	1:0	1:1	22.08.2015	19:30	2015	2016	2
+CS MarÃ­timo	FC Porto	1:1	1:1	22.08.2015	21:45	2015	2016	2
+Boavista	CD Tondela	0:0	1:0	23.08.2015	18:00	2015	2016	2
+GD Estoril	Moreirense FC	0:0	2:0	23.08.2015	18:00	2015	2016	2
+CD Nacional	UniÃ£o da Madeira	1:0	1:0	23.08.2015	18:00	2015	2016	2
+VitÃ³ria GuimarÃ£es	Os Belenenses	1:0	1:1	23.08.2015	18:00	2015	2016	2
+FC Arouca	SL Benfica	1:0	1:0	23.08.2015	20:15	2015	2016	2
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	0:1	0:4	24.08.2015	21:00	2015	2016	2
+VitÃ³ria SetÃºbal	Rio Ave FC	0:0	2:2	29.08.2015	17:15	2015	2016	3
+FC Porto	GD Estoril	1:0	2:0	29.08.2015	19:30	2015	2016	3
+SL Benfica	Moreirense FC	0:1	3:2	29.08.2015	21:45	2015	2016	3
+CD Tondela	CD Nacional	0:0	1:0	30.08.2015	17:00	2015	2016	3
+PaÃ§os de Ferreira	FC Arouca	1:1	1:1	30.08.2015	18:00	2015	2016	3
+Sporting Braga	Boavista	1:0	4:0	30.08.2015	18:00	2015	2016	3
+AcadÃ©mica de Coimbra	Sporting CP	1:2	1:3	30.08.2015	20:15	2015	2016	3
+Os Belenenses	CS MarÃ­timo	0:1	1:1	31.08.2015	20:00	2015	2016	3
+UniÃ£o da Madeira	VitÃ³ria GuimarÃ£es	0:0	0:0	31.08.2015	22:00	2015	2016	3
+SL Benfica	Os Belenenses	3:0	6:0	11.09.2015	21:30	2015	2016	4
+GD Estoril	Sporting Braga	0:0	1:0	12.09.2015	19:30	2015	2016	4
+FC Arouca	FC Porto	0:1	1:3	12.09.2015	21:45	2015	2016	4
+CS MarÃ­timo	VitÃ³ria SetÃºbal	0:1	5:2	13.09.2015	17:00	2015	2016	4
+Moreirense FC	UniÃ£o da Madeira	0:0	0:0	13.09.2015	17:00	2015	2016	4
+CD Nacional	AcadÃ©mica de Coimbra	1:0	2:0	13.09.2015	17:00	2015	2016	4
+VitÃ³ria GuimarÃ£es	CD Tondela	1:0	1:0	13.09.2015	18:00	2015	2016	4
+Rio Ave FC	Sporting CP	0:2	1:2	13.09.2015	20:15	2015	2016	4
+Boavista	PaÃ§os de Ferreira	0:0	0:1	14.09.2015	21:00	2015	2016	4
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	1:1	2:2	18.09.2015	21:30	2015	2016	5
+CD Tondela	GD Estoril	0:0	0:1	19.09.2015	17:00	2015	2016	5
+PaÃ§os de Ferreira	Rio Ave FC	0:2	0:3	19.09.2015	21:45	2015	2016	5
+AcadÃ©mica de Coimbra	Boavista	0:1	0:2	20.09.2015	17:00	2015	2016	5
+UniÃ£o da Madeira	FC Arouca	0:0	0:0	20.09.2015	17:00	2015	2016	5
+FC Porto	SL Benfica	0:0	1:0	20.09.2015	20:15	2015	2016	5
+Os Belenenses	Moreirense FC	2:0	2:0	21.09.2015	19:00	2015	2016	5
+Sporting Braga	CS MarÃ­timo	2:1	5:1	21.09.2015	20:00	2015	2016	5
+Sporting CP	CD Nacional	0:0	1:0	21.09.2015	22:00	2015	2016	5
+Moreirense FC	FC Porto	0:1	2:2	25.09.2015	21:30	2015	2016	6
+SL Benfica	PaÃ§os de Ferreira	1:0	3:0	26.09.2015	19:30	2015	2016	6
+Boavista	Sporting CP	0:0	0:0	26.09.2015	21:45	2015	2016	6
+CS MarÃ­timo	CD Tondela	0:0	1:0	27.09.2015	17:00	2015	2016	6
+CD Nacional	VitÃ³ria SetÃºbal	0:1	1:1	27.09.2015	17:00	2015	2016	6
+FC Arouca	Os Belenenses	0:1	2:2	27.09.2015	18:00	2015	2016	6
+GD Estoril	UniÃ£o da Madeira	1:0	2:1	27.09.2015	18:00	2015	2016	6
+VitÃ³ria GuimarÃ£es	Sporting Braga	0:0	0:1	27.09.2015	20:15	2015	2016	6
+Rio Ave FC	AcadÃ©mica de Coimbra	1:0	1:0	28.09.2015	21:00	2015	2016	6
+VitÃ³ria SetÃºbal	GD Estoril	0:0	1:0	02.10.2015	21:30	2015	2016	7
+PaÃ§os de Ferreira	CD Nacional	1:1	3:1	03.10.2015	17:00	2015	2016	7
+CD Tondela	Moreirense FC	0:1	1:1	03.10.2015	17:00	2015	2016	7
+AcadÃ©mica de Coimbra	CS MarÃ­timo	0:0	1:0	03.10.2015	19:30	2015	2016	7
+Rio Ave FC	Boavista	0:0	1:0	03.10.2015	21:45	2015	2016	7
+Sporting Braga	FC Arouca	0:0	0:0	04.10.2015	19:00	2015	2016	7
+FC Porto	Os Belenenses	0:0	4:0	04.10.2015	19:15	2015	2016	7
+Sporting CP	VitÃ³ria GuimarÃ£es	2:0	5:1	04.10.2015	21:30	2015	2016	7
+UniÃ£o da Madeira	SL Benfica	0:0	0:0	15.12.2015	22:00	2015	2016	7
+CD Nacional	Boavista	0:0	0:0	23.10.2015	21:30	2015	2016	8
+CS MarÃ­timo	PaÃ§os de Ferreira	0:1	0:2	24.10.2015	17:15	2015	2016	8
+GD Estoril	Rio Ave FC	0:1	2:2	24.10.2015	19:30	2015	2016	8
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	1:0	1:1	24.10.2015	21:45	2015	2016	8
+FC Arouca	CD Tondela	0:0	1:1	25.10.2015	17:00	2015	2016	8
+Moreirense FC	VitÃ³ria SetÃºbal	0:1	0:2	25.10.2015	17:00	2015	2016	8
+SL Benfica	Sporting CP	0:3	0:3	25.10.2015	18:00	2015	2016	8
+FC Porto	Sporting Braga	0:0	0:0	25.10.2015	20:15	2015	2016	8
+Os Belenenses	UniÃ£o da Madeira	0:0	1:0	26.10.2015	21:00	2015	2016	8
+CD Tondela	SL Benfica	0:3	0:4	30.10.2015	21:30	2015	2016	9
+Sporting Braga	Os Belenenses	1:0	4:0	31.10.2015	17:15	2015	2016	9
+Sporting CP	GD Estoril	0:0	1:0	31.10.2015	21:45	2015	2016	9
+AcadÃ©mica de Coimbra	Moreirense FC	1:0	1:1	01.11.2015	17:00	2015	2016	9
+VitÃ³ria SetÃºbal	FC Arouca	0:0	0:0	01.11.2015	17:00	2015	2016	9
+Rio Ave FC	CD Nacional	0:0	1:0	01.11.2015	17:00	2015	2016	9
+Boavista	CS MarÃ­timo	0:1	0:1	01.11.2015	20:15	2015	2016	9
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	0:0	0:1	02.11.2015	21:00	2015	2016	9
+UniÃ£o da Madeira	FC Porto	0:3	0:4	02.12.2015	21:00	2015	2016	9
+GD Estoril	AcadÃ©mica de Coimbra	1:0	1:1	06.11.2015	21:30	2015	2016	10
+VitÃ³ria GuimarÃ£es	CD Nacional	0:1	0:1	07.11.2015	21:45	2015	2016	10
+SL Benfica	Boavista	1:0	2:0	08.11.2015	17:00	2015	2016	10
+CS MarÃ­timo	Rio Ave FC	2:0	3:2	08.11.2015	17:00	2015	2016	10
+Moreirense FC	PaÃ§os de Ferreira	1:0	2:0	08.11.2015	17:00	2015	2016	10
+FC Porto	VitÃ³ria SetÃºbal	0:0	2:0	08.11.2015	19:15	2015	2016	10
+FC Arouca	Sporting CP	0:0	0:1	08.11.2015	21:30	2015	2016	10
+Os Belenenses	CD Tondela	1:0	2:1	09.11.2015	20:00	2015	2016	10
+UniÃ£o da Madeira	Sporting Braga	0:0	0:1	09.11.2015	22:00	2015	2016	10
+CD Nacional	CS MarÃ­timo	1:1	3:1	27.11.2015	21:30	2015	2016	11
+VitÃ³ria SetÃºbal	UniÃ£o da Madeira	1:0	2:2	28.11.2015	18:00	2015	2016	11
+Boavista	VitÃ³ria GuimarÃ£es	1:0	1:2	28.11.2015	19:30	2015	2016	11
+CD Tondela	FC Porto	0:1	0:1	28.11.2015	21:45	2015	2016	11
+AcadÃ©mica de Coimbra	FC Arouca	1:1	1:1	29.11.2015	17:00	2015	2016	11
+Rio Ave FC	Moreirense FC	0:0	0:1	29.11.2015	17:00	2015	2016	11
+PaÃ§os de Ferreira	GD Estoril	1:0	2:0	29.11.2015	20:15	2015	2016	11
+Sporting CP	Os Belenenses	0:0	1:0	30.11.2015	20:00	2015	2016	11
+Sporting Braga	SL Benfica	0:2	0:2	30.11.2015	22:00	2015	2016	11
+SL Benfica	AcadÃ©mica de Coimbra	1:0	3:0	04.12.2015	21:30	2015	2016	12
+Os Belenenses	VitÃ³ria SetÃºbal	0:2	0:3	05.12.2015	17:15	2015	2016	12
+FC Porto	PaÃ§os de Ferreira	1:1	2:1	05.12.2015	19:30	2015	2016	12
+CS MarÃ­timo	Sporting CP	0:0	0:1	05.12.2015	21:45	2015	2016	12
+FC Arouca	Boavista	2:2	3:2	06.12.2015	17:00	2015	2016	12
+GD Estoril	CD Nacional	0:0	1:1	06.12.2015	17:00	2015	2016	12
+UniÃ£o da Madeira	CD Tondela	1:0	2:0	06.12.2015	17:00	2015	2016	12
+Moreirense FC	Sporting Braga	0:0	0:0	06.12.2015	18:00	2015	2016	12
+VitÃ³ria GuimarÃ£es	Rio Ave FC	1:1	3:1	07.12.2015	21:00	2015	2016	12
+Boavista	GD Estoril	1:1	1:1	11.12.2015	21:30	2015	2016	13
+Rio Ave FC	FC Arouca	1:0	3:1	12.12.2015	17:15	2015	2016	13
+PaÃ§os de Ferreira	UniÃ£o da Madeira	3:0	6:0	12.12.2015	19:00	2015	2016	13
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	1:2	3:4	12.12.2015	19:30	2015	2016	13
+VitÃ³ria SetÃºbal	SL Benfica	0:2	2:4	12.12.2015	21:45	2015	2016	13
+Sporting CP	Moreirense FC	2:0	3:1	13.12.2015	19:15	2015	2016	13
+CD Tondela	Sporting Braga	0:0	0:1	13.12.2015	21:30	2015	2016	13
+CD Nacional	FC Porto	1:2	1:2	14.12.2015	13:30	2015	2016	13
+AcadÃ©mica de Coimbra	Os Belenenses	2:1	4:3	14.12.2015	21:00	2015	2016	13
+FC Arouca	CS MarÃ­timo	2:0	4:1	19.12.2015	19:30	2015	2016	14
+GD Estoril	VitÃ³ria GuimarÃ£es	0:1	0:1	19.12.2015	21:45	2015	2016	14
+SL Benfica	Rio Ave FC	1:1	3:1	20.12.2015	17:00	2015	2016	14
+Moreirense FC	CD Nacional	2:0	2:0	20.12.2015	17:00	2015	2016	14
+CD Tondela	VitÃ³ria SetÃºbal	1:3	1:3	20.12.2015	17:00	2015	2016	14
+UniÃ£o da Madeira	Sporting CP	0:0	1:0	20.12.2015	19:15	2015	2016	14
+FC Porto	AcadÃ©mica de Coimbra	1:0	3:1	20.12.2015	21:30	2015	2016	14
+Os Belenenses	Boavista	1:0	1:0	21.12.2015	20:00	2015	2016	14
+Sporting Braga	PaÃ§os de Ferreira	1:0	1:1	21.12.2015	22:00	2015	2016	14
+AcadÃ©mica de Coimbra	UniÃ£o da Madeira	1:1	3:1	02.01.2016	17:00	2015	2016	15
+Boavista	Moreirense FC	0:1	0:3	02.01.2016	17:00	2015	2016	15
+CD Nacional	FC Arouca	1:2	2:2	02.01.2016	17:00	2015	2016	15
+CS MarÃ­timo	GD Estoril	1:0	1:1	02.01.2016	17:00	2015	2016	15
+VitÃ³ria SetÃºbal	Sporting Braga	1:0	1:1	02.01.2016	17:15	2015	2016	15
+PaÃ§os de Ferreira	Os Belenenses	1:1	2:2	02.01.2016	19:00	2015	2016	15
+VitÃ³ria GuimarÃ£es	SL Benfica	0:0	0:1	02.01.2016	19:30	2015	2016	15
+Sporting CP	FC Porto	1:0	2:0	02.01.2016	21:45	2015	2016	15
+Rio Ave FC	CD Tondela	1:0	2:3	03.01.2016	18:00	2015	2016	15
+UniÃ£o da Madeira	Boavista	0:0	1:0	06.01.2016	16:00	2015	2016	16
+FC Arouca	GD Estoril	1:0	1:0	06.01.2016	17:00	2015	2016	16
+CD Tondela	PaÃ§os de Ferreira	0:1	0:2	06.01.2016	17:00	2015	2016	16
+Moreirense FC	VitÃ³ria GuimarÃ£es	1:3	3:4	06.01.2016	17:15	2015	2016	16
+Os Belenenses	CD Nacional	0:1	2:2	06.01.2016	19:00	2015	2016	16
+Sporting Braga	AcadÃ©mica de Coimbra	2:0	3:0	06.01.2016	19:15	2015	2016	16
+SL Benfica	CS MarÃ­timo	3:0	6:0	06.01.2016	20:00	2015	2016	16
+FC Porto	Rio Ave FC	1:1	1:1	06.01.2016	21:15	2015	2016	16
+VitÃ³ria SetÃºbal	Sporting CP	0:2	0:6	06.01.2016	21:15	2015	2016	16
+VitÃ³ria GuimarÃ£es	FC Arouca	2:0	2:2	09.01.2016	19:30	2015	2016	17
+AcadÃ©mica de Coimbra	CD Tondela	0:1	2:1	10.01.2016	17:00	2015	2016	17
+CS MarÃ­timo	Moreirense FC	2:0	5:1	10.01.2016	17:00	2015	2016	17
+Rio Ave FC	UniÃ£o da Madeira	1:0	1:0	10.01.2016	17:00	2015	2016	17
+GD Estoril	Os Belenenses	0:0	2:0	10.01.2016	17:00	2015	2016	17
+Sporting CP	Sporting Braga	0:2	3:2	10.01.2016	17:00	2015	2016	17
+Boavista	FC Porto	0:1	0:5	10.01.2016	19:15	2015	2016	17
+CD Nacional	SL Benfica	0:1	1:4	11.01.2016	13:00	2015	2016	17
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	1:1	2:1	11.01.2016	21:00	2015	2016	17
+Sporting CP	CD Tondela	0:1	2:2	15.01.2016	21:30	2015	2016	18
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	1:1	1:1	16.01.2016	17:15	2015	2016	18
+CS MarÃ­timo	UniÃ£o da Madeira	0:0	0:1	16.01.2016	19:30	2015	2016	18
+GD Estoril	SL Benfica	1:0	1:2	16.01.2016	21:45	2015	2016	18
+Rio Ave FC	Os Belenenses	1:2	1:2	17.01.2016	17:00	2015	2016	18
+FC Arouca	Moreirense FC	1:1	1:2	17.01.2016	17:00	2015	2016	18
+CD Nacional	Sporting Braga	1:1	2:3	17.01.2016	19:15	2015	2016	18
+VitÃ³ria GuimarÃ£es	FC Porto	1:0	1:0	17.01.2016	21:30	2015	2016	18
+Boavista	VitÃ³ria SetÃºbal	1:0	4:0	18.01.2016	21:00	2015	2016	18
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	1:0	2:1	22.01.2016	21:30	2015	2016	19
+Moreirense FC	GD Estoril	1:2	1:3	23.01.2016	17:00	2015	2016	19
+UniÃ£o da Madeira	CD Nacional	2:0	3:0	23.01.2016	17:00	2015	2016	19
+SL Benfica	FC Arouca	2:0	3:1	23.01.2016	19:30	2015	2016	19
+PaÃ§os de Ferreira	Sporting CP	0:1	1:3	23.01.2016	21:45	2015	2016	19
+Os Belenenses	VitÃ³ria GuimarÃ£es	2:2	3:3	24.01.2016	17:00	2015	2016	19
+Sporting Braga	Rio Ave FC	2:0	5:1	24.01.2016	19:15	2015	2016	19
+FC Porto	CS MarÃ­timo	1:0	1:0	24.01.2016	21:30	2015	2016	19
+CD Tondela	Boavista	1:1	1:2	25.01.2016	21:00	2015	2016	19
+VitÃ³ria GuimarÃ£es	UniÃ£o da Madeira	1:1	3:1	29.01.2016	21:30	2015	2016	20
+GD Estoril	FC Porto	1:2	1:3	30.01.2016	19:30	2015	2016	20
+Sporting CP	AcadÃ©mica de Coimbra	2:1	3:2	30.01.2016	21:45	2015	2016	20
+FC Arouca	PaÃ§os de Ferreira	0:1	2:2	31.01.2016	17:00	2015	2016	20
+CD Nacional	CD Tondela	2:0	3:1	31.01.2016	17:00	2015	2016	20
+Rio Ave FC	VitÃ³ria SetÃºbal	2:0	2:1	31.01.2016	17:00	2015	2016	20
+Boavista	Sporting Braga	0:0	0:0	31.01.2016	18:00	2015	2016	20
+Moreirense FC	SL Benfica	0:2	1:4	31.01.2016	20:15	2015	2016	20
+CS MarÃ­timo	Os Belenenses	0:1	1:2	01.02.2016	21:00	2015	2016	20
+Os Belenenses	SL Benfica	0:1	0:5	05.02.2016	21:30	2015	2016	21
+VitÃ³ria SetÃºbal	CS MarÃ­timo	1:0	1:1	06.02.2016	19:30	2015	2016	21
+CD Tondela	VitÃ³ria GuimarÃ£es	1:1	1:1	06.02.2016	21:45	2015	2016	21
+PaÃ§os de Ferreira	Boavista	0:0	0:1	07.02.2016	17:00	2015	2016	21
+UniÃ£o da Madeira	Moreirense FC	0:1	0:1	07.02.2016	17:00	2015	2016	21
+AcadÃ©mica de Coimbra	CD Nacional	1:0	2:2	07.02.2016	17:00	2015	2016	21
+FC Porto	FC Arouca	1:1	1:2	07.02.2016	20:15	2015	2016	21
+Sporting CP	Rio Ave FC	0:0	0:0	08.02.2016	20:00	2015	2016	21
+Sporting Braga	GD Estoril	0:0	2:0	08.02.2016	22:00	2015	2016	21
+SL Benfica	FC Porto	1:1	1:2	12.02.2016	21:30	2015	2016	22
+Moreirense FC	Os Belenenses	1:2	2:3	13.02.2016	17:15	2015	2016	22
+CD Nacional	Sporting CP	0:1	0:4	13.02.2016	19:30	2015	2016	22
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	1:1	2:2	13.02.2016	21:45	2015	2016	22
+FC Arouca	UniÃ£o da Madeira	1:0	3:0	14.02.2016	17:00	2015	2016	22
+GD Estoril	CD Tondela	1:1	2:1	14.02.2016	17:00	2015	2016	22
+Boavista	AcadÃ©mica de Coimbra	0:0	0:0	14.02.2016	18:00	2015	2016	22
+CS MarÃ­timo	Sporting Braga	1:3	1:3	14.02.2016	20:15	2015	2016	22
+Rio Ave FC	PaÃ§os de Ferreira	0:1	1:1	15.02.2016	21:00	2015	2016	22
+UniÃ£o da Madeira	GD Estoril	1:0	1:1	19.02.2016	21:30	2015	2016	23
+PaÃ§os de Ferreira	SL Benfica	1:2	1:3	20.02.2016	19:30	2015	2016	23
+AcadÃ©mica de Coimbra	Rio Ave FC	0:1	0:2	20.02.2016	21:45	2015	2016	23
+Os Belenenses	FC Arouca	0:0	0:2	21.02.2016	17:00	2015	2016	23
+CD Tondela	CS MarÃ­timo	1:2	3:4	21.02.2016	17:00	2015	2016	23
+VitÃ³ria SetÃºbal	CD Nacional	0:1	1:1	21.02.2016	17:00	2015	2016	23
+FC Porto	Moreirense FC	1:2	3:2	21.02.2016	19:15	2015	2016	23
+Sporting Braga	VitÃ³ria GuimarÃ£es	2:2	3:3	21.02.2016	21:30	2015	2016	23
+Sporting CP	Boavista	2:0	2:0	22.02.2016	21:00	2015	2016	23
+CD Nacional	PaÃ§os de Ferreira	1:0	3:0	26.02.2016	21:30	2015	2016	24
+Boavista	Rio Ave FC	0:1	1:2	27.02.2016	17:15	2015	2016	24
+FC Arouca	Sporting Braga	0:0	0:0	27.02.2016	19:30	2015	2016	24
+GD Estoril	VitÃ³ria SetÃºbal	2:0	3:0	27.02.2016	21:45	2015	2016	24
+CS MarÃ­timo	AcadÃ©mica de Coimbra	0:0	1:0	28.02.2016	17:00	2015	2016	24
+Moreirense FC	CD Tondela	1:1	1:2	28.02.2016	17:00	2015	2016	24
+Os Belenenses	FC Porto	0:2	1:2	28.02.2016	20:15	2015	2016	24
+SL Benfica	UniÃ£o da Madeira	1:0	2:0	29.02.2016	20:45	2015	2016	24
+VitÃ³ria GuimarÃ£es	Sporting CP	0:0	0:0	29.02.2016	21:00	2015	2016	24
+PaÃ§os de Ferreira	CS MarÃ­timo	0:0	2:2	04.03.2016	21:30	2015	2016	25
+Sporting CP	SL Benfica	0:1	0:1	05.03.2016	21:45	2015	2016	25
+CD Tondela	FC Arouca	0:0	0:1	06.03.2016	17:00	2015	2016	25
+UniÃ£o da Madeira	Os Belenenses	0:0	0:0	06.03.2016	17:00	2015	2016	25
+VitÃ³ria SetÃºbal	Moreirense FC	0:0	0:1	06.03.2016	17:00	2015	2016	25
+Boavista	CD Nacional	0:1	0:1	06.03.2016	17:00	2015	2016	25
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	0:0	2:0	06.03.2016	19:15	2015	2016	25
+Sporting Braga	FC Porto	0:0	3:1	06.03.2016	21:30	2015	2016	25
+Rio Ave FC	GD Estoril	0:1	1:3	07.03.2016	21:00	2015	2016	25
+CS MarÃ­timo	Boavista	0:0	0:3	11.03.2016	21:30	2015	2016	26
+GD Estoril	Sporting CP	0:2	1:2	12.03.2016	19:30	2015	2016	26
+FC Porto	UniÃ£o da Madeira	1:0	3:2	12.03.2016	21:45	2015	2016	26
+Moreirense FC	AcadÃ©mica de Coimbra	0:1	2:2	13.03.2016	17:00	2015	2016	26
+FC Arouca	VitÃ³ria SetÃºbal	1:0	1:0	13.03.2016	17:00	2015	2016	26
+CD Nacional	Rio Ave FC	0:0	1:0	13.03.2016	17:00	2015	2016	26
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	0:1	0:1	13.03.2016	19:15	2015	2016	26
+Os Belenenses	Sporting Braga	0:0	3:0	13.03.2016	21:30	2015	2016	26
+SL Benfica	CD Tondela	2:0	4:1	14.03.2016	21:00	2015	2016	26
+Rio Ave FC	CS MarÃ­timo	1:0	1:0	18.03.2016	21:30	2015	2016	27
+Sporting CP	FC Arouca	4:0	5:1	19.03.2016	19:30	2015	2016	27
+VitÃ³ria SetÃºbal	FC Porto	0:1	0:1	19.03.2016	21:45	2015	2016	27
+CD Tondela	Os Belenenses	0:1	2:2	20.03.2016	17:00	2015	2016	27
+CD Nacional	VitÃ³ria GuimarÃ£es	1:2	3:2	20.03.2016	17:00	2015	2016	27
+AcadÃ©mica de Coimbra	GD Estoril	0:2	0:3	20.03.2016	17:00	2015	2016	27
+PaÃ§os de Ferreira	Moreirense FC	0:0	0:0	20.03.2016	17:00	2015	2016	27
+Boavista	SL Benfica	0:0	0:1	20.03.2016	19:15	2015	2016	27
+Sporting Braga	UniÃ£o da Madeira	1:0	2:0	20.03.2016	21:30	2015	2016	27
+SL Benfica	Sporting Braga	3:0	5:1	01.04.2016	21:30	2015	2016	28
+FC Arouca	AcadÃ©mica de Coimbra	3:1	3:2	02.04.2016	17:15	2015	2016	28
+CS MarÃ­timo	CD Nacional	0:0	2:0	02.04.2016	19:30	2015	2016	28
+VitÃ³ria GuimarÃ£es	Boavista	1:1	1:1	02.04.2016	21:45	2015	2016	28
+UniÃ£o da Madeira	VitÃ³ria SetÃºbal	2:0	2:2	03.04.2016	17:00	2015	2016	28
+GD Estoril	PaÃ§os de Ferreira	1:0	1:0	03.04.2016	18:00	2015	2016	28
+Moreirense FC	Rio Ave FC	0:0	0:1	03.04.2016	20:15	2015	2016	28
+FC Porto	CD Tondela	0:0	0:1	04.04.2016	20:00	2015	2016	28
+Os Belenenses	Sporting CP	0:2	2:5	04.04.2016	22:00	2015	2016	28
+Boavista	FC Arouca	0:0	0:0	08.04.2016	21:30	2015	2016	29
+AcadÃ©mica de Coimbra	SL Benfica	1:1	1:2	09.04.2016	19:30	2015	2016	29
+Sporting CP	CS MarÃ­timo	1:0	3:1	09.04.2016	21:45	2015	2016	29
+VitÃ³ria SetÃºbal	Os Belenenses	0:0	0:1	10.04.2016	17:00	2015	2016	29
+CD Nacional	GD Estoril	1:0	4:1	10.04.2016	17:00	2015	2016	29
+CD Tondela	UniÃ£o da Madeira	1:0	1:0	10.04.2016	17:00	2015	2016	29
+PaÃ§os de Ferreira	FC Porto	0:0	1:0	10.04.2016	19:15	2015	2016	29
+Sporting Braga	Moreirense FC	0:0	1:1	10.04.2016	21:30	2015	2016	29
+Rio Ave FC	VitÃ³ria GuimarÃ£es	2:0	2:0	11.04.2016	21:00	2015	2016	29
+FC Arouca	Rio Ave FC	0:0	0:0	16.04.2016	17:15	2015	2016	30
+GD Estoril	Boavista	0:0	1:0	16.04.2016	19:30	2015	2016	30
+Moreirense FC	Sporting CP	0:1	0:1	16.04.2016	21:45	2015	2016	30
+Os Belenenses	AcadÃ©mica de Coimbra	1:0	1:1	17.04.2016	17:00	2015	2016	30
+UniÃ£o da Madeira	PaÃ§os de Ferreira	2:0	3:4	17.04.2016	17:00	2015	2016	30
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	2:0	3:0	17.04.2016	19:15	2015	2016	30
+FC Porto	CD Nacional	2:0	4:0	17.04.2016	21:30	2015	2016	30
+Sporting Braga	CD Tondela	1:0	3:0	18.04.2016	20:00	2015	2016	30
+SL Benfica	VitÃ³ria SetÃºbal	2:1	2:1	18.04.2016	22:00	2015	2016	30
+Boavista	Os Belenenses	1:0	1:0	22.04.2016	21:30	2015	2016	31
+AcadÃ©mica de Coimbra	FC Porto	1:1	1:2	23.04.2016	17:15	2015	2016	31
+Sporting CP	UniÃ£o da Madeira	2:0	2:0	23.04.2016	19:30	2015	2016	31
+PaÃ§os de Ferreira	Sporting Braga	1:0	1:0	23.04.2016	21:45	2015	2016	31
+CS MarÃ­timo	FC Arouca	0:2	1:2	24.04.2016	17:00	2015	2016	31
+CD Nacional	Moreirense FC	0:1	0:1	24.04.2016	17:00	2015	2016	31
+VitÃ³ria SetÃºbal	CD Tondela	0:0	0:1	24.04.2016	17:00	2015	2016	31
+VitÃ³ria GuimarÃ£es	GD Estoril	0:0	1:1	24.04.2016	19:15	2015	2016	31
+Rio Ave FC	SL Benfica	0:0	0:1	24.04.2016	21:30	2015	2016	31
+SL Benfica	VitÃ³ria GuimarÃ£es	0:0	1:0	29.04.2016	20:00	2015	2016	32
+Sporting Braga	VitÃ³ria SetÃºbal	1:1	3:2	29.04.2016	22:00	2015	2016	32
+CD Tondela	Rio Ave FC	1:0	1:1	30.04.2016	17:00	2015	2016	32
+Os Belenenses	PaÃ§os de Ferreira	0:1	0:2	30.04.2016	17:00	2015	2016	32
+FC Porto	Sporting CP	1:2	1:3	30.04.2016	19:30	2015	2016	32
+Moreirense FC	Boavista	1:1	1:1	01.05.2016	17:00	2015	2016	32
+GD Estoril	CS MarÃ­timo	0:1	2:1	01.05.2016	17:00	2015	2016	32
+FC Arouca	CD Nacional	2:0	3:0	01.05.2016	19:15	2015	2016	32
+UniÃ£o da Madeira	AcadÃ©mica de Coimbra	1:0	3:1	01.05.2016	21:30	2015	2016	32
+PaÃ§os de Ferreira	CD Tondela	1:1	1:4	06.05.2016	21:30	2015	2016	33
+Rio Ave FC	FC Porto	1:1	1:3	07.05.2016	17:15	2015	2016	33
+AcadÃ©mica de Coimbra	Sporting Braga	0:0	0:0	07.05.2016	19:30	2015	2016	33
+Sporting CP	VitÃ³ria SetÃºbal	2:0	5:0	07.05.2016	21:45	2015	2016	33
+CD Nacional	Os Belenenses	1:0	2:2	08.05.2016	17:00	2015	2016	33
+Boavista	UniÃ£o da Madeira	1:0	1:0	08.05.2016	17:00	2015	2016	33
+VitÃ³ria GuimarÃ£es	Moreirense FC	1:1	4:1	08.05.2016	19:15	2015	2016	33
+CS MarÃ­timo	SL Benfica	0:0	0:2	08.05.2016	21:30	2015	2016	33
+GD Estoril	FC Arouca	0:1	1:1	09.05.2016	21:00	2015	2016	33
+FC Porto	Boavista	1:0	4:0	14.05.2016	12:45	2015	2016	34
+FC Arouca	VitÃ³ria GuimarÃ£es	0:2	2:2	14.05.2016	19:00	2015	2016	34
+CD Tondela	AcadÃ©mica de Coimbra	1:0	2:0	14.05.2016	20:30	2015	2016	34
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	0:0	0:0	14.05.2016	20:30	2015	2016	34
+UniÃ£o da Madeira	Rio Ave FC	1:0	1:2	14.05.2016	20:30	2015	2016	34
+Os Belenenses	GD Estoril	2:1	2:1	14.05.2016	20:30	2015	2016	34
+Moreirense FC	CS MarÃ­timo	1:0	2:1	15.05.2016	16:00	2015	2016	34
+SL Benfica	CD Nacional	2:0	4:1	15.05.2016	18:00	2015	2016	34
+Sporting Braga	Sporting CP	0:2	0:4	15.05.2016	18:00	2015	2016	34

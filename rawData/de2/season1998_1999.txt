@@ -1,0 +1,306 @@
+Hannover 96	Karlsruher SC	0:0	1:0	30.07.1998	20:15	1998	1999	1
+FC St. Pauli	TeBe Berlin	0:0	1:0	31.07.1998	19:00	1998	1999	1
+Energie Cottbus	Stuttgarter Kickers	1:0	2:0	31.07.1998	19:00	1998	1999	1
+Fortuna KÃ¶ln	Fortuna DÃ¼sseldorf	2:0	2:1	31.07.1998	19:00	1998	1999	1
+SpVgg Unterhaching	Arminia Bielefeld	0:0	0:2	02.08.1998	15:00	1998	1999	1
+SSV Ulm 1846	SG Wattenscheid 09	0:0	2:0	02.08.1998	15:00	1998	1999	1
+1. FSV Mainz 05	SpVgg Greuther FÃ¼rth	1:0	3:0	02.08.1998	15:00	1998	1999	1
+Rot-WeiÃ Oberhausen	KFC Uerdingen 05	0:0	0:0	02.08.1998	15:00	1998	1999	1
+FC GÃ¼tersloh	1. FC KÃ¶ln	0:0	0:1	02.08.1998	15:00	1998	1999	1
+1. FC KÃ¶ln	SpVgg Unterhaching	0:1	0:1	07.08.1998	19:00	1998	1999	2
+Stuttgarter Kickers	Rot-WeiÃ Oberhausen	1:0	2:0	07.08.1998	19:00	1998	1999	2
+KFC Uerdingen 05	Fortuna KÃ¶ln	0:1	1:2	07.08.1998	19:00	1998	1999	2
+Karlsruher SC	SSV Ulm 1846	0:0	1:2	09.08.1998	15:00	1998	1999	2
+TeBe Berlin	Energie Cottbus	0:0	1:0	09.08.1998	15:00	1998	1999	2
+SpVgg Greuther FÃ¼rth	FC St. Pauli	0:0	1:0	09.08.1998	15:00	1998	1999	2
+SG Wattenscheid 09	1. FSV Mainz 05	0:1	1:1	09.08.1998	15:00	1998	1999	2
+Fortuna DÃ¼sseldorf	FC GÃ¼tersloh	2:1	3:1	09.08.1998	15:00	1998	1999	2
+Arminia Bielefeld	Hannover 96	0:1	0:1	10.08.1998	19:30	1998	1999	2
+Fortuna KÃ¶ln	Stuttgarter Kickers	0:1	2:1	11.08.1998	19:00	1998	1999	3
+Rot-WeiÃ Oberhausen	TeBe Berlin	0:0	0:2	12.08.1998	19:00	1998	1999	3
+FC GÃ¼tersloh	SpVgg Unterhaching	0:1	1:1	13.08.1998	18:30	1998	1999	3
+SSV Ulm 1846	Arminia Bielefeld	2:1	6:2	13.08.1998	19:00	1998	1999	3
+1. FSV Mainz 05	Karlsruher SC	2:1	4:1	13.08.1998	19:00	1998	1999	3
+FC St. Pauli	SG Wattenscheid 09	0:0	1:0	13.08.1998	19:00	1998	1999	3
+Energie Cottbus	SpVgg Greuther FÃ¼rth	1:1	1:1	13.08.1998	19:00	1998	1999	3
+Fortuna DÃ¼sseldorf	KFC Uerdingen 05	1:2	2:2	13.08.1998	19:00	1998	1999	3
+Hannover 96	1. FC KÃ¶ln	1:1	6:1	10.09.1998	20:15	1998	1999	3
+TeBe Berlin	Fortuna KÃ¶ln	1:1	3:2	15.08.1998	15:30	1998	1999	4
+Arminia Bielefeld	1. FSV Mainz 05	0:0	1:0	16.08.1998	15:00	1998	1999	4
+SpVgg Unterhaching	Hannover 96	1:1	3:1	16.08.1998	15:00	1998	1999	4
+SpVgg Greuther FÃ¼rth	Rot-WeiÃ Oberhausen	0:1	1:1	16.08.1998	15:00	1998	1999	4
+1. FC KÃ¶ln	SSV Ulm 1846	0:1	1:1	16.08.1998	15:00	1998	1999	4
+Stuttgarter Kickers	Fortuna DÃ¼sseldorf	0:0	1:0	16.08.1998	15:00	1998	1999	4
+KFC Uerdingen 05	FC GÃ¼tersloh	0:0	2:0	16.08.1998	15:00	1998	1999	4
+SG Wattenscheid 09	Energie Cottbus	0:1	1:1	16.08.1998	15:00	1998	1999	4
+Karlsruher SC	FC St. Pauli	3:0	3:0	17.08.1998	19:30	1998	1999	4
+SSV Ulm 1846	SpVgg Unterhaching	2:0	3:1	21.08.1998	19:00	1998	1999	5
+1. FSV Mainz 05	1. FC KÃ¶ln	1:0	2:1	21.08.1998	19:00	1998	1999	5
+KFC Uerdingen 05	Stuttgarter Kickers	0:0	0:1	21.08.1998	19:00	1998	1999	5
+Energie Cottbus	Karlsruher SC	2:0	4:0	23.08.1998	15:00	1998	1999	5
+Rot-WeiÃ Oberhausen	SG Wattenscheid 09	0:0	1:0	23.08.1998	15:00	1998	1999	5
+Fortuna KÃ¶ln	SpVgg Greuther FÃ¼rth	1:2	1:4	23.08.1998	15:00	1998	1999	5
+FC GÃ¼tersloh	Hannover 96	1:0	2:1	23.08.1998	15:00	1998	1999	5
+FC St. Pauli	Arminia Bielefeld	0:1	1:2	24.08.1998	19:30	1998	1999	5
+Fortuna DÃ¼sseldorf	TeBe Berlin	1:0	2:2	09.09.1998	19:00	1998	1999	5
+Arminia Bielefeld	Energie Cottbus	0:0	2:0	11.09.1998	19:00	1998	1999	6
+Karlsruher SC	Rot-WeiÃ Oberhausen	0:1	3:1	11.09.1998	19:00	1998	1999	6
+SG Wattenscheid 09	Fortuna KÃ¶ln	0:0	0:0	11.09.1998	19:00	1998	1999	6
+SpVgg Unterhaching	1. FSV Mainz 05	0:0	1:0	13.09.1998	15:00	1998	1999	6
+Hannover 96	SSV Ulm 1846	0:1	1:1	13.09.1998	15:00	1998	1999	6
+TeBe Berlin	KFC Uerdingen 05	2:1	3:1	13.09.1998	15:00	1998	1999	6
+SpVgg Greuther FÃ¼rth	Fortuna DÃ¼sseldorf	1:0	1:0	13.09.1998	15:00	1998	1999	6
+Stuttgarter Kickers	FC GÃ¼tersloh	0:1	2:1	13.09.1998	15:00	1998	1999	6
+1. FC KÃ¶ln	FC St. Pauli	1:4	1:4	14.09.1998	19:30	1998	1999	6
+Rot-WeiÃ Oberhausen	Arminia Bielefeld	1:1	1:5	18.09.1998	19:00	1998	1999	7
+Stuttgarter Kickers	TeBe Berlin	0:0	1:0	18.09.1998	19:00	1998	1999	7
+Fortuna DÃ¼sseldorf	SG Wattenscheid 09	0:1	1:1	19.09.1998	15:30	1998	1999	7
+1. FSV Mainz 05	Hannover 96	1:0	1:0	20.09.1998	15:00	1998	1999	7
+FC St. Pauli	SpVgg Unterhaching	0:1	1:1	20.09.1998	15:00	1998	1999	7
+Fortuna KÃ¶ln	Karlsruher SC	0:1	0:1	20.09.1998	15:00	1998	1999	7
+FC GÃ¼tersloh	SSV Ulm 1846	0:0	1:1	20.09.1998	15:00	1998	1999	7
+Energie Cottbus	1. FC KÃ¶ln	2:2	2:3	21.09.1998	19:30	1998	1999	7
+KFC Uerdingen 05	SpVgg Greuther FÃ¼rth	0:1	0:2	21.10.1998	19:00	1998	1999	7
+Karlsruher SC	Fortuna DÃ¼sseldorf	1:1	3:1	25.09.1998	19:00	1998	1999	8
+TeBe Berlin	FC GÃ¼tersloh	0:0	2:0	25.09.1998	19:00	1998	1999	8
+Arminia Bielefeld	Fortuna KÃ¶ln	1:1	2:1	26.09.1998	15:30	1998	1999	8
+SpVgg Unterhaching	Energie Cottbus	0:0	1:0	27.09.1998	15:00	1998	1999	8
+Hannover 96	FC St. Pauli	3:0	3:0	27.09.1998	15:00	1998	1999	8
+SpVgg Greuther FÃ¼rth	Stuttgarter Kickers	0:0	1:0	27.09.1998	15:00	1998	1999	8
+1. FC KÃ¶ln	Rot-WeiÃ Oberhausen	2:0	2:1	27.09.1998	15:00	1998	1999	8
+SG Wattenscheid 09	KFC Uerdingen 05	1:0	2:1	27.09.1998	15:00	1998	1999	8
+SSV Ulm 1846	1. FSV Mainz 05	2:1	4:2	28.09.1998	19:30	1998	1999	8
+FC St. Pauli	SSV Ulm 1846	0:1	0:1	02.10.1998	19:00	1998	1999	9
+Rot-WeiÃ Oberhausen	SpVgg Unterhaching	0:1	0:2	02.10.1998	19:00	1998	1999	9
+KFC Uerdingen 05	Karlsruher SC	1:1	1:3	02.10.1998	19:00	1998	1999	9
+Fortuna DÃ¼sseldorf	Arminia Bielefeld	2:0	2:2	02.10.1998	19:00	1998	1999	9
+TeBe Berlin	SpVgg Greuther FÃ¼rth	2:1	2:1	04.10.1998	15:00	1998	1999	9
+Energie Cottbus	Hannover 96	0:0	1:0	04.10.1998	15:00	1998	1999	9
+Stuttgarter Kickers	SG Wattenscheid 09	0:1	0:2	04.10.1998	15:00	1998	1999	9
+FC GÃ¼tersloh	1. FSV Mainz 05	2:0	6:1	04.10.1998	15:00	1998	1999	9
+Fortuna KÃ¶ln	1. FC KÃ¶ln	3:0	4:2	05.10.1998	19:30	1998	1999	9
+Hannover 96	Rot-WeiÃ Oberhausen	0:1	1:1	16.10.1998	19:00	1998	1999	10
+Karlsruher SC	Stuttgarter Kickers	2:0	6:0	16.10.1998	19:00	1998	1999	10
+SG Wattenscheid 09	TeBe Berlin	0:1	0:1	16.10.1998	19:00	1998	1999	10
+Arminia Bielefeld	KFC Uerdingen 05	0:0	1:0	18.10.1998	15:00	1998	1999	10
+SpVgg Unterhaching	Fortuna KÃ¶ln	1:0	3:0	18.10.1998	15:00	1998	1999	10
+SSV Ulm 1846	Energie Cottbus	1:1	2:2	18.10.1998	15:00	1998	1999	10
+1. FSV Mainz 05	FC St. Pauli	0:0	3:0	18.10.1998	15:00	1998	1999	10
+SpVgg Greuther FÃ¼rth	FC GÃ¼tersloh	1:2	3:2	18.10.1998	15:00	1998	1999	10
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	0:0	1:0	19.10.1998	19:30	1998	1999	10
+Energie Cottbus	1. FSV Mainz 05	1:1	2:2	23.10.1998	19:00	1998	1999	11
+Rot-WeiÃ Oberhausen	SSV Ulm 1846	0:1	2:2	23.10.1998	19:00	1998	1999	11
+Stuttgarter Kickers	Arminia Bielefeld	0:1	2:2	23.10.1998	19:00	1998	1999	11
+TeBe Berlin	Karlsruher SC	3:1	3:2	25.10.1998	15:00	1998	1999	11
+SpVgg Greuther FÃ¼rth	SG Wattenscheid 09	0:0	2:1	25.10.1998	15:00	1998	1999	11
+FC GÃ¼tersloh	FC St. Pauli	1:2	1:4	25.10.1998	15:00	1998	1999	11
+KFC Uerdingen 05	1. FC KÃ¶ln	2:1	2:2	25.10.1998	15:00	1998	1999	11
+Fortuna DÃ¼sseldorf	SpVgg Unterhaching	0:2	1:3	25.10.1998	15:00	1998	1999	11
+Fortuna KÃ¶ln	Hannover 96	0:0	3:0	26.10.1998	19:30	1998	1999	11
+1. FSV Mainz 05	Rot-WeiÃ Oberhausen	0:0	0:0	30.10.1998	19:00	1998	1999	12
+1. FC KÃ¶ln	Stuttgarter Kickers	0:0	0:1	30.10.1998	19:00	1998	1999	12
+SG Wattenscheid 09	FC GÃ¼tersloh	1:0	1:1	30.10.1998	19:00	1998	1999	12
+SpVgg Unterhaching	KFC Uerdingen 05	0:0	2:0	31.10.1998	15:30	1998	1999	12
+SSV Ulm 1846	Fortuna KÃ¶ln	1:2	3:3	01.11.1998	15:00	1998	1999	12
+Hannover 96	Fortuna DÃ¼sseldorf	0:1	0:2	01.11.1998	15:00	1998	1999	12
+Karlsruher SC	SpVgg Greuther FÃ¼rth	0:0	1:0	01.11.1998	15:00	1998	1999	12
+FC St. Pauli	Energie Cottbus	0:0	1:1	01.11.1998	15:00	1998	1999	12
+Arminia Bielefeld	TeBe Berlin	2:1	3:1	02.11.1998	19:30	1998	1999	12
+Stuttgarter Kickers	SpVgg Unterhaching	0:0	1:0	06.11.1998	19:00	1998	1999	13
+SG Wattenscheid 09	Karlsruher SC	0:0	0:0	06.11.1998	19:00	1998	1999	13
+SpVgg Greuther FÃ¼rth	Arminia Bielefeld	1:0	2:0	08.11.1998	14:30	1998	1999	13
+Rot-WeiÃ Oberhausen	FC St. Pauli	0:1	3:2	08.11.1998	15:00	1998	1999	13
+Fortuna KÃ¶ln	1. FSV Mainz 05	1:0	2:0	08.11.1998	15:00	1998	1999	13
+FC GÃ¼tersloh	Energie Cottbus	0:0	1:1	08.11.1998	15:00	1998	1999	13
+Fortuna DÃ¼sseldorf	SSV Ulm 1846	0:0	1:3	08.11.1998	15:00	1998	1999	13
+TeBe Berlin	1. FC KÃ¶ln	1:1	1:1	09.11.1998	19:30	1998	1999	13
+KFC Uerdingen 05	Hannover 96	0:0	0:1	21.02.1999	15:00	1998	1999	13
+SpVgg Unterhaching	TeBe Berlin	2:1	3:1	13.11.1998	19:00	1998	1999	14
+Hannover 96	Stuttgarter Kickers	2:1	2:1	13.11.1998	19:00	1998	1999	14
+1. FSV Mainz 05	Fortuna DÃ¼sseldorf	0:0	0:0	13.11.1998	19:00	1998	1999	14
+Energie Cottbus	Rot-WeiÃ Oberhausen	0:1	0:2	13.11.1998	19:00	1998	1999	14
+Arminia Bielefeld	SG Wattenscheid 09	0:0	1:0	15.11.1998	15:00	1998	1999	14
+SSV Ulm 1846	KFC Uerdingen 05	0:1	2:2	15.11.1998	15:00	1998	1999	14
+FC St. Pauli	Fortuna KÃ¶ln	0:0	0:0	15.11.1998	15:00	1998	1999	14
+1. FC KÃ¶ln	SpVgg Greuther FÃ¼rth	0:0	1:0	15.11.1998	15:00	1998	1999	14
+Karlsruher SC	FC GÃ¼tersloh	0:2	2:3	16.11.1998	19:30	1998	1999	14
+Rot-WeiÃ Oberhausen	FC GÃ¼tersloh	1:0	3:0	20.11.1998	19:00	1998	1999	15
+Fortuna KÃ¶ln	Energie Cottbus	2:0	3:0	20.11.1998	19:00	1998	1999	15
+KFC Uerdingen 05	1. FSV Mainz 05	0:1	1:2	20.11.1998	19:00	1998	1999	15
+SG Wattenscheid 09	1. FC KÃ¶ln	0:0	1:1	20.11.1998	19:00	1998	1999	15
+Fortuna DÃ¼sseldorf	FC St. Pauli	0:2	2:2	20.11.1998	19:00	1998	1999	15
+SpVgg Greuther FÃ¼rth	SpVgg Unterhaching	0:0	0:0	22.11.1998	14:15	1998	1999	15
+TeBe Berlin	Hannover 96	3:0	3:1	22.11.1998	15:00	1998	1999	15
+Stuttgarter Kickers	SSV Ulm 1846	1:0	1:2	22.11.1998	15:00	1998	1999	15
+Arminia Bielefeld	Karlsruher SC	0:0	0:1	23.11.1998	19:30	1998	1999	15
+Energie Cottbus	Fortuna DÃ¼sseldorf	0:1	0:1	27.11.1998	19:00	1998	1999	16
+SpVgg Unterhaching	SG Wattenscheid 09	0:0	1:0	29.11.1998	15:00	1998	1999	16
+SSV Ulm 1846	TeBe Berlin	0:0	2:0	29.11.1998	15:00	1998	1999	16
+Hannover 96	SpVgg Greuther FÃ¼rth	1:1	1:1	29.11.1998	15:00	1998	1999	16
+Rot-WeiÃ Oberhausen	Fortuna KÃ¶ln	0:0	0:0	29.11.1998	15:00	1998	1999	16
+FC GÃ¼tersloh	Arminia Bielefeld	0:0	0:2	29.11.1998	15:00	1998	1999	16
+1. FC KÃ¶ln	Karlsruher SC	2:0	4:1	30.11.1998	19:30	1998	1999	16
+FC St. Pauli	KFC Uerdingen 05	0:2	2:3	01.12.1998	19:00	1998	1999	16
+1. FSV Mainz 05	Stuttgarter Kickers	1:1	2:2	02.12.1998	19:00	1998	1999	16
+Karlsruher SC	SpVgg Unterhaching	0:0	1:0	04.12.1998	19:00	1998	1999	17
+Fortuna KÃ¶ln	FC GÃ¼tersloh	2:0	3:2	04.12.1998	19:00	1998	1999	17
+KFC Uerdingen 05	Energie Cottbus	0:0	0:0	04.12.1998	19:00	1998	1999	17
+SpVgg Greuther FÃ¼rth	SSV Ulm 1846	0:0	2:0	06.12.1998	14:00	1998	1999	17
+TeBe Berlin	1. FSV Mainz 05	1:0	3:0	06.12.1998	15:00	1998	1999	17
+SG Wattenscheid 09	Hannover 96	0:3	0:3	06.12.1998	15:00	1998	1999	17
+Fortuna DÃ¼sseldorf	Rot-WeiÃ Oberhausen	1:1	2:2	06.12.1998	15:00	1998	1999	17
+Arminia Bielefeld	1. FC KÃ¶ln	0:0	0:0	07.12.1998	19:30	1998	1999	17
+Stuttgarter Kickers	FC St. Pauli	0:0	1:3	22.02.1999	20:15	1998	1999	17
+Stuttgarter Kickers	Energie Cottbus	0:0	1:0	11.12.1998	19:00	1998	1999	18
+Fortuna DÃ¼sseldorf	Fortuna KÃ¶ln	1:1	2:2	11.12.1998	19:00	1998	1999	18
+SpVgg Greuther FÃ¼rth	1. FSV Mainz 05	1:1	3:1	13.12.1998	14:00	1998	1999	18
+1. FC KÃ¶ln	FC GÃ¼tersloh	1:0	1:1	13.12.1998	15:00	1998	1999	18
+SG Wattenscheid 09	SSV Ulm 1846	0:2	0:3	13.12.1998	15:00	1998	1999	18
+Arminia Bielefeld	SpVgg Unterhaching	0:0	2:0	15.12.1998	19:00	1998	1999	18
+Karlsruher SC	Hannover 96	0:0	1:0	15.12.1998	19:00	1998	1999	18
+KFC Uerdingen 05	Rot-WeiÃ Oberhausen	1:1	2:2	15.12.1998	19:00	1998	1999	18
+TeBe Berlin	FC St. Pauli	0:1	0:2	04.03.1999	18:45	1998	1999	18
+Hannover 96	Arminia Bielefeld	2:1	2:1	18.12.1998	19:00	1998	1999	19
+1. FSV Mainz 05	SG Wattenscheid 09	1:0	2:0	18.12.1998	19:00	1998	1999	19
+Energie Cottbus	TeBe Berlin	0:1	2:2	18.12.1998	19:00	1998	1999	19
+SpVgg Unterhaching	1. FC KÃ¶ln	1:0	2:0	20.12.1998	15:00	1998	1999	19
+FC St. Pauli	SpVgg Greuther FÃ¼rth	0:1	0:2	20.12.1998	15:00	1998	1999	19
+Rot-WeiÃ Oberhausen	Stuttgarter Kickers	0:1	1:1	20.12.1998	15:00	1998	1999	19
+Fortuna KÃ¶ln	KFC Uerdingen 05	0:0	1:1	20.12.1998	15:00	1998	1999	19
+FC GÃ¼tersloh	Fortuna DÃ¼sseldorf	0:1	2:2	20.12.1998	15:00	1998	1999	19
+SSV Ulm 1846	Karlsruher SC	0:1	1:5	21.12.1998	19:30	1998	1999	19
+Karlsruher SC	1. FSV Mainz 05	0:0	0:1	26.02.1999	19:00	1998	1999	20
+1. FC KÃ¶ln	Hannover 96	0:1	0:2	26.02.1999	19:00	1998	1999	20
+SG Wattenscheid 09	FC St. Pauli	2:2	4:2	26.02.1999	19:00	1998	1999	20
+SpVgg Unterhaching	FC GÃ¼tersloh	1:0	2:0	28.02.1999	15:00	1998	1999	20
+TeBe Berlin	Rot-WeiÃ Oberhausen	0:1	2:2	28.02.1999	15:00	1998	1999	20
+SpVgg Greuther FÃ¼rth	Energie Cottbus	0:0	0:0	28.02.1999	15:00	1998	1999	20
+Stuttgarter Kickers	Fortuna KÃ¶ln	0:0	2:2	28.02.1999	15:00	1998	1999	20
+KFC Uerdingen 05	Fortuna DÃ¼sseldorf	4:1	4:1	28.02.1999	15:00	1998	1999	20
+Arminia Bielefeld	SSV Ulm 1846	1:0	5:0	01.03.1999	20:15	1998	1999	20
+Hannover 96	SpVgg Unterhaching	0:0	0:1	05.03.1999	19:00	1998	1999	21
+Energie Cottbus	SG Wattenscheid 09	1:0	2:0	05.03.1999	19:00	1998	1999	21
+Rot-WeiÃ Oberhausen	SpVgg Greuther FÃ¼rth	0:0	0:2	05.03.1999	19:00	1998	1999	21
+SSV Ulm 1846	1. FC KÃ¶ln	0:2	2:2	07.03.1999	15:00	1998	1999	21
+FC St. Pauli	Karlsruher SC	0:0	1:0	07.03.1999	15:00	1998	1999	21
+Fortuna KÃ¶ln	TeBe Berlin	1:1	1:3	07.03.1999	15:00	1998	1999	21
+FC GÃ¼tersloh	KFC Uerdingen 05	0:0	2:0	07.03.1999	15:00	1998	1999	21
+Fortuna DÃ¼sseldorf	Stuttgarter Kickers	0:0	0:0	07.03.1999	15:00	1998	1999	21
+1. FSV Mainz 05	Arminia Bielefeld	2:1	3:1	08.03.1999	20:15	1998	1999	21
+Arminia Bielefeld	FC St. Pauli	0:0	0:0	12.03.1999	19:00	1998	1999	22
+Karlsruher SC	Energie Cottbus	1:1	3:2	12.03.1999	19:00	1998	1999	22
+Stuttgarter Kickers	KFC Uerdingen 05	0:0	0:1	12.03.1999	19:00	1998	1999	22
+Hannover 96	FC GÃ¼tersloh	2:1	4:1	14.03.1999	15:00	1998	1999	22
+TeBe Berlin	Fortuna DÃ¼sseldorf	1:0	1:1	14.03.1999	15:00	1998	1999	22
+SpVgg Greuther FÃ¼rth	Fortuna KÃ¶ln	1:0	4:0	14.03.1999	15:00	1998	1999	22
+1. FC KÃ¶ln	1. FSV Mainz 05	1:0	2:1	14.03.1999	15:00	1998	1999	22
+SG Wattenscheid 09	Rot-WeiÃ Oberhausen	1:2	2:4	14.03.1999	15:00	1998	1999	22
+SpVgg Unterhaching	SSV Ulm 1846	0:0	2:0	15.03.1999	20:15	1998	1999	22
+SSV Ulm 1846	Hannover 96	0:0	1:1	19.03.1999	19:00	1998	1999	23
+Energie Cottbus	Arminia Bielefeld	0:2	0:2	19.03.1999	19:00	1998	1999	23
+KFC Uerdingen 05	TeBe Berlin	2:1	2:3	19.03.1999	19:00	1998	1999	23
+1. FSV Mainz 05	SpVgg Unterhaching	0:0	1:0	21.03.1999	15:00	1998	1999	23
+Rot-WeiÃ Oberhausen	Karlsruher SC	2:0	2:0	21.03.1999	15:00	1998	1999	23
+Fortuna KÃ¶ln	SG Wattenscheid 09	1:1	1:2	21.03.1999	15:00	1998	1999	23
+FC GÃ¼tersloh	Stuttgarter Kickers	0:0	1:0	21.03.1999	15:00	1998	1999	23
+Fortuna DÃ¼sseldorf	SpVgg Greuther FÃ¼rth	0:0	0:0	21.03.1999	15:00	1998	1999	23
+FC St. Pauli	1. FC KÃ¶ln	0:0	0:0	22.03.1999	20:15	1998	1999	23
+Arminia Bielefeld	Rot-WeiÃ Oberhausen	1:0	2:0	01.04.1999	19:00	1998	1999	24
+SpVgg Unterhaching	FC St. Pauli	1:0	2:1	01.04.1999	19:00	1998	1999	24
+TeBe Berlin	Stuttgarter Kickers	0:1	0:2	01.04.1999	19:00	1998	1999	24
+SSV Ulm 1846	FC GÃ¼tersloh	1:0	1:1	04.04.1999	15:00	1998	1999	24
+Hannover 96	1. FSV Mainz 05	2:1	3:2	04.04.1999	15:00	1998	1999	24
+SpVgg Greuther FÃ¼rth	KFC Uerdingen 05	0:0	0:0	04.04.1999	15:00	1998	1999	24
+1. FC KÃ¶ln	Energie Cottbus	1:1	2:2	04.04.1999	15:00	1998	1999	24
+SG Wattenscheid 09	Fortuna DÃ¼sseldorf	1:0	2:0	04.04.1999	15:00	1998	1999	24
+Karlsruher SC	Fortuna KÃ¶ln	1:0	4:2	05.04.1999	20:15	1998	1999	24
+Rot-WeiÃ Oberhausen	1. FC KÃ¶ln	0:2	0:4	09.04.1999	19:00	1998	1999	25
+Stuttgarter Kickers	SpVgg Greuther FÃ¼rth	0:1	2:2	09.04.1999	19:00	1998	1999	25
+KFC Uerdingen 05	SG Wattenscheid 09	0:0	0:0	09.04.1999	19:00	1998	1999	25
+1. FSV Mainz 05	SSV Ulm 1846	1:0	1:1	11.04.1999	15:00	1998	1999	25
+Energie Cottbus	SpVgg Unterhaching	1:1	4:2	11.04.1999	15:00	1998	1999	25
+FC GÃ¼tersloh	TeBe Berlin	0:0	1:0	11.04.1999	15:00	1998	1999	25
+Fortuna KÃ¶ln	Arminia Bielefeld	1:1	1:1	11.04.1999	15:30	1998	1999	25
+FC St. Pauli	Hannover 96	0:1	0:2	12.04.1999	19:30	1998	1999	25
+Fortuna DÃ¼sseldorf	Karlsruher SC	0:0	0:1	12.04.1999	20:15	1998	1999	25
+Arminia Bielefeld	Fortuna DÃ¼sseldorf	2:0	2:0	16.04.1999	19:00	1998	1999	26
+SSV Ulm 1846	FC St. Pauli	2:1	4:1	16.04.1999	19:00	1998	1999	26
+Hannover 96	Energie Cottbus	1:0	2:0	16.04.1999	19:00	1998	1999	26
+SpVgg Unterhaching	Rot-WeiÃ Oberhausen	0:0	0:0	18.04.1999	15:00	1998	1999	26
+Karlsruher SC	KFC Uerdingen 05	0:1	0:1	18.04.1999	15:00	1998	1999	26
+1. FSV Mainz 05	FC GÃ¼tersloh	0:0	1:0	18.04.1999	15:00	1998	1999	26
+SpVgg Greuther FÃ¼rth	TeBe Berlin	0:0	1:2	18.04.1999	15:00	1998	1999	26
+SG Wattenscheid 09	Stuttgarter Kickers	0:0	2:0	18.04.1999	15:00	1998	1999	26
+1. FC KÃ¶ln	Fortuna KÃ¶ln	0:1	0:3	19.04.1999	20:15	1998	1999	26
+FC St. Pauli	1. FSV Mainz 05	0:1	2:1	23.04.1999	19:00	1998	1999	27
+Energie Cottbus	SSV Ulm 1846	1:0	3:0	23.04.1999	19:00	1998	1999	27
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	1:0	2:1	23.04.1999	19:00	1998	1999	27
+TeBe Berlin	SG Wattenscheid 09	1:0	1:0	25.04.1999	15:00	1998	1999	27
+Rot-WeiÃ Oberhausen	Hannover 96	0:1	1:1	25.04.1999	15:00	1998	1999	27
+Stuttgarter Kickers	Karlsruher SC	2:1	2:2	25.04.1999	15:00	1998	1999	27
+Fortuna KÃ¶ln	SpVgg Unterhaching	0:0	0:2	25.04.1999	15:00	1998	1999	27
+KFC Uerdingen 05	Arminia Bielefeld	0:1	0:4	25.04.1999	15:00	1998	1999	27
+FC GÃ¼tersloh	SpVgg Greuther FÃ¼rth	0:0	1:0	26.04.1999	20:15	1998	1999	27
+SSV Ulm 1846	Rot-WeiÃ Oberhausen	1:0	1:0	30.04.1999	19:00	1998	1999	28
+FC St. Pauli	FC GÃ¼tersloh	1:0	1:0	30.04.1999	19:00	1998	1999	28
+1. FC KÃ¶ln	KFC Uerdingen 05	0:0	4:0	30.04.1999	19:00	1998	1999	28
+Arminia Bielefeld	Stuttgarter Kickers	1:0	1:2	02.05.1999	15:00	1998	1999	28
+SpVgg Unterhaching	Fortuna DÃ¼sseldorf	0:0	1:0	02.05.1999	15:00	1998	1999	28
+Hannover 96	Fortuna KÃ¶ln	2:1	3:3	02.05.1999	15:00	1998	1999	28
+1. FSV Mainz 05	Energie Cottbus	0:0	0:0	02.05.1999	15:00	1998	1999	28
+SG Wattenscheid 09	SpVgg Greuther FÃ¼rth	0:0	1:1	02.05.1999	15:00	1998	1999	28
+Karlsruher SC	TeBe Berlin	0:0	0:0	03.05.1999	20:15	1998	1999	28
+Stuttgarter Kickers	1. FC KÃ¶ln	1:0	2:0	07.05.1999	19:00	1998	1999	29
+Fortuna KÃ¶ln	SSV Ulm 1846	0:1	2:2	07.05.1999	19:00	1998	1999	29
+Fortuna DÃ¼sseldorf	Hannover 96	0:0	1:1	07.05.1999	19:00	1998	1999	29
+SpVgg Greuther FÃ¼rth	Karlsruher SC	0:1	1:2	09.05.1999	15:00	1998	1999	29
+Energie Cottbus	FC St. Pauli	0:3	0:3	09.05.1999	15:00	1998	1999	29
+Rot-WeiÃ Oberhausen	1. FSV Mainz 05	1:1	2:1	09.05.1999	15:00	1998	1999	29
+FC GÃ¼tersloh	SG Wattenscheid 09	1:1	2:1	09.05.1999	15:00	1998	1999	29
+KFC Uerdingen 05	SpVgg Unterhaching	1:0	3:0	09.05.1999	15:00	1998	1999	29
+TeBe Berlin	Arminia Bielefeld	1:1	1:1	10.05.1999	20:15	1998	1999	29
+Hannover 96	KFC Uerdingen 05	2:1	3:1	12.05.1999	19:00	1998	1999	30
+SpVgg Unterhaching	Stuttgarter Kickers	1:0	2:0	14.05.1999	19:00	1998	1999	30
+SSV Ulm 1846	Fortuna DÃ¼sseldorf	1:1	4:2	14.05.1999	19:00	1998	1999	30
+FC St. Pauli	Rot-WeiÃ Oberhausen	1:0	1:1	14.05.1999	19:00	1998	1999	30
+Karlsruher SC	SG Wattenscheid 09	1:0	2:1	16.05.1999	15:00	1998	1999	30
+1. FSV Mainz 05	Fortuna KÃ¶ln	0:0	1:1	16.05.1999	15:00	1998	1999	30
+1. FC KÃ¶ln	TeBe Berlin	0:0	1:0	16.05.1999	15:00	1998	1999	30
+Energie Cottbus	FC GÃ¼tersloh	1:0	5:1	16.05.1999	15:00	1998	1999	30
+Arminia Bielefeld	SpVgg Greuther FÃ¼rth	1:0	2:1	17.05.1999	20:15	1998	1999	30
+Rot-WeiÃ Oberhausen	Energie Cottbus	0:1	3:1	21.05.1999	19:00	1998	1999	31
+FC GÃ¼tersloh	Karlsruher SC	0:0	2:0	21.05.1999	19:00	1998	1999	31
+SG Wattenscheid 09	Arminia Bielefeld	0:1	0:2	21.05.1999	19:00	1998	1999	31
+SpVgg Greuther FÃ¼rth	1. FC KÃ¶ln	0:0	0:1	23.05.1999	15:00	1998	1999	31
+Stuttgarter Kickers	Hannover 96	1:1	2:2	23.05.1999	15:00	1998	1999	31
+Fortuna KÃ¶ln	FC St. Pauli	0:0	1:1	23.05.1999	15:00	1998	1999	31
+KFC Uerdingen 05	SSV Ulm 1846	1:1	2:1	23.05.1999	15:00	1998	1999	31
+Fortuna DÃ¼sseldorf	1. FSV Mainz 05	0:1	0:3	23.05.1999	15:00	1998	1999	31
+TeBe Berlin	SpVgg Unterhaching	1:0	1:1	24.05.1999	20:15	1998	1999	31
+Karlsruher SC	Arminia Bielefeld	1:1	1:1	27.05.1999	20:15	1998	1999	32
+SSV Ulm 1846	Stuttgarter Kickers	1:1	3:2	28.05.1999	19:00	1998	1999	32
+1. FSV Mainz 05	KFC Uerdingen 05	0:0	3:0	28.05.1999	19:00	1998	1999	32
+FC St. Pauli	Fortuna DÃ¼sseldorf	2:0	5:0	28.05.1999	19:00	1998	1999	32
+1. FC KÃ¶ln	SG Wattenscheid 09	1:0	2:1	28.05.1999	19:00	1998	1999	32
+Hannover 96	TeBe Berlin	0:0	0:0	30.05.1999	15:00	1998	1999	32
+Energie Cottbus	Fortuna KÃ¶ln	1:0	2:0	30.05.1999	15:00	1998	1999	32
+FC GÃ¼tersloh	Rot-WeiÃ Oberhausen	0:0	0:3	30.05.1999	15:00	1998	1999	32
+SpVgg Unterhaching	SpVgg Greuther FÃ¼rth	2:0	4:1	31.05.1999	20:15	1998	1999	32
+Arminia Bielefeld	FC GÃ¼tersloh	2:0	3:0	13.06.1999	15:00	1998	1999	33
+Karlsruher SC	1. FC KÃ¶ln	2:0	3:1	13.06.1999	15:00	1998	1999	33
+TeBe Berlin	SSV Ulm 1846	0:0	0:2	13.06.1999	15:00	1998	1999	33
+SpVgg Greuther FÃ¼rth	Hannover 96	0:0	0:1	13.06.1999	15:00	1998	1999	33
+Stuttgarter Kickers	1. FSV Mainz 05	0:2	1:3	13.06.1999	15:00	1998	1999	33
+Fortuna KÃ¶ln	Rot-WeiÃ Oberhausen	0:0	0:0	13.06.1999	15:00	1998	1999	33
+KFC Uerdingen 05	FC St. Pauli	0:1	1:1	13.06.1999	15:00	1998	1999	33
+SG Wattenscheid 09	SpVgg Unterhaching	2:1	4:2	13.06.1999	15:00	1998	1999	33
+Fortuna DÃ¼sseldorf	Energie Cottbus	0:1	0:3	13.06.1999	15:00	1998	1999	33
+SpVgg Unterhaching	Karlsruher SC	0:1	1:1	17.06.1999	19:00	1998	1999	34
+SSV Ulm 1846	SpVgg Greuther FÃ¼rth	0:0	0:0	17.06.1999	19:00	1998	1999	34
+Hannover 96	SG Wattenscheid 09	0:0	2:1	17.06.1999	19:00	1998	1999	34
+1. FSV Mainz 05	TeBe Berlin	0:1	0:3	17.06.1999	19:00	1998	1999	34
+FC St. Pauli	Stuttgarter Kickers	3:2	6:2	17.06.1999	19:00	1998	1999	34
+1. FC KÃ¶ln	Arminia Bielefeld	1:3	3:5	17.06.1999	19:00	1998	1999	34
+Energie Cottbus	KFC Uerdingen 05	1:0	5:0	17.06.1999	19:00	1998	1999	34
+Rot-WeiÃ Oberhausen	Fortuna DÃ¼sseldorf	0:2	1:3	17.06.1999	19:00	1998	1999	34
+FC GÃ¼tersloh	Fortuna KÃ¶ln	1:0	2:1	17.06.1999	19:00	1998	1999	34

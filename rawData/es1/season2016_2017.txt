@@ -1,0 +1,380 @@
+MÃ¡laga CF	CA Osasuna	0:0	1:1	19.08.2016	20:45	2016	2017	1
+Deportivo La CoruÃ±a	SD Eibar	0:0	2:1	19.08.2016	20:45	2016	2017	1
+FC Barcelona	Real Betis	3:1	6:2	20.08.2016	18:15	2016	2017	1
+Granada CF	Villarreal CF	0:0	1:1	20.08.2016	18:15	2016	2017	1
+Sevilla FC	Espanyol Barcelona	3:3	6:4	20.08.2016	22:15	2016	2017	1
+Sporting GijÃ³n	Athletic Bilbao	0:0	2:1	21.08.2016	22:15	2016	2017	1
+Real Sociedad	Real Madrid	0:2	0:3	21.08.2016	20:15	2016	2017	1
+AtlÃ©tico Madrid	CD AlavÃ©s	0:0	1:1	21.08.2016	20:15	2016	2017	1
+Celta Vigo	CD LeganÃ©s	0:0	0:1	22.08.2016	20:00	2016	2017	1
+Valencia CF	UD Las Palmas	2:3	2:4	22.08.2016	20:00	2016	2017	1
+Real Betis	Deportivo La CoruÃ±a	0:0	0:0	26.08.2016	20:45	2016	2017	2
+Espanyol Barcelona	MÃ¡laga CF	1:0	2:2	26.08.2016	20:45	2016	2017	2
+CA Osasuna	Real Sociedad	0:1	0:2	27.08.2016	18:15	2016	2017	2
+SD Eibar	Valencia CF	0:0	1:0	27.08.2016	18:15	2016	2017	2
+Real Madrid	Celta Vigo	0:0	2:1	27.08.2016	20:15	2016	2017	2
+CD LeganÃ©s	AtlÃ©tico Madrid	0:0	0:0	27.08.2016	20:15	2016	2017	2
+UD Las Palmas	Granada CF	1:1	5:1	28.08.2016	18:15	2016	2017	2
+CD AlavÃ©s	Sporting GijÃ³n	0:0	0:0	28.08.2016	18:15	2016	2017	2
+Athletic Bilbao	FC Barcelona	0:1	0:1	28.08.2016	20:15	2016	2017	2
+Villarreal CF	Sevilla FC	0:0	0:0	28.08.2016	20:15	2016	2017	2
+Real Sociedad	Espanyol Barcelona	0:0	1:1	09.09.2016	20:45	2016	2017	3
+Celta Vigo	AtlÃ©tico Madrid	0:0	0:4	10.09.2016	20:45	2016	2017	3
+Real Madrid	CA Osasuna	3:0	5:2	10.09.2016	16:00	2016	2017	3
+MÃ¡laga CF	Villarreal CF	0:2	0:2	10.09.2016	16:00	2016	2017	3
+Sevilla FC	UD Las Palmas	0:1	2:1	10.09.2016	18:15	2016	2017	3
+FC Barcelona	CD AlavÃ©s	0:1	1:2	10.09.2016	18:15	2016	2017	3
+Sporting GijÃ³n	CD LeganÃ©s	2:0	2:1	11.09.2016	12:00	2016	2017	3
+Valencia CF	Real Betis	0:1	2:3	11.09.2016	12:00	2016	2017	3
+Granada CF	SD Eibar	0:1	1:2	11.09.2016	18:15	2016	2017	3
+Deportivo La CoruÃ±a	Athletic Bilbao	0:1	0:1	11.09.2016	18:15	2016	2017	3
+Real Betis	Granada CF	1:2	2:2	16.09.2016	20:45	2016	2017	4
+CD LeganÃ©s	FC Barcelona	0:3	1:5	17.09.2016	20:45	2016	2017	4
+AtlÃ©tico Madrid	Sporting GijÃ³n	3:0	5:0	17.09.2016	16:15	2016	2017	4
+SD Eibar	Sevilla FC	0:1	1:1	17.09.2016	16:15	2016	2017	4
+UD Las Palmas	MÃ¡laga CF	1:0	1:0	17.09.2016	20:45	2016	2017	4
+CA Osasuna	Celta Vigo	0:0	0:0	18.09.2016	20:45	2016	2017	4
+Athletic Bilbao	Valencia CF	2:1	2:1	18.09.2016	16:15	2016	2017	4
+Villarreal CF	Real Sociedad	2:1	2:1	18.09.2016	16:15	2016	2017	4
+Espanyol Barcelona	Real Madrid	0:1	0:2	18.09.2016	20:45	2016	2017	4
+CD AlavÃ©s	Deportivo La CoruÃ±a	0:0	0:0	19.09.2016	20:45	2016	2017	4
+MÃ¡laga CF	SD Eibar	1:1	2:1	20.09.2016	20:00	2016	2017	5
+Sevilla FC	Real Betis	0:0	1:0	20.09.2016	20:00	2016	2017	5
+Real Madrid	Villarreal CF	0:1	1:1	21.09.2016	20:00	2016	2017	5
+Celta Vigo	Sporting GijÃ³n	0:0	2:1	21.09.2016	20:00	2016	2017	5
+Real Sociedad	UD Las Palmas	3:0	4:1	21.09.2016	22:00	2016	2017	5
+Granada CF	Athletic Bilbao	1:1	1:2	21.09.2016	22:00	2016	2017	5
+FC Barcelona	AtlÃ©tico Madrid	1:0	1:1	21.09.2016	22:00	2016	2017	5
+CA Osasuna	Espanyol Barcelona	0:1	1:2	22.09.2016	22:00	2016	2017	5
+Deportivo La CoruÃ±a	CD LeganÃ©s	1:0	1:2	22.09.2016	20:00	2016	2017	5
+Valencia CF	CD AlavÃ©s	1:1	2:1	22.09.2016	20:00	2016	2017	5
+Real Betis	MÃ¡laga CF	1:0	1:0	23.09.2016	20:45	2016	2017	6
+SD Eibar	Real Sociedad	0:0	2:0	24.09.2016	20:45	2016	2017	6
+Sporting GijÃ³n	FC Barcelona	0:2	0:5	24.09.2016	16:15	2016	2017	6
+Athletic Bilbao	Sevilla FC	1:0	3:1	24.09.2016	16:15	2016	2017	6
+UD Las Palmas	Real Madrid	1:1	2:2	24.09.2016	20:45	2016	2017	6
+CD LeganÃ©s	Valencia CF	1:1	1:2	25.09.2016	20:45	2016	2017	6
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	0:0	1:0	25.09.2016	16:15	2016	2017	6
+Villarreal CF	CA Osasuna	3:1	3:1	25.09.2016	16:15	2016	2017	6
+Espanyol Barcelona	Celta Vigo	0:0	0:2	25.09.2016	20:45	2016	2017	6
+CD AlavÃ©s	Granada CF	0:0	3:1	26.09.2016	20:45	2016	2017	6
+Real Sociedad	Real Betis	0:0	1:0	30.09.2016	20:45	2016	2017	7
+Granada CF	CD LeganÃ©s	0:0	0:1	01.10.2016	20:45	2016	2017	7
+Sevilla FC	CD AlavÃ©s	0:0	2:1	01.10.2016	16:15	2016	2017	7
+CA Osasuna	UD Las Palmas	2:0	2:2	01.10.2016	16:15	2016	2017	7
+Deportivo La CoruÃ±a	Sporting GijÃ³n	1:0	2:1	01.10.2016	20:45	2016	2017	7
+Valencia CF	AtlÃ©tico Madrid	0:0	0:2	02.10.2016	20:45	2016	2017	7
+Real Madrid	SD Eibar	1:1	1:1	02.10.2016	16:15	2016	2017	7
+Espanyol Barcelona	Villarreal CF	0:0	0:0	02.10.2016	16:15	2016	2017	7
+MÃ¡laga CF	Athletic Bilbao	0:1	2:1	02.10.2016	18:30	2016	2017	7
+Celta Vigo	FC Barcelona	3:0	4:3	02.10.2016	18:30	2016	2017	7
+UD Las Palmas	Espanyol Barcelona	0:0	0:0	14.10.2016	20:45	2016	2017	8
+CD LeganÃ©s	Sevilla FC	0:1	2:3	15.10.2016	20:45	2016	2017	8
+FC Barcelona	Deportivo La CoruÃ±a	3:0	4:0	15.10.2016	16:15	2016	2017	8
+AtlÃ©tico Madrid	Granada CF	2:1	7:1	15.10.2016	16:15	2016	2017	8
+Real Betis	Real Madrid	0:4	1:6	15.10.2016	20:45	2016	2017	8
+CD AlavÃ©s	MÃ¡laga CF	1:0	1:1	16.10.2016	20:45	2016	2017	8
+Athletic Bilbao	Real Sociedad	0:1	3:2	16.10.2016	16:15	2016	2017	8
+Sporting GijÃ³n	Valencia CF	1:1	1:2	16.10.2016	16:15	2016	2017	8
+Villarreal CF	Celta Vigo	3:0	5:0	16.10.2016	20:45	2016	2017	8
+SD Eibar	CA Osasuna	2:2	2:3	17.10.2016	20:45	2016	2017	8
+CA Osasuna	Real Betis	0:1	1:2	21.10.2016	20:45	2016	2017	9
+Espanyol Barcelona	SD Eibar	0:3	3:3	22.10.2016	20:45	2016	2017	9
+Valencia CF	FC Barcelona	0:1	2:3	22.10.2016	16:15	2016	2017	9
+Real Sociedad	CD AlavÃ©s	1:0	3:0	22.10.2016	16:15	2016	2017	9
+Granada CF	Sporting GijÃ³n	0:0	0:0	22.10.2016	20:45	2016	2017	9
+Celta Vigo	Deportivo La CoruÃ±a	1:1	4:1	23.10.2016	20:45	2016	2017	9
+Sevilla FC	AtlÃ©tico Madrid	0:0	1:0	23.10.2016	16:15	2016	2017	9
+Villarreal CF	UD Las Palmas	0:1	2:1	23.10.2016	16:15	2016	2017	9
+MÃ¡laga CF	CD LeganÃ©s	2:0	4:0	23.10.2016	18:30	2016	2017	9
+Real Madrid	Athletic Bilbao	1:1	2:1	23.10.2016	18:30	2016	2017	9
+CD LeganÃ©s	Real Sociedad	0:1	0:2	28.10.2016	20:45	2016	2017	10
+Sporting GijÃ³n	Sevilla FC	1:1	1:1	29.10.2016	20:45	2016	2017	10
+CD AlavÃ©s	Real Madrid	1:2	1:4	29.10.2016	16:15	2016	2017	10
+AtlÃ©tico Madrid	MÃ¡laga CF	3:1	4:2	29.10.2016	16:15	2016	2017	10
+FC Barcelona	Granada CF	0:0	1:0	29.10.2016	20:45	2016	2017	10
+SD Eibar	Villarreal CF	0:1	2:1	30.10.2016	20:45	2016	2017	10
+Athletic Bilbao	CA Osasuna	1:1	1:1	30.10.2016	16:15	2016	2017	10
+Real Betis	Espanyol Barcelona	0:0	0:1	30.10.2016	16:15	2016	2017	10
+UD Las Palmas	Celta Vigo	0:3	3:3	30.10.2016	20:30	2016	2017	10
+Deportivo La CoruÃ±a	Valencia CF	1:0	1:1	31.10.2016	20:30	2016	2017	10
+MÃ¡laga CF	Sporting GijÃ³n	1:1	3:2	04.11.2016	20:45	2016	2017	11
+Granada CF	Deportivo La CoruÃ±a	0:0	1:1	05.11.2016	20:45	2016	2017	11
+Real Sociedad	AtlÃ©tico Madrid	0:0	2:0	05.11.2016	16:15	2016	2017	11
+CA Osasuna	CD AlavÃ©s	0:0	0:1	05.11.2016	16:15	2016	2017	11
+UD Las Palmas	SD Eibar	0:0	1:0	05.11.2016	20:45	2016	2017	11
+Real Madrid	CD LeganÃ©s	2:0	3:0	06.11.2016	20:45	2016	2017	11
+Espanyol Barcelona	Athletic Bilbao	0:0	0:0	06.11.2016	16:15	2016	2017	11
+Celta Vigo	Valencia CF	1:1	2:1	06.11.2016	16:15	2016	2017	11
+Villarreal CF	Real Betis	1:0	2:0	06.11.2016	18:30	2016	2017	11
+Sevilla FC	FC Barcelona	1:1	1:2	06.11.2016	18:30	2016	2017	11
+Real Betis	UD Las Palmas	2:0	2:0	18.11.2016	20:45	2016	2017	12
+Deportivo La CoruÃ±a	Sevilla FC	2:1	2:3	19.11.2016	20:45	2016	2017	12
+FC Barcelona	MÃ¡laga CF	0:0	0:0	19.11.2016	16:15	2016	2017	12
+SD Eibar	Celta Vigo	1:0	1:0	19.11.2016	16:15	2016	2017	12
+AtlÃ©tico Madrid	Real Madrid	0:1	0:3	19.11.2016	20:45	2016	2017	12
+CD AlavÃ©s	Espanyol Barcelona	0:0	0:1	20.11.2016	20:45	2016	2017	12
+Valencia CF	Granada CF	0:1	1:1	20.11.2016	16:15	2016	2017	12
+Sporting GijÃ³n	Real Sociedad	1:1	1:3	20.11.2016	16:15	2016	2017	12
+Athletic Bilbao	Villarreal CF	0:0	1:0	20.11.2016	20:45	2016	2017	12
+CD LeganÃ©s	CA Osasuna	1:0	2:0	21.11.2016	20:45	2016	2017	12
+SD Eibar	Real Betis	2:0	3:1	25.11.2016	20:45	2016	2017	13
+MÃ¡laga CF	Deportivo La CoruÃ±a	2:1	4:3	26.11.2016	20:45	2016	2017	13
+Real Madrid	Sporting GijÃ³n	2:1	2:1	26.11.2016	16:15	2016	2017	13
+Espanyol Barcelona	CD LeganÃ©s	0:0	3:0	26.11.2016	16:15	2016	2017	13
+Sevilla FC	Valencia CF	0:0	2:1	26.11.2016	20:45	2016	2017	13
+Villarreal CF	CD AlavÃ©s	0:2	0:2	27.11.2016	20:45	2016	2017	13
+CA Osasuna	AtlÃ©tico Madrid	0:2	0:3	27.11.2016	16:15	2016	2017	13
+Celta Vigo	Granada CF	2:0	3:1	27.11.2016	16:15	2016	2017	13
+Real Sociedad	FC Barcelona	0:0	1:1	27.11.2016	20:45	2016	2017	13
+UD Las Palmas	Athletic Bilbao	1:0	3:1	28.11.2016	20:45	2016	2017	13
+Granada CF	Sevilla FC	1:0	2:1	03.12.2016	13:00	2016	2017	14
+FC Barcelona	Real Madrid	0:0	1:1	03.12.2016	13:00	2016	2017	14
+CD LeganÃ©s	Villarreal CF	0:0	0:0	03.12.2016	18:30	2016	2017	14
+AtlÃ©tico Madrid	Espanyol Barcelona	0:0	0:0	03.12.2016	18:30	2016	2017	14
+Real Betis	Celta Vigo	1:1	3:3	04.12.2016	12:00	2016	2017	14
+Athletic Bilbao	SD Eibar	1:0	3:1	04.12.2016	12:00	2016	2017	14
+CD AlavÃ©s	UD Las Palmas	1:0	1:1	04.12.2016	18:30	2016	2017	14
+Sporting GijÃ³n	CA Osasuna	1:0	3:1	04.12.2016	18:30	2016	2017	14
+Valencia CF	MÃ¡laga CF	2:1	2:2	04.12.2016	20:45	2016	2017	14
+Deportivo La CoruÃ±a	Real Sociedad	3:0	5:1	05.12.2016	20:45	2016	2017	14
+MÃ¡laga CF	Granada CF	1:0	1:1	09.12.2016	20:45	2016	2017	15
+CA Osasuna	FC Barcelona	0:0	0:3	10.12.2016	20:45	2016	2017	15
+Real Sociedad	Valencia CF	2:1	3:2	10.12.2016	16:15	2016	2017	15
+UD Las Palmas	CD LeganÃ©s	1:0	1:1	10.12.2016	16:15	2016	2017	15
+Real Madrid	Deportivo La CoruÃ±a	0:0	3:2	10.12.2016	20:45	2016	2017	15
+SD Eibar	CD AlavÃ©s	0:0	0:0	11.12.2016	20:45	2016	2017	15
+Celta Vigo	Sevilla FC	0:0	0:3	11.12.2016	16:15	2016	2017	15
+Espanyol Barcelona	Sporting GijÃ³n	0:0	2:1	11.12.2016	16:15	2016	2017	15
+Real Betis	Athletic Bilbao	1:0	1:0	11.12.2016	20:45	2016	2017	15
+Villarreal CF	AtlÃ©tico Madrid	2:0	3:0	12.12.2016	20:45	2016	2017	15
+CD AlavÃ©s	Real Betis	0:0	1:0	16.12.2016	20:45	2016	2017	16
+Sporting GijÃ³n	Villarreal CF	0:2	1:3	17.12.2016	20:45	2016	2017	16
+AtlÃ©tico Madrid	UD Las Palmas	0:0	1:0	17.12.2016	16:15	2016	2017	16
+Granada CF	Real Sociedad	0:0	0:2	17.12.2016	16:15	2016	2017	16
+Sevilla FC	MÃ¡laga CF	4:0	4:1	17.12.2016	20:45	2016	2017	16
+CD LeganÃ©s	SD Eibar	1:0	1:1	18.12.2016	20:45	2016	2017	16
+Deportivo La CoruÃ±a	CA Osasuna	2:0	2:0	18.12.2016	18:30	2016	2017	16
+FC Barcelona	Espanyol Barcelona	1:0	4:1	18.12.2016	18:30	2016	2017	16
+Athletic Bilbao	Celta Vigo	0:0	2:1	19.12.2016	20:45	2016	2017	16
+Valencia CF	Real Madrid	2:1	2:1	22.02.2017	20:45	2016	2017	16
+Espanyol Barcelona	Deportivo La CoruÃ±a	0:0	1:1	06.01.2017	20:45	2016	2017	17
+Real Madrid	Granada CF	4:0	5:0	07.01.2017	20:45	2016	2017	17
+SD Eibar	AtlÃ©tico Madrid	0:0	0:2	07.01.2017	16:15	2016	2017	17
+UD Las Palmas	Sporting GijÃ³n	0:0	1:0	07.01.2017	16:15	2016	2017	17
+Real Sociedad	Sevilla FC	0:2	0:4	07.01.2017	20:45	2016	2017	17
+Athletic Bilbao	CD AlavÃ©s	0:0	0:0	08.01.2017	20:45	2016	2017	17
+Real Betis	CD LeganÃ©s	0:0	2:0	08.01.2017	16:15	2016	2017	17
+Celta Vigo	MÃ¡laga CF	1:0	3:1	08.01.2017	16:15	2016	2017	17
+Villarreal CF	FC Barcelona	0:0	1:1	08.01.2017	20:45	2016	2017	17
+CA Osasuna	Valencia CF	1:2	3:3	09.01.2017	20:45	2016	2017	17
+CD LeganÃ©s	Athletic Bilbao	0:0	0:0	14.01.2017	13:00	2016	2017	18
+FC Barcelona	UD Las Palmas	1:0	5:0	14.01.2017	13:00	2016	2017	18
+AtlÃ©tico Madrid	Real Betis	1:0	1:0	14.01.2017	18:30	2016	2017	18
+Deportivo La CoruÃ±a	Villarreal CF	0:0	0:0	14.01.2017	18:30	2016	2017	18
+Valencia CF	Espanyol Barcelona	1:0	2:1	15.01.2017	12:00	2016	2017	18
+Celta Vigo	CD AlavÃ©s	0:0	1:0	15.01.2017	12:00	2016	2017	18
+Sporting GijÃ³n	SD Eibar	1:3	2:3	15.01.2017	18:30	2016	2017	18
+Granada CF	CA Osasuna	0:1	1:1	15.01.2017	18:30	2016	2017	18
+Sevilla FC	Real Madrid	0:0	2:1	15.01.2017	20:45	2016	2017	18
+MÃ¡laga CF	Real Sociedad	0:0	0:2	16.01.2017	20:45	2016	2017	18
+UD Las Palmas	Deportivo La CoruÃ±a	1:0	1:1	20.01.2017	20:45	2016	2017	19
+Espanyol Barcelona	Granada CF	2:1	3:1	21.01.2017	20:45	2016	2017	19
+Real Madrid	MÃ¡laga CF	2:0	2:1	21.01.2017	16:15	2016	2017	19
+CD AlavÃ©s	CD LeganÃ©s	1:1	2:2	21.01.2017	16:15	2016	2017	19
+Villarreal CF	Valencia CF	0:2	0:2	21.01.2017	20:45	2016	2017	19
+CA Osasuna	Sevilla FC	1:1	3:4	22.01.2017	20:45	2016	2017	19
+Athletic Bilbao	AtlÃ©tico Madrid	1:1	2:2	22.01.2017	16:15	2016	2017	19
+Real Betis	Sporting GijÃ³n	0:0	0:0	22.01.2017	16:15	2016	2017	19
+Real Sociedad	Celta Vigo	0:0	1:0	22.01.2017	18:30	2016	2017	19
+SD Eibar	FC Barcelona	0:1	0:4	22.01.2017	18:30	2016	2017	19
+CA Osasuna	MÃ¡laga CF	0:0	1:1	27.01.2017	20:45	2016	2017	20
+Villarreal CF	Granada CF	1:0	2:0	28.01.2017	20:45	2016	2017	20
+CD AlavÃ©s	AtlÃ©tico Madrid	0:0	0:0	28.01.2017	16:15	2016	2017	20
+SD Eibar	Deportivo La CoruÃ±a	2:1	3:1	28.01.2017	16:15	2016	2017	20
+CD LeganÃ©s	Celta Vigo	0:1	0:2	28.01.2017	20:45	2016	2017	20
+Real Betis	FC Barcelona	0:0	1:1	29.01.2017	20:45	2016	2017	20
+Espanyol Barcelona	Sevilla FC	2:1	3:1	29.01.2017	16:15	2016	2017	20
+Athletic Bilbao	Sporting GijÃ³n	0:1	2:1	29.01.2017	16:15	2016	2017	20
+Real Madrid	Real Sociedad	1:0	3:0	29.01.2017	20:45	2016	2017	20
+UD Las Palmas	Valencia CF	1:1	3:1	30.01.2017	20:45	2016	2017	20
+MÃ¡laga CF	Espanyol Barcelona	0:1	0:1	04.02.2017	13:00	2016	2017	21
+FC Barcelona	Athletic Bilbao	2:0	3:0	04.02.2017	13:00	2016	2017	21
+AtlÃ©tico Madrid	CD LeganÃ©s	1:0	2:0	04.02.2017	18:30	2016	2017	21
+Valencia CF	SD Eibar	0:2	0:4	04.02.2017	18:30	2016	2017	21
+Sevilla FC	Villarreal CF	0:0	0:0	05.02.2017	12:00	2016	2017	21
+Sporting GijÃ³n	CD AlavÃ©s	0:1	2:4	05.02.2017	12:00	2016	2017	21
+Real Sociedad	CA Osasuna	0:1	3:2	05.02.2017	18:30	2016	2017	21
+Granada CF	UD Las Palmas	1:0	1:0	06.02.2017	18:30	2016	2017	21
+Deportivo La CoruÃ±a	Real Betis	0:0	1:1	08.03.2017	18:45	2016	2017	21
+Celta Vigo	Real Madrid	0:1	1:4	17.05.2017	18:45	2016	2017	21
+Espanyol Barcelona	Real Sociedad	1:1	1:2	10.02.2017	20:45	2016	2017	22
+Real Betis	Valencia CF	0:0	0:0	11.02.2017	20:45	2016	2017	22
+CD AlavÃ©s	FC Barcelona	0:2	0:6	11.02.2017	16:15	2016	2017	22
+Athletic Bilbao	Deportivo La CoruÃ±a	0:1	2:1	11.02.2017	16:15	2016	2017	22
+CA Osasuna	Real Madrid	1:1	1:3	11.02.2017	20:45	2016	2017	22
+Villarreal CF	MÃ¡laga CF	0:1	1:1	12.02.2017	20:45	2016	2017	22
+CD LeganÃ©s	Sporting GijÃ³n	0:0	0:2	12.02.2017	16:15	2016	2017	22
+UD Las Palmas	Sevilla FC	0:0	0:1	12.02.2017	16:15	2016	2017	22
+AtlÃ©tico Madrid	Celta Vigo	1:1	3:2	12.02.2017	20:45	2016	2017	22
+SD Eibar	Granada CF	2:0	4:0	13.02.2017	20:45	2016	2017	22
+Granada CF	Real Betis	3:0	4:1	17.02.2017	20:45	2016	2017	23
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:0	1:4	18.02.2017	20:45	2016	2017	23
+Real Madrid	Espanyol Barcelona	1:0	2:0	18.02.2017	16:15	2016	2017	23
+Deportivo La CoruÃ±a	CD AlavÃ©s	0:0	0:1	18.02.2017	16:15	2016	2017	23
+Sevilla FC	SD Eibar	1:0	2:0	18.02.2017	20:45	2016	2017	23
+Real Sociedad	Villarreal CF	0:0	0:1	19.02.2017	20:45	2016	2017	23
+Valencia CF	Athletic Bilbao	2:0	2:0	19.02.2017	16:15	2016	2017	23
+Celta Vigo	CA Osasuna	1:0	3:0	19.02.2017	16:15	2016	2017	23
+FC Barcelona	CD LeganÃ©s	1:0	2:1	19.02.2017	20:45	2016	2017	23
+MÃ¡laga CF	UD Las Palmas	2:1	2:1	20.02.2017	20:45	2016	2017	23
+UD Las Palmas	Real Sociedad	0:0	0:1	24.02.2017	20:45	2016	2017	24
+CD AlavÃ©s	Valencia CF	0:0	2:1	25.02.2017	20:45	2016	2017	24
+Real Betis	Sevilla FC	1:0	1:2	25.02.2017	16:15	2016	2017	24
+CD LeganÃ©s	Deportivo La CoruÃ±a	2:0	4:0	25.02.2017	16:15	2016	2017	24
+SD Eibar	MÃ¡laga CF	1:0	3:0	25.02.2017	20:45	2016	2017	24
+Espanyol Barcelona	CA Osasuna	1:0	3:0	26.02.2017	20:45	2016	2017	24
+AtlÃ©tico Madrid	FC Barcelona	0:0	1:2	26.02.2017	16:15	2016	2017	24
+Athletic Bilbao	Granada CF	2:1	3:1	26.02.2017	16:15	2016	2017	24
+Sporting GijÃ³n	Celta Vigo	0:0	1:1	26.02.2017	18:30	2016	2017	24
+Villarreal CF	Real Madrid	0:0	2:3	26.02.2017	18:30	2016	2017	24
+Real Sociedad	SD Eibar	1:1	2:2	28.02.2017	19:30	2016	2017	25
+MÃ¡laga CF	Real Betis	1:0	1:2	28.02.2017	19:30	2016	2017	25
+Valencia CF	CD LeganÃ©s	1:0	1:0	28.02.2017	21:30	2016	2017	25
+CA Osasuna	Villarreal CF	0:2	1:4	01.03.2017	21:30	2016	2017	25
+FC Barcelona	Sporting GijÃ³n	3:1	6:1	01.03.2017	19:30	2016	2017	25
+Celta Vigo	Espanyol Barcelona	2:2	2:2	01.03.2017	19:30	2016	2017	25
+Real Madrid	UD Las Palmas	1:1	3:3	01.03.2017	21:30	2016	2017	25
+Granada CF	CD AlavÃ©s	1:0	2:1	01.03.2017	21:30	2016	2017	25
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	1:0	1:1	02.03.2017	20:45	2016	2017	25
+Sevilla FC	Athletic Bilbao	1:0	1:0	02.03.2017	20:45	2016	2017	25
+Real Betis	Real Sociedad	1:2	2:3	03.03.2017	20:45	2016	2017	26
+CD LeganÃ©s	Granada CF	0:0	1:0	04.03.2017	20:45	2016	2017	26
+SD Eibar	Real Madrid	0:3	1:4	04.03.2017	16:15	2016	2017	26
+Villarreal CF	Espanyol Barcelona	1:0	2:0	04.03.2017	16:15	2016	2017	26
+FC Barcelona	Celta Vigo	2:0	5:0	04.03.2017	20:45	2016	2017	26
+Sporting GijÃ³n	Deportivo La CoruÃ±a	0:1	0:1	05.03.2017	20:45	2016	2017	26
+AtlÃ©tico Madrid	Valencia CF	1:0	3:0	05.03.2017	16:15	2016	2017	26
+UD Las Palmas	CA Osasuna	1:2	5:2	05.03.2017	16:15	2016	2017	26
+Athletic Bilbao	MÃ¡laga CF	0:0	1:0	05.03.2017	20:45	2016	2017	26
+CD AlavÃ©s	Sevilla FC	0:1	1:1	06.03.2017	20:45	2016	2017	26
+Espanyol Barcelona	UD Las Palmas	2:1	4:3	10.03.2017	20:45	2016	2017	27
+Valencia CF	Sporting GijÃ³n	0:0	1:1	11.03.2017	20:45	2016	2017	27
+Sevilla FC	CD LeganÃ©s	1:1	1:1	11.03.2017	16:15	2016	2017	27
+MÃ¡laga CF	CD AlavÃ©s	0:1	1:2	11.03.2017	16:15	2016	2017	27
+Granada CF	AtlÃ©tico Madrid	0:0	0:1	11.03.2017	20:45	2016	2017	27
+Real Sociedad	Athletic Bilbao	0:1	0:2	12.03.2017	20:45	2016	2017	27
+Deportivo La CoruÃ±a	FC Barcelona	1:0	2:1	12.03.2017	16:15	2016	2017	27
+Celta Vigo	Villarreal CF	0:1	0:1	12.03.2017	16:15	2016	2017	27
+Real Madrid	Real Betis	1:1	2:1	12.03.2017	20:45	2016	2017	27
+CA Osasuna	SD Eibar	0:0	1:1	13.03.2017	20:45	2016	2017	27
+UD Las Palmas	Villarreal CF	1:0	1:0	17.03.2017	20:45	2016	2017	28
+SD Eibar	Espanyol Barcelona	1:0	1:1	18.03.2017	20:45	2016	2017	28
+Athletic Bilbao	Real Madrid	0:1	1:2	18.03.2017	16:15	2016	2017	28
+CD AlavÃ©s	Real Sociedad	1:0	1:0	18.03.2017	16:15	2016	2017	28
+Real Betis	CA Osasuna	2:0	2:0	18.03.2017	20:45	2016	2017	28
+CD LeganÃ©s	MÃ¡laga CF	0:0	0:0	19.03.2017	20:45	2016	2017	28
+AtlÃ©tico Madrid	Sevilla FC	1:0	3:1	19.03.2017	16:15	2016	2017	28
+Sporting GijÃ³n	Granada CF	0:0	3:1	19.03.2017	16:15	2016	2017	28
+Deportivo La CoruÃ±a	Celta Vigo	0:0	0:1	19.03.2017	18:30	2016	2017	28
+FC Barcelona	Valencia CF	2:2	4:2	19.03.2017	18:30	2016	2017	28
+Espanyol Barcelona	Real Betis	0:0	2:1	31.03.2017	20:45	2016	2017	29
+Villarreal CF	SD Eibar	1:0	2:3	01.04.2017	20:45	2016	2017	29
+CA Osasuna	Athletic Bilbao	0:2	1:2	01.04.2017	16:15	2016	2017	29
+Real Sociedad	CD LeganÃ©s	0:1	1:1	01.04.2017	16:15	2016	2017	29
+MÃ¡laga CF	AtlÃ©tico Madrid	0:1	0:2	01.04.2017	20:45	2016	2017	29
+Sevilla FC	Sporting GijÃ³n	0:0	0:0	02.04.2017	20:45	2016	2017	29
+Real Madrid	CD AlavÃ©s	1:0	3:0	02.04.2017	16:15	2016	2017	29
+Valencia CF	Deportivo La CoruÃ±a	2:0	3:0	02.04.2017	16:15	2016	2017	29
+Granada CF	FC Barcelona	0:1	1:4	02.04.2017	20:45	2016	2017	29
+Celta Vigo	UD Las Palmas	2:0	3:1	03.04.2017	20:45	2016	2017	29
+Athletic Bilbao	Espanyol Barcelona	2:0	2:0	04.04.2017	19:30	2016	2017	30
+Real Betis	Villarreal CF	0:0	0:1	04.04.2017	19:30	2016	2017	30
+AtlÃ©tico Madrid	Real Sociedad	1:0	1:0	04.04.2017	21:30	2016	2017	30
+FC Barcelona	Sevilla FC	3:0	3:0	05.04.2017	21:30	2016	2017	30
+CD AlavÃ©s	CA Osasuna	0:0	0:1	05.04.2017	20:30	2016	2017	30
+Sporting GijÃ³n	MÃ¡laga CF	0:1	0:1	05.04.2017	20:30	2016	2017	30
+Deportivo La CoruÃ±a	Granada CF	0:0	0:0	05.04.2017	20:30	2016	2017	30
+CD LeganÃ©s	Real Madrid	2:3	2:4	05.04.2017	20:30	2016	2017	30
+SD Eibar	UD Las Palmas	2:0	3:1	06.04.2017	19:30	2016	2017	30
+Valencia CF	Celta Vigo	1:1	3:2	06.04.2017	19:30	2016	2017	30
+Villarreal CF	Athletic Bilbao	1:1	3:1	07.04.2017	20:45	2016	2017	31
+Espanyol Barcelona	CD AlavÃ©s	0:0	1:0	08.04.2017	20:45	2016	2017	31
+Real Madrid	AtlÃ©tico Madrid	0:0	1:1	08.04.2017	16:15	2016	2017	31
+Sevilla FC	Deportivo La CoruÃ±a	3:2	4:2	08.04.2017	16:15	2016	2017	31
+MÃ¡laga CF	FC Barcelona	1:0	2:0	08.04.2017	20:45	2016	2017	31
+Granada CF	Valencia CF	0:2	1:3	09.04.2017	20:45	2016	2017	31
+Celta Vigo	SD Eibar	0:1	0:2	09.04.2017	16:15	2016	2017	31
+CA Osasuna	CD LeganÃ©s	1:1	2:1	09.04.2017	16:15	2016	2017	31
+UD Las Palmas	Real Betis	1:0	4:1	09.04.2017	20:45	2016	2017	31
+Real Sociedad	Sporting GijÃ³n	2:0	3:1	10.04.2017	20:45	2016	2017	31
+Athletic Bilbao	UD Las Palmas	3:1	5:1	14.04.2017	20:45	2016	2017	32
+Deportivo La CoruÃ±a	MÃ¡laga CF	0:0	2:0	15.04.2017	20:45	2016	2017	32
+Sporting GijÃ³n	Real Madrid	1:1	2:3	15.04.2017	16:15	2016	2017	32
+AtlÃ©tico Madrid	CA Osasuna	1:0	3:0	15.04.2017	16:15	2016	2017	32
+FC Barcelona	Real Sociedad	3:2	3:2	15.04.2017	20:45	2016	2017	32
+CD LeganÃ©s	Espanyol Barcelona	0:0	0:1	16.04.2017	20:45	2016	2017	32
+Valencia CF	Sevilla FC	0:0	0:0	16.04.2017	16:15	2016	2017	32
+Real Betis	SD Eibar	1:0	2:0	16.04.2017	16:15	2016	2017	32
+Granada CF	Celta Vigo	0:1	0:3	16.04.2017	20:45	2016	2017	32
+CD AlavÃ©s	Villarreal CF	2:0	2:1	17.04.2017	20:45	2016	2017	32
+Sevilla FC	Granada CF	1:0	2:0	21.04.2017	21:00	2016	2017	33
+MÃ¡laga CF	Valencia CF	2:0	2:0	22.04.2017	21:00	2016	2017	33
+Villarreal CF	CD LeganÃ©s	0:0	2:1	22.04.2017	16:15	2016	2017	33
+CA Osasuna	Sporting GijÃ³n	1:0	2:2	22.04.2017	16:15	2016	2017	33
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	0:1	22.04.2017	20:45	2016	2017	33
+Real Sociedad	Deportivo La CoruÃ±a	1:0	1:0	23.04.2017	20:45	2016	2017	33
+Celta Vigo	Real Betis	0:0	0:1	23.04.2017	16:15	2016	2017	33
+UD Las Palmas	CD AlavÃ©s	1:0	1:1	23.04.2017	16:15	2016	2017	33
+Real Madrid	FC Barcelona	1:1	2:3	23.04.2017	20:45	2016	2017	33
+SD Eibar	Athletic Bilbao	0:0	0:1	24.04.2017	20:45	2016	2017	33
+Sporting GijÃ³n	Espanyol Barcelona	1:0	1:1	25.04.2017	19:30	2016	2017	34
+Granada CF	MÃ¡laga CF	0:0	0:2	25.04.2017	19:30	2016	2017	34
+AtlÃ©tico Madrid	Villarreal CF	0:0	0:1	25.04.2017	21:30	2016	2017	34
+FC Barcelona	CA Osasuna	2:0	7:1	26.04.2017	21:30	2016	2017	34
+CD LeganÃ©s	UD Las Palmas	0:0	3:0	26.04.2017	20:30	2016	2017	34
+Valencia CF	Real Sociedad	0:2	2:3	26.04.2017	20:30	2016	2017	34
+Deportivo La CoruÃ±a	Real Madrid	1:3	2:6	26.04.2017	21:30	2016	2017	34
+CD AlavÃ©s	SD Eibar	0:0	0:0	27.04.2017	21:30	2016	2017	34
+Sevilla FC	Celta Vigo	0:0	2:1	27.04.2017	20:30	2016	2017	34
+Athletic Bilbao	Real Betis	0:0	2:1	27.04.2017	20:30	2016	2017	34
+Villarreal CF	Sporting GijÃ³n	1:0	3:1	28.04.2017	20:45	2016	2017	35
+Real Sociedad	Granada CF	1:0	2:1	29.04.2017	20:45	2016	2017	35
+Real Madrid	Valencia CF	1:0	2:1	29.04.2017	16:15	2016	2017	35
+UD Las Palmas	AtlÃ©tico Madrid	0:3	0:5	29.04.2017	16:15	2016	2017	35
+Espanyol Barcelona	FC Barcelona	0:0	0:3	29.04.2017	20:45	2016	2017	35
+CA Osasuna	Deportivo La CoruÃ±a	1:1	2:2	30.04.2017	20:45	2016	2017	35
+Real Betis	CD AlavÃ©s	1:0	1:4	30.04.2017	16:15	2016	2017	35
+SD Eibar	CD LeganÃ©s	0:0	2:0	30.04.2017	16:15	2016	2017	35
+Celta Vigo	Athletic Bilbao	0:1	0:3	30.04.2017	20:45	2016	2017	35
+MÃ¡laga CF	Sevilla FC	1:1	4:2	01.05.2017	20:45	2016	2017	35
+Sevilla FC	Real Sociedad	1:0	1:1	05.05.2017	21:00	2016	2017	36
+Sporting GijÃ³n	UD Las Palmas	0:0	1:0	06.05.2017	21:00	2016	2017	36
+AtlÃ©tico Madrid	SD Eibar	0:0	1:0	06.05.2017	16:15	2016	2017	36
+FC Barcelona	Villarreal CF	2:1	4:1	06.05.2017	16:15	2016	2017	36
+Granada CF	Real Madrid	0:4	0:4	06.05.2017	20:45	2016	2017	36
+CD AlavÃ©s	Athletic Bilbao	0:0	1:0	07.05.2017	20:45	2016	2017	36
+Valencia CF	CA Osasuna	2:0	4:1	07.05.2017	16:15	2016	2017	36
+Deportivo La CoruÃ±a	Espanyol Barcelona	0:2	1:2	07.05.2017	16:15	2016	2017	36
+MÃ¡laga CF	Celta Vigo	1:0	3:0	07.05.2017	20:45	2016	2017	36
+CD LeganÃ©s	Real Betis	2:0	4:0	08.05.2017	20:45	2016	2017	36
+Espanyol Barcelona	Valencia CF	0:0	0:1	13.05.2017	16:00	2016	2017	37
+CA Osasuna	Granada CF	1:1	2:1	13.05.2017	16:00	2016	2017	37
+CD AlavÃ©s	Celta Vigo	3:0	3:1	14.05.2017	16:00	2016	2017	37
+Athletic Bilbao	CD LeganÃ©s	1:0	1:1	14.05.2017	16:00	2016	2017	37
+Real Betis	AtlÃ©tico Madrid	0:0	1:1	14.05.2017	20:00	2016	2017	37
+SD Eibar	Sporting GijÃ³n	0:1	0:1	14.05.2017	20:00	2016	2017	37
+UD Las Palmas	FC Barcelona	0:2	1:4	14.05.2017	20:00	2016	2017	37
+Villarreal CF	Deportivo La CoruÃ±a	0:0	0:0	14.05.2017	20:00	2016	2017	37
+Real Madrid	Sevilla FC	2:0	4:1	14.05.2017	20:00	2016	2017	37
+Real Sociedad	MÃ¡laga CF	1:1	2:2	14.05.2017	20:00	2016	2017	37
+Granada CF	Espanyol Barcelona	1:2	1:2	19.05.2017	20:45	2016	2017	38
+Sporting GijÃ³n	Real Betis	1:1	2:2	20.05.2017	20:45	2016	2017	38
+CD LeganÃ©s	CD AlavÃ©s	0:0	1:1	20.05.2017	19:00	2016	2017	38
+Deportivo La CoruÃ±a	UD Las Palmas	3:0	3:0	20.05.2017	19:00	2016	2017	38
+Sevilla FC	CA Osasuna	3:0	5:0	20.05.2017	21:00	2016	2017	38
+AtlÃ©tico Madrid	Athletic Bilbao	2:0	3:1	21.05.2017	21:00	2016	2017	38
+Valencia CF	Villarreal CF	0:1	1:3	21.05.2017	16:45	2016	2017	38
+Celta Vigo	Real Sociedad	0:0	2:2	21.05.2017	16:45	2016	2017	38
+FC Barcelona	SD Eibar	0:1	4:2	21.05.2017	20:00	2016	2017	38
+MÃ¡laga CF	Real Madrid	0:1	0:2	21.05.2017	20:00	2016	2017	38

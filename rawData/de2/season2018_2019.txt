@@ -1,0 +1,306 @@
+Hamburger SV	Holstein Kiel	0:0	0:3	03.08.2018	20:30	2018	2019	1
+VfL Bochum	1. FC KÃ¶ln	0:1	0:2	04.08.2018	13:00	2018	2019	1
+Jahn Regensburg	FC Ingolstadt 04	1:1	2:1	04.08.2018	15:30	2018	2019	1
+SpVgg Greuther FÃ¼rth	SV Sandhausen	0:0	3:1	04.08.2018	15:30	2018	2019	1
+1. FC Magdeburg	FC St. Pauli	1:1	1:2	05.08.2018	13:30	2018	2019	1
+1. FC Union Berlin	Erzgebirge Aue	0:0	1:0	05.08.2018	15:30	2018	2019	1
+SV Darmstadt 98	SC Paderborn 07	0:0	1:0	05.08.2018	15:30	2018	2019	1
+1. FC Heidenheim 1846	Arminia Bielefeld	1:1	1:1	05.08.2018	15:30	2018	2019	1
+Dynamo Dresden	MSV Duisburg	1:0	1:0	06.08.2018	20:30	2018	2019	1
+FC Ingolstadt 04	SpVgg Greuther FÃ¼rth	0:0	1:1	10.08.2018	18:30	2018	2019	2
+SC Paderborn 07	Jahn Regensburg	1:0	2:0	10.08.2018	18:30	2018	2019	2
+FC St. Pauli	SV Darmstadt 98	0:0	2:0	10.08.2018	20:30	2018	2019	2
+MSV Duisburg	VfL Bochum	0:0	0:2	11.08.2018	13:00	2018	2019	2
+Arminia Bielefeld	Dynamo Dresden	2:0	2:1	11.08.2018	15:30	2018	2019	2
+SV Sandhausen	Hamburger SV	0:2	0:3	12.08.2018	13:30	2018	2019	2
+Holstein Kiel	1. FC Heidenheim 1846	1:1	1:1	12.08.2018	15:30	2018	2019	2
+Erzgebirge Aue	1. FC Magdeburg	0:0	0:0	12.08.2018	15:30	2018	2019	2
+1. FC KÃ¶ln	1. FC Union Berlin	1:0	1:1	13.08.2018	20:30	2018	2019	2
+VfL Bochum	SV Sandhausen	0:0	1:0	24.08.2018	18:30	2018	2019	3
+SV Darmstadt 98	MSV Duisburg	0:0	3:0	24.08.2018	18:30	2018	2019	3
+1. FC KÃ¶ln	Erzgebirge Aue	1:1	3:1	25.08.2018	13:00	2018	2019	3
+SpVgg Greuther FÃ¼rth	SC Paderborn 07	0:0	2:2	25.08.2018	13:00	2018	2019	3
+1. FC Magdeburg	FC Ingolstadt 04	1:1	1:1	25.08.2018	13:00	2018	2019	3
+Jahn Regensburg	Holstein Kiel	0:0	0:0	26.08.2018	13:30	2018	2019	3
+1. FC Union Berlin	FC St. Pauli	2:0	4:1	26.08.2018	13:30	2018	2019	3
+Dynamo Dresden	1. FC Heidenheim 1846	0:2	1:3	26.08.2018	13:30	2018	2019	3
+Hamburger SV	Arminia Bielefeld	1:0	3:0	27.08.2018	20:30	2018	2019	3
+FC Ingolstadt 04	Erzgebirge Aue	1:1	3:2	31.08.2018	18:30	2018	2019	4
+SC Paderborn 07	VfL Bochum	0:1	2:2	31.08.2018	18:30	2018	2019	4
+Arminia Bielefeld	Jahn Regensburg	3:2	5:3	01.09.2018	13:00	2018	2019	4
+MSV Duisburg	SpVgg Greuther FÃ¼rth	0:1	0:1	01.09.2018	13:00	2018	2019	4
+SV Sandhausen	1. FC Union Berlin	0:0	0:0	02.09.2018	13:30	2018	2019	4
+FC St. Pauli	1. FC KÃ¶ln	2:2	3:5	02.09.2018	13:30	2018	2019	4
+1. FC Heidenheim 1846	SV Darmstadt 98	0:1	0:1	02.09.2018	13:30	2018	2019	4
+Holstein Kiel	1. FC Magdeburg	0:0	2:1	03.09.2018	20:30	2018	2019	4
+Dynamo Dresden	Hamburger SV	0:0	0:1	18.09.2018	18:30	2018	2019	4
+Jahn Regensburg	Dynamo Dresden	0:1	0:2	14.09.2018	18:30	2018	2019	5
+1. FC Union Berlin	MSV Duisburg	1:0	2:2	14.09.2018	18:30	2018	2019	5
+Hamburger SV	1. FC Heidenheim 1846	0:0	3:2	15.09.2018	13:00	2018	2019	5
+SV Darmstadt 98	SV Sandhausen	0:0	1:1	15.09.2018	13:00	2018	2019	5
+SpVgg Greuther FÃ¼rth	Holstein Kiel	0:0	4:1	15.09.2018	13:00	2018	2019	5
+1. FC KÃ¶ln	SC Paderborn 07	1:1	3:5	16.09.2018	13:30	2018	2019	5
+VfL Bochum	FC Ingolstadt 04	3:0	6:0	16.09.2018	13:30	2018	2019	5
+Erzgebirge Aue	FC St. Pauli	2:1	3:1	16.09.2018	13:30	2018	2019	5
+1. FC Magdeburg	Arminia Bielefeld	0:0	0:0	17.09.2018	20:30	2018	2019	5
+FC Ingolstadt 04	FC St. Pauli	0:0	0:1	21.09.2018	18:30	2018	2019	6
+SV Sandhausen	1. FC KÃ¶ln	0:1	0:2	21.09.2018	18:30	2018	2019	6
+Holstein Kiel	VfL Bochum	0:1	2:2	22.09.2018	13:00	2018	2019	6
+Arminia Bielefeld	1. FC Union Berlin	0:1	1:1	22.09.2018	13:00	2018	2019	6
+Dynamo Dresden	SV Darmstadt 98	1:1	4:1	22.09.2018	13:00	2018	2019	6
+Hamburger SV	Jahn Regensburg	0:3	0:5	23.09.2018	13:30	2018	2019	6
+MSV Duisburg	Erzgebirge Aue	1:0	1:2	23.09.2018	13:30	2018	2019	6
+1. FC Heidenheim 1846	SpVgg Greuther FÃ¼rth	0:0	2:0	23.09.2018	13:30	2018	2019	6
+SC Paderborn 07	1. FC Magdeburg	2:1	4:4	23.09.2018	13:30	2018	2019	6
+1. FC KÃ¶ln	FC Ingolstadt 04	0:0	2:1	25.09.2018	18:30	2018	2019	7
+VfL Bochum	Dynamo Dresden	0:1	0:1	25.09.2018	18:30	2018	2019	7
+1. FC Union Berlin	Holstein Kiel	0:0	2:0	25.09.2018	18:30	2018	2019	7
+SV Darmstadt 98	Arminia Bielefeld	0:0	1:2	25.09.2018	18:30	2018	2019	7
+Jahn Regensburg	1. FC Heidenheim 1846	2:1	2:1	26.09.2018	18:30	2018	2019	7
+FC St. Pauli	SC Paderborn 07	1:1	2:1	26.09.2018	18:30	2018	2019	7
+Erzgebirge Aue	SV Sandhausen	0:1	0:2	26.09.2018	18:30	2018	2019	7
+1. FC Magdeburg	MSV Duisburg	0:1	3:3	26.09.2018	18:30	2018	2019	7
+SpVgg Greuther FÃ¼rth	Hamburger SV	0:0	0:0	27.09.2018	20:30	2018	2019	7
+Holstein Kiel	SV Darmstadt 98	3:2	4:2	28.09.2018	18:30	2018	2019	8
+Arminia Bielefeld	1. FC KÃ¶ln	0:1	1:3	28.09.2018	18:30	2018	2019	8
+MSV Duisburg	Jahn Regensburg	1:2	1:3	29.09.2018	13:00	2018	2019	8
+1. FC Heidenheim 1846	VfL Bochum	1:2	3:2	29.09.2018	13:00	2018	2019	8
+SC Paderborn 07	Erzgebirge Aue	1:0	1:0	29.09.2018	13:00	2018	2019	8
+Hamburger SV	FC St. Pauli	0:0	0:0	30.09.2018	13:30	2018	2019	8
+SV Sandhausen	1. FC Magdeburg	0:0	0:1	30.09.2018	13:30	2018	2019	8
+Dynamo Dresden	SpVgg Greuther FÃ¼rth	0:0	0:1	30.09.2018	13:30	2018	2019	8
+FC Ingolstadt 04	1. FC Union Berlin	0:1	1:2	01.10.2018	20:30	2018	2019	8
+VfL Bochum	Arminia Bielefeld	1:0	1:0	05.10.2018	18:30	2018	2019	9
+SV Darmstadt 98	Hamburger SV	0:2	1:2	05.10.2018	18:30	2018	2019	9
+SpVgg Greuther FÃ¼rth	Jahn Regensburg	0:0	1:1	06.10.2018	13:00	2018	2019	9
+Erzgebirge Aue	Holstein Kiel	0:1	2:1	06.10.2018	13:00	2018	2019	9
+1. FC Magdeburg	Dynamo Dresden	0:2	2:2	06.10.2018	13:00	2018	2019	9
+1. FC Union Berlin	1. FC Heidenheim 1846	0:0	1:1	07.10.2018	13:30	2018	2019	9
+FC Ingolstadt 04	SC Paderborn 07	0:1	1:2	07.10.2018	13:30	2018	2019	9
+FC St. Pauli	SV Sandhausen	1:0	3:1	07.10.2018	13:30	2018	2019	9
+1. FC KÃ¶ln	MSV Duisburg	1:1	1:2	08.10.2018	20:30	2018	2019	9
+SV Sandhausen	FC Ingolstadt 04	1:0	4:0	19.10.2018	18:30	2018	2019	10
+Dynamo Dresden	Erzgebirge Aue	1:1	1:1	19.10.2018	18:30	2018	2019	10
+Holstein Kiel	1. FC KÃ¶ln	0:1	1:1	20.10.2018	13:00	2018	2019	10
+Arminia Bielefeld	SpVgg Greuther FÃ¼rth	2:0	2:3	20.10.2018	13:00	2018	2019	10
+1. FC Heidenheim 1846	1. FC Magdeburg	2:0	3:0	20.10.2018	13:00	2018	2019	10
+Hamburger SV	VfL Bochum	0:0	0:0	21.10.2018	13:30	2018	2019	10
+Jahn Regensburg	SV Darmstadt 98	0:1	1:1	21.10.2018	13:30	2018	2019	10
+SC Paderborn 07	1. FC Union Berlin	0:0	0:0	21.10.2018	13:30	2018	2019	10
+MSV Duisburg	FC St. Pauli	0:0	0:1	22.10.2018	20:30	2018	2019	10
+SV Darmstadt 98	SpVgg Greuther FÃ¼rth	1:0	2:0	26.10.2018	18:30	2018	2019	11
+1. FC Magdeburg	Hamburger SV	0:0	0:1	26.10.2018	18:30	2018	2019	11
+1. FC KÃ¶ln	1. FC Heidenheim 1846	0:1	1:1	27.10.2018	13:00	2018	2019	11
+Erzgebirge Aue	Arminia Bielefeld	0:0	1:0	27.10.2018	13:00	2018	2019	11
+SC Paderborn 07	SV Sandhausen	1:2	3:3	27.10.2018	13:00	2018	2019	11
+1. FC Union Berlin	Dynamo Dresden	0:0	0:0	28.10.2018	13:30	2018	2019	11
+FC Ingolstadt 04	MSV Duisburg	0:0	1:1	28.10.2018	13:30	2018	2019	11
+FC St. Pauli	Holstein Kiel	0:0	0:1	28.10.2018	13:30	2018	2019	11
+VfL Bochum	Jahn Regensburg	1:1	3:3	29.10.2018	20:30	2018	2019	11
+Dynamo Dresden	SV Sandhausen	2:1	3:1	02.11.2018	18:30	2018	2019	12
+SpVgg Greuther FÃ¼rth	VfL Bochum	0:2	2:2	02.11.2018	18:30	2018	2019	12
+Holstein Kiel	FC Ingolstadt 04	0:0	2:2	03.11.2018	13:00	2018	2019	12
+MSV Duisburg	SC Paderborn 07	1:0	2:0	03.11.2018	13:00	2018	2019	12
+SV Darmstadt 98	1. FC Magdeburg	1:0	3:1	03.11.2018	13:00	2018	2019	12
+Arminia Bielefeld	FC St. Pauli	1:0	1:2	04.11.2018	13:30	2018	2019	12
+Jahn Regensburg	1. FC Union Berlin	1:1	1:1	04.11.2018	13:30	2018	2019	12
+1. FC Heidenheim 1846	Erzgebirge Aue	0:0	1:0	04.11.2018	13:30	2018	2019	12
+Hamburger SV	1. FC KÃ¶ln	0:0	1:0	05.11.2018	20:30	2018	2019	12
+SV Sandhausen	MSV Duisburg	0:0	0:0	09.11.2018	18:30	2018	2019	13
+SC Paderborn 07	Holstein Kiel	3:1	4:4	09.11.2018	18:30	2018	2019	13
+1. FC KÃ¶ln	Dynamo Dresden	2:0	8:1	10.11.2018	13:00	2018	2019	13
+FC St. Pauli	1. FC Heidenheim 1846	0:0	1:1	10.11.2018	13:00	2018	2019	13
+Erzgebirge Aue	Hamburger SV	1:1	1:3	10.11.2018	13:00	2018	2019	13
+1. FC Union Berlin	SpVgg Greuther FÃ¼rth	3:0	4:0	11.11.2018	13:30	2018	2019	13
+FC Ingolstadt 04	Arminia Bielefeld	0:0	1:1	11.11.2018	13:30	2018	2019	13
+1. FC Magdeburg	Jahn Regensburg	1:1	2:3	11.11.2018	13:30	2018	2019	13
+VfL Bochum	SV Darmstadt 98	0:0	1:0	12.11.2018	20:30	2018	2019	13
+Arminia Bielefeld	MSV Duisburg	0:0	0:1	23.11.2018	18:30	2018	2019	14
+SpVgg Greuther FÃ¼rth	1. FC Magdeburg	1:1	3:2	23.11.2018	18:30	2018	2019	14
+Holstein Kiel	SV Sandhausen	2:0	2:1	24.11.2018	13:00	2018	2019	14
+VfL Bochum	Erzgebirge Aue	0:1	2:1	24.11.2018	13:00	2018	2019	14
+SV Darmstadt 98	1. FC KÃ¶ln	0:0	0:3	24.11.2018	13:00	2018	2019	14
+Jahn Regensburg	FC St. Pauli	0:1	1:1	25.11.2018	13:30	2018	2019	14
+1. FC Heidenheim 1846	SC Paderborn 07	1:2	1:5	25.11.2018	13:30	2018	2019	14
+Dynamo Dresden	FC Ingolstadt 04	2:0	2:0	25.11.2018	13:30	2018	2019	14
+Hamburger SV	1. FC Union Berlin	0:1	2:2	26.11.2018	20:30	2018	2019	14
+Erzgebirge Aue	Jahn Regensburg	1:1	1:1	30.11.2018	18:30	2018	2019	15
+SC Paderborn 07	Arminia Bielefeld	0:0	2:2	30.11.2018	18:30	2018	2019	15
+1. FC KÃ¶ln	SpVgg Greuther FÃ¼rth	1:0	4:0	01.12.2018	13:00	2018	2019	15
+1. FC Union Berlin	SV Darmstadt 98	2:0	3:1	01.12.2018	13:00	2018	2019	15
+FC Ingolstadt 04	Hamburger SV	0:1	1:2	01.12.2018	13:00	2018	2019	15
+FC St. Pauli	Dynamo Dresden	0:0	1:1	01.12.2018	13:00	2018	2019	15
+MSV Duisburg	Holstein Kiel	0:0	0:4	02.12.2018	13:30	2018	2019	15
+SV Sandhausen	1. FC Heidenheim 1846	1:2	1:2	02.12.2018	13:30	2018	2019	15
+1. FC Magdeburg	VfL Bochum	0:0	0:0	02.12.2018	13:30	2018	2019	15
+Hamburger SV	SC Paderborn 07	1:0	1:0	07.12.2018	18:30	2018	2019	16
+Jahn Regensburg	1. FC KÃ¶ln	0:2	1:3	07.12.2018	18:30	2018	2019	16
+SV Darmstadt 98	FC Ingolstadt 04	0:1	1:1	08.12.2018	13:00	2018	2019	16
+1. FC Heidenheim 1846	MSV Duisburg	1:0	4:1	08.12.2018	13:00	2018	2019	16
+SpVgg Greuther FÃ¼rth	Erzgebirge Aue	0:1	0:5	08.12.2018	13:00	2018	2019	16
+Arminia Bielefeld	SV Sandhausen	0:0	1:1	09.12.2018	13:30	2018	2019	16
+Dynamo Dresden	Holstein Kiel	0:2	0:2	09.12.2018	13:30	2018	2019	16
+1. FC Magdeburg	1. FC Union Berlin	1:0	1:1	09.12.2018	13:30	2018	2019	16
+VfL Bochum	FC St. Pauli	1:2	1:3	10.12.2018	20:30	2018	2019	16
+Holstein Kiel	Arminia Bielefeld	0:1	1:2	14.12.2018	18:30	2018	2019	17
+MSV Duisburg	Hamburger SV	1:2	1:2	14.12.2018	18:30	2018	2019	17
+1. FC Union Berlin	VfL Bochum	0:0	2:0	15.12.2018	13:00	2018	2019	17
+FC St. Pauli	SpVgg Greuther FÃ¼rth	1:0	2:0	15.12.2018	13:00	2018	2019	17
+SC Paderborn 07	Dynamo Dresden	0:0	3:0	15.12.2018	13:00	2018	2019	17
+FC Ingolstadt 04	1. FC Heidenheim 1846	1:0	1:1	16.12.2018	13:30	2018	2019	17
+SV Sandhausen	Jahn Regensburg	2:1	2:2	16.12.2018	13:30	2018	2019	17
+Erzgebirge Aue	SV Darmstadt 98	0:0	2:2	16.12.2018	13:30	2018	2019	17
+1. FC KÃ¶ln	1. FC Magdeburg	1:0	3:0	17.12.2018	20:30	2018	2019	17
+1. FC KÃ¶ln	VfL Bochum	1:1	2:3	21.12.2018	18:30	2018	2019	18
+SV Sandhausen	SpVgg Greuther FÃ¼rth	0:0	0:0	21.12.2018	18:30	2018	2019	18
+FC Ingolstadt 04	Jahn Regensburg	1:1	1:2	22.12.2018	13:00	2018	2019	18
+Arminia Bielefeld	1. FC Heidenheim 1846	1:1	1:2	22.12.2018	13:00	2018	2019	18
+FC St. Pauli	1. FC Magdeburg	1:1	4:1	22.12.2018	13:00	2018	2019	18
+Holstein Kiel	Hamburger SV	2:0	3:1	23.12.2018	13:30	2018	2019	18
+Erzgebirge Aue	1. FC Union Berlin	2:0	3:0	23.12.2018	13:30	2018	2019	18
+SC Paderborn 07	SV Darmstadt 98	1:1	6:2	23.12.2018	13:30	2018	2019	18
+MSV Duisburg	Dynamo Dresden	0:2	1:3	23.12.2018	13:30	2018	2019	18
+VfL Bochum	MSV Duisburg	2:0	2:1	29.01.2019	18:30	2018	2019	19
+SpVgg Greuther FÃ¼rth	FC Ingolstadt 04	0:0	0:1	29.01.2019	20:30	2018	2019	19
+SV Darmstadt 98	FC St. Pauli	0:1	2:1	29.01.2019	20:30	2018	2019	19
+1. FC Magdeburg	Erzgebirge Aue	1:0	1:0	29.01.2019	20:30	2018	2019	19
+Jahn Regensburg	SC Paderborn 07	0:0	2:0	30.01.2019	18:30	2018	2019	19
+1. FC Heidenheim 1846	Holstein Kiel	2:1	2:2	30.01.2019	20:30	2018	2019	19
+Dynamo Dresden	Arminia Bielefeld	3:1	3:4	30.01.2019	20:30	2018	2019	19
+Hamburger SV	SV Sandhausen	1:0	2:1	30.01.2019	20:30	2018	2019	19
+1. FC Union Berlin	1. FC KÃ¶ln	2:0	2:0	31.01.2019	20:30	2018	2019	19
+MSV Duisburg	SV Darmstadt 98	2:0	3:2	01.02.2019	18:30	2018	2019	20
+FC Ingolstadt 04	1. FC Magdeburg	0:0	0:1	01.02.2019	18:30	2018	2019	20
+Arminia Bielefeld	Hamburger SV	2:0	2:0	02.02.2019	13:00	2018	2019	20
+1. FC Heidenheim 1846	Dynamo Dresden	1:0	1:0	02.02.2019	13:00	2018	2019	20
+SC Paderborn 07	SpVgg Greuther FÃ¼rth	3:0	6:0	02.02.2019	13:00	2018	2019	20
+Holstein Kiel	Jahn Regensburg	1:0	2:0	03.02.2019	13:30	2018	2019	20
+SV Sandhausen	VfL Bochum	0:0	3:0	03.02.2019	13:30	2018	2019	20
+FC St. Pauli	1. FC Union Berlin	1:0	3:2	04.02.2019	20:30	2018	2019	20
+Erzgebirge Aue	1. FC KÃ¶ln	0:1	0:1	27.02.2019	19:30	2018	2019	20
+Jahn Regensburg	Arminia Bielefeld	0:2	0:3	08.02.2019	18:30	2018	2019	21
+1. FC KÃ¶ln	FC St. Pauli	1:1	4:1	08.02.2019	18:30	2018	2019	21
+SpVgg Greuther FÃ¼rth	MSV Duisburg	0:0	1:0	09.02.2019	13:00	2018	2019	21
+1. FC Union Berlin	SV Sandhausen	1:0	2:0	09.02.2019	13:00	2018	2019	21
+VfL Bochum	SC Paderborn 07	0:2	1:2	09.02.2019	13:00	2018	2019	21
+1. FC Magdeburg	Holstein Kiel	1:1	1:1	10.02.2019	13:30	2018	2019	21
+Erzgebirge Aue	FC Ingolstadt 04	0:1	0:3	10.02.2019	13:30	2018	2019	21
+SV Darmstadt 98	1. FC Heidenheim 1846	0:1	1:2	10.02.2019	13:30	2018	2019	21
+Hamburger SV	Dynamo Dresden	0:0	1:0	11.02.2019	20:30	2018	2019	21
+SC Paderborn 07	1. FC KÃ¶ln	0:1	3:2	15.02.2019	18:30	2018	2019	22
+SV Sandhausen	SV Darmstadt 98	1:1	1:1	15.02.2019	18:30	2018	2019	22
+1. FC Heidenheim 1846	Hamburger SV	1:1	2:2	16.02.2019	13:00	2018	2019	22
+FC Ingolstadt 04	VfL Bochum	2:0	2:1	16.02.2019	13:00	2018	2019	22
+MSV Duisburg	1. FC Union Berlin	1:1	2:3	16.02.2019	13:00	2018	2019	22
+FC St. Pauli	Erzgebirge Aue	1:1	1:2	16.02.2019	13:00	2018	2019	22
+Dynamo Dresden	Jahn Regensburg	0:0	0:0	17.02.2019	13:30	2018	2019	22
+Holstein Kiel	SpVgg Greuther FÃ¼rth	0:0	2:2	17.02.2019	13:30	2018	2019	22
+Arminia Bielefeld	1. FC Magdeburg	0:2	1:3	17.02.2019	13:30	2018	2019	22
+1. FC Union Berlin	Arminia Bielefeld	1:0	1:1	22.02.2019	18:30	2018	2019	23
+SpVgg Greuther FÃ¼rth	1. FC Heidenheim 1846	0:0	0:0	22.02.2019	18:30	2018	2019	23
+VfL Bochum	Holstein Kiel	0:3	1:3	23.02.2019	13:00	2018	2019	23
+FC St. Pauli	FC Ingolstadt 04	0:0	1:0	23.02.2019	13:00	2018	2019	23
+1. FC KÃ¶ln	SV Sandhausen	0:1	3:1	23.02.2019	13:00	2018	2019	23
+SV Darmstadt 98	Dynamo Dresden	1:0	2:0	23.02.2019	13:00	2018	2019	23
+Jahn Regensburg	Hamburger SV	0:1	2:1	24.02.2019	13:30	2018	2019	23
+Erzgebirge Aue	MSV Duisburg	0:0	0:0	24.02.2019	13:30	2018	2019	23
+1. FC Magdeburg	SC Paderborn 07	1:0	1:1	24.02.2019	13:30	2018	2019	23
+Holstein Kiel	1. FC Union Berlin	0:1	0:2	01.03.2019	18:30	2018	2019	24
+MSV Duisburg	1. FC Magdeburg	0:0	1:0	01.03.2019	18:30	2018	2019	24
+1. FC Heidenheim 1846	Jahn Regensburg	0:1	1:2	02.03.2019	13:00	2018	2019	24
+SC Paderborn 07	FC St. Pauli	0:0	0:1	02.03.2019	13:00	2018	2019	24
+SV Sandhausen	Erzgebirge Aue	0:1	0:3	02.03.2019	13:00	2018	2019	24
+FC Ingolstadt 04	1. FC KÃ¶ln	0:1	1:2	03.03.2019	13:30	2018	2019	24
+Dynamo Dresden	VfL Bochum	1:2	2:2	03.03.2019	13:30	2018	2019	24
+Arminia Bielefeld	SV Darmstadt 98	1:0	1:0	03.03.2019	13:30	2018	2019	24
+Hamburger SV	SpVgg Greuther FÃ¼rth	0:0	1:0	04.03.2019	20:30	2018	2019	24
+1. FC Union Berlin	FC Ingolstadt 04	1:0	2:0	08.03.2019	18:30	2018	2019	25
+VfL Bochum	1. FC Heidenheim 1846	0:0	1:0	08.03.2019	18:30	2018	2019	25
+SV Darmstadt 98	Holstein Kiel	2:1	3:2	09.03.2019	13:00	2018	2019	25
+1. FC KÃ¶ln	Arminia Bielefeld	2:0	5:1	09.03.2019	13:00	2018	2019	25
+Jahn Regensburg	MSV Duisburg	1:0	1:1	09.03.2019	13:00	2018	2019	25
+Erzgebirge Aue	SC Paderborn 07	1:0	2:1	09.03.2019	13:00	2018	2019	25
+FC St. Pauli	Hamburger SV	0:1	0:4	10.03.2019	13:30	2018	2019	25
+1. FC Magdeburg	SV Sandhausen	0:0	0:1	10.03.2019	13:30	2018	2019	25
+SpVgg Greuther FÃ¼rth	Dynamo Dresden	0:0	0:0	04.04.2019	19:00	2018	2019	25
+1. FC Heidenheim 1846	1. FC Union Berlin	0:1	2:1	15.03.2019	18:30	2018	2019	26
+Holstein Kiel	Erzgebirge Aue	2:1	5:1	15.03.2019	18:30	2018	2019	26
+Hamburger SV	SV Darmstadt 98	2:0	2:3	16.03.2019	13:00	2018	2019	26
+SV Sandhausen	FC St. Pauli	2:0	4:0	16.03.2019	13:00	2018	2019	26
+Dynamo Dresden	1. FC Magdeburg	0:1	1:1	16.03.2019	13:00	2018	2019	26
+Arminia Bielefeld	VfL Bochum	0:0	3:1	17.03.2019	13:30	2018	2019	26
+SC Paderborn 07	FC Ingolstadt 04	0:0	3:1	17.03.2019	13:30	2018	2019	26
+Jahn Regensburg	SpVgg Greuther FÃ¼rth	0:0	0:2	18.03.2019	20:30	2018	2019	26
+MSV Duisburg	1. FC KÃ¶ln	2:1	4:4	10.04.2019	18:45	2018	2019	26
+FC St. Pauli	MSV Duisburg	0:0	0:0	29.03.2019	18:30	2018	2019	27
+1. FC Magdeburg	1. FC Heidenheim 1846	0:0	0:0	29.03.2019	18:30	2018	2019	27
+VfL Bochum	Hamburger SV	0:0	0:0	30.03.2019	13:00	2018	2019	27
+SV Darmstadt 98	Jahn Regensburg	0:0	1:1	30.03.2019	13:00	2018	2019	27
+1. FC Union Berlin	SC Paderborn 07	0:1	1:3	30.03.2019	13:00	2018	2019	27
+1. FC KÃ¶ln	Holstein Kiel	2:0	4:0	31.03.2019	13:30	2018	2019	27
+SpVgg Greuther FÃ¼rth	Arminia Bielefeld	2:0	2:2	31.03.2019	13:30	2018	2019	27
+FC Ingolstadt 04	SV Sandhausen	1:0	1:2	31.03.2019	13:30	2018	2019	27
+Erzgebirge Aue	Dynamo Dresden	1:0	1:3	01.04.2019	20:30	2018	2019	27
+Jahn Regensburg	VfL Bochum	0:0	2:1	05.04.2019	18:30	2018	2019	28
+Arminia Bielefeld	Erzgebirge Aue	1:0	2:1	05.04.2019	18:30	2018	2019	28
+MSV Duisburg	FC Ingolstadt 04	0:1	2:4	06.04.2019	13:00	2018	2019	28
+Holstein Kiel	FC St. Pauli	0:1	2:1	06.04.2019	13:00	2018	2019	28
+SV Sandhausen	SC Paderborn 07	1:0	1:1	06.04.2019	13:00	2018	2019	28
+1. FC Heidenheim 1846	1. FC KÃ¶ln	0:2	0:2	07.04.2019	13:30	2018	2019	28
+Dynamo Dresden	1. FC Union Berlin	0:0	0:0	07.04.2019	13:30	2018	2019	28
+SpVgg Greuther FÃ¼rth	SV Darmstadt 98	0:0	2:1	07.04.2019	13:30	2018	2019	28
+Hamburger SV	1. FC Magdeburg	1:0	1:2	08.04.2019	20:30	2018	2019	28
+1. FC Union Berlin	Jahn Regensburg	1:1	2:2	12.04.2019	18:30	2018	2019	29
+Erzgebirge Aue	1. FC Heidenheim 1846	0:1	0:1	12.04.2019	18:30	2018	2019	29
+SC Paderborn 07	MSV Duisburg	2:0	4:0	13.04.2019	13:00	2018	2019	29
+1. FC Magdeburg	SV Darmstadt 98	0:0	0:1	13.04.2019	13:00	2018	2019	29
+SV Sandhausen	Dynamo Dresden	0:0	3:1	13.04.2019	13:00	2018	2019	29
+FC Ingolstadt 04	Holstein Kiel	1:0	1:1	14.04.2019	13:30	2018	2019	29
+FC St. Pauli	Arminia Bielefeld	0:1	1:1	14.04.2019	13:30	2018	2019	29
+VfL Bochum	SpVgg Greuther FÃ¼rth	1:2	3:2	14.04.2019	13:30	2018	2019	29
+1. FC KÃ¶ln	Hamburger SV	1:0	1:1	15.04.2019	20:30	2018	2019	29
+SpVgg Greuther FÃ¼rth	1. FC Union Berlin	0:1	1:1	20.04.2019	13:00	2018	2019	30
+MSV Duisburg	SV Sandhausen	0:1	2:2	20.04.2019	13:00	2018	2019	30
+Hamburger SV	Erzgebirge Aue	0:1	1:1	20.04.2019	13:00	2018	2019	30
+Holstein Kiel	SC Paderborn 07	0:0	1:2	20.04.2019	13:00	2018	2019	30
+Dynamo Dresden	1. FC KÃ¶ln	2:0	3:0	21.04.2019	13:30	2018	2019	30
+SV Darmstadt 98	VfL Bochum	0:0	0:0	21.04.2019	13:30	2018	2019	30
+Arminia Bielefeld	FC Ingolstadt 04	0:1	1:3	21.04.2019	13:30	2018	2019	30
+1. FC Heidenheim 1846	FC St. Pauli	3:0	3:0	21.04.2019	13:30	2018	2019	30
+Jahn Regensburg	1. FC Magdeburg	1:0	1:0	21.04.2019	13:30	2018	2019	30
+1. FC KÃ¶ln	SV Darmstadt 98	0:1	1:2	26.04.2019	18:30	2018	2019	31
+FC Ingolstadt 04	Dynamo Dresden	0:0	1:0	26.04.2019	18:30	2018	2019	31
+SV Sandhausen	Holstein Kiel	2:2	3:2	27.04.2019	13:00	2018	2019	31
+FC St. Pauli	Jahn Regensburg	1:2	4:3	27.04.2019	13:00	2018	2019	31
+1. FC Magdeburg	SpVgg Greuther FÃ¼rth	2:1	2:1	27.04.2019	13:00	2018	2019	31
+1. FC Union Berlin	Hamburger SV	0:0	2:0	28.04.2019	13:30	2018	2019	31
+Erzgebirge Aue	VfL Bochum	2:1	3:2	28.04.2019	13:30	2018	2019	31
+SC Paderborn 07	1. FC Heidenheim 1846	0:0	3:1	28.04.2019	13:30	2018	2019	31
+MSV Duisburg	Arminia Bielefeld	1:1	2:2	29.04.2019	20:30	2018	2019	31
+Dynamo Dresden	FC St. Pauli	1:0	2:1	03.05.2019	18:30	2018	2019	32
+Arminia Bielefeld	SC Paderborn 07	1:0	2:0	03.05.2019	18:30	2018	2019	32
+Hamburger SV	FC Ingolstadt 04	0:1	0:3	04.05.2019	13:00	2018	2019	32
+1. FC Heidenheim 1846	SV Sandhausen	1:0	2:3	04.05.2019	13:00	2018	2019	32
+VfL Bochum	1. FC Magdeburg	1:0	4:2	04.05.2019	13:00	2018	2019	32
+Holstein Kiel	MSV Duisburg	0:0	0:2	05.05.2019	13:30	2018	2019	32
+SV Darmstadt 98	1. FC Union Berlin	0:0	2:1	05.05.2019	13:30	2018	2019	32
+Jahn Regensburg	Erzgebirge Aue	0:0	1:3	05.05.2019	13:30	2018	2019	32
+SpVgg Greuther FÃ¼rth	1. FC KÃ¶ln	0:3	0:4	06.05.2019	20:30	2018	2019	32
+SC Paderborn 07	Hamburger SV	1:0	4:1	12.05.2019	15:30	2018	2019	33
+SV Sandhausen	Arminia Bielefeld	0:2	0:3	12.05.2019	15:30	2018	2019	33
+1. FC KÃ¶ln	Jahn Regensburg	0:3	3:5	12.05.2019	15:30	2018	2019	33
+FC St. Pauli	VfL Bochum	0:0	0:0	12.05.2019	15:30	2018	2019	33
+FC Ingolstadt 04	SV Darmstadt 98	2:0	3:0	12.05.2019	15:30	2018	2019	33
+MSV Duisburg	1. FC Heidenheim 1846	1:2	3:4	12.05.2019	15:30	2018	2019	33
+Holstein Kiel	Dynamo Dresden	1:0	3:0	12.05.2019	15:30	2018	2019	33
+Erzgebirge Aue	SpVgg Greuther FÃ¼rth	1:1	1:1	12.05.2019	15:30	2018	2019	33
+1. FC Union Berlin	1. FC Magdeburg	2:0	3:0	12.05.2019	15:30	2018	2019	33
+1. FC Magdeburg	1. FC KÃ¶ln	0:1	1:1	19.05.2019	15:30	2018	2019	34
+Arminia Bielefeld	Holstein Kiel	0:0	1:0	19.05.2019	15:30	2018	2019	34
+Hamburger SV	MSV Duisburg	1:0	3:0	19.05.2019	15:30	2018	2019	34
+VfL Bochum	1. FC Union Berlin	1:0	2:2	19.05.2019	15:30	2018	2019	34
+1. FC Heidenheim 1846	FC Ingolstadt 04	2:0	4:2	19.05.2019	15:30	2018	2019	34
+Jahn Regensburg	SV Sandhausen	1:1	2:2	19.05.2019	15:30	2018	2019	34
+SpVgg Greuther FÃ¼rth	FC St. Pauli	0:0	2:1	19.05.2019	15:30	2018	2019	34
+SV Darmstadt 98	Erzgebirge Aue	1:0	1:0	19.05.2019	15:30	2018	2019	34
+Dynamo Dresden	SC Paderborn 07	2:1	3:1	19.05.2019	15:30	2018	2019	34

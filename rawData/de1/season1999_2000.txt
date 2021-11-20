@@ -1,0 +1,306 @@
+VfL Wolfsburg	TSV 1860 MÃ¼nchen	0:1	2:1	13.08.1999	20:00	1999	2000	1
+MSV Duisburg	Bayer Leverkusen	0:0	0:0	13.08.1999	20:00	1999	2000	1
+1. FC Kaiserslautern	Borussia Dortmund	0:0	1:0	14.08.1999	15:30	1999	2000	1
+FC Schalke 04	Arminia Bielefeld	1:0	1:1	14.08.1999	15:30	1999	2000	1
+VfB Stuttgart	Werder Bremen	0:0	0:0	14.08.1999	15:30	1999	2000	1
+Bayern MÃ¼nchen	Hamburger SV	1:1	2:2	14.08.1999	15:30	1999	2000	1
+Eintracht Frankfurt	SpVgg Unterhaching	1:0	3:0	14.08.1999	15:30	1999	2000	1
+SSV Ulm 1846	SC Freiburg	0:1	1:1	15.08.1999	17:30	1999	2000	1
+Hertha BSC	Hansa Rostock	2:1	5:2	15.08.1999	17:30	1999	2000	1
+SpVgg Unterhaching	MSV Duisburg	0:0	2:0	20.08.1999	19:30	1999	2000	2
+Arminia Bielefeld	Hertha BSC	0:0	1:1	20.08.1999	20:00	1999	2000	2
+Hamburger SV	VfB Stuttgart	1:0	3:0	21.08.1999	15:30	1999	2000	2
+Werder Bremen	FC Schalke 04	0:0	0:1	21.08.1999	15:30	1999	2000	2
+Borussia Dortmund	VfL Wolfsburg	0:0	2:1	21.08.1999	15:30	1999	2000	2
+TSV 1860 MÃ¼nchen	SSV Ulm 1846	4:1	4:1	21.08.1999	15:30	1999	2000	2
+SC Freiburg	Eintracht Frankfurt	1:0	2:3	21.08.1999	15:30	1999	2000	2
+Hansa Rostock	1. FC Kaiserslautern	4:2	4:2	22.08.1999	17:30	1999	2000	2
+Bayer Leverkusen	Bayern MÃ¼nchen	0:0	2:0	22.08.1999	17:30	1999	2000	2
+1. FC Kaiserslautern	Arminia Bielefeld	0:0	0:2	27.08.1999	20:00	1999	2000	3
+FC Schalke 04	Hamburger SV	1:1	1:3	27.08.1999	20:00	1999	2000	3
+VfL Wolfsburg	Hansa Rostock	2:0	2:0	28.08.1999	15:30	1999	2000	3
+Hertha BSC	Werder Bremen	1:0	1:1	28.08.1999	15:30	1999	2000	3
+VfB Stuttgart	Bayer Leverkusen	1:1	1:2	28.08.1999	15:30	1999	2000	3
+Bayern MÃ¼nchen	SpVgg Unterhaching	1:0	1:0	28.08.1999	15:30	1999	2000	3
+SC Freiburg	TSV 1860 MÃ¼nchen	1:0	3:0	28.08.1999	15:30	1999	2000	3
+SSV Ulm 1846	Borussia Dortmund	0:1	0:1	29.08.1999	17:30	1999	2000	3
+Eintracht Frankfurt	MSV Duisburg	1:1	2:2	29.08.1999	17:30	1999	2000	3
+Arminia Bielefeld	VfL Wolfsburg	0:0	0:0	10.09.1999	20:00	1999	2000	4
+Hansa Rostock	SSV Ulm 1846	1:0	2:1	10.09.1999	20:00	1999	2000	4
+SpVgg Unterhaching	VfB Stuttgart	1:0	2:0	11.09.1999	15:30	1999	2000	4
+Hamburger SV	Hertha BSC	3:0	5:1	11.09.1999	15:30	1999	2000	4
+Borussia Dortmund	SC Freiburg	0:1	1:1	11.09.1999	15:30	1999	2000	4
+MSV Duisburg	Bayern MÃ¼nchen	0:2	1:2	11.09.1999	15:30	1999	2000	4
+Bayer Leverkusen	FC Schalke 04	0:1	3:2	11.09.1999	15:30	1999	2000	4
+Werder Bremen	1. FC Kaiserslautern	2:0	5:0	12.09.1999	17:30	1999	2000	4
+TSV 1860 MÃ¼nchen	Eintracht Frankfurt	1:0	2:0	12.09.1999	17:30	1999	2000	4
+TSV 1860 MÃ¼nchen	Borussia Dortmund	0:2	0:3	17.09.1999	20:00	1999	2000	5
+SC Freiburg	Hansa Rostock	4:0	5:0	17.09.1999	20:00	1999	2000	5
+SSV Ulm 1846	Arminia Bielefeld	2:0	2:0	18.09.1999	15:30	1999	2000	5
+Hertha BSC	Bayer Leverkusen	0:0	0:0	18.09.1999	15:30	1999	2000	5
+FC Schalke 04	SpVgg Unterhaching	0:0	1:0	18.09.1999	15:30	1999	2000	5
+VfB Stuttgart	MSV Duisburg	2:1	4:2	18.09.1999	15:30	1999	2000	5
+Eintracht Frankfurt	Bayern MÃ¼nchen	1:0	1:2	18.09.1999	20:00	1999	2000	5
+VfL Wolfsburg	Werder Bremen	2:3	2:7	19.09.1999	17:30	1999	2000	5
+1. FC Kaiserslautern	Hamburger SV	2:0	2:0	19.09.1999	17:30	1999	2000	5
+Hamburger SV	VfL Wolfsburg	1:1	2:2	24.09.1999	20:00	1999	2000	6
+Bayern MÃ¼nchen	VfB Stuttgart	0:0	0:1	24.09.1999	20:00	1999	2000	6
+SpVgg Unterhaching	Hertha BSC	0:1	1:1	25.09.1999	15:30	1999	2000	6
+Werder Bremen	SSV Ulm 1846	1:0	2:2	25.09.1999	15:30	1999	2000	6
+Hansa Rostock	TSV 1860 MÃ¼nchen	0:0	0:0	25.09.1999	15:30	1999	2000	6
+Borussia Dortmund	Eintracht Frankfurt	1:0	1:0	25.09.1999	15:30	1999	2000	6
+MSV Duisburg	FC Schalke 04	0:0	1:1	25.09.1999	15:30	1999	2000	6
+Arminia Bielefeld	SC Freiburg	0:1	2:1	26.09.1999	17:30	1999	2000	6
+Bayer Leverkusen	1. FC Kaiserslautern	0:1	3:1	26.09.1999	17:30	1999	2000	6
+TSV 1860 MÃ¼nchen	Arminia Bielefeld	1:0	5:0	01.10.1999	20:00	1999	2000	7
+Eintracht Frankfurt	VfB Stuttgart	0:0	0:1	01.10.1999	20:00	1999	2000	7
+SSV Ulm 1846	Hamburger SV	0:0	1:2	02.10.1999	15:30	1999	2000	7
+VfL Wolfsburg	Bayer Leverkusen	1:0	3:1	02.10.1999	15:30	1999	2000	7
+Hertha BSC	MSV Duisburg	0:0	2:1	02.10.1999	15:30	1999	2000	7
+FC Schalke 04	Bayern MÃ¼nchen	0:0	1:1	02.10.1999	15:30	1999	2000	7
+Borussia Dortmund	Hansa Rostock	0:0	3:0	02.10.1999	15:30	1999	2000	7
+1. FC Kaiserslautern	SpVgg Unterhaching	1:1	4:2	03.10.1999	17:30	1999	2000	7
+SC Freiburg	Werder Bremen	1:0	2:1	03.10.1999	17:30	1999	2000	7
+Arminia Bielefeld	Borussia Dortmund	0:0	0:2	15.10.1999	20:00	1999	2000	8
+Bayer Leverkusen	SSV Ulm 1846	3:0	4:1	15.10.1999	20:00	1999	2000	8
+Hamburger SV	SC Freiburg	1:0	2:0	16.10.1999	15:30	1999	2000	8
+Werder Bremen	TSV 1860 MÃ¼nchen	0:1	1:3	16.10.1999	15:30	1999	2000	8
+Hansa Rostock	Eintracht Frankfurt	1:0	3:1	16.10.1999	15:30	1999	2000	8
+Bayern MÃ¼nchen	Hertha BSC	2:0	3:1	16.10.1999	15:30	1999	2000	8
+MSV Duisburg	1. FC Kaiserslautern	0:2	2:2	16.10.1999	15:30	1999	2000	8
+SpVgg Unterhaching	VfL Wolfsburg	0:0	1:1	17.10.1999	17:30	1999	2000	8
+VfB Stuttgart	FC Schalke 04	0:0	0:2	17.10.1999	17:30	1999	2000	8
+Hansa Rostock	Arminia Bielefeld	1:0	2:1	22.10.1999	20:00	1999	2000	9
+Eintracht Frankfurt	FC Schalke 04	0:0	0:2	22.10.1999	20:00	1999	2000	9
+SSV Ulm 1846	SpVgg Unterhaching	1:0	1:0	23.10.1999	15:30	1999	2000	9
+1. FC Kaiserslautern	Bayern MÃ¼nchen	0:0	0:2	23.10.1999	15:30	1999	2000	9
+Hertha BSC	VfB Stuttgart	1:0	1:1	23.10.1999	15:30	1999	2000	9
+TSV 1860 MÃ¼nchen	Hamburger SV	0:0	0:0	23.10.1999	15:30	1999	2000	9
+SC Freiburg	Bayer Leverkusen	0:0	0:0	23.10.1999	15:30	1999	2000	9
+VfL Wolfsburg	MSV Duisburg	0:0	1:0	24.10.1999	17:30	1999	2000	9
+Borussia Dortmund	Werder Bremen	0:2	1:3	24.10.1999	17:30	1999	2000	9
+Arminia Bielefeld	Eintracht Frankfurt	0:0	1:1	29.10.1999	19:30	1999	2000	10
+Werder Bremen	Hansa Rostock	1:0	2:1	29.10.1999	20:00	1999	2000	10
+Hamburger SV	Borussia Dortmund	0:0	1:1	30.10.1999	15:30	1999	2000	10
+FC Schalke 04	Hertha BSC	1:1	1:1	30.10.1999	15:30	1999	2000	10
+Bayern MÃ¼nchen	VfL Wolfsburg	3:0	5:0	30.10.1999	15:30	1999	2000	10
+MSV Duisburg	SSV Ulm 1846	0:0	0:0	30.10.1999	15:30	1999	2000	10
+Bayer Leverkusen	TSV 1860 MÃ¼nchen	0:0	1:1	30.10.1999	15:30	1999	2000	10
+SpVgg Unterhaching	SC Freiburg	0:0	1:0	31.10.1999	17:30	1999	2000	10
+VfB Stuttgart	1. FC Kaiserslautern	0:1	0:1	31.10.1999	17:30	1999	2000	10
+Hansa Rostock	Hamburger SV	2:1	3:3	05.11.1999	20:00	1999	2000	11
+SC Freiburg	MSV Duisburg	2:0	3:0	05.11.1999	20:00	1999	2000	11
+SSV Ulm 1846	Bayern MÃ¼nchen	0:1	0:1	06.11.1999	15:30	1999	2000	11
+VfL Wolfsburg	VfB Stuttgart	0:1	0:2	06.11.1999	15:30	1999	2000	11
+Borussia Dortmund	Bayer Leverkusen	1:1	1:1	06.11.1999	15:30	1999	2000	11
+TSV 1860 MÃ¼nchen	SpVgg Unterhaching	1:0	2:1	06.11.1999	15:30	1999	2000	11
+Eintracht Frankfurt	Hertha BSC	3:0	4:0	06.11.1999	15:30	1999	2000	11
+1. FC Kaiserslautern	FC Schalke 04	0:1	2:1	07.11.1999	17:30	1999	2000	11
+Arminia Bielefeld	Werder Bremen	1:0	2:2	07.11.1999	17:30	1999	2000	11
+Werder Bremen	Eintracht Frankfurt	1:1	3:1	19.11.1999	20:00	1999	2000	12
+Hertha BSC	1. FC Kaiserslautern	0:1	0:1	20.11.1999	15:30	1999	2000	12
+FC Schalke 04	VfL Wolfsburg	1:1	1:1	20.11.1999	15:30	1999	2000	12
+VfB Stuttgart	SSV Ulm 1846	1:0	2:0	20.11.1999	15:30	1999	2000	12
+Bayern MÃ¼nchen	SC Freiburg	3:1	6:1	20.11.1999	15:30	1999	2000	12
+Bayer Leverkusen	Hansa Rostock	1:1	1:1	20.11.1999	15:30	1999	2000	12
+Hamburger SV	Arminia Bielefeld	2:0	5:0	21.11.1999	17:30	1999	2000	12
+MSV Duisburg	TSV 1860 MÃ¼nchen	1:0	3:0	21.11.1999	18:00	1999	2000	12
+SpVgg Unterhaching	Borussia Dortmund	1:0	1:0	01.12.1999	19:00	1999	2000	12
+SSV Ulm 1846	FC Schalke 04	1:0	1:1	26.11.1999	20:00	1999	2000	13
+SC Freiburg	VfB Stuttgart	0:1	0:2	26.11.1999	20:00	1999	2000	13
+VfL Wolfsburg	Hertha BSC	2:1	2:3	27.11.1999	15:30	1999	2000	13
+Arminia Bielefeld	Bayer Leverkusen	0:1	1:2	27.11.1999	15:30	1999	2000	13
+Hansa Rostock	SpVgg Unterhaching	1:0	1:1	27.11.1999	15:30	1999	2000	13
+TSV 1860 MÃ¼nchen	Bayern MÃ¼nchen	0:0	1:0	27.11.1999	15:30	1999	2000	13
+Eintracht Frankfurt	1. FC Kaiserslautern	0:1	0:1	28.11.1999	17:25	1999	2000	13
+Werder Bremen	Hamburger SV	0:0	2:1	28.11.1999	17:30	1999	2000	13
+Borussia Dortmund	MSV Duisburg	1:2	2:2	28.11.1999	17:30	1999	2000	13
+Hamburger SV	Eintracht Frankfurt	0:0	1:0	03.12.1999	20:00	1999	2000	14
+MSV Duisburg	Hansa Rostock	1:1	2:2	03.12.1999	20:00	1999	2000	14
+Hertha BSC	SSV Ulm 1846	1:0	3:0	04.12.1999	15:30	1999	2000	14
+FC Schalke 04	SC Freiburg	1:1	2:2	04.12.1999	15:30	1999	2000	14
+VfB Stuttgart	TSV 1860 MÃ¼nchen	0:1	1:3	04.12.1999	15:30	1999	2000	14
+Bayer Leverkusen	Werder Bremen	1:1	3:2	04.12.1999	15:30	1999	2000	14
+Bayern MÃ¼nchen	Borussia Dortmund	1:0	1:1	04.12.1999	19:55	1999	2000	14
+SpVgg Unterhaching	Arminia Bielefeld	1:0	2:0	05.12.1999	17:30	1999	2000	14
+1. FC Kaiserslautern	VfL Wolfsburg	2:0	2:2	05.12.1999	17:30	1999	2000	14
+Werder Bremen	SpVgg Unterhaching	2:0	2:2	10.12.1999	20:00	1999	2000	15
+Arminia Bielefeld	MSV Duisburg	0:0	0:1	10.12.1999	20:00	1999	2000	15
+Hansa Rostock	Bayern MÃ¼nchen	0:1	0:3	11.12.1999	15:30	1999	2000	15
+Borussia Dortmund	VfB Stuttgart	1:1	1:1	11.12.1999	15:30	1999	2000	15
+TSV 1860 MÃ¼nchen	FC Schalke 04	1:2	3:3	11.12.1999	15:30	1999	2000	15
+SC Freiburg	Hertha BSC	0:0	0:1	11.12.1999	15:30	1999	2000	15
+VfL Wolfsburg	Eintracht Frankfurt	0:0	1:0	12.12.1999	17:25	1999	2000	15
+SSV Ulm 1846	1. FC Kaiserslautern	3:0	3:1	12.12.1999	17:30	1999	2000	15
+Bayer Leverkusen	Hamburger SV	1:1	2:2	12.12.1999	17:30	1999	2000	15
+VfB Stuttgart	Hansa Rostock	0:0	3:1	14.12.1999	19:30	1999	2000	16
+Hertha BSC	TSV 1860 MÃ¼nchen	0:0	1:1	14.12.1999	20:00	1999	2000	16
+Bayern MÃ¼nchen	Arminia Bielefeld	1:1	2:1	14.12.1999	20:00	1999	2000	16
+MSV Duisburg	Werder Bremen	0:1	0:1	14.12.1999	20:00	1999	2000	16
+SpVgg Unterhaching	Hamburger SV	0:1	1:1	15.12.1999	20:00	1999	2000	16
+VfL Wolfsburg	SSV Ulm 1846	0:1	1:2	15.12.1999	20:00	1999	2000	16
+1. FC Kaiserslautern	SC Freiburg	0:0	0:2	15.12.1999	20:00	1999	2000	16
+FC Schalke 04	Borussia Dortmund	0:0	0:0	15.12.1999	20:00	1999	2000	16
+Eintracht Frankfurt	Bayer Leverkusen	1:0	1:2	15.12.1999	20:00	1999	2000	16
+Werder Bremen	Bayern MÃ¼nchen	0:0	0:2	17.12.1999	20:00	1999	2000	17
+Arminia Bielefeld	VfB Stuttgart	0:0	1:2	17.12.1999	20:00	1999	2000	17
+SSV Ulm 1846	Eintracht Frankfurt	1:0	3:0	18.12.1999	15:30	1999	2000	17
+Hamburger SV	MSV Duisburg	5:1	6:1	18.12.1999	15:30	1999	2000	17
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	1:1	2:1	18.12.1999	15:30	1999	2000	17
+SC Freiburg	VfL Wolfsburg	0:1	1:1	18.12.1999	15:30	1999	2000	17
+Bayer Leverkusen	SpVgg Unterhaching	0:0	2:1	18.12.1999	17:30	1999	2000	17
+Hansa Rostock	FC Schalke 04	0:0	1:0	19.12.1999	17:30	1999	2000	17
+Borussia Dortmund	Hertha BSC	3:0	4:0	19.12.1999	20:00	1999	2000	17
+Borussia Dortmund	1. FC Kaiserslautern	0:0	0:1	04.02.2000	20:00	1999	2000	18
+Hansa Rostock	Hertha BSC	0:0	0:1	04.02.2000	20:00	1999	2000	18
+SC Freiburg	SSV Ulm 1846	1:0	2:0	05.02.2000	15:30	1999	2000	18
+TSV 1860 MÃ¼nchen	VfL Wolfsburg	1:1	1:2	05.02.2000	15:30	1999	2000	18
+Arminia Bielefeld	FC Schalke 04	0:1	1:2	05.02.2000	15:30	1999	2000	18
+Werder Bremen	VfB Stuttgart	2:0	2:1	05.02.2000	15:30	1999	2000	18
+Bayer Leverkusen	MSV Duisburg	2:0	3:0	05.02.2000	15:30	1999	2000	18
+SpVgg Unterhaching	Eintracht Frankfurt	0:0	1:0	06.02.2000	15:30	1999	2000	18
+Hamburger SV	Bayern MÃ¼nchen	0:0	0:0	06.02.2000	20:00	1999	2000	18
+FC Schalke 04	Werder Bremen	1:1	3:1	08.02.2000	20:00	1999	2000	19
+Hertha BSC	Arminia Bielefeld	0:0	2:0	08.02.2000	20:00	1999	2000	19
+1. FC Kaiserslautern	Hansa Rostock	0:1	2:2	08.02.2000	20:00	1999	2000	19
+SSV Ulm 1846	TSV 1860 MÃ¼nchen	2:0	3:0	08.02.2000	20:00	1999	2000	19
+MSV Duisburg	SpVgg Unterhaching	2:0	2:0	09.02.2000	19:30	1999	2000	19
+VfB Stuttgart	Hamburger SV	0:0	1:3	09.02.2000	19:30	1999	2000	19
+VfL Wolfsburg	Borussia Dortmund	1:0	1:0	09.02.2000	20:00	1999	2000	19
+Eintracht Frankfurt	SC Freiburg	1:0	2:0	09.02.2000	20:00	1999	2000	19
+Bayern MÃ¼nchen	Bayer Leverkusen	2:0	4:1	09.02.2000	20:00	1999	2000	19
+Arminia Bielefeld	1. FC Kaiserslautern	1:1	1:2	11.02.2000	19:30	1999	2000	20
+Werder Bremen	Hertha BSC	3:0	4:1	11.02.2000	20:00	1999	2000	20
+Borussia Dortmund	SSV Ulm 1846	1:0	1:1	12.02.2000	15:30	1999	2000	20
+Hansa Rostock	VfL Wolfsburg	1:0	1:1	12.02.2000	15:30	1999	2000	20
+Bayer Leverkusen	VfB Stuttgart	0:0	1:0	12.02.2000	15:30	1999	2000	20
+SpVgg Unterhaching	Bayern MÃ¼nchen	0:0	0:2	12.02.2000	15:30	1999	2000	20
+MSV Duisburg	Eintracht Frankfurt	1:2	2:3	12.02.2000	15:30	1999	2000	20
+Hamburger SV	FC Schalke 04	0:1	3:1	13.02.2000	17:30	1999	2000	20
+TSV 1860 MÃ¼nchen	SC Freiburg	1:1	3:1	13.02.2000	17:30	1999	2000	20
+Hertha BSC	Hamburger SV	0:0	2:1	18.02.2000	20:00	1999	2000	21
+FC Schalke 04	Bayer Leverkusen	1:1	1:1	18.02.2000	20:00	1999	2000	21
+VfB Stuttgart	SpVgg Unterhaching	0:0	0:2	19.02.2000	15:30	1999	2000	21
+1. FC Kaiserslautern	Werder Bremen	1:2	4:3	19.02.2000	15:30	1999	2000	21
+SC Freiburg	Borussia Dortmund	1:1	1:1	19.02.2000	15:30	1999	2000	21
+Eintracht Frankfurt	TSV 1860 MÃ¼nchen	2:1	3:1	19.02.2000	15:30	1999	2000	21
+Bayern MÃ¼nchen	MSV Duisburg	0:0	4:1	19.02.2000	15:30	1999	2000	21
+VfL Wolfsburg	Arminia Bielefeld	1:0	2:0	20.02.2000	17:30	1999	2000	21
+SSV Ulm 1846	Hansa Rostock	0:1	1:1	20.02.2000	17:30	1999	2000	21
+Hansa Rostock	SC Freiburg	0:0	1:1	25.02.2000	20:00	1999	2000	22
+Werder Bremen	VfL Wolfsburg	1:1	2:2	26.02.2000	15:30	1999	2000	22
+Hamburger SV	1. FC Kaiserslautern	1:0	2:1	26.02.2000	15:30	1999	2000	22
+Bayer Leverkusen	Hertha BSC	3:1	3:1	26.02.2000	15:30	1999	2000	22
+MSV Duisburg	VfB Stuttgart	1:2	1:3	26.02.2000	15:30	1999	2000	22
+Bayern MÃ¼nchen	Eintracht Frankfurt	1:0	4:1	26.02.2000	15:30	1999	2000	22
+SpVgg Unterhaching	FC Schalke 04	0:1	3:1	27.02.2000	17:30	1999	2000	22
+Borussia Dortmund	TSV 1860 MÃ¼nchen	0:0	1:1	27.02.2000	17:30	1999	2000	22
+Arminia Bielefeld	SSV Ulm 1846	3:1	4:1	28.02.2000	19:30	1999	2000	22
+SC Freiburg	Arminia Bielefeld	0:1	1:1	03.03.2000	19:30	1999	2000	23
+VfL Wolfsburg	Hamburger SV	1:3	4:4	03.03.2000	20:00	1999	2000	23
+Hertha BSC	SpVgg Unterhaching	0:1	2:1	04.03.2000	15:30	1999	2000	23
+TSV 1860 MÃ¼nchen	Hansa Rostock	1:1	4:3	04.03.2000	15:30	1999	2000	23
+VfB Stuttgart	Bayern MÃ¼nchen	0:0	2:0	04.03.2000	15:30	1999	2000	23
+FC Schalke 04	MSV Duisburg	1:0	3:0	04.03.2000	15:30	1999	2000	23
+1. FC Kaiserslautern	Bayer Leverkusen	1:2	1:3	04.03.2000	15:30	1999	2000	23
+SSV Ulm 1846	Werder Bremen	1:0	2:1	05.03.2000	17:30	1999	2000	23
+Eintracht Frankfurt	Borussia Dortmund	0:1	1:1	05.03.2000	17:30	1999	2000	23
+SpVgg Unterhaching	1. FC Kaiserslautern	0:2	1:2	10.03.2000	20:00	1999	2000	24
+VfB Stuttgart	Eintracht Frankfurt	0:0	0:2	10.03.2000	20:00	1999	2000	24
+Hamburger SV	SSV Ulm 1846	0:1	1:2	11.03.2000	15:30	1999	2000	24
+Bayer Leverkusen	VfL Wolfsburg	1:0	4:1	11.03.2000	15:30	1999	2000	24
+MSV Duisburg	Hertha BSC	0:0	0:0	11.03.2000	15:30	1999	2000	24
+Bayern MÃ¼nchen	FC Schalke 04	1:0	4:1	11.03.2000	15:30	1999	2000	24
+Arminia Bielefeld	TSV 1860 MÃ¼nchen	2:0	2:2	11.03.2000	15:30	1999	2000	24
+Hansa Rostock	Borussia Dortmund	0:0	1:0	12.03.2000	17:30	1999	2000	24
+Werder Bremen	SC Freiburg	2:1	5:2	12.03.2000	17:30	1999	2000	24
+VfL Wolfsburg	SpVgg Unterhaching	1:0	2:2	17.03.2000	20:00	1999	2000	25
+Eintracht Frankfurt	Hansa Rostock	0:0	0:0	17.03.2000	20:00	1999	2000	25
+SC Freiburg	Hamburger SV	0:1	0:2	18.03.2000	15:30	1999	2000	25
+FC Schalke 04	VfB Stuttgart	0:0	3:0	18.03.2000	15:30	1999	2000	25
+Hertha BSC	Bayern MÃ¼nchen	0:1	1:1	18.03.2000	15:30	1999	2000	25
+1. FC Kaiserslautern	MSV Duisburg	1:0	3:2	18.03.2000	15:30	1999	2000	25
+SSV Ulm 1846	Bayer Leverkusen	0:4	1:9	18.03.2000	15:30	1999	2000	25
+TSV 1860 MÃ¼nchen	Werder Bremen	0:0	1:0	19.03.2000	17:30	1999	2000	25
+Borussia Dortmund	Arminia Bielefeld	1:2	1:3	19.03.2000	17:30	1999	2000	25
+SpVgg Unterhaching	SSV Ulm 1846	0:0	1:0	24.03.2000	20:00	1999	2000	26
+Arminia Bielefeld	Hansa Rostock	0:1	2:2	24.03.2000	20:00	1999	2000	26
+MSV Duisburg	VfL Wolfsburg	1:0	2:3	25.03.2000	15:30	1999	2000	26
+Bayern MÃ¼nchen	1. FC Kaiserslautern	1:2	2:2	25.03.2000	15:30	1999	2000	26
+VfB Stuttgart	Hertha BSC	0:0	1:0	25.03.2000	15:30	1999	2000	26
+Hamburger SV	TSV 1860 MÃ¼nchen	1:0	2:0	25.03.2000	15:30	1999	2000	26
+Bayer Leverkusen	SC Freiburg	0:1	1:1	25.03.2000	15:30	1999	2000	26
+Werder Bremen	Borussia Dortmund	2:1	3:2	26.03.2000	17:30	1999	2000	26
+FC Schalke 04	Eintracht Frankfurt	0:0	0:0	26.03.2000	17:30	1999	2000	26
+SC Freiburg	SpVgg Unterhaching	1:1	4:3	31.03.2000	20:00	1999	2000	27
+SSV Ulm 1846	MSV Duisburg	0:2	0:3	31.03.2000	20:00	1999	2000	27
+Borussia Dortmund	Hamburger SV	0:0	0:1	01.04.2000	15:30	1999	2000	27
+Eintracht Frankfurt	Arminia Bielefeld	1:0	2:1	01.04.2000	15:30	1999	2000	27
+Hertha BSC	FC Schalke 04	1:1	2:1	01.04.2000	15:30	1999	2000	27
+VfL Wolfsburg	Bayern MÃ¼nchen	0:1	1:1	01.04.2000	15:30	1999	2000	27
+TSV 1860 MÃ¼nchen	Bayer Leverkusen	0:0	1:2	01.04.2000	15:30	1999	2000	27
+Hansa Rostock	Werder Bremen	1:1	1:1	02.04.2000	17:30	1999	2000	27
+1. FC Kaiserslautern	VfB Stuttgart	1:1	1:2	02.04.2000	17:30	1999	2000	27
+Hamburger SV	Hansa Rostock	1:0	1:0	07.04.2000	20:00	1999	2000	28
+SpVgg Unterhaching	TSV 1860 MÃ¼nchen	0:0	1:1	07.04.2000	20:00	1999	2000	28
+Bayern MÃ¼nchen	SSV Ulm 1846	2:0	4:0	08.04.2000	15:30	1999	2000	28
+VfB Stuttgart	VfL Wolfsburg	2:2	2:5	08.04.2000	15:30	1999	2000	28
+FC Schalke 04	1. FC Kaiserslautern	1:2	1:2	08.04.2000	15:30	1999	2000	28
+Bayer Leverkusen	Borussia Dortmund	1:1	3:1	08.04.2000	15:30	1999	2000	28
+Hertha BSC	Eintracht Frankfurt	1:0	1:0	08.04.2000	15:30	1999	2000	28
+Werder Bremen	Arminia Bielefeld	2:0	3:1	09.04.2000	17:30	1999	2000	28
+MSV Duisburg	SC Freiburg	0:0	1:2	09.04.2000	17:30	1999	2000	28
+Borussia Dortmund	SpVgg Unterhaching	1:1	1:3	11.04.2000	20:00	1999	2000	29
+1. FC Kaiserslautern	Hertha BSC	1:1	1:2	11.04.2000	20:00	1999	2000	29
+VfL Wolfsburg	FC Schalke 04	0:0	0:0	11.04.2000	20:00	1999	2000	29
+SSV Ulm 1846	VfB Stuttgart	0:1	1:1	11.04.2000	20:00	1999	2000	29
+Arminia Bielefeld	Hamburger SV	1:0	3:0	12.04.2000	19:30	1999	2000	29
+Eintracht Frankfurt	Werder Bremen	0:0	1:0	12.04.2000	20:00	1999	2000	29
+SC Freiburg	Bayern MÃ¼nchen	1:1	1:2	12.04.2000	20:00	1999	2000	29
+TSV 1860 MÃ¼nchen	MSV Duisburg	3:0	4:1	12.04.2000	20:00	1999	2000	29
+Hansa Rostock	Bayer Leverkusen	1:0	1:1	12.04.2000	20:00	1999	2000	29
+FC Schalke 04	SSV Ulm 1846	0:0	0:0	14.04.2000	20:00	1999	2000	30
+Hertha BSC	VfL Wolfsburg	0:0	0:0	14.04.2000	20:00	1999	2000	30
+Hamburger SV	Werder Bremen	0:0	0:0	15.04.2000	15:30	1999	2000	30
+MSV Duisburg	Borussia Dortmund	2:2	2:2	15.04.2000	15:30	1999	2000	30
+Bayern MÃ¼nchen	TSV 1860 MÃ¼nchen	1:2	1:2	15.04.2000	15:30	1999	2000	30
+VfB Stuttgart	SC Freiburg	0:0	1:0	15.04.2000	15:30	1999	2000	30
+1. FC Kaiserslautern	Eintracht Frankfurt	0:0	1:0	15.04.2000	15:30	1999	2000	30
+Bayer Leverkusen	Arminia Bielefeld	3:0	4:1	16.04.2000	17:30	1999	2000	30
+SpVgg Unterhaching	Hansa Rostock	0:0	1:1	16.04.2000	17:30	1999	2000	30
+Eintracht Frankfurt	Hamburger SV	1:0	3:0	20.04.2000	20:00	1999	2000	31
+Werder Bremen	Bayer Leverkusen	0:3	1:3	20.04.2000	20:00	1999	2000	31
+VfL Wolfsburg	1. FC Kaiserslautern	0:2	3:2	22.04.2000	15:30	1999	2000	31
+SSV Ulm 1846	Hertha BSC	0:0	0:1	22.04.2000	15:30	1999	2000	31
+SC Freiburg	FC Schalke 04	1:1	2:1	22.04.2000	15:30	1999	2000	31
+TSV 1860 MÃ¼nchen	VfB Stuttgart	0:0	1:1	22.04.2000	15:30	1999	2000	31
+Hansa Rostock	MSV Duisburg	2:0	3:1	22.04.2000	15:30	1999	2000	31
+Arminia Bielefeld	SpVgg Unterhaching	0:0	1:0	23.04.2000	17:30	1999	2000	31
+Borussia Dortmund	Bayern MÃ¼nchen	0:1	0:1	23.04.2000	20:00	1999	2000	31
+MSV Duisburg	Arminia Bielefeld	0:2	0:3	27.04.2000	19:30	1999	2000	32
+Eintracht Frankfurt	VfL Wolfsburg	2:0	4:0	28.04.2000	20:00	1999	2000	32
+Hertha BSC	SC Freiburg	0:0	0:0	28.04.2000	20:00	1999	2000	32
+1. FC Kaiserslautern	SSV Ulm 1846	1:1	6:2	29.04.2000	15:30	1999	2000	32
+Bayern MÃ¼nchen	Hansa Rostock	0:1	4:1	29.04.2000	15:30	1999	2000	32
+VfB Stuttgart	Borussia Dortmund	0:1	1:2	29.04.2000	15:30	1999	2000	32
+FC Schalke 04	TSV 1860 MÃ¼nchen	2:1	2:2	29.04.2000	15:30	1999	2000	32
+SpVgg Unterhaching	Werder Bremen	0:0	1:0	30.04.2000	17:30	1999	2000	32
+Hamburger SV	Bayer Leverkusen	0:2	0:2	30.04.2000	17:30	1999	2000	32
+Hamburger SV	SpVgg Unterhaching	1:0	3:0	13.05.2000	15:30	1999	2000	33
+SSV Ulm 1846	VfL Wolfsburg	1:0	2:0	13.05.2000	15:30	1999	2000	33
+SC Freiburg	1. FC Kaiserslautern	1:1	2:1	13.05.2000	15:30	1999	2000	33
+TSV 1860 MÃ¼nchen	Hertha BSC	1:0	2:1	13.05.2000	15:30	1999	2000	33
+Borussia Dortmund	FC Schalke 04	0:0	1:1	13.05.2000	15:30	1999	2000	33
+Hansa Rostock	VfB Stuttgart	0:2	1:4	13.05.2000	15:30	1999	2000	33
+Arminia Bielefeld	Bayern MÃ¼nchen	0:3	0:3	13.05.2000	15:30	1999	2000	33
+Werder Bremen	MSV Duisburg	2:0	4:0	13.05.2000	15:30	1999	2000	33
+Bayer Leverkusen	Eintracht Frankfurt	1:1	4:1	13.05.2000	15:30	1999	2000	33
+Eintracht Frankfurt	SSV Ulm 1846	1:1	2:1	20.05.2000	15:30	1999	2000	34
+MSV Duisburg	Hamburger SV	1:1	1:1	20.05.2000	15:30	1999	2000	34
+Bayern MÃ¼nchen	Werder Bremen	3:1	3:1	20.05.2000	15:30	1999	2000	34
+VfB Stuttgart	Arminia Bielefeld	3:1	3:3	20.05.2000	15:30	1999	2000	34
+FC Schalke 04	Hansa Rostock	0:1	0:2	20.05.2000	15:30	1999	2000	34
+Hertha BSC	Borussia Dortmund	0:0	0:3	20.05.2000	15:30	1999	2000	34
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	0:0	1:1	20.05.2000	15:30	1999	2000	34
+VfL Wolfsburg	SC Freiburg	1:0	2:1	20.05.2000	15:30	1999	2000	34
+SpVgg Unterhaching	Bayer Leverkusen	1:0	2:0	20.05.2000	15:30	1999	2000	34

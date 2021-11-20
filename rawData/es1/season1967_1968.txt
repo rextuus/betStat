@@ -1,0 +1,240 @@
+AtlÃ©tico Madrid	CE Sabadell	0:0	2:0	09.09.1967	00:00	1967	1968	1
+Athletic Bilbao	CÃ³rdoba CF	2:0	3:0	09.09.1967	00:00	1967	1968	1
+Valencia CF	Real Betis	1:0	2:1	09.09.1967	00:00	1967	1968	1
+Sevilla FC	Real Madrid	0:0	0:2	10.09.1967	00:00	1967	1968	1
+Real Zaragoza	FC Barcelona	1:2	3:2	10.09.1967	00:00	1967	1968	1
+UD Las Palmas	CD MÃ¡laga	1:0	1:1	10.09.1967	00:00	1967	1968	1
+Espanyol Barcelona	Elche CF	0:0	1:1	10.09.1967	00:00	1967	1968	1
+Real Sociedad	Pontevedra CF	1:0	1:0	10.09.1967	00:00	1967	1968	1
+Elche CF	Athletic Bilbao	1:0	1:0	16.09.1967	00:00	1967	1968	2
+Real Madrid	Real Sociedad	2:0	9:1	16.09.1967	00:00	1967	1968	2
+CÃ³rdoba CF	AtlÃ©tico Madrid	0:1	0:1	17.09.1967	00:00	1967	1968	2
+Real Betis	UD Las Palmas	4:1	4:2	17.09.1967	00:00	1967	1968	2
+CD MÃ¡laga	Sevilla FC	0:0	0:0	17.09.1967	00:00	1967	1968	2
+FC Barcelona	Espanyol Barcelona	0:0	1:0	17.09.1967	00:00	1967	1968	2
+CE Sabadell	Valencia CF	1:0	2:0	17.09.1967	00:00	1967	1968	2
+Pontevedra CF	Real Zaragoza	1:0	1:0	17.09.1967	00:00	1967	1968	2
+Valencia CF	CÃ³rdoba CF	5:0	5:0	23.09.1967	00:00	1967	1968	3
+Athletic Bilbao	FC Barcelona	0:0	0:0	24.09.1967	00:00	1967	1968	3
+Espanyol Barcelona	Pontevedra CF	2:0	4:1	24.09.1967	00:00	1967	1968	3
+Real Betis	CE Sabadell	1:2	2:3	24.09.1967	00:00	1967	1968	3
+AtlÃ©tico Madrid	Elche CF	2:0	2:1	24.09.1967	00:00	1967	1968	3
+UD Las Palmas	Sevilla FC	2:1	4:1	24.09.1967	00:00	1967	1968	3
+Real Zaragoza	Real Madrid	0:0	0:0	24.09.1967	00:00	1967	1968	3
+Real Sociedad	CD MÃ¡laga	0:0	0:0	24.09.1967	00:00	1967	1968	3
+Real Madrid	Espanyol Barcelona	0:1	2:2	07.10.1967	00:00	1967	1968	4
+Sevilla FC	Real Sociedad	0:0	0:0	08.10.1967	00:00	1967	1968	4
+CD MÃ¡laga	Real Zaragoza	2:2	2:2	08.10.1967	00:00	1967	1968	4
+CÃ³rdoba CF	Real Betis	2:0	3:0	08.10.1967	00:00	1967	1968	4
+Elche CF	Valencia CF	1:0	1:0	08.10.1967	00:00	1967	1968	4
+Pontevedra CF	Athletic Bilbao	0:0	1:1	08.10.1967	00:00	1967	1968	4
+FC Barcelona	AtlÃ©tico Madrid	0:0	1:1	08.10.1967	00:00	1967	1968	4
+UD Las Palmas	CE Sabadell	0:0	1:0	08.10.1967	00:00	1967	1968	4
+Real Zaragoza	Sevilla FC	1:1	1:1	15.10.1967	00:00	1967	1968	5
+AtlÃ©tico Madrid	Pontevedra CF	1:0	3:0	15.10.1967	00:00	1967	1968	5
+CE Sabadell	CÃ³rdoba CF	1:0	2:1	15.10.1967	00:00	1967	1968	5
+Real Betis	Elche CF	1:0	1:0	15.10.1967	00:00	1967	1968	5
+Real Sociedad	UD Las Palmas	0:1	0:1	15.10.1967	00:00	1967	1968	5
+Valencia CF	FC Barcelona	0:2	1:2	15.10.1967	00:00	1967	1968	5
+Athletic Bilbao	Real Madrid	1:0	1:2	15.10.1967	00:00	1967	1968	5
+Espanyol Barcelona	CD MÃ¡laga	3:0	4:1	15.10.1967	00:00	1967	1968	5
+Pontevedra CF	Valencia CF	0:0	1:0	29.10.1967	00:00	1967	1968	6
+CÃ³rdoba CF	UD Las Palmas	2:1	2:1	29.10.1967	00:00	1967	1968	6
+FC Barcelona	Real Betis	1:0	2:1	29.10.1967	00:00	1967	1968	6
+Elche CF	CE Sabadell	0:0	1:1	29.10.1967	00:00	1967	1968	6
+Sevilla FC	Espanyol Barcelona	2:0	3:0	29.10.1967	00:00	1967	1968	6
+CD MÃ¡laga	Athletic Bilbao	1:0	2:2	29.10.1967	00:00	1967	1968	6
+Real Sociedad	Real Zaragoza	1:0	2:0	29.10.1967	00:00	1967	1968	6
+Real Madrid	AtlÃ©tico Madrid	0:0	0:0	29.10.1967	00:00	1967	1968	6
+Espanyol Barcelona	Real Sociedad	0:0	2:0	05.11.1967	00:00	1967	1968	7
+Real Betis	Pontevedra CF	0:1	0:1	05.11.1967	00:00	1967	1968	7
+CÃ³rdoba CF	Elche CF	1:0	3:0	05.11.1967	00:00	1967	1968	7
+UD Las Palmas	Real Zaragoza	2:1	2:1	05.11.1967	00:00	1967	1968	7
+Athletic Bilbao	Sevilla FC	2:0	2:0	05.11.1967	00:00	1967	1968	7
+CE Sabadell	FC Barcelona	0:0	1:1	05.11.1967	00:00	1967	1968	7
+Valencia CF	Real Madrid	0:0	2:0	05.11.1967	00:00	1967	1968	7
+AtlÃ©tico Madrid	CD MÃ¡laga	1:1	4:2	05.11.1967	00:00	1967	1968	7
+Real Zaragoza	Espanyol Barcelona	2:0	4:2	11.11.1967	00:00	1967	1968	8
+Real Madrid	Real Betis	1:0	3:0	11.11.1967	00:00	1967	1968	8
+Sevilla FC	AtlÃ©tico Madrid	0:1	0:2	12.11.1967	00:00	1967	1968	8
+CD MÃ¡laga	Valencia CF	0:0	0:0	12.11.1967	00:00	1967	1968	8
+FC Barcelona	CÃ³rdoba CF	1:1	3:2	12.11.1967	00:00	1967	1968	8
+Pontevedra CF	CE Sabadell	0:0	0:0	12.11.1967	00:00	1967	1968	8
+Real Sociedad	Athletic Bilbao	0:1	1:1	12.11.1967	00:00	1967	1968	8
+UD Las Palmas	Elche CF	1:1	3:1	12.11.1967	00:00	1967	1968	8
+AtlÃ©tico Madrid	Real Sociedad	0:1	2:1	19.11.1967	00:00	1967	1968	9
+CÃ³rdoba CF	Pontevedra CF	1:0	3:1	19.11.1967	00:00	1967	1968	9
+Real Betis	CD MÃ¡laga	1:0	2:0	19.11.1967	00:00	1967	1968	9
+Athletic Bilbao	Real Zaragoza	2:0	2:0	19.11.1967	00:00	1967	1968	9
+Valencia CF	Sevilla FC	1:0	4:2	19.11.1967	00:00	1967	1968	9
+Elche CF	FC Barcelona	0:0	0:2	19.11.1967	00:00	1967	1968	9
+CE Sabadell	Real Madrid	2:2	2:4	19.11.1967	00:00	1967	1968	9
+Espanyol Barcelona	UD Las Palmas	1:1	3:2	19.11.1967	00:00	1967	1968	9
+Real Madrid	CÃ³rdoba CF	2:0	4:0	25.11.1967	00:00	1967	1968	10
+Real Sociedad	Valencia CF	1:0	2:0	26.11.1967	00:00	1967	1968	10
+Real Zaragoza	AtlÃ©tico Madrid	1:1	1:1	26.11.1967	00:00	1967	1968	10
+CD MÃ¡laga	CE Sabadell	1:2	1:3	26.11.1967	00:00	1967	1968	10
+Pontevedra CF	Elche CF	1:0	1:0	26.11.1967	00:00	1967	1968	10
+Espanyol Barcelona	Athletic Bilbao	1:1	1:1	26.11.1967	00:00	1967	1968	10
+UD Las Palmas	FC Barcelona	1:1	4:1	26.11.1967	00:00	1967	1968	10
+Sevilla FC	Real Betis	1:1	2:3	26.11.1967	00:00	1967	1968	10
+CE Sabadell	Sevilla FC	1:1	2:2	03.12.1967	00:00	1967	1968	11
+FC Barcelona	Pontevedra CF	2:0	4:0	03.12.1967	00:00	1967	1968	11
+CÃ³rdoba CF	CD MÃ¡laga	0:2	2:3	03.12.1967	00:00	1967	1968	11
+Real Betis	Real Sociedad	2:0	4:1	03.12.1967	00:00	1967	1968	11
+AtlÃ©tico Madrid	Espanyol Barcelona	0:0	0:0	03.12.1967	00:00	1967	1968	11
+UD Las Palmas	Athletic Bilbao	0:0	1:0	03.12.1967	00:00	1967	1968	11
+Elche CF	Real Madrid	0:0	0:0	03.12.1967	00:00	1967	1968	11
+Valencia CF	Real Zaragoza	1:0	3:1	03.12.1967	00:00	1967	1968	11
+Espanyol Barcelona	Valencia CF	4:1	4:5	10.12.1967	00:00	1967	1968	12
+Sevilla FC	CÃ³rdoba CF	0:0	1:0	10.12.1967	00:00	1967	1968	12
+Real Sociedad	CE Sabadell	3:0	6:0	10.12.1967	00:00	1967	1968	12
+CD MÃ¡laga	Elche CF	0:0	2:0	10.12.1967	00:00	1967	1968	12
+Athletic Bilbao	AtlÃ©tico Madrid	4:0	6:1	10.12.1967	00:00	1967	1968	12
+Pontevedra CF	UD Las Palmas	1:0	3:0	10.12.1967	00:00	1967	1968	12
+Real Madrid	FC Barcelona	0:0	1:1	10.12.1967	00:00	1967	1968	12
+Real Zaragoza	Real Betis	0:0	1:0	10.12.1967	00:00	1967	1968	12
+Elche CF	Sevilla FC	0:1	4:2	17.12.1967	00:00	1967	1968	13
+FC Barcelona	CD MÃ¡laga	1:0	1:0	17.12.1967	00:00	1967	1968	13
+AtlÃ©tico Madrid	UD Las Palmas	1:0	1:2	17.12.1967	00:00	1967	1968	13
+CÃ³rdoba CF	Real Sociedad	0:0	2:0	17.12.1967	00:00	1967	1968	13
+Real Betis	Espanyol Barcelona	0:2	1:4	17.12.1967	00:00	1967	1968	13
+Valencia CF	Athletic Bilbao	1:2	3:3	17.12.1967	00:00	1967	1968	13
+Pontevedra CF	Real Madrid	1:0	3:0	17.12.1967	00:00	1967	1968	13
+CE Sabadell	Real Zaragoza	0:0	1:0	17.12.1967	00:00	1967	1968	13
+UD Las Palmas	Real Madrid	1:1	2:2	30.12.1967	00:00	1967	1968	14
+Sevilla FC	FC Barcelona	1:0	2:1	31.12.1967	00:00	1967	1968	14
+Real Zaragoza	CÃ³rdoba CF	1:0	3:0	31.12.1967	00:00	1967	1968	14
+CD MÃ¡laga	Pontevedra CF	0:1	3:1	31.12.1967	00:00	1967	1968	14
+Espanyol Barcelona	CE Sabadell	3:1	3:1	31.12.1967	00:00	1967	1968	14
+Real Sociedad	Elche CF	2:0	5:0	31.12.1967	00:00	1967	1968	14
+AtlÃ©tico Madrid	Valencia CF	0:0	0:0	31.12.1967	00:00	1967	1968	14
+Athletic Bilbao	Real Betis	4:0	8:0	31.12.1967	00:00	1967	1968	14
+Real Madrid	CD MÃ¡laga	1:0	3:0	07.01.1968	00:00	1967	1968	15
+CE Sabadell	Athletic Bilbao	0:1	1:2	07.01.1968	00:00	1967	1968	15
+CÃ³rdoba CF	Espanyol Barcelona	0:0	1:0	07.01.1968	00:00	1967	1968	15
+Real Betis	AtlÃ©tico Madrid	0:1	0:2	07.01.1968	00:00	1967	1968	15
+Pontevedra CF	Sevilla FC	3:1	4:1	07.01.1968	00:00	1967	1968	15
+FC Barcelona	Real Sociedad	0:0	0:0	07.01.1968	00:00	1967	1968	15
+Elche CF	Real Zaragoza	0:0	0:1	07.01.1968	00:00	1967	1968	15
+Valencia CF	UD Las Palmas	1:0	2:2	07.01.1968	00:00	1967	1968	15
+Elche CF	Espanyol Barcelona	0:0	1:0	14.01.1968	00:00	1967	1968	16
+Real Betis	Valencia CF	0:1	0:2	14.01.1968	00:00	1967	1968	16
+CE Sabadell	AtlÃ©tico Madrid	1:0	1:0	14.01.1968	00:00	1967	1968	16
+Real Madrid	Sevilla FC	0:0	1:0	14.01.1968	00:00	1967	1968	16
+Pontevedra CF	Real Sociedad	0:0	2:0	14.01.1968	00:00	1967	1968	16
+FC Barcelona	Real Zaragoza	3:0	4:0	14.01.1968	00:00	1967	1968	16
+CD MÃ¡laga	UD Las Palmas	2:0	2:0	14.01.1968	00:00	1967	1968	16
+CÃ³rdoba CF	Athletic Bilbao	1:1	2:1	14.01.1968	00:00	1967	1968	16
+Athletic Bilbao	Elche CF	1:0	3:0	21.01.1968	00:00	1967	1968	17
+Real Zaragoza	Pontevedra CF	1:1	2:1	21.01.1968	00:00	1967	1968	17
+Valencia CF	CE Sabadell	1:0	1:0	21.01.1968	00:00	1967	1968	17
+Real Sociedad	Real Madrid	0:1	0:1	21.01.1968	00:00	1967	1968	17
+UD Las Palmas	Real Betis	1:0	3:1	21.01.1968	00:00	1967	1968	17
+Espanyol Barcelona	FC Barcelona	0:0	1:0	21.01.1968	00:00	1967	1968	17
+Sevilla FC	CD MÃ¡laga	0:0	0:2	21.01.1968	00:00	1967	1968	17
+AtlÃ©tico Madrid	CÃ³rdoba CF	1:0	5:0	21.01.1968	00:00	1967	1968	17
+CÃ³rdoba CF	Valencia CF	0:0	1:1	28.01.1968	00:00	1967	1968	18
+Sevilla FC	UD Las Palmas	0:1	0:1	28.01.1968	00:00	1967	1968	18
+CE Sabadell	Real Betis	0:0	3:1	28.01.1968	00:00	1967	1968	18
+Real Madrid	Real Zaragoza	2:1	3:2	28.01.1968	00:00	1967	1968	18
+Elche CF	AtlÃ©tico Madrid	0:0	1:0	28.01.1968	00:00	1967	1968	18
+Pontevedra CF	Espanyol Barcelona	3:0	3:0	28.01.1968	00:00	1967	1968	18
+FC Barcelona	Athletic Bilbao	1:0	1:0	28.01.1968	00:00	1967	1968	18
+CD MÃ¡laga	Real Sociedad	1:0	2:0	28.01.1968	00:00	1967	1968	18
+Real Zaragoza	CD MÃ¡laga	0:0	0:0	04.02.1968	00:00	1967	1968	19
+Valencia CF	Elche CF	0:1	1:1	04.02.1968	00:00	1967	1968	19
+Real Betis	CÃ³rdoba CF	1:0	1:0	04.02.1968	00:00	1967	1968	19
+Real Sociedad	Sevilla FC	1:0	5:1	04.02.1968	00:00	1967	1968	19
+Espanyol Barcelona	Real Madrid	0:0	0:4	04.02.1968	00:00	1967	1968	19
+AtlÃ©tico Madrid	FC Barcelona	0:1	0:1	04.02.1968	00:00	1967	1968	19
+CE Sabadell	UD Las Palmas	0:0	2:2	04.02.1968	00:00	1967	1968	19
+Athletic Bilbao	Pontevedra CF	1:1	1:1	04.02.1968	00:00	1967	1968	19
+FC Barcelona	Valencia CF	0:0	1:1	11.02.1968	00:00	1967	1968	20
+CÃ³rdoba CF	CE Sabadell	0:0	2:1	11.02.1968	00:00	1967	1968	20
+Elche CF	Real Betis	1:0	1:0	11.02.1968	00:00	1967	1968	20
+Sevilla FC	Real Zaragoza	1:2	1:2	11.02.1968	00:00	1967	1968	20
+Pontevedra CF	AtlÃ©tico Madrid	0:0	1:1	11.02.1968	00:00	1967	1968	20
+CD MÃ¡laga	Espanyol Barcelona	0:0	1:0	11.02.1968	00:00	1967	1968	20
+Real Madrid	Athletic Bilbao	0:0	0:0	11.02.1968	00:00	1967	1968	20
+UD Las Palmas	Real Sociedad	1:1	2:1	11.02.1968	00:00	1967	1968	20
+Espanyol Barcelona	Sevilla FC	2:0	4:0	18.02.1968	00:00	1967	1968	21
+UD Las Palmas	CÃ³rdoba CF	4:0	4:1	18.02.1968	00:00	1967	1968	21
+CE Sabadell	Elche CF	0:0	1:2	18.02.1968	00:00	1967	1968	21
+Valencia CF	Pontevedra CF	2:1	6:2	18.02.1968	00:00	1967	1968	21
+Real Betis	FC Barcelona	2:1	4:3	18.02.1968	00:00	1967	1968	21
+AtlÃ©tico Madrid	Real Madrid	0:0	1:1	18.02.1968	00:00	1967	1968	21
+Athletic Bilbao	CD MÃ¡laga	2:0	4:0	18.02.1968	00:00	1967	1968	21
+Real Zaragoza	Real Sociedad	0:0	1:0	18.02.1968	00:00	1967	1968	21
+CD MÃ¡laga	AtlÃ©tico Madrid	0:1	0:1	25.02.1968	00:00	1967	1968	22
+Elche CF	CÃ³rdoba CF	1:0	3:0	25.02.1968	00:00	1967	1968	22
+FC Barcelona	CE Sabadell	0:0	3:1	25.02.1968	00:00	1967	1968	22
+Pontevedra CF	Real Betis	0:0	1:1	25.02.1968	00:00	1967	1968	22
+Real Madrid	Valencia CF	0:1	0:2	25.02.1968	00:00	1967	1968	22
+Real Sociedad	Espanyol Barcelona	0:1	0:1	25.02.1968	00:00	1967	1968	22
+Sevilla FC	Athletic Bilbao	0:2	2:3	25.02.1968	00:00	1967	1968	22
+Real Zaragoza	UD Las Palmas	2:0	4:1	25.02.1968	00:00	1967	1968	22
+Espanyol Barcelona	Real Zaragoza	0:1	1:1	03.03.1968	00:00	1967	1968	23
+CE Sabadell	Pontevedra CF	1:0	1:0	03.03.1968	00:00	1967	1968	23
+Valencia CF	CD MÃ¡laga	0:0	2:1	03.03.1968	00:00	1967	1968	23
+Athletic Bilbao	Real Sociedad	0:0	1:1	03.03.1968	00:00	1967	1968	23
+AtlÃ©tico Madrid	Sevilla FC	1:2	3:3	03.03.1968	00:00	1967	1968	23
+CÃ³rdoba CF	FC Barcelona	0:0	0:1	03.03.1968	00:00	1967	1968	23
+Real Betis	Real Madrid	1:2	1:2	03.03.1968	00:00	1967	1968	23
+Elche CF	UD Las Palmas	1:0	2:0	03.03.1968	00:00	1967	1968	23
+Real Sociedad	AtlÃ©tico Madrid	1:0	2:0	10.03.1968	00:00	1967	1968	24
+Pontevedra CF	CÃ³rdoba CF	1:1	3:1	10.03.1968	00:00	1967	1968	24
+Real Madrid	CE Sabadell	0:0	2:0	10.03.1968	00:00	1967	1968	24
+CD MÃ¡laga	Real Betis	0:0	0:0	10.03.1968	00:00	1967	1968	24
+Sevilla FC	Valencia CF	2:0	2:0	10.03.1968	00:00	1967	1968	24
+UD Las Palmas	Espanyol Barcelona	1:0	2:0	10.03.1968	00:00	1967	1968	24
+Real Zaragoza	Athletic Bilbao	0:0	1:0	10.03.1968	00:00	1967	1968	24
+FC Barcelona	Elche CF	2:1	4:2	10.03.1968	00:00	1967	1968	24
+Valencia CF	Real Sociedad	1:0	3:2	17.03.1968	00:00	1967	1968	25
+AtlÃ©tico Madrid	Real Zaragoza	0:0	0:1	17.03.1968	00:00	1967	1968	25
+Elche CF	Pontevedra CF	0:0	0:0	17.03.1968	00:00	1967	1968	25
+CE Sabadell	CD MÃ¡laga	0:1	1:2	17.03.1968	00:00	1967	1968	25
+Real Betis	Sevilla FC	0:0	0:0	17.03.1968	00:00	1967	1968	25
+Athletic Bilbao	Espanyol Barcelona	1:2	1:2	17.03.1968	00:00	1967	1968	25
+CÃ³rdoba CF	Real Madrid	2:1	3:3	17.03.1968	00:00	1967	1968	25
+FC Barcelona	UD Las Palmas	2:0	2:0	17.03.1968	00:00	1967	1968	25
+Real Sociedad	Real Betis	0:0	1:0	24.03.1968	00:00	1967	1968	26
+CD MÃ¡laga	CÃ³rdoba CF	0:1	0:1	24.03.1968	00:00	1967	1968	26
+Sevilla FC	CE Sabadell	0:0	1:0	24.03.1968	00:00	1967	1968	26
+Athletic Bilbao	UD Las Palmas	0:0	0:1	24.03.1968	00:00	1967	1968	26
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	0:1	24.03.1968	00:00	1967	1968	26
+Real Zaragoza	Valencia CF	0:0	0:0	24.03.1968	00:00	1967	1968	26
+Pontevedra CF	FC Barcelona	0:0	1:0	24.03.1968	00:00	1967	1968	26
+Real Madrid	Elche CF	0:0	2:0	24.03.1968	00:00	1967	1968	26
+Valencia CF	Espanyol Barcelona	1:0	2:3	07.04.1968	00:00	1967	1968	27
+UD Las Palmas	Pontevedra CF	2:0	5:0	07.04.1968	00:00	1967	1968	27
+Elche CF	CD MÃ¡laga	1:0	1:0	07.04.1968	00:00	1967	1968	27
+CÃ³rdoba CF	Sevilla FC	0:0	1:1	07.04.1968	00:00	1967	1968	27
+Real Betis	Real Zaragoza	0:0	2:1	07.04.1968	00:00	1967	1968	27
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	2:0	07.04.1968	00:00	1967	1968	27
+CE Sabadell	Real Sociedad	1:0	1:0	07.04.1968	00:00	1967	1968	27
+FC Barcelona	Real Madrid	1:1	1:1	09.04.1968	00:00	1967	1968	27
+Sevilla FC	Elche CF	0:0	1:0	14.04.1968	00:00	1967	1968	28
+Real Madrid	Pontevedra CF	1:0	1:0	14.04.1968	00:00	1967	1968	28
+Real Zaragoza	CE Sabadell	2:0	7:0	14.04.1968	00:00	1967	1968	28
+UD Las Palmas	AtlÃ©tico Madrid	1:0	4:1	14.04.1968	00:00	1967	1968	28
+Athletic Bilbao	Valencia CF	1:0	1:0	14.04.1968	00:00	1967	1968	28
+CD MÃ¡laga	FC Barcelona	1:1	1:1	14.04.1968	00:00	1967	1968	28
+Real Sociedad	CÃ³rdoba CF	2:0	5:1	14.04.1968	00:00	1967	1968	28
+Espanyol Barcelona	Real Betis	2:0	4:0	15.04.1968	00:00	1967	1968	28
+Real Madrid	UD Las Palmas	1:1	2:1	20.04.1968	00:00	1967	1968	29
+Real Betis	Athletic Bilbao	0:1	0:3	21.04.1968	00:00	1967	1968	29
+CÃ³rdoba CF	Real Zaragoza	1:0	1:0	21.04.1968	00:00	1967	1968	29
+Pontevedra CF	CD MÃ¡laga	1:0	1:0	21.04.1968	00:00	1967	1968	29
+Elche CF	Real Sociedad	1:0	5:0	21.04.1968	00:00	1967	1968	29
+FC Barcelona	Sevilla FC	3:0	3:0	21.04.1968	00:00	1967	1968	29
+CE Sabadell	Espanyol Barcelona	2:0	2:1	21.04.1968	00:00	1967	1968	29
+Valencia CF	AtlÃ©tico Madrid	1:0	3:1	21.04.1968	00:00	1967	1968	29
+Sevilla FC	Pontevedra CF	2:2	2:2	28.04.1968	00:00	1967	1968	30
+CD MÃ¡laga	Real Madrid	1:0	1:0	28.04.1968	00:00	1967	1968	30
+Real Sociedad	FC Barcelona	0:0	1:1	28.04.1968	00:00	1967	1968	30
+UD Las Palmas	Valencia CF	1:1	2:1	28.04.1968	00:00	1967	1968	30
+AtlÃ©tico Madrid	Real Betis	0:0	0:0	28.04.1968	00:00	1967	1968	30
+Real Zaragoza	Elche CF	1:0	3:1	28.04.1968	00:00	1967	1968	30
+Athletic Bilbao	CE Sabadell	1:1	1:1	28.04.1968	00:00	1967	1968	30
+Espanyol Barcelona	CÃ³rdoba CF	0:1	1:2	28.04.1968	00:00	1967	1968	30

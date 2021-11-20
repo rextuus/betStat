@@ -1,0 +1,380 @@
+Sunderland AFC	Tottenham Hotspur	0:0	1:0	11.08.2007	13:45	2007	2008	1
+Bolton Wanderers	Newcastle United	0:3	1:3	11.08.2007	16:00	2007	2008	1
+Derby County	Portsmouth FC	1:1	2:2	11.08.2007	16:00	2007	2008	1
+Everton FC	Wigan Athletic	1:0	2:1	11.08.2007	16:00	2007	2008	1
+Middlesbrough FC	Blackburn Rovers	1:0	1:2	11.08.2007	16:00	2007	2008	1
+West Ham United	Manchester City	0:1	0:2	11.08.2007	16:00	2007	2008	1
+Aston Villa	Liverpool FC	0:1	1:2	11.08.2007	18:15	2007	2008	1
+Arsenal FC	Fulham FC	0:1	2:1	12.08.2007	13:00	2007	2008	1
+Chelsea FC	Birmingham City	2:2	3:2	12.08.2007	14:30	2007	2008	1
+Manchester United	Reading FC	0:0	0:0	12.08.2007	17:00	2007	2008	1
+Tottenham Hotspur	Everton FC	1:3	1:3	14.08.2007	21:00	2007	2008	2
+Birmingham City	Sunderland AFC	1:0	2:2	15.08.2007	20:45	2007	2008	2
+Portsmouth FC	Manchester United	0:1	1:1	15.08.2007	20:45	2007	2008	2
+Fulham FC	Bolton Wanderers	2:1	2:1	15.08.2007	20:45	2007	2008	2
+Manchester City	Derby County	1:0	1:0	15.08.2007	20:45	2007	2008	2
+Reading FC	Chelsea FC	1:0	1:2	15.08.2007	21:00	2007	2008	2
+Wigan Athletic	Middlesbrough FC	0:0	1:0	15.08.2007	21:00	2007	2008	2
+Blackburn Rovers	Aston Villa	0:1	0:4	28.11.2007	21:00	2007	2008	2
+Newcastle United	Arsenal FC	0:1	1:1	05.12.2007	20:45	2007	2008	2
+Liverpool FC	West Ham United	1:0	4:0	05.03.2008	21:00	2007	2008	2
+Portsmouth FC	Bolton Wanderers	2:1	3:1	18.08.2007	13:45	2007	2008	3
+Birmingham City	West Ham United	0:0	0:1	18.08.2007	16:00	2007	2008	3
+Fulham FC	Middlesbrough FC	1:0	1:2	18.08.2007	16:00	2007	2008	3
+Reading FC	Everton FC	1:0	1:0	18.08.2007	16:00	2007	2008	3
+Tottenham Hotspur	Derby County	3:0	4:0	18.08.2007	16:00	2007	2008	3
+Wigan Athletic	Sunderland AFC	1:0	3:0	18.08.2007	16:00	2007	2008	3
+Newcastle United	Aston Villa	0:0	0:0	18.08.2007	18:15	2007	2008	3
+Manchester City	Manchester United	1:0	1:0	19.08.2007	14:30	2007	2008	3
+Blackburn Rovers	Arsenal FC	0:1	1:1	19.08.2007	16:00	2007	2008	3
+Liverpool FC	Chelsea FC	1:0	1:1	19.08.2007	17:00	2007	2008	3
+Sunderland AFC	Liverpool FC	0:1	0:2	25.08.2007	13:45	2007	2008	4
+Arsenal FC	Manchester City	0:0	1:0	25.08.2007	16:00	2007	2008	4
+Aston Villa	Fulham FC	0:1	2:1	25.08.2007	16:00	2007	2008	4
+Bolton Wanderers	Reading FC	1:0	3:0	25.08.2007	16:00	2007	2008	4
+Chelsea FC	Portsmouth FC	1:0	1:0	25.08.2007	16:00	2007	2008	4
+Derby County	Birmingham City	0:1	1:2	25.08.2007	16:00	2007	2008	4
+West Ham United	Wigan Athletic	0:0	1:1	25.08.2007	16:00	2007	2008	4
+Everton FC	Blackburn Rovers	0:1	1:1	25.08.2007	18:15	2007	2008	4
+Middlesbrough FC	Newcastle United	1:1	2:2	26.08.2007	14:30	2007	2008	4
+Manchester United	Tottenham Hotspur	0:0	1:0	26.08.2007	17:00	2007	2008	4
+Bolton Wanderers	Everton FC	0:1	1:2	01.09.2007	16:00	2007	2008	5
+Fulham FC	Tottenham Hotspur	1:2	3:3	01.09.2007	16:00	2007	2008	5
+Liverpool FC	Derby County	2:0	6:0	01.09.2007	16:00	2007	2008	5
+Middlesbrough FC	Birmingham City	2:0	2:0	01.09.2007	16:00	2007	2008	5
+Newcastle United	Wigan Athletic	0:0	1:0	01.09.2007	16:00	2007	2008	5
+Reading FC	West Ham United	0:1	0:3	01.09.2007	16:00	2007	2008	5
+Manchester United	Sunderland AFC	0:0	1:0	01.09.2007	18:15	2007	2008	5
+Arsenal FC	Portsmouth FC	2:0	3:1	02.09.2007	14:30	2007	2008	5
+Blackburn Rovers	Manchester City	1:0	1:0	02.09.2007	16:00	2007	2008	5
+Aston Villa	Chelsea FC	0:0	2:0	02.09.2007	17:00	2007	2008	5
+Everton FC	Manchester United	0:0	0:1	15.09.2007	13:00	2007	2008	6
+Portsmouth FC	Liverpool FC	0:0	0:0	15.09.2007	13:45	2007	2008	6
+Tottenham Hotspur	Arsenal FC	1:0	1:3	15.09.2007	14:30	2007	2008	6
+Birmingham City	Bolton Wanderers	1:0	1:0	15.09.2007	16:00	2007	2008	6
+Sunderland AFC	Reading FC	1:0	2:1	15.09.2007	16:00	2007	2008	6
+West Ham United	Middlesbrough FC	0:0	3:0	15.09.2007	16:00	2007	2008	6
+Wigan Athletic	Fulham FC	0:1	1:1	15.09.2007	16:00	2007	2008	6
+Chelsea FC	Blackburn Rovers	0:0	0:0	15.09.2007	18:15	2007	2008	6
+Manchester City	Aston Villa	0:0	1:0	16.09.2007	17:00	2007	2008	6
+Derby County	Newcastle United	1:0	1:0	17.09.2007	21:00	2007	2008	6
+Arsenal FC	Derby County	2:0	5:0	22.09.2007	16:00	2007	2008	7
+Liverpool FC	Birmingham City	0:0	0:0	22.09.2007	16:00	2007	2008	7
+Middlesbrough FC	Sunderland AFC	1:1	2:2	22.09.2007	16:00	2007	2008	7
+Reading FC	Wigan Athletic	1:0	2:1	22.09.2007	16:00	2007	2008	7
+Fulham FC	Manchester City	1:1	3:3	22.09.2007	18:15	2007	2008	7
+Newcastle United	West Ham United	2:1	3:1	23.09.2007	14:30	2007	2008	7
+Aston Villa	Everton FC	1:0	2:0	23.09.2007	15:00	2007	2008	7
+Blackburn Rovers	Portsmouth FC	0:1	0:1	23.09.2007	16:00	2007	2008	7
+Bolton Wanderers	Tottenham Hotspur	1:1	1:1	23.09.2007	16:00	2007	2008	7
+Manchester United	Chelsea FC	1:0	2:0	23.09.2007	17:00	2007	2008	7
+Manchester City	Newcastle United	1:1	3:1	29.09.2007	13:45	2007	2008	8
+Chelsea FC	Fulham FC	0:0	0:0	29.09.2007	16:00	2007	2008	8
+Derby County	Bolton Wanderers	1:1	1:1	29.09.2007	16:00	2007	2008	8
+Portsmouth FC	Reading FC	2:1	7:4	29.09.2007	16:00	2007	2008	8
+Sunderland AFC	Blackburn Rovers	0:0	1:2	29.09.2007	16:00	2007	2008	8
+West Ham United	Arsenal FC	0:1	0:1	29.09.2007	16:00	2007	2008	8
+Wigan Athletic	Liverpool FC	0:0	0:1	29.09.2007	16:00	2007	2008	8
+Birmingham City	Manchester United	0:0	0:1	29.09.2007	18:15	2007	2008	8
+Everton FC	Middlesbrough FC	1:0	2:0	30.09.2007	17:00	2007	2008	8
+Tottenham Hotspur	Aston Villa	1:3	4:4	01.10.2007	21:00	2007	2008	8
+Manchester United	Wigan Athletic	0:0	4:0	06.10.2007	13:45	2007	2008	9
+Aston Villa	West Ham United	1:0	1:0	06.10.2007	16:00	2007	2008	9
+Arsenal FC	Sunderland AFC	2:1	3:2	07.10.2007	13:00	2007	2008	9
+Reading FC	Derby County	0:0	1:0	07.10.2007	15:00	2007	2008	9
+Blackburn Rovers	Birmingham City	1:0	2:1	07.10.2007	16:00	2007	2008	9
+Bolton Wanderers	Chelsea FC	0:1	0:1	07.10.2007	16:00	2007	2008	9
+Liverpool FC	Tottenham Hotspur	1:1	2:2	07.10.2007	16:00	2007	2008	9
+Newcastle United	Everton FC	1:0	3:2	07.10.2007	16:00	2007	2008	9
+Manchester City	Middlesbrough FC	2:0	3:1	07.10.2007	16:00	2007	2008	9
+Fulham FC	Portsmouth FC	0:0	0:2	07.10.2007	17:10	2007	2008	9
+Everton FC	Liverpool FC	1:0	1:2	20.10.2007	13:45	2007	2008	10
+Arsenal FC	Bolton Wanderers	0:0	2:0	20.10.2007	16:00	2007	2008	10
+Blackburn Rovers	Reading FC	3:0	4:2	20.10.2007	16:00	2007	2008	10
+Fulham FC	Derby County	0:0	0:0	20.10.2007	16:00	2007	2008	10
+Manchester City	Birmingham City	1:0	1:0	20.10.2007	16:00	2007	2008	10
+Middlesbrough FC	Chelsea FC	0:1	0:2	20.10.2007	16:00	2007	2008	10
+Wigan Athletic	Portsmouth FC	0:0	0:2	20.10.2007	16:00	2007	2008	10
+Aston Villa	Manchester United	1:3	1:4	20.10.2007	18:15	2007	2008	10
+West Ham United	Sunderland AFC	1:0	3:1	21.10.2007	17:00	2007	2008	10
+Newcastle United	Tottenham Hotspur	1:0	3:1	22.10.2007	21:00	2007	2008	10
+Birmingham City	Wigan Athletic	1:1	3:2	27.10.2007	16:00	2007	2008	11
+Chelsea FC	Manchester City	2:0	6:0	27.10.2007	16:00	2007	2008	11
+Manchester United	Middlesbrough FC	2:1	4:1	27.10.2007	16:00	2007	2008	11
+Reading FC	Newcastle United	0:0	2:1	27.10.2007	16:00	2007	2008	11
+Sunderland AFC	Fulham FC	0:1	1:1	27.10.2007	16:00	2007	2008	11
+Portsmouth FC	West Ham United	0:0	0:0	27.10.2007	18:15	2007	2008	11
+Bolton Wanderers	Aston Villa	1:0	1:1	28.10.2007	14:30	2007	2008	11
+Derby County	Everton FC	0:1	0:2	28.10.2007	15:00	2007	2008	11
+Tottenham Hotspur	Blackburn Rovers	0:0	1:2	28.10.2007	16:00	2007	2008	11
+Liverpool FC	Arsenal FC	1:0	1:1	28.10.2007	17:00	2007	2008	11
+Arsenal FC	Manchester United	0:1	2:2	03.11.2007	13:45	2007	2008	12
+Aston Villa	Derby County	0:0	2:0	03.11.2007	16:00	2007	2008	12
+Everton FC	Birmingham City	1:0	3:1	03.11.2007	16:00	2007	2008	12
+Fulham FC	Reading FC	1:0	3:1	03.11.2007	16:00	2007	2008	12
+Middlesbrough FC	Tottenham Hotspur	0:1	1:1	03.11.2007	16:00	2007	2008	12
+Newcastle United	Portsmouth FC	1:3	1:4	03.11.2007	16:00	2007	2008	12
+Wigan Athletic	Chelsea FC	0:2	0:2	03.11.2007	16:00	2007	2008	12
+Blackburn Rovers	Liverpool FC	0:0	0:0	03.11.2007	18:15	2007	2008	12
+West Ham United	Bolton Wanderers	1:0	1:1	04.11.2007	17:00	2007	2008	12
+Manchester City	Sunderland AFC	0:0	1:0	05.11.2007	21:00	2007	2008	12
+Sunderland AFC	Newcastle United	0:0	1:1	10.11.2007	13:45	2007	2008	13
+Derby County	West Ham United	0:1	0:5	10.11.2007	16:00	2007	2008	13
+Liverpool FC	Fulham FC	0:0	2:0	10.11.2007	18:15	2007	2008	13
+Birmingham City	Aston Villa	0:1	1:2	11.11.2007	14:00	2007	2008	13
+Chelsea FC	Everton FC	0:0	1:1	11.11.2007	15:00	2007	2008	13
+Bolton Wanderers	Middlesbrough FC	0:0	0:0	11.11.2007	16:00	2007	2008	13
+Manchester United	Blackburn Rovers	2:0	2:0	11.11.2007	16:00	2007	2008	13
+Tottenham Hotspur	Wigan Athletic	3:0	4:0	11.11.2007	16:00	2007	2008	13
+Portsmouth FC	Manchester City	0:0	0:0	11.11.2007	17:00	2007	2008	13
+Reading FC	Arsenal FC	0:1	1:3	12.11.2007	21:00	2007	2008	13
+Newcastle United	Liverpool FC	0:1	0:3	24.11.2007	13:45	2007	2008	14
+Arsenal FC	Wigan Athletic	0:0	2:0	24.11.2007	16:00	2007	2008	14
+Birmingham City	Portsmouth FC	0:1	0:2	24.11.2007	16:00	2007	2008	14
+Bolton Wanderers	Manchester United	1:0	1:0	24.11.2007	16:00	2007	2008	14
+Everton FC	Sunderland AFC	3:1	7:1	24.11.2007	16:00	2007	2008	14
+Manchester City	Reading FC	1:1	2:1	24.11.2007	16:00	2007	2008	14
+Middlesbrough FC	Aston Villa	0:1	0:3	24.11.2007	16:00	2007	2008	14
+Derby County	Chelsea FC	0:1	0:2	24.11.2007	18:15	2007	2008	14
+West Ham United	Tottenham Hotspur	1:0	1:1	25.11.2007	14:30	2007	2008	14
+Fulham FC	Blackburn Rovers	0:0	2:2	25.11.2007	17:00	2007	2008	14
+Chelsea FC	West Ham United	0:0	1:0	01.12.2007	13:45	2007	2008	15
+Blackburn Rovers	Newcastle United	0:0	3:1	01.12.2007	16:00	2007	2008	15
+Portsmouth FC	Everton FC	0:0	0:0	01.12.2007	16:00	2007	2008	15
+Reading FC	Middlesbrough FC	0:0	1:1	01.12.2007	16:00	2007	2008	15
+Sunderland AFC	Derby County	0:0	1:0	01.12.2007	16:00	2007	2008	15
+Wigan Athletic	Manchester City	1:1	1:1	01.12.2007	16:00	2007	2008	15
+Aston Villa	Arsenal FC	1:2	1:2	01.12.2007	18:15	2007	2008	15
+Liverpool FC	Bolton Wanderers	2:0	4:0	02.12.2007	16:00	2007	2008	15
+Tottenham Hotspur	Birmingham City	0:1	2:3	02.12.2007	17:00	2007	2008	15
+Manchester United	Fulham FC	1:0	2:0	03.12.2007	21:00	2007	2008	15
+Aston Villa	Portsmouth FC	0:2	1:3	08.12.2007	13:45	2007	2008	16
+Chelsea FC	Sunderland AFC	1:0	2:0	08.12.2007	16:00	2007	2008	16
+Everton FC	Fulham FC	0:0	3:0	08.12.2007	16:00	2007	2008	16
+Manchester United	Derby County	2:0	4:1	08.12.2007	16:00	2007	2008	16
+Newcastle United	Birmingham City	1:1	2:1	08.12.2007	16:00	2007	2008	16
+Reading FC	Liverpool FC	1:1	3:1	08.12.2007	18:15	2007	2008	16
+Middlesbrough FC	Arsenal FC	1:0	2:1	09.12.2007	14:30	2007	2008	16
+Bolton Wanderers	Wigan Athletic	2:1	4:1	09.12.2007	16:00	2007	2008	16
+Tottenham Hotspur	Manchester City	1:0	2:1	09.12.2007	16:00	2007	2008	16
+Blackburn Rovers	West Ham United	0:0	0:1	09.12.2007	17:00	2007	2008	16
+Birmingham City	Reading FC	1:0	1:1	15.12.2007	16:00	2007	2008	17
+Derby County	Middlesbrough FC	0:1	0:1	15.12.2007	16:00	2007	2008	17
+Manchester City	Bolton Wanderers	1:2	4:2	15.12.2007	16:00	2007	2008	17
+Portsmouth FC	Tottenham Hotspur	0:0	0:1	15.12.2007	16:00	2007	2008	17
+Sunderland AFC	Aston Villa	1:0	1:1	15.12.2007	16:00	2007	2008	17
+West Ham United	Everton FC	0:1	0:2	15.12.2007	16:00	2007	2008	17
+Wigan Athletic	Blackburn Rovers	3:1	5:3	15.12.2007	16:00	2007	2008	17
+Fulham FC	Newcastle United	0:0	0:1	15.12.2007	18:15	2007	2008	17
+Liverpool FC	Manchester United	0:1	0:1	16.12.2007	14:30	2007	2008	17
+Arsenal FC	Chelsea FC	1:0	1:0	16.12.2007	17:00	2007	2008	17
+Arsenal FC	Tottenham Hotspur	0:0	2:1	22.12.2007	13:45	2007	2008	18
+Aston Villa	Manchester City	1:1	1:1	22.12.2007	16:00	2007	2008	18
+Bolton Wanderers	Birmingham City	0:0	3:0	22.12.2007	16:00	2007	2008	18
+Fulham FC	Wigan Athletic	0:0	1:1	22.12.2007	16:00	2007	2008	18
+Liverpool FC	Portsmouth FC	2:0	4:1	22.12.2007	16:00	2007	2008	18
+Middlesbrough FC	West Ham United	1:1	1:2	22.12.2007	16:00	2007	2008	18
+Reading FC	Sunderland AFC	0:0	2:1	22.12.2007	16:00	2007	2008	18
+Manchester United	Everton FC	1:1	2:1	23.12.2007	13:00	2007	2008	18
+Newcastle United	Derby County	1:1	2:2	23.12.2007	15:00	2007	2008	18
+Blackburn Rovers	Chelsea FC	0:1	0:1	23.12.2007	17:10	2007	2008	18
+Chelsea FC	Aston Villa	1:2	4:4	26.12.2007	14:00	2007	2008	19
+Tottenham Hotspur	Fulham FC	2:0	5:1	26.12.2007	14:00	2007	2008	19
+West Ham United	Reading FC	1:0	1:1	26.12.2007	14:00	2007	2008	19
+Birmingham City	Middlesbrough FC	2:0	3:0	26.12.2007	16:00	2007	2008	19
+Derby County	Liverpool FC	0:1	1:2	26.12.2007	16:00	2007	2008	19
+Everton FC	Bolton Wanderers	0:0	2:0	26.12.2007	16:00	2007	2008	19
+Sunderland AFC	Manchester United	0:3	0:4	26.12.2007	16:00	2007	2008	19
+Wigan Athletic	Newcastle United	0:0	1:0	26.12.2007	16:00	2007	2008	19
+Portsmouth FC	Arsenal FC	0:0	0:0	26.12.2007	20:45	2007	2008	19
+Manchester City	Blackburn Rovers	2:1	2:2	27.12.2007	20:45	2007	2008	19
+Birmingham City	Fulham FC	0:1	1:1	29.12.2007	16:00	2007	2008	20
+Chelsea FC	Newcastle United	1:0	2:1	29.12.2007	16:00	2007	2008	20
+Portsmouth FC	Middlesbrough FC	0:1	0:1	29.12.2007	16:00	2007	2008	20
+Sunderland AFC	Bolton Wanderers	2:1	3:1	29.12.2007	16:00	2007	2008	20
+Tottenham Hotspur	Reading FC	1:1	6:4	29.12.2007	16:00	2007	2008	20
+West Ham United	Manchester United	0:1	2:1	29.12.2007	16:00	2007	2008	20
+Wigan Athletic	Aston Villa	1:0	1:2	29.12.2007	16:00	2007	2008	20
+Everton FC	Arsenal FC	1:0	1:4	29.12.2007	18:15	2007	2008	20
+Derby County	Blackburn Rovers	1:2	1:2	30.12.2007	14:30	2007	2008	20
+Manchester City	Liverpool FC	0:0	0:0	30.12.2007	17:00	2007	2008	20
+Fulham FC	Chelsea FC	1:0	1:2	01.01.2008	13:45	2007	2008	21
+Arsenal FC	West Ham United	2:0	2:0	01.01.2008	16:00	2007	2008	21
+Manchester United	Birmingham City	1:0	1:0	01.01.2008	16:00	2007	2008	21
+Middlesbrough FC	Everton FC	0:0	0:2	01.01.2008	16:00	2007	2008	21
+Reading FC	Portsmouth FC	0:1	0:2	01.01.2008	16:00	2007	2008	21
+Aston Villa	Tottenham Hotspur	1:0	2:1	01.01.2008	18:20	2007	2008	21
+Newcastle United	Manchester City	0:1	0:2	02.01.2008	20:45	2007	2008	21
+Blackburn Rovers	Sunderland AFC	0:0	1:0	02.01.2008	21:00	2007	2008	21
+Bolton Wanderers	Derby County	0:0	1:0	02.01.2008	21:00	2007	2008	21
+Liverpool FC	Wigan Athletic	0:0	1:1	02.01.2008	21:00	2007	2008	21
+Arsenal FC	Birmingham City	1:0	1:1	12.01.2008	16:00	2007	2008	22
+Aston Villa	Reading FC	1:0	3:1	12.01.2008	16:00	2007	2008	22
+Chelsea FC	Tottenham Hotspur	1:0	2:0	12.01.2008	16:00	2007	2008	22
+Derby County	Wigan Athletic	0:0	0:1	12.01.2008	16:00	2007	2008	22
+Everton FC	Manchester City	1:0	1:0	12.01.2008	16:00	2007	2008	22
+Middlesbrough FC	Liverpool FC	1:0	1:1	12.01.2008	16:00	2007	2008	22
+West Ham United	Fulham FC	1:1	2:1	12.01.2008	16:00	2007	2008	22
+Manchester United	Newcastle United	0:0	6:0	12.01.2008	18:15	2007	2008	22
+Sunderland AFC	Portsmouth FC	2:0	2:0	13.01.2008	14:30	2007	2008	22
+Bolton Wanderers	Blackburn Rovers	1:0	1:2	13.01.2008	17:00	2007	2008	22
+Birmingham City	Chelsea FC	0:0	0:1	19.01.2008	16:00	2007	2008	23
+Blackburn Rovers	Middlesbrough FC	0:1	1:1	19.01.2008	16:00	2007	2008	23
+Fulham FC	Arsenal FC	0:2	0:3	19.01.2008	16:00	2007	2008	23
+Portsmouth FC	Derby County	2:1	3:1	19.01.2008	16:00	2007	2008	23
+Reading FC	Manchester United	0:0	0:2	19.01.2008	16:00	2007	2008	23
+Tottenham Hotspur	Sunderland AFC	1:0	2:0	19.01.2008	16:00	2007	2008	23
+Newcastle United	Bolton Wanderers	0:0	0:0	19.01.2008	18:15	2007	2008	23
+Wigan Athletic	Everton FC	0:2	1:2	20.01.2008	14:30	2007	2008	23
+Manchester City	West Ham United	1:1	1:1	20.01.2008	17:00	2007	2008	23
+Liverpool FC	Aston Villa	1:0	2:2	21.01.2008	21:00	2007	2008	23
+Aston Villa	Blackburn Rovers	0:0	1:1	26.01.2008	16:00	2007	2008	24
+Arsenal FC	Newcastle United	1:0	3:0	29.01.2008	20:45	2007	2008	24
+Bolton Wanderers	Fulham FC	0:0	0:0	29.01.2008	21:00	2007	2008	24
+Middlesbrough FC	Wigan Athletic	1:0	1:0	29.01.2008	21:00	2007	2008	24
+Sunderland AFC	Birmingham City	1:0	2:0	29.01.2008	21:00	2007	2008	24
+Derby County	Manchester City	0:0	1:1	30.01.2008	20:45	2007	2008	24
+West Ham United	Liverpool FC	0:0	1:0	30.01.2008	20:45	2007	2008	24
+Chelsea FC	Reading FC	1:0	1:0	30.01.2008	20:45	2007	2008	24
+Everton FC	Tottenham Hotspur	0:0	0:0	30.01.2008	21:00	2007	2008	24
+Manchester United	Portsmouth FC	2:0	2:0	30.01.2008	21:00	2007	2008	24
+Manchester City	Arsenal FC	1:2	1:3	02.02.2008	13:45	2007	2008	25
+Birmingham City	Derby County	0:0	1:1	02.02.2008	16:00	2007	2008	25
+Blackburn Rovers	Everton FC	0:0	0:0	02.02.2008	16:00	2007	2008	25
+Portsmouth FC	Chelsea FC	0:0	1:1	02.02.2008	16:00	2007	2008	25
+Reading FC	Bolton Wanderers	0:1	0:2	02.02.2008	16:00	2007	2008	25
+Tottenham Hotspur	Manchester United	1:0	1:1	02.02.2008	16:00	2007	2008	25
+Wigan Athletic	West Ham United	1:0	1:0	02.02.2008	16:00	2007	2008	25
+Liverpool FC	Sunderland AFC	0:0	3:0	02.02.2008	18:15	2007	2008	25
+Newcastle United	Middlesbrough FC	0:0	1:1	03.02.2008	14:30	2007	2008	25
+Fulham FC	Aston Villa	0:0	2:1	03.02.2008	17:00	2007	2008	25
+Aston Villa	Newcastle United	0:1	4:1	09.02.2008	13:45	2007	2008	26
+Bolton Wanderers	Portsmouth FC	0:0	0:1	09.02.2008	16:00	2007	2008	26
+Derby County	Tottenham Hotspur	0:0	0:3	09.02.2008	16:00	2007	2008	26
+Everton FC	Reading FC	0:0	1:0	09.02.2008	16:00	2007	2008	26
+Middlesbrough FC	Fulham FC	1:0	1:0	09.02.2008	16:00	2007	2008	26
+Sunderland AFC	Wigan Athletic	1:0	2:0	09.02.2008	16:00	2007	2008	26
+West Ham United	Birmingham City	1:1	1:1	09.02.2008	16:00	2007	2008	26
+Manchester United	Manchester City	0:2	1:2	10.02.2008	14:30	2007	2008	26
+Chelsea FC	Liverpool FC	0:0	0:0	10.02.2008	17:00	2007	2008	26
+Arsenal FC	Blackburn Rovers	1:0	2:0	11.02.2008	21:00	2007	2008	26
+Birmingham City	Arsenal FC	1:0	2:2	23.02.2008	13:45	2007	2008	27
+Fulham FC	West Ham United	0:0	0:1	23.02.2008	16:00	2007	2008	27
+Liverpool FC	Middlesbrough FC	2:1	3:2	23.02.2008	16:00	2007	2008	27
+Portsmouth FC	Sunderland AFC	0:0	1:0	23.02.2008	16:00	2007	2008	27
+Wigan Athletic	Derby County	0:0	2:0	23.02.2008	16:00	2007	2008	27
+Newcastle United	Manchester United	0:2	1:5	23.02.2008	18:15	2007	2008	27
+Reading FC	Aston Villa	0:1	1:2	24.02.2008	13:30	2007	2008	27
+Blackburn Rovers	Bolton Wanderers	1:0	4:1	24.02.2008	16:00	2007	2008	27
+Manchester City	Everton FC	0:2	0:2	25.02.2008	21:00	2007	2008	27
+Tottenham Hotspur	Chelsea FC	1:2	4:4	19.03.2008	21:00	2007	2008	27
+Arsenal FC	Aston Villa	0:1	1:1	01.03.2008	16:00	2007	2008	28
+Birmingham City	Tottenham Hotspur	1:0	4:1	01.03.2008	16:00	2007	2008	28
+Derby County	Sunderland AFC	0:0	0:0	01.03.2008	16:00	2007	2008	28
+Fulham FC	Manchester United	0:2	0:3	01.03.2008	16:00	2007	2008	28
+Middlesbrough FC	Reading FC	0:0	0:1	01.03.2008	16:00	2007	2008	28
+Newcastle United	Blackburn Rovers	0:0	0:1	01.03.2008	16:00	2007	2008	28
+West Ham United	Chelsea FC	0:3	0:4	01.03.2008	16:00	2007	2008	28
+Manchester City	Wigan Athletic	0:0	0:0	01.03.2008	18:15	2007	2008	28
+Bolton Wanderers	Liverpool FC	0:1	1:3	02.03.2008	14:30	2007	2008	28
+Everton FC	Portsmouth FC	1:1	3:1	02.03.2008	17:00	2007	2008	28
+Blackburn Rovers	Fulham FC	0:0	1:1	08.03.2008	16:00	2007	2008	29
+Liverpool FC	Newcastle United	2:0	3:0	08.03.2008	16:00	2007	2008	29
+Reading FC	Manchester City	0:0	2:0	08.03.2008	16:00	2007	2008	29
+Sunderland AFC	Everton FC	0:0	0:1	09.03.2008	16:00	2007	2008	29
+Tottenham Hotspur	West Ham United	2:0	4:0	09.03.2008	16:00	2007	2008	29
+Wigan Athletic	Arsenal FC	0:0	0:0	09.03.2008	17:00	2007	2008	29
+Aston Villa	Middlesbrough FC	0:1	1:1	12.03.2008	20:45	2007	2008	29
+Portsmouth FC	Birmingham City	2:2	4:2	12.03.2008	20:45	2007	2008	29
+Chelsea FC	Derby County	2:0	6:1	12.03.2008	21:00	2007	2008	29
+Manchester United	Bolton Wanderers	2:0	2:0	19.03.2008	21:00	2007	2008	29
+Derby County	Manchester United	0:0	0:1	15.03.2008	16:00	2007	2008	30
+Liverpool FC	Reading FC	1:1	2:1	15.03.2008	16:00	2007	2008	30
+Portsmouth FC	Aston Villa	2:0	2:0	15.03.2008	16:00	2007	2008	30
+Sunderland AFC	Chelsea FC	0:1	0:1	15.03.2008	16:00	2007	2008	30
+West Ham United	Blackburn Rovers	1:1	2:1	15.03.2008	16:00	2007	2008	30
+Arsenal FC	Middlesbrough FC	0:1	1:1	15.03.2008	18:15	2007	2008	30
+Fulham FC	Everton FC	0:0	1:0	16.03.2008	14:30	2007	2008	30
+Wigan Athletic	Bolton Wanderers	1:0	1:0	16.03.2008	16:00	2007	2008	30
+Manchester City	Tottenham Hotspur	0:1	2:1	16.03.2008	17:00	2007	2008	30
+Birmingham City	Newcastle United	1:0	1:1	17.03.2008	21:00	2007	2008	30
+Tottenham Hotspur	Portsmouth FC	0:0	2:0	22.03.2008	13:45	2007	2008	31
+Aston Villa	Sunderland AFC	0:0	0:1	22.03.2008	16:00	2007	2008	31
+Blackburn Rovers	Wigan Athletic	2:1	3:1	22.03.2008	16:00	2007	2008	31
+Bolton Wanderers	Manchester City	0:0	0:0	22.03.2008	16:00	2007	2008	31
+Middlesbrough FC	Derby County	1:0	1:0	22.03.2008	16:00	2007	2008	31
+Newcastle United	Fulham FC	1:0	2:0	22.03.2008	16:00	2007	2008	31
+Reading FC	Birmingham City	1:0	2:1	22.03.2008	16:00	2007	2008	31
+Everton FC	West Ham United	1:0	1:1	22.03.2008	18:15	2007	2008	31
+Manchester United	Liverpool FC	1:0	3:0	23.03.2008	14:30	2007	2008	31
+Chelsea FC	Arsenal FC	0:0	2:1	23.03.2008	17:00	2007	2008	31
+Birmingham City	Manchester City	1:0	3:1	29.03.2008	16:00	2007	2008	32
+Bolton Wanderers	Arsenal FC	2:0	2:3	29.03.2008	16:00	2007	2008	32
+Derby County	Fulham FC	1:1	2:2	29.03.2008	16:00	2007	2008	32
+Portsmouth FC	Wigan Athletic	1:0	2:0	29.03.2008	16:00	2007	2008	32
+Reading FC	Blackburn Rovers	0:0	0:0	29.03.2008	16:00	2007	2008	32
+Sunderland AFC	West Ham United	1:1	2:1	29.03.2008	16:00	2007	2008	32
+Manchester United	Aston Villa	2:0	4:0	29.03.2008	18:15	2007	2008	32
+Chelsea FC	Middlesbrough FC	1:0	1:0	30.03.2008	14:30	2007	2008	32
+Tottenham Hotspur	Newcastle United	1:1	1:4	30.03.2008	16:00	2007	2008	32
+Liverpool FC	Everton FC	1:0	1:0	30.03.2008	17:00	2007	2008	32
+Arsenal FC	Liverpool FC	0:1	1:1	05.04.2008	13:45	2007	2008	33
+Aston Villa	Bolton Wanderers	1:0	4:0	05.04.2008	16:00	2007	2008	33
+Blackburn Rovers	Tottenham Hotspur	1:1	1:1	05.04.2008	16:00	2007	2008	33
+Fulham FC	Sunderland AFC	0:1	1:3	05.04.2008	16:00	2007	2008	33
+Manchester City	Chelsea FC	0:1	0:2	05.04.2008	16:00	2007	2008	33
+Newcastle United	Reading FC	2:0	3:0	05.04.2008	16:00	2007	2008	33
+Wigan Athletic	Birmingham City	1:0	2:0	05.04.2008	16:00	2007	2008	33
+Middlesbrough FC	Manchester United	1:1	2:2	06.04.2008	14:30	2007	2008	33
+Everton FC	Derby County	0:0	1:0	06.04.2008	16:00	2007	2008	33
+West Ham United	Portsmouth FC	0:0	0:1	08.04.2008	20:45	2007	2008	33
+Birmingham City	Everton FC	0:0	1:1	12.04.2008	16:00	2007	2008	34
+Bolton Wanderers	West Ham United	0:0	1:0	12.04.2008	16:00	2007	2008	34
+Derby County	Aston Villa	0:3	0:6	12.04.2008	16:00	2007	2008	34
+Reading FC	Fulham FC	0:1	0:2	12.04.2008	16:00	2007	2008	34
+Sunderland AFC	Manchester City	0:0	1:2	12.04.2008	16:00	2007	2008	34
+Tottenham Hotspur	Middlesbrough FC	1:0	1:1	12.04.2008	16:00	2007	2008	34
+Portsmouth FC	Newcastle United	0:0	0:0	12.04.2008	18:15	2007	2008	34
+Liverpool FC	Blackburn Rovers	0:0	3:1	13.04.2008	14:30	2007	2008	34
+Manchester United	Arsenal FC	0:0	2:1	13.04.2008	17:00	2007	2008	34
+Chelsea FC	Wigan Athletic	0:0	1:1	14.04.2008	21:00	2007	2008	34
+Everton FC	Chelsea FC	0:1	0:1	17.04.2008	21:00	2007	2008	35
+Arsenal FC	Reading FC	2:0	2:0	19.04.2008	13:45	2007	2008	35
+Fulham FC	Liverpool FC	0:1	0:2	19.04.2008	16:00	2007	2008	35
+Middlesbrough FC	Bolton Wanderers	0:0	0:1	19.04.2008	16:00	2007	2008	35
+West Ham United	Derby County	1:0	2:1	19.04.2008	16:00	2007	2008	35
+Wigan Athletic	Tottenham Hotspur	1:1	1:1	19.04.2008	16:00	2007	2008	35
+Blackburn Rovers	Manchester United	1:0	1:1	19.04.2008	18:15	2007	2008	35
+Aston Villa	Birmingham City	2:0	5:1	20.04.2008	13:00	2007	2008	35
+Newcastle United	Sunderland AFC	2:0	2:0	20.04.2008	14:30	2007	2008	35
+Manchester City	Portsmouth FC	2:1	3:1	20.04.2008	17:00	2007	2008	35
+Chelsea FC	Manchester United	1:0	2:1	26.04.2008	13:45	2007	2008	36
+Birmingham City	Liverpool FC	1:0	2:2	26.04.2008	16:00	2007	2008	36
+Manchester City	Fulham FC	2:0	2:3	26.04.2008	16:00	2007	2008	36
+Sunderland AFC	Middlesbrough FC	2:1	3:2	26.04.2008	16:00	2007	2008	36
+Tottenham Hotspur	Bolton Wanderers	0:0	1:1	26.04.2008	16:00	2007	2008	36
+West Ham United	Newcastle United	2:2	2:2	26.04.2008	16:00	2007	2008	36
+Wigan Athletic	Reading FC	0:0	0:0	26.04.2008	16:00	2007	2008	36
+Portsmouth FC	Blackburn Rovers	0:0	0:1	27.04.2008	14:30	2007	2008	36
+Everton FC	Aston Villa	0:0	2:2	27.04.2008	17:00	2007	2008	36
+Derby County	Arsenal FC	1:2	2:6	28.04.2008	21:00	2007	2008	36
+Manchester United	West Ham United	3:1	4:1	03.05.2008	13:45	2007	2008	37
+Aston Villa	Wigan Athletic	0:0	0:2	03.05.2008	16:00	2007	2008	37
+Blackburn Rovers	Derby County	1:1	3:1	03.05.2008	16:00	2007	2008	37
+Fulham FC	Birmingham City	0:0	2:0	03.05.2008	16:00	2007	2008	37
+Middlesbrough FC	Portsmouth FC	1:0	2:0	03.05.2008	16:00	2007	2008	37
+Reading FC	Tottenham Hotspur	0:1	0:1	03.05.2008	16:00	2007	2008	37
+Bolton Wanderers	Sunderland AFC	1:0	2:0	03.05.2008	18:15	2007	2008	37
+Arsenal FC	Everton FC	0:0	1:0	04.05.2008	14:30	2007	2008	37
+Liverpool FC	Manchester City	0:0	1:0	04.05.2008	17:00	2007	2008	37
+Newcastle United	Chelsea FC	0:0	0:2	05.05.2008	17:00	2007	2008	37
+Birmingham City	Blackburn Rovers	1:0	4:1	11.05.2008	16:00	2007	2008	38
+Chelsea FC	Bolton Wanderers	0:0	1:1	11.05.2008	16:00	2007	2008	38
+Derby County	Reading FC	0:1	0:4	11.05.2008	16:00	2007	2008	38
+Everton FC	Newcastle United	1:0	3:1	11.05.2008	16:00	2007	2008	38
+Middlesbrough FC	Manchester City	2:0	8:1	11.05.2008	16:00	2007	2008	38
+Portsmouth FC	Fulham FC	0:0	0:1	11.05.2008	16:00	2007	2008	38
+Sunderland AFC	Arsenal FC	0:1	0:1	11.05.2008	16:00	2007	2008	38
+Tottenham Hotspur	Liverpool FC	0:0	0:2	11.05.2008	16:00	2007	2008	38
+West Ham United	Aston Villa	1:1	2:2	11.05.2008	16:00	2007	2008	38
+Wigan Athletic	Manchester United	0:1	0:2	11.05.2008	16:00	2007	2008	38

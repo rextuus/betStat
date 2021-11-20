@@ -1,0 +1,182 @@
+Athletic Bilbao	Espanyol Barcelona	2:1	4:1	22.09.1946	00:00	1946	1947	1
+Deportivo La CoruÃ±a	Sevilla FC	0:0	0:0	22.09.1946	00:00	1946	1947	1
+FC Barcelona	Celta Vigo	0:0	1:1	22.09.1946	00:00	1946	1947	1
+Atletico Madrid	Sporting GijÃ³n	0:1	2:2	22.09.1946	00:00	1946	1947	1
+Valencia CF	CE Sabadell	0:0	1:0	22.09.1946	00:00	1946	1947	1
+Real Murcia	CD CastellÃ³n	1:0	2:0	22.09.1946	00:00	1946	1947	1
+Real Oviedo	Real Madrid	0:0	0:0	22.09.1946	00:00	1946	1947	1
+Sporting GijÃ³n	Real Oviedo	0:1	1:1	29.09.1946	00:00	1946	1947	2
+Espanyol Barcelona	Deportivo La CoruÃ±a	2:0	3:1	29.09.1946	00:00	1946	1947	2
+CE Sabadell	Atletico Madrid	1:1	1:1	29.09.1946	00:00	1946	1947	2
+Celta Vigo	Valencia CF	0:0	1:2	29.09.1946	00:00	1946	1947	2
+CD CastellÃ³n	Athletic Bilbao	2:1	2:2	29.09.1946	00:00	1946	1947	2
+Sevilla FC	FC Barcelona	3:1	3:1	29.09.1946	00:00	1946	1947	2
+Real Madrid	Real Murcia	3:0	5:0	29.09.1946	00:00	1946	1947	2
+Athletic Bilbao	Real Madrid	1:0	2:0	06.10.1946	00:00	1946	1947	3
+Deportivo La CoruÃ±a	FC Barcelona	1:1	3:2	06.10.1946	00:00	1946	1947	3
+Valencia CF	Sevilla FC	4:1	4:1	06.10.1946	00:00	1946	1947	3
+Atletico Madrid	Celta Vigo	1:2	3:2	06.10.1946	00:00	1946	1947	3
+Real Murcia	Sporting GijÃ³n	3:3	5:4	06.10.1946	00:00	1946	1947	3
+Real Oviedo	CE Sabadell	0:0	0:1	06.10.1946	00:00	1946	1947	3
+Espanyol Barcelona	CD CastellÃ³n	3:0	5:0	06.10.1946	00:00	1946	1947	3
+Sporting GijÃ³n	Athletic Bilbao	0:0	1:0	13.10.1946	00:00	1946	1947	4
+Celta Vigo	Real Oviedo	0:3	3:3	13.10.1946	00:00	1946	1947	4
+CE Sabadell	Real Murcia	0:0	1:1	13.10.1946	00:00	1946	1947	4
+CD CastellÃ³n	Deportivo La CoruÃ±a	1:1	1:1	13.10.1946	00:00	1946	1947	4
+Real Madrid	Espanyol Barcelona	2:0	2:0	13.10.1946	00:00	1946	1947	4
+Sevilla FC	Atletico Madrid	1:1	1:2	13.10.1946	00:00	1946	1947	4
+FC Barcelona	Valencia CF	1:1	2:1	13.10.1946	00:00	1946	1947	4
+Athletic Bilbao	CE Sabadell	2:0	2:1	20.10.1946	00:00	1946	1947	5
+CD CastellÃ³n	Real Madrid	1:1	2:3	20.10.1946	00:00	1946	1947	5
+Atletico Madrid	FC Barcelona	1:0	2:2	20.10.1946	00:00	1946	1947	5
+Deportivo La CoruÃ±a	Valencia CF	0:0	0:0	20.10.1946	00:00	1946	1947	5
+Real Oviedo	Sevilla FC	2:1	4:2	20.10.1946	00:00	1946	1947	5
+Real Murcia	Celta Vigo	0:1	0:2	20.10.1946	00:00	1946	1947	5
+Espanyol Barcelona	Sporting GijÃ³n	2:1	2:1	20.10.1946	00:00	1946	1947	5
+Sporting GijÃ³n	CD CastellÃ³n	1:0	4:0	27.10.1946	00:00	1946	1947	6
+Sevilla FC	Real Murcia	1:0	1:1	27.10.1946	00:00	1946	1947	6
+Real Madrid	Deportivo La CoruÃ±a	2:0	5:0	27.10.1946	00:00	1946	1947	6
+FC Barcelona	Real Oviedo	0:0	2:0	27.10.1946	00:00	1946	1947	6
+Valencia CF	Atletico Madrid	0:0	0:2	27.10.1946	00:00	1946	1947	6
+Celta Vigo	Athletic Bilbao	3:2	3:2	27.10.1946	00:00	1946	1947	6
+CE Sabadell	Espanyol Barcelona	3:0	3:1	27.10.1946	00:00	1946	1947	6
+Real Madrid	Sporting GijÃ³n	2:0	4:0	03.11.1946	00:00	1946	1947	7
+Deportivo La CoruÃ±a	Atletico Madrid	0:0	1:0	03.11.1946	00:00	1946	1947	7
+CD CastellÃ³n	CE Sabadell	2:0	4:0	03.11.1946	00:00	1946	1947	7
+Real Murcia	FC Barcelona	0:0	0:1	03.11.1946	00:00	1946	1947	7
+Espanyol Barcelona	Celta Vigo	0:0	2:0	03.11.1946	00:00	1946	1947	7
+Real Oviedo	Valencia CF	1:1	4:1	03.11.1946	00:00	1946	1947	7
+Athletic Bilbao	Sevilla FC	2:0	5:0	03.11.1946	00:00	1946	1947	7
+Valencia CF	Real Murcia	1:2	1:2	10.11.1946	00:00	1946	1947	8
+Celta Vigo	CD CastellÃ³n	0:0	0:0	10.11.1946	00:00	1946	1947	8
+Sporting GijÃ³n	Deportivo La CoruÃ±a	1:0	2:0	10.11.1946	00:00	1946	1947	8
+Atletico Madrid	Real Oviedo	4:0	5:2	10.11.1946	00:00	1946	1947	8
+Sevilla FC	Espanyol Barcelona	0:1	3:1	10.11.1946	00:00	1946	1947	8
+FC Barcelona	Athletic Bilbao	1:1	2:1	10.11.1946	00:00	1946	1947	8
+CE Sabadell	Real Madrid	2:2	3:3	10.11.1946	00:00	1946	1947	8
+Athletic Bilbao	Valencia CF	0:1	0:1	17.11.1946	00:00	1946	1947	9
+Real Murcia	Atletico Madrid	1:2	1:2	17.11.1946	00:00	1946	1947	9
+CD CastellÃ³n	Sevilla FC	0:3	1:4	17.11.1946	00:00	1946	1947	9
+Real Madrid	Celta Vigo	2:0	3:3	17.11.1946	00:00	1946	1947	9
+Deportivo La CoruÃ±a	Real Oviedo	0:1	2:2	17.11.1946	00:00	1946	1947	9
+Sporting GijÃ³n	CE Sabadell	3:1	3:1	17.11.1946	00:00	1946	1947	9
+Espanyol Barcelona	FC Barcelona	0:0	0:1	17.11.1946	00:00	1946	1947	9
+CE Sabadell	Deportivo La CoruÃ±a	0:0	3:0	24.11.1946	00:00	1946	1947	10
+Celta Vigo	Sporting GijÃ³n	6:0	6:2	24.11.1946	00:00	1946	1947	10
+Real Oviedo	Real Murcia	2:0	3:0	24.11.1946	00:00	1946	1947	10
+Atletico Madrid	Athletic Bilbao	2:0	4:0	24.11.1946	00:00	1946	1947	10
+Sevilla FC	Real Madrid	2:0	5:0	24.11.1946	00:00	1946	1947	10
+Valencia CF	Espanyol Barcelona	1:1	3:2	24.11.1946	00:00	1946	1947	10
+FC Barcelona	CD CastellÃ³n	1:1	3:3	24.11.1946	00:00	1946	1947	10
+Real Madrid	FC Barcelona	1:1	2:1	01.12.1946	00:00	1946	1947	11
+CD CastellÃ³n	Valencia CF	0:2	2:4	01.12.1946	00:00	1946	1947	11
+Espanyol Barcelona	Atletico Madrid	1:1	4:1	01.12.1946	00:00	1946	1947	11
+Sporting GijÃ³n	Sevilla FC	0:0	1:4	01.12.1946	00:00	1946	1947	11
+CE Sabadell	Celta Vigo	1:0	2:0	01.12.1946	00:00	1946	1947	11
+Athletic Bilbao	Real Oviedo	4:0	4:1	01.12.1946	00:00	1946	1947	11
+Deportivo La CoruÃ±a	Real Murcia	1:1	3:1	01.12.1946	00:00	1946	1947	11
+Valencia CF	Real Madrid	3:1	4:1	08.12.1946	00:00	1946	1947	12
+Atletico Madrid	CD CastellÃ³n	1:1	3:2	08.12.1946	00:00	1946	1947	12
+Sevilla FC	CE Sabadell	2:0	4:0	08.12.1946	00:00	1946	1947	12
+FC Barcelona	Sporting GijÃ³n	2:0	4:1	08.12.1946	00:00	1946	1947	12
+Deportivo La CoruÃ±a	Celta Vigo	0:2	1:4	08.12.1946	00:00	1946	1947	12
+Real Murcia	Athletic Bilbao	0:2	2:4	08.12.1946	00:00	1946	1947	12
+Real Oviedo	Espanyol Barcelona	2:0	4:0	08.12.1946	00:00	1946	1947	12
+Espanyol Barcelona	Real Murcia	2:1	2:3	15.12.1946	00:00	1946	1947	13
+CE Sabadell	FC Barcelona	0:1	1:4	15.12.1946	00:00	1946	1947	13
+Sporting GijÃ³n	Valencia CF	3:1	4:1	15.12.1946	00:00	1946	1947	13
+Real Madrid	Atletico Madrid	1:0	1:2	15.12.1946	00:00	1946	1947	13
+Celta Vigo	Sevilla FC	2:0	3:0	15.12.1946	00:00	1946	1947	13
+CD CastellÃ³n	Real Oviedo	1:2	3:3	15.12.1946	00:00	1946	1947	13
+Athletic Bilbao	Deportivo La CoruÃ±a	4:0	6:0	15.12.1946	00:00	1946	1947	13
+Espanyol Barcelona	Athletic Bilbao	0:1	0:3	29.12.1946	00:00	1946	1947	14
+CE Sabadell	Valencia CF	0:0	3:0	29.12.1946	00:00	1946	1947	14
+Sporting GijÃ³n	Atletico Madrid	1:1	1:2	29.12.1946	00:00	1946	1947	14
+Real Madrid	Real Oviedo	1:0	2:0	29.12.1946	00:00	1946	1947	14
+Sevilla FC	Deportivo La CoruÃ±a	4:0	4:0	29.12.1946	00:00	1946	1947	14
+CD CastellÃ³n	Real Murcia	1:0	1:0	29.12.1946	00:00	1946	1947	14
+Celta Vigo	FC Barcelona	2:0	2:1	29.12.1946	00:00	1946	1947	14
+Athletic Bilbao	CD CastellÃ³n	4:0	6:0	01.01.1947	00:00	1946	1947	15
+Valencia CF	Celta Vigo	0:1	2:1	05.01.1947	00:00	1946	1947	15
+FC Barcelona	Sevilla FC	2:1	5:1	05.01.1947	00:00	1946	1947	15
+Deportivo La CoruÃ±a	Espanyol Barcelona	1:0	1:0	07.01.1947	00:00	1946	1947	15
+Real Oviedo	Sporting GijÃ³n	1:2	3:2	07.01.1947	00:00	1946	1947	15
+Real Murcia	Real Madrid	1:1	1:1	07.01.1947	00:00	1946	1947	15
+Atletico Madrid	CE Sabadell	0:2	1:3	07.01.1947	00:00	1946	1947	15
+Real Madrid	Athletic Bilbao	1:2	3:6	12.01.1947	00:00	1946	1947	16
+CD CastellÃ³n	Espanyol Barcelona	4:1	4:3	12.01.1947	00:00	1946	1947	16
+Sevilla FC	Valencia CF	2:0	3:1	12.01.1947	00:00	1946	1947	16
+Celta Vigo	Atletico Madrid	0:3	0:4	12.01.1947	00:00	1946	1947	16
+CE Sabadell	Real Oviedo	1:1	1:1	12.01.1947	00:00	1946	1947	16
+FC Barcelona	Deportivo La CoruÃ±a	2:0	5:0	12.01.1947	00:00	1946	1947	16
+Sporting GijÃ³n	Real Murcia	2:0	4:1	12.01.1947	00:00	1946	1947	16
+Espanyol Barcelona	Real Madrid	3:1	4:2	19.01.1947	00:00	1946	1947	17
+Athletic Bilbao	Sporting GijÃ³n	4:0	6:2	19.01.1947	00:00	1946	1947	17
+Deportivo La CoruÃ±a	CD CastellÃ³n	4:0	8:1	19.01.1947	00:00	1946	1947	17
+Real Murcia	CE Sabadell	0:0	0:0	19.01.1947	00:00	1946	1947	17
+Valencia CF	FC Barcelona	2:0	4:0	19.01.1947	00:00	1946	1947	17
+Real Oviedo	Celta Vigo	1:0	2:0	19.01.1947	00:00	1946	1947	17
+Atletico Madrid	Sevilla FC	1:0	1:1	19.01.1947	00:00	1946	1947	17
+Real Madrid	CD CastellÃ³n	4:2	7:4	02.02.1947	00:00	1946	1947	18
+CE Sabadell	Athletic Bilbao	0:1	1:1	02.02.1947	00:00	1946	1947	18
+Sporting GijÃ³n	Espanyol Barcelona	0:1	1:1	02.02.1947	00:00	1946	1947	18
+FC Barcelona	Atletico Madrid	0:2	3:2	02.02.1947	00:00	1946	1947	18
+Sevilla FC	Real Oviedo	2:1	2:1	02.02.1947	00:00	1946	1947	18
+Valencia CF	Deportivo La CoruÃ±a	2:0	3:0	02.02.1947	00:00	1946	1947	18
+Celta Vigo	Real Murcia	4:0	6:0	02.02.1947	00:00	1946	1947	18
+Espanyol Barcelona	CE Sabadell	0:1	1:2	09.02.1947	00:00	1946	1947	19
+CD CastellÃ³n	Sporting GijÃ³n	0:2	0:2	09.02.1947	00:00	1946	1947	19
+Athletic Bilbao	Celta Vigo	2:2	3:2	09.02.1947	00:00	1946	1947	19
+Real Murcia	Sevilla FC	0:0	1:1	09.02.1947	00:00	1946	1947	19
+Atletico Madrid	Valencia CF	0:1	1:1	09.02.1947	00:00	1946	1947	19
+Deportivo La CoruÃ±a	Real Madrid	1:2	2:2	09.02.1947	00:00	1946	1947	19
+Real Oviedo	FC Barcelona	1:1	2:3	09.02.1947	00:00	1946	1947	19
+Celta Vigo	Espanyol Barcelona	2:0	3:2	16.02.1947	00:00	1946	1947	20
+CE Sabadell	CD CastellÃ³n	3:0	4:1	16.02.1947	00:00	1946	1947	20
+FC Barcelona	Real Murcia	2:1	6:2	16.02.1947	00:00	1946	1947	20
+Atletico Madrid	Deportivo La CoruÃ±a	1:0	3:1	16.02.1947	00:00	1946	1947	20
+Sevilla FC	Athletic Bilbao	0:2	2:2	16.02.1947	00:00	1946	1947	20
+Sporting GijÃ³n	Real Madrid	1:1	2:1	16.02.1947	00:00	1946	1947	20
+Valencia CF	Real Oviedo	3:1	4:1	16.02.1947	00:00	1946	1947	20
+Real Madrid	CE Sabadell	1:2	1:3	09.03.1947	00:00	1946	1947	21
+Deportivo La CoruÃ±a	Sporting GijÃ³n	0:0	1:1	09.03.1947	00:00	1946	1947	21
+Espanyol Barcelona	Sevilla FC	3:0	4:0	09.03.1947	00:00	1946	1947	21
+Real Oviedo	Atletico Madrid	3:0	4:0	09.03.1947	00:00	1946	1947	21
+Real Murcia	Valencia CF	0:0	1:0	09.03.1947	00:00	1946	1947	21
+Athletic Bilbao	FC Barcelona	1:0	1:0	09.03.1947	00:00	1946	1947	21
+CD CastellÃ³n	Celta Vigo	0:1	1:2	11.03.1947	00:00	1946	1947	21
+Valencia CF	Athletic Bilbao	0:0	1:0	16.03.1947	00:00	1946	1947	22
+FC Barcelona	Espanyol Barcelona	3:0	5:0	16.03.1947	00:00	1946	1947	22
+CE Sabadell	Sporting GijÃ³n	0:2	2:2	16.03.1947	00:00	1946	1947	22
+Real Oviedo	Deportivo La CoruÃ±a	2:0	3:1	16.03.1947	00:00	1946	1947	22
+Atletico Madrid	Real Murcia	0:1	2:2	16.03.1947	00:00	1946	1947	22
+Sevilla FC	CD CastellÃ³n	2:1	4:2	16.03.1947	00:00	1946	1947	22
+Celta Vigo	Real Madrid	1:1	3:4	16.03.1947	00:00	1946	1947	22
+Sporting GijÃ³n	Celta Vigo	3:0	3:0	23.03.1947	00:00	1946	1947	23
+Real Madrid	Sevilla FC	2:0	3:0	23.03.1947	00:00	1946	1947	23
+Real Murcia	Real Oviedo	0:0	0:0	23.03.1947	00:00	1946	1947	23
+Espanyol Barcelona	Valencia CF	1:2	1:2	23.03.1947	00:00	1946	1947	23
+CD CastellÃ³n	FC Barcelona	2:0	4:1	23.03.1947	00:00	1946	1947	23
+Athletic Bilbao	Atletico Madrid	2:0	3:1	23.03.1947	00:00	1946	1947	23
+Deportivo La CoruÃ±a	CE Sabadell	0:0	1:1	23.03.1947	00:00	1946	1947	23
+FC Barcelona	Real Madrid	2:0	3:2	30.03.1947	00:00	1946	1947	24
+Real Oviedo	Athletic Bilbao	1:0	3:0	30.03.1947	00:00	1946	1947	24
+Atletico Madrid	Espanyol Barcelona	5:1	8:3	30.03.1947	00:00	1946	1947	24
+Sevilla FC	Sporting GijÃ³n	2:2	5:2	30.03.1947	00:00	1946	1947	24
+Real Murcia	Deportivo La CoruÃ±a	0:0	1:0	30.03.1947	00:00	1946	1947	24
+Valencia CF	CD CastellÃ³n	2:0	3:0	30.03.1947	00:00	1946	1947	24
+Celta Vigo	CE Sabadell	1:1	2:1	23.04.1947	00:00	1946	1947	24
+Sporting GijÃ³n	FC Barcelona	1:1	3:1	06.04.1947	00:00	1946	1947	25
+Athletic Bilbao	Real Murcia	4:1	6:2	06.04.1947	00:00	1946	1947	25
+Celta Vigo	Deportivo La CoruÃ±a	2:0	4:2	06.04.1947	00:00	1946	1947	25
+Espanyol Barcelona	Real Oviedo	0:1	2:1	06.04.1947	00:00	1946	1947	25
+CE Sabadell	Sevilla FC	2:0	3:1	06.04.1947	00:00	1946	1947	25
+Real Madrid	Valencia CF	1:2	2:4	06.04.1947	00:00	1946	1947	25
+CD CastellÃ³n	Atletico Madrid	0:2	0:2	06.04.1947	00:00	1946	1947	25
+Real Oviedo	CD CastellÃ³n	4:0	4:1	13.04.1947	00:00	1946	1947	26
+Atletico Madrid	Real Madrid	2:1	2:3	13.04.1947	00:00	1946	1947	26
+Deportivo La CoruÃ±a	Athletic Bilbao	2:3	3:3	13.04.1947	00:00	1946	1947	26
+Real Murcia	Espanyol Barcelona	0:1	1:2	13.04.1947	00:00	1946	1947	26
+Sevilla FC	Celta Vigo	0:0	2:0	13.04.1947	00:00	1946	1947	26
+Valencia CF	Sporting GijÃ³n	2:0	6:0	13.04.1947	00:00	1946	1947	26
+FC Barcelona	CE Sabadell	0:1	0:1	13.04.1947	00:00	1946	1947	26

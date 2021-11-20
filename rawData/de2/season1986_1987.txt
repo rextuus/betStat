@@ -1,0 +1,380 @@
+Rot-WeiÃ Oberhausen	Rot-Weiss Essen	1:0	2:0	26.07.1986	15:00	1986	1987	1
+Eintracht Braunschweig	SC Freiburg	2:0	2:0	26.07.1986	15:00	1986	1987	1
+Fortuna KÃ¶ln	Arminia Bielefeld	0:0	0:0	26.07.1986	15:00	1986	1987	1
+Hessen Kassel	Viktoria Aschaffenburg	1:2	1:4	26.07.1986	15:00	1986	1987	1
+Stuttgarter Kickers	SG Union Solingen	3:1	3:1	26.07.1986	15:00	1986	1987	1
+FC St. Pauli	1. FC SaarbrÃ¼cken	2:1	4:2	26.07.1986	15:00	1986	1987	1
+SSV Ulm 1846	SV Darmstadt 98	1:0	2:0	26.07.1986	15:00	1986	1987	1
+FSV Salmrohr	Karlsruher SC	0:0	1:1	26.07.1986	15:00	1986	1987	1
+SG Wattenscheid 09	Alemannia Aachen	1:1	1:1	26.07.1986	15:00	1986	1987	1
+VfL OsnabrÃ¼ck	Hannover 96	1:1	1:2	29.07.1986	19:00	1986	1987	1
+Alemannia Aachen	Eintracht Braunschweig	1:0	1:0	02.08.1986	15:00	1986	1987	2
+Arminia Bielefeld	SG Wattenscheid 09	1:0	2:3	02.08.1986	15:00	1986	1987	2
+SG Union Solingen	Rot-WeiÃ Oberhausen	1:3	5:3	02.08.1986	15:00	1986	1987	2
+SC Freiburg	FC St. Pauli	0:0	1:0	02.08.1986	15:00	1986	1987	2
+SV Darmstadt 98	Hessen Kassel	1:0	3:0	02.08.1986	15:00	1986	1987	2
+Rot-Weiss Essen	SSV Ulm 1846	1:1	2:3	02.08.1986	15:00	1986	1987	2
+Karlsruher SC	VfL OsnabrÃ¼ck	1:0	1:2	02.08.1986	15:00	1986	1987	2
+Hannover 96	Stuttgarter Kickers	1:0	4:1	02.08.1986	15:00	1986	1987	2
+Viktoria Aschaffenburg	Fortuna KÃ¶ln	1:0	1:1	02.08.1986	15:00	1986	1987	2
+1. FC SaarbrÃ¼cken	FSV Salmrohr	0:1	0:2	02.08.1986	15:00	1986	1987	2
+Stuttgarter Kickers	Karlsruher SC	1:0	2:0	09.08.1986	15:00	1986	1987	3
+SG Wattenscheid 09	Viktoria Aschaffenburg	0:0	2:0	09.08.1986	15:00	1986	1987	3
+SC Freiburg	Alemannia Aachen	0:0	2:1	09.08.1986	15:00	1986	1987	3
+Rot-WeiÃ Oberhausen	Hannover 96	1:0	1:2	09.08.1986	15:00	1986	1987	3
+FC St. Pauli	FSV Salmrohr	0:0	3:0	09.08.1986	15:00	1986	1987	3
+Hessen Kassel	Rot-Weiss Essen	1:1	2:2	09.08.1986	15:00	1986	1987	3
+Eintracht Braunschweig	Arminia Bielefeld	0:3	2:3	09.08.1986	15:00	1986	1987	3
+VfL OsnabrÃ¼ck	1. FC SaarbrÃ¼cken	1:1	1:1	09.08.1986	15:00	1986	1987	3
+SSV Ulm 1846	SG Union Solingen	0:0	3:1	09.08.1986	15:00	1986	1987	3
+Fortuna KÃ¶ln	SV Darmstadt 98	0:1	0:1	09.08.1986	15:00	1986	1987	3
+Hannover 96	SSV Ulm 1846	2:1	2:1	13.08.1986	19:00	1986	1987	4
+Karlsruher SC	Rot-WeiÃ Oberhausen	2:1	3:2	16.08.1986	15:00	1986	1987	4
+Arminia Bielefeld	SC Freiburg	0:0	0:0	16.08.1986	15:00	1986	1987	4
+Viktoria Aschaffenburg	Eintracht Braunschweig	1:1	3:1	16.08.1986	15:00	1986	1987	4
+FSV Salmrohr	VfL OsnabrÃ¼ck	0:1	2:3	16.08.1986	15:00	1986	1987	4
+SV Darmstadt 98	SG Wattenscheid 09	1:0	1:1	16.08.1986	15:00	1986	1987	4
+SG Union Solingen	Hessen Kassel	2:0	3:0	16.08.1986	15:00	1986	1987	4
+Alemannia Aachen	FC St. Pauli	1:0	1:1	16.08.1986	15:00	1986	1987	4
+1. FC SaarbrÃ¼cken	Stuttgarter Kickers	0:0	2:0	16.08.1986	15:00	1986	1987	4
+Rot-Weiss Essen	Fortuna KÃ¶ln	0:0	3:3	16.08.1986	15:00	1986	1987	4
+SC Freiburg	Viktoria Aschaffenburg	0:0	3:1	23.08.1986	15:00	1986	1987	5
+Stuttgarter Kickers	FSV Salmrohr	2:1	2:1	23.08.1986	15:00	1986	1987	5
+FC St. Pauli	VfL OsnabrÃ¼ck	0:0	0:1	23.08.1986	15:00	1986	1987	5
+SG Wattenscheid 09	Rot-Weiss Essen	1:0	2:1	23.08.1986	15:00	1986	1987	5
+SSV Ulm 1846	Karlsruher SC	0:2	0:2	23.08.1986	15:00	1986	1987	5
+Eintracht Braunschweig	SV Darmstadt 98	0:0	0:0	23.08.1986	15:00	1986	1987	5
+Alemannia Aachen	Arminia Bielefeld	1:0	2:0	23.08.1986	15:00	1986	1987	5
+Hessen Kassel	Hannover 96	0:0	0:4	23.08.1986	15:00	1986	1987	5
+Fortuna KÃ¶ln	SG Union Solingen	2:0	2:1	23.08.1986	15:00	1986	1987	5
+Rot-WeiÃ Oberhausen	1. FC SaarbrÃ¼cken	0:0	1:0	23.08.1986	15:00	1986	1987	5
+Viktoria Aschaffenburg	Alemannia Aachen	0:1	1:2	03.09.1986	19:30	1986	1987	6
+FSV Salmrohr	Rot-WeiÃ Oberhausen	1:1	2:4	03.09.1986	19:30	1986	1987	6
+VfL OsnabrÃ¼ck	Stuttgarter Kickers	1:0	3:2	03.09.1986	19:30	1986	1987	6
+Arminia Bielefeld	FC St. Pauli	1:0	1:1	03.09.1986	19:30	1986	1987	6
+Karlsruher SC	Hessen Kassel	2:1	2:1	03.09.1986	19:30	1986	1987	6
+Hannover 96	Fortuna KÃ¶ln	0:0	2:0	03.09.1986	19:30	1986	1987	6
+SV Darmstadt 98	SC Freiburg	1:0	1:0	03.09.1986	19:30	1986	1987	6
+Rot-Weiss Essen	Eintracht Braunschweig	0:0	1:1	03.09.1986	19:30	1986	1987	6
+SG Union Solingen	SG Wattenscheid 09	1:0	1:1	03.09.1986	19:30	1986	1987	6
+1. FC SaarbrÃ¼cken	SSV Ulm 1846	0:0	2:0	03.09.1986	19:30	1986	1987	6
+Arminia Bielefeld	Viktoria Aschaffenburg	0:0	1:1	06.09.1986	15:00	1986	1987	7
+Fortuna KÃ¶ln	Karlsruher SC	3:2	3:3	06.09.1986	15:00	1986	1987	7
+Rot-WeiÃ Oberhausen	VfL OsnabrÃ¼ck	0:1	0:2	06.09.1986	15:00	1986	1987	7
+FC St. Pauli	Stuttgarter Kickers	0:0	0:0	06.09.1986	15:00	1986	1987	7
+SC Freiburg	Rot-Weiss Essen	1:0	3:1	06.09.1986	15:00	1986	1987	7
+Alemannia Aachen	SV Darmstadt 98	0:0	1:0	06.09.1986	15:00	1986	1987	7
+Hessen Kassel	1. FC SaarbrÃ¼cken	0:0	0:1	06.09.1986	15:00	1986	1987	7
+SG Wattenscheid 09	Hannover 96	0:0	0:2	06.09.1986	15:00	1986	1987	7
+Eintracht Braunschweig	SG Union Solingen	0:0	5:1	06.09.1986	15:00	1986	1987	7
+SSV Ulm 1846	FSV Salmrohr	0:0	3:0	06.09.1986	15:00	1986	1987	7
+Hannover 96	Eintracht Braunschweig	0:0	1:0	12.09.1986	20:00	1986	1987	8
+SV Darmstadt 98	Arminia Bielefeld	0:1	1:1	13.09.1986	15:00	1986	1987	8
+SG Union Solingen	SC Freiburg	0:0	1:0	13.09.1986	15:00	1986	1987	8
+FSV Salmrohr	Hessen Kassel	0:1	0:5	13.09.1986	15:00	1986	1987	8
+1. FC SaarbrÃ¼cken	Fortuna KÃ¶ln	1:2	3:3	13.09.1986	15:00	1986	1987	8
+Stuttgarter Kickers	Rot-WeiÃ Oberhausen	1:0	1:0	13.09.1986	15:00	1986	1987	8
+Rot-Weiss Essen	Alemannia Aachen	0:0	0:1	13.09.1986	15:00	1986	1987	8
+Karlsruher SC	SG Wattenscheid 09	1:0	1:1	13.09.1986	15:00	1986	1987	8
+VfL OsnabrÃ¼ck	SSV Ulm 1846	2:0	3:0	13.09.1986	15:00	1986	1987	8
+Viktoria Aschaffenburg	FC St. Pauli	1:1	1:2	13.09.1986	15:00	1986	1987	8
+Hessen Kassel	VfL OsnabrÃ¼ck	0:0	0:0	20.09.1986	15:00	1986	1987	9
+FC St. Pauli	Rot-WeiÃ Oberhausen	1:1	5:1	20.09.1986	15:00	1986	1987	9
+SG Wattenscheid 09	1. FC SaarbrÃ¼cken	2:0	2:2	20.09.1986	15:00	1986	1987	9
+SC Freiburg	Hannover 96	2:1	3:2	20.09.1986	15:00	1986	1987	9
+Arminia Bielefeld	Rot-Weiss Essen	1:1	1:1	20.09.1986	15:00	1986	1987	9
+Eintracht Braunschweig	Karlsruher SC	0:0	1:1	20.09.1986	15:00	1986	1987	9
+SSV Ulm 1846	Stuttgarter Kickers	1:1	2:1	20.09.1986	15:00	1986	1987	9
+Fortuna KÃ¶ln	FSV Salmrohr	1:1	4:2	20.09.1986	15:00	1986	1987	9
+Alemannia Aachen	SG Union Solingen	2:0	2:1	20.09.1986	15:00	1986	1987	9
+Viktoria Aschaffenburg	SV Darmstadt 98	0:0	0:0	20.09.1986	15:00	1986	1987	9
+SV Darmstadt 98	FC St. Pauli	1:1	4:2	27.09.1986	15:00	1986	1987	10
+SG Union Solingen	Arminia Bielefeld	2:1	2:1	27.09.1986	15:00	1986	1987	10
+FSV Salmrohr	SG Wattenscheid 09	0:0	2:2	27.09.1986	15:00	1986	1987	10
+Rot-WeiÃ Oberhausen	SSV Ulm 1846	1:0	1:1	27.09.1986	15:00	1986	1987	10
+Karlsruher SC	SC Freiburg	1:1	4:2	27.09.1986	15:00	1986	1987	10
+Hannover 96	Alemannia Aachen	0:0	1:0	27.09.1986	15:00	1986	1987	10
+VfL OsnabrÃ¼ck	Fortuna KÃ¶ln	1:0	3:0	27.09.1986	15:00	1986	1987	10
+Rot-Weiss Essen	Viktoria Aschaffenburg	1:0	5:1	27.09.1986	15:00	1986	1987	10
+1. FC SaarbrÃ¼cken	Eintracht Braunschweig	0:0	0:0	27.09.1986	15:00	1986	1987	10
+Stuttgarter Kickers	Hessen Kassel	2:1	5:2	27.09.1986	15:00	1986	1987	10
+Hessen Kassel	Rot-WeiÃ Oberhausen	0:1	0:2	04.10.1986	15:00	1986	1987	11
+Arminia Bielefeld	Hannover 96	0:0	1:2	04.10.1986	15:00	1986	1987	11
+Viktoria Aschaffenburg	SG Union Solingen	1:0	2:1	04.10.1986	15:00	1986	1987	11
+Fortuna KÃ¶ln	Stuttgarter Kickers	0:2	1:6	04.10.1986	15:00	1986	1987	11
+FC St. Pauli	SSV Ulm 1846	0:0	0:0	04.10.1986	15:00	1986	1987	11
+SV Darmstadt 98	Rot-Weiss Essen	2:0	4:0	04.10.1986	15:00	1986	1987	11
+Eintracht Braunschweig	FSV Salmrohr	2:0	3:0	04.10.1986	15:00	1986	1987	11
+Alemannia Aachen	Karlsruher SC	0:0	4:0	04.10.1986	15:00	1986	1987	11
+SG Wattenscheid 09	VfL OsnabrÃ¼ck	2:0	5:0	04.10.1986	15:00	1986	1987	11
+SC Freiburg	1. FC SaarbrÃ¼cken	0:1	1:1	04.10.1986	15:00	1986	1987	11
+Stuttgarter Kickers	SG Wattenscheid 09	1:0	4:1	11.10.1986	15:00	1986	1987	12
+Karlsruher SC	Arminia Bielefeld	1:0	2:0	11.10.1986	15:00	1986	1987	12
+FSV Salmrohr	SC Freiburg	0:0	1:2	11.10.1986	15:00	1986	1987	12
+1. FC SaarbrÃ¼cken	Alemannia Aachen	2:0	2:1	11.10.1986	15:00	1986	1987	12
+Hannover 96	Viktoria Aschaffenburg	1:0	3:1	11.10.1986	15:00	1986	1987	12
+Rot-Weiss Essen	FC St. Pauli	0:0	4:0	11.10.1986	15:00	1986	1987	12
+SG Union Solingen	SV Darmstadt 98	0:1	4:2	11.10.1986	15:00	1986	1987	12
+VfL OsnabrÃ¼ck	Eintracht Braunschweig	3:0	3:1	11.10.1986	15:00	1986	1987	12
+Rot-WeiÃ Oberhausen	Fortuna KÃ¶ln	0:0	2:0	11.10.1986	15:00	1986	1987	12
+SSV Ulm 1846	Hessen Kassel	0:0	1:1	11.10.1986	15:00	1986	1987	12
+Viktoria Aschaffenburg	Karlsruher SC	1:0	2:1	18.10.1986	15:00	1986	1987	13
+Rot-Weiss Essen	SG Union Solingen	0:0	2:0	18.10.1986	15:00	1986	1987	13
+SG Wattenscheid 09	Rot-WeiÃ Oberhausen	1:1	2:3	18.10.1986	15:00	1986	1987	13
+FC St. Pauli	Hessen Kassel	2:0	4:2	18.10.1986	15:00	1986	1987	13
+Arminia Bielefeld	1. FC SaarbrÃ¼cken	1:1	1:3	18.10.1986	15:00	1986	1987	13
+SV Darmstadt 98	Hannover 96	1:0	3:1	18.10.1986	15:00	1986	1987	13
+Fortuna KÃ¶ln	SSV Ulm 1846	2:0	3:1	18.10.1986	15:00	1986	1987	13
+Eintracht Braunschweig	Stuttgarter Kickers	1:0	5:2	18.10.1986	15:00	1986	1987	13
+Alemannia Aachen	FSV Salmrohr	0:0	1:0	18.10.1986	15:00	1986	1987	13
+SC Freiburg	VfL OsnabrÃ¼ck	1:2	2:2	18.10.1986	15:00	1986	1987	13
+FSV Salmrohr	Arminia Bielefeld	0:0	1:1	01.11.1986	15:00	1986	1987	14
+Rot-WeiÃ Oberhausen	Eintracht Braunschweig	0:0	1:0	01.11.1986	15:00	1986	1987	14
+VfL OsnabrÃ¼ck	Alemannia Aachen	0:1	0:2	01.11.1986	15:00	1986	1987	14
+Hessen Kassel	Fortuna KÃ¶ln	0:0	1:0	01.11.1986	15:00	1986	1987	14
+Hannover 96	Rot-Weiss Essen	2:0	3:2	01.11.1986	15:00	1986	1987	14
+Stuttgarter Kickers	SC Freiburg	1:0	3:0	01.11.1986	15:00	1986	1987	14
+SSV Ulm 1846	SG Wattenscheid 09	0:1	3:1	01.11.1986	15:00	1986	1987	14
+Karlsruher SC	SV Darmstadt 98	2:0	4:0	01.11.1986	15:00	1986	1987	14
+SG Union Solingen	FC St. Pauli	1:0	3:2	01.11.1986	15:00	1986	1987	14
+1. FC SaarbrÃ¼cken	Viktoria Aschaffenburg	0:0	4:2	01.11.1986	15:00	1986	1987	14
+SV Darmstadt 98	1. FC SaarbrÃ¼cken	0:1	4:2	08.11.1986	15:00	1986	1987	15
+SG Union Solingen	Hannover 96	1:2	2:4	08.11.1986	15:00	1986	1987	15
+SG Wattenscheid 09	Hessen Kassel	1:1	1:1	08.11.1986	15:00	1986	1987	15
+FC St. Pauli	Fortuna KÃ¶ln	2:1	3:2	08.11.1986	15:00	1986	1987	15
+Arminia Bielefeld	VfL OsnabrÃ¼ck	2:1	2:3	08.11.1986	15:00	1986	1987	15
+Eintracht Braunschweig	SSV Ulm 1846	1:1	2:2	08.11.1986	15:00	1986	1987	15
+Alemannia Aachen	Stuttgarter Kickers	3:0	4:1	08.11.1986	15:00	1986	1987	15
+Rot-Weiss Essen	Karlsruher SC	2:1	2:1	08.11.1986	15:00	1986	1987	15
+SC Freiburg	Rot-WeiÃ Oberhausen	0:0	2:1	08.11.1986	15:00	1986	1987	15
+Viktoria Aschaffenburg	FSV Salmrohr	1:1	2:2	08.11.1986	15:00	1986	1987	15
+SSV Ulm 1846	SC Freiburg	0:0	0:0	15.11.1986	15:00	1986	1987	16
+VfL OsnabrÃ¼ck	Viktoria Aschaffenburg	2:1	3:1	15.11.1986	15:00	1986	1987	16
+Stuttgarter Kickers	Arminia Bielefeld	0:0	1:0	15.11.1986	15:00	1986	1987	16
+1. FC SaarbrÃ¼cken	Rot-Weiss Essen	1:0	5:1	15.11.1986	15:00	1986	1987	16
+Rot-WeiÃ Oberhausen	Alemannia Aachen	1:0	1:0	15.11.1986	15:00	1986	1987	16
+FSV Salmrohr	SV Darmstadt 98	0:1	0:4	15.11.1986	15:00	1986	1987	16
+Hessen Kassel	Eintracht Braunschweig	0:0	1:0	15.11.1986	15:00	1986	1987	16
+Fortuna KÃ¶ln	SG Wattenscheid 09	0:1	1:1	15.11.1986	15:00	1986	1987	16
+Karlsruher SC	SG Union Solingen	2:1	4:1	15.11.1986	15:00	1986	1987	16
+Hannover 96	FC St. Pauli	3:0	4:1	15.11.1986	15:00	1986	1987	16
+SC Freiburg	Hessen Kassel	0:1	1:2	22.11.1986	15:00	1986	1987	17
+Rot-Weiss Essen	FSV Salmrohr	1:1	3:2	22.11.1986	15:00	1986	1987	17
+SG Union Solingen	1. FC SaarbrÃ¼cken	0:0	2:0	22.11.1986	15:00	1986	1987	17
+SG Wattenscheid 09	FC St. Pauli	0:1	0:1	22.11.1986	15:00	1986	1987	17
+Alemannia Aachen	SSV Ulm 1846	1:0	2:1	22.11.1986	15:00	1986	1987	17
+Arminia Bielefeld	Rot-WeiÃ Oberhausen	1:1	4:1	22.11.1986	15:00	1986	1987	17
+Viktoria Aschaffenburg	Stuttgarter Kickers	2:2	2:4	22.11.1986	15:00	1986	1987	17
+Eintracht Braunschweig	Fortuna KÃ¶ln	0:0	2:0	22.11.1986	15:00	1986	1987	17
+Hannover 96	Karlsruher SC	2:0	8:0	22.11.1986	15:00	1986	1987	17
+SV Darmstadt 98	VfL OsnabrÃ¼ck	2:0	7:1	22.11.1986	15:00	1986	1987	17
+Stuttgarter Kickers	SV Darmstadt 98	0:0	0:1	29.11.1986	15:00	1986	1987	18
+FSV Salmrohr	SG Union Solingen	1:0	2:0	29.11.1986	15:00	1986	1987	18
+FC St. Pauli	Karlsruher SC	1:0	2:0	29.11.1986	15:00	1986	1987	18
+VfL OsnabrÃ¼ck	Rot-Weiss Essen	0:1	2:2	29.11.1986	15:00	1986	1987	18
+1. FC SaarbrÃ¼cken	Hannover 96	1:1	1:2	29.11.1986	15:00	1986	1987	18
+SSV Ulm 1846	Arminia Bielefeld	0:0	1:2	29.11.1986	15:00	1986	1987	18
+Hessen Kassel	Alemannia Aachen	1:1	1:1	29.11.1986	15:00	1986	1987	18
+SG Wattenscheid 09	Eintracht Braunschweig	1:0	1:0	29.11.1986	15:00	1986	1987	18
+Fortuna KÃ¶ln	SC Freiburg	0:1	1:1	29.11.1986	15:00	1986	1987	18
+Rot-WeiÃ Oberhausen	Viktoria Aschaffenburg	0:0	0:0	29.11.1986	15:00	1986	1987	18
+Arminia Bielefeld	Hessen Kassel	1:0	1:0	06.12.1986	15:00	1986	1987	19
+Alemannia Aachen	Fortuna KÃ¶ln	0:0	0:1	06.12.1986	15:00	1986	1987	19
+Rot-Weiss Essen	Stuttgarter Kickers	2:0	2:1	06.12.1986	15:00	1986	1987	19
+SG Union Solingen	VfL OsnabrÃ¼ck	0:0	0:1	06.12.1986	15:00	1986	1987	19
+SC Freiburg	SG Wattenscheid 09	2:0	5:1	06.12.1986	15:00	1986	1987	19
+Viktoria Aschaffenburg	SSV Ulm 1846	0:0	0:0	06.12.1986	15:00	1986	1987	19
+SV Darmstadt 98	Rot-WeiÃ Oberhausen	0:2	2:2	06.12.1986	15:00	1986	1987	19
+Karlsruher SC	1. FC SaarbrÃ¼cken	4:0	6:0	06.12.1986	15:00	1986	1987	19
+Hannover 96	FSV Salmrohr	1:1	3:1	06.12.1986	15:00	1986	1987	19
+Eintracht Braunschweig	FC St. Pauli	1:1	1:2	06.12.1986	15:00	1986	1987	19
+1. FC SaarbrÃ¼cken	FC St. Pauli	0:0	0:0	13.12.1986	15:00	1986	1987	20
+Rot-Weiss Essen	Rot-WeiÃ Oberhausen	0:0	3:1	13.12.1986	15:00	1986	1987	20
+Hannover 96	VfL OsnabrÃ¼ck	0:0	0:0	13.12.1986	15:00	1986	1987	20
+Karlsruher SC	FSV Salmrohr	0:0	1:0	13.12.1986	15:00	1986	1987	20
+SV Darmstadt 98	SSV Ulm 1846	0:0	2:1	13.12.1986	15:00	1986	1987	20
+Viktoria Aschaffenburg	Hessen Kassel	0:0	0:0	13.12.1986	15:00	1986	1987	20
+Alemannia Aachen	SG Wattenscheid 09	0:0	0:1	13.12.1986	15:00	1986	1987	20
+SC Freiburg	Eintracht Braunschweig	1:1	2:2	13.12.1986	15:00	1986	1987	20
+Arminia Bielefeld	Fortuna KÃ¶ln	1:2	3:3	13.12.1986	15:00	1986	1987	20
+SG Union Solingen	Stuttgarter Kickers	1:0	2:1	13.12.1986	15:00	1986	1987	20
+FSV Salmrohr	1. FC SaarbrÃ¼cken	2:0	3:3	20.12.1986	15:00	1986	1987	21
+FC St. Pauli	SC Freiburg	2:0	2:1	20.12.1986	15:00	1986	1987	21
+Fortuna KÃ¶ln	Viktoria Aschaffenburg	1:0	1:1	20.12.1986	15:00	1986	1987	21
+Rot-WeiÃ Oberhausen	SG Union Solingen	0:0	0:0	14.02.1987	19:00	1986	1987	21
+Eintracht Braunschweig	Alemannia Aachen	1:1	1:2	14.02.1987	19:00	1986	1987	21
+SG Wattenscheid 09	Arminia Bielefeld	1:1	1:1	07.03.1987	15:00	1986	1987	21
+SSV Ulm 1846	Rot-Weiss Essen	0:1	0:1	07.03.1987	19:00	1986	1987	21
+Hessen Kassel	SV Darmstadt 98	0:0	1:1	31.03.1987	15:00	1986	1987	21
+Stuttgarter Kickers	Hannover 96	0:0	0:0	20.04.1987	19:00	1986	1987	21
+VfL OsnabrÃ¼ck	Karlsruher SC	0:0	1:0	28.04.1987	15:00	1986	1987	21
+SG Union Solingen	SSV Ulm 1846	3:0	6:2	21.02.1987	15:00	1986	1987	22
+FSV Salmrohr	FC St. Pauli	0:1	1:2	21.02.1987	15:00	1986	1987	22
+Rot-Weiss Essen	Hessen Kassel	1:1	4:1	21.02.1987	15:00	1986	1987	22
+SV Darmstadt 98	Fortuna KÃ¶ln	0:0	2:1	21.02.1987	15:00	1986	1987	22
+1. FC SaarbrÃ¼cken	VfL OsnabrÃ¼ck	3:1	4:1	21.02.1987	15:00	1986	1987	22
+Viktoria Aschaffenburg	SG Wattenscheid 09	0:0	1:2	21.02.1987	15:00	1986	1987	22
+Alemannia Aachen	SC Freiburg	0:1	1:1	08.03.1987	15:00	1986	1987	22
+Karlsruher SC	Stuttgarter Kickers	2:1	2:1	10.03.1987	19:00	1986	1987	22
+Hannover 96	Rot-WeiÃ Oberhausen	0:0	1:0	07.04.1987	19:00	1986	1987	22
+Arminia Bielefeld	Eintracht Braunschweig	1:1	3:1	07.04.1987	19:00	1986	1987	22
+SG Wattenscheid 09	SV Darmstadt 98	1:0	3:0	28.02.1987	15:00	1986	1987	23
+Rot-WeiÃ Oberhausen	Karlsruher SC	1:1	1:3	28.02.1987	15:00	1986	1987	23
+FC St. Pauli	Alemannia Aachen	0:0	0:0	28.02.1987	15:00	1986	1987	23
+Stuttgarter Kickers	1. FC SaarbrÃ¼cken	2:0	4:0	28.02.1987	15:00	1986	1987	23
+Fortuna KÃ¶ln	Rot-Weiss Essen	2:0	2:2	07.04.1987	19:00	1986	1987	23
+SC Freiburg	Arminia Bielefeld	0:0	0:0	20.04.1987	19:00	1986	1987	23
+VfL OsnabrÃ¼ck	FSV Salmrohr	1:0	5:0	20.04.1987	19:00	1986	1987	23
+Hessen Kassel	SG Union Solingen	0:1	0:1	20.04.1987	19:00	1986	1987	23
+Eintracht Braunschweig	Viktoria Aschaffenburg	2:0	3:0	21.04.1987	19:00	1986	1987	23
+SSV Ulm 1846	Hannover 96	1:0	1:1	29.04.1987	19:00	1986	1987	23
+1. FC SaarbrÃ¼cken	Rot-WeiÃ Oberhausen	0:1	1:1	14.03.1987	15:00	1986	1987	24
+Rot-Weiss Essen	SG Wattenscheid 09	1:1	3:1	14.03.1987	15:00	1986	1987	24
+FSV Salmrohr	Stuttgarter Kickers	1:2	2:2	14.03.1987	15:00	1986	1987	24
+Karlsruher SC	SSV Ulm 1846	2:0	5:0	14.03.1987	15:00	1986	1987	24
+SG Union Solingen	Fortuna KÃ¶ln	2:0	3:0	14.03.1987	15:00	1986	1987	24
+SV Darmstadt 98	Eintracht Braunschweig	1:1	2:1	14.03.1987	15:00	1986	1987	24
+Viktoria Aschaffenburg	SC Freiburg	1:3	1:4	14.03.1987	15:00	1986	1987	24
+VfL OsnabrÃ¼ck	FC St. Pauli	0:0	1:3	31.03.1987	19:00	1986	1987	24
+Arminia Bielefeld	Alemannia Aachen	0:2	1:5	05.05.1987	19:00	1986	1987	24
+Hannover 96	Hessen Kassel	0:0	0:0	19.05.1987	19:00	1986	1987	24
+SSV Ulm 1846	1. FC SaarbrÃ¼cken	1:1	1:1	21.03.1987	15:00	1986	1987	25
+Fortuna KÃ¶ln	Hannover 96	1:1	1:1	21.03.1987	15:00	1986	1987	25
+Rot-WeiÃ Oberhausen	FSV Salmrohr	3:1	6:1	21.03.1987	15:00	1986	1987	25
+Stuttgarter Kickers	VfL OsnabrÃ¼ck	1:0	4:0	21.03.1987	15:00	1986	1987	25
+Eintracht Braunschweig	Rot-Weiss Essen	2:0	2:0	21.03.1987	15:00	1986	1987	25
+Hessen Kassel	Karlsruher SC	0:1	0:4	21.03.1987	15:00	1986	1987	25
+Alemannia Aachen	Viktoria Aschaffenburg	2:1	4:1	24.03.1987	19:00	1986	1987	25
+SG Wattenscheid 09	SG Union Solingen	0:1	1:1	05.05.1987	19:00	1986	1987	25
+SC Freiburg	SV Darmstadt 98	3:1	3:1	12.05.1987	19:00	1986	1987	25
+FC St. Pauli	Arminia Bielefeld	1:0	2:0	19.05.1987	19:00	1986	1987	25
+SV Darmstadt 98	Alemannia Aachen	2:1	2:2	28.03.1987	15:00	1986	1987	26
+Karlsruher SC	Fortuna KÃ¶ln	1:0	1:0	28.03.1987	15:00	1986	1987	26
+Stuttgarter Kickers	FC St. Pauli	1:0	1:2	28.03.1987	15:00	1986	1987	26
+Rot-Weiss Essen	SC Freiburg	3:0	3:0	28.03.1987	15:00	1986	1987	26
+FSV Salmrohr	SSV Ulm 1846	2:1	2:1	28.03.1987	15:00	1986	1987	26
+VfL OsnabrÃ¼ck	Rot-WeiÃ Oberhausen	2:1	2:1	28.03.1987	15:00	1986	1987	26
+1. FC SaarbrÃ¼cken	Hessen Kassel	2:0	2:1	28.03.1987	15:00	1986	1987	26
+Hannover 96	SG Wattenscheid 09	2:1	2:4	28.03.1987	15:00	1986	1987	26
+SG Union Solingen	Eintracht Braunschweig	0:1	1:1	28.03.1987	15:00	1986	1987	26
+Viktoria Aschaffenburg	Arminia Bielefeld	0:2	1:2	28.03.1987	15:00	1986	1987	26
+FC St. Pauli	Viktoria Aschaffenburg	0:2	2:2	04.04.1987	15:00	1986	1987	27
+Arminia Bielefeld	SV Darmstadt 98	0:0	1:0	04.04.1987	15:00	1986	1987	27
+Fortuna KÃ¶ln	1. FC SaarbrÃ¼cken	1:1	3:2	04.04.1987	15:00	1986	1987	27
+Rot-WeiÃ Oberhausen	Stuttgarter Kickers	2:0	3:0	04.04.1987	15:00	1986	1987	27
+Alemannia Aachen	Rot-Weiss Essen	0:0	0:0	04.04.1987	15:00	1986	1987	27
+SG Wattenscheid 09	Karlsruher SC	0:0	0:3	04.04.1987	15:00	1986	1987	27
+Eintracht Braunschweig	Hannover 96	0:0	0:0	04.04.1987	15:00	1986	1987	27
+SC Freiburg	SG Union Solingen	1:0	2:2	04.04.1987	15:00	1986	1987	27
+Hessen Kassel	FSV Salmrohr	0:0	0:0	04.04.1987	15:00	1986	1987	27
+SSV Ulm 1846	VfL OsnabrÃ¼ck	1:1	3:1	04.04.1987	15:00	1986	1987	27
+SV Darmstadt 98	Viktoria Aschaffenburg	0:0	1:0	11.04.1987	15:00	1986	1987	28
+Rot-WeiÃ Oberhausen	FC St. Pauli	0:1	0:1	11.04.1987	15:00	1986	1987	28
+1. FC SaarbrÃ¼cken	SG Wattenscheid 09	2:0	4:1	11.04.1987	15:00	1986	1987	28
+Hannover 96	SC Freiburg	1:0	1:1	11.04.1987	15:00	1986	1987	28
+Rot-Weiss Essen	Arminia Bielefeld	1:0	2:0	11.04.1987	15:00	1986	1987	28
+VfL OsnabrÃ¼ck	Hessen Kassel	1:1	3:1	11.04.1987	15:00	1986	1987	28
+FSV Salmrohr	Fortuna KÃ¶ln	2:0	4:0	11.04.1987	15:00	1986	1987	28
+Karlsruher SC	Eintracht Braunschweig	2:1	2:1	11.04.1987	15:00	1986	1987	28
+SG Union Solingen	Alemannia Aachen	2:0	2:1	11.04.1987	15:00	1986	1987	28
+Stuttgarter Kickers	SSV Ulm 1846	2:0	3:1	11.04.1987	15:00	1986	1987	28
+Viktoria Aschaffenburg	Rot-Weiss Essen	1:0	2:2	18.04.1987	15:00	1986	1987	29
+Hessen Kassel	Stuttgarter Kickers	0:1	0:1	18.04.1987	15:00	1986	1987	29
+SSV Ulm 1846	Rot-WeiÃ Oberhausen	4:0	5:2	18.04.1987	15:00	1986	1987	29
+FC St. Pauli	SV Darmstadt 98	1:0	3:0	18.04.1987	15:00	1986	1987	29
+SC Freiburg	Karlsruher SC	0:2	1:2	18.04.1987	15:00	1986	1987	29
+Fortuna KÃ¶ln	VfL OsnabrÃ¼ck	1:1	2:1	18.04.1987	15:00	1986	1987	29
+Eintracht Braunschweig	1. FC SaarbrÃ¼cken	0:0	0:0	18.04.1987	15:00	1986	1987	29
+Alemannia Aachen	Hannover 96	0:0	3:2	18.04.1987	15:00	1986	1987	29
+SG Wattenscheid 09	FSV Salmrohr	0:1	3:2	18.04.1987	15:00	1986	1987	29
+Arminia Bielefeld	SG Union Solingen	0:1	1:1	18.04.1987	15:00	1986	1987	29
+1. FC SaarbrÃ¼cken	SC Freiburg	1:0	2:2	25.04.1987	15:00	1986	1987	30
+SG Union Solingen	Viktoria Aschaffenburg	2:0	4:1	25.04.1987	15:00	1986	1987	30
+Hannover 96	Arminia Bielefeld	3:1	4:1	25.04.1987	15:00	1986	1987	30
+Stuttgarter Kickers	Fortuna KÃ¶ln	0:1	3:1	25.04.1987	15:00	1986	1987	30
+SSV Ulm 1846	FC St. Pauli	0:0	1:0	25.04.1987	15:00	1986	1987	30
+Rot-WeiÃ Oberhausen	Hessen Kassel	0:0	0:1	25.04.1987	15:00	1986	1987	30
+FSV Salmrohr	Eintracht Braunschweig	0:0	0:0	25.04.1987	15:00	1986	1987	30
+VfL OsnabrÃ¼ck	SG Wattenscheid 09	0:0	1:1	25.04.1987	15:00	1986	1987	30
+Karlsruher SC	Alemannia Aachen	1:1	2:2	25.04.1987	15:00	1986	1987	30
+Rot-Weiss Essen	SV Darmstadt 98	0:0	1:4	25.04.1987	15:00	1986	1987	30
+FC St. Pauli	Rot-Weiss Essen	0:0	1:1	02.05.1987	15:00	1986	1987	31
+Arminia Bielefeld	Karlsruher SC	1:0	1:1	02.05.1987	15:00	1986	1987	31
+Alemannia Aachen	1. FC SaarbrÃ¼cken	0:0	0:0	02.05.1987	15:00	1986	1987	31
+Viktoria Aschaffenburg	Hannover 96	1:1	1:1	02.05.1987	15:00	1986	1987	31
+Hessen Kassel	SSV Ulm 1846	0:3	1:4	02.05.1987	15:00	1986	1987	31
+SC Freiburg	FSV Salmrohr	0:0	2:1	02.05.1987	15:00	1986	1987	31
+SV Darmstadt 98	SG Union Solingen	0:0	1:0	02.05.1987	15:00	1986	1987	31
+Eintracht Braunschweig	VfL OsnabrÃ¼ck	2:2	3:2	02.05.1987	15:00	1986	1987	31
+Fortuna KÃ¶ln	Rot-WeiÃ Oberhausen	0:0	0:0	02.05.1987	15:00	1986	1987	31
+SG Wattenscheid 09	Stuttgarter Kickers	2:1	3:3	02.05.1987	15:00	1986	1987	31
+1. FC SaarbrÃ¼cken	Arminia Bielefeld	0:0	0:2	09.05.1987	15:00	1986	1987	32
+Rot-WeiÃ Oberhausen	SG Wattenscheid 09	3:0	3:0	09.05.1987	15:00	1986	1987	32
+Hessen Kassel	FC St. Pauli	1:0	1:3	09.05.1987	15:00	1986	1987	32
+VfL OsnabrÃ¼ck	SC Freiburg	0:0	1:1	09.05.1987	15:00	1986	1987	32
+Karlsruher SC	Viktoria Aschaffenburg	2:0	3:1	09.05.1987	15:00	1986	1987	32
+SSV Ulm 1846	Fortuna KÃ¶ln	1:1	1:3	09.05.1987	15:00	1986	1987	32
+Stuttgarter Kickers	Eintracht Braunschweig	2:0	2:1	09.05.1987	15:00	1986	1987	32
+SG Union Solingen	Rot-Weiss Essen	1:0	1:2	09.05.1987	15:00	1986	1987	32
+Hannover 96	SV Darmstadt 98	3:1	3:2	09.05.1987	15:00	1986	1987	32
+FSV Salmrohr	Alemannia Aachen	1:0	1:1	09.05.1987	15:00	1986	1987	32
+Arminia Bielefeld	FSV Salmrohr	4:0	4:0	16.05.1987	15:00	1986	1987	33
+Alemannia Aachen	VfL OsnabrÃ¼ck	0:0	1:0	16.05.1987	15:00	1986	1987	33
+Eintracht Braunschweig	Rot-WeiÃ Oberhausen	0:0	2:1	16.05.1987	15:00	1986	1987	33
+Fortuna KÃ¶ln	Hessen Kassel	1:1	2:2	16.05.1987	15:00	1986	1987	33
+Rot-Weiss Essen	Hannover 96	0:2	3:4	16.05.1987	15:00	1986	1987	33
+SG Wattenscheid 09	SSV Ulm 1846	0:0	0:0	16.05.1987	15:00	1986	1987	33
+SV Darmstadt 98	Karlsruher SC	1:0	1:4	16.05.1987	15:00	1986	1987	33
+FC St. Pauli	SG Union Solingen	0:0	1:0	16.05.1987	15:00	1986	1987	33
+Viktoria Aschaffenburg	1. FC SaarbrÃ¼cken	3:0	6:0	16.05.1987	15:00	1986	1987	33
+SC Freiburg	Stuttgarter Kickers	1:0	2:0	16.05.1987	15:00	1986	1987	33
+FSV Salmrohr	Viktoria Aschaffenburg	0:1	1:1	23.05.1987	15:00	1986	1987	34
+VfL OsnabrÃ¼ck	Arminia Bielefeld	1:3	1:5	23.05.1987	15:00	1986	1987	34
+Hannover 96	SG Union Solingen	1:0	2:0	23.05.1987	15:00	1986	1987	34
+Hessen Kassel	SG Wattenscheid 09	0:0	2:3	23.05.1987	15:00	1986	1987	34
+Rot-WeiÃ Oberhausen	SC Freiburg	1:0	2:0	23.05.1987	15:00	1986	1987	34
+1. FC SaarbrÃ¼cken	SV Darmstadt 98	0:1	0:5	23.05.1987	15:00	1986	1987	34
+SSV Ulm 1846	Eintracht Braunschweig	2:0	4:2	23.05.1987	15:00	1986	1987	34
+Stuttgarter Kickers	Alemannia Aachen	1:1	3:2	23.05.1987	15:00	1986	1987	34
+Karlsruher SC	Rot-Weiss Essen	3:0	3:0	23.05.1987	15:00	1986	1987	34
+Fortuna KÃ¶ln	FC St. Pauli	1:1	2:2	23.05.1987	15:00	1986	1987	34
+FC St. Pauli	Hannover 96	1:2	3:4	30.05.1987	15:00	1986	1987	35
+Viktoria Aschaffenburg	VfL OsnabrÃ¼ck	0:1	1:1	30.05.1987	15:00	1986	1987	35
+SV Darmstadt 98	FSV Salmrohr	3:0	8:0	30.05.1987	15:00	1986	1987	35
+Arminia Bielefeld	Stuttgarter Kickers	1:0	1:1	30.05.1987	15:00	1986	1987	35
+Rot-Weiss Essen	1. FC SaarbrÃ¼cken	2:0	4:0	30.05.1987	15:00	1986	1987	35
+SC Freiburg	SSV Ulm 1846	1:0	3:1	30.05.1987	15:00	1986	1987	35
+Eintracht Braunschweig	Hessen Kassel	2:0	3:0	30.05.1987	15:00	1986	1987	35
+SG Union Solingen	Karlsruher SC	0:1	1:1	30.05.1987	15:00	1986	1987	35
+SG Wattenscheid 09	Fortuna KÃ¶ln	1:0	1:2	30.05.1987	15:00	1986	1987	35
+Alemannia Aachen	Rot-WeiÃ Oberhausen	1:0	2:1	30.05.1987	15:00	1986	1987	35
+SSV Ulm 1846	Alemannia Aachen	1:0	2:0	06.06.1987	15:00	1986	1987	36
+Karlsruher SC	Hannover 96	1:1	3:2	06.06.1987	15:00	1986	1987	36
+FSV Salmrohr	Rot-Weiss Essen	1:1	2:2	06.06.1987	15:00	1986	1987	36
+1. FC SaarbrÃ¼cken	SG Union Solingen	1:1	1:1	06.06.1987	15:00	1986	1987	36
+Hessen Kassel	SC Freiburg	3:0	4:2	06.06.1987	15:00	1986	1987	36
+Rot-WeiÃ Oberhausen	Arminia Bielefeld	0:0	0:0	06.06.1987	15:00	1986	1987	36
+Stuttgarter Kickers	Viktoria Aschaffenburg	1:0	1:1	06.06.1987	15:00	1986	1987	36
+VfL OsnabrÃ¼ck	SV Darmstadt 98	0:0	3:0	06.06.1987	15:00	1986	1987	36
+Fortuna KÃ¶ln	Eintracht Braunschweig	0:0	1:0	06.06.1987	15:00	1986	1987	36
+FC St. Pauli	SG Wattenscheid 09	1:1	1:1	06.06.1987	15:00	1986	1987	36
+Viktoria Aschaffenburg	Rot-WeiÃ Oberhausen	0:0	1:2	10.06.1987	19:30	1986	1987	37
+SG Union Solingen	FSV Salmrohr	0:2	2:2	10.06.1987	19:30	1986	1987	37
+Rot-Weiss Essen	VfL OsnabrÃ¼ck	3:1	3:5	10.06.1987	19:30	1986	1987	37
+Karlsruher SC	FC St. Pauli	0:1	1:1	10.06.1987	19:30	1986	1987	37
+SV Darmstadt 98	Stuttgarter Kickers	0:0	1:0	10.06.1987	19:30	1986	1987	37
+Alemannia Aachen	Hessen Kassel	2:0	2:1	10.06.1987	19:30	1986	1987	37
+SC Freiburg	Fortuna KÃ¶ln	0:0	1:1	10.06.1987	19:30	1986	1987	37
+Eintracht Braunschweig	SG Wattenscheid 09	1:0	3:1	10.06.1987	19:30	1986	1987	37
+Hannover 96	1. FC SaarbrÃ¼cken	0:1	1:1	10.06.1987	19:30	1986	1987	37
+Arminia Bielefeld	SSV Ulm 1846	2:1	5:1	10.06.1987	19:30	1986	1987	37
+Hessen Kassel	Arminia Bielefeld	2:1	4:5	14.06.1987	15:00	1986	1987	38
+Stuttgarter Kickers	Rot-Weiss Essen	2:0	3:0	14.06.1987	15:00	1986	1987	38
+VfL OsnabrÃ¼ck	SG Union Solingen	2:0	6:3	14.06.1987	15:00	1986	1987	38
+SG Wattenscheid 09	SC Freiburg	3:1	4:3	14.06.1987	15:00	1986	1987	38
+SSV Ulm 1846	Viktoria Aschaffenburg	2:0	2:0	14.06.1987	15:00	1986	1987	38
+Rot-WeiÃ Oberhausen	SV Darmstadt 98	0:0	0:1	14.06.1987	15:00	1986	1987	38
+1. FC SaarbrÃ¼cken	Karlsruher SC	1:1	1:2	14.06.1987	15:00	1986	1987	38
+FSV Salmrohr	Hannover 96	0:3	5:5	14.06.1987	15:00	1986	1987	38
+Fortuna KÃ¶ln	Alemannia Aachen	0:0	1:0	14.06.1987	15:00	1986	1987	38
+FC St. Pauli	Eintracht Braunschweig	0:0	1:0	14.06.1987	15:00	1986	1987	38

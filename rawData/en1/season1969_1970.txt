@@ -1,0 +1,462 @@
+Arsenal FC	Everton FC	0:0	0:1	09.08.1969	00:00	1969	1970	1
+West Ham United	Newcastle United	0:0	1:0	09.08.1969	00:00	1969	1970	1
+Sunderland AFC	Coventry City	0:0	0:0	09.08.1969	00:00	1969	1970	1
+Southampton FC	West Bromwich Albion	0:0	0:2	09.08.1969	00:00	1969	1970	1
+Manchester City	Sheffield Wednesday	0:0	4:1	09.08.1969	00:00	1969	1970	1
+Liverpool FC	Chelsea FC	0:0	4:1	09.08.1969	00:00	1969	1970	1
+Leeds United	Tottenham Hotspur	0:0	3:1	09.08.1969	00:00	1969	1970	1
+Ipswich Town	Nottingham Forest	0:0	0:0	09.08.1969	00:00	1969	1970	1
+Derby County	Burnley FC	0:0	0:0	09.08.1969	00:00	1969	1970	1
+Crystal Palace	Manchester United	0:0	2:2	09.08.1969	00:00	1969	1970	1
+Wolverhampton Wanderers	Stoke City	0:1	3:1	09.08.1969	00:00	1969	1970	1
+West Ham United	Chelsea FC	0:0	2:0	11.08.1969	00:00	1969	1970	2
+Coventry City	West Bromwich Albion	0:0	3:1	12.08.1969	00:00	1969	1970	2
+Ipswich Town	Derby County	0:0	0:1	12.08.1969	00:00	1969	1970	2
+Liverpool FC	Manchester City	0:0	3:2	12.08.1969	00:00	1969	1970	2
+Nottingham Forest	Stoke City	0:0	0:0	12.08.1969	00:00	1969	1970	2
+Tottenham Hotspur	Burnley FC	0:0	4:0	13.08.1969	00:00	1969	1970	2
+Newcastle United	Sheffield Wednesday	0:0	3:1	13.08.1969	00:00	1969	1970	2
+Manchester United	Everton FC	0:0	0:2	13.08.1969	00:00	1969	1970	2
+Leeds United	Arsenal FC	0:0	0:0	13.08.1969	00:00	1969	1970	2
+Crystal Palace	Sunderland AFC	2:0	2:0	13.08.1969	00:00	1969	1970	2
+Wolverhampton Wanderers	Southampton FC	0:0	2:1	13.08.1969	00:00	1969	1970	2
+Burnley FC	Sunderland AFC	0:0	3:0	16.08.1969	00:00	1969	1970	3
+Tottenham Hotspur	Liverpool FC	0:0	0:2	16.08.1969	00:00	1969	1970	3
+Stoke City	West Ham United	0:0	2:1	16.08.1969	00:00	1969	1970	3
+Sheffield Wednesday	Wolverhampton Wanderers	0:0	2:3	16.08.1969	00:00	1969	1970	3
+Nottingham Forest	Leeds United	0:0	1:4	16.08.1969	00:00	1969	1970	3
+Newcastle United	Manchester City	0:0	1:0	16.08.1969	00:00	1969	1970	3
+Manchester United	Southampton FC	0:0	1:4	16.08.1969	00:00	1969	1970	3
+Everton FC	Crystal Palace	0:0	2:1	16.08.1969	00:00	1969	1970	3
+Coventry City	Derby County	0:0	1:1	16.08.1969	00:00	1969	1970	3
+Chelsea FC	Ipswich Town	0:0	1:0	16.08.1969	00:00	1969	1970	3
+West Bromwich Albion	Arsenal FC	0:0	0:1	16.08.1969	00:00	1969	1970	3
+Arsenal FC	Leeds United	0:0	1:1	19.08.1969	00:00	1969	1970	4
+Burnley FC	Tottenham Hotspur	0:0	0:2	19.08.1969	00:00	1969	1970	4
+Everton FC	Manchester United	1:0	3:0	19.08.1969	00:00	1969	1970	4
+Sunderland AFC	Crystal Palace	0:0	0:0	20.08.1969	00:00	1969	1970	4
+Stoke City	Nottingham Forest	0:0	1:1	20.08.1969	00:00	1969	1970	4
+Southampton FC	Wolverhampton Wanderers	0:0	2:3	20.08.1969	00:00	1969	1970	4
+Sheffield Wednesday	Newcastle United	0:0	1:0	20.08.1969	00:00	1969	1970	4
+Manchester City	Liverpool FC	0:0	0:2	20.08.1969	00:00	1969	1970	4
+Derby County	Ipswich Town	0:0	3:1	20.08.1969	00:00	1969	1970	4
+Chelsea FC	West Ham United	0:0	0:0	20.08.1969	00:00	1969	1970	4
+West Bromwich Albion	Coventry City	0:0	0:1	20.08.1969	00:00	1969	1970	4
+Arsenal FC	Nottingham Forest	0:0	2:1	23.08.1969	00:00	1969	1970	5
+West Ham United	West Bromwich Albion	0:0	1:3	23.08.1969	00:00	1969	1970	5
+Sunderland AFC	Sheffield Wednesday	0:0	1:2	23.08.1969	00:00	1969	1970	5
+Southampton FC	Chelsea FC	0:0	2:2	23.08.1969	00:00	1969	1970	5
+Manchester City	Everton FC	0:0	1:1	23.08.1969	00:00	1969	1970	5
+Liverpool FC	Burnley FC	0:0	3:3	23.08.1969	00:00	1969	1970	5
+Leeds United	Newcastle United	0:0	1:1	23.08.1969	00:00	1969	1970	5
+Ipswich Town	Coventry City	0:0	0:1	23.08.1969	00:00	1969	1970	5
+Derby County	Stoke City	0:0	0:0	23.08.1969	00:00	1969	1970	5
+Crystal Palace	Tottenham Hotspur	0:1	0:2	23.08.1969	00:00	1969	1970	5
+Wolverhampton Wanderers	Manchester United	0:0	0:0	23.08.1969	00:00	1969	1970	5
+West Ham United	Arsenal FC	0:1	1:1	25.08.1969	00:00	1969	1970	6
+Burnley FC	Leeds United	0:0	1:1	26.08.1969	00:00	1969	1970	6
+Everton FC	Sheffield Wednesday	0:0	2:1	26.08.1969	00:00	1969	1970	6
+Nottingham Forest	West Bromwich Albion	0:0	1:0	26.08.1969	00:00	1969	1970	6
+Tottenham Hotspur	Chelsea FC	0:0	1:1	27.08.1969	00:00	1969	1970	6
+Sunderland AFC	Manchester City	0:0	0:4	27.08.1969	00:00	1969	1970	6
+Stoke City	Coventry City	0:0	2:0	27.08.1969	00:00	1969	1970	6
+Southampton FC	Ipswich Town	0:0	4:2	27.08.1969	00:00	1969	1970	6
+Manchester United	Newcastle United	0:0	0:0	27.08.1969	00:00	1969	1970	6
+Crystal Palace	Liverpool FC	0:0	1:3	27.08.1969	00:00	1969	1970	6
+Wolverhampton Wanderers	Derby County	0:0	1:1	27.08.1969	00:00	1969	1970	6
+Burnley FC	Manchester City	0:0	1:1	30.08.1969	00:00	1969	1970	7
+Tottenham Hotspur	Ipswich Town	0:0	3:2	30.08.1969	00:00	1969	1970	7
+Stoke City	Southampton FC	0:0	2:1	30.08.1969	00:00	1969	1970	7
+Sheffield Wednesday	Liverpool FC	1:0	1:1	30.08.1969	00:00	1969	1970	7
+Nottingham Forest	West Ham United	0:0	1:0	30.08.1969	00:00	1969	1970	7
+Newcastle United	Arsenal FC	0:0	3:1	30.08.1969	00:00	1969	1970	7
+Manchester United	Sunderland AFC	0:0	3:1	30.08.1969	00:00	1969	1970	7
+Everton FC	Leeds United	0:0	3:2	30.08.1969	00:00	1969	1970	7
+Coventry City	Wolverhampton Wanderers	0:0	1:0	30.08.1969	00:00	1969	1970	7
+Chelsea FC	Crystal Palace	0:0	1:1	30.08.1969	00:00	1969	1970	7
+West Bromwich Albion	Derby County	0:0	0:2	30.08.1969	00:00	1969	1970	7
+Arsenal FC	Sheffield Wednesday	0:0	0:0	06.09.1969	00:00	1969	1970	8
+West Ham United	Tottenham Hotspur	0:0	0:1	06.09.1969	00:00	1969	1970	8
+Sunderland AFC	West Bromwich Albion	1:0	2:2	06.09.1969	00:00	1969	1970	8
+Southampton FC	Burnley FC	0:0	1:1	06.09.1969	00:00	1969	1970	8
+Manchester City	Chelsea FC	0:0	0:0	06.09.1969	00:00	1969	1970	8
+Liverpool FC	Coventry City	0:0	2:1	06.09.1969	00:00	1969	1970	8
+Leeds United	Manchester United	0:0	2:2	06.09.1969	00:00	1969	1970	8
+Ipswich Town	Newcastle United	0:0	2:0	06.09.1969	00:00	1969	1970	8
+Derby County	Everton FC	0:0	2:1	06.09.1969	00:00	1969	1970	8
+Crystal Palace	Stoke City	3:0	3:1	06.09.1969	00:00	1969	1970	8
+Wolverhampton Wanderers	Nottingham Forest	0:0	3:3	06.09.1969	00:00	1969	1970	8
+Burnley FC	Arsenal FC	0:0	0:1	13.09.1969	00:00	1969	1970	9
+Chelsea FC	Wolverhampton Wanderers	0:0	2:2	13.09.1969	00:00	1969	1970	9
+Coventry City	Crystal Palace	0:0	2:2	13.09.1969	00:00	1969	1970	9
+Everton FC	West Ham United	0:0	2:0	13.09.1969	00:00	1969	1970	9
+Sheffield Wednesday	Leeds United	0:0	1:2	13.09.1969	00:00	1969	1970	9
+Tottenham Hotspur	Manchester City	0:0	0:3	13.09.1969	00:00	1969	1970	9
+West Bromwich Albion	Ipswich Town	0:0	2:2	13.09.1969	00:00	1969	1970	9
+Manchester United	Liverpool FC	0:0	1:0	13.09.1969	00:00	1969	1970	9
+Newcastle United	Derby County	0:0	0:1	13.09.1969	00:00	1969	1970	9
+Nottingham Forest	Southampton FC	0:0	2:1	13.09.1969	00:00	1969	1970	9
+Stoke City	Sunderland AFC	0:0	4:2	13.09.1969	00:00	1969	1970	9
+Liverpool FC	Sunderland AFC	0:0	2:0	09.09.1969	00:00	1969	1970	10
+Derby County	Southampton FC	0:0	3:0	10.09.1969	00:00	1969	1970	10
+Arsenal FC	Tottenham Hotspur	0:1	2:3	16.09.1969	00:00	1969	1970	10
+Coventry City	Nottingham Forest	0:1	3:2	16.09.1969	00:00	1969	1970	10
+Ipswich Town	Wolverhampton Wanderers	0:0	1:1	16.09.1969	00:00	1969	1970	10
+West Bromwich Albion	Stoke City	0:0	1:3	17.09.1969	00:00	1969	1970	10
+Sheffield Wednesday	Manchester United	0:0	1:3	17.09.1969	00:00	1969	1970	10
+Newcastle United	Everton FC	0:0	1:2	17.09.1969	00:00	1969	1970	10
+Chelsea FC	Burnley FC	0:0	2:0	17.09.1969	00:00	1969	1970	10
+Leeds United	West Ham United	0:0	4:1	17.12.1969	00:00	1969	1970	10
+Manchester City	Crystal Palace	0:0	0:1	11.03.1970	00:00	1969	1970	10
+Crystal Palace	West Bromwich Albion	0:0	1:3	20.09.1969	00:00	1969	1970	11
+Leeds United	Chelsea FC	0:0	2:0	20.09.1969	00:00	1969	1970	11
+Manchester City	Coventry City	0:0	3:1	20.09.1969	00:00	1969	1970	11
+West Ham United	Sheffield Wednesday	0:0	3:0	20.09.1969	00:00	1969	1970	11
+Arsenal FC	Manchester United	0:0	2:2	20.09.1969	00:00	1969	1970	11
+Wolverhampton Wanderers	Burnley FC	0:0	1:1	20.09.1969	00:00	1969	1970	11
+Sunderland AFC	Nottingham Forest	0:0	2:1	20.09.1969	00:00	1969	1970	11
+Southampton FC	Newcastle United	0:0	1:1	20.09.1969	00:00	1969	1970	11
+Liverpool FC	Stoke City	0:0	3:1	20.09.1969	00:00	1969	1970	11
+Ipswich Town	Everton FC	0:0	0:3	20.09.1969	00:00	1969	1970	11
+Derby County	Tottenham Hotspur	3:0	5:0	20.09.1969	00:00	1969	1970	11
+Coventry City	Leeds United	0:0	1:2	27.09.1969	00:00	1969	1970	12
+Manchester United	West Ham United	0:0	5:2	27.09.1969	00:00	1969	1970	12
+Nottingham Forest	Crystal Palace	0:0	0:0	27.09.1969	00:00	1969	1970	12
+Stoke City	Manchester City	0:0	2:0	27.09.1969	00:00	1969	1970	12
+Burnley FC	Ipswich Town	0:0	0:1	27.09.1969	00:00	1969	1970	12
+West Bromwich Albion	Liverpool FC	0:0	2:2	27.09.1969	00:00	1969	1970	12
+Tottenham Hotspur	Sunderland AFC	0:0	0:1	27.09.1969	00:00	1969	1970	12
+Sheffield Wednesday	Derby County	0:0	1:0	27.09.1969	00:00	1969	1970	12
+Newcastle United	Wolverhampton Wanderers	0:0	1:1	27.09.1969	00:00	1969	1970	12
+Everton FC	Southampton FC	0:0	4:2	27.09.1969	00:00	1969	1970	12
+Chelsea FC	Arsenal FC	0:0	3:0	27.09.1969	00:00	1969	1970	12
+Crystal Palace	Newcastle United	0:0	0:3	04.10.1969	00:00	1969	1970	13
+Leeds United	Stoke City	2:0	2:1	04.10.1969	00:00	1969	1970	13
+Manchester City	West Bromwich Albion	0:0	2:1	04.10.1969	00:00	1969	1970	13
+West Ham United	Burnley FC	0:0	3:1	04.10.1969	00:00	1969	1970	13
+Arsenal FC	Coventry City	0:0	0:1	04.10.1969	00:00	1969	1970	13
+Wolverhampton Wanderers	Everton FC	0:0	2:3	04.10.1969	00:00	1969	1970	13
+Sunderland AFC	Chelsea FC	0:0	0:0	04.10.1969	00:00	1969	1970	13
+Southampton FC	Tottenham Hotspur	0:0	2:2	04.10.1969	00:00	1969	1970	13
+Liverpool FC	Nottingham Forest	0:0	1:1	04.10.1969	00:00	1969	1970	13
+Ipswich Town	Sheffield Wednesday	0:0	1:0	04.10.1969	00:00	1969	1970	13
+Derby County	Manchester United	0:0	2:0	04.10.1969	00:00	1969	1970	13
+West Ham United	Stoke City	0:0	3:3	06.10.1969	00:00	1969	1970	14
+Arsenal FC	West Bromwich Albion	0:0	1:1	07.10.1969	00:00	1969	1970	14
+Liverpool FC	Tottenham Hotspur	0:0	0:0	07.10.1969	00:00	1969	1970	14
+Crystal Palace	Everton FC	0:0	0:0	08.10.1969	00:00	1969	1970	14
+Manchester City	Newcastle United	0:0	2:1	08.10.1969	00:00	1969	1970	14
+Wolverhampton Wanderers	Sheffield Wednesday	0:0	2:2	08.10.1969	00:00	1969	1970	14
+Sunderland AFC	Burnley FC	0:0	0:1	08.10.1969	00:00	1969	1970	14
+Southampton FC	Manchester United	0:0	0:3	08.10.1969	00:00	1969	1970	14
+Derby County	Coventry City	0:0	1:3	08.10.1969	00:00	1969	1970	14
+Leeds United	Nottingham Forest	0:0	6:1	29.10.1969	00:00	1969	1970	14
+Ipswich Town	Chelsea FC	0:0	1:4	18.11.1969	00:00	1969	1970	14
+West Bromwich Albion	Leeds United	0:0	1:1	11.10.1969	00:00	1969	1970	15
+Burnley FC	Crystal Palace	0:0	4:2	11.10.1969	00:00	1969	1970	15
+Coventry City	West Ham United	0:0	2:2	11.10.1969	00:00	1969	1970	15
+Manchester United	Ipswich Town	1:0	2:1	11.10.1969	00:00	1969	1970	15
+Nottingham Forest	Manchester City	0:0	2:2	11.10.1969	00:00	1969	1970	15
+Chelsea FC	Derby County	0:0	2:2	11.10.1969	00:00	1969	1970	15
+Tottenham Hotspur	Wolverhampton Wanderers	0:0	0:1	11.10.1969	00:00	1969	1970	15
+Stoke City	Arsenal FC	0:0	0:0	11.10.1969	00:00	1969	1970	15
+Sheffield Wednesday	Southampton FC	0:0	1:1	11.10.1969	00:00	1969	1970	15
+Newcastle United	Liverpool FC	0:0	1:0	11.10.1969	00:00	1969	1970	15
+Everton FC	Sunderland AFC	0:0	3:1	11.10.1969	00:00	1969	1970	15
+Chelsea FC	West Bromwich Albion	0:0	2:0	18.10.1969	00:00	1969	1970	16
+Crystal Palace	Leeds United	0:0	1:1	18.10.1969	00:00	1969	1970	16
+Ipswich Town	Liverpool FC	0:0	2:2	18.10.1969	00:00	1969	1970	16
+Manchester United	Nottingham Forest	0:0	1:1	18.10.1969	00:00	1969	1970	16
+Wolverhampton Wanderers	West Ham United	0:0	1:0	18.10.1969	00:00	1969	1970	16
+Burnley FC	Sheffield Wednesday	0:0	4:2	18.10.1969	00:00	1969	1970	16
+Tottenham Hotspur	Newcastle United	0:0	2:1	18.10.1969	00:00	1969	1970	16
+Sunderland AFC	Arsenal FC	0:0	1:1	18.10.1969	00:00	1969	1970	16
+Southampton FC	Coventry City	0:0	0:0	18.10.1969	00:00	1969	1970	16
+Everton FC	Stoke City	0:0	6:2	18.10.1969	00:00	1969	1970	16
+Derby County	Manchester City	0:0	0:1	18.10.1969	00:00	1969	1970	16
+Manchester City	Wolverhampton Wanderers	0:0	1:0	25.10.1969	00:00	1969	1970	17
+Nottingham Forest	Burnley FC	0:0	1:1	25.10.1969	00:00	1969	1970	17
+Sheffield Wednesday	Crystal Palace	0:0	0:0	25.10.1969	00:00	1969	1970	17
+Arsenal FC	Ipswich Town	0:0	0:0	25.10.1969	00:00	1969	1970	17
+West Ham United	Sunderland AFC	0:0	1:1	25.10.1969	00:00	1969	1970	17
+West Bromwich Albion	Manchester United	0:0	2:1	25.10.1969	00:00	1969	1970	17
+Stoke City	Tottenham Hotspur	0:0	1:1	25.10.1969	00:00	1969	1970	17
+Newcastle United	Chelsea FC	0:0	0:1	25.10.1969	00:00	1969	1970	17
+Liverpool FC	Southampton FC	0:0	4:1	25.10.1969	00:00	1969	1970	17
+Leeds United	Derby County	0:0	2:0	25.10.1969	00:00	1969	1970	17
+Coventry City	Everton FC	0:0	0:1	25.10.1969	00:00	1969	1970	17
+Ipswich Town	Manchester City	0:0	1:1	01.11.1969	00:00	1969	1970	18
+Sunderland AFC	Leeds United	0:0	0:0	01.11.1969	00:00	1969	1970	18
+Burnley FC	Newcastle United	0:0	0:1	01.11.1969	00:00	1969	1970	18
+Wolverhampton Wanderers	West Bromwich Albion	0:0	1:0	01.11.1969	00:00	1969	1970	18
+Tottenham Hotspur	Sheffield Wednesday	0:0	1:0	01.11.1969	00:00	1969	1970	18
+Southampton FC	West Ham United	0:0	1:1	01.11.1969	00:00	1969	1970	18
+Manchester United	Stoke City	0:0	1:1	01.11.1969	00:00	1969	1970	18
+Everton FC	Nottingham Forest	1:0	1:0	01.11.1969	00:00	1969	1970	18
+Derby County	Liverpool FC	0:0	4:0	01.11.1969	00:00	1969	1970	18
+Crystal Palace	Arsenal FC	0:0	1:5	01.11.1969	00:00	1969	1970	18
+Chelsea FC	Coventry City	0:0	1:0	01.11.1969	00:00	1969	1970	18
+Leeds United	Ipswich Town	0:0	4:0	08.11.1969	00:00	1969	1970	19
+Manchester City	Southampton FC	0:0	1:0	08.11.1969	00:00	1969	1970	19
+Sheffield Wednesday	Chelsea FC	0:0	1:3	08.11.1969	00:00	1969	1970	19
+West Ham United	Crystal Palace	0:0	2:1	08.11.1969	00:00	1969	1970	19
+Arsenal FC	Derby County	0:0	4:0	08.11.1969	00:00	1969	1970	19
+West Bromwich Albion	Everton FC	0:0	2:0	08.11.1969	00:00	1969	1970	19
+Stoke City	Burnley FC	0:0	2:1	08.11.1969	00:00	1969	1970	19
+Nottingham Forest	Tottenham Hotspur	0:0	2:2	08.11.1969	00:00	1969	1970	19
+Newcastle United	Sunderland AFC	0:0	3:0	08.11.1969	00:00	1969	1970	19
+Liverpool FC	Wolverhampton Wanderers	0:0	0:0	08.11.1969	00:00	1969	1970	19
+Coventry City	Manchester United	0:0	1:2	08.11.1969	00:00	1969	1970	19
+Chelsea FC	Everton FC	0:0	1:1	15.11.1969	00:00	1969	1970	20
+Ipswich Town	Crystal Palace	0:0	2:0	15.11.1969	00:00	1969	1970	20
+Manchester City	Manchester United	0:0	4:0	15.11.1969	00:00	1969	1970	20
+Southampton FC	Leeds United	0:0	1:1	15.11.1969	00:00	1969	1970	20
+Burnley FC	Coventry City	0:0	0:0	15.11.1969	00:00	1969	1970	20
+Wolverhampton Wanderers	Arsenal FC	0:0	2:0	15.11.1969	00:00	1969	1970	20
+Tottenham Hotspur	West Bromwich Albion	0:0	2:0	15.11.1969	00:00	1969	1970	20
+Sheffield Wednesday	Stoke City	0:0	0:2	15.11.1969	00:00	1969	1970	20
+Newcastle United	Nottingham Forest	0:0	3:1	15.11.1969	00:00	1969	1970	20
+Liverpool FC	West Ham United	0:0	2:0	15.11.1969	00:00	1969	1970	20
+Derby County	Sunderland AFC	0:0	3:0	15.11.1969	00:00	1969	1970	20
+Crystal Palace	Wolverhampton Wanderers	0:0	2:1	22.11.1969	00:00	1969	1970	21
+Arsenal FC	Manchester City	0:0	1:1	22.11.1969	00:00	1969	1970	21
+West Ham United	Derby County	0:0	3:0	22.11.1969	00:00	1969	1970	21
+West Bromwich Albion	Sheffield Wednesday	0:0	3:0	22.11.1969	00:00	1969	1970	21
+Sunderland AFC	Southampton FC	0:0	2:2	22.11.1969	00:00	1969	1970	21
+Stoke City	Ipswich Town	0:0	3:3	22.11.1969	00:00	1969	1970	21
+Nottingham Forest	Chelsea FC	0:0	1:1	22.11.1969	00:00	1969	1970	21
+Manchester United	Tottenham Hotspur	0:0	3:1	22.11.1969	00:00	1969	1970	21
+Leeds United	Liverpool FC	0:0	1:1	22.11.1969	00:00	1969	1970	21
+Everton FC	Burnley FC	0:0	2:1	22.11.1969	00:00	1969	1970	21
+Coventry City	Newcastle United	0:0	1:0	22.11.1969	00:00	1969	1970	21
+Southampton FC	Crystal Palace	0:0	1:1	29.11.1969	00:00	1969	1970	22
+Burnley FC	Manchester United	0:0	1:1	29.11.1969	00:00	1969	1970	22
+Derby County	Nottingham Forest	0:0	0:2	29.11.1969	00:00	1969	1970	22
+Ipswich Town	West Ham United	0:0	1:0	29.11.1969	00:00	1969	1970	22
+Liverpool FC	Arsenal FC	0:0	0:1	29.11.1969	00:00	1969	1970	22
+Manchester City	Leeds United	0:0	1:2	29.11.1969	00:00	1969	1970	22
+Wolverhampton Wanderers	Sunderland AFC	0:0	1:0	29.11.1969	00:00	1969	1970	22
+Sheffield Wednesday	Coventry City	0:0	0:1	28.01.1970	00:00	1969	1970	22
+Newcastle United	West Bromwich Albion	0:0	1:0	06.02.1970	00:00	1969	1970	22
+Tottenham Hotspur	Everton FC	0:0	0:1	11.03.1970	00:00	1969	1970	22
+Stoke City	Chelsea FC	0:0	1:2	13.04.1970	00:00	1969	1970	22
+Coventry City	Tottenham Hotspur	0:0	3:2	06.12.1969	00:00	1969	1970	23
+Crystal Palace	Derby County	0:0	0:1	06.12.1969	00:00	1969	1970	23
+Stoke City	Newcastle United	0:0	0:1	06.12.1969	00:00	1969	1970	23
+West Ham United	Manchester City	0:0	0:4	06.12.1969	00:00	1969	1970	23
+West Bromwich Albion	Burnley FC	0:0	0:1	06.12.1969	00:00	1969	1970	23
+Sunderland AFC	Ipswich Town	0:0	2:1	06.12.1969	00:00	1969	1970	23
+Nottingham Forest	Sheffield Wednesday	0:0	2:1	06.12.1969	00:00	1969	1970	23
+Manchester United	Chelsea FC	0:0	0:2	06.12.1969	00:00	1969	1970	23
+Leeds United	Wolverhampton Wanderers	0:0	3:1	06.12.1969	00:00	1969	1970	23
+Everton FC	Liverpool FC	0:0	0:3	06.12.1969	00:00	1969	1970	23
+Arsenal FC	Southampton FC	0:0	2:2	06.12.1969	00:00	1969	1970	23
+Crystal Palace	Coventry City	0:2	0:3	13.12.1969	00:00	1969	1970	24
+Manchester City	Tottenham Hotspur	0:0	1:1	13.12.1969	00:00	1969	1970	24
+West Ham United	Everton FC	0:0	0:1	13.12.1969	00:00	1969	1970	24
+Arsenal FC	Burnley FC	0:0	3:2	13.12.1969	00:00	1969	1970	24
+Derby County	Newcastle United	0:0	2:0	13.12.1969	00:00	1969	1970	24
+Ipswich Town	West Bromwich Albion	0:1	0:1	13.12.1969	00:00	1969	1970	24
+Leeds United	Sheffield Wednesday	0:0	2:0	13.12.1969	00:00	1969	1970	24
+Liverpool FC	Manchester United	0:0	1:4	13.12.1969	00:00	1969	1970	24
+Southampton FC	Nottingham Forest	0:0	1:2	13.12.1969	00:00	1969	1970	24
+Wolverhampton Wanderers	Chelsea FC	0:0	3:0	13.12.1969	00:00	1969	1970	24
+Sunderland AFC	Stoke City	0:0	0:3	13.12.1969	00:00	1969	1970	24
+Chelsea FC	Manchester City	0:0	3:1	20.12.1969	00:00	1969	1970	25
+Stoke City	Crystal Palace	0:0	1:0	20.12.1969	00:00	1969	1970	25
+Tottenham Hotspur	West Ham United	0:0	0:2	20.12.1969	00:00	1969	1970	25
+Sheffield Wednesday	Arsenal FC	0:0	1:1	20.12.1969	00:00	1969	1970	25
+Nottingham Forest	Wolverhampton Wanderers	0:0	4:2	20.12.1969	00:00	1969	1970	25
+Newcastle United	Ipswich Town	0:0	4:0	20.12.1969	00:00	1969	1970	25
+Everton FC	Derby County	0:0	1:0	20.12.1969	00:00	1969	1970	25
+Manchester United	Leeds United	0:0	2:2	26.01.1970	00:00	1969	1970	25
+West Bromwich Albion	Sunderland AFC	0:0	3:1	27.01.1970	00:00	1969	1970	25
+Coventry City	Liverpool FC	0:0	2:3	03.03.1970	00:00	1969	1970	25
+Burnley FC	Southampton FC	0:0	1:1	24.03.1970	00:00	1969	1970	25
+Everton FC	Manchester City	0:0	1:0	23.12.1969	00:00	1969	1970	26
+Burnley FC	Liverpool FC	0:0	1:5	26.12.1969	00:00	1969	1970	26
+Chelsea FC	Southampton FC	0:0	3:1	26.12.1969	00:00	1969	1970	26
+Tottenham Hotspur	Crystal Palace	1:0	2:0	26.12.1969	00:00	1969	1970	26
+Coventry City	Ipswich Town	0:0	3:1	26.12.1969	00:00	1969	1970	26
+West Bromwich Albion	West Ham United	0:0	3:1	26.12.1969	00:00	1969	1970	26
+Stoke City	Derby County	0:0	1:0	26.12.1969	00:00	1969	1970	26
+Sheffield Wednesday	Sunderland AFC	0:0	2:0	26.12.1969	00:00	1969	1970	26
+Nottingham Forest	Arsenal FC	0:0	1:1	26.12.1969	00:00	1969	1970	26
+Newcastle United	Leeds United	0:0	2:1	26.12.1969	00:00	1969	1970	26
+Manchester United	Wolverhampton Wanderers	0:0	0:0	26.12.1969	00:00	1969	1970	26
+Crystal Palace	Chelsea FC	0:0	1:5	27.12.1969	00:00	1969	1970	27
+Southampton FC	Stoke City	0:0	0:0	27.12.1969	00:00	1969	1970	27
+Arsenal FC	Newcastle United	0:0	0:0	27.12.1969	00:00	1969	1970	27
+Derby County	West Bromwich Albion	0:0	2:0	27.12.1969	00:00	1969	1970	27
+Ipswich Town	Tottenham Hotspur	0:0	2:0	27.12.1969	00:00	1969	1970	27
+Leeds United	Everton FC	0:0	2:1	27.12.1969	00:00	1969	1970	27
+Sunderland AFC	Manchester United	0:0	1:1	27.12.1969	00:00	1969	1970	27
+West Ham United	Nottingham Forest	0:0	1:1	27.12.1969	00:00	1969	1970	27
+Manchester City	Burnley FC	0:0	1:1	06.01.1970	00:00	1969	1970	27
+Liverpool FC	Sheffield Wednesday	0:0	3:0	16.03.1970	00:00	1969	1970	27
+Wolverhampton Wanderers	Coventry City	0:0	0:1	10.04.1970	00:00	1969	1970	27
+Stoke City	Liverpool FC	0:0	0:2	10.01.1970	00:00	1969	1970	28
+West Bromwich Albion	Crystal Palace	0:0	3:2	10.01.1970	00:00	1969	1970	28
+Coventry City	Manchester City	0:0	3:0	10.01.1970	00:00	1969	1970	28
+Burnley FC	Wolverhampton Wanderers	0:3	1:3	10.01.1970	00:00	1969	1970	28
+Chelsea FC	Leeds United	0:1	2:5	10.01.1970	00:00	1969	1970	28
+Everton FC	Ipswich Town	0:0	3:0	10.01.1970	00:00	1969	1970	28
+Manchester United	Arsenal FC	0:0	2:1	10.01.1970	00:00	1969	1970	28
+Sheffield Wednesday	West Ham United	0:0	2:3	10.01.1970	00:00	1969	1970	28
+Tottenham Hotspur	Derby County	0:0	2:1	10.01.1970	00:00	1969	1970	28
+Nottingham Forest	Sunderland AFC	0:0	2:1	24.01.1970	00:00	1969	1970	28
+Newcastle United	Southampton FC	0:0	2:1	11.02.1970	00:00	1969	1970	28
+Liverpool FC	West Bromwich Albion	0:0	1:1	17.01.1970	00:00	1969	1970	29
+Southampton FC	Everton FC	0:0	2:1	17.01.1970	00:00	1969	1970	29
+Wolverhampton Wanderers	Newcastle United	0:0	1:1	17.01.1970	00:00	1969	1970	29
+Sunderland AFC	Tottenham Hotspur	0:0	2:1	17.01.1970	00:00	1969	1970	29
+Manchester City	Stoke City	0:0	0:1	17.01.1970	00:00	1969	1970	29
+Crystal Palace	Nottingham Forest	0:0	1:1	17.01.1970	00:00	1969	1970	29
+Arsenal FC	Chelsea FC	0:0	0:3	17.01.1970	00:00	1969	1970	29
+Derby County	Sheffield Wednesday	0:0	1:0	17.01.1970	00:00	1969	1970	29
+Ipswich Town	Burnley FC	0:0	0:1	17.01.1970	00:00	1969	1970	29
+Leeds United	Coventry City	2:0	3:1	17.01.1970	00:00	1969	1970	29
+West Ham United	Manchester United	0:0	0:0	17.01.1970	00:00	1969	1970	29
+Everton FC	Newcastle United	0:0	0:0	24.01.1970	00:00	1969	1970	30
+Wolverhampton Wanderers	Ipswich Town	0:0	2:0	24.01.1970	00:00	1969	1970	30
+West Ham United	Leeds United	0:0	2:2	02.04.1970	00:00	1969	1970	30
+Crystal Palace	Manchester City	0:0	1:0	06.04.1970	00:00	1969	1970	30
+Nottingham Forest	Coventry City	0:0	1:4	07.04.1970	00:00	1969	1970	30
+Sunderland AFC	Liverpool FC	0:0	0:1	15.04.1970	00:00	1969	1970	30
+Stoke City	West Bromwich Albion	0:0	3:2	15.04.1970	00:00	1969	1970	30
+Southampton FC	Derby County	0:0	1:1	15.04.1970	00:00	1969	1970	30
+Manchester United	Sheffield Wednesday	0:1	2:2	15.04.1970	00:00	1969	1970	30
+Burnley FC	Chelsea FC	0:0	3:1	15.04.1970	00:00	1969	1970	30
+Tottenham Hotspur	Arsenal FC	0:0	1:0	02.05.1970	00:00	1969	1970	30
+Nottingham Forest	Liverpool FC	1:0	1:0	31.01.1970	00:00	1969	1970	31
+Tottenham Hotspur	Southampton FC	0:0	0:1	31.01.1970	00:00	1969	1970	31
+Newcastle United	Crystal Palace	0:0	0:0	31.01.1970	00:00	1969	1970	31
+West Bromwich Albion	Manchester City	0:0	3:0	31.01.1970	00:00	1969	1970	31
+Manchester United	Derby County	0:0	1:0	31.01.1970	00:00	1969	1970	31
+Everton FC	Wolverhampton Wanderers	0:0	1:0	31.01.1970	00:00	1969	1970	31
+Coventry City	Arsenal FC	0:0	2:0	31.01.1970	00:00	1969	1970	31
+Burnley FC	West Ham United	0:0	3:2	31.01.1970	00:00	1969	1970	31
+Chelsea FC	Sunderland AFC	0:0	3:1	31.01.1970	00:00	1969	1970	31
+Sheffield Wednesday	Ipswich Town	1:0	2:2	31.01.1970	00:00	1969	1970	31
+Stoke City	Leeds United	0:0	1:1	31.01.1970	00:00	1969	1970	31
+Southampton FC	Sheffield Wednesday	2:0	4:0	07.02.1970	00:00	1969	1970	32
+Manchester City	Nottingham Forest	0:0	1:1	07.02.1970	00:00	1969	1970	32
+Arsenal FC	Stoke City	0:0	0:0	07.02.1970	00:00	1969	1970	32
+Wolverhampton Wanderers	Tottenham Hotspur	0:0	2:2	07.02.1970	00:00	1969	1970	32
+Ipswich Town	Manchester United	0:0	0:1	10.02.1970	00:00	1969	1970	32
+Leeds United	West Bromwich Albion	0:0	5:1	10.02.1970	00:00	1969	1970	32
+Crystal Palace	Burnley FC	0:0	1:2	11.02.1970	00:00	1969	1970	32
+West Ham United	Coventry City	0:0	1:2	11.02.1970	00:00	1969	1970	32
+Derby County	Chelsea FC	0:0	2:2	11.02.1970	00:00	1969	1970	32
+Liverpool FC	Newcastle United	0:0	0:0	16.02.1970	00:00	1969	1970	32
+Sunderland AFC	Everton FC	0:0	0:0	08.04.1970	00:00	1969	1970	32
+Manchester United	Crystal Palace	0:0	1:1	14.02.1970	00:00	1969	1970	33
+Burnley FC	Derby County	0:0	1:1	14.02.1970	00:00	1969	1970	33
+Everton FC	Arsenal FC	0:0	2:2	14.02.1970	00:00	1969	1970	33
+Stoke City	Wolverhampton Wanderers	0:0	1:1	14.02.1970	00:00	1969	1970	33
+Tottenham Hotspur	Leeds United	0:0	1:1	14.02.1970	00:00	1969	1970	33
+West Bromwich Albion	Southampton FC	0:0	1:0	20.02.1970	00:00	1969	1970	33
+Newcastle United	West Ham United	0:0	4:1	02.03.1970	00:00	1969	1970	33
+Coventry City	Sunderland AFC	0:0	1:1	24.03.1970	00:00	1969	1970	33
+Nottingham Forest	Ipswich Town	0:0	1:0	10.04.1970	00:00	1969	1970	33
+Chelsea FC	Liverpool FC	0:0	2:1	18.04.1970	00:00	1969	1970	33
+Sheffield Wednesday	Manchester City	0:0	1:2	22.04.1970	00:00	1969	1970	33
+Everton FC	Coventry City	0:0	0:0	21.02.1970	00:00	1969	1970	34
+Wolverhampton Wanderers	Manchester City	1:0	1:3	21.02.1970	00:00	1969	1970	34
+Tottenham Hotspur	Stoke City	1:0	1:0	21.02.1970	00:00	1969	1970	34
+Sunderland AFC	West Ham United	0:0	0:1	21.02.1970	00:00	1969	1970	34
+Crystal Palace	Sheffield Wednesday	0:0	0:2	21.02.1970	00:00	1969	1970	34
+Burnley FC	Nottingham Forest	0:0	5:0	21.02.1970	00:00	1969	1970	34
+Chelsea FC	Newcastle United	0:0	0:0	25.02.1970	00:00	1969	1970	34
+Southampton FC	Liverpool FC	0:0	0:1	11.03.1970	00:00	1969	1970	34
+Derby County	Leeds United	0:0	4:1	30.03.1970	00:00	1969	1970	34
+Ipswich Town	Arsenal FC	0:0	2:1	31.03.1970	00:00	1969	1970	34
+Manchester United	West Bromwich Albion	0:0	7:0	08.04.1970	00:00	1969	1970	34
+Leeds United	Sunderland AFC	0:0	2:0	19.11.1969	00:00	1969	1970	35
+Coventry City	Chelsea FC	0:0	0:3	28.02.1970	00:00	1969	1970	35
+West Ham United	Southampton FC	0:0	0:0	28.02.1970	00:00	1969	1970	35
+Stoke City	Manchester United	0:0	2:2	28.02.1970	00:00	1969	1970	35
+Nottingham Forest	Everton FC	0:0	1:1	28.02.1970	00:00	1969	1970	35
+Manchester City	Ipswich Town	0:0	1:0	28.02.1970	00:00	1969	1970	35
+Liverpool FC	Derby County	0:0	0:2	28.02.1970	00:00	1969	1970	35
+West Bromwich Albion	Wolverhampton Wanderers	0:2	3:3	28.02.1970	00:00	1969	1970	35
+Sheffield Wednesday	Tottenham Hotspur	0:0	0:1	30.03.1970	00:00	1969	1970	35
+Arsenal FC	Crystal Palace	0:0	2:0	30.03.1970	00:00	1969	1970	35
+Newcastle United	Burnley FC	0:0	0:1	30.03.1970	00:00	1969	1970	35
+Manchester City	Arsenal FC	0:0	1:1	18.02.1970	00:00	1969	1970	36
+Southampton FC	Sunderland AFC	0:0	1:1	07.03.1970	00:00	1969	1970	36
+Ipswich Town	Stoke City	0:0	1:1	07.03.1970	00:00	1969	1970	36
+Chelsea FC	Nottingham Forest	0:0	1:1	07.03.1970	00:00	1969	1970	36
+Burnley FC	Everton FC	0:0	1:2	07.03.1970	00:00	1969	1970	36
+Derby County	West Ham United	0:0	3:0	07.03.1970	00:00	1969	1970	36
+Liverpool FC	Leeds United	0:0	0:0	07.03.1970	00:00	1969	1970	36
+Sheffield Wednesday	West Bromwich Albion	1:0	2:0	10.03.1970	00:00	1969	1970	36
+Wolverhampton Wanderers	Crystal Palace	0:0	1:1	18.03.1970	00:00	1969	1970	36
+Tottenham Hotspur	Manchester United	0:0	2:1	13.04.1970	00:00	1969	1970	36
+Newcastle United	Coventry City	0:0	4:0	14.04.1970	00:00	1969	1970	36
+Coventry City	Sheffield Wednesday	0:1	1:1	14.03.1970	00:00	1969	1970	37
+West Ham United	Ipswich Town	0:0	0:0	14.03.1970	00:00	1969	1970	37
+Sunderland AFC	Wolverhampton Wanderers	2:0	2:1	14.03.1970	00:00	1969	1970	37
+Everton FC	Tottenham Hotspur	0:2	3:2	14.03.1970	00:00	1969	1970	37
+Crystal Palace	Southampton FC	0:0	2:0	14.03.1970	00:00	1969	1970	37
+Arsenal FC	Liverpool FC	0:0	2:1	14.03.1970	00:00	1969	1970	37
+Nottingham Forest	Derby County	0:0	1:3	14.03.1970	00:00	1969	1970	37
+West Bromwich Albion	Newcastle United	0:0	2:2	14.03.1970	00:00	1969	1970	37
+Chelsea FC	Stoke City	0:0	1:0	17.03.1970	00:00	1969	1970	37
+Manchester United	Burnley FC	0:0	3:3	17.03.1970	00:00	1969	1970	37
+Leeds United	Manchester City	0:0	1:3	18.04.1970	00:00	1969	1970	37
+Tottenham Hotspur	Coventry City	0:0	1:2	21.03.1970	00:00	1969	1970	38
+Chelsea FC	Manchester United	0:0	2:1	21.03.1970	00:00	1969	1970	38
+Manchester City	West Ham United	0:0	1:5	21.03.1970	00:00	1969	1970	38
+Wolverhampton Wanderers	Leeds United	0:0	1:2	21.03.1970	00:00	1969	1970	38
+Sheffield Wednesday	Nottingham Forest	0:0	2:1	21.03.1970	00:00	1969	1970	38
+Liverpool FC	Everton FC	0:0	0:2	21.03.1970	00:00	1969	1970	38
+Ipswich Town	Sunderland AFC	0:0	2:0	21.03.1970	00:00	1969	1970	38
+Burnley FC	West Bromwich Albion	0:1	2:1	21.03.1970	00:00	1969	1970	38
+Derby County	Crystal Palace	0:0	3:1	21.03.1970	00:00	1969	1970	38
+Newcastle United	Stoke City	0:0	3:1	21.03.1970	00:00	1969	1970	38
+Southampton FC	Arsenal FC	0:0	0:2	21.03.1970	00:00	1969	1970	38
+Derby County	Arsenal FC	0:0	3:2	21.02.1970	00:00	1969	1970	39
+Crystal Palace	West Ham United	0:0	0:0	24.03.1970	00:00	1969	1970	39
+Chelsea FC	Sheffield Wednesday	0:0	3:1	25.03.1970	00:00	1969	1970	39
+Tottenham Hotspur	Nottingham Forest	0:0	4:1	27.03.1970	00:00	1969	1970	39
+Burnley FC	Stoke City	0:0	1:1	27.03.1970	00:00	1969	1970	39
+Sunderland AFC	Newcastle United	0:0	1:1	27.03.1970	00:00	1969	1970	39
+Manchester United	Coventry City	1:0	1:1	30.03.1970	00:00	1969	1970	39
+Wolverhampton Wanderers	Liverpool FC	0:0	0:1	30.03.1970	00:00	1969	1970	39
+Everton FC	West Bromwich Albion	0:0	2:0	01.04.1970	00:00	1969	1970	39
+Southampton FC	Manchester City	0:0	0:0	08.04.1970	00:00	1969	1970	39
+Ipswich Town	Leeds United	0:0	3:2	21.04.1970	00:00	1969	1970	39
+Coventry City	Burnley FC	0:0	1:1	28.03.1970	00:00	1969	1970	40
+Everton FC	Chelsea FC	0:0	5:2	28.03.1970	00:00	1969	1970	40
+Leeds United	Southampton FC	0:0	1:3	28.03.1970	00:00	1969	1970	40
+Manchester United	Manchester City	0:0	1:2	28.03.1970	00:00	1969	1970	40
+West Ham United	Liverpool FC	0:0	1:0	28.03.1970	00:00	1969	1970	40
+West Bromwich Albion	Tottenham Hotspur	0:0	1:1	28.03.1970	00:00	1969	1970	40
+Stoke City	Sheffield Wednesday	0:0	2:1	28.03.1970	00:00	1969	1970	40
+Nottingham Forest	Newcastle United	0:0	2:2	28.03.1970	00:00	1969	1970	40
+Arsenal FC	Wolverhampton Wanderers	0:0	2:2	28.03.1970	00:00	1969	1970	40
+Crystal Palace	Ipswich Town	0:0	1:1	28.03.1970	00:00	1969	1970	40
+Sunderland AFC	Derby County	0:1	1:1	28.03.1970	00:00	1969	1970	40
+Sheffield Wednesday	Burnley FC	0:0	2:0	28.02.1970	00:00	1969	1970	41
+Leeds United	Crystal Palace	0:0	2:0	28.02.1970	00:00	1969	1970	41
+Newcastle United	Tottenham Hotspur	0:2	1:2	28.02.1970	00:00	1969	1970	41
+Arsenal FC	Sunderland AFC	0:0	3:1	28.02.1970	00:00	1969	1970	41
+Liverpool FC	Ipswich Town	0:0	2:0	24.03.1970	00:00	1969	1970	41
+Manchester City	Derby County	0:0	0:1	27.03.1970	00:00	1969	1970	41
+West Bromwich Albion	Chelsea FC	0:0	3:1	30.03.1970	00:00	1969	1970	41
+Stoke City	Everton FC	0:0	0:1	30.03.1970	00:00	1969	1970	41
+Coventry City	Southampton FC	0:0	4:0	31.03.1970	00:00	1969	1970	41
+Nottingham Forest	Manchester United	0:0	1:2	31.03.1970	00:00	1969	1970	41
+West Ham United	Wolverhampton Wanderers	0:0	3:0	31.03.1970	00:00	1969	1970	41
+Liverpool FC	Crystal Palace	0:0	3:0	03.04.1970	00:00	1969	1970	42
+Manchester City	Sunderland AFC	0:0	0:1	04.04.1970	00:00	1969	1970	42
+Coventry City	Stoke City	0:0	0:3	04.04.1970	00:00	1969	1970	42
+Newcastle United	Manchester United	0:0	5:1	04.04.1970	00:00	1969	1970	42
+West Bromwich Albion	Nottingham Forest	0:0	4:0	04.04.1970	00:00	1969	1970	42
+Leeds United	Burnley FC	0:0	2:1	04.04.1970	00:00	1969	1970	42
+Ipswich Town	Southampton FC	0:0	2:0	04.04.1970	00:00	1969	1970	42
+Chelsea FC	Tottenham Hotspur	0:0	1:0	04.04.1970	00:00	1969	1970	42
+Arsenal FC	West Ham United	0:0	2:1	04.04.1970	00:00	1969	1970	42
+Derby County	Wolverhampton Wanderers	0:0	2:0	04.04.1970	00:00	1969	1970	42
+Sheffield Wednesday	Everton FC	0:0	0:1	04.04.1970	00:00	1969	1970	42

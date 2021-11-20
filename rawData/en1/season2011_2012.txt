@@ -1,0 +1,380 @@
+Blackburn Rovers	Wolverhampton Wanderers	1:1	1:2	13.08.2011	16:00	2011	2012	1
+Fulham FC	Aston Villa	0:0	0:0	13.08.2011	16:00	2011	2012	1
+Liverpool FC	Sunderland AFC	1:0	1:1	13.08.2011	16:00	2011	2012	1
+Queens Park Rangers	Bolton Wanderers	0:1	0:4	13.08.2011	16:00	2011	2012	1
+Wigan Athletic	Norwich City	1:1	1:1	13.08.2011	16:00	2011	2012	1
+Newcastle United	Arsenal FC	0:0	0:0	13.08.2011	18:30	2011	2012	1
+Stoke City	Chelsea FC	0:0	0:0	14.08.2011	14:30	2011	2012	1
+West Bromwich Albion	Manchester United	1:1	1:2	14.08.2011	17:00	2011	2012	1
+Manchester City	Swansea City	0:0	4:0	15.08.2011	21:00	2011	2012	1
+Tottenham Hotspur	Everton FC	1:0	2:0	11.01.2012	20:45	2011	2012	1
+Sunderland AFC	Newcastle United	0:0	0:1	20.08.2011	13:00	2011	2012	2
+Arsenal FC	Liverpool FC	0:0	0:2	20.08.2011	13:45	2011	2012	2
+Aston Villa	Blackburn Rovers	2:0	3:1	20.08.2011	16:00	2011	2012	2
+Everton FC	Queens Park Rangers	0:1	0:1	20.08.2011	16:00	2011	2012	2
+Swansea City	Wigan Athletic	0:0	0:0	20.08.2011	16:00	2011	2012	2
+Chelsea FC	West Bromwich Albion	0:1	2:1	20.08.2011	18:30	2011	2012	2
+Norwich City	Stoke City	1:0	1:1	21.08.2011	14:30	2011	2012	2
+Wolverhampton Wanderers	Fulham FC	2:0	2:0	21.08.2011	15:00	2011	2012	2
+Bolton Wanderers	Manchester City	1:2	2:3	21.08.2011	17:00	2011	2012	2
+Manchester United	Tottenham Hotspur	0:0	3:0	22.08.2011	21:00	2011	2012	2
+Aston Villa	Wolverhampton Wanderers	0:0	0:0	27.08.2011	13:05	2011	2012	3
+Wigan Athletic	Queens Park Rangers	1:0	2:0	27.08.2011	13:30	2011	2012	3
+Blackburn Rovers	Everton FC	0:0	0:1	27.08.2011	16:00	2011	2012	3
+Chelsea FC	Norwich City	1:0	3:1	27.08.2011	16:00	2011	2012	3
+Swansea City	Sunderland AFC	0:0	0:0	27.08.2011	16:00	2011	2012	3
+Liverpool FC	Bolton Wanderers	1:0	3:1	27.08.2011	18:30	2011	2012	3
+Newcastle United	Fulham FC	0:0	2:1	28.08.2011	14:00	2011	2012	3
+Tottenham Hotspur	Manchester City	0:2	1:5	28.08.2011	14:30	2011	2012	3
+West Bromwich Albion	Stoke City	0:0	0:1	28.08.2011	16:00	2011	2012	3
+Manchester United	Arsenal FC	3:1	8:2	28.08.2011	17:00	2011	2012	3
+Arsenal FC	Swansea City	1:0	1:0	10.09.2011	16:00	2011	2012	4
+Everton FC	Aston Villa	1:0	2:2	10.09.2011	16:00	2011	2012	4
+Manchester City	Wigan Athletic	1:0	3:0	10.09.2011	16:00	2011	2012	4
+Stoke City	Liverpool FC	1:0	1:0	10.09.2011	16:00	2011	2012	4
+Sunderland AFC	Chelsea FC	0:1	1:2	10.09.2011	16:00	2011	2012	4
+Wolverhampton Wanderers	Tottenham Hotspur	0:0	0:2	10.09.2011	16:00	2011	2012	4
+Bolton Wanderers	Manchester United	0:3	0:5	10.09.2011	18:30	2011	2012	4
+Norwich City	West Bromwich Albion	0:1	0:1	11.09.2011	14:30	2011	2012	4
+Fulham FC	Blackburn Rovers	1:1	1:1	11.09.2011	17:00	2011	2012	4
+Queens Park Rangers	Newcastle United	0:0	0:0	12.09.2011	21:00	2011	2012	4
+Blackburn Rovers	Arsenal FC	1:2	4:3	17.09.2011	13:45	2011	2012	5
+Aston Villa	Newcastle United	1:0	1:1	17.09.2011	16:00	2011	2012	5
+Bolton Wanderers	Norwich City	0:2	1:2	17.09.2011	16:00	2011	2012	5
+Everton FC	Wigan Athletic	1:1	3:1	17.09.2011	16:00	2011	2012	5
+Swansea City	West Bromwich Albion	2:0	3:0	17.09.2011	16:00	2011	2012	5
+Wolverhampton Wanderers	Queens Park Rangers	0:2	0:3	17.09.2011	16:00	2011	2012	5
+Tottenham Hotspur	Liverpool FC	1:0	4:0	18.09.2011	14:30	2011	2012	5
+Fulham FC	Manchester City	0:1	2:2	18.09.2011	16:00	2011	2012	5
+Sunderland AFC	Stoke City	3:0	4:0	18.09.2011	16:00	2011	2012	5
+Manchester United	Chelsea FC	3:0	3:1	18.09.2011	17:00	2011	2012	5
+Manchester City	Everton FC	0:0	2:0	24.09.2011	13:45	2011	2012	6
+Arsenal FC	Bolton Wanderers	0:0	3:0	24.09.2011	16:00	2011	2012	6
+Chelsea FC	Swansea City	2:0	4:1	24.09.2011	16:00	2011	2012	6
+Liverpool FC	Wolverhampton Wanderers	2:0	2:1	24.09.2011	16:00	2011	2012	6
+Newcastle United	Blackburn Rovers	2:1	3:1	24.09.2011	16:00	2011	2012	6
+West Bromwich Albion	Fulham FC	0:0	0:0	24.09.2011	16:00	2011	2012	6
+Wigan Athletic	Tottenham Hotspur	0:2	1:2	24.09.2011	16:00	2011	2012	6
+Stoke City	Manchester United	0:1	1:1	24.09.2011	18:30	2011	2012	6
+Queens Park Rangers	Aston Villa	0:0	1:1	25.09.2011	17:00	2011	2012	6
+Norwich City	Sunderland AFC	1:0	2:1	26.09.2011	21:00	2011	2012	6
+Everton FC	Liverpool FC	0:0	0:2	01.10.2011	13:45	2011	2012	7
+Aston Villa	Wigan Athletic	1:0	2:0	01.10.2011	16:00	2011	2012	7
+Blackburn Rovers	Manchester City	0:0	0:4	01.10.2011	16:00	2011	2012	7
+Manchester United	Norwich City	0:0	2:0	01.10.2011	16:00	2011	2012	7
+Sunderland AFC	West Bromwich Albion	2:2	2:2	01.10.2011	16:00	2011	2012	7
+Wolverhampton Wanderers	Newcastle United	0:2	1:2	01.10.2011	16:00	2011	2012	7
+Bolton Wanderers	Chelsea FC	0:4	1:5	02.10.2011	14:30	2011	2012	7
+Fulham FC	Queens Park Rangers	3:0	6:0	02.10.2011	16:00	2011	2012	7
+Swansea City	Stoke City	1:0	2:0	02.10.2011	16:00	2011	2012	7
+Tottenham Hotspur	Arsenal FC	1:0	2:1	02.10.2011	17:00	2011	2012	7
+Liverpool FC	Manchester United	0:0	1:1	15.10.2011	13:45	2011	2012	8
+Manchester City	Aston Villa	1:0	4:1	15.10.2011	16:00	2011	2012	8
+Norwich City	Swansea City	2:1	3:1	15.10.2011	16:00	2011	2012	8
+Queens Park Rangers	Blackburn Rovers	1:1	1:1	15.10.2011	16:00	2011	2012	8
+Stoke City	Fulham FC	0:0	2:0	15.10.2011	16:00	2011	2012	8
+Wigan Athletic	Bolton Wanderers	1:2	1:3	15.10.2011	16:00	2011	2012	8
+Chelsea FC	Everton FC	2:0	3:1	15.10.2011	18:30	2011	2012	8
+West Bromwich Albion	Wolverhampton Wanderers	1:0	2:0	16.10.2011	13:00	2011	2012	8
+Arsenal FC	Sunderland AFC	1:1	2:1	16.10.2011	14:30	2011	2012	8
+Newcastle United	Tottenham Hotspur	0:1	2:2	16.10.2011	17:00	2011	2012	8
+Wolverhampton Wanderers	Swansea City	0:2	2:2	22.10.2011	13:45	2011	2012	9
+Aston Villa	West Bromwich Albion	1:1	1:2	22.10.2011	16:00	2011	2012	9
+Bolton Wanderers	Sunderland AFC	0:0	0:2	22.10.2011	16:00	2011	2012	9
+Newcastle United	Wigan Athletic	0:0	1:0	22.10.2011	16:00	2011	2012	9
+Liverpool FC	Norwich City	1:0	1:1	22.10.2011	18:30	2011	2012	9
+Arsenal FC	Stoke City	1:1	3:1	23.10.2011	14:30	2011	2012	9
+Fulham FC	Everton FC	0:1	1:3	23.10.2011	14:30	2011	2012	9
+Manchester United	Manchester City	0:1	1:6	23.10.2011	14:30	2011	2012	9
+Blackburn Rovers	Tottenham Hotspur	1:1	1:2	23.10.2011	16:00	2011	2012	9
+Queens Park Rangers	Chelsea FC	1:0	1:0	23.10.2011	17:00	2011	2012	9
+Everton FC	Manchester United	0:1	0:1	29.10.2011	13:00	2011	2012	10
+Chelsea FC	Arsenal FC	2:1	3:5	29.10.2011	13:45	2011	2012	10
+Manchester City	Wolverhampton Wanderers	0:0	3:1	29.10.2011	16:00	2011	2012	10
+Norwich City	Blackburn Rovers	0:1	3:3	29.10.2011	16:00	2011	2012	10
+Sunderland AFC	Aston Villa	1:1	2:2	29.10.2011	16:00	2011	2012	10
+Swansea City	Bolton Wanderers	0:0	3:1	29.10.2011	16:00	2011	2012	10
+Wigan Athletic	Fulham FC	0:1	0:2	29.10.2011	16:00	2011	2012	10
+West Bromwich Albion	Liverpool FC	0:2	0:2	29.10.2011	18:30	2011	2012	10
+Tottenham Hotspur	Queens Park Rangers	2:0	3:1	30.10.2011	17:00	2011	2012	10
+Stoke City	Newcastle United	0:2	1:3	31.10.2011	21:00	2011	2012	10
+Newcastle United	Everton FC	2:1	2:1	05.11.2011	13:45	2011	2012	11
+Arsenal FC	West Bromwich Albion	2:0	3:0	05.11.2011	16:00	2011	2012	11
+Aston Villa	Norwich City	1:1	3:2	05.11.2011	16:00	2011	2012	11
+Blackburn Rovers	Chelsea FC	0:0	0:1	05.11.2011	16:00	2011	2012	11
+Liverpool FC	Swansea City	0:0	0:0	05.11.2011	16:00	2011	2012	11
+Manchester United	Sunderland AFC	1:0	1:0	05.11.2011	16:00	2011	2012	11
+Queens Park Rangers	Manchester City	1:1	2:3	05.11.2011	18:30	2011	2012	11
+Wolverhampton Wanderers	Wigan Athletic	1:1	3:1	06.11.2011	14:30	2011	2012	11
+Bolton Wanderers	Stoke City	2:0	5:0	06.11.2011	16:00	2011	2012	11
+Fulham FC	Tottenham Hotspur	0:2	1:3	06.11.2011	17:00	2011	2012	11
+Norwich City	Arsenal FC	1:1	1:2	19.11.2011	13:45	2011	2012	12
+Everton FC	Wolverhampton Wanderers	1:1	2:1	19.11.2011	16:00	2011	2012	12
+Manchester City	Newcastle United	2:0	3:1	19.11.2011	16:00	2011	2012	12
+Stoke City	Queens Park Rangers	1:2	2:3	19.11.2011	16:00	2011	2012	12
+Sunderland AFC	Fulham FC	0:0	0:0	19.11.2011	16:00	2011	2012	12
+West Bromwich Albion	Bolton Wanderers	1:1	2:1	19.11.2011	16:00	2011	2012	12
+Wigan Athletic	Blackburn Rovers	2:1	3:3	19.11.2011	16:00	2011	2012	12
+Swansea City	Manchester United	0:1	0:1	19.11.2011	18:30	2011	2012	12
+Chelsea FC	Liverpool FC	0:1	1:2	20.11.2011	17:00	2011	2012	12
+Tottenham Hotspur	Aston Villa	2:0	2:0	21.11.2011	21:00	2011	2012	12
+Stoke City	Blackburn Rovers	1:0	3:1	26.11.2011	13:45	2011	2012	13
+Bolton Wanderers	Everton FC	0:0	0:2	26.11.2011	16:00	2011	2012	13
+Chelsea FC	Wolverhampton Wanderers	3:0	3:0	26.11.2011	16:00	2011	2012	13
+Manchester United	Newcastle United	0:0	1:1	26.11.2011	16:00	2011	2012	13
+Norwich City	Queens Park Rangers	1:0	2:1	26.11.2011	16:00	2011	2012	13
+Sunderland AFC	Wigan Athletic	1:1	1:2	26.11.2011	16:00	2011	2012	13
+West Bromwich Albion	Tottenham Hotspur	1:1	1:3	26.11.2011	16:00	2011	2012	13
+Arsenal FC	Fulham FC	0:0	1:1	26.11.2011	18:30	2011	2012	13
+Swansea City	Aston Villa	0:0	0:0	27.11.2011	14:30	2011	2012	13
+Liverpool FC	Manchester City	1:1	1:1	27.11.2011	17:00	2011	2012	13
+Newcastle United	Chelsea FC	0:1	0:3	03.12.2011	13:45	2011	2012	14
+Blackburn Rovers	Swansea City	2:1	4:2	03.12.2011	16:00	2011	2012	14
+Manchester City	Norwich City	1:0	5:1	03.12.2011	16:00	2011	2012	14
+Queens Park Rangers	West Bromwich Albion	1:0	1:1	03.12.2011	16:00	2011	2012	14
+Tottenham Hotspur	Bolton Wanderers	1:0	3:0	03.12.2011	16:00	2011	2012	14
+Wigan Athletic	Arsenal FC	0:2	0:4	03.12.2011	16:00	2011	2012	14
+Aston Villa	Manchester United	0:1	0:1	03.12.2011	18:30	2011	2012	14
+Everton FC	Stoke City	0:1	0:1	04.12.2011	16:00	2011	2012	14
+Wolverhampton Wanderers	Sunderland AFC	0:0	2:1	04.12.2011	17:00	2011	2012	14
+Fulham FC	Liverpool FC	0:0	1:0	05.12.2011	21:00	2011	2012	14
+Arsenal FC	Everton FC	0:0	1:0	10.12.2011	16:00	2011	2012	15
+Bolton Wanderers	Aston Villa	0:2	1:2	10.12.2011	16:00	2011	2012	15
+Liverpool FC	Queens Park Rangers	0:0	1:0	10.12.2011	16:00	2011	2012	15
+Manchester United	Wolverhampton Wanderers	2:0	4:1	10.12.2011	16:00	2011	2012	15
+Norwich City	Newcastle United	1:1	4:2	10.12.2011	16:00	2011	2012	15
+Swansea City	Fulham FC	0:0	2:0	10.12.2011	16:00	2011	2012	15
+West Bromwich Albion	Wigan Athletic	1:1	1:2	10.12.2011	16:00	2011	2012	15
+Sunderland AFC	Blackburn Rovers	0:1	2:1	11.12.2011	14:30	2011	2012	15
+Stoke City	Tottenham Hotspur	2:0	2:1	11.12.2011	17:00	2011	2012	15
+Chelsea FC	Manchester City	1:1	2:1	12.12.2011	21:00	2011	2012	15
+Blackburn Rovers	West Bromwich Albion	0:0	1:2	17.12.2011	16:00	2011	2012	16
+Everton FC	Norwich City	0:1	1:1	17.12.2011	16:00	2011	2012	16
+Fulham FC	Bolton Wanderers	2:0	2:0	17.12.2011	16:00	2011	2012	16
+Newcastle United	Swansea City	0:0	0:0	17.12.2011	16:00	2011	2012	16
+Wolverhampton Wanderers	Stoke City	1:0	1:2	17.12.2011	16:00	2011	2012	16
+Wigan Athletic	Chelsea FC	0:0	1:1	17.12.2011	18:30	2011	2012	16
+Queens Park Rangers	Manchester United	0:1	0:2	18.12.2011	13:00	2011	2012	16
+Aston Villa	Liverpool FC	0:2	0:2	18.12.2011	15:05	2011	2012	16
+Tottenham Hotspur	Sunderland AFC	0:0	1:0	18.12.2011	16:00	2011	2012	16
+Manchester City	Arsenal FC	0:0	1:0	18.12.2011	17:10	2011	2012	16
+Wolverhampton Wanderers	Norwich City	1:1	2:2	20.12.2011	20:45	2011	2012	17
+Blackburn Rovers	Bolton Wanderers	0:2	1:2	20.12.2011	21:00	2011	2012	17
+Aston Villa	Arsenal FC	0:1	1:2	21.12.2011	20:45	2011	2012	17
+Manchester City	Stoke City	2:0	3:0	21.12.2011	20:45	2011	2012	17
+Newcastle United	West Bromwich Albion	1:2	2:3	21.12.2011	20:45	2011	2012	17
+Queens Park Rangers	Sunderland AFC	0:1	2:3	21.12.2011	21:00	2011	2012	17
+Wigan Athletic	Liverpool FC	0:0	0:0	21.12.2011	21:00	2011	2012	17
+Everton FC	Swansea City	0:0	1:0	21.12.2011	21:00	2011	2012	17
+Fulham FC	Manchester United	0:3	0:5	21.12.2011	21:00	2011	2012	17
+Tottenham Hotspur	Chelsea FC	1:1	1:1	22.12.2011	21:00	2011	2012	17
+Chelsea FC	Fulham FC	0:0	1:1	26.12.2011	14:00	2011	2012	18
+Bolton Wanderers	Newcastle United	0:0	0:2	26.12.2011	16:00	2011	2012	18
+Liverpool FC	Blackburn Rovers	0:1	1:1	26.12.2011	16:00	2011	2012	18
+Manchester United	Wigan Athletic	2:0	5:0	26.12.2011	16:00	2011	2012	18
+Sunderland AFC	Everton FC	1:0	1:1	26.12.2011	16:00	2011	2012	18
+West Bromwich Albion	Manchester City	0:0	0:0	26.12.2011	16:00	2011	2012	18
+Stoke City	Aston Villa	0:0	0:0	26.12.2011	20:45	2011	2012	18
+Arsenal FC	Wolverhampton Wanderers	1:1	1:1	27.12.2011	16:00	2011	2012	18
+Swansea City	Queens Park Rangers	1:0	1:1	27.12.2011	18:00	2011	2012	18
+Norwich City	Tottenham Hotspur	0:0	0:2	27.12.2011	20:30	2011	2012	18
+Liverpool FC	Newcastle United	1:1	3:1	30.12.2011	20:45	2011	2012	19
+Manchester United	Blackburn Rovers	0:1	2:3	31.12.2011	13:45	2011	2012	19
+Arsenal FC	Queens Park Rangers	0:0	1:0	31.12.2011	16:00	2011	2012	19
+Bolton Wanderers	Wolverhampton Wanderers	1:0	1:1	31.12.2011	16:00	2011	2012	19
+Chelsea FC	Aston Villa	1:1	1:3	31.12.2011	16:00	2011	2012	19
+Norwich City	Fulham FC	0:1	1:1	31.12.2011	16:00	2011	2012	19
+Stoke City	Wigan Athletic	0:1	2:2	31.12.2011	16:00	2011	2012	19
+Swansea City	Tottenham Hotspur	0:1	1:1	31.12.2011	16:00	2011	2012	19
+West Bromwich Albion	Everton FC	0:0	0:1	01.01.2012	13:30	2011	2012	19
+Sunderland AFC	Manchester City	0:0	1:0	01.01.2012	16:00	2011	2012	19
+Blackburn Rovers	Stoke City	0:2	1:2	02.01.2012	16:00	2011	2012	20
+Aston Villa	Swansea City	0:1	0:2	02.01.2012	16:00	2011	2012	20
+Queens Park Rangers	Norwich City	1:1	1:2	02.01.2012	16:00	2011	2012	20
+Wolverhampton Wanderers	Chelsea FC	0:0	1:2	02.01.2012	16:00	2011	2012	20
+Fulham FC	Arsenal FC	0:1	2:1	02.01.2012	18:30	2011	2012	20
+Tottenham Hotspur	West Bromwich Albion	0:0	1:0	03.01.2012	20:45	2011	2012	20
+Wigan Athletic	Sunderland AFC	0:1	1:4	03.01.2012	20:45	2011	2012	20
+Manchester City	Liverpool FC	2:0	3:0	03.01.2012	21:00	2011	2012	20
+Everton FC	Bolton Wanderers	0:0	1:2	04.01.2012	21:00	2011	2012	20
+Newcastle United	Manchester United	1:0	3:0	04.01.2012	21:00	2011	2012	20
+Aston Villa	Everton FC	0:0	1:1	14.01.2012	16:00	2011	2012	21
+Blackburn Rovers	Fulham FC	1:0	3:1	14.01.2012	16:00	2011	2012	21
+Chelsea FC	Sunderland AFC	1:0	1:0	14.01.2012	16:00	2011	2012	21
+Liverpool FC	Stoke City	0:0	0:0	14.01.2012	16:00	2011	2012	21
+Manchester United	Bolton Wanderers	1:0	3:0	14.01.2012	16:00	2011	2012	21
+Tottenham Hotspur	Wolverhampton Wanderers	0:1	1:1	14.01.2012	16:00	2011	2012	21
+West Bromwich Albion	Norwich City	0:1	1:2	14.01.2012	16:00	2011	2012	21
+Newcastle United	Queens Park Rangers	1:0	1:0	15.01.2012	14:30	2011	2012	21
+Swansea City	Arsenal FC	1:1	3:2	15.01.2012	17:00	2011	2012	21
+Wigan Athletic	Manchester City	0:1	0:1	16.01.2012	21:00	2011	2012	21
+Norwich City	Chelsea FC	0:0	0:0	21.01.2012	13:45	2011	2012	22
+Everton FC	Blackburn Rovers	1:0	1:1	21.01.2012	16:00	2011	2012	22
+Fulham FC	Newcastle United	0:1	5:2	21.01.2012	16:00	2011	2012	22
+Queens Park Rangers	Wigan Athletic	2:0	3:1	21.01.2012	16:00	2011	2012	22
+Stoke City	West Bromwich Albion	0:1	1:2	21.01.2012	16:00	2011	2012	22
+Sunderland AFC	Swansea City	1:0	2:0	21.01.2012	16:00	2011	2012	22
+Wolverhampton Wanderers	Aston Villa	2:1	2:3	21.01.2012	16:00	2011	2012	22
+Bolton Wanderers	Liverpool FC	2:1	3:1	21.01.2012	18:30	2011	2012	22
+Manchester City	Tottenham Hotspur	0:0	3:2	22.01.2012	14:30	2011	2012	22
+Arsenal FC	Manchester United	0:1	1:2	22.01.2012	17:00	2011	2012	22
+Swansea City	Chelsea FC	1:0	1:1	31.01.2012	20:45	2011	2012	23
+Tottenham Hotspur	Wigan Athletic	2:0	3:1	31.01.2012	20:45	2011	2012	23
+Wolverhampton Wanderers	Liverpool FC	0:0	0:3	31.01.2012	20:45	2011	2012	23
+Manchester United	Stoke City	1:0	2:0	31.01.2012	21:00	2011	2012	23
+Everton FC	Manchester City	0:0	1:0	31.01.2012	21:00	2011	2012	23
+Aston Villa	Queens Park Rangers	1:2	2:2	01.02.2012	20:45	2011	2012	23
+Bolton Wanderers	Arsenal FC	0:0	0:0	01.02.2012	21:00	2011	2012	23
+Sunderland AFC	Norwich City	2:0	3:0	01.02.2012	21:00	2011	2012	23
+Fulham FC	West Bromwich Albion	0:0	1:1	01.02.2012	21:00	2011	2012	23
+Blackburn Rovers	Newcastle United	0:1	0:2	01.02.2012	21:00	2011	2012	23
+Arsenal FC	Blackburn Rovers	3:1	7:1	04.02.2012	14:00	2011	2012	24
+Norwich City	Bolton Wanderers	0:0	2:0	04.02.2012	16:00	2011	2012	24
+Queens Park Rangers	Wolverhampton Wanderers	1:0	1:2	04.02.2012	16:00	2011	2012	24
+Stoke City	Sunderland AFC	0:0	0:1	04.02.2012	16:00	2011	2012	24
+West Bromwich Albion	Swansea City	0:0	1:2	04.02.2012	16:00	2011	2012	24
+Wigan Athletic	Everton FC	0:0	1:1	04.02.2012	16:00	2011	2012	24
+Manchester City	Fulham FC	2:0	3:0	04.02.2012	18:30	2011	2012	24
+Newcastle United	Aston Villa	1:1	2:1	05.02.2012	14:30	2011	2012	24
+Chelsea FC	Manchester United	1:0	3:3	05.02.2012	17:00	2011	2012	24
+Liverpool FC	Tottenham Hotspur	0:0	0:0	06.02.2012	21:00	2011	2012	24
+Manchester United	Liverpool FC	0:0	2:1	11.02.2012	13:45	2011	2012	25
+Blackburn Rovers	Queens Park Rangers	3:0	3:2	11.02.2012	16:00	2011	2012	25
+Bolton Wanderers	Wigan Athletic	0:1	1:2	11.02.2012	16:00	2011	2012	25
+Everton FC	Chelsea FC	1:0	2:0	11.02.2012	16:00	2011	2012	25
+Fulham FC	Stoke City	2:0	2:1	11.02.2012	16:00	2011	2012	25
+Sunderland AFC	Arsenal FC	0:0	1:2	11.02.2012	16:00	2011	2012	25
+Swansea City	Norwich City	1:0	2:3	11.02.2012	16:00	2011	2012	25
+Tottenham Hotspur	Newcastle United	4:0	5:0	11.02.2012	18:30	2011	2012	25
+Wolverhampton Wanderers	West Bromwich Albion	1:1	1:5	12.02.2012	14:30	2011	2012	25
+Aston Villa	Manchester City	0:0	0:1	12.02.2012	17:00	2011	2012	25
+Chelsea FC	Bolton Wanderers	0:0	3:0	25.02.2012	16:00	2011	2012	26
+Newcastle United	Wolverhampton Wanderers	2:0	2:2	25.02.2012	16:00	2011	2012	26
+Queens Park Rangers	Fulham FC	0:1	0:1	25.02.2012	16:00	2011	2012	26
+West Bromwich Albion	Sunderland AFC	2:0	4:0	25.02.2012	16:00	2011	2012	26
+Wigan Athletic	Aston Villa	0:0	0:0	25.02.2012	16:00	2011	2012	26
+Manchester City	Blackburn Rovers	1:0	3:0	25.02.2012	18:30	2011	2012	26
+Arsenal FC	Tottenham Hotspur	2:2	5:2	26.02.2012	14:30	2011	2012	26
+Norwich City	Manchester United	0:1	1:2	26.02.2012	14:30	2011	2012	26
+Stoke City	Swansea City	2:0	2:0	26.02.2012	16:00	2011	2012	26
+Liverpool FC	Everton FC	1:0	3:0	13.03.2012	21:00	2011	2012	26
+Liverpool FC	Arsenal FC	1:1	1:2	03.03.2012	13:45	2011	2012	27
+Blackburn Rovers	Aston Villa	0:1	1:1	03.03.2012	16:00	2011	2012	27
+Manchester City	Bolton Wanderers	1:0	2:0	03.03.2012	16:00	2011	2012	27
+Queens Park Rangers	Everton FC	1:1	1:1	03.03.2012	16:00	2011	2012	27
+Stoke City	Norwich City	0:0	1:0	03.03.2012	16:00	2011	2012	27
+West Bromwich Albion	Chelsea FC	0:0	1:0	03.03.2012	16:00	2011	2012	27
+Wigan Athletic	Swansea City	0:1	0:2	03.03.2012	16:00	2011	2012	27
+Newcastle United	Sunderland AFC	0:1	1:1	04.03.2012	13:00	2011	2012	27
+Fulham FC	Wolverhampton Wanderers	2:0	5:0	04.03.2012	15:05	2011	2012	27
+Tottenham Hotspur	Manchester United	0:1	1:3	04.03.2012	17:10	2011	2012	27
+Bolton Wanderers	Queens Park Rangers	1:0	2:1	10.03.2012	13:45	2011	2012	28
+Aston Villa	Fulham FC	0:0	1:0	10.03.2012	16:00	2011	2012	28
+Chelsea FC	Stoke City	0:0	1:0	10.03.2012	16:00	2011	2012	28
+Sunderland AFC	Liverpool FC	0:0	1:0	10.03.2012	16:00	2011	2012	28
+Wolverhampton Wanderers	Blackburn Rovers	0:1	0:2	10.03.2012	16:00	2011	2012	28
+Everton FC	Tottenham Hotspur	1:0	1:0	10.03.2012	18:30	2011	2012	28
+Manchester United	West Bromwich Albion	1:0	2:0	11.03.2012	15:00	2011	2012	28
+Swansea City	Manchester City	0:0	1:0	11.03.2012	15:00	2011	2012	28
+Norwich City	Wigan Athletic	1:0	1:1	11.03.2012	17:00	2011	2012	28
+Arsenal FC	Newcastle United	1:1	2:1	12.03.2012	21:00	2011	2012	28
+Fulham FC	Swansea City	0:1	0:3	17.03.2012	16:00	2011	2012	29
+Wigan Athletic	West Bromwich Albion	0:0	1:1	17.03.2012	16:00	2011	2012	29
+Wolverhampton Wanderers	Manchester United	0:3	0:5	18.03.2012	14:30	2011	2012	29
+Newcastle United	Norwich City	1:0	1:0	18.03.2012	17:00	2011	2012	29
+Blackburn Rovers	Sunderland AFC	0:0	2:0	20.03.2012	21:00	2011	2012	29
+Manchester City	Chelsea FC	0:0	2:1	21.03.2012	20:45	2011	2012	29
+Tottenham Hotspur	Stoke City	0:0	1:1	21.03.2012	20:45	2011	2012	29
+Everton FC	Arsenal FC	0:1	0:1	21.03.2012	21:00	2011	2012	29
+Queens Park Rangers	Liverpool FC	0:0	3:2	21.03.2012	21:00	2011	2012	29
+Aston Villa	Bolton Wanderers	0:0	1:2	24.04.2012	20:45	2011	2012	29
+Chelsea FC	Tottenham Hotspur	0:0	0:0	24.03.2012	13:45	2011	2012	30
+Arsenal FC	Aston Villa	2:0	3:0	24.03.2012	16:00	2011	2012	30
+Bolton Wanderers	Blackburn Rovers	2:0	2:1	24.03.2012	16:00	2011	2012	30
+Liverpool FC	Wigan Athletic	0:1	1:2	24.03.2012	16:00	2011	2012	30
+Norwich City	Wolverhampton Wanderers	2:1	2:1	24.03.2012	16:00	2011	2012	30
+Sunderland AFC	Queens Park Rangers	1:0	3:1	24.03.2012	16:00	2011	2012	30
+Swansea City	Everton FC	0:0	0:2	24.03.2012	16:00	2011	2012	30
+Stoke City	Manchester City	0:0	1:1	24.03.2012	18:30	2011	2012	30
+West Bromwich Albion	Newcastle United	0:3	1:3	25.03.2012	17:00	2011	2012	30
+Manchester United	Fulham FC	1:0	1:0	26.03.2012	21:00	2011	2012	30
+Aston Villa	Chelsea FC	0:1	2:4	31.03.2012	16:00	2011	2012	31
+Everton FC	West Bromwich Albion	1:0	2:0	31.03.2012	16:00	2011	2012	31
+Fulham FC	Norwich City	2:0	2:1	31.03.2012	16:00	2011	2012	31
+Manchester City	Sunderland AFC	1:2	3:3	31.03.2012	16:00	2011	2012	31
+Queens Park Rangers	Arsenal FC	1:1	2:1	31.03.2012	16:00	2011	2012	31
+Wigan Athletic	Stoke City	0:0	2:0	31.03.2012	16:00	2011	2012	31
+Wolverhampton Wanderers	Bolton Wanderers	0:0	2:3	31.03.2012	16:00	2011	2012	31
+Newcastle United	Liverpool FC	1:0	2:0	01.04.2012	14:30	2011	2012	31
+Tottenham Hotspur	Swansea City	1:0	3:1	01.04.2012	17:00	2011	2012	31
+Blackburn Rovers	Manchester United	0:0	0:2	02.04.2012	21:00	2011	2012	31
+Swansea City	Newcastle United	0:1	0:2	06.04.2012	17:30	2011	2012	32
+Sunderland AFC	Tottenham Hotspur	0:0	0:0	07.04.2012	13:45	2011	2012	32
+Bolton Wanderers	Fulham FC	0:2	0:3	07.04.2012	16:00	2011	2012	32
+Chelsea FC	Wigan Athletic	0:0	2:1	07.04.2012	16:00	2011	2012	32
+Liverpool FC	Aston Villa	0:1	1:1	07.04.2012	16:00	2011	2012	32
+Norwich City	Everton FC	1:1	2:2	07.04.2012	16:00	2011	2012	32
+West Bromwich Albion	Blackburn Rovers	1:0	3:0	07.04.2012	16:00	2011	2012	32
+Stoke City	Wolverhampton Wanderers	1:1	2:1	07.04.2012	18:30	2011	2012	32
+Manchester United	Queens Park Rangers	1:0	2:0	08.04.2012	14:30	2011	2012	32
+Arsenal FC	Manchester City	0:0	1:0	08.04.2012	17:00	2011	2012	32
+Everton FC	Sunderland AFC	0:0	4:0	09.04.2012	16:00	2011	2012	33
+Newcastle United	Bolton Wanderers	0:0	2:0	09.04.2012	16:00	2011	2012	33
+Tottenham Hotspur	Norwich City	1:1	1:2	09.04.2012	16:00	2011	2012	33
+Aston Villa	Stoke City	1:0	1:1	09.04.2012	18:30	2011	2012	33
+Fulham FC	Chelsea FC	0:1	1:1	09.04.2012	21:00	2011	2012	33
+Blackburn Rovers	Liverpool FC	1:2	2:3	10.04.2012	21:00	2011	2012	33
+Manchester City	West Bromwich Albion	1:0	4:0	11.04.2012	20:45	2011	2012	33
+Wigan Athletic	Manchester United	0:0	1:0	11.04.2012	20:45	2011	2012	33
+Wolverhampton Wanderers	Arsenal FC	0:2	0:3	11.04.2012	20:45	2011	2012	33
+Queens Park Rangers	Swansea City	1:0	3:0	11.04.2012	21:00	2011	2012	33
+Norwich City	Manchester City	0:2	1:6	14.04.2012	13:45	2011	2012	34
+Sunderland AFC	Wolverhampton Wanderers	0:0	0:0	14.04.2012	16:00	2011	2012	34
+Swansea City	Blackburn Rovers	2:0	3:0	14.04.2012	16:00	2011	2012	34
+West Bromwich Albion	Queens Park Rangers	1:0	1:0	14.04.2012	16:00	2011	2012	34
+Manchester United	Aston Villa	2:0	4:0	15.04.2012	17:00	2011	2012	34
+Arsenal FC	Wigan Athletic	1:2	1:2	16.04.2012	21:00	2011	2012	34
+Liverpool FC	Fulham FC	0:1	0:1	01.05.2012	20:45	2011	2012	34
+Stoke City	Everton FC	0:1	1:1	01.05.2012	20:45	2011	2012	34
+Chelsea FC	Newcastle United	0:1	0:2	02.05.2012	20:45	2011	2012	34
+Bolton Wanderers	Tottenham Hotspur	0:1	1:4	02.05.2012	21:00	2011	2012	34
+Arsenal FC	Chelsea FC	0:0	0:0	21.04.2012	13:45	2011	2012	35
+Aston Villa	Sunderland AFC	0:0	0:0	21.04.2012	16:00	2011	2012	35
+Blackburn Rovers	Norwich City	1:0	2:0	21.04.2012	16:00	2011	2012	35
+Bolton Wanderers	Swansea City	1:1	1:1	21.04.2012	16:00	2011	2012	35
+Fulham FC	Wigan Athletic	0:0	2:1	21.04.2012	16:00	2011	2012	35
+Newcastle United	Stoke City	2:0	3:0	21.04.2012	16:00	2011	2012	35
+Queens Park Rangers	Tottenham Hotspur	1:0	1:0	21.04.2012	18:30	2011	2012	35
+Manchester United	Everton FC	1:1	4:4	22.04.2012	13:30	2011	2012	35
+Liverpool FC	West Bromwich Albion	0:0	0:1	22.04.2012	17:00	2011	2012	35
+Wolverhampton Wanderers	Manchester City	0:1	0:2	22.04.2012	17:00	2011	2012	35
+Everton FC	Fulham FC	3:0	4:0	28.04.2012	16:00	2011	2012	36
+Stoke City	Arsenal FC	1:1	1:1	28.04.2012	16:00	2011	2012	36
+Sunderland AFC	Bolton Wanderers	1:1	2:2	28.04.2012	16:00	2011	2012	36
+Swansea City	Wolverhampton Wanderers	4:2	4:4	28.04.2012	16:00	2011	2012	36
+West Bromwich Albion	Aston Villa	0:0	0:0	28.04.2012	16:00	2011	2012	36
+Wigan Athletic	Newcastle United	4:0	4:0	28.04.2012	16:00	2011	2012	36
+Norwich City	Liverpool FC	0:2	0:3	28.04.2012	18:30	2011	2012	36
+Chelsea FC	Queens Park Rangers	4:0	6:1	29.04.2012	14:30	2011	2012	36
+Tottenham Hotspur	Blackburn Rovers	1:0	2:0	29.04.2012	17:00	2011	2012	36
+Manchester City	Manchester United	1:0	1:0	30.04.2012	21:00	2011	2012	36
+Arsenal FC	Norwich City	1:2	3:3	05.05.2012	13:45	2011	2012	37
+Newcastle United	Manchester City	0:0	0:2	06.05.2012	14:30	2011	2012	37
+Aston Villa	Tottenham Hotspur	1:0	1:1	06.05.2012	15:00	2011	2012	37
+Bolton Wanderers	West Bromwich Albion	1:0	2:2	06.05.2012	15:00	2011	2012	37
+Fulham FC	Sunderland AFC	2:1	2:1	06.05.2012	15:00	2011	2012	37
+Queens Park Rangers	Stoke City	0:0	1:0	06.05.2012	15:00	2011	2012	37
+Wolverhampton Wanderers	Everton FC	0:0	0:0	06.05.2012	15:00	2011	2012	37
+Manchester United	Swansea City	2:0	2:0	06.05.2012	17:00	2011	2012	37
+Blackburn Rovers	Wigan Athletic	0:0	0:1	07.05.2012	21:00	2011	2012	37
+Liverpool FC	Chelsea FC	3:0	4:1	08.05.2012	21:00	2011	2012	37
+Chelsea FC	Blackburn Rovers	2:0	2:1	13.05.2012	16:00	2011	2012	38
+Everton FC	Newcastle United	2:0	3:1	13.05.2012	16:00	2011	2012	38
+Manchester City	Queens Park Rangers	1:0	3:2	13.05.2012	16:00	2011	2012	38
+Norwich City	Aston Villa	2:0	2:0	13.05.2012	16:00	2011	2012	38
+Stoke City	Bolton Wanderers	1:2	2:2	13.05.2012	16:00	2011	2012	38
+Sunderland AFC	Manchester United	0:1	0:1	13.05.2012	16:00	2011	2012	38
+Swansea City	Liverpool FC	0:0	1:0	13.05.2012	16:00	2011	2012	38
+Tottenham Hotspur	Fulham FC	1:0	2:0	13.05.2012	16:00	2011	2012	38
+West Bromwich Albion	Arsenal FC	2:2	2:3	13.05.2012	16:00	2011	2012	38
+Wigan Athletic	Wolverhampton Wanderers	2:1	3:2	13.05.2012	16:00	2011	2012	38

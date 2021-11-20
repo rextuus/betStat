@@ -1,0 +1,240 @@
+PaÃ§os de Ferreira	Sporting Braga	0:1	0:2	16.08.2013	21:15	2013	2014	1
+GD Estoril	CD Nacional	2:1	3:1	17.08.2013	19:00	2013	2014	1
+VitÃ³ria GuimarÃ£es	SC Olhanense	0:0	2:0	17.08.2013	21:15	2013	2014	1
+Sporting CP	FC Arouca	2:1	5:1	18.08.2013	16:45	2013	2014	1
+Os Belenenses	Rio Ave FC	0:1	0:3	18.08.2013	17:00	2013	2014	1
+Gil Vicente	AcadÃ©mica de Coimbra	1:0	2:0	18.08.2013	17:00	2013	2014	1
+CS MarÃ­timo	SL Benfica	1:0	2:1	18.08.2013	18:45	2013	2014	1
+VitÃ³ria SetÃºbal	FC Porto	1:0	1:3	18.08.2013	21:00	2013	2014	1
+SC Olhanense	PaÃ§os de Ferreira	1:0	1:0	24.08.2013	19:00	2013	2014	2
+AcadÃ©mica de Coimbra	Sporting CP	0:2	0:4	24.08.2013	21:15	2013	2014	2
+Rio Ave FC	VitÃ³ria SetÃºbal	1:0	2:0	25.08.2013	17:00	2013	2014	2
+CD Nacional	VitÃ³ria GuimarÃ£es	1:1	1:1	25.08.2013	18:30	2013	2014	2
+SL Benfica	Gil Vicente	0:0	2:1	25.08.2013	18:45	2013	2014	2
+FC Arouca	GD Estoril	0:2	1:2	25.08.2013	19:00	2013	2014	2
+FC Porto	CS MarÃ­timo	2:0	3:0	25.08.2013	20:45	2013	2014	2
+Sporting Braga	Os Belenenses	1:0	2:1	26.08.2013	21:00	2013	2014	2
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	1:1	1:4	31.08.2013	19:00	2013	2014	3
+Sporting CP	SL Benfica	1:0	1:1	31.08.2013	21:00	2013	2014	3
+FC Arouca	Rio Ave FC	0:0	1:0	01.09.2013	17:00	2013	2014	3
+CS MarÃ­timo	SC Olhanense	0:1	1:1	01.09.2013	17:00	2013	2014	3
+Os Belenenses	CD Nacional	1:1	2:3	01.09.2013	17:00	2013	2014	3
+PaÃ§os de Ferreira	FC Porto	0:0	0:1	01.09.2013	18:45	2013	2014	3
+Gil Vicente	Sporting Braga	0:0	1:0	01.09.2013	21:00	2013	2014	3
+GD Estoril	AcadÃ©mica de Coimbra	0:1	1:1	02.09.2013	21:00	2013	2014	3
+Rio Ave FC	VitÃ³ria GuimarÃ£es	0:0	0:1	14.09.2013	17:15	2013	2014	4
+SL Benfica	PaÃ§os de Ferreira	2:0	3:1	14.09.2013	19:15	2013	2014	4
+FC Porto	Gil Vicente	2:0	2:0	14.09.2013	21:15	2013	2014	4
+AcadÃ©mica de Coimbra	Os Belenenses	0:1	2:1	15.09.2013	16:45	2013	2014	4
+VitÃ³ria SetÃºbal	CS MarÃ­timo	0:0	2:4	15.09.2013	17:00	2013	2014	4
+CD Nacional	FC Arouca	0:0	0:1	15.09.2013	17:00	2013	2014	4
+SC Olhanense	Sporting CP	0:0	0:2	15.09.2013	18:45	2013	2014	4
+Sporting Braga	GD Estoril	1:1	3:2	15.09.2013	20:45	2013	2014	4
+FC Arouca	Sporting Braga	0:1	0:1	20.09.2013	22:00	2013	2014	5
+Gil Vicente	SC Olhanense	1:0	1:1	21.09.2013	17:00	2013	2014	5
+Os Belenenses	CS MarÃ­timo	1:0	1:0	21.09.2013	19:00	2013	2014	5
+Sporting CP	Rio Ave FC	1:0	1:1	21.09.2013	21:15	2013	2014	5
+CD Nacional	AcadÃ©mica de Coimbra	1:0	1:0	22.09.2013	17:00	2013	2014	5
+VitÃ³ria GuimarÃ£es	SL Benfica	0:0	0:1	22.09.2013	19:00	2013	2014	5
+GD Estoril	FC Porto	1:1	2:2	22.09.2013	21:15	2013	2014	5
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	0:1	1:1	23.09.2013	21:15	2013	2014	5
+FC Porto	VitÃ³ria GuimarÃ£es	0:0	1:0	27.09.2013	21:00	2013	2014	6
+AcadÃ©mica de Coimbra	FC Arouca	0:0	0:0	28.09.2013	17:00	2013	2014	6
+Rio Ave FC	CD Nacional	0:1	0:3	28.09.2013	17:00	2013	2014	6
+CS MarÃ­timo	PaÃ§os de Ferreira	1:0	3:4	28.09.2013	17:15	2013	2014	6
+SC Olhanense	GD Estoril	1:1	1:2	28.09.2013	19:15	2013	2014	6
+SL Benfica	Os Belenenses	1:1	1:1	28.09.2013	19:30	2013	2014	6
+Sporting Braga	Sporting CP	1:1	1:2	28.09.2013	21:15	2013	2014	6
+VitÃ³ria SetÃºbal	Gil Vicente	2:1	2:2	30.09.2013	21:15	2013	2014	6
+AcadÃ©mica de Coimbra	Rio Ave FC	0:0	0:1	04.10.2013	21:15	2013	2014	7
+Os Belenenses	SC Olhanense	1:0	2:0	05.10.2013	17:00	2013	2014	7
+Sporting CP	VitÃ³ria SetÃºbal	1:0	4:0	05.10.2013	21:15	2013	2014	7
+Gil Vicente	PaÃ§os de Ferreira	0:0	2:1	06.10.2013	17:00	2013	2014	7
+CD Nacional	Sporting Braga	2:0	3:0	06.10.2013	17:15	2013	2014	7
+FC Arouca	FC Porto	0:1	1:3	06.10.2013	19:15	2013	2014	7
+GD Estoril	SL Benfica	0:1	1:2	06.10.2013	21:15	2013	2014	7
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	0:0	1:0	07.10.2013	21:15	2013	2014	7
+Sporting Braga	AcadÃ©mica de Coimbra	0:1	0:1	25.10.2013	21:15	2013	2014	8
+SC Olhanense	FC Arouca	0:0	1:0	26.10.2013	17:00	2013	2014	8
+Rio Ave FC	Gil Vicente	0:0	0:1	26.10.2013	19:00	2013	2014	8
+VitÃ³ria SetÃºbal	Os Belenenses	0:0	0:0	26.10.2013	21:15	2013	2014	8
+SL Benfica	CD Nacional	1:0	2:0	27.10.2013	18:15	2013	2014	8
+FC Porto	Sporting CP	1:0	3:1	27.10.2013	20:45	2013	2014	8
+CS MarÃ­timo	GD Estoril	1:1	1:3	27.10.2013	21:15	2013	2014	8
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	1:1	1:3	28.10.2013	21:15	2013	2014	8
+AcadÃ©mica de Coimbra	SL Benfica	0:2	0:3	01.11.2013	21:30	2013	2014	9
+Os Belenenses	FC Porto	1:1	1:1	02.11.2013	19:00	2013	2014	9
+Sporting CP	CS MarÃ­timo	1:2	3:2	02.11.2013	21:15	2013	2014	9
+FC Arouca	PaÃ§os de Ferreira	0:0	0:0	03.11.2013	17:00	2013	2014	9
+CD Nacional	SC Olhanense	0:0	0:0	03.11.2013	17:00	2013	2014	9
+GD Estoril	VitÃ³ria SetÃºbal	0:0	0:2	03.11.2013	17:00	2013	2014	9
+Gil Vicente	VitÃ³ria GuimarÃ£es	1:0	1:0	03.11.2013	18:45	2013	2014	9
+Sporting Braga	Rio Ave FC	0:0	0:1	03.11.2013	20:45	2013	2014	9
+SL Benfica	Sporting Braga	0:0	1:0	23.11.2013	19:15	2013	2014	10
+FC Porto	CD Nacional	0:0	1:1	23.11.2013	21:15	2013	2014	10
+Rio Ave FC	GD Estoril	0:0	0:2	24.11.2013	16:00	2013	2014	10
+VitÃ³ria SetÃºbal	FC Arouca	1:0	1:0	24.11.2013	17:00	2013	2014	10
+CS MarÃ­timo	Gil Vicente	2:2	3:2	24.11.2013	17:00	2013	2014	10
+PaÃ§os de Ferreira	Os Belenenses	1:0	1:0	24.11.2013	18:00	2013	2014	10
+VitÃ³ria GuimarÃ£es	Sporting CP	0:0	0:1	24.11.2013	20:15	2013	2014	10
+SC Olhanense	AcadÃ©mica de Coimbra	0:1	0:1	25.11.2013	21:15	2013	2014	10
+Sporting Braga	SC Olhanense	2:0	4:1	29.11.2013	21:15	2013	2014	11
+AcadÃ©mica de Coimbra	FC Porto	1:0	1:0	30.11.2013	21:15	2013	2014	11
+FC Arouca	CS MarÃ­timo	0:0	1:2	01.12.2013	17:00	2013	2014	11
+Os Belenenses	Gil Vicente	0:0	0:0	01.12.2013	17:00	2013	2014	11
+CD Nacional	VitÃ³ria SetÃºbal	2:1	2:2	01.12.2013	17:00	2013	2014	11
+Rio Ave FC	SL Benfica	0:1	1:3	01.12.2013	18:45	2013	2014	11
+Sporting CP	PaÃ§os de Ferreira	1:0	4:0	01.12.2013	20:45	2013	2014	11
+GD Estoril	VitÃ³ria GuimarÃ£es	0:1	0:2	02.12.2013	21:00	2013	2014	11
+SL Benfica	FC Arouca	1:1	2:2	06.12.2013	21:15	2013	2014	12
+PaÃ§os de Ferreira	GD Estoril	0:1	0:3	07.12.2013	17:00	2013	2014	12
+VitÃ³ria GuimarÃ£es	Os Belenenses	0:0	0:0	07.12.2013	19:00	2013	2014	12
+FC Porto	Sporting Braga	0:0	2:0	07.12.2013	21:15	2013	2014	12
+CS MarÃ­timo	CD Nacional	1:1	2:2	08.12.2013	17:00	2013	2014	12
+SC Olhanense	Rio Ave FC	0:0	0:1	08.12.2013	17:00	2013	2014	12
+Gil Vicente	Sporting CP	0:1	0:2	08.12.2013	18:45	2013	2014	12
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	0:0	1:0	09.12.2013	21:15	2013	2014	12
+AcadÃ©mica de Coimbra	CS MarÃ­timo	1:0	1:1	13.12.2013	21:15	2013	2014	13
+Sporting Braga	VitÃ³ria SetÃºbal	1:0	2:0	14.12.2013	19:00	2013	2014	13
+Sporting CP	Os Belenenses	1:0	3:0	14.12.2013	21:15	2013	2014	13
+FC Arouca	VitÃ³ria GuimarÃ£es	0:2	0:2	15.12.2013	17:15	2013	2014	13
+SC Olhanense	SL Benfica	2:2	2:3	15.12.2013	19:15	2013	2014	13
+Rio Ave FC	FC Porto	1:1	1:3	15.12.2013	21:15	2013	2014	13
+CD Nacional	PaÃ§os de Ferreira	1:0	2:1	16.12.2013	20:00	2013	2014	13
+GD Estoril	Gil Vicente	1:0	2:0	16.12.2013	21:15	2013	2014	13
+CS MarÃ­timo	Sporting Braga	2:1	2:2	19.12.2013	21:00	2013	2014	14
+FC Porto	SC Olhanense	1:0	4:0	20.12.2013	20:00	2013	2014	14
+VitÃ³ria SetÃºbal	SL Benfica	0:0	0:2	20.12.2013	22:00	2013	2014	14
+PaÃ§os de Ferreira	Rio Ave FC	0:0	0:0	21.12.2013	17:00	2013	2014	14
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	1:0	3:0	21.12.2013	19:15	2013	2014	14
+Sporting CP	CD Nacional	0:0	0:0	21.12.2013	21:15	2013	2014	14
+Gil Vicente	FC Arouca	0:1	0:3	22.12.2013	17:15	2013	2014	14
+Os Belenenses	GD Estoril	0:0	0:0	22.12.2013	20:15	2013	2014	14
+Sporting Braga	VitÃ³ria GuimarÃ£es	1:0	3:0	10.01.2014	21:00	2013	2014	15
+Rio Ave FC	CS MarÃ­timo	0:0	1:1	11.01.2014	19:00	2013	2014	15
+GD Estoril	Sporting CP	0:0	0:0	11.01.2014	21:15	2013	2014	15
+FC Arouca	Os Belenenses	1:0	2:0	12.01.2014	17:00	2013	2014	15
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	2:2	4:2	12.01.2014	17:00	2013	2014	15
+SL Benfica	FC Porto	1:0	2:0	12.01.2014	17:00	2013	2014	15
+SC Olhanense	VitÃ³ria SetÃºbal	1:1	2:1	12.01.2014	17:00	2013	2014	15
+CD Nacional	Gil Vicente	1:0	2:0	12.01.2014	20:15	2013	2014	15
+SC Olhanense	VitÃ³ria GuimarÃ£es	0:1	0:1	17.01.2014	21:00	2013	2014	16
+FC Arouca	Sporting CP	1:1	1:2	18.01.2014	21:15	2013	2014	16
+Rio Ave FC	Os Belenenses	0:0	1:0	19.01.2014	17:00	2013	2014	16
+AcadÃ©mica de Coimbra	Gil Vicente	0:0	1:0	19.01.2014	17:00	2013	2014	16
+Sporting Braga	PaÃ§os de Ferreira	1:0	1:1	19.01.2014	18:00	2013	2014	16
+SL Benfica	CS MarÃ­timo	2:0	2:0	19.01.2014	18:00	2013	2014	16
+FC Porto	VitÃ³ria SetÃºbal	2:0	3:0	19.01.2014	20:15	2013	2014	16
+CD Nacional	GD Estoril	1:2	2:2	20.01.2014	21:00	2013	2014	16
+GD Estoril	FC Arouca	1:0	1:1	31.01.2014	21:00	2013	2014	17
+CS MarÃ­timo	FC Porto	1:0	1:0	01.02.2014	18:15	2013	2014	17
+VitÃ³ria SetÃºbal	Rio Ave FC	2:0	2:0	01.02.2014	19:00	2013	2014	17
+Gil Vicente	SL Benfica	0:0	1:1	01.02.2014	20:15	2013	2014	17
+Os Belenenses	Sporting Braga	0:0	2:1	02.02.2014	17:15	2013	2014	17
+Sporting CP	AcadÃ©mica de Coimbra	0:0	0:0	02.02.2014	19:15	2013	2014	17
+VitÃ³ria GuimarÃ£es	CD Nacional	1:1	1:2	03.02.2014	21:00	2013	2014	17
+PaÃ§os de Ferreira	SC Olhanense	2:0	3:1	05.02.2014	21:00	2013	2014	17
+CD Nacional	Os Belenenses	1:0	2:0	08.02.2014	19:00	2013	2014	18
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	1:0	3:2	08.02.2014	21:00	2013	2014	18
+Rio Ave FC	FC Arouca	1:0	1:1	09.02.2014	17:00	2013	2014	18
+SC Olhanense	CS MarÃ­timo	0:1	1:1	09.02.2014	17:00	2013	2014	18
+FC Porto	PaÃ§os de Ferreira	1:0	3:0	09.02.2014	19:45	2013	2014	18
+Sporting Braga	Gil Vicente	2:0	4:1	09.02.2014	21:45	2013	2014	18
+AcadÃ©mica de Coimbra	GD Estoril	0:1	0:1	10.02.2014	21:00	2013	2014	18
+SL Benfica	Sporting CP	1:0	2:0	11.02.2014	21:15	2013	2014	18
+Os Belenenses	AcadÃ©mica de Coimbra	0:0	0:0	15.02.2014	19:00	2013	2014	19
+Sporting CP	SC Olhanense	1:0	1:0	15.02.2014	21:15	2013	2014	19
+CS MarÃ­timo	VitÃ³ria SetÃºbal	0:0	1:0	16.02.2014	17:00	2013	2014	19
+FC Arouca	CD Nacional	1:1	1:1	16.02.2014	17:00	2013	2014	19
+VitÃ³ria GuimarÃ£es	Rio Ave FC	1:0	1:0	16.02.2014	17:00	2013	2014	19
+PaÃ§os de Ferreira	SL Benfica	0:0	0:2	16.02.2014	18:00	2013	2014	19
+Gil Vicente	FC Porto	0:1	1:2	16.02.2014	20:15	2013	2014	19
+GD Estoril	Sporting Braga	2:0	2:1	17.02.2014	21:00	2013	2014	19
+AcadÃ©mica de Coimbra	CD Nacional	0:0	0:0	21.02.2014	21:00	2013	2014	20
+Sporting Braga	FC Arouca	0:0	2:2	22.02.2014	19:00	2013	2014	20
+Rio Ave FC	Sporting CP	0:0	1:2	22.02.2014	21:15	2013	2014	20
+SC Olhanense	Gil Vicente	0:0	2:1	23.02.2014	17:00	2013	2014	20
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	0:0	4:0	23.02.2014	17:00	2013	2014	20
+CS MarÃ­timo	Os Belenenses	2:0	2:0	23.02.2014	18:00	2013	2014	20
+FC Porto	GD Estoril	0:0	0:1	23.02.2014	20:15	2013	2014	20
+SL Benfica	VitÃ³ria GuimarÃ£es	1:0	1:0	24.02.2014	21:15	2013	2014	20
+GD Estoril	SC Olhanense	2:0	4:0	01.03.2014	19:00	2013	2014	21
+Sporting CP	Sporting Braga	0:1	2:1	01.03.2014	21:15	2013	2014	21
+Gil Vicente	VitÃ³ria SetÃºbal	0:0	1:0	02.03.2014	17:00	2013	2014	21
+PaÃ§os de Ferreira	CS MarÃ­timo	0:1	3:1	02.03.2014	17:00	2013	2014	21
+CD Nacional	Rio Ave FC	0:0	1:1	02.03.2014	17:00	2013	2014	21
+Os Belenenses	SL Benfica	0:1	0:1	02.03.2014	18:00	2013	2014	21
+VitÃ³ria GuimarÃ£es	FC Porto	1:2	2:2	02.03.2014	20:15	2013	2014	21
+FC Arouca	AcadÃ©mica de Coimbra	0:1	0:3	03.03.2014	21:00	2013	2014	21
+Rio Ave FC	AcadÃ©mica de Coimbra	0:0	0:0	07.03.2014	21:00	2013	2014	22
+Sporting Braga	CD Nacional	2:1	2:1	08.03.2014	21:15	2013	2014	22
+SC Olhanense	Os Belenenses	0:0	0:0	09.03.2014	17:00	2013	2014	22
+PaÃ§os de Ferreira	Gil Vicente	0:1	0:2	09.03.2014	17:00	2013	2014	22
+SL Benfica	GD Estoril	2:0	2:0	09.03.2014	18:00	2013	2014	22
+VitÃ³ria SetÃºbal	Sporting CP	0:1	2:2	09.03.2014	18:00	2013	2014	22
+FC Porto	FC Arouca	2:1	4:1	09.03.2014	20:15	2013	2014	22
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	1:0	2:1	10.03.2014	21:00	2013	2014	22
+AcadÃ©mica de Coimbra	Sporting Braga	1:1	1:1	14.03.2014	21:00	2013	2014	23
+Gil Vicente	Rio Ave FC	0:1	1:2	15.03.2014	17:00	2013	2014	23
+GD Estoril	CS MarÃ­timo	1:0	1:0	15.03.2014	19:00	2013	2014	23
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	1:1	1:2	15.03.2014	21:15	2013	2014	23
+Os Belenenses	VitÃ³ria SetÃºbal	0:1	1:3	16.03.2014	17:00	2013	2014	23
+FC Arouca	SC Olhanense	1:0	2:0	16.03.2014	17:00	2013	2014	23
+Sporting CP	FC Porto	0:0	1:0	16.03.2014	20:15	2013	2014	23
+CD Nacional	SL Benfica	1:3	2:4	17.03.2014	21:00	2013	2014	23
+Rio Ave FC	Sporting Braga	0:0	1:1	21.03.2014	21:00	2013	2014	24
+VitÃ³ria GuimarÃ£es	Gil Vicente	0:0	0:0	22.03.2014	18:00	2013	2014	24
+CS MarÃ­timo	Sporting CP	1:2	1:3	22.03.2014	20:00	2013	2014	24
+SC Olhanense	CD Nacional	1:1	1:1	23.03.2014	16:00	2013	2014	24
+PaÃ§os de Ferreira	FC Arouca	1:0	3:1	23.03.2014	17:00	2013	2014	24
+SL Benfica	AcadÃ©mica de Coimbra	2:0	3:0	23.03.2014	19:00	2013	2014	24
+FC Porto	Os Belenenses	0:0	1:0	23.03.2014	20:15	2013	2014	24
+VitÃ³ria SetÃºbal	GD Estoril	1:0	1:1	24.03.2014	21:00	2013	2014	24
+Os Belenenses	PaÃ§os de Ferreira	0:0	1:1	28.03.2014	21:00	2013	2014	25
+Sporting CP	VitÃ³ria GuimarÃ£es	0:0	1:0	29.03.2014	21:15	2013	2014	25
+FC Arouca	VitÃ³ria SetÃºbal	0:0	1:0	30.03.2014	17:00	2013	2014	25
+AcadÃ©mica de Coimbra	SC Olhanense	1:0	2:1	30.03.2014	17:00	2013	2014	25
+GD Estoril	Rio Ave FC	0:0	0:1	30.03.2014	17:00	2013	2014	25
+Gil Vicente	CS MarÃ­timo	0:1	1:1	30.03.2014	17:00	2013	2014	25
+Sporting Braga	SL Benfica	0:1	0:1	30.03.2014	18:00	2013	2014	25
+CD Nacional	FC Porto	1:0	2:1	30.03.2014	20:15	2013	2014	25
+VitÃ³ria GuimarÃ£es	GD Estoril	1:1	1:3	04.04.2014	21:00	2013	2014	26
+SC Olhanense	Sporting Braga	0:0	0:2	05.04.2014	19:00	2013	2014	26
+PaÃ§os de Ferreira	Sporting CP	0:2	1:3	05.04.2014	21:15	2013	2014	26
+CS MarÃ­timo	FC Arouca	1:0	1:0	06.04.2014	17:00	2013	2014	26
+Gil Vicente	Os Belenenses	0:1	0:1	06.04.2014	17:00	2013	2014	26
+VitÃ³ria SetÃºbal	CD Nacional	2:0	3:0	06.04.2014	18:00	2013	2014	26
+FC Porto	AcadÃ©mica de Coimbra	3:0	3:1	06.04.2014	20:15	2013	2014	26
+SL Benfica	Rio Ave FC	2:0	4:0	07.04.2014	21:00	2013	2014	26
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	1:1	1:1	11.04.2014	21:00	2013	2014	27
+CD Nacional	CS MarÃ­timo	1:0	2:0	12.04.2014	17:00	2013	2014	27
+Os Belenenses	VitÃ³ria GuimarÃ£es	0:1	3:1	12.04.2014	19:00	2013	2014	27
+Rio Ave FC	SC Olhanense	1:1	1:2	12.04.2014	19:00	2013	2014	27
+Sporting CP	Gil Vicente	1:0	2:0	12.04.2014	21:15	2013	2014	27
+FC Arouca	SL Benfica	0:1	0:2	13.04.2014	18:00	2013	2014	27
+Sporting Braga	FC Porto	0:1	1:3	13.04.2014	20:15	2013	2014	27
+GD Estoril	PaÃ§os de Ferreira	1:0	1:0	14.04.2014	21:00	2013	2014	27
+VitÃ³ria GuimarÃ£es	FC Arouca	1:2	2:3	17.04.2014	21:00	2013	2014	28
+CS MarÃ­timo	AcadÃ©mica de Coimbra	2:0	3:1	19.04.2014	17:00	2013	2014	28
+PaÃ§os de Ferreira	CD Nacional	0:1	0:5	19.04.2014	17:00	2013	2014	28
+Gil Vicente	GD Estoril	0:0	0:0	19.04.2014	18:00	2013	2014	28
+Os Belenenses	Sporting CP	0:0	0:1	19.04.2014	20:15	2013	2014	28
+SL Benfica	SC Olhanense	0:0	2:0	20.04.2014	19:00	2013	2014	28
+VitÃ³ria SetÃºbal	Sporting Braga	0:1	1:1	21.04.2014	19:00	2013	2014	28
+FC Porto	Rio Ave FC	0:0	3:0	21.04.2014	21:00	2013	2014	28
+CD Nacional	Sporting CP	0:1	1:1	03.05.2014	19:30	2013	2014	29
+SL Benfica	VitÃ³ria SetÃºbal	0:0	1:1	04.05.2014	19:00	2013	2014	29
+Rio Ave FC	PaÃ§os de Ferreira	0:0	0:0	04.05.2014	19:00	2013	2014	29
+SC Olhanense	FC Porto	1:0	2:1	04.05.2014	19:00	2013	2014	29
+FC Arouca	Gil Vicente	1:0	1:0	04.05.2014	19:00	2013	2014	29
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	0:0	0:0	04.05.2014	19:00	2013	2014	29
+GD Estoril	Os Belenenses	0:1	1:1	04.05.2014	19:00	2013	2014	29
+Sporting Braga	CS MarÃ­timo	1:0	1:1	04.05.2014	19:00	2013	2014	29
+Os Belenenses	FC Arouca	0:0	1:0	10.05.2014	17:00	2013	2014	30
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	2:3	2:4	10.05.2014	17:00	2013	2014	30
+VitÃ³ria SetÃºbal	SC Olhanense	1:1	3:1	10.05.2014	17:00	2013	2014	30
+VitÃ³ria GuimarÃ£es	Sporting Braga	0:0	1:0	10.05.2014	17:00	2013	2014	30
+FC Porto	SL Benfica	2:1	2:1	10.05.2014	19:00	2013	2014	30
+Sporting CP	GD Estoril	0:1	0:1	11.05.2014	17:00	2013	2014	30
+Gil Vicente	CD Nacional	1:0	1:0	11.05.2014	17:00	2013	2014	30
+CS MarÃ­timo	Rio Ave FC	0:0	1:0	11.05.2014	17:00	2013	2014	30

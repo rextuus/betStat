@@ -1,0 +1,240 @@
+Sporting Braga	Portimonense SC	2:0	3:1	13.08.2010	21:15	2010	2011	1
+CS MarÃ­timo	VitÃ³ria SetÃºbal	0:0	0:1	14.08.2010	17:00	2010	2011	1
+Naval 1Â° de Maio	FC Porto	0:0	0:1	14.08.2010	20:15	2010	2011	1
+PaÃ§os de Ferreira	Sporting CP	0:0	1:0	14.08.2010	22:15	2010	2011	1
+Rio Ave FC	CD Nacional	0:0	0:1	15.08.2010	17:00	2010	2011	1
+SC Beira-Mar	UniÃ£o Leiria	0:0	0:0	15.08.2010	18:00	2010	2011	1
+SL Benfica	AcadÃ©mica de Coimbra	0:1	1:2	15.08.2010	21:15	2010	2011	1
+SC Olhanense	VitÃ³ria GuimarÃ£es	0:0	0:0	16.08.2010	21:15	2010	2011	1
+AcadÃ©mica de Coimbra	SC Olhanense	0:0	1:1	20.08.2010	21:15	2010	2011	2
+VitÃ³ria SetÃºbal	Sporting Braga	0:0	0:0	21.08.2010	20:15	2010	2011	2
+CD Nacional	SL Benfica	0:0	2:1	21.08.2010	22:15	2010	2011	2
+Portimonense SC	Naval 1Â° de Maio	0:1	0:1	22.08.2010	18:00	2010	2011	2
+UniÃ£o Leiria	PaÃ§os de Ferreira	0:0	0:0	22.08.2010	19:00	2010	2011	2
+Sporting CP	CS MarÃ­timo	0:0	1:0	22.08.2010	19:00	2010	2011	2
+FC Porto	SC Beira-Mar	2:0	3:0	22.08.2010	21:15	2010	2011	2
+VitÃ³ria GuimarÃ£es	Rio Ave FC	0:0	0:0	23.08.2010	21:15	2010	2011	2
+CD Nacional	VitÃ³ria GuimarÃ£es	0:0	1:3	28.08.2010	20:15	2010	2011	3
+SL Benfica	VitÃ³ria SetÃºbal	2:0	3:0	28.08.2010	22:15	2010	2011	3
+PaÃ§os de Ferreira	Portimonense SC	0:1	2:2	29.08.2010	17:00	2010	2011	3
+SC Beira-Mar	AcadÃ©mica de Coimbra	1:0	2:1	29.08.2010	17:00	2010	2011	3
+Sporting Braga	CS MarÃ­timo	1:0	1:0	29.08.2010	19:00	2010	2011	3
+SC Olhanense	UniÃ£o Leiria	1:0	1:0	29.08.2010	20:00	2010	2011	3
+Rio Ave FC	FC Porto	0:1	0:2	29.08.2010	21:15	2010	2011	3
+Naval 1Â° de Maio	Sporting CP	0:1	1:3	30.08.2010	21:15	2010	2011	3
+VitÃ³ria GuimarÃ£es	SL Benfica	1:1	2:1	10.09.2010	21:15	2010	2011	4
+Sporting CP	SC Olhanense	0:0	0:0	11.09.2010	20:15	2010	2011	4
+FC Porto	Sporting Braga	1:1	3:2	11.09.2010	22:15	2010	2011	4
+CS MarÃ­timo	PaÃ§os de Ferreira	0:1	1:1	12.09.2010	17:00	2010	2011	4
+Portimonense SC	Rio Ave FC	2:0	3:1	12.09.2010	17:00	2010	2011	4
+UniÃ£o Leiria	CD Nacional	0:0	2:1	12.09.2010	19:00	2010	2011	4
+AcadÃ©mica de Coimbra	Naval 1Â° de Maio	1:0	3:0	12.09.2010	21:15	2010	2011	4
+VitÃ³ria SetÃºbal	SC Beira-Mar	0:0	0:0	13.09.2010	21:15	2010	2011	4
+SC Olhanense	Portimonense SC	1:0	2:0	17.09.2010	21:15	2010	2011	5
+SC Beira-Mar	CS MarÃ­timo	0:1	1:1	18.09.2010	18:00	2010	2011	5
+VitÃ³ria GuimarÃ£es	UniÃ£o Leiria	0:0	1:0	18.09.2010	22:15	2010	2011	5
+Rio Ave FC	AcadÃ©mica de Coimbra	1:0	2:2	19.09.2010	17:00	2010	2011	5
+Naval 1Â° de Maio	VitÃ³ria SetÃºbal	0:0	0:0	19.09.2010	18:00	2010	2011	5
+PaÃ§os de Ferreira	Sporting Braga	0:1	2:2	19.09.2010	19:00	2010	2011	5
+SL Benfica	Sporting CP	1:0	2:0	19.09.2010	21:15	2010	2011	5
+CD Nacional	FC Porto	0:1	0:2	20.09.2010	20:45	2010	2011	5
+Sporting Braga	Naval 1Â° de Maio	1:0	3:1	24.09.2010	21:15	2010	2011	6
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	0:0	3:1	25.09.2010	18:00	2010	2011	6
+CS MarÃ­timo	SL Benfica	0:0	0:1	25.09.2010	20:15	2010	2011	6
+FC Porto	SC Olhanense	2:0	2:0	25.09.2010	22:15	2010	2011	6
+UniÃ£o Leiria	Rio Ave FC	0:0	1:0	26.09.2010	17:00	2010	2011	6
+Portimonense SC	SC Beira-Mar	0:0	1:0	26.09.2010	17:00	2010	2011	6
+Sporting CP	CD Nacional	0:0	1:1	26.09.2010	21:15	2010	2011	6
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	1:0	1:0	27.09.2010	21:15	2010	2011	6
+UniÃ£o Leiria	AcadÃ©mica de Coimbra	0:1	2:1	01.10.2010	21:15	2010	2011	7
+SC Olhanense	VitÃ³ria SetÃºbal	2:0	3:1	02.10.2010	20:15	2010	2011	7
+Rio Ave FC	CS MarÃ­timo	0:0	0:0	03.10.2010	17:00	2010	2011	7
+CD Nacional	Portimonense SC	1:1	3:1	03.10.2010	17:00	2010	2011	7
+Naval 1Â° de Maio	PaÃ§os de Ferreira	1:0	1:2	03.10.2010	17:00	2010	2011	7
+SL Benfica	Sporting Braga	0:0	1:0	03.10.2010	21:15	2010	2011	7
+SC Beira-Mar	Sporting CP	1:1	1:1	04.10.2010	20:15	2010	2011	7
+VitÃ³ria GuimarÃ£es	FC Porto	0:1	1:1	04.10.2010	22:15	2010	2011	7
+AcadÃ©mica de Coimbra	CD Nacional	2:0	2:1	23.10.2010	18:00	2010	2011	8
+PaÃ§os de Ferreira	SC Beira-Mar	1:0	1:1	23.10.2010	19:00	2010	2011	8
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	2:0	2:1	23.10.2010	20:15	2010	2011	8
+Sporting Braga	SC Olhanense	0:1	3:1	23.10.2010	22:15	2010	2011	8
+CS MarÃ­timo	Naval 1Â° de Maio	0:0	1:0	24.10.2010	17:00	2010	2011	8
+Sporting CP	Rio Ave FC	0:0	1:0	24.10.2010	19:15	2010	2011	8
+Portimonense SC	SL Benfica	0:0	0:1	24.10.2010	21:15	2010	2011	8
+FC Porto	UniÃ£o Leiria	3:0	5:1	25.10.2010	21:15	2010	2011	8
+SL Benfica	PaÃ§os de Ferreira	1:0	2:0	29.10.2010	21:15	2010	2011	9
+Rio Ave FC	Sporting Braga	0:0	2:0	30.10.2010	20:15	2010	2011	9
+AcadÃ©mica de Coimbra	FC Porto	0:1	0:1	30.10.2010	22:15	2010	2011	9
+CD Nacional	VitÃ³ria SetÃºbal	1:0	1:0	31.10.2010	17:00	2010	2011	9
+SC Beira-Mar	Naval 1Â° de Maio	2:0	3:1	31.10.2010	17:00	2010	2011	9
+SC Olhanense	CS MarÃ­timo	0:1	1:1	31.10.2010	17:00	2010	2011	9
+UniÃ£o Leiria	Sporting CP	1:2	1:2	31.10.2010	21:15	2010	2011	9
+VitÃ³ria GuimarÃ£es	Portimonense SC	1:0	2:0	01.11.2010	21:15	2010	2011	9
+VitÃ³ria SetÃºbal	Rio Ave FC	1:2	3:3	05.11.2010	21:15	2010	2011	10
+PaÃ§os de Ferreira	CD Nacional	0:0	0:1	06.11.2010	20:15	2010	2011	10
+Portimonense SC	AcadÃ©mica de Coimbra	0:2	2:2	06.11.2010	22:15	2010	2011	10
+CS MarÃ­timo	UniÃ£o Leiria	0:0	1:1	07.11.2010	17:00	2010	2011	10
+Naval 1Â° de Maio	SC Olhanense	1:0	1:1	07.11.2010	17:00	2010	2011	10
+Sporting Braga	SC Beira-Mar	0:1	2:3	07.11.2010	19:00	2010	2011	10
+FC Porto	SL Benfica	3:0	5:0	07.11.2010	21:15	2010	2011	10
+Sporting CP	VitÃ³ria GuimarÃ£es	2:0	2:3	08.11.2010	20:45	2010	2011	10
+CD Nacional	CS MarÃ­timo	0:0	0:0	12.11.2010	21:15	2010	2011	11
+VitÃ³ria GuimarÃ£es	Sporting Braga	1:1	2:1	13.11.2010	20:15	2010	2011	11
+AcadÃ©mica de Coimbra	Sporting CP	0:2	1:2	13.11.2010	22:15	2010	2011	11
+Rio Ave FC	PaÃ§os de Ferreira	2:1	3:1	14.11.2010	17:00	2010	2011	11
+UniÃ£o Leiria	VitÃ³ria SetÃºbal	1:0	1:0	14.11.2010	17:00	2010	2011	11
+SC Olhanense	SC Beira-Mar	1:0	1:1	14.11.2010	17:00	2010	2011	11
+SL Benfica	Naval 1Â° de Maio	1:0	4:0	14.11.2010	19:15	2010	2011	11
+FC Porto	Portimonense SC	1:0	2:0	14.11.2010	21:15	2010	2011	11
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	0:1	0:1	26.11.2010	21:15	2010	2011	12
+PaÃ§os de Ferreira	SC Olhanense	1:0	1:0	27.11.2010	17:00	2010	2011	12
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	2:0	2:0	27.11.2010	18:00	2010	2011	12
+Sporting CP	FC Porto	1:0	1:1	27.11.2010	22:15	2010	2011	12
+Naval 1Â° de Maio	Rio Ave FC	0:1	0:1	28.11.2010	17:00	2010	2011	12
+SC Beira-Mar	SL Benfica	0:1	1:3	28.11.2010	19:15	2010	2011	12
+Sporting Braga	CD Nacional	0:0	2:0	28.11.2010	21:15	2010	2011	12
+Portimonense SC	UniÃ£o Leiria	1:0	1:2	29.11.2010	16:00	2010	2011	12
+SL Benfica	SC Olhanense	1:0	2:0	03.12.2010	21:15	2010	2011	13
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	1:0	1:1	04.12.2010	20:15	2010	2011	13
+UniÃ£o Leiria	Sporting Braga	2:1	3:1	04.12.2010	22:15	2010	2011	13
+Rio Ave FC	SC Beira-Mar	0:0	1:1	05.12.2010	17:00	2010	2011	13
+Portimonense SC	Sporting CP	1:3	1:3	05.12.2010	21:15	2010	2011	13
+FC Porto	VitÃ³ria SetÃºbal	1:0	1:0	06.12.2010	20:45	2010	2011	13
+CD Nacional	Naval 1Â° de Maio	0:1	2:1	07.12.2010	17:00	2010	2011	13
+AcadÃ©mica de Coimbra	CS MarÃ­timo	0:1	1:5	08.12.2010	16:30	2010	2011	13
+Sporting Braga	AcadÃ©mica de Coimbra	3:0	5:0	17.12.2010	21:15	2010	2011	14
+SL Benfica	Rio Ave FC	2:1	5:2	18.12.2010	18:00	2010	2011	14
+SC Beira-Mar	VitÃ³ria GuimarÃ£es	1:0	3:2	18.12.2010	20:15	2010	2011	14
+CS MarÃ­timo	Portimonense SC	0:0	1:1	19.12.2010	17:00	2010	2011	14
+Naval 1Â° de Maio	UniÃ£o Leiria	0:1	0:3	19.12.2010	17:00	2010	2011	14
+SC Olhanense	CD Nacional	0:0	0:0	19.12.2010	19:00	2010	2011	14
+PaÃ§os de Ferreira	FC Porto	0:1	0:3	19.12.2010	21:15	2010	2011	14
+VitÃ³ria SetÃºbal	Sporting CP	0:2	0:3	20.12.2010	20:45	2010	2011	14
+Portimonense SC	VitÃ³ria SetÃºbal	2:1	3:4	07.01.2011	21:15	2010	2011	15
+FC Porto	CS MarÃ­timo	1:0	4:1	08.01.2011	20:15	2010	2011	15
+Sporting CP	Sporting Braga	2:1	2:1	08.01.2011	22:15	2010	2011	15
+Rio Ave FC	SC Olhanense	0:1	0:1	09.01.2011	17:00	2010	2011	15
+CD Nacional	SC Beira-Mar	0:0	0:0	09.01.2011	17:00	2010	2011	15
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	0:0	0:0	09.01.2011	17:00	2010	2011	15
+VitÃ³ria GuimarÃ£es	Naval 1Â° de Maio	1:0	1:2	09.01.2011	19:00	2010	2011	15
+UniÃ£o Leiria	SL Benfica	0:1	0:3	09.01.2011	21:15	2010	2011	15
+Portimonense SC	Sporting Braga	0:0	0:3	14.01.2011	21:15	2010	2011	16
+VitÃ³ria GuimarÃ£es	SC Olhanense	0:0	1:0	15.01.2011	20:15	2010	2011	16
+Sporting CP	PaÃ§os de Ferreira	1:2	2:3	15.01.2011	22:15	2010	2011	16
+CD Nacional	Rio Ave FC	0:0	1:0	16.01.2011	17:00	2010	2011	16
+VitÃ³ria SetÃºbal	CS MarÃ­timo	1:1	2:4	16.01.2011	17:00	2010	2011	16
+UniÃ£o Leiria	SC Beira-Mar	0:1	0:3	16.01.2011	17:00	2010	2011	16
+FC Porto	Naval 1Â° de Maio	2:0	3:1	16.01.2011	19:00	2010	2011	16
+AcadÃ©mica de Coimbra	SL Benfica	0:1	0:1	16.01.2011	21:15	2010	2011	16
+PaÃ§os de Ferreira	UniÃ£o Leiria	0:0	1:1	22.01.2011	17:00	2010	2011	17
+SC Olhanense	AcadÃ©mica de Coimbra	1:1	2:1	22.01.2011	17:00	2010	2011	17
+Sporting Braga	VitÃ³ria SetÃºbal	0:2	2:2	22.01.2011	18:00	2010	2011	17
+Rio Ave FC	VitÃ³ria GuimarÃ£es	0:1	2:3	22.01.2011	18:00	2010	2011	17
+SC Beira-Mar	FC Porto	0:1	0:1	22.01.2011	20:15	2010	2011	17
+Naval 1Â° de Maio	Portimonense SC	0:1	1:1	22.01.2011	21:00	2010	2011	17
+SL Benfica	CD Nacional	2:0	4:2	22.01.2011	22:15	2010	2011	17
+CS MarÃ­timo	Sporting CP	0:1	0:3	24.01.2011	21:15	2010	2011	17
+Sporting CP	Naval 1Â° de Maio	1:2	3:3	04.02.2011	21:15	2010	2011	18
+CS MarÃ­timo	Sporting Braga	1:1	1:2	05.02.2011	20:15	2010	2011	18
+VitÃ³ria GuimarÃ£es	CD Nacional	0:0	0:0	06.02.2011	17:00	2010	2011	18
+Portimonense SC	PaÃ§os de Ferreira	0:0	0:1	06.02.2011	17:00	2010	2011	18
+AcadÃ©mica de Coimbra	SC Beira-Mar	1:1	3:3	06.02.2011	17:00	2010	2011	18
+UniÃ£o Leiria	SC Olhanense	0:2	0:2	06.02.2011	17:00	2010	2011	18
+FC Porto	Rio Ave FC	1:0	1:0	06.02.2011	19:15	2010	2011	18
+VitÃ³ria SetÃºbal	SL Benfica	0:1	0:2	06.02.2011	21:15	2010	2011	18
+CD Nacional	UniÃ£o Leiria	0:1	0:1	12.02.2011	20:15	2010	2011	19
+SC Olhanense	Sporting CP	0:1	2:2	12.02.2011	22:15	2010	2011	19
+PaÃ§os de Ferreira	CS MarÃ­timo	0:0	1:0	13.02.2011	17:00	2010	2011	19
+Naval 1Â° de Maio	AcadÃ©mica de Coimbra	2:0	3:1	13.02.2011	17:00	2010	2011	19
+Rio Ave FC	Portimonense SC	0:0	2:0	13.02.2011	17:00	2010	2011	19
+SL Benfica	VitÃ³ria GuimarÃ£es	1:0	3:0	13.02.2011	19:15	2010	2011	19
+Sporting Braga	FC Porto	0:1	0:2	13.02.2011	21:15	2010	2011	19
+SC Beira-Mar	VitÃ³ria SetÃºbal	0:0	0:0	14.02.2011	21:15	2010	2011	19
+FC Porto	CD Nacional	3:0	3:0	26.01.2011	20:45	2010	2011	20
+UniÃ£o Leiria	VitÃ³ria GuimarÃ£es	0:1	0:1	18.02.2011	21:15	2010	2011	20
+Portimonense SC	SC Olhanense	1:0	1:1	19.02.2011	20:15	2010	2011	20
+AcadÃ©mica de Coimbra	Rio Ave FC	0:0	0:1	20.02.2011	17:00	2010	2011	20
+VitÃ³ria SetÃºbal	Naval 1Â° de Maio	1:0	1:1	20.02.2011	17:00	2010	2011	20
+CS MarÃ­timo	SC Beira-Mar	0:0	1:0	20.02.2011	19:00	2010	2011	20
+Sporting Braga	PaÃ§os de Ferreira	1:2	1:2	20.02.2011	21:15	2010	2011	20
+Sporting CP	SL Benfica	0:1	0:2	21.02.2011	21:15	2010	2011	20
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	0:0	0:2	25.02.2011	21:15	2010	2011	21
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	1:0	2:0	26.02.2011	17:00	2010	2011	21
+SC Olhanense	FC Porto	0:0	0:3	26.02.2011	21:15	2010	2011	21
+Rio Ave FC	UniÃ£o Leiria	1:0	1:0	27.02.2011	17:00	2010	2011	21
+SC Beira-Mar	Portimonense SC	0:0	0:1	27.02.2011	17:00	2010	2011	21
+SL Benfica	CS MarÃ­timo	0:0	2:1	27.02.2011	19:00	2010	2011	21
+CD Nacional	Sporting CP	1:0	1:0	27.02.2011	21:15	2010	2011	21
+Naval 1Â° de Maio	Sporting Braga	0:0	0:0	28.02.2011	21:15	2010	2011	21
+AcadÃ©mica de Coimbra	UniÃ£o Leiria	0:0	0:0	04.03.2011	21:15	2010	2011	22
+FC Porto	VitÃ³ria GuimarÃ£es	0:0	2:0	05.03.2011	20:45	2010	2011	22
+CS MarÃ­timo	Rio Ave FC	0:0	0:1	06.03.2011	17:00	2010	2011	22
+VitÃ³ria SetÃºbal	SC Olhanense	0:0	0:0	06.03.2011	17:00	2010	2011	22
+Sporting CP	SC Beira-Mar	0:0	1:0	06.03.2011	19:00	2010	2011	22
+Sporting Braga	SL Benfica	1:1	2:1	06.03.2011	21:15	2010	2011	22
+PaÃ§os de Ferreira	Naval 1Â° de Maio	0:0	0:0	07.03.2011	19:00	2010	2011	22
+Portimonense SC	CD Nacional	0:0	1:1	07.03.2011	21:15	2010	2011	22
+SC Beira-Mar	PaÃ§os de Ferreira	1:0	3:1	11.03.2011	21:15	2010	2011	23
+Rio Ave FC	Sporting CP	0:0	0:0	12.03.2011	19:15	2010	2011	23
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	1:0	1:1	12.03.2011	21:15	2010	2011	23
+Naval 1Â° de Maio	CS MarÃ­timo	0:2	0:3	13.03.2011	17:00	2010	2011	23
+CD Nacional	AcadÃ©mica de Coimbra	0:0	1:1	13.03.2011	17:00	2010	2011	23
+SL Benfica	Portimonense SC	0:1	1:1	13.03.2011	21:15	2010	2011	23
+UniÃ£o Leiria	FC Porto	0:0	0:2	14.03.2011	21:15	2010	2011	23
+SC Olhanense	Sporting Braga	0:1	0:2	27.03.2011	21:15	2010	2011	23
+Portimonense SC	VitÃ³ria GuimarÃ£es	1:1	2:1	18.03.2011	21:15	2010	2011	24
+Sporting CP	UniÃ£o Leiria	0:0	0:0	19.03.2011	21:15	2010	2011	24
+VitÃ³ria SetÃºbal	CD Nacional	1:0	2:1	20.03.2011	17:00	2010	2011	24
+Naval 1Â° de Maio	SC Beira-Mar	0:2	2:2	20.03.2011	17:00	2010	2011	24
+CS MarÃ­timo	SC Olhanense	2:0	4:0	20.03.2011	17:00	2010	2011	24
+FC Porto	AcadÃ©mica de Coimbra	0:1	3:1	20.03.2011	21:15	2010	2011	24
+Sporting Braga	Rio Ave FC	0:0	1:0	21.03.2011	19:45	2010	2011	24
+PaÃ§os de Ferreira	SL Benfica	1:3	1:5	21.03.2011	21:45	2010	2011	24
+UniÃ£o Leiria	CS MarÃ­timo	0:1	1:3	01.04.2011	21:15	2010	2011	25
+AcadÃ©mica de Coimbra	Portimonense SC	0:0	1:0	02.04.2011	19:00	2010	2011	25
+SC Beira-Mar	Sporting Braga	1:0	1:2	02.04.2011	21:15	2010	2011	25
+Rio Ave FC	VitÃ³ria SetÃºbal	1:0	2:0	03.04.2011	17:00	2010	2011	25
+SC Olhanense	Naval 1Â° de Maio	0:0	1:3	03.04.2011	17:00	2010	2011	25
+VitÃ³ria GuimarÃ£es	Sporting CP	0:1	1:1	03.04.2011	19:15	2010	2011	25
+SL Benfica	FC Porto	1:2	1:2	03.04.2011	21:30	2010	2011	25
+CD Nacional	PaÃ§os de Ferreira	0:0	1:0	04.04.2011	21:15	2010	2011	25
+CS MarÃ­timo	CD Nacional	1:0	1:1	08.04.2011	21:15	2010	2011	26
+Sporting CP	AcadÃ©mica de Coimbra	2:0	2:0	09.04.2011	21:15	2010	2011	26
+PaÃ§os de Ferreira	Rio Ave FC	1:0	1:6	10.04.2011	17:00	2010	2011	26
+VitÃ³ria SetÃºbal	UniÃ£o Leiria	1:0	4:1	10.04.2011	17:00	2010	2011	26
+SC Beira-Mar	SC Olhanense	0:0	1:0	10.04.2011	17:00	2010	2011	26
+Portimonense SC	FC Porto	0:0	2:3	10.04.2011	19:15	2010	2011	26
+Naval 1Â° de Maio	SL Benfica	1:1	2:1	10.04.2011	21:15	2010	2011	26
+Sporting Braga	VitÃ³ria GuimarÃ£es	0:0	3:1	11.04.2011	21:15	2010	2011	26
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	1:0	1:1	15.04.2011	21:15	2010	2011	27
+SC Olhanense	PaÃ§os de Ferreira	0:0	0:0	16.04.2011	20:15	2010	2011	27
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	0:0	2:0	16.04.2011	22:15	2010	2011	27
+Rio Ave FC	Naval 1Â° de Maio	1:0	1:0	17.04.2011	17:00	2010	2011	27
+UniÃ£o Leiria	Portimonense SC	0:0	0:1	17.04.2011	17:00	2010	2011	27
+SL Benfica	SC Beira-Mar	0:0	2:1	17.04.2011	19:15	2010	2011	27
+FC Porto	Sporting CP	1:1	3:2	17.04.2011	21:15	2010	2011	27
+CD Nacional	Sporting Braga	0:0	1:1	18.04.2011	21:15	2010	2011	27
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	1:1	2:1	29.04.2011	21:15	2010	2011	28
+Sporting CP	Portimonense SC	2:0	2:1	30.04.2011	21:15	2010	2011	28
+SC Beira-Mar	Rio Ave FC	1:0	1:1	01.05.2011	17:00	2010	2011	28
+Naval 1Â° de Maio	CD Nacional	1:2	1:2	01.05.2011	17:00	2010	2011	28
+Sporting Braga	UniÃ£o Leiria	0:0	0:0	01.05.2011	17:00	2010	2011	28
+CS MarÃ­timo	AcadÃ©mica de Coimbra	1:0	1:0	01.05.2011	17:00	2010	2011	28
+SC Olhanense	SL Benfica	0:1	1:1	01.05.2011	19:15	2010	2011	28
+VitÃ³ria SetÃºbal	FC Porto	0:2	0:4	01.05.2011	21:15	2010	2011	28
+Sporting CP	VitÃ³ria SetÃºbal	0:0	0:1	08.05.2011	21:15	2010	2011	29
+Portimonense SC	CS MarÃ­timo	0:0	1:0	08.05.2011	21:15	2010	2011	29
+AcadÃ©mica de Coimbra	Sporting Braga	0:0	0:0	08.05.2011	21:15	2010	2011	29
+FC Porto	PaÃ§os de Ferreira	2:0	3:3	08.05.2011	21:15	2010	2011	29
+UniÃ£o Leiria	Naval 1Â° de Maio	0:0	1:0	08.05.2011	21:15	2010	2011	29
+VitÃ³ria GuimarÃ£es	SC Beira-Mar	0:0	1:0	08.05.2011	21:15	2010	2011	29
+CD Nacional	SC Olhanense	0:0	0:1	08.05.2011	21:15	2010	2011	29
+Rio Ave FC	SL Benfica	0:2	1:2	08.05.2011	21:15	2010	2011	29
+SC Olhanense	Rio Ave FC	0:1	2:2	14.05.2011	21:15	2010	2011	30
+SC Beira-Mar	CD Nacional	0:1	0:2	14.05.2011	21:15	2010	2011	30
+Naval 1Â° de Maio	VitÃ³ria GuimarÃ£es	0:2	0:3	14.05.2011	21:15	2010	2011	30
+SL Benfica	UniÃ£o Leiria	1:1	3:3	14.05.2011	21:15	2010	2011	30
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	5:0	5:1	14.05.2011	21:15	2010	2011	30
+CS MarÃ­timo	FC Porto	0:2	0:2	14.05.2011	21:15	2010	2011	30
+VitÃ³ria SetÃºbal	Portimonense SC	1:1	3:1	14.05.2011	21:15	2010	2011	30
+Sporting Braga	Sporting CP	0:1	0:1	14.05.2011	21:15	2010	2011	30

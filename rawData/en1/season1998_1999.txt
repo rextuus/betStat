@@ -1,0 +1,380 @@
+Blackburn Rovers	Derby County	0:0	0:0	15.08.1998	15:00	1998	1999	1
+Coventry City	Chelsea FC	2:1	2:1	15.08.1998	15:00	1998	1999	1
+Everton FC	Aston Villa	0:0	0:0	15.08.1998	15:00	1998	1999	1
+Manchester United	Leicester City	0:1	2:2	15.08.1998	15:00	1998	1999	1
+Middlesbrough FC	Leeds United	0:0	0:0	15.08.1998	15:00	1998	1999	1
+Newcastle United	Charlton Athletic	0:0	0:0	15.08.1998	15:00	1998	1999	1
+Sheffield Wednesday	West Ham United	0:0	0:1	15.08.1998	15:00	1998	1999	1
+Wimbledon FC	Tottenham Hotspur	0:0	3:1	15.08.1998	15:00	1998	1999	1
+Southampton FC	Liverpool FC	1:1	1:2	16.08.1998	16:00	1998	1999	1
+Arsenal FC	Nottingham Forest	0:0	2:1	17.08.1998	20:00	1998	1999	1
+Charlton Athletic	Southampton FC	1:0	5:0	22.08.1998	15:00	1998	1999	2
+Chelsea FC	Newcastle United	1:1	1:1	22.08.1998	15:00	1998	1999	2
+Derby County	Wimbledon FC	0:0	0:0	22.08.1998	15:00	1998	1999	2
+Leicester City	Everton FC	2:0	2:0	22.08.1998	15:00	1998	1999	2
+Liverpool FC	Arsenal FC	0:0	0:0	22.08.1998	15:00	1998	1999	2
+Nottingham Forest	Coventry City	0:0	1:0	22.08.1998	15:00	1998	1999	2
+Tottenham Hotspur	Sheffield Wednesday	0:2	0:3	22.08.1998	15:00	1998	1999	2
+West Ham United	Manchester United	0:0	0:0	22.08.1998	15:00	1998	1999	2
+Aston Villa	Middlesbrough FC	1:0	3:1	23.08.1998	16:00	1998	1999	2
+Leeds United	Blackburn Rovers	1:0	1:0	24.08.1998	20:00	1998	1999	2
+Arsenal FC	Charlton Athletic	0:0	0:0	29.08.1998	15:00	1998	1999	3
+Blackburn Rovers	Leicester City	1:0	1:0	29.08.1998	15:00	1998	1999	3
+Coventry City	West Ham United	0:0	0:0	29.08.1998	15:00	1998	1999	3
+Everton FC	Tottenham Hotspur	0:1	0:1	29.08.1998	15:00	1998	1999	3
+Southampton FC	Nottingham Forest	0:0	1:2	29.08.1998	15:00	1998	1999	3
+Wimbledon FC	Leeds United	0:0	1:1	29.08.1998	15:00	1998	1999	3
+Middlesbrough FC	Derby County	0:1	1:1	29.08.1998	15:00	1998	1999	3
+Sheffield Wednesday	Aston Villa	0:1	0:1	29.08.1998	15:00	1998	1999	3
+Newcastle United	Liverpool FC	1:4	1:4	30.08.1998	16:00	1998	1999	3
+Manchester United	Chelsea FC	1:0	1:1	16.12.1998	19:45	1998	1999	3
+Manchester United	Charlton Athletic	2:1	4:1	08.09.1998	20:00	1998	1999	4
+Nottingham Forest	Everton FC	0:0	0:2	08.09.1998	20:00	1998	1999	4
+Leeds United	Southampton FC	1:0	3:0	08.09.1998	20:00	1998	1999	4
+Tottenham Hotspur	Blackburn Rovers	1:1	2:1	09.09.1998	19:45	1998	1999	4
+West Ham United	Wimbledon FC	3:1	3:4	09.09.1998	19:45	1998	1999	4
+Chelsea FC	Arsenal FC	0:0	0:0	09.09.1998	20:00	1998	1999	4
+Aston Villa	Newcastle United	0:0	1:0	09.09.1998	20:00	1998	1999	4
+Derby County	Sheffield Wednesday	1:0	1:0	09.09.1998	20:00	1998	1999	4
+Leicester City	Middlesbrough FC	0:1	0:1	09.09.1998	20:00	1998	1999	4
+Liverpool FC	Coventry City	1:0	2:0	09.09.1998	20:00	1998	1999	4
+Aston Villa	Wimbledon FC	1:0	2:0	12.09.1998	15:00	1998	1999	5
+Charlton Athletic	Derby County	0:1	1:2	12.09.1998	15:00	1998	1999	5
+Chelsea FC	Nottingham Forest	2:0	2:1	12.09.1998	15:00	1998	1999	5
+Everton FC	Leeds United	0:0	0:0	12.09.1998	15:00	1998	1999	5
+Leicester City	Arsenal FC	1:0	1:1	12.09.1998	15:00	1998	1999	5
+Manchester United	Coventry City	1:0	2:0	12.09.1998	15:00	1998	1999	5
+Newcastle United	Southampton FC	2:0	4:0	12.09.1998	15:00	1998	1999	5
+Sheffield Wednesday	Blackburn Rovers	2:0	3:0	12.09.1998	15:00	1998	1999	5
+West Ham United	Liverpool FC	1:0	2:1	12.09.1998	15:00	1998	1999	5
+Tottenham Hotspur	Middlesbrough FC	0:2	0:3	13.09.1998	16:00	1998	1999	5
+Coventry City	Newcastle United	1:3	1:5	19.09.1998	15:00	1998	1999	6
+Derby County	Leicester City	1:0	2:0	19.09.1998	15:00	1998	1999	6
+Leeds United	Aston Villa	0:0	0:0	19.09.1998	15:00	1998	1999	6
+Liverpool FC	Charlton Athletic	1:1	3:3	19.09.1998	15:00	1998	1999	6
+Middlesbrough FC	Everton FC	2:0	2:2	19.09.1998	15:00	1998	1999	6
+Nottingham Forest	West Ham United	0:0	0:0	19.09.1998	15:00	1998	1999	6
+Southampton FC	Tottenham Hotspur	0:1	1:1	19.09.1998	15:00	1998	1999	6
+Wimbledon FC	Sheffield Wednesday	1:0	2:1	19.09.1998	15:00	1998	1999	6
+Arsenal FC	Manchester United	2:0	3:0	20.09.1998	16:00	1998	1999	6
+Blackburn Rovers	Chelsea FC	1:1	3:4	21.09.1998	20:00	1998	1999	6
+Manchester United	Liverpool FC	1:0	2:0	24.09.1998	19:45	1998	1999	7
+Newcastle United	Nottingham Forest	1:0	2:0	26.09.1998	15:00	1998	1999	7
+Sheffield Wednesday	Arsenal FC	0:0	1:0	26.09.1998	15:00	1998	1999	7
+Tottenham Hotspur	Leeds United	1:2	3:3	26.09.1998	15:00	1998	1999	7
+Aston Villa	Derby County	1:0	1:0	26.09.1998	15:00	1998	1999	7
+Charlton Athletic	Coventry City	0:0	1:1	26.09.1998	15:00	1998	1999	7
+Chelsea FC	Middlesbrough FC	0:0	2:0	26.09.1998	15:00	1998	1999	7
+Everton FC	Blackburn Rovers	0:0	0:0	26.09.1998	15:00	1998	1999	7
+Leicester City	Wimbledon FC	0:0	1:1	27.09.1998	16:00	1998	1999	7
+West Ham United	Southampton FC	0:0	1:0	28.09.1998	20:00	1998	1999	7
+Blackburn Rovers	West Ham United	1:0	3:0	03.10.1998	15:00	1998	1999	8
+Coventry City	Aston Villa	0:2	1:2	03.10.1998	15:00	1998	1999	8
+Derby County	Tottenham Hotspur	0:0	0:1	03.10.1998	15:00	1998	1999	8
+Leeds United	Leicester City	0:0	0:1	03.10.1998	15:00	1998	1999	8
+Middlesbrough FC	Sheffield Wednesday	2:0	4:0	03.10.1998	15:00	1998	1999	8
+Nottingham Forest	Charlton Athletic	0:1	0:1	03.10.1998	15:00	1998	1999	8
+Southampton FC	Manchester United	0:1	0:3	03.10.1998	15:00	1998	1999	8
+Wimbledon FC	Everton FC	1:1	1:2	03.10.1998	15:00	1998	1999	8
+Liverpool FC	Chelsea FC	0:1	1:1	04.10.1998	15:00	1998	1999	8
+Arsenal FC	Newcastle United	2:0	3:0	04.10.1998	16:00	1998	1999	8
+Arsenal FC	Southampton FC	1:0	1:1	17.10.1998	15:00	1998	1999	9
+Chelsea FC	Charlton Athletic	1:0	2:1	17.10.1998	15:00	1998	1999	9
+Everton FC	Liverpool FC	0:0	0:0	17.10.1998	15:00	1998	1999	9
+Manchester United	Wimbledon FC	2:1	5:1	17.10.1998	15:00	1998	1999	9
+Middlesbrough FC	Blackburn Rovers	0:0	2:1	17.10.1998	15:00	1998	1999	9
+Newcastle United	Derby County	2:0	2:1	17.10.1998	15:00	1998	1999	9
+Nottingham Forest	Leeds United	0:0	1:1	17.10.1998	15:00	1998	1999	9
+West Ham United	Aston Villa	0:0	0:0	17.10.1998	15:00	1998	1999	9
+Coventry City	Sheffield Wednesday	0:0	1:0	18.10.1998	16:00	1998	1999	9
+Leicester City	Tottenham Hotspur	1:1	2:1	19.10.1998	20:00	1998	1999	9
+Aston Villa	Leicester City	0:1	1:1	24.10.1998	15:00	1998	1999	10
+Charlton Athletic	West Ham United	1:2	4:2	24.10.1998	15:00	1998	1999	10
+Derby County	Manchester United	0:0	1:1	24.10.1998	15:00	1998	1999	10
+Liverpool FC	Nottingham Forest	3:1	5:1	24.10.1998	15:00	1998	1999	10
+Sheffield Wednesday	Everton FC	0:0	0:0	24.10.1998	15:00	1998	1999	10
+Southampton FC	Coventry City	2:0	2:1	24.10.1998	15:00	1998	1999	10
+Tottenham Hotspur	Newcastle United	1:0	2:0	24.10.1998	15:00	1998	1999	10
+Wimbledon FC	Middlesbrough FC	1:2	2:2	24.10.1998	15:00	1998	1999	10
+Blackburn Rovers	Arsenal FC	0:2	1:2	25.10.1998	16:00	1998	1999	10
+Leeds United	Chelsea FC	0:0	0:0	25.10.1998	16:00	1998	1999	10
+Coventry City	Arsenal FC	0:0	0:1	31.10.1998	15:00	1998	1999	11
+Derby County	Leeds United	1:2	2:2	31.10.1998	15:00	1998	1999	11
+Everton FC	Manchester United	1:2	1:4	31.10.1998	15:00	1998	1999	11
+Leicester City	Liverpool FC	0:0	1:0	31.10.1998	15:00	1998	1999	11
+Newcastle United	West Ham United	0:0	0:3	31.10.1998	15:00	1998	1999	11
+Sheffield Wednesday	Southampton FC	0:0	0:0	31.10.1998	15:00	1998	1999	11
+Wimbledon FC	Blackburn Rovers	0:0	1:1	31.10.1998	15:00	1998	1999	11
+Middlesbrough FC	Nottingham Forest	1:0	1:1	01.11.1998	16:00	1998	1999	11
+Tottenham Hotspur	Charlton Athletic	0:1	2:2	02.11.1998	20:00	1998	1999	11
+Chelsea FC	Aston Villa	1:1	2:1	09.12.1998	19:45	1998	1999	11
+Southampton FC	Middlesbrough FC	0:0	3:3	07.11.1998	11:30	1998	1999	12
+Aston Villa	Tottenham Hotspur	2:0	3:2	07.11.1998	15:00	1998	1999	12
+Blackburn Rovers	Coventry City	0:0	1:2	07.11.1998	15:00	1998	1999	12
+Charlton Athletic	Leicester City	0:0	0:0	07.11.1998	15:00	1998	1999	12
+Liverpool FC	Derby County	0:2	1:2	07.11.1998	15:00	1998	1999	12
+Nottingham Forest	Wimbledon FC	0:1	0:1	07.11.1998	15:00	1998	1999	12
+Manchester United	Newcastle United	0:0	0:0	08.11.1998	14:00	1998	1999	12
+West Ham United	Chelsea FC	1:0	1:1	08.11.1998	14:00	1998	1999	12
+Leeds United	Sheffield Wednesday	1:1	2:1	08.11.1998	15:00	1998	1999	12
+Arsenal FC	Everton FC	1:0	1:0	08.11.1998	16:00	1998	1999	12
+Arsenal FC	Tottenham Hotspur	0:0	0:0	14.11.1998	15:00	1998	1999	13
+Charlton Athletic	Middlesbrough FC	1:0	1:1	14.11.1998	15:00	1998	1999	13
+Chelsea FC	Wimbledon FC	1:0	3:0	14.11.1998	15:00	1998	1999	13
+Liverpool FC	Leeds United	0:0	1:3	14.11.1998	15:00	1998	1999	13
+Manchester United	Blackburn Rovers	2:0	3:2	14.11.1998	15:00	1998	1999	13
+Newcastle United	Sheffield Wednesday	1:0	1:1	14.11.1998	15:00	1998	1999	13
+Southampton FC	Aston Villa	0:1	1:4	14.11.1998	15:00	1998	1999	13
+West Ham United	Leicester City	1:1	3:2	14.11.1998	15:00	1998	1999	13
+Coventry City	Everton FC	1:0	3:0	15.11.1998	16:00	1998	1999	13
+Nottingham Forest	Derby County	0:0	2:2	16.11.1998	20:00	1998	1999	13
+Aston Villa	Liverpool FC	0:2	2:4	21.11.1998	15:00	1998	1999	14
+Blackburn Rovers	Southampton FC	0:1	0:2	21.11.1998	15:00	1998	1999	14
+Leeds United	Charlton Athletic	1:0	4:1	21.11.1998	15:00	1998	1999	14
+Leicester City	Chelsea FC	1:2	2:4	21.11.1998	15:00	1998	1999	14
+Middlesbrough FC	Coventry City	0:0	2:0	21.11.1998	15:00	1998	1999	14
+Sheffield Wednesday	Manchester United	1:1	3:1	21.11.1998	15:00	1998	1999	14
+Tottenham Hotspur	Nottingham Forest	0:0	2:0	21.11.1998	15:00	1998	1999	14
+Wimbledon FC	Arsenal FC	0:0	1:0	21.11.1998	15:00	1998	1999	14
+Derby County	West Ham United	0:1	0:2	22.11.1998	16:00	1998	1999	14
+Everton FC	Newcastle United	1:0	1:0	23.11.1998	20:00	1998	1999	14
+Charlton Athletic	Everton FC	0:1	1:2	28.11.1998	15:00	1998	1999	15
+Chelsea FC	Sheffield Wednesday	1:0	1:1	28.11.1998	15:00	1998	1999	15
+Coventry City	Leicester City	0:0	1:1	28.11.1998	15:00	1998	1999	15
+Newcastle United	Wimbledon FC	1:1	3:1	28.11.1998	15:00	1998	1999	15
+Nottingham Forest	Aston Villa	2:0	2:2	28.11.1998	15:00	1998	1999	15
+Southampton FC	Derby County	0:1	0:1	28.11.1998	15:00	1998	1999	15
+West Ham United	Tottenham Hotspur	1:0	2:1	28.11.1998	15:00	1998	1999	15
+Liverpool FC	Blackburn Rovers	2:0	2:0	29.11.1998	15:00	1998	1999	15
+Manchester United	Leeds United	1:1	3:2	29.11.1998	15:00	1998	1999	15
+Arsenal FC	Middlesbrough FC	0:1	1:1	29.11.1998	16:00	1998	1999	15
+Aston Villa	Manchester United	0:0	1:1	05.12.1998	15:00	1998	1999	16
+Blackburn Rovers	Charlton Athletic	0:0	1:0	05.12.1998	15:00	1998	1999	16
+Derby County	Arsenal FC	0:0	0:0	05.12.1998	15:00	1998	1999	16
+Everton FC	Chelsea FC	0:0	0:0	05.12.1998	15:00	1998	1999	16
+Leeds United	West Ham United	1:0	4:0	05.12.1998	15:00	1998	1999	16
+Leicester City	Southampton FC	1:0	2:0	05.12.1998	15:00	1998	1999	16
+Tottenham Hotspur	Liverpool FC	1:0	2:1	05.12.1998	15:00	1998	1999	16
+Wimbledon FC	Coventry City	0:0	2:1	05.12.1998	15:00	1998	1999	16
+Middlesbrough FC	Newcastle United	1:1	2:2	06.12.1998	16:00	1998	1999	16
+Sheffield Wednesday	Nottingham Forest	1:0	3:2	07.12.1998	20:00	1998	1999	16
+Blackburn Rovers	Newcastle United	0:0	0:0	12.12.1998	15:00	1998	1999	17
+Derby County	Chelsea FC	1:0	2:2	12.12.1998	15:00	1998	1999	17
+Everton FC	Southampton FC	1:0	1:0	12.12.1998	15:00	1998	1999	17
+Leicester City	Nottingham Forest	1:1	3:1	12.12.1998	15:00	1998	1999	17
+Middlesbrough FC	West Ham United	1:0	1:0	12.12.1998	15:00	1998	1999	17
+Sheffield Wednesday	Charlton Athletic	1:0	3:0	12.12.1998	15:00	1998	1999	17
+Tottenham Hotspur	Manchester United	0:2	2:2	12.12.1998	15:00	1998	1999	17
+Wimbledon FC	Liverpool FC	0:0	1:0	13.12.1998	15:00	1998	1999	17
+Aston Villa	Arsenal FC	0:2	3:2	13.12.1998	16:00	1998	1999	17
+Leeds United	Coventry City	1:0	2:0	14.12.1998	20:00	1998	1999	17
+Chelsea FC	Tottenham Hotspur	0:0	2:0	19.12.1998	15:00	1998	1999	18
+Coventry City	Derby County	1:0	1:1	19.12.1998	15:00	1998	1999	18
+Liverpool FC	Sheffield Wednesday	2:0	2:0	19.12.1998	15:00	1998	1999	18
+Manchester United	Middlesbrough FC	0:2	2:3	19.12.1998	15:00	1998	1999	18
+Newcastle United	Leicester City	0:0	1:0	19.12.1998	15:00	1998	1999	18
+Nottingham Forest	Blackburn Rovers	2:0	2:2	19.12.1998	15:00	1998	1999	18
+Southampton FC	Wimbledon FC	1:0	3:1	19.12.1998	15:00	1998	1999	18
+West Ham United	Everton FC	1:0	2:1	19.12.1998	15:00	1998	1999	18
+Arsenal FC	Leeds United	1:0	3:1	20.12.1998	16:00	1998	1999	18
+Charlton Athletic	Aston Villa	0:1	0:1	21.12.1998	20:00	1998	1999	18
+Arsenal FC	West Ham United	1:0	1:0	26.12.1998	15:00	1998	1999	19
+Blackburn Rovers	Aston Villa	1:0	2:1	26.12.1998	15:00	1998	1999	19
+Coventry City	Tottenham Hotspur	0:1	1:1	26.12.1998	15:00	1998	1999	19
+Everton FC	Derby County	0:0	0:0	26.12.1998	15:00	1998	1999	19
+Manchester United	Nottingham Forest	1:0	3:0	26.12.1998	15:00	1998	1999	19
+Middlesbrough FC	Liverpool FC	1:2	1:3	26.12.1998	15:00	1998	1999	19
+Newcastle United	Leeds United	0:1	0:3	26.12.1998	15:00	1998	1999	19
+Sheffield Wednesday	Leicester City	0:1	0:1	26.12.1998	15:00	1998	1999	19
+Southampton FC	Chelsea FC	0:1	0:2	26.12.1998	15:00	1998	1999	19
+Wimbledon FC	Charlton Athletic	1:1	2:1	26.12.1998	15:00	1998	1999	19
+Aston Villa	Sheffield Wednesday	1:1	2:1	28.12.1998	16:00	1998	1999	20
+Charlton Athletic	Arsenal FC	0:0	0:1	28.12.1998	16:00	1998	1999	20
+Leicester City	Blackburn Rovers	1:1	1:1	28.12.1998	16:00	1998	1999	20
+West Ham United	Coventry City	1:0	2:0	28.12.1998	16:00	1998	1999	20
+Tottenham Hotspur	Everton FC	1:1	4:1	28.12.1998	16:00	1998	1999	20
+Nottingham Forest	Southampton FC	0:0	1:1	28.12.1998	16:00	1998	1999	20
+Liverpool FC	Newcastle United	0:1	4:2	28.12.1998	16:00	1998	1999	20
+Derby County	Middlesbrough FC	1:0	2:1	28.12.1998	16:00	1998	1999	20
+Chelsea FC	Manchester United	0:0	0:0	29.12.1998	19:45	1998	1999	20
+Leeds United	Wimbledon FC	1:1	2:2	29.12.1998	19:45	1998	1999	20
+Wimbledon FC	Derby County	1:0	2:1	09.01.1999	15:00	1998	1999	21
+Southampton FC	Charlton Athletic	1:1	3:1	09.01.1999	15:00	1998	1999	21
+Sheffield Wednesday	Tottenham Hotspur	0:0	0:0	09.01.1999	15:00	1998	1999	21
+Newcastle United	Chelsea FC	0:1	0:1	09.01.1999	15:00	1998	1999	21
+Middlesbrough FC	Aston Villa	0:0	0:0	09.01.1999	15:00	1998	1999	21
+Everton FC	Leicester City	0:0	0:0	09.01.1999	15:00	1998	1999	21
+Coventry City	Nottingham Forest	1:0	4:0	09.01.1999	15:00	1998	1999	21
+Blackburn Rovers	Leeds United	1:0	1:0	09.01.1999	15:00	1998	1999	21
+Arsenal FC	Liverpool FC	0:0	0:0	09.01.1999	15:00	1998	1999	21
+Manchester United	West Ham United	2:0	4:1	10.01.1999	16:00	1998	1999	21
+Liverpool FC	Southampton FC	3:0	7:1	16.01.1999	15:00	1998	1999	22
+Tottenham Hotspur	Wimbledon FC	0:0	0:0	16.01.1999	15:00	1998	1999	22
+West Ham United	Sheffield Wednesday	0:2	0:4	16.01.1999	15:00	1998	1999	22
+Nottingham Forest	Arsenal FC	0:1	0:1	16.01.1999	15:00	1998	1999	22
+Leicester City	Manchester United	1:1	2:6	16.01.1999	15:00	1998	1999	22
+Chelsea FC	Coventry City	1:1	2:1	16.01.1999	15:00	1998	1999	22
+Derby County	Blackburn Rovers	0:0	1:0	16.01.1999	15:00	1998	1999	22
+Leeds United	Middlesbrough FC	2:0	2:0	16.01.1999	15:00	1998	1999	22
+Charlton Athletic	Newcastle United	0:1	2:2	17.01.1999	16:00	1998	1999	22
+Aston Villa	Everton FC	1:0	3:0	18.01.1999	20:00	1998	1999	22
+Newcastle United	Aston Villa	2:0	2:1	30.01.1999	15:00	1998	1999	23
+Wimbledon FC	West Ham United	0:0	0:0	30.01.1999	15:00	1998	1999	23
+Middlesbrough FC	Leicester City	0:0	0:0	30.01.1999	15:00	1998	1999	23
+Everton FC	Nottingham Forest	0:0	0:1	30.01.1999	15:00	1998	1999	23
+Coventry City	Liverpool FC	0:0	2:1	30.01.1999	15:00	1998	1999	23
+Blackburn Rovers	Tottenham Hotspur	1:0	1:1	30.01.1999	15:00	1998	1999	23
+Southampton FC	Leeds United	1:0	3:0	30.01.1999	15:00	1998	1999	23
+Sheffield Wednesday	Derby County	0:0	0:1	30.01.1999	15:00	1998	1999	23
+Arsenal FC	Chelsea FC	1:0	1:0	31.01.1999	16:00	1998	1999	23
+Charlton Athletic	Manchester United	0:0	0:1	31.01.1999	16:00	1998	1999	23
+Chelsea FC	Southampton FC	1:0	1:0	06.02.1999	15:00	1998	1999	24
+Aston Villa	Blackburn Rovers	0:1	1:3	06.02.1999	15:00	1998	1999	24
+Leeds United	Newcastle United	0:0	0:1	06.02.1999	15:00	1998	1999	24
+West Ham United	Arsenal FC	0:2	0:4	06.02.1999	15:00	1998	1999	24
+Tottenham Hotspur	Coventry City	0:0	0:0	06.02.1999	15:00	1998	1999	24
+Liverpool FC	Middlesbrough FC	3:0	3:1	06.02.1999	15:00	1998	1999	24
+Nottingham Forest	Manchester United	1:2	1:8	06.02.1999	15:00	1998	1999	24
+Leicester City	Sheffield Wednesday	0:0	0:2	06.02.1999	15:00	1998	1999	24
+Derby County	Everton FC	0:1	2:1	07.02.1999	16:00	1998	1999	24
+Charlton Athletic	Wimbledon FC	1:0	2:0	08.02.1999	20:00	1998	1999	24
+West Ham United	Nottingham Forest	2:0	2:1	13.02.1999	15:00	1998	1999	25
+Charlton Athletic	Liverpool FC	0:0	1:0	13.02.1999	15:00	1998	1999	25
+Chelsea FC	Blackburn Rovers	1:0	1:1	17.02.1999	19:45	1998	1999	25
+Everton FC	Middlesbrough FC	2:0	5:0	17.02.1999	19:45	1998	1999	25
+Aston Villa	Leeds United	0:2	1:2	17.02.1999	20:00	1998	1999	25
+Newcastle United	Coventry City	1:1	4:1	17.02.1999	20:00	1998	1999	25
+Manchester United	Arsenal FC	0:0	1:1	17.02.1999	20:00	1998	1999	25
+Tottenham Hotspur	Southampton FC	1:0	3:0	02.03.1999	19:45	1998	1999	25
+Sheffield Wednesday	Wimbledon FC	0:2	1:2	03.03.1999	20:00	1998	1999	25
+Leicester City	Derby County	1:1	1:2	05.05.1999	19:45	1998	1999	25
+Liverpool FC	West Ham United	2:1	2:2	20.02.1999	15:00	1998	1999	26
+Leeds United	Everton FC	0:0	1:0	20.02.1999	15:00	1998	1999	26
+Derby County	Charlton Athletic	0:0	0:2	20.02.1999	15:00	1998	1999	26
+Coventry City	Manchester United	0:0	0:1	20.02.1999	15:00	1998	1999	26
+Blackburn Rovers	Sheffield Wednesday	0:3	1:4	20.02.1999	15:00	1998	1999	26
+Arsenal FC	Leicester City	4:0	5:0	20.02.1999	15:00	1998	1999	26
+Middlesbrough FC	Tottenham Hotspur	0:0	0:0	20.02.1999	15:00	1998	1999	26
+Nottingham Forest	Chelsea FC	1:2	1:3	20.02.1999	15:00	1998	1999	26
+Southampton FC	Newcastle United	2:0	2:1	20.02.1999	15:00	1998	1999	26
+Wimbledon FC	Aston Villa	0:0	0:0	21.02.1999	16:00	1998	1999	26
+Chelsea FC	Liverpool FC	2:0	2:1	27.02.1999	15:00	1998	1999	27
+Manchester United	Southampton FC	0:0	2:1	27.02.1999	15:00	1998	1999	27
+Charlton Athletic	Nottingham Forest	0:0	0:0	27.02.1999	15:00	1998	1999	27
+Aston Villa	Coventry City	0:1	1:4	27.02.1999	15:00	1998	1999	27
+Sheffield Wednesday	Middlesbrough FC	1:0	3:1	27.02.1999	15:00	1998	1999	27
+West Ham United	Blackburn Rovers	2:0	2:0	27.02.1999	15:00	1998	1999	27
+Tottenham Hotspur	Derby County	0:0	1:1	27.02.1999	15:00	1998	1999	27
+Everton FC	Wimbledon FC	0:1	1:1	27.02.1999	15:00	1998	1999	27
+Newcastle United	Arsenal FC	0:1	1:1	28.02.1999	16:00	1998	1999	27
+Leicester City	Leeds United	0:1	1:2	01.03.1999	20:00	1998	1999	27
+Wimbledon FC	Leicester City	0:1	0:1	06.03.1999	15:00	1998	1999	28
+Southampton FC	West Ham United	1:0	1:0	06.03.1999	15:00	1998	1999	28
+Coventry City	Charlton Athletic	0:0	2:1	06.03.1999	15:00	1998	1999	28
+Arsenal FC	Sheffield Wednesday	0:0	3:0	09.03.1999	19:45	1998	1999	28
+Nottingham Forest	Newcastle United	1:1	1:2	10.03.1999	19:45	1998	1999	28
+Derby County	Aston Villa	2:1	2:1	10.03.1999	20:00	1998	1999	28
+Leeds United	Tottenham Hotspur	1:0	2:0	10.03.1999	20:00	1998	1999	28
+Blackburn Rovers	Everton FC	1:1	1:2	10.03.1999	20:00	1998	1999	28
+Middlesbrough FC	Chelsea FC	0:0	0:0	14.04.1999	20:00	1998	1999	28
+Liverpool FC	Manchester United	0:1	2:2	05.05.1999	19:45	1998	1999	28
+Newcastle United	Manchester United	1:1	1:2	13.03.1999	15:00	1998	1999	29
+Everton FC	Arsenal FC	0:1	0:2	13.03.1999	15:00	1998	1999	29
+Sheffield Wednesday	Leeds United	0:1	0:2	13.03.1999	15:00	1998	1999	29
+Tottenham Hotspur	Aston Villa	0:0	1:0	13.03.1999	15:00	1998	1999	29
+Wimbledon FC	Nottingham Forest	0:1	1:3	13.03.1999	15:00	1998	1999	29
+Leicester City	Charlton Athletic	0:0	1:1	13.03.1999	15:00	1998	1999	29
+Derby County	Liverpool FC	2:1	3:2	13.03.1999	15:00	1998	1999	29
+Coventry City	Blackburn Rovers	1:0	1:1	13.03.1999	15:00	1998	1999	29
+Chelsea FC	West Ham United	0:0	0:1	13.03.1999	15:00	1998	1999	29
+Middlesbrough FC	Southampton FC	2:0	3:0	14.03.1999	16:00	1998	1999	29
+Arsenal FC	Coventry City	1:0	2:0	20.03.1999	15:00	1998	1999	30
+Blackburn Rovers	Wimbledon FC	3:0	3:1	20.03.1999	15:00	1998	1999	30
+Leeds United	Derby County	3:1	4:1	20.03.1999	15:00	1998	1999	30
+Nottingham Forest	Middlesbrough FC	1:1	1:2	20.03.1999	15:00	1998	1999	30
+Southampton FC	Sheffield Wednesday	1:0	1:0	20.03.1999	15:00	1998	1999	30
+West Ham United	Newcastle United	1:0	2:0	20.03.1999	15:00	1998	1999	30
+Aston Villa	Chelsea FC	0:0	0:3	21.03.1999	16:00	1998	1999	30
+Manchester United	Everton FC	0:0	3:1	21.03.1999	16:00	1998	1999	30
+Charlton Athletic	Tottenham Hotspur	1:0	1:4	20.04.1999	19:45	1998	1999	30
+Liverpool FC	Leicester City	0:0	0:1	21.04.1999	20:00	1998	1999	30
+Aston Villa	West Ham United	0:0	0:0	02.04.1999	18:00	1998	1999	31
+Blackburn Rovers	Middlesbrough FC	0:0	0:0	03.04.1999	15:00	1998	1999	31
+Charlton Athletic	Chelsea FC	0:1	0:1	03.04.1999	15:00	1998	1999	31
+Derby County	Newcastle United	2:3	3:4	03.04.1999	15:00	1998	1999	31
+Leeds United	Nottingham Forest	1:0	3:1	03.04.1999	15:00	1998	1999	31
+Liverpool FC	Everton FC	2:1	3:2	03.04.1999	15:00	1998	1999	31
+Sheffield Wednesday	Coventry City	0:1	1:2	03.04.1999	15:00	1998	1999	31
+Wimbledon FC	Manchester United	1:1	1:1	03.04.1999	15:00	1998	1999	31
+Southampton FC	Arsenal FC	0:0	0:0	03.04.1999	15:00	1998	1999	31
+Tottenham Hotspur	Leicester City	0:1	0:2	03.04.1999	15:00	1998	1999	31
+Manchester United	Derby County	0:0	1:0	03.02.1999	20:00	1998	1999	32
+Middlesbrough FC	Wimbledon FC	3:0	3:1	05.04.1999	16:00	1998	1999	32
+Newcastle United	Tottenham Hotspur	0:0	1:1	05.04.1999	16:00	1998	1999	32
+Coventry City	Southampton FC	0:0	1:0	05.04.1999	16:00	1998	1999	32
+Everton FC	Sheffield Wednesday	1:0	1:2	05.04.1999	16:00	1998	1999	32
+West Ham United	Charlton Athletic	0:0	0:1	05.04.1999	16:00	1998	1999	32
+Nottingham Forest	Liverpool FC	0:1	2:2	05.04.1999	16:00	1998	1999	32
+Leicester City	Aston Villa	0:1	2:2	06.04.1999	19:45	1998	1999	32
+Arsenal FC	Blackburn Rovers	1:0	1:0	06.04.1999	19:45	1998	1999	32
+Chelsea FC	Leeds United	0:0	1:0	05.05.1999	19:45	1998	1999	32
+Aston Villa	Southampton FC	1:0	3:0	10.04.1999	15:00	1998	1999	33
+Derby County	Nottingham Forest	0:0	1:0	10.04.1999	15:00	1998	1999	33
+Leicester City	West Ham United	0:0	0:0	10.04.1999	15:00	1998	1999	33
+Middlesbrough FC	Charlton Athletic	1:0	2:0	10.04.1999	15:00	1998	1999	33
+Everton FC	Coventry City	1:0	2:0	11.04.1999	16:00	1998	1999	33
+Wimbledon FC	Chelsea FC	0:1	1:2	11.04.1999	16:00	1998	1999	33
+Leeds United	Liverpool FC	0:0	0:0	12.04.1999	20:00	1998	1999	33
+Sheffield Wednesday	Newcastle United	0:1	1:1	21.04.1999	20:00	1998	1999	33
+Tottenham Hotspur	Arsenal FC	1:2	1:3	05.05.1999	19:45	1998	1999	33
+Blackburn Rovers	Manchester United	0:0	0:0	12.05.1999	20:00	1998	1999	33
+West Ham United	Derby County	2:0	5:1	17.04.1999	11:30	1998	1999	34
+Charlton Athletic	Leeds United	1:1	1:1	17.04.1999	15:00	1998	1999	34
+Coventry City	Middlesbrough FC	0:0	1:2	17.04.1999	15:00	1998	1999	34
+Liverpool FC	Aston Villa	0:1	0:1	17.04.1999	15:00	1998	1999	34
+Manchester United	Sheffield Wednesday	2:0	3:0	17.04.1999	15:00	1998	1999	34
+Newcastle United	Everton FC	0:2	1:3	17.04.1999	15:00	1998	1999	34
+Nottingham Forest	Tottenham Hotspur	0:0	0:1	17.04.1999	15:00	1998	1999	34
+Southampton FC	Blackburn Rovers	1:2	3:3	17.04.1999	15:00	1998	1999	34
+Chelsea FC	Leicester City	1:0	2:2	18.04.1999	16:00	1998	1999	34
+Arsenal FC	Wimbledon FC	1:0	5:1	19.04.1999	20:00	1998	1999	34
+Middlesbrough FC	Arsenal FC	0:3	1:6	24.04.1999	15:00	1998	1999	35
+Wimbledon FC	Newcastle United	1:1	1:1	24.04.1999	15:00	1998	1999	35
+Tottenham Hotspur	West Ham United	0:1	1:2	24.04.1999	15:00	1998	1999	35
+Blackburn Rovers	Liverpool FC	0:3	1:3	24.04.1999	15:00	1998	1999	35
+Everton FC	Charlton Athletic	2:0	4:1	24.04.1999	15:00	1998	1999	35
+Aston Villa	Nottingham Forest	1:0	2:0	24.04.1999	15:00	1998	1999	35
+Leicester City	Coventry City	1:0	1:0	24.04.1999	15:00	1998	1999	35
+Derby County	Southampton FC	0:0	0:0	24.04.1999	15:00	1998	1999	35
+Sheffield Wednesday	Chelsea FC	0:0	0:0	25.04.1999	15:00	1998	1999	35
+Leeds United	Manchester United	1:0	1:1	25.04.1999	16:00	1998	1999	35
+Newcastle United	Middlesbrough FC	0:0	1:1	01.05.1999	15:00	1998	1999	36
+Manchester United	Aston Villa	1:1	2:1	01.05.1999	15:00	1998	1999	36
+Charlton Athletic	Blackburn Rovers	0:0	0:0	01.05.1999	15:00	1998	1999	36
+West Ham United	Leeds United	0:2	1:5	01.05.1999	15:00	1998	1999	36
+Southampton FC	Leicester City	1:1	2:1	01.05.1999	15:00	1998	1999	36
+Nottingham Forest	Sheffield Wednesday	2:0	2:0	01.05.1999	15:00	1998	1999	36
+Chelsea FC	Everton FC	1:0	3:1	01.05.1999	15:00	1998	1999	36
+Coventry City	Wimbledon FC	2:0	2:1	01.05.1999	15:00	1998	1999	36
+Liverpool FC	Tottenham Hotspur	0:2	3:2	01.05.1999	15:00	1998	1999	36
+Arsenal FC	Derby County	1:0	1:0	02.05.1999	16:00	1998	1999	36
+Aston Villa	Charlton Athletic	1:1	3:4	08.05.1999	15:00	1998	1999	37
+Derby County	Coventry City	0:0	0:0	08.05.1999	15:00	1998	1999	37
+Wimbledon FC	Southampton FC	0:0	0:2	08.05.1999	15:00	1998	1999	37
+Sheffield Wednesday	Liverpool FC	0:0	1:0	08.05.1999	15:00	1998	1999	37
+Leicester City	Newcastle United	2:0	2:0	08.05.1999	15:00	1998	1999	37
+Everton FC	West Ham United	3:0	6:0	08.05.1999	15:00	1998	1999	37
+Blackburn Rovers	Nottingham Forest	1:1	1:2	08.05.1999	15:00	1998	1999	37
+Middlesbrough FC	Manchester United	0:1	0:1	09.05.1999	16:00	1998	1999	37
+Tottenham Hotspur	Chelsea FC	1:1	2:2	10.05.1999	20:00	1998	1999	37
+Leeds United	Arsenal FC	0:0	1:0	11.05.1999	19:45	1998	1999	37
+Manchester United	Tottenham Hotspur	1:1	2:1	16.05.1999	15:00	1998	1999	38
+Coventry City	Leeds United	0:1	2:2	16.05.1999	15:00	1998	1999	38
+Arsenal FC	Aston Villa	0:0	1:0	16.05.1999	15:00	1998	1999	38
+Chelsea FC	Derby County	1:0	2:1	16.05.1999	15:00	1998	1999	38
+West Ham United	Middlesbrough FC	2:0	4:0	16.05.1999	15:00	1998	1999	38
+Charlton Athletic	Sheffield Wednesday	0:0	0:1	16.05.1999	15:00	1998	1999	38
+Liverpool FC	Wimbledon FC	1:0	3:0	16.05.1999	15:00	1998	1999	38
+Newcastle United	Blackburn Rovers	0:1	1:1	16.05.1999	15:00	1998	1999	38
+Southampton FC	Everton FC	1:0	2:0	16.05.1999	15:00	1998	1999	38
+Nottingham Forest	Leicester City	0:0	1:0	16.05.1999	15:00	1998	1999	38

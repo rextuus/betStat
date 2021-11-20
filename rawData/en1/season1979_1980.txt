@@ -1,0 +1,462 @@
+Bolton Wanderers	Aston Villa	0:0	1:1	18.08.1979	00:00	1979	1980	1
+Tottenham Hotspur	Middlesbrough FC	0:0	1:3	18.08.1979	00:00	1979	1980	1
+Stoke City	Coventry City	1:0	3:2	18.08.1979	00:00	1979	1980	1
+Southampton FC	Manchester United	1:1	1:1	18.08.1979	00:00	1979	1980	1
+Manchester City	Crystal Palace	0:0	0:0	18.08.1979	00:00	1979	1980	1
+Ipswich Town	Nottingham Forest	0:0	0:1	18.08.1979	00:00	1979	1980	1
+Everton FC	Norwich City	2:3	2:4	18.08.1979	00:00	1979	1980	1
+Bristol City	Leeds United	1:1	2:2	18.08.1979	00:00	1979	1980	1
+Brighton & Hove Albion	Arsenal FC	0:3	0:4	18.08.1979	00:00	1979	1980	1
+West Bromwich Albion	Derby County	0:0	0:0	18.08.1979	00:00	1979	1980	1
+Wolverhampton Wanderers	Liverpool FC	0:0	1:0	26.02.1980	00:00	1979	1980	1
+Arsenal FC	Ipswich Town	0:1	0:2	21.08.1979	00:00	1979	1980	2
+Coventry City	Bristol City	1:1	3:1	21.08.1979	00:00	1979	1980	2
+Crystal Palace	Southampton FC	0:0	0:0	21.08.1979	00:00	1979	1980	2
+Liverpool FC	Bolton Wanderers	0:0	0:0	21.08.1979	00:00	1979	1980	2
+Middlesbrough FC	Manchester City	1:0	3:0	21.08.1979	00:00	1979	1980	2
+Norwich City	Tottenham Hotspur	0:0	4:0	22.08.1979	00:00	1979	1980	2
+Manchester United	West Bromwich Albion	1:0	2:0	22.08.1979	00:00	1979	1980	2
+Leeds United	Everton FC	0:0	2:0	22.08.1979	00:00	1979	1980	2
+Derby County	Wolverhampton Wanderers	0:1	0:1	22.08.1979	00:00	1979	1980	2
+Aston Villa	Brighton & Hove Albion	1:1	2:1	22.08.1979	00:00	1979	1980	2
+Nottingham Forest	Stoke City	0:0	1:0	22.08.1979	00:00	1979	1980	2
+Arsenal FC	Manchester United	0:0	0:0	25.08.1979	00:00	1979	1980	3
+Stoke City	Tottenham Hotspur	2:0	3:1	25.08.1979	00:00	1979	1980	3
+Nottingham Forest	Coventry City	2:0	4:1	25.08.1979	00:00	1979	1980	3
+Norwich City	Leeds United	2:1	2:1	25.08.1979	00:00	1979	1980	3
+Middlesbrough FC	Crystal Palace	0:1	1:1	25.08.1979	00:00	1979	1980	3
+Manchester City	Brighton & Hove Albion	2:1	3:2	25.08.1979	00:00	1979	1980	3
+Liverpool FC	West Bromwich Albion	1:0	3:1	25.08.1979	00:00	1979	1980	3
+Derby County	Everton FC	0:1	0:1	25.08.1979	00:00	1979	1980	3
+Bolton Wanderers	Southampton FC	2:0	2:1	25.08.1979	00:00	1979	1980	3
+Aston Villa	Bristol City	0:1	0:2	25.08.1979	00:00	1979	1980	3
+Wolverhampton Wanderers	Ipswich Town	1:0	3:0	25.08.1979	00:00	1979	1980	3
+Brighton & Hove Albion	Bolton Wanderers	2:0	3:1	01.09.1979	00:00	1979	1980	4
+Tottenham Hotspur	Manchester City	1:0	2:1	01.09.1979	00:00	1979	1980	4
+Southampton FC	Liverpool FC	1:1	3:2	01.09.1979	00:00	1979	1980	4
+Manchester United	Middlesbrough FC	1:0	2:1	01.09.1979	00:00	1979	1980	4
+Leeds United	Arsenal FC	1:0	1:1	01.09.1979	00:00	1979	1980	4
+Ipswich Town	Stoke City	2:1	3:1	01.09.1979	00:00	1979	1980	4
+Everton FC	Aston Villa	0:1	1:1	01.09.1979	00:00	1979	1980	4
+Crystal Palace	Derby County	1:0	4:0	01.09.1979	00:00	1979	1980	4
+Coventry City	Norwich City	0:0	2:0	01.09.1979	00:00	1979	1980	4
+Bristol City	Wolverhampton Wanderers	1:0	2:0	01.09.1979	00:00	1979	1980	4
+West Bromwich Albion	Nottingham Forest	1:3	1:5	01.09.1979	00:00	1979	1980	4
+Aston Villa	Manchester United	0:1	0:3	08.09.1979	00:00	1979	1980	5
+Wolverhampton Wanderers	Crystal Palace	0:1	1:1	08.09.1979	00:00	1979	1980	5
+Tottenham Hotspur	Brighton & Hove Albion	1:0	2:1	08.09.1979	00:00	1979	1980	5
+Stoke City	Everton FC	2:2	2:3	08.09.1979	00:00	1979	1980	5
+Nottingham Forest	Leeds United	0:0	0:0	08.09.1979	00:00	1979	1980	5
+Middlesbrough FC	Norwich City	1:0	1:0	08.09.1979	00:00	1979	1980	5
+Manchester City	Southampton FC	0:1	0:1	08.09.1979	00:00	1979	1980	5
+Liverpool FC	Coventry City	1:0	4:0	08.09.1979	00:00	1979	1980	5
+Ipswich Town	Bristol City	0:0	1:0	08.09.1979	00:00	1979	1980	5
+Derby County	Arsenal FC	0:2	3:2	08.09.1979	00:00	1979	1980	5
+Bolton Wanderers	West Bromwich Albion	0:0	0:0	08.09.1979	00:00	1979	1980	5
+Leeds United	Liverpool FC	0:0	1:1	15.09.1979	00:00	1979	1980	6
+Arsenal FC	Middlesbrough FC	1:0	2:0	15.09.1979	00:00	1979	1980	6
+West Bromwich Albion	Manchester City	2:0	4:0	15.09.1979	00:00	1979	1980	6
+Southampton FC	Tottenham Hotspur	0:1	5:2	15.09.1979	00:00	1979	1980	6
+Norwich City	Nottingham Forest	2:0	3:1	15.09.1979	00:00	1979	1980	6
+Manchester United	Derby County	1:0	1:0	15.09.1979	00:00	1979	1980	6
+Everton FC	Wolverhampton Wanderers	1:0	2:3	15.09.1979	00:00	1979	1980	6
+Crystal Palace	Aston Villa	1:0	2:0	15.09.1979	00:00	1979	1980	6
+Coventry City	Bolton Wanderers	1:0	3:1	15.09.1979	00:00	1979	1980	6
+Bristol City	Stoke City	0:0	0:0	15.09.1979	00:00	1979	1980	6
+Brighton & Hove Albion	Ipswich Town	1:0	2:0	15.09.1979	00:00	1979	1980	6
+Liverpool FC	Norwich City	0:0	0:0	22.09.1979	00:00	1979	1980	7
+Aston Villa	Arsenal FC	0:0	0:0	22.09.1979	00:00	1979	1980	7
+Wolverhampton Wanderers	Manchester United	1:1	3:1	22.09.1979	00:00	1979	1980	7
+Tottenham Hotspur	West Bromwich Albion	0:0	1:1	22.09.1979	00:00	1979	1980	7
+Stoke City	Crystal Palace	1:0	1:2	22.09.1979	00:00	1979	1980	7
+Manchester City	Coventry City	3:0	3:0	22.09.1979	00:00	1979	1980	7
+Ipswich Town	Everton FC	0:1	1:1	22.09.1979	00:00	1979	1980	7
+Derby County	Middlesbrough FC	0:0	1:0	22.09.1979	00:00	1979	1980	7
+Bristol City	Nottingham Forest	1:0	1:1	22.09.1979	00:00	1979	1980	7
+Brighton & Hove Albion	Southampton FC	0:0	0:0	22.09.1979	00:00	1979	1980	7
+Bolton Wanderers	Leeds United	0:0	1:1	22.09.1979	00:00	1979	1980	7
+Nottingham Forest	Liverpool FC	1:0	1:0	29.09.1979	00:00	1979	1980	8
+Arsenal FC	Wolverhampton Wanderers	0:2	2:3	29.09.1979	00:00	1979	1980	8
+Southampton FC	Derby County	1:0	4:0	29.09.1979	00:00	1979	1980	8
+Norwich City	Bolton Wanderers	0:0	2:1	29.09.1979	00:00	1979	1980	8
+Middlesbrough FC	Aston Villa	0:0	0:0	29.09.1979	00:00	1979	1980	8
+Manchester United	Stoke City	1:0	4:0	29.09.1979	00:00	1979	1980	8
+Leeds United	Manchester City	0:0	1:2	29.09.1979	00:00	1979	1980	8
+Everton FC	Bristol City	0:0	0:0	29.09.1979	00:00	1979	1980	8
+Crystal Palace	Ipswich Town	3:1	4:1	29.09.1979	00:00	1979	1980	8
+Coventry City	Tottenham Hotspur	1:0	1:1	29.09.1979	00:00	1979	1980	8
+West Bromwich Albion	Brighton & Hove Albion	2:0	2:2	29.09.1979	00:00	1979	1980	8
+Arsenal FC	Manchester City	0:0	0:0	06.10.1979	00:00	1979	1980	9
+Norwich City	Stoke City	0:1	2:2	06.10.1979	00:00	1979	1980	9
+Middlesbrough FC	West Bromwich Albion	1:0	2:1	06.10.1979	00:00	1979	1980	9
+Manchester United	Brighton & Hove Albion	1:0	2:0	06.10.1979	00:00	1979	1980	9
+Liverpool FC	Bristol City	3:0	4:0	06.10.1979	00:00	1979	1980	9
+Leeds United	Ipswich Town	0:1	2:1	06.10.1979	00:00	1979	1980	9
+Derby County	Bolton Wanderers	1:0	4:0	06.10.1979	00:00	1979	1980	9
+Crystal Palace	Tottenham Hotspur	0:1	1:1	06.10.1979	00:00	1979	1980	9
+Coventry City	Everton FC	1:0	2:1	06.10.1979	00:00	1979	1980	9
+Aston Villa	Southampton FC	2:0	3:0	06.10.1979	00:00	1979	1980	9
+Nottingham Forest	Wolverhampton Wanderers	3:1	3:2	06.10.1979	00:00	1979	1980	9
+Bolton Wanderers	Liverpool FC	0:0	1:1	09.10.1979	00:00	1979	1980	10
+Bristol City	Coventry City	0:0	1:0	09.10.1979	00:00	1979	1980	10
+Ipswich Town	Arsenal FC	0:1	1:2	09.10.1979	00:00	1979	1980	10
+Southampton FC	Crystal Palace	2:0	4:1	09.10.1979	00:00	1979	1980	10
+Wolverhampton Wanderers	Derby County	0:0	0:0	09.10.1979	00:00	1979	1980	10
+West Bromwich Albion	Manchester United	0:0	2:0	10.10.1979	00:00	1979	1980	10
+Tottenham Hotspur	Norwich City	2:2	3:2	10.10.1979	00:00	1979	1980	10
+Stoke City	Nottingham Forest	0:0	1:1	10.10.1979	00:00	1979	1980	10
+Manchester City	Middlesbrough FC	0:0	1:0	10.10.1979	00:00	1979	1980	10
+Everton FC	Leeds United	4:0	5:1	13.11.1979	00:00	1979	1980	10
+Brighton & Hove Albion	Aston Villa	1:1	1:1	03.03.1980	00:00	1979	1980	10
+Brighton & Hove Albion	Leeds United	0:0	0:0	13.10.1979	00:00	1979	1980	11
+Everton FC	Crystal Palace	1:1	3:1	13.10.1979	00:00	1979	1980	11
+Aston Villa	West Bromwich Albion	0:0	0:0	13.10.1979	00:00	1979	1980	11
+Wolverhampton Wanderers	Norwich City	1:0	1:0	13.10.1979	00:00	1979	1980	11
+Tottenham Hotspur	Derby County	1:0	1:0	13.10.1979	00:00	1979	1980	11
+Stoke City	Middlesbrough FC	0:0	0:0	13.10.1979	00:00	1979	1980	11
+Southampton FC	Coventry City	0:0	2:3	13.10.1979	00:00	1979	1980	11
+Manchester City	Nottingham Forest	0:0	1:0	13.10.1979	00:00	1979	1980	11
+Ipswich Town	Liverpool FC	0:1	1:2	13.10.1979	00:00	1979	1980	11
+Bristol City	Manchester United	1:1	1:1	13.10.1979	00:00	1979	1980	11
+Bolton Wanderers	Arsenal FC	0:0	0:0	13.10.1979	00:00	1979	1980	11
+Coventry City	Brighton & Hove Albion	1:1	2:1	20.10.1979	00:00	1979	1980	12
+Derby County	Aston Villa	1:1	1:3	20.10.1979	00:00	1979	1980	12
+Liverpool FC	Everton FC	1:1	2:2	20.10.1979	00:00	1979	1980	12
+Arsenal FC	Stoke City	0:0	0:0	20.10.1979	00:00	1979	1980	12
+West Bromwich Albion	Southampton FC	3:0	4:0	20.10.1979	00:00	1979	1980	12
+Nottingham Forest	Bolton Wanderers	3:0	5:2	20.10.1979	00:00	1979	1980	12
+Norwich City	Manchester City	0:1	2:2	20.10.1979	00:00	1979	1980	12
+Middlesbrough FC	Wolverhampton Wanderers	0:0	1:0	20.10.1979	00:00	1979	1980	12
+Manchester United	Ipswich Town	0:0	1:0	20.10.1979	00:00	1979	1980	12
+Leeds United	Tottenham Hotspur	1:1	1:2	20.10.1979	00:00	1979	1980	12
+Crystal Palace	Bristol City	0:0	1:1	20.10.1979	00:00	1979	1980	12
+Brighton & Hove Albion	Norwich City	1:1	2:4	27.10.1979	00:00	1979	1980	13
+Everton FC	Manchester United	0:0	0:0	27.10.1979	00:00	1979	1980	13
+Wolverhampton Wanderers	Aston Villa	1:1	1:1	27.10.1979	00:00	1979	1980	13
+Bolton Wanderers	Crystal Palace	0:0	1:1	27.10.1979	00:00	1979	1980	13
+West Bromwich Albion	Coventry City	2:0	4:1	27.10.1979	00:00	1979	1980	13
+Tottenham Hotspur	Nottingham Forest	1:0	1:0	27.10.1979	00:00	1979	1980	13
+Stoke City	Derby County	2:0	3:2	27.10.1979	00:00	1979	1980	13
+Southampton FC	Leeds United	1:1	1:2	27.10.1979	00:00	1979	1980	13
+Manchester City	Liverpool FC	0:2	0:4	27.10.1979	00:00	1979	1980	13
+Ipswich Town	Middlesbrough FC	0:0	1:0	27.10.1979	00:00	1979	1980	13
+Bristol City	Arsenal FC	0:0	0:1	27.10.1979	00:00	1979	1980	13
+Arsenal FC	Brighton & Hove Albion	0:0	3:0	03.11.1979	00:00	1979	1980	14
+Liverpool FC	Wolverhampton Wanderers	1:0	3:0	03.11.1979	00:00	1979	1980	14
+Norwich City	Everton FC	0:0	0:0	03.11.1979	00:00	1979	1980	14
+Aston Villa	Bolton Wanderers	2:0	3:1	03.11.1979	00:00	1979	1980	14
+Nottingham Forest	Ipswich Town	0:0	2:0	03.11.1979	00:00	1979	1980	14
+Middlesbrough FC	Tottenham Hotspur	0:0	0:0	03.11.1979	00:00	1979	1980	14
+Manchester United	Southampton FC	1:0	1:0	03.11.1979	00:00	1979	1980	14
+Leeds United	Bristol City	1:1	1:3	03.11.1979	00:00	1979	1980	14
+Derby County	West Bromwich Albion	1:1	2:1	03.11.1979	00:00	1979	1980	14
+Crystal Palace	Manchester City	1:0	2:0	03.11.1979	00:00	1979	1980	14
+Coventry City	Stoke City	1:2	1:3	03.11.1979	00:00	1979	1980	14
+Brighton & Hove Albion	Liverpool FC	0:1	1:4	10.11.1979	00:00	1979	1980	15
+Everton FC	Middlesbrough FC	0:1	0:2	10.11.1979	00:00	1979	1980	15
+Bristol City	Derby County	0:2	0:2	10.11.1979	00:00	1979	1980	15
+West Bromwich Albion	Norwich City	1:1	2:1	10.11.1979	00:00	1979	1980	15
+Tottenham Hotspur	Bolton Wanderers	1:0	2:0	10.11.1979	00:00	1979	1980	15
+Stoke City	Wolverhampton Wanderers	0:1	0:1	10.11.1979	00:00	1979	1980	15
+Southampton FC	Nottingham Forest	2:0	4:1	10.11.1979	00:00	1979	1980	15
+Manchester City	Manchester United	0:0	2:0	10.11.1979	00:00	1979	1980	15
+Ipswich Town	Aston Villa	0:0	0:0	10.11.1979	00:00	1979	1980	15
+Crystal Palace	Arsenal FC	1:0	1:0	10.11.1979	00:00	1979	1980	15
+Coventry City	Leeds United	1:0	3:0	10.11.1979	00:00	1979	1980	15
+Nottingham Forest	Brighton & Hove Albion	0:1	0:1	17.11.1979	00:00	1979	1980	16
+Arsenal FC	Everton FC	0:0	2:0	17.11.1979	00:00	1979	1980	16
+Wolverhampton Wanderers	Coventry City	0:1	0:3	17.11.1979	00:00	1979	1980	16
+Norwich City	Southampton FC	0:1	2:1	17.11.1979	00:00	1979	1980	16
+Middlesbrough FC	Bristol City	0:0	1:0	17.11.1979	00:00	1979	1980	16
+Manchester United	Crystal Palace	0:0	1:1	17.11.1979	00:00	1979	1980	16
+Liverpool FC	Tottenham Hotspur	1:0	2:1	17.11.1979	00:00	1979	1980	16
+Leeds United	West Bromwich Albion	0:0	1:0	17.11.1979	00:00	1979	1980	16
+Derby County	Ipswich Town	0:1	0:1	17.11.1979	00:00	1979	1980	16
+Bolton Wanderers	Manchester City	0:1	0:1	17.11.1979	00:00	1979	1980	16
+Aston Villa	Stoke City	1:1	2:1	17.11.1979	00:00	1979	1980	16
+Aston Villa	Leeds United	0:0	0:0	24.11.1979	00:00	1979	1980	17
+Middlesbrough FC	Brighton & Hove Albion	1:0	1:1	24.11.1979	00:00	1979	1980	17
+Arsenal FC	Liverpool FC	0:0	0:0	24.11.1979	00:00	1979	1980	17
+Wolverhampton Wanderers	West Bromwich Albion	0:0	0:0	24.11.1979	00:00	1979	1980	17
+Stoke City	Bolton Wanderers	1:0	1:0	24.11.1979	00:00	1979	1980	17
+Manchester United	Norwich City	3:0	5:0	24.11.1979	00:00	1979	1980	17
+Ipswich Town	Southampton FC	3:0	3:1	24.11.1979	00:00	1979	1980	17
+Everton FC	Tottenham Hotspur	1:1	1:1	24.11.1979	00:00	1979	1980	17
+Derby County	Nottingham Forest	3:0	4:1	24.11.1979	00:00	1979	1980	17
+Crystal Palace	Coventry City	0:0	0:0	24.11.1979	00:00	1979	1980	17
+Bristol City	Manchester City	1:0	1:0	24.11.1979	00:00	1979	1980	17
+Brighton & Hove Albion	Derby County	1:0	2:0	01.12.1979	00:00	1979	1980	18
+Liverpool FC	Middlesbrough FC	2:0	4:0	01.12.1979	00:00	1979	1980	18
+Norwich City	Aston Villa	0:1	1:1	01.12.1979	00:00	1979	1980	18
+Bolton Wanderers	Bristol City	0:0	1:1	01.12.1979	00:00	1979	1980	18
+West Bromwich Albion	Everton FC	1:1	1:1	01.12.1979	00:00	1979	1980	18
+Tottenham Hotspur	Manchester United	1:0	1:2	01.12.1979	00:00	1979	1980	18
+Southampton FC	Stoke City	1:0	3:1	01.12.1979	00:00	1979	1980	18
+Nottingham Forest	Arsenal FC	0:1	1:1	01.12.1979	00:00	1979	1980	18
+Manchester City	Wolverhampton Wanderers	1:2	2:3	01.12.1979	00:00	1979	1980	18
+Leeds United	Crystal Palace	1:0	1:0	01.12.1979	00:00	1979	1980	18
+Coventry City	Ipswich Town	1:0	4:1	01.12.1979	00:00	1979	1980	18
+Aston Villa	Liverpool FC	0:0	1:3	08.12.1979	00:00	1979	1980	19
+Everton FC	Brighton & Hove Albion	2:0	2:0	08.12.1979	00:00	1979	1980	19
+Arsenal FC	Coventry City	2:1	3:1	08.12.1979	00:00	1979	1980	19
+Wolverhampton Wanderers	Bolton Wanderers	2:0	3:1	08.12.1979	00:00	1979	1980	19
+Stoke City	West Bromwich Albion	2:1	3:2	08.12.1979	00:00	1979	1980	19
+Middlesbrough FC	Southampton FC	0:1	0:1	08.12.1979	00:00	1979	1980	19
+Manchester United	Leeds United	0:1	1:1	08.12.1979	00:00	1979	1980	19
+Ipswich Town	Manchester City	3:0	4:0	08.12.1979	00:00	1979	1980	19
+Derby County	Norwich City	0:0	0:0	08.12.1979	00:00	1979	1980	19
+Crystal Palace	Nottingham Forest	1:0	1:0	08.12.1979	00:00	1979	1980	19
+Bristol City	Tottenham Hotspur	0:1	1:3	08.12.1979	00:00	1979	1980	19
+Brighton & Hove Albion	Stoke City	0:0	0:0	15.12.1979	00:00	1979	1980	20
+Bolton Wanderers	Ipswich Town	0:1	0:1	15.12.1979	00:00	1979	1980	20
+West Bromwich Albion	Arsenal FC	2:2	2:2	15.12.1979	00:00	1979	1980	20
+Tottenham Hotspur	Aston Villa	0:1	1:2	15.12.1979	00:00	1979	1980	20
+Southampton FC	Everton FC	1:0	1:0	15.12.1979	00:00	1979	1980	20
+Norwich City	Bristol City	1:0	2:0	15.12.1979	00:00	1979	1980	20
+Manchester City	Derby County	1:0	3:0	15.12.1979	00:00	1979	1980	20
+Liverpool FC	Crystal Palace	1:0	3:0	15.12.1979	00:00	1979	1980	20
+Leeds United	Wolverhampton Wanderers	2:0	3:0	15.12.1979	00:00	1979	1980	20
+Coventry City	Manchester United	0:0	1:2	15.12.1979	00:00	1979	1980	20
+Nottingham Forest	Middlesbrough FC	0:0	2:2	16.02.1980	00:00	1979	1980	20
+Aston Villa	Coventry City	1:0	3:0	19.12.1979	00:00	1979	1980	21
+Wolverhampton Wanderers	Brighton & Hove Albion	0:2	1:3	21.12.1979	00:00	1979	1980	21
+Arsenal FC	Norwich City	0:0	1:1	21.12.1979	00:00	1979	1980	21
+Bristol City	Southampton FC	0:0	0:1	21.12.1979	00:00	1979	1980	21
+Ipswich Town	Tottenham Hotspur	2:1	3:1	21.12.1979	00:00	1979	1980	21
+Middlesbrough FC	Bolton Wanderers	2:0	3:1	21.12.1979	00:00	1979	1980	21
+Stoke City	Leeds United	0:2	0:2	21.12.1979	00:00	1979	1980	21
+Derby County	Liverpool FC	1:1	1:3	22.12.1979	00:00	1979	1980	21
+Manchester United	Nottingham Forest	3:0	3:0	22.12.1979	00:00	1979	1980	21
+Everton FC	Manchester City	0:2	1:2	22.12.1979	00:00	1979	1980	21
+Crystal Palace	West Bromwich Albion	1:0	2:2	26.01.1980	00:00	1979	1980	21
+Brighton & Hove Albion	Crystal Palace	2:0	3:0	26.12.1979	00:00	1979	1980	22
+Liverpool FC	Manchester United	1:0	2:0	26.12.1979	00:00	1979	1980	22
+Middlesbrough FC	Leeds United	2:1	3:1	26.12.1979	00:00	1979	1980	22
+Nottingham Forest	Aston Villa	0:0	2:1	26.12.1979	00:00	1979	1980	22
+Arsenal FC	Tottenham Hotspur	1:0	1:0	26.12.1979	00:00	1979	1980	22
+Wolverhampton Wanderers	Southampton FC	0:0	0:0	26.12.1979	00:00	1979	1980	22
+West Bromwich Albion	Bristol City	0:0	3:0	26.12.1979	00:00	1979	1980	22
+Norwich City	Ipswich Town	2:1	3:3	26.12.1979	00:00	1979	1980	22
+Manchester City	Stoke City	1:1	1:1	26.12.1979	00:00	1979	1980	22
+Derby County	Coventry City	1:0	1:2	26.12.1979	00:00	1979	1980	22
+Bolton Wanderers	Everton FC	0:0	1:1	26.12.1979	00:00	1979	1980	22
+Brighton & Hove Albion	Manchester City	3:1	4:1	29.12.1979	00:00	1979	1980	23
+Crystal Palace	Middlesbrough FC	0:1	1:2	29.12.1979	00:00	1979	1980	23
+West Bromwich Albion	Liverpool FC	0:2	0:2	29.12.1979	00:00	1979	1980	23
+Bristol City	Aston Villa	0:0	1:3	29.12.1979	00:00	1979	1980	23
+Tottenham Hotspur	Stoke City	1:0	1:0	29.12.1979	00:00	1979	1980	23
+Southampton FC	Bolton Wanderers	1:0	2:0	29.12.1979	00:00	1979	1980	23
+Manchester United	Arsenal FC	2:0	3:0	29.12.1979	00:00	1979	1980	23
+Leeds United	Norwich City	2:1	2:2	29.12.1979	00:00	1979	1980	23
+Ipswich Town	Wolverhampton Wanderers	0:0	1:0	29.12.1979	00:00	1979	1980	23
+Everton FC	Derby County	0:0	1:1	29.12.1979	00:00	1979	1980	23
+Coventry City	Nottingham Forest	0:0	0:3	29.12.1979	00:00	1979	1980	23
+Bristol City	Brighton & Hove Albion	1:0	2:2	01.01.1980	00:00	1979	1980	24
+Crystal Palace	Norwich City	0:0	0:0	01.01.1980	00:00	1979	1980	24
+Coventry City	Middlesbrough FC	2:0	2:0	01.01.1980	00:00	1979	1980	24
+Everton FC	Nottingham Forest	1:0	1:0	01.01.1980	00:00	1979	1980	24
+Ipswich Town	West Bromwich Albion	2:0	4:0	01.01.1980	00:00	1979	1980	24
+Leeds United	Derby County	0:0	1:0	01.01.1980	00:00	1979	1980	24
+Southampton FC	Arsenal FC	0:1	0:1	01.01.1980	00:00	1979	1980	24
+Manchester United	Bolton Wanderers	1:0	2:0	27.02.1980	00:00	1979	1980	24
+Aston Villa	Manchester City	1:0	2:2	27.02.1980	00:00	1979	1980	24
+Liverpool FC	Stoke City	1:0	1:0	01.04.1980	00:00	1979	1980	24
+Tottenham Hotspur	Wolverhampton Wanderers	0:2	2:2	23.04.1980	00:00	1979	1980	24
+Middlesbrough FC	Manchester United	0:1	1:1	12.01.1980	00:00	1979	1980	25
+Manchester City	Tottenham Hotspur	1:0	1:1	12.01.1980	00:00	1979	1980	25
+Derby County	Crystal Palace	0:1	1:2	12.01.1980	00:00	1979	1980	25
+Bolton Wanderers	Brighton & Hove Albion	0:1	0:2	12.01.1980	00:00	1979	1980	25
+Nottingham Forest	West Bromwich Albion	0:1	3:1	12.01.1980	00:00	1979	1980	25
+Arsenal FC	Leeds United	0:0	0:1	12.01.1980	00:00	1979	1980	25
+Aston Villa	Everton FC	0:0	2:1	12.01.1980	00:00	1979	1980	25
+Liverpool FC	Southampton FC	0:1	1:1	12.01.1980	00:00	1979	1980	25
+Norwich City	Coventry City	1:0	1:0	12.01.1980	00:00	1979	1980	25
+Stoke City	Ipswich Town	0:1	0:1	12.01.1980	00:00	1979	1980	25
+Wolverhampton Wanderers	Bristol City	1:0	3:0	12.01.1980	00:00	1979	1980	25
+Southampton FC	Manchester City	1:0	4:1	19.01.1980	00:00	1979	1980	26
+Crystal Palace	Wolverhampton Wanderers	1:0	1:0	19.01.1980	00:00	1979	1980	26
+Brighton & Hove Albion	Tottenham Hotspur	0:2	0:2	19.01.1980	00:00	1979	1980	26
+Arsenal FC	Derby County	0:0	2:0	19.01.1980	00:00	1979	1980	26
+Bristol City	Ipswich Town	0:1	0:3	19.01.1980	00:00	1979	1980	26
+Coventry City	Liverpool FC	1:0	1:0	19.01.1980	00:00	1979	1980	26
+Leeds United	Nottingham Forest	1:1	1:2	19.01.1980	00:00	1979	1980	26
+Norwich City	Middlesbrough FC	0:0	0:0	27.02.1980	00:00	1979	1980	26
+West Bromwich Albion	Bolton Wanderers	1:2	4:4	18.03.1980	00:00	1979	1980	26
+Everton FC	Stoke City	0:0	2:0	18.03.1980	00:00	1979	1980	26
+Manchester United	Aston Villa	1:0	2:1	23.04.1980	00:00	1979	1980	26
+Wolverhampton Wanderers	Everton FC	0:0	0:0	02.02.1980	00:00	1979	1980	27
+Manchester City	West Bromwich Albion	0:1	1:3	02.02.1980	00:00	1979	1980	27
+Ipswich Town	Brighton & Hove Albion	1:0	1:1	02.02.1980	00:00	1979	1980	27
+Aston Villa	Crystal Palace	1:0	2:0	02.02.1980	00:00	1979	1980	27
+Derby County	Manchester United	1:1	1:3	02.02.1980	00:00	1979	1980	27
+Stoke City	Bristol City	0:0	1:0	02.02.1980	00:00	1979	1980	27
+Tottenham Hotspur	Southampton FC	0:0	0:0	02.02.1980	00:00	1979	1980	27
+Liverpool FC	Leeds United	1:0	3:0	19.03.1980	00:00	1979	1980	27
+Bolton Wanderers	Coventry City	1:1	1:1	15.04.1980	00:00	1979	1980	27
+Nottingham Forest	Norwich City	1:0	2:0	30.04.1980	00:00	1979	1980	27
+Middlesbrough FC	Arsenal FC	3:0	5:0	19.05.1980	00:00	1979	1980	27
+Leeds United	Bolton Wanderers	1:1	2:2	09.02.1980	00:00	1979	1980	28
+Middlesbrough FC	Derby County	2:0	3:0	09.02.1980	00:00	1979	1980	28
+Norwich City	Liverpool FC	2:2	3:5	09.02.1980	00:00	1979	1980	28
+Crystal Palace	Stoke City	0:0	0:1	09.02.1980	00:00	1979	1980	28
+Manchester United	Wolverhampton Wanderers	0:1	0:1	09.02.1980	00:00	1979	1980	28
+West Bromwich Albion	Tottenham Hotspur	1:0	2:1	09.02.1980	00:00	1979	1980	28
+Southampton FC	Brighton & Hove Albion	2:0	5:1	09.02.1980	00:00	1979	1980	28
+Everton FC	Ipswich Town	0:1	0:4	09.02.1980	00:00	1979	1980	28
+Coventry City	Manchester City	0:0	0:0	09.02.1980	00:00	1979	1980	28
+Arsenal FC	Aston Villa	1:0	3:1	09.02.1980	00:00	1979	1980	28
+Nottingham Forest	Bristol City	0:0	0:0	09.02.1980	00:00	1979	1980	28
+Stoke City	Manchester United	0:0	1:1	16.02.1980	00:00	1979	1980	29
+Brighton & Hove Albion	West Bromwich Albion	0:0	0:0	16.02.1980	00:00	1979	1980	29
+Manchester City	Leeds United	0:1	1:1	16.02.1980	00:00	1979	1980	29
+Derby County	Southampton FC	1:0	2:2	16.02.1980	00:00	1979	1980	29
+Liverpool FC	Nottingham Forest	0:0	2:0	19.02.1980	00:00	1979	1980	29
+Bristol City	Everton FC	0:1	2:1	19.02.1980	00:00	1979	1980	29
+Ipswich Town	Crystal Palace	2:0	3:0	19.02.1980	00:00	1979	1980	29
+Tottenham Hotspur	Coventry City	2:2	4:3	27.02.1980	00:00	1979	1980	29
+Bolton Wanderers	Norwich City	0:0	1:0	11.03.1980	00:00	1979	1980	29
+Aston Villa	Middlesbrough FC	0:1	0:2	19.03.1980	00:00	1979	1980	29
+Wolverhampton Wanderers	Arsenal FC	0:0	1:2	16.05.1980	00:00	1979	1980	29
+Arsenal FC	Bolton Wanderers	1:0	2:0	23.02.1980	00:00	1979	1980	30
+Norwich City	Wolverhampton Wanderers	0:2	0:4	23.02.1980	00:00	1979	1980	30
+Derby County	Tottenham Hotspur	1:0	2:1	23.02.1980	00:00	1979	1980	30
+Middlesbrough FC	Stoke City	1:1	1:3	23.02.1980	00:00	1979	1980	30
+West Bromwich Albion	Aston Villa	1:0	1:2	23.02.1980	00:00	1979	1980	30
+Nottingham Forest	Manchester City	1:0	4:0	23.02.1980	00:00	1979	1980	30
+Leeds United	Brighton & Hove Albion	0:0	1:1	23.02.1980	00:00	1979	1980	30
+Crystal Palace	Everton FC	0:0	1:1	23.02.1980	00:00	1979	1980	30
+Coventry City	Southampton FC	2:0	3:0	23.02.1980	00:00	1979	1980	30
+Liverpool FC	Ipswich Town	1:0	1:1	23.02.1980	00:00	1979	1980	30
+Manchester United	Bristol City	3:0	4:0	23.02.1980	00:00	1979	1980	30
+Aston Villa	Derby County	1:0	1:0	01.03.1980	00:00	1979	1980	31
+Bolton Wanderers	Nottingham Forest	1:0	1:0	01.03.1980	00:00	1979	1980	31
+Stoke City	Arsenal FC	0:0	2:3	01.03.1980	00:00	1979	1980	31
+Wolverhampton Wanderers	Middlesbrough FC	0:0	0:2	01.03.1980	00:00	1979	1980	31
+Tottenham Hotspur	Leeds United	1:0	2:1	01.03.1980	00:00	1979	1980	31
+Everton FC	Liverpool FC	0:2	1:2	01.03.1980	00:00	1979	1980	31
+Brighton & Hove Albion	Coventry City	1:1	1:1	01.03.1980	00:00	1979	1980	31
+Bristol City	Crystal Palace	0:0	0:2	01.03.1980	00:00	1979	1980	31
+Ipswich Town	Manchester United	3:0	6:0	01.03.1980	00:00	1979	1980	31
+Manchester City	Norwich City	0:0	0:0	01.03.1980	00:00	1979	1980	31
+Southampton FC	West Bromwich Albion	0:1	1:1	01.03.1980	00:00	1979	1980	31
+Crystal Palace	Bolton Wanderers	1:0	3:1	08.03.1980	00:00	1979	1980	32
+Derby County	Stoke City	2:2	2:2	08.03.1980	00:00	1979	1980	32
+Coventry City	West Bromwich Albion	0:1	0:2	08.03.1980	00:00	1979	1980	32
+Leeds United	Southampton FC	2:0	2:0	08.03.1980	00:00	1979	1980	32
+Norwich City	Brighton & Hove Albion	0:2	2:2	08.03.1980	00:00	1979	1980	32
+Aston Villa	Wolverhampton Wanderers	1:3	1:3	10.03.1980	00:00	1979	1980	32
+Nottingham Forest	Tottenham Hotspur	0:0	4:0	11.03.1980	00:00	1979	1980	32
+Arsenal FC	Bristol City	0:0	0:0	11.03.1980	00:00	1979	1980	32
+Liverpool FC	Manchester City	0:0	2:0	11.03.1980	00:00	1979	1980	32
+Middlesbrough FC	Ipswich Town	0:1	1:1	11.03.1980	00:00	1979	1980	32
+Manchester United	Everton FC	0:0	0:0	12.03.1980	00:00	1979	1980	32
+West Bromwich Albion	Middlesbrough FC	0:0	0:0	14.03.1980	00:00	1979	1980	33
+Ipswich Town	Leeds United	0:0	1:0	14.03.1980	00:00	1979	1980	33
+Bolton Wanderers	Derby County	0:2	1:2	15.03.1980	00:00	1979	1980	33
+Stoke City	Norwich City	2:0	2:1	15.03.1980	00:00	1979	1980	33
+Tottenham Hotspur	Crystal Palace	0:0	0:0	15.03.1980	00:00	1979	1980	33
+Everton FC	Coventry City	1:1	1:1	15.03.1980	00:00	1979	1980	33
+Brighton & Hove Albion	Manchester United	0:0	0:0	15.03.1980	00:00	1979	1980	33
+Bristol City	Liverpool FC	0:1	1:3	15.03.1980	00:00	1979	1980	33
+Manchester City	Arsenal FC	0:0	0:3	15.03.1980	00:00	1979	1980	33
+Southampton FC	Aston Villa	1:0	2:0	15.03.1980	00:00	1979	1980	33
+Wolverhampton Wanderers	Nottingham Forest	1:0	3:1	12.05.1980	00:00	1979	1980	33
+Arsenal FC	Crystal Palace	1:0	1:1	22.03.1980	00:00	1979	1980	34
+Bolton Wanderers	Tottenham Hotspur	1:0	2:1	22.03.1980	00:00	1979	1980	34
+Leeds United	Coventry City	0:0	0:0	22.03.1980	00:00	1979	1980	34
+Wolverhampton Wanderers	Stoke City	2:0	3:0	22.03.1980	00:00	1979	1980	34
+Aston Villa	Ipswich Town	0:1	1:1	22.03.1980	00:00	1979	1980	34
+Derby County	Bristol City	1:2	3:3	22.03.1980	00:00	1979	1980	34
+Liverpool FC	Brighton & Hove Albion	0:0	1:0	22.03.1980	00:00	1979	1980	34
+Manchester United	Manchester City	0:0	1:0	22.03.1980	00:00	1979	1980	34
+Middlesbrough FC	Everton FC	0:0	2:1	22.03.1980	00:00	1979	1980	34
+Norwich City	West Bromwich Albion	0:1	1:1	22.03.1980	00:00	1979	1980	34
+Nottingham Forest	Southampton FC	2:0	2:0	22.03.1980	00:00	1979	1980	34
+Everton FC	Arsenal FC	0:0	0:1	28.03.1980	00:00	1979	1980	35
+Coventry City	Wolverhampton Wanderers	0:2	1:3	29.03.1980	00:00	1979	1980	35
+Manchester City	Bolton Wanderers	1:0	2:2	29.03.1980	00:00	1979	1980	35
+Stoke City	Aston Villa	1:0	2:0	29.03.1980	00:00	1979	1980	35
+Tottenham Hotspur	Liverpool FC	1:0	2:0	29.03.1980	00:00	1979	1980	35
+West Bromwich Albion	Leeds United	2:1	2:1	29.03.1980	00:00	1979	1980	35
+Southampton FC	Norwich City	0:0	2:0	29.03.1980	00:00	1979	1980	35
+Ipswich Town	Derby County	0:0	1:1	29.03.1980	00:00	1979	1980	35
+Crystal Palace	Manchester United	0:1	0:2	29.03.1980	00:00	1979	1980	35
+Brighton & Hove Albion	Nottingham Forest	0:0	1:0	29.03.1980	00:00	1979	1980	35
+Bristol City	Middlesbrough FC	1:1	3:1	22.04.1980	00:00	1979	1980	35
+West Bromwich Albion	Crystal Palace	0:0	3:0	01.04.1980	00:00	1979	1980	36
+Norwich City	Arsenal FC	1:1	2:1	02.04.1980	00:00	1979	1980	36
+Nottingham Forest	Manchester United	0:0	2:0	02.04.1980	00:00	1979	1980	36
+Manchester City	Everton FC	1:1	1:1	02.04.1980	00:00	1979	1980	36
+Tottenham Hotspur	Ipswich Town	0:1	0:2	02.04.1980	00:00	1979	1980	36
+Bolton Wanderers	Middlesbrough FC	1:1	2:2	08.04.1980	00:00	1979	1980	36
+Leeds United	Stoke City	1:0	3:0	08.04.1980	00:00	1979	1980	36
+Liverpool FC	Derby County	1:0	3:0	08.04.1980	00:00	1979	1980	36
+Brighton & Hove Albion	Wolverhampton Wanderers	1:0	3:0	08.04.1980	00:00	1979	1980	36
+Coventry City	Aston Villa	0:1	1:2	29.04.1980	00:00	1979	1980	36
+Southampton FC	Bristol City	0:0	5:2	29.04.1980	00:00	1979	1980	36
+Leeds United	Middlesbrough FC	1:0	2:0	02.04.1980	00:00	1979	1980	37
+Bristol City	West Bromwich Albion	0:0	0:0	05.04.1980	00:00	1979	1980	37
+Everton FC	Bolton Wanderers	2:0	3:1	05.04.1980	00:00	1979	1980	37
+Manchester United	Liverpool FC	1:1	2:1	05.04.1980	00:00	1979	1980	37
+Crystal Palace	Brighton & Hove Albion	0:1	1:1	05.04.1980	00:00	1979	1980	37
+Aston Villa	Nottingham Forest	2:1	3:2	05.04.1980	00:00	1979	1980	37
+Ipswich Town	Norwich City	1:0	4:2	05.04.1980	00:00	1979	1980	37
+Stoke City	Manchester City	0:0	0:0	05.04.1980	00:00	1979	1980	37
+Coventry City	Derby County	1:0	2:1	07.04.1980	00:00	1979	1980	37
+Southampton FC	Wolverhampton Wanderers	0:1	0:3	07.04.1980	00:00	1979	1980	37
+Tottenham Hotspur	Arsenal FC	0:0	1:2	07.04.1980	00:00	1979	1980	37
+Middlesbrough FC	Coventry City	1:1	1:2	05.04.1980	00:00	1979	1980	38
+Wolverhampton Wanderers	Tottenham Hotspur	1:2	1:2	05.04.1980	00:00	1979	1980	38
+Derby County	Leeds United	2:0	2:0	05.04.1980	00:00	1979	1980	38
+Arsenal FC	Southampton FC	1:0	1:1	05.04.1980	00:00	1979	1980	38
+Bolton Wanderers	Manchester United	1:1	1:3	07.04.1980	00:00	1979	1980	38
+Brighton & Hove Albion	Bristol City	0:0	0:1	07.04.1980	00:00	1979	1980	38
+Manchester City	Aston Villa	0:1	1:1	07.04.1980	00:00	1979	1980	38
+Norwich City	Crystal Palace	1:1	2:1	07.04.1980	00:00	1979	1980	38
+West Bromwich Albion	Ipswich Town	0:0	0:0	07.04.1980	00:00	1979	1980	38
+Stoke City	Liverpool FC	0:1	0:2	23.04.1980	00:00	1979	1980	38
+Nottingham Forest	Everton FC	0:0	1:0	09.05.1980	00:00	1979	1980	38
+Aston Villa	Norwich City	0:0	2:0	26.03.1980	00:00	1979	1980	39
+Stoke City	Southampton FC	1:0	1:2	12.04.1980	00:00	1979	1980	39
+Manchester United	Tottenham Hotspur	1:0	4:1	12.04.1980	00:00	1979	1980	39
+Bristol City	Bolton Wanderers	1:0	2:1	12.04.1980	00:00	1979	1980	39
+Crystal Palace	Leeds United	0:0	1:0	12.04.1980	00:00	1979	1980	39
+Derby County	Brighton & Hove Albion	0:0	3:0	12.04.1980	00:00	1979	1980	39
+Ipswich Town	Coventry City	3:0	3:0	12.04.1980	00:00	1979	1980	39
+Wolverhampton Wanderers	Manchester City	1:1	1:2	12.04.1980	00:00	1979	1980	39
+Everton FC	West Bromwich Albion	0:0	0:0	28.04.1980	00:00	1979	1980	39
+Arsenal FC	Nottingham Forest	0:0	0:0	05.05.1980	00:00	1979	1980	39
+Middlesbrough FC	Liverpool FC	0:0	1:0	06.05.1980	00:00	1979	1980	39
+Liverpool FC	Arsenal FC	1:0	1:1	19.04.1980	00:00	1979	1980	40
+Leeds United	Aston Villa	0:0	0:0	19.04.1980	00:00	1979	1980	40
+Manchester City	Bristol City	3:0	3:1	19.04.1980	00:00	1979	1980	40
+Tottenham Hotspur	Everton FC	2:0	3:0	19.04.1980	00:00	1979	1980	40
+West Bromwich Albion	Wolverhampton Wanderers	0:0	0:0	19.04.1980	00:00	1979	1980	40
+Norwich City	Manchester United	0:0	0:2	19.04.1980	00:00	1979	1980	40
+Coventry City	Crystal Palace	2:1	2:1	19.04.1980	00:00	1979	1980	40
+Bolton Wanderers	Stoke City	0:1	2:1	19.04.1980	00:00	1979	1980	40
+Brighton & Hove Albion	Middlesbrough FC	0:0	2:1	19.04.1980	00:00	1979	1980	40
+Nottingham Forest	Derby County	1:0	1:0	19.04.1980	00:00	1979	1980	40
+Southampton FC	Ipswich Town	0:0	0:1	19.04.1980	00:00	1979	1980	40
+Everton FC	Southampton FC	0:0	2:0	26.04.1980	00:00	1979	1980	41
+Middlesbrough FC	Nottingham Forest	0:0	0:0	26.04.1980	00:00	1979	1980	41
+Arsenal FC	West Bromwich Albion	0:0	1:1	26.04.1980	00:00	1979	1980	41
+Bristol City	Norwich City	0:1	2:3	26.04.1980	00:00	1979	1980	41
+Manchester United	Coventry City	1:0	2:1	26.04.1980	00:00	1979	1980	41
+Aston Villa	Tottenham Hotspur	0:0	1:0	26.04.1980	00:00	1979	1980	41
+Wolverhampton Wanderers	Leeds United	1:0	3:1	26.04.1980	00:00	1979	1980	41
+Stoke City	Brighton & Hove Albion	1:0	1:0	26.04.1980	00:00	1979	1980	41
+Ipswich Town	Bolton Wanderers	0:0	1:0	26.04.1980	00:00	1979	1980	41
+Derby County	Manchester City	3:0	3:1	26.04.1980	00:00	1979	1980	41
+Crystal Palace	Liverpool FC	0:0	0:0	26.04.1980	00:00	1979	1980	41
+Coventry City	Arsenal FC	0:0	0:1	03.05.1980	00:00	1979	1980	42
+Liverpool FC	Aston Villa	1:1	4:1	03.05.1980	00:00	1979	1980	42
+Bolton Wanderers	Wolverhampton Wanderers	0:0	0:0	03.05.1980	00:00	1979	1980	42
+West Bromwich Albion	Stoke City	0:0	0:1	03.05.1980	00:00	1979	1980	42
+Tottenham Hotspur	Bristol City	0:0	0:0	03.05.1980	00:00	1979	1980	42
+Southampton FC	Middlesbrough FC	2:0	4:1	03.05.1980	00:00	1979	1980	42
+Nottingham Forest	Crystal Palace	3:0	4:0	03.05.1980	00:00	1979	1980	42
+Norwich City	Derby County	1:0	4:2	03.05.1980	00:00	1979	1980	42
+Manchester City	Ipswich Town	2:1	2:1	03.05.1980	00:00	1979	1980	42
+Leeds United	Manchester United	1:0	2:0	03.05.1980	00:00	1979	1980	42
+Brighton & Hove Albion	Everton FC	0:0	0:0	03.05.1980	00:00	1979	1980	42

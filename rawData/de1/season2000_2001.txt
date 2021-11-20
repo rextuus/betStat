@@ -1,0 +1,306 @@
+Borussia Dortmund	Hansa Rostock	0:0	1:0	11.08.2000	20:15	2000	2001	1
+1. FC Kaiserslautern	VfL Bochum	0:0	0:1	12.08.2000	15:30	2000	2001	1
+Bayer Leverkusen	VfL Wolfsburg	2:0	2:0	12.08.2000	15:30	2000	2001	1
+SC Freiburg	VfB Stuttgart	2:0	4:0	12.08.2000	15:30	2000	2001	1
+Werder Bremen	Energie Cottbus	2:1	3:1	12.08.2000	15:30	2000	2001	1
+Hamburger SV	TSV 1860 MÃ¼nchen	2:2	2:2	12.08.2000	15:30	2000	2001	1
+Bayern MÃ¼nchen	Hertha BSC	1:0	4:1	12.08.2000	20:15	2000	2001	1
+Eintracht Frankfurt	SpVgg Unterhaching	1:0	3:0	13.08.2000	17:30	2000	2001	1
+FC Schalke 04	1. FC KÃ¶ln	2:0	2:1	13.08.2000	17:40	2000	2001	1
+Energie Cottbus	Borussia Dortmund	0:1	1:4	18.08.2000	20:15	2000	2001	2
+TSV 1860 MÃ¼nchen	Werder Bremen	1:1	2:1	19.08.2000	15:30	2000	2001	2
+SpVgg Unterhaching	SC Freiburg	1:0	1:1	19.08.2000	15:30	2000	2001	2
+VfL Wolfsburg	1. FC Kaiserslautern	1:0	4:0	19.08.2000	15:30	2000	2001	2
+VfL Bochum	Bayern MÃ¼nchen	0:3	0:3	19.08.2000	15:30	2000	2001	2
+Hertha BSC	Hamburger SV	3:0	4:0	19.08.2000	15:30	2000	2001	2
+VfB Stuttgart	Bayer Leverkusen	2:0	4:1	19.08.2000	20:15	2000	2001	2
+Hansa Rostock	FC Schalke 04	0:3	0:4	20.08.2000	17:30	2000	2001	2
+1. FC KÃ¶ln	Eintracht Frankfurt	2:0	4:1	20.08.2000	17:30	2000	2001	2
+SC Freiburg	1. FC KÃ¶ln	0:0	0:0	05.09.2000	18:15	2000	2001	3
+1. FC Kaiserslautern	VfB Stuttgart	1:0	1:0	05.09.2000	20:15	2000	2001	3
+Bayer Leverkusen	SpVgg Unterhaching	1:0	1:0	05.09.2000	20:15	2000	2001	3
+FC Schalke 04	Energie Cottbus	2:0	3:0	05.09.2000	20:15	2000	2001	3
+Hamburger SV	Werder Bremen	1:0	2:1	06.09.2000	18:15	2000	2001	3
+Bayern MÃ¼nchen	VfL Wolfsburg	2:0	3:1	06.09.2000	20:15	2000	2001	3
+Eintracht Frankfurt	Hansa Rostock	0:0	4:0	06.09.2000	20:15	2000	2001	3
+Borussia Dortmund	TSV 1860 MÃ¼nchen	1:1	2:3	06.09.2000	20:15	2000	2001	3
+Hertha BSC	VfL Bochum	3:0	4:0	06.09.2000	20:15	2000	2001	3
+SpVgg Unterhaching	1. FC Kaiserslautern	0:0	0:0	08.09.2000	20:15	2000	2001	4
+TSV 1860 MÃ¼nchen	FC Schalke 04	0:0	1:1	09.09.2000	15:30	2000	2001	4
+1. FC KÃ¶ln	Bayer Leverkusen	0:1	1:1	09.09.2000	15:30	2000	2001	4
+VfB Stuttgart	Bayern MÃ¼nchen	1:1	2:1	09.09.2000	15:30	2000	2001	4
+VfL Wolfsburg	Hertha BSC	1:0	2:1	09.09.2000	15:30	2000	2001	4
+VfL Bochum	Hamburger SV	0:2	0:4	09.09.2000	15:30	2000	2001	4
+Werder Bremen	Borussia Dortmund	0:1	1:2	09.09.2000	20:15	2000	2001	4
+Hansa Rostock	SC Freiburg	0:0	0:0	10.09.2000	17:30	2000	2001	4
+Energie Cottbus	Eintracht Frankfurt	0:0	2:0	10.09.2000	17:30	2000	2001	4
+1. FC Kaiserslautern	1. FC KÃ¶ln	1:1	3:1	15.09.2000	20:15	2000	2001	5
+Bayer Leverkusen	Hansa Rostock	0:2	1:2	16.09.2000	15:30	2000	2001	5
+SC Freiburg	Energie Cottbus	0:0	4:1	16.09.2000	15:30	2000	2001	5
+Eintracht Frankfurt	TSV 1860 MÃ¼nchen	1:0	1:0	16.09.2000	15:30	2000	2001	5
+VfL Bochum	VfL Wolfsburg	1:0	2:1	16.09.2000	15:30	2000	2001	5
+Hamburger SV	Borussia Dortmund	1:1	2:3	16.09.2000	15:30	2000	2001	5
+Bayern MÃ¼nchen	SpVgg Unterhaching	1:1	3:1	16.09.2000	20:15	2000	2001	5
+FC Schalke 04	Werder Bremen	0:0	1:1	17.09.2000	17:30	2000	2001	5
+Hertha BSC	VfB Stuttgart	0:0	2:0	17.09.2000	17:30	2000	2001	5
+TSV 1860 MÃ¼nchen	SC Freiburg	0:1	3:1	22.09.2000	20:15	2000	2001	6
+1. FC KÃ¶ln	Bayern MÃ¼nchen	1:1	1:2	23.09.2000	15:30	2000	2001	6
+VfB Stuttgart	VfL Bochum	0:1	1:1	23.09.2000	15:30	2000	2001	6
+VfL Wolfsburg	Hamburger SV	2:1	4:4	23.09.2000	15:30	2000	2001	6
+Borussia Dortmund	FC Schalke 04	0:2	0:4	23.09.2000	15:30	2000	2001	6
+Werder Bremen	Eintracht Frankfurt	1:1	1:1	23.09.2000	15:30	2000	2001	6
+Energie Cottbus	Bayer Leverkusen	1:1	1:2	23.09.2000	20:15	2000	2001	6
+Hansa Rostock	1. FC Kaiserslautern	0:0	1:0	24.09.2000	17:30	2000	2001	6
+SpVgg Unterhaching	Hertha BSC	2:1	5:2	24.09.2000	17:30	2000	2001	6
+Eintracht Frankfurt	Borussia Dortmund	1:0	1:1	29.09.2000	20:15	2000	2001	7
+Bayern MÃ¼nchen	Hansa Rostock	0:1	0:1	30.09.2000	15:30	2000	2001	7
+1. FC Kaiserslautern	Energie Cottbus	1:0	1:1	30.09.2000	15:30	2000	2001	7
+VfL Bochum	SpVgg Unterhaching	0:0	3:0	30.09.2000	15:30	2000	2001	7
+Hertha BSC	1. FC KÃ¶ln	3:2	4:2	30.09.2000	15:30	2000	2001	7
+Hamburger SV	FC Schalke 04	1:0	2:0	30.09.2000	15:30	2000	2001	7
+Bayer Leverkusen	TSV 1860 MÃ¼nchen	0:0	0:0	30.09.2000	20:15	2000	2001	7
+SC Freiburg	Werder Bremen	0:0	0:1	01.10.2000	17:30	2000	2001	7
+VfL Wolfsburg	VfB Stuttgart	1:1	2:2	01.10.2000	17:30	2000	2001	7
+Borussia Dortmund	SC Freiburg	0:0	1:0	13.10.2000	20:15	2000	2001	8
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	0:1	0:4	14.10.2000	15:30	2000	2001	8
+1. FC KÃ¶ln	VfL Bochum	0:0	2:0	14.10.2000	15:30	2000	2001	8
+FC Schalke 04	Eintracht Frankfurt	1:0	4:0	14.10.2000	15:30	2000	2001	8
+Werder Bremen	Bayer Leverkusen	0:1	3:3	14.10.2000	15:30	2000	2001	8
+Energie Cottbus	Bayern MÃ¼nchen	1:0	1:0	14.10.2000	15:30	2000	2001	8
+VfB Stuttgart	Hamburger SV	2:2	3:3	14.10.2000	20:15	2000	2001	8
+Hansa Rostock	Hertha BSC	0:1	0:2	15.10.2000	17:30	2000	2001	8
+SpVgg Unterhaching	VfL Wolfsburg	0:1	0:3	15.10.2000	17:30	2000	2001	8
+1. FC Kaiserslautern	Werder Bremen	1:0	2:0	20.10.2000	20:15	2000	2001	9
+Bayern MÃ¼nchen	TSV 1860 MÃ¼nchen	1:0	3:1	21.10.2000	15:30	2000	2001	9
+VfB Stuttgart	SpVgg Unterhaching	1:2	2:2	21.10.2000	15:30	2000	2001	9
+VfL Wolfsburg	1. FC KÃ¶ln	4:0	6:0	21.10.2000	15:30	2000	2001	9
+Hertha BSC	Energie Cottbus	1:1	3:1	21.10.2000	15:30	2000	2001	9
+Hamburger SV	Eintracht Frankfurt	1:0	2:0	21.10.2000	15:30	2000	2001	9
+Bayer Leverkusen	Borussia Dortmund	1:0	2:0	21.10.2000	20:15	2000	2001	9
+SC Freiburg	FC Schalke 04	1:0	3:1	22.10.2000	17:30	2000	2001	9
+VfL Bochum	Hansa Rostock	0:0	1:2	22.10.2000	17:30	2000	2001	9
+Energie Cottbus	VfL Bochum	2:0	2:0	27.10.2000	20:15	2000	2001	10
+Hansa Rostock	VfL Wolfsburg	0:1	1:1	28.10.2000	15:30	2000	2001	10
+SpVgg Unterhaching	Hamburger SV	0:1	2:1	28.10.2000	15:30	2000	2001	10
+Eintracht Frankfurt	SC Freiburg	2:0	3:0	28.10.2000	15:30	2000	2001	10
+Borussia Dortmund	1. FC Kaiserslautern	0:1	1:2	28.10.2000	15:30	2000	2001	10
+Werder Bremen	Bayern MÃ¼nchen	1:1	1:1	28.10.2000	15:30	2000	2001	10
+FC Schalke 04	Bayer Leverkusen	0:0	0:0	28.10.2000	20:15	2000	2001	10
+TSV 1860 MÃ¼nchen	Hertha BSC	0:0	0:1	29.10.2000	17:30	2000	2001	10
+1. FC KÃ¶ln	VfB Stuttgart	2:2	3:2	29.10.2000	17:30	2000	2001	10
+Bayer Leverkusen	Eintracht Frankfurt	0:0	1:0	03.11.2000	20:15	2000	2001	11
+1. FC Kaiserslautern	FC Schalke 04	0:1	3:2	04.11.2000	15:30	2000	2001	11
+VfB Stuttgart	Hansa Rostock	1:0	1:0	04.11.2000	15:30	2000	2001	11
+Hertha BSC	Werder Bremen	2:0	4:1	04.11.2000	15:30	2000	2001	11
+Hamburger SV	SC Freiburg	4:0	5:0	04.11.2000	15:30	2000	2001	11
+VfL Bochum	TSV 1860 MÃ¼nchen	0:0	1:1	04.11.2000	15:30	2000	2001	11
+Bayern MÃ¼nchen	Borussia Dortmund	3:1	6:2	04.11.2000	20:15	2000	2001	11
+SpVgg Unterhaching	1. FC KÃ¶ln	0:0	0:0	05.11.2000	17:30	2000	2001	11
+VfL Wolfsburg	Energie Cottbus	0:1	1:1	05.11.2000	17:30	2000	2001	11
+Borussia Dortmund	Hertha BSC	1:0	2:0	10.11.2000	20:15	2000	2001	12
+TSV 1860 MÃ¼nchen	VfL Wolfsburg	2:1	2:2	11.11.2000	15:30	2000	2001	12
+Hansa Rostock	SpVgg Unterhaching	0:1	2:2	11.11.2000	15:30	2000	2001	12
+1. FC KÃ¶ln	Hamburger SV	2:0	4:2	11.11.2000	15:30	2000	2001	12
+FC Schalke 04	Bayern MÃ¼nchen	0:1	3:2	11.11.2000	15:30	2000	2001	12
+SC Freiburg	Bayer Leverkusen	0:0	0:1	11.11.2000	15:30	2000	2001	12
+Werder Bremen	VfL Bochum	0:0	2:0	11.11.2000	20:15	2000	2001	12
+Eintracht Frankfurt	1. FC Kaiserslautern	1:0	3:1	12.11.2000	17:30	2000	2001	12
+Energie Cottbus	VfB Stuttgart	1:1	2:1	12.11.2000	17:30	2000	2001	12
+VfB Stuttgart	TSV 1860 MÃ¼nchen	1:0	2:2	17.11.2000	20:15	2000	2001	13
+Bayern MÃ¼nchen	Eintracht Frankfurt	1:1	1:2	18.11.2000	15:30	2000	2001	13
+1. FC Kaiserslautern	SC Freiburg	0:1	0:2	18.11.2000	15:30	2000	2001	13
+1. FC KÃ¶ln	Hansa Rostock	3:2	5:2	18.11.2000	15:30	2000	2001	13
+VfL Wolfsburg	Werder Bremen	0:1	1:1	18.11.2000	15:30	2000	2001	13
+Hertha BSC	FC Schalke 04	0:2	0:4	18.11.2000	15:30	2000	2001	13
+Hamburger SV	Bayer Leverkusen	1:2	1:3	18.11.2000	20:15	2000	2001	13
+SpVgg Unterhaching	Energie Cottbus	2:0	2:1	19.11.2000	17:30	2000	2001	13
+VfL Bochum	Borussia Dortmund	0:0	1:1	19.11.2000	17:30	2000	2001	13
+FC Schalke 04	VfL Bochum	1:0	2:1	24.11.2000	20:15	2000	2001	14
+SC Freiburg	Bayern MÃ¼nchen	1:1	1:1	25.11.2000	15:30	2000	2001	14
+Borussia Dortmund	VfL Wolfsburg	2:1	2:1	25.11.2000	15:30	2000	2001	14
+Energie Cottbus	1. FC KÃ¶ln	0:1	0:2	25.11.2000	15:30	2000	2001	14
+Eintracht Frankfurt	Hertha BSC	0:2	0:4	25.11.2000	15:30	2000	2001	14
+Hansa Rostock	Hamburger SV	0:0	1:0	25.11.2000	20:15	2000	2001	14
+TSV 1860 MÃ¼nchen	SpVgg Unterhaching	0:1	0:2	26.11.2000	17:30	2000	2001	14
+Werder Bremen	VfB Stuttgart	0:0	1:0	26.11.2000	17:30	2000	2001	14
+Bayer Leverkusen	1. FC Kaiserslautern	2:1	4:2	26.11.2000	18:00	2000	2001	14
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	1:0	4:0	02.12.2000	15:30	2000	2001	15
+VfB Stuttgart	Borussia Dortmund	0:1	0:2	02.12.2000	15:30	2000	2001	15
+VfL Wolfsburg	FC Schalke 04	0:0	2:0	02.12.2000	15:30	2000	2001	15
+VfL Bochum	Eintracht Frankfurt	2:0	2:1	02.12.2000	15:30	2000	2001	15
+Hertha BSC	SC Freiburg	2:1	2:2	02.12.2000	15:30	2000	2001	15
+Bayern MÃ¼nchen	Bayer Leverkusen	1:0	2:0	02.12.2000	20:15	2000	2001	15
+1. FC Kaiserslautern	Hamburger SV	0:0	2:1	03.12.2000	17:30	2000	2001	15
+Energie Cottbus	Hansa Rostock	0:0	1:0	03.12.2000	17:30	2000	2001	15
+SpVgg Unterhaching	Werder Bremen	0:0	0:0	20.12.2000	18:15	2000	2001	15
+Eintracht Frankfurt	VfL Wolfsburg	1:0	1:2	08.12.2000	20:15	2000	2001	16
+TSV 1860 MÃ¼nchen	Hansa Rostock	1:0	2:1	09.12.2000	15:30	2000	2001	16
+SC Freiburg	VfL Bochum	1:0	5:0	09.12.2000	15:30	2000	2001	16
+FC Schalke 04	VfB Stuttgart	1:0	2:1	09.12.2000	15:30	2000	2001	16
+Borussia Dortmund	SpVgg Unterhaching	3:0	3:0	09.12.2000	15:30	2000	2001	16
+1. FC Kaiserslautern	Bayern MÃ¼nchen	0:0	0:0	09.12.2000	20:15	2000	2001	16
+Bayer Leverkusen	Hertha BSC	2:0	4:0	10.12.2000	17:30	2000	2001	16
+Werder Bremen	1. FC KÃ¶ln	0:0	2:1	10.12.2000	17:30	2000	2001	16
+Hamburger SV	Energie Cottbus	0:1	2:1	10.12.2000	17:30	2000	2001	16
+SpVgg Unterhaching	FC Schalke 04	0:1	0:2	12.12.2000	18:15	2000	2001	17
+VfB Stuttgart	Eintracht Frankfurt	1:1	4:1	12.12.2000	20:15	2000	2001	17
+VfL Wolfsburg	SC Freiburg	0:1	1:2	12.12.2000	20:15	2000	2001	17
+VfL Bochum	Bayer Leverkusen	1:0	3:2	13.12.2000	18:15	2000	2001	17
+Bayern MÃ¼nchen	Hamburger SV	0:1	2:1	13.12.2000	20:15	2000	2001	17
+Hansa Rostock	Werder Bremen	2:1	5:2	13.12.2000	20:15	2000	2001	17
+1. FC KÃ¶ln	Borussia Dortmund	0:0	0:0	13.12.2000	20:15	2000	2001	17
+Hertha BSC	1. FC Kaiserslautern	0:2	2:4	13.12.2000	20:15	2000	2001	17
+Energie Cottbus	TSV 1860 MÃ¼nchen	2:0	2:3	13.12.2000	20:15	2000	2001	17
+SpVgg Unterhaching	Eintracht Frankfurt	1:0	2:0	15.12.2000	20:15	2000	2001	18
+VfL Bochum	1. FC Kaiserslautern	0:1	0:1	16.12.2000	15:30	2000	2001	18
+VfL Wolfsburg	Bayer Leverkusen	0:0	2:0	16.12.2000	15:30	2000	2001	18
+VfB Stuttgart	SC Freiburg	0:0	0:0	16.12.2000	15:30	2000	2001	18
+1. FC KÃ¶ln	FC Schalke 04	0:2	2:2	16.12.2000	15:30	2000	2001	18
+Hansa Rostock	Borussia Dortmund	0:1	1:2	16.12.2000	15:30	2000	2001	18
+TSV 1860 MÃ¼nchen	Hamburger SV	1:0	2:1	16.12.2000	20:15	2000	2001	18
+Hertha BSC	Bayern MÃ¼nchen	1:2	1:3	17.12.2000	17:30	2000	2001	18
+Energie Cottbus	Werder Bremen	2:1	3:1	17.12.2000	17:30	2000	2001	18
+FC Schalke 04	Hansa Rostock	1:0	2:0	26.01.2001	20:15	2000	2001	19
+Werder Bremen	TSV 1860 MÃ¼nchen	0:0	2:0	27.01.2001	15:30	2000	2001	19
+SC Freiburg	SpVgg Unterhaching	1:0	2:0	27.01.2001	15:30	2000	2001	19
+1. FC Kaiserslautern	VfL Wolfsburg	0:0	0:0	27.01.2001	15:30	2000	2001	19
+Bayern MÃ¼nchen	VfL Bochum	1:1	3:2	27.01.2001	15:30	2000	2001	19
+Borussia Dortmund	Energie Cottbus	0:0	2:0	27.01.2001	15:30	2000	2001	19
+Eintracht Frankfurt	1. FC KÃ¶ln	0:4	1:5	27.01.2001	20:15	2000	2001	19
+Bayer Leverkusen	VfB Stuttgart	0:0	4:0	28.01.2001	17:30	2000	2001	19
+Hamburger SV	Hertha BSC	1:0	1:2	28.01.2001	17:30	2000	2001	19
+TSV 1860 MÃ¼nchen	Borussia Dortmund	0:0	1:0	02.02.2001	20:15	2000	2001	20
+VfL Wolfsburg	Bayern MÃ¼nchen	1:2	1:3	03.02.2001	15:30	2000	2001	20
+1. FC KÃ¶ln	SC Freiburg	0:0	0:1	03.02.2001	15:30	2000	2001	20
+Energie Cottbus	FC Schalke 04	2:0	4:1	03.02.2001	15:30	2000	2001	20
+VfL Bochum	Hertha BSC	0:1	1:3	03.02.2001	15:30	2000	2001	20
+Werder Bremen	Hamburger SV	1:0	3:1	03.02.2001	15:30	2000	2001	20
+VfB Stuttgart	1. FC Kaiserslautern	3:1	6:1	03.02.2001	20:15	2000	2001	20
+SpVgg Unterhaching	Bayer Leverkusen	1:1	1:2	04.02.2001	17:30	2000	2001	20
+Hansa Rostock	Eintracht Frankfurt	0:2	0:2	04.02.2001	17:30	2000	2001	20
+Eintracht Frankfurt	Energie Cottbus	0:0	1:0	09.02.2001	20:15	2000	2001	21
+FC Schalke 04	TSV 1860 MÃ¼nchen	0:0	2:0	10.02.2001	15:30	2000	2001	21
+1. FC Kaiserslautern	SpVgg Unterhaching	3:0	4:0	10.02.2001	15:30	2000	2001	21
+Bayern MÃ¼nchen	VfB Stuttgart	1:0	1:0	10.02.2001	15:30	2000	2001	21
+Hertha BSC	VfL Wolfsburg	0:1	1:3	10.02.2001	15:30	2000	2001	21
+Hamburger SV	VfL Bochum	3:0	3:0	10.02.2001	15:30	2000	2001	21
+Bayer Leverkusen	1. FC KÃ¶ln	0:1	4:1	10.02.2001	20:15	2000	2001	21
+SC Freiburg	Hansa Rostock	0:0	0:0	11.02.2001	17:30	2000	2001	21
+Borussia Dortmund	Werder Bremen	0:0	0:0	11.02.2001	17:30	2000	2001	21
+TSV 1860 MÃ¼nchen	Eintracht Frankfurt	0:1	2:2	16.02.2001	20:15	2000	2001	22
+SpVgg Unterhaching	Bayern MÃ¼nchen	0:0	1:0	17.02.2001	15:30	2000	2001	22
+Hansa Rostock	Bayer Leverkusen	1:1	2:1	17.02.2001	15:30	2000	2001	22
+Energie Cottbus	SC Freiburg	0:0	0:2	17.02.2001	15:30	2000	2001	22
+Werder Bremen	FC Schalke 04	2:0	2:1	17.02.2001	15:30	2000	2001	22
+VfL Wolfsburg	VfL Bochum	0:0	0:0	17.02.2001	15:30	2000	2001	22
+Borussia Dortmund	Hamburger SV	1:0	4:2	17.02.2001	20:15	2000	2001	22
+1. FC KÃ¶ln	1. FC Kaiserslautern	0:1	0:1	18.02.2001	17:30	2000	2001	22
+VfB Stuttgart	Hertha BSC	0:0	0:1	18.02.2001	17:30	2000	2001	22
+Bayer Leverkusen	Energie Cottbus	0:2	1:3	23.02.2001	20:15	2000	2001	23
+SC Freiburg	TSV 1860 MÃ¼nchen	0:2	0:3	24.02.2001	15:30	2000	2001	23
+Bayern MÃ¼nchen	1. FC KÃ¶ln	0:1	1:1	24.02.2001	15:30	2000	2001	23
+Hamburger SV	VfL Wolfsburg	2:1	3:2	24.02.2001	15:30	2000	2001	23
+FC Schalke 04	Borussia Dortmund	0:0	0:0	24.02.2001	15:30	2000	2001	23
+Eintracht Frankfurt	Werder Bremen	0:1	1:2	24.02.2001	20:15	2000	2001	23
+1. FC Kaiserslautern	Hansa Rostock	0:1	0:1	25.02.2001	17:30	2000	2001	23
+VfL Bochum	VfB Stuttgart	0:0	0:0	25.02.2001	17:30	2000	2001	23
+Hertha BSC	SpVgg Unterhaching	0:0	2:1	07.03.2001	18:45	2000	2001	23
+Borussia Dortmund	Eintracht Frankfurt	1:0	6:1	02.03.2001	20:15	2000	2001	24
+Hansa Rostock	Bayern MÃ¼nchen	1:1	3:2	03.03.2001	15:30	2000	2001	24
+Energie Cottbus	1. FC Kaiserslautern	0:0	0:2	03.03.2001	15:30	2000	2001	24
+Werder Bremen	SC Freiburg	2:0	3:1	03.03.2001	15:30	2000	2001	24
+VfB Stuttgart	VfL Wolfsburg	1:0	2:1	03.03.2001	15:30	2000	2001	24
+SpVgg Unterhaching	VfL Bochum	1:1	2:1	03.03.2001	15:30	2000	2001	24
+1. FC KÃ¶ln	Hertha BSC	0:0	1:0	03.03.2001	20:15	2000	2001	24
+TSV 1860 MÃ¼nchen	Bayer Leverkusen	0:0	1:0	04.03.2001	17:30	2000	2001	24
+FC Schalke 04	Hamburger SV	0:0	0:1	04.03.2001	17:30	2000	2001	24
+Bayer Leverkusen	Werder Bremen	1:0	3:0	09.03.2001	20:15	2000	2001	25
+Hertha BSC	Hansa Rostock	0:0	1:0	10.03.2001	15:30	2000	2001	25
+VfL Bochum	1. FC KÃ¶ln	2:1	2:3	10.03.2001	15:30	2000	2001	25
+VfL Wolfsburg	SpVgg Unterhaching	2:1	6:1	10.03.2001	15:30	2000	2001	25
+SC Freiburg	Borussia Dortmund	1:2	2:2	10.03.2001	15:30	2000	2001	25
+Bayern MÃ¼nchen	Energie Cottbus	2:0	2:0	10.03.2001	15:30	2000	2001	25
+Eintracht Frankfurt	FC Schalke 04	0:0	0:0	10.03.2001	20:15	2000	2001	25
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	0:0	3:2	11.03.2001	17:30	2000	2001	25
+Hamburger SV	VfB Stuttgart	2:1	2:2	11.03.2001	17:30	2000	2001	25
+1. FC KÃ¶ln	VfL Wolfsburg	0:0	0:0	16.03.2001	20:15	2000	2001	26
+Borussia Dortmund	Bayer Leverkusen	1:2	1:3	17.03.2001	15:30	2000	2001	26
+FC Schalke 04	SC Freiburg	0:0	0:0	17.03.2001	15:30	2000	2001	26
+Hansa Rostock	VfL Bochum	0:0	2:0	17.03.2001	15:30	2000	2001	26
+Energie Cottbus	Hertha BSC	2:0	3:0	17.03.2001	15:30	2000	2001	26
+Eintracht Frankfurt	Hamburger SV	0:0	1:1	17.03.2001	15:30	2000	2001	26
+TSV 1860 MÃ¼nchen	Bayern MÃ¼nchen	0:0	0:2	17.03.2001	20:15	2000	2001	26
+Werder Bremen	1. FC Kaiserslautern	0:2	1:2	18.03.2001	17:30	2000	2001	26
+SpVgg Unterhaching	VfB Stuttgart	0:0	0:0	18.03.2001	17:30	2000	2001	26
+VfL Wolfsburg	Hansa Rostock	1:0	2:1	30.03.2001	20:15	2000	2001	27
+Hertha BSC	TSV 1860 MÃ¼nchen	1:0	3:0	31.03.2001	15:30	2000	2001	27
+VfB Stuttgart	1. FC KÃ¶ln	0:2	0:3	31.03.2001	15:30	2000	2001	27
+Hamburger SV	SpVgg Unterhaching	0:0	1:1	31.03.2001	15:30	2000	2001	27
+SC Freiburg	Eintracht Frankfurt	2:0	5:2	31.03.2001	15:30	2000	2001	27
+Bayern MÃ¼nchen	Werder Bremen	0:1	2:3	31.03.2001	15:30	2000	2001	27
+Bayer Leverkusen	FC Schalke 04	0:1	0:3	31.03.2001	20:15	2000	2001	27
+1. FC Kaiserslautern	Borussia Dortmund	0:1	1:4	01.04.2001	17:30	2000	2001	27
+VfL Bochum	Energie Cottbus	0:0	1:0	01.04.2001	17:30	2000	2001	27
+Energie Cottbus	VfL Wolfsburg	0:0	0:0	06.04.2001	20:15	2000	2001	28
+Eintracht Frankfurt	Bayer Leverkusen	0:1	1:3	07.04.2001	15:30	2000	2001	28
+1. FC KÃ¶ln	SpVgg Unterhaching	1:0	1:1	07.04.2001	15:30	2000	2001	28
+Werder Bremen	Hertha BSC	1:0	3:1	07.04.2001	15:30	2000	2001	28
+SC Freiburg	Hamburger SV	0:0	0:0	07.04.2001	15:30	2000	2001	28
+TSV 1860 MÃ¼nchen	VfL Bochum	0:1	2:4	07.04.2001	15:30	2000	2001	28
+Borussia Dortmund	Bayern MÃ¼nchen	0:1	1:1	07.04.2001	20:15	2000	2001	28
+FC Schalke 04	1. FC Kaiserslautern	2:0	5:1	08.04.2001	17:30	2000	2001	28
+Hansa Rostock	VfB Stuttgart	0:0	1:1	08.04.2001	17:30	2000	2001	28
+VfB Stuttgart	Energie Cottbus	0:0	1:0	12.04.2001	20:15	2000	2001	29
+VfL Wolfsburg	TSV 1860 MÃ¼nchen	0:1	0:1	14.04.2001	15:30	2000	2001	29
+1. FC Kaiserslautern	Eintracht Frankfurt	1:2	4:2	14.04.2001	15:30	2000	2001	29
+Bayern MÃ¼nchen	FC Schalke 04	1:1	1:3	14.04.2001	15:30	2000	2001	29
+VfL Bochum	Werder Bremen	0:1	1:2	14.04.2001	15:30	2000	2001	29
+Bayer Leverkusen	SC Freiburg	0:1	1:3	14.04.2001	15:30	2000	2001	29
+Hertha BSC	Borussia Dortmund	0:0	1:0	14.04.2001	20:15	2000	2001	29
+SpVgg Unterhaching	Hansa Rostock	0:0	1:1	15.04.2001	17:30	2000	2001	29
+Hamburger SV	1. FC KÃ¶ln	0:1	1:1	15.04.2001	17:30	2000	2001	29
+Borussia Dortmund	VfL Bochum	2:0	5:0	20.04.2001	20:15	2000	2001	30
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:1	0:2	21.04.2001	15:30	2000	2001	30
+Hansa Rostock	1. FC KÃ¶ln	1:0	2:1	21.04.2001	15:30	2000	2001	30
+Energie Cottbus	SpVgg Unterhaching	0:0	1:0	21.04.2001	15:30	2000	2001	30
+Werder Bremen	VfL Wolfsburg	1:2	2:3	21.04.2001	15:30	2000	2001	30
+Bayer Leverkusen	Hamburger SV	1:1	1:1	21.04.2001	15:30	2000	2001	30
+FC Schalke 04	Hertha BSC	0:1	3:1	21.04.2001	20:15	2000	2001	30
+SC Freiburg	1. FC Kaiserslautern	5:0	5:2	22.04.2001	15:30	2000	2001	30
+TSV 1860 MÃ¼nchen	VfB Stuttgart	1:1	2:1	22.04.2001	15:30	2000	2001	30
+VfL Wolfsburg	Borussia Dortmund	1:1	1:1	27.04.2001	20:15	2000	2001	31
+1. FC Kaiserslautern	Bayer Leverkusen	0:1	0:1	28.04.2001	15:30	2000	2001	31
+Bayern MÃ¼nchen	SC Freiburg	0:0	1:0	28.04.2001	15:30	2000	2001	31
+VfB Stuttgart	Werder Bremen	1:0	2:1	28.04.2001	15:30	2000	2001	31
+1. FC KÃ¶ln	Energie Cottbus	2:0	4:0	28.04.2001	15:30	2000	2001	31
+Hertha BSC	Eintracht Frankfurt	3:0	3:0	28.04.2001	15:30	2000	2001	31
+VfL Bochum	FC Schalke 04	1:0	1:1	28.04.2001	20:15	2000	2001	31
+SpVgg Unterhaching	TSV 1860 MÃ¼nchen	2:1	3:2	29.04.2001	17:30	2000	2001	31
+Hamburger SV	Hansa Rostock	0:1	2:1	29.04.2001	17:30	2000	2001	31
+Borussia Dortmund	VfB Stuttgart	0:0	0:0	04.05.2001	20:15	2000	2001	32
+Bayer Leverkusen	Bayern MÃ¼nchen	0:0	0:1	05.05.2001	15:30	2000	2001	32
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	1:1	3:1	05.05.2001	15:30	2000	2001	32
+FC Schalke 04	VfL Wolfsburg	2:0	2:1	05.05.2001	15:30	2000	2001	32
+Eintracht Frankfurt	VfL Bochum	0:0	3:0	05.05.2001	15:30	2000	2001	32
+Hansa Rostock	Energie Cottbus	1:0	1:0	05.05.2001	15:30	2000	2001	32
+Hamburger SV	1. FC Kaiserslautern	1:0	1:1	05.05.2001	20:15	2000	2001	32
+Werder Bremen	SpVgg Unterhaching	0:0	0:0	06.05.2001	17:30	2000	2001	32
+SC Freiburg	Hertha BSC	0:0	1:0	06.05.2001	17:30	2000	2001	32
+Hansa Rostock	TSV 1860 MÃ¼nchen	0:0	0:0	12.05.2001	15:30	2000	2001	33
+Bayern MÃ¼nchen	1. FC Kaiserslautern	0:1	2:1	12.05.2001	15:30	2000	2001	33
+Hertha BSC	Bayer Leverkusen	1:0	1:1	12.05.2001	15:30	2000	2001	33
+VfL Bochum	SC Freiburg	0:1	1:3	12.05.2001	15:30	2000	2001	33
+VfL Wolfsburg	Eintracht Frankfurt	3:0	3:0	12.05.2001	15:30	2000	2001	33
+VfB Stuttgart	FC Schalke 04	0:0	1:0	12.05.2001	15:30	2000	2001	33
+SpVgg Unterhaching	Borussia Dortmund	0:1	1:4	12.05.2001	15:30	2000	2001	33
+1. FC KÃ¶ln	Werder Bremen	1:1	1:3	12.05.2001	15:30	2000	2001	33
+Energie Cottbus	Hamburger SV	2:1	4:2	12.05.2001	15:30	2000	2001	33
+Hamburger SV	Bayern MÃ¼nchen	0:0	1:1	19.05.2001	15:30	2000	2001	34
+Werder Bremen	Hansa Rostock	2:0	3:0	19.05.2001	15:30	2000	2001	34
+Borussia Dortmund	1. FC KÃ¶ln	1:2	3:3	19.05.2001	15:30	2000	2001	34
+FC Schalke 04	SpVgg Unterhaching	2:2	5:3	19.05.2001	15:30	2000	2001	34
+Eintracht Frankfurt	VfB Stuttgart	2:0	2:1	19.05.2001	15:30	2000	2001	34
+SC Freiburg	VfL Wolfsburg	2:0	4:1	19.05.2001	15:30	2000	2001	34
+Bayer Leverkusen	VfL Bochum	1:0	1:0	19.05.2001	15:30	2000	2001	34
+1. FC Kaiserslautern	Hertha BSC	0:0	0:1	19.05.2001	15:30	2000	2001	34
+TSV 1860 MÃ¼nchen	Energie Cottbus	0:1	0:1	19.05.2001	15:30	2000	2001	34

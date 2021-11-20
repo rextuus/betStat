@@ -1,0 +1,462 @@
+Arsenal FC	Leeds United	1:1	2:2	19.08.1978	00:00	1978	1979	1
+Nottingham Forest	Tottenham Hotspur	1:1	1:1	19.08.1978	00:00	1978	1979	1
+Norwich City	Southampton FC	1:0	3:1	19.08.1978	00:00	1978	1979	1
+Middlesbrough FC	Coventry City	1:0	1:2	19.08.1978	00:00	1978	1979	1
+Manchester United	Birmingham City	0:0	1:0	19.08.1978	00:00	1978	1979	1
+Liverpool FC	Queens Park Rangers	1:1	2:1	19.08.1978	00:00	1978	1979	1
+Derby County	Manchester City	0:0	1:1	19.08.1978	00:00	1978	1979	1
+Chelsea FC	Everton FC	0:1	0:1	19.08.1978	00:00	1978	1979	1
+Bolton Wanderers	Bristol City	1:0	1:2	19.08.1978	00:00	1978	1979	1
+Aston Villa	Wolverhampton Wanderers	0:0	1:0	19.08.1978	00:00	1978	1979	1
+West Bromwich Albion	Ipswich Town	1:1	2:1	19.08.1978	00:00	1978	1979	1
+Birmingham City	Middlesbrough FC	1:3	1:3	22.08.1978	00:00	1978	1979	2
+Wolverhampton Wanderers	Chelsea FC	0:1	0:1	22.08.1978	00:00	1978	1979	2
+Southampton FC	Bolton Wanderers	1:1	2:2	22.08.1978	00:00	1978	1979	2
+Queens Park Rangers	West Bromwich Albion	0:0	0:1	22.08.1978	00:00	1978	1979	2
+Manchester City	Arsenal FC	0:1	1:1	22.08.1978	00:00	1978	1979	2
+Ipswich Town	Liverpool FC	0:2	0:3	22.08.1978	00:00	1978	1979	2
+Everton FC	Derby County	0:1	2:1	22.08.1978	00:00	1978	1979	2
+Coventry City	Nottingham Forest	0:0	0:0	22.08.1978	00:00	1978	1979	2
+Bristol City	Norwich City	0:1	1:1	22.08.1978	00:00	1978	1979	2
+Leeds United	Manchester United	1:2	2:3	23.08.1978	00:00	1978	1979	2
+Tottenham Hotspur	Aston Villa	0:1	1:4	23.08.1978	00:00	1978	1979	2
+Birmingham City	Derby County	1:1	1:1	26.08.1978	00:00	1978	1979	3
+Tottenham Hotspur	Chelsea FC	2:1	2:2	26.08.1978	00:00	1978	1979	3
+Southampton FC	Middlesbrough FC	0:1	2:1	26.08.1978	00:00	1978	1979	3
+Queens Park Rangers	Nottingham Forest	0:0	0:0	26.08.1978	00:00	1978	1979	3
+Manchester City	Liverpool FC	1:2	1:4	26.08.1978	00:00	1978	1979	3
+Leeds United	Wolverhampton Wanderers	2:0	3:0	26.08.1978	00:00	1978	1979	3
+Ipswich Town	Manchester United	1:0	3:0	26.08.1978	00:00	1978	1979	3
+Everton FC	Arsenal FC	0:0	1:0	26.08.1978	00:00	1978	1979	3
+Coventry City	Norwich City	2:0	4:1	26.08.1978	00:00	1978	1979	3
+Bristol City	Aston Villa	0:0	1:0	26.08.1978	00:00	1978	1979	3
+West Bromwich Albion	Bolton Wanderers	3:0	4:0	26.08.1978	00:00	1978	1979	3
+Arsenal FC	Queens Park Rangers	4:0	5:1	02.09.1978	00:00	1978	1979	4
+Nottingham Forest	West Bromwich Albion	0:0	0:0	02.09.1978	00:00	1978	1979	4
+Norwich City	Manchester City	1:0	1:1	02.09.1978	00:00	1978	1979	4
+Middlesbrough FC	Ipswich Town	0:0	0:0	02.09.1978	00:00	1978	1979	4
+Manchester United	Everton FC	0:1	1:1	02.09.1978	00:00	1978	1979	4
+Liverpool FC	Tottenham Hotspur	3:0	7:0	02.09.1978	00:00	1978	1979	4
+Derby County	Coventry City	0:0	0:2	02.09.1978	00:00	1978	1979	4
+Chelsea FC	Leeds United	0:1	0:3	02.09.1978	00:00	1978	1979	4
+Bolton Wanderers	Birmingham City	0:0	2:2	02.09.1978	00:00	1978	1979	4
+Aston Villa	Southampton FC	1:1	1:1	02.09.1978	00:00	1978	1979	4
+Wolverhampton Wanderers	Bristol City	1:0	2:0	02.09.1978	00:00	1978	1979	4
+Birmingham City	Liverpool FC	0:1	0:3	09.09.1978	00:00	1978	1979	5
+Tottenham Hotspur	Bristol City	1:0	1:0	09.09.1978	00:00	1978	1979	5
+Southampton FC	Wolverhampton Wanderers	1:0	3:2	09.09.1978	00:00	1978	1979	5
+Queens Park Rangers	Manchester United	1:0	1:1	09.09.1978	00:00	1978	1979	5
+Nottingham Forest	Arsenal FC	0:1	2:1	09.09.1978	00:00	1978	1979	5
+Manchester City	Leeds United	2:0	3:0	09.09.1978	00:00	1978	1979	5
+Ipswich Town	Aston Villa	0:1	0:2	09.09.1978	00:00	1978	1979	5
+Everton FC	Middlesbrough FC	0:0	2:0	09.09.1978	00:00	1978	1979	5
+Coventry City	Chelsea FC	1:2	3:2	09.09.1978	00:00	1978	1979	5
+Bolton Wanderers	Derby County	0:1	2:1	09.09.1978	00:00	1978	1979	5
+West Bromwich Albion	Norwich City	1:2	2:2	09.09.1978	00:00	1978	1979	5
+Arsenal FC	Bolton Wanderers	0:0	1:0	16.09.1978	00:00	1978	1979	6
+Norwich City	Birmingham City	1:0	4:0	16.09.1978	00:00	1978	1979	6
+Middlesbrough FC	Queens Park Rangers	0:1	0:2	16.09.1978	00:00	1978	1979	6
+Manchester United	Nottingham Forest	0:1	1:1	16.09.1978	00:00	1978	1979	6
+Liverpool FC	Coventry City	1:0	1:0	16.09.1978	00:00	1978	1979	6
+Leeds United	Tottenham Hotspur	0:1	1:2	16.09.1978	00:00	1978	1979	6
+Derby County	West Bromwich Albion	3:0	3:2	16.09.1978	00:00	1978	1979	6
+Chelsea FC	Manchester City	0:3	1:4	16.09.1978	00:00	1978	1979	6
+Bristol City	Southampton FC	1:1	3:1	16.09.1978	00:00	1978	1979	6
+Aston Villa	Everton FC	1:1	1:1	16.09.1978	00:00	1978	1979	6
+Wolverhampton Wanderers	Ipswich Town	1:2	1:3	16.09.1978	00:00	1978	1979	6
+Arsenal FC	Manchester United	1:1	1:1	23.09.1978	00:00	1978	1979	7
+Queens Park Rangers	Aston Villa	0:0	1:0	23.09.1978	00:00	1978	1979	7
+Nottingham Forest	Middlesbrough FC	2:0	2:2	23.09.1978	00:00	1978	1979	7
+Manchester City	Tottenham Hotspur	0:0	2:0	23.09.1978	00:00	1978	1979	7
+Ipswich Town	Bristol City	0:0	0:1	23.09.1978	00:00	1978	1979	7
+Everton FC	Wolverhampton Wanderers	2:0	2:0	23.09.1978	00:00	1978	1979	7
+Derby County	Southampton FC	0:0	2:1	23.09.1978	00:00	1978	1979	7
+Coventry City	Leeds United	0:0	0:0	23.09.1978	00:00	1978	1979	7
+Bolton Wanderers	Norwich City	1:2	3:2	23.09.1978	00:00	1978	1979	7
+Birmingham City	Chelsea FC	0:0	1:1	23.09.1978	00:00	1978	1979	7
+West Bromwich Albion	Liverpool FC	0:0	1:1	23.09.1978	00:00	1978	1979	7
+Aston Villa	Nottingham Forest	1:0	1:2	30.09.1978	00:00	1978	1979	8
+Tottenham Hotspur	Coventry City	0:0	1:1	30.09.1978	00:00	1978	1979	8
+Southampton FC	Ipswich Town	0:2	1:2	30.09.1978	00:00	1978	1979	8
+Norwich City	Derby County	2:0	3:0	30.09.1978	00:00	1978	1979	8
+Middlesbrough FC	Arsenal FC	1:1	2:3	30.09.1978	00:00	1978	1979	8
+Manchester United	Manchester City	0:0	1:0	30.09.1978	00:00	1978	1979	8
+Liverpool FC	Bolton Wanderers	2:0	3:0	30.09.1978	00:00	1978	1979	8
+Leeds United	Birmingham City	1:0	3:0	30.09.1978	00:00	1978	1979	8
+Chelsea FC	West Bromwich Albion	1:1	1:3	30.09.1978	00:00	1978	1979	8
+Bristol City	Everton FC	2:1	2:2	30.09.1978	00:00	1978	1979	8
+Wolverhampton Wanderers	Queens Park Rangers	0:0	1:0	30.09.1978	00:00	1978	1979	8
+Arsenal FC	Aston Villa	1:0	1:1	07.10.1978	00:00	1978	1979	9
+Queens Park Rangers	Bristol City	0:0	1:0	07.10.1978	00:00	1978	1979	9
+Nottingham Forest	Wolverhampton Wanderers	1:0	3:1	07.10.1978	00:00	1978	1979	9
+Norwich City	Liverpool FC	0:3	1:4	07.10.1978	00:00	1978	1979	9
+Manchester United	Middlesbrough FC	2:1	3:2	07.10.1978	00:00	1978	1979	9
+Everton FC	Southampton FC	0:0	0:0	07.10.1978	00:00	1978	1979	9
+Derby County	Chelsea FC	0:0	1:0	07.10.1978	00:00	1978	1979	9
+Coventry City	Ipswich Town	0:2	2:2	07.10.1978	00:00	1978	1979	9
+Bolton Wanderers	Leeds United	0:1	3:1	07.10.1978	00:00	1978	1979	9
+Birmingham City	Manchester City	0:2	1:2	07.10.1978	00:00	1978	1979	9
+West Bromwich Albion	Tottenham Hotspur	0:1	0:1	07.10.1978	00:00	1978	1979	9
+Aston Villa	Manchester United	2:0	2:2	14.10.1978	00:00	1978	1979	10
+Tottenham Hotspur	Birmingham City	1:0	1:0	14.10.1978	00:00	1978	1979	10
+Southampton FC	Queens Park Rangers	1:0	1:1	14.10.1978	00:00	1978	1979	10
+Middlesbrough FC	Norwich City	1:0	2:0	14.10.1978	00:00	1978	1979	10
+Manchester City	Coventry City	0:0	2:0	14.10.1978	00:00	1978	1979	10
+Liverpool FC	Derby County	1:0	5:0	14.10.1978	00:00	1978	1979	10
+Leeds United	West Bromwich Albion	1:1	1:3	14.10.1978	00:00	1978	1979	10
+Ipswich Town	Everton FC	0:1	0:1	14.10.1978	00:00	1978	1979	10
+Chelsea FC	Bolton Wanderers	0:3	4:3	14.10.1978	00:00	1978	1979	10
+Bristol City	Nottingham Forest	1:2	1:3	14.10.1978	00:00	1978	1979	10
+Wolverhampton Wanderers	Arsenal FC	0:0	1:0	14.10.1978	00:00	1978	1979	10
+Arsenal FC	Southampton FC	0:0	1:0	21.10.1978	00:00	1978	1979	11
+Queens Park Rangers	Everton FC	0:1	1:1	21.10.1978	00:00	1978	1979	11
+Nottingham Forest	Ipswich Town	1:0	1:0	21.10.1978	00:00	1978	1979	11
+Norwich City	Leeds United	0:1	2:2	21.10.1978	00:00	1978	1979	11
+Middlesbrough FC	Wolverhampton Wanderers	1:0	2:0	21.10.1978	00:00	1978	1979	11
+Manchester United	Bristol City	0:1	1:3	21.10.1978	00:00	1978	1979	11
+Liverpool FC	Chelsea FC	1:0	2:0	21.10.1978	00:00	1978	1979	11
+Derby County	Tottenham Hotspur	1:0	2:2	21.10.1978	00:00	1978	1979	11
+Bolton Wanderers	Manchester City	1:1	2:2	21.10.1978	00:00	1978	1979	11
+Birmingham City	Aston Villa	0:1	0:1	21.10.1978	00:00	1978	1979	11
+West Bromwich Albion	Coventry City	3:1	7:1	21.10.1978	00:00	1978	1979	11
+Aston Villa	Middlesbrough FC	0:1	0:2	27.10.1978	00:00	1978	1979	12
+Tottenham Hotspur	Bolton Wanderers	1:0	2:0	28.10.1978	00:00	1978	1979	12
+Southampton FC	Nottingham Forest	0:0	0:0	28.10.1978	00:00	1978	1979	12
+Manchester City	West Bromwich Albion	2:2	2:2	28.10.1978	00:00	1978	1979	12
+Leeds United	Derby County	3:0	4:0	28.10.1978	00:00	1978	1979	12
+Ipswich Town	Queens Park Rangers	0:0	2:1	28.10.1978	00:00	1978	1979	12
+Everton FC	Liverpool FC	0:0	1:0	28.10.1978	00:00	1978	1979	12
+Coventry City	Birmingham City	1:0	2:1	28.10.1978	00:00	1978	1979	12
+Chelsea FC	Norwich City	1:0	3:3	28.10.1978	00:00	1978	1979	12
+Bristol City	Arsenal FC	1:2	1:3	28.10.1978	00:00	1978	1979	12
+Wolverhampton Wanderers	Manchester United	1:3	2:4	28.10.1978	00:00	1978	1979	12
+Arsenal FC	Ipswich Town	3:1	4:1	04.11.1978	00:00	1978	1979	13
+Queens Park Rangers	Chelsea FC	0:0	0:0	04.11.1978	00:00	1978	1979	13
+Nottingham Forest	Everton FC	0:0	0:0	04.11.1978	00:00	1978	1979	13
+Norwich City	Tottenham Hotspur	1:2	2:2	04.11.1978	00:00	1978	1979	13
+Middlesbrough FC	Bristol City	0:0	0:0	04.11.1978	00:00	1978	1979	13
+Manchester United	Southampton FC	1:0	1:1	04.11.1978	00:00	1978	1979	13
+Liverpool FC	Leeds United	0:1	1:1	04.11.1978	00:00	1978	1979	13
+Derby County	Wolverhampton Wanderers	2:0	4:1	04.11.1978	00:00	1978	1979	13
+Bolton Wanderers	Coventry City	0:0	0:0	04.11.1978	00:00	1978	1979	13
+Aston Villa	Manchester City	0:0	1:1	04.11.1978	00:00	1978	1979	13
+West Bromwich Albion	Birmingham City	1:0	1:0	04.11.1978	00:00	1978	1979	13
+Birmingham City	Manchester United	3:1	5:1	11.11.1978	00:00	1978	1979	14
+Tottenham Hotspur	Nottingham Forest	0:0	1:3	11.11.1978	00:00	1978	1979	14
+Southampton FC	Norwich City	1:1	2:2	11.11.1978	00:00	1978	1979	14
+Queens Park Rangers	Liverpool FC	1:2	1:3	11.11.1978	00:00	1978	1979	14
+Manchester City	Derby County	0:2	1:2	11.11.1978	00:00	1978	1979	14
+Leeds United	Arsenal FC	0:1	0:1	11.11.1978	00:00	1978	1979	14
+Ipswich Town	West Bromwich Albion	0:1	0:1	11.11.1978	00:00	1978	1979	14
+Everton FC	Chelsea FC	1:1	3:2	11.11.1978	00:00	1978	1979	14
+Coventry City	Middlesbrough FC	1:0	2:1	11.11.1978	00:00	1978	1979	14
+Bristol City	Bolton Wanderers	1:1	4:1	11.11.1978	00:00	1978	1979	14
+Wolverhampton Wanderers	Aston Villa	0:2	0:4	11.11.1978	00:00	1978	1979	14
+Arsenal FC	Everton FC	0:1	2:2	18.11.1978	00:00	1978	1979	15
+Nottingham Forest	Queens Park Rangers	0:0	0:0	18.11.1978	00:00	1978	1979	15
+Norwich City	Coventry City	0:0	1:0	18.11.1978	00:00	1978	1979	15
+Middlesbrough FC	Southampton FC	1:0	2:0	18.11.1978	00:00	1978	1979	15
+Manchester United	Ipswich Town	1:0	2:0	18.11.1978	00:00	1978	1979	15
+Liverpool FC	Manchester City	0:0	1:0	18.11.1978	00:00	1978	1979	15
+Derby County	Birmingham City	0:1	2:1	18.11.1978	00:00	1978	1979	15
+Chelsea FC	Tottenham Hotspur	1:0	1:3	18.11.1978	00:00	1978	1979	15
+Bolton Wanderers	West Bromwich Albion	0:0	0:1	18.11.1978	00:00	1978	1979	15
+Aston Villa	Bristol City	0:0	2:0	18.11.1978	00:00	1978	1979	15
+Wolverhampton Wanderers	Leeds United	1:1	1:1	18.11.1978	00:00	1978	1979	15
+Birmingham City	Bolton Wanderers	1:0	3:0	21.11.1978	00:00	1978	1979	16
+Southampton FC	Aston Villa	2:0	2:0	21.11.1978	00:00	1978	1979	16
+Ipswich Town	Middlesbrough FC	1:1	2:1	21.11.1978	00:00	1978	1979	16
+Everton FC	Manchester United	2:0	3:0	21.11.1978	00:00	1978	1979	16
+Coventry City	Derby County	1:2	4:2	21.11.1978	00:00	1978	1979	16
+Bristol City	Wolverhampton Wanderers	0:0	0:1	21.11.1978	00:00	1978	1979	16
+Leeds United	Chelsea FC	2:1	2:1	22.11.1978	00:00	1978	1979	16
+Tottenham Hotspur	Liverpool FC	0:0	0:0	22.11.1978	00:00	1978	1979	16
+Queens Park Rangers	Arsenal FC	0:0	1:2	13.02.1979	00:00	1978	1979	16
+Manchester City	Norwich City	1:1	2:2	27.02.1979	00:00	1978	1979	16
+West Bromwich Albion	Nottingham Forest	0:0	0:1	18.05.1979	00:00	1978	1979	16
+Coventry City	Arsenal FC	0:0	1:1	25.11.1978	00:00	1978	1979	17
+Norwich City	Everton FC	0:0	0:1	25.11.1978	00:00	1978	1979	17
+Birmingham City	Bristol City	0:1	1:1	25.11.1978	00:00	1978	1979	17
+West Bromwich Albion	Aston Villa	1:0	1:1	25.11.1978	00:00	1978	1979	17
+Tottenham Hotspur	Wolverhampton Wanderers	1:0	1:0	25.11.1978	00:00	1978	1979	17
+Manchester City	Ipswich Town	0:0	1:2	25.11.1978	00:00	1978	1979	17
+Liverpool FC	Middlesbrough FC	1:0	2:0	25.11.1978	00:00	1978	1979	17
+Leeds United	Southampton FC	2:0	4:0	25.11.1978	00:00	1978	1979	17
+Derby County	Queens Park Rangers	1:0	2:1	25.11.1978	00:00	1978	1979	17
+Chelsea FC	Manchester United	0:0	0:1	25.11.1978	00:00	1978	1979	17
+Bolton Wanderers	Nottingham Forest	0:0	0:1	25.11.1978	00:00	1978	1979	17
+Arsenal FC	Liverpool FC	1:0	1:0	02.12.1978	00:00	1978	1979	18
+Bristol City	Derby County	0:0	1:0	02.12.1978	00:00	1978	1979	18
+Ipswich Town	Leeds United	1:2	2:3	02.12.1978	00:00	1978	1979	18
+Queens Park Rangers	Bolton Wanderers	0:3	1:3	02.12.1978	00:00	1978	1979	18
+Southampton FC	Birmingham City	0:0	1:0	02.12.1978	00:00	1978	1979	18
+Wolverhampton Wanderers	Manchester City	1:0	1:1	27.03.1979	00:00	1978	1979	18
+Aston Villa	Coventry City	0:0	1:1	28.03.1979	00:00	1978	1979	18
+Nottingham Forest	Chelsea FC	1:0	6:0	28.03.1979	00:00	1978	1979	18
+Middlesbrough FC	Tottenham Hotspur	1:0	1:0	31.03.1979	00:00	1978	1979	18
+Manchester United	Norwich City	0:0	1:0	25.04.1979	00:00	1978	1979	18
+Everton FC	West Bromwich Albion	0:1	0:2	01.05.1979	00:00	1978	1979	18
+Manchester City	Southampton FC	0:1	1:2	09.12.1978	00:00	1978	1979	19
+West Bromwich Albion	Middlesbrough FC	1:0	2:0	09.12.1978	00:00	1978	1979	19
+Norwich City	Arsenal FC	0:0	0:0	09.12.1978	00:00	1978	1979	19
+Coventry City	Queens Park Rangers	0:0	1:0	09.12.1978	00:00	1978	1979	19
+Chelsea FC	Aston Villa	0:1	0:1	09.12.1978	00:00	1978	1979	19
+Birmingham City	Everton FC	0:1	1:3	09.12.1978	00:00	1978	1979	19
+Bolton Wanderers	Wolverhampton Wanderers	1:0	3:1	09.12.1978	00:00	1978	1979	19
+Derby County	Manchester United	1:1	1:3	09.12.1978	00:00	1978	1979	19
+Leeds United	Bristol City	1:1	1:1	09.12.1978	00:00	1978	1979	19
+Liverpool FC	Nottingham Forest	1:0	2:0	09.12.1978	00:00	1978	1979	19
+Tottenham Hotspur	Ipswich Town	0:0	1:0	09.12.1978	00:00	1978	1979	19
+Nottingham Forest	Birmingham City	0:0	1:0	16.12.1978	00:00	1978	1979	20
+Queens Park Rangers	Manchester City	0:0	2:1	16.12.1978	00:00	1978	1979	20
+Wolverhampton Wanderers	West Bromwich Albion	0:1	0:3	16.12.1978	00:00	1978	1979	20
+Southampton FC	Coventry City	2:0	4:0	16.12.1978	00:00	1978	1979	20
+Middlesbrough FC	Chelsea FC	3:1	7:2	16.12.1978	00:00	1978	1979	20
+Manchester United	Tottenham Hotspur	1:0	2:0	16.12.1978	00:00	1978	1979	20
+Everton FC	Leeds United	0:1	1:1	16.12.1978	00:00	1978	1979	20
+Aston Villa	Norwich City	0:0	1:1	16.12.1978	00:00	1978	1979	20
+Arsenal FC	Derby County	1:0	2:0	16.12.1978	00:00	1978	1979	20
+Bristol City	Liverpool FC	0:0	1:0	16.12.1978	00:00	1978	1979	20
+Ipswich Town	Bolton Wanderers	1:0	3:0	16.12.1978	00:00	1978	1979	20
+Bolton Wanderers	Manchester United	2:0	3:0	22.12.1978	00:00	1978	1979	21
+Manchester City	Nottingham Forest	0:0	0:0	23.12.1978	00:00	1978	1979	21
+Chelsea FC	Bristol City	0:0	0:0	23.12.1978	00:00	1978	1979	21
+Coventry City	Everton FC	0:0	3:2	23.12.1978	00:00	1978	1979	21
+Derby County	Aston Villa	0:0	0:0	23.12.1978	00:00	1978	1979	21
+Leeds United	Middlesbrough FC	1:1	3:1	23.12.1978	00:00	1978	1979	21
+Tottenham Hotspur	Arsenal FC	0:2	0:5	23.12.1978	00:00	1978	1979	21
+Norwich City	Queens Park Rangers	1:0	1:1	31.01.1979	00:00	1978	1979	21
+Liverpool FC	Wolverhampton Wanderers	1:0	2:0	20.03.1979	00:00	1978	1979	21
+Birmingham City	Ipswich Town	0:1	1:1	03.04.1979	00:00	1978	1979	21
+West Bromwich Albion	Southampton FC	0:0	1:0	08.05.1979	00:00	1978	1979	21
+Ipswich Town	Norwich City	0:1	1:1	26.12.1978	00:00	1978	1979	22
+Queens Park Rangers	Tottenham Hotspur	1:1	2:2	26.12.1978	00:00	1978	1979	22
+Wolverhampton Wanderers	Birmingham City	1:0	2:1	26.12.1978	00:00	1978	1979	22
+Southampton FC	Chelsea FC	0:0	0:0	26.12.1978	00:00	1978	1979	22
+Manchester United	Liverpool FC	0:2	0:3	26.12.1978	00:00	1978	1979	22
+Everton FC	Manchester City	0:0	1:0	26.12.1978	00:00	1978	1979	22
+Aston Villa	Leeds United	2:0	2:2	26.12.1978	00:00	1978	1979	22
+Arsenal FC	West Bromwich Albion	0:2	1:2	26.12.1978	00:00	1978	1979	22
+Bristol City	Coventry City	2:0	5:0	26.12.1978	00:00	1978	1979	22
+Middlesbrough FC	Bolton Wanderers	0:1	1:1	26.12.1978	00:00	1978	1979	22
+Nottingham Forest	Derby County	0:1	1:1	26.12.1978	00:00	1978	1979	22
+Queens Park Rangers	Leeds United	0:1	1:4	30.12.1978	00:00	1978	1979	23
+Wolverhampton Wanderers	Coventry City	1:0	1:1	30.12.1978	00:00	1978	1979	23
+Manchester United	West Bromwich Albion	3:3	3:5	30.12.1978	00:00	1978	1979	23
+Ipswich Town	Chelsea FC	3:0	5:1	30.12.1978	00:00	1978	1979	23
+Everton FC	Tottenham Hotspur	1:1	1:1	30.12.1978	00:00	1978	1979	23
+Arsenal FC	Birmingham City	1:1	3:1	30.12.1978	00:00	1978	1979	23
+Bristol City	Manchester City	1:0	1:1	30.12.1978	00:00	1978	1979	23
+Aston Villa	Bolton Wanderers	3:0	3:0	07.03.1979	00:00	1978	1979	23
+Middlesbrough FC	Derby County	1:0	3:1	13.03.1979	00:00	1978	1979	23
+Nottingham Forest	Norwich City	0:0	2:1	14.03.1979	00:00	1978	1979	23
+Southampton FC	Liverpool FC	0:1	1:1	24.04.1979	00:00	1978	1979	23
+West Bromwich Albion	Bristol City	2:1	3:1	01.01.1979	00:00	1978	1979	24
+Derby County	Ipswich Town	0:0	0:1	28.02.1979	00:00	1978	1979	24
+Norwich City	Wolverhampton Wanderers	0:0	0:0	07.03.1979	00:00	1978	1979	24
+Coventry City	Manchester United	3:1	4:3	20.03.1979	00:00	1978	1979	24
+Tottenham Hotspur	Southampton FC	0:0	0:0	28.03.1979	00:00	1978	1979	24
+Bolton Wanderers	Everton FC	1:1	3:1	03.04.1979	00:00	1978	1979	24
+Manchester City	Middlesbrough FC	0:0	1:0	24.04.1979	00:00	1978	1979	24
+Queens Park Rangers	Birmingham City	1:1	1:3	07.05.1979	00:00	1978	1979	24
+Liverpool FC	Aston Villa	2:0	3:0	08.05.1979	00:00	1978	1979	24
+Chelsea FC	Arsenal FC	1:0	1:1	14.05.1979	00:00	1978	1979	24
+Leeds United	Nottingham Forest	0:1	1:2	15.05.1979	00:00	1978	1979	24
+Norwich City	West Bromwich Albion	0:1	1:1	13.01.1979	00:00	1978	1979	25
+Leeds United	Manchester City	1:0	1:1	13.01.1979	00:00	1978	1979	25
+Arsenal FC	Nottingham Forest	0:1	2:1	13.01.1979	00:00	1978	1979	25
+Bristol City	Tottenham Hotspur	0:0	0:0	13.01.1979	00:00	1978	1979	25
+Wolverhampton Wanderers	Southampton FC	2:0	2:0	17.01.1979	00:00	1978	1979	25
+Liverpool FC	Birmingham City	1:0	1:0	13.02.1979	00:00	1978	1979	25
+Chelsea FC	Coventry City	1:3	1:3	21.02.1979	00:00	1978	1979	25
+Manchester United	Queens Park Rangers	1:0	2:0	28.02.1979	00:00	1978	1979	25
+Middlesbrough FC	Everton FC	0:1	1:2	06.03.1979	00:00	1978	1979	25
+Derby County	Bolton Wanderers	2:0	3:0	21.03.1979	00:00	1978	1979	25
+Aston Villa	Ipswich Town	2:1	2:2	02.05.1979	00:00	1978	1979	25
+Queens Park Rangers	Middlesbrough FC	0:0	1:1	20.01.1979	00:00	1978	1979	26
+Ipswich Town	Wolverhampton Wanderers	2:1	3:1	20.01.1979	00:00	1978	1979	26
+Manchester City	Chelsea FC	2:1	2:3	20.01.1979	00:00	1978	1979	26
+Tottenham Hotspur	Leeds United	0:1	1:2	20.01.1979	00:00	1978	1979	26
+Everton FC	Aston Villa	0:0	1:1	31.01.1979	00:00	1978	1979	26
+Southampton FC	Bristol City	2:0	2:0	20.02.1979	00:00	1978	1979	26
+Coventry City	Liverpool FC	0:0	0:0	06.03.1979	00:00	1978	1979	26
+Bolton Wanderers	Arsenal FC	2:1	4:2	26.03.1979	00:00	1978	1979	26
+West Bromwich Albion	Derby County	0:1	2:1	26.03.1979	00:00	1978	1979	26
+Birmingham City	Norwich City	1:0	1:0	27.03.1979	00:00	1978	1979	26
+Nottingham Forest	Manchester United	0:0	1:1	18.04.1979	00:00	1978	1979	26
+Liverpool FC	West Bromwich Albion	1:0	2:1	03.02.1979	00:00	1978	1979	27
+Southampton FC	Derby County	1:1	1:2	03.02.1979	00:00	1978	1979	27
+Norwich City	Bolton Wanderers	0:0	0:0	03.02.1979	00:00	1978	1979	27
+Middlesbrough FC	Nottingham Forest	1:1	1:3	03.02.1979	00:00	1978	1979	27
+Leeds United	Coventry City	1:0	1:0	03.02.1979	00:00	1978	1979	27
+Chelsea FC	Birmingham City	1:0	2:1	03.02.1979	00:00	1978	1979	27
+Manchester United	Arsenal FC	0:0	0:2	03.02.1979	00:00	1978	1979	27
+Tottenham Hotspur	Manchester City	0:2	0:3	03.02.1979	00:00	1978	1979	27
+Wolverhampton Wanderers	Everton FC	1:0	1:0	03.02.1979	00:00	1978	1979	27
+Bristol City	Ipswich Town	2:0	3:1	03.02.1979	00:00	1978	1979	27
+Aston Villa	Queens Park Rangers	1:0	3:1	20.03.1979	00:00	1978	1979	27
+Queens Park Rangers	Wolverhampton Wanderers	0:1	3:3	10.02.1979	00:00	1978	1979	28
+Manchester City	Manchester United	0:2	0:3	10.02.1979	00:00	1978	1979	28
+Derby County	Norwich City	0:0	1:1	10.02.1979	00:00	1978	1979	28
+Coventry City	Tottenham Hotspur	1:2	1:3	10.02.1979	00:00	1978	1979	28
+Birmingham City	Leeds United	0:1	0:1	10.02.1979	00:00	1978	1979	28
+Arsenal FC	Middlesbrough FC	0:0	0:0	10.02.1979	00:00	1978	1979	28
+Ipswich Town	Southampton FC	0:0	0:0	10.02.1979	00:00	1978	1979	28
+Everton FC	Bristol City	1:1	4:1	10.02.1979	00:00	1978	1979	28
+West Bromwich Albion	Chelsea FC	0:0	1:0	14.03.1979	00:00	1978	1979	28
+Nottingham Forest	Aston Villa	1:0	4:0	04.04.1979	00:00	1978	1979	28
+Bolton Wanderers	Liverpool FC	0:1	1:4	01.05.1979	00:00	1978	1979	28
+Southampton FC	Everton FC	1:0	3:0	17.02.1979	00:00	1978	1979	29
+Liverpool FC	Norwich City	1:0	6:0	21.02.1979	00:00	1978	1979	29
+Ipswich Town	Coventry City	1:0	1:1	13.03.1979	00:00	1978	1979	29
+Middlesbrough FC	Manchester United	2:0	2:2	27.03.1979	00:00	1978	1979	29
+Bristol City	Queens Park Rangers	0:0	2:0	03.04.1979	00:00	1978	1979	29
+Chelsea FC	Derby County	0:0	1:1	04.04.1979	00:00	1978	1979	29
+Leeds United	Bolton Wanderers	2:0	5:1	25.04.1979	00:00	1978	1979	29
+Aston Villa	Arsenal FC	0:1	5:1	25.04.1979	00:00	1978	1979	29
+Wolverhampton Wanderers	Nottingham Forest	0:0	1:0	30.04.1979	00:00	1978	1979	29
+Manchester City	Birmingham City	1:1	3:1	01.05.1979	00:00	1978	1979	29
+Tottenham Hotspur	West Bromwich Albion	1:0	1:0	14.05.1979	00:00	1978	1979	29
+Manchester United	Aston Villa	0:0	1:1	24.02.1979	00:00	1978	1979	30
+Nottingham Forest	Bristol City	2:0	2:0	24.02.1979	00:00	1978	1979	30
+Bolton Wanderers	Chelsea FC	1:1	2:1	24.02.1979	00:00	1978	1979	30
+West Bromwich Albion	Leeds United	1:2	1:2	24.02.1979	00:00	1978	1979	30
+Norwich City	Middlesbrough FC	0:0	1:0	24.02.1979	00:00	1978	1979	30
+Derby County	Liverpool FC	0:1	0:2	24.02.1979	00:00	1978	1979	30
+Queens Park Rangers	Southampton FC	0:1	0:1	24.02.1979	00:00	1978	1979	30
+Coventry City	Manchester City	0:1	0:3	24.02.1979	00:00	1978	1979	30
+Birmingham City	Tottenham Hotspur	1:0	1:0	24.02.1979	00:00	1978	1979	30
+Arsenal FC	Wolverhampton Wanderers	0:1	0:1	24.02.1979	00:00	1978	1979	30
+Everton FC	Ipswich Town	0:1	0:1	24.02.1979	00:00	1978	1979	30
+Aston Villa	Birmingham City	0:0	1:0	03.03.1979	00:00	1978	1979	31
+Ipswich Town	Nottingham Forest	0:1	1:1	03.03.1979	00:00	1978	1979	31
+Coventry City	West Bromwich Albion	0:1	1:3	03.03.1979	00:00	1978	1979	31
+Manchester City	Bolton Wanderers	1:0	2:1	03.03.1979	00:00	1978	1979	31
+Wolverhampton Wanderers	Middlesbrough FC	1:1	1:3	03.03.1979	00:00	1978	1979	31
+Tottenham Hotspur	Derby County	1:0	2:0	03.03.1979	00:00	1978	1979	31
+Leeds United	Norwich City	1:0	2:2	03.03.1979	00:00	1978	1979	31
+Chelsea FC	Liverpool FC	0:0	0:0	03.03.1979	00:00	1978	1979	31
+Bristol City	Manchester United	1:0	1:2	03.03.1979	00:00	1978	1979	31
+Everton FC	Queens Park Rangers	2:0	2:1	03.03.1979	00:00	1978	1979	31
+Southampton FC	Arsenal FC	1:0	2:0	03.03.1979	00:00	1978	1979	31
+Middlesbrough FC	Aston Villa	0:0	2:0	10.03.1979	00:00	1978	1979	32
+Norwich City	Chelsea FC	1:0	2:0	10.03.1979	00:00	1978	1979	32
+Derby County	Leeds United	0:0	0:1	10.03.1979	00:00	1978	1979	32
+Arsenal FC	Bristol City	2:0	2:0	10.03.1979	00:00	1978	1979	32
+Birmingham City	Coventry City	0:0	0:0	10.03.1979	00:00	1978	1979	32
+Liverpool FC	Everton FC	1:0	1:1	13.03.1979	00:00	1978	1979	32
+West Bromwich Albion	Manchester City	2:0	4:0	04.04.1979	00:00	1978	1979	32
+Nottingham Forest	Southampton FC	0:0	1:0	02.05.1979	00:00	1978	1979	32
+Manchester United	Wolverhampton Wanderers	2:1	3:2	07.05.1979	00:00	1978	1979	32
+Bolton Wanderers	Tottenham Hotspur	1:1	1:3	08.05.1979	00:00	1978	1979	32
+Queens Park Rangers	Ipswich Town	0:2	0:4	11.05.1979	00:00	1978	1979	32
+Everton FC	Nottingham Forest	1:1	1:1	10.03.1979	00:00	1978	1979	33
+Coventry City	Bolton Wanderers	2:2	2:2	17.03.1979	00:00	1978	1979	33
+Bristol City	Middlesbrough FC	0:0	1:1	17.03.1979	00:00	1978	1979	33
+Chelsea FC	Queens Park Rangers	1:1	1:3	17.03.1979	00:00	1978	1979	33
+Ipswich Town	Arsenal FC	1:0	2:0	17.03.1979	00:00	1978	1979	33
+Tottenham Hotspur	Norwich City	0:0	0:0	17.03.1979	00:00	1978	1979	33
+Birmingham City	West Bromwich Albion	0:0	1:1	24.04.1979	00:00	1978	1979	33
+Wolverhampton Wanderers	Derby County	2:0	4:0	24.04.1979	00:00	1978	1979	33
+Southampton FC	Manchester United	1:1	1:1	30.04.1979	00:00	1978	1979	33
+Manchester City	Aston Villa	1:0	2:3	15.05.1979	00:00	1978	1979	33
+Leeds United	Liverpool FC	0:2	0:3	17.05.1979	00:00	1978	1979	33
+Nottingham Forest	Coventry City	1:0	3:0	24.03.1979	00:00	1978	1979	34
+West Bromwich Albion	Queens Park Rangers	1:0	2:1	24.03.1979	00:00	1978	1979	34
+Aston Villa	Tottenham Hotspur	2:0	2:3	24.03.1979	00:00	1978	1979	34
+Bolton Wanderers	Southampton FC	0:0	2:0	24.03.1979	00:00	1978	1979	34
+Manchester United	Leeds United	3:0	4:1	24.03.1979	00:00	1978	1979	34
+Liverpool FC	Ipswich Town	1:0	2:0	24.03.1979	00:00	1978	1979	34
+Arsenal FC	Manchester City	0:1	1:1	24.03.1979	00:00	1978	1979	34
+Chelsea FC	Wolverhampton Wanderers	0:0	1:2	24.03.1979	00:00	1978	1979	34
+Derby County	Everton FC	0:0	0:0	24.03.1979	00:00	1978	1979	34
+Middlesbrough FC	Birmingham City	2:1	2:1	24.03.1979	00:00	1978	1979	34
+Norwich City	Bristol City	3:0	3:0	24.03.1979	00:00	1978	1979	34
+Everton FC	Norwich City	0:1	2:2	30.03.1979	00:00	1978	1979	35
+Southampton FC	Leeds United	0:1	2:2	31.03.1979	00:00	1978	1979	35
+Nottingham Forest	Bolton Wanderers	0:1	1:1	31.03.1979	00:00	1978	1979	35
+Ipswich Town	Manchester City	2:0	2:1	31.03.1979	00:00	1978	1979	35
+Bristol City	Birmingham City	1:0	2:1	31.03.1979	00:00	1978	1979	35
+Queens Park Rangers	Derby County	2:1	2:2	31.03.1979	00:00	1978	1979	35
+Wolverhampton Wanderers	Tottenham Hotspur	1:1	3:2	03.04.1979	00:00	1978	1979	35
+Arsenal FC	Coventry City	0:1	1:1	03.04.1979	00:00	1978	1979	35
+Aston Villa	West Bromwich Albion	0:1	0:1	11.05.1979	00:00	1978	1979	35
+Middlesbrough FC	Liverpool FC	0:0	0:1	11.05.1979	00:00	1978	1979	35
+Manchester United	Chelsea FC	1:1	1:1	16.05.1979	00:00	1978	1979	35
+West Bromwich Albion	Everton FC	0:0	1:0	07.04.1979	00:00	1978	1979	36
+Coventry City	Aston Villa	1:0	1:1	07.04.1979	00:00	1978	1979	36
+Norwich City	Manchester United	0:0	2:2	07.04.1979	00:00	1978	1979	36
+Manchester City	Wolverhampton Wanderers	1:0	3:1	07.04.1979	00:00	1978	1979	36
+Bolton Wanderers	Queens Park Rangers	1:1	2:1	07.04.1979	00:00	1978	1979	36
+Tottenham Hotspur	Middlesbrough FC	1:1	1:2	07.04.1979	00:00	1978	1979	36
+Liverpool FC	Arsenal FC	0:0	3:0	07.04.1979	00:00	1978	1979	36
+Leeds United	Ipswich Town	1:0	1:1	07.04.1979	00:00	1978	1979	36
+Chelsea FC	Nottingham Forest	0:2	1:3	07.04.1979	00:00	1978	1979	36
+Birmingham City	Southampton FC	1:0	2:2	07.04.1979	00:00	1978	1979	36
+Derby County	Bristol City	0:0	0:1	07.04.1979	00:00	1978	1979	36
+Wolverhampton Wanderers	Liverpool FC	0:1	0:1	10.04.1979	00:00	1978	1979	37
+Arsenal FC	Tottenham Hotspur	0:0	1:0	10.04.1979	00:00	1978	1979	37
+Bristol City	Chelsea FC	0:0	3:1	10.04.1979	00:00	1978	1979	37
+Middlesbrough FC	Leeds United	1:0	1:0	10.04.1979	00:00	1978	1979	37
+Everton FC	Coventry City	1:3	3:3	10.04.1979	00:00	1978	1979	37
+Aston Villa	Derby County	1:2	3:3	11.04.1979	00:00	1978	1979	37
+Manchester United	Bolton Wanderers	1:0	1:2	11.04.1979	00:00	1978	1979	37
+Southampton FC	West Bromwich Albion	0:0	1:1	13.04.1979	00:00	1978	1979	37
+Queens Park Rangers	Norwich City	0:0	0:0	13.04.1979	00:00	1978	1979	37
+Ipswich Town	Birmingham City	2:0	3:0	17.04.1979	00:00	1978	1979	37
+Nottingham Forest	Manchester City	1:0	3:1	09.05.1979	00:00	1978	1979	37
+Leeds United	Aston Villa	1:0	1:0	14.04.1979	00:00	1978	1979	38
+Liverpool FC	Manchester United	1:0	2:0	14.04.1979	00:00	1978	1979	38
+Bolton Wanderers	Middlesbrough FC	0:0	0:0	14.04.1979	00:00	1978	1979	38
+Birmingham City	Wolverhampton Wanderers	1:1	1:1	14.04.1979	00:00	1978	1979	38
+Chelsea FC	Southampton FC	0:2	1:2	14.04.1979	00:00	1978	1979	38
+West Bromwich Albion	Arsenal FC	0:1	1:1	14.04.1979	00:00	1978	1979	38
+Derby County	Nottingham Forest	1:2	1:2	14.04.1979	00:00	1978	1979	38
+Manchester City	Everton FC	0:0	0:0	14.04.1979	00:00	1978	1979	38
+Norwich City	Ipswich Town	0:0	0:1	14.04.1979	00:00	1978	1979	38
+Tottenham Hotspur	Queens Park Rangers	1:1	1:1	14.04.1979	00:00	1978	1979	38
+Coventry City	Bristol City	3:0	3:2	14.04.1979	00:00	1978	1979	38
+Birmingham City	Queens Park Rangers	0:0	3:1	06.03.1979	00:00	1978	1979	39
+Nottingham Forest	Leeds United	0:0	0:0	16.04.1979	00:00	1978	1979	39
+Aston Villa	Liverpool FC	2:0	3:1	16.04.1979	00:00	1978	1979	39
+Manchester United	Coventry City	0:0	0:0	16.04.1979	00:00	1978	1979	39
+Southampton FC	Tottenham Hotspur	3:0	3:3	16.04.1979	00:00	1978	1979	39
+Everton FC	Bolton Wanderers	1:0	1:0	16.04.1979	00:00	1978	1979	39
+Arsenal FC	Chelsea FC	2:0	5:2	16.04.1979	00:00	1978	1979	39
+Ipswich Town	Derby County	2:1	2:1	16.04.1979	00:00	1978	1979	39
+Wolverhampton Wanderers	Norwich City	1:0	1:0	16.04.1979	00:00	1978	1979	39
+Bristol City	West Bromwich Albion	0:0	1:0	17.04.1979	00:00	1978	1979	39
+Middlesbrough FC	Manchester City	1:0	2:0	17.04.1979	00:00	1978	1979	39
+West Bromwich Albion	Wolverhampton Wanderers	0:0	1:1	21.04.1979	00:00	1978	1979	40
+Birmingham City	Nottingham Forest	0:1	0:2	21.04.1979	00:00	1978	1979	40
+Liverpool FC	Bristol City	1:0	1:0	21.04.1979	00:00	1978	1979	40
+Norwich City	Aston Villa	1:1	1:2	21.04.1979	00:00	1978	1979	40
+Manchester City	Queens Park Rangers	1:1	3:1	21.04.1979	00:00	1978	1979	40
+Tottenham Hotspur	Manchester United	0:1	1:1	21.04.1979	00:00	1978	1979	40
+Bolton Wanderers	Ipswich Town	1:2	2:3	21.04.1979	00:00	1978	1979	40
+Chelsea FC	Middlesbrough FC	1:0	2:1	21.04.1979	00:00	1978	1979	40
+Derby County	Arsenal FC	2:0	2:0	21.04.1979	00:00	1978	1979	40
+Leeds United	Everton FC	0:0	1:0	21.04.1979	00:00	1978	1979	40
+Coventry City	Southampton FC	1:0	4:0	21.04.1979	00:00	1978	1979	40
+Aston Villa	Chelsea FC	0:1	2:1	28.04.1979	00:00	1978	1979	41
+Nottingham Forest	Liverpool FC	0:0	0:0	28.04.1979	00:00	1978	1979	41
+Southampton FC	Manchester City	0:0	1:0	28.04.1979	00:00	1978	1979	41
+Wolverhampton Wanderers	Bolton Wanderers	0:0	1:1	28.04.1979	00:00	1978	1979	41
+Ipswich Town	Tottenham Hotspur	2:0	2:1	28.04.1979	00:00	1978	1979	41
+Everton FC	Birmingham City	0:0	1:0	28.04.1979	00:00	1978	1979	41
+Arsenal FC	Norwich City	0:0	1:1	28.04.1979	00:00	1978	1979	41
+Middlesbrough FC	West Bromwich Albion	1:0	1:1	28.04.1979	00:00	1978	1979	41
+Bristol City	Leeds United	0:0	0:0	28.04.1979	00:00	1978	1979	41
+Manchester United	Derby County	0:0	0:0	28.04.1979	00:00	1978	1979	41
+Queens Park Rangers	Coventry City	1:1	5:1	28.04.1979	00:00	1978	1979	41
+Leeds United	Queens Park Rangers	1:2	4:3	04.05.1979	00:00	1978	1979	42
+Bolton Wanderers	Aston Villa	0:0	0:0	05.05.1979	00:00	1978	1979	42
+Liverpool FC	Southampton FC	1:0	2:0	05.05.1979	00:00	1978	1979	42
+Chelsea FC	Ipswich Town	2:3	2:3	05.05.1979	00:00	1978	1979	42
+West Bromwich Albion	Manchester United	1:0	1:0	05.05.1979	00:00	1978	1979	42
+Birmingham City	Arsenal FC	0:0	0:0	05.05.1979	00:00	1978	1979	42
+Coventry City	Wolverhampton Wanderers	2:0	3:0	05.05.1979	00:00	1978	1979	42
+Derby County	Middlesbrough FC	0:2	0:3	05.05.1979	00:00	1978	1979	42
+Manchester City	Bristol City	1:0	2:0	05.05.1979	00:00	1978	1979	42
+Norwich City	Nottingham Forest	1:0	1:1	05.05.1979	00:00	1978	1979	42
+Tottenham Hotspur	Everton FC	1:1	1:1	05.05.1979	00:00	1978	1979	42

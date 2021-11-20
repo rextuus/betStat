@@ -1,0 +1,462 @@
+Arsenal FC	Queens Park Rangers	0:1	1:1	17.08.1991	00:00	1991	1992	1
+Southampton FC	Tottenham Hotspur	1:1	2:3	17.08.1991	00:00	1991	1992	1
+Sheffield Wednesday	Aston Villa	2:1	2:3	17.08.1991	00:00	1991	1992	1
+Nottingham Forest	Everton FC	0:1	2:1	17.08.1991	00:00	1991	1992	1
+Norwich City	Sheffield United	0:1	2:2	17.08.1991	00:00	1991	1992	1
+Manchester United	Notts County	1:0	2:0	17.08.1991	00:00	1991	1992	1
+Liverpool FC	Oldham Athletic	0:1	2:1	17.08.1991	00:00	1991	1992	1
+Coventry City	Manchester City	0:1	0:1	17.08.1991	00:00	1991	1992	1
+Chelsea FC	Wimbledon FC	1:1	2:2	17.08.1991	00:00	1991	1992	1
+West Ham United	Luton Town	0:0	0:0	17.08.1991	00:00	1991	1992	1
+Crystal Palace	Leeds United	0:0	1:0	01.10.1991	00:00	1991	1992	1
+Everton FC	Arsenal FC	1:0	3:1	20.08.1991	00:00	1991	1992	2
+Leeds United	Nottingham Forest	1:0	1:0	20.08.1991	00:00	1991	1992	2
+Notts County	Southampton FC	1:0	1:0	20.08.1991	00:00	1991	1992	2
+Sheffield United	West Ham United	0:0	1:1	20.08.1991	00:00	1991	1992	2
+Queens Park Rangers	Norwich City	0:1	0:2	21.08.1991	00:00	1991	1992	2
+Oldham Athletic	Chelsea FC	2:0	3:0	21.08.1991	00:00	1991	1992	2
+Manchester City	Liverpool FC	1:0	2:1	21.08.1991	00:00	1991	1992	2
+Coventry City	Luton Town	3:0	5:0	21.08.1991	00:00	1991	1992	2
+Aston Villa	Manchester United	0:1	0:1	21.08.1991	00:00	1991	1992	2
+Wimbledon FC	Sheffield Wednesday	0:0	2:1	02.10.1991	00:00	1991	1992	2
+Tottenham Hotspur	Crystal Palace	0:0	0:1	16.02.1992	00:00	1991	1992	2
+Leeds United	Sheffield Wednesday	0:1	1:1	24.08.1991	00:00	1991	1992	3
+Aston Villa	Arsenal FC	1:1	3:1	24.08.1991	00:00	1991	1992	3
+Wimbledon FC	West Ham United	1:0	2:0	24.08.1991	00:00	1991	1992	3
+Tottenham Hotspur	Chelsea FC	0:2	1:3	24.08.1991	00:00	1991	1992	3
+Sheffield United	Southampton FC	0:1	0:2	24.08.1991	00:00	1991	1992	3
+Queens Park Rangers	Coventry City	0:0	1:1	24.08.1991	00:00	1991	1992	3
+Oldham Athletic	Norwich City	2:1	2:2	24.08.1991	00:00	1991	1992	3
+Notts County	Nottingham Forest	0:0	0:4	24.08.1991	00:00	1991	1992	3
+Manchester City	Crystal Palace	2:1	3:2	24.08.1991	00:00	1991	1992	3
+Luton Town	Liverpool FC	0:0	0:0	24.08.1991	00:00	1991	1992	3
+Everton FC	Manchester United	0:0	0:0	24.08.1991	00:00	1991	1992	3
+Crystal Palace	Wimbledon FC	2:1	3:2	27.08.1991	00:00	1991	1992	4
+Arsenal FC	Luton Town	1:0	2:0	27.08.1991	00:00	1991	1992	4
+Liverpool FC	Queens Park Rangers	0:0	1:0	27.08.1991	00:00	1991	1992	4
+Sheffield Wednesday	Everton FC	0:0	2:1	28.08.1991	00:00	1991	1992	4
+West Ham United	Aston Villa	0:0	3:1	28.08.1991	00:00	1991	1992	4
+Southampton FC	Leeds United	0:1	0:4	28.08.1991	00:00	1991	1992	4
+Nottingham Forest	Tottenham Hotspur	1:1	1:3	28.08.1991	00:00	1991	1992	4
+Norwich City	Manchester City	0:0	0:0	28.08.1991	00:00	1991	1992	4
+Manchester United	Oldham Athletic	0:0	1:0	28.08.1991	00:00	1991	1992	4
+Coventry City	Sheffield United	3:1	3:1	28.08.1991	00:00	1991	1992	4
+Chelsea FC	Notts County	0:1	2:2	28.08.1991	00:00	1991	1992	4
+Sheffield Wednesday	Queens Park Rangers	3:0	4:1	31.08.1991	00:00	1991	1992	5
+Arsenal FC	Manchester City	0:1	2:1	31.08.1991	00:00	1991	1992	5
+West Ham United	Notts County	0:0	0:2	31.08.1991	00:00	1991	1992	5
+Southampton FC	Aston Villa	1:1	1:1	31.08.1991	00:00	1991	1992	5
+Nottingham Forest	Oldham Athletic	2:0	3:1	31.08.1991	00:00	1991	1992	5
+Norwich City	Tottenham Hotspur	0:1	0:1	31.08.1991	00:00	1991	1992	5
+Manchester United	Leeds United	0:1	1:1	31.08.1991	00:00	1991	1992	5
+Liverpool FC	Everton FC	2:0	3:1	31.08.1991	00:00	1991	1992	5
+Crystal Palace	Sheffield United	0:0	2:1	31.08.1991	00:00	1991	1992	5
+Coventry City	Wimbledon FC	0:1	0:1	31.08.1991	00:00	1991	1992	5
+Chelsea FC	Luton Town	3:0	4:1	31.08.1991	00:00	1991	1992	5
+Notts County	Sheffield Wednesday	1:1	2:1	03.09.1991	00:00	1991	1992	6
+Everton FC	Norwich City	0:0	1:1	03.09.1991	00:00	1991	1992	6
+Leeds United	Arsenal FC	0:1	2:2	03.09.1991	00:00	1991	1992	6
+Oldham Athletic	Coventry City	1:0	2:1	03.09.1991	00:00	1991	1992	6
+Sheffield United	Chelsea FC	0:0	0:1	03.09.1991	00:00	1991	1992	6
+Wimbledon FC	Manchester United	0:2	1:2	03.09.1991	00:00	1991	1992	6
+Queens Park Rangers	West Ham United	0:0	0:0	04.09.1991	00:00	1991	1992	6
+Manchester City	Nottingham Forest	1:0	2:1	04.09.1991	00:00	1991	1992	6
+Luton Town	Southampton FC	2:1	2:1	04.09.1991	00:00	1991	1992	6
+Aston Villa	Crystal Palace	0:1	0:1	04.09.1991	00:00	1991	1992	6
+Tottenham Hotspur	Liverpool FC	1:1	1:2	18.12.1991	00:00	1991	1992	6
+Leeds United	Manchester City	2:0	3:0	07.09.1991	00:00	1991	1992	7
+Notts County	Liverpool FC	1:0	1:2	07.09.1991	00:00	1991	1992	7
+Arsenal FC	Coventry City	0:1	1:2	07.09.1991	00:00	1991	1992	7
+Wimbledon FC	Luton Town	1:0	3:0	07.09.1991	00:00	1991	1992	7
+West Ham United	Chelsea FC	0:0	1:1	07.09.1991	00:00	1991	1992	7
+Sheffield Wednesday	Nottingham Forest	1:0	2:1	07.09.1991	00:00	1991	1992	7
+Queens Park Rangers	Southampton FC	0:1	2:2	07.09.1991	00:00	1991	1992	7
+Oldham Athletic	Sheffield United	2:0	2:1	07.09.1991	00:00	1991	1992	7
+Manchester United	Norwich City	3:0	3:0	07.09.1991	00:00	1991	1992	7
+Everton FC	Crystal Palace	0:1	2:2	07.09.1991	00:00	1991	1992	7
+Aston Villa	Tottenham Hotspur	0:0	0:0	07.09.1991	00:00	1991	1992	7
+Liverpool FC	Aston Villa	1:1	1:1	14.09.1991	00:00	1991	1992	8
+Manchester City	Sheffield Wednesday	0:0	0:1	14.09.1991	00:00	1991	1992	8
+Chelsea FC	Leeds United	0:0	0:1	14.09.1991	00:00	1991	1992	8
+Tottenham Hotspur	Queens Park Rangers	0:0	2:0	14.09.1991	00:00	1991	1992	8
+Southampton FC	Manchester United	0:0	0:1	14.09.1991	00:00	1991	1992	8
+Sheffield United	Everton FC	0:1	2:1	14.09.1991	00:00	1991	1992	8
+Nottingham Forest	Wimbledon FC	2:1	4:2	14.09.1991	00:00	1991	1992	8
+Norwich City	West Ham United	2:1	2:1	14.09.1991	00:00	1991	1992	8
+Luton Town	Oldham Athletic	0:0	2:1	14.09.1991	00:00	1991	1992	8
+Crystal Palace	Arsenal FC	0:1	1:4	14.09.1991	00:00	1991	1992	8
+Coventry City	Notts County	0:0	1:0	14.09.1991	00:00	1991	1992	8
+Crystal Palace	West Ham United	1:0	2:3	17.09.1991	00:00	1991	1992	9
+Luton Town	Queens Park Rangers	0:0	0:1	17.09.1991	00:00	1991	1992	9
+Manchester City	Everton FC	0:0	0:1	17.09.1991	00:00	1991	1992	9
+Sheffield United	Notts County	0:0	1:3	17.09.1991	00:00	1991	1992	9
+Southampton FC	Wimbledon FC	0:0	1:0	18.09.1991	00:00	1991	1992	9
+Norwich City	Sheffield Wednesday	1:0	1:0	18.09.1991	00:00	1991	1992	9
+Coventry City	Leeds United	0:0	0:0	18.09.1991	00:00	1991	1992	9
+Chelsea FC	Aston Villa	1:0	2:0	18.09.1991	00:00	1991	1992	9
+Tottenham Hotspur	Oldham Athletic	0:0	0:0	25.01.1992	00:00	1991	1992	9
+Liverpool FC	Arsenal FC	1:0	2:0	29.01.1992	00:00	1991	1992	9
+Nottingham Forest	Manchester United	0:0	1:0	18.03.1992	00:00	1991	1992	9
+Wimbledon FC	Tottenham Hotspur	1:3	3:5	21.09.1991	00:00	1991	1992	10
+Leeds United	Liverpool FC	1:0	1:0	21.09.1991	00:00	1991	1992	10
+Arsenal FC	Sheffield United	4:0	5:2	21.09.1991	00:00	1991	1992	10
+Aston Villa	Nottingham Forest	0:1	3:1	21.09.1991	00:00	1991	1992	10
+Manchester United	Luton Town	1:0	5:0	21.09.1991	00:00	1991	1992	10
+Oldham Athletic	Crystal Palace	1:1	2:3	21.09.1991	00:00	1991	1992	10
+Sheffield Wednesday	Southampton FC	1:0	2:0	21.09.1991	00:00	1991	1992	10
+Everton FC	Coventry City	1:0	3:0	21.09.1991	00:00	1991	1992	10
+Notts County	Norwich City	1:0	2:2	21.09.1991	00:00	1991	1992	10
+Queens Park Rangers	Chelsea FC	1:0	2:2	21.09.1991	00:00	1991	1992	10
+West Ham United	Manchester City	0:0	1:2	21.09.1991	00:00	1991	1992	10
+Liverpool FC	Sheffield Wednesday	1:0	1:1	28.09.1991	00:00	1991	1992	11
+Nottingham Forest	West Ham United	1:2	2:2	28.09.1991	00:00	1991	1992	11
+Southampton FC	Arsenal FC	0:1	0:4	28.09.1991	00:00	1991	1992	11
+Tottenham Hotspur	Manchester United	1:1	1:2	28.09.1991	00:00	1991	1992	11
+Chelsea FC	Everton FC	0:1	2:2	28.09.1991	00:00	1991	1992	11
+Sheffield United	Wimbledon FC	0:0	0:0	28.09.1991	00:00	1991	1992	11
+Norwich City	Leeds United	0:0	2:2	28.09.1991	00:00	1991	1992	11
+Manchester City	Oldham Athletic	1:0	1:2	28.09.1991	00:00	1991	1992	11
+Luton Town	Notts County	0:0	1:1	28.09.1991	00:00	1991	1992	11
+Crystal Palace	Queens Park Rangers	0:1	2:2	28.09.1991	00:00	1991	1992	11
+Coventry City	Aston Villa	1:0	1:0	28.09.1991	00:00	1991	1992	11
+Arsenal FC	Chelsea FC	1:2	3:2	05.10.1991	00:00	1991	1992	12
+Queens Park Rangers	Nottingham Forest	0:1	0:2	05.10.1991	00:00	1991	1992	12
+Aston Villa	Luton Town	1:0	4:0	05.10.1991	00:00	1991	1992	12
+Wimbledon FC	Norwich City	1:0	3:1	05.10.1991	00:00	1991	1992	12
+West Ham United	Coventry City	0:0	0:1	05.10.1991	00:00	1991	1992	12
+Sheffield Wednesday	Crystal Palace	3:1	4:1	05.10.1991	00:00	1991	1992	12
+Oldham Athletic	Southampton FC	0:1	1:1	05.10.1991	00:00	1991	1992	12
+Leeds United	Sheffield United	4:0	4:3	05.10.1991	00:00	1991	1992	12
+Everton FC	Tottenham Hotspur	3:1	3:1	05.10.1991	00:00	1991	1992	12
+Manchester United	Liverpool FC	0:0	0:0	06.10.1991	00:00	1991	1992	12
+Notts County	Manchester City	0:0	1:3	06.10.1991	00:00	1991	1992	12
+Manchester United	Arsenal FC	1:1	1:1	19.10.1991	00:00	1991	1992	13
+Sheffield United	Nottingham Forest	3:1	4:2	19.10.1991	00:00	1991	1992	13
+Chelsea FC	Liverpool FC	1:1	2:2	19.10.1991	00:00	1991	1992	13
+Wimbledon FC	Queens Park Rangers	0:0	0:1	19.10.1991	00:00	1991	1992	13
+Tottenham Hotspur	Manchester City	0:0	0:1	19.10.1991	00:00	1991	1992	13
+Southampton FC	Norwich City	0:0	0:0	19.10.1991	00:00	1991	1992	13
+Oldham Athletic	West Ham United	2:1	2:2	19.10.1991	00:00	1991	1992	13
+Notts County	Leeds United	1:2	2:4	19.10.1991	00:00	1991	1992	13
+Luton Town	Sheffield Wednesday	1:1	2:2	19.10.1991	00:00	1991	1992	13
+Everton FC	Aston Villa	0:1	0:2	19.10.1991	00:00	1991	1992	13
+Coventry City	Crystal Palace	0:1	1:2	19.10.1991	00:00	1991	1992	13
+Arsenal FC	Notts County	0:0	2:0	26.10.1991	00:00	1991	1992	14
+Nottingham Forest	Southampton FC	0:1	1:3	26.10.1991	00:00	1991	1992	14
+Sheffield Wednesday	Manchester United	1:2	3:2	26.10.1991	00:00	1991	1992	14
+Aston Villa	Wimbledon FC	2:0	2:1	26.10.1991	00:00	1991	1992	14
+West Ham United	Tottenham Hotspur	2:1	2:1	26.10.1991	00:00	1991	1992	14
+Queens Park Rangers	Everton FC	2:0	3:1	26.10.1991	00:00	1991	1992	14
+Norwich City	Luton Town	1:0	1:0	26.10.1991	00:00	1991	1992	14
+Manchester City	Sheffield United	2:2	3:2	26.10.1991	00:00	1991	1992	14
+Liverpool FC	Coventry City	1:0	1:0	26.10.1991	00:00	1991	1992	14
+Leeds United	Oldham Athletic	0:0	1:0	26.10.1991	00:00	1991	1992	14
+Crystal Palace	Chelsea FC	0:0	0:0	26.10.1991	00:00	1991	1992	14
+Liverpool FC	Crystal Palace	1:0	1:2	02.11.1991	00:00	1991	1992	15
+Arsenal FC	West Ham United	0:0	0:1	02.11.1991	00:00	1991	1992	15
+Manchester United	Sheffield United	1:0	2:0	02.11.1991	00:00	1991	1992	15
+Coventry City	Chelsea FC	0:1	0:1	02.11.1991	00:00	1991	1992	15
+Wimbledon FC	Leeds United	0:0	0:0	02.11.1991	00:00	1991	1992	15
+Southampton FC	Manchester City	0:1	0:3	02.11.1991	00:00	1991	1992	15
+Sheffield Wednesday	Tottenham Hotspur	0:0	0:0	02.11.1991	00:00	1991	1992	15
+Queens Park Rangers	Aston Villa	0:1	0:1	02.11.1991	00:00	1991	1992	15
+Notts County	Oldham Athletic	2:0	2:0	02.11.1991	00:00	1991	1992	15
+Norwich City	Nottingham Forest	0:0	0:0	02.11.1991	00:00	1991	1992	15
+Luton Town	Everton FC	0:0	0:1	02.11.1991	00:00	1991	1992	15
+Manchester City	Manchester United	0:0	0:0	16.11.1991	00:00	1991	1992	16
+Oldham Athletic	Arsenal FC	0:0	1:1	16.11.1991	00:00	1991	1992	16
+Aston Villa	Notts County	1:0	1:0	16.11.1991	00:00	1991	1992	16
+Tottenham Hotspur	Luton Town	0:1	4:1	16.11.1991	00:00	1991	1992	16
+Nottingham Forest	Coventry City	1:0	1:0	16.11.1991	00:00	1991	1992	16
+Leeds United	Queens Park Rangers	0:0	2:0	16.11.1991	00:00	1991	1992	16
+Everton FC	Wimbledon FC	1:0	2:0	16.11.1991	00:00	1991	1992	16
+Crystal Palace	Southampton FC	0:0	1:0	16.11.1991	00:00	1991	1992	16
+Chelsea FC	Norwich City	0:2	0:3	16.11.1991	00:00	1991	1992	16
+West Ham United	Liverpool FC	0:0	0:0	17.11.1991	00:00	1991	1992	16
+Sheffield United	Sheffield Wednesday	1:0	2:0	17.11.1991	00:00	1991	1992	16
+Wimbledon FC	Liverpool FC	0:0	0:0	23.11.1991	00:00	1991	1992	17
+Manchester United	West Ham United	2:0	2:1	23.11.1991	00:00	1991	1992	17
+Nottingham Forest	Crystal Palace	2:0	5:1	23.11.1991	00:00	1991	1992	17
+Queens Park Rangers	Oldham Athletic	1:3	1:3	23.11.1991	00:00	1991	1992	17
+Sheffield Wednesday	Arsenal FC	1:0	1:1	23.11.1991	00:00	1991	1992	17
+Everton FC	Notts County	1:0	1:0	23.11.1991	00:00	1991	1992	17
+Luton Town	Manchester City	1:0	2:2	23.11.1991	00:00	1991	1992	17
+Norwich City	Coventry City	0:1	3:2	23.11.1991	00:00	1991	1992	17
+Southampton FC	Chelsea FC	1:0	1:0	23.11.1991	00:00	1991	1992	17
+Tottenham Hotspur	Sheffield United	0:0	0:1	23.11.1991	00:00	1991	1992	17
+Aston Villa	Leeds United	0:1	1:4	24.11.1991	00:00	1991	1992	17
+Liverpool FC	Norwich City	2:1	2:1	30.11.1991	00:00	1991	1992	18
+Crystal Palace	Manchester United	1:1	1:3	30.11.1991	00:00	1991	1992	18
+Chelsea FC	Nottingham Forest	0:0	1:0	30.11.1991	00:00	1991	1992	18
+West Ham United	Sheffield Wednesday	0:1	1:2	30.11.1991	00:00	1991	1992	18
+Sheffield United	Luton Town	0:0	1:1	30.11.1991	00:00	1991	1992	18
+Oldham Athletic	Aston Villa	1:1	3:2	30.11.1991	00:00	1991	1992	18
+Notts County	Queens Park Rangers	0:0	0:1	30.11.1991	00:00	1991	1992	18
+Manchester City	Wimbledon FC	0:0	0:0	30.11.1991	00:00	1991	1992	18
+Leeds United	Everton FC	0:0	1:0	30.11.1991	00:00	1991	1992	18
+Coventry City	Southampton FC	1:0	2:0	30.11.1991	00:00	1991	1992	18
+Arsenal FC	Tottenham Hotspur	0:0	2:0	01.12.1991	00:00	1991	1992	18
+Southampton FC	Liverpool FC	0:0	1:1	07.12.1991	00:00	1991	1992	19
+Wimbledon FC	Oldham Athletic	1:0	2:1	07.12.1991	00:00	1991	1992	19
+Aston Villa	Manchester City	2:0	3:1	07.12.1991	00:00	1991	1992	19
+Tottenham Hotspur	Notts County	1:1	2:1	07.12.1991	00:00	1991	1992	19
+Sheffield Wednesday	Chelsea FC	0:0	3:0	07.12.1991	00:00	1991	1992	19
+Queens Park Rangers	Sheffield United	0:0	1:0	07.12.1991	00:00	1991	1992	19
+Norwich City	Crystal Palace	1:1	3:3	07.12.1991	00:00	1991	1992	19
+Manchester United	Coventry City	3:0	4:0	07.12.1991	00:00	1991	1992	19
+Luton Town	Leeds United	0:0	0:2	07.12.1991	00:00	1991	1992	19
+Everton FC	West Ham United	3:0	4:0	07.12.1991	00:00	1991	1992	19
+Nottingham Forest	Arsenal FC	1:0	3:2	08.12.1991	00:00	1991	1992	19
+Liverpool FC	Nottingham Forest	1:0	2:0	14.12.1991	00:00	1991	1992	20
+Leeds United	Tottenham Hotspur	1:1	1:1	14.12.1991	00:00	1991	1992	20
+Manchester City	Queens Park Rangers	2:0	2:2	14.12.1991	00:00	1991	1992	20
+Oldham Athletic	Everton FC	1:1	2:2	14.12.1991	00:00	1991	1992	20
+Sheffield United	Aston Villa	1:0	2:0	14.12.1991	00:00	1991	1992	20
+Chelsea FC	Manchester United	0:1	1:3	15.12.1991	00:00	1991	1992	20
+Arsenal FC	Norwich City	0:0	1:1	11.02.1992	00:00	1991	1992	20
+Notts County	Wimbledon FC	1:0	1:1	25.02.1992	00:00	1991	1992	20
+Crystal Palace	Luton Town	1:0	1:1	25.02.1992	00:00	1991	1992	20
+Southampton FC	West Ham United	0:0	1:0	03.03.1992	00:00	1991	1992	20
+Coventry City	Sheffield Wednesday	0:0	0:0	08.04.1992	00:00	1991	1992	20
+Luton Town	Coventry City	0:0	1:0	20.12.1991	00:00	1991	1992	21
+Southampton FC	Notts County	1:0	1:1	20.12.1991	00:00	1991	1992	21
+Arsenal FC	Everton FC	3:2	4:2	21.12.1991	00:00	1991	1992	21
+West Ham United	Sheffield United	0:0	1:1	21.12.1991	00:00	1991	1992	21
+Sheffield Wednesday	Wimbledon FC	0:0	2:0	21.12.1991	00:00	1991	1992	21
+Norwich City	Queens Park Rangers	0:0	0:1	21.12.1991	00:00	1991	1992	21
+Liverpool FC	Manchester City	1:0	2:2	21.12.1991	00:00	1991	1992	21
+Chelsea FC	Oldham Athletic	3:1	4:2	21.12.1991	00:00	1991	1992	21
+Crystal Palace	Tottenham Hotspur	0:2	1:2	22.12.1991	00:00	1991	1992	21
+Nottingham Forest	Leeds United	0:0	0:0	22.12.1991	00:00	1991	1992	21
+Manchester United	Aston Villa	0:0	1:0	22.01.1992	00:00	1991	1992	21
+Luton Town	Arsenal FC	0:0	1:0	26.12.1991	00:00	1991	1992	22
+Oldham Athletic	Manchester United	0:2	3:6	26.12.1991	00:00	1991	1992	22
+Wimbledon FC	Crystal Palace	0:0	1:1	26.12.1991	00:00	1991	1992	22
+Tottenham Hotspur	Nottingham Forest	0:1	1:2	26.12.1991	00:00	1991	1992	22
+Sheffield United	Coventry City	0:0	0:3	26.12.1991	00:00	1991	1992	22
+Queens Park Rangers	Liverpool FC	0:0	0:0	26.12.1991	00:00	1991	1992	22
+Manchester City	Norwich City	2:1	2:1	26.12.1991	00:00	1991	1992	22
+Leeds United	Southampton FC	2:0	3:3	26.12.1991	00:00	1991	1992	22
+Everton FC	Sheffield Wednesday	0:0	0:1	26.12.1991	00:00	1991	1992	22
+Aston Villa	West Ham United	2:0	3:1	26.12.1991	00:00	1991	1992	22
+Notts County	Chelsea FC	1:0	2:0	26.12.1991	00:00	1991	1992	22
+Manchester City	Arsenal FC	0:0	1:0	28.12.1991	00:00	1991	1992	23
+Wimbledon FC	Coventry City	0:1	1:1	28.12.1991	00:00	1991	1992	23
+Tottenham Hotspur	Norwich City	1:0	3:0	28.12.1991	00:00	1991	1992	23
+Queens Park Rangers	Sheffield Wednesday	1:0	1:1	28.12.1991	00:00	1991	1992	23
+Oldham Athletic	Nottingham Forest	1:1	2:1	28.12.1991	00:00	1991	1992	23
+Notts County	West Ham United	0:0	3:0	28.12.1991	00:00	1991	1992	23
+Everton FC	Liverpool FC	0:1	1:1	28.12.1991	00:00	1991	1992	23
+Aston Villa	Southampton FC	1:0	2:1	28.12.1991	00:00	1991	1992	23
+Luton Town	Chelsea FC	2:0	2:0	28.12.1991	00:00	1991	1992	23
+Sheffield United	Crystal Palace	1:0	1:1	28.12.1991	00:00	1991	1992	23
+Leeds United	Manchester United	0:0	1:1	29.12.1991	00:00	1991	1992	23
+Arsenal FC	Wimbledon FC	0:1	1:1	01.01.1992	00:00	1991	1992	24
+Manchester United	Queens Park Rangers	0:2	1:4	01.01.1992	00:00	1991	1992	24
+West Ham United	Leeds United	1:2	1:3	01.01.1992	00:00	1991	1992	24
+Southampton FC	Everton FC	0:1	1:2	01.01.1992	00:00	1991	1992	24
+Sheffield Wednesday	Oldham Athletic	0:0	1:1	01.01.1992	00:00	1991	1992	24
+Nottingham Forest	Luton Town	0:1	1:1	01.01.1992	00:00	1991	1992	24
+Norwich City	Aston Villa	0:0	2:1	01.01.1992	00:00	1991	1992	24
+Liverpool FC	Sheffield United	0:1	2:1	01.01.1992	00:00	1991	1992	24
+Crystal Palace	Notts County	1:0	1:0	01.01.1992	00:00	1991	1992	24
+Coventry City	Tottenham Hotspur	1:1	1:2	01.01.1992	00:00	1991	1992	24
+Chelsea FC	Manchester City	0:0	1:1	01.01.1992	00:00	1991	1992	24
+Arsenal FC	Aston Villa	0:0	0:0	11.01.1992	00:00	1991	1992	25
+Manchester United	Everton FC	0:0	1:0	11.01.1992	00:00	1991	1992	25
+West Ham United	Wimbledon FC	0:0	1:1	11.01.1992	00:00	1991	1992	25
+Southampton FC	Sheffield United	1:1	2:4	11.01.1992	00:00	1991	1992	25
+Nottingham Forest	Notts County	1:0	1:1	11.01.1992	00:00	1991	1992	25
+Norwich City	Oldham Athletic	1:1	1:2	11.01.1992	00:00	1991	1992	25
+Liverpool FC	Luton Town	0:1	2:1	11.01.1992	00:00	1991	1992	25
+Coventry City	Queens Park Rangers	1:0	2:2	11.01.1992	00:00	1991	1992	25
+Chelsea FC	Tottenham Hotspur	1:0	2:0	11.01.1992	00:00	1991	1992	25
+Crystal Palace	Manchester City	1:0	1:1	11.01.1992	00:00	1991	1992	25
+Sheffield Wednesday	Leeds United	1:3	1:6	12.01.1992	00:00	1991	1992	25
+Notts County	Manchester United	1:0	1:1	18.01.1992	00:00	1991	1992	26
+Queens Park Rangers	Arsenal FC	0:0	0:0	18.01.1992	00:00	1991	1992	26
+Tottenham Hotspur	Southampton FC	0:1	1:2	18.01.1992	00:00	1991	1992	26
+Sheffield United	Norwich City	0:0	1:0	18.01.1992	00:00	1991	1992	26
+Oldham Athletic	Liverpool FC	1:2	2:3	18.01.1992	00:00	1991	1992	26
+Manchester City	Coventry City	0:0	1:0	18.01.1992	00:00	1991	1992	26
+Luton Town	West Ham United	0:0	0:1	18.01.1992	00:00	1991	1992	26
+Aston Villa	Sheffield Wednesday	0:0	0:1	18.01.1992	00:00	1991	1992	26
+Leeds United	Crystal Palace	1:1	1:1	18.01.1992	00:00	1991	1992	26
+Wimbledon FC	Chelsea FC	0:1	1:2	18.01.1992	00:00	1991	1992	26
+Everton FC	Nottingham Forest	0:1	1:1	19.01.1992	00:00	1991	1992	26
+Arsenal FC	Manchester United	1:1	1:1	01.02.1992	00:00	1991	1992	27
+Crystal Palace	Coventry City	0:1	0:1	01.02.1992	00:00	1991	1992	27
+Norwich City	Southampton FC	0:0	2:1	01.02.1992	00:00	1991	1992	27
+Nottingham Forest	Sheffield United	1:3	2:5	01.02.1992	00:00	1991	1992	27
+Sheffield Wednesday	Luton Town	1:2	3:2	01.02.1992	00:00	1991	1992	27
+West Ham United	Oldham Athletic	1:0	1:0	01.02.1992	00:00	1991	1992	27
+Leeds United	Notts County	1:0	3:0	01.02.1992	00:00	1991	1992	27
+Liverpool FC	Chelsea FC	1:1	1:2	01.02.1992	00:00	1991	1992	27
+Manchester City	Tottenham Hotspur	1:0	1:0	01.02.1992	00:00	1991	1992	27
+Queens Park Rangers	Wimbledon FC	1:0	1:1	01.02.1992	00:00	1991	1992	27
+Aston Villa	Everton FC	0:0	0:0	02.02.1992	00:00	1991	1992	27
+Notts County	Arsenal FC	0:1	0:1	08.02.1992	00:00	1991	1992	28
+Manchester United	Sheffield Wednesday	1:1	1:1	08.02.1992	00:00	1991	1992	28
+Luton Town	Norwich City	0:0	2:0	08.02.1992	00:00	1991	1992	28
+Coventry City	Liverpool FC	0:0	0:0	08.02.1992	00:00	1991	1992	28
+Chelsea FC	Crystal Palace	0:1	1:1	08.02.1992	00:00	1991	1992	28
+Everton FC	Queens Park Rangers	0:0	0:0	08.02.1992	00:00	1991	1992	28
+Oldham Athletic	Leeds United	1:0	2:0	08.02.1992	00:00	1991	1992	28
+Sheffield United	Manchester City	3:1	4:2	08.02.1992	00:00	1991	1992	28
+Wimbledon FC	Aston Villa	1:0	2:0	08.02.1992	00:00	1991	1992	28
+Tottenham Hotspur	West Ham United	1:0	3:0	01.04.1992	00:00	1991	1992	28
+Southampton FC	Nottingham Forest	0:0	0:1	08.04.1992	00:00	1991	1992	28
+Chelsea FC	Southampton FC	0:0	1:1	12.02.1992	00:00	1991	1992	29
+Arsenal FC	Sheffield Wednesday	1:1	7:1	15.02.1992	00:00	1991	1992	29
+Manchester City	Luton Town	1:0	4:0	15.02.1992	00:00	1991	1992	29
+Oldham Athletic	Queens Park Rangers	1:0	2:1	15.02.1992	00:00	1991	1992	29
+Crystal Palace	Nottingham Forest	0:0	0:0	03.03.1992	00:00	1991	1992	29
+Leeds United	Aston Villa	0:0	0:0	03.03.1992	00:00	1991	1992	29
+Coventry City	Norwich City	0:0	0:0	04.03.1992	00:00	1991	1992	29
+Notts County	Everton FC	0:0	0:0	17.03.1992	00:00	1991	1992	29
+Liverpool FC	Wimbledon FC	2:1	2:3	08.04.1992	00:00	1991	1992	29
+Sheffield United	Tottenham Hotspur	2:0	2:0	14.04.1992	00:00	1991	1992	29
+West Ham United	Manchester United	0:0	1:0	22.04.1992	00:00	1991	1992	29
+Manchester United	Crystal Palace	1:0	2:0	22.02.1992	00:00	1991	1992	30
+Queens Park Rangers	Notts County	0:0	1:1	22.02.1992	00:00	1991	1992	30
+Southampton FC	Coventry City	0:0	0:0	22.02.1992	00:00	1991	1992	30
+Sheffield Wednesday	West Ham United	0:1	2:1	22.02.1992	00:00	1991	1992	30
+Norwich City	Liverpool FC	0:0	3:0	22.02.1992	00:00	1991	1992	30
+Luton Town	Sheffield United	2:1	2:1	22.02.1992	00:00	1991	1992	30
+Aston Villa	Oldham Athletic	0:0	1:0	22.02.1992	00:00	1991	1992	30
+Nottingham Forest	Chelsea FC	1:0	1:1	22.02.1992	00:00	1991	1992	30
+Tottenham Hotspur	Arsenal FC	0:0	1:1	22.02.1992	00:00	1991	1992	30
+Wimbledon FC	Manchester City	2:0	2:1	22.02.1992	00:00	1991	1992	30
+Everton FC	Leeds United	0:0	1:1	23.02.1992	00:00	1991	1992	30
+West Ham United	Everton FC	0:1	0:2	29.02.1992	00:00	1991	1992	31
+Coventry City	Manchester United	0:0	0:0	29.02.1992	00:00	1991	1992	31
+Sheffield United	Queens Park Rangers	0:0	0:0	29.02.1992	00:00	1991	1992	31
+Manchester City	Aston Villa	1:0	2:0	29.02.1992	00:00	1991	1992	31
+Liverpool FC	Southampton FC	0:0	0:0	29.02.1992	00:00	1991	1992	31
+Leeds United	Luton Town	0:0	2:0	29.02.1992	00:00	1991	1992	31
+Crystal Palace	Norwich City	2:4	3:4	29.02.1992	00:00	1991	1992	31
+Oldham Athletic	Wimbledon FC	0:1	0:1	29.02.1992	00:00	1991	1992	31
+Chelsea FC	Sheffield Wednesday	0:3	0:3	29.02.1992	00:00	1991	1992	31
+Arsenal FC	Nottingham Forest	1:2	3:3	31.03.1992	00:00	1991	1992	31
+Notts County	Tottenham Hotspur	0:1	0:2	07.04.1992	00:00	1991	1992	31
+Manchester United	Chelsea FC	0:0	1:1	26.02.1992	00:00	1991	1992	32
+Wimbledon FC	Notts County	1:0	2:0	07.03.1992	00:00	1991	1992	32
+Everton FC	Oldham Athletic	1:1	2:1	07.03.1992	00:00	1991	1992	32
+Sheffield Wednesday	Coventry City	0:0	1:1	07.03.1992	00:00	1991	1992	32
+Luton Town	Crystal Palace	0:1	1:1	07.03.1992	00:00	1991	1992	32
+Queens Park Rangers	Manchester City	2:0	4:0	07.03.1992	00:00	1991	1992	32
+Tottenham Hotspur	Leeds United	0:1	1:3	07.03.1992	00:00	1991	1992	32
+Aston Villa	Sheffield United	0:0	1:1	31.03.1992	00:00	1991	1992	32
+Norwich City	Arsenal FC	0:1	1:3	08.04.1992	00:00	1991	1992	32
+West Ham United	Southampton FC	0:0	0:1	14.04.1992	00:00	1991	1992	32
+Nottingham Forest	Liverpool FC	1:1	1:1	22.04.1992	00:00	1991	1992	32
+Notts County	Aston Villa	0:0	0:0	10.03.1992	00:00	1991	1992	33
+Arsenal FC	Oldham Athletic	1:0	2:1	10.03.1992	00:00	1991	1992	33
+Wimbledon FC	Everton FC	0:0	0:0	10.03.1992	00:00	1991	1992	33
+Liverpool FC	West Ham United	1:0	1:0	11.03.1992	00:00	1991	1992	33
+Southampton FC	Crystal Palace	1:0	1:0	11.03.1992	00:00	1991	1992	33
+Coventry City	Nottingham Forest	0:2	0:2	11.03.1992	00:00	1991	1992	33
+Sheffield Wednesday	Sheffield United	0:2	1:3	11.03.1992	00:00	1991	1992	33
+Luton Town	Tottenham Hotspur	0:0	0:0	11.03.1992	00:00	1991	1992	33
+Norwich City	Chelsea FC	0:0	0:1	11.03.1992	00:00	1991	1992	33
+Queens Park Rangers	Leeds United	1:1	4:1	11.03.1992	00:00	1991	1992	33
+Manchester United	Manchester City	1:0	1:1	07.04.1992	00:00	1991	1992	33
+Sheffield United	Manchester United	1:0	1:2	14.03.1992	00:00	1991	1992	34
+West Ham United	Arsenal FC	0:1	0:2	14.03.1992	00:00	1991	1992	34
+Oldham Athletic	Notts County	3:1	4:3	14.03.1992	00:00	1991	1992	34
+Crystal Palace	Liverpool FC	1:0	1:0	14.03.1992	00:00	1991	1992	34
+Tottenham Hotspur	Sheffield Wednesday	0:0	0:2	14.03.1992	00:00	1991	1992	34
+Nottingham Forest	Norwich City	2:0	2:0	14.03.1992	00:00	1991	1992	34
+Everton FC	Luton Town	0:1	1:1	14.03.1992	00:00	1991	1992	34
+Aston Villa	Queens Park Rangers	0:0	0:1	14.03.1992	00:00	1991	1992	34
+Chelsea FC	Coventry City	0:0	0:1	14.03.1992	00:00	1991	1992	34
+Leeds United	Wimbledon FC	3:0	5:1	14.03.1992	00:00	1991	1992	34
+Manchester City	Southampton FC	0:1	0:1	15.03.1992	00:00	1991	1992	34
+Nottingham Forest	Manchester City	0:0	2:0	21.03.1992	00:00	1991	1992	35
+West Ham United	Queens Park Rangers	1:0	2:2	21.03.1992	00:00	1991	1992	35
+Liverpool FC	Tottenham Hotspur	0:0	2:1	21.03.1992	00:00	1991	1992	35
+Manchester United	Wimbledon FC	0:0	0:0	21.03.1992	00:00	1991	1992	35
+Southampton FC	Luton Town	0:1	2:1	21.03.1992	00:00	1991	1992	35
+Sheffield Wednesday	Notts County	0:0	1:0	21.03.1992	00:00	1991	1992	35
+Norwich City	Everton FC	1:2	4:3	21.03.1992	00:00	1991	1992	35
+Crystal Palace	Aston Villa	0:0	0:0	21.03.1992	00:00	1991	1992	35
+Coventry City	Oldham Athletic	1:1	1:1	21.03.1992	00:00	1991	1992	35
+Chelsea FC	Sheffield United	0:1	1:2	21.03.1992	00:00	1991	1992	35
+Arsenal FC	Leeds United	0:0	1:1	22.03.1992	00:00	1991	1992	35
+Leeds United	West Ham United	0:0	0:0	28.03.1992	00:00	1991	1992	36
+Queens Park Rangers	Manchester United	0:0	0:0	28.03.1992	00:00	1991	1992	36
+Sheffield United	Liverpool FC	1:0	2:0	28.03.1992	00:00	1991	1992	36
+Wimbledon FC	Arsenal FC	0:2	1:3	28.03.1992	00:00	1991	1992	36
+Aston Villa	Norwich City	0:0	1:0	28.03.1992	00:00	1991	1992	36
+Notts County	Crystal Palace	2:1	2:3	28.03.1992	00:00	1991	1992	36
+Oldham Athletic	Sheffield Wednesday	1:0	3:0	28.03.1992	00:00	1991	1992	36
+Tottenham Hotspur	Coventry City	3:1	4:3	28.03.1992	00:00	1991	1992	36
+Manchester City	Chelsea FC	0:0	0:0	28.03.1992	00:00	1991	1992	36
+Everton FC	Southampton FC	0:1	0:1	01.04.1992	00:00	1991	1992	36
+Luton Town	Nottingham Forest	2:1	2:1	14.04.1992	00:00	1991	1992	36
+Norwich City	Manchester United	0:1	1:3	31.03.1992	00:00	1991	1992	37
+Liverpool FC	Notts County	2:0	4:0	31.03.1992	00:00	1991	1992	37
+Nottingham Forest	Sheffield Wednesday	0:2	0:2	04.04.1992	00:00	1991	1992	37
+Southampton FC	Queens Park Rangers	1:0	2:1	04.04.1992	00:00	1991	1992	37
+Coventry City	Arsenal FC	0:1	0:1	04.04.1992	00:00	1991	1992	37
+Luton Town	Wimbledon FC	1:1	2:1	04.04.1992	00:00	1991	1992	37
+Sheffield United	Oldham Athletic	1:0	2:0	04.04.1992	00:00	1991	1992	37
+Chelsea FC	West Ham United	1:1	2:1	04.04.1992	00:00	1991	1992	37
+Crystal Palace	Everton FC	0:0	2:0	04.04.1992	00:00	1991	1992	37
+Manchester City	Leeds United	2:0	4:0	04.04.1992	00:00	1991	1992	37
+Tottenham Hotspur	Aston Villa	2:2	2:5	04.04.1992	00:00	1991	1992	37
+Wimbledon FC	Nottingham Forest	2:0	3:0	02.04.1992	00:00	1991	1992	38
+Aston Villa	Liverpool FC	0:0	1:0	11.04.1992	00:00	1991	1992	38
+Arsenal FC	Crystal Palace	3:1	4:1	11.04.1992	00:00	1991	1992	38
+West Ham United	Norwich City	2:0	4:0	11.04.1992	00:00	1991	1992	38
+Sheffield Wednesday	Manchester City	0:0	2:0	11.04.1992	00:00	1991	1992	38
+Queens Park Rangers	Tottenham Hotspur	1:0	1:2	11.04.1992	00:00	1991	1992	38
+Oldham Athletic	Luton Town	2:1	5:1	11.04.1992	00:00	1991	1992	38
+Notts County	Coventry City	0:0	1:0	11.04.1992	00:00	1991	1992	38
+Leeds United	Chelsea FC	0:0	3:0	11.04.1992	00:00	1991	1992	38
+Everton FC	Sheffield United	0:1	0:2	11.04.1992	00:00	1991	1992	38
+Manchester United	Southampton FC	0:0	1:0	16.04.1992	00:00	1991	1992	38
+Liverpool FC	Leeds United	0:0	0:0	18.04.1992	00:00	1991	1992	39
+Luton Town	Manchester United	0:1	1:1	18.04.1992	00:00	1991	1992	39
+Manchester City	West Ham United	1:0	2:0	18.04.1992	00:00	1991	1992	39
+Nottingham Forest	Aston Villa	1:0	2:0	18.04.1992	00:00	1991	1992	39
+Chelsea FC	Queens Park Rangers	1:0	2:1	18.04.1992	00:00	1991	1992	39
+Coventry City	Everton FC	0:0	0:1	18.04.1992	00:00	1991	1992	39
+Crystal Palace	Oldham Athletic	0:0	0:0	18.04.1992	00:00	1991	1992	39
+Norwich City	Notts County	0:0	0:1	18.04.1992	00:00	1991	1992	39
+Sheffield United	Arsenal FC	1:0	1:1	18.04.1992	00:00	1991	1992	39
+Southampton FC	Sheffield Wednesday	0:0	0:1	18.04.1992	00:00	1991	1992	39
+Tottenham Hotspur	Wimbledon FC	2:1	3:2	18.04.1992	00:00	1991	1992	39
+Manchester United	Nottingham Forest	1:1	1:2	20.04.1992	00:00	1991	1992	40
+West Ham United	Crystal Palace	0:1	0:2	20.04.1992	00:00	1991	1992	40
+Arsenal FC	Liverpool FC	3:0	4:0	20.04.1992	00:00	1991	1992	40
+Wimbledon FC	Southampton FC	0:1	0:1	20.04.1992	00:00	1991	1992	40
+Sheffield Wednesday	Norwich City	2:0	2:0	20.04.1992	00:00	1991	1992	40
+Queens Park Rangers	Luton Town	0:0	2:1	20.04.1992	00:00	1991	1992	40
+Oldham Athletic	Tottenham Hotspur	1:0	1:0	20.04.1992	00:00	1991	1992	40
+Notts County	Sheffield United	1:1	1:3	20.04.1992	00:00	1991	1992	40
+Leeds United	Coventry City	0:0	2:0	20.04.1992	00:00	1991	1992	40
+Everton FC	Manchester City	1:2	1:2	20.04.1992	00:00	1991	1992	40
+Aston Villa	Chelsea FC	1:0	3:1	20.04.1992	00:00	1991	1992	40
+Chelsea FC	Arsenal FC	0:0	1:1	25.04.1992	00:00	1991	1992	41
+Tottenham Hotspur	Everton FC	3:0	3:3	25.04.1992	00:00	1991	1992	41
+Southampton FC	Oldham Athletic	0:0	1:0	25.04.1992	00:00	1991	1992	41
+Nottingham Forest	Queens Park Rangers	0:0	1:1	25.04.1992	00:00	1991	1992	41
+Norwich City	Wimbledon FC	1:0	1:1	25.04.1992	00:00	1991	1992	41
+Manchester City	Notts County	1:0	2:0	25.04.1992	00:00	1991	1992	41
+Luton Town	Aston Villa	1:0	2:0	25.04.1992	00:00	1991	1992	41
+Crystal Palace	Sheffield Wednesday	0:1	1:1	25.04.1992	00:00	1991	1992	41
+Coventry City	West Ham United	1:0	1:0	25.04.1992	00:00	1991	1992	41
+Liverpool FC	Manchester United	1:0	2:0	26.04.1992	00:00	1991	1992	41
+Sheffield United	Leeds United	1:1	2:3	26.04.1992	00:00	1991	1992	41
+Arsenal FC	Southampton FC	0:0	5:1	02.05.1992	00:00	1991	1992	42
+West Ham United	Nottingham Forest	0:0	3:0	02.05.1992	00:00	1991	1992	42
+Sheffield Wednesday	Liverpool FC	0:0	0:0	02.05.1992	00:00	1991	1992	42
+Queens Park Rangers	Crystal Palace	1:0	1:0	02.05.1992	00:00	1991	1992	42
+Oldham Athletic	Manchester City	1:2	2:5	02.05.1992	00:00	1991	1992	42
+Notts County	Luton Town	1:1	2:1	02.05.1992	00:00	1991	1992	42
+Manchester United	Tottenham Hotspur	1:0	3:1	02.05.1992	00:00	1991	1992	42
+Leeds United	Norwich City	1:0	1:0	02.05.1992	00:00	1991	1992	42
+Everton FC	Chelsea FC	1:0	2:1	02.05.1992	00:00	1991	1992	42
+Aston Villa	Coventry City	2:0	2:0	02.05.1992	00:00	1991	1992	42
+Wimbledon FC	Sheffield United	3:0	3:0	02.05.1992	00:00	1991	1992	42

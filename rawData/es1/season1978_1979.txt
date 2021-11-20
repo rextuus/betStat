@@ -1,0 +1,306 @@
+UD Las Palmas	Sevilla FC	0:0	2:1	02.09.1978	00:00	1978	1979	1
+Athletic Bilbao	Rayo Vallecano	1:0	2:0	02.09.1978	00:00	1978	1979	1
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:1	4:1	02.09.1978	00:00	1978	1979	1
+Celta Vigo	Espanyol Barcelona	0:0	0:1	03.09.1978	00:00	1978	1979	1
+Real Madrid	Valencia CF	2:1	2:1	03.09.1978	00:00	1978	1979	1
+Burgos CF	Real Sociedad	0:1	1:1	03.09.1978	00:00	1978	1979	1
+Recreativo Huelva	Real Zaragoza	2:0	3:0	03.09.1978	00:00	1978	1979	1
+FC Barcelona	Racing Santander	0:0	1:0	03.09.1978	00:00	1978	1979	1
+HÃ©rcules CF	UD Salamanca	1:0	1:0	03.09.1978	00:00	1978	1979	1
+Sevilla FC	Athletic Bilbao	0:0	0:0	09.09.1978	00:00	1978	1979	2
+Real Sociedad	Recreativo Huelva	1:1	2:3	09.09.1978	00:00	1978	1979	2
+Espanyol Barcelona	Sporting GijÃ³n	1:0	1:0	09.09.1978	00:00	1978	1979	2
+Valencia CF	FC Barcelona	1:0	2:1	09.09.1978	00:00	1978	1979	2
+AtlÃ©tico Madrid	HÃ©rcules CF	1:0	3:0	09.09.1978	00:00	1978	1979	2
+Rayo Vallecano	Burgos CF	0:2	2:2	10.09.1978	00:00	1978	1979	2
+Racing Santander	UD Las Palmas	2:2	2:4	10.09.1978	00:00	1978	1979	2
+Real Zaragoza	Celta Vigo	1:0	2:1	10.09.1978	00:00	1978	1979	2
+UD Salamanca	Real Madrid	0:1	1:1	10.09.1978	00:00	1978	1979	2
+Recreativo Huelva	Rayo Vallecano	0:0	0:0	16.09.1978	00:00	1978	1979	3
+Celta Vigo	Real Sociedad	1:0	1:0	17.09.1978	00:00	1978	1979	3
+HÃ©rcules CF	Real Madrid	1:0	1:2	17.09.1978	00:00	1978	1979	3
+FC Barcelona	UD Salamanca	2:0	3:0	17.09.1978	00:00	1978	1979	3
+Athletic Bilbao	Racing Santander	1:1	4:1	17.09.1978	00:00	1978	1979	3
+Sporting GijÃ³n	Real Zaragoza	0:0	1:0	17.09.1978	00:00	1978	1979	3
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	1:0	17.09.1978	00:00	1978	1979	3
+UD Las Palmas	Valencia CF	1:0	2:0	17.09.1978	00:00	1978	1979	3
+Burgos CF	Sevilla FC	1:1	2:2	17.09.1978	00:00	1978	1979	3
+Espanyol Barcelona	HÃ©rcules CF	1:0	2:1	23.09.1978	00:00	1978	1979	4
+Valencia CF	Athletic Bilbao	0:0	0:0	23.09.1978	00:00	1978	1979	4
+Real Madrid	FC Barcelona	2:1	3:1	23.09.1978	00:00	1978	1979	4
+Rayo Vallecano	Celta Vigo	1:0	2:0	24.09.1978	00:00	1978	1979	4
+Sevilla FC	Recreativo Huelva	4:0	6:1	24.09.1978	00:00	1978	1979	4
+Racing Santander	Burgos CF	2:1	2:2	24.09.1978	00:00	1978	1979	4
+UD Salamanca	UD Las Palmas	0:0	1:0	24.09.1978	00:00	1978	1979	4
+Real Zaragoza	AtlÃ©tico Madrid	2:3	4:3	24.09.1978	00:00	1978	1979	4
+Real Sociedad	Sporting GijÃ³n	2:0	2:0	24.09.1978	00:00	1978	1979	4
+Espanyol Barcelona	Real Zaragoza	1:0	1:0	07.10.1978	00:00	1978	1979	5
+UD Las Palmas	Real Madrid	1:0	2:2	08.10.1978	00:00	1978	1979	5
+AtlÃ©tico Madrid	Real Sociedad	0:2	2:2	08.10.1978	00:00	1978	1979	5
+Sporting GijÃ³n	Rayo Vallecano	2:0	3:0	08.10.1978	00:00	1978	1979	5
+Athletic Bilbao	UD Salamanca	0:0	3:0	08.10.1978	00:00	1978	1979	5
+Recreativo Huelva	Racing Santander	1:0	2:1	08.10.1978	00:00	1978	1979	5
+HÃ©rcules CF	FC Barcelona	0:0	0:2	08.10.1978	00:00	1978	1979	5
+Burgos CF	Valencia CF	0:0	1:1	08.10.1978	00:00	1978	1979	5
+Celta Vigo	Sevilla FC	0:0	1:1	08.10.1978	00:00	1978	1979	5
+Valencia CF	Recreativo Huelva	0:0	1:0	14.10.1978	00:00	1978	1979	6
+FC Barcelona	UD Las Palmas	2:0	4:0	14.10.1978	00:00	1978	1979	6
+Real Madrid	Athletic Bilbao	0:0	2:1	14.10.1978	00:00	1978	1979	6
+Real Sociedad	Espanyol Barcelona	1:0	2:1	15.10.1978	00:00	1978	1979	6
+UD Salamanca	Burgos CF	1:0	1:1	15.10.1978	00:00	1978	1979	6
+Real Zaragoza	HÃ©rcules CF	0:0	1:2	15.10.1978	00:00	1978	1979	6
+Sevilla FC	Sporting GijÃ³n	1:0	1:1	15.10.1978	00:00	1978	1979	6
+Rayo Vallecano	AtlÃ©tico Madrid	0:2	1:3	15.10.1978	00:00	1978	1979	6
+Racing Santander	Celta Vigo	1:0	2:0	15.10.1978	00:00	1978	1979	6
+Espanyol Barcelona	Rayo Vallecano	1:1	2:1	21.10.1978	00:00	1978	1979	7
+Celta Vigo	Valencia CF	0:0	0:0	22.10.1978	00:00	1978	1979	7
+Sporting GijÃ³n	Racing Santander	0:0	1:0	22.10.1978	00:00	1978	1979	7
+HÃ©rcules CF	UD Las Palmas	1:0	1:0	22.10.1978	00:00	1978	1979	7
+Recreativo Huelva	UD Salamanca	1:0	1:2	22.10.1978	00:00	1978	1979	7
+Athletic Bilbao	FC Barcelona	2:0	3:1	22.10.1978	00:00	1978	1979	7
+Burgos CF	Real Madrid	1:1	2:2	22.10.1978	00:00	1978	1979	7
+Real Zaragoza	Real Sociedad	3:0	4:0	22.10.1978	00:00	1978	1979	7
+AtlÃ©tico Madrid	Sevilla FC	1:2	2:2	22.10.1978	00:00	1978	1979	7
+Real Madrid	Recreativo Huelva	2:0	4:0	28.10.1978	00:00	1978	1979	8
+FC Barcelona	Burgos CF	1:0	2:0	28.10.1978	00:00	1978	1979	8
+Valencia CF	Sporting GijÃ³n	1:0	4:0	28.10.1978	00:00	1978	1979	8
+UD Las Palmas	Athletic Bilbao	1:0	1:1	29.10.1978	00:00	1978	1979	8
+Real Sociedad	HÃ©rcules CF	0:0	2:1	29.10.1978	00:00	1978	1979	8
+UD Salamanca	Celta Vigo	0:0	1:0	29.10.1978	00:00	1978	1979	8
+Sevilla FC	Espanyol Barcelona	1:2	4:3	29.10.1978	00:00	1978	1979	8
+Rayo Vallecano	Real Zaragoza	1:0	1:0	29.10.1978	00:00	1978	1979	8
+Racing Santander	AtlÃ©tico Madrid	0:1	1:1	31.10.1978	00:00	1978	1979	8
+AtlÃ©tico Madrid	Valencia CF	1:1	2:1	05.11.1978	00:00	1978	1979	9
+Espanyol Barcelona	Racing Santander	2:1	2:3	05.11.1978	00:00	1978	1979	9
+Real Sociedad	Rayo Vallecano	1:0	2:0	05.11.1978	00:00	1978	1979	9
+Sporting GijÃ³n	UD Salamanca	0:0	1:0	05.11.1978	00:00	1978	1979	9
+Celta Vigo	Real Madrid	1:1	2:2	05.11.1978	00:00	1978	1979	9
+Real Zaragoza	Sevilla FC	3:1	3:2	05.11.1978	00:00	1978	1979	9
+HÃ©rcules CF	Athletic Bilbao	0:1	0:1	05.11.1978	00:00	1978	1979	9
+Recreativo Huelva	FC Barcelona	0:0	0:0	05.11.1978	00:00	1978	1979	9
+Burgos CF	UD Las Palmas	1:1	1:1	05.11.1978	00:00	1978	1979	9
+UD Las Palmas	Recreativo Huelva	1:0	3:0	18.11.1978	00:00	1978	1979	10
+Valencia CF	Espanyol Barcelona	1:0	2:1	18.11.1978	00:00	1978	1979	10
+Sevilla FC	Real Sociedad	0:0	1:0	19.11.1978	00:00	1978	1979	10
+Athletic Bilbao	Burgos CF	1:0	1:2	19.11.1978	00:00	1978	1979	10
+Rayo Vallecano	HÃ©rcules CF	3:0	3:0	19.11.1978	00:00	1978	1979	10
+Real Madrid	Sporting GijÃ³n	1:0	3:2	19.11.1978	00:00	1978	1979	10
+Racing Santander	Real Zaragoza	3:2	3:2	19.11.1978	00:00	1978	1979	10
+UD Salamanca	AtlÃ©tico Madrid	0:2	2:2	19.11.1978	00:00	1978	1979	10
+FC Barcelona	Celta Vigo	2:0	6:0	19.11.1978	00:00	1978	1979	10
+Rayo Vallecano	Sevilla FC	0:0	1:0	25.11.1978	00:00	1978	1979	11
+Real Sociedad	Racing Santander	1:0	3:0	26.11.1978	00:00	1978	1979	11
+Recreativo Huelva	Athletic Bilbao	1:0	3:2	26.11.1978	00:00	1978	1979	11
+HÃ©rcules CF	Burgos CF	1:0	1:0	26.11.1978	00:00	1978	1979	11
+Espanyol Barcelona	UD Salamanca	1:1	2:1	26.11.1978	00:00	1978	1979	11
+Sporting GijÃ³n	FC Barcelona	1:1	3:1	26.11.1978	00:00	1978	1979	11
+AtlÃ©tico Madrid	Real Madrid	1:1	2:2	26.11.1978	00:00	1978	1979	11
+Celta Vigo	UD Las Palmas	1:1	1:2	26.11.1978	00:00	1978	1979	11
+Real Zaragoza	Valencia CF	1:0	3:0	26.11.1978	00:00	1978	1979	11
+UD Las Palmas	Sporting GijÃ³n	0:0	0:0	02.12.1978	00:00	1978	1979	12
+Valencia CF	Real Sociedad	0:0	1:0	02.12.1978	00:00	1978	1979	12
+FC Barcelona	AtlÃ©tico Madrid	0:2	2:4	03.12.1978	00:00	1978	1979	12
+Burgos CF	Recreativo Huelva	1:0	1:0	03.12.1978	00:00	1978	1979	12
+Racing Santander	Rayo Vallecano	0:0	1:0	03.12.1978	00:00	1978	1979	12
+Sevilla FC	HÃ©rcules CF	0:0	1:0	03.12.1978	00:00	1978	1979	12
+UD Salamanca	Real Zaragoza	1:0	3:1	03.12.1978	00:00	1978	1979	12
+Real Madrid	Espanyol Barcelona	0:0	0:0	03.12.1978	00:00	1978	1979	12
+Athletic Bilbao	Celta Vigo	2:0	3:1	03.12.1978	00:00	1978	1979	12
+Sevilla FC	Racing Santander	2:1	3:1	17.12.1978	00:00	1978	1979	13
+AtlÃ©tico Madrid	UD Las Palmas	1:0	1:1	17.12.1978	00:00	1978	1979	13
+Real Sociedad	UD Salamanca	1:0	3:1	17.12.1978	00:00	1978	1979	13
+HÃ©rcules CF	Recreativo Huelva	2:0	2:0	17.12.1978	00:00	1978	1979	13
+Sporting GijÃ³n	Athletic Bilbao	2:1	4:3	17.12.1978	00:00	1978	1979	13
+Espanyol Barcelona	FC Barcelona	0:1	0:2	17.12.1978	00:00	1978	1979	13
+Real Zaragoza	Real Madrid	1:0	1:0	17.12.1978	00:00	1978	1979	13
+Rayo Vallecano	Valencia CF	0:0	0:1	17.12.1978	00:00	1978	1979	13
+Celta Vigo	Burgos CF	1:0	3:2	17.12.1978	00:00	1978	1979	13
+Real Madrid	Real Sociedad	1:1	2:1	30.12.1978	00:00	1978	1979	14
+FC Barcelona	Real Zaragoza	4:0	5:0	30.12.1978	00:00	1978	1979	14
+Valencia CF	Sevilla FC	2:0	5:2	30.12.1978	00:00	1978	1979	14
+Athletic Bilbao	AtlÃ©tico Madrid	0:0	2:1	30.12.1978	00:00	1978	1979	14
+UD Las Palmas	Espanyol Barcelona	1:0	3:0	30.12.1978	00:00	1978	1979	14
+UD Salamanca	Rayo Vallecano	0:1	1:1	31.12.1978	00:00	1978	1979	14
+Racing Santander	HÃ©rcules CF	0:0	0:2	31.12.1978	00:00	1978	1979	14
+Burgos CF	Sporting GijÃ³n	0:1	0:2	31.12.1978	00:00	1978	1979	14
+Recreativo Huelva	Celta Vigo	1:1	1:2	31.12.1978	00:00	1978	1979	14
+AtlÃ©tico Madrid	Burgos CF	0:0	1:2	06.01.1979	00:00	1978	1979	15
+Racing Santander	Valencia CF	1:0	3:1	07.01.1979	00:00	1978	1979	15
+HÃ©rcules CF	Celta Vigo	0:0	2:0	07.01.1979	00:00	1978	1979	15
+Real Zaragoza	UD Las Palmas	1:0	3:1	07.01.1979	00:00	1978	1979	15
+Sporting GijÃ³n	Recreativo Huelva	2:0	2:0	07.01.1979	00:00	1978	1979	15
+Real Sociedad	FC Barcelona	2:0	2:0	07.01.1979	00:00	1978	1979	15
+Rayo Vallecano	Real Madrid	0:0	1:1	07.01.1979	00:00	1978	1979	15
+Sevilla FC	UD Salamanca	1:0	2:1	07.01.1979	00:00	1978	1979	15
+Espanyol Barcelona	Athletic Bilbao	0:0	1:0	07.01.1979	00:00	1978	1979	15
+Athletic Bilbao	Real Zaragoza	1:1	2:2	14.01.1979	00:00	1978	1979	16
+FC Barcelona	Rayo Vallecano	4:0	9:0	14.01.1979	00:00	1978	1979	16
+Celta Vigo	Sporting GijÃ³n	1:0	1:1	14.01.1979	00:00	1978	1979	16
+UD Las Palmas	Real Sociedad	1:0	2:0	14.01.1979	00:00	1978	1979	16
+Real Madrid	Sevilla FC	1:0	1:1	14.01.1979	00:00	1978	1979	16
+Recreativo Huelva	AtlÃ©tico Madrid	0:0	0:1	14.01.1979	00:00	1978	1979	16
+HÃ©rcules CF	Valencia CF	2:0	3:0	14.01.1979	00:00	1978	1979	16
+Burgos CF	Espanyol Barcelona	0:0	1:0	14.01.1979	00:00	1978	1979	16
+UD Salamanca	Racing Santander	0:0	1:0	14.01.1979	00:00	1978	1979	16
+Espanyol Barcelona	Recreativo Huelva	1:0	1:0	21.01.1979	00:00	1978	1979	17
+Racing Santander	Real Madrid	0:1	1:1	21.01.1979	00:00	1978	1979	17
+Sevilla FC	FC Barcelona	0:1	1:1	21.01.1979	00:00	1978	1979	17
+Real Sociedad	Athletic Bilbao	1:0	2:1	21.01.1979	00:00	1978	1979	17
+AtlÃ©tico Madrid	Celta Vigo	2:0	4:0	21.01.1979	00:00	1978	1979	17
+Rayo Vallecano	UD Las Palmas	1:1	2:2	21.01.1979	00:00	1978	1979	17
+Sporting GijÃ³n	HÃ©rcules CF	2:0	2:0	21.01.1979	00:00	1978	1979	17
+Valencia CF	UD Salamanca	0:0	0:0	21.01.1979	00:00	1978	1979	17
+Real Zaragoza	Burgos CF	1:0	4:2	21.01.1979	00:00	1978	1979	17
+Racing Santander	FC Barcelona	0:0	2:1	28.01.1979	00:00	1978	1979	18
+Rayo Vallecano	Athletic Bilbao	0:0	1:0	28.01.1979	00:00	1978	1979	18
+Espanyol Barcelona	Celta Vigo	1:0	1:1	28.01.1979	00:00	1978	1979	18
+Sevilla FC	UD Las Palmas	0:0	0:1	28.01.1979	00:00	1978	1979	18
+AtlÃ©tico Madrid	Sporting GijÃ³n	0:0	0:0	28.01.1979	00:00	1978	1979	18
+UD Salamanca	HÃ©rcules CF	1:0	1:0	28.01.1979	00:00	1978	1979	18
+Real Sociedad	Burgos CF	4:0	4:1	28.01.1979	00:00	1978	1979	18
+Real Zaragoza	Recreativo Huelva	1:1	1:1	28.01.1979	00:00	1978	1979	18
+Valencia CF	Real Madrid	0:0	0:1	28.01.1979	00:00	1978	1979	18
+Real Madrid	UD Salamanca	1:0	3:1	03.02.1979	00:00	1978	1979	19
+UD Las Palmas	Racing Santander	1:1	1:2	03.02.1979	00:00	1978	1979	19
+Burgos CF	Rayo Vallecano	1:1	1:1	04.02.1979	00:00	1978	1979	19
+Celta Vigo	Real Zaragoza	2:2	5:3	04.02.1979	00:00	1978	1979	19
+Recreativo Huelva	Real Sociedad	1:1	1:2	04.02.1979	00:00	1978	1979	19
+Athletic Bilbao	Sevilla FC	1:2	2:3	04.02.1979	00:00	1978	1979	19
+HÃ©rcules CF	AtlÃ©tico Madrid	0:0	0:0	04.02.1979	00:00	1978	1979	19
+Sporting GijÃ³n	Espanyol Barcelona	0:0	0:0	04.02.1979	00:00	1978	1979	19
+FC Barcelona	Valencia CF	1:1	1:1	04.02.1979	00:00	1978	1979	19
+Real Zaragoza	Sporting GijÃ³n	0:2	1:3	11.02.1979	00:00	1978	1979	20
+Racing Santander	Athletic Bilbao	1:0	1:1	11.02.1979	00:00	1978	1979	20
+Rayo Vallecano	Recreativo Huelva	1:0	1:1	11.02.1979	00:00	1978	1979	20
+Sevilla FC	Burgos CF	0:0	1:1	11.02.1979	00:00	1978	1979	20
+Real Madrid	HÃ©rcules CF	0:0	0:0	11.02.1979	00:00	1978	1979	20
+UD Salamanca	FC Barcelona	1:0	1:0	11.02.1979	00:00	1978	1979	20
+Espanyol Barcelona	AtlÃ©tico Madrid	1:0	2:1	11.02.1979	00:00	1978	1979	20
+Real Sociedad	Celta Vigo	0:0	1:0	11.02.1979	00:00	1978	1979	20
+Valencia CF	UD Las Palmas	2:1	3:1	11.02.1979	00:00	1978	1979	20
+UD Las Palmas	UD Salamanca	0:0	4:0	17.02.1979	00:00	1978	1979	21
+FC Barcelona	Real Madrid	0:0	2:0	17.02.1979	00:00	1978	1979	21
+Recreativo Huelva	Sevilla FC	1:1	2:1	18.02.1979	00:00	1978	1979	21
+Celta Vigo	Rayo Vallecano	2:0	2:1	18.02.1979	00:00	1978	1979	21
+Burgos CF	Racing Santander	0:0	1:0	18.02.1979	00:00	1978	1979	21
+Sporting GijÃ³n	Real Sociedad	1:1	3:2	18.02.1979	00:00	1978	1979	21
+Athletic Bilbao	Valencia CF	2:0	2:0	18.02.1979	00:00	1978	1979	21
+HÃ©rcules CF	Espanyol Barcelona	2:0	3:3	18.02.1979	00:00	1978	1979	21
+AtlÃ©tico Madrid	Real Zaragoza	0:0	3:1	18.02.1979	00:00	1978	1979	21
+FC Barcelona	HÃ©rcules CF	1:0	3:0	24.02.1979	00:00	1978	1979	22
+UD Salamanca	Athletic Bilbao	1:0	1:0	25.02.1979	00:00	1978	1979	22
+Racing Santander	Recreativo Huelva	0:0	1:0	25.02.1979	00:00	1978	1979	22
+Valencia CF	Burgos CF	1:0	1:0	25.02.1979	00:00	1978	1979	22
+Rayo Vallecano	Sporting GijÃ³n	1:0	2:1	25.02.1979	00:00	1978	1979	22
+Real Madrid	UD Las Palmas	1:1	1:1	25.02.1979	00:00	1978	1979	22
+Real Zaragoza	Espanyol Barcelona	5:1	8:1	25.02.1979	00:00	1978	1979	22
+Real Sociedad	AtlÃ©tico Madrid	0:2	0:2	25.02.1979	00:00	1978	1979	22
+Sevilla FC	Celta Vigo	0:0	1:0	25.02.1979	00:00	1978	1979	22
+Sporting GijÃ³n	Sevilla FC	1:0	2:0	11.03.1979	00:00	1978	1979	23
+AtlÃ©tico Madrid	Rayo Vallecano	0:0	0:0	11.03.1979	00:00	1978	1979	23
+Burgos CF	UD Salamanca	1:0	1:0	11.03.1979	00:00	1978	1979	23
+Celta Vigo	Racing Santander	1:0	2:0	11.03.1979	00:00	1978	1979	23
+Espanyol Barcelona	Real Sociedad	1:0	2:0	11.03.1979	00:00	1978	1979	23
+Recreativo Huelva	Valencia CF	2:1	4:3	11.03.1979	00:00	1978	1979	23
+UD Las Palmas	FC Barcelona	2:0	2:1	11.03.1979	00:00	1978	1979	23
+Athletic Bilbao	Real Madrid	2:1	3:3	11.03.1979	00:00	1978	1979	23
+HÃ©rcules CF	Real Zaragoza	1:0	1:0	11.03.1979	00:00	1978	1979	23
+UD Las Palmas	HÃ©rcules CF	1:0	2:1	17.03.1979	00:00	1978	1979	24
+Valencia CF	Celta Vigo	0:0	4:0	17.03.1979	00:00	1978	1979	24
+FC Barcelona	Athletic Bilbao	2:1	4:3	17.03.1979	00:00	1978	1979	24
+Rayo Vallecano	Espanyol Barcelona	2:0	2:0	18.03.1979	00:00	1978	1979	24
+Real Madrid	Burgos CF	2:0	4:1	18.03.1979	00:00	1978	1979	24
+Racing Santander	Sporting GijÃ³n	0:1	0:2	18.03.1979	00:00	1978	1979	24
+UD Salamanca	Recreativo Huelva	1:0	2:0	18.03.1979	00:00	1978	1979	24
+Real Sociedad	Real Zaragoza	2:0	4:1	18.03.1979	00:00	1978	1979	24
+Sevilla FC	AtlÃ©tico Madrid	1:1	1:1	18.03.1979	00:00	1978	1979	24
+Espanyol Barcelona	Sevilla FC	0:0	2:0	24.03.1979	00:00	1978	1979	25
+Sporting GijÃ³n	Valencia CF	1:0	2:0	25.03.1979	00:00	1978	1979	25
+Real Zaragoza	Rayo Vallecano	1:0	2:0	25.03.1979	00:00	1978	1979	25
+Celta Vigo	UD Salamanca	0:0	1:1	25.03.1979	00:00	1978	1979	25
+AtlÃ©tico Madrid	Racing Santander	1:0	3:0	25.03.1979	00:00	1978	1979	25
+HÃ©rcules CF	Real Sociedad	0:0	0:0	25.03.1979	00:00	1978	1979	25
+Burgos CF	FC Barcelona	1:0	1:0	25.03.1979	00:00	1978	1979	25
+Recreativo Huelva	Real Madrid	0:0	1:2	25.03.1979	00:00	1978	1979	25
+Athletic Bilbao	UD Las Palmas	2:0	3:0	25.03.1979	00:00	1978	1979	25
+UD Las Palmas	Burgos CF	2:0	3:1	07.04.1979	00:00	1978	1979	26
+FC Barcelona	Recreativo Huelva	1:0	2:0	07.04.1979	00:00	1978	1979	26
+Athletic Bilbao	HÃ©rcules CF	1:1	4:1	07.04.1979	00:00	1978	1979	26
+Real Madrid	Celta Vigo	1:0	2:0	07.04.1979	00:00	1978	1979	26
+Sevilla FC	Real Zaragoza	0:0	1:0	07.04.1979	00:00	1978	1979	26
+UD Salamanca	Sporting GijÃ³n	0:0	0:0	08.04.1979	00:00	1978	1979	26
+Rayo Vallecano	Real Sociedad	0:3	0:4	08.04.1979	00:00	1978	1979	26
+Valencia CF	AtlÃ©tico Madrid	0:0	2:0	08.04.1979	00:00	1978	1979	26
+Racing Santander	Espanyol Barcelona	0:0	0:1	08.04.1979	00:00	1978	1979	26
+Real Zaragoza	Racing Santander	2:0	3:2	14.04.1979	00:00	1978	1979	27
+Real Sociedad	Sevilla FC	0:1	2:1	14.04.1979	00:00	1978	1979	27
+Celta Vigo	FC Barcelona	1:0	2:1	15.04.1979	00:00	1978	1979	27
+HÃ©rcules CF	Rayo Vallecano	2:0	4:1	15.04.1979	00:00	1978	1979	27
+AtlÃ©tico Madrid	UD Salamanca	0:0	1:0	15.04.1979	00:00	1978	1979	27
+Recreativo Huelva	UD Las Palmas	1:2	2:4	15.04.1979	00:00	1978	1979	27
+Burgos CF	Athletic Bilbao	0:0	1:0	15.04.1979	00:00	1978	1979	27
+Sporting GijÃ³n	Real Madrid	0:0	0:1	15.04.1979	00:00	1978	1979	27
+Espanyol Barcelona	Valencia CF	0:0	1:0	15.04.1979	00:00	1978	1979	27
+UD Las Palmas	Celta Vigo	0:0	0:0	21.04.1979	00:00	1978	1979	28
+FC Barcelona	Sporting GijÃ³n	2:0	6:0	21.04.1979	00:00	1978	1979	28
+Burgos CF	HÃ©rcules CF	0:0	0:0	22.04.1979	00:00	1978	1979	28
+Real Madrid	AtlÃ©tico Madrid	1:0	1:1	22.04.1979	00:00	1978	1979	28
+Athletic Bilbao	Recreativo Huelva	3:3	5:3	22.04.1979	00:00	1978	1979	28
+Sevilla FC	Rayo Vallecano	1:0	2:0	22.04.1979	00:00	1978	1979	28
+UD Salamanca	Espanyol Barcelona	1:0	2:0	22.04.1979	00:00	1978	1979	28
+Valencia CF	Real Zaragoza	0:0	3:1	22.04.1979	00:00	1978	1979	28
+Racing Santander	Real Sociedad	1:0	1:0	22.04.1979	00:00	1978	1979	28
+Real Sociedad	Valencia CF	1:0	1:0	29.04.1979	00:00	1978	1979	29
+Recreativo Huelva	Burgos CF	1:2	1:5	29.04.1979	00:00	1978	1979	29
+Real Zaragoza	UD Salamanca	0:0	1:0	29.04.1979	00:00	1978	1979	29
+Rayo Vallecano	Racing Santander	0:1	2:1	29.04.1979	00:00	1978	1979	29
+HÃ©rcules CF	Sevilla FC	1:0	1:0	29.04.1979	00:00	1978	1979	29
+Celta Vigo	Athletic Bilbao	0:0	0:0	29.04.1979	00:00	1978	1979	29
+AtlÃ©tico Madrid	FC Barcelona	1:1	1:1	29.04.1979	00:00	1978	1979	29
+Espanyol Barcelona	Real Madrid	1:1	1:1	29.04.1979	00:00	1978	1979	29
+Sporting GijÃ³n	UD Las Palmas	0:1	3:1	29.04.1979	00:00	1978	1979	29
+Recreativo Huelva	HÃ©rcules CF	1:1	3:1	05.05.1979	00:00	1978	1979	30
+UD Las Palmas	AtlÃ©tico Madrid	0:0	1:0	05.05.1979	00:00	1978	1979	30
+FC Barcelona	Espanyol Barcelona	1:1	2:1	05.05.1979	00:00	1978	1979	30
+Real Madrid	Real Zaragoza	0:0	2:1	06.05.1979	00:00	1978	1979	30
+UD Salamanca	Real Sociedad	0:1	1:3	06.05.1979	00:00	1978	1979	30
+Burgos CF	Celta Vigo	0:0	1:0	06.05.1979	00:00	1978	1979	30
+Valencia CF	Rayo Vallecano	1:0	1:1	06.05.1979	00:00	1978	1979	30
+Racing Santander	Sevilla FC	2:3	2:3	06.05.1979	00:00	1978	1979	30
+Athletic Bilbao	Sporting GijÃ³n	0:0	1:1	06.05.1979	00:00	1978	1979	30
+Espanyol Barcelona	UD Las Palmas	0:1	2:1	12.05.1979	00:00	1978	1979	31
+Sevilla FC	Valencia CF	0:0	0:2	12.05.1979	00:00	1978	1979	31
+Real Zaragoza	FC Barcelona	1:1	1:1	12.05.1979	00:00	1978	1979	31
+Real Sociedad	Real Madrid	0:0	0:0	13.05.1979	00:00	1978	1979	31
+Celta Vigo	Recreativo Huelva	1:0	3:2	13.05.1979	00:00	1978	1979	31
+Sporting GijÃ³n	Burgos CF	2:0	3:0	13.05.1979	00:00	1978	1979	31
+Rayo Vallecano	UD Salamanca	0:0	0:0	13.05.1979	00:00	1978	1979	31
+AtlÃ©tico Madrid	Athletic Bilbao	1:0	4:0	13.05.1979	00:00	1978	1979	31
+HÃ©rcules CF	Racing Santander	0:0	1:0	13.05.1979	00:00	1978	1979	31
+Valencia CF	Racing Santander	1:0	3:1	19.05.1979	00:00	1978	1979	32
+Recreativo Huelva	Sporting GijÃ³n	1:0	1:1	19.05.1979	00:00	1978	1979	32
+UD Las Palmas	Real Zaragoza	0:0	0:0	19.05.1979	00:00	1978	1979	32
+Burgos CF	AtlÃ©tico Madrid	0:0	0:1	20.05.1979	00:00	1978	1979	32
+UD Salamanca	Sevilla FC	1:0	3:1	20.05.1979	00:00	1978	1979	32
+FC Barcelona	Real Sociedad	1:0	1:3	20.05.1979	00:00	1978	1979	32
+Real Madrid	Rayo Vallecano	2:1	4:1	20.05.1979	00:00	1978	1979	32
+Celta Vigo	HÃ©rcules CF	1:0	2:1	20.05.1979	00:00	1978	1979	32
+Athletic Bilbao	Espanyol Barcelona	1:0	1:0	20.05.1979	00:00	1978	1979	32
+Espanyol Barcelona	Burgos CF	1:0	1:0	26.05.1979	00:00	1978	1979	33
+Real Sociedad	UD Las Palmas	1:0	2:0	27.05.1979	00:00	1978	1979	33
+AtlÃ©tico Madrid	Recreativo Huelva	1:0	1:0	27.05.1979	00:00	1978	1979	33
+Valencia CF	HÃ©rcules CF	0:0	0:0	27.05.1979	00:00	1978	1979	33
+Sporting GijÃ³n	Celta Vigo	1:2	2:2	27.05.1979	00:00	1978	1979	33
+Real Zaragoza	Athletic Bilbao	1:1	1:1	27.05.1979	00:00	1978	1979	33
+Rayo Vallecano	FC Barcelona	0:1	1:1	27.05.1979	00:00	1978	1979	33
+Sevilla FC	Real Madrid	1:1	2:1	27.05.1979	00:00	1978	1979	33
+Racing Santander	UD Salamanca	2:2	2:4	27.05.1979	00:00	1978	1979	33
+Recreativo Huelva	Espanyol Barcelona	0:1	3:1	02.06.1979	00:00	1978	1979	34
+UD Salamanca	Valencia CF	1:1	3:1	02.06.1979	00:00	1978	1979	34
+HÃ©rcules CF	Sporting GijÃ³n	1:0	1:0	02.06.1979	00:00	1978	1979	34
+UD Las Palmas	Rayo Vallecano	1:1	1:2	03.06.1979	00:00	1978	1979	34
+Celta Vigo	AtlÃ©tico Madrid	0:0	2:2	03.06.1979	00:00	1978	1979	34
+FC Barcelona	Sevilla FC	1:0	1:0	03.06.1979	00:00	1978	1979	34
+Athletic Bilbao	Real Sociedad	0:0	1:1	03.06.1979	00:00	1978	1979	34
+Burgos CF	Real Zaragoza	0:0	1:1	03.06.1979	00:00	1978	1979	34
+Real Madrid	Racing Santander	1:1	5:1	03.06.1979	00:00	1978	1979	34

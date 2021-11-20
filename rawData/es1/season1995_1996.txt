@@ -1,0 +1,462 @@
+Deportivo La CoruÃ±a	Valencia CF	2:0	3:0	02.09.1995	00:00	1995	1996	1
+Sporting GijÃ³n	Albacete	3:0	3:0	02.09.1995	00:00	1995	1996	1
+Espanyol Barcelona	UD Salamanca	2:1	3:1	03.09.1995	00:00	1995	1996	1
+CP MÃ©rida	Real Betis	1:1	1:1	03.09.1995	00:00	1995	1996	1
+Athletic Bilbao	Racing Santander	2:0	4:0	03.09.1995	00:00	1995	1996	1
+AtlÃ©tico Madrid	Real Sociedad	1:1	4:1	03.09.1995	00:00	1995	1996	1
+Sevilla FC	CD Tenerife	0:0	0:1	03.09.1995	00:00	1995	1996	1
+Celta Vigo	SD Compostela	0:0	0:1	03.09.1995	00:00	1995	1996	1
+Real Zaragoza	Real Oviedo	1:0	1:0	03.09.1995	00:00	1995	1996	1
+Rayo Vallecano	Real Madrid	0:1	1:5	03.09.1995	00:00	1995	1996	1
+Real Valladolid	FC Barcelona	0:0	0:2	03.09.1995	00:00	1995	1996	1
+Albacete	Sevilla FC	2:1	3:2	09.09.1995	00:00	1995	1996	2
+FC Barcelona	CP MÃ©rida	1:1	2:2	09.09.1995	00:00	1995	1996	2
+Real Madrid	Athletic Bilbao	0:0	1:2	09.09.1995	00:00	1995	1996	2
+Real Betis	Real Zaragoza	2:0	3:1	09.09.1995	00:00	1995	1996	2
+Real Sociedad	Sporting GijÃ³n	1:0	2:0	10.09.1995	00:00	1995	1996	2
+Racing Santander	AtlÃ©tico Madrid	0:0	0:4	10.09.1995	00:00	1995	1996	2
+CD Tenerife	Espanyol Barcelona	0:2	1:4	10.09.1995	00:00	1995	1996	2
+UD Salamanca	Celta Vigo	0:0	0:1	10.09.1995	00:00	1995	1996	2
+SD Compostela	Deportivo La CoruÃ±a	2:0	4:0	10.09.1995	00:00	1995	1996	2
+Real Oviedo	Rayo Vallecano	1:0	2:0	10.09.1995	00:00	1995	1996	2
+Valencia CF	Real Valladolid	0:0	1:0	10.09.1995	00:00	1995	1996	2
+Athletic Bilbao	AtlÃ©tico Madrid	0:1	0:2	16.09.1995	00:00	1995	1996	3
+Real Valladolid	SD Compostela	0:0	0:0	16.09.1995	00:00	1995	1996	3
+CP MÃ©rida	Valencia CF	0:0	0:2	17.09.1995	00:00	1995	1996	3
+Sporting GijÃ³n	Racing Santander	2:1	4:2	17.09.1995	00:00	1995	1996	3
+Sevilla FC	Real Sociedad	1:1	2:1	17.09.1995	00:00	1995	1996	3
+Espanyol Barcelona	Albacete	0:0	1:0	17.09.1995	00:00	1995	1996	3
+Celta Vigo	CD Tenerife	2:2	2:2	17.09.1995	00:00	1995	1996	3
+Real Zaragoza	FC Barcelona	0:0	0:3	17.09.1995	00:00	1995	1996	3
+Rayo Vallecano	Real Betis	1:1	1:2	17.09.1995	00:00	1995	1996	3
+Real Madrid	Real Oviedo	2:2	2:3	17.09.1995	00:00	1995	1996	3
+Deportivo La CoruÃ±a	UD Salamanca	1:0	2:0	17.09.1995	00:00	1995	1996	3
+Racing Santander	Sevilla FC	1:1	1:1	23.09.1995	00:00	1995	1996	4
+FC Barcelona	Rayo Vallecano	1:0	2:0	23.09.1995	00:00	1995	1996	4
+Real Betis	Real Madrid	0:0	0:0	23.09.1995	00:00	1995	1996	4
+UD Salamanca	Real Valladolid	0:0	0:0	24.09.1995	00:00	1995	1996	4
+Real Sociedad	Espanyol Barcelona	0:1	0:1	24.09.1995	00:00	1995	1996	4
+AtlÃ©tico Madrid	Sporting GijÃ³n	1:0	2:0	24.09.1995	00:00	1995	1996	4
+Albacete	Celta Vigo	0:0	4:0	24.09.1995	00:00	1995	1996	4
+CD Tenerife	Deportivo La CoruÃ±a	0:0	1:1	24.09.1995	00:00	1995	1996	4
+Valencia CF	Real Zaragoza	0:0	0:0	24.09.1995	00:00	1995	1996	4
+Real Oviedo	Athletic Bilbao	0:0	0:0	24.09.1995	00:00	1995	1996	4
+SD Compostela	CP MÃ©rida	1:0	1:0	24.09.1995	00:00	1995	1996	4
+Real Madrid	FC Barcelona	1:1	1:1	30.09.1995	00:00	1995	1996	5
+Athletic Bilbao	Sporting GijÃ³n	1:0	2:1	30.09.1995	00:00	1995	1996	5
+Real Zaragoza	SD Compostela	1:0	1:0	01.10.1995	00:00	1995	1996	5
+Sevilla FC	AtlÃ©tico Madrid	0:0	0:0	01.10.1995	00:00	1995	1996	5
+Espanyol Barcelona	Racing Santander	0:0	1:0	01.10.1995	00:00	1995	1996	5
+Celta Vigo	Real Sociedad	1:1	1:1	01.10.1995	00:00	1995	1996	5
+Deportivo La CoruÃ±a	Albacete	1:0	5:0	01.10.1995	00:00	1995	1996	5
+CP MÃ©rida	UD Salamanca	0:0	0:0	01.10.1995	00:00	1995	1996	5
+Rayo Vallecano	Valencia CF	0:0	3:2	01.10.1995	00:00	1995	1996	5
+Real Oviedo	Real Betis	0:1	0:1	01.10.1995	00:00	1995	1996	5
+Real Valladolid	CD Tenerife	2:0	3:0	01.10.1995	00:00	1995	1996	5
+UD Salamanca	Real Zaragoza	0:0	0:1	04.10.1995	00:00	1995	1996	6
+Sporting GijÃ³n	Sevilla FC	1:1	3:1	04.10.1995	00:00	1995	1996	6
+Racing Santander	Celta Vigo	1:1	2:1	04.10.1995	00:00	1995	1996	6
+Real Sociedad	Deportivo La CoruÃ±a	1:1	2:1	04.10.1995	00:00	1995	1996	6
+SD Compostela	Rayo Vallecano	1:0	1:0	04.10.1995	00:00	1995	1996	6
+Valencia CF	Real Madrid	3:0	4:3	04.10.1995	00:00	1995	1996	6
+FC Barcelona	Real Oviedo	3:0	4:1	04.10.1995	00:00	1995	1996	6
+Real Betis	Athletic Bilbao	0:0	0:0	04.10.1995	00:00	1995	1996	6
+Albacete	Real Valladolid	2:1	4:2	04.10.1995	00:00	1995	1996	6
+CD Tenerife	CP MÃ©rida	1:0	1:0	04.10.1995	00:00	1995	1996	6
+AtlÃ©tico Madrid	Espanyol Barcelona	1:1	2:1	05.10.1995	00:00	1995	1996	6
+Real Betis	FC Barcelona	0:2	1:5	07.10.1995	00:00	1995	1996	7
+Real Zaragoza	CD Tenerife	0:0	0:2	08.10.1995	00:00	1995	1996	7
+Athletic Bilbao	Sevilla FC	0:0	1:1	08.10.1995	00:00	1995	1996	7
+Espanyol Barcelona	Sporting GijÃ³n	0:0	0:0	08.10.1995	00:00	1995	1996	7
+Celta Vigo	AtlÃ©tico Madrid	0:1	0:3	08.10.1995	00:00	1995	1996	7
+Deportivo La CoruÃ±a	Racing Santander	0:1	2:3	08.10.1995	00:00	1995	1996	7
+CP MÃ©rida	Albacete	0:0	1:1	08.10.1995	00:00	1995	1996	7
+Rayo Vallecano	UD Salamanca	0:0	1:4	08.10.1995	00:00	1995	1996	7
+Real Madrid	SD Compostela	2:1	2:1	08.10.1995	00:00	1995	1996	7
+Real Oviedo	Valencia CF	0:0	0:1	08.10.1995	00:00	1995	1996	7
+Real Valladolid	Real Sociedad	0:0	3:0	08.10.1995	00:00	1995	1996	7
+Sevilla FC	Espanyol Barcelona	0:2	0:3	14.10.1995	00:00	1995	1996	8
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	1:0	14.10.1995	00:00	1995	1996	8
+Valencia CF	Real Betis	1:1	1:1	14.10.1995	00:00	1995	1996	8
+FC Barcelona	Athletic Bilbao	1:0	4:1	14.10.1995	00:00	1995	1996	8
+SD Compostela	Real Oviedo	2:0	4:1	15.10.1995	00:00	1995	1996	8
+Racing Santander	Real Valladolid	0:0	0:0	15.10.1995	00:00	1995	1996	8
+Real Sociedad	CP MÃ©rida	0:1	1:2	15.10.1995	00:00	1995	1996	8
+Albacete	Real Zaragoza	0:0	0:1	15.10.1995	00:00	1995	1996	8
+Sporting GijÃ³n	Celta Vigo	0:0	1:0	15.10.1995	00:00	1995	1996	8
+CD Tenerife	Rayo Vallecano	0:0	2:2	15.10.1995	00:00	1995	1996	8
+UD Salamanca	Real Madrid	0:1	0:2	15.10.1995	00:00	1995	1996	8
+Real Valladolid	AtlÃ©tico Madrid	0:0	0:1	21.10.1995	00:00	1995	1996	9
+Real Madrid	CD Tenerife	1:0	2:0	22.10.1995	00:00	1995	1996	9
+Athletic Bilbao	Espanyol Barcelona	0:0	0:0	22.10.1995	00:00	1995	1996	9
+Celta Vigo	Sevilla FC	1:0	4:0	22.10.1995	00:00	1995	1996	9
+Deportivo La CoruÃ±a	Sporting GijÃ³n	1:0	1:0	22.10.1995	00:00	1995	1996	9
+CP MÃ©rida	Racing Santander	3:1	3:1	22.10.1995	00:00	1995	1996	9
+Rayo Vallecano	Albacete	0:0	2:0	22.10.1995	00:00	1995	1996	9
+Real Oviedo	UD Salamanca	1:0	2:2	22.10.1995	00:00	1995	1996	9
+Real Betis	SD Compostela	2:0	5:0	22.10.1995	00:00	1995	1996	9
+FC Barcelona	Valencia CF	0:0	1:0	22.10.1995	00:00	1995	1996	9
+Real Zaragoza	Real Sociedad	0:1	1:2	22.10.1995	00:00	1995	1996	9
+SD Compostela	FC Barcelona	0:1	2:1	28.10.1995	00:00	1995	1996	10
+Sevilla FC	Deportivo La CoruÃ±a	0:0	0:0	28.10.1995	00:00	1995	1996	10
+Albacete	Real Madrid	0:1	1:1	28.10.1995	00:00	1995	1996	10
+Racing Santander	Real Zaragoza	0:0	0:0	29.10.1995	00:00	1995	1996	10
+UD Salamanca	Real Betis	1:1	2:1	29.10.1995	00:00	1995	1996	10
+Espanyol Barcelona	Celta Vigo	1:0	2:2	29.10.1995	00:00	1995	1996	10
+Sporting GijÃ³n	Real Valladolid	1:2	4:2	29.10.1995	00:00	1995	1996	10
+AtlÃ©tico Madrid	CP MÃ©rida	0:1	1:1	29.10.1995	00:00	1995	1996	10
+Valencia CF	Athletic Bilbao	2:0	3:1	29.10.1995	00:00	1995	1996	10
+Real Sociedad	Rayo Vallecano	1:0	2:1	29.10.1995	00:00	1995	1996	10
+CD Tenerife	Real Oviedo	1:0	3:3	29.10.1995	00:00	1995	1996	10
+Real Madrid	Real Sociedad	1:0	3:2	04.11.1995	00:00	1995	1996	11
+Real Oviedo	Albacete	0:0	1:0	05.11.1995	00:00	1995	1996	11
+Deportivo La CoruÃ±a	Espanyol Barcelona	0:0	0:1	05.11.1995	00:00	1995	1996	11
+Real Valladolid	Sevilla FC	2:2	3:3	05.11.1995	00:00	1995	1996	11
+CP MÃ©rida	Sporting GijÃ³n	1:0	1:0	05.11.1995	00:00	1995	1996	11
+Rayo Vallecano	Racing Santander	0:1	1:2	05.11.1995	00:00	1995	1996	11
+Real Betis	CD Tenerife	2:1	3:3	05.11.1995	00:00	1995	1996	11
+FC Barcelona	UD Salamanca	3:0	4:1	05.11.1995	00:00	1995	1996	11
+Valencia CF	SD Compostela	2:1	5:2	05.11.1995	00:00	1995	1996	11
+Athletic Bilbao	Celta Vigo	2:0	3:0	05.11.1995	00:00	1995	1996	11
+Real Zaragoza	AtlÃ©tico Madrid	0:0	0:1	05.11.1995	00:00	1995	1996	11
+Celta Vigo	Deportivo La CoruÃ±a	0:0	0:0	11.11.1995	00:00	1995	1996	12
+Racing Santander	Real Madrid	1:0	2:0	12.11.1995	00:00	1995	1996	12
+Sevilla FC	CP MÃ©rida	1:0	3:0	12.11.1995	00:00	1995	1996	12
+Espanyol Barcelona	Real Valladolid	2:0	2:0	12.11.1995	00:00	1995	1996	12
+Sporting GijÃ³n	Real Zaragoza	3:0	4:1	12.11.1995	00:00	1995	1996	12
+AtlÃ©tico Madrid	Rayo Vallecano	0:0	0:0	12.11.1995	00:00	1995	1996	12
+Albacete	Real Betis	0:0	0:0	12.11.1995	00:00	1995	1996	12
+CD Tenerife	FC Barcelona	0:1	1:1	12.11.1995	00:00	1995	1996	12
+UD Salamanca	Valencia CF	2:0	4:0	12.11.1995	00:00	1995	1996	12
+SD Compostela	Athletic Bilbao	0:1	2:1	12.11.1995	00:00	1995	1996	12
+Real Sociedad	Real Oviedo	1:0	1:1	12.11.1995	00:00	1995	1996	12
+Real Zaragoza	Sevilla FC	0:0	0:1	18.11.1995	00:00	1995	1996	13
+Real Madrid	AtlÃ©tico Madrid	1:0	1:0	18.11.1995	00:00	1995	1996	13
+Real Betis	Real Sociedad	1:0	3:1	18.11.1995	00:00	1995	1996	13
+FC Barcelona	Albacete	1:0	3:0	18.11.1995	00:00	1995	1996	13
+SD Compostela	UD Salamanca	0:0	0:0	19.11.1995	00:00	1995	1996	13
+Real Valladolid	Celta Vigo	0:0	1:1	19.11.1995	00:00	1995	1996	13
+CP MÃ©rida	Espanyol Barcelona	0:0	0:1	19.11.1995	00:00	1995	1996	13
+Rayo Vallecano	Sporting GijÃ³n	1:0	2:0	19.11.1995	00:00	1995	1996	13
+Valencia CF	CD Tenerife	0:1	2:2	19.11.1995	00:00	1995	1996	13
+Athletic Bilbao	Deportivo La CoruÃ±a	0:0	1:0	19.11.1995	00:00	1995	1996	13
+Real Oviedo	Racing Santander	0:1	2:1	19.11.1995	00:00	1995	1996	13
+Real Sociedad	FC Barcelona	0:1	1:1	25.11.1995	00:00	1995	1996	14
+CD Tenerife	SD Compostela	0:1	1:1	26.11.1995	00:00	1995	1996	14
+Celta Vigo	CP MÃ©rida	1:0	2:0	26.11.1995	00:00	1995	1996	14
+Deportivo La CoruÃ±a	Real Valladolid	1:0	3:1	26.11.1995	00:00	1995	1996	14
+Espanyol Barcelona	Real Zaragoza	0:1	1:1	26.11.1995	00:00	1995	1996	14
+Sporting GijÃ³n	Real Madrid	0:0	0:0	26.11.1995	00:00	1995	1996	14
+Sevilla FC	Rayo Vallecano	0:0	1:0	26.11.1995	00:00	1995	1996	14
+AtlÃ©tico Madrid	Real Oviedo	1:0	3:0	26.11.1995	00:00	1995	1996	14
+Racing Santander	Real Betis	0:0	0:0	26.11.1995	00:00	1995	1996	14
+Albacete	Valencia CF	0:1	1:3	26.11.1995	00:00	1995	1996	14
+UD Salamanca	Athletic Bilbao	1:0	2:1	26.11.1995	00:00	1995	1996	14
+Real Madrid	Sevilla FC	3:0	4:1	02.12.1995	00:00	1995	1996	15
+FC Barcelona	Racing Santander	1:1	1:1	02.12.1995	00:00	1995	1996	15
+Rayo Vallecano	Espanyol Barcelona	1:0	1:0	02.12.1995	00:00	1995	1996	15
+Athletic Bilbao	Real Valladolid	1:1	2:1	03.12.1995	00:00	1995	1996	15
+CP MÃ©rida	Deportivo La CoruÃ±a	0:1	0:2	03.12.1995	00:00	1995	1996	15
+Real Zaragoza	Celta Vigo	0:0	0:0	03.12.1995	00:00	1995	1996	15
+Real Betis	AtlÃ©tico Madrid	2:1	2:1	03.12.1995	00:00	1995	1996	15
+Real Oviedo	Sporting GijÃ³n	0:0	1:0	03.12.1995	00:00	1995	1996	15
+SD Compostela	Albacete	2:0	3:1	03.12.1995	00:00	1995	1996	15
+UD Salamanca	CD Tenerife	1:1	1:2	03.12.1995	00:00	1995	1996	15
+Valencia CF	Real Sociedad	0:0	0:1	03.12.1995	00:00	1995	1996	15
+Racing Santander	Valencia CF	0:2	0:3	09.12.1995	00:00	1995	1996	16
+AtlÃ©tico Madrid	FC Barcelona	2:0	3:1	09.12.1995	00:00	1995	1996	16
+Real Sociedad	SD Compostela	0:1	0:1	10.12.1995	00:00	1995	1996	16
+Real Valladolid	CP MÃ©rida	1:1	1:1	10.12.1995	00:00	1995	1996	16
+Deportivo La CoruÃ±a	Real Zaragoza	1:2	2:3	10.12.1995	00:00	1995	1996	16
+Celta Vigo	Rayo Vallecano	1:0	2:0	10.12.1995	00:00	1995	1996	16
+Espanyol Barcelona	Real Madrid	1:0	3:1	10.12.1995	00:00	1995	1996	16
+Sporting GijÃ³n	Real Betis	1:0	2:3	10.12.1995	00:00	1995	1996	16
+Albacete	UD Salamanca	1:1	3:3	10.12.1995	00:00	1995	1996	16
+CD Tenerife	Athletic Bilbao	2:1	3:2	10.12.1995	00:00	1995	1996	16
+Sevilla FC	Real Oviedo	0:1	1:1	10.12.1995	00:00	1995	1996	16
+FC Barcelona	Sporting GijÃ³n	1:0	1:0	16.12.1995	00:00	1995	1996	17
+Real Betis	Sevilla FC	0:0	1:1	16.12.1995	00:00	1995	1996	17
+Real Madrid	Celta Vigo	1:0	1:0	17.12.1995	00:00	1995	1996	17
+SD Compostela	Racing Santander	0:0	2:0	17.12.1995	00:00	1995	1996	17
+Athletic Bilbao	CP MÃ©rida	0:0	1:1	17.12.1995	00:00	1995	1996	17
+Real Zaragoza	Real Valladolid	3:1	5:3	17.12.1995	00:00	1995	1996	17
+Rayo Vallecano	Deportivo La CoruÃ±a	0:3	0:6	17.12.1995	00:00	1995	1996	17
+UD Salamanca	Real Sociedad	3:1	3:3	17.12.1995	00:00	1995	1996	17
+CD Tenerife	Albacete	1:1	1:3	17.12.1995	00:00	1995	1996	17
+Real Oviedo	Espanyol Barcelona	1:1	1:2	17.12.1995	00:00	1995	1996	17
+Valencia CF	AtlÃ©tico Madrid	0:0	0:1	17.12.1995	00:00	1995	1996	17
+Sporting GijÃ³n	Valencia CF	0:1	1:3	20.12.1995	00:00	1995	1996	18
+CP MÃ©rida	Real Zaragoza	1:0	1:1	20.12.1995	00:00	1995	1996	18
+Real Valladolid	Rayo Vallecano	0:0	1:1	20.12.1995	00:00	1995	1996	18
+Celta Vigo	Real Oviedo	0:0	1:0	20.12.1995	00:00	1995	1996	18
+Sevilla FC	FC Barcelona	1:0	1:0	20.12.1995	00:00	1995	1996	18
+AtlÃ©tico Madrid	SD Compostela	1:0	3:0	20.12.1995	00:00	1995	1996	18
+Racing Santander	UD Salamanca	1:1	2:1	20.12.1995	00:00	1995	1996	18
+Real Sociedad	CD Tenerife	0:0	0:1	20.12.1995	00:00	1995	1996	18
+Albacete	Athletic Bilbao	0:0	2:0	20.12.1995	00:00	1995	1996	18
+Espanyol Barcelona	Real Betis	1:0	1:1	20.12.1995	00:00	1995	1996	18
+Deportivo La CoruÃ±a	Real Madrid	3:0	3:0	21.12.1995	00:00	1995	1996	18
+Real Oviedo	Deportivo La CoruÃ±a	0:0	0:2	03.01.1996	00:00	1995	1996	19
+Athletic Bilbao	Real Zaragoza	0:0	1:0	03.01.1996	00:00	1995	1996	19
+Rayo Vallecano	CP MÃ©rida	3:0	4:1	03.01.1996	00:00	1995	1996	19
+Real Madrid	Real Valladolid	3:1	4:1	03.01.1996	00:00	1995	1996	19
+Valencia CF	Sevilla FC	0:0	1:0	03.01.1996	00:00	1995	1996	19
+SD Compostela	Sporting GijÃ³n	1:0	1:0	03.01.1996	00:00	1995	1996	19
+UD Salamanca	AtlÃ©tico Madrid	0:0	1:3	03.01.1996	00:00	1995	1996	19
+CD Tenerife	Racing Santander	1:0	2:0	03.01.1996	00:00	1995	1996	19
+Albacete	Real Sociedad	2:3	3:5	03.01.1996	00:00	1995	1996	19
+Real Betis	Celta Vigo	0:0	0:3	03.01.1996	00:00	1995	1996	19
+FC Barcelona	Espanyol Barcelona	1:0	2:1	04.01.1996	00:00	1995	1996	19
+AtlÃ©tico Madrid	CD Tenerife	1:0	3:1	06.01.1996	00:00	1995	1996	20
+Athletic Bilbao	Real Sociedad	0:0	0:0	06.01.1996	00:00	1995	1996	20
+CP MÃ©rida	Real Madrid	1:2	2:2	07.01.1996	00:00	1995	1996	20
+Real Zaragoza	Rayo Vallecano	1:0	1:1	07.01.1996	00:00	1995	1996	20
+Real Valladolid	Real Oviedo	2:2	2:2	07.01.1996	00:00	1995	1996	20
+Deportivo La CoruÃ±a	Real Betis	0:0	0:0	07.01.1996	00:00	1995	1996	20
+Celta Vigo	FC Barcelona	0:0	1:0	07.01.1996	00:00	1995	1996	20
+Sevilla FC	SD Compostela	0:0	0:1	07.01.1996	00:00	1995	1996	20
+Sporting GijÃ³n	UD Salamanca	2:1	3:2	07.01.1996	00:00	1995	1996	20
+Racing Santander	Albacete	2:2	5:5	07.01.1996	00:00	1995	1996	20
+Espanyol Barcelona	Valencia CF	1:0	2:0	07.01.1996	00:00	1995	1996	20
+Albacete	AtlÃ©tico Madrid	0:0	1:1	13.01.1996	00:00	1995	1996	21
+Real Betis	Real Valladolid	0:0	3:0	13.01.1996	00:00	1995	1996	21
+UD Salamanca	Sevilla FC	2:0	4:1	14.01.1996	00:00	1995	1996	21
+Rayo Vallecano	Athletic Bilbao	0:1	2:2	14.01.1996	00:00	1995	1996	21
+Real Madrid	Real Zaragoza	0:1	2:2	14.01.1996	00:00	1995	1996	21
+Real Oviedo	CP MÃ©rida	0:0	0:0	14.01.1996	00:00	1995	1996	21
+FC Barcelona	Deportivo La CoruÃ±a	0:1	1:1	14.01.1996	00:00	1995	1996	21
+SD Compostela	Espanyol Barcelona	1:1	2:1	14.01.1996	00:00	1995	1996	21
+CD Tenerife	Sporting GijÃ³n	1:0	3:0	14.01.1996	00:00	1995	1996	21
+Real Sociedad	Racing Santander	1:0	2:1	14.01.1996	00:00	1995	1996	21
+Valencia CF	Celta Vigo	1:0	3:0	14.01.1996	00:00	1995	1996	21
+Valencia CF	Deportivo La CoruÃ±a	0:1	2:1	20.01.1996	00:00	1995	1996	22
+UD Salamanca	Espanyol Barcelona	1:0	2:2	21.01.1996	00:00	1995	1996	22
+SD Compostela	Celta Vigo	1:1	1:1	21.01.1996	00:00	1995	1996	22
+Racing Santander	Athletic Bilbao	1:0	1:1	21.01.1996	00:00	1995	1996	22
+Real Sociedad	AtlÃ©tico Madrid	1:0	1:0	21.01.1996	00:00	1995	1996	22
+Albacete	Sporting GijÃ³n	1:2	1:3	21.01.1996	00:00	1995	1996	22
+FC Barcelona	Real Valladolid	0:0	1:0	21.01.1996	00:00	1995	1996	22
+Real Betis	CP MÃ©rida	0:0	0:1	21.01.1996	00:00	1995	1996	22
+Real Oviedo	Real Zaragoza	1:1	1:1	21.01.1996	00:00	1995	1996	22
+Real Madrid	Rayo Vallecano	1:1	1:2	21.01.1996	00:00	1995	1996	22
+CD Tenerife	Sevilla FC	2:0	4:2	21.01.1996	00:00	1995	1996	22
+Deportivo La CoruÃ±a	SD Compostela	1:0	2:0	24.01.1996	00:00	1995	1996	23
+AtlÃ©tico Madrid	Racing Santander	1:0	2:0	24.01.1996	00:00	1995	1996	23
+Sporting GijÃ³n	Real Sociedad	0:1	1:1	24.01.1996	00:00	1995	1996	23
+Sevilla FC	Albacete	1:0	1:1	24.01.1996	00:00	1995	1996	23
+Celta Vigo	UD Salamanca	2:1	2:1	24.01.1996	00:00	1995	1996	23
+Real Valladolid	Valencia CF	0:3	2:5	24.01.1996	00:00	1995	1996	23
+Real Zaragoza	Real Betis	0:2	1:2	24.01.1996	00:00	1995	1996	23
+Rayo Vallecano	Real Oviedo	0:1	1:2	24.01.1996	00:00	1995	1996	23
+Athletic Bilbao	Real Madrid	0:1	0:5	24.01.1996	00:00	1995	1996	23
+Espanyol Barcelona	CD Tenerife	0:1	2:1	24.01.1996	00:00	1995	1996	23
+CP MÃ©rida	FC Barcelona	0:0	0:0	25.01.1996	00:00	1995	1996	23
+UD Salamanca	Deportivo La CoruÃ±a	0:3	0:5	27.01.1996	00:00	1995	1996	24
+Albacete	Espanyol Barcelona	0:0	0:0	28.01.1996	00:00	1995	1996	24
+Valencia CF	CP MÃ©rida	2:0	4:1	28.01.1996	00:00	1995	1996	24
+AtlÃ©tico Madrid	Athletic Bilbao	2:1	4:1	28.01.1996	00:00	1995	1996	24
+Racing Santander	Sporting GijÃ³n	1:1	1:1	28.01.1996	00:00	1995	1996	24
+Real Sociedad	Sevilla FC	1:0	1:0	28.01.1996	00:00	1995	1996	24
+FC Barcelona	Real Zaragoza	1:0	3:1	28.01.1996	00:00	1995	1996	24
+Real Betis	Rayo Vallecano	0:0	0:0	28.01.1996	00:00	1995	1996	24
+Real Oviedo	Real Madrid	1:1	1:2	28.01.1996	00:00	1995	1996	24
+CD Tenerife	Celta Vigo	1:0	1:0	28.01.1996	00:00	1995	1996	24
+SD Compostela	Real Valladolid	0:2	1:3	28.01.1996	00:00	1995	1996	24
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:1	1:2	03.02.1996	00:00	1995	1996	25
+Real Zaragoza	Valencia CF	1:0	4:1	03.02.1996	00:00	1995	1996	25
+Rayo Vallecano	FC Barcelona	1:0	1:1	04.02.1996	00:00	1995	1996	25
+Espanyol Barcelona	Real Sociedad	0:0	0:0	04.02.1996	00:00	1995	1996	25
+Celta Vigo	Albacete	1:0	2:2	04.02.1996	00:00	1995	1996	25
+Deportivo La CoruÃ±a	CD Tenerife	0:1	1:1	04.02.1996	00:00	1995	1996	25
+CP MÃ©rida	SD Compostela	0:0	0:2	04.02.1996	00:00	1995	1996	25
+Real Madrid	Real Betis	2:2	4:2	04.02.1996	00:00	1995	1996	25
+Athletic Bilbao	Real Oviedo	0:1	0:1	04.02.1996	00:00	1995	1996	25
+Sevilla FC	Racing Santander	0:1	0:1	04.02.1996	00:00	1995	1996	25
+Real Valladolid	UD Salamanca	0:0	1:0	04.02.1996	00:00	1995	1996	25
+Valencia CF	Rayo Vallecano	2:0	3:0	10.02.1996	00:00	1995	1996	26
+FC Barcelona	Real Madrid	1:0	3:0	10.02.1996	00:00	1995	1996	26
+AtlÃ©tico Madrid	Sevilla FC	0:0	0:1	10.02.1996	00:00	1995	1996	26
+Sporting GijÃ³n	Athletic Bilbao	0:1	1:2	11.02.1996	00:00	1995	1996	26
+Racing Santander	Espanyol Barcelona	1:0	1:1	11.02.1996	00:00	1995	1996	26
+CD Tenerife	Real Valladolid	1:0	1:0	11.02.1996	00:00	1995	1996	26
+Real Sociedad	Celta Vigo	1:0	3:1	11.02.1996	00:00	1995	1996	26
+Albacete	Deportivo La CoruÃ±a	1:0	1:0	11.02.1996	00:00	1995	1996	26
+SD Compostela	Real Zaragoza	0:2	3:2	11.02.1996	00:00	1995	1996	26
+Real Betis	Real Oviedo	1:0	2:1	11.02.1996	00:00	1995	1996	26
+UD Salamanca	CP MÃ©rida	1:0	2:2	11.02.1996	00:00	1995	1996	26
+Real Zaragoza	UD Salamanca	1:1	1:1	17.02.1996	00:00	1995	1996	27
+Real Madrid	Valencia CF	0:0	0:0	17.02.1996	00:00	1995	1996	27
+Rayo Vallecano	SD Compostela	0:1	0:1	18.02.1996	00:00	1995	1996	27
+Espanyol Barcelona	AtlÃ©tico Madrid	0:1	0:2	18.02.1996	00:00	1995	1996	27
+Celta Vigo	Racing Santander	0:0	0:0	18.02.1996	00:00	1995	1996	27
+Deportivo La CoruÃ±a	Real Sociedad	0:1	1:1	18.02.1996	00:00	1995	1996	27
+CP MÃ©rida	CD Tenerife	2:0	2:0	18.02.1996	00:00	1995	1996	27
+Sevilla FC	Sporting GijÃ³n	0:0	2:0	18.02.1996	00:00	1995	1996	27
+Real Oviedo	FC Barcelona	1:1	1:2	18.02.1996	00:00	1995	1996	27
+Athletic Bilbao	Real Betis	0:0	0:1	18.02.1996	00:00	1995	1996	27
+Real Valladolid	Albacete	1:0	3:0	18.02.1996	00:00	1995	1996	27
+Racing Santander	Deportivo La CoruÃ±a	1:0	2:1	24.02.1996	00:00	1995	1996	28
+Albacete	CP MÃ©rida	1:0	2:0	25.02.1996	00:00	1995	1996	28
+Sporting GijÃ³n	Espanyol Barcelona	1:1	2:3	25.02.1996	00:00	1995	1996	28
+Sevilla FC	Athletic Bilbao	1:0	1:1	25.02.1996	00:00	1995	1996	28
+AtlÃ©tico Madrid	Celta Vigo	2:2	3:2	25.02.1996	00:00	1995	1996	28
+Real Sociedad	Real Valladolid	0:0	1:0	25.02.1996	00:00	1995	1996	28
+CD Tenerife	Real Zaragoza	1:1	1:2	25.02.1996	00:00	1995	1996	28
+UD Salamanca	Rayo Vallecano	0:1	1:2	25.02.1996	00:00	1995	1996	28
+SD Compostela	Real Madrid	1:1	3:3	25.02.1996	00:00	1995	1996	28
+Valencia CF	Real Oviedo	1:1	3:1	25.02.1996	00:00	1995	1996	28
+FC Barcelona	Real Betis	0:0	1:0	25.02.1996	00:00	1995	1996	28
+CP MÃ©rida	Real Sociedad	0:1	1:2	02.03.1996	00:00	1995	1996	29
+Real Valladolid	Racing Santander	1:0	3:1	02.03.1996	00:00	1995	1996	29
+Real Madrid	UD Salamanca	2:0	5:0	02.03.1996	00:00	1995	1996	29
+Athletic Bilbao	FC Barcelona	0:0	0:0	02.03.1996	00:00	1995	1996	29
+Espanyol Barcelona	Sevilla FC	0:0	0:1	02.03.1996	00:00	1995	1996	29
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:1	2:2	03.03.1996	00:00	1995	1996	29
+Real Zaragoza	Albacete	1:1	3:1	03.03.1996	00:00	1995	1996	29
+Real Oviedo	SD Compostela	1:1	3:1	03.03.1996	00:00	1995	1996	29
+Rayo Vallecano	CD Tenerife	0:1	2:4	03.03.1996	00:00	1995	1996	29
+Celta Vigo	Sporting GijÃ³n	0:0	0:0	03.03.1996	00:00	1995	1996	29
+Real Betis	Valencia CF	0:0	3:0	03.03.1996	00:00	1995	1996	29
+Valencia CF	FC Barcelona	2:0	4:1	09.03.1996	00:00	1995	1996	30
+Albacete	Rayo Vallecano	1:1	1:2	10.03.1996	00:00	1995	1996	30
+Espanyol Barcelona	Athletic Bilbao	1:0	3:0	10.03.1996	00:00	1995	1996	30
+Sevilla FC	Celta Vigo	0:0	0:0	10.03.1996	00:00	1995	1996	30
+Sporting GijÃ³n	Deportivo La CoruÃ±a	1:0	1:1	10.03.1996	00:00	1995	1996	30
+AtlÃ©tico Madrid	Real Valladolid	0:0	0:2	10.03.1996	00:00	1995	1996	30
+Real Sociedad	Real Zaragoza	1:1	3:1	10.03.1996	00:00	1995	1996	30
+CD Tenerife	Real Madrid	1:0	3:0	10.03.1996	00:00	1995	1996	30
+UD Salamanca	Real Oviedo	0:0	0:1	10.03.1996	00:00	1995	1996	30
+SD Compostela	Real Betis	0:0	1:2	10.03.1996	00:00	1995	1996	30
+Racing Santander	CP MÃ©rida	0:0	2:0	10.03.1996	00:00	1995	1996	30
+FC Barcelona	SD Compostela	1:0	1:0	16.03.1996	00:00	1995	1996	31
+Real Zaragoza	Racing Santander	1:2	1:2	16.03.1996	00:00	1995	1996	31
+Real Madrid	Albacete	1:0	2:0	16.03.1996	00:00	1995	1996	31
+CP MÃ©rida	AtlÃ©tico Madrid	0:0	0:1	17.03.1996	00:00	1995	1996	31
+Real Betis	UD Salamanca	1:0	4:0	17.03.1996	00:00	1995	1996	31
+Celta Vigo	Espanyol Barcelona	4:0	4:2	17.03.1996	00:00	1995	1996	31
+Deportivo La CoruÃ±a	Sevilla FC	2:1	3:2	17.03.1996	00:00	1995	1996	31
+Real Valladolid	Sporting GijÃ³n	0:0	1:0	17.03.1996	00:00	1995	1996	31
+Athletic Bilbao	Valencia CF	0:0	0:1	17.03.1996	00:00	1995	1996	31
+Rayo Vallecano	Real Sociedad	1:0	2:0	17.03.1996	00:00	1995	1996	31
+Real Oviedo	CD Tenerife	0:1	1:3	17.03.1996	00:00	1995	1996	31
+Sporting GijÃ³n	CP MÃ©rida	1:1	3:1	23.03.1996	00:00	1995	1996	32
+CD Tenerife	Real Betis	1:0	1:2	23.03.1996	00:00	1995	1996	32
+Albacete	Real Oviedo	0:0	0:1	24.03.1996	00:00	1995	1996	32
+Espanyol Barcelona	Deportivo La CoruÃ±a	0:0	0:0	24.03.1996	00:00	1995	1996	32
+Sevilla FC	Real Valladolid	1:0	1:1	24.03.1996	00:00	1995	1996	32
+AtlÃ©tico Madrid	Real Zaragoza	1:1	1:1	24.03.1996	00:00	1995	1996	32
+Real Sociedad	Real Madrid	1:1	1:1	24.03.1996	00:00	1995	1996	32
+UD Salamanca	FC Barcelona	1:3	1:3	24.03.1996	00:00	1995	1996	32
+SD Compostela	Valencia CF	0:2	0:4	24.03.1996	00:00	1995	1996	32
+Celta Vigo	Athletic Bilbao	2:1	3:1	24.03.1996	00:00	1995	1996	32
+Racing Santander	Rayo Vallecano	0:0	1:2	24.03.1996	00:00	1995	1996	32
+Real Zaragoza	Sporting GijÃ³n	1:1	1:1	27.03.1996	00:00	1995	1996	33
+Deportivo La CoruÃ±a	Celta Vigo	1:0	2:1	27.03.1996	00:00	1995	1996	33
+Real Valladolid	Espanyol Barcelona	0:0	0:0	27.03.1996	00:00	1995	1996	33
+CP MÃ©rida	Sevilla FC	2:0	3:2	27.03.1996	00:00	1995	1996	33
+Real Madrid	Racing Santander	0:0	1:2	27.03.1996	00:00	1995	1996	33
+Real Betis	Albacete	2:1	2:3	27.03.1996	00:00	1995	1996	33
+FC Barcelona	CD Tenerife	2:2	2:2	27.03.1996	00:00	1995	1996	33
+Valencia CF	UD Salamanca	1:0	2:0	27.03.1996	00:00	1995	1996	33
+Athletic Bilbao	SD Compostela	0:0	0:0	27.03.1996	00:00	1995	1996	33
+Rayo Vallecano	AtlÃ©tico Madrid	0:1	0:3	27.03.1996	00:00	1995	1996	33
+Real Oviedo	Real Sociedad	0:0	0:0	28.03.1996	00:00	1995	1996	33
+Albacete	FC Barcelona	0:0	0:1	30.03.1996	00:00	1995	1996	34
+AtlÃ©tico Madrid	Real Madrid	0:1	1:2	30.03.1996	00:00	1995	1996	34
+Real Sociedad	Real Betis	0:1	1:1	31.03.1996	00:00	1995	1996	34
+Celta Vigo	Real Valladolid	1:0	1:1	31.03.1996	00:00	1995	1996	34
+Espanyol Barcelona	CP MÃ©rida	0:0	3:0	31.03.1996	00:00	1995	1996	34
+Sevilla FC	Real Zaragoza	0:1	1:1	31.03.1996	00:00	1995	1996	34
+Racing Santander	Real Oviedo	0:0	0:0	31.03.1996	00:00	1995	1996	34
+Deportivo La CoruÃ±a	Athletic Bilbao	0:0	0:0	31.03.1996	00:00	1995	1996	34
+CD Tenerife	Valencia CF	0:1	2:1	31.03.1996	00:00	1995	1996	34
+UD Salamanca	SD Compostela	0:0	1:0	31.03.1996	00:00	1995	1996	34
+Sporting GijÃ³n	Rayo Vallecano	2:1	3:1	31.03.1996	00:00	1995	1996	34
+Real Zaragoza	Espanyol Barcelona	1:1	1:1	06.04.1996	00:00	1995	1996	35
+FC Barcelona	Real Sociedad	1:0	1:0	06.04.1996	00:00	1995	1996	35
+Real Oviedo	AtlÃ©tico Madrid	0:1	1:1	06.04.1996	00:00	1995	1996	35
+Real Betis	Racing Santander	1:0	2:2	07.04.1996	00:00	1995	1996	35
+CP MÃ©rida	Celta Vigo	1:0	2:0	07.04.1996	00:00	1995	1996	35
+Real Valladolid	Deportivo La CoruÃ±a	2:1	2:2	07.04.1996	00:00	1995	1996	35
+Rayo Vallecano	Sevilla FC	0:0	0:0	07.04.1996	00:00	1995	1996	35
+Real Madrid	Sporting GijÃ³n	0:1	0:1	07.04.1996	00:00	1995	1996	35
+Valencia CF	Albacete	0:0	1:0	07.04.1996	00:00	1995	1996	35
+SD Compostela	CD Tenerife	0:2	0:2	07.04.1996	00:00	1995	1996	35
+Athletic Bilbao	UD Salamanca	1:0	3:1	07.04.1996	00:00	1995	1996	35
+Sevilla FC	Real Madrid	0:0	0:1	13.04.1996	00:00	1995	1996	36
+Racing Santander	FC Barcelona	0:1	1:1	13.04.1996	00:00	1995	1996	36
+Sporting GijÃ³n	Real Oviedo	0:0	0:1	14.04.1996	00:00	1995	1996	36
+Deportivo La CoruÃ±a	CP MÃ©rida	0:0	2:1	14.04.1996	00:00	1995	1996	36
+Celta Vigo	Real Zaragoza	1:0	1:1	14.04.1996	00:00	1995	1996	36
+CD Tenerife	UD Salamanca	2:0	4:0	14.04.1996	00:00	1995	1996	36
+Espanyol Barcelona	Rayo Vallecano	1:1	4:2	14.04.1996	00:00	1995	1996	36
+Real Valladolid	Athletic Bilbao	0:0	1:1	14.04.1996	00:00	1995	1996	36
+Albacete	SD Compostela	1:0	2:1	14.04.1996	00:00	1995	1996	36
+AtlÃ©tico Madrid	Real Betis	1:1	1:1	14.04.1996	00:00	1995	1996	36
+Real Sociedad	Valencia CF	4:0	5:2	14.04.1996	00:00	1995	1996	36
+FC Barcelona	AtlÃ©tico Madrid	1:1	1:3	20.04.1996	00:00	1995	1996	37
+Valencia CF	Racing Santander	2:1	2:1	20.04.1996	00:00	1995	1996	37
+SD Compostela	Real Sociedad	1:0	2:0	21.04.1996	00:00	1995	1996	37
+Real Zaragoza	Deportivo La CoruÃ±a	1:2	2:3	21.04.1996	00:00	1995	1996	37
+Rayo Vallecano	Celta Vigo	1:3	1:3	21.04.1996	00:00	1995	1996	37
+Real Madrid	Espanyol Barcelona	0:0	1:2	21.04.1996	00:00	1995	1996	37
+Real Betis	Sporting GijÃ³n	1:3	2:5	21.04.1996	00:00	1995	1996	37
+CP MÃ©rida	Real Valladolid	0:0	1:0	21.04.1996	00:00	1995	1996	37
+UD Salamanca	Albacete	1:2	2:4	21.04.1996	00:00	1995	1996	37
+Athletic Bilbao	CD Tenerife	1:0	2:0	21.04.1996	00:00	1995	1996	37
+Real Oviedo	Sevilla FC	1:0	2:3	21.04.1996	00:00	1995	1996	37
+AtlÃ©tico Madrid	Valencia CF	1:1	2:3	27.04.1996	00:00	1995	1996	38
+Celta Vigo	Real Madrid	1:1	1:1	28.04.1996	00:00	1995	1996	38
+CP MÃ©rida	Athletic Bilbao	0:0	1:0	28.04.1996	00:00	1995	1996	38
+Real Valladolid	Real Zaragoza	0:0	0:0	28.04.1996	00:00	1995	1996	38
+Deportivo La CoruÃ±a	Rayo Vallecano	0:0	1:0	28.04.1996	00:00	1995	1996	38
+Sevilla FC	Real Betis	1:0	1:0	28.04.1996	00:00	1995	1996	38
+Sporting GijÃ³n	FC Barcelona	0:3	0:3	28.04.1996	00:00	1995	1996	38
+Racing Santander	SD Compostela	1:0	1:0	28.04.1996	00:00	1995	1996	38
+Real Sociedad	UD Salamanca	1:0	1:0	28.04.1996	00:00	1995	1996	38
+Albacete	CD Tenerife	0:0	0:0	28.04.1996	00:00	1995	1996	38
+Espanyol Barcelona	Real Oviedo	2:0	5:0	08.05.1996	00:00	1995	1996	38
+SD Compostela	AtlÃ©tico Madrid	0:1	1:3	04.05.1996	00:00	1995	1996	39
+Valencia CF	Sporting GijÃ³n	0:0	1:0	04.05.1996	00:00	1995	1996	39
+Real Betis	Espanyol Barcelona	1:2	2:3	05.05.1996	00:00	1995	1996	39
+Real Madrid	Deportivo La CoruÃ±a	0:0	1:0	05.05.1996	00:00	1995	1996	39
+Rayo Vallecano	Real Valladolid	0:0	0:2	05.05.1996	00:00	1995	1996	39
+Real Oviedo	Celta Vigo	0:1	1:1	05.05.1996	00:00	1995	1996	39
+UD Salamanca	Racing Santander	4:0	5:0	05.05.1996	00:00	1995	1996	39
+CD Tenerife	Real Sociedad	0:0	1:0	05.05.1996	00:00	1995	1996	39
+Athletic Bilbao	Albacete	1:0	2:2	05.05.1996	00:00	1995	1996	39
+Real Zaragoza	CP MÃ©rida	1:1	3:1	05.05.1996	00:00	1995	1996	39
+FC Barcelona	Sevilla FC	0:1	1:1	05.05.1996	00:00	1995	1996	39
+Sevilla FC	Valencia CF	0:1	1:2	12.05.1996	00:00	1995	1996	40
+Real Zaragoza	Athletic Bilbao	0:0	1:0	12.05.1996	00:00	1995	1996	40
+CP MÃ©rida	Rayo Vallecano	0:0	0:1	12.05.1996	00:00	1995	1996	40
+Real Valladolid	Real Madrid	0:0	0:3	12.05.1996	00:00	1995	1996	40
+Celta Vigo	Real Betis	0:0	2:0	12.05.1996	00:00	1995	1996	40
+Sporting GijÃ³n	SD Compostela	1:1	2:1	12.05.1996	00:00	1995	1996	40
+AtlÃ©tico Madrid	UD Salamanca	1:0	2:1	12.05.1996	00:00	1995	1996	40
+Racing Santander	CD Tenerife	1:0	1:2	12.05.1996	00:00	1995	1996	40
+Real Sociedad	Albacete	3:1	8:1	12.05.1996	00:00	1995	1996	40
+Deportivo La CoruÃ±a	Real Oviedo	0:1	0:4	12.05.1996	00:00	1995	1996	40
+Espanyol Barcelona	FC Barcelona	0:0	1:1	15.05.1996	00:00	1995	1996	40
+CD Tenerife	AtlÃ©tico Madrid	0:0	1:1	18.05.1996	00:00	1995	1996	41
+FC Barcelona	Celta Vigo	0:1	3:2	19.05.1996	00:00	1995	1996	41
+Real Sociedad	Athletic Bilbao	2:1	2:2	19.05.1996	00:00	1995	1996	41
+Real Madrid	CP MÃ©rida	3:0	4:0	19.05.1996	00:00	1995	1996	41
+Real Oviedo	Real Valladolid	2:1	3:8	19.05.1996	00:00	1995	1996	41
+Rayo Vallecano	Real Zaragoza	1:0	4:3	19.05.1996	00:00	1995	1996	41
+Real Betis	Deportivo La CoruÃ±a	1:0	1:0	19.05.1996	00:00	1995	1996	41
+SD Compostela	Sevilla FC	0:0	0:0	19.05.1996	00:00	1995	1996	41
+Albacete	Racing Santander	0:2	2:2	19.05.1996	00:00	1995	1996	41
+Valencia CF	Espanyol Barcelona	0:0	1:0	19.05.1996	00:00	1995	1996	41
+UD Salamanca	Sporting GijÃ³n	3:0	3:0	19.05.1996	00:00	1995	1996	41
+Sporting GijÃ³n	CD Tenerife	0:1	0:2	25.05.1996	00:00	1995	1996	42
+Athletic Bilbao	Rayo Vallecano	0:0	3:1	25.05.1996	00:00	1995	1996	42
+Real Zaragoza	Real Madrid	0:1	0:1	25.05.1996	00:00	1995	1996	42
+Real Valladolid	Real Betis	2:0	3:1	25.05.1996	00:00	1995	1996	42
+Celta Vigo	Valencia CF	0:1	1:1	25.05.1996	00:00	1995	1996	42
+Sevilla FC	UD Salamanca	1:0	3:1	25.05.1996	00:00	1995	1996	42
+AtlÃ©tico Madrid	Albacete	2:0	2:0	25.05.1996	00:00	1995	1996	42
+Racing Santander	Real Sociedad	2:2	2:3	25.05.1996	00:00	1995	1996	42
+Espanyol Barcelona	SD Compostela	0:0	0:0	25.05.1996	00:00	1995	1996	42
+Deportivo La CoruÃ±a	FC Barcelona	1:0	2:2	26.05.1996	00:00	1995	1996	42
+CP MÃ©rida	Real Oviedo	1:0	3:1	26.05.1996	00:00	1995	1996	42

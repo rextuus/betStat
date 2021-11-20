@@ -1,0 +1,380 @@
+Aston Villa	Millwall FC	2:2	2:2	27.08.1988	00:00	1988	1989	1
+Charlton Athletic	Liverpool FC	0:1	0:3	27.08.1988	00:00	1988	1989	1
+Derby County	Middlesbrough FC	0:0	1:0	27.08.1988	00:00	1988	1989	1
+Everton FC	Newcastle United	2:0	4:0	27.08.1988	00:00	1988	1989	1
+Manchester United	Queens Park Rangers	0:0	0:0	27.08.1988	00:00	1988	1989	1
+Norwich City	Nottingham Forest	2:0	2:1	27.08.1988	00:00	1988	1989	1
+Sheffield Wednesday	Luton Town	0:0	1:0	27.08.1988	00:00	1988	1989	1
+Southampton FC	West Ham United	2:0	4:0	27.08.1988	00:00	1988	1989	1
+Wimbledon FC	Arsenal FC	1:3	1:5	27.08.1988	00:00	1988	1989	1
+Tottenham Hotspur	Coventry City	1:0	1:1	23.11.1988	00:00	1988	1989	1
+Arsenal FC	Aston Villa	0:1	2:3	03.09.1988	00:00	1988	1989	2
+Queens Park Rangers	Southampton FC	0:1	0:1	03.09.1988	00:00	1988	1989	2
+Nottingham Forest	Sheffield Wednesday	1:0	1:1	03.09.1988	00:00	1988	1989	2
+Newcastle United	Tottenham Hotspur	2:0	2:2	03.09.1988	00:00	1988	1989	2
+Millwall FC	Derby County	1:0	1:0	03.09.1988	00:00	1988	1989	2
+Middlesbrough FC	Norwich City	1:3	2:3	03.09.1988	00:00	1988	1989	2
+Luton Town	Wimbledon FC	1:1	2:2	03.09.1988	00:00	1988	1989	2
+Liverpool FC	Manchester United	1:0	1:0	03.09.1988	00:00	1988	1989	2
+Coventry City	Everton FC	0:1	0:1	03.09.1988	00:00	1988	1989	2
+West Ham United	Charlton Athletic	0:1	1:3	03.09.1988	00:00	1988	1989	2
+Aston Villa	Liverpool FC	1:0	1:1	10.09.1988	00:00	1988	1989	3
+Tottenham Hotspur	Arsenal FC	2:3	2:3	10.09.1988	00:00	1988	1989	3
+Southampton FC	Luton Town	1:0	2:1	10.09.1988	00:00	1988	1989	3
+Sheffield Wednesday	Coventry City	0:0	1:2	10.09.1988	00:00	1988	1989	3
+Norwich City	Queens Park Rangers	0:0	1:0	10.09.1988	00:00	1988	1989	3
+Manchester United	Middlesbrough FC	0:0	1:0	10.09.1988	00:00	1988	1989	3
+Everton FC	Nottingham Forest	0:1	1:1	10.09.1988	00:00	1988	1989	3
+Derby County	Newcastle United	0:0	2:0	10.09.1988	00:00	1988	1989	3
+Charlton Athletic	Millwall FC	0:2	0:3	10.09.1988	00:00	1988	1989	3
+Wimbledon FC	West Ham United	0:1	0:1	10.09.1988	00:00	1988	1989	3
+Arsenal FC	Southampton FC	1:2	2:2	17.09.1988	00:00	1988	1989	4
+Queens Park Rangers	Sheffield Wednesday	1:0	2:0	17.09.1988	00:00	1988	1989	4
+Nottingham Forest	Derby County	0:0	1:1	17.09.1988	00:00	1988	1989	4
+Newcastle United	Norwich City	0:1	0:2	17.09.1988	00:00	1988	1989	4
+Millwall FC	Everton FC	2:0	2:1	17.09.1988	00:00	1988	1989	4
+Middlesbrough FC	Wimbledon FC	1:0	1:0	17.09.1988	00:00	1988	1989	4
+Luton Town	Manchester United	0:1	0:2	17.09.1988	00:00	1988	1989	4
+Liverpool FC	Tottenham Hotspur	0:0	1:1	17.09.1988	00:00	1988	1989	4
+Coventry City	Charlton Athletic	0:0	3:0	17.09.1988	00:00	1988	1989	4
+West Ham United	Aston Villa	0:2	2:2	17.09.1988	00:00	1988	1989	4
+Aston Villa	Nottingham Forest	1:0	1:1	24.09.1988	00:00	1988	1989	5
+Wimbledon FC	Coventry City	0:1	0:1	24.09.1988	00:00	1988	1989	5
+Tottenham Hotspur	Middlesbrough FC	1:1	3:2	24.09.1988	00:00	1988	1989	5
+Southampton FC	Liverpool FC	1:1	1:3	24.09.1988	00:00	1988	1989	5
+Sheffield Wednesday	Arsenal FC	1:0	2:1	24.09.1988	00:00	1988	1989	5
+Norwich City	Millwall FC	0:0	2:2	24.09.1988	00:00	1988	1989	5
+Manchester United	West Ham United	1:0	2:0	24.09.1988	00:00	1988	1989	5
+Everton FC	Luton Town	0:1	0:2	24.09.1988	00:00	1988	1989	5
+Derby County	Queens Park Rangers	0:1	0:1	24.09.1988	00:00	1988	1989	5
+Charlton Athletic	Newcastle United	1:0	2:2	24.09.1988	00:00	1988	1989	5
+Coventry City	Middlesbrough FC	1:3	3:4	01.10.1988	00:00	1988	1989	6
+Liverpool FC	Newcastle United	1:1	1:2	01.10.1988	00:00	1988	1989	6
+Wimbledon FC	Everton FC	2:0	2:1	01.10.1988	00:00	1988	1989	6
+West Ham United	Arsenal FC	1:2	1:4	01.10.1988	00:00	1988	1989	6
+Tottenham Hotspur	Manchester United	1:1	2:2	01.10.1988	00:00	1988	1989	6
+Southampton FC	Derby County	0:0	0:0	01.10.1988	00:00	1988	1989	6
+Sheffield Wednesday	Aston Villa	1:0	1:0	01.10.1988	00:00	1988	1989	6
+Nottingham Forest	Luton Town	0:0	0:0	01.10.1988	00:00	1988	1989	6
+Norwich City	Charlton Athletic	1:1	1:3	01.10.1988	00:00	1988	1989	6
+Millwall FC	Queens Park Rangers	3:1	3:2	01.10.1988	00:00	1988	1989	6
+Newcastle United	Coventry City	0:3	0:3	08.10.1988	00:00	1988	1989	7
+Aston Villa	Wimbledon FC	0:0	0:1	08.10.1988	00:00	1988	1989	7
+Queens Park Rangers	Nottingham Forest	1:1	1:2	08.10.1988	00:00	1988	1989	7
+Middlesbrough FC	West Ham United	1:0	1:0	08.10.1988	00:00	1988	1989	7
+Luton Town	Liverpool FC	1:0	1:0	08.10.1988	00:00	1988	1989	7
+Everton FC	Southampton FC	1:1	4:1	08.10.1988	00:00	1988	1989	7
+Derby County	Norwich City	0:0	0:1	08.10.1988	00:00	1988	1989	7
+Charlton Athletic	Tottenham Hotspur	1:0	2:2	08.10.1988	00:00	1988	1989	7
+Manchester United	Sheffield Wednesday	0:0	1:1	23.11.1988	00:00	1988	1989	7
+Arsenal FC	Millwall FC	0:0	0:0	28.02.1989	00:00	1988	1989	7
+Coventry City	Millwall FC	0:0	0:0	15.10.1988	00:00	1988	1989	8
+Charlton Athletic	Aston Villa	1:0	2:2	15.10.1988	00:00	1988	1989	8
+Queens Park Rangers	West Ham United	0:1	2:1	15.10.1988	00:00	1988	1989	8
+Luton Town	Arsenal FC	0:1	1:1	25.10.1988	00:00	1988	1989	8
+Tottenham Hotspur	Southampton FC	1:0	1:2	25.10.1988	00:00	1988	1989	8
+Manchester United	Norwich City	0:0	1:2	26.10.1988	00:00	1988	1989	8
+Newcastle United	Middlesbrough FC	1:0	3:0	26.10.1988	00:00	1988	1989	8
+Nottingham Forest	Liverpool FC	0:0	2:1	26.10.1988	00:00	1988	1989	8
+Sheffield Wednesday	Wimbledon FC	0:0	1:1	05.04.1989	00:00	1988	1989	8
+Everton FC	Derby County	1:0	1:0	15.05.1989	00:00	1988	1989	8
+Arsenal FC	Queens Park Rangers	0:0	2:1	22.10.1988	00:00	1988	1989	9
+Southampton FC	Sheffield Wednesday	1:1	1:2	22.10.1988	00:00	1988	1989	9
+Wimbledon FC	Manchester United	0:0	1:1	22.10.1988	00:00	1988	1989	9
+Liverpool FC	Coventry City	0:0	0:0	22.10.1988	00:00	1988	1989	9
+Middlesbrough FC	Luton Town	2:0	2:1	22.10.1988	00:00	1988	1989	9
+Millwall FC	Nottingham Forest	0:1	2:2	22.10.1988	00:00	1988	1989	9
+Norwich City	Tottenham Hotspur	2:0	3:1	22.10.1988	00:00	1988	1989	9
+West Ham United	Newcastle United	0:0	2:0	22.10.1988	00:00	1988	1989	9
+Aston Villa	Everton FC	1:0	2:0	22.10.1988	00:00	1988	1989	9
+Derby County	Charlton Athletic	0:0	0:0	22.10.1988	00:00	1988	1989	9
+Arsenal FC	Coventry City	1:0	2:0	29.10.1988	00:00	1988	1989	10
+Derby County	Wimbledon FC	1:1	4:1	29.10.1988	00:00	1988	1989	10
+Aston Villa	Tottenham Hotspur	0:0	2:1	29.10.1988	00:00	1988	1989	10
+West Ham United	Liverpool FC	0:0	0:2	29.10.1988	00:00	1988	1989	10
+Norwich City	Southampton FC	0:0	1:1	29.10.1988	00:00	1988	1989	10
+Newcastle United	Nottingham Forest	0:0	0:1	29.10.1988	00:00	1988	1989	10
+Middlesbrough FC	Millwall FC	1:2	4:2	29.10.1988	00:00	1988	1989	10
+Luton Town	Queens Park Rangers	0:0	0:0	29.10.1988	00:00	1988	1989	10
+Charlton Athletic	Sheffield Wednesday	1:0	2:1	29.10.1988	00:00	1988	1989	10
+Everton FC	Manchester United	0:0	1:1	30.10.1988	00:00	1988	1989	10
+Coventry City	West Ham United	0:1	1:1	05.11.1988	00:00	1988	1989	11
+Sheffield Wednesday	Everton FC	0:0	1:1	05.11.1988	00:00	1988	1989	11
+Tottenham Hotspur	Derby County	1:1	1:3	05.11.1988	00:00	1988	1989	11
+Liverpool FC	Middlesbrough FC	1:0	3:0	05.11.1988	00:00	1988	1989	11
+Wimbledon FC	Norwich City	0:1	0:2	05.11.1988	00:00	1988	1989	11
+Southampton FC	Charlton Athletic	0:0	2:0	05.11.1988	00:00	1988	1989	11
+Queens Park Rangers	Newcastle United	2:0	3:0	05.11.1988	00:00	1988	1989	11
+Millwall FC	Luton Town	3:0	3:1	05.11.1988	00:00	1988	1989	11
+Manchester United	Aston Villa	1:0	1:1	05.11.1988	00:00	1988	1989	11
+Nottingham Forest	Arsenal FC	1:1	1:4	06.11.1988	00:00	1988	1989	11
+Coventry City	Luton Town	1:0	1:0	12.11.1988	00:00	1988	1989	12
+Derby County	Manchester United	1:1	2:2	12.11.1988	00:00	1988	1989	12
+Newcastle United	Arsenal FC	0:0	0:1	12.11.1988	00:00	1988	1989	12
+Tottenham Hotspur	Wimbledon FC	1:1	3:2	12.11.1988	00:00	1988	1989	12
+Charlton Athletic	Everton FC	1:2	1:2	12.11.1988	00:00	1988	1989	12
+West Ham United	Nottingham Forest	3:3	3:3	12.11.1988	00:00	1988	1989	12
+Southampton FC	Aston Villa	1:1	3:1	12.11.1988	00:00	1988	1989	12
+Norwich City	Sheffield Wednesday	1:0	1:1	12.11.1988	00:00	1988	1989	12
+Middlesbrough FC	Queens Park Rangers	1:0	1:0	12.11.1988	00:00	1988	1989	12
+Liverpool FC	Millwall FC	1:1	1:1	12.11.1988	00:00	1988	1989	12
+Arsenal FC	Middlesbrough FC	1:0	3:0	19.11.1988	00:00	1988	1989	13
+Everton FC	Norwich City	0:0	1:1	19.11.1988	00:00	1988	1989	13
+Manchester United	Southampton FC	1:1	2:2	19.11.1988	00:00	1988	1989	13
+Millwall FC	Newcastle United	2:0	4:0	19.11.1988	00:00	1988	1989	13
+Nottingham Forest	Coventry City	0:0	0:0	19.11.1988	00:00	1988	1989	13
+Aston Villa	Derby County	0:0	1:2	19.11.1988	00:00	1988	1989	13
+Luton Town	West Ham United	3:0	4:1	19.11.1988	00:00	1988	1989	13
+Queens Park Rangers	Liverpool FC	0:1	0:1	19.11.1988	00:00	1988	1989	13
+Wimbledon FC	Charlton Athletic	0:0	1:1	19.11.1988	00:00	1988	1989	13
+Sheffield Wednesday	Tottenham Hotspur	0:0	0:2	20.11.1988	00:00	1988	1989	13
+Derby County	Arsenal FC	0:0	2:1	26.11.1988	00:00	1988	1989	14
+Liverpool FC	Wimbledon FC	0:0	1:1	26.11.1988	00:00	1988	1989	14
+Middlesbrough FC	Sheffield Wednesday	0:1	0:1	26.11.1988	00:00	1988	1989	14
+West Ham United	Everton FC	0:0	0:1	26.11.1988	00:00	1988	1989	14
+Charlton Athletic	Nottingham Forest	0:1	0:1	26.11.1988	00:00	1988	1989	14
+Coventry City	Aston Villa	1:0	2:1	26.11.1988	00:00	1988	1989	14
+Norwich City	Luton Town	1:1	2:2	26.11.1988	00:00	1988	1989	14
+Southampton FC	Millwall FC	1:1	2:2	26.11.1988	00:00	1988	1989	14
+Tottenham Hotspur	Queens Park Rangers	0:2	2:2	26.11.1988	00:00	1988	1989	14
+Newcastle United	Manchester United	0:0	0:0	27.11.1988	00:00	1988	1989	14
+Everton FC	Tottenham Hotspur	1:0	1:0	03.12.1988	00:00	1988	1989	15
+Millwall FC	West Ham United	0:1	0:1	03.12.1988	00:00	1988	1989	15
+Sheffield Wednesday	Derby County	1:0	1:1	03.12.1988	00:00	1988	1989	15
+Aston Villa	Norwich City	1:1	3:1	03.12.1988	00:00	1988	1989	15
+Wimbledon FC	Southampton FC	1:1	2:1	03.12.1988	00:00	1988	1989	15
+Queens Park Rangers	Coventry City	1:0	2:1	03.12.1988	00:00	1988	1989	15
+Nottingham Forest	Middlesbrough FC	0:0	2:2	03.12.1988	00:00	1988	1989	15
+Manchester United	Charlton Athletic	1:0	3:0	03.12.1988	00:00	1988	1989	15
+Luton Town	Newcastle United	0:0	0:0	03.12.1988	00:00	1988	1989	15
+Arsenal FC	Liverpool FC	0:0	1:1	04.12.1988	00:00	1988	1989	15
+Derby County	Luton Town	0:1	0:1	10.12.1988	00:00	1988	1989	16
+Newcastle United	Wimbledon FC	1:0	2:1	10.12.1988	00:00	1988	1989	16
+Tottenham Hotspur	Millwall FC	1:0	2:0	10.12.1988	00:00	1988	1989	16
+West Ham United	Sheffield Wednesday	0:0	0:0	10.12.1988	00:00	1988	1989	16
+Charlton Athletic	Queens Park Rangers	0:1	1:1	10.12.1988	00:00	1988	1989	16
+Coventry City	Manchester United	0:0	1:0	10.12.1988	00:00	1988	1989	16
+Middlesbrough FC	Aston Villa	1:2	3:3	10.12.1988	00:00	1988	1989	16
+Norwich City	Arsenal FC	0:0	0:0	10.12.1988	00:00	1988	1989	16
+Southampton FC	Nottingham Forest	1:0	1:1	10.12.1988	00:00	1988	1989	16
+Liverpool FC	Everton FC	1:0	1:1	11.12.1988	00:00	1988	1989	16
+Coventry City	Derby County	0:0	0:2	17.12.1988	00:00	1988	1989	17
+Millwall FC	Sheffield Wednesday	0:0	1:0	17.12.1988	00:00	1988	1989	17
+Queens Park Rangers	Everton FC	0:0	0:0	17.12.1988	00:00	1988	1989	17
+Arsenal FC	Manchester United	2:0	2:1	17.12.1988	00:00	1988	1989	17
+West Ham United	Tottenham Hotspur	0:1	0:2	17.12.1988	00:00	1988	1989	17
+Newcastle United	Southampton FC	1:2	3:3	17.12.1988	00:00	1988	1989	17
+Middlesbrough FC	Charlton Athletic	0:0	0:0	17.12.1988	00:00	1988	1989	17
+Luton Town	Aston Villa	1:0	1:1	17.12.1988	00:00	1988	1989	17
+Liverpool FC	Norwich City	0:0	0:1	17.12.1988	00:00	1988	1989	17
+Nottingham Forest	Wimbledon FC	0:0	0:1	18.12.1988	00:00	1988	1989	17
+Derby County	Liverpool FC	0:1	0:1	26.12.1988	00:00	1988	1989	18
+Everton FC	Middlesbrough FC	2:1	2:1	26.12.1988	00:00	1988	1989	18
+Sheffield Wednesday	Newcastle United	1:2	1:2	26.12.1988	00:00	1988	1989	18
+Wimbledon FC	Millwall FC	0:0	1:0	26.12.1988	00:00	1988	1989	18
+Aston Villa	Queens Park Rangers	2:0	2:1	26.12.1988	00:00	1988	1989	18
+Charlton Athletic	Arsenal FC	0:1	2:3	26.12.1988	00:00	1988	1989	18
+Manchester United	Nottingham Forest	1:0	2:0	26.12.1988	00:00	1988	1989	18
+Southampton FC	Coventry City	0:2	2:2	26.12.1988	00:00	1988	1989	18
+Tottenham Hotspur	Luton Town	0:0	0:0	26.12.1988	00:00	1988	1989	18
+Norwich City	West Ham United	0:0	2:1	27.12.1988	00:00	1988	1989	18
+Derby County	Millwall FC	0:0	0:1	31.12.1988	00:00	1988	1989	19
+Everton FC	Coventry City	2:1	3:1	31.12.1988	00:00	1988	1989	19
+Sheffield Wednesday	Nottingham Forest	0:3	0:3	31.12.1988	00:00	1988	1989	19
+Wimbledon FC	Luton Town	2:0	4:0	31.12.1988	00:00	1988	1989	19
+Aston Villa	Arsenal FC	0:2	0:3	31.12.1988	00:00	1988	1989	19
+Charlton Athletic	West Ham United	0:0	0:0	31.12.1988	00:00	1988	1989	19
+Norwich City	Middlesbrough FC	0:0	0:0	31.12.1988	00:00	1988	1989	19
+Southampton FC	Queens Park Rangers	0:0	1:4	31.12.1988	00:00	1988	1989	19
+Tottenham Hotspur	Newcastle United	2:0	2:0	31.12.1988	00:00	1988	1989	19
+Manchester United	Liverpool FC	0:0	3:1	01.01.1989	00:00	1988	1989	19
+Arsenal FC	Tottenham Hotspur	1:0	2:0	02.01.1989	00:00	1988	1989	20
+Coventry City	Sheffield Wednesday	2:0	5:0	02.01.1989	00:00	1988	1989	20
+Newcastle United	Derby County	0:0	0:1	02.01.1989	00:00	1988	1989	20
+Nottingham Forest	Everton FC	1:0	2:0	02.01.1989	00:00	1988	1989	20
+West Ham United	Wimbledon FC	1:1	1:2	02.01.1989	00:00	1988	1989	20
+Luton Town	Southampton FC	2:0	6:1	02.01.1989	00:00	1988	1989	20
+Middlesbrough FC	Manchester United	0:0	1:0	02.01.1989	00:00	1988	1989	20
+Millwall FC	Charlton Athletic	0:0	1:0	02.01.1989	00:00	1988	1989	20
+Queens Park Rangers	Norwich City	0:0	1:1	02.01.1989	00:00	1988	1989	20
+Liverpool FC	Aston Villa	0:0	1:0	03.01.1989	00:00	1988	1989	20
+Derby County	West Ham United	1:2	1:2	14.01.1989	00:00	1988	1989	21
+Everton FC	Arsenal FC	0:1	1:3	14.01.1989	00:00	1988	1989	21
+Sheffield Wednesday	Liverpool FC	2:0	2:2	14.01.1989	00:00	1988	1989	21
+Wimbledon FC	Queens Park Rangers	1:0	1:0	14.01.1989	00:00	1988	1989	21
+Aston Villa	Newcastle United	1:1	3:1	14.01.1989	00:00	1988	1989	21
+Charlton Athletic	Luton Town	3:0	3:0	14.01.1989	00:00	1988	1989	21
+Manchester United	Millwall FC	2:0	3:0	14.01.1989	00:00	1988	1989	21
+Norwich City	Coventry City	0:0	1:2	14.01.1989	00:00	1988	1989	21
+Southampton FC	Middlesbrough FC	1:0	1:3	14.01.1989	00:00	1988	1989	21
+Tottenham Hotspur	Nottingham Forest	1:2	1:2	15.01.1989	00:00	1988	1989	21
+Arsenal FC	Sheffield Wednesday	0:0	1:1	21.01.1989	00:00	1988	1989	22
+Coventry City	Wimbledon FC	1:1	2:1	21.01.1989	00:00	1988	1989	22
+Luton Town	Everton FC	1:0	1:0	21.01.1989	00:00	1988	1989	22
+Queens Park Rangers	Derby County	0:0	0:1	21.01.1989	00:00	1988	1989	22
+Liverpool FC	Southampton FC	0:0	2:0	21.01.1989	00:00	1988	1989	22
+Middlesbrough FC	Tottenham Hotspur	1:1	2:2	21.01.1989	00:00	1988	1989	22
+Newcastle United	Charlton Athletic	0:1	0:2	21.01.1989	00:00	1988	1989	22
+Nottingham Forest	Aston Villa	1:0	4:0	21.01.1989	00:00	1988	1989	22
+West Ham United	Manchester United	1:1	1:3	21.01.1989	00:00	1988	1989	22
+Millwall FC	Norwich City	2:2	2:3	22.01.1989	00:00	1988	1989	22
+Arsenal FC	West Ham United	0:0	2:1	04.02.1989	00:00	1988	1989	23
+Derby County	Southampton FC	1:0	3:1	04.02.1989	00:00	1988	1989	23
+Everton FC	Wimbledon FC	1:1	1:1	04.02.1989	00:00	1988	1989	23
+Queens Park Rangers	Millwall FC	0:0	1:2	04.02.1989	00:00	1988	1989	23
+Aston Villa	Sheffield Wednesday	2:0	2:0	04.02.1989	00:00	1988	1989	23
+Charlton Athletic	Norwich City	0:0	1:2	04.02.1989	00:00	1988	1989	23
+Luton Town	Nottingham Forest	2:2	2:3	04.02.1989	00:00	1988	1989	23
+Middlesbrough FC	Coventry City	1:1	1:1	04.02.1989	00:00	1988	1989	23
+Newcastle United	Liverpool FC	1:1	2:2	04.02.1989	00:00	1988	1989	23
+Manchester United	Tottenham Hotspur	0:0	1:0	05.02.1989	00:00	1988	1989	23
+Millwall FC	Arsenal FC	1:0	1:2	11.02.1989	00:00	1988	1989	24
+Norwich City	Derby County	0:0	1:0	11.02.1989	00:00	1988	1989	24
+Southampton FC	Everton FC	1:0	1:1	11.02.1989	00:00	1988	1989	24
+Coventry City	Newcastle United	0:0	1:2	11.02.1989	00:00	1988	1989	24
+Nottingham Forest	Queens Park Rangers	0:0	0:0	11.02.1989	00:00	1988	1989	24
+Sheffield Wednesday	Manchester United	0:1	0:2	11.02.1989	00:00	1988	1989	24
+Tottenham Hotspur	Charlton Athletic	0:1	1:1	11.02.1989	00:00	1988	1989	24
+Wimbledon FC	Aston Villa	1:0	1:0	11.02.1989	00:00	1988	1989	24
+Liverpool FC	Luton Town	2:0	5:0	14.03.1989	00:00	1988	1989	24
+West Ham United	Middlesbrough FC	1:0	1:2	11.04.1989	00:00	1988	1989	24
+Everton FC	Aston Villa	1:1	1:1	14.02.1989	00:00	1988	1989	25
+Luton Town	Middlesbrough FC	0:0	1:0	18.02.1989	00:00	1988	1989	25
+Queens Park Rangers	Arsenal FC	0:0	0:0	18.02.1989	00:00	1988	1989	25
+Sheffield Wednesday	Southampton FC	0:0	1:1	18.02.1989	00:00	1988	1989	25
+Tottenham Hotspur	Norwich City	1:0	2:1	21.02.1989	00:00	1988	1989	25
+Coventry City	Liverpool FC	1:2	1:3	22.03.1989	00:00	1988	1989	25
+Manchester United	Wimbledon FC	0:0	1:0	02.05.1989	00:00	1988	1989	25
+Newcastle United	West Ham United	1:1	1:2	03.05.1989	00:00	1988	1989	25
+Nottingham Forest	Millwall FC	1:0	4:1	03.05.1989	00:00	1988	1989	25
+Charlton Athletic	Derby County	1:0	3:0	10.05.1989	00:00	1988	1989	25
+Coventry City	Arsenal FC	0:0	1:0	21.02.1989	00:00	1988	1989	26
+Millwall FC	Middlesbrough FC	1:0	2:0	21.02.1989	00:00	1988	1989	26
+Wimbledon FC	Derby County	3:0	4:0	01.03.1989	00:00	1988	1989	26
+Tottenham Hotspur	Aston Villa	1:0	2:0	01.03.1989	00:00	1988	1989	26
+Sheffield Wednesday	Charlton Athletic	1:1	3:1	04.03.1989	00:00	1988	1989	26
+Nottingham Forest	Newcastle United	1:0	1:1	15.03.1989	00:00	1988	1989	26
+Queens Park Rangers	Luton Town	0:0	1:1	21.03.1989	00:00	1988	1989	26
+Southampton FC	Norwich City	0:0	0:0	19.04.1989	00:00	1988	1989	26
+Manchester United	Everton FC	1:1	1:2	10.05.1989	00:00	1988	1989	26
+Liverpool FC	West Ham United	1:1	5:1	23.05.1989	00:00	1988	1989	26
+Derby County	Everton FC	1:1	3:2	25.02.1989	00:00	1988	1989	27
+Norwich City	Manchester United	2:0	2:1	25.02.1989	00:00	1988	1989	27
+Wimbledon FC	Sheffield Wednesday	1:0	1:0	25.02.1989	00:00	1988	1989	27
+Arsenal FC	Luton Town	0:0	2:0	25.02.1989	00:00	1988	1989	27
+Aston Villa	Charlton Athletic	1:1	1:2	25.02.1989	00:00	1988	1989	27
+Millwall FC	Coventry City	0:0	1:0	25.02.1989	00:00	1988	1989	27
+Southampton FC	Tottenham Hotspur	0:1	0:2	25.02.1989	00:00	1988	1989	27
+West Ham United	Queens Park Rangers	0:0	0:0	25.02.1989	00:00	1988	1989	27
+Middlesbrough FC	Newcastle United	0:1	1:1	26.02.1989	00:00	1988	1989	27
+Liverpool FC	Nottingham Forest	0:0	1:0	10.05.1989	00:00	1988	1989	27
+Middlesbrough FC	Liverpool FC	0:2	0:4	11.03.1989	00:00	1988	1989	28
+Derby County	Tottenham Hotspur	1:0	1:1	11.03.1989	00:00	1988	1989	28
+Everton FC	Sheffield Wednesday	1:0	1:0	11.03.1989	00:00	1988	1989	28
+Luton Town	Millwall FC	0:2	1:2	11.03.1989	00:00	1988	1989	28
+Newcastle United	Queens Park Rangers	0:0	1:2	11.03.1989	00:00	1988	1989	28
+Norwich City	Wimbledon FC	0:0	1:0	11.03.1989	00:00	1988	1989	28
+West Ham United	Coventry City	0:1	1:1	11.03.1989	00:00	1988	1989	28
+Arsenal FC	Nottingham Forest	1:3	1:3	11.03.1989	00:00	1988	1989	28
+Charlton Athletic	Southampton FC	1:0	2:2	11.03.1989	00:00	1988	1989	28
+Aston Villa	Manchester United	0:0	0:0	12.03.1989	00:00	1988	1989	28
+Liverpool FC	Charlton Athletic	1:0	2:0	01.03.1989	00:00	1988	1989	29
+Middlesbrough FC	Derby County	0:1	0:1	18.03.1989	00:00	1988	1989	29
+Coventry City	Tottenham Hotspur	1:0	1:1	18.03.1989	00:00	1988	1989	29
+Luton Town	Sheffield Wednesday	0:0	0:1	18.03.1989	00:00	1988	1989	29
+Millwall FC	Aston Villa	1:0	2:0	18.03.1989	00:00	1988	1989	29
+Newcastle United	Everton FC	1:0	2:0	22.03.1989	00:00	1988	1989	29
+Nottingham Forest	Norwich City	2:0	2:0	05.04.1989	00:00	1988	1989	29
+West Ham United	Southampton FC	1:1	1:2	15.04.1989	00:00	1988	1989	29
+Queens Park Rangers	Manchester United	1:2	3:2	08.05.1989	00:00	1988	1989	29
+Arsenal FC	Wimbledon FC	2:1	2:2	17.05.1989	00:00	1988	1989	29
+Manchester United	Luton Town	2:0	2:0	25.03.1989	00:00	1988	1989	30
+Wimbledon FC	Middlesbrough FC	1:1	1:1	25.03.1989	00:00	1988	1989	30
+Southampton FC	Arsenal FC	0:1	1:3	25.03.1989	00:00	1988	1989	30
+Norwich City	Newcastle United	0:1	0:2	25.03.1989	00:00	1988	1989	30
+Everton FC	Millwall FC	1:1	1:1	25.03.1989	00:00	1988	1989	30
+Derby County	Nottingham Forest	0:1	0:2	25.03.1989	00:00	1988	1989	30
+Sheffield Wednesday	Queens Park Rangers	0:0	0:2	25.03.1989	00:00	1988	1989	30
+Aston Villa	West Ham United	0:1	0:1	25.03.1989	00:00	1988	1989	30
+Charlton Athletic	Coventry City	0:0	0:0	25.03.1989	00:00	1988	1989	30
+Tottenham Hotspur	Liverpool FC	0:0	1:2	26.03.1989	00:00	1988	1989	30
+Arsenal FC	Charlton Athletic	2:1	2:2	21.03.1989	00:00	1988	1989	31
+Millwall FC	Wimbledon FC	0:0	0:1	27.03.1989	00:00	1988	1989	31
+Nottingham Forest	Manchester United	1:0	2:0	27.03.1989	00:00	1988	1989	31
+West Ham United	Norwich City	0:0	0:2	27.03.1989	00:00	1988	1989	31
+Middlesbrough FC	Everton FC	1:2	3:3	27.03.1989	00:00	1988	1989	31
+Coventry City	Southampton FC	1:1	2:1	27.03.1989	00:00	1988	1989	31
+Newcastle United	Sheffield Wednesday	0:2	1:3	27.03.1989	00:00	1988	1989	31
+Queens Park Rangers	Aston Villa	0:0	1:0	27.03.1989	00:00	1988	1989	31
+Luton Town	Tottenham Hotspur	1:0	1:3	28.03.1989	00:00	1988	1989	31
+Liverpool FC	Derby County	1:0	1:0	29.03.1989	00:00	1988	1989	31
+Tottenham Hotspur	West Ham United	1:0	3:0	01.04.1989	00:00	1988	1989	32
+Wimbledon FC	Nottingham Forest	2:1	4:1	01.04.1989	00:00	1988	1989	32
+Derby County	Coventry City	0:0	1:0	01.04.1989	00:00	1988	1989	32
+Everton FC	Queens Park Rangers	2:0	4:1	01.04.1989	00:00	1988	1989	32
+Norwich City	Liverpool FC	0:1	0:1	01.04.1989	00:00	1988	1989	32
+Southampton FC	Newcastle United	0:0	1:0	01.04.1989	00:00	1988	1989	32
+Charlton Athletic	Middlesbrough FC	1:0	2:0	01.04.1989	00:00	1988	1989	32
+Sheffield Wednesday	Millwall FC	1:0	3:0	01.04.1989	00:00	1988	1989	32
+Aston Villa	Luton Town	2:1	2:1	01.04.1989	00:00	1988	1989	32
+Manchester United	Arsenal FC	0:0	1:1	02.04.1989	00:00	1988	1989	32
+Nottingham Forest	Tottenham Hotspur	0:0	1:2	22.03.1989	00:00	1988	1989	33
+Millwall FC	Manchester United	0:0	0:0	08.04.1989	00:00	1988	1989	33
+Arsenal FC	Everton FC	1:0	2:0	08.04.1989	00:00	1988	1989	33
+Middlesbrough FC	Southampton FC	1:0	3:3	08.04.1989	00:00	1988	1989	33
+Queens Park Rangers	Wimbledon FC	3:1	4:3	08.04.1989	00:00	1988	1989	33
+West Ham United	Derby County	1:1	1:1	08.04.1989	00:00	1988	1989	33
+Coventry City	Norwich City	1:1	2:1	08.04.1989	00:00	1988	1989	33
+Liverpool FC	Sheffield Wednesday	2:0	5:1	08.04.1989	00:00	1988	1989	33
+Newcastle United	Aston Villa	0:1	1:2	08.04.1989	00:00	1988	1989	33
+Luton Town	Charlton Athletic	4:0	5:2	02.05.1989	00:00	1988	1989	33
+Everton FC	Charlton Athletic	1:1	3:2	10.04.1989	00:00	1988	1989	34
+Millwall FC	Liverpool FC	1:2	1:2	11.04.1989	00:00	1988	1989	34
+Manchester United	Derby County	0:1	0:2	15.04.1989	00:00	1988	1989	34
+Wimbledon FC	Tottenham Hotspur	0:1	1:2	15.04.1989	00:00	1988	1989	34
+Arsenal FC	Newcastle United	0:0	1:0	15.04.1989	00:00	1988	1989	34
+Luton Town	Coventry City	0:0	2:2	15.04.1989	00:00	1988	1989	34
+Queens Park Rangers	Middlesbrough FC	0:0	0:0	15.04.1989	00:00	1988	1989	34
+Aston Villa	Southampton FC	0:2	1:2	02.05.1989	00:00	1988	1989	34
+Sheffield Wednesday	Norwich City	0:0	2:2	17.05.1989	00:00	1988	1989	34
+Nottingham Forest	West Ham United	1:2	1:2	18.05.1989	00:00	1988	1989	34
+Charlton Athletic	Manchester United	1:0	1:0	22.04.1989	00:00	1988	1989	35
+Derby County	Sheffield Wednesday	0:0	1:0	22.04.1989	00:00	1988	1989	35
+Tottenham Hotspur	Everton FC	0:0	2:1	22.04.1989	00:00	1988	1989	35
+Newcastle United	Luton Town	0:0	0:0	22.04.1989	00:00	1988	1989	35
+Norwich City	Aston Villa	0:0	2:2	22.04.1989	00:00	1988	1989	35
+West Ham United	Millwall FC	3:0	3:0	22.04.1989	00:00	1988	1989	35
+Coventry City	Queens Park Rangers	0:2	0:3	22.04.1989	00:00	1988	1989	35
+Middlesbrough FC	Nottingham Forest	1:2	3:4	22.04.1989	00:00	1988	1989	35
+Southampton FC	Wimbledon FC	0:0	0:0	22.04.1989	00:00	1988	1989	35
+Liverpool FC	Arsenal FC	0:0	0:2	26.05.1989	00:00	1988	1989	35
+Nottingham Forest	Southampton FC	2:0	3:0	12.04.1989	00:00	1988	1989	36
+Manchester United	Coventry City	0:0	0:1	29.04.1989	00:00	1988	1989	36
+Wimbledon FC	Newcastle United	1:0	4:0	29.04.1989	00:00	1988	1989	36
+Queens Park Rangers	Charlton Athletic	1:0	1:0	29.04.1989	00:00	1988	1989	36
+Luton Town	Derby County	1:0	3:0	29.04.1989	00:00	1988	1989	36
+Aston Villa	Middlesbrough FC	0:0	1:1	29.04.1989	00:00	1988	1989	36
+Millwall FC	Tottenham Hotspur	0:2	0:5	29.04.1989	00:00	1988	1989	36
+Arsenal FC	Norwich City	2:0	5:0	01.05.1989	00:00	1988	1989	36
+Everton FC	Liverpool FC	0:0	0:0	03.05.1989	00:00	1988	1989	36
+Sheffield Wednesday	West Ham United	0:0	0:2	09.05.1989	00:00	1988	1989	36
+Tottenham Hotspur	Sheffield Wednesday	0:0	0:0	12.04.1989	00:00	1988	1989	37
+Middlesbrough FC	Arsenal FC	0:0	0:1	06.05.1989	00:00	1988	1989	37
+Norwich City	Everton FC	0:0	1:0	06.05.1989	00:00	1988	1989	37
+Southampton FC	Manchester United	1:0	2:1	06.05.1989	00:00	1988	1989	37
+Charlton Athletic	Wimbledon FC	1:0	1:0	06.05.1989	00:00	1988	1989	37
+Derby County	Aston Villa	1:1	2:1	06.05.1989	00:00	1988	1989	37
+Newcastle United	Millwall FC	0:1	1:1	06.05.1989	00:00	1988	1989	37
+West Ham United	Luton Town	1:0	1:0	06.05.1989	00:00	1988	1989	37
+Coventry City	Nottingham Forest	0:0	2:2	15.05.1989	00:00	1988	1989	37
+Liverpool FC	Queens Park Rangers	1:0	2:0	16.05.1989	00:00	1988	1989	37
+Wimbledon FC	Liverpool FC	1:0	1:2	13.05.1989	00:00	1988	1989	38
+Sheffield Wednesday	Middlesbrough FC	0:0	1:0	13.05.1989	00:00	1988	1989	38
+Queens Park Rangers	Tottenham Hotspur	0:0	1:0	13.05.1989	00:00	1988	1989	38
+Luton Town	Norwich City	0:0	1:0	13.05.1989	00:00	1988	1989	38
+Everton FC	West Ham United	1:1	3:1	13.05.1989	00:00	1988	1989	38
+Arsenal FC	Derby County	0:1	1:2	13.05.1989	00:00	1988	1989	38
+Aston Villa	Coventry City	1:0	1:1	13.05.1989	00:00	1988	1989	38
+Manchester United	Newcastle United	0:0	2:0	13.05.1989	00:00	1988	1989	38
+Millwall FC	Southampton FC	0:1	1:1	13.05.1989	00:00	1988	1989	38
+Nottingham Forest	Charlton Athletic	3:0	4:0	13.05.1989	00:00	1988	1989	38

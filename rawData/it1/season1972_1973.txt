@@ -1,0 +1,240 @@
+Hellas Verona	AS Roma	2:1	2:2	24.09.1972	00:00	1972	1973	1
+Torino FC	Lanerossi Vicenza	2:0	3:0	24.09.1972	00:00	1972	1973	1
+SSC Napoli	Ternana Calcio	0:0	1:0	24.09.1972	00:00	1972	1973	1
+Sampdoria	ACF Fiorentina	0:0	0:1	24.09.1972	00:00	1972	1973	1
+Lazio Roma	Inter	0:0	0:0	24.09.1972	00:00	1972	1973	1
+Bologna FC	Juventus	0:0	0:2	24.09.1972	00:00	1972	1973	1
+AC Milan	SSC Palermo	3:0	4:0	24.09.1972	00:00	1972	1973	1
+Cagliari Calcio	Atalanta	0:0	0:0	24.09.1972	00:00	1972	1973	1
+Juventus	Hellas Verona	0:0	1:1	01.10.1972	00:00	1972	1973	2
+Ternana Calcio	AC Milan	0:0	0:0	01.10.1972	00:00	1972	1973	2
+AS Roma	Sampdoria	2:0	3:1	01.10.1972	00:00	1972	1973	2
+Lanerossi Vicenza	Cagliari Calcio	0:0	1:0	01.10.1972	00:00	1972	1973	2
+Inter	Bologna FC	0:0	0:0	01.10.1972	00:00	1972	1973	2
+ACF Fiorentina	Lazio Roma	0:1	0:1	01.10.1972	00:00	1972	1973	2
+Atalanta	SSC Napoli	0:0	0:0	01.10.1972	00:00	1972	1973	2
+SSC Palermo	Torino FC	1:1	2:1	01.10.1972	00:00	1972	1973	2
+AC Milan	Atalanta	4:1	9:3	15.10.1972	00:00	1972	1973	3
+SSC Napoli	Lanerossi Vicenza	1:0	2:0	15.10.1972	00:00	1972	1973	3
+Hellas Verona	ACF Fiorentina	0:2	1:2	15.10.1972	00:00	1972	1973	3
+Torino FC	Ternana Calcio	1:0	2:0	15.10.1972	00:00	1972	1973	3
+Bologna FC	AS Roma	1:2	1:3	15.10.1972	00:00	1972	1973	3
+Lazio Roma	Juventus	1:1	1:1	15.10.1972	00:00	1972	1973	3
+Cagliari Calcio	SSC Palermo	1:0	2:0	15.10.1972	00:00	1972	1973	3
+Sampdoria	Inter	0:0	0:1	15.10.1972	00:00	1972	1973	3
+Juventus	AC Milan	0:1	2:2	20.10.1972	00:00	1972	1973	4
+Ternana Calcio	Bologna FC	0:0	2:0	20.10.1972	00:00	1972	1973	4
+AS Roma	SSC Napoli	1:0	1:0	20.10.1972	00:00	1972	1973	4
+Lanerossi Vicenza	Lazio Roma	0:1	1:2	20.10.1972	00:00	1972	1973	4
+Inter	Cagliari Calcio	1:0	1:0	20.10.1972	00:00	1972	1973	4
+ACF Fiorentina	Torino FC	0:0	0:0	20.10.1972	00:00	1972	1973	4
+Atalanta	Hellas Verona	0:1	0:1	20.10.1972	00:00	1972	1973	4
+SSC Palermo	Sampdoria	0:0	0:0	20.10.1972	00:00	1972	1973	4
+AC Milan	Lanerossi Vicenza	1:0	2:0	05.11.1972	00:00	1972	1973	5
+SSC Napoli	ACF Fiorentina	1:0	3:0	05.11.1972	00:00	1972	1973	5
+Hellas Verona	Inter	0:0	0:1	05.11.1972	00:00	1972	1973	5
+Torino FC	Juventus	1:0	2:1	05.11.1972	00:00	1972	1973	5
+Bologna FC	SSC Palermo	1:0	3:0	05.11.1972	00:00	1972	1973	5
+Lazio Roma	Ternana Calcio	2:0	2:1	05.11.1972	00:00	1972	1973	5
+Cagliari Calcio	AS Roma	1:0	2:2	05.11.1972	00:00	1972	1973	5
+Sampdoria	Atalanta	0:0	0:0	05.11.1972	00:00	1972	1973	5
+Juventus	Sampdoria	0:0	1:1	12.11.1972	00:00	1972	1973	6
+Ternana Calcio	Cagliari Calcio	1:0	1:1	12.11.1972	00:00	1972	1973	6
+AS Roma	Lazio Roma	0:1	0:1	12.11.1972	00:00	1972	1973	6
+Lanerossi Vicenza	Bologna FC	0:0	0:0	12.11.1972	00:00	1972	1973	6
+Inter	SSC Napoli	0:0	2:0	12.11.1972	00:00	1972	1973	6
+ACF Fiorentina	AC Milan	2:1	3:1	12.11.1972	00:00	1972	1973	6
+Atalanta	Torino FC	0:0	1:0	12.11.1972	00:00	1972	1973	6
+SSC Palermo	Hellas Verona	0:0	0:0	12.11.1972	00:00	1972	1973	6
+AC Milan	Inter	2:0	3:2	19.11.1972	00:00	1972	1973	7
+SSC Napoli	Juventus	0:1	1:1	19.11.1972	00:00	1972	1973	7
+Hellas Verona	Lanerossi Vicenza	0:0	0:0	19.11.1972	00:00	1972	1973	7
+Torino FC	AS Roma	1:0	2:0	19.11.1972	00:00	1972	1973	7
+Lazio Roma	SSC Palermo	2:0	2:0	19.11.1972	00:00	1972	1973	7
+Cagliari Calcio	ACF Fiorentina	2:0	2:2	19.11.1972	00:00	1972	1973	7
+Bologna FC	Atalanta	0:0	1:0	19.11.1972	00:00	1972	1973	7
+Sampdoria	Ternana Calcio	0:0	0:0	19.11.1972	00:00	1972	1973	7
+Juventus	Cagliari Calcio	2:0	2:0	26.11.1972	00:00	1972	1973	8
+AS Roma	AC Milan	0:0	0:0	26.11.1972	00:00	1972	1973	8
+Lanerossi Vicenza	Sampdoria	0:0	0:0	26.11.1972	00:00	1972	1973	8
+Ternana Calcio	Hellas Verona	1:1	2:1	26.11.1972	00:00	1972	1973	8
+Inter	Torino FC	1:0	2:0	26.11.1972	00:00	1972	1973	8
+ACF Fiorentina	Bologna FC	0:0	3:0	26.11.1972	00:00	1972	1973	8
+Atalanta	Lazio Roma	0:0	1:1	26.11.1972	00:00	1972	1973	8
+SSC Palermo	SSC Napoli	1:0	1:0	26.11.1972	00:00	1972	1973	8
+Ternana Calcio	AS Roma	1:0	1:4	03.12.1972	00:00	1972	1973	9
+SSC Napoli	Hellas Verona	1:1	1:1	03.12.1972	00:00	1972	1973	9
+Lazio Roma	Cagliari Calcio	1:1	2:1	03.12.1972	00:00	1972	1973	9
+AC Milan	Sampdoria	2:1	3:1	03.12.1972	00:00	1972	1973	9
+Juventus	ACF Fiorentina	0:1	2:1	03.12.1972	00:00	1972	1973	9
+Atalanta	Inter	0:0	0:0	03.12.1972	00:00	1972	1973	9
+Bologna FC	Torino FC	0:0	1:0	03.12.1972	00:00	1972	1973	9
+Lanerossi Vicenza	SSC Palermo	1:1	1:1	03.12.1972	00:00	1972	1973	9
+SSC Palermo	Juventus	0:1	0:1	10.12.1972	00:00	1972	1973	10
+Hellas Verona	Bologna FC	0:0	0:0	10.12.1972	00:00	1972	1973	10
+Torino FC	SSC Napoli	0:0	0:0	10.12.1972	00:00	1972	1973	10
+AS Roma	Atalanta	2:0	2:0	10.12.1972	00:00	1972	1973	10
+Inter	Ternana Calcio	1:0	4:0	10.12.1972	00:00	1972	1973	10
+ACF Fiorentina	Lanerossi Vicenza	0:0	1:0	10.12.1972	00:00	1972	1973	10
+Cagliari Calcio	AC Milan	0:0	0:1	10.12.1972	00:00	1972	1973	10
+Sampdoria	Lazio Roma	0:0	0:0	10.12.1972	00:00	1972	1973	10
+AC Milan	Lazio Roma	1:1	3:1	17.12.1972	00:00	1972	1973	11
+SSC Palermo	ACF Fiorentina	0:0	1:0	17.12.1972	00:00	1972	1973	11
+Torino FC	Hellas Verona	0:1	3:2	17.12.1972	00:00	1972	1973	11
+Ternana Calcio	Atalanta	0:0	0:0	17.12.1972	00:00	1972	1973	11
+Bologna FC	SSC Napoli	2:0	2:0	17.12.1972	00:00	1972	1973	11
+Lanerossi Vicenza	Juventus	0:2	0:2	17.12.1972	00:00	1972	1973	11
+Cagliari Calcio	Sampdoria	0:0	1:0	17.12.1972	00:00	1972	1973	11
+AS Roma	Inter	0:0	0:2	17.12.1972	00:00	1972	1973	11
+Juventus	Ternana Calcio	1:0	2:0	23.12.1972	00:00	1972	1973	12
+Sampdoria	Bologna FC	2:0	2:1	23.12.1972	00:00	1972	1973	12
+Lazio Roma	Torino FC	0:0	0:0	23.12.1972	00:00	1972	1973	12
+Hellas Verona	Cagliari Calcio	0:0	1:1	23.12.1972	00:00	1972	1973	12
+Inter	Lanerossi Vicenza	1:2	1:2	23.12.1972	00:00	1972	1973	12
+ACF Fiorentina	AS Roma	1:1	2:1	23.12.1972	00:00	1972	1973	12
+Atalanta	SSC Palermo	0:0	1:0	23.12.1972	00:00	1972	1973	12
+SSC Napoli	AC Milan	0:0	0:0	23.12.1972	00:00	1972	1973	12
+Lazio Roma	Bologna FC	0:0	0:0	30.12.1972	00:00	1972	1973	13
+SSC Palermo	Inter	0:0	0:2	30.12.1972	00:00	1972	1973	13
+Sampdoria	Hellas Verona	0:0	0:1	30.12.1972	00:00	1972	1973	13
+AC Milan	Torino FC	0:0	1:0	30.12.1972	00:00	1972	1973	13
+Juventus	Atalanta	0:0	0:0	30.12.1972	00:00	1972	1973	13
+Cagliari Calcio	SSC Napoli	1:0	1:0	30.12.1972	00:00	1972	1973	13
+ACF Fiorentina	Ternana Calcio	1:0	2:1	30.12.1972	00:00	1972	1973	13
+Lanerossi Vicenza	AS Roma	0:0	0:0	30.12.1972	00:00	1972	1973	13
+SSC Napoli	Sampdoria	0:0	0:0	07.01.1973	00:00	1972	1973	14
+Torino FC	Cagliari Calcio	0:0	0:0	07.01.1973	00:00	1972	1973	14
+AS Roma	SSC Palermo	0:0	0:0	07.01.1973	00:00	1972	1973	14
+Hellas Verona	Lazio Roma	0:0	1:1	07.01.1973	00:00	1972	1973	14
+Inter	Juventus	0:1	0:2	07.01.1973	00:00	1972	1973	14
+Bologna FC	AC Milan	3:0	3:2	07.01.1973	00:00	1972	1973	14
+Atalanta	ACF Fiorentina	0:0	1:1	07.01.1973	00:00	1972	1973	14
+Ternana Calcio	Lanerossi Vicenza	0:0	2:0	07.01.1973	00:00	1972	1973	14
+Lazio Roma	SSC Napoli	0:0	3:0	21.01.1973	00:00	1972	1973	15
+SSC Palermo	Ternana Calcio	0:1	1:1	21.01.1973	00:00	1972	1973	15
+Sampdoria	Torino FC	1:1	2:1	21.01.1973	00:00	1972	1973	15
+AC Milan	Hellas Verona	1:0	2:1	21.01.1973	00:00	1972	1973	15
+Lanerossi Vicenza	Atalanta	0:0	1:1	21.01.1973	00:00	1972	1973	15
+Juventus	AS Roma	1:0	1:0	21.01.1973	00:00	1972	1973	15
+Cagliari Calcio	Bologna FC	1:0	1:0	21.01.1973	00:00	1972	1973	15
+ACF Fiorentina	Inter	1:0	1:2	21.01.1973	00:00	1972	1973	15
+ACF Fiorentina	Sampdoria	1:0	2:0	28.01.1973	00:00	1972	1973	16
+AS Roma	Hellas Verona	0:1	0:1	28.01.1973	00:00	1972	1973	16
+Ternana Calcio	SSC Napoli	0:0	0:0	28.01.1973	00:00	1972	1973	16
+SSC Palermo	AC Milan	0:0	0:1	28.01.1973	00:00	1972	1973	16
+Inter	Lazio Roma	0:1	1:1	28.01.1973	00:00	1972	1973	16
+Atalanta	Cagliari Calcio	0:0	0:0	28.01.1973	00:00	1972	1973	16
+Juventus	Bologna FC	0:0	2:0	28.01.1973	00:00	1972	1973	16
+Lanerossi Vicenza	Torino FC	0:0	1:0	28.01.1973	00:00	1972	1973	16
+AC Milan	Ternana Calcio	2:0	3:1	04.02.1973	00:00	1972	1973	17
+Torino FC	SSC Palermo	1:0	2:0	04.02.1973	00:00	1972	1973	17
+SSC Napoli	Atalanta	1:0	1:0	04.02.1973	00:00	1972	1973	17
+Hellas Verona	Juventus	0:0	0:0	04.02.1973	00:00	1972	1973	17
+Lazio Roma	ACF Fiorentina	0:0	0:0	04.02.1973	00:00	1972	1973	17
+Cagliari Calcio	Lanerossi Vicenza	1:0	3:0	04.02.1973	00:00	1972	1973	17
+Bologna FC	Inter	1:0	1:0	04.02.1973	00:00	1972	1973	17
+Sampdoria	AS Roma	0:0	0:0	04.02.1973	00:00	1972	1973	17
+Lanerossi Vicenza	SSC Napoli	1:0	1:0	11.02.1973	00:00	1972	1973	18
+Ternana Calcio	Torino FC	0:0	0:0	11.02.1973	00:00	1972	1973	18
+AS Roma	Bologna FC	0:0	0:1	11.02.1973	00:00	1972	1973	18
+SSC Palermo	Cagliari Calcio	0:1	0:1	11.02.1973	00:00	1972	1973	18
+Juventus	Lazio Roma	1:0	1:0	11.02.1973	00:00	1972	1973	18
+Inter	Sampdoria	0:0	0:0	11.02.1973	00:00	1972	1973	18
+Atalanta	AC Milan	1:1	1:1	11.02.1973	00:00	1972	1973	18
+ACF Fiorentina	Hellas Verona	1:0	2:0	11.02.1973	00:00	1972	1973	18
+SSC Napoli	AS Roma	1:0	1:0	18.02.1973	00:00	1972	1973	19
+Torino FC	ACF Fiorentina	2:0	3:0	18.02.1973	00:00	1972	1973	19
+Hellas Verona	Atalanta	1:1	1:1	18.02.1973	00:00	1972	1973	19
+Sampdoria	SSC Palermo	0:0	0:0	18.02.1973	00:00	1972	1973	19
+Lazio Roma	Lanerossi Vicenza	1:0	1:0	18.02.1973	00:00	1972	1973	19
+Bologna FC	Ternana Calcio	1:0	3:0	18.02.1973	00:00	1972	1973	19
+Cagliari Calcio	Inter	1:1	2:3	18.02.1973	00:00	1972	1973	19
+AC Milan	Juventus	1:1	2:2	18.02.1973	00:00	1972	1973	19
+Juventus	Torino FC	0:0	0:2	04.03.1973	00:00	1972	1973	20
+Ternana Calcio	Lazio Roma	0:1	0:1	04.03.1973	00:00	1972	1973	20
+AS Roma	Cagliari Calcio	0:0	0:0	04.03.1973	00:00	1972	1973	20
+Atalanta	Sampdoria	0:1	0:2	04.03.1973	00:00	1972	1973	20
+Lanerossi Vicenza	AC Milan	0:2	0:3	04.03.1973	00:00	1972	1973	20
+Inter	Hellas Verona	1:0	1:0	04.03.1973	00:00	1972	1973	20
+ACF Fiorentina	SSC Napoli	0:0	1:0	04.03.1973	00:00	1972	1973	20
+SSC Palermo	Bologna FC	0:0	1:1	04.03.1973	00:00	1972	1973	20
+Lazio Roma	AS Roma	2:0	2:0	11.03.1973	00:00	1972	1973	21
+Torino FC	Atalanta	2:1	2:1	11.03.1973	00:00	1972	1973	21
+Sampdoria	Juventus	0:0	0:1	11.03.1973	00:00	1972	1973	21
+Hellas Verona	SSC Palermo	1:0	1:1	11.03.1973	00:00	1972	1973	21
+AC Milan	ACF Fiorentina	0:0	2:0	11.03.1973	00:00	1972	1973	21
+Cagliari Calcio	Ternana Calcio	0:0	1:0	11.03.1973	00:00	1972	1973	21
+Bologna FC	Lanerossi Vicenza	0:0	0:0	11.03.1973	00:00	1972	1973	21
+SSC Napoli	Inter	1:0	2:0	11.03.1973	00:00	1972	1973	21
+Atalanta	Bologna FC	1:0	1:0	18.03.1973	00:00	1972	1973	22
+ACF Fiorentina	Cagliari Calcio	0:0	3:0	18.03.1973	00:00	1972	1973	22
+Inter	AC Milan	0:1	0:2	18.03.1973	00:00	1972	1973	22
+Juventus	SSC Napoli	0:0	0:0	18.03.1973	00:00	1972	1973	22
+Lanerossi Vicenza	Hellas Verona	2:0	2:2	18.03.1973	00:00	1972	1973	22
+SSC Palermo	Lazio Roma	0:0	0:2	18.03.1973	00:00	1972	1973	22
+AS Roma	Torino FC	0:0	1:0	18.03.1973	00:00	1972	1973	22
+Ternana Calcio	Sampdoria	0:1	0:2	18.03.1973	00:00	1972	1973	22
+SSC Napoli	SSC Palermo	1:0	1:1	25.03.1973	00:00	1972	1973	23
+Torino FC	Inter	1:0	4:0	25.03.1973	00:00	1972	1973	23
+Sampdoria	Lanerossi Vicenza	0:0	0:0	25.03.1973	00:00	1972	1973	23
+Lazio Roma	Atalanta	1:1	2:1	25.03.1973	00:00	1972	1973	23
+Cagliari Calcio	Juventus	0:0	0:1	25.03.1973	00:00	1972	1973	23
+Bologna FC	ACF Fiorentina	1:0	2:0	25.03.1973	00:00	1972	1973	23
+Hellas Verona	Ternana Calcio	0:0	1:0	25.03.1973	00:00	1972	1973	23
+AC Milan	AS Roma	1:0	3:1	25.03.1973	00:00	1972	1973	23
+Inter	Atalanta	0:0	0:0	08.04.1973	00:00	1972	1973	24
+Hellas Verona	SSC Napoli	0:0	0:0	08.04.1973	00:00	1972	1973	24
+Torino FC	Bologna FC	2:1	3:1	08.04.1973	00:00	1972	1973	24
+Sampdoria	AC Milan	1:2	1:4	08.04.1973	00:00	1972	1973	24
+SSC Palermo	Lanerossi Vicenza	0:1	0:1	08.04.1973	00:00	1972	1973	24
+ACF Fiorentina	Juventus	0:0	2:1	08.04.1973	00:00	1972	1973	24
+Cagliari Calcio	Lazio Roma	0:1	0:1	08.04.1973	00:00	1972	1973	24
+AS Roma	Ternana Calcio	0:0	0:0	08.04.1973	00:00	1972	1973	24
+AC Milan	Cagliari Calcio	0:0	1:1	15.04.1973	00:00	1972	1973	25
+Juventus	SSC Palermo	3:1	4:1	15.04.1973	00:00	1972	1973	25
+Ternana Calcio	Inter	0:0	0:1	15.04.1973	00:00	1972	1973	25
+SSC Napoli	Torino FC	0:0	1:1	15.04.1973	00:00	1972	1973	25
+Lanerossi Vicenza	ACF Fiorentina	0:0	0:1	15.04.1973	00:00	1972	1973	25
+Atalanta	AS Roma	1:0	1:0	15.04.1973	00:00	1972	1973	25
+Bologna FC	Hellas Verona	0:1	4:1	15.04.1973	00:00	1972	1973	25
+Lazio Roma	Sampdoria	1:0	1:0	15.04.1973	00:00	1972	1973	25
+Juventus	Lanerossi Vicenza	1:1	3:2	22.04.1973	00:00	1972	1973	26
+Hellas Verona	Torino FC	0:0	0:0	22.04.1973	00:00	1972	1973	26
+Sampdoria	Cagliari Calcio	0:0	0:1	22.04.1973	00:00	1972	1973	26
+Lazio Roma	AC Milan	2:0	2:1	22.04.1973	00:00	1972	1973	26
+Inter	AS Roma	0:0	0:0	22.04.1973	00:00	1972	1973	26
+ACF Fiorentina	SSC Palermo	1:0	3:0	22.04.1973	00:00	1972	1973	26
+Atalanta	Ternana Calcio	0:0	0:0	22.04.1973	00:00	1972	1973	26
+SSC Napoli	Bologna FC	1:1	1:1	22.04.1973	00:00	1972	1973	26
+AS Roma	ACF Fiorentina	0:0	1:1	29.04.1973	00:00	1972	1973	27
+Bologna FC	Sampdoria	0:0	1:1	29.04.1973	00:00	1972	1973	27
+Ternana Calcio	Juventus	1:2	2:3	29.04.1973	00:00	1972	1973	27
+Torino FC	Lazio Roma	0:0	0:0	29.04.1973	00:00	1972	1973	27
+AC Milan	SSC Napoli	0:0	1:0	29.04.1973	00:00	1972	1973	27
+Cagliari Calcio	Hellas Verona	1:0	1:1	29.04.1973	00:00	1972	1973	27
+SSC Palermo	Atalanta	1:1	1:2	29.04.1973	00:00	1972	1973	27
+Lanerossi Vicenza	Inter	0:0	0:1	29.04.1973	00:00	1972	1973	27
+SSC Napoli	Cagliari Calcio	0:1	1:1	06.05.1973	00:00	1972	1973	28
+Hellas Verona	Sampdoria	0:1	1:1	06.05.1973	00:00	1972	1973	28
+Torino FC	AC Milan	2:0	2:2	06.05.1973	00:00	1972	1973	28
+AS Roma	Lanerossi Vicenza	0:0	0:0	06.05.1973	00:00	1972	1973	28
+Inter	SSC Palermo	0:0	3:1	06.05.1973	00:00	1972	1973	28
+Bologna FC	Lazio Roma	1:0	1:1	06.05.1973	00:00	1972	1973	28
+Atalanta	Juventus	0:1	0:2	06.05.1973	00:00	1972	1973	28
+Ternana Calcio	ACF Fiorentina	0:1	0:1	06.05.1973	00:00	1972	1973	28
+ACF Fiorentina	Atalanta	2:0	4:0	13.05.1973	00:00	1972	1973	29
+SSC Palermo	AS Roma	1:0	1:1	13.05.1973	00:00	1972	1973	29
+Sampdoria	SSC Napoli	1:0	1:1	13.05.1973	00:00	1972	1973	29
+AC Milan	Bologna FC	1:0	3:1	13.05.1973	00:00	1972	1973	29
+Lazio Roma	Hellas Verona	2:1	2:1	13.05.1973	00:00	1972	1973	29
+Juventus	Inter	2:0	2:1	13.05.1973	00:00	1972	1973	29
+Cagliari Calcio	Torino FC	1:0	1:0	13.05.1973	00:00	1972	1973	29
+Lanerossi Vicenza	Ternana Calcio	1:0	1:0	13.05.1973	00:00	1972	1973	29
+Hellas Verona	AC Milan	3:1	5:3	20.05.1973	00:00	1972	1973	30
+Atalanta	Lanerossi Vicenza	0:0	0:1	20.05.1973	00:00	1972	1973	30
+Bologna FC	Cagliari Calcio	3:1	4:2	20.05.1973	00:00	1972	1973	30
+Inter	ACF Fiorentina	1:0	1:0	20.05.1973	00:00	1972	1973	30
+SSC Napoli	Lazio Roma	0:0	1:0	20.05.1973	00:00	1972	1973	30
+AS Roma	Juventus	1:0	1:2	20.05.1973	00:00	1972	1973	30
+Ternana Calcio	SSC Palermo	0:0	0:0	20.05.1973	00:00	1972	1973	30
+Torino FC	Sampdoria	0:0	0:1	20.05.1973	00:00	1972	1973	30

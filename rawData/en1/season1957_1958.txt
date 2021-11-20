@@ -1,0 +1,462 @@
+Birmingham City	Aston Villa	0:0	3:1	24.08.1957	00:00	1957	1958	1
+Tottenham Hotspur	Chelsea FC	0:0	1:1	24.08.1957	00:00	1957	1958	1
+Sunderland AFC	Arsenal FC	0:1	0:1	24.08.1957	00:00	1957	1958	1
+Portsmouth FC	Burnley FC	0:0	0:0	24.08.1957	00:00	1957	1958	1
+Nottingham Forest	Preston North End	0:0	2:1	24.08.1957	00:00	1957	1958	1
+Luton Town	Bolton Wanderers	0:0	1:0	24.08.1957	00:00	1957	1958	1
+Leicester City	Manchester United	0:0	0:3	24.08.1957	00:00	1957	1958	1
+Everton FC	Wolverhampton Wanderers	0:0	1:0	24.08.1957	00:00	1957	1958	1
+Blackpool FC	Leeds United	0:0	3:0	24.08.1957	00:00	1957	1958	1
+West Bromwich Albion	Newcastle United	0:0	2:1	24.08.1957	00:00	1957	1958	1
+Manchester City	Sheffield Wednesday	0:0	2:0	09.10.1957	00:00	1957	1958	1
+Aston Villa	Leeds United	0:0	2:0	26.08.1957	00:00	1957	1958	2
+Blackpool FC	Luton Town	0:0	1:2	26.08.1957	00:00	1957	1958	2
+Arsenal FC	West Bromwich Albion	1:1	2:2	27.08.1957	00:00	1957	1958	2
+Burnley FC	Preston North End	0:0	2:0	27.08.1957	00:00	1957	1958	2
+Portsmouth FC	Tottenham Hotspur	0:0	5:1	28.08.1957	00:00	1957	1958	2
+Nottingham Forest	Birmingham City	0:0	1:1	28.08.1957	00:00	1957	1958	2
+Manchester United	Everton FC	1:0	3:0	28.08.1957	00:00	1957	1958	2
+Leicester City	Sunderland AFC	0:0	4:1	28.08.1957	00:00	1957	1958	2
+Chelsea FC	Manchester City	0:0	2:3	28.08.1957	00:00	1957	1958	2
+Wolverhampton Wanderers	Bolton Wanderers	0:0	6:1	28.08.1957	00:00	1957	1958	2
+Newcastle United	Sheffield Wednesday	0:0	0:0	25.09.1957	00:00	1957	1958	2
+Arsenal FC	Luton Town	1:0	2:0	31.08.1957	00:00	1957	1958	3
+Wolverhampton Wanderers	Sunderland AFC	0:0	5:0	31.08.1957	00:00	1957	1958	3
+Sheffield Wednesday	Nottingham Forest	0:0	1:2	31.08.1957	00:00	1957	1958	3
+Preston North End	Portsmouth FC	0:0	4:0	31.08.1957	00:00	1957	1958	3
+Newcastle United	Tottenham Hotspur	0:0	3:1	31.08.1957	00:00	1957	1958	3
+Manchester United	Manchester City	2:0	4:1	31.08.1957	00:00	1957	1958	3
+Leeds United	Leicester City	0:0	2:1	31.08.1957	00:00	1957	1958	3
+Chelsea FC	Birmingham City	0:0	5:1	31.08.1957	00:00	1957	1958	3
+Burnley FC	West Bromwich Albion	0:0	2:2	31.08.1957	00:00	1957	1958	3
+Bolton Wanderers	Blackpool FC	0:0	3:0	31.08.1957	00:00	1957	1958	3
+Aston Villa	Everton FC	0:0	0:1	31.08.1957	00:00	1957	1958	3
+Sheffield Wednesday	Newcastle United	0:0	1:0	04.09.1957	00:00	1957	1958	4
+Birmingham City	Nottingham Forest	0:0	0:2	04.09.1957	00:00	1957	1958	4
+Tottenham Hotspur	Portsmouth FC	0:0	3:5	04.09.1957	00:00	1957	1958	4
+Sunderland AFC	Leicester City	0:0	3:2	04.09.1957	00:00	1957	1958	4
+Preston North End	Burnley FC	0:0	2:1	04.09.1957	00:00	1957	1958	4
+Manchester City	Chelsea FC	0:0	5:2	04.09.1957	00:00	1957	1958	4
+Luton Town	Blackpool FC	0:0	2:0	04.09.1957	00:00	1957	1958	4
+Leeds United	Aston Villa	0:0	4:0	04.09.1957	00:00	1957	1958	4
+Everton FC	Manchester United	1:3	3:3	04.09.1957	00:00	1957	1958	4
+Bolton Wanderers	Wolverhampton Wanderers	0:0	1:1	04.09.1957	00:00	1957	1958	4
+West Bromwich Albion	Arsenal FC	0:1	1:2	04.09.1957	00:00	1957	1958	4
+Birmingham City	Newcastle United	0:0	1:4	07.09.1957	00:00	1957	1958	5
+Tottenham Hotspur	Burnley FC	0:0	3:1	07.09.1957	00:00	1957	1958	5
+Sunderland AFC	Aston Villa	0:0	1:1	07.09.1957	00:00	1957	1958	5
+Portsmouth FC	Sheffield Wednesday	0:0	3:2	07.09.1957	00:00	1957	1958	5
+Nottingham Forest	Manchester City	0:0	2:1	07.09.1957	00:00	1957	1958	5
+Manchester United	Leeds United	1:0	5:0	07.09.1957	00:00	1957	1958	5
+Luton Town	Wolverhampton Wanderers	0:0	3:1	07.09.1957	00:00	1957	1958	5
+Leicester City	Bolton Wanderers	0:0	2:3	07.09.1957	00:00	1957	1958	5
+Everton FC	Chelsea FC	0:0	3:0	07.09.1957	00:00	1957	1958	5
+Blackpool FC	Arsenal FC	1:0	1:0	07.09.1957	00:00	1957	1958	5
+West Bromwich Albion	Preston North End	0:0	4:1	07.09.1957	00:00	1957	1958	5
+Blackpool FC	Manchester United	0:2	1:4	09.09.1957	00:00	1957	1958	6
+Burnley FC	Nottingham Forest	0:0	3:1	09.09.1957	00:00	1957	1958	6
+Arsenal FC	Everton FC	1:2	2:3	10.09.1957	00:00	1957	1958	6
+Newcastle United	Portsmouth FC	0:0	2:0	11.09.1957	00:00	1957	1958	6
+Manchester City	Preston North End	0:0	2:0	11.09.1957	00:00	1957	1958	6
+Leeds United	Luton Town	0:0	0:2	11.09.1957	00:00	1957	1958	6
+Chelsea FC	West Bromwich Albion	0:0	2:2	11.09.1957	00:00	1957	1958	6
+Bolton Wanderers	Sunderland AFC	0:0	2:2	11.09.1957	00:00	1957	1958	6
+Birmingham City	Tottenham Hotspur	0:0	0:0	11.09.1957	00:00	1957	1958	6
+Sheffield Wednesday	Leicester City	0:0	2:1	11.09.1957	00:00	1957	1958	6
+Aston Villa	Wolverhampton Wanderers	0:0	2:3	23.09.1957	00:00	1957	1958	6
+Arsenal FC	Leicester City	0:1	3:1	14.09.1957	00:00	1957	1958	7
+Wolverhampton Wanderers	Blackpool FC	0:0	3:1	14.09.1957	00:00	1957	1958	7
+Sheffield Wednesday	West Bromwich Albion	0:0	1:2	14.09.1957	00:00	1957	1958	7
+Preston North End	Tottenham Hotspur	0:0	3:1	14.09.1957	00:00	1957	1958	7
+Newcastle United	Chelsea FC	0:0	1:3	14.09.1957	00:00	1957	1958	7
+Manchester City	Portsmouth FC	0:0	2:1	14.09.1957	00:00	1957	1958	7
+Leeds United	Nottingham Forest	0:0	1:2	14.09.1957	00:00	1957	1958	7
+Everton FC	Sunderland AFC	0:0	3:1	14.09.1957	00:00	1957	1958	7
+Burnley FC	Birmingham City	0:0	3:1	14.09.1957	00:00	1957	1958	7
+Bolton Wanderers	Manchester United	1:0	4:0	14.09.1957	00:00	1957	1958	7
+Aston Villa	Luton Town	0:0	2:0	14.09.1957	00:00	1957	1958	7
+Wolverhampton Wanderers	Aston Villa	0:0	2:1	16.09.1957	00:00	1957	1958	8
+Leicester City	Sheffield Wednesday	0:0	4:1	18.09.1957	00:00	1957	1958	8
+West Bromwich Albion	Chelsea FC	0:0	1:1	18.09.1957	00:00	1957	1958	8
+Tottenham Hotspur	Birmingham City	0:0	7:1	18.09.1957	00:00	1957	1958	8
+Sunderland AFC	Bolton Wanderers	0:0	1:2	18.09.1957	00:00	1957	1958	8
+Preston North End	Manchester City	0:0	6:1	18.09.1957	00:00	1957	1958	8
+Portsmouth FC	Newcastle United	0:0	2:2	18.09.1957	00:00	1957	1958	8
+Nottingham Forest	Burnley FC	0:0	7:0	18.09.1957	00:00	1957	1958	8
+Manchester United	Blackpool FC	0:2	1:2	18.09.1957	00:00	1957	1958	8
+Luton Town	Leeds United	0:0	1:1	18.09.1957	00:00	1957	1958	8
+Everton FC	Arsenal FC	0:1	2:2	16.10.1957	00:00	1957	1958	8
+Luton Town	Everton FC	0:0	0:1	21.09.1957	00:00	1957	1958	9
+Manchester United	Arsenal FC	3:2	4:2	21.09.1957	00:00	1957	1958	9
+Birmingham City	Preston North End	0:0	3:1	21.09.1957	00:00	1957	1958	9
+West Bromwich Albion	Manchester City	0:0	9:2	21.09.1957	00:00	1957	1958	9
+Tottenham Hotspur	Sheffield Wednesday	0:0	4:2	21.09.1957	00:00	1957	1958	9
+Sunderland AFC	Newcastle United	0:0	2:0	21.09.1957	00:00	1957	1958	9
+Portsmouth FC	Nottingham Forest	0:0	1:4	21.09.1957	00:00	1957	1958	9
+Leicester City	Wolverhampton Wanderers	0:0	2:3	21.09.1957	00:00	1957	1958	9
+Leeds United	Bolton Wanderers	0:0	2:1	21.09.1957	00:00	1957	1958	9
+Chelsea FC	Burnley FC	0:0	6:1	21.09.1957	00:00	1957	1958	9
+Blackpool FC	Aston Villa	0:0	1:1	21.09.1957	00:00	1957	1958	9
+Arsenal FC	Leeds United	2:1	2:1	28.09.1957	00:00	1957	1958	10
+Wolverhampton Wanderers	Manchester United	0:0	3:1	28.09.1957	00:00	1957	1958	10
+Sunderland AFC	Luton Town	0:0	3:0	28.09.1957	00:00	1957	1958	10
+Sheffield Wednesday	Birmingham City	0:0	5:3	28.09.1957	00:00	1957	1958	10
+Preston North End	Chelsea FC	0:0	5:2	28.09.1957	00:00	1957	1958	10
+Nottingham Forest	West Bromwich Albion	0:0	0:2	28.09.1957	00:00	1957	1958	10
+Manchester City	Tottenham Hotspur	0:0	5:1	28.09.1957	00:00	1957	1958	10
+Burnley FC	Newcastle United	0:0	0:2	28.09.1957	00:00	1957	1958	10
+Bolton Wanderers	Portsmouth FC	0:0	1:0	28.09.1957	00:00	1957	1958	10
+Aston Villa	Leicester City	0:0	5:1	28.09.1957	00:00	1957	1958	10
+Everton FC	Blackpool FC	0:0	0:0	20.11.1957	00:00	1957	1958	10
+Leicester City	Everton FC	0:0	2:2	05.10.1957	00:00	1957	1958	11
+Blackpool FC	Sunderland AFC	0:0	7:0	05.10.1957	00:00	1957	1958	11
+West Bromwich Albion	Portsmouth FC	0:0	3:1	05.10.1957	00:00	1957	1958	11
+Tottenham Hotspur	Nottingham Forest	0:0	3:4	05.10.1957	00:00	1957	1958	11
+Newcastle United	Preston North End	0:0	0:2	05.10.1957	00:00	1957	1958	11
+Luton Town	Burnley FC	0:0	3:2	05.10.1957	00:00	1957	1958	11
+Chelsea FC	Sheffield Wednesday	0:0	1:0	05.10.1957	00:00	1957	1958	11
+Bolton Wanderers	Arsenal FC	0:0	0:1	05.10.1957	00:00	1957	1958	11
+Birmingham City	Manchester City	0:0	4:0	05.10.1957	00:00	1957	1958	11
+Leeds United	Wolverhampton Wanderers	0:0	1:1	05.10.1957	00:00	1957	1958	11
+Manchester United	Aston Villa	2:0	4:1	05.10.1957	00:00	1957	1958	11
+Newcastle United	Everton FC	0:0	2:3	12.10.1957	00:00	1957	1958	12
+Sheffield Wednesday	Blackpool FC	0:0	0:3	12.10.1957	00:00	1957	1958	12
+Manchester City	Leicester City	0:0	4:3	12.10.1957	00:00	1957	1958	12
+Nottingham Forest	Manchester United	0:1	1:2	12.10.1957	00:00	1957	1958	12
+Portsmouth FC	Leeds United	0:0	1:2	12.10.1957	00:00	1957	1958	12
+Preston North End	Luton Town	0:0	1:0	12.10.1957	00:00	1957	1958	12
+Birmingham City	Wolverhampton Wanderers	0:0	1:5	12.10.1957	00:00	1957	1958	12
+Burnley FC	Sunderland AFC	0:0	6:0	12.10.1957	00:00	1957	1958	12
+Chelsea FC	Aston Villa	0:0	4:2	12.10.1957	00:00	1957	1958	12
+Tottenham Hotspur	Arsenal FC	2:0	3:1	12.10.1957	00:00	1957	1958	12
+West Bromwich Albion	Bolton Wanderers	0:0	2:2	12.10.1957	00:00	1957	1958	12
+Blackpool FC	Manchester City	0:0	2:5	19.10.1957	00:00	1957	1958	13
+Everton FC	Burnley FC	0:0	1:1	19.10.1957	00:00	1957	1958	13
+Wolverhampton Wanderers	Chelsea FC	0:0	2:1	19.10.1957	00:00	1957	1958	13
+Manchester United	Portsmouth FC	0:3	0:3	19.10.1957	00:00	1957	1958	13
+Luton Town	Sheffield Wednesday	0:0	2:0	19.10.1957	00:00	1957	1958	13
+Leicester City	Nottingham Forest	0:0	3:1	19.10.1957	00:00	1957	1958	13
+Arsenal FC	Birmingham City	1:1	1:3	19.10.1957	00:00	1957	1958	13
+Aston Villa	Newcastle United	0:0	4:3	19.10.1957	00:00	1957	1958	13
+Bolton Wanderers	Tottenham Hotspur	0:0	3:2	19.10.1957	00:00	1957	1958	13
+Leeds United	West Bromwich Albion	0:0	1:1	19.10.1957	00:00	1957	1958	13
+Sunderland AFC	Preston North End	0:0	0:0	19.10.1957	00:00	1957	1958	13
+Nottingham Forest	Blackpool FC	0:0	1:2	26.10.1957	00:00	1957	1958	14
+Preston North End	Everton FC	0:0	3:1	26.10.1957	00:00	1957	1958	14
+Manchester City	Luton Town	0:0	2:2	26.10.1957	00:00	1957	1958	14
+Portsmouth FC	Leicester City	0:0	2:0	26.10.1957	00:00	1957	1958	14
+Birmingham City	Bolton Wanderers	0:0	5:1	26.10.1957	00:00	1957	1958	14
+Burnley FC	Aston Villa	0:0	3:0	26.10.1957	00:00	1957	1958	14
+Chelsea FC	Arsenal FC	0:0	0:0	26.10.1957	00:00	1957	1958	14
+Newcastle United	Wolverhampton Wanderers	0:0	1:1	26.10.1957	00:00	1957	1958	14
+Sheffield Wednesday	Sunderland AFC	0:0	3:3	26.10.1957	00:00	1957	1958	14
+Tottenham Hotspur	Leeds United	0:0	2:0	26.10.1957	00:00	1957	1958	14
+West Bromwich Albion	Manchester United	3:2	4:3	26.10.1957	00:00	1957	1958	14
+Blackpool FC	Chelsea FC	0:0	2:1	02.11.1957	00:00	1957	1958	15
+Everton FC	West Bromwich Albion	0:0	1:1	02.11.1957	00:00	1957	1958	15
+Wolverhampton Wanderers	Nottingham Forest	0:0	2:0	02.11.1957	00:00	1957	1958	15
+Manchester United	Burnley FC	0:0	1:0	02.11.1957	00:00	1957	1958	15
+Leicester City	Newcastle United	0:0	2:1	02.11.1957	00:00	1957	1958	15
+Bolton Wanderers	Sheffield Wednesday	0:0	5:4	02.11.1957	00:00	1957	1958	15
+Aston Villa	Portsmouth FC	0:0	2:1	02.11.1957	00:00	1957	1958	15
+Arsenal FC	Manchester City	2:0	2:1	02.11.1957	00:00	1957	1958	15
+Leeds United	Preston North End	0:0	2:3	02.11.1957	00:00	1957	1958	15
+Luton Town	Birmingham City	0:0	3:0	02.11.1957	00:00	1957	1958	15
+Sunderland AFC	Tottenham Hotspur	0:0	1:1	02.11.1957	00:00	1957	1958	15
+Newcastle United	Blackpool FC	0:0	1:2	09.11.1957	00:00	1957	1958	16
+Tottenham Hotspur	Everton FC	0:0	3:1	09.11.1957	00:00	1957	1958	16
+Preston North End	Manchester United	0:0	1:1	09.11.1957	00:00	1957	1958	16
+Portsmouth FC	Wolverhampton Wanderers	0:0	1:1	09.11.1957	00:00	1957	1958	16
+Nottingham Forest	Arsenal FC	3:0	4:0	09.11.1957	00:00	1957	1958	16
+Manchester City	Bolton Wanderers	0:0	2:1	09.11.1957	00:00	1957	1958	16
+Chelsea FC	Luton Town	0:0	1:3	09.11.1957	00:00	1957	1958	16
+Burnley FC	Leicester City	0:0	7:3	09.11.1957	00:00	1957	1958	16
+Birmingham City	Sunderland AFC	0:0	2:3	09.11.1957	00:00	1957	1958	16
+Sheffield Wednesday	Leeds United	0:0	3:2	09.11.1957	00:00	1957	1958	16
+West Bromwich Albion	Aston Villa	0:0	3:2	09.11.1957	00:00	1957	1958	16
+Blackpool FC	Burnley FC	0:0	2:4	16.11.1957	00:00	1957	1958	17
+Arsenal FC	Portsmouth FC	2:1	3:2	16.11.1957	00:00	1957	1958	17
+Bolton Wanderers	Nottingham Forest	0:0	2:0	16.11.1957	00:00	1957	1958	17
+Leicester City	Preston North End	0:0	1:3	16.11.1957	00:00	1957	1958	17
+Luton Town	Newcastle United	0:0	0:3	16.11.1957	00:00	1957	1958	17
+Manchester United	Sheffield Wednesday	2:1	2:1	16.11.1957	00:00	1957	1958	17
+Aston Villa	Tottenham Hotspur	0:0	1:1	16.11.1957	00:00	1957	1958	17
+Everton FC	Birmingham City	0:0	0:2	16.11.1957	00:00	1957	1958	17
+Leeds United	Manchester City	0:0	2:4	16.11.1957	00:00	1957	1958	17
+Sunderland AFC	Chelsea FC	0:0	2:2	16.11.1957	00:00	1957	1958	17
+Wolverhampton Wanderers	West Bromwich Albion	0:0	1:1	16.11.1957	00:00	1957	1958	17
+Preston North End	Bolton Wanderers	0:0	3:0	23.11.1957	00:00	1957	1958	18
+Portsmouth FC	Everton FC	0:0	3:2	23.11.1957	00:00	1957	1958	18
+Nottingham Forest	Aston Villa	0:0	4:1	23.11.1957	00:00	1957	1958	18
+Newcastle United	Manchester United	1:0	1:2	23.11.1957	00:00	1957	1958	18
+Chelsea FC	Leicester City	0:0	4:0	23.11.1957	00:00	1957	1958	18
+Burnley FC	Leeds United	0:0	3:1	23.11.1957	00:00	1957	1958	18
+Tottenham Hotspur	Luton Town	0:0	3:1	23.11.1957	00:00	1957	1958	18
+Birmingham City	Blackpool FC	0:0	0:0	23.11.1957	00:00	1957	1958	18
+Manchester City	Wolverhampton Wanderers	0:0	3:4	23.11.1957	00:00	1957	1958	18
+Sheffield Wednesday	Arsenal FC	1:0	2:0	23.11.1957	00:00	1957	1958	18
+West Bromwich Albion	Sunderland AFC	0:0	3:0	23.11.1957	00:00	1957	1958	18
+Luton Town	Nottingham Forest	0:0	3:1	30.11.1957	00:00	1957	1958	19
+Leicester City	West Bromwich Albion	0:0	3:3	30.11.1957	00:00	1957	1958	19
+Everton FC	Sheffield Wednesday	0:0	1:1	30.11.1957	00:00	1957	1958	19
+Bolton Wanderers	Chelsea FC	0:0	3:3	30.11.1957	00:00	1957	1958	19
+Blackpool FC	Portsmouth FC	0:0	2:1	30.11.1957	00:00	1957	1958	19
+Wolverhampton Wanderers	Burnley FC	0:0	2:1	30.11.1957	00:00	1957	1958	19
+Arsenal FC	Newcastle United	1:1	2:3	30.11.1957	00:00	1957	1958	19
+Aston Villa	Preston North End	0:0	2:2	30.11.1957	00:00	1957	1958	19
+Leeds United	Birmingham City	0:0	1:1	30.11.1957	00:00	1957	1958	19
+Manchester United	Tottenham Hotspur	1:4	3:4	30.11.1957	00:00	1957	1958	19
+Sunderland AFC	Manchester City	0:0	2:1	30.11.1957	00:00	1957	1958	19
+Tottenham Hotspur	Leicester City	0:0	1:4	07.12.1957	00:00	1957	1958	20
+Portsmouth FC	Luton Town	0:0	5:0	07.12.1957	00:00	1957	1958	20
+Nottingham Forest	Sunderland AFC	0:0	2:0	07.12.1957	00:00	1957	1958	20
+Newcastle United	Bolton Wanderers	0:0	1:2	07.12.1957	00:00	1957	1958	20
+Manchester City	Everton FC	0:0	6:2	07.12.1957	00:00	1957	1958	20
+Chelsea FC	Leeds United	0:0	2:1	07.12.1957	00:00	1957	1958	20
+West Bromwich Albion	Blackpool FC	0:0	1:1	07.12.1957	00:00	1957	1958	20
+Birmingham City	Manchester United	3:2	3:3	07.12.1957	00:00	1957	1958	20
+Burnley FC	Arsenal FC	1:0	2:1	07.12.1957	00:00	1957	1958	20
+Preston North End	Wolverhampton Wanderers	0:0	1:2	07.12.1957	00:00	1957	1958	20
+Sheffield Wednesday	Aston Villa	0:0	2:5	07.12.1957	00:00	1957	1958	20
+Manchester United	Chelsea FC	0:0	0:1	14.12.1957	00:00	1957	1958	21
+Luton Town	West Bromwich Albion	0:0	5:1	14.12.1957	00:00	1957	1958	21
+Everton FC	Nottingham Forest	0:0	1:1	14.12.1957	00:00	1957	1958	21
+Bolton Wanderers	Burnley FC	0:0	2:1	14.12.1957	00:00	1957	1958	21
+Blackpool FC	Tottenham Hotspur	0:0	0:2	14.12.1957	00:00	1957	1958	21
+Sunderland AFC	Portsmouth FC	0:0	1:1	14.12.1957	00:00	1957	1958	21
+Arsenal FC	Preston North End	2:0	4:2	14.12.1957	00:00	1957	1958	21
+Aston Villa	Manchester City	0:0	1:2	14.12.1957	00:00	1957	1958	21
+Leeds United	Newcastle United	0:0	3:0	14.12.1957	00:00	1957	1958	21
+Leicester City	Birmingham City	0:0	2:2	14.12.1957	00:00	1957	1958	21
+Wolverhampton Wanderers	Sheffield Wednesday	0:0	4:3	14.12.1957	00:00	1957	1958	21
+Sheffield Wednesday	Manchester City	0:0	4:5	21.12.1957	00:00	1957	1958	22
+Preston North End	Nottingham Forest	0:0	2:0	21.12.1957	00:00	1957	1958	22
+Manchester United	Leicester City	1:0	4:0	21.12.1957	00:00	1957	1958	22
+Leeds United	Blackpool FC	0:0	2:1	21.12.1957	00:00	1957	1958	22
+Burnley FC	Portsmouth FC	0:0	3:1	21.12.1957	00:00	1957	1958	22
+Bolton Wanderers	Luton Town	0:0	1:2	21.12.1957	00:00	1957	1958	22
+Wolverhampton Wanderers	Everton FC	0:0	2:0	21.12.1957	00:00	1957	1958	22
+Arsenal FC	Sunderland AFC	3:0	3:0	21.12.1957	00:00	1957	1958	22
+Aston Villa	Birmingham City	0:0	0:2	21.12.1957	00:00	1957	1958	22
+Chelsea FC	Tottenham Hotspur	0:0	2:4	21.12.1957	00:00	1957	1958	22
+Newcastle United	West Bromwich Albion	0:0	3:0	21.12.1957	00:00	1957	1958	22
+Leeds United	Sunderland AFC	0:0	2:1	25.09.1957	00:00	1957	1958	23
+West Bromwich Albion	Birmingham City	0:0	0:0	01.10.1957	00:00	1957	1958	23
+Arsenal FC	Aston Villa	3:0	4:0	02.10.1957	00:00	1957	1958	23
+Wolverhampton Wanderers	Tottenham Hotspur	0:0	4:0	02.10.1957	00:00	1957	1958	23
+Newcastle United	Nottingham Forest	0:0	1:4	25.12.1957	00:00	1957	1958	23
+Manchester United	Luton Town	2:0	3:0	25.12.1957	00:00	1957	1958	23
+Everton FC	Bolton Wanderers	0:0	1:1	25.12.1957	00:00	1957	1958	23
+Chelsea FC	Portsmouth FC	0:0	7:4	25.12.1957	00:00	1957	1958	23
+Burnley FC	Manchester City	0:0	2:1	25.12.1957	00:00	1957	1958	23
+Blackpool FC	Leicester City	0:0	5:1	25.12.1957	00:00	1957	1958	23
+Sheffield Wednesday	Preston North End	0:0	4:4	25.12.1957	00:00	1957	1958	23
+Aston Villa	Arsenal FC	2:0	3:0	26.12.1957	00:00	1957	1958	24
+Sunderland AFC	Leeds United	0:0	2:1	26.12.1957	00:00	1957	1958	24
+Preston North End	Sheffield Wednesday	0:0	3:0	26.12.1957	00:00	1957	1958	24
+Portsmouth FC	Chelsea FC	0:0	3:0	26.12.1957	00:00	1957	1958	24
+Nottingham Forest	Newcastle United	0:0	2:3	26.12.1957	00:00	1957	1958	24
+Manchester City	Burnley FC	0:0	4:1	26.12.1957	00:00	1957	1958	24
+Luton Town	Manchester United	0:2	2:2	26.12.1957	00:00	1957	1958	24
+Leicester City	Blackpool FC	0:0	2:1	26.12.1957	00:00	1957	1958	24
+Bolton Wanderers	Everton FC	0:0	1:5	26.12.1957	00:00	1957	1958	24
+Birmingham City	West Bromwich Albion	0:0	3:5	26.12.1957	00:00	1957	1958	24
+Tottenham Hotspur	Wolverhampton Wanderers	0:0	1:0	26.12.1957	00:00	1957	1958	24
+Birmingham City	Chelsea FC	0:0	3:3	28.12.1957	00:00	1957	1958	25
+Tottenham Hotspur	Newcastle United	0:0	3:3	28.12.1957	00:00	1957	1958	25
+Sunderland AFC	Wolverhampton Wanderers	0:0	0:2	28.12.1957	00:00	1957	1958	25
+Portsmouth FC	Preston North End	0:0	0:2	28.12.1957	00:00	1957	1958	25
+Nottingham Forest	Sheffield Wednesday	0:0	5:2	28.12.1957	00:00	1957	1958	25
+Manchester City	Manchester United	1:2	2:2	28.12.1957	00:00	1957	1958	25
+Luton Town	Arsenal FC	2:0	4:0	28.12.1957	00:00	1957	1958	25
+Leicester City	Leeds United	0:0	3:0	28.12.1957	00:00	1957	1958	25
+Everton FC	Aston Villa	0:0	1:2	28.12.1957	00:00	1957	1958	25
+Blackpool FC	Bolton Wanderers	0:0	2:3	28.12.1957	00:00	1957	1958	25
+West Bromwich Albion	Burnley FC	0:0	5:1	28.12.1957	00:00	1957	1958	25
+Arsenal FC	Blackpool FC	2:1	2:3	11.01.1958	00:00	1957	1958	26
+Sheffield Wednesday	Portsmouth FC	0:0	4:2	11.01.1958	00:00	1957	1958	26
+Preston North End	West Bromwich Albion	0:0	3:1	11.01.1958	00:00	1957	1958	26
+Newcastle United	Birmingham City	0:0	1:2	11.01.1958	00:00	1957	1958	26
+Manchester City	Nottingham Forest	0:0	1:1	11.01.1958	00:00	1957	1958	26
+Leeds United	Manchester United	0:1	1:1	11.01.1958	00:00	1957	1958	26
+Chelsea FC	Everton FC	1:0	3:1	11.01.1958	00:00	1957	1958	26
+Burnley FC	Tottenham Hotspur	0:0	2:0	11.01.1958	00:00	1957	1958	26
+Bolton Wanderers	Leicester City	0:0	2:3	11.01.1958	00:00	1957	1958	26
+Aston Villa	Sunderland AFC	0:0	5:2	11.01.1958	00:00	1957	1958	26
+Wolverhampton Wanderers	Luton Town	0:0	1:1	11.01.1958	00:00	1957	1958	26
+Birmingham City	Burnley FC	0:0	2:3	18.01.1958	00:00	1957	1958	27
+Tottenham Hotspur	Preston North End	0:0	3:3	18.01.1958	00:00	1957	1958	27
+Sunderland AFC	Everton FC	0:0	1:1	18.01.1958	00:00	1957	1958	27
+Portsmouth FC	Manchester City	0:0	2:1	18.01.1958	00:00	1957	1958	27
+Nottingham Forest	Leeds United	0:0	1:1	18.01.1958	00:00	1957	1958	27
+Manchester United	Bolton Wanderers	4:1	7:2	18.01.1958	00:00	1957	1958	27
+Luton Town	Aston Villa	0:0	3:0	18.01.1958	00:00	1957	1958	27
+Leicester City	Arsenal FC	0:0	0:1	18.01.1958	00:00	1957	1958	27
+Chelsea FC	Newcastle United	0:0	2:1	18.01.1958	00:00	1957	1958	27
+Blackpool FC	Wolverhampton Wanderers	0:0	3:2	18.01.1958	00:00	1957	1958	27
+West Bromwich Albion	Sheffield Wednesday	0:0	3:1	18.01.1958	00:00	1957	1958	27
+Arsenal FC	Manchester United	0:3	4:5	01.02.1958	00:00	1957	1958	28
+Sheffield Wednesday	Tottenham Hotspur	0:0	2:0	01.02.1958	00:00	1957	1958	28
+Preston North End	Birmingham City	0:0	8:0	01.02.1958	00:00	1957	1958	28
+Nottingham Forest	Portsmouth FC	0:0	2:0	01.02.1958	00:00	1957	1958	28
+Newcastle United	Sunderland AFC	0:0	2:2	01.02.1958	00:00	1957	1958	28
+Manchester City	West Bromwich Albion	0:0	4:1	01.02.1958	00:00	1957	1958	28
+Everton FC	Luton Town	0:0	0:2	01.02.1958	00:00	1957	1958	28
+Burnley FC	Chelsea FC	0:0	2:1	01.02.1958	00:00	1957	1958	28
+Bolton Wanderers	Leeds United	0:0	0:2	01.02.1958	00:00	1957	1958	28
+Aston Villa	Blackpool FC	0:0	1:1	01.02.1958	00:00	1957	1958	28
+Wolverhampton Wanderers	Leicester City	0:0	5:1	01.02.1958	00:00	1957	1958	28
+Chelsea FC	Preston North End	0:0	0:2	08.02.1958	00:00	1957	1958	29
+West Bromwich Albion	Nottingham Forest	0:0	3:2	08.02.1958	00:00	1957	1958	29
+Tottenham Hotspur	Manchester City	0:0	5:1	08.02.1958	00:00	1957	1958	29
+Portsmouth FC	Bolton Wanderers	0:0	2:2	08.02.1958	00:00	1957	1958	29
+Luton Town	Sunderland AFC	0:0	7:1	08.02.1958	00:00	1957	1958	29
+Leicester City	Aston Villa	0:0	6:1	08.02.1958	00:00	1957	1958	29
+Birmingham City	Sheffield Wednesday	0:0	1:0	12.03.1958	00:00	1957	1958	29
+Leeds United	Arsenal FC	1:0	2:0	19.03.1958	00:00	1957	1958	29
+Manchester United	Wolverhampton Wanderers	0:1	0:4	21.04.1958	00:00	1957	1958	29
+Blackpool FC	Everton FC	0:0	0:1	23.04.1958	00:00	1957	1958	29
+Newcastle United	Burnley FC	0:0	1:3	28.04.1958	00:00	1957	1958	29
+Everton FC	Leicester City	0:0	2:2	15.02.1958	00:00	1957	1958	30
+Sunderland AFC	Blackpool FC	0:0	1:4	15.02.1958	00:00	1957	1958	30
+Burnley FC	Luton Town	0:0	1:2	15.02.1958	00:00	1957	1958	30
+Nottingham Forest	Tottenham Hotspur	0:0	1:2	15.02.1958	00:00	1957	1958	30
+Sheffield Wednesday	Chelsea FC	0:0	2:3	15.02.1958	00:00	1957	1958	30
+Arsenal FC	Bolton Wanderers	0:0	1:2	18.02.1958	00:00	1957	1958	30
+Wolverhampton Wanderers	Leeds United	0:0	3:2	19.02.1958	00:00	1957	1958	30
+Manchester City	Birmingham City	0:0	1:1	05.03.1958	00:00	1957	1958	30
+Portsmouth FC	West Bromwich Albion	0:0	2:2	19.03.1958	00:00	1957	1958	30
+Preston North End	Newcastle United	0:0	2:1	19.03.1958	00:00	1957	1958	30
+Aston Villa	Manchester United	1:1	3:2	31.03.1958	00:00	1957	1958	30
+Wolverhampton Wanderers	Birmingham City	0:0	5:1	22.02.1958	00:00	1957	1958	31
+Aston Villa	Chelsea FC	0:0	1:3	22.02.1958	00:00	1957	1958	31
+Blackpool FC	Sheffield Wednesday	0:0	2:2	22.02.1958	00:00	1957	1958	31
+Bolton Wanderers	West Bromwich Albion	0:0	2:2	22.02.1958	00:00	1957	1958	31
+Everton FC	Newcastle United	0:0	1:2	22.02.1958	00:00	1957	1958	31
+Leeds United	Portsmouth FC	0:0	2:0	22.02.1958	00:00	1957	1958	31
+Arsenal FC	Tottenham Hotspur	1:1	4:4	22.02.1958	00:00	1957	1958	31
+Leicester City	Manchester City	0:0	8:4	22.02.1958	00:00	1957	1958	31
+Luton Town	Preston North End	0:0	1:3	22.02.1958	00:00	1957	1958	31
+Manchester United	Nottingham Forest	0:1	1:1	22.02.1958	00:00	1957	1958	31
+Sunderland AFC	Burnley FC	0:0	2:3	22.02.1958	00:00	1957	1958	31
+Birmingham City	Arsenal FC	2:0	4:1	01.03.1958	00:00	1957	1958	32
+Newcastle United	Aston Villa	0:0	2:4	01.03.1958	00:00	1957	1958	32
+Manchester City	Blackpool FC	0:0	4:3	01.03.1958	00:00	1957	1958	32
+Burnley FC	Everton FC	0:0	0:2	01.03.1958	00:00	1957	1958	32
+Nottingham Forest	Leicester City	0:0	3:1	01.03.1958	00:00	1957	1958	32
+Preston North End	Sunderland AFC	0:0	3:0	01.03.1958	00:00	1957	1958	32
+Sheffield Wednesday	Luton Town	0:0	2:1	01.03.1958	00:00	1957	1958	32
+Chelsea FC	Wolverhampton Wanderers	0:0	1:2	11.03.1958	00:00	1957	1958	32
+West Bromwich Albion	Leeds United	0:0	1:0	12.03.1958	00:00	1957	1958	32
+Tottenham Hotspur	Bolton Wanderers	0:0	4:1	12.03.1958	00:00	1957	1958	32
+Portsmouth FC	Manchester United	0:2	3:3	16.04.1958	00:00	1957	1958	32
+Manchester United	West Bromwich Albion	0:2	0:4	08.03.1958	00:00	1957	1958	33
+Wolverhampton Wanderers	Newcastle United	0:0	3:1	08.03.1958	00:00	1957	1958	33
+Leeds United	Tottenham Hotspur	0:0	1:2	08.03.1958	00:00	1957	1958	33
+Everton FC	Preston North End	2:0	4:2	08.03.1958	00:00	1957	1958	33
+Bolton Wanderers	Birmingham City	0:0	1:0	08.03.1958	00:00	1957	1958	33
+Blackpool FC	Nottingham Forest	0:0	3:0	08.03.1958	00:00	1957	1958	33
+Aston Villa	Burnley FC	0:0	3:0	08.03.1958	00:00	1957	1958	33
+Arsenal FC	Chelsea FC	2:2	5:4	08.03.1958	00:00	1957	1958	33
+Leicester City	Portsmouth FC	0:0	2:2	08.03.1958	00:00	1957	1958	33
+Luton Town	Manchester City	0:0	1:2	08.03.1958	00:00	1957	1958	33
+Sunderland AFC	Sheffield Wednesday	0:0	3:3	08.03.1958	00:00	1957	1958	33
+Portsmouth FC	Aston Villa	0:0	1:0	15.03.1958	00:00	1957	1958	34
+West Bromwich Albion	Everton FC	0:0	4:0	15.03.1958	00:00	1957	1958	34
+Preston North End	Leeds United	0:0	3:0	15.03.1958	00:00	1957	1958	34
+Manchester City	Arsenal FC	1:2	2:4	15.03.1958	00:00	1957	1958	34
+Chelsea FC	Blackpool FC	0:0	1:4	15.03.1958	00:00	1957	1958	34
+Burnley FC	Manchester United	0:0	3:0	15.03.1958	00:00	1957	1958	34
+Birmingham City	Luton Town	0:0	1:1	15.03.1958	00:00	1957	1958	34
+Newcastle United	Leicester City	0:0	5:3	15.03.1958	00:00	1957	1958	34
+Nottingham Forest	Wolverhampton Wanderers	0:0	1:4	15.03.1958	00:00	1957	1958	34
+Sheffield Wednesday	Bolton Wanderers	0:0	1:0	15.03.1958	00:00	1957	1958	34
+Tottenham Hotspur	Sunderland AFC	0:0	0:1	15.03.1958	00:00	1957	1958	34
+Everton FC	Portsmouth FC	0:0	4:2	22.03.1958	00:00	1957	1958	35
+Leeds United	Burnley FC	0:0	1:0	22.03.1958	00:00	1957	1958	35
+Wolverhampton Wanderers	Manchester City	0:0	3:3	22.03.1958	00:00	1957	1958	35
+Arsenal FC	Sheffield Wednesday	1:0	1:0	22.03.1958	00:00	1957	1958	35
+Blackpool FC	Birmingham City	0:0	4:2	22.03.1958	00:00	1957	1958	35
+Leicester City	Chelsea FC	0:0	3:2	22.03.1958	00:00	1957	1958	35
+Luton Town	Tottenham Hotspur	0:0	0:0	22.03.1958	00:00	1957	1958	35
+Sunderland AFC	West Bromwich Albion	0:0	2:0	22.03.1958	00:00	1957	1958	35
+Bolton Wanderers	Preston North End	0:0	0:4	21.04.1958	00:00	1957	1958	35
+Manchester United	Newcastle United	1:0	1:1	23.04.1958	00:00	1957	1958	35
+Aston Villa	Nottingham Forest	0:0	1:1	30.04.1958	00:00	1957	1958	35
+Sheffield Wednesday	Manchester United	1:0	1:0	29.03.1958	00:00	1957	1958	36
+Portsmouth FC	Arsenal FC	4:1	5:4	29.03.1958	00:00	1957	1958	36
+Nottingham Forest	Bolton Wanderers	0:0	0:0	29.03.1958	00:00	1957	1958	36
+Burnley FC	Blackpool FC	0:0	2:1	29.03.1958	00:00	1957	1958	36
+Birmingham City	Everton FC	0:0	2:1	29.03.1958	00:00	1957	1958	36
+West Bromwich Albion	Wolverhampton Wanderers	0:0	0:3	29.03.1958	00:00	1957	1958	36
+Tottenham Hotspur	Aston Villa	0:0	6:2	29.03.1958	00:00	1957	1958	36
+Preston North End	Leicester City	0:0	4:1	29.03.1958	00:00	1957	1958	36
+Newcastle United	Luton Town	0:0	3:2	29.03.1958	00:00	1957	1958	36
+Manchester City	Leeds United	0:0	1:0	29.03.1958	00:00	1957	1958	36
+Chelsea FC	Sunderland AFC	0:0	0:0	29.03.1958	00:00	1957	1958	36
+Blackpool FC	Preston North End	0:0	1:2	04.04.1958	00:00	1957	1958	37
+Bolton Wanderers	Aston Villa	0:0	4:0	04.04.1958	00:00	1957	1958	37
+Burnley FC	Sheffield Wednesday	0:0	2:0	04.04.1958	00:00	1957	1958	37
+Chelsea FC	Nottingham Forest	0:0	0:0	04.04.1958	00:00	1957	1958	37
+Everton FC	Leeds United	0:0	0:1	04.04.1958	00:00	1957	1958	37
+Manchester United	Sunderland AFC	1:1	2:2	04.04.1958	00:00	1957	1958	37
+Portsmouth FC	Birmingham City	0:0	3:2	04.04.1958	00:00	1957	1958	37
+Tottenham Hotspur	West Bromwich Albion	0:0	0:0	04.04.1958	00:00	1957	1958	37
+Arsenal FC	Wolverhampton Wanderers	0:1	0:2	07.04.1958	00:00	1957	1958	37
+Luton Town	Leicester City	0:0	2:1	07.04.1958	00:00	1957	1958	37
+Newcastle United	Manchester City	0:0	4:1	14.04.1958	00:00	1957	1958	37
+Manchester United	Preston North End	0:0	0:0	05.04.1958	00:00	1957	1958	38
+Wolverhampton Wanderers	Portsmouth FC	0:0	1:0	05.04.1958	00:00	1957	1958	38
+Luton Town	Chelsea FC	0:0	0:2	05.04.1958	00:00	1957	1958	38
+Leicester City	Burnley FC	0:0	5:3	05.04.1958	00:00	1957	1958	38
+Everton FC	Tottenham Hotspur	0:0	3:4	05.04.1958	00:00	1957	1958	38
+Bolton Wanderers	Manchester City	0:0	0:2	05.04.1958	00:00	1957	1958	38
+Blackpool FC	Newcastle United	0:0	3:2	05.04.1958	00:00	1957	1958	38
+Aston Villa	West Bromwich Albion	0:0	2:1	05.04.1958	00:00	1957	1958	38
+Leeds United	Sheffield Wednesday	0:0	2:2	05.04.1958	00:00	1957	1958	38
+Sunderland AFC	Birmingham City	0:0	1:6	05.04.1958	00:00	1957	1958	38
+Arsenal FC	Nottingham Forest	1:1	1:1	21.04.1958	00:00	1957	1958	38
+Manchester City	Newcastle United	0:0	2:1	07.04.1958	00:00	1957	1958	39
+Nottingham Forest	Chelsea FC	0:0	1:1	07.04.1958	00:00	1957	1958	39
+Sheffield Wednesday	Burnley FC	0:0	1:2	07.04.1958	00:00	1957	1958	39
+Preston North End	Blackpool FC	0:0	2:1	07.04.1958	00:00	1957	1958	39
+Leeds United	Everton FC	0:0	1:0	07.04.1958	00:00	1957	1958	39
+Birmingham City	Portsmouth FC	0:0	4:1	07.04.1958	00:00	1957	1958	39
+Sunderland AFC	Manchester United	1:1	1:2	07.04.1958	00:00	1957	1958	39
+West Bromwich Albion	Tottenham Hotspur	0:0	0:2	07.04.1958	00:00	1957	1958	39
+Aston Villa	Bolton Wanderers	0:0	4:0	08.04.1958	00:00	1957	1958	39
+Wolverhampton Wanderers	Arsenal FC	0:1	1:2	08.04.1958	00:00	1957	1958	39
+Leicester City	Luton Town	0:0	4:1	08.04.1958	00:00	1957	1958	39
+Sheffield Wednesday	Everton FC	0:0	2:1	12.04.1958	00:00	1957	1958	40
+Preston North End	Aston Villa	0:0	1:1	12.04.1958	00:00	1957	1958	40
+Portsmouth FC	Blackpool FC	0:0	1:2	12.04.1958	00:00	1957	1958	40
+Newcastle United	Arsenal FC	1:3	3:3	12.04.1958	00:00	1957	1958	40
+Burnley FC	Wolverhampton Wanderers	0:0	1:1	12.04.1958	00:00	1957	1958	40
+Birmingham City	Leeds United	0:0	1:1	12.04.1958	00:00	1957	1958	40
+West Bromwich Albion	Leicester City	0:0	6:2	12.04.1958	00:00	1957	1958	40
+Tottenham Hotspur	Manchester United	1:0	1:0	12.04.1958	00:00	1957	1958	40
+Nottingham Forest	Luton Town	0:0	1:0	12.04.1958	00:00	1957	1958	40
+Manchester City	Sunderland AFC	0:0	3:1	12.04.1958	00:00	1957	1958	40
+Chelsea FC	Bolton Wanderers	0:0	2:2	12.04.1958	00:00	1957	1958	40
+Sunderland AFC	Nottingham Forest	0:0	3:0	19.04.1958	00:00	1957	1958	41
+Wolverhampton Wanderers	Preston North End	0:0	2:0	19.04.1958	00:00	1957	1958	41
+Everton FC	Manchester City	0:0	2:5	19.04.1958	00:00	1957	1958	41
+Bolton Wanderers	Newcastle United	0:0	1:1	19.04.1958	00:00	1957	1958	41
+Blackpool FC	West Bromwich Albion	0:0	2:0	19.04.1958	00:00	1957	1958	41
+Aston Villa	Sheffield Wednesday	0:0	2:0	19.04.1958	00:00	1957	1958	41
+Arsenal FC	Burnley FC	0:0	0:0	19.04.1958	00:00	1957	1958	41
+Leeds United	Chelsea FC	0:0	0:0	19.04.1958	00:00	1957	1958	41
+Leicester City	Tottenham Hotspur	0:0	1:3	19.04.1958	00:00	1957	1958	41
+Luton Town	Portsmouth FC	0:0	2:1	19.04.1958	00:00	1957	1958	41
+Manchester United	Birmingham City	0:2	0:2	19.04.1958	00:00	1957	1958	41
+Burnley FC	Bolton Wanderers	0:0	3:1	26.04.1958	00:00	1957	1958	42
+Manchester City	Aston Villa	0:0	1:2	26.04.1958	00:00	1957	1958	42
+Birmingham City	Leicester City	0:0	0:1	26.04.1958	00:00	1957	1958	42
+West Bromwich Albion	Luton Town	0:0	4:2	26.04.1958	00:00	1957	1958	42
+Tottenham Hotspur	Blackpool FC	0:0	2:1	26.04.1958	00:00	1957	1958	42
+Sheffield Wednesday	Wolverhampton Wanderers	0:0	2:1	26.04.1958	00:00	1957	1958	42
+Preston North End	Arsenal FC	2:0	3:0	26.04.1958	00:00	1957	1958	42
+Portsmouth FC	Sunderland AFC	0:0	0:2	26.04.1958	00:00	1957	1958	42
+Nottingham Forest	Everton FC	0:0	0:3	26.04.1958	00:00	1957	1958	42
+Newcastle United	Leeds United	0:0	1:2	26.04.1958	00:00	1957	1958	42
+Chelsea FC	Manchester United	2:1	2:1	26.04.1958	00:00	1957	1958	42

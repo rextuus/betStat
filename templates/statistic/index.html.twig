@@ -1,0 +1,34 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello StatisticController!{% endblock %}
+
+{% block body %}
+<table class="table table-bordered">
+    {% for step in steps %}
+        <tr>
+            <th>{{loop.index}}:</th>
+            <td>
+            <table>
+                <tr>
+                    <th>Gewonnen </th>
+                    <th>Unentschieden </th>
+                    <th>Verloren </th>
+                    <th>Gewonnen % </th>
+                    <th>Unentschieden % </th>
+                    <th>Verloren % </th>
+                </tr>
+                <tr>
+                    <td>{{ step['win'] }}</td>
+                    <td>{{ step['draw'] }}</td>
+                    <td>{{ step['loose'] }}</td>
+                    <td>{{ step['win%']|round(2, 'floor')  }}</td>
+                    <td>{{ step['draw%']|round(2, 'floor')  }}</td>
+                    <td>{{ step['loose%']|round(2, 'floor')  }}</td>
+                </tr>
+            </table>
+            </td>
+        </tr>
+
+    {% endfor %}
+</table>
+{% endblock %}

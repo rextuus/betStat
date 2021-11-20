@@ -1,0 +1,380 @@
+1. FC SaarbrÃ¼cken	Stuttgarter Kickers	0:0	1:0	29.07.1989	15:00	1989	1990	1
+SC Freiburg	SpVgg Unterhaching	0:2	2:3	29.07.1989	15:00	1989	1990	1
+VfL OsnabrÃ¼ck	SV Meppen	1:0	1:1	29.07.1989	15:00	1989	1990	1
+Rot-Weiss Essen	FC Schalke 04	0:0	0:0	29.07.1989	15:00	1989	1990	1
+Alemannia Aachen	MSV Duisburg	0:1	1:2	29.07.1989	15:00	1989	1990	1
+Hessen Kassel	Blau-WeiÃ 90 Berlin	1:0	1:1	29.07.1989	15:00	1989	1990	1
+SG Wattenscheid 09	SpVgg Bayreuth	0:0	4:1	29.07.1989	15:00	1989	1990	1
+Fortuna KÃ¶ln	SV Darmstadt 98	1:1	2:1	29.07.1989	15:00	1989	1990	1
+Hertha BSC	PreuÃen MÃ¼nster	0:0	2:0	29.07.1989	15:00	1989	1990	1
+Eintracht Braunschweig	Hannover 96	1:0	1:0	29.07.1989	15:00	1989	1990	1
+Stuttgarter Kickers	SG Wattenscheid 09	1:1	2:3	06.08.1989	15:00	1989	1990	2
+PreuÃen MÃ¼nster	Hessen Kassel	1:0	1:1	06.08.1989	15:00	1989	1990	2
+SV Darmstadt 98	Hertha BSC	0:0	0:0	06.08.1989	15:00	1989	1990	2
+SpVgg Bayreuth	Fortuna KÃ¶ln	1:1	2:2	06.08.1989	15:00	1989	1990	2
+MSV Duisburg	1. FC SaarbrÃ¼cken	1:0	1:1	06.08.1989	15:00	1989	1990	2
+Hannover 96	Alemannia Aachen	2:0	2:0	06.08.1989	15:00	1989	1990	2
+FC Schalke 04	Eintracht Braunschweig	0:1	1:5	06.08.1989	15:00	1989	1990	2
+Blau-WeiÃ 90 Berlin	SC Freiburg	2:1	3:1	06.08.1989	15:00	1989	1990	2
+SV Meppen	Rot-Weiss Essen	1:1	3:2	06.08.1989	15:00	1989	1990	2
+SpVgg Unterhaching	VfL OsnabrÃ¼ck	1:1	2:2	06.08.1989	15:00	1989	1990	2
+1. FC SaarbrÃ¼cken	Hannover 96	1:0	2:0	12.08.1989	15:00	1989	1990	3
+PreuÃen MÃ¼nster	SV Darmstadt 98	1:0	1:0	12.08.1989	15:00	1989	1990	3
+Hessen Kassel	SC Freiburg	1:2	2:5	12.08.1989	15:00	1989	1990	3
+Eintracht Braunschweig	SV Meppen	1:0	3:0	12.08.1989	15:00	1989	1990	3
+Alemannia Aachen	FC Schalke 04	0:2	0:4	12.08.1989	15:00	1989	1990	3
+Fortuna KÃ¶ln	Stuttgarter Kickers	0:0	0:1	12.08.1989	15:00	1989	1990	3
+Hertha BSC	SpVgg Bayreuth	0:0	1:0	12.08.1989	15:00	1989	1990	3
+Rot-Weiss Essen	SpVgg Unterhaching	0:1	1:1	12.08.1989	15:00	1989	1990	3
+VfL OsnabrÃ¼ck	Blau-WeiÃ 90 Berlin	1:2	2:5	12.08.1989	15:00	1989	1990	3
+SG Wattenscheid 09	MSV Duisburg	1:0	2:0	12.08.1989	15:00	1989	1990	3
+Hannover 96	SG Wattenscheid 09	0:1	0:3	16.08.1989	19:30	1989	1990	4
+SV Meppen	Alemannia Aachen	1:1	1:1	16.08.1989	19:30	1989	1990	4
+SC Freiburg	VfL OsnabrÃ¼ck	1:0	3:1	16.08.1989	19:30	1989	1990	4
+SV Darmstadt 98	Hessen Kassel	0:1	0:1	16.08.1989	19:30	1989	1990	4
+Stuttgarter Kickers	Hertha BSC	2:2	4:2	16.08.1989	19:30	1989	1990	4
+FC Schalke 04	1. FC SaarbrÃ¼cken	0:1	1:2	16.08.1989	19:30	1989	1990	4
+SpVgg Unterhaching	Eintracht Braunschweig	0:1	1:1	16.08.1989	19:30	1989	1990	4
+MSV Duisburg	Fortuna KÃ¶ln	0:0	0:2	16.08.1989	19:30	1989	1990	4
+Blau-WeiÃ 90 Berlin	Rot-Weiss Essen	0:0	2:0	16.08.1989	19:30	1989	1990	4
+SpVgg Bayreuth	PreuÃen MÃ¼nster	1:0	2:1	16.08.1989	19:30	1989	1990	4
+SG Wattenscheid 09	FC Schalke 04	2:0	3:1	23.08.1989	19:30	1989	1990	5
+Rot-Weiss Essen	SC Freiburg	0:0	0:1	23.08.1989	19:30	1989	1990	5
+Hessen Kassel	VfL OsnabrÃ¼ck	1:2	1:5	23.08.1989	19:30	1989	1990	5
+PreuÃen MÃ¼nster	Stuttgarter Kickers	1:0	1:1	23.08.1989	19:30	1989	1990	5
+SV Darmstadt 98	SpVgg Bayreuth	2:0	3:1	23.08.1989	19:30	1989	1990	5
+Hertha BSC	MSV Duisburg	0:1	2:1	23.08.1989	19:30	1989	1990	5
+1. FC SaarbrÃ¼cken	SV Meppen	2:0	4:0	23.08.1989	19:30	1989	1990	5
+Alemannia Aachen	SpVgg Unterhaching	1:0	2:0	23.08.1989	19:30	1989	1990	5
+Fortuna KÃ¶ln	Hannover 96	1:0	2:1	23.08.1989	19:30	1989	1990	5
+Eintracht Braunschweig	Blau-WeiÃ 90 Berlin	1:0	2:0	23.08.1989	19:30	1989	1990	5
+Stuttgarter Kickers	SV Darmstadt 98	1:1	2:1	27.08.1989	15:00	1989	1990	6
+SpVgg Bayreuth	Hessen Kassel	3:1	5:1	27.08.1989	15:00	1989	1990	6
+SV Meppen	SG Wattenscheid 09	1:0	1:1	27.08.1989	15:00	1989	1990	6
+VfL OsnabrÃ¼ck	Rot-Weiss Essen	1:1	1:1	27.08.1989	15:00	1989	1990	6
+Hannover 96	Hertha BSC	0:2	0:2	27.08.1989	15:00	1989	1990	6
+FC Schalke 04	Fortuna KÃ¶ln	1:0	3:0	27.08.1989	15:00	1989	1990	6
+SpVgg Unterhaching	1. FC SaarbrÃ¼cken	0:0	1:1	27.08.1989	15:00	1989	1990	6
+Blau-WeiÃ 90 Berlin	Alemannia Aachen	0:0	1:0	27.08.1989	15:00	1989	1990	6
+SC Freiburg	Eintracht Braunschweig	0:0	1:0	27.08.1989	15:00	1989	1990	6
+MSV Duisburg	PreuÃen MÃ¼nster	1:1	3:3	05.09.1989	19:30	1989	1990	6
+Eintracht Braunschweig	VfL OsnabrÃ¼ck	0:0	3:1	02.09.1989	15:00	1989	1990	7
+Hessen Kassel	Rot-Weiss Essen	0:0	0:1	02.09.1989	15:00	1989	1990	7
+PreuÃen MÃ¼nster	Hannover 96	0:0	0:1	02.09.1989	15:00	1989	1990	7
+SV Darmstadt 98	MSV Duisburg	1:0	3:1	02.09.1989	15:00	1989	1990	7
+SpVgg Bayreuth	Stuttgarter Kickers	0:0	1:2	02.09.1989	15:00	1989	1990	7
+Alemannia Aachen	SC Freiburg	0:0	0:1	02.09.1989	15:00	1989	1990	7
+1. FC SaarbrÃ¼cken	Blau-WeiÃ 90 Berlin	1:0	1:1	02.09.1989	15:00	1989	1990	7
+SG Wattenscheid 09	SpVgg Unterhaching	1:0	1:0	02.09.1989	15:00	1989	1990	7
+Hertha BSC	FC Schalke 04	1:1	2:2	02.09.1989	15:00	1989	1990	7
+Fortuna KÃ¶ln	SV Meppen	1:0	3:0	02.09.1989	15:00	1989	1990	7
+Stuttgarter Kickers	Hessen Kassel	0:0	2:0	09.09.1989	15:00	1989	1990	8
+MSV Duisburg	SpVgg Bayreuth	2:1	3:1	09.09.1989	15:00	1989	1990	8
+SV Meppen	Hertha BSC	0:0	0:0	09.09.1989	15:00	1989	1990	8
+SC Freiburg	1. FC SaarbrÃ¼cken	0:2	1:4	09.09.1989	15:00	1989	1990	8
+VfL OsnabrÃ¼ck	Alemannia Aachen	1:0	3:1	09.09.1989	15:00	1989	1990	8
+Blau-WeiÃ 90 Berlin	SG Wattenscheid 09	1:1	1:1	09.09.1989	15:00	1989	1990	8
+Hannover 96	SV Darmstadt 98	0:0	1:1	09.09.1989	15:00	1989	1990	8
+FC Schalke 04	PreuÃen MÃ¼nster	0:0	0:1	09.09.1989	15:00	1989	1990	8
+SpVgg Unterhaching	Fortuna KÃ¶ln	0:1	1:2	09.09.1989	15:00	1989	1990	8
+Rot-Weiss Essen	Eintracht Braunschweig	1:0	1:0	09.09.1989	15:00	1989	1990	8
+SG Wattenscheid 09	SC Freiburg	2:1	4:4	17.09.1989	15:00	1989	1990	9
+PreuÃen MÃ¼nster	SV Meppen	1:0	2:1	17.09.1989	15:00	1989	1990	9
+SV Darmstadt 98	FC Schalke 04	0:2	3:2	17.09.1989	15:00	1989	1990	9
+SpVgg Bayreuth	Hannover 96	1:1	1:1	17.09.1989	15:00	1989	1990	9
+Alemannia Aachen	Rot-Weiss Essen	0:0	0:1	17.09.1989	15:00	1989	1990	9
+Hessen Kassel	Eintracht Braunschweig	1:1	2:1	17.09.1989	15:00	1989	1990	9
+Fortuna KÃ¶ln	Blau-WeiÃ 90 Berlin	0:0	1:1	17.09.1989	15:00	1989	1990	9
+Hertha BSC	SpVgg Unterhaching	1:0	1:1	17.09.1989	15:00	1989	1990	9
+1. FC SaarbrÃ¼cken	VfL OsnabrÃ¼ck	3:0	7:1	17.09.1989	15:00	1989	1990	9
+Stuttgarter Kickers	MSV Duisburg	1:0	4:1	17.09.1989	15:00	1989	1990	9
+Rot-Weiss Essen	1. FC SaarbrÃ¼cken	1:0	1:2	20.09.1989	15:00	1989	1990	10
+SV Meppen	SV Darmstadt 98	1:0	3:0	20.09.1989	15:00	1989	1990	10
+SC Freiburg	Fortuna KÃ¶ln	1:0	4:1	20.09.1989	15:00	1989	1990	10
+VfL OsnabrÃ¼ck	SG Wattenscheid 09	0:1	0:3	20.09.1989	15:00	1989	1990	10
+Eintracht Braunschweig	Alemannia Aachen	2:1	4:3	20.09.1989	15:00	1989	1990	10
+MSV Duisburg	Hessen Kassel	2:1	3:1	20.09.1989	15:00	1989	1990	10
+Hannover 96	Stuttgarter Kickers	2:1	5:1	20.09.1989	15:00	1989	1990	10
+SpVgg Unterhaching	PreuÃen MÃ¼nster	2:0	3:0	20.09.1989	15:00	1989	1990	10
+FC Schalke 04	SpVgg Bayreuth	0:0	2:1	20.09.1989	15:00	1989	1990	10
+Blau-WeiÃ 90 Berlin	Hertha BSC	0:0	2:3	28.09.1989	19:30	1989	1990	10
+Hessen Kassel	Alemannia Aachen	0:3	1:5	30.09.1989	15:00	1989	1990	11
+Stuttgarter Kickers	FC Schalke 04	2:2	2:4	30.09.1989	15:00	1989	1990	11
+PreuÃen MÃ¼nster	Blau-WeiÃ 90 Berlin	1:0	2:0	30.09.1989	15:00	1989	1990	11
+1. FC SaarbrÃ¼cken	Eintracht Braunschweig	0:0	0:1	30.09.1989	15:00	1989	1990	11
+Hertha BSC	SC Freiburg	1:0	1:0	30.09.1989	15:00	1989	1990	11
+SpVgg Bayreuth	SV Meppen	0:1	1:1	30.09.1989	15:00	1989	1990	11
+SG Wattenscheid 09	Rot-Weiss Essen	0:0	1:0	30.09.1989	15:00	1989	1990	11
+Fortuna KÃ¶ln	VfL OsnabrÃ¼ck	0:0	0:2	30.09.1989	15:00	1989	1990	11
+SV Darmstadt 98	SpVgg Unterhaching	1:1	1:1	30.09.1989	15:00	1989	1990	11
+MSV Duisburg	Hannover 96	2:0	2:1	01.10.1989	15:00	1989	1990	11
+Hannover 96	Hessen Kassel	1:0	4:0	03.10.1989	19:30	1989	1990	12
+SC Freiburg	PreuÃen MÃ¼nster	0:1	0:2	07.10.1989	15:00	1989	1990	12
+VfL OsnabrÃ¼ck	Hertha BSC	1:0	3:0	07.10.1989	15:00	1989	1990	12
+Rot-Weiss Essen	Fortuna KÃ¶ln	0:1	3:3	07.10.1989	15:00	1989	1990	12
+Alemannia Aachen	1. FC SaarbrÃ¼cken	1:0	2:1	07.10.1989	15:00	1989	1990	12
+SV Meppen	Stuttgarter Kickers	0:1	0:1	07.10.1989	15:00	1989	1990	12
+FC Schalke 04	MSV Duisburg	0:1	1:1	07.10.1989	15:00	1989	1990	12
+SpVgg Unterhaching	SpVgg Bayreuth	0:0	0:0	07.10.1989	15:00	1989	1990	12
+Blau-WeiÃ 90 Berlin	SV Darmstadt 98	2:1	3:1	07.10.1989	15:00	1989	1990	12
+Eintracht Braunschweig	SG Wattenscheid 09	1:0	1:0	07.10.1989	15:00	1989	1990	12
+Stuttgarter Kickers	SpVgg Unterhaching	0:0	2:0	14.10.1989	15:00	1989	1990	13
+PreuÃen MÃ¼nster	VfL OsnabrÃ¼ck	1:1	1:4	14.10.1989	15:00	1989	1990	13
+SV Darmstadt 98	SC Freiburg	1:2	2:2	14.10.1989	15:00	1989	1990	13
+SpVgg Bayreuth	Blau-WeiÃ 90 Berlin	2:0	6:1	14.10.1989	15:00	1989	1990	13
+MSV Duisburg	SV Meppen	0:0	0:0	14.10.1989	15:00	1989	1990	13
+Hannover 96	FC Schalke 04	1:0	2:2	14.10.1989	15:00	1989	1990	13
+SG Wattenscheid 09	Alemannia Aachen	1:1	1:2	14.10.1989	15:00	1989	1990	13
+Hertha BSC	Rot-Weiss Essen	0:1	2:1	14.10.1989	15:00	1989	1990	13
+Hessen Kassel	1. FC SaarbrÃ¼cken	0:0	0:0	14.10.1989	15:00	1989	1990	13
+Fortuna KÃ¶ln	Eintracht Braunschweig	0:1	0:2	14.10.1989	15:00	1989	1990	13
+Eintracht Braunschweig	Hertha BSC	1:0	1:2	22.10.1989	15:00	1989	1990	14
+SC Freiburg	SpVgg Bayreuth	0:0	2:0	22.10.1989	15:00	1989	1990	14
+SV Meppen	Hannover 96	1:0	1:0	22.10.1989	15:00	1989	1990	14
+VfL OsnabrÃ¼ck	SV Darmstadt 98	1:0	4:2	22.10.1989	15:00	1989	1990	14
+Rot-Weiss Essen	PreuÃen MÃ¼nster	0:0	1:1	22.10.1989	15:00	1989	1990	14
+1. FC SaarbrÃ¼cken	SG Wattenscheid 09	2:0	2:0	22.10.1989	15:00	1989	1990	14
+FC Schalke 04	Hessen Kassel	0:0	2:0	22.10.1989	15:00	1989	1990	14
+Blau-WeiÃ 90 Berlin	Stuttgarter Kickers	0:1	0:2	22.10.1989	15:00	1989	1990	14
+SpVgg Unterhaching	MSV Duisburg	0:1	1:1	22.10.1989	15:00	1989	1990	14
+Alemannia Aachen	Fortuna KÃ¶ln	1:0	3:0	22.10.1989	15:00	1989	1990	14
+MSV Duisburg	Blau-WeiÃ 90 Berlin	1:1	2:2	28.10.1989	15:00	1989	1990	15
+Hessen Kassel	SG Wattenscheid 09	0:0	0:3	28.10.1989	15:00	1989	1990	15
+PreuÃen MÃ¼nster	Eintracht Braunschweig	0:0	1:2	28.10.1989	15:00	1989	1990	15
+SV Darmstadt 98	Rot-Weiss Essen	1:1	2:1	28.10.1989	15:00	1989	1990	15
+Stuttgarter Kickers	SC Freiburg	1:0	1:1	28.10.1989	15:00	1989	1990	15
+Hannover 96	SpVgg Unterhaching	3:0	3:0	28.10.1989	15:00	1989	1990	15
+FC Schalke 04	SV Meppen	1:0	2:0	28.10.1989	15:00	1989	1990	15
+Fortuna KÃ¶ln	1. FC SaarbrÃ¼cken	0:0	1:1	28.10.1989	15:00	1989	1990	15
+Hertha BSC	Alemannia Aachen	0:1	3:1	28.10.1989	15:00	1989	1990	15
+SpVgg Bayreuth	VfL OsnabrÃ¼ck	2:0	3:1	28.10.1989	15:00	1989	1990	15
+SV Meppen	Hessen Kassel	0:0	0:1	04.11.1989	15:00	1989	1990	16
+SC Freiburg	MSV Duisburg	2:2	2:2	04.11.1989	15:00	1989	1990	16
+Eintracht Braunschweig	SV Darmstadt 98	3:0	5:0	04.11.1989	15:00	1989	1990	16
+VfL OsnabrÃ¼ck	Stuttgarter Kickers	0:0	1:0	04.11.1989	15:00	1989	1990	16
+Rot-Weiss Essen	SpVgg Bayreuth	2:0	3:0	04.11.1989	15:00	1989	1990	16
+1. FC SaarbrÃ¼cken	Hertha BSC	2:0	3:0	04.11.1989	15:00	1989	1990	16
+SG Wattenscheid 09	Fortuna KÃ¶ln	2:0	2:0	04.11.1989	15:00	1989	1990	16
+Blau-WeiÃ 90 Berlin	Hannover 96	0:1	1:1	04.11.1989	15:00	1989	1990	16
+SpVgg Unterhaching	FC Schalke 04	0:0	2:1	04.11.1989	15:00	1989	1990	16
+Alemannia Aachen	PreuÃen MÃ¼nster	3:0	7:1	04.11.1989	15:00	1989	1990	16
+Hannover 96	SC Freiburg	0:0	0:0	11.11.1989	15:00	1989	1990	17
+PreuÃen MÃ¼nster	1. FC SaarbrÃ¼cken	0:0	0:0	11.11.1989	15:00	1989	1990	17
+SV Darmstadt 98	Alemannia Aachen	0:0	1:0	11.11.1989	15:00	1989	1990	17
+SV Meppen	SpVgg Unterhaching	2:1	3:1	11.11.1989	15:00	1989	1990	17
+FC Schalke 04	Blau-WeiÃ 90 Berlin	1:0	2:0	11.11.1989	15:00	1989	1990	17
+Fortuna KÃ¶ln	Hessen Kassel	0:1	0:1	11.11.1989	15:00	1989	1990	17
+Hertha BSC	SG Wattenscheid 09	0:1	1:1	11.11.1989	15:00	1989	1990	17
+Stuttgarter Kickers	Rot-Weiss Essen	2:0	4:1	11.11.1989	15:00	1989	1990	17
+SpVgg Bayreuth	Eintracht Braunschweig	1:0	1:0	11.11.1989	19:30	1989	1990	17
+MSV Duisburg	VfL OsnabrÃ¼ck	1:0	1:0	11.11.1989	19:30	1989	1990	17
+Eintracht Braunschweig	Stuttgarter Kickers	1:0	3:0	14.11.1989	19:30	1989	1990	18
+VfL OsnabrÃ¼ck	Hannover 96	0:1	1:4	14.11.1989	19:30	1989	1990	18
+Rot-Weiss Essen	MSV Duisburg	0:0	1:1	14.11.1989	19:30	1989	1990	18
+Alemannia Aachen	SpVgg Bayreuth	1:1	2:1	14.11.1989	19:30	1989	1990	18
+1. FC SaarbrÃ¼cken	SV Darmstadt 98	1:0	1:1	14.11.1989	19:30	1989	1990	18
+SG Wattenscheid 09	PreuÃen MÃ¼nster	1:0	4:0	14.11.1989	19:30	1989	1990	18
+Blau-WeiÃ 90 Berlin	SV Meppen	1:0	1:1	14.11.1989	19:30	1989	1990	18
+Fortuna KÃ¶ln	Hertha BSC	2:0	3:0	14.11.1989	19:30	1989	1990	18
+SC Freiburg	FC Schalke 04	0:1	0:3	22.11.1989	19:30	1989	1990	18
+Hessen Kassel	SpVgg Unterhaching	2:1	3:2	22.11.1989	19:30	1989	1990	18
+Stuttgarter Kickers	Alemannia Aachen	2:1	4:2	18.11.1989	15:00	1989	1990	19
+SV Meppen	SC Freiburg	0:0	0:0	18.11.1989	15:00	1989	1990	19
+PreuÃen MÃ¼nster	Fortuna KÃ¶ln	0:0	0:0	18.11.1989	15:00	1989	1990	19
+SV Darmstadt 98	SG Wattenscheid 09	1:1	4:1	18.11.1989	15:00	1989	1990	19
+SpVgg Bayreuth	1. FC SaarbrÃ¼cken	0:0	2:2	18.11.1989	15:00	1989	1990	19
+Hannover 96	Rot-Weiss Essen	3:1	4:1	18.11.1989	15:00	1989	1990	19
+FC Schalke 04	VfL OsnabrÃ¼ck	2:0	4:1	18.11.1989	15:00	1989	1990	19
+Hertha BSC	Hessen Kassel	2:0	2:0	18.11.1989	15:00	1989	1990	19
+SpVgg Unterhaching	Blau-WeiÃ 90 Berlin	0:1	1:1	18.11.1989	15:00	1989	1990	19
+MSV Duisburg	Eintracht Braunschweig	1:0	2:0	18.11.1989	15:00	1989	1990	19
+MSV Duisburg	Alemannia Aachen	1:0	3:1	25.11.1989	15:00	1989	1990	20
+SpVgg Unterhaching	SC Freiburg	0:0	0:0	25.11.1989	15:00	1989	1990	20
+SV Meppen	VfL OsnabrÃ¼ck	1:0	3:1	25.11.1989	15:00	1989	1990	20
+Hannover 96	Eintracht Braunschweig	2:0	3:0	25.11.1989	15:00	1989	1990	20
+Stuttgarter Kickers	1. FC SaarbrÃ¼cken	1:0	1:0	25.11.1989	15:00	1989	1990	20
+SpVgg Bayreuth	SG Wattenscheid 09	0:1	0:2	25.11.1989	15:00	1989	1990	20
+SV Darmstadt 98	Fortuna KÃ¶ln	1:0	2:0	25.11.1989	15:00	1989	1990	20
+PreuÃen MÃ¼nster	Hertha BSC	1:4	2:6	25.11.1989	15:00	1989	1990	20
+FC Schalke 04	Rot-Weiss Essen	1:0	1:0	25.11.1989	15:00	1989	1990	20
+Blau-WeiÃ 90 Berlin	Hessen Kassel	0:0	0:1	14.03.1990	19:30	1989	1990	20
+1. FC SaarbrÃ¼cken	MSV Duisburg	0:1	1:2	02.12.1989	15:00	1989	1990	21
+Hessen Kassel	PreuÃen MÃ¼nster	0:0	0:0	02.12.1989	15:00	1989	1990	21
+Rot-Weiss Essen	SV Meppen	0:0	1:1	02.12.1989	15:00	1989	1990	21
+SG Wattenscheid 09	Stuttgarter Kickers	2:0	3:0	02.12.1989	15:00	1989	1990	21
+Eintracht Braunschweig	FC Schalke 04	1:0	2:2	02.12.1989	15:00	1989	1990	21
+VfL OsnabrÃ¼ck	SpVgg Unterhaching	2:0	2:1	02.12.1989	15:00	1989	1990	21
+SC Freiburg	Blau-WeiÃ 90 Berlin	0:1	0:1	02.12.1989	15:00	1989	1990	21
+Fortuna KÃ¶ln	SpVgg Bayreuth	2:1	5:2	02.12.1989	15:00	1989	1990	21
+Alemannia Aachen	Hannover 96	0:1	2:1	02.12.1989	15:00	1989	1990	21
+Hertha BSC	SV Darmstadt 98	2:0	4:1	01.02.1990	20:15	1989	1990	21
+Stuttgarter Kickers	Fortuna KÃ¶ln	0:1	1:1	09.12.1989	15:00	1989	1990	22
+SV Darmstadt 98	PreuÃen MÃ¼nster	0:1	1:2	09.12.1989	15:00	1989	1990	22
+SV Meppen	Eintracht Braunschweig	0:0	2:1	09.12.1989	15:00	1989	1990	22
+FC Schalke 04	Alemannia Aachen	1:1	3:1	09.12.1989	15:00	1989	1990	22
+MSV Duisburg	SG Wattenscheid 09	1:0	3:2	09.12.1989	15:00	1989	1990	22
+SpVgg Bayreuth	Hertha BSC	0:2	0:2	09.12.1989	15:00	1989	1990	22
+SpVgg Unterhaching	Rot-Weiss Essen	0:1	0:2	09.12.1989	15:00	1989	1990	22
+Hannover 96	1. FC SaarbrÃ¼cken	0:0	0:0	09.12.1989	15:00	1989	1990	22
+SC Freiburg	Hessen Kassel	0:1	0:1	17.02.1990	15:00	1989	1990	22
+Blau-WeiÃ 90 Berlin	VfL OsnabrÃ¼ck	1:0	2:1	17.02.1990	15:00	1989	1990	22
+Hertha BSC	Stuttgarter Kickers	0:0	0:0	16.12.1989	15:00	1989	1990	23
+VfL OsnabrÃ¼ck	SC Freiburg	1:0	3:1	16.12.1989	15:00	1989	1990	23
+Hessen Kassel	SV Darmstadt 98	0:0	0:0	16.12.1989	15:00	1989	1990	23
+PreuÃen MÃ¼nster	SpVgg Bayreuth	1:0	2:1	16.12.1989	15:00	1989	1990	23
+SG Wattenscheid 09	Hannover 96	1:0	3:0	16.12.1989	15:00	1989	1990	23
+Eintracht Braunschweig	SpVgg Unterhaching	0:0	0:0	16.12.1989	15:00	1989	1990	23
+Rot-Weiss Essen	Blau-WeiÃ 90 Berlin	2:1	2:1	16.12.1989	15:00	1989	1990	23
+Alemannia Aachen	SV Meppen	0:2	1:3	16.12.1989	15:00	1989	1990	23
+Fortuna KÃ¶ln	MSV Duisburg	1:1	1:1	16.12.1989	15:00	1989	1990	23
+1. FC SaarbrÃ¼cken	FC Schalke 04	0:0	2:0	06.03.1990	19:30	1989	1990	23
+Blau-WeiÃ 90 Berlin	Eintracht Braunschweig	1:1	1:1	24.02.1990	15:00	1989	1990	24
+Stuttgarter Kickers	PreuÃen MÃ¼nster	2:0	4:0	24.02.1990	15:00	1989	1990	24
+VfL OsnabrÃ¼ck	Hessen Kassel	0:0	4:0	24.02.1990	15:00	1989	1990	24
+SC Freiburg	Rot-Weiss Essen	0:1	1:2	24.02.1990	15:00	1989	1990	24
+SV Meppen	1. FC SaarbrÃ¼cken	1:0	2:0	24.02.1990	15:00	1989	1990	24
+FC Schalke 04	SG Wattenscheid 09	1:0	1:1	24.02.1990	15:00	1989	1990	24
+MSV Duisburg	Hertha BSC	0:0	0:3	24.02.1990	15:00	1989	1990	24
+Hannover 96	Fortuna KÃ¶ln	0:0	1:1	24.02.1990	15:00	1989	1990	24
+SpVgg Unterhaching	Alemannia Aachen	2:0	3:2	24.02.1990	15:00	1989	1990	24
+SpVgg Bayreuth	SV Darmstadt 98	0:0	2:0	04.04.1990	19:30	1989	1990	24
+SV Darmstadt 98	Stuttgarter Kickers	0:0	0:0	03.03.1990	15:00	1989	1990	25
+PreuÃen MÃ¼nster	MSV Duisburg	0:1	1:1	03.03.1990	15:00	1989	1990	25
+Hessen Kassel	SpVgg Bayreuth	0:0	2:0	03.03.1990	15:00	1989	1990	25
+Rot-Weiss Essen	VfL OsnabrÃ¼ck	0:0	0:0	03.03.1990	15:00	1989	1990	25
+Hertha BSC	Hannover 96	0:0	1:0	03.03.1990	15:00	1989	1990	25
+1. FC SaarbrÃ¼cken	SpVgg Unterhaching	3:0	6:1	03.03.1990	15:00	1989	1990	25
+Eintracht Braunschweig	SC Freiburg	0:2	0:3	03.03.1990	15:00	1989	1990	25
+SG Wattenscheid 09	SV Meppen	0:0	2:0	03.04.1990	19:30	1989	1990	25
+Fortuna KÃ¶ln	FC Schalke 04	0:0	2:1	10.04.1990	19:30	1989	1990	25
+Alemannia Aachen	Blau-WeiÃ 90 Berlin	1:0	2:1	16.04.1990	20:15	1989	1990	25
+SC Freiburg	Alemannia Aachen	1:0	1:1	10.03.1990	15:00	1989	1990	26
+Hannover 96	PreuÃen MÃ¼nster	1:1	2:1	10.03.1990	15:00	1989	1990	26
+MSV Duisburg	SV Darmstadt 98	1:0	3:1	10.03.1990	15:00	1989	1990	26
+Rot-Weiss Essen	Hessen Kassel	1:0	1:0	10.03.1990	15:00	1989	1990	26
+VfL OsnabrÃ¼ck	Eintracht Braunschweig	0:1	1:2	10.03.1990	15:00	1989	1990	26
+SpVgg Unterhaching	SG Wattenscheid 09	1:0	1:2	10.03.1990	15:00	1989	1990	26
+SV Meppen	Fortuna KÃ¶ln	0:2	2:2	10.03.1990	15:00	1989	1990	26
+FC Schalke 04	Hertha BSC	2:0	4:1	10.03.1990	15:00	1989	1990	26
+Stuttgarter Kickers	SpVgg Bayreuth	1:0	3:1	10.03.1990	15:00	1989	1990	26
+Blau-WeiÃ 90 Berlin	1. FC SaarbrÃ¼cken	0:1	0:1	10.03.1990	15:00	1989	1990	26
+SpVgg Bayreuth	MSV Duisburg	0:0	2:1	17.03.1990	15:00	1989	1990	27
+1. FC SaarbrÃ¼cken	SC Freiburg	2:0	2:2	17.03.1990	15:00	1989	1990	27
+Alemannia Aachen	VfL OsnabrÃ¼ck	0:0	1:1	17.03.1990	15:00	1989	1990	27
+Hessen Kassel	Stuttgarter Kickers	0:3	0:6	17.03.1990	15:00	1989	1990	27
+Hertha BSC	SV Meppen	1:0	3:0	17.03.1990	15:00	1989	1990	27
+SV Darmstadt 98	Hannover 96	0:1	1:1	17.03.1990	15:00	1989	1990	27
+PreuÃen MÃ¼nster	FC Schalke 04	0:1	2:1	17.03.1990	15:00	1989	1990	27
+Fortuna KÃ¶ln	SpVgg Unterhaching	3:1	3:2	17.03.1990	15:00	1989	1990	27
+SG Wattenscheid 09	Blau-WeiÃ 90 Berlin	0:0	0:0	17.03.1990	15:00	1989	1990	27
+Eintracht Braunschweig	Rot-Weiss Essen	0:1	1:1	17.03.1990	15:00	1989	1990	27
+MSV Duisburg	Stuttgarter Kickers	1:1	1:1	24.03.1990	15:00	1989	1990	28
+Eintracht Braunschweig	Hessen Kassel	0:0	0:4	24.03.1990	15:00	1989	1990	28
+SV Meppen	PreuÃen MÃ¼nster	2:1	5:1	24.03.1990	15:00	1989	1990	28
+FC Schalke 04	SV Darmstadt 98	1:0	3:0	24.03.1990	15:00	1989	1990	28
+Hannover 96	SpVgg Bayreuth	0:0	1:1	24.03.1990	15:00	1989	1990	28
+Rot-Weiss Essen	Alemannia Aachen	2:0	3:1	24.03.1990	15:00	1989	1990	28
+SC Freiburg	SG Wattenscheid 09	2:0	2:0	24.03.1990	15:00	1989	1990	28
+Blau-WeiÃ 90 Berlin	Fortuna KÃ¶ln	1:0	2:0	24.03.1990	15:00	1989	1990	28
+VfL OsnabrÃ¼ck	1. FC SaarbrÃ¼cken	1:1	1:1	24.03.1990	15:00	1989	1990	28
+SpVgg Unterhaching	Hertha BSC	0:1	0:1	24.03.1990	15:00	1989	1990	28
+1. FC SaarbrÃ¼cken	Rot-Weiss Essen	1:1	2:3	31.03.1990	15:00	1989	1990	29
+Alemannia Aachen	Eintracht Braunschweig	1:0	2:0	31.03.1990	15:00	1989	1990	29
+Hertha BSC	Blau-WeiÃ 90 Berlin	0:0	3:0	31.03.1990	15:00	1989	1990	29
+SV Darmstadt 98	SV Meppen	0:2	3:3	31.03.1990	15:00	1989	1990	29
+Fortuna KÃ¶ln	SC Freiburg	0:1	1:1	31.03.1990	15:00	1989	1990	29
+PreuÃen MÃ¼nster	SpVgg Unterhaching	1:1	2:2	31.03.1990	15:00	1989	1990	29
+Hessen Kassel	MSV Duisburg	2:0	2:1	31.03.1990	15:00	1989	1990	29
+Stuttgarter Kickers	Hannover 96	1:1	3:2	31.03.1990	15:00	1989	1990	29
+SpVgg Bayreuth	FC Schalke 04	0:0	1:1	31.03.1990	15:00	1989	1990	29
+SG Wattenscheid 09	VfL OsnabrÃ¼ck	0:1	1:1	31.03.1990	15:00	1989	1990	29
+SV Meppen	SpVgg Bayreuth	1:0	1:1	07.04.1990	15:00	1989	1990	30
+Blau-WeiÃ 90 Berlin	PreuÃen MÃ¼nster	1:1	2:1	07.04.1990	15:00	1989	1990	30
+Eintracht Braunschweig	1. FC SaarbrÃ¼cken	0:0	0:0	07.04.1990	15:00	1989	1990	30
+SC Freiburg	Hertha BSC	0:2	0:2	07.04.1990	15:00	1989	1990	30
+SpVgg Unterhaching	SV Darmstadt 98	0:0	1:0	07.04.1990	15:00	1989	1990	30
+FC Schalke 04	Stuttgarter Kickers	1:0	2:0	07.04.1990	15:00	1989	1990	30
+Hannover 96	MSV Duisburg	0:1	2:2	07.04.1990	15:00	1989	1990	30
+Rot-Weiss Essen	SG Wattenscheid 09	0:0	0:2	07.04.1990	15:00	1989	1990	30
+VfL OsnabrÃ¼ck	Fortuna KÃ¶ln	1:1	2:2	07.04.1990	15:00	1989	1990	30
+Alemannia Aachen	Hessen Kassel	0:0	2:2	07.04.1990	15:00	1989	1990	30
+SG Wattenscheid 09	Eintracht Braunschweig	0:1	3:1	14.04.1990	15:00	1989	1990	31
+PreuÃen MÃ¼nster	SC Freiburg	0:0	0:0	14.04.1990	15:00	1989	1990	31
+Hertha BSC	VfL OsnabrÃ¼ck	2:0	3:0	14.04.1990	15:00	1989	1990	31
+Fortuna KÃ¶ln	Rot-Weiss Essen	0:0	1:1	14.04.1990	15:00	1989	1990	31
+1. FC SaarbrÃ¼cken	Alemannia Aachen	0:0	0:0	14.04.1990	15:00	1989	1990	31
+Hessen Kassel	Hannover 96	0:1	0:1	14.04.1990	15:00	1989	1990	31
+MSV Duisburg	FC Schalke 04	0:2	1:3	14.04.1990	15:00	1989	1990	31
+SV Darmstadt 98	Blau-WeiÃ 90 Berlin	0:0	3:0	14.04.1990	15:00	1989	1990	31
+Stuttgarter Kickers	SV Meppen	1:0	5:1	14.04.1990	15:00	1989	1990	31
+SpVgg Bayreuth	SpVgg Unterhaching	1:1	3:1	14.04.1990	15:00	1989	1990	31
+SpVgg Unterhaching	Stuttgarter Kickers	1:0	3:1	21.04.1990	15:00	1989	1990	32
+1. FC SaarbrÃ¼cken	Hessen Kassel	1:1	3:1	21.04.1990	15:00	1989	1990	32
+VfL OsnabrÃ¼ck	PreuÃen MÃ¼nster	1:1	1:2	21.04.1990	15:00	1989	1990	32
+SC Freiburg	SV Darmstadt 98	0:1	1:2	21.04.1990	15:00	1989	1990	32
+Blau-WeiÃ 90 Berlin	SpVgg Bayreuth	0:0	1:0	21.04.1990	15:00	1989	1990	32
+FC Schalke 04	Hannover 96	1:0	1:1	21.04.1990	15:00	1989	1990	32
+Alemannia Aachen	SG Wattenscheid 09	1:1	1:3	21.04.1990	15:00	1989	1990	32
+Eintracht Braunschweig	Fortuna KÃ¶ln	1:0	2:2	21.04.1990	15:00	1989	1990	32
+Rot-Weiss Essen	Hertha BSC	0:0	0:0	21.04.1990	15:00	1989	1990	32
+SV Meppen	MSV Duisburg	0:0	0:0	21.04.1990	15:00	1989	1990	32
+SG Wattenscheid 09	1. FC SaarbrÃ¼cken	0:1	0:2	29.04.1990	15:00	1989	1990	33
+SpVgg Bayreuth	SC Freiburg	1:1	3:1	29.04.1990	15:00	1989	1990	33
+SV Darmstadt 98	VfL OsnabrÃ¼ck	0:0	1:0	29.04.1990	15:00	1989	1990	33
+PreuÃen MÃ¼nster	Rot-Weiss Essen	0:0	1:3	29.04.1990	15:00	1989	1990	33
+Fortuna KÃ¶ln	Alemannia Aachen	0:0	0:0	29.04.1990	15:00	1989	1990	33
+Hannover 96	SV Meppen	1:0	1:0	29.04.1990	15:00	1989	1990	33
+Hessen Kassel	FC Schalke 04	1:0	2:0	29.04.1990	15:00	1989	1990	33
+MSV Duisburg	SpVgg Unterhaching	0:0	0:0	29.04.1990	15:00	1989	1990	33
+Stuttgarter Kickers	Blau-WeiÃ 90 Berlin	1:1	1:1	29.04.1990	15:00	1989	1990	33
+Hertha BSC	Eintracht Braunschweig	1:1	1:1	29.04.1990	15:00	1989	1990	33
+SC Freiburg	Stuttgarter Kickers	1:0	2:0	02.05.1990	19:30	1989	1990	34
+Eintracht Braunschweig	PreuÃen MÃ¼nster	0:2	1:2	02.05.1990	19:30	1989	1990	34
+Rot-Weiss Essen	SV Darmstadt 98	0:0	1:0	02.05.1990	19:30	1989	1990	34
+VfL OsnabrÃ¼ck	SpVgg Bayreuth	0:2	0:3	02.05.1990	19:30	1989	1990	34
+Blau-WeiÃ 90 Berlin	MSV Duisburg	1:0	3:0	02.05.1990	19:30	1989	1990	34
+SpVgg Unterhaching	Hannover 96	0:0	0:0	02.05.1990	19:30	1989	1990	34
+SV Meppen	FC Schalke 04	1:0	2:2	02.05.1990	19:30	1989	1990	34
+Alemannia Aachen	Hertha BSC	0:0	1:1	02.05.1990	19:30	1989	1990	34
+SG Wattenscheid 09	Hessen Kassel	0:0	2:0	02.05.1990	19:30	1989	1990	34
+1. FC SaarbrÃ¼cken	Fortuna KÃ¶ln	1:1	2:2	02.05.1990	19:30	1989	1990	34
+Hertha BSC	1. FC SaarbrÃ¼cken	3:0	4:0	18.04.1990	19:30	1989	1990	35
+SV Darmstadt 98	Eintracht Braunschweig	1:1	2:2	05.05.1990	15:00	1989	1990	35
+MSV Duisburg	SC Freiburg	1:0	1:0	05.05.1990	15:00	1989	1990	35
+Hessen Kassel	SV Meppen	1:0	1:1	05.05.1990	15:00	1989	1990	35
+Stuttgarter Kickers	VfL OsnabrÃ¼ck	0:0	2:1	05.05.1990	15:00	1989	1990	35
+SpVgg Bayreuth	Rot-Weiss Essen	0:1	1:2	05.05.1990	15:00	1989	1990	35
+Fortuna KÃ¶ln	SG Wattenscheid 09	1:0	1:1	05.05.1990	15:00	1989	1990	35
+Hannover 96	Blau-WeiÃ 90 Berlin	1:0	2:0	05.05.1990	15:00	1989	1990	35
+FC Schalke 04	SpVgg Unterhaching	1:1	3:3	05.05.1990	15:00	1989	1990	35
+PreuÃen MÃ¼nster	Alemannia Aachen	1:0	2:0	05.05.1990	15:00	1989	1990	35
+VfL OsnabrÃ¼ck	MSV Duisburg	0:0	1:0	10.05.1990	20:15	1989	1990	36
+SpVgg Unterhaching	SV Meppen	0:1	1:3	10.05.1990	20:15	1989	1990	36
+1. FC SaarbrÃ¼cken	PreuÃen MÃ¼nster	0:0	1:0	10.05.1990	20:15	1989	1990	36
+Alemannia Aachen	SV Darmstadt 98	0:0	0:0	10.05.1990	20:15	1989	1990	36
+Rot-Weiss Essen	Stuttgarter Kickers	1:0	1:0	10.05.1990	20:15	1989	1990	36
+SC Freiburg	Hannover 96	0:1	1:1	10.05.1990	20:15	1989	1990	36
+Blau-WeiÃ 90 Berlin	FC Schalke 04	0:1	1:1	10.05.1990	20:15	1989	1990	36
+Hessen Kassel	Fortuna KÃ¶ln	1:0	1:0	10.05.1990	20:15	1989	1990	36
+SG Wattenscheid 09	Hertha BSC	4:0	5:1	10.05.1990	20:15	1989	1990	36
+Eintracht Braunschweig	SpVgg Bayreuth	1:0	2:1	10.05.1990	20:15	1989	1990	36
+Stuttgarter Kickers	Eintracht Braunschweig	0:0	4:0	13.05.1990	15:00	1989	1990	37
+FC Schalke 04	SC Freiburg	1:1	2:1	13.05.1990	15:00	1989	1990	37
+SpVgg Unterhaching	Hessen Kassel	1:0	1:0	13.05.1990	15:00	1989	1990	37
+Hannover 96	VfL OsnabrÃ¼ck	1:1	1:1	13.05.1990	15:00	1989	1990	37
+MSV Duisburg	Rot-Weiss Essen	0:0	2:2	13.05.1990	15:00	1989	1990	37
+SV Darmstadt 98	1. FC SaarbrÃ¼cken	0:0	0:0	13.05.1990	15:00	1989	1990	37
+PreuÃen MÃ¼nster	SG Wattenscheid 09	1:0	1:0	13.05.1990	15:00	1989	1990	37
+SV Meppen	Blau-WeiÃ 90 Berlin	0:0	1:1	13.05.1990	15:00	1989	1990	37
+Hertha BSC	Fortuna KÃ¶ln	1:0	3:0	13.05.1990	15:00	1989	1990	37
+SpVgg Bayreuth	Alemannia Aachen	2:0	3:0	13.05.1990	15:00	1989	1990	37
+Rot-Weiss Essen	Hannover 96	2:2	4:3	17.05.1990	20:15	1989	1990	38
+Fortuna KÃ¶ln	PreuÃen MÃ¼nster	1:3	2:5	17.05.1990	20:15	1989	1990	38
+SG Wattenscheid 09	SV Darmstadt 98	0:0	0:0	17.05.1990	20:15	1989	1990	38
+1. FC SaarbrÃ¼cken	SpVgg Bayreuth	0:0	0:0	17.05.1990	20:15	1989	1990	38
+Eintracht Braunschweig	MSV Duisburg	1:0	4:1	17.05.1990	20:15	1989	1990	38
+SC Freiburg	SV Meppen	3:0	6:1	17.05.1990	20:15	1989	1990	38
+VfL OsnabrÃ¼ck	FC Schalke 04	1:0	3:1	17.05.1990	20:15	1989	1990	38
+Blau-WeiÃ 90 Berlin	SpVgg Unterhaching	0:0	3:2	17.05.1990	20:15	1989	1990	38
+Hessen Kassel	Hertha BSC	1:0	2:0	17.05.1990	20:15	1989	1990	38
+Alemannia Aachen	Stuttgarter Kickers	1:0	2:1	17.05.1990	20:15	1989	1990	38

@@ -1,0 +1,306 @@
+Bor. MÃ¶nchengladbach	MSV Duisburg	1:1	1:1	14.08.1976	15:30	1976	1977	1
+Karlsruher SC	Hertha BSC	0:2	0:3	14.08.1976	15:30	1976	1977	1
+1. FC SaarbrÃ¼cken	VfL Bochum	0:0	0:1	14.08.1976	15:30	1976	1977	1
+Hamburger SV	Borussia Dortmund	0:3	3:4	14.08.1976	15:30	1976	1977	1
+FC Schalke 04	Werder Bremen	2:1	3:2	14.08.1976	15:30	1976	1977	1
+1. FC KÃ¶ln	1. FC Kaiserslautern	2:0	3:1	14.08.1976	15:30	1976	1977	1
+TeBe Berlin	Rot-Weiss Essen	1:1	2:2	14.08.1976	15:30	1976	1977	1
+Eintracht Braunschweig	Eintracht Frankfurt	1:1	3:1	14.08.1976	15:30	1976	1977	1
+Bayern MÃ¼nchen	Fortuna DÃ¼sseldorf	0:1	2:1	14.08.1976	15:30	1976	1977	1
+1. FC Kaiserslautern	FC Schalke 04	0:0	2:0	20.08.1976	20:00	1976	1977	2
+Fortuna DÃ¼sseldorf	Eintracht Braunschweig	1:2	1:3	21.08.1976	15:30	1976	1977	2
+Rot-Weiss Essen	1. FC KÃ¶ln	0:1	0:3	21.08.1976	15:30	1976	1977	2
+Werder Bremen	Hamburger SV	1:1	2:2	21.08.1976	15:30	1976	1977	2
+Borussia Dortmund	1. FC SaarbrÃ¼cken	2:0	2:1	21.08.1976	15:30	1976	1977	2
+MSV Duisburg	Bayern MÃ¼nchen	3:1	5:2	21.08.1976	15:30	1976	1977	2
+Hertha BSC	Bor. MÃ¶nchengladbach	0:1	0:1	21.08.1976	15:30	1976	1977	2
+Eintracht Frankfurt	TeBe Berlin	3:0	7:1	21.08.1976	15:30	1976	1977	2
+VfL Bochum	Karlsruher SC	1:0	1:0	05.10.1976	20:00	1976	1977	2
+Bayern MÃ¼nchen	Eintracht Braunschweig	0:0	2:2	27.08.1976	20:00	1976	1977	3
+Hamburger SV	1. FC Kaiserslautern	0:0	1:0	27.08.1976	20:00	1976	1977	3
+Karlsruher SC	Borussia Dortmund	0:0	2:1	28.08.1976	15:30	1976	1977	3
+Bor. MÃ¶nchengladbach	VfL Bochum	1:1	4:2	28.08.1976	15:30	1976	1977	3
+FC Schalke 04	Rot-Weiss Essen	3:0	3:0	28.08.1976	15:30	1976	1977	3
+1. FC KÃ¶ln	Eintracht Frankfurt	1:0	2:0	28.08.1976	15:30	1976	1977	3
+MSV Duisburg	Hertha BSC	1:0	1:1	28.08.1976	15:30	1976	1977	3
+TeBe Berlin	Fortuna DÃ¼sseldorf	2:1	4:2	28.08.1976	15:30	1976	1977	3
+1. FC SaarbrÃ¼cken	Werder Bremen	1:0	2:0	28.08.1976	15:30	1976	1977	3
+Eintracht Frankfurt	FC Schalke 04	0:2	6:3	03.09.1976	20:00	1976	1977	4
+VfL Bochum	MSV Duisburg	2:1	2:1	03.09.1976	20:00	1976	1977	4
+Eintracht Braunschweig	TeBe Berlin	2:0	3:1	03.09.1976	20:00	1976	1977	4
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	0:1	1:3	04.09.1976	15:30	1976	1977	4
+Rot-Weiss Essen	Hamburger SV	1:1	1:2	04.09.1976	15:30	1976	1977	4
+1. FC Kaiserslautern	1. FC SaarbrÃ¼cken	1:0	1:0	04.09.1976	15:30	1976	1977	4
+Borussia Dortmund	Bor. MÃ¶nchengladbach	0:0	0:0	04.09.1976	15:30	1976	1977	4
+Hertha BSC	Bayern MÃ¼nchen	0:1	1:1	04.09.1976	15:30	1976	1977	4
+Werder Bremen	Karlsruher SC	1:1	1:1	04.09.1976	15:30	1976	1977	4
+Bayern MÃ¼nchen	TeBe Berlin	4:0	9:0	10.09.1976	20:00	1976	1977	5
+MSV Duisburg	Borussia Dortmund	0:0	0:0	10.09.1976	20:00	1976	1977	5
+Karlsruher SC	1. FC Kaiserslautern	0:0	1:1	11.09.1976	15:30	1976	1977	5
+1. FC SaarbrÃ¼cken	Rot-Weiss Essen	0:0	2:1	11.09.1976	15:30	1976	1977	5
+Hamburger SV	Eintracht Frankfurt	0:0	3:1	11.09.1976	15:30	1976	1977	5
+FC Schalke 04	Fortuna DÃ¼sseldorf	1:1	2:1	11.09.1976	15:30	1976	1977	5
+1. FC KÃ¶ln	Eintracht Braunschweig	0:0	3:0	11.09.1976	15:30	1976	1977	5
+Hertha BSC	VfL Bochum	1:0	2:0	11.09.1976	15:30	1976	1977	5
+Bor. MÃ¶nchengladbach	Werder Bremen	2:0	3:1	11.09.1976	15:30	1976	1977	5
+Borussia Dortmund	Hertha BSC	1:0	2:1	17.09.1976	20:00	1976	1977	6
+Werder Bremen	MSV Duisburg	1:1	2:2	17.09.1976	20:00	1976	1977	6
+Rot-Weiss Essen	Karlsruher SC	0:0	3:2	18.09.1976	15:30	1976	1977	6
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	1:0	1:2	18.09.1976	15:30	1976	1977	6
+Fortuna DÃ¼sseldorf	Hamburger SV	0:0	2:0	18.09.1976	15:30	1976	1977	6
+VfL Bochum	Bayern MÃ¼nchen	3:0	5:6	18.09.1976	15:30	1976	1977	6
+TeBe Berlin	1. FC KÃ¶ln	2:0	3:2	18.09.1976	15:30	1976	1977	6
+Eintracht Braunschweig	FC Schalke 04	0:0	1:0	18.09.1976	15:30	1976	1977	6
+Eintracht Frankfurt	1. FC SaarbrÃ¼cken	2:1	2:1	18.09.1976	15:30	1976	1977	6
+Hertha BSC	Werder Bremen	1:0	2:1	21.09.1976	20:00	1976	1977	7
+Bor. MÃ¶nchengladbach	Rot-Weiss Essen	3:0	6:0	24.09.1976	20:00	1976	1977	7
+MSV Duisburg	1. FC Kaiserslautern	0:0	1:0	24.09.1976	20:00	1976	1977	7
+Hamburger SV	Eintracht Braunschweig	0:0	0:2	24.09.1976	20:00	1976	1977	7
+FC Schalke 04	TeBe Berlin	3:1	5:4	25.09.1976	15:30	1976	1977	7
+VfL Bochum	Borussia Dortmund	2:0	2:1	25.09.1976	15:30	1976	1977	7
+Bayern MÃ¼nchen	1. FC KÃ¶ln	2:0	4:1	25.09.1976	15:30	1976	1977	7
+Karlsruher SC	Eintracht Frankfurt	1:0	2:0	25.09.1976	15:30	1976	1977	7
+1. FC SaarbrÃ¼cken	Fortuna DÃ¼sseldorf	0:0	0:0	25.09.1976	15:30	1976	1977	7
+Werder Bremen	VfL Bochum	1:0	2:0	01.10.1976	20:00	1976	1977	8
+1. FC Kaiserslautern	Hertha BSC	0:1	0:2	01.10.1976	20:00	1976	1977	8
+Rot-Weiss Essen	MSV Duisburg	0:0	1:5	02.10.1976	15:30	1976	1977	8
+Fortuna DÃ¼sseldorf	Karlsruher SC	0:0	3:0	02.10.1976	15:30	1976	1977	8
+Borussia Dortmund	Bayern MÃ¼nchen	0:1	3:3	02.10.1976	15:30	1976	1977	8
+1. FC KÃ¶ln	FC Schalke 04	0:0	2:0	02.10.1976	15:30	1976	1977	8
+TeBe Berlin	Hamburger SV	0:0	1:1	02.10.1976	15:30	1976	1977	8
+Eintracht Braunschweig	1. FC SaarbrÃ¼cken	0:0	1:0	02.10.1976	15:30	1976	1977	8
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	1:2	1:3	02.10.1976	15:30	1976	1977	8
+Borussia Dortmund	Werder Bremen	2:2	2:4	08.10.1976	20:00	1976	1977	9
+Karlsruher SC	Eintracht Braunschweig	1:0	1:1	09.10.1976	15:30	1976	1977	9
+1. FC SaarbrÃ¼cken	TeBe Berlin	0:0	0:0	09.10.1976	15:30	1976	1977	9
+Hamburger SV	1. FC KÃ¶ln	1:0	2:1	09.10.1976	15:30	1976	1977	9
+MSV Duisburg	Eintracht Frankfurt	2:1	4:3	09.10.1976	15:30	1976	1977	9
+VfL Bochum	1. FC Kaiserslautern	1:0	1:0	09.10.1976	15:30	1976	1977	9
+Hertha BSC	Rot-Weiss Essen	0:0	2:1	09.10.1976	15:30	1976	1977	9
+Bor. MÃ¶nchengladbach	Fortuna DÃ¼sseldorf	1:1	3:1	09.10.1976	15:30	1976	1977	9
+Bayern MÃ¼nchen	FC Schalke 04	0:2	0:7	09.10.1976	15:30	1976	1977	9
+Fortuna DÃ¼sseldorf	MSV Duisburg	0:0	2:0	23.10.1976	15:30	1976	1977	10
+Rot-Weiss Essen	VfL Bochum	1:2	3:3	23.10.1976	15:30	1976	1977	10
+1. FC Kaiserslautern	Borussia Dortmund	1:0	2:1	23.10.1976	15:30	1976	1977	10
+Werder Bremen	Bayern MÃ¼nchen	1:1	2:3	23.10.1976	15:30	1976	1977	10
+FC Schalke 04	Hamburger SV	0:0	1:0	23.10.1976	15:30	1976	1977	10
+1. FC KÃ¶ln	1. FC SaarbrÃ¼cken	1:0	5:1	23.10.1976	15:30	1976	1977	10
+TeBe Berlin	Karlsruher SC	3:0	4:2	23.10.1976	15:30	1976	1977	10
+Eintracht Braunschweig	Bor. MÃ¶nchengladbach	0:0	1:1	23.10.1976	15:30	1976	1977	10
+Eintracht Frankfurt	Hertha BSC	1:2	3:3	23.10.1976	15:30	1976	1977	10
+Bor. MÃ¶nchengladbach	TeBe Berlin	1:0	3:0	29.10.1976	20:00	1976	1977	11
+Borussia Dortmund	Rot-Weiss Essen	1:1	4:2	29.10.1976	20:00	1976	1977	11
+Werder Bremen	1. FC Kaiserslautern	0:0	2:0	29.10.1976	20:00	1976	1977	11
+Karlsruher SC	1. FC KÃ¶ln	0:1	2:1	30.10.1976	15:30	1976	1977	11
+VfL Bochum	Eintracht Frankfurt	1:0	3:1	30.10.1976	15:30	1976	1977	11
+MSV Duisburg	Eintracht Braunschweig	1:0	1:1	30.10.1976	15:30	1976	1977	11
+Bayern MÃ¼nchen	Hamburger SV	1:1	6:2	30.10.1976	15:30	1976	1977	11
+Hertha BSC	Fortuna DÃ¼sseldorf	1:0	4:0	30.10.1976	15:30	1976	1977	11
+1. FC SaarbrÃ¼cken	FC Schalke 04	2:1	2:3	30.10.1976	16:00	1976	1977	11
+Fortuna DÃ¼sseldorf	VfL Bochum	1:0	1:0	06.11.1976	15:30	1976	1977	12
+Rot-Weiss Essen	Werder Bremen	0:0	0:0	06.11.1976	15:30	1976	1977	12
+1. FC Kaiserslautern	Bayern MÃ¼nchen	0:1	1:1	06.11.1976	15:30	1976	1977	12
+Hamburger SV	1. FC SaarbrÃ¼cken	0:0	0:0	06.11.1976	15:30	1976	1977	12
+FC Schalke 04	Karlsruher SC	1:0	2:2	06.11.1976	15:30	1976	1977	12
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:1	0:3	06.11.1976	15:30	1976	1977	12
+TeBe Berlin	MSV Duisburg	0:4	1:5	06.11.1976	15:30	1976	1977	12
+Eintracht Frankfurt	Borussia Dortmund	1:1	1:4	06.11.1976	15:30	1976	1977	12
+Eintracht Braunschweig	Hertha BSC	1:1	2:2	06.11.1976	15:30	1976	1977	12
+Borussia Dortmund	Fortuna DÃ¼sseldorf	0:1	1:2	12.11.1976	20:00	1976	1977	13
+Bor. MÃ¶nchengladbach	FC Schalke 04	1:0	2:0	13.11.1976	15:30	1976	1977	13
+Karlsruher SC	Hamburger SV	0:0	2:2	13.11.1976	15:30	1976	1977	13
+1. FC Kaiserslautern	Rot-Weiss Essen	1:1	7:1	13.11.1976	15:30	1976	1977	13
+Werder Bremen	Eintracht Frankfurt	1:1	2:1	13.11.1976	15:30	1976	1977	13
+VfL Bochum	Eintracht Braunschweig	0:1	1:1	13.11.1976	15:30	1976	1977	13
+Hertha BSC	TeBe Berlin	0:0	2:0	13.11.1976	15:30	1976	1977	13
+MSV Duisburg	1. FC KÃ¶ln	1:1	1:1	13.11.1976	15:30	1976	1977	13
+Bayern MÃ¼nchen	1. FC SaarbrÃ¼cken	1:1	5:1	13.11.1976	15:30	1976	1977	13
+Fortuna DÃ¼sseldorf	Werder Bremen	2:0	3:2	20.11.1976	15:30	1976	1977	14
+Rot-Weiss Essen	Bayern MÃ¼nchen	0:1	1:4	20.11.1976	15:30	1976	1977	14
+1. FC SaarbrÃ¼cken	Karlsruher SC	1:0	1:1	20.11.1976	15:30	1976	1977	14
+Eintracht Frankfurt	1. FC Kaiserslautern	1:0	2:0	20.11.1976	15:30	1976	1977	14
+Hamburger SV	Bor. MÃ¶nchengladbach	1:0	4:1	20.11.1976	15:30	1976	1977	14
+1. FC KÃ¶ln	Hertha BSC	2:1	3:2	20.11.1976	15:30	1976	1977	14
+TeBe Berlin	VfL Bochum	0:1	1:1	20.11.1976	15:30	1976	1977	14
+Eintracht Braunschweig	Borussia Dortmund	1:1	3:1	20.11.1976	15:30	1976	1977	14
+FC Schalke 04	MSV Duisburg	2:0	3:2	20.11.1976	15:30	1976	1977	14
+Bor. MÃ¶nchengladbach	1. FC SaarbrÃ¼cken	1:0	3:0	27.11.1976	15:30	1976	1977	15
+Karlsruher SC	Bayern MÃ¼nchen	0:1	1:2	27.11.1976	15:30	1976	1977	15
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	0:0	0:2	27.11.1976	15:30	1976	1977	15
+Werder Bremen	Eintracht Braunschweig	2:0	2:2	27.11.1976	15:30	1976	1977	15
+Borussia Dortmund	TeBe Berlin	2:0	4:0	27.11.1976	15:30	1976	1977	15
+VfL Bochum	1. FC KÃ¶ln	1:0	1:2	27.11.1976	15:30	1976	1977	15
+Hertha BSC	FC Schalke 04	0:1	2:1	27.11.1976	15:30	1976	1977	15
+Eintracht Frankfurt	Rot-Weiss Essen	2:0	3:1	27.11.1976	15:30	1976	1977	15
+MSV Duisburg	Hamburger SV	0:0	0:0	27.11.1976	15:30	1976	1977	15
+1. FC KÃ¶ln	Borussia Dortmund	0:0	1:1	03.12.1976	20:00	1976	1977	16
+Fortuna DÃ¼sseldorf	Rot-Weiss Essen	3:2	4:4	04.12.1976	15:30	1976	1977	16
+Karlsruher SC	Bor. MÃ¶nchengladbach	3:0	4:0	04.12.1976	15:30	1976	1977	16
+Hamburger SV	Hertha BSC	1:0	2:0	04.12.1976	15:30	1976	1977	16
+FC Schalke 04	VfL Bochum	1:0	3:1	04.12.1976	15:30	1976	1977	16
+Bayern MÃ¼nchen	Eintracht Frankfurt	0:1	0:3	04.12.1976	15:30	1976	1977	16
+TeBe Berlin	Werder Bremen	2:1	2:4	04.12.1976	15:30	1976	1977	16
+Eintracht Braunschweig	1. FC Kaiserslautern	1:1	2:1	04.12.1976	15:30	1976	1977	16
+1. FC SaarbrÃ¼cken	MSV Duisburg	0:0	1:0	15.12.1976	20:00	1976	1977	16
+VfL Bochum	Hamburger SV	3:1	4:2	10.12.1976	20:00	1976	1977	17
+MSV Duisburg	Karlsruher SC	1:0	3:1	10.12.1976	20:00	1976	1977	17
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:0	1:0	11.12.1976	15:30	1976	1977	17
+1. FC Kaiserslautern	TeBe Berlin	1:1	3:1	11.12.1976	15:30	1976	1977	17
+Werder Bremen	1. FC KÃ¶ln	0:1	2:1	11.12.1976	15:30	1976	1977	17
+Borussia Dortmund	FC Schalke 04	1:2	2:2	11.12.1976	15:30	1976	1977	17
+Rot-Weiss Essen	Eintracht Braunschweig	2:0	2:1	11.12.1976	15:30	1976	1977	17
+Hertha BSC	1. FC SaarbrÃ¼cken	0:0	1:1	11.12.1976	15:30	1976	1977	17
+Eintracht Frankfurt	Fortuna DÃ¼sseldorf	1:1	1:1	11.12.1976	15:30	1976	1977	17
+MSV Duisburg	Bor. MÃ¶nchengladbach	1:1	3:2	15.01.1977	15:30	1976	1977	18
+VfL Bochum	1. FC SaarbrÃ¼cken	1:2	1:2	15.01.1977	15:30	1976	1977	18
+Borussia Dortmund	Hamburger SV	2:3	4:4	15.01.1977	15:30	1976	1977	18
+Werder Bremen	FC Schalke 04	1:1	1:1	15.01.1977	15:30	1976	1977	18
+1. FC Kaiserslautern	1. FC KÃ¶ln	0:2	4:2	15.01.1977	15:30	1976	1977	18
+Rot-Weiss Essen	TeBe Berlin	0:0	1:0	15.01.1977	15:30	1976	1977	18
+Fortuna DÃ¼sseldorf	Bayern MÃ¼nchen	0:0	0:0	15.01.1977	15:30	1976	1977	18
+Hertha BSC	Karlsruher SC	1:1	1:1	01.02.1977	20:00	1976	1977	18
+Eintracht Frankfurt	Eintracht Braunschweig	2:0	3:0	01.03.1977	20:00	1976	1977	18
+FC Schalke 04	1. FC Kaiserslautern	3:1	5:2	22.01.1977	15:30	1976	1977	19
+1. FC KÃ¶ln	Rot-Weiss Essen	1:2	2:2	22.01.1977	15:30	1976	1977	19
+Hamburger SV	Werder Bremen	1:1	5:3	22.01.1977	15:30	1976	1977	19
+Bayern MÃ¼nchen	MSV Duisburg	1:2	2:2	22.01.1977	15:30	1976	1977	19
+Bor. MÃ¶nchengladbach	Hertha BSC	2:0	2:1	22.01.1977	15:30	1976	1977	19
+Karlsruher SC	VfL Bochum	1:1	2:1	22.01.1977	15:30	1976	1977	19
+1. FC SaarbrÃ¼cken	Borussia Dortmund	1:1	2:2	16.02.1977	20:00	1976	1977	19
+Eintracht Braunschweig	Fortuna DÃ¼sseldorf	0:0	0:0	18.02.1977	20:00	1976	1977	19
+TeBe Berlin	Eintracht Frankfurt	0:0	1:1	15.03.1977	20:00	1976	1977	19
+Eintracht Braunschweig	Bayern MÃ¼nchen	0:0	1:0	29.01.1977	15:30	1976	1977	20
+1. FC Kaiserslautern	Hamburger SV	0:0	2:0	29.01.1977	15:30	1976	1977	20
+Borussia Dortmund	Karlsruher SC	4:1	7:2	29.01.1977	15:30	1976	1977	20
+VfL Bochum	Bor. MÃ¶nchengladbach	0:0	0:0	29.01.1977	15:30	1976	1977	20
+Eintracht Frankfurt	1. FC KÃ¶ln	1:0	4:0	29.01.1977	15:30	1976	1977	20
+Hertha BSC	MSV Duisburg	0:2	2:4	29.01.1977	15:30	1976	1977	20
+Fortuna DÃ¼sseldorf	TeBe Berlin	0:0	0:0	29.01.1977	15:30	1976	1977	20
+Werder Bremen	1. FC SaarbrÃ¼cken	1:0	1:0	29.01.1977	15:30	1976	1977	20
+Rot-Weiss Essen	FC Schalke 04	1:2	2:2	01.03.1977	20:00	1976	1977	20
+FC Schalke 04	Eintracht Frankfurt	0:1	1:1	05.02.1977	15:30	1976	1977	21
+MSV Duisburg	VfL Bochum	0:0	0:0	05.02.1977	15:30	1976	1977	21
+TeBe Berlin	Eintracht Braunschweig	0:0	0:0	05.02.1977	15:30	1976	1977	21
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	2:1	2:2	05.02.1977	15:30	1976	1977	21
+Hamburger SV	Rot-Weiss Essen	3:2	5:3	05.02.1977	15:30	1976	1977	21
+1. FC SaarbrÃ¼cken	1. FC Kaiserslautern	0:1	2:2	05.02.1977	15:30	1976	1977	21
+Bayern MÃ¼nchen	Hertha BSC	0:0	1:0	05.02.1977	15:30	1976	1977	21
+Karlsruher SC	Werder Bremen	1:0	3:1	05.02.1977	15:30	1976	1977	21
+Bor. MÃ¶nchengladbach	Borussia Dortmund	0:0	1:1	30.03.1977	20:00	1976	1977	21
+TeBe Berlin	Bayern MÃ¼nchen	1:0	3:1	12.02.1977	15:30	1976	1977	22
+Borussia Dortmund	MSV Duisburg	2:0	2:1	12.02.1977	15:30	1976	1977	22
+1. FC Kaiserslautern	Karlsruher SC	1:1	3:1	12.02.1977	15:30	1976	1977	22
+Rot-Weiss Essen	1. FC SaarbrÃ¼cken	1:0	1:0	12.02.1977	15:30	1976	1977	22
+Eintracht Frankfurt	Hamburger SV	0:1	2:1	12.02.1977	15:30	1976	1977	22
+Fortuna DÃ¼sseldorf	FC Schalke 04	0:1	1:2	12.02.1977	15:30	1976	1977	22
+Eintracht Braunschweig	1. FC KÃ¶ln	1:1	4:2	12.02.1977	15:30	1976	1977	22
+VfL Bochum	Hertha BSC	3:1	4:2	12.02.1977	15:30	1976	1977	22
+Werder Bremen	Bor. MÃ¶nchengladbach	0:0	1:0	12.02.1977	15:30	1976	1977	22
+Hertha BSC	Borussia Dortmund	2:1	3:2	26.02.1977	15:30	1976	1977	23
+MSV Duisburg	Werder Bremen	2:0	3:0	26.02.1977	15:30	1976	1977	23
+Karlsruher SC	Rot-Weiss Essen	1:0	1:1	26.02.1977	15:30	1976	1977	23
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	0:0	0:0	26.02.1977	15:30	1976	1977	23
+Hamburger SV	Fortuna DÃ¼sseldorf	1:0	1:1	26.02.1977	15:30	1976	1977	23
+Bayern MÃ¼nchen	VfL Bochum	1:1	1:1	26.02.1977	15:30	1976	1977	23
+1. FC KÃ¶ln	TeBe Berlin	4:2	8:4	26.02.1977	15:30	1976	1977	23
+FC Schalke 04	Eintracht Braunschweig	0:1	2:3	26.02.1977	15:30	1976	1977	23
+1. FC SaarbrÃ¼cken	Eintracht Frankfurt	0:2	2:2	26.02.1977	15:30	1976	1977	23
+Rot-Weiss Essen	Bor. MÃ¶nchengladbach	0:0	1:0	05.03.1977	15:30	1976	1977	24
+Werder Bremen	Hertha BSC	1:0	1:0	05.03.1977	15:30	1976	1977	24
+1. FC Kaiserslautern	MSV Duisburg	0:0	2:0	05.03.1977	15:30	1976	1977	24
+Eintracht Braunschweig	Hamburger SV	0:1	0:1	05.03.1977	15:30	1976	1977	24
+TeBe Berlin	FC Schalke 04	1:2	1:3	05.03.1977	15:30	1976	1977	24
+Borussia Dortmund	VfL Bochum	0:1	0:2	05.03.1977	15:30	1976	1977	24
+1. FC KÃ¶ln	Bayern MÃ¼nchen	2:0	3:0	05.03.1977	15:30	1976	1977	24
+Eintracht Frankfurt	Karlsruher SC	1:1	3:2	05.03.1977	15:30	1976	1977	24
+Fortuna DÃ¼sseldorf	1. FC SaarbrÃ¼cken	2:0	5:1	05.03.1977	15:30	1976	1977	24
+VfL Bochum	Werder Bremen	0:1	0:2	12.03.1977	15:30	1976	1977	25
+Hertha BSC	1. FC Kaiserslautern	2:0	2:0	12.03.1977	15:30	1976	1977	25
+MSV Duisburg	Rot-Weiss Essen	1:0	4:0	12.03.1977	15:30	1976	1977	25
+Karlsruher SC	Fortuna DÃ¼sseldorf	0:1	1:1	12.03.1977	15:30	1976	1977	25
+Bayern MÃ¼nchen	Borussia Dortmund	1:1	1:2	12.03.1977	15:30	1976	1977	25
+FC Schalke 04	1. FC KÃ¶ln	1:1	1:1	12.03.1977	15:30	1976	1977	25
+Hamburger SV	TeBe Berlin	0:0	2:1	12.03.1977	15:30	1976	1977	25
+1. FC SaarbrÃ¼cken	Eintracht Braunschweig	0:1	1:2	12.03.1977	15:30	1976	1977	25
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:1	1:3	12.03.1977	15:30	1976	1977	25
+Werder Bremen	Borussia Dortmund	1:0	3:0	18.03.1977	20:00	1976	1977	26
+1. FC Kaiserslautern	VfL Bochum	0:0	2:0	18.03.1977	20:00	1976	1977	26
+Eintracht Braunschweig	Karlsruher SC	1:0	3:3	19.03.1977	15:30	1976	1977	26
+TeBe Berlin	1. FC SaarbrÃ¼cken	0:0	1:1	19.03.1977	15:30	1976	1977	26
+1. FC KÃ¶ln	Hamburger SV	3:0	3:3	19.03.1977	15:30	1976	1977	26
+Eintracht Frankfurt	MSV Duisburg	1:1	3:1	19.03.1977	15:30	1976	1977	26
+Rot-Weiss Essen	Hertha BSC	1:1	2:2	19.03.1977	15:30	1976	1977	26
+Fortuna DÃ¼sseldorf	Bor. MÃ¶nchengladbach	0:0	0:1	19.03.1977	15:30	1976	1977	26
+FC Schalke 04	Bayern MÃ¼nchen	0:0	0:0	19.03.1977	15:30	1976	1977	26
+MSV Duisburg	Fortuna DÃ¼sseldorf	1:0	1:0	26.03.1977	15:30	1976	1977	27
+VfL Bochum	Rot-Weiss Essen	0:0	2:1	26.03.1977	15:30	1976	1977	27
+Borussia Dortmund	1. FC Kaiserslautern	0:1	5:2	26.03.1977	15:30	1976	1977	27
+Bayern MÃ¼nchen	Werder Bremen	0:0	1:0	26.03.1977	15:30	1976	1977	27
+Hamburger SV	FC Schalke 04	0:0	2:2	26.03.1977	15:30	1976	1977	27
+1. FC SaarbrÃ¼cken	1. FC KÃ¶ln	1:1	3:1	26.03.1977	15:30	1976	1977	27
+Karlsruher SC	TeBe Berlin	3:0	4:1	26.03.1977	15:30	1976	1977	27
+Bor. MÃ¶nchengladbach	Eintracht Braunschweig	1:0	1:1	26.03.1977	15:30	1976	1977	27
+Hertha BSC	Eintracht Frankfurt	2:0	2:3	26.03.1977	15:30	1976	1977	27
+1. FC Kaiserslautern	Werder Bremen	0:1	4:2	01.04.1977	20:00	1976	1977	28
+1. FC KÃ¶ln	Karlsruher SC	3:0	4:1	01.04.1977	20:00	1976	1977	28
+Hamburger SV	Bayern MÃ¼nchen	2:0	5:0	01.04.1977	20:00	1976	1977	28
+TeBe Berlin	Bor. MÃ¶nchengladbach	0:0	0:1	02.04.1977	15:30	1976	1977	28
+Rot-Weiss Essen	Borussia Dortmund	0:2	1:5	02.04.1977	15:30	1976	1977	28
+Eintracht Frankfurt	VfL Bochum	2:1	2:2	02.04.1977	15:30	1976	1977	28
+FC Schalke 04	1. FC SaarbrÃ¼cken	0:0	0:1	02.04.1977	15:30	1976	1977	28
+Eintracht Braunschweig	MSV Duisburg	1:1	1:1	02.04.1977	15:30	1976	1977	28
+Fortuna DÃ¼sseldorf	Hertha BSC	1:1	2:3	02.04.1977	15:30	1976	1977	28
+Bayern MÃ¼nchen	1. FC Kaiserslautern	2:0	3:0	07.04.1977	20:00	1976	1977	29
+MSV Duisburg	TeBe Berlin	0:0	1:1	07.04.1977	20:00	1976	1977	29
+Karlsruher SC	FC Schalke 04	0:3	1:7	09.04.1977	15:30	1976	1977	29
+VfL Bochum	Fortuna DÃ¼sseldorf	1:0	1:2	12.04.1977	20:00	1976	1977	29
+Werder Bremen	Rot-Weiss Essen	1:1	3:1	12.04.1977	20:00	1976	1977	29
+1. FC SaarbrÃ¼cken	Hamburger SV	1:2	3:2	12.04.1977	20:00	1976	1977	29
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	0:0	3:1	12.04.1977	20:00	1976	1977	29
+Borussia Dortmund	Eintracht Frankfurt	1:1	2:2	12.04.1977	20:00	1976	1977	29
+Hertha BSC	Eintracht Braunschweig	2:1	2:1	12.04.1977	20:00	1976	1977	29
+Rot-Weiss Essen	1. FC Kaiserslautern	1:2	3:2	15.04.1977	20:00	1976	1977	30
+Fortuna DÃ¼sseldorf	Borussia Dortmund	1:1	3:2	15.04.1977	20:00	1976	1977	30
+FC Schalke 04	Bor. MÃ¶nchengladbach	1:0	1:0	16.04.1977	15:30	1976	1977	30
+Hamburger SV	Karlsruher SC	1:1	2:1	16.04.1977	15:30	1976	1977	30
+Eintracht Frankfurt	Werder Bremen	2:1	7:1	16.04.1977	15:30	1976	1977	30
+Eintracht Braunschweig	VfL Bochum	1:0	2:0	16.04.1977	15:30	1976	1977	30
+TeBe Berlin	Hertha BSC	0:0	2:0	16.04.1977	15:30	1976	1977	30
+1. FC KÃ¶ln	MSV Duisburg	3:1	5:2	16.04.1977	15:30	1976	1977	30
+1. FC SaarbrÃ¼cken	Bayern MÃ¼nchen	2:0	6:1	16.04.1977	15:30	1976	1977	30
+Werder Bremen	Fortuna DÃ¼sseldorf	0:0	0:2	22.04.1977	20:00	1976	1977	31
+1. FC Kaiserslautern	Eintracht Frankfurt	2:1	2:2	22.04.1977	20:00	1976	1977	31
+VfL Bochum	TeBe Berlin	0:0	2:1	22.04.1977	20:00	1976	1977	31
+Bayern MÃ¼nchen	Rot-Weiss Essen	1:0	5:1	23.04.1977	15:30	1976	1977	31
+Karlsruher SC	1. FC SaarbrÃ¼cken	2:0	3:0	23.04.1977	15:30	1976	1977	31
+Bor. MÃ¶nchengladbach	Hamburger SV	0:0	0:0	23.04.1977	15:30	1976	1977	31
+Hertha BSC	1. FC KÃ¶ln	1:1	2:4	23.04.1977	15:30	1976	1977	31
+Borussia Dortmund	Eintracht Braunschweig	0:0	0:0	23.04.1977	15:30	1976	1977	31
+MSV Duisburg	FC Schalke 04	1:1	2:2	23.04.1977	15:30	1976	1977	31
+1. FC KÃ¶ln	VfL Bochum	5:0	6:1	06.05.1977	20:00	1976	1977	32
+Hamburger SV	MSV Duisburg	1:0	2:0	06.05.1977	20:00	1976	1977	32
+1. FC SaarbrÃ¼cken	Bor. MÃ¶nchengladbach	0:1	2:2	07.05.1977	15:30	1976	1977	32
+Bayern MÃ¼nchen	Karlsruher SC	2:0	5:0	07.05.1977	15:30	1976	1977	32
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	0:1	2:3	07.05.1977	15:30	1976	1977	32
+Eintracht Braunschweig	Werder Bremen	0:0	0:1	07.05.1977	15:30	1976	1977	32
+TeBe Berlin	Borussia Dortmund	2:2	2:3	07.05.1977	15:30	1976	1977	32
+FC Schalke 04	Hertha BSC	2:0	4:0	07.05.1977	15:30	1976	1977	32
+Rot-Weiss Essen	Eintracht Frankfurt	0:5	1:8	07.05.1977	15:30	1976	1977	32
+Borussia Dortmund	1. FC KÃ¶ln	1:0	1:2	13.05.1977	20:00	1976	1977	33
+Rot-Weiss Essen	Fortuna DÃ¼sseldorf	2:1	5:3	14.05.1977	15:30	1976	1977	33
+Bor. MÃ¶nchengladbach	Karlsruher SC	1:0	5:1	14.05.1977	15:30	1976	1977	33
+Hertha BSC	Hamburger SV	1:0	2:1	14.05.1977	15:30	1976	1977	33
+VfL Bochum	FC Schalke 04	1:1	1:2	14.05.1977	15:30	1976	1977	33
+Eintracht Frankfurt	Bayern MÃ¼nchen	1:1	2:1	14.05.1977	15:30	1976	1977	33
+Werder Bremen	TeBe Berlin	0:0	0:0	14.05.1977	15:30	1976	1977	33
+1. FC Kaiserslautern	Eintracht Braunschweig	1:2	1:3	14.05.1977	15:30	1976	1977	33
+MSV Duisburg	1. FC SaarbrÃ¼cken	1:1	2:3	14.05.1977	15:30	1976	1977	33
+Hamburger SV	VfL Bochum	2:0	5:1	21.05.1977	15:30	1976	1977	34
+Karlsruher SC	MSV Duisburg	1:0	2:1	21.05.1977	15:30	1976	1977	34
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	1:2	2:2	21.05.1977	15:30	1976	1977	34
+TeBe Berlin	1. FC Kaiserslautern	1:0	4:2	21.05.1977	15:30	1976	1977	34
+1. FC KÃ¶ln	Werder Bremen	2:0	3:0	21.05.1977	15:30	1976	1977	34
+FC Schalke 04	Borussia Dortmund	2:0	4:2	21.05.1977	15:30	1976	1977	34
+Eintracht Braunschweig	Rot-Weiss Essen	1:0	6:0	21.05.1977	15:30	1976	1977	34
+1. FC SaarbrÃ¼cken	Hertha BSC	1:1	1:1	21.05.1977	15:30	1976	1977	34
+Fortuna DÃ¼sseldorf	Eintracht Frankfurt	0:1	1:2	21.05.1977	15:30	1976	1977	34

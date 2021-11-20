@@ -1,0 +1,306 @@
+Borussia Dortmund	VfB Stuttgart	0:2	0:3	08.08.1990	20:00	1990	1991	1
+Hertha BSC	FC St. Pauli	1:0	1:2	09.08.1990	20:00	1990	1991	1
+1. FC NÃ¼rnberg	Bayer 05 Uerdingen	1:1	1:1	10.08.1990	20:00	1990	1991	1
+Bayern MÃ¼nchen	Bayer Leverkusen	0:0	1:1	11.08.1990	15:30	1990	1991	1
+Eintracht Frankfurt	Karlsruher SC	1:0	3:0	11.08.1990	15:30	1990	1991	1
+Hamburger SV	1. FC Kaiserslautern	0:1	1:3	11.08.1990	15:30	1990	1991	1
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	0:0	1:1	11.08.1990	15:30	1990	1991	1
+Bor. MÃ¶nchengladbach	VfL Bochum	1:1	1:2	11.08.1990	15:30	1990	1991	1
+SG Wattenscheid 09	Werder Bremen	1:0	2:0	11.08.1990	15:30	1990	1991	1
+FC St. Pauli	Bayern MÃ¼nchen	0:0	0:0	14.08.1990	20:00	1990	1991	2
+Werder Bremen	Bor. MÃ¶nchengladbach	2:0	3:0	17.08.1990	20:00	1990	1991	2
+VfB Stuttgart	Hertha BSC	0:0	4:0	17.08.1990	20:00	1990	1991	2
+Fortuna DÃ¼sseldorf	Hamburger SV	0:1	2:1	18.08.1990	15:30	1990	1991	2
+1. FC Kaiserslautern	Eintracht Frankfurt	1:0	1:1	18.08.1990	15:30	1990	1991	2
+Karlsruher SC	Borussia Dortmund	0:2	1:2	18.08.1990	15:30	1990	1991	2
+Bayer Leverkusen	1. FC NÃ¼rnberg	1:1	2:2	18.08.1990	15:30	1990	1991	2
+Bayer 05 Uerdingen	SG Wattenscheid 09	0:0	0:2	18.08.1990	15:30	1990	1991	2
+VfL Bochum	1. FC KÃ¶ln	0:0	1:0	18.08.1990	15:30	1990	1991	2
+Borussia Dortmund	1. FC Kaiserslautern	0:1	0:2	24.08.1990	20:00	1990	1991	3
+Eintracht Frankfurt	Fortuna DÃ¼sseldorf	3:1	5:1	24.08.1990	20:00	1990	1991	3
+Hamburger SV	VfL Bochum	1:0	1:0	24.08.1990	20:00	1990	1991	3
+1. FC NÃ¼rnberg	FC St. Pauli	2:0	5:2	25.08.1990	15:30	1990	1991	3
+Bayern MÃ¼nchen	VfB Stuttgart	1:1	2:1	25.08.1990	15:30	1990	1991	3
+Hertha BSC	Karlsruher SC	1:0	1:1	25.08.1990	15:30	1990	1991	3
+1. FC KÃ¶ln	Werder Bremen	1:0	1:0	25.08.1990	15:30	1990	1991	3
+Bayer 05 Uerdingen	Bayer Leverkusen	1:0	1:1	25.08.1990	15:30	1990	1991	3
+SG Wattenscheid 09	Bor. MÃ¶nchengladbach	1:0	1:1	25.08.1990	15:30	1990	1991	3
+1. FC Kaiserslautern	Hertha BSC	2:2	4:3	31.08.1990	20:00	1990	1991	4
+Werder Bremen	Hamburger SV	1:1	3:1	01.09.1990	15:30	1990	1991	4
+Karlsruher SC	Bayern MÃ¼nchen	1:2	2:3	01.09.1990	15:30	1990	1991	4
+VfB Stuttgart	1. FC NÃ¼rnberg	1:0	2:1	01.09.1990	15:30	1990	1991	4
+FC St. Pauli	Bayer 05 Uerdingen	1:0	1:1	01.09.1990	15:30	1990	1991	4
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	0:1	2:2	01.09.1990	15:30	1990	1991	4
+VfL Bochum	Eintracht Frankfurt	0:0	0:0	01.09.1990	15:30	1990	1991	4
+Fortuna DÃ¼sseldorf	Borussia Dortmund	0:0	0:0	02.09.1990	19:00	1990	1991	4
+Bayer Leverkusen	SG Wattenscheid 09	0:0	2:1	04.09.1990	20:00	1990	1991	4
+Bayern MÃ¼nchen	1. FC Kaiserslautern	1:0	4:0	07.09.1990	20:00	1990	1991	5
+Borussia Dortmund	VfL Bochum	0:0	1:0	07.09.1990	20:00	1990	1991	5
+Bayer 05 Uerdingen	VfB Stuttgart	0:0	2:0	07.09.1990	20:00	1990	1991	5
+1. FC NÃ¼rnberg	Karlsruher SC	0:0	0:0	08.09.1990	15:30	1990	1991	5
+Hertha BSC	Fortuna DÃ¼sseldorf	0:0	0:1	08.09.1990	15:30	1990	1991	5
+Eintracht Frankfurt	Werder Bremen	0:0	0:0	08.09.1990	15:30	1990	1991	5
+Hamburger SV	Bor. MÃ¶nchengladbach	2:0	3:0	08.09.1990	15:30	1990	1991	5
+Bayer Leverkusen	FC St. Pauli	2:0	3:1	08.09.1990	15:30	1990	1991	5
+SG Wattenscheid 09	1. FC KÃ¶ln	0:1	0:3	08.09.1990	15:30	1990	1991	5
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	2:0	3:1	14.09.1990	20:00	1990	1991	6
+Karlsruher SC	Bayer 05 Uerdingen	1:0	2:0	14.09.1990	20:00	1990	1991	6
+FC St. Pauli	SG Wattenscheid 09	1:1	1:1	14.09.1990	20:00	1990	1991	6
+Werder Bremen	Borussia Dortmund	1:1	1:1	15.09.1990	15:30	1990	1991	6
+Fortuna DÃ¼sseldorf	Bayern MÃ¼nchen	0:1	1:2	15.09.1990	15:30	1990	1991	6
+VfB Stuttgart	Bayer Leverkusen	0:1	0:2	15.09.1990	15:30	1990	1991	6
+1. FC KÃ¶ln	Hamburger SV	0:0	1:0	15.09.1990	15:30	1990	1991	6
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:0	1:1	15.09.1990	15:30	1990	1991	6
+VfL Bochum	Hertha BSC	2:1	4:2	15.09.1990	15:30	1990	1991	6
+SG Wattenscheid 09	Hamburger SV	0:0	0:1	21.09.1990	20:00	1990	1991	7
+Bayern MÃ¼nchen	VfL Bochum	2:0	2:2	22.09.1990	15:30	1990	1991	7
+Hertha BSC	Werder Bremen	0:0	0:0	22.09.1990	15:30	1990	1991	7
+Borussia Dortmund	Bor. MÃ¶nchengladbach	1:1	1:1	22.09.1990	15:30	1990	1991	7
+Eintracht Frankfurt	1. FC KÃ¶ln	1:0	1:0	22.09.1990	15:30	1990	1991	7
+FC St. Pauli	VfB Stuttgart	2:0	2:2	22.09.1990	15:30	1990	1991	7
+Bayer Leverkusen	Karlsruher SC	0:0	1:0	22.09.1990	15:30	1990	1991	7
+Bayer 05 Uerdingen	1. FC Kaiserslautern	2:3	3:7	22.09.1990	15:30	1990	1991	7
+1. FC NÃ¼rnberg	Fortuna DÃ¼sseldorf	0:0	3:0	23.09.1990	18:00	1990	1991	7
+Werder Bremen	Bayern MÃ¼nchen	0:0	1:0	28.09.1990	20:00	1990	1991	8
+1. FC Kaiserslautern	Bayer Leverkusen	1:0	2:1	28.09.1990	20:00	1990	1991	8
+Bor. MÃ¶nchengladbach	Hertha BSC	2:0	2:0	28.09.1990	20:00	1990	1991	8
+Fortuna DÃ¼sseldorf	Bayer 05 Uerdingen	0:1	0:2	29.09.1990	15:30	1990	1991	8
+Karlsruher SC	FC St. Pauli	0:0	1:1	29.09.1990	15:30	1990	1991	8
+VfB Stuttgart	SG Wattenscheid 09	1:0	1:4	29.09.1990	15:30	1990	1991	8
+Hamburger SV	Eintracht Frankfurt	0:1	0:1	29.09.1990	15:30	1990	1991	8
+1. FC KÃ¶ln	Borussia Dortmund	0:1	0:1	29.09.1990	15:30	1990	1991	8
+VfL Bochum	1. FC NÃ¼rnberg	0:0	0:0	29.09.1990	15:30	1990	1991	8
+Bayer 05 Uerdingen	VfL Bochum	3:1	4:1	05.10.1990	20:00	1990	1991	9
+1. FC NÃ¼rnberg	Werder Bremen	1:1	2:3	06.10.1990	15:30	1990	1991	9
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	0:0	4:1	06.10.1990	15:30	1990	1991	9
+Hertha BSC	1. FC KÃ¶ln	0:0	0:0	06.10.1990	15:30	1990	1991	9
+Borussia Dortmund	Hamburger SV	0:1	1:1	06.10.1990	15:30	1990	1991	9
+VfB Stuttgart	Karlsruher SC	1:2	2:2	06.10.1990	15:30	1990	1991	9
+FC St. Pauli	1. FC Kaiserslautern	0:0	1:0	06.10.1990	15:30	1990	1991	9
+Bayer Leverkusen	Fortuna DÃ¼sseldorf	0:0	1:1	06.10.1990	15:30	1990	1991	9
+SG Wattenscheid 09	Eintracht Frankfurt	1:0	1:0	06.10.1990	15:30	1990	1991	9
+Karlsruher SC	SG Wattenscheid 09	1:1	1:3	12.10.1990	20:00	1990	1991	10
+Werder Bremen	Bayer 05 Uerdingen	2:1	4:3	13.10.1990	15:30	1990	1991	10
+Fortuna DÃ¼sseldorf	FC St. Pauli	0:0	0:0	13.10.1990	15:30	1990	1991	10
+1. FC Kaiserslautern	VfB Stuttgart	1:0	2:0	13.10.1990	15:30	1990	1991	10
+Eintracht Frankfurt	Borussia Dortmund	0:0	3:1	13.10.1990	15:30	1990	1991	10
+1. FC KÃ¶ln	Bayern MÃ¼nchen	3:0	4:0	13.10.1990	15:30	1990	1991	10
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	1:0	2:0	13.10.1990	15:30	1990	1991	10
+VfL Bochum	Bayer Leverkusen	1:1	3:1	13.10.1990	15:30	1990	1991	10
+Hamburger SV	Hertha BSC	1:0	2:0	14.10.1990	18:00	1990	1991	10
+FC St. Pauli	VfL Bochum	1:2	3:3	19.10.1990	20:00	1990	1991	11
+Bayer Leverkusen	Werder Bremen	0:0	0:0	19.10.1990	20:00	1990	1991	11
+SG Wattenscheid 09	Borussia Dortmund	0:0	1:1	19.10.1990	20:00	1990	1991	11
+1. FC NÃ¼rnberg	1. FC KÃ¶ln	0:2	0:4	20.10.1990	15:30	1990	1991	11
+Bayern MÃ¼nchen	Hamburger SV	3:1	6:1	20.10.1990	15:30	1990	1991	11
+Hertha BSC	Eintracht Frankfurt	1:0	1:0	20.10.1990	15:30	1990	1991	11
+Karlsruher SC	1. FC Kaiserslautern	4:2	4:2	20.10.1990	15:30	1990	1991	11
+VfB Stuttgart	Fortuna DÃ¼sseldorf	0:0	1:1	20.10.1990	15:30	1990	1991	11
+Bayer 05 Uerdingen	Bor. MÃ¶nchengladbach	1:1	1:1	20.10.1990	15:30	1990	1991	11
+Werder Bremen	FC St. Pauli	0:0	1:0	26.10.1990	20:00	1990	1991	12
+VfL Bochum	VfB Stuttgart	0:0	1:1	26.10.1990	20:00	1990	1991	12
+Fortuna DÃ¼sseldorf	Karlsruher SC	2:1	5:2	27.10.1990	15:30	1990	1991	12
+1. FC Kaiserslautern	SG Wattenscheid 09	1:1	1:1	27.10.1990	15:30	1990	1991	12
+Borussia Dortmund	Hertha BSC	0:1	3:1	27.10.1990	15:30	1990	1991	12
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:2	1:4	27.10.1990	15:30	1990	1991	12
+Hamburger SV	1. FC NÃ¼rnberg	2:0	4:0	27.10.1990	15:30	1990	1991	12
+1. FC KÃ¶ln	Bayer 05 Uerdingen	1:0	3:1	27.10.1990	15:30	1990	1991	12
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	1:0	1:1	27.10.1990	15:30	1990	1991	12
+SG Wattenscheid 09	Hertha BSC	0:0	3:1	09.11.1990	20:00	1990	1991	13
+Bayer Leverkusen	1. FC KÃ¶ln	1:0	2:0	10.11.1990	15:00	1990	1991	13
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:0	0:2	10.11.1990	15:30	1990	1991	13
+Bayern MÃ¼nchen	Borussia Dortmund	0:0	2:3	10.11.1990	15:30	1990	1991	13
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	0:0	0:0	10.11.1990	15:30	1990	1991	13
+Karlsruher SC	VfL Bochum	1:2	3:2	10.11.1990	15:30	1990	1991	13
+VfB Stuttgart	Werder Bremen	0:1	0:1	10.11.1990	15:30	1990	1991	13
+FC St. Pauli	Bor. MÃ¶nchengladbach	0:0	1:1	10.11.1990	15:30	1990	1991	13
+Bayer 05 Uerdingen	Hamburger SV	0:0	0:0	10.11.1990	15:30	1990	1991	13
+Fortuna DÃ¼sseldorf	SG Wattenscheid 09	1:0	2:1	16.11.1990	20:00	1990	1991	14
+Borussia Dortmund	1. FC NÃ¼rnberg	0:0	0:2	16.11.1990	20:00	1990	1991	14
+1. FC KÃ¶ln	FC St. Pauli	2:0	2:0	16.11.1990	20:00	1990	1991	14
+Werder Bremen	Karlsruher SC	1:0	2:0	17.11.1990	15:30	1990	1991	14
+Hertha BSC	Bayern MÃ¼nchen	0:0	0:0	17.11.1990	15:30	1990	1991	14
+Eintracht Frankfurt	Bayer 05 Uerdingen	2:0	4:0	17.11.1990	15:30	1990	1991	14
+Hamburger SV	Bayer Leverkusen	0:0	3:1	17.11.1990	15:30	1990	1991	14
+Bor. MÃ¶nchengladbach	VfB Stuttgart	1:0	2:0	17.11.1990	15:30	1990	1991	14
+VfL Bochum	1. FC Kaiserslautern	0:0	0:2	17.11.1990	15:30	1990	1991	14
+1. FC NÃ¼rnberg	Hertha BSC	1:1	1:4	24.11.1990	15:30	1990	1991	15
+Bayern MÃ¼nchen	SG Wattenscheid 09	3:0	7:0	24.11.1990	15:30	1990	1991	15
+1. FC Kaiserslautern	Werder Bremen	1:0	1:0	24.11.1990	15:30	1990	1991	15
+Karlsruher SC	Bor. MÃ¶nchengladbach	2:0	3:2	24.11.1990	15:30	1990	1991	15
+VfB Stuttgart	1. FC KÃ¶ln	0:1	3:2	24.11.1990	15:30	1990	1991	15
+Bayer Leverkusen	Eintracht Frankfurt	0:1	2:2	24.11.1990	15:30	1990	1991	15
+Bayer 05 Uerdingen	Borussia Dortmund	0:0	1:3	24.11.1990	15:30	1990	1991	15
+FC St. Pauli	Hamburger SV	0:0	0:2	25.11.1990	19:00	1990	1991	15
+VfL Bochum	Fortuna DÃ¼sseldorf	0:0	0:0	01.12.1990	15:30	1990	1991	15
+Borussia Dortmund	Bayer Leverkusen	1:1	1:1	07.12.1990	20:00	1990	1991	16
+1. FC KÃ¶ln	Karlsruher SC	0:0	0:0	07.12.1990	20:00	1990	1991	16
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	1:1	2:2	07.12.1990	20:00	1990	1991	16
+Werder Bremen	Fortuna DÃ¼sseldorf	0:0	3:1	08.12.1990	15:30	1990	1991	16
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	1:0	1:0	08.12.1990	15:30	1990	1991	16
+Hertha BSC	Bayer 05 Uerdingen	0:0	0:0	08.12.1990	15:30	1990	1991	16
+Eintracht Frankfurt	FC St. Pauli	0:0	1:1	08.12.1990	15:30	1990	1991	16
+Hamburger SV	VfB Stuttgart	0:0	2:0	08.12.1990	15:30	1990	1991	16
+SG Wattenscheid 09	VfL Bochum	0:1	0:4	08.12.1990	15:30	1990	1991	16
+VfL Bochum	Werder Bremen	0:1	1:2	14.12.1990	20:00	1990	1991	17
+Fortuna DÃ¼sseldorf	Bor. MÃ¶nchengladbach	2:1	4:1	15.12.1990	15:30	1990	1991	17
+FC St. Pauli	Borussia Dortmund	0:1	0:2	15.12.1990	15:30	1990	1991	17
+Bayer 05 Uerdingen	Bayern MÃ¼nchen	0:0	1:1	15.12.1990	15:30	1990	1991	17
+VfB Stuttgart	Eintracht Frankfurt	0:0	2:1	16.12.1990	19:00	1990	1991	17
+1. FC NÃ¼rnberg	SG Wattenscheid 09	3:1	4:2	16.02.1991	15:30	1990	1991	17
+1. FC Kaiserslautern	1. FC KÃ¶ln	0:2	2:2	19.03.1991	20:00	1990	1991	17
+Karlsruher SC	Hamburger SV	2:0	2:2	19.03.1991	20:00	1990	1991	17
+Bayer Leverkusen	Hertha BSC	1:0	3:1	19.03.1991	20:00	1990	1991	17
+Bayer 05 Uerdingen	1. FC NÃ¼rnberg	0:0	0:0	23.02.1991	15:30	1990	1991	18
+Bayer Leverkusen	Bayern MÃ¼nchen	0:0	1:2	23.02.1991	15:30	1990	1991	18
+VfB Stuttgart	Borussia Dortmund	4:0	7:0	23.02.1991	15:30	1990	1991	18
+1. FC Kaiserslautern	Hamburger SV	0:0	1:0	23.02.1991	15:30	1990	1991	18
+VfL Bochum	Bor. MÃ¶nchengladbach	2:0	3:0	23.02.1991	15:30	1990	1991	18
+Karlsruher SC	Eintracht Frankfurt	2:1	2:2	26.02.1991	20:00	1990	1991	18
+Werder Bremen	SG Wattenscheid 09	1:1	1:1	26.02.1991	20:00	1990	1991	18
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	0:0	0:2	27.02.1991	20:00	1990	1991	18
+FC St. Pauli	Hertha BSC	0:2	2:2	05.03.1991	20:00	1990	1991	18
+SG Wattenscheid 09	Bayer 05 Uerdingen	0:0	0:0	01.03.1991	20:00	1990	1991	19
+Hamburger SV	Fortuna DÃ¼sseldorf	0:0	1:0	02.03.1991	15:30	1990	1991	19
+Eintracht Frankfurt	1. FC Kaiserslautern	3:2	4:3	02.03.1991	15:30	1990	1991	19
+Borussia Dortmund	Karlsruher SC	1:2	2:2	02.03.1991	15:30	1990	1991	19
+Hertha BSC	VfB Stuttgart	0:1	0:2	02.03.1991	15:30	1990	1991	19
+Bayern MÃ¼nchen	FC St. Pauli	0:1	0:1	02.03.1991	15:30	1990	1991	19
+1. FC NÃ¼rnberg	Bayer Leverkusen	0:0	1:0	02.03.1991	15:30	1990	1991	19
+1. FC KÃ¶ln	VfL Bochum	0:0	0:0	02.03.1991	15:30	1990	1991	19
+Bor. MÃ¶nchengladbach	Werder Bremen	1:0	1:1	03.03.1991	18:00	1990	1991	19
+FC St. Pauli	1. FC NÃ¼rnberg	0:0	0:0	08.03.1991	20:00	1990	1991	20
+Werder Bremen	1. FC KÃ¶ln	0:0	2:1	08.03.1991	20:00	1990	1991	20
+VfB Stuttgart	Bayern MÃ¼nchen	0:1	0:3	09.03.1991	15:30	1990	1991	20
+Karlsruher SC	Hertha BSC	1:0	3:0	09.03.1991	15:30	1990	1991	20
+1. FC Kaiserslautern	Borussia Dortmund	1:1	2:2	09.03.1991	15:30	1990	1991	20
+Fortuna DÃ¼sseldorf	Eintracht Frankfurt	0:0	1:0	09.03.1991	15:30	1990	1991	20
+VfL Bochum	Hamburger SV	0:1	0:1	09.03.1991	15:30	1990	1991	20
+Bayer Leverkusen	Bayer 05 Uerdingen	1:0	1:0	09.03.1991	15:30	1990	1991	20
+Bor. MÃ¶nchengladbach	SG Wattenscheid 09	0:0	1:1	09.03.1991	15:30	1990	1991	20
+Hamburger SV	Werder Bremen	2:0	3:2	15.03.1991	20:00	1990	1991	21
+Bayern MÃ¼nchen	Karlsruher SC	1:0	3:0	15.03.1991	20:00	1990	1991	21
+SG Wattenscheid 09	Bayer Leverkusen	1:0	1:2	15.03.1991	20:00	1990	1991	21
+Borussia Dortmund	Fortuna DÃ¼sseldorf	0:1	1:1	16.03.1991	15:30	1990	1991	21
+Hertha BSC	1. FC Kaiserslautern	0:1	0:2	16.03.1991	15:30	1990	1991	21
+1. FC NÃ¼rnberg	VfB Stuttgart	0:0	0:1	16.03.1991	15:30	1990	1991	21
+Bayer 05 Uerdingen	FC St. Pauli	0:0	2:0	16.03.1991	15:30	1990	1991	21
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	1:2	1:3	16.03.1991	15:30	1990	1991	21
+Eintracht Frankfurt	VfL Bochum	1:1	1:1	16.03.1991	15:30	1990	1991	21
+Werder Bremen	Eintracht Frankfurt	0:0	1:1	22.03.1991	20:00	1990	1991	22
+Bor. MÃ¶nchengladbach	Hamburger SV	1:1	1:1	22.03.1991	20:00	1990	1991	22
+VfB Stuttgart	Bayer 05 Uerdingen	1:0	3:1	22.03.1991	20:00	1990	1991	22
+Karlsruher SC	1. FC NÃ¼rnberg	1:0	2:0	23.03.1991	15:30	1990	1991	22
+1. FC Kaiserslautern	Bayern MÃ¼nchen	0:1	2:1	23.03.1991	15:30	1990	1991	22
+Fortuna DÃ¼sseldorf	Hertha BSC	0:0	4:2	23.03.1991	15:30	1990	1991	22
+VfL Bochum	Borussia Dortmund	0:2	2:2	23.03.1991	15:30	1990	1991	22
+FC St. Pauli	Bayer Leverkusen	1:0	1:0	23.03.1991	15:30	1990	1991	22
+1. FC KÃ¶ln	SG Wattenscheid 09	0:0	1:1	23.03.1991	15:30	1990	1991	22
+Borussia Dortmund	Werder Bremen	1:1	1:1	02.04.1991	20:00	1990	1991	23
+Bayern MÃ¼nchen	Fortuna DÃ¼sseldorf	0:0	0:1	02.04.1991	20:00	1990	1991	23
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	1:2	1:4	02.04.1991	20:00	1990	1991	23
+Bayer 05 Uerdingen	Karlsruher SC	0:0	1:1	02.04.1991	20:00	1990	1991	23
+Bayer Leverkusen	VfB Stuttgart	0:0	0:0	02.04.1991	20:00	1990	1991	23
+Hertha BSC	VfL Bochum	1:2	2:4	02.04.1991	20:00	1990	1991	23
+SG Wattenscheid 09	FC St. Pauli	2:1	2:2	03.04.1991	20:00	1990	1991	23
+Hamburger SV	1. FC KÃ¶ln	1:0	1:1	03.04.1991	20:00	1990	1991	23
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	4:1	5:1	03.04.1991	20:00	1990	1991	23
+Fortuna DÃ¼sseldorf	1. FC NÃ¼rnberg	1:0	3:0	05.04.1991	20:00	1990	1991	24
+Werder Bremen	Hertha BSC	2:0	6:0	05.04.1991	20:00	1990	1991	24
+Karlsruher SC	Bayer Leverkusen	1:0	2:0	05.04.1991	20:00	1990	1991	24
+VfL Bochum	Bayern MÃ¼nchen	1:0	1:2	06.04.1991	15:30	1990	1991	24
+Bor. MÃ¶nchengladbach	Borussia Dortmund	0:1	2:1	06.04.1991	15:30	1990	1991	24
+1. FC KÃ¶ln	Eintracht Frankfurt	1:1	2:1	06.04.1991	15:30	1990	1991	24
+VfB Stuttgart	FC St. Pauli	0:0	2:1	06.04.1991	15:30	1990	1991	24
+1. FC Kaiserslautern	Bayer 05 Uerdingen	1:0	2:0	06.04.1991	15:30	1990	1991	24
+Hamburger SV	SG Wattenscheid 09	0:0	0:0	06.04.1991	15:30	1990	1991	24
+FC St. Pauli	Karlsruher SC	2:0	2:0	12.04.1991	20:00	1990	1991	25
+SG Wattenscheid 09	VfB Stuttgart	2:2	2:2	12.04.1991	20:00	1990	1991	25
+Hertha BSC	Bor. MÃ¶nchengladbach	1:1	1:1	12.04.1991	20:00	1990	1991	25
+Bayern MÃ¼nchen	Werder Bremen	1:0	1:1	13.04.1991	15:30	1990	1991	25
+Bayer 05 Uerdingen	Fortuna DÃ¼sseldorf	0:1	1:2	13.04.1991	15:30	1990	1991	25
+Bayer Leverkusen	1. FC Kaiserslautern	1:0	2:2	13.04.1991	15:30	1990	1991	25
+Eintracht Frankfurt	Hamburger SV	0:1	0:6	13.04.1991	15:30	1990	1991	25
+Borussia Dortmund	1. FC KÃ¶ln	0:2	1:2	13.04.1991	15:30	1990	1991	25
+1. FC NÃ¼rnberg	VfL Bochum	2:1	3:2	13.04.1991	15:30	1990	1991	25
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:0	1:1	16.04.1991	20:00	1990	1991	26
+Karlsruher SC	VfB Stuttgart	0:0	0:0	16.04.1991	20:00	1990	1991	26
+VfL Bochum	Bayer 05 Uerdingen	0:1	0:2	16.04.1991	20:00	1990	1991	26
+Eintracht Frankfurt	SG Wattenscheid 09	1:0	4:0	16.04.1991	20:00	1990	1991	26
+Werder Bremen	1. FC NÃ¼rnberg	0:0	0:0	17.04.1991	20:00	1990	1991	26
+1. FC KÃ¶ln	Hertha BSC	0:1	2:1	17.04.1991	20:00	1990	1991	26
+Hamburger SV	Borussia Dortmund	2:0	4:0	17.04.1991	20:00	1990	1991	26
+1. FC Kaiserslautern	FC St. Pauli	0:0	1:0	17.04.1991	20:00	1990	1991	26
+Fortuna DÃ¼sseldorf	Bayer Leverkusen	0:1	0:2	17.04.1991	20:00	1990	1991	26
+SG Wattenscheid 09	Karlsruher SC	0:1	1:1	19.04.1991	20:00	1990	1991	27
+Bayer 05 Uerdingen	Werder Bremen	0:0	0:0	20.04.1991	15:30	1990	1991	27
+FC St. Pauli	Fortuna DÃ¼sseldorf	0:1	2:3	20.04.1991	15:30	1990	1991	27
+VfB Stuttgart	1. FC Kaiserslautern	1:2	2:2	20.04.1991	15:30	1990	1991	27
+Borussia Dortmund	Eintracht Frankfurt	0:0	0:3	20.04.1991	15:30	1990	1991	27
+Bayern MÃ¼nchen	1. FC KÃ¶ln	1:0	2:2	20.04.1991	15:30	1990	1991	27
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	1:0	2:2	20.04.1991	15:30	1990	1991	27
+Bayer Leverkusen	VfL Bochum	1:1	4:2	26.04.1991	06:30	1990	1991	27
+Hertha BSC	Hamburger SV	0:2	1:4	26.04.1991	20:00	1990	1991	27
+1. FC Kaiserslautern	Karlsruher SC	1:2	3:2	03.05.1991	20:00	1990	1991	28
+VfL Bochum	FC St. Pauli	0:0	3:0	03.05.1991	20:00	1990	1991	28
+1. FC KÃ¶ln	1. FC NÃ¼rnberg	1:1	3:1	04.05.1991	15:30	1990	1991	28
+Eintracht Frankfurt	Hertha BSC	2:0	5:1	04.05.1991	15:30	1990	1991	28
+Fortuna DÃ¼sseldorf	VfB Stuttgart	0:3	0:4	04.05.1991	15:30	1990	1991	28
+Werder Bremen	Bayer Leverkusen	0:1	1:1	04.05.1991	15:30	1990	1991	28
+Bor. MÃ¶nchengladbach	Bayer 05 Uerdingen	0:0	1:1	04.05.1991	15:30	1990	1991	28
+Borussia Dortmund	SG Wattenscheid 09	1:1	2:2	04.05.1991	15:30	1990	1991	28
+Hamburger SV	Bayern MÃ¼nchen	1:1	2:3	05.05.1991	18:00	1990	1991	28
+Karlsruher SC	Fortuna DÃ¼sseldorf	0:1	1:1	10.05.1991	20:00	1990	1991	29
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	0:0	2:5	10.05.1991	20:00	1990	1991	29
+VfB Stuttgart	VfL Bochum	0:0	2:2	10.05.1991	20:00	1990	1991	29
+FC St. Pauli	Werder Bremen	0:0	0:0	11.05.1991	15:30	1990	1991	29
+SG Wattenscheid 09	1. FC Kaiserslautern	0:0	0:0	11.05.1991	15:30	1990	1991	29
+Hertha BSC	Borussia Dortmund	2:2	2:2	11.05.1991	15:30	1990	1991	29
+Bayern MÃ¼nchen	Eintracht Frankfurt	0:0	2:0	11.05.1991	15:30	1990	1991	29
+1. FC NÃ¼rnberg	Hamburger SV	2:1	3:1	11.05.1991	15:30	1990	1991	29
+Bayer 05 Uerdingen	1. FC KÃ¶ln	0:2	0:3	11.05.1991	15:30	1990	1991	29
+Eintracht Frankfurt	1. FC NÃ¼rnberg	0:1	0:1	17.05.1991	20:00	1990	1991	30
+Borussia Dortmund	Bayern MÃ¼nchen	1:1	2:3	17.05.1991	20:00	1990	1991	30
+Werder Bremen	VfB Stuttgart	0:1	0:1	17.05.1991	20:00	1990	1991	30
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	0:0	0:0	18.05.1991	15:30	1990	1991	30
+VfL Bochum	Karlsruher SC	0:1	0:1	18.05.1991	15:30	1990	1991	30
+Bor. MÃ¶nchengladbach	FC St. Pauli	1:1	1:1	18.05.1991	15:30	1990	1991	30
+1. FC KÃ¶ln	Bayer Leverkusen	1:1	1:1	18.05.1991	15:30	1990	1991	30
+Hamburger SV	Bayer 05 Uerdingen	1:0	2:0	18.05.1991	15:30	1990	1991	30
+Hertha BSC	SG Wattenscheid 09	0:1	2:3	18.05.1991	15:30	1990	1991	30
+1. FC NÃ¼rnberg	Borussia Dortmund	1:1	1:1	24.05.1991	20:00	1990	1991	31
+Bayer 05 Uerdingen	Eintracht Frankfurt	2:0	2:3	24.05.1991	20:00	1990	1991	31
+1. FC Kaiserslautern	VfL Bochum	2:1	4:1	24.05.1991	20:00	1990	1991	31
+Karlsruher SC	Werder Bremen	0:0	1:1	25.05.1991	15:30	1990	1991	31
+SG Wattenscheid 09	Fortuna DÃ¼sseldorf	0:0	2:0	25.05.1991	15:30	1990	1991	31
+Bayern MÃ¼nchen	Hertha BSC	3:1	7:3	25.05.1991	15:30	1990	1991	31
+Bayer Leverkusen	Hamburger SV	2:2	2:2	25.05.1991	15:30	1990	1991	31
+FC St. Pauli	1. FC KÃ¶ln	1:0	2:0	25.05.1991	15:30	1990	1991	31
+VfB Stuttgart	Bor. MÃ¶nchengladbach	1:1	1:1	25.05.1991	15:30	1990	1991	31
+Eintracht Frankfurt	Bayer Leverkusen	2:0	3:1	30.05.1991	20:15	1990	1991	32
+Borussia Dortmund	Bayer 05 Uerdingen	0:0	1:0	31.05.1991	20:00	1990	1991	32
+Fortuna DÃ¼sseldorf	VfL Bochum	3:1	3:4	31.05.1991	20:00	1990	1991	32
+Hertha BSC	1. FC NÃ¼rnberg	0:3	2:4	01.06.1991	15:30	1990	1991	32
+SG Wattenscheid 09	Bayern MÃ¼nchen	0:1	3:2	01.06.1991	15:30	1990	1991	32
+Werder Bremen	1. FC Kaiserslautern	1:1	1:2	01.06.1991	15:30	1990	1991	32
+Bor. MÃ¶nchengladbach	Karlsruher SC	1:0	2:1	01.06.1991	15:30	1990	1991	32
+1. FC KÃ¶ln	VfB Stuttgart	0:2	1:6	01.06.1991	15:30	1990	1991	32
+Hamburger SV	FC St. Pauli	2:0	5:0	01.06.1991	15:30	1990	1991	32
+Fortuna DÃ¼sseldorf	Werder Bremen	1:1	1:2	08.06.1991	15:30	1990	1991	33
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	0:1	0:1	08.06.1991	15:30	1990	1991	33
+Bayer 05 Uerdingen	Hertha BSC	0:1	1:2	08.06.1991	15:30	1990	1991	33
+Bayer Leverkusen	Borussia Dortmund	1:0	1:2	08.06.1991	15:30	1990	1991	33
+FC St. Pauli	Eintracht Frankfurt	1:1	1:1	08.06.1991	15:30	1990	1991	33
+VfB Stuttgart	Hamburger SV	1:0	2:0	08.06.1991	15:30	1990	1991	33
+Karlsruher SC	1. FC KÃ¶ln	1:1	1:1	08.06.1991	15:30	1990	1991	33
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	0:2	2:3	08.06.1991	15:30	1990	1991	33
+VfL Bochum	SG Wattenscheid 09	0:0	0:0	08.06.1991	15:30	1990	1991	33
+SG Wattenscheid 09	1. FC NÃ¼rnberg	0:1	0:1	15.06.1991	15:30	1990	1991	34
+Bor. MÃ¶nchengladbach	Fortuna DÃ¼sseldorf	0:0	2:0	15.06.1991	15:30	1990	1991	34
+1. FC KÃ¶ln	1. FC Kaiserslautern	1:4	2:6	15.06.1991	15:30	1990	1991	34
+Hamburger SV	Karlsruher SC	0:2	2:2	15.06.1991	15:30	1990	1991	34
+Eintracht Frankfurt	VfB Stuttgart	3:0	4:0	15.06.1991	15:30	1990	1991	34
+Borussia Dortmund	FC St. Pauli	2:1	5:2	15.06.1991	15:30	1990	1991	34
+Hertha BSC	Bayer Leverkusen	0:1	1:2	15.06.1991	15:30	1990	1991	34
+Bayern MÃ¼nchen	Bayer 05 Uerdingen	0:1	2:2	15.06.1991	15:30	1990	1991	34
+Werder Bremen	VfL Bochum	2:0	2:1	15.06.1991	15:30	1990	1991	34

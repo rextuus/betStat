@@ -1,0 +1,306 @@
+1. FSV Mainz 05	1. FC Kaiserslautern	3:0	3:3	15.08.2008	18:00	2008	2009	1
+Alemannia Aachen	SV Wehen Wiesbaden	1:1	2:1	15.08.2008	18:00	2008	2009	1
+FC St. Pauli	VfL OsnabrÃ¼ck	2:1	2:2	15.08.2008	18:00	2008	2009	1
+1. FC NÃ¼rnberg	FC Augsburg	1:0	2:1	17.08.2008	14:00	2008	2009	1
+SC Freiburg	TSV 1860 MÃ¼nchen	1:1	2:1	17.08.2008	14:00	2008	2009	1
+Rot Weiss Ahlen	FSV Frankfurt	0:0	2:1	17.08.2008	14:00	2008	2009	1
+FC Ingolstadt 04	SpVgg Greuther FÃ¼rth	2:1	3:2	17.08.2008	14:00	2008	2009	1
+TuS Koblenz	Rot-WeiÃ Oberhausen	2:0	3:0	17.08.2008	14:00	2008	2009	1
+MSV Duisburg	Hansa Rostock	1:1	2:2	18.08.2008	20:15	2008	2009	1
+SpVgg Greuther FÃ¼rth	FC St. Pauli	1:1	5:2	22.08.2008	18:00	2008	2009	2
+VfL OsnabrÃ¼ck	SC Freiburg	0:0	2:2	22.08.2008	18:00	2008	2009	2
+FSV Frankfurt	TuS Koblenz	0:0	0:0	22.08.2008	18:00	2008	2009	2
+Hansa Rostock	Alemannia Aachen	0:0	1:0	24.08.2008	14:00	2008	2009	2
+SV Wehen Wiesbaden	MSV Duisburg	1:1	1:1	24.08.2008	14:00	2008	2009	2
+TSV 1860 MÃ¼nchen	1. FSV Mainz 05	0:2	1:2	24.08.2008	14:00	2008	2009	2
+FC Augsburg	Rot Weiss Ahlen	2:0	3:0	24.08.2008	14:00	2008	2009	2
+Rot-WeiÃ Oberhausen	FC Ingolstadt 04	2:1	2:1	24.08.2008	14:00	2008	2009	2
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	2:0	2:1	25.08.2008	20:15	2008	2009	2
+MSV Duisburg	FC Augsburg	1:0	2:0	29.08.2008	18:00	2008	2009	3
+1. FSV Mainz 05	VfL OsnabrÃ¼ck	2:1	4:2	29.08.2008	18:00	2008	2009	3
+FC Ingolstadt 04	1. FC Kaiserslautern	1:0	1:3	29.08.2008	18:00	2008	2009	3
+1. FC NÃ¼rnberg	Alemannia Aachen	0:2	2:2	31.08.2008	14:00	2008	2009	3
+FC St. Pauli	Rot-WeiÃ Oberhausen	3:0	4:1	31.08.2008	14:00	2008	2009	3
+TuS Koblenz	SV Wehen Wiesbaden	0:0	0:0	31.08.2008	14:00	2008	2009	3
+Rot Weiss Ahlen	TSV 1860 MÃ¼nchen	0:0	2:1	31.08.2008	14:00	2008	2009	3
+FSV Frankfurt	SpVgg Greuther FÃ¼rth	1:0	1:1	31.08.2008	14:00	2008	2009	3
+SC Freiburg	Hansa Rostock	1:0	1:0	01.09.2008	20:15	2008	2009	3
+Alemannia Aachen	FC Ingolstadt 04	1:0	1:0	12.09.2008	18:00	2008	2009	4
+1. FC Kaiserslautern	FC St. Pauli	1:0	4:1	12.09.2008	18:00	2008	2009	4
+Rot-WeiÃ Oberhausen	Rot Weiss Ahlen	1:1	1:3	12.09.2008	18:00	2008	2009	4
+Hansa Rostock	1. FSV Mainz 05	0:0	2:2	14.09.2008	14:00	2008	2009	4
+SpVgg Greuther FÃ¼rth	TuS Koblenz	3:1	4:3	14.09.2008	14:00	2008	2009	4
+SV Wehen Wiesbaden	1. FC NÃ¼rnberg	2:0	2:2	14.09.2008	14:00	2008	2009	4
+VfL OsnabrÃ¼ck	FSV Frankfurt	1:0	3:2	14.09.2008	14:00	2008	2009	4
+FC Augsburg	SC Freiburg	1:2	1:3	14.09.2008	14:00	2008	2009	4
+TSV 1860 MÃ¼nchen	MSV Duisburg	1:0	2:0	15.09.2008	20:15	2008	2009	4
+MSV Duisburg	Alemannia Aachen	3:0	3:2	19.09.2008	18:00	2008	2009	5
+1. FSV Mainz 05	1. FC NÃ¼rnberg	1:0	2:0	19.09.2008	18:00	2008	2009	5
+FC St. Pauli	TSV 1860 MÃ¼nchen	1:0	1:0	19.09.2008	18:00	2008	2009	5
+TuS Koblenz	FC Augsburg	2:1	2:1	19.09.2008	18:00	2008	2009	5
+Rot Weiss Ahlen	Hansa Rostock	1:1	2:2	19.09.2008	18:00	2008	2009	5
+SC Freiburg	SV Wehen Wiesbaden	1:0	5:0	21.09.2008	14:00	2008	2009	5
+FSV Frankfurt	Rot-WeiÃ Oberhausen	1:1	3:1	21.09.2008	14:00	2008	2009	5
+FC Ingolstadt 04	VfL OsnabrÃ¼ck	1:0	2:1	21.09.2008	14:00	2008	2009	5
+SpVgg Greuther FÃ¼rth	1. FC Kaiserslautern	0:0	0:1	22.09.2008	20:15	2008	2009	5
+Hansa Rostock	FC St. Pauli	1:0	3:0	26.09.2008	18:00	2008	2009	6
+VfL OsnabrÃ¼ck	TuS Koblenz	1:0	1:0	26.09.2008	18:00	2008	2009	6
+Rot-WeiÃ Oberhausen	SpVgg Greuther FÃ¼rth	0:2	0:4	26.09.2008	18:00	2008	2009	6
+Alemannia Aachen	SC Freiburg	0:0	1:0	28.09.2008	14:00	2008	2009	6
+SV Wehen Wiesbaden	Rot Weiss Ahlen	0:2	1:3	28.09.2008	14:00	2008	2009	6
+TSV 1860 MÃ¼nchen	FC Ingolstadt 04	1:0	1:1	28.09.2008	14:00	2008	2009	6
+1. FC Kaiserslautern	FSV Frankfurt	0:0	2:1	28.09.2008	14:00	2008	2009	6
+FC Augsburg	1. FSV Mainz 05	0:1	0:2	28.09.2008	14:00	2008	2009	6
+1. FC NÃ¼rnberg	MSV Duisburg	0:1	0:1	29.09.2008	20:15	2008	2009	6
+SC Freiburg	MSV Duisburg	1:0	2:0	03.10.2008	18:00	2008	2009	7
+FSV Frankfurt	TSV 1860 MÃ¼nchen	0:0	0:3	03.10.2008	18:00	2008	2009	7
+Rot-WeiÃ Oberhausen	FC Augsburg	2:1	2:1	03.10.2008	18:00	2008	2009	7
+SpVgg Greuther FÃ¼rth	VfL OsnabrÃ¼ck	3:0	4:2	05.10.2008	14:00	2008	2009	7
+FC St. Pauli	Alemannia Aachen	2:1	3:2	05.10.2008	14:00	2008	2009	7
+TuS Koblenz	1. FC Kaiserslautern	2:0	5:0	05.10.2008	14:00	2008	2009	7
+Rot Weiss Ahlen	1. FC NÃ¼rnberg	1:1	1:1	05.10.2008	14:00	2008	2009	7
+FC Ingolstadt 04	Hansa Rostock	1:1	4:2	05.10.2008	14:00	2008	2009	7
+1. FSV Mainz 05	SV Wehen Wiesbaden	2:0	5:0	06.10.2008	20:15	2008	2009	7
+1. FC NÃ¼rnberg	SC Freiburg	0:0	2:0	17.10.2008	18:00	2008	2009	8
+VfL OsnabrÃ¼ck	Rot-WeiÃ Oberhausen	1:1	2:1	17.10.2008	18:00	2008	2009	8
+1. FC Kaiserslautern	Rot Weiss Ahlen	0:1	4:1	17.10.2008	18:00	2008	2009	8
+Hansa Rostock	TuS Koblenz	3:0	9:0	19.10.2008	14:00	2008	2009	8
+MSV Duisburg	FC Ingolstadt 04	2:1	6:1	19.10.2008	14:00	2008	2009	8
+SV Wehen Wiesbaden	FSV Frankfurt	1:0	3:1	19.10.2008	14:00	2008	2009	8
+TSV 1860 MÃ¼nchen	SpVgg Greuther FÃ¼rth	0:1	3:1	19.10.2008	14:00	2008	2009	8
+FC Augsburg	FC St. Pauli	0:0	3:2	19.10.2008	14:00	2008	2009	8
+Alemannia Aachen	1. FSV Mainz 05	2:0	2:0	20.10.2008	20:15	2008	2009	8
+SpVgg Greuther FÃ¼rth	Alemannia Aachen	1:1	1:1	24.10.2008	18:00	2008	2009	9
+FC St. Pauli	SV Wehen Wiesbaden	0:0	2:0	24.10.2008	18:00	2008	2009	9
+Rot Weiss Ahlen	SC Freiburg	0:2	0:3	24.10.2008	18:00	2008	2009	9
+FSV Frankfurt	Hansa Rostock	0:0	0:0	24.10.2008	18:00	2008	2009	9
+FC Ingolstadt 04	FC Augsburg	1:2	1:2	24.10.2008	18:00	2008	2009	9
+1. FSV Mainz 05	MSV Duisburg	0:0	0:0	26.10.2008	14:00	2008	2009	9
+TuS Koblenz	1. FC NÃ¼rnberg	0:1	1:1	26.10.2008	14:00	2008	2009	9
+VfL OsnabrÃ¼ck	TSV 1860 MÃ¼nchen	0:1	0:2	26.10.2008	14:00	2008	2009	9
+Rot-WeiÃ Oberhausen	1. FC Kaiserslautern	1:1	2:1	26.10.2008	14:00	2008	2009	9
+Hansa Rostock	SpVgg Greuther FÃ¼rth	1:0	1:2	28.10.2008	17:30	2008	2009	10
+Alemannia Aachen	Rot Weiss Ahlen	0:1	0:2	28.10.2008	17:30	2008	2009	10
+SV Wehen Wiesbaden	FC Ingolstadt 04	0:0	0:0	28.10.2008	17:30	2008	2009	10
+FC Augsburg	FSV Frankfurt	1:1	2:2	28.10.2008	17:30	2008	2009	10
+1. FC NÃ¼rnberg	Rot-WeiÃ Oberhausen	2:1	2:1	29.10.2008	17:30	2008	2009	10
+MSV Duisburg	FC St. Pauli	0:0	1:2	29.10.2008	17:30	2008	2009	10
+SC Freiburg	1. FSV Mainz 05	0:1	0:1	29.10.2008	17:30	2008	2009	10
+TSV 1860 MÃ¼nchen	TuS Koblenz	0:0	1:0	29.10.2008	17:30	2008	2009	10
+1. FC Kaiserslautern	VfL OsnabrÃ¼ck	0:0	2:0	29.10.2008	17:30	2008	2009	10
+SpVgg Greuther FÃ¼rth	SV Wehen Wiesbaden	0:1	1:1	31.10.2008	18:00	2008	2009	11
+FSV Frankfurt	Alemannia Aachen	0:1	0:3	31.10.2008	18:00	2008	2009	11
+FC St. Pauli	1. FC NÃ¼rnberg	0:0	1:0	02.11.2008	14:00	2008	2009	11
+TuS Koblenz	MSV Duisburg	0:0	1:1	02.11.2008	14:00	2008	2009	11
+VfL OsnabrÃ¼ck	FC Augsburg	1:1	1:1	02.11.2008	14:00	2008	2009	11
+Rot Weiss Ahlen	1. FSV Mainz 05	0:0	0:2	02.11.2008	14:00	2008	2009	11
+Rot-WeiÃ Oberhausen	Hansa Rostock	0:0	1:0	02.11.2008	14:00	2008	2009	11
+FC Ingolstadt 04	SC Freiburg	2:0	4:0	02.11.2008	14:00	2008	2009	11
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	0:0	0:0	03.11.2008	20:15	2008	2009	11
+1. FC NÃ¼rnberg	FSV Frankfurt	0:0	0:0	07.11.2008	18:00	2008	2009	12
+Alemannia Aachen	TuS Koblenz	2:0	2:0	07.11.2008	18:00	2008	2009	12
+SV Wehen Wiesbaden	1. FC Kaiserslautern	0:0	4:2	07.11.2008	18:00	2008	2009	12
+Hansa Rostock	VfL OsnabrÃ¼ck	2:0	2:2	09.11.2008	14:00	2008	2009	12
+MSV Duisburg	Rot Weiss Ahlen	0:1	0:1	09.11.2008	14:00	2008	2009	12
+1. FSV Mainz 05	FC Ingolstadt 04	0:2	0:3	09.11.2008	14:00	2008	2009	12
+TSV 1860 MÃ¼nchen	Rot-WeiÃ Oberhausen	0:1	0:1	09.11.2008	14:00	2008	2009	12
+FC Augsburg	SpVgg Greuther FÃ¼rth	0:1	1:1	09.11.2008	14:00	2008	2009	12
+SC Freiburg	FC St. Pauli	0:0	2:0	10.11.2008	20:15	2008	2009	12
+FC St. Pauli	Rot Weiss Ahlen	2:2	2:2	14.11.2008	18:00	2008	2009	13
+TSV 1860 MÃ¼nchen	FC Augsburg	0:1	0:1	14.11.2008	18:00	2008	2009	13
+VfL OsnabrÃ¼ck	SV Wehen Wiesbaden	1:1	1:1	14.11.2008	18:00	2008	2009	13
+SpVgg Greuther FÃ¼rth	MSV Duisburg	1:2	4:3	16.11.2008	14:00	2008	2009	13
+TuS Koblenz	1. FSV Mainz 05	0:1	0:3	16.11.2008	14:00	2008	2009	13
+FSV Frankfurt	SC Freiburg	0:1	1:2	16.11.2008	14:00	2008	2009	13
+Rot-WeiÃ Oberhausen	Alemannia Aachen	1:0	1:1	16.11.2008	14:00	2008	2009	13
+FC Ingolstadt 04	1. FC NÃ¼rnberg	0:1	0:3	16.11.2008	14:00	2008	2009	13
+1. FC Kaiserslautern	Hansa Rostock	2:0	6:0	17.11.2008	20:15	2008	2009	13
+MSV Duisburg	FSV Frankfurt	0:0	0:0	21.11.2008	18:00	2008	2009	14
+Alemannia Aachen	VfL OsnabrÃ¼ck	0:0	3:1	21.11.2008	18:00	2008	2009	14
+Rot Weiss Ahlen	FC Ingolstadt 04	0:0	3:0	21.11.2008	18:00	2008	2009	14
+1. FC NÃ¼rnberg	SpVgg Greuther FÃ¼rth	0:1	2:1	23.11.2008	14:00	2008	2009	14
+1. FSV Mainz 05	FC St. Pauli	0:1	2:2	23.11.2008	14:00	2008	2009	14
+SC Freiburg	TuS Koblenz	0:0	1:1	23.11.2008	14:00	2008	2009	14
+SV Wehen Wiesbaden	Rot-WeiÃ Oberhausen	0:0	0:0	23.11.2008	14:00	2008	2009	14
+FC Augsburg	1. FC Kaiserslautern	1:0	1:0	23.11.2008	14:00	2008	2009	14
+Hansa Rostock	TSV 1860 MÃ¼nchen	0:0	0:1	24.11.2008	20:15	2008	2009	14
+TuS Koblenz	Rot Weiss Ahlen	3:1	4:1	28.11.2008	18:00	2008	2009	15
+VfL OsnabrÃ¼ck	1. FC NÃ¼rnberg	0:1	1:1	28.11.2008	18:00	2008	2009	15
+1. FC Kaiserslautern	Alemannia Aachen	0:0	1:1	28.11.2008	18:00	2008	2009	15
+SpVgg Greuther FÃ¼rth	SC Freiburg	1:1	1:1	30.11.2008	14:00	2008	2009	15
+FC St. Pauli	FC Ingolstadt 04	1:0	1:0	30.11.2008	14:00	2008	2009	15
+TSV 1860 MÃ¼nchen	SV Wehen Wiesbaden	2:0	3:3	30.11.2008	14:00	2008	2009	15
+FC Augsburg	Hansa Rostock	1:0	2:0	30.11.2008	14:00	2008	2009	15
+Rot-WeiÃ Oberhausen	MSV Duisburg	0:2	0:3	30.11.2008	14:00	2008	2009	15
+FSV Frankfurt	1. FSV Mainz 05	0:1	1:4	01.12.2008	20:15	2008	2009	15
+1. FSV Mainz 05	SpVgg Greuther FÃ¼rth	0:0	0:1	05.12.2008	18:00	2008	2009	16
+Alemannia Aachen	TSV 1860 MÃ¼nchen	1:0	2:0	05.12.2008	18:00	2008	2009	16
+FC Ingolstadt 04	FSV Frankfurt	0:1	1:1	05.12.2008	18:00	2008	2009	16
+MSV Duisburg	1. FC Kaiserslautern	0:0	0:0	07.12.2008	14:00	2008	2009	16
+SC Freiburg	Rot-WeiÃ Oberhausen	0:1	2:1	07.12.2008	14:00	2008	2009	16
+SV Wehen Wiesbaden	FC Augsburg	0:0	1:2	07.12.2008	14:00	2008	2009	16
+FC St. Pauli	TuS Koblenz	1:1	3:2	07.12.2008	14:00	2008	2009	16
+Rot Weiss Ahlen	VfL OsnabrÃ¼ck	1:0	1:2	07.12.2008	14:00	2008	2009	16
+1. FC NÃ¼rnberg	Hansa Rostock	3:0	4:0	08.12.2008	20:15	2008	2009	16
+TuS Koblenz	FC Ingolstadt 04	0:1	0:1	12.12.2008	18:00	2008	2009	17
+VfL OsnabrÃ¼ck	MSV Duisburg	1:1	1:1	12.12.2008	18:00	2008	2009	17
+FSV Frankfurt	FC St. Pauli	0:0	1:0	12.12.2008	18:00	2008	2009	17
+Hansa Rostock	SV Wehen Wiesbaden	1:0	1:0	14.12.2008	14:00	2008	2009	17
+SpVgg Greuther FÃ¼rth	Rot Weiss Ahlen	1:0	3:0	14.12.2008	14:00	2008	2009	17
+TSV 1860 MÃ¼nchen	1. FC NÃ¼rnberg	0:1	1:1	14.12.2008	14:00	2008	2009	17
+FC Augsburg	Alemannia Aachen	0:0	3:1	14.12.2008	14:00	2008	2009	17
+Rot-WeiÃ Oberhausen	1. FSV Mainz 05	1:1	2:1	14.12.2008	14:00	2008	2009	17
+1. FC Kaiserslautern	SC Freiburg	0:0	2:0	15.12.2008	20:15	2008	2009	17
+FC Augsburg	1. FC NÃ¼rnberg	0:0	0:0	30.01.2009	18:00	2008	2009	18
+VfL OsnabrÃ¼ck	FC St. Pauli	1:0	2:2	30.01.2009	18:00	2008	2009	18
+Rot-WeiÃ Oberhausen	TuS Koblenz	0:0	0:0	30.01.2009	18:00	2008	2009	18
+Hansa Rostock	MSV Duisburg	0:0	0:1	01.02.2009	14:00	2008	2009	18
+TSV 1860 MÃ¼nchen	SC Freiburg	0:1	0:2	01.02.2009	14:00	2008	2009	18
+SV Wehen Wiesbaden	Alemannia Aachen	1:0	1:0	01.02.2009	14:00	2008	2009	18
+FSV Frankfurt	Rot Weiss Ahlen	2:0	4:0	01.02.2009	14:00	2008	2009	18
+SpVgg Greuther FÃ¼rth	FC Ingolstadt 04	5:1	6:1	01.02.2009	14:00	2008	2009	18
+1. FC Kaiserslautern	1. FSV Mainz 05	0:1	1:1	02.02.2009	20:15	2008	2009	18
+Alemannia Aachen	Hansa Rostock	0:1	3:3	06.02.2009	18:00	2008	2009	19
+SC Freiburg	VfL OsnabrÃ¼ck	1:0	4:1	06.02.2009	18:00	2008	2009	19
+TuS Koblenz	FSV Frankfurt	1:2	1:3	06.02.2009	18:00	2008	2009	19
+FC St. Pauli	SpVgg Greuther FÃ¼rth	0:2	0:3	08.02.2009	14:00	2008	2009	19
+MSV Duisburg	SV Wehen Wiesbaden	2:1	2:1	08.02.2009	14:00	2008	2009	19
+1. FSV Mainz 05	TSV 1860 MÃ¼nchen	2:1	2:2	08.02.2009	14:00	2008	2009	19
+Rot Weiss Ahlen	FC Augsburg	0:1	2:1	08.02.2009	14:00	2008	2009	19
+FC Ingolstadt 04	Rot-WeiÃ Oberhausen	0:0	0:0	08.02.2009	14:00	2008	2009	19
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	2:0	3:0	09.02.2009	20:15	2008	2009	19
+Rot-WeiÃ Oberhausen	FC St. Pauli	3:1	3:2	13.02.2009	18:00	2008	2009	20
+SV Wehen Wiesbaden	TuS Koblenz	0:2	1:3	13.02.2009	18:00	2008	2009	20
+SpVgg Greuther FÃ¼rth	FSV Frankfurt	0:0	0:0	13.02.2009	18:00	2008	2009	20
+Alemannia Aachen	1. FC NÃ¼rnberg	4:1	6:2	15.02.2009	14:00	2008	2009	20
+FC Augsburg	MSV Duisburg	1:1	1:1	15.02.2009	14:00	2008	2009	20
+VfL OsnabrÃ¼ck	1. FSV Mainz 05	1:2	1:3	15.02.2009	14:00	2008	2009	20
+TSV 1860 MÃ¼nchen	Rot Weiss Ahlen	1:0	2:1	15.02.2009	14:00	2008	2009	20
+1. FC Kaiserslautern	FC Ingolstadt 04	1:0	2:0	15.02.2009	14:00	2008	2009	20
+Hansa Rostock	SC Freiburg	1:1	1:3	16.02.2009	20:15	2008	2009	20
+1. FSV Mainz 05	Hansa Rostock	1:1	3:1	20.02.2009	18:00	2008	2009	21
+FC Ingolstadt 04	Alemannia Aachen	0:0	0:0	20.02.2009	18:00	2008	2009	21
+SC Freiburg	FC Augsburg	0:0	1:0	20.02.2009	18:00	2008	2009	21
+TuS Koblenz	SpVgg Greuther FÃ¼rth	2:0	3:0	22.02.2009	14:00	2008	2009	21
+1. FC NÃ¼rnberg	SV Wehen Wiesbaden	0:0	1:0	22.02.2009	14:00	2008	2009	21
+MSV Duisburg	TSV 1860 MÃ¼nchen	2:0	4:1	22.02.2009	14:00	2008	2009	21
+FSV Frankfurt	VfL OsnabrÃ¼ck	0:0	1:0	22.02.2009	14:00	2008	2009	21
+Rot Weiss Ahlen	Rot-WeiÃ Oberhausen	0:1	1:3	22.02.2009	14:00	2008	2009	21
+FC St. Pauli	1. FC Kaiserslautern	0:0	2:0	23.02.2009	20:15	2008	2009	21
+1. FC NÃ¼rnberg	1. FSV Mainz 05	0:0	0:0	27.02.2009	18:00	2008	2009	22
+SV Wehen Wiesbaden	SC Freiburg	0:1	0:1	27.02.2009	18:00	2008	2009	22
+Hansa Rostock	Rot Weiss Ahlen	0:0	0:0	27.02.2009	18:00	2008	2009	22
+1. FC Kaiserslautern	SpVgg Greuther FÃ¼rth	1:1	1:2	01.03.2009	14:00	2008	2009	22
+TSV 1860 MÃ¼nchen	FC St. Pauli	4:1	5:1	01.03.2009	14:00	2008	2009	22
+FC Augsburg	TuS Koblenz	0:2	0:2	01.03.2009	14:00	2008	2009	22
+Rot-WeiÃ Oberhausen	FSV Frankfurt	0:0	2:0	01.03.2009	14:00	2008	2009	22
+VfL OsnabrÃ¼ck	FC Ingolstadt 04	1:0	1:0	01.03.2009	14:00	2008	2009	22
+Alemannia Aachen	MSV Duisburg	1:1	1:2	02.03.2009	20:15	2008	2009	22
+FC St. Pauli	Hansa Rostock	0:2	3:2	06.03.2009	18:00	2008	2009	23
+TuS Koblenz	VfL OsnabrÃ¼ck	2:0	3:0	06.03.2009	18:00	2008	2009	23
+FSV Frankfurt	1. FC Kaiserslautern	0:0	1:0	06.03.2009	18:00	2008	2009	23
+SC Freiburg	Alemannia Aachen	1:0	2:1	08.03.2009	14:00	2008	2009	23
+Rot Weiss Ahlen	SV Wehen Wiesbaden	1:0	1:0	08.03.2009	14:00	2008	2009	23
+FC Ingolstadt 04	TSV 1860 MÃ¼nchen	2:3	2:3	08.03.2009	14:00	2008	2009	23
+1. FSV Mainz 05	FC Augsburg	0:1	1:1	08.03.2009	14:00	2008	2009	23
+SpVgg Greuther FÃ¼rth	Rot-WeiÃ Oberhausen	0:1	3:1	08.03.2009	14:00	2008	2009	23
+MSV Duisburg	1. FC NÃ¼rnberg	0:0	2:2	09.03.2009	20:15	2008	2009	23
+1. FC Kaiserslautern	TuS Koblenz	1:1	2:1	13.03.2009	18:00	2008	2009	24
+1. FC NÃ¼rnberg	Rot Weiss Ahlen	2:0	4:0	13.03.2009	18:00	2008	2009	24
+TSV 1860 MÃ¼nchen	FSV Frankfurt	0:1	1:1	13.03.2009	18:00	2008	2009	24
+MSV Duisburg	SC Freiburg	0:0	2:0	15.03.2009	14:00	2008	2009	24
+VfL OsnabrÃ¼ck	SpVgg Greuther FÃ¼rth	1:1	5:1	15.03.2009	14:00	2008	2009	24
+Alemannia Aachen	FC St. Pauli	0:1	1:3	15.03.2009	14:00	2008	2009	24
+FC Augsburg	Rot-WeiÃ Oberhausen	0:1	1:2	15.03.2009	14:00	2008	2009	24
+Hansa Rostock	FC Ingolstadt 04	1:1	1:1	15.03.2009	14:00	2008	2009	24
+SV Wehen Wiesbaden	1. FSV Mainz 05	0:1	0:2	16.03.2009	20:15	2008	2009	24
+TuS Koblenz	Hansa Rostock	1:1	1:1	20.03.2009	18:00	2008	2009	25
+FSV Frankfurt	SV Wehen Wiesbaden	1:0	2:1	20.03.2009	18:00	2008	2009	25
+Rot-WeiÃ Oberhausen	VfL OsnabrÃ¼ck	0:0	0:0	20.03.2009	18:00	2008	2009	25
+FC Ingolstadt 04	MSV Duisburg	0:0	0:0	22.03.2009	14:00	2008	2009	25
+1. FSV Mainz 05	Alemannia Aachen	0:2	1:4	22.03.2009	14:00	2008	2009	25
+SpVgg Greuther FÃ¼rth	TSV 1860 MÃ¼nchen	0:0	1:0	22.03.2009	14:00	2008	2009	25
+Rot Weiss Ahlen	1. FC Kaiserslautern	0:0	0:1	22.03.2009	14:00	2008	2009	25
+FC St. Pauli	FC Augsburg	0:0	1:1	22.03.2009	14:00	2008	2009	25
+SC Freiburg	1. FC NÃ¼rnberg	0:0	0:1	23.03.2009	20:15	2008	2009	25
+MSV Duisburg	1. FSV Mainz 05	0:1	0:1	03.04.2009	18:00	2008	2009	26
+1. FC NÃ¼rnberg	TuS Koblenz	1:0	2:0	03.04.2009	18:00	2008	2009	26
+FC Augsburg	FC Ingolstadt 04	0:1	1:1	03.04.2009	18:00	2008	2009	26
+Alemannia Aachen	SpVgg Greuther FÃ¼rth	0:0	1:0	05.04.2009	14:00	2008	2009	26
+SV Wehen Wiesbaden	FC St. Pauli	1:1	3:1	05.04.2009	14:00	2008	2009	26
+TSV 1860 MÃ¼nchen	VfL OsnabrÃ¼ck	0:1	1:1	05.04.2009	14:00	2008	2009	26
+Hansa Rostock	FSV Frankfurt	1:0	2:0	05.04.2009	14:00	2008	2009	26
+1. FC Kaiserslautern	Rot-WeiÃ Oberhausen	1:0	1:1	05.04.2009	14:00	2008	2009	26
+SC Freiburg	Rot Weiss Ahlen	0:0	1:1	06.04.2009	20:15	2008	2009	26
+Rot-WeiÃ Oberhausen	1. FC NÃ¼rnberg	0:2	0:3	09.04.2009	18:00	2008	2009	27
+SpVgg Greuther FÃ¼rth	Hansa Rostock	0:0	0:1	09.04.2009	18:00	2008	2009	27
+FC Ingolstadt 04	SV Wehen Wiesbaden	0:0	0:0	09.04.2009	18:00	2008	2009	27
+FC St. Pauli	MSV Duisburg	1:0	2:2	12.04.2009	14:00	2008	2009	27
+Rot Weiss Ahlen	Alemannia Aachen	0:2	0:2	12.04.2009	14:00	2008	2009	27
+TuS Koblenz	TSV 1860 MÃ¼nchen	2:0	3:2	12.04.2009	14:00	2008	2009	27
+VfL OsnabrÃ¼ck	1. FC Kaiserslautern	0:2	0:2	12.04.2009	14:00	2008	2009	27
+FSV Frankfurt	FC Augsburg	1:0	2:1	12.04.2009	14:00	2008	2009	27
+1. FSV Mainz 05	SC Freiburg	1:0	1:2	13.04.2009	20:15	2008	2009	27
+FC Augsburg	VfL OsnabrÃ¼ck	2:0	3:0	17.04.2009	18:00	2008	2009	28
+1. FSV Mainz 05	Rot Weiss Ahlen	0:0	0:0	17.04.2009	18:00	2008	2009	28
+Hansa Rostock	Rot-WeiÃ Oberhausen	2:1	3:1	17.04.2009	18:00	2008	2009	28
+SV Wehen Wiesbaden	SpVgg Greuther FÃ¼rth	0:1	0:1	19.04.2009	14:00	2008	2009	28
+1. FC NÃ¼rnberg	FC St. Pauli	1:0	2:0	19.04.2009	14:00	2008	2009	28
+MSV Duisburg	TuS Koblenz	1:1	2:3	19.04.2009	14:00	2008	2009	28
+Alemannia Aachen	FSV Frankfurt	0:0	2:0	19.04.2009	14:00	2008	2009	28
+SC Freiburg	FC Ingolstadt 04	2:0	3:2	19.04.2009	14:00	2008	2009	28
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	1:1	1:1	20.04.2009	20:15	2008	2009	28
+Rot Weiss Ahlen	MSV Duisburg	0:2	0:2	24.04.2009	18:00	2008	2009	29
+FC St. Pauli	SC Freiburg	1:0	1:2	24.04.2009	18:00	2008	2009	29
+SpVgg Greuther FÃ¼rth	FC Augsburg	2:0	2:1	24.04.2009	18:00	2008	2009	29
+FSV Frankfurt	1. FC NÃ¼rnberg	1:1	2:1	26.04.2009	14:00	2008	2009	29
+FC Ingolstadt 04	1. FSV Mainz 05	1:1	3:4	26.04.2009	14:00	2008	2009	29
+TuS Koblenz	Alemannia Aachen	0:0	0:2	26.04.2009	14:00	2008	2009	29
+1. FC Kaiserslautern	SV Wehen Wiesbaden	0:0	1:0	26.04.2009	14:00	2008	2009	29
+Rot-WeiÃ Oberhausen	TSV 1860 MÃ¼nchen	1:1	1:1	26.04.2009	14:00	2008	2009	29
+VfL OsnabrÃ¼ck	Hansa Rostock	0:0	0:0	27.04.2009	20:15	2008	2009	29
+FC Augsburg	TSV 1860 MÃ¼nchen	1:0	3:0	01.05.2009	18:00	2008	2009	30
+SV Wehen Wiesbaden	VfL OsnabrÃ¼ck	0:0	0:1	01.05.2009	18:00	2008	2009	30
+Hansa Rostock	1. FC Kaiserslautern	2:0	5:1	01.05.2009	18:00	2008	2009	30
+Rot Weiss Ahlen	FC St. Pauli	0:0	1:0	03.05.2009	14:00	2008	2009	30
+1. FSV Mainz 05	TuS Koblenz	1:0	2:0	03.05.2009	14:00	2008	2009	30
+SC Freiburg	FSV Frankfurt	2:0	4:1	03.05.2009	14:00	2008	2009	30
+Alemannia Aachen	Rot-WeiÃ Oberhausen	1:1	2:2	03.05.2009	14:00	2008	2009	30
+1. FC NÃ¼rnberg	FC Ingolstadt 04	1:0	1:0	03.05.2009	14:00	2008	2009	30
+MSV Duisburg	SpVgg Greuther FÃ¼rth	0:0	2:0	04.05.2009	20:15	2008	2009	30
+TSV 1860 MÃ¼nchen	Hansa Rostock	1:2	3:3	08.05.2009	18:00	2008	2009	31
+FSV Frankfurt	MSV Duisburg	0:0	0:0	08.05.2009	18:00	2008	2009	31
+VfL OsnabrÃ¼ck	Alemannia Aachen	1:0	2:1	08.05.2009	18:00	2008	2009	31
+Rot-WeiÃ Oberhausen	SV Wehen Wiesbaden	0:1	0:1	08.05.2009	18:00	2008	2009	31
+1. FC Kaiserslautern	FC Augsburg	1:0	1:0	08.05.2009	18:00	2008	2009	31
+SpVgg Greuther FÃ¼rth	1. FC NÃ¼rnberg	0:0	1:1	10.05.2009	14:00	2008	2009	31
+FC St. Pauli	1. FSV Mainz 05	1:0	2:0	10.05.2009	14:00	2008	2009	31
+TuS Koblenz	SC Freiburg	2:2	2:5	10.05.2009	14:00	2008	2009	31
+FC Ingolstadt 04	Rot Weiss Ahlen	0:0	0:2	10.05.2009	14:00	2008	2009	31
+SV Wehen Wiesbaden	TSV 1860 MÃ¼nchen	0:0	0:0	12.05.2009	17:30	2008	2009	32
+Alemannia Aachen	1. FC Kaiserslautern	0:0	1:0	12.05.2009	17:30	2008	2009	32
+Hansa Rostock	FC Augsburg	1:1	3:3	12.05.2009	17:30	2008	2009	32
+MSV Duisburg	Rot-WeiÃ Oberhausen	0:1	1:1	12.05.2009	17:30	2008	2009	32
+SC Freiburg	SpVgg Greuther FÃ¼rth	0:0	0:0	13.05.2009	17:30	2008	2009	32
+Rot Weiss Ahlen	TuS Koblenz	0:0	1:1	13.05.2009	17:30	2008	2009	32
+1. FC NÃ¼rnberg	VfL OsnabrÃ¼ck	1:0	2:0	13.05.2009	17:30	2008	2009	32
+1. FSV Mainz 05	FSV Frankfurt	1:0	2:1	13.05.2009	17:30	2008	2009	32
+FC Ingolstadt 04	FC St. Pauli	0:0	0:1	14.05.2009	20:15	2008	2009	32
+Hansa Rostock	1. FC NÃ¼rnberg	0:0	0:0	17.05.2009	14:00	2008	2009	33
+1. FC Kaiserslautern	MSV Duisburg	0:3	3:5	17.05.2009	14:00	2008	2009	33
+SpVgg Greuther FÃ¼rth	1. FSV Mainz 05	0:0	0:2	17.05.2009	14:00	2008	2009	33
+Rot-WeiÃ Oberhausen	SC Freiburg	0:0	1:0	17.05.2009	14:00	2008	2009	33
+TSV 1860 MÃ¼nchen	Alemannia Aachen	1:0	1:1	17.05.2009	14:00	2008	2009	33
+FC Augsburg	SV Wehen Wiesbaden	0:0	1:1	17.05.2009	14:00	2008	2009	33
+TuS Koblenz	FC St. Pauli	2:1	2:1	17.05.2009	14:00	2008	2009	33
+VfL OsnabrÃ¼ck	Rot Weiss Ahlen	1:1	2:2	17.05.2009	14:00	2008	2009	33
+FSV Frankfurt	FC Ingolstadt 04	0:0	1:1	17.05.2009	14:00	2008	2009	33
+SV Wehen Wiesbaden	Hansa Rostock	1:0	1:1	24.05.2009	14:00	2008	2009	34
+Rot Weiss Ahlen	SpVgg Greuther FÃ¼rth	1:2	2:4	24.05.2009	14:00	2008	2009	34
+FC Ingolstadt 04	TuS Koblenz	2:0	4:0	24.05.2009	14:00	2008	2009	34
+1. FC NÃ¼rnberg	TSV 1860 MÃ¼nchen	2:0	2:1	24.05.2009	14:00	2008	2009	34
+MSV Duisburg	VfL OsnabrÃ¼ck	2:0	4:1	24.05.2009	14:00	2008	2009	34
+SC Freiburg	1. FC Kaiserslautern	2:1	4:3	24.05.2009	14:00	2008	2009	34
+Alemannia Aachen	FC Augsburg	3:0	4:0	24.05.2009	14:00	2008	2009	34
+FC St. Pauli	FSV Frankfurt	1:0	2:0	24.05.2009	14:00	2008	2009	34
+1. FSV Mainz 05	Rot-WeiÃ Oberhausen	2:0	4:0	24.05.2009	14:00	2008	2009	34

@@ -1,0 +1,306 @@
+Hannover 96	1. FC NÃ¼rnberg	0:0	1:1	11.08.2000	19:00	2000	2001	1
+Stuttgarter Kickers	Rot-WeiÃ Oberhausen	1:0	1:0	11.08.2000	19:00	2000	2001	1
+LR Ahlen	FC St. Pauli	2:2	3:6	12.08.2000	15:00	2000	2001	1
+Bor. MÃ¶nchengladbach	1. FC SaarbrÃ¼cken	0:0	0:0	12.08.2000	15:00	2000	2001	1
+Waldhof Mannheim	Alemannia Aachen	1:0	3:0	13.08.2000	15:00	2000	2001	1
+SSV Reutlingen	1. FSV Mainz 05	1:1	3:2	13.08.2000	15:00	2000	2001	1
+SpVgg Greuther FÃ¼rth	Chemnitzer FC	1:0	4:1	13.08.2000	15:00	2000	2001	1
+Arminia Bielefeld	VfL OsnabrÃ¼ck	1:1	3:1	13.08.2000	15:00	2000	2001	1
+MSV Duisburg	SSV Ulm 1846	0:1	1:2	14.08.2000	20:15	2000	2001	1
+Chemnitzer FC	Hannover 96	0:0	0:2	18.08.2000	19:00	2000	2001	2
+FC St. Pauli	Waldhof Mannheim	4:0	5:0	18.08.2000	19:00	2000	2001	2
+VfL OsnabrÃ¼ck	Bor. MÃ¶nchengladbach	1:0	1:3	19.08.2000	15:00	2000	2001	2
+Alemannia Aachen	SSV Reutlingen	1:0	4:1	19.08.2000	15:00	2000	2001	2
+1. FC SaarbrÃ¼cken	SpVgg Greuther FÃ¼rth	1:1	2:1	20.08.2000	15:00	2000	2001	2
+Rot-WeiÃ Oberhausen	MSV Duisburg	1:0	1:0	20.08.2000	15:00	2000	2001	2
+1. FC NÃ¼rnberg	LR Ahlen	2:0	2:0	20.08.2000	15:00	2000	2001	2
+1. FSV Mainz 05	Stuttgarter Kickers	1:2	2:2	20.08.2000	15:00	2000	2001	2
+SSV Ulm 1846	Arminia Bielefeld	0:1	0:1	21.08.2000	20:15	2000	2001	2
+Bor. MÃ¶nchengladbach	SSV Ulm 1846	2:0	5:0	04.09.2000	20:15	2000	2001	3
+Chemnitzer FC	1. FC SaarbrÃ¼cken	0:2	1:3	05.09.2000	19:00	2000	2001	3
+Hannover 96	LR Ahlen	0:1	1:1	05.09.2000	19:00	2000	2001	3
+MSV Duisburg	1. FSV Mainz 05	0:0	0:0	05.09.2000	19:00	2000	2001	3
+SSV Reutlingen	FC St. Pauli	0:0	2:0	05.09.2000	19:00	2000	2001	3
+Arminia Bielefeld	Rot-WeiÃ Oberhausen	2:0	2:0	05.09.2000	19:00	2000	2001	3
+Waldhof Mannheim	1. FC NÃ¼rnberg	0:2	1:4	06.09.2000	19:00	2000	2001	3
+Stuttgarter Kickers	Alemannia Aachen	0:0	0:3	06.09.2000	19:00	2000	2001	3
+SpVgg Greuther FÃ¼rth	VfL OsnabrÃ¼ck	1:0	2:0	06.09.2000	19:00	2000	2001	3
+1. FC SaarbrÃ¼cken	Hannover 96	1:0	2:1	08.09.2000	19:00	2000	2001	4
+1. FSV Mainz 05	Arminia Bielefeld	2:4	2:4	08.09.2000	19:00	2000	2001	4
+LR Ahlen	Waldhof Mannheim	1:0	1:2	09.09.2000	15:00	2000	2001	4
+1. FC NÃ¼rnberg	SSV Reutlingen	2:0	2:0	09.09.2000	15:00	2000	2001	4
+FC St. Pauli	Stuttgarter Kickers	2:0	4:0	10.09.2000	15:00	2000	2001	4
+Rot-WeiÃ Oberhausen	Bor. MÃ¶nchengladbach	0:1	1:1	10.09.2000	15:00	2000	2001	4
+SSV Ulm 1846	SpVgg Greuther FÃ¼rth	0:0	2:2	10.09.2000	15:00	2000	2001	4
+VfL OsnabrÃ¼ck	Chemnitzer FC	1:0	1:1	10.09.2000	15:00	2000	2001	4
+Alemannia Aachen	MSV Duisburg	0:0	1:0	11.09.2000	20:15	2000	2001	4
+MSV Duisburg	FC St. Pauli	3:1	4:1	15.09.2000	19:00	2000	2001	5
+Hannover 96	Waldhof Mannheim	0:0	3:0	15.09.2000	19:00	2000	2001	5
+SSV Reutlingen	LR Ahlen	1:1	5:1	16.09.2000	15:00	2000	2001	5
+Bor. MÃ¶nchengladbach	1. FSV Mainz 05	1:1	1:1	16.09.2000	15:00	2000	2001	5
+1. FC SaarbrÃ¼cken	VfL OsnabrÃ¼ck	1:1	2:1	17.09.2000	15:00	2000	2001	5
+Chemnitzer FC	SSV Ulm 1846	1:0	1:0	17.09.2000	15:00	2000	2001	5
+Stuttgarter Kickers	1. FC NÃ¼rnberg	0:0	0:2	17.09.2000	15:00	2000	2001	5
+SpVgg Greuther FÃ¼rth	Rot-WeiÃ Oberhausen	1:0	1:2	17.09.2000	15:00	2000	2001	5
+Arminia Bielefeld	Alemannia Aachen	1:1	1:1	18.09.2000	20:15	2000	2001	5
+SSV Ulm 1846	1. FC SaarbrÃ¼cken	1:0	3:1	22.09.2000	19:00	2000	2001	6
+1. FC NÃ¼rnberg	MSV Duisburg	1:1	3:1	22.09.2000	19:00	2000	2001	6
+Waldhof Mannheim	SSV Reutlingen	0:1	1:1	23.09.2000	15:00	2000	2001	6
+FC St. Pauli	Arminia Bielefeld	0:0	2:0	23.09.2000	15:00	2000	2001	6
+LR Ahlen	Stuttgarter Kickers	0:0	1:1	24.09.2000	15:00	2000	2001	6
+Rot-WeiÃ Oberhausen	Chemnitzer FC	2:0	4:1	24.09.2000	15:00	2000	2001	6
+VfL OsnabrÃ¼ck	Hannover 96	0:0	0:1	24.09.2000	15:00	2000	2001	6
+1. FSV Mainz 05	SpVgg Greuther FÃ¼rth	1:0	1:0	24.09.2000	15:00	2000	2001	6
+Alemannia Aachen	Bor. MÃ¶nchengladbach	1:1	1:1	25.09.2000	20:15	2000	2001	6
+1. FC SaarbrÃ¼cken	Rot-WeiÃ Oberhausen	2:0	3:2	29.09.2000	19:00	2000	2001	7
+MSV Duisburg	LR Ahlen	1:2	3:3	29.09.2000	19:00	2000	2001	7
+Stuttgarter Kickers	Waldhof Mannheim	1:1	2:2	30.09.2000	15:00	2000	2001	7
+Bor. MÃ¶nchengladbach	FC St. Pauli	1:1	4:2	30.09.2000	15:00	2000	2001	7
+Chemnitzer FC	1. FSV Mainz 05	0:0	0:2	01.10.2000	15:00	2000	2001	7
+Hannover 96	SSV Reutlingen	2:1	5:1	01.10.2000	15:00	2000	2001	7
+VfL OsnabrÃ¼ck	SSV Ulm 1846	2:0	2:1	01.10.2000	15:00	2000	2001	7
+SpVgg Greuther FÃ¼rth	Alemannia Aachen	1:0	3:0	01.10.2000	15:00	2000	2001	7
+Arminia Bielefeld	1. FC NÃ¼rnberg	1:0	1:2	02.10.2000	20:15	2000	2001	7
+Waldhof Mannheim	MSV Duisburg	1:0	1:0	13.10.2000	19:00	2000	2001	8
+Alemannia Aachen	Chemnitzer FC	0:1	1:2	13.10.2000	19:00	2000	2001	8
+LR Ahlen	Arminia Bielefeld	1:0	1:1	14.10.2000	15:00	2000	2001	8
+1. FSV Mainz 05	1. FC SaarbrÃ¼cken	1:0	1:0	14.10.2000	15:00	2000	2001	8
+FC St. Pauli	SpVgg Greuther FÃ¼rth	3:0	3:3	15.10.2000	15:00	2000	2001	8
+Rot-WeiÃ Oberhausen	VfL OsnabrÃ¼ck	1:0	5:2	15.10.2000	15:00	2000	2001	8
+SSV Ulm 1846	Hannover 96	1:0	3:3	15.10.2000	15:00	2000	2001	8
+SSV Reutlingen	Stuttgarter Kickers	0:0	1:0	15.10.2000	15:00	2000	2001	8
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	1:0	2:1	16.10.2000	20:15	2000	2001	8
+Chemnitzer FC	FC St. Pauli	1:0	1:3	20.10.2000	19:00	2000	2001	9
+Arminia Bielefeld	Waldhof Mannheim	0:0	0:0	20.10.2000	19:00	2000	2001	9
+Hannover 96	Stuttgarter Kickers	0:0	1:0	21.10.2000	15:00	2000	2001	9
+SpVgg Greuther FÃ¼rth	1. FC NÃ¼rnberg	0:0	0:0	21.10.2000	15:00	2000	2001	9
+1. FC SaarbrÃ¼cken	Alemannia Aachen	1:0	1:3	22.10.2000	15:00	2000	2001	9
+MSV Duisburg	SSV Reutlingen	2:1	4:3	22.10.2000	15:00	2000	2001	9
+SSV Ulm 1846	Rot-WeiÃ Oberhausen	0:0	0:1	22.10.2000	15:00	2000	2001	9
+VfL OsnabrÃ¼ck	1. FSV Mainz 05	1:0	2:1	22.10.2000	15:00	2000	2001	9
+Bor. MÃ¶nchengladbach	LR Ahlen	0:0	1:2	23.10.2000	20:15	2000	2001	9
+SSV Reutlingen	Arminia Bielefeld	2:1	3:2	27.10.2000	19:00	2000	2001	10
+1. FC NÃ¼rnberg	Chemnitzer FC	2:0	3:1	27.10.2000	19:00	2000	2001	10
+Alemannia Aachen	VfL OsnabrÃ¼ck	0:0	0:0	28.10.2000	15:00	2000	2001	10
+1. FSV Mainz 05	SSV Ulm 1846	0:0	0:3	28.10.2000	15:00	2000	2001	10
+Waldhof Mannheim	Bor. MÃ¶nchengladbach	1:0	4:0	29.10.2000	15:00	2000	2001	10
+LR Ahlen	SpVgg Greuther FÃ¼rth	1:0	2:0	29.10.2000	15:00	2000	2001	10
+FC St. Pauli	1. FC SaarbrÃ¼cken	2:0	2:2	29.10.2000	15:00	2000	2001	10
+Rot-WeiÃ Oberhausen	Hannover 96	0:0	0:0	29.10.2000	15:00	2000	2001	10
+Stuttgarter Kickers	MSV Duisburg	0:0	0:0	29.10.2000	15:00	2000	2001	10
+Chemnitzer FC	LR Ahlen	2:1	2:2	03.11.2000	19:00	2000	2001	11
+Arminia Bielefeld	Stuttgarter Kickers	0:0	0:0	03.11.2000	19:00	2000	2001	11
+Hannover 96	MSV Duisburg	0:0	0:2	04.11.2000	15:00	2000	2001	11
+Rot-WeiÃ Oberhausen	1. FSV Mainz 05	0:0	1:0	04.11.2000	15:00	2000	2001	11
+SSV Ulm 1846	Alemannia Aachen	0:0	3:1	05.11.2000	15:00	2000	2001	11
+VfL OsnabrÃ¼ck	FC St. Pauli	0:0	0:0	05.11.2000	15:00	2000	2001	11
+SpVgg Greuther FÃ¼rth	Waldhof Mannheim	1:1	2:1	05.11.2000	15:00	2000	2001	11
+Bor. MÃ¶nchengladbach	SSV Reutlingen	1:1	1:1	05.11.2000	15:00	2000	2001	11
+1. FC SaarbrÃ¼cken	1. FC NÃ¼rnberg	1:0	2:2	06.11.2000	20:15	2000	2001	11
+Waldhof Mannheim	Chemnitzer FC	0:0	0:0	10.11.2000	19:00	2000	2001	12
+MSV Duisburg	Arminia Bielefeld	1:0	2:1	10.11.2000	19:00	2000	2001	12
+FC St. Pauli	SSV Ulm 1846	1:0	1:0	11.11.2000	15:00	2000	2001	12
+1. FSV Mainz 05	Hannover 96	0:0	0:2	11.11.2000	15:00	2000	2001	12
+LR Ahlen	1. FC SaarbrÃ¼cken	1:0	2:0	12.11.2000	15:00	2000	2001	12
+Stuttgarter Kickers	Bor. MÃ¶nchengladbach	0:0	1:1	12.11.2000	15:00	2000	2001	12
+SSV Reutlingen	SpVgg Greuther FÃ¼rth	1:1	2:2	12.11.2000	15:00	2000	2001	12
+Alemannia Aachen	Rot-WeiÃ Oberhausen	3:0	3:1	12.11.2000	15:00	2000	2001	12
+1. FC NÃ¼rnberg	VfL OsnabrÃ¼ck	2:0	3:1	13.11.2000	20:15	2000	2001	12
+SSV Ulm 1846	1. FC NÃ¼rnberg	0:1	0:1	17.11.2000	19:00	2000	2001	13
+1. FSV Mainz 05	Alemannia Aachen	0:0	1:1	17.11.2000	19:00	2000	2001	13
+VfL OsnabrÃ¼ck	LR Ahlen	0:1	1:1	18.11.2000	15:00	2000	2001	13
+Chemnitzer FC	SSV Reutlingen	1:2	1:3	19.11.2000	15:00	2000	2001	13
+Rot-WeiÃ Oberhausen	FC St. Pauli	2:1	2:3	19.11.2000	15:00	2000	2001	13
+SpVgg Greuther FÃ¼rth	Stuttgarter Kickers	0:0	2:0	19.11.2000	15:00	2000	2001	13
+Bor. MÃ¶nchengladbach	MSV Duisburg	0:1	1:1	19.11.2000	15:00	2000	2001	13
+1. FC SaarbrÃ¼cken	Waldhof Mannheim	2:2	3:3	20.11.2000	19:00	2000	2001	13
+Hannover 96	Arminia Bielefeld	3:1	4:2	20.11.2000	20:15	2000	2001	13
+MSV Duisburg	SpVgg Greuther FÃ¼rth	0:0	0:0	24.11.2000	19:00	2000	2001	14
+Alemannia Aachen	Hannover 96	0:3	0:4	24.11.2000	19:00	2000	2001	14
+LR Ahlen	SSV Ulm 1846	1:0	1:0	25.11.2000	15:00	2000	2001	14
+Arminia Bielefeld	Bor. MÃ¶nchengladbach	1:0	1:2	25.11.2000	15:00	2000	2001	14
+Waldhof Mannheim	VfL OsnabrÃ¼ck	0:0	2:0	26.11.2000	15:00	2000	2001	14
+Stuttgarter Kickers	Chemnitzer FC	1:0	4:0	26.11.2000	15:00	2000	2001	14
+SSV Reutlingen	1. FC SaarbrÃ¼cken	3:0	8:2	26.11.2000	15:00	2000	2001	14
+1. FC NÃ¼rnberg	Rot-WeiÃ Oberhausen	1:0	2:1	26.11.2000	15:00	2000	2001	14
+FC St. Pauli	1. FSV Mainz 05	0:0	2:2	27.11.2000	20:15	2000	2001	14
+Chemnitzer FC	MSV Duisburg	1:1	1:3	01.12.2000	19:00	2000	2001	15
+SpVgg Greuther FÃ¼rth	Arminia Bielefeld	0:0	1:0	01.12.2000	19:00	2000	2001	15
+1. FC SaarbrÃ¼cken	Stuttgarter Kickers	0:0	1:0	02.12.2000	15:00	2000	2001	15
+VfL OsnabrÃ¼ck	SSV Reutlingen	0:1	0:2	02.12.2000	15:00	2000	2001	15
+FC St. Pauli	Alemannia Aachen	1:2	3:3	03.12.2000	15:00	2000	2001	15
+Rot-WeiÃ Oberhausen	LR Ahlen	0:0	1:0	03.12.2000	15:00	2000	2001	15
+SSV Ulm 1846	Waldhof Mannheim	1:0	1:0	03.12.2000	15:00	2000	2001	15
+1. FSV Mainz 05	1. FC NÃ¼rnberg	1:0	2:0	03.12.2000	15:00	2000	2001	15
+Bor. MÃ¶nchengladbach	Hannover 96	1:0	2:0	04.12.2000	20:15	2000	2001	15
+MSV Duisburg	1. FC SaarbrÃ¼cken	1:1	2:1	08.12.2000	19:00	2000	2001	16
+SSV Reutlingen	SSV Ulm 1846	1:1	2:2	08.12.2000	19:00	2000	2001	16
+Stuttgarter Kickers	VfL OsnabrÃ¼ck	1:0	2:1	09.12.2000	15:00	2000	2001	16
+Arminia Bielefeld	Chemnitzer FC	2:0	5:1	09.12.2000	15:00	2000	2001	16
+Waldhof Mannheim	Rot-WeiÃ Oberhausen	1:0	5:0	10.12.2000	15:00	2000	2001	16
+LR Ahlen	1. FSV Mainz 05	1:0	1:0	10.12.2000	15:00	2000	2001	16
+1. FC NÃ¼rnberg	Alemannia Aachen	3:1	6:1	10.12.2000	15:00	2000	2001	16
+Bor. MÃ¶nchengladbach	SpVgg Greuther FÃ¼rth	1:0	3:1	10.12.2000	15:00	2000	2001	16
+Hannover 96	FC St. Pauli	1:0	1:1	11.12.2000	20:15	2000	2001	16
+1. FC SaarbrÃ¼cken	Arminia Bielefeld	1:0	1:0	12.12.2000	19:00	2000	2001	17
+SSV Ulm 1846	Stuttgarter Kickers	0:1	1:1	12.12.2000	19:00	2000	2001	17
+VfL OsnabrÃ¼ck	MSV Duisburg	1:1	1:3	12.12.2000	19:00	2000	2001	17
+Chemnitzer FC	Bor. MÃ¶nchengladbach	0:1	0:3	13.12.2000	19:00	2000	2001	17
+Rot-WeiÃ Oberhausen	SSV Reutlingen	1:0	2:0	13.12.2000	19:00	2000	2001	17
+Alemannia Aachen	LR Ahlen	1:1	4:3	13.12.2000	19:00	2000	2001	17
+1. FSV Mainz 05	Waldhof Mannheim	0:0	0:1	13.12.2000	19:00	2000	2001	17
+SpVgg Greuther FÃ¼rth	Hannover 96	1:0	2:1	14.12.2000	19:00	2000	2001	17
+FC St. Pauli	1. FC NÃ¼rnberg	0:0	1:0	14.12.2000	20:15	2000	2001	17
+VfL OsnabrÃ¼ck	Arminia Bielefeld	0:0	1:0	15.12.2000	19:00	2000	2001	18
+SSV Ulm 1846	MSV Duisburg	1:2	1:3	15.12.2000	19:00	2000	2001	18
+Rot-WeiÃ Oberhausen	Stuttgarter Kickers	1:1	1:3	16.12.2000	15:00	2000	2001	18
+1. FSV Mainz 05	SSV Reutlingen	0:0	1:1	16.12.2000	15:00	2000	2001	18
+1. FC NÃ¼rnberg	Hannover 96	2:1	4:2	17.12.2000	15:00	2000	2001	18
+FC St. Pauli	LR Ahlen	1:1	3:2	17.12.2000	15:00	2000	2001	18
+1. FC SaarbrÃ¼cken	Bor. MÃ¶nchengladbach	0:1	0:4	17.12.2000	15:00	2000	2001	18
+Chemnitzer FC	SpVgg Greuther FÃ¼rth	0:1	0:2	17.12.2000	15:00	2000	2001	18
+Alemannia Aachen	Waldhof Mannheim	0:0	0:1	18.12.2000	20:15	2000	2001	18
+Hannover 96	Chemnitzer FC	0:0	0:0	26.01.2001	19:00	2000	2001	19
+Waldhof Mannheim	FC St. Pauli	1:0	2:1	26.01.2001	19:00	2000	2001	19
+Bor. MÃ¶nchengladbach	VfL OsnabrÃ¼ck	0:0	0:0	27.01.2001	15:00	2000	2001	19
+SSV Reutlingen	Alemannia Aachen	1:1	3:1	27.01.2001	15:00	2000	2001	19
+SpVgg Greuther FÃ¼rth	1. FC SaarbrÃ¼cken	0:1	0:1	28.01.2001	15:00	2000	2001	19
+MSV Duisburg	Rot-WeiÃ Oberhausen	0:0	1:2	28.01.2001	15:00	2000	2001	19
+LR Ahlen	1. FC NÃ¼rnberg	0:1	0:1	28.01.2001	15:00	2000	2001	19
+Stuttgarter Kickers	1. FSV Mainz 05	0:0	0:0	28.01.2001	15:00	2000	2001	19
+Arminia Bielefeld	SSV Ulm 1846	1:1	1:1	29.01.2001	20:15	2000	2001	19
+1. FC NÃ¼rnberg	Waldhof Mannheim	0:0	1:0	02.02.2001	19:00	2000	2001	20
+LR Ahlen	Hannover 96	0:0	2:1	02.02.2001	19:00	2000	2001	20
+VfL OsnabrÃ¼ck	SpVgg Greuther FÃ¼rth	1:0	2:1	04.02.2001	15:00	2000	2001	20
+SSV Ulm 1846	Bor. MÃ¶nchengladbach	0:1	2:4	14.02.2001	19:00	2000	2001	20
+1. FC SaarbrÃ¼cken	Chemnitzer FC	1:1	4:1	14.02.2001	19:00	2000	2001	20
+Rot-WeiÃ Oberhausen	Arminia Bielefeld	0:0	0:0	14.02.2001	19:00	2000	2001	20
+Alemannia Aachen	Stuttgarter Kickers	0:0	3:0	28.02.2001	19:00	2000	2001	20
+1. FSV Mainz 05	MSV Duisburg	1:0	1:0	28.02.2001	19:00	2000	2001	20
+FC St. Pauli	SSV Reutlingen	1:0	1:0	01.03.2001	19:00	2000	2001	20
+Hannover 96	1. FC SaarbrÃ¼cken	1:0	3:0	09.02.2001	19:00	2000	2001	21
+Stuttgarter Kickers	FC St. Pauli	0:1	0:2	09.02.2001	19:00	2000	2001	21
+Bor. MÃ¶nchengladbach	Rot-WeiÃ Oberhausen	1:0	1:0	10.02.2001	15:00	2000	2001	21
+Chemnitzer FC	VfL OsnabrÃ¼ck	0:0	1:2	10.02.2001	15:00	2000	2001	21
+Arminia Bielefeld	1. FSV Mainz 05	2:0	4:1	11.02.2001	15:00	2000	2001	21
+Waldhof Mannheim	LR Ahlen	0:0	0:3	11.02.2001	15:00	2000	2001	21
+SSV Reutlingen	1. FC NÃ¼rnberg	0:1	3:2	11.02.2001	15:00	2000	2001	21
+SpVgg Greuther FÃ¼rth	SSV Ulm 1846	0:0	1:0	11.02.2001	15:00	2000	2001	21
+MSV Duisburg	Alemannia Aachen	0:0	4:0	12.02.2001	20:15	2000	2001	21
+Waldhof Mannheim	Hannover 96	1:0	2:1	16.02.2001	19:00	2000	2001	22
+1. FC NÃ¼rnberg	Stuttgarter Kickers	1:1	2:1	16.02.2001	19:00	2000	2001	22
+1. FSV Mainz 05	Bor. MÃ¶nchengladbach	0:0	0:1	17.02.2001	15:00	2000	2001	22
+Rot-WeiÃ Oberhausen	SpVgg Greuther FÃ¼rth	0:1	2:2	17.02.2001	15:00	2000	2001	22
+FC St. Pauli	MSV Duisburg	1:0	1:0	18.02.2001	15:00	2000	2001	22
+LR Ahlen	SSV Reutlingen	3:1	3:1	18.02.2001	15:00	2000	2001	22
+VfL OsnabrÃ¼ck	1. FC SaarbrÃ¼cken	1:1	2:2	18.02.2001	15:00	2000	2001	22
+SSV Ulm 1846	Chemnitzer FC	2:0	3:0	18.02.2001	15:00	2000	2001	22
+Alemannia Aachen	Arminia Bielefeld	1:0	1:0	19.02.2001	20:15	2000	2001	22
+1. FC SaarbrÃ¼cken	SSV Ulm 1846	0:1	1:1	23.02.2001	19:00	2000	2001	23
+MSV Duisburg	1. FC NÃ¼rnberg	1:2	3:2	23.02.2001	19:00	2000	2001	23
+Arminia Bielefeld	FC St. Pauli	1:0	3:3	24.02.2001	15:00	2000	2001	23
+Bor. MÃ¶nchengladbach	Alemannia Aachen	0:0	6:1	24.02.2001	15:00	2000	2001	23
+SSV Reutlingen	Waldhof Mannheim	0:1	1:1	25.02.2001	15:00	2000	2001	23
+SpVgg Greuther FÃ¼rth	1. FSV Mainz 05	1:0	3:1	25.02.2001	15:00	2000	2001	23
+Hannover 96	VfL OsnabrÃ¼ck	0:0	1:1	26.02.2001	20:15	2000	2001	23
+Stuttgarter Kickers	LR Ahlen	0:0	1:1	21.03.2001	19:00	2000	2001	23
+Chemnitzer FC	Rot-WeiÃ Oberhausen	0:0	0:1	21.03.2001	19:00	2000	2001	23
+SSV Ulm 1846	VfL OsnabrÃ¼ck	0:1	1:1	02.03.2001	19:00	2000	2001	24
+1. FSV Mainz 05	Chemnitzer FC	1:1	3:1	03.03.2001	15:00	2000	2001	24
+1. FC NÃ¼rnberg	Arminia Bielefeld	2:0	2:1	03.03.2001	15:00	2000	2001	24
+LR Ahlen	MSV Duisburg	1:1	3:2	04.03.2001	15:00	2000	2001	24
+Waldhof Mannheim	Stuttgarter Kickers	2:1	4:2	04.03.2001	15:00	2000	2001	24
+SSV Reutlingen	Hannover 96	2:0	3:0	04.03.2001	15:00	2000	2001	24
+Alemannia Aachen	SpVgg Greuther FÃ¼rth	0:0	0:0	04.03.2001	15:00	2000	2001	24
+FC St. Pauli	Bor. MÃ¶nchengladbach	0:1	0:2	05.03.2001	20:15	2000	2001	24
+Rot-WeiÃ Oberhausen	1. FC SaarbrÃ¼cken	1:0	4:1	11.04.2001	19:00	2000	2001	24
+MSV Duisburg	Waldhof Mannheim	0:0	0:1	09.03.2001	19:00	2000	2001	25
+VfL OsnabrÃ¼ck	Rot-WeiÃ Oberhausen	0:0	0:0	09.03.2001	19:00	2000	2001	25
+Arminia Bielefeld	LR Ahlen	0:0	1:1	10.03.2001	15:00	2000	2001	25
+1. FC SaarbrÃ¼cken	1. FSV Mainz 05	1:1	1:1	10.03.2001	15:00	2000	2001	25
+Chemnitzer FC	Alemannia Aachen	0:1	2:3	11.03.2001	15:00	2000	2001	25
+SpVgg Greuther FÃ¼rth	FC St. Pauli	2:0	5:1	11.03.2001	15:00	2000	2001	25
+Hannover 96	SSV Ulm 1846	1:0	2:0	11.03.2001	15:00	2000	2001	25
+Stuttgarter Kickers	SSV Reutlingen	1:0	1:0	11.03.2001	15:00	2000	2001	25
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	1:0	1:1	12.03.2001	20:15	2000	2001	25
+Stuttgarter Kickers	Hannover 96	1:0	2:0	16.03.2001	19:00	2000	2001	26
+Alemannia Aachen	1. FC SaarbrÃ¼cken	1:0	1:0	16.03.2001	19:00	2000	2001	26
+1. FC NÃ¼rnberg	SpVgg Greuther FÃ¼rth	0:1	0:1	17.03.2001	15:00	2000	2001	26
+Rot-WeiÃ Oberhausen	SSV Ulm 1846	2:1	3:1	17.03.2001	15:00	2000	2001	26
+FC St. Pauli	Chemnitzer FC	1:0	3:0	18.03.2001	15:00	2000	2001	26
+SSV Reutlingen	MSV Duisburg	0:1	0:1	18.03.2001	15:00	2000	2001	26
+1. FSV Mainz 05	VfL OsnabrÃ¼ck	1:0	2:0	18.03.2001	15:00	2000	2001	26
+LR Ahlen	Bor. MÃ¶nchengladbach	2:1	2:1	18.03.2001	15:00	2000	2001	26
+Waldhof Mannheim	Arminia Bielefeld	1:2	3:3	19.03.2001	20:15	2000	2001	26
+Chemnitzer FC	1. FC NÃ¼rnberg	0:1	1:1	30.03.2001	19:00	2000	2001	27
+1. FC SaarbrÃ¼cken	FC St. Pauli	1:0	1:0	30.03.2001	19:00	2000	2001	27
+Arminia Bielefeld	SSV Reutlingen	3:0	3:1	31.03.2001	15:00	2000	2001	27
+Hannover 96	Rot-WeiÃ Oberhausen	0:0	3:0	31.03.2001	15:00	2000	2001	27
+VfL OsnabrÃ¼ck	Alemannia Aachen	4:1	5:1	01.04.2001	15:00	2000	2001	27
+SSV Ulm 1846	1. FSV Mainz 05	0:0	0:2	01.04.2001	15:00	2000	2001	27
+SpVgg Greuther FÃ¼rth	LR Ahlen	0:0	2:4	01.04.2001	15:00	2000	2001	27
+MSV Duisburg	Stuttgarter Kickers	0:0	0:0	01.04.2001	15:00	2000	2001	27
+Bor. MÃ¶nchengladbach	Waldhof Mannheim	0:0	3:0	02.04.2001	20:15	2000	2001	27
+MSV Duisburg	Hannover 96	2:1	2:1	06.04.2001	19:00	2000	2001	28
+1. FC NÃ¼rnberg	1. FC SaarbrÃ¼cken	0:0	0:1	06.04.2001	19:00	2000	2001	28
+LR Ahlen	Chemnitzer FC	3:2	5:2	07.04.2001	15:00	2000	2001	28
+Waldhof Mannheim	SpVgg Greuther FÃ¼rth	1:1	2:1	07.04.2001	15:00	2000	2001	28
+Stuttgarter Kickers	Arminia Bielefeld	1:1	2:1	08.04.2001	15:00	2000	2001	28
+1. FSV Mainz 05	Rot-WeiÃ Oberhausen	0:0	1:0	08.04.2001	15:00	2000	2001	28
+Alemannia Aachen	SSV Ulm 1846	0:0	1:0	08.04.2001	15:00	2000	2001	28
+FC St. Pauli	VfL OsnabrÃ¼ck	0:3	2:4	08.04.2001	15:00	2000	2001	28
+SSV Reutlingen	Bor. MÃ¶nchengladbach	2:0	3:1	09.04.2001	20:15	2000	2001	28
+Chemnitzer FC	Waldhof Mannheim	0:0	0:0	12.04.2001	19:00	2000	2001	29
+Arminia Bielefeld	MSV Duisburg	0:0	1:1	12.04.2001	19:00	2000	2001	29
+Hannover 96	1. FSV Mainz 05	2:2	2:4	14.04.2001	15:00	2000	2001	29
+Rot-WeiÃ Oberhausen	Alemannia Aachen	0:0	3:0	14.04.2001	15:00	2000	2001	29
+SSV Ulm 1846	FC St. Pauli	0:3	1:4	15.04.2001	15:00	2000	2001	29
+Bor. MÃ¶nchengladbach	Stuttgarter Kickers	0:0	1:0	15.04.2001	15:00	2000	2001	29
+SpVgg Greuther FÃ¼rth	SSV Reutlingen	0:0	1:0	15.04.2001	15:00	2000	2001	29
+VfL OsnabrÃ¼ck	1. FC NÃ¼rnberg	1:1	2:1	16.04.2001	20:15	2000	2001	29
+1. FC SaarbrÃ¼cken	LR Ahlen	1:0	1:2	25.04.2001	19:00	2000	2001	29
+Alemannia Aachen	1. FSV Mainz 05	1:0	1:0	20.04.2001	19:00	2000	2001	30
+Waldhof Mannheim	1. FC SaarbrÃ¼cken	2:1	2:3	20.04.2001	19:00	2000	2001	30
+FC St. Pauli	Rot-WeiÃ Oberhausen	3:1	4:1	21.04.2001	15:00	2000	2001	30
+1. FC NÃ¼rnberg	SSV Ulm 1846	0:2	1:2	22.04.2001	15:00	2000	2001	30
+LR Ahlen	VfL OsnabrÃ¼ck	1:0	1:0	22.04.2001	15:00	2000	2001	30
+Stuttgarter Kickers	SpVgg Greuther FÃ¼rth	0:2	0:5	22.04.2001	15:00	2000	2001	30
+Arminia Bielefeld	Hannover 96	2:0	5:2	22.04.2001	15:00	2000	2001	30
+MSV Duisburg	Bor. MÃ¶nchengladbach	0:1	0:2	23.04.2001	20:15	2000	2001	30
+SSV Reutlingen	Chemnitzer FC	2:0	2:0	25.04.2001	19:00	2000	2001	30
+Hannover 96	Alemannia Aachen	0:0	0:0	27.04.2001	19:00	2000	2001	31
+Bor. MÃ¶nchengladbach	Arminia Bielefeld	0:0	0:1	27.04.2001	19:00	2000	2001	31
+Chemnitzer FC	Stuttgarter Kickers	0:0	0:2	28.04.2001	15:00	2000	2001	31
+1. FSV Mainz 05	FC St. Pauli	0:1	1:1	28.04.2001	15:00	2000	2001	31
+SSV Ulm 1846	LR Ahlen	0:0	2:0	29.04.2001	15:00	2000	2001	31
+VfL OsnabrÃ¼ck	Waldhof Mannheim	0:1	0:2	29.04.2001	15:00	2000	2001	31
+1. FC SaarbrÃ¼cken	SSV Reutlingen	1:1	2:2	29.04.2001	15:00	2000	2001	31
+Rot-WeiÃ Oberhausen	1. FC NÃ¼rnberg	0:2	1:2	29.04.2001	15:00	2000	2001	31
+SpVgg Greuther FÃ¼rth	MSV Duisburg	0:0	1:0	30.04.2001	20:15	2000	2001	31
+MSV Duisburg	Chemnitzer FC	1:0	1:1	04.05.2001	19:00	2000	2001	32
+Stuttgarter Kickers	1. FC SaarbrÃ¼cken	0:1	0:1	04.05.2001	19:00	2000	2001	32
+Alemannia Aachen	FC St. Pauli	0:1	0:1	05.05.2001	15:00	2000	2001	32
+Arminia Bielefeld	SpVgg Greuther FÃ¼rth	1:0	1:1	06.05.2001	15:00	2000	2001	32
+SSV Reutlingen	VfL OsnabrÃ¼ck	1:0	2:0	06.05.2001	15:00	2000	2001	32
+1. FC NÃ¼rnberg	1. FSV Mainz 05	0:0	1:0	06.05.2001	15:00	2000	2001	32
+Hannover 96	Bor. MÃ¶nchengladbach	0:0	0:0	07.05.2001	20:15	2000	2001	32
+LR Ahlen	Rot-WeiÃ Oberhausen	1:0	4:1	09.05.2001	19:00	2000	2001	32
+Waldhof Mannheim	SSV Ulm 1846	3:0	5:0	09.05.2001	19:00	2000	2001	32
+1. FC SaarbrÃ¼cken	MSV Duisburg	0:0	1:0	13.05.2001	15:00	2000	2001	33
+SSV Ulm 1846	SSV Reutlingen	0:0	2:3	13.05.2001	15:00	2000	2001	33
+VfL OsnabrÃ¼ck	Stuttgarter Kickers	2:0	4:1	13.05.2001	15:00	2000	2001	33
+Chemnitzer FC	Arminia Bielefeld	1:0	1:0	13.05.2001	15:00	2000	2001	33
+Rot-WeiÃ Oberhausen	Waldhof Mannheim	0:1	1:2	13.05.2001	15:00	2000	2001	33
+1. FSV Mainz 05	LR Ahlen	2:2	2:2	13.05.2001	15:00	2000	2001	33
+Alemannia Aachen	1. FC NÃ¼rnberg	0:0	0:1	13.05.2001	15:00	2000	2001	33
+SpVgg Greuther FÃ¼rth	Bor. MÃ¶nchengladbach	0:2	2:2	13.05.2001	15:00	2000	2001	33
+FC St. Pauli	Hannover 96	0:2	2:2	13.05.2001	15:00	2000	2001	33
+Arminia Bielefeld	1. FC SaarbrÃ¼cken	3:1	4:2	20.05.2001	15:00	2000	2001	34
+Stuttgarter Kickers	SSV Ulm 1846	2:3	2:4	20.05.2001	15:00	2000	2001	34
+MSV Duisburg	VfL OsnabrÃ¼ck	1:1	2:2	20.05.2001	15:00	2000	2001	34
+Bor. MÃ¶nchengladbach	Chemnitzer FC	2:0	3:0	20.05.2001	15:00	2000	2001	34
+SSV Reutlingen	Rot-WeiÃ Oberhausen	0:0	1:1	20.05.2001	15:00	2000	2001	34
+LR Ahlen	Alemannia Aachen	0:0	1:2	20.05.2001	15:00	2000	2001	34
+Waldhof Mannheim	1. FSV Mainz 05	1:0	4:0	20.05.2001	15:00	2000	2001	34
+Hannover 96	SpVgg Greuther FÃ¼rth	1:0	2:1	20.05.2001	15:00	2000	2001	34
+1. FC NÃ¼rnberg	FC St. Pauli	1:1	1:2	20.05.2001	15:00	2000	2001	34

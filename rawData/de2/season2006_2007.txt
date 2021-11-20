@@ -1,0 +1,306 @@
+1. FC Kaiserslautern	Rot-Weiss Essen	1:0	1:0	11.08.2006	18:00	2006	2007	1
+Wacker Burghausen	Karlsruher SC	0:1	0:4	11.08.2006	18:00	2006	2007	1
+Kickers Offenbach	FC Carl Zeiss Jena	2:0	2:2	11.08.2006	18:00	2006	2007	1
+MSV Duisburg	TuS Koblenz	1:0	2:1	13.08.2006	14:00	2006	2007	1
+SC Freiburg	Hansa Rostock	0:0	0:0	13.08.2006	14:00	2006	2007	1
+SpVgg Greuther FÃ¼rth	TSV 1860 MÃ¼nchen	0:0	1:1	13.08.2006	14:00	2006	2007	1
+Erzgebirge Aue	SpVgg Unterhaching	0:0	1:0	13.08.2006	14:00	2006	2007	1
+Eintracht Braunschweig	SC Paderborn 07	0:0	0:0	13.08.2006	14:00	2006	2007	1
+FC Augsburg	1. FC KÃ¶ln	0:1	0:2	14.08.2006	20:15	2006	2007	1
+Hansa Rostock	Erzgebirge Aue	1:0	1:0	18.08.2006	18:00	2006	2007	2
+TSV 1860 MÃ¼nchen	Kickers Offenbach	0:0	3:0	18.08.2006	18:00	2006	2007	2
+FC Carl Zeiss Jena	Eintracht Braunschweig	0:0	0:0	18.08.2006	18:00	2006	2007	2
+1. FC KÃ¶ln	Wacker Burghausen	3:0	5:1	20.08.2006	14:00	2006	2007	2
+SC Paderborn 07	FC Augsburg	0:0	1:0	20.08.2006	14:00	2006	2007	2
+SpVgg Unterhaching	MSV Duisburg	0:1	0:1	20.08.2006	14:00	2006	2007	2
+Rot-Weiss Essen	SC Freiburg	1:0	2:0	20.08.2006	14:00	2006	2007	2
+TuS Koblenz	SpVgg Greuther FÃ¼rth	0:0	1:0	20.08.2006	14:00	2006	2007	2
+Karlsruher SC	1. FC Kaiserslautern	1:0	2:0	21.08.2006	20:15	2006	2007	2
+SC Freiburg	SpVgg Unterhaching	0:0	1:1	25.08.2006	18:00	2006	2007	3
+Kickers Offenbach	Karlsruher SC	0:1	0:1	25.08.2006	18:00	2006	2007	3
+FC Carl Zeiss Jena	1. FC KÃ¶ln	2:2	3:2	25.08.2006	18:00	2006	2007	3
+1. FC Kaiserslautern	SC Paderborn 07	2:0	2:0	27.08.2006	14:00	2006	2007	3
+MSV Duisburg	Erzgebirge Aue	2:1	4:2	27.08.2006	14:00	2006	2007	3
+SpVgg Greuther FÃ¼rth	Hansa Rostock	1:1	1:3	27.08.2006	14:00	2006	2007	3
+Eintracht Braunschweig	TuS Koblenz	0:0	0:2	27.08.2006	14:00	2006	2007	3
+FC Augsburg	Rot-Weiss Essen	0:0	0:0	27.08.2006	14:00	2006	2007	3
+Wacker Burghausen	TSV 1860 MÃ¼nchen	0:1	0:2	28.08.2006	20:15	2006	2007	3
+1. FC KÃ¶ln	Eintracht Braunschweig	2:1	4:1	15.09.2006	18:00	2006	2007	4
+SpVgg Unterhaching	FC Augsburg	0:0	0:1	15.09.2006	18:00	2006	2007	4
+Rot-Weiss Essen	FC Carl Zeiss Jena	2:1	4:4	15.09.2006	18:00	2006	2007	4
+Karlsruher SC	MSV Duisburg	1:1	3:3	17.09.2006	14:00	2006	2007	4
+Erzgebirge Aue	SpVgg Greuther FÃ¼rth	0:2	0:3	17.09.2006	14:00	2006	2007	4
+SC Paderborn 07	Kickers Offenbach	1:1	2:1	17.09.2006	14:00	2006	2007	4
+TSV 1860 MÃ¼nchen	SC Freiburg	0:0	1:1	17.09.2006	14:00	2006	2007	4
+TuS Koblenz	Wacker Burghausen	1:0	1:2	17.09.2006	14:00	2006	2007	4
+Hansa Rostock	1. FC Kaiserslautern	1:0	2:0	18.09.2006	20:15	2006	2007	4
+1. FC Kaiserslautern	TuS Koblenz	0:2	4:3	22.09.2006	18:00	2006	2007	5
+SC Freiburg	SpVgg Greuther FÃ¼rth	1:2	3:3	22.09.2006	18:00	2006	2007	5
+Eintracht Braunschweig	Karlsruher SC	0:0	2:2	22.09.2006	18:00	2006	2007	5
+MSV Duisburg	TSV 1860 MÃ¼nchen	0:0	0:0	24.09.2006	14:00	2006	2007	5
+Wacker Burghausen	Erzgebirge Aue	1:0	1:1	24.09.2006	14:00	2006	2007	5
+Kickers Offenbach	SpVgg Unterhaching	1:1	1:1	24.09.2006	14:00	2006	2007	5
+FC Carl Zeiss Jena	SC Paderborn 07	0:0	1:1	24.09.2006	14:00	2006	2007	5
+FC Augsburg	Hansa Rostock	0:0	1:1	24.09.2006	14:00	2006	2007	5
+1. FC KÃ¶ln	Rot-Weiss Essen	0:0	1:0	25.09.2006	20:15	2006	2007	5
+SC Paderborn 07	1. FC KÃ¶ln	0:0	2:0	29.09.2006	18:00	2006	2007	6
+SpVgg Unterhaching	1. FC Kaiserslautern	0:0	1:1	29.09.2006	18:00	2006	2007	6
+TuS Koblenz	Kickers Offenbach	1:0	1:1	29.09.2006	18:00	2006	2007	6
+SpVgg Greuther FÃ¼rth	Wacker Burghausen	1:0	4:1	01.10.2006	14:00	2006	2007	6
+Karlsruher SC	FC Augsburg	2:1	3:2	01.10.2006	14:00	2006	2007	6
+Erzgebirge Aue	SC Freiburg	2:0	3:1	01.10.2006	14:00	2006	2007	6
+TSV 1860 MÃ¼nchen	FC Carl Zeiss Jena	0:0	2:0	01.10.2006	14:00	2006	2007	6
+Rot-Weiss Essen	Eintracht Braunschweig	1:0	2:0	01.10.2006	14:00	2006	2007	6
+Hansa Rostock	MSV Duisburg	0:0	1:0	02.10.2006	20:15	2006	2007	6
+MSV Duisburg	SC Freiburg	1:1	1:1	13.10.2006	18:00	2006	2007	7
+Eintracht Braunschweig	TSV 1860 MÃ¼nchen	0:0	2:0	13.10.2006	18:00	2006	2007	7
+FC Augsburg	SpVgg Greuther FÃ¼rth	1:0	1:0	13.10.2006	18:00	2006	2007	7
+1. FC Kaiserslautern	Erzgebirge Aue	1:0	4:0	15.10.2006	14:00	2006	2007	7
+Wacker Burghausen	Hansa Rostock	0:0	0:1	15.10.2006	14:00	2006	2007	7
+SC Paderborn 07	TuS Koblenz	1:0	1:2	15.10.2006	14:00	2006	2007	7
+Kickers Offenbach	Rot-Weiss Essen	1:0	1:0	15.10.2006	14:00	2006	2007	7
+FC Carl Zeiss Jena	SpVgg Unterhaching	0:1	0:2	15.10.2006	14:00	2006	2007	7
+1. FC KÃ¶ln	Karlsruher SC	0:0	1:1	16.10.2006	20:15	2006	2007	7
+SC Freiburg	Wacker Burghausen	0:0	2:0	20.10.2006	18:00	2006	2007	8
+SpVgg Greuther FÃ¼rth	MSV Duisburg	2:0	3:5	20.10.2006	18:00	2006	2007	8
+Karlsruher SC	FC Carl Zeiss Jena	3:0	4:1	20.10.2006	18:00	2006	2007	8
+SpVgg Unterhaching	1. FC KÃ¶ln	0:0	0:0	20.10.2006	18:00	2006	2007	8
+Erzgebirge Aue	Eintracht Braunschweig	0:0	3:0	22.10.2006	14:00	2006	2007	8
+Hansa Rostock	Kickers Offenbach	0:1	2:1	22.10.2006	14:00	2006	2007	8
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	0:0	0:1	22.10.2006	14:00	2006	2007	8
+Rot-Weiss Essen	SC Paderborn 07	1:0	2:2	22.10.2006	14:00	2006	2007	8
+TuS Koblenz	FC Augsburg	0:1	1:1	23.10.2006	20:15	2006	2007	8
+Eintracht Braunschweig	SpVgg Greuther FÃ¼rth	0:1	0:2	27.10.2006	18:00	2006	2007	9
+FC Carl Zeiss Jena	TuS Koblenz	0:0	2:0	27.10.2006	18:00	2006	2007	9
+FC Augsburg	TSV 1860 MÃ¼nchen	2:0	3:0	27.10.2006	18:00	2006	2007	9
+1. FC KÃ¶ln	Hansa Rostock	1:1	2:2	29.10.2006	14:00	2006	2007	9
+Wacker Burghausen	MSV Duisburg	1:1	1:1	29.10.2006	14:00	2006	2007	9
+SC Paderborn 07	SpVgg Unterhaching	1:0	2:0	29.10.2006	14:00	2006	2007	9
+Kickers Offenbach	Erzgebirge Aue	1:0	3:1	29.10.2006	14:00	2006	2007	9
+Rot-Weiss Essen	Karlsruher SC	1:1	1:2	29.10.2006	14:00	2006	2007	9
+1. FC Kaiserslautern	SC Freiburg	1:1	1:3	30.10.2006	20:15	2006	2007	9
+SC Freiburg	Eintracht Braunschweig	0:0	1:0	03.11.2006	18:00	2006	2007	10
+Karlsruher SC	SC Paderborn 07	1:0	3:0	03.11.2006	18:00	2006	2007	10
+Hansa Rostock	FC Carl Zeiss Jena	0:0	1:1	03.11.2006	18:00	2006	2007	10
+TSV 1860 MÃ¼nchen	Rot-Weiss Essen	0:0	2:0	03.11.2006	18:00	2006	2007	10
+SpVgg Unterhaching	Wacker Burghausen	0:0	0:2	03.11.2006	18:00	2006	2007	10
+TuS Koblenz	1. FC KÃ¶ln	0:0	3:1	03.11.2006	18:00	2006	2007	10
+MSV Duisburg	1. FC Kaiserslautern	1:1	1:1	05.11.2006	14:00	2006	2007	10
+SpVgg Greuther FÃ¼rth	Kickers Offenbach	0:0	2:0	05.11.2006	14:00	2006	2007	10
+Erzgebirge Aue	FC Augsburg	0:1	1:1	05.11.2006	14:00	2006	2007	10
+Karlsruher SC	TSV 1860 MÃ¼nchen	0:0	4:1	07.11.2006	17:30	2006	2007	11
+SC Paderborn 07	Hansa Rostock	0:0	0:2	07.11.2006	17:30	2006	2007	11
+Eintracht Braunschweig	SpVgg Unterhaching	1:1	2:3	07.11.2006	17:30	2006	2007	11
+Rot-Weiss Essen	TuS Koblenz	0:0	0:1	07.11.2006	17:30	2006	2007	11
+1. FC Kaiserslautern	Wacker Burghausen	1:0	4:0	08.11.2006	17:30	2006	2007	11
+1. FC KÃ¶ln	Erzgebirge Aue	0:1	0:1	08.11.2006	17:30	2006	2007	11
+Kickers Offenbach	MSV Duisburg	0:0	0:0	08.11.2006	17:30	2006	2007	11
+FC Carl Zeiss Jena	SpVgg Greuther FÃ¼rth	1:0	1:1	08.11.2006	17:30	2006	2007	11
+FC Augsburg	SC Freiburg	2:0	2:0	08.11.2006	17:30	2006	2007	11
+Hansa Rostock	Eintracht Braunschweig	2:0	4:0	10.11.2006	18:00	2006	2007	12
+TSV 1860 MÃ¼nchen	SC Paderborn 07	0:0	1:0	10.11.2006	18:00	2006	2007	12
+TuS Koblenz	Karlsruher SC	0:1	1:1	10.11.2006	18:00	2006	2007	12
+MSV Duisburg	FC Augsburg	3:0	3:0	12.11.2006	14:00	2006	2007	12
+SC Freiburg	1. FC KÃ¶ln	0:0	0:0	12.11.2006	14:00	2006	2007	12
+Erzgebirge Aue	FC Carl Zeiss Jena	2:0	5:1	12.11.2006	14:00	2006	2007	12
+Wacker Burghausen	Kickers Offenbach	2:0	4:1	12.11.2006	14:00	2006	2007	12
+SpVgg Unterhaching	Rot-Weiss Essen	1:1	2:1	12.11.2006	14:00	2006	2007	12
+SpVgg Greuther FÃ¼rth	1. FC Kaiserslautern	1:1	2:2	13.11.2006	20:15	2006	2007	12
+Kickers Offenbach	1. FC Kaiserslautern	0:0	0:1	17.11.2006	18:00	2006	2007	13
+Eintracht Braunschweig	MSV Duisburg	0:1	1:1	17.11.2006	18:00	2006	2007	13
+FC Carl Zeiss Jena	SC Freiburg	0:1	2:1	17.11.2006	18:00	2006	2007	13
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	1:0	1:2	19.11.2006	14:00	2006	2007	13
+SC Paderborn 07	SpVgg Greuther FÃ¼rth	0:0	0:0	19.11.2006	14:00	2006	2007	13
+Rot-Weiss Essen	Erzgebirge Aue	0:0	0:1	19.11.2006	14:00	2006	2007	13
+TuS Koblenz	SpVgg Unterhaching	0:0	0:0	19.11.2006	14:00	2006	2007	13
+FC Augsburg	Wacker Burghausen	1:0	1:0	19.11.2006	14:00	2006	2007	13
+Karlsruher SC	Hansa Rostock	3:0	4:4	20.11.2006	20:15	2006	2007	13
+1. FC Kaiserslautern	FC Augsburg	0:0	0:0	24.11.2006	18:00	2006	2007	14
+MSV Duisburg	FC Carl Zeiss Jena	3:0	4:0	24.11.2006	18:00	2006	2007	14
+Hansa Rostock	Rot-Weiss Essen	1:0	2:0	24.11.2006	18:00	2006	2007	14
+SC Freiburg	Kickers Offenbach	1:2	1:3	26.11.2006	14:00	2006	2007	14
+SpVgg Greuther FÃ¼rth	1. FC KÃ¶ln	0:1	1:2	26.11.2006	14:00	2006	2007	14
+Erzgebirge Aue	SC Paderborn 07	0:0	1:0	26.11.2006	14:00	2006	2007	14
+Wacker Burghausen	Eintracht Braunschweig	0:1	1:1	26.11.2006	14:00	2006	2007	14
+SpVgg Unterhaching	Karlsruher SC	0:1	0:1	26.11.2006	14:00	2006	2007	14
+TSV 1860 MÃ¼nchen	TuS Koblenz	1:0	2:1	27.11.2006	20:15	2006	2007	14
+SC Paderborn 07	SC Freiburg	1:0	1:1	01.12.2006	18:00	2006	2007	15
+Rot-Weiss Essen	SpVgg Greuther FÃ¼rth	0:0	1:0	01.12.2006	18:00	2006	2007	15
+TuS Koblenz	Hansa Rostock	0:0	0:3	01.12.2006	18:00	2006	2007	15
+Karlsruher SC	Erzgebirge Aue	0:0	0:1	03.12.2006	14:00	2006	2007	15
+Kickers Offenbach	FC Augsburg	1:1	3:2	03.12.2006	14:00	2006	2007	15
+Eintracht Braunschweig	1. FC Kaiserslautern	0:0	0:1	03.12.2006	14:00	2006	2007	15
+SpVgg Unterhaching	TSV 1860 MÃ¼nchen	1:0	5:1	03.12.2006	14:00	2006	2007	15
+FC Carl Zeiss Jena	Wacker Burghausen	0:1	0:2	03.12.2006	14:00	2006	2007	15
+1. FC KÃ¶ln	MSV Duisburg	0:2	1:3	04.12.2006	20:15	2006	2007	15
+1. FC Kaiserslautern	FC Carl Zeiss Jena	0:0	0:0	08.12.2006	18:00	2006	2007	16
+Erzgebirge Aue	TuS Koblenz	1:1	4:1	08.12.2006	18:00	2006	2007	16
+Wacker Burghausen	Rot-Weiss Essen	0:0	1:1	08.12.2006	18:00	2006	2007	16
+MSV Duisburg	SC Paderborn 07	0:1	1:1	10.12.2006	14:00	2006	2007	16
+SpVgg Greuther FÃ¼rth	SpVgg Unterhaching	1:0	1:0	10.12.2006	14:00	2006	2007	16
+Hansa Rostock	TSV 1860 MÃ¼nchen	1:1	1:1	10.12.2006	14:00	2006	2007	16
+Kickers Offenbach	1. FC KÃ¶ln	0:0	2:0	10.12.2006	14:00	2006	2007	16
+FC Augsburg	Eintracht Braunschweig	0:0	0:0	10.12.2006	14:00	2006	2007	16
+SC Freiburg	Karlsruher SC	0:1	0:4	11.12.2006	20:15	2006	2007	16
+1. FC KÃ¶ln	1. FC Kaiserslautern	2:0	2:2	15.12.2006	18:00	2006	2007	17
+SpVgg Unterhaching	Hansa Rostock	0:0	0:0	15.12.2006	18:00	2006	2007	17
+FC Carl Zeiss Jena	FC Augsburg	0:0	0:2	15.12.2006	18:00	2006	2007	17
+Karlsruher SC	SpVgg Greuther FÃ¼rth	1:0	2:0	17.12.2006	14:00	2006	2007	17
+SC Paderborn 07	Wacker Burghausen	0:0	1:1	17.12.2006	14:00	2006	2007	17
+Eintracht Braunschweig	Kickers Offenbach	1:1	1:2	17.12.2006	14:00	2006	2007	17
+Rot-Weiss Essen	MSV Duisburg	1:1	1:2	17.12.2006	14:00	2006	2007	17
+TuS Koblenz	SC Freiburg	0:1	0:1	17.12.2006	14:00	2006	2007	17
+TSV 1860 MÃ¼nchen	Erzgebirge Aue	3:0	4:0	18.12.2006	20:15	2006	2007	17
+Rot-Weiss Essen	1. FC Kaiserslautern	0:0	0:0	19.01.2007	18:00	2006	2007	18
+SpVgg Unterhaching	Erzgebirge Aue	1:1	1:1	19.01.2007	18:00	2006	2007	18
+FC Carl Zeiss Jena	Kickers Offenbach	0:2	2:3	19.01.2007	18:00	2006	2007	18
+TuS Koblenz	MSV Duisburg	0:1	1:1	21.01.2007	14:00	2006	2007	18
+TSV 1860 MÃ¼nchen	SpVgg Greuther FÃ¼rth	0:2	0:3	21.01.2007	14:00	2006	2007	18
+Karlsruher SC	Wacker Burghausen	0:0	2:1	21.01.2007	14:00	2006	2007	18
+SC Paderborn 07	Eintracht Braunschweig	0:0	0:0	21.01.2007	14:00	2006	2007	18
+1. FC KÃ¶ln	FC Augsburg	1:1	1:1	21.01.2007	14:00	2006	2007	18
+Hansa Rostock	SC Freiburg	0:0	0:1	22.01.2007	20:15	2006	2007	18
+Wacker Burghausen	1. FC KÃ¶ln	0:0	1:3	26.01.2007	18:00	2006	2007	19
+Eintracht Braunschweig	FC Carl Zeiss Jena	0:0	1:0	26.01.2007	18:00	2006	2007	19
+Erzgebirge Aue	Hansa Rostock	1:0	3:0	28.01.2007	14:00	2006	2007	19
+Kickers Offenbach	TSV 1860 MÃ¼nchen	1:0	2:1	28.01.2007	14:00	2006	2007	19
+MSV Duisburg	SpVgg Unterhaching	2:2	4:2	28.01.2007	14:00	2006	2007	19
+SC Freiburg	Rot-Weiss Essen	0:0	3:1	28.01.2007	14:00	2006	2007	19
+SpVgg Greuther FÃ¼rth	TuS Koblenz	0:0	2:0	28.01.2007	14:00	2006	2007	19
+1. FC Kaiserslautern	Karlsruher SC	0:1	1:1	29.01.2007	20:15	2006	2007	19
+FC Augsburg	SC Paderborn 07	0:0	0:1	30.01.2007	17:30	2006	2007	19
+Erzgebirge Aue	MSV Duisburg	0:0	0:1	02.02.2007	18:00	2006	2007	20
+Karlsruher SC	Kickers Offenbach	0:1	2:1	02.02.2007	18:00	2006	2007	20
+TuS Koblenz	Eintracht Braunschweig	0:0	1:0	02.02.2007	18:00	2006	2007	20
+SC Paderborn 07	1. FC Kaiserslautern	0:0	0:1	04.02.2007	14:00	2006	2007	20
+SpVgg Unterhaching	SC Freiburg	0:1	0:2	04.02.2007	14:00	2006	2007	20
+Hansa Rostock	SpVgg Greuther FÃ¼rth	0:0	1:0	04.02.2007	14:00	2006	2007	20
+1. FC KÃ¶ln	FC Carl Zeiss Jena	0:0	1:0	04.02.2007	14:00	2006	2007	20
+Rot-Weiss Essen	FC Augsburg	0:0	0:0	04.02.2007	14:00	2006	2007	20
+TSV 1860 MÃ¼nchen	Wacker Burghausen	1:0	5:1	05.02.2007	20:15	2006	2007	20
+Eintracht Braunschweig	1. FC KÃ¶ln	0:1	0:1	09.02.2007	18:00	2006	2007	21
+1. FC Kaiserslautern	Hansa Rostock	0:1	1:1	09.02.2007	18:00	2006	2007	21
+FC Augsburg	SpVgg Unterhaching	2:1	2:1	09.02.2007	18:00	2006	2007	21
+SpVgg Greuther FÃ¼rth	Erzgebirge Aue	1:0	2:1	11.02.2007	14:00	2006	2007	21
+Kickers Offenbach	SC Paderborn 07	0:2	0:2	11.02.2007	14:00	2006	2007	21
+SC Freiburg	TSV 1860 MÃ¼nchen	0:0	3:0	11.02.2007	14:00	2006	2007	21
+FC Carl Zeiss Jena	Rot-Weiss Essen	1:0	2:0	11.02.2007	14:00	2006	2007	21
+Wacker Burghausen	TuS Koblenz	0:0	0:0	11.02.2007	14:00	2006	2007	21
+MSV Duisburg	Karlsruher SC	1:1	2:1	12.02.2007	20:15	2006	2007	21
+TuS Koblenz	1. FC Kaiserslautern	0:0	0:0	16.02.2007	18:00	2006	2007	22
+Erzgebirge Aue	Wacker Burghausen	1:0	3:0	16.02.2007	18:00	2006	2007	22
+SpVgg Unterhaching	Kickers Offenbach	1:0	2:0	16.02.2007	18:00	2006	2007	22
+Rot-Weiss Essen	1. FC KÃ¶ln	3:0	5:0	18.02.2007	14:00	2006	2007	22
+TSV 1860 MÃ¼nchen	MSV Duisburg	1:2	2:2	18.02.2007	14:00	2006	2007	22
+Karlsruher SC	Eintracht Braunschweig	1:0	2:0	18.02.2007	14:00	2006	2007	22
+SC Paderborn 07	FC Carl Zeiss Jena	0:1	0:1	18.02.2007	14:00	2006	2007	22
+Hansa Rostock	FC Augsburg	1:2	2:2	18.02.2007	14:00	2006	2007	22
+SpVgg Greuther FÃ¼rth	SC Freiburg	0:0	0:0	19.02.2007	20:15	2006	2007	22
+FC Carl Zeiss Jena	TSV 1860 MÃ¼nchen	3:0	3:1	23.02.2007	18:00	2006	2007	23
+Eintracht Braunschweig	Rot-Weiss Essen	0:1	0:1	23.02.2007	18:00	2006	2007	23
+Kickers Offenbach	TuS Koblenz	2:3	2:3	23.02.2007	18:00	2006	2007	23
+Wacker Burghausen	SpVgg Greuther FÃ¼rth	0:2	3:4	25.02.2007	14:00	2006	2007	23
+FC Augsburg	Karlsruher SC	2:0	3:1	25.02.2007	14:00	2006	2007	23
+SC Freiburg	Erzgebirge Aue	1:2	5:4	25.02.2007	14:00	2006	2007	23
+1. FC KÃ¶ln	SC Paderborn 07	1:1	1:1	25.02.2007	14:00	2006	2007	23
+1. FC Kaiserslautern	SpVgg Unterhaching	4:0	4:0	25.02.2007	14:00	2006	2007	23
+MSV Duisburg	Hansa Rostock	1:1	1:2	26.02.2007	20:15	2006	2007	23
+Erzgebirge Aue	1. FC Kaiserslautern	1:0	1:0	02.03.2007	18:00	2006	2007	24
+SpVgg Unterhaching	FC Carl Zeiss Jena	1:0	2:0	02.03.2007	18:00	2006	2007	24
+SpVgg Greuther FÃ¼rth	FC Augsburg	2:1	2:1	02.03.2007	18:00	2006	2007	24
+SC Freiburg	MSV Duisburg	1:0	2:1	04.03.2007	14:00	2006	2007	24
+Hansa Rostock	Wacker Burghausen	0:0	0:0	04.03.2007	14:00	2006	2007	24
+TuS Koblenz	SC Paderborn 07	0:0	3:1	04.03.2007	14:00	2006	2007	24
+Rot-Weiss Essen	Kickers Offenbach	0:1	2:2	04.03.2007	14:00	2006	2007	24
+TSV 1860 MÃ¼nchen	Eintracht Braunschweig	0:0	2:0	04.03.2007	14:00	2006	2007	24
+Karlsruher SC	1. FC KÃ¶ln	1:1	2:1	05.03.2007	20:15	2006	2007	24
+Wacker Burghausen	SC Freiburg	0:1	2:2	09.03.2007	18:00	2006	2007	25
+Eintracht Braunschweig	Erzgebirge Aue	0:0	1:0	09.03.2007	18:00	2006	2007	25
+FC Augsburg	TuS Koblenz	0:0	2:0	09.03.2007	18:00	2006	2007	25
+MSV Duisburg	SpVgg Greuther FÃ¼rth	0:0	0:2	11.03.2007	14:00	2006	2007	25
+FC Carl Zeiss Jena	Karlsruher SC	1:2	1:3	11.03.2007	14:00	2006	2007	25
+Kickers Offenbach	Hansa Rostock	1:0	1:1	11.03.2007	14:00	2006	2007	25
+1. FC KÃ¶ln	SpVgg Unterhaching	2:0	4:1	11.03.2007	14:00	2006	2007	25
+SC Paderborn 07	Rot-Weiss Essen	1:1	3:2	11.03.2007	14:00	2006	2007	25
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	1:1	2:1	12.03.2007	20:15	2006	2007	25
+TuS Koblenz	FC Carl Zeiss Jena	0:0	0:0	16.03.2007	18:00	2006	2007	26
+Karlsruher SC	Rot-Weiss Essen	0:1	1:3	16.03.2007	18:00	2006	2007	26
+TSV 1860 MÃ¼nchen	FC Augsburg	0:2	0:3	16.03.2007	18:00	2006	2007	26
+SC Freiburg	1. FC Kaiserslautern	2:1	4:1	18.03.2007	14:00	2006	2007	26
+MSV Duisburg	Wacker Burghausen	1:2	3:4	18.03.2007	14:00	2006	2007	26
+SpVgg Unterhaching	SC Paderborn 07	0:2	0:3	18.03.2007	14:00	2006	2007	26
+Erzgebirge Aue	Kickers Offenbach	0:0	2:1	18.03.2007	14:00	2006	2007	26
+SpVgg Greuther FÃ¼rth	Eintracht Braunschweig	0:0	3:0	18.03.2007	14:00	2006	2007	26
+Hansa Rostock	1. FC KÃ¶ln	1:1	1:1	19.03.2007	20:15	2006	2007	26
+Wacker Burghausen	SpVgg Unterhaching	1:1	4:1	30.03.2007	18:00	2006	2007	27
+SC Paderborn 07	Karlsruher SC	0:1	1:2	30.03.2007	18:00	2006	2007	27
+FC Carl Zeiss Jena	Hansa Rostock	0:1	1:2	30.03.2007	18:00	2006	2007	27
+1. FC KÃ¶ln	TuS Koblenz	0:1	3:1	01.04.2007	14:00	2006	2007	27
+Kickers Offenbach	SpVgg Greuther FÃ¼rth	1:1	1:2	01.04.2007	14:00	2006	2007	27
+Eintracht Braunschweig	SC Freiburg	0:0	0:2	01.04.2007	14:00	2006	2007	27
+Rot-Weiss Essen	TSV 1860 MÃ¼nchen	0:0	0:2	01.04.2007	14:00	2006	2007	27
+FC Augsburg	Erzgebirge Aue	1:0	3:0	01.04.2007	14:00	2006	2007	27
+1. FC Kaiserslautern	MSV Duisburg	0:1	0:3	02.04.2007	20:15	2006	2007	27
+Erzgebirge Aue	1. FC KÃ¶ln	0:0	0:1	05.04.2007	18:00	2006	2007	28
+Hansa Rostock	SC Paderborn 07	1:0	2:0	05.04.2007	18:00	2006	2007	28
+TuS Koblenz	Rot-Weiss Essen	0:0	0:1	05.04.2007	18:15	2006	2007	28
+Wacker Burghausen	1. FC Kaiserslautern	0:0	0:0	08.04.2007	14:00	2006	2007	28
+MSV Duisburg	Kickers Offenbach	2:0	4:0	08.04.2007	14:00	2006	2007	28
+SpVgg Unterhaching	Eintracht Braunschweig	3:2	3:2	08.04.2007	14:00	2006	2007	28
+SpVgg Greuther FÃ¼rth	FC Carl Zeiss Jena	0:0	2:0	08.04.2007	14:00	2006	2007	28
+SC Freiburg	FC Augsburg	2:0	2:0	08.04.2007	14:00	2006	2007	28
+TSV 1860 MÃ¼nchen	Karlsruher SC	0:0	2:0	09.04.2007	20:15	2006	2007	28
+FC Augsburg	MSV Duisburg	1:0	1:2	13.04.2007	18:00	2006	2007	29
+Eintracht Braunschweig	Hansa Rostock	0:1	1:1	13.04.2007	18:00	2006	2007	29
+SC Paderborn 07	TSV 1860 MÃ¼nchen	1:0	3:0	13.04.2007	18:00	2006	2007	29
+1. FC KÃ¶ln	SC Freiburg	0:1	0:3	15.04.2007	14:00	2006	2007	29
+1. FC Kaiserslautern	SpVgg Greuther FÃ¼rth	1:0	3:0	15.04.2007	14:00	2006	2007	29
+Kickers Offenbach	Wacker Burghausen	1:0	2:1	15.04.2007	14:00	2006	2007	29
+Rot-Weiss Essen	SpVgg Unterhaching	1:0	1:1	15.04.2007	14:00	2006	2007	29
+Karlsruher SC	TuS Koblenz	1:1	3:1	15.04.2007	14:00	2006	2007	29
+FC Carl Zeiss Jena	Erzgebirge Aue	2:0	2:1	16.04.2007	20:15	2006	2007	29
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	1:1	3:1	20.04.2007	18:00	2006	2007	30
+1. FC Kaiserslautern	Kickers Offenbach	2:0	4:0	20.04.2007	18:00	2006	2007	30
+Erzgebirge Aue	Rot-Weiss Essen	0:0	0:0	20.04.2007	18:00	2006	2007	30
+SpVgg Greuther FÃ¼rth	SC Paderborn 07	0:0	3:0	22.04.2007	14:00	2006	2007	30
+MSV Duisburg	Eintracht Braunschweig	0:0	0:0	22.04.2007	14:00	2006	2007	30
+SC Freiburg	FC Carl Zeiss Jena	0:1	1:3	22.04.2007	14:00	2006	2007	30
+SpVgg Unterhaching	TuS Koblenz	0:0	1:0	22.04.2007	14:00	2006	2007	30
+Wacker Burghausen	FC Augsburg	0:1	0:2	22.04.2007	14:00	2006	2007	30
+Hansa Rostock	Karlsruher SC	0:1	1:2	23.04.2007	20:15	2006	2007	30
+FC Carl Zeiss Jena	MSV Duisburg	3:0	3:3	27.04.2007	18:00	2006	2007	31
+SC Paderborn 07	Erzgebirge Aue	0:0	1:0	27.04.2007	18:00	2006	2007	31
+Eintracht Braunschweig	Wacker Burghausen	1:0	3:1	27.04.2007	18:00	2006	2007	31
+FC Augsburg	1. FC Kaiserslautern	1:1	3:2	29.04.2007	14:00	2006	2007	31
+Kickers Offenbach	SC Freiburg	0:2	2:3	29.04.2007	14:00	2006	2007	31
+1. FC KÃ¶ln	SpVgg Greuther FÃ¼rth	0:1	0:2	29.04.2007	14:00	2006	2007	31
+TuS Koblenz	TSV 1860 MÃ¼nchen	1:1	2:1	29.04.2007	14:00	2006	2007	31
+Karlsruher SC	SpVgg Unterhaching	0:0	1:0	29.04.2007	14:00	2006	2007	31
+Rot-Weiss Essen	Hansa Rostock	0:0	0:0	30.04.2007	20:15	2006	2007	31
+Erzgebirge Aue	Karlsruher SC	2:0	2:2	04.05.2007	18:00	2006	2007	32
+SC Freiburg	SC Paderborn 07	0:0	0:1	04.05.2007	18:00	2006	2007	32
+FC Augsburg	Kickers Offenbach	1:0	1:1	04.05.2007	18:00	2006	2007	32
+1. FC Kaiserslautern	Eintracht Braunschweig	0:0	1:1	06.05.2007	14:00	2006	2007	32
+TSV 1860 MÃ¼nchen	SpVgg Unterhaching	1:0	1:0	06.05.2007	14:00	2006	2007	32
+Wacker Burghausen	FC Carl Zeiss Jena	0:1	1:1	06.05.2007	14:00	2006	2007	32
+SpVgg Greuther FÃ¼rth	Rot-Weiss Essen	0:1	0:2	06.05.2007	14:00	2006	2007	32
+Hansa Rostock	TuS Koblenz	0:1	0:3	06.05.2007	14:00	2006	2007	32
+MSV Duisburg	1. FC KÃ¶ln	0:1	1:3	07.05.2007	20:15	2006	2007	32
+FC Carl Zeiss Jena	1. FC Kaiserslautern	0:1	1:1	13.05.2007	14:00	2006	2007	33
+SC Paderborn 07	MSV Duisburg	0:2	0:3	13.05.2007	14:00	2006	2007	33
+Karlsruher SC	SC Freiburg	0:1	0:3	13.05.2007	14:00	2006	2007	33
+SpVgg Unterhaching	SpVgg Greuther FÃ¼rth	1:1	2:1	13.05.2007	14:00	2006	2007	33
+TuS Koblenz	Erzgebirge Aue	2:0	2:1	13.05.2007	14:00	2006	2007	33
+Rot-Weiss Essen	Wacker Burghausen	1:0	1:1	13.05.2007	14:00	2006	2007	33
+TSV 1860 MÃ¼nchen	Hansa Rostock	0:2	1:2	13.05.2007	14:00	2006	2007	33
+1. FC KÃ¶ln	Kickers Offenbach	0:1	2:2	13.05.2007	14:00	2006	2007	33
+Eintracht Braunschweig	FC Augsburg	0:0	0:1	13.05.2007	14:00	2006	2007	33
+1. FC Kaiserslautern	1. FC KÃ¶ln	0:1	2:2	20.05.2007	14:00	2006	2007	34
+SpVgg Greuther FÃ¼rth	Karlsruher SC	0:0	1:3	20.05.2007	14:00	2006	2007	34
+Wacker Burghausen	SC Paderborn 07	2:0	5:1	20.05.2007	14:00	2006	2007	34
+Kickers Offenbach	Eintracht Braunschweig	0:0	1:1	20.05.2007	14:00	2006	2007	34
+Erzgebirge Aue	TSV 1860 MÃ¼nchen	1:2	2:2	20.05.2007	14:00	2006	2007	34
+Hansa Rostock	SpVgg Unterhaching	2:1	3:1	20.05.2007	14:00	2006	2007	34
+FC Augsburg	FC Carl Zeiss Jena	0:1	1:2	20.05.2007	14:00	2006	2007	34
+MSV Duisburg	Rot-Weiss Essen	0:0	3:0	20.05.2007	14:00	2006	2007	34
+SC Freiburg	TuS Koblenz	1:0	2:0	20.05.2007	14:00	2006	2007	34

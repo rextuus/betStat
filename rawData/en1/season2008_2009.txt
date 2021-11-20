@@ -1,0 +1,380 @@
+Arsenal FC	West Bromwich Albion	1:0	1:0	16.08.2008	13:45	2008	2009	1
+Bolton Wanderers	Stoke City	3:0	3:1	16.08.2008	16:00	2008	2009	1
+Middlesbrough FC	Tottenham Hotspur	0:0	2:1	16.08.2008	16:00	2008	2009	1
+West Ham United	Wigan Athletic	2:0	2:1	16.08.2008	16:00	2008	2009	1
+Everton FC	Blackburn Rovers	1:1	2:3	16.08.2008	16:00	2008	2009	1
+Hull City	Fulham FC	1:1	2:1	16.08.2008	16:00	2008	2009	1
+Sunderland AFC	Liverpool FC	0:0	0:1	16.08.2008	18:30	2008	2009	1
+Chelsea FC	Portsmouth FC	3:0	4:0	17.08.2008	14:30	2008	2009	1
+Aston Villa	Manchester City	0:0	4:2	17.08.2008	16:00	2008	2009	1
+Manchester United	Newcastle United	1:1	1:1	17.08.2008	17:00	2008	2009	1
+Blackburn Rovers	Hull City	1:1	1:1	23.08.2008	16:00	2008	2009	2
+Liverpool FC	Middlesbrough FC	0:0	2:1	23.08.2008	16:00	2008	2009	2
+Newcastle United	Bolton Wanderers	0:0	1:0	23.08.2008	16:00	2008	2009	2
+Stoke City	Aston Villa	1:0	3:2	23.08.2008	16:00	2008	2009	2
+Tottenham Hotspur	Sunderland AFC	0:0	1:2	23.08.2008	16:00	2008	2009	2
+West Bromwich Albion	Everton FC	0:0	1:2	23.08.2008	16:00	2008	2009	2
+Fulham FC	Arsenal FC	1:0	1:0	23.08.2008	18:30	2008	2009	2
+Wigan Athletic	Chelsea FC	0:1	0:1	24.08.2008	14:30	2008	2009	2
+Manchester City	West Ham United	0:0	3:0	24.08.2008	17:00	2008	2009	2
+Portsmouth FC	Manchester United	0:1	0:1	25.08.2008	21:00	2008	2009	2
+Bolton Wanderers	West Bromwich Albion	0:0	0:0	30.08.2008	16:00	2008	2009	3
+Everton FC	Portsmouth FC	0:2	0:3	30.08.2008	16:00	2008	2009	3
+Hull City	Wigan Athletic	0:2	0:5	30.08.2008	16:00	2008	2009	3
+Middlesbrough FC	Stoke City	1:0	2:1	30.08.2008	16:00	2008	2009	3
+West Ham United	Blackburn Rovers	2:1	4:1	30.08.2008	16:00	2008	2009	3
+Arsenal FC	Newcastle United	2:0	3:0	30.08.2008	18:30	2008	2009	3
+Chelsea FC	Tottenham Hotspur	1:1	1:1	31.08.2008	14:30	2008	2009	3
+Sunderland AFC	Manchester City	0:1	0:3	31.08.2008	16:00	2008	2009	3
+Aston Villa	Liverpool FC	0:0	0:0	31.08.2008	17:00	2008	2009	3
+Manchester United	Fulham FC	2:0	3:0	18.02.2009	21:00	2008	2009	3
+Liverpool FC	Manchester United	1:1	2:1	13.09.2008	13:45	2008	2009	4
+Blackburn Rovers	Arsenal FC	0:2	0:4	13.09.2008	16:00	2008	2009	4
+Fulham FC	Bolton Wanderers	2:0	2:1	13.09.2008	16:00	2008	2009	4
+Newcastle United	Hull City	0:1	1:2	13.09.2008	16:00	2008	2009	4
+Portsmouth FC	Middlesbrough FC	0:1	2:1	13.09.2008	16:00	2008	2009	4
+West Bromwich Albion	West Ham United	2:2	3:2	13.09.2008	16:00	2008	2009	4
+Wigan Athletic	Sunderland AFC	0:1	1:1	13.09.2008	16:00	2008	2009	4
+Manchester City	Chelsea FC	1:1	1:3	13.09.2008	18:30	2008	2009	4
+Stoke City	Everton FC	0:1	2:3	14.09.2008	14:30	2008	2009	4
+Tottenham Hotspur	Aston Villa	0:1	1:2	15.09.2008	21:00	2008	2009	4
+Sunderland AFC	Middlesbrough FC	0:0	2:0	20.09.2008	13:45	2008	2009	5
+Blackburn Rovers	Fulham FC	0:0	1:0	20.09.2008	16:00	2008	2009	5
+Liverpool FC	Stoke City	0:0	0:0	20.09.2008	16:00	2008	2009	5
+West Ham United	Newcastle United	2:0	3:1	20.09.2008	16:00	2008	2009	5
+Bolton Wanderers	Arsenal FC	1:2	1:3	20.09.2008	18:30	2008	2009	5
+West Bromwich Albion	Aston Villa	1:2	1:2	21.09.2008	13:00	2008	2009	5
+Chelsea FC	Manchester United	0:1	1:1	21.09.2008	15:00	2008	2009	5
+Hull City	Everton FC	1:0	2:2	21.09.2008	16:00	2008	2009	5
+Manchester City	Portsmouth FC	2:0	6:0	21.09.2008	16:00	2008	2009	5
+Tottenham Hotspur	Wigan Athletic	0:0	0:0	21.09.2008	16:00	2008	2009	5
+Everton FC	Liverpool FC	0:0	0:2	27.09.2008	13:45	2008	2009	6
+Aston Villa	Sunderland AFC	2:1	2:1	27.09.2008	16:00	2008	2009	6
+Fulham FC	West Ham United	0:2	1:2	27.09.2008	16:00	2008	2009	6
+Manchester United	Bolton Wanderers	0:0	2:0	27.09.2008	16:00	2008	2009	6
+Middlesbrough FC	West Bromwich Albion	0:0	0:1	27.09.2008	16:00	2008	2009	6
+Newcastle United	Blackburn Rovers	0:2	1:2	27.09.2008	16:00	2008	2009	6
+Stoke City	Chelsea FC	0:1	0:2	27.09.2008	16:00	2008	2009	6
+Arsenal FC	Hull City	0:0	1:2	27.09.2008	18:30	2008	2009	6
+Portsmouth FC	Tottenham Hotspur	1:0	2:0	28.09.2008	14:30	2008	2009	6
+Wigan Athletic	Manchester City	2:1	2:1	28.09.2008	17:00	2008	2009	6
+Sunderland AFC	Arsenal FC	0:0	1:1	04.10.2008	16:00	2008	2009	7
+West Bromwich Albion	Fulham FC	0:0	1:0	04.10.2008	16:00	2008	2009	7
+Wigan Athletic	Middlesbrough FC	0:0	0:1	04.10.2008	16:00	2008	2009	7
+Blackburn Rovers	Manchester United	0:1	0:2	04.10.2008	18:30	2008	2009	7
+West Ham United	Bolton Wanderers	0:2	1:3	05.10.2008	14:30	2008	2009	7
+Chelsea FC	Aston Villa	2:0	2:0	05.10.2008	16:00	2008	2009	7
+Manchester City	Liverpool FC	2:0	2:3	05.10.2008	16:00	2008	2009	7
+Portsmouth FC	Stoke City	1:0	2:1	05.10.2008	16:00	2008	2009	7
+Tottenham Hotspur	Hull City	0:1	0:1	05.10.2008	16:00	2008	2009	7
+Everton FC	Newcastle United	2:1	2:2	05.10.2008	17:00	2008	2009	7
+Middlesbrough FC	Chelsea FC	0:1	0:5	18.10.2008	13:45	2008	2009	8
+Arsenal FC	Everton FC	0:1	3:1	18.10.2008	16:00	2008	2009	8
+Aston Villa	Portsmouth FC	0:0	0:0	18.10.2008	16:00	2008	2009	8
+Bolton Wanderers	Blackburn Rovers	0:0	0:0	18.10.2008	16:00	2008	2009	8
+Fulham FC	Sunderland AFC	0:0	0:0	18.10.2008	16:00	2008	2009	8
+Liverpool FC	Wigan Athletic	1:2	3:2	18.10.2008	16:00	2008	2009	8
+Manchester United	West Bromwich Albion	0:0	4:0	18.10.2008	18:30	2008	2009	8
+Hull City	West Ham United	0:0	1:0	19.10.2008	16:00	2008	2009	8
+Stoke City	Tottenham Hotspur	1:1	2:1	19.10.2008	17:00	2008	2009	8
+Newcastle United	Manchester City	1:1	2:2	20.10.2008	21:00	2008	2009	8
+Everton FC	Manchester United	0:1	1:1	25.10.2008	13:00	2008	2009	9
+Sunderland AFC	Newcastle United	1:1	2:1	25.10.2008	13:45	2008	2009	9
+West Bromwich Albion	Hull City	0:0	0:3	25.10.2008	16:00	2008	2009	9
+Blackburn Rovers	Middlesbrough FC	0:0	1:1	25.10.2008	18:30	2008	2009	9
+Chelsea FC	Liverpool FC	0:1	0:1	26.10.2008	14:30	2008	2009	9
+Manchester City	Stoke City	1:0	3:0	26.10.2008	16:00	2008	2009	9
+Tottenham Hotspur	Bolton Wanderers	1:0	2:0	26.10.2008	16:00	2008	2009	9
+Wigan Athletic	Aston Villa	0:1	0:4	26.10.2008	16:00	2008	2009	9
+West Ham United	Arsenal FC	0:0	0:2	26.10.2008	17:00	2008	2009	9
+Portsmouth FC	Fulham FC	0:0	1:1	26.10.2008	18:00	2008	2009	9
+Newcastle United	West Bromwich Albion	2:0	2:1	28.10.2008	20:45	2008	2009	10
+Hull City	Chelsea FC	0:1	0:3	29.10.2008	20:45	2008	2009	10
+Stoke City	Sunderland AFC	0:0	1:0	29.10.2008	20:45	2008	2009	10
+Aston Villa	Blackburn Rovers	1:1	3:2	29.10.2008	20:45	2008	2009	10
+Fulham FC	Wigan Athletic	1:0	2:0	29.10.2008	20:45	2008	2009	10
+Arsenal FC	Tottenham Hotspur	1:1	4:4	29.10.2008	21:00	2008	2009	10
+Bolton Wanderers	Everton FC	0:0	0:1	29.10.2008	21:00	2008	2009	10
+Manchester United	West Ham United	2:0	2:0	29.10.2008	21:00	2008	2009	10
+Middlesbrough FC	Manchester City	0:0	2:0	29.10.2008	21:00	2008	2009	10
+Liverpool FC	Portsmouth FC	0:0	1:0	29.10.2008	21:00	2008	2009	10
+Everton FC	Fulham FC	0:0	1:0	01.11.2008	13:45	2008	2009	11
+Chelsea FC	Sunderland AFC	3:0	5:0	01.11.2008	16:00	2008	2009	11
+Manchester United	Hull City	3:1	4:3	01.11.2008	16:00	2008	2009	11
+Middlesbrough FC	West Ham United	0:1	1:1	01.11.2008	16:00	2008	2009	11
+Portsmouth FC	Wigan Athletic	0:1	1:2	01.11.2008	16:00	2008	2009	11
+Stoke City	Arsenal FC	1:0	2:1	01.11.2008	16:00	2008	2009	11
+West Bromwich Albion	Blackburn Rovers	0:1	2:2	01.11.2008	16:00	2008	2009	11
+Tottenham Hotspur	Liverpool FC	0:1	2:1	01.11.2008	18:30	2008	2009	11
+Bolton Wanderers	Manchester City	0:0	2:0	02.11.2008	17:00	2008	2009	11
+Newcastle United	Aston Villa	0:0	2:0	03.11.2008	21:00	2008	2009	11
+Arsenal FC	Manchester United	1:0	2:1	08.11.2008	13:45	2008	2009	12
+Wigan Athletic	Stoke City	0:0	0:0	08.11.2008	13:45	2008	2009	12
+Hull City	Bolton Wanderers	0:0	0:1	08.11.2008	16:00	2008	2009	12
+Sunderland AFC	Portsmouth FC	1:0	1:2	08.11.2008	16:00	2008	2009	12
+West Ham United	Everton FC	0:0	1:3	08.11.2008	16:00	2008	2009	12
+Liverpool FC	West Bromwich Albion	2:0	3:0	08.11.2008	18:30	2008	2009	12
+Blackburn Rovers	Chelsea FC	0:1	0:2	09.11.2008	14:30	2008	2009	12
+Aston Villa	Middlesbrough FC	1:1	1:2	09.11.2008	16:00	2008	2009	12
+Manchester City	Tottenham Hotspur	1:1	1:2	09.11.2008	16:00	2008	2009	12
+Fulham FC	Newcastle United	1:0	2:1	09.11.2008	17:00	2008	2009	12
+Bolton Wanderers	Liverpool FC	0:1	0:2	15.11.2008	13:45	2008	2009	13
+Arsenal FC	Aston Villa	0:0	0:2	15.11.2008	16:00	2008	2009	13
+Blackburn Rovers	Sunderland AFC	1:0	1:2	15.11.2008	16:00	2008	2009	13
+Fulham FC	Tottenham Hotspur	1:0	2:1	15.11.2008	16:00	2008	2009	13
+Manchester United	Stoke City	2:0	5:0	15.11.2008	16:00	2008	2009	13
+Newcastle United	Wigan Athletic	0:1	2:2	15.11.2008	16:00	2008	2009	13
+West Ham United	Portsmouth FC	0:0	0:0	15.11.2008	16:00	2008	2009	13
+West Bromwich Albion	Chelsea FC	0:3	0:3	15.11.2008	18:30	2008	2009	13
+Everton FC	Middlesbrough FC	0:1	1:1	16.11.2008	14:30	2008	2009	13
+Hull City	Manchester City	1:2	2:2	16.11.2008	17:00	2008	2009	13
+Chelsea FC	Newcastle United	0:0	0:0	22.11.2008	16:00	2008	2009	14
+Liverpool FC	Fulham FC	0:0	0:0	22.11.2008	16:00	2008	2009	14
+Manchester City	Arsenal FC	1:0	3:0	22.11.2008	16:00	2008	2009	14
+Middlesbrough FC	Bolton Wanderers	0:2	1:3	22.11.2008	16:00	2008	2009	14
+Portsmouth FC	Hull City	1:0	2:2	22.11.2008	16:00	2008	2009	14
+Stoke City	West Bromwich Albion	0:0	1:0	22.11.2008	16:00	2008	2009	14
+Aston Villa	Manchester United	0:0	0:0	22.11.2008	18:30	2008	2009	14
+Tottenham Hotspur	Blackburn Rovers	1:0	1:0	23.11.2008	14:30	2008	2009	14
+Sunderland AFC	West Ham United	0:1	0:1	23.11.2008	17:00	2008	2009	14
+Wigan Athletic	Everton FC	0:0	1:0	24.11.2008	21:00	2008	2009	14
+Aston Villa	Fulham FC	0:0	0:0	29.11.2008	16:00	2008	2009	15
+Middlesbrough FC	Newcastle United	0:0	0:0	29.11.2008	16:00	2008	2009	15
+Stoke City	Hull City	0:1	1:1	29.11.2008	16:00	2008	2009	15
+Sunderland AFC	Bolton Wanderers	1:3	1:4	29.11.2008	16:00	2008	2009	15
+Wigan Athletic	West Bromwich Albion	0:0	2:1	29.11.2008	16:00	2008	2009	15
+Manchester City	Manchester United	0:1	0:1	30.11.2008	14:30	2008	2009	15
+Portsmouth FC	Blackburn Rovers	0:0	3:2	30.11.2008	16:00	2008	2009	15
+Tottenham Hotspur	Everton FC	0:0	0:1	30.11.2008	16:00	2008	2009	15
+Chelsea FC	Arsenal FC	1:0	1:2	30.11.2008	17:00	2008	2009	15
+Liverpool FC	West Ham United	0:0	0:0	01.12.2008	21:00	2008	2009	15
+Fulham FC	Manchester City	1:1	1:1	06.12.2008	13:45	2008	2009	16
+Arsenal FC	Wigan Athletic	1:0	1:0	06.12.2008	16:00	2008	2009	16
+Blackburn Rovers	Liverpool FC	0:0	1:3	06.12.2008	16:00	2008	2009	16
+Bolton Wanderers	Chelsea FC	0:2	0:2	06.12.2008	16:00	2008	2009	16
+Hull City	Middlesbrough FC	0:0	2:1	06.12.2008	16:00	2008	2009	16
+Newcastle United	Stoke City	2:0	2:2	06.12.2008	16:00	2008	2009	16
+Manchester United	Sunderland AFC	0:0	1:0	06.12.2008	18:30	2008	2009	16
+West Bromwich Albion	Portsmouth FC	1:0	1:1	07.12.2008	16:00	2008	2009	16
+Everton FC	Aston Villa	1:1	2:3	07.12.2008	17:00	2008	2009	16
+West Ham United	Tottenham Hotspur	0:0	0:2	08.12.2008	21:00	2008	2009	16
+Middlesbrough FC	Arsenal FC	1:1	1:1	13.12.2008	13:45	2008	2009	17
+Aston Villa	Bolton Wanderers	2:1	4:2	13.12.2008	16:00	2008	2009	17
+Liverpool FC	Hull City	2:2	2:2	13.12.2008	16:00	2008	2009	17
+Manchester City	Everton FC	0:0	0:1	13.12.2008	16:00	2008	2009	17
+Stoke City	Fulham FC	0:0	0:0	13.12.2008	16:00	2008	2009	17
+Sunderland AFC	West Bromwich Albion	3:0	4:0	13.12.2008	16:00	2008	2009	17
+Wigan Athletic	Blackburn Rovers	2:0	3:0	13.12.2008	16:00	2008	2009	17
+Tottenham Hotspur	Manchester United	0:0	0:0	13.12.2008	18:30	2008	2009	17
+Portsmouth FC	Newcastle United	0:0	0:3	14.12.2008	14:30	2008	2009	17
+Chelsea FC	West Ham United	0:1	1:1	14.12.2008	17:00	2008	2009	17
+Blackburn Rovers	Stoke City	3:0	3:0	20.12.2008	16:00	2008	2009	18
+Bolton Wanderers	Portsmouth FC	2:1	2:1	20.12.2008	16:00	2008	2009	18
+Fulham FC	Middlesbrough FC	1:0	3:0	20.12.2008	16:00	2008	2009	18
+Hull City	Sunderland AFC	1:1	1:4	20.12.2008	16:00	2008	2009	18
+West Ham United	Aston Villa	0:0	0:1	20.12.2008	18:30	2008	2009	18
+West Bromwich Albion	Manchester City	0:0	2:1	21.12.2008	14:30	2008	2009	18
+Newcastle United	Tottenham Hotspur	1:1	2:1	21.12.2008	16:00	2008	2009	18
+Arsenal FC	Liverpool FC	1:1	1:1	21.12.2008	17:00	2008	2009	18
+Everton FC	Chelsea FC	0:0	0:0	22.12.2008	21:00	2008	2009	18
+Manchester United	Wigan Athletic	1:0	1:0	14.01.2009	21:00	2008	2009	18
+Stoke City	Manchester United	0:0	0:1	26.12.2008	13:45	2008	2009	19
+Chelsea FC	West Bromwich Albion	2:0	2:0	26.12.2008	14:00	2008	2009	19
+Portsmouth FC	West Ham United	1:1	1:4	26.12.2008	14:00	2008	2009	19
+Tottenham Hotspur	Fulham FC	0:0	0:0	26.12.2008	14:00	2008	2009	19
+Liverpool FC	Bolton Wanderers	1:0	3:0	26.12.2008	16:00	2008	2009	19
+Manchester City	Hull City	4:0	5:1	26.12.2008	16:00	2008	2009	19
+Middlesbrough FC	Everton FC	0:0	0:1	26.12.2008	16:00	2008	2009	19
+Sunderland AFC	Blackburn Rovers	0:0	0:0	26.12.2008	16:00	2008	2009	19
+Wigan Athletic	Newcastle United	1:0	2:1	26.12.2008	16:00	2008	2009	19
+Aston Villa	Arsenal FC	0:1	2:2	26.12.2008	18:15	2008	2009	19
+Newcastle United	Liverpool FC	1:2	1:5	28.12.2008	13:00	2008	2009	20
+Arsenal FC	Portsmouth FC	0:0	1:0	28.12.2008	15:00	2008	2009	20
+Bolton Wanderers	Wigan Athletic	0:1	0:1	28.12.2008	15:00	2008	2009	20
+Everton FC	Sunderland AFC	2:0	3:0	28.12.2008	15:00	2008	2009	20
+Fulham FC	Chelsea FC	1:0	2:2	28.12.2008	15:00	2008	2009	20
+West Bromwich Albion	Tottenham Hotspur	0:0	2:0	28.12.2008	15:00	2008	2009	20
+West Ham United	Stoke City	0:1	2:1	28.12.2008	15:00	2008	2009	20
+Blackburn Rovers	Manchester City	1:0	2:2	28.12.2008	17:15	2008	2009	20
+Manchester United	Middlesbrough FC	0:0	1:0	29.12.2008	21:00	2008	2009	20
+Hull City	Aston Villa	0:0	0:1	30.12.2008	21:00	2008	2009	20
+Aston Villa	West Bromwich Albion	2:0	2:1	10.01.2009	13:45	2008	2009	21
+Arsenal FC	Bolton Wanderers	0:0	1:0	10.01.2009	16:00	2008	2009	21
+Everton FC	Hull City	2:0	2:0	10.01.2009	16:00	2008	2009	21
+Middlesbrough FC	Sunderland AFC	1:0	1:1	10.01.2009	16:00	2008	2009	21
+Newcastle United	West Ham United	1:1	2:2	10.01.2009	16:00	2008	2009	21
+Stoke City	Liverpool FC	0:0	0:0	10.01.2009	18:30	2008	2009	21
+Wigan Athletic	Tottenham Hotspur	0:0	1:0	11.01.2009	14:30	2008	2009	21
+Manchester United	Chelsea FC	1:0	3:0	11.01.2009	17:00	2008	2009	21
+Portsmouth FC	Manchester City	0:0	2:0	14.02.2009	16:00	2008	2009	21
+Fulham FC	Blackburn Rovers	1:0	1:2	11.03.2009	21:00	2008	2009	21
+Blackburn Rovers	Newcastle United	0:0	3:0	17.01.2009	16:00	2008	2009	22
+Bolton Wanderers	Manchester United	0:0	0:1	17.01.2009	16:00	2008	2009	22
+Chelsea FC	Stoke City	0:0	2:1	17.01.2009	16:00	2008	2009	22
+Manchester City	Wigan Athletic	0:0	1:0	17.01.2009	16:00	2008	2009	22
+Sunderland AFC	Aston Villa	1:0	1:2	17.01.2009	16:00	2008	2009	22
+West Bromwich Albion	Middlesbrough FC	1:0	3:0	17.01.2009	16:00	2008	2009	22
+Hull City	Arsenal FC	0:1	1:3	17.01.2009	18:30	2008	2009	22
+West Ham United	Fulham FC	1:1	3:1	18.01.2009	14:30	2008	2009	22
+Tottenham Hotspur	Portsmouth FC	0:0	1:1	18.01.2009	17:00	2008	2009	22
+Liverpool FC	Everton FC	0:0	1:1	19.01.2009	21:00	2008	2009	22
+Sunderland AFC	Fulham FC	0:0	1:0	27.01.2009	20:45	2008	2009	23
+Portsmouth FC	Aston Villa	0:1	0:1	27.01.2009	21:00	2008	2009	23
+Tottenham Hotspur	Stoke City	3:0	3:1	27.01.2009	21:00	2008	2009	23
+West Bromwich Albion	Manchester United	0:2	0:5	27.01.2009	21:15	2008	2009	23
+Wigan Athletic	Liverpool FC	0:1	1:1	28.01.2009	20:45	2008	2009	23
+Chelsea FC	Middlesbrough FC	0:0	2:0	28.01.2009	20:45	2008	2009	23
+Manchester City	Newcastle United	1:0	2:1	28.01.2009	20:45	2008	2009	23
+West Ham United	Hull City	1:0	2:0	28.01.2009	21:00	2008	2009	23
+Blackburn Rovers	Bolton Wanderers	0:2	2:2	28.01.2009	21:00	2008	2009	23
+Everton FC	Arsenal FC	0:0	1:1	28.01.2009	21:00	2008	2009	23
+Stoke City	Manchester City	1:0	1:0	31.01.2009	13:45	2008	2009	24
+Arsenal FC	West Ham United	0:0	0:0	31.01.2009	16:00	2008	2009	24
+Aston Villa	Wigan Athletic	0:0	0:0	31.01.2009	16:00	2008	2009	24
+Bolton Wanderers	Tottenham Hotspur	1:0	3:2	31.01.2009	16:00	2008	2009	24
+Fulham FC	Portsmouth FC	1:0	3:1	31.01.2009	16:00	2008	2009	24
+Hull City	West Bromwich Albion	1:0	2:2	31.01.2009	16:00	2008	2009	24
+Middlesbrough FC	Blackburn Rovers	0:0	0:0	31.01.2009	16:00	2008	2009	24
+Manchester United	Everton FC	1:0	1:0	31.01.2009	18:30	2008	2009	24
+Newcastle United	Sunderland AFC	0:1	1:1	01.02.2009	14:30	2008	2009	24
+Liverpool FC	Chelsea FC	0:0	2:0	01.02.2009	17:00	2008	2009	24
+Manchester City	Middlesbrough FC	0:0	1:0	07.02.2009	13:45	2008	2009	25
+Blackburn Rovers	Aston Villa	0:1	0:2	07.02.2009	16:00	2008	2009	25
+Chelsea FC	Hull City	0:0	0:0	07.02.2009	16:00	2008	2009	25
+Everton FC	Bolton Wanderers	1:0	3:0	07.02.2009	16:00	2008	2009	25
+Sunderland AFC	Stoke City	0:0	2:0	07.02.2009	16:00	2008	2009	25
+West Bromwich Albion	Newcastle United	1:3	2:3	07.02.2009	16:00	2008	2009	25
+Wigan Athletic	Fulham FC	0:0	0:0	07.02.2009	16:00	2008	2009	25
+Portsmouth FC	Liverpool FC	0:0	2:3	07.02.2009	18:30	2008	2009	25
+Tottenham Hotspur	Arsenal FC	0:0	0:0	08.02.2009	14:30	2008	2009	25
+West Ham United	Manchester United	0:0	0:1	08.02.2009	17:00	2008	2009	25
+Aston Villa	Chelsea FC	0:1	0:1	21.02.2009	13:45	2008	2009	26
+Arsenal FC	Sunderland AFC	0:0	0:0	21.02.2009	16:00	2008	2009	26
+Bolton Wanderers	West Ham United	2:0	2:1	21.02.2009	16:00	2008	2009	26
+Middlesbrough FC	Wigan Athletic	0:0	0:0	21.02.2009	16:00	2008	2009	26
+Stoke City	Portsmouth FC	0:0	2:2	21.02.2009	16:00	2008	2009	26
+Manchester United	Blackburn Rovers	1:1	2:1	21.02.2009	18:30	2008	2009	26
+Fulham FC	West Bromwich Albion	0:0	2:0	22.02.2009	14:30	2008	2009	26
+Liverpool FC	Manchester City	0:0	1:1	22.02.2009	16:00	2008	2009	26
+Newcastle United	Everton FC	0:0	0:0	22.02.2009	17:00	2008	2009	26
+Hull City	Tottenham Hotspur	1:1	1:2	23.02.2009	21:00	2008	2009	26
+Everton FC	West Bromwich Albion	1:0	2:0	28.02.2009	13:45	2008	2009	27
+Arsenal FC	Fulham FC	0:0	0:0	28.02.2009	16:00	2008	2009	27
+Chelsea FC	Wigan Athletic	1:0	2:1	28.02.2009	16:00	2008	2009	27
+Middlesbrough FC	Liverpool FC	1:0	2:0	28.02.2009	16:00	2008	2009	27
+Hull City	Blackburn Rovers	0:2	1:2	01.03.2009	13:30	2008	2009	27
+West Ham United	Manchester City	0:0	1:0	01.03.2009	13:45	2008	2009	27
+Bolton Wanderers	Newcastle United	0:0	1:0	01.03.2009	14:00	2008	2009	27
+Aston Villa	Stoke City	1:0	2:2	01.03.2009	16:00	2008	2009	27
+Sunderland AFC	Tottenham Hotspur	1:0	1:1	07.03.2009	16:00	2008	2009	27
+Manchester United	Portsmouth FC	1:0	2:0	22.04.2009	21:00	2008	2009	27
+Portsmouth FC	Chelsea FC	0:0	0:1	03.03.2009	20:45	2008	2009	28
+West Bromwich Albion	Arsenal FC	1:3	1:3	03.03.2009	20:45	2008	2009	28
+Liverpool FC	Sunderland AFC	0:0	2:0	03.03.2009	21:00	2008	2009	28
+Stoke City	Bolton Wanderers	1:0	2:0	04.03.2009	20:45	2008	2009	28
+Wigan Athletic	West Ham United	0:1	0:1	04.03.2009	20:45	2008	2009	28
+Manchester City	Aston Villa	1:0	2:0	04.03.2009	20:45	2008	2009	28
+Newcastle United	Manchester United	1:1	1:2	04.03.2009	20:45	2008	2009	28
+Tottenham Hotspur	Middlesbrough FC	3:0	4:0	04.03.2009	21:00	2008	2009	28
+Blackburn Rovers	Everton FC	0:0	0:0	04.03.2009	21:00	2008	2009	28
+Fulham FC	Hull City	0:0	0:1	04.03.2009	21:00	2008	2009	28
+Manchester United	Liverpool FC	1:2	1:4	14.03.2009	13:45	2008	2009	29
+Arsenal FC	Blackburn Rovers	1:0	4:0	14.03.2009	16:00	2008	2009	29
+Bolton Wanderers	Fulham FC	1:1	1:3	14.03.2009	16:00	2008	2009	29
+Everton FC	Stoke City	2:0	3:1	14.03.2009	16:00	2008	2009	29
+Hull City	Newcastle United	1:1	1:1	14.03.2009	16:00	2008	2009	29
+Middlesbrough FC	Portsmouth FC	0:1	1:1	14.03.2009	16:00	2008	2009	29
+Sunderland AFC	Wigan Athletic	1:2	1:2	14.03.2009	16:00	2008	2009	29
+Chelsea FC	Manchester City	1:0	1:0	15.03.2009	14:30	2008	2009	29
+Aston Villa	Tottenham Hotspur	0:1	1:2	15.03.2009	17:00	2008	2009	29
+West Ham United	West Bromwich Albion	0:0	0:0	16.03.2009	21:00	2008	2009	29
+Portsmouth FC	Everton FC	1:1	2:1	21.03.2009	13:45	2008	2009	30
+Blackburn Rovers	West Ham United	0:1	1:1	21.03.2009	16:00	2008	2009	30
+Fulham FC	Manchester United	1:0	2:0	21.03.2009	16:00	2008	2009	30
+Stoke City	Middlesbrough FC	0:0	1:0	21.03.2009	16:00	2008	2009	30
+West Bromwich Albion	Bolton Wanderers	0:0	1:1	21.03.2009	16:00	2008	2009	30
+Tottenham Hotspur	Chelsea FC	0:0	1:0	21.03.2009	16:30	2008	2009	30
+Newcastle United	Arsenal FC	0:0	1:3	21.03.2009	18:30	2008	2009	30
+Wigan Athletic	Hull City	0:0	1:0	22.03.2009	14:30	2008	2009	30
+Manchester City	Sunderland AFC	0:0	1:0	22.03.2009	16:00	2008	2009	30
+Liverpool FC	Aston Villa	3:0	5:0	22.03.2009	17:00	2008	2009	30
+Blackburn Rovers	Tottenham Hotspur	0:1	2:1	04.04.2009	13:45	2008	2009	31
+Arsenal FC	Manchester City	1:0	2:0	04.04.2009	16:00	2008	2009	31
+Bolton Wanderers	Middlesbrough FC	2:1	4:1	04.04.2009	16:00	2008	2009	31
+Hull City	Portsmouth FC	0:0	0:0	04.04.2009	16:00	2008	2009	31
+Newcastle United	Chelsea FC	0:0	0:2	04.04.2009	16:00	2008	2009	31
+West Bromwich Albion	Stoke City	0:1	0:2	04.04.2009	16:00	2008	2009	31
+West Ham United	Sunderland AFC	1:0	2:0	04.04.2009	16:00	2008	2009	31
+Fulham FC	Liverpool FC	0:0	0:1	04.04.2009	18:30	2008	2009	31
+Everton FC	Wigan Athletic	1:0	4:0	05.04.2009	16:00	2008	2009	31
+Manchester United	Aston Villa	1:1	3:2	05.04.2009	17:00	2008	2009	31
+Liverpool FC	Blackburn Rovers	2:0	4:0	11.04.2009	13:45	2008	2009	32
+Chelsea FC	Bolton Wanderers	1:0	4:3	11.04.2009	16:00	2008	2009	32
+Middlesbrough FC	Hull City	2:1	3:1	11.04.2009	16:00	2008	2009	32
+Portsmouth FC	West Bromwich Albion	1:0	2:2	11.04.2009	16:00	2008	2009	32
+Sunderland AFC	Manchester United	0:1	1:2	11.04.2009	16:00	2008	2009	32
+Tottenham Hotspur	West Ham United	0:0	1:0	11.04.2009	16:00	2008	2009	32
+Wigan Athletic	Arsenal FC	1:0	1:4	11.04.2009	16:00	2008	2009	32
+Stoke City	Newcastle United	1:0	1:1	11.04.2009	18:30	2008	2009	32
+Aston Villa	Everton FC	1:2	3:3	12.04.2009	15:00	2008	2009	32
+Manchester City	Fulham FC	1:0	1:3	12.04.2009	17:00	2008	2009	32
+Aston Villa	West Ham United	1:0	1:1	18.04.2009	16:00	2008	2009	33
+Middlesbrough FC	Fulham FC	0:0	0:0	18.04.2009	16:00	2008	2009	33
+Portsmouth FC	Bolton Wanderers	0:0	1:0	18.04.2009	16:00	2008	2009	33
+Stoke City	Blackburn Rovers	0:0	1:0	18.04.2009	16:00	2008	2009	33
+Sunderland AFC	Hull City	1:0	1:0	18.04.2009	16:00	2008	2009	33
+Tottenham Hotspur	Newcastle United	1:0	1:0	19.04.2009	14:30	2008	2009	33
+Manchester City	West Bromwich Albion	2:1	4:2	19.04.2009	16:00	2008	2009	33
+Liverpool FC	Arsenal FC	0:1	4:4	21.04.2009	21:00	2008	2009	33
+Chelsea FC	Everton FC	0:0	0:0	22.04.2009	21:00	2008	2009	33
+Wigan Athletic	Manchester United	1:0	1:2	13.05.2009	21:00	2008	2009	33
+Bolton Wanderers	Aston Villa	0:1	1:1	25.04.2009	16:00	2008	2009	34
+Everton FC	Manchester City	0:1	1:2	25.04.2009	16:00	2008	2009	34
+Fulham FC	Stoke City	1:0	1:0	25.04.2009	16:00	2008	2009	34
+Hull City	Liverpool FC	0:1	1:3	25.04.2009	16:00	2008	2009	34
+West Bromwich Albion	Sunderland AFC	1:0	3:0	25.04.2009	16:00	2008	2009	34
+West Ham United	Chelsea FC	0:0	0:1	25.04.2009	16:00	2008	2009	34
+Manchester United	Tottenham Hotspur	0:2	5:2	25.04.2009	18:30	2008	2009	34
+Arsenal FC	Middlesbrough FC	1:0	2:0	26.04.2009	14:30	2008	2009	34
+Blackburn Rovers	Wigan Athletic	1:0	2:0	26.04.2009	17:00	2008	2009	34
+Newcastle United	Portsmouth FC	0:0	0:0	27.04.2009	21:00	2008	2009	34
+Middlesbrough FC	Manchester United	0:1	0:2	02.05.2009	13:45	2008	2009	35
+Chelsea FC	Fulham FC	2:1	3:1	02.05.2009	16:00	2008	2009	35
+Manchester City	Blackburn Rovers	3:0	3:1	02.05.2009	16:00	2008	2009	35
+Portsmouth FC	Arsenal FC	0:2	0:3	02.05.2009	16:00	2008	2009	35
+Stoke City	West Ham United	0:1	0:1	02.05.2009	16:00	2008	2009	35
+Tottenham Hotspur	West Bromwich Albion	1:0	1:0	02.05.2009	16:00	2008	2009	35
+Wigan Athletic	Bolton Wanderers	0:0	0:0	02.05.2009	16:00	2008	2009	35
+Liverpool FC	Newcastle United	2:0	3:0	03.05.2009	14:30	2008	2009	35
+Sunderland AFC	Everton FC	0:0	0:2	03.05.2009	17:00	2008	2009	35
+Aston Villa	Hull City	1:0	1:0	04.05.2009	21:00	2008	2009	35
+Blackburn Rovers	Portsmouth FC	1:0	2:0	09.05.2009	16:00	2008	2009	36
+Bolton Wanderers	Sunderland AFC	0:0	0:0	09.05.2009	16:00	2008	2009	36
+Everton FC	Tottenham Hotspur	0:0	0:0	09.05.2009	16:00	2008	2009	36
+Fulham FC	Aston Villa	1:1	3:1	09.05.2009	16:00	2008	2009	36
+Hull City	Stoke City	0:1	1:2	09.05.2009	16:00	2008	2009	36
+West Bromwich Albion	Wigan Athletic	1:1	3:1	09.05.2009	16:00	2008	2009	36
+West Ham United	Liverpool FC	0:2	0:3	09.05.2009	18:30	2008	2009	36
+Manchester United	Manchester City	2:0	2:0	10.05.2009	14:30	2008	2009	36
+Arsenal FC	Chelsea FC	0:2	1:4	10.05.2009	17:00	2008	2009	36
+Newcastle United	Middlesbrough FC	1:1	3:1	11.05.2009	21:00	2008	2009	36
+Manchester United	Arsenal FC	0:0	0:0	16.05.2009	13:45	2008	2009	37
+Bolton Wanderers	Hull City	1:0	1:1	16.05.2009	16:00	2008	2009	37
+Everton FC	West Ham United	1:1	3:1	16.05.2009	16:00	2008	2009	37
+Middlesbrough FC	Aston Villa	1:0	1:1	16.05.2009	16:00	2008	2009	37
+Newcastle United	Fulham FC	0:1	0:1	16.05.2009	16:00	2008	2009	37
+Stoke City	Wigan Athletic	0:0	2:0	16.05.2009	16:00	2008	2009	37
+Tottenham Hotspur	Manchester City	1:0	2:1	16.05.2009	16:00	2008	2009	37
+West Bromwich Albion	Liverpool FC	0:1	0:2	17.05.2009	14:30	2008	2009	37
+Chelsea FC	Blackburn Rovers	1:0	2:0	17.05.2009	17:00	2008	2009	37
+Portsmouth FC	Sunderland AFC	0:0	3:1	18.05.2009	21:00	2008	2009	37
+Arsenal FC	Stoke City	4:1	4:1	24.05.2009	17:00	2008	2009	38
+Aston Villa	Newcastle United	1:0	1:0	24.05.2009	17:00	2008	2009	38
+Blackburn Rovers	West Bromwich Albion	0:0	0:0	24.05.2009	17:00	2008	2009	38
+Fulham FC	Everton FC	0:1	0:2	24.05.2009	17:00	2008	2009	38
+Hull City	Manchester United	0:1	0:1	24.05.2009	17:00	2008	2009	38
+Liverpool FC	Tottenham Hotspur	1:0	3:1	24.05.2009	17:00	2008	2009	38
+Manchester City	Bolton Wanderers	1:0	1:0	24.05.2009	17:00	2008	2009	38
+Sunderland AFC	Chelsea FC	0:0	2:3	24.05.2009	17:00	2008	2009	38
+West Ham United	Middlesbrough FC	1:0	2:1	24.05.2009	17:00	2008	2009	38
+Wigan Athletic	Portsmouth FC	1:0	1:0	24.05.2009	17:00	2008	2009	38

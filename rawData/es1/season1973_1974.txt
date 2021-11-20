@@ -1,0 +1,306 @@
+Real Sociedad	Granada CF	0:1	0:2	01.09.1973	00:00	1973	1974	1
+Espanyol Barcelona	Real Murcia	0:0	3:0	01.09.1973	00:00	1973	1974	1
+Real Madrid	CD CastellÃ³n	0:0	0:0	01.09.1973	00:00	1973	1974	1
+Valencia CF	Real Oviedo	1:1	2:1	01.09.1973	00:00	1973	1974	1
+Elche CF	FC Barcelona	1:0	1:0	02.09.1973	00:00	1973	1974	1
+Celta Vigo	Athletic Bilbao	1:1	2:1	02.09.1973	00:00	1973	1974	1
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:1	0:3	02.09.1973	00:00	1973	1974	1
+Racing Santander	Real Zaragoza	1:0	1:1	02.09.1973	00:00	1973	1974	1
+UD Las Palmas	CD MÃ¡laga	1:0	1:0	02.09.1973	00:00	1973	1974	1
+AtlÃ©tico Madrid	Valencia CF	1:1	3:1	08.09.1973	00:00	1973	1974	2
+Real Murcia	Real Sociedad	1:1	1:1	08.09.1973	00:00	1973	1974	2
+Athletic Bilbao	Espanyol Barcelona	1:0	1:0	08.09.1973	00:00	1973	1974	2
+CD MÃ¡laga	Elche CF	1:1	3:1	08.09.1973	00:00	1973	1974	2
+FC Barcelona	Racing Santander	0:0	0:0	09.09.1973	00:00	1973	1974	2
+CD CastellÃ³n	Sporting GijÃ³n	1:1	3:2	09.09.1973	00:00	1973	1974	2
+Real Oviedo	UD Las Palmas	0:0	1:0	09.09.1973	00:00	1973	1974	2
+Real Zaragoza	Celta Vigo	2:0	2:1	09.09.1973	00:00	1973	1974	2
+Granada CF	Real Madrid	1:1	1:1	09.09.1973	00:00	1973	1974	2
+UD Las Palmas	AtlÃ©tico Madrid	0:0	1:0	15.09.1973	00:00	1973	1974	3
+Sporting GijÃ³n	Valencia CF	1:1	1:2	15.09.1973	00:00	1973	1974	3
+Espanyol Barcelona	Real Zaragoza	1:0	3:1	15.09.1973	00:00	1973	1974	3
+Real Madrid	Real Murcia	0:0	1:1	15.09.1973	00:00	1973	1974	3
+Real Sociedad	Athletic Bilbao	1:0	2:1	16.09.1973	00:00	1973	1974	3
+CD CastellÃ³n	Granada CF	0:1	1:1	16.09.1973	00:00	1973	1974	3
+Racing Santander	CD MÃ¡laga	1:1	1:1	16.09.1973	00:00	1973	1974	3
+Elche CF	Real Oviedo	0:1	1:1	16.09.1973	00:00	1973	1974	3
+Celta Vigo	FC Barcelona	2:0	2:1	16.09.1973	00:00	1973	1974	3
+Valencia CF	UD Las Palmas	2:0	2:0	22.09.1973	00:00	1973	1974	4
+CD MÃ¡laga	Celta Vigo	1:0	1:1	22.09.1973	00:00	1973	1974	4
+Real Zaragoza	Real Sociedad	0:0	0:0	23.09.1973	00:00	1973	1974	4
+Real Murcia	CD CastellÃ³n	1:1	3:1	23.09.1973	00:00	1973	1974	4
+AtlÃ©tico Madrid	Elche CF	1:0	2:1	23.09.1973	00:00	1973	1974	4
+Granada CF	Sporting GijÃ³n	0:0	1:0	23.09.1973	00:00	1973	1974	4
+FC Barcelona	Espanyol Barcelona	0:0	3:0	23.09.1973	00:00	1973	1974	4
+Athletic Bilbao	Real Madrid	2:0	2:1	23.09.1973	00:00	1973	1974	4
+Real Oviedo	Racing Santander	1:1	2:1	23.09.1973	00:00	1973	1974	4
+Sporting GijÃ³n	UD Las Palmas	1:0	1:0	29.09.1973	00:00	1973	1974	5
+Real Madrid	Real Zaragoza	2:0	4:0	29.09.1973	00:00	1973	1974	5
+Espanyol Barcelona	CD MÃ¡laga	0:1	1:1	29.09.1973	00:00	1973	1974	5
+Granada CF	Real Murcia	0:0	1:1	29.09.1973	00:00	1973	1974	5
+CD CastellÃ³n	Athletic Bilbao	0:0	0:0	30.09.1973	00:00	1973	1974	5
+Celta Vigo	Real Oviedo	1:1	5:1	30.09.1973	00:00	1973	1974	5
+Racing Santander	AtlÃ©tico Madrid	1:0	2:1	30.09.1973	00:00	1973	1974	5
+Elche CF	Valencia CF	1:0	1:0	30.09.1973	00:00	1973	1974	5
+Real Sociedad	FC Barcelona	0:1	2:1	30.09.1973	00:00	1973	1974	5
+UD Las Palmas	Elche CF	2:0	3:1	06.10.1973	00:00	1973	1974	6
+CD MÃ¡laga	Real Sociedad	1:0	2:0	07.10.1973	00:00	1973	1974	6
+Real Zaragoza	CD CastellÃ³n	0:1	3:2	07.10.1973	00:00	1973	1974	6
+Athletic Bilbao	Granada CF	0:0	1:0	07.10.1973	00:00	1973	1974	6
+Valencia CF	Racing Santander	3:1	5:2	07.10.1973	00:00	1973	1974	6
+AtlÃ©tico Madrid	Celta Vigo	1:0	2:0	07.10.1973	00:00	1973	1974	6
+Real Oviedo	Espanyol Barcelona	1:0	1:0	07.10.1973	00:00	1973	1974	6
+FC Barcelona	Real Madrid	0:0	0:0	07.10.1973	00:00	1973	1974	6
+Real Murcia	Sporting GijÃ³n	1:0	2:1	07.10.1973	00:00	1973	1974	6
+Espanyol Barcelona	AtlÃ©tico Madrid	1:0	1:0	12.10.1973	00:00	1973	1974	7
+Real Madrid	CD MÃ¡laga	0:0	0:0	12.10.1973	00:00	1973	1974	7
+Real Sociedad	Real Oviedo	0:0	2:0	12.10.1973	00:00	1973	1974	7
+Sporting GijÃ³n	Elche CF	0:0	2:0	12.10.1973	00:00	1973	1974	7
+Celta Vigo	Valencia CF	0:2	0:2	12.10.1973	00:00	1973	1974	7
+Real Murcia	Athletic Bilbao	0:0	0:0	12.10.1973	00:00	1973	1974	7
+CD CastellÃ³n	FC Barcelona	0:1	0:2	12.10.1973	00:00	1973	1974	7
+Racing Santander	UD Las Palmas	1:0	1:0	12.10.1973	00:00	1973	1974	7
+Granada CF	Real Zaragoza	0:2	1:2	12.10.1973	00:00	1973	1974	7
+UD Las Palmas	Celta Vigo	0:0	1:0	27.10.1973	00:00	1973	1974	8
+AtlÃ©tico Madrid	Real Sociedad	0:0	5:1	28.10.1973	00:00	1973	1974	8
+CD MÃ¡laga	CD CastellÃ³n	1:0	2:1	28.10.1973	00:00	1973	1974	8
+Real Zaragoza	Real Murcia	0:0	0:0	28.10.1973	00:00	1973	1974	8
+FC Barcelona	Granada CF	1:0	4:0	28.10.1973	00:00	1973	1974	8
+Athletic Bilbao	Sporting GijÃ³n	2:2	2:3	28.10.1973	00:00	1973	1974	8
+Valencia CF	Espanyol Barcelona	1:0	1:0	28.10.1973	00:00	1973	1974	8
+Real Oviedo	Real Madrid	0:1	1:1	28.10.1973	00:00	1973	1974	8
+Elche CF	Racing Santander	0:0	0:0	28.10.1973	00:00	1973	1974	8
+Real Madrid	AtlÃ©tico Madrid	0:0	2:0	03.11.1973	00:00	1973	1974	9
+Athletic Bilbao	Real Zaragoza	2:0	2:1	04.11.1973	00:00	1973	1974	9
+Sporting GijÃ³n	Racing Santander	1:0	2:0	04.11.1973	00:00	1973	1974	9
+Celta Vigo	Elche CF	1:0	1:0	04.11.1973	00:00	1973	1974	9
+Granada CF	CD MÃ¡laga	0:0	0:0	04.11.1973	00:00	1973	1974	9
+Espanyol Barcelona	UD Las Palmas	0:0	2:0	04.11.1973	00:00	1973	1974	9
+Real Sociedad	Valencia CF	1:2	3:2	04.11.1973	00:00	1973	1974	9
+Real Murcia	FC Barcelona	1:2	2:2	04.11.1973	00:00	1973	1974	9
+CD CastellÃ³n	Real Oviedo	2:0	2:0	04.11.1973	00:00	1973	1974	9
+UD Las Palmas	Real Sociedad	0:0	1:0	10.11.1973	00:00	1973	1974	10
+Elche CF	Espanyol Barcelona	0:0	0:0	11.11.1973	00:00	1973	1974	10
+AtlÃ©tico Madrid	CD CastellÃ³n	0:0	0:0	11.11.1973	00:00	1973	1974	10
+CD MÃ¡laga	Real Murcia	1:0	1:0	11.11.1973	00:00	1973	1974	10
+Real Oviedo	Granada CF	0:0	3:0	11.11.1973	00:00	1973	1974	10
+Racing Santander	Celta Vigo	1:1	1:1	11.11.1973	00:00	1973	1974	10
+FC Barcelona	Athletic Bilbao	2:0	2:0	11.11.1973	00:00	1973	1974	10
+Valencia CF	Real Madrid	0:0	1:0	11.11.1973	00:00	1973	1974	10
+Real Zaragoza	Sporting GijÃ³n	1:0	3:0	11.11.1973	00:00	1973	1974	10
+Espanyol Barcelona	Racing Santander	0:0	0:2	18.11.1973	00:00	1973	1974	11
+Sporting GijÃ³n	Celta Vigo	2:1	2:1	18.11.1973	00:00	1973	1974	11
+Real Sociedad	Elche CF	1:0	2:1	18.11.1973	00:00	1973	1974	11
+Athletic Bilbao	CD MÃ¡laga	0:0	1:0	18.11.1973	00:00	1973	1974	11
+Real Zaragoza	FC Barcelona	1:1	2:2	18.11.1973	00:00	1973	1974	11
+Granada CF	AtlÃ©tico Madrid	0:0	1:0	18.11.1973	00:00	1973	1974	11
+CD CastellÃ³n	Valencia CF	0:0	0:0	18.11.1973	00:00	1973	1974	11
+Real Murcia	Real Oviedo	2:0	3:1	18.11.1973	00:00	1973	1974	11
+Real Madrid	UD Las Palmas	2:0	5:0	18.11.1973	00:00	1973	1974	11
+UD Las Palmas	CD CastellÃ³n	1:0	2:0	01.12.1973	00:00	1973	1974	12
+Celta Vigo	Espanyol Barcelona	1:0	1:2	02.12.1973	00:00	1973	1974	12
+AtlÃ©tico Madrid	Real Murcia	3:0	4:1	02.12.1973	00:00	1973	1974	12
+Valencia CF	Granada CF	0:0	1:1	02.12.1973	00:00	1973	1974	12
+FC Barcelona	Sporting GijÃ³n	2:1	5:1	02.12.1973	00:00	1973	1974	12
+Racing Santander	Real Sociedad	0:0	0:0	02.12.1973	00:00	1973	1974	12
+Real Oviedo	Athletic Bilbao	0:1	0:1	02.12.1973	00:00	1973	1974	12
+Elche CF	Real Madrid	0:0	1:0	02.12.1973	00:00	1973	1974	12
+CD MÃ¡laga	Real Zaragoza	0:1	0:1	02.12.1973	00:00	1973	1974	12
+Real Zaragoza	Real Oviedo	0:1	4:2	09.12.1973	00:00	1973	1974	13
+Granada CF	UD Las Palmas	1:0	2:1	09.12.1973	00:00	1973	1974	13
+Real Madrid	Racing Santander	3:0	3:2	09.12.1973	00:00	1973	1974	13
+CD CastellÃ³n	Elche CF	0:1	0:2	09.12.1973	00:00	1973	1974	13
+Athletic Bilbao	AtlÃ©tico Madrid	2:1	2:2	09.12.1973	00:00	1973	1974	13
+Real Murcia	Valencia CF	1:0	1:0	09.12.1973	00:00	1973	1974	13
+Sporting GijÃ³n	Espanyol Barcelona	3:0	3:0	09.12.1973	00:00	1973	1974	13
+Real Sociedad	Celta Vigo	1:1	2:1	09.12.1973	00:00	1973	1974	13
+FC Barcelona	CD MÃ¡laga	2:0	4:0	09.12.1973	00:00	1973	1974	13
+UD Las Palmas	Real Murcia	1:0	3:0	15.12.1973	00:00	1973	1974	14
+Valencia CF	Athletic Bilbao	0:1	0:1	16.12.1973	00:00	1973	1974	14
+Racing Santander	CD CastellÃ³n	0:1	1:1	16.12.1973	00:00	1973	1974	14
+Elche CF	Granada CF	0:0	1:0	16.12.1973	00:00	1973	1974	14
+CD MÃ¡laga	Sporting GijÃ³n	2:0	2:0	16.12.1973	00:00	1973	1974	14
+Espanyol Barcelona	Real Sociedad	1:0	1:0	16.12.1973	00:00	1973	1974	14
+Real Oviedo	FC Barcelona	1:2	1:3	16.12.1973	00:00	1973	1974	14
+Celta Vigo	Real Madrid	1:0	2:1	16.12.1973	00:00	1973	1974	14
+AtlÃ©tico Madrid	Real Zaragoza	0:0	0:0	16.12.1973	00:00	1973	1974	14
+FC Barcelona	AtlÃ©tico Madrid	1:0	2:1	22.12.1973	00:00	1973	1974	15
+CD CastellÃ³n	Celta Vigo	1:1	1:1	23.12.1973	00:00	1973	1974	15
+Athletic Bilbao	UD Las Palmas	0:0	2:1	23.12.1973	00:00	1973	1974	15
+CD MÃ¡laga	Real Oviedo	1:0	1:0	23.12.1973	00:00	1973	1974	15
+Real Murcia	Elche CF	0:1	0:1	23.12.1973	00:00	1973	1974	15
+Real Zaragoza	Valencia CF	0:0	2:1	23.12.1973	00:00	1973	1974	15
+Real Madrid	Espanyol Barcelona	2:1	2:1	23.12.1973	00:00	1973	1974	15
+Granada CF	Racing Santander	1:0	2:0	23.12.1973	00:00	1973	1974	15
+Sporting GijÃ³n	Real Sociedad	3:0	3:1	23.12.1973	00:00	1973	1974	15
+UD Las Palmas	Real Zaragoza	0:0	1:0	29.12.1973	00:00	1973	1974	16
+AtlÃ©tico Madrid	CD MÃ¡laga	1:0	2:0	30.12.1973	00:00	1973	1974	16
+Espanyol Barcelona	CD CastellÃ³n	0:0	1:0	30.12.1973	00:00	1973	1974	16
+Celta Vigo	Granada CF	1:0	1:0	30.12.1973	00:00	1973	1974	16
+Sporting GijÃ³n	Real Oviedo	0:2	0:3	30.12.1973	00:00	1973	1974	16
+Elche CF	Athletic Bilbao	0:0	0:0	30.12.1973	00:00	1973	1974	16
+Valencia CF	FC Barcelona	0:0	0:2	30.12.1973	00:00	1973	1974	16
+Real Sociedad	Real Madrid	1:1	2:2	30.12.1973	00:00	1973	1974	16
+Racing Santander	Real Murcia	2:0	2:0	30.12.1973	00:00	1973	1974	16
+Real Zaragoza	Elche CF	0:0	2:1	06.01.1974	00:00	1973	1974	17
+Granada CF	Espanyol Barcelona	0:0	2:0	06.01.1974	00:00	1973	1974	17
+CD MÃ¡laga	Valencia CF	1:0	1:0	06.01.1974	00:00	1973	1974	17
+Real Oviedo	AtlÃ©tico Madrid	0:0	2:0	06.01.1974	00:00	1973	1974	17
+CD CastellÃ³n	Real Sociedad	0:0	2:0	06.01.1974	00:00	1973	1974	17
+Real Murcia	Celta Vigo	1:0	2:2	06.01.1974	00:00	1973	1974	17
+FC Barcelona	UD Las Palmas	0:0	3:0	06.01.1974	00:00	1973	1974	17
+Real Madrid	Sporting GijÃ³n	1:2	2:2	06.01.1974	00:00	1973	1974	17
+Athletic Bilbao	Racing Santander	2:1	3:1	06.01.1974	00:00	1973	1974	17
+Real Murcia	Espanyol Barcelona	1:0	1:0	13.01.1974	00:00	1973	1974	18
+Real Oviedo	Valencia CF	0:0	1:2	13.01.1974	00:00	1973	1974	18
+Granada CF	Real Sociedad	1:1	2:1	13.01.1974	00:00	1973	1974	18
+Athletic Bilbao	Celta Vigo	0:0	2:0	13.01.1974	00:00	1973	1974	18
+CD MÃ¡laga	UD Las Palmas	0:0	1:0	13.01.1974	00:00	1973	1974	18
+AtlÃ©tico Madrid	Sporting GijÃ³n	0:0	2:0	13.01.1974	00:00	1973	1974	18
+Real Zaragoza	Racing Santander	1:0	5:1	13.01.1974	00:00	1973	1974	18
+FC Barcelona	Elche CF	0:0	2:0	13.01.1974	00:00	1973	1974	18
+CD CastellÃ³n	Real Madrid	1:0	2:0	13.01.1974	00:00	1973	1974	18
+UD Las Palmas	Real Oviedo	1:0	1:2	19.01.1974	00:00	1973	1974	19
+Racing Santander	FC Barcelona	1:2	1:3	20.01.1974	00:00	1973	1974	19
+Sporting GijÃ³n	CD CastellÃ³n	2:0	4:0	20.01.1974	00:00	1973	1974	19
+Real Sociedad	Real Murcia	1:1	2:1	20.01.1974	00:00	1973	1974	19
+Real Madrid	Granada CF	0:1	0:1	20.01.1974	00:00	1973	1974	19
+Elche CF	CD MÃ¡laga	0:0	0:1	20.01.1974	00:00	1973	1974	19
+Celta Vigo	Real Zaragoza	0:0	2:0	20.01.1974	00:00	1973	1974	19
+Espanyol Barcelona	Athletic Bilbao	0:0	2:0	20.01.1974	00:00	1973	1974	19
+Valencia CF	AtlÃ©tico Madrid	0:1	0:1	20.01.1974	00:00	1973	1974	19
+Valencia CF	Sporting GijÃ³n	4:1	6:1	27.01.1974	00:00	1973	1974	20
+Real Zaragoza	Espanyol Barcelona	0:0	3:1	27.01.1974	00:00	1973	1974	20
+Granada CF	CD CastellÃ³n	0:0	2:0	27.01.1974	00:00	1973	1974	20
+Real Oviedo	Elche CF	1:0	1:0	27.01.1974	00:00	1973	1974	20
+CD MÃ¡laga	Racing Santander	1:0	3:0	27.01.1974	00:00	1973	1974	20
+Real Murcia	Real Madrid	0:0	0:1	27.01.1974	00:00	1973	1974	20
+Athletic Bilbao	Real Sociedad	1:1	1:2	27.01.1974	00:00	1973	1974	20
+FC Barcelona	Celta Vigo	3:0	5:2	27.01.1974	00:00	1973	1974	20
+AtlÃ©tico Madrid	UD Las Palmas	1:0	3:1	27.01.1974	00:00	1973	1974	20
+UD Las Palmas	Valencia CF	0:0	0:0	02.02.1974	00:00	1973	1974	21
+Real Sociedad	Real Zaragoza	0:0	2:0	03.02.1974	00:00	1973	1974	21
+CD CastellÃ³n	Real Murcia	1:0	1:0	03.02.1974	00:00	1973	1974	21
+Sporting GijÃ³n	Granada CF	2:0	4:0	03.02.1974	00:00	1973	1974	21
+Racing Santander	Real Oviedo	2:0	2:0	03.02.1974	00:00	1973	1974	21
+Elche CF	AtlÃ©tico Madrid	0:0	0:0	03.02.1974	00:00	1973	1974	21
+Real Madrid	Athletic Bilbao	0:0	1:0	03.02.1974	00:00	1973	1974	21
+Espanyol Barcelona	FC Barcelona	0:0	0:0	03.02.1974	00:00	1973	1974	21
+Celta Vigo	CD MÃ¡laga	3:1	5:1	03.02.1974	00:00	1973	1974	21
+Granada CF	Athletic Bilbao	0:0	0:0	17.02.1974	00:00	1973	1974	22
+Sporting GijÃ³n	Real Murcia	2:1	2:1	17.02.1974	00:00	1973	1974	22
+Real Sociedad	CD MÃ¡laga	0:1	1:1	17.02.1974	00:00	1973	1974	22
+Espanyol Barcelona	Real Oviedo	1:0	2:0	17.02.1974	00:00	1973	1974	22
+Elche CF	UD Las Palmas	1:0	1:0	17.02.1974	00:00	1973	1974	22
+Racing Santander	Valencia CF	0:0	0:1	17.02.1974	00:00	1973	1974	22
+Celta Vigo	AtlÃ©tico Madrid	1:2	1:3	17.02.1974	00:00	1973	1974	22
+Real Madrid	FC Barcelona	0:2	0:5	17.02.1974	00:00	1973	1974	22
+CD CastellÃ³n	Real Zaragoza	0:0	2:1	17.02.1974	00:00	1973	1974	22
+Real Murcia	Granada CF	0:0	0:0	24.02.1974	00:00	1973	1974	23
+AtlÃ©tico Madrid	Racing Santander	1:0	2:1	24.02.1974	00:00	1973	1974	23
+CD MÃ¡laga	Espanyol Barcelona	0:1	1:1	26.02.1974	00:00	1973	1974	23
+FC Barcelona	Real Sociedad	0:0	4:1	27.02.1974	00:00	1973	1974	23
+Athletic Bilbao	CD CastellÃ³n	1:0	2:0	27.02.1974	00:00	1973	1974	23
+Valencia CF	Elche CF	0:0	2:0	27.02.1974	00:00	1973	1974	23
+Real Oviedo	Celta Vigo	1:0	1:1	27.02.1974	00:00	1973	1974	23
+UD Las Palmas	Sporting GijÃ³n	1:0	1:0	27.02.1974	00:00	1973	1974	23
+Real Zaragoza	Real Madrid	1:0	2:1	28.02.1974	00:00	1973	1974	23
+UD Las Palmas	Racing Santander	0:0	2:0	02.03.1974	00:00	1973	1974	24
+AtlÃ©tico Madrid	Espanyol Barcelona	5:1	5:1	02.03.1974	00:00	1973	1974	24
+Real Oviedo	Real Sociedad	0:1	0:2	03.03.1974	00:00	1973	1974	24
+Athletic Bilbao	Real Murcia	2:0	3:0	03.03.1974	00:00	1973	1974	24
+Real Zaragoza	Granada CF	1:0	1:0	03.03.1974	00:00	1973	1974	24
+FC Barcelona	CD CastellÃ³n	3:0	5:0	03.03.1974	00:00	1973	1974	24
+CD MÃ¡laga	Real Madrid	0:0	1:0	03.03.1974	00:00	1973	1974	24
+Elche CF	Sporting GijÃ³n	0:0	1:0	03.03.1974	00:00	1973	1974	24
+Valencia CF	Celta Vigo	0:0	0:0	03.03.1974	00:00	1973	1974	24
+Real Sociedad	AtlÃ©tico Madrid	0:0	0:0	10.03.1974	00:00	1973	1974	25
+Racing Santander	Elche CF	1:0	2:1	10.03.1974	00:00	1973	1974	25
+CD CastellÃ³n	CD MÃ¡laga	0:0	1:0	10.03.1974	00:00	1973	1974	25
+Real Madrid	Real Oviedo	0:0	2:0	10.03.1974	00:00	1973	1974	25
+Real Murcia	Real Zaragoza	1:0	1:0	10.03.1974	00:00	1973	1974	25
+Espanyol Barcelona	Valencia CF	0:0	1:0	10.03.1974	00:00	1973	1974	25
+Sporting GijÃ³n	Athletic Bilbao	0:0	2:0	10.03.1974	00:00	1973	1974	25
+Granada CF	FC Barcelona	1:0	1:1	10.03.1974	00:00	1973	1974	25
+Celta Vigo	UD Las Palmas	2:0	3:1	10.03.1974	00:00	1973	1974	25
+UD Las Palmas	Espanyol Barcelona	1:1	1:1	16.03.1974	00:00	1973	1974	26
+Valencia CF	Real Sociedad	1:1	1:2	17.03.1974	00:00	1973	1974	26
+Real Oviedo	CD CastellÃ³n	0:0	0:0	17.03.1974	00:00	1973	1974	26
+FC Barcelona	Real Murcia	1:0	1:0	17.03.1974	00:00	1973	1974	26
+CD MÃ¡laga	Granada CF	0:0	1:1	17.03.1974	00:00	1973	1974	26
+Elche CF	Celta Vigo	1:0	2:0	17.03.1974	00:00	1973	1974	26
+Real Zaragoza	Athletic Bilbao	3:0	3:0	17.03.1974	00:00	1973	1974	26
+AtlÃ©tico Madrid	Real Madrid	0:0	0:2	17.03.1974	00:00	1973	1974	26
+Racing Santander	Sporting GijÃ³n	0:0	3:3	17.03.1974	00:00	1973	1974	26
+Sporting GijÃ³n	Real Zaragoza	0:0	2:2	24.03.1974	00:00	1973	1974	27
+Espanyol Barcelona	Elche CF	1:1	1:1	24.03.1974	00:00	1973	1974	27
+Real Murcia	CD MÃ¡laga	0:0	0:0	24.03.1974	00:00	1973	1974	27
+Celta Vigo	Racing Santander	1:0	1:0	24.03.1974	00:00	1973	1974	27
+Real Sociedad	UD Las Palmas	0:0	0:0	24.03.1974	00:00	1973	1974	27
+CD CastellÃ³n	AtlÃ©tico Madrid	0:1	1:1	24.03.1974	00:00	1973	1974	27
+Real Madrid	Valencia CF	2:0	2:1	24.03.1974	00:00	1973	1974	27
+Athletic Bilbao	FC Barcelona	0:0	0:0	24.03.1974	00:00	1973	1974	27
+Granada CF	Real Oviedo	0:0	3:0	24.03.1974	00:00	1973	1974	27
+Valencia CF	CD CastellÃ³n	0:0	3:0	30.03.1974	00:00	1973	1974	28
+Celta Vigo	Sporting GijÃ³n	0:0	1:0	31.03.1974	00:00	1973	1974	28
+Racing Santander	Espanyol Barcelona	1:0	1:1	31.03.1974	00:00	1973	1974	28
+Real Oviedo	Real Murcia	0:1	0:1	31.03.1974	00:00	1973	1974	28
+AtlÃ©tico Madrid	Granada CF	1:1	2:1	31.03.1974	00:00	1973	1974	28
+CD MÃ¡laga	Athletic Bilbao	0:0	1:0	31.03.1974	00:00	1973	1974	28
+UD Las Palmas	Real Madrid	1:0	1:0	31.03.1974	00:00	1973	1974	28
+FC Barcelona	Real Zaragoza	1:0	2:0	31.03.1974	00:00	1973	1974	28
+Elche CF	Real Sociedad	1:1	1:2	31.03.1974	00:00	1973	1974	28
+Real Murcia	AtlÃ©tico Madrid	1:0	1:0	06.04.1974	00:00	1973	1974	29
+Espanyol Barcelona	Celta Vigo	0:0	1:0	07.04.1974	00:00	1973	1974	29
+Real Madrid	Elche CF	1:0	1:0	07.04.1974	00:00	1973	1974	29
+Real Zaragoza	CD MÃ¡laga	1:1	3:1	07.04.1974	00:00	1973	1974	29
+Real Sociedad	Racing Santander	2:0	4:1	07.04.1974	00:00	1973	1974	29
+CD CastellÃ³n	UD Las Palmas	0:0	1:1	07.04.1974	00:00	1973	1974	29
+Granada CF	Valencia CF	0:0	2:2	07.04.1974	00:00	1973	1974	29
+Sporting GijÃ³n	FC Barcelona	0:1	2:4	07.04.1974	00:00	1973	1974	29
+Athletic Bilbao	Real Oviedo	1:0	2:0	07.04.1974	00:00	1973	1974	29
+Valencia CF	Real Murcia	0:0	1:0	13.04.1974	00:00	1973	1974	30
+UD Las Palmas	Granada CF	0:0	1:1	13.04.1974	00:00	1973	1974	30
+Espanyol Barcelona	Sporting GijÃ³n	0:0	3:0	13.04.1974	00:00	1973	1974	30
+AtlÃ©tico Madrid	Athletic Bilbao	1:0	1:0	14.04.1974	00:00	1973	1974	30
+CD MÃ¡laga	FC Barcelona	0:0	0:0	14.04.1974	00:00	1973	1974	30
+Celta Vigo	Real Sociedad	1:0	3:0	14.04.1974	00:00	1973	1974	30
+Elche CF	CD CastellÃ³n	1:0	1:0	14.04.1974	00:00	1973	1974	30
+Racing Santander	Real Madrid	2:0	2:1	14.04.1974	00:00	1973	1974	30
+Real Oviedo	Real Zaragoza	1:0	1:0	14.04.1974	00:00	1973	1974	30
+Real Zaragoza	AtlÃ©tico Madrid	2:0	4:0	20.04.1974	00:00	1973	1974	31
+Real Sociedad	Espanyol Barcelona	0:0	3:0	20.04.1974	00:00	1973	1974	31
+Real Madrid	Celta Vigo	3:1	6:1	21.04.1974	00:00	1973	1974	31
+Granada CF	Elche CF	2:0	2:1	21.04.1974	00:00	1973	1974	31
+Sporting GijÃ³n	CD MÃ¡laga	0:0	1:0	21.04.1974	00:00	1973	1974	31
+CD CastellÃ³n	Racing Santander	0:1	1:1	21.04.1974	00:00	1973	1974	31
+Real Murcia	UD Las Palmas	0:0	0:1	21.04.1974	00:00	1973	1974	31
+Athletic Bilbao	Valencia CF	0:0	1:0	21.04.1974	00:00	1973	1974	31
+FC Barcelona	Real Oviedo	4:2	6:2	21.04.1974	00:00	1973	1974	31
+Valencia CF	Real Zaragoza	0:0	0:0	27.04.1974	00:00	1973	1974	32
+UD Las Palmas	Athletic Bilbao	0:0	1:0	27.04.1974	00:00	1973	1974	32
+Espanyol Barcelona	Real Madrid	1:0	1:0	27.04.1974	00:00	1973	1974	32
+Real Sociedad	Sporting GijÃ³n	1:0	2:1	27.04.1974	00:00	1973	1974	32
+AtlÃ©tico Madrid	FC Barcelona	0:0	2:0	28.04.1974	00:00	1973	1974	32
+Real Oviedo	CD MÃ¡laga	0:0	1:1	28.04.1974	00:00	1973	1974	32
+Racing Santander	Granada CF	0:0	2:0	28.04.1974	00:00	1973	1974	32
+Celta Vigo	CD CastellÃ³n	0:0	0:1	28.04.1974	00:00	1973	1974	32
+Elche CF	Real Murcia	0:0	1:0	28.04.1974	00:00	1973	1974	32
+Athletic Bilbao	Elche CF	1:0	2:1	04.05.1974	00:00	1973	1974	33
+Granada CF	Celta Vigo	2:1	2:1	05.05.1974	00:00	1973	1974	33
+Real Murcia	Racing Santander	0:0	2:0	05.05.1974	00:00	1973	1974	33
+Real Zaragoza	UD Las Palmas	2:0	2:0	05.05.1974	00:00	1973	1974	33
+Real Madrid	Real Sociedad	0:0	3:1	05.05.1974	00:00	1973	1974	33
+CD MÃ¡laga	AtlÃ©tico Madrid	1:1	1:2	05.05.1974	00:00	1973	1974	33
+FC Barcelona	Valencia CF	0:0	1:0	05.05.1974	00:00	1973	1974	33
+CD CastellÃ³n	Espanyol Barcelona	1:0	3:2	05.05.1974	00:00	1973	1974	33
+Real Oviedo	Sporting GijÃ³n	0:0	0:0	05.05.1974	00:00	1973	1974	33
+UD Las Palmas	FC Barcelona	0:0	1:0	11.05.1974	00:00	1973	1974	34
+Valencia CF	CD MÃ¡laga	2:1	2:2	11.05.1974	00:00	1973	1974	34
+Espanyol Barcelona	Granada CF	0:0	1:1	11.05.1974	00:00	1973	1974	34
+Sporting GijÃ³n	Real Madrid	2:1	4:3	12.05.1974	00:00	1973	1974	34
+Racing Santander	Athletic Bilbao	0:1	2:2	12.05.1974	00:00	1973	1974	34
+Elche CF	Real Zaragoza	1:0	1:1	12.05.1974	00:00	1973	1974	34
+Celta Vigo	Real Murcia	0:1	0:2	12.05.1974	00:00	1973	1974	34
+Real Sociedad	CD CastellÃ³n	2:0	3:1	12.05.1974	00:00	1973	1974	34
+AtlÃ©tico Madrid	Real Oviedo	0:0	1:0	20.05.1974	00:00	1973	1974	34

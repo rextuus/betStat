@@ -1,0 +1,306 @@
+Aurora Pro Patria	Juventus	0:0	1:2	01.01.2000	00:00	1954	1955	1
+Udinese Calcio	Inter	0:0	0:2	01.01.2000	00:00	1954	1955	1
+Torino FC	Bologna FC	0:0	1:2	01.01.2000	00:00	1954	1955	1
+SPAL 1907 Ferrara	Atalanta	0:0	0:0	01.01.2000	00:00	1954	1955	1
+AC Milan	Unione Triestina	0:0	4:0	01.01.2000	00:00	1954	1955	1
+Lazio Roma	Sampdoria	0:0	1:3	01.01.2000	00:00	1954	1955	1
+Genoa CFC	SSC Napoli	0:0	1:1	01.01.2000	00:00	1954	1955	1
+ACF Fiorentina	Calcio Catania	0:0	2:1	01.01.2000	00:00	1954	1955	1
+Novara Calcio	AS Roma	0:0	1:2	01.01.2000	00:00	1954	1955	1
+Inter	SPAL 1907 Ferrara	0:0	1:0	01.01.2000	00:00	1954	1955	2
+Unione Triestina	Aurora Pro Patria	0:0	1:0	01.01.2000	00:00	1954	1955	2
+Sampdoria	AC Milan	0:0	0:3	01.01.2000	00:00	1954	1955	2
+AS Roma	Genoa CFC	0:0	2:1	01.01.2000	00:00	1954	1955	2
+Juventus	Lazio Roma	0:0	4:2	01.01.2000	00:00	1954	1955	2
+ACF Fiorentina	Novara Calcio	0:0	1:0	01.01.2000	00:00	1954	1955	2
+Bologna FC	Calcio Catania	0:0	4:2	01.01.2000	00:00	1954	1955	2
+Atalanta	Torino FC	0:0	2:0	01.01.2000	00:00	1954	1955	2
+SSC Napoli	Udinese Calcio	0:0	3:1	01.01.2000	00:00	1954	1955	2
+Aurora Pro Patria	AS Roma	0:0	1:1	01.01.2000	00:00	1954	1955	3
+Lazio Roma	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1954	1955	3
+Unione Triestina	Sampdoria	0:0	3:1	01.01.2000	00:00	1954	1955	3
+Torino FC	Inter	0:0	1:1	01.01.2000	00:00	1954	1955	3
+Bologna FC	SSC Napoli	0:0	1:3	01.01.2000	00:00	1954	1955	3
+Genoa CFC	SPAL 1907 Ferrara	0:0	1:1	01.01.2000	00:00	1954	1955	3
+Calcio Catania	Udinese Calcio	0:0	5:0	01.01.2000	00:00	1954	1955	3
+Novara Calcio	Juventus	0:0	2:2	01.01.2000	00:00	1954	1955	3
+AC Milan	Atalanta	0:0	3:1	01.01.2000	00:00	1954	1955	3
+Juventus	Unione Triestina	0:0	1:2	01.01.2000	00:00	1954	1955	4
+Udinese Calcio	Genoa CFC	0:0	3:0	01.01.2000	00:00	1954	1955	4
+SPAL 1907 Ferrara	Novara Calcio	0:0	2:1	01.01.2000	00:00	1954	1955	4
+Sampdoria	ACF Fiorentina	0:0	3:3	01.01.2000	00:00	1954	1955	4
+SSC Napoli	Torino FC	0:0	0:2	01.01.2000	00:00	1954	1955	4
+Inter	Aurora Pro Patria	0:0	2:0	01.01.2000	00:00	1954	1955	4
+Calcio Catania	AC Milan	0:0	1:3	01.01.2000	00:00	1954	1955	4
+Atalanta	Lazio Roma	0:0	3:2	01.01.2000	00:00	1954	1955	4
+AS Roma	Bologna FC	0:0	3:4	01.01.2000	00:00	1954	1955	4
+Torino FC	SPAL 1907 Ferrara	0:0	1:0	01.01.2000	00:00	1954	1955	5
+SSC Napoli	AC Milan	0:0	0:2	01.01.2000	00:00	1954	1955	5
+Unione Triestina	Udinese Calcio	0:0	0:0	01.01.2000	00:00	1954	1955	5
+Aurora Pro Patria	Atalanta	0:0	1:2	01.01.2000	00:00	1954	1955	5
+Inter	Sampdoria	0:0	1:0	01.01.2000	00:00	1954	1955	5
+Genoa CFC	Calcio Catania	0:0	0:0	01.01.2000	00:00	1954	1955	5
+Bologna FC	Novara Calcio	0:0	2:2	01.01.2000	00:00	1954	1955	5
+ACF Fiorentina	Juventus	0:0	0:0	01.01.2000	00:00	1954	1955	5
+Lazio Roma	AS Roma	0:0	1:1	01.01.2000	00:00	1954	1955	5
+AC Milan	Torino FC	0:0	4:1	01.01.2000	00:00	1954	1955	6
+Udinese Calcio	Bologna FC	0:0	2:1	01.01.2000	00:00	1954	1955	6
+SPAL 1907 Ferrara	ACF Fiorentina	0:0	1:3	01.01.2000	00:00	1954	1955	6
+AS Roma	SSC Napoli	0:0	0:0	01.01.2000	00:00	1954	1955	6
+Novara Calcio	Unione Triestina	0:0	2:0	01.01.2000	00:00	1954	1955	6
+Juventus	Calcio Catania	0:0	1:1	01.01.2000	00:00	1954	1955	6
+Genoa CFC	Lazio Roma	0:0	2:0	01.01.2000	00:00	1954	1955	6
+Atalanta	Inter	0:0	1:1	01.01.2000	00:00	1954	1955	6
+Aurora Pro Patria	Sampdoria	0:0	1:0	01.01.2000	00:00	1954	1955	6
+Lazio Roma	Torino FC	0:0	0:2	01.01.2000	00:00	1954	1955	7
+SPAL 1907 Ferrara	Aurora Pro Patria	0:0	1:1	01.01.2000	00:00	1954	1955	7
+Unione Triestina	Genoa CFC	0:0	1:1	01.01.2000	00:00	1954	1955	7
+Sampdoria	Atalanta	0:0	2:1	01.01.2000	00:00	1954	1955	7
+Inter	AS Roma	0:0	1:2	01.01.2000	00:00	1954	1955	7
+ACF Fiorentina	Udinese Calcio	0:0	3:1	01.01.2000	00:00	1954	1955	7
+Calcio Catania	Novara Calcio	0:0	0:0	01.01.2000	00:00	1954	1955	7
+Bologna FC	AC Milan	0:0	1:2	01.01.2000	00:00	1954	1955	7
+Juventus	SSC Napoli	0:0	1:1	01.01.2000	00:00	1954	1955	7
+Torino FC	Sampdoria	0:0	1:0	01.01.2000	00:00	1954	1955	8
+Atalanta	Unione Triestina	0:0	0:0	01.01.2000	00:00	1954	1955	8
+Udinese Calcio	SPAL 1907 Ferrara	0:0	3:0	01.01.2000	00:00	1954	1955	8
+AS Roma	Juventus	0:0	1:1	01.01.2000	00:00	1954	1955	8
+Aurora Pro Patria	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1954	1955	8
+AC Milan	Inter	0:0	1:1	01.01.2000	00:00	1954	1955	8
+Genoa CFC	Bologna FC	0:0	1:2	01.01.2000	00:00	1954	1955	8
+Calcio Catania	Lazio Roma	0:0	1:0	01.01.2000	00:00	1954	1955	8
+SSC Napoli	Novara Calcio	0:0	1:2	01.01.2000	00:00	1954	1955	8
+Juventus	Torino FC	0:0	3:0	01.01.2000	00:00	1954	1955	9
+Unione Triestina	Calcio Catania	0:0	1:1	01.01.2000	00:00	1954	1955	9
+SPAL 1907 Ferrara	SSC Napoli	0:0	1:1	01.01.2000	00:00	1954	1955	9
+Sampdoria	Genoa CFC	0:0	2:2	01.01.2000	00:00	1954	1955	9
+Atalanta	AS Roma	0:0	1:1	01.01.2000	00:00	1954	1955	9
+Lazio Roma	Udinese Calcio	0:0	0:2	01.01.2000	00:00	1954	1955	9
+Inter	Bologna FC	0:0	2:2	01.01.2000	00:00	1954	1955	9
+ACF Fiorentina	AC Milan	0:0	0:2	01.01.2000	00:00	1954	1955	9
+Novara Calcio	Aurora Pro Patria	0:0	0:1	01.01.2000	00:00	1954	1955	9
+SPAL 1907 Ferrara	Calcio Catania	0:0	1:3	01.01.2000	00:00	1954	1955	10
+Udinese Calcio	Juventus	0:0	0:1	01.01.2000	00:00	1954	1955	10
+Unione Triestina	SSC Napoli	0:0	0:2	01.01.2000	00:00	1954	1955	10
+Torino FC	AS Roma	0:0	1:1	01.01.2000	00:00	1954	1955	10
+Lazio Roma	Aurora Pro Patria	0:0	2:0	01.01.2000	00:00	1954	1955	10
+Genoa CFC	Inter	0:0	2:0	01.01.2000	00:00	1954	1955	10
+ACF Fiorentina	Atalanta	0:0	2:1	01.01.2000	00:00	1954	1955	10
+Bologna FC	Sampdoria	0:0	3:1	01.01.2000	00:00	1954	1955	10
+AC Milan	Novara Calcio	0:0	3:0	01.01.2000	00:00	1954	1955	10
+SSC Napoli	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1954	1955	11
+Torino FC	Unione Triestina	0:0	5:1	01.01.2000	00:00	1954	1955	11
+Sampdoria	Udinese Calcio	0:0	2:0	01.01.2000	00:00	1954	1955	11
+AS Roma	AC Milan	0:0	2:1	01.01.2000	00:00	1954	1955	11
+Novara Calcio	Lazio Roma	0:0	2:1	01.01.2000	00:00	1954	1955	11
+Inter	Juventus	0:0	1:2	01.01.2000	00:00	1954	1955	11
+Calcio Catania	Atalanta	0:0	1:0	01.01.2000	00:00	1954	1955	11
+Bologna FC	SPAL 1907 Ferrara	0:0	2:0	01.01.2000	00:00	1954	1955	11
+Aurora Pro Patria	Genoa CFC	0:0	0:2	01.01.2000	00:00	1954	1955	11
+Juventus	Genoa CFC	0:0	2:1	01.01.2000	00:00	1954	1955	12
+Unione Triestina	Bologna FC	0:0	0:0	01.01.2000	00:00	1954	1955	12
+Sampdoria	SPAL 1907 Ferrara	0:0	1:0	01.01.2000	00:00	1954	1955	12
+Aurora Pro Patria	Torino FC	0:0	1:2	01.01.2000	00:00	1954	1955	12
+ACF Fiorentina	AS Roma	0:0	1:1	01.01.2000	00:00	1954	1955	12
+Calcio Catania	Inter	0:0	1:1	01.01.2000	00:00	1954	1955	12
+Atalanta	Novara Calcio	0:0	4:0	01.01.2000	00:00	1954	1955	12
+AC Milan	Udinese Calcio	0:0	2:2	01.01.2000	00:00	1954	1955	12
+Lazio Roma	SSC Napoli	0:0	2:1	01.01.2000	00:00	1954	1955	12
+SSC Napoli	Inter	0:0	1:2	01.01.2000	00:00	1954	1955	13
+Udinese Calcio	Aurora Pro Patria	0:0	2:2	01.01.2000	00:00	1954	1955	13
+Torino FC	Calcio Catania	0:0	1:0	01.01.2000	00:00	1954	1955	13
+SPAL 1907 Ferrara	Juventus	0:0	0:0	01.01.2000	00:00	1954	1955	13
+Novara Calcio	Sampdoria	0:0	1:0	01.01.2000	00:00	1954	1955	13
+AC Milan	Lazio Roma	0:0	3:0	01.01.2000	00:00	1954	1955	13
+Genoa CFC	ACF Fiorentina	0:0	0:0	01.01.2000	00:00	1954	1955	13
+Bologna FC	Atalanta	0:0	0:0	01.01.2000	00:00	1954	1955	13
+AS Roma	Unione Triestina	0:0	2:0	01.01.2000	00:00	1954	1955	13
+Juventus	AC Milan	0:0	3:4	01.01.2000	00:00	1954	1955	14
+Sampdoria	Calcio Catania	0:0	1:1	01.01.2000	00:00	1954	1955	14
+AS Roma	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1954	1955	14
+SPAL 1907 Ferrara	Lazio Roma	0:0	2:2	01.01.2000	00:00	1954	1955	14
+Inter	Unione Triestina	0:0	4:1	01.01.2000	00:00	1954	1955	14
+ACF Fiorentina	Bologna FC	0:0	0:2	01.01.2000	00:00	1954	1955	14
+Atalanta	Genoa CFC	0:0	0:2	01.01.2000	00:00	1954	1955	14
+Aurora Pro Patria	SSC Napoli	0:0	0:2	01.01.2000	00:00	1954	1955	14
+Novara Calcio	Torino FC	0:0	0:1	01.01.2000	00:00	1954	1955	14
+Lazio Roma	Inter	0:0	3:2	01.01.2000	00:00	1954	1955	15
+Udinese Calcio	Novara Calcio	0:0	1:0	01.01.2000	00:00	1954	1955	15
+Unione Triestina	SPAL 1907 Ferrara	0:0	1:1	01.01.2000	00:00	1954	1955	15
+Torino FC	ACF Fiorentina	0:0	0:1	01.01.2000	00:00	1954	1955	15
+AC Milan	Genoa CFC	0:0	2:2	01.01.2000	00:00	1954	1955	15
+Calcio Catania	Aurora Pro Patria	0:0	2:1	01.01.2000	00:00	1954	1955	15
+Bologna FC	Juventus	0:0	2:1	01.01.2000	00:00	1954	1955	15
+Atalanta	SSC Napoli	0:0	1:1	01.01.2000	00:00	1954	1955	15
+Sampdoria	AS Roma	0:0	1:1	01.01.2000	00:00	1954	1955	15
+Juventus	Atalanta	0:0	0:0	01.01.2000	00:00	1954	1955	16
+SPAL 1907 Ferrara	AC Milan	0:0	0:0	01.01.2000	00:00	1954	1955	16
+Aurora Pro Patria	Bologna FC	0:0	0:2	01.01.2000	00:00	1954	1955	16
+Udinese Calcio	Torino FC	0:0	3:0	01.01.2000	00:00	1954	1955	16
+Inter	ACF Fiorentina	0:0	3:5	01.01.2000	00:00	1954	1955	16
+Genoa CFC	Novara Calcio	0:0	0:0	01.01.2000	00:00	1954	1955	16
+Calcio Catania	AS Roma	0:0	2:2	01.01.2000	00:00	1954	1955	16
+SSC Napoli	Sampdoria	0:0	2:2	01.01.2000	00:00	1954	1955	16
+Lazio Roma	Unione Triestina	0:0	1:1	01.01.2000	00:00	1954	1955	16
+AC Milan	Aurora Pro Patria	0:0	2:0	01.01.2000	00:00	1954	1955	17
+Torino FC	Genoa CFC	0:0	0:0	01.01.2000	00:00	1954	1955	17
+Sampdoria	Juventus	0:0	5:1	01.01.2000	00:00	1954	1955	17
+AS Roma	SPAL 1907 Ferrara	0:0	1:0	01.01.2000	00:00	1954	1955	17
+SSC Napoli	Calcio Catania	0:0	2:0	01.01.2000	00:00	1954	1955	17
+ACF Fiorentina	Unione Triestina	0:0	4:1	01.01.2000	00:00	1954	1955	17
+Bologna FC	Lazio Roma	0:0	2:1	01.01.2000	00:00	1954	1955	17
+Atalanta	Udinese Calcio	0:0	0:2	01.01.2000	00:00	1954	1955	17
+Novara Calcio	Inter	0:0	2:4	01.01.2000	00:00	1954	1955	17
+SSC Napoli	Genoa CFC	0:0	3:1	01.01.2000	00:00	1954	1955	18
+Sampdoria	Lazio Roma	0:0	0:0	01.01.2000	00:00	1954	1955	18
+Bologna FC	Torino FC	0:0	4:1	01.01.2000	00:00	1954	1955	18
+AS Roma	Novara Calcio	0:0	5:3	01.01.2000	00:00	1954	1955	18
+Unione Triestina	AC Milan	0:0	4:3	01.01.2000	00:00	1954	1955	18
+Calcio Catania	ACF Fiorentina	0:0	0:1	01.01.2000	00:00	1954	1955	18
+Atalanta	SPAL 1907 Ferrara	0:0	0:0	01.01.2000	00:00	1954	1955	18
+Inter	Udinese Calcio	0:0	2:2	01.01.2000	00:00	1954	1955	18
+Juventus	Aurora Pro Patria	0:0	4:2	01.01.2000	00:00	1954	1955	18
+AC Milan	Sampdoria	0:0	1:3	01.01.2000	00:00	1954	1955	19
+Udinese Calcio	SSC Napoli	0:0	3:0	01.01.2000	00:00	1954	1955	19
+Torino FC	Atalanta	0:0	1:1	01.01.2000	00:00	1954	1955	19
+SPAL 1907 Ferrara	Inter	0:0	2:0	01.01.2000	00:00	1954	1955	19
+Novara Calcio	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1954	1955	19
+Lazio Roma	Juventus	0:0	2:1	01.01.2000	00:00	1954	1955	19
+Genoa CFC	AS Roma	0:0	1:0	01.01.2000	00:00	1954	1955	19
+Calcio Catania	Bologna FC	0:0	2:2	01.01.2000	00:00	1954	1955	19
+Aurora Pro Patria	Unione Triestina	0:0	0:2	01.01.2000	00:00	1954	1955	19
+Sampdoria	Unione Triestina	0:0	2:0	01.01.2000	00:00	1954	1955	20
+Juventus	Novara Calcio	0:0	2:1	01.01.2000	00:00	1954	1955	20
+Udinese Calcio	Calcio Catania	0:0	1:0	01.01.2000	00:00	1954	1955	20
+SPAL 1907 Ferrara	Genoa CFC	0:0	1:0	01.01.2000	00:00	1954	1955	20
+Atalanta	AC Milan	0:0	1:1	01.01.2000	00:00	1954	1955	20
+Inter	Torino FC	0:0	1:1	01.01.2000	00:00	1954	1955	20
+ACF Fiorentina	Lazio Roma	0:0	0:1	01.01.2000	00:00	1954	1955	20
+AS Roma	Aurora Pro Patria	0:0	1:1	01.01.2000	00:00	1954	1955	20
+SSC Napoli	Bologna FC	0:0	1:1	01.01.2000	00:00	1954	1955	20
+Lazio Roma	Atalanta	0:0	1:0	01.01.2000	00:00	1954	1955	21
+Unione Triestina	Juventus	0:0	4:2	01.01.2000	00:00	1954	1955	21
+Torino FC	SSC Napoli	0:0	1:0	01.01.2000	00:00	1954	1955	21
+Aurora Pro Patria	Inter	0:0	0:1	01.01.2000	00:00	1954	1955	21
+AC Milan	Calcio Catania	0:0	2:0	01.01.2000	00:00	1954	1955	21
+Genoa CFC	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1954	1955	21
+ACF Fiorentina	Sampdoria	0:0	1:0	01.01.2000	00:00	1954	1955	21
+Bologna FC	AS Roma	0:0	1:3	01.01.2000	00:00	1954	1955	21
+Novara Calcio	SPAL 1907 Ferrara	0:0	2:0	01.01.2000	00:00	1954	1955	21
+AC Milan	SSC Napoli	0:0	1:1	01.01.2000	00:00	1954	1955	22
+Sampdoria	Inter	0:0	1:1	01.01.2000	00:00	1954	1955	22
+Udinese Calcio	Unione Triestina	0:0	1:1	01.01.2000	00:00	1954	1955	22
+SPAL 1907 Ferrara	Torino FC	0:0	1:1	01.01.2000	00:00	1954	1955	22
+Atalanta	Aurora Pro Patria	0:0	1:2	01.01.2000	00:00	1954	1955	22
+AS Roma	Lazio Roma	0:0	1:3	01.01.2000	00:00	1954	1955	22
+Juventus	ACF Fiorentina	0:0	4:1	01.01.2000	00:00	1954	1955	22
+Calcio Catania	Genoa CFC	0:0	2:0	01.01.2000	00:00	1954	1955	22
+Novara Calcio	Bologna FC	0:0	1:0	01.01.2000	00:00	1954	1955	22
+Inter	Atalanta	0:0	3:0	01.01.2000	00:00	1954	1955	23
+Unione Triestina	Novara Calcio	0:0	1:0	01.01.2000	00:00	1954	1955	23
+Torino FC	AC Milan	0:0	1:2	01.01.2000	00:00	1954	1955	23
+Sampdoria	Aurora Pro Patria	0:0	3:0	01.01.2000	00:00	1954	1955	23
+Lazio Roma	Genoa CFC	0:0	2:1	01.01.2000	00:00	1954	1955	23
+ACF Fiorentina	SPAL 1907 Ferrara	0:0	1:0	01.01.2000	00:00	1954	1955	23
+Calcio Catania	Juventus	0:0	2:2	01.01.2000	00:00	1954	1955	23
+Bologna FC	Udinese Calcio	0:0	2:4	01.01.2000	00:00	1954	1955	23
+SSC Napoli	AS Roma	0:0	2:0	01.01.2000	00:00	1954	1955	23
+SSC Napoli	Juventus	0:0	1:1	01.01.2000	00:00	1954	1955	24
+Torino FC	Lazio Roma	0:0	3:1	01.01.2000	00:00	1954	1955	24
+AS Roma	Inter	0:0	3:0	01.01.2000	00:00	1954	1955	24
+Udinese Calcio	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1954	1955	24
+AC Milan	Bologna FC	0:0	0:0	01.01.2000	00:00	1954	1955	24
+Genoa CFC	Unione Triestina	0:0	0:0	01.01.2000	00:00	1954	1955	24
+Atalanta	Sampdoria	0:0	1:1	01.01.2000	00:00	1954	1955	24
+Aurora Pro Patria	SPAL 1907 Ferrara	0:0	1:1	01.01.2000	00:00	1954	1955	24
+Novara Calcio	Calcio Catania	0:0	2:0	01.01.2000	00:00	1954	1955	24
+Juventus	AS Roma	0:0	1:1	01.01.2000	00:00	1954	1955	25
+Unione Triestina	Atalanta	0:0	3:1	01.01.2000	00:00	1954	1955	25
+SPAL 1907 Ferrara	Udinese Calcio	0:0	1:4	01.01.2000	00:00	1954	1955	25
+Sampdoria	Torino FC	0:0	1:1	01.01.2000	00:00	1954	1955	25
+Lazio Roma	Calcio Catania	0:0	1:0	01.01.2000	00:00	1954	1955	25
+Inter	AC Milan	0:0	1:1	01.01.2000	00:00	1954	1955	25
+ACF Fiorentina	Aurora Pro Patria	0:0	1:0	01.01.2000	00:00	1954	1955	25
+Bologna FC	Genoa CFC	0:0	2:1	01.01.2000	00:00	1954	1955	25
+Novara Calcio	SSC Napoli	0:0	2:1	01.01.2000	00:00	1954	1955	25
+AS Roma	Atalanta	0:0	0:0	01.01.2000	00:00	1954	1955	26
+Torino FC	Juventus	0:0	2:2	01.01.2000	00:00	1954	1955	26
+SSC Napoli	SPAL 1907 Ferrara	0:0	2:1	01.01.2000	00:00	1954	1955	26
+Aurora Pro Patria	Novara Calcio	0:0	0:0	01.01.2000	00:00	1954	1955	26
+Genoa CFC	Sampdoria	0:0	1:1	01.01.2000	00:00	1954	1955	26
+Calcio Catania	Unione Triestina	0:0	2:1	01.01.2000	00:00	1954	1955	26
+Bologna FC	Inter	0:0	3:2	01.01.2000	00:00	1954	1955	26
+AC Milan	ACF Fiorentina	0:0	4:0	01.01.2000	00:00	1954	1955	26
+Udinese Calcio	Lazio Roma	0:0	1:1	01.01.2000	00:00	1954	1955	26
+Juventus	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1954	1955	27
+Sampdoria	Bologna FC	0:0	2:0	01.01.2000	00:00	1954	1955	27
+AS Roma	Torino FC	0:0	1:0	01.01.2000	00:00	1954	1955	27
+Aurora Pro Patria	Lazio Roma	0:0	2:0	01.01.2000	00:00	1954	1955	27
+SSC Napoli	Unione Triestina	0:0	4:0	01.01.2000	00:00	1954	1955	27
+Inter	Genoa CFC	0:0	0:1	01.01.2000	00:00	1954	1955	27
+Calcio Catania	SPAL 1907 Ferrara	0:0	1:0	01.01.2000	00:00	1954	1955	27
+Atalanta	ACF Fiorentina	0:0	5:1	01.01.2000	00:00	1954	1955	27
+Novara Calcio	AC Milan	0:0	1:1	01.01.2000	00:00	1954	1955	27
+SPAL 1907 Ferrara	Bologna FC	0:0	1:1	01.01.2000	00:00	1954	1955	28
+Juventus	Inter	0:0	3:2	01.01.2000	00:00	1954	1955	28
+Udinese Calcio	Sampdoria	0:0	2:1	01.01.2000	00:00	1954	1955	28
+Unione Triestina	Torino FC	0:0	2:1	01.01.2000	00:00	1954	1955	28
+Atalanta	Calcio Catania	0:0	4:0	01.01.2000	00:00	1954	1955	28
+Genoa CFC	Aurora Pro Patria	0:0	1:3	01.01.2000	00:00	1954	1955	28
+ACF Fiorentina	SSC Napoli	0:0	0:0	01.01.2000	00:00	1954	1955	28
+AC Milan	AS Roma	0:0	0:2	01.01.2000	00:00	1954	1955	28
+Lazio Roma	Novara Calcio	0:0	1:1	01.01.2000	00:00	1954	1955	28
+SSC Napoli	Lazio Roma	0:0	3:2	01.01.2000	00:00	1954	1955	29
+Udinese Calcio	AC Milan	0:0	3:2	01.01.2000	00:00	1954	1955	29
+Torino FC	Aurora Pro Patria	0:0	3:1	01.01.2000	00:00	1954	1955	29
+SPAL 1907 Ferrara	Sampdoria	0:0	2:0	01.01.2000	00:00	1954	1955	29
+Novara Calcio	Atalanta	0:0	0:1	01.01.2000	00:00	1954	1955	29
+Inter	Calcio Catania	0:0	3:0	01.01.2000	00:00	1954	1955	29
+Genoa CFC	Juventus	0:0	2:0	01.01.2000	00:00	1954	1955	29
+Bologna FC	Unione Triestina	0:0	1:1	01.01.2000	00:00	1954	1955	29
+AS Roma	ACF Fiorentina	0:0	3:4	01.01.2000	00:00	1954	1955	29
+Lazio Roma	AC Milan	0:0	2:4	01.01.2000	00:00	1954	1955	30
+Juventus	SPAL 1907 Ferrara	0:0	3:1	01.01.2000	00:00	1954	1955	30
+Aurora Pro Patria	Udinese Calcio	0:0	2:2	01.01.2000	00:00	1954	1955	30
+Unione Triestina	AS Roma	0:0	0:0	01.01.2000	00:00	1954	1955	30
+ACF Fiorentina	Genoa CFC	0:0	2:2	01.01.2000	00:00	1954	1955	30
+Calcio Catania	Torino FC	0:0	2:1	01.01.2000	00:00	1954	1955	30
+Atalanta	Bologna FC	0:0	0:1	01.01.2000	00:00	1954	1955	30
+Inter	SSC Napoli	0:0	1:4	01.01.2000	00:00	1954	1955	30
+Sampdoria	Novara Calcio	0:0	6:2	01.01.2000	00:00	1954	1955	30
+Lazio Roma	SPAL 1907 Ferrara	0:0	0:0	01.01.2000	00:00	1954	1955	31
+Udinese Calcio	AS Roma	0:0	1:0	01.01.2000	00:00	1954	1955	31
+Unione Triestina	Inter	0:0	0:1	01.01.2000	00:00	1954	1955	31
+Torino FC	Novara Calcio	0:0	3:2	01.01.2000	00:00	1954	1955	31
+AC Milan	Juventus	0:0	3:1	01.01.2000	00:00	1954	1955	31
+Genoa CFC	Atalanta	0:0	1:0	01.01.2000	00:00	1954	1955	31
+Calcio Catania	Sampdoria	0:0	2:1	01.01.2000	00:00	1954	1955	31
+Bologna FC	ACF Fiorentina	0:0	0:2	01.01.2000	00:00	1954	1955	31
+SSC Napoli	Aurora Pro Patria	0:0	2:1	01.01.2000	00:00	1954	1955	31
+SSC Napoli	Atalanta	0:0	1:0	01.01.2000	00:00	1954	1955	32
+Novara Calcio	Udinese Calcio	0:0	3:3	01.01.2000	00:00	1954	1955	32
+Aurora Pro Patria	Calcio Catania	0:0	2:1	01.01.2000	00:00	1954	1955	32
+SPAL 1907 Ferrara	Unione Triestina	0:0	1:0	01.01.2000	00:00	1954	1955	32
+Inter	Lazio Roma	0:0	2:1	01.01.2000	00:00	1954	1955	32
+Genoa CFC	AC Milan	0:0	0:8	01.01.2000	00:00	1954	1955	32
+ACF Fiorentina	Torino FC	0:0	2:2	01.01.2000	00:00	1954	1955	32
+AS Roma	Sampdoria	0:0	1:1	01.01.2000	00:00	1954	1955	32
+Juventus	Bologna FC	0:0	5:1	01.01.2000	00:00	1954	1955	32
+AS Roma	Calcio Catania	0:0	3:1	01.01.2000	00:00	1954	1955	33
+Unione Triestina	Lazio Roma	0:0	1:3	01.01.2000	00:00	1954	1955	33
+Sampdoria	SSC Napoli	0:0	5:2	01.01.2000	00:00	1954	1955	33
+Novara Calcio	Genoa CFC	0:0	3:1	01.01.2000	00:00	1954	1955	33
+AC Milan	SPAL 1907 Ferrara	0:0	6:0	01.01.2000	00:00	1954	1955	33
+ACF Fiorentina	Inter	0:0	3:3	01.01.2000	00:00	1954	1955	33
+Bologna FC	Aurora Pro Patria	0:0	5:0	01.01.2000	00:00	1954	1955	33
+Atalanta	Juventus	0:0	2:1	01.01.2000	00:00	1954	1955	33
+Torino FC	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1954	1955	33
+Unione Triestina	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1954	1955	34
+Calcio Catania	SSC Napoli	0:0	1:1	01.01.2000	00:00	1954	1955	34
+Genoa CFC	Torino FC	0:0	2:0	01.01.2000	00:00	1954	1955	34
+Inter	Novara Calcio	0:0	3:0	01.01.2000	00:00	1954	1955	34
+Juventus	Sampdoria	0:0	2:2	01.01.2000	00:00	1954	1955	34
+Lazio Roma	Bologna FC	0:0	0:0	01.01.2000	00:00	1954	1955	34
+Aurora Pro Patria	AC Milan	0:0	1:1	01.01.2000	00:00	1954	1955	34
+SPAL 1907 Ferrara	AS Roma	0:0	2:5	01.01.2000	00:00	1954	1955	34
+Udinese Calcio	Atalanta	0:0	3:1	01.01.2000	00:00	1954	1955	34

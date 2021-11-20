@@ -1,0 +1,240 @@
+UD Las Palmas	Valencia CF	2:3	5:3	15.09.1957	00:00	1957	1958	1
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:2	2:4	15.09.1957	00:00	1957	1958	1
+Real Sociedad	Real Zaragoza	1:1	1:1	15.09.1957	00:00	1957	1958	1
+Athletic Bilbao	Celta Vigo	3:0	6:0	15.09.1957	00:00	1957	1958	1
+Real Madrid	CA Osasuna	1:0	3:0	15.09.1957	00:00	1957	1958	1
+Real JaÃ©n	Granada CF	0:0	2:0	15.09.1957	00:00	1957	1958	1
+Real Valladolid	Espanyol Barcelona	1:2	2:2	15.09.1957	00:00	1957	1958	1
+FC Barcelona	Sevilla FC	2:1	3:1	10.10.1957	00:00	1957	1958	1
+Espanyol Barcelona	UD Las Palmas	0:0	3:0	22.09.1957	00:00	1957	1958	2
+Sevilla FC	Real JaÃ©n	0:0	0:0	22.09.1957	00:00	1957	1958	2
+Real Zaragoza	Sporting GijÃ³n	0:0	0:0	22.09.1957	00:00	1957	1958	2
+Granada CF	Real Madrid	0:0	0:2	22.09.1957	00:00	1957	1958	2
+AtlÃ©tico Madrid	Athletic Bilbao	1:0	3:2	22.09.1957	00:00	1957	1958	2
+Valencia CF	FC Barcelona	1:0	1:1	22.09.1957	00:00	1957	1958	2
+CA Osasuna	Real Sociedad	2:0	3:0	22.09.1957	00:00	1957	1958	2
+Celta Vigo	Real Valladolid	0:1	3:1	22.09.1957	00:00	1957	1958	2
+Real Valladolid	AtlÃ©tico Madrid	1:2	2:2	29.09.1957	00:00	1957	1958	3
+Real Sociedad	Granada CF	2:0	4:1	29.09.1957	00:00	1957	1958	3
+Sporting GijÃ³n	CA Osasuna	1:1	2:3	29.09.1957	00:00	1957	1958	3
+Espanyol Barcelona	Celta Vigo	0:0	1:1	29.09.1957	00:00	1957	1958	3
+Real Madrid	Sevilla FC	4:0	6:0	29.09.1957	00:00	1957	1958	3
+Real JaÃ©n	Valencia CF	0:0	1:0	29.09.1957	00:00	1957	1958	3
+UD Las Palmas	FC Barcelona	0:4	0:7	29.09.1957	00:00	1957	1958	3
+Athletic Bilbao	Real Zaragoza	3:1	4:1	29.09.1957	00:00	1957	1958	3
+UD Las Palmas	Celta Vigo	0:3	1:6	06.10.1957	00:00	1957	1958	4
+Granada CF	Sporting GijÃ³n	0:0	1:0	06.10.1957	00:00	1957	1958	4
+Real Zaragoza	Real Valladolid	2:0	3:0	06.10.1957	00:00	1957	1958	4
+AtlÃ©tico Madrid	Espanyol Barcelona	2:3	2:3	06.10.1957	00:00	1957	1958	4
+Valencia CF	Real Madrid	1:0	2:2	06.10.1957	00:00	1957	1958	4
+CA Osasuna	Athletic Bilbao	2:1	2:2	06.10.1957	00:00	1957	1958	4
+Sevilla FC	Real Sociedad	2:0	3:0	06.10.1957	00:00	1957	1958	4
+FC Barcelona	Real JaÃ©n	3:0	6:1	06.10.1957	00:00	1957	1958	4
+Celta Vigo	AtlÃ©tico Madrid	1:2	2:2	13.10.1957	00:00	1957	1958	5
+Real Valladolid	CA Osasuna	0:1	0:4	13.10.1957	00:00	1957	1958	5
+Real JaÃ©n	UD Las Palmas	1:0	1:1	13.10.1957	00:00	1957	1958	5
+Sporting GijÃ³n	Sevilla FC	1:1	1:1	13.10.1957	00:00	1957	1958	5
+Real Sociedad	Valencia CF	0:0	0:0	13.10.1957	00:00	1957	1958	5
+Real Madrid	FC Barcelona	2:0	3:0	13.10.1957	00:00	1957	1958	5
+Espanyol Barcelona	Real Zaragoza	0:0	1:0	13.10.1957	00:00	1957	1958	5
+Athletic Bilbao	Granada CF	1:0	1:0	28.11.1957	00:00	1957	1958	5
+CA Osasuna	Espanyol Barcelona	2:0	3:2	20.10.1957	00:00	1957	1958	6
+Granada CF	Real Valladolid	2:0	4:0	20.10.1957	00:00	1957	1958	6
+AtlÃ©tico Madrid	UD Las Palmas	4:0	9:0	20.10.1957	00:00	1957	1958	6
+Sevilla FC	Athletic Bilbao	2:1	3:1	20.10.1957	00:00	1957	1958	6
+Real JaÃ©n	Real Madrid	0:0	0:2	20.10.1957	00:00	1957	1958	6
+Real Zaragoza	Celta Vigo	1:1	2:2	20.10.1957	00:00	1957	1958	6
+FC Barcelona	Real Sociedad	0:0	1:0	20.10.1957	00:00	1957	1958	6
+Valencia CF	Sporting GijÃ³n	1:0	2:2	12.12.1957	00:00	1957	1958	6
+AtlÃ©tico Madrid	Real Zaragoza	3:0	4:2	27.10.1957	00:00	1957	1958	7
+Espanyol Barcelona	Granada CF	1:1	2:1	27.10.1957	00:00	1957	1958	7
+Athletic Bilbao	Valencia CF	2:2	3:2	27.10.1957	00:00	1957	1958	7
+Sporting GijÃ³n	FC Barcelona	0:0	3:2	27.10.1957	00:00	1957	1958	7
+UD Las Palmas	Real Madrid	0:0	0:0	27.10.1957	00:00	1957	1958	7
+Real Sociedad	Real JaÃ©n	1:0	2:0	27.10.1957	00:00	1957	1958	7
+Celta Vigo	CA Osasuna	1:0	2:0	19.12.1957	00:00	1957	1958	7
+Real Valladolid	Sevilla FC	0:0	2:0	19.12.1957	00:00	1957	1958	7
+Real Madrid	Real Sociedad	1:0	2:1	03.11.1957	00:00	1957	1958	8
+CA Osasuna	AtlÃ©tico Madrid	1:0	1:1	03.11.1957	00:00	1957	1958	8
+Granada CF	Celta Vigo	0:0	1:0	03.11.1957	00:00	1957	1958	8
+FC Barcelona	Athletic Bilbao	2:0	3:0	03.11.1957	00:00	1957	1958	8
+Real Valladolid	Valencia CF	1:2	6:3	03.11.1957	00:00	1957	1958	8
+Sevilla FC	Espanyol Barcelona	0:1	0:1	03.11.1957	00:00	1957	1958	8
+UD Las Palmas	Real Zaragoza	0:0	0:0	03.11.1957	00:00	1957	1958	8
+Real JaÃ©n	Sporting GijÃ³n	2:1	2:1	24.11.1957	00:00	1957	1958	8
+Celta Vigo	Sevilla FC	1:1	3:1	10.11.1957	00:00	1957	1958	9
+Athletic Bilbao	Real JaÃ©n	3:0	5:1	10.11.1957	00:00	1957	1958	9
+AtlÃ©tico Madrid	Granada CF	2:1	5:1	10.11.1957	00:00	1957	1958	9
+Real Sociedad	UD Las Palmas	3:1	3:1	10.11.1957	00:00	1957	1958	9
+Espanyol Barcelona	Valencia CF	0:0	0:0	10.11.1957	00:00	1957	1958	9
+Real Valladolid	FC Barcelona	0:1	1:2	10.11.1957	00:00	1957	1958	9
+Sporting GijÃ³n	Real Madrid	1:0	3:0	10.11.1957	00:00	1957	1958	9
+Real Zaragoza	CA Osasuna	1:0	2:0	10.11.1957	00:00	1957	1958	9
+Sevilla FC	AtlÃ©tico Madrid	2:1	2:2	17.11.1957	00:00	1957	1958	10
+Granada CF	Real Zaragoza	0:0	1:0	17.11.1957	00:00	1957	1958	10
+UD Las Palmas	CA Osasuna	1:1	2:1	17.11.1957	00:00	1957	1958	10
+Real JaÃ©n	Real Valladolid	0:1	0:2	17.11.1957	00:00	1957	1958	10
+Celta Vigo	Valencia CF	2:1	3:2	17.11.1957	00:00	1957	1958	10
+FC Barcelona	Espanyol Barcelona	2:0	3:1	17.11.1957	00:00	1957	1958	10
+Real Madrid	Athletic Bilbao	3:0	6:0	17.11.1957	00:00	1957	1958	10
+Real Sociedad	Sporting GijÃ³n	0:1	3:2	17.11.1957	00:00	1957	1958	10
+Real Zaragoza	Sevilla FC	1:1	3:3	01.12.1957	00:00	1957	1958	11
+Espanyol Barcelona	Real JaÃ©n	0:0	2:0	01.12.1957	00:00	1957	1958	11
+CA Osasuna	Granada CF	0:0	1:0	01.12.1957	00:00	1957	1958	11
+Athletic Bilbao	Real Sociedad	0:1	2:2	01.12.1957	00:00	1957	1958	11
+AtlÃ©tico Madrid	Valencia CF	0:2	2:2	01.12.1957	00:00	1957	1958	11
+Celta Vigo	FC Barcelona	2:0	4:0	01.12.1957	00:00	1957	1958	11
+Real Valladolid	Real Madrid	0:0	0:1	01.12.1957	00:00	1957	1958	11
+UD Las Palmas	Sporting GijÃ³n	0:0	0:0	01.12.1957	00:00	1957	1958	11
+Real Madrid	Espanyol Barcelona	1:0	2:0	08.12.1957	00:00	1957	1958	12
+Sevilla FC	CA Osasuna	1:0	1:1	08.12.1957	00:00	1957	1958	12
+Real Sociedad	Real Valladolid	0:0	0:0	08.12.1957	00:00	1957	1958	12
+Granada CF	UD Las Palmas	2:0	4:0	08.12.1957	00:00	1957	1958	12
+FC Barcelona	AtlÃ©tico Madrid	1:1	2:2	08.12.1957	00:00	1957	1958	12
+Real JaÃ©n	Celta Vigo	4:1	4:1	08.12.1957	00:00	1957	1958	12
+Sporting GijÃ³n	Athletic Bilbao	0:1	0:2	08.12.1957	00:00	1957	1958	12
+Valencia CF	Real Zaragoza	2:1	3:1	08.12.1957	00:00	1957	1958	12
+Granada CF	Sevilla FC	0:0	2:1	15.12.1957	00:00	1957	1958	13
+AtlÃ©tico Madrid	Real JaÃ©n	2:0	4:1	15.12.1957	00:00	1957	1958	13
+Real Valladolid	Sporting GijÃ³n	5:0	7:3	15.12.1957	00:00	1957	1958	13
+Espanyol Barcelona	Real Sociedad	0:2	2:2	15.12.1957	00:00	1957	1958	13
+CA Osasuna	Valencia CF	1:0	2:2	15.12.1957	00:00	1957	1958	13
+Real Zaragoza	FC Barcelona	1:0	1:1	15.12.1957	00:00	1957	1958	13
+Celta Vigo	Real Madrid	2:1	2:1	15.12.1957	00:00	1957	1958	13
+Athletic Bilbao	UD Las Palmas	0:1	1:1	15.12.1957	00:00	1957	1958	13
+Real Madrid	AtlÃ©tico Madrid	0:0	0:0	22.12.1957	00:00	1957	1958	14
+FC Barcelona	CA Osasuna	1:0	3:0	22.12.1957	00:00	1957	1958	14
+Valencia CF	Granada CF	1:0	3:1	22.12.1957	00:00	1957	1958	14
+Athletic Bilbao	Real Valladolid	1:0	1:0	22.12.1957	00:00	1957	1958	14
+Real Sociedad	Celta Vigo	1:0	1:1	22.12.1957	00:00	1957	1958	14
+UD Las Palmas	Sevilla FC	3:0	4:1	22.12.1957	00:00	1957	1958	14
+Sporting GijÃ³n	Espanyol Barcelona	0:0	2:0	22.12.1957	00:00	1957	1958	14
+Real JaÃ©n	Real Zaragoza	1:0	3:0	22.12.1957	00:00	1957	1958	14
+CA Osasuna	Real JaÃ©n	2:0	5:1	29.12.1957	00:00	1957	1958	15
+Real Zaragoza	Real Madrid	2:1	3:1	29.12.1957	00:00	1957	1958	15
+Granada CF	FC Barcelona	0:2	0:4	29.12.1957	00:00	1957	1958	15
+Espanyol Barcelona	Athletic Bilbao	0:0	1:0	29.12.1957	00:00	1957	1958	15
+Sevilla FC	Valencia CF	0:0	0:1	29.12.1957	00:00	1957	1958	15
+AtlÃ©tico Madrid	Real Sociedad	0:0	2:0	29.12.1957	00:00	1957	1958	15
+Real Valladolid	UD Las Palmas	1:0	2:0	29.12.1957	00:00	1957	1958	15
+Celta Vigo	Sporting GijÃ³n	1:0	1:2	29.12.1957	00:00	1957	1958	15
+Sevilla FC	FC Barcelona	1:1	1:2	05.01.1958	00:00	1957	1958	16
+Celta Vigo	Athletic Bilbao	0:0	0:1	05.01.1958	00:00	1957	1958	16
+Real Zaragoza	Real Sociedad	0:1	1:3	05.01.1958	00:00	1957	1958	16
+Valencia CF	UD Las Palmas	3:1	4:1	05.01.1958	00:00	1957	1958	16
+AtlÃ©tico Madrid	Sporting GijÃ³n	3:2	3:2	05.01.1958	00:00	1957	1958	16
+Espanyol Barcelona	Real Valladolid	1:0	1:1	05.01.1958	00:00	1957	1958	16
+Granada CF	Real JaÃ©n	1:0	2:0	05.01.1958	00:00	1957	1958	16
+CA Osasuna	Real Madrid	0:0	1:0	05.01.1958	00:00	1957	1958	16
+Sporting GijÃ³n	Real Zaragoza	2:1	4:1	12.01.1958	00:00	1957	1958	17
+Real Madrid	Granada CF	2:0	4:0	12.01.1958	00:00	1957	1958	17
+Real Valladolid	Celta Vigo	0:2	0:4	12.01.1958	00:00	1957	1958	17
+UD Las Palmas	Espanyol Barcelona	0:0	1:0	12.01.1958	00:00	1957	1958	17
+Athletic Bilbao	AtlÃ©tico Madrid	1:1	1:2	12.01.1958	00:00	1957	1958	17
+FC Barcelona	Valencia CF	1:0	1:1	12.01.1958	00:00	1957	1958	17
+Real JaÃ©n	Sevilla FC	0:0	1:0	12.01.1958	00:00	1957	1958	17
+Real Sociedad	CA Osasuna	1:0	2:1	12.01.1958	00:00	1957	1958	17
+Celta Vigo	Espanyol Barcelona	2:0	3:2	19.01.1958	00:00	1957	1958	18
+Valencia CF	Real JaÃ©n	1:0	4:0	19.01.1958	00:00	1957	1958	18
+AtlÃ©tico Madrid	Real Valladolid	2:0	7:0	19.01.1958	00:00	1957	1958	18
+CA Osasuna	Sporting GijÃ³n	0:0	2:1	19.01.1958	00:00	1957	1958	18
+Granada CF	Real Sociedad	1:1	3:1	19.01.1958	00:00	1957	1958	18
+Real Zaragoza	Athletic Bilbao	0:1	2:1	19.01.1958	00:00	1957	1958	18
+Sevilla FC	Real Madrid	2:0	3:2	19.01.1958	00:00	1957	1958	18
+FC Barcelona	UD Las Palmas	1:0	2:0	19.01.1958	00:00	1957	1958	18
+Real Valladolid	Real Zaragoza	1:2	1:3	26.01.1958	00:00	1957	1958	19
+Celta Vigo	UD Las Palmas	2:1	2:2	26.01.1958	00:00	1957	1958	19
+Athletic Bilbao	CA Osasuna	1:0	2:0	26.01.1958	00:00	1957	1958	19
+Espanyol Barcelona	AtlÃ©tico Madrid	2:0	4:1	26.01.1958	00:00	1957	1958	19
+Real JaÃ©n	FC Barcelona	1:0	1:0	26.01.1958	00:00	1957	1958	19
+Real Madrid	Valencia CF	0:1	2:1	26.01.1958	00:00	1957	1958	19
+Real Sociedad	Sevilla FC	1:0	2:0	26.01.1958	00:00	1957	1958	19
+Sporting GijÃ³n	Granada CF	1:1	5:1	26.01.1958	00:00	1957	1958	19
+Real Zaragoza	Espanyol Barcelona	1:1	1:1	02.02.1958	00:00	1957	1958	20
+UD Las Palmas	Real JaÃ©n	2:0	2:1	02.02.1958	00:00	1957	1958	20
+CA Osasuna	Real Valladolid	2:0	5:0	02.02.1958	00:00	1957	1958	20
+Sevilla FC	Sporting GijÃ³n	1:1	1:2	02.02.1958	00:00	1957	1958	20
+Valencia CF	Real Sociedad	0:0	1:0	02.02.1958	00:00	1957	1958	20
+Granada CF	Athletic Bilbao	1:1	1:3	02.02.1958	00:00	1957	1958	20
+FC Barcelona	Real Madrid	0:2	0:2	02.02.1958	00:00	1957	1958	20
+AtlÃ©tico Madrid	Celta Vigo	0:1	2:1	02.02.1958	00:00	1957	1958	20
+UD Las Palmas	AtlÃ©tico Madrid	1:0	3:0	09.02.1958	00:00	1957	1958	21
+Real Valladolid	Granada CF	0:1	1:1	09.02.1958	00:00	1957	1958	21
+Espanyol Barcelona	CA Osasuna	1:0	2:0	09.02.1958	00:00	1957	1958	21
+Real Madrid	Real JaÃ©n	2:0	3:0	09.02.1958	00:00	1957	1958	21
+Sporting GijÃ³n	Valencia CF	1:3	1:3	09.02.1958	00:00	1957	1958	21
+Real Sociedad	FC Barcelona	0:0	1:2	09.02.1958	00:00	1957	1958	21
+Celta Vigo	Real Zaragoza	2:0	2:1	09.02.1958	00:00	1957	1958	21
+Athletic Bilbao	Sevilla FC	1:1	5:2	09.02.1958	00:00	1957	1958	21
+Real JaÃ©n	Real Sociedad	0:0	0:1	16.02.1958	00:00	1957	1958	22
+Sevilla FC	Real Valladolid	2:1	4:2	16.02.1958	00:00	1957	1958	22
+FC Barcelona	Sporting GijÃ³n	0:0	3:0	16.02.1958	00:00	1957	1958	22
+CA Osasuna	Celta Vigo	2:0	5:1	16.02.1958	00:00	1957	1958	22
+Real Zaragoza	AtlÃ©tico Madrid	0:1	0:3	16.02.1958	00:00	1957	1958	22
+Granada CF	Espanyol Barcelona	0:0	1:0	16.02.1958	00:00	1957	1958	22
+Valencia CF	Athletic Bilbao	0:0	1:0	16.02.1958	00:00	1957	1958	22
+Real Madrid	UD Las Palmas	0:1	2:1	16.02.1958	00:00	1957	1958	22
+Real Zaragoza	UD Las Palmas	2:0	2:0	23.02.1958	00:00	1957	1958	23
+Valencia CF	Real Valladolid	1:0	3:0	02.03.1958	00:00	1957	1958	23
+Sporting GijÃ³n	Real JaÃ©n	0:0	1:0	02.03.1958	00:00	1957	1958	23
+Celta Vigo	Granada CF	0:1	0:2	02.03.1958	00:00	1957	1958	23
+Espanyol Barcelona	Sevilla FC	1:2	2:3	02.03.1958	00:00	1957	1958	23
+Athletic Bilbao	FC Barcelona	1:1	4:1	02.03.1958	00:00	1957	1958	23
+Real Sociedad	Real Madrid	2:0	2:2	02.03.1958	00:00	1957	1958	23
+AtlÃ©tico Madrid	CA Osasuna	3:1	4:1	02.03.1958	00:00	1957	1958	23
+UD Las Palmas	Real Sociedad	2:0	2:1	09.03.1958	00:00	1957	1958	24
+FC Barcelona	Real Valladolid	4:1	7:1	09.03.1958	00:00	1957	1958	24
+Sevilla FC	Celta Vigo	1:0	2:0	09.03.1958	00:00	1957	1958	24
+Granada CF	AtlÃ©tico Madrid	1:2	2:2	09.03.1958	00:00	1957	1958	24
+Valencia CF	Espanyol Barcelona	0:1	2:1	09.03.1958	00:00	1957	1958	24
+Real JaÃ©n	Athletic Bilbao	1:2	3:2	09.03.1958	00:00	1957	1958	24
+Real Madrid	Sporting GijÃ³n	1:0	4:0	09.03.1958	00:00	1957	1958	24
+CA Osasuna	Real Zaragoza	0:1	1:1	16.03.1958	00:00	1957	1958	24
+Sporting GijÃ³n	Real Sociedad	2:0	3:0	23.03.1958	00:00	1957	1958	25
+Valencia CF	Celta Vigo	1:0	1:1	23.03.1958	00:00	1957	1958	25
+Real Valladolid	Real JaÃ©n	0:0	3:1	23.03.1958	00:00	1957	1958	25
+Real Zaragoza	Granada CF	1:1	3:2	23.03.1958	00:00	1957	1958	25
+AtlÃ©tico Madrid	Sevilla FC	1:1	1:1	23.03.1958	00:00	1957	1958	25
+Espanyol Barcelona	FC Barcelona	1:1	2:1	23.03.1958	00:00	1957	1958	25
+Athletic Bilbao	Real Madrid	0:2	0:2	23.03.1958	00:00	1957	1958	25
+CA Osasuna	UD Las Palmas	2:0	2:0	23.03.1958	00:00	1957	1958	25
+Real Madrid	Real Valladolid	4:1	5:3	29.03.1958	00:00	1957	1958	26
+Valencia CF	AtlÃ©tico Madrid	0:0	2:0	30.03.1958	00:00	1957	1958	26
+Granada CF	CA Osasuna	0:1	1:2	30.03.1958	00:00	1957	1958	26
+Sporting GijÃ³n	UD Las Palmas	0:0	1:0	30.03.1958	00:00	1957	1958	26
+Sevilla FC	Real Zaragoza	0:0	1:0	30.03.1958	00:00	1957	1958	26
+Real JaÃ©n	Espanyol Barcelona	2:1	4:2	30.03.1958	00:00	1957	1958	26
+Real Sociedad	Athletic Bilbao	1:0	1:0	30.03.1958	00:00	1957	1958	26
+FC Barcelona	Celta Vigo	0:0	1:0	30.03.1958	00:00	1957	1958	26
+AtlÃ©tico Madrid	FC Barcelona	1:0	3:1	06.04.1958	00:00	1957	1958	27
+Celta Vigo	Real JaÃ©n	2:0	2:1	06.04.1958	00:00	1957	1958	27
+UD Las Palmas	Granada CF	0:0	1:0	06.04.1958	00:00	1957	1958	27
+Athletic Bilbao	Sporting GijÃ³n	1:1	2:1	06.04.1958	00:00	1957	1958	27
+Real Zaragoza	Valencia CF	0:1	1:2	06.04.1958	00:00	1957	1958	27
+Real Valladolid	Real Sociedad	0:0	2:1	06.04.1958	00:00	1957	1958	27
+Espanyol Barcelona	Real Madrid	2:2	2:4	06.04.1958	00:00	1957	1958	27
+CA Osasuna	Sevilla FC	2:0	3:2	06.04.1958	00:00	1957	1958	27
+FC Barcelona	Real Zaragoza	2:0	5:1	20.04.1958	00:00	1957	1958	28
+Sevilla FC	Granada CF	1:0	2:0	20.04.1958	00:00	1957	1958	28
+Valencia CF	CA Osasuna	0:0	3:0	20.04.1958	00:00	1957	1958	28
+Real Madrid	Celta Vigo	2:0	5:0	20.04.1958	00:00	1957	1958	28
+Real JaÃ©n	AtlÃ©tico Madrid	0:1	0:1	20.04.1958	00:00	1957	1958	28
+Real Sociedad	Espanyol Barcelona	1:1	2:1	20.04.1958	00:00	1957	1958	28
+UD Las Palmas	Athletic Bilbao	2:2	2:2	20.04.1958	00:00	1957	1958	28
+Sporting GijÃ³n	Real Valladolid	0:1	0:2	20.04.1958	00:00	1957	1958	28
+CA Osasuna	FC Barcelona	1:1	2:1	27.04.1958	00:00	1957	1958	29
+Espanyol Barcelona	Sporting GijÃ³n	2:1	5:1	27.04.1958	00:00	1957	1958	29
+Real Zaragoza	Real JaÃ©n	0:0	2:0	27.04.1958	00:00	1957	1958	29
+Sevilla FC	UD Las Palmas	1:1	4:1	27.04.1958	00:00	1957	1958	29
+Celta Vigo	Real Sociedad	1:0	1:0	27.04.1958	00:00	1957	1958	29
+Real Valladolid	Athletic Bilbao	2:0	3:0	27.04.1958	00:00	1957	1958	29
+AtlÃ©tico Madrid	Real Madrid	1:0	1:1	27.04.1958	00:00	1957	1958	29
+Granada CF	Valencia CF	1:0	1:0	27.04.1958	00:00	1957	1958	29
+FC Barcelona	Granada CF	3:0	4:1	04.05.1958	00:00	1957	1958	30
+Athletic Bilbao	Espanyol Barcelona	1:0	3:2	04.05.1958	00:00	1957	1958	30
+Real Sociedad	AtlÃ©tico Madrid	2:2	2:4	04.05.1958	00:00	1957	1958	30
+Valencia CF	Sevilla FC	1:1	2:2	04.05.1958	00:00	1957	1958	30
+Real Madrid	Real Zaragoza	0:1	2:1	04.05.1958	00:00	1957	1958	30
+Sporting GijÃ³n	Celta Vigo	0:0	1:2	04.05.1958	00:00	1957	1958	30
+UD Las Palmas	Real Valladolid	1:0	3:1	04.05.1958	00:00	1957	1958	30
+Real JaÃ©n	CA Osasuna	0:1	0:2	04.05.1958	00:00	1957	1958	30

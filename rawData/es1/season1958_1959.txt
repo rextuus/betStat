@@ -1,0 +1,240 @@
+Celta Vigo	Athletic Bilbao	0:3	0:3	14.09.1958	00:00	1958	1959	1
+Sporting GijÃ³n	Espanyol Barcelona	0:0	1:0	14.09.1958	00:00	1958	1959	1
+FC Barcelona	Valencia CF	1:0	6:0	14.09.1958	00:00	1958	1959	1
+CA Osasuna	Sevilla FC	2:1	2:2	14.09.1958	00:00	1958	1959	1
+Real Zaragoza	Real Sociedad	0:0	1:0	14.09.1958	00:00	1958	1959	1
+AtlÃ©tico Madrid	Real Oviedo	0:0	2:0	14.09.1958	00:00	1958	1959	1
+Real Betis	Granada CF	2:0	2:1	14.09.1958	00:00	1958	1959	1
+UD Las Palmas	Real Madrid	1:0	1:2	14.09.1958	00:00	1958	1959	1
+Espanyol Barcelona	Celta Vigo	2:1	2:1	21.09.1958	00:00	1958	1959	2
+Athletic Bilbao	CA Osasuna	3:1	3:1	21.09.1958	00:00	1958	1959	2
+Real Oviedo	UD Las Palmas	1:1	2:1	21.09.1958	00:00	1958	1959	2
+Real Sociedad	FC Barcelona	1:0	1:1	21.09.1958	00:00	1958	1959	2
+Granada CF	Real Zaragoza	2:0	4:1	21.09.1958	00:00	1958	1959	2
+Valencia CF	AtlÃ©tico Madrid	2:1	4:2	21.09.1958	00:00	1958	1959	2
+Sevilla FC	Real Betis	2:1	2:4	21.09.1958	00:00	1958	1959	2
+Real Madrid	Sporting GijÃ³n	1:0	5:1	21.09.1958	00:00	1958	1959	2
+CA Osasuna	Espanyol Barcelona	1:0	2:1	28.09.1958	00:00	1958	1959	3
+FC Barcelona	Granada CF	2:0	3:0	28.09.1958	00:00	1958	1959	3
+UD Las Palmas	Sporting GijÃ³n	2:0	4:0	28.09.1958	00:00	1958	1959	3
+AtlÃ©tico Madrid	Real Sociedad	1:0	2:0	28.09.1958	00:00	1958	1959	3
+Real Oviedo	Valencia CF	0:1	1:1	28.09.1958	00:00	1958	1959	3
+Real Betis	Athletic Bilbao	4:0	4:0	28.09.1958	00:00	1958	1959	3
+Celta Vigo	Real Madrid	1:1	2:4	28.09.1958	00:00	1958	1959	3
+Real Zaragoza	Sevilla FC	2:0	4:2	28.09.1958	00:00	1958	1959	3
+Espanyol Barcelona	Real Betis	2:0	2:0	05.10.1958	00:00	1958	1959	4
+Sporting GijÃ³n	Celta Vigo	0:1	2:2	05.10.1958	00:00	1958	1959	4
+Real Sociedad	Real Oviedo	0:1	1:1	05.10.1958	00:00	1958	1959	4
+Granada CF	AtlÃ©tico Madrid	1:0	1:0	05.10.1958	00:00	1958	1959	4
+Sevilla FC	FC Barcelona	0:0	0:2	05.10.1958	00:00	1958	1959	4
+UD Las Palmas	Valencia CF	0:3	2:4	05.10.1958	00:00	1958	1959	4
+Athletic Bilbao	Real Zaragoza	2:2	3:2	05.10.1958	00:00	1958	1959	4
+Real Madrid	CA Osasuna	4:0	8:0	05.10.1958	00:00	1958	1959	4
+Real Zaragoza	Espanyol Barcelona	1:0	1:0	12.10.1958	00:00	1958	1959	5
+Real Oviedo	Granada CF	0:0	1:0	12.10.1958	00:00	1958	1959	5
+CA Osasuna	Sporting GijÃ³n	2:1	4:1	12.10.1958	00:00	1958	1959	5
+Celta Vigo	UD Las Palmas	0:0	0:0	12.10.1958	00:00	1958	1959	5
+AtlÃ©tico Madrid	Sevilla FC	3:0	5:0	12.10.1958	00:00	1958	1959	5
+FC Barcelona	Athletic Bilbao	0:0	3:0	12.10.1958	00:00	1958	1959	5
+Real Betis	Real Madrid	1:1	2:3	12.10.1958	00:00	1958	1959	5
+Valencia CF	Real Sociedad	1:0	2:0	12.10.1958	00:00	1958	1959	5
+Athletic Bilbao	AtlÃ©tico Madrid	1:1	1:2	19.10.1958	00:00	1958	1959	6
+Sevilla FC	Real Oviedo	4:0	4:0	19.10.1958	00:00	1958	1959	6
+Real Sociedad	UD Las Palmas	3:0	6:2	19.10.1958	00:00	1958	1959	6
+Celta Vigo	CA Osasuna	2:0	3:0	19.10.1958	00:00	1958	1959	6
+Granada CF	Valencia CF	0:0	1:0	19.10.1958	00:00	1958	1959	6
+Espanyol Barcelona	FC Barcelona	0:1	0:3	19.10.1958	00:00	1958	1959	6
+Sporting GijÃ³n	Real Betis	0:0	1:1	19.10.1958	00:00	1958	1959	6
+Real Madrid	Real Zaragoza	1:0	3:0	19.10.1958	00:00	1958	1959	6
+Valencia CF	Sevilla FC	1:0	1:0	26.10.1958	00:00	1958	1959	7
+Real Sociedad	Granada CF	2:1	3:1	26.10.1958	00:00	1958	1959	7
+UD Las Palmas	CA Osasuna	2:1	5:1	26.10.1958	00:00	1958	1959	7
+Real Betis	Celta Vigo	0:1	2:1	26.10.1958	00:00	1958	1959	7
+AtlÃ©tico Madrid	Espanyol Barcelona	2:1	3:2	26.10.1958	00:00	1958	1959	7
+Real Oviedo	Athletic Bilbao	1:2	1:2	26.10.1958	00:00	1958	1959	7
+FC Barcelona	Real Madrid	1:0	4:0	26.10.1958	00:00	1958	1959	7
+Real Zaragoza	Sporting GijÃ³n	2:1	2:2	26.10.1958	00:00	1958	1959	7
+Celta Vigo	Real Zaragoza	0:0	2:0	02.11.1958	00:00	1958	1959	8
+Sevilla FC	Real Sociedad	0:1	0:1	02.11.1958	00:00	1958	1959	8
+UD Las Palmas	Granada CF	0:0	1:0	02.11.1958	00:00	1958	1959	8
+Espanyol Barcelona	Real Oviedo	0:0	2:0	02.11.1958	00:00	1958	1959	8
+Sporting GijÃ³n	FC Barcelona	1:1	2:1	02.11.1958	00:00	1958	1959	8
+Real Madrid	AtlÃ©tico Madrid	2:0	5:0	02.11.1958	00:00	1958	1959	8
+Athletic Bilbao	Valencia CF	0:0	2:1	02.11.1958	00:00	1958	1959	8
+CA Osasuna	Real Betis	0:0	3:0	02.11.1958	00:00	1958	1959	8
+Granada CF	Sevilla FC	1:0	1:0	09.11.1958	00:00	1958	1959	9
+Real Zaragoza	CA Osasuna	0:1	2:1	09.11.1958	00:00	1958	1959	9
+AtlÃ©tico Madrid	Sporting GijÃ³n	0:1	1:1	09.11.1958	00:00	1958	1959	9
+FC Barcelona	Celta Vigo	0:0	2:0	09.11.1958	00:00	1958	1959	9
+Valencia CF	Espanyol Barcelona	1:1	1:1	09.11.1958	00:00	1958	1959	9
+Real Sociedad	Athletic Bilbao	0:1	1:1	09.11.1958	00:00	1958	1959	9
+Real Oviedo	Real Madrid	0:1	0:2	09.11.1958	00:00	1958	1959	9
+Real Betis	UD Las Palmas	1:0	2:0	09.11.1958	00:00	1958	1959	9
+UD Las Palmas	Sevilla FC	2:0	3:0	16.11.1958	00:00	1958	1959	10
+Espanyol Barcelona	Real Sociedad	1:0	2:0	16.11.1958	00:00	1958	1959	10
+Athletic Bilbao	Granada CF	0:0	3:0	16.11.1958	00:00	1958	1959	10
+Sporting GijÃ³n	Real Oviedo	0:1	0:3	16.11.1958	00:00	1958	1959	10
+Celta Vigo	AtlÃ©tico Madrid	0:0	0:1	16.11.1958	00:00	1958	1959	10
+Real Madrid	Valencia CF	2:0	3:0	16.11.1958	00:00	1958	1959	10
+CA Osasuna	FC Barcelona	1:1	2:2	16.11.1958	00:00	1958	1959	10
+Real Betis	Real Zaragoza	3:0	7:0	16.11.1958	00:00	1958	1959	10
+UD Las Palmas	Real Zaragoza	2:0	3:1	23.11.1958	00:00	1958	1959	11
+AtlÃ©tico Madrid	CA Osasuna	2:0	2:0	23.11.1958	00:00	1958	1959	11
+Valencia CF	Sporting GijÃ³n	0:0	2:0	23.11.1958	00:00	1958	1959	11
+FC Barcelona	Real Betis	1:0	4:1	23.11.1958	00:00	1958	1959	11
+Granada CF	Espanyol Barcelona	1:0	1:1	23.11.1958	00:00	1958	1959	11
+Sevilla FC	Athletic Bilbao	1:2	3:2	23.11.1958	00:00	1958	1959	11
+Real Sociedad	Real Madrid	0:0	0:0	23.11.1958	00:00	1958	1959	11
+Real Oviedo	Celta Vigo	1:0	1:0	23.11.1958	00:00	1958	1959	11
+Celta Vigo	Valencia CF	1:1	1:2	30.11.1958	00:00	1958	1959	12
+Real Madrid	Granada CF	1:0	2:0	30.11.1958	00:00	1958	1959	12
+CA Osasuna	Real Oviedo	1:0	1:0	30.11.1958	00:00	1958	1959	12
+Athletic Bilbao	UD Las Palmas	1:0	3:0	30.11.1958	00:00	1958	1959	12
+Real Betis	AtlÃ©tico Madrid	2:0	3:2	30.11.1958	00:00	1958	1959	12
+Sporting GijÃ³n	Real Sociedad	1:0	1:0	30.11.1958	00:00	1958	1959	12
+Real Zaragoza	FC Barcelona	1:0	2:1	30.11.1958	00:00	1958	1959	12
+Espanyol Barcelona	Sevilla FC	0:2	1:2	30.11.1958	00:00	1958	1959	12
+Real Oviedo	Real Betis	0:2	0:3	07.12.1958	00:00	1958	1959	13
+Granada CF	Sporting GijÃ³n	2:0	6:0	07.12.1958	00:00	1958	1959	13
+Real Sociedad	Celta Vigo	3:0	3:0	07.12.1958	00:00	1958	1959	13
+AtlÃ©tico Madrid	Real Zaragoza	3:1	7:1	07.12.1958	00:00	1958	1959	13
+Athletic Bilbao	Espanyol Barcelona	3:0	4:1	07.12.1958	00:00	1958	1959	13
+Sevilla FC	Real Madrid	1:0	1:3	07.12.1958	00:00	1958	1959	13
+FC Barcelona	UD Las Palmas	2:0	5:1	07.12.1958	00:00	1958	1959	13
+Valencia CF	CA Osasuna	0:0	0:0	08.12.1958	00:00	1958	1959	13
+UD Las Palmas	Espanyol Barcelona	1:1	1:2	14.12.1958	00:00	1958	1959	14
+Real Zaragoza	Real Oviedo	1:0	2:0	14.12.1958	00:00	1958	1959	14
+Celta Vigo	Granada CF	1:0	3:0	14.12.1958	00:00	1958	1959	14
+CA Osasuna	Real Sociedad	0:0	2:1	14.12.1958	00:00	1958	1959	14
+Sporting GijÃ³n	Sevilla FC	0:0	0:4	14.12.1958	00:00	1958	1959	14
+Real Betis	Valencia CF	0:1	1:1	14.12.1958	00:00	1958	1959	14
+Real Madrid	Athletic Bilbao	0:0	0:0	14.12.1958	00:00	1958	1959	14
+FC Barcelona	AtlÃ©tico Madrid	4:0	5:0	14.12.1958	00:00	1958	1959	14
+Granada CF	CA Osasuna	0:0	1:0	28.12.1958	00:00	1958	1959	15
+Espanyol Barcelona	Real Madrid	2:0	2:0	28.12.1958	00:00	1958	1959	15
+Real Oviedo	FC Barcelona	2:2	2:4	28.12.1958	00:00	1958	1959	15
+Valencia CF	Real Zaragoza	1:2	3:3	28.12.1958	00:00	1958	1959	15
+Real Sociedad	Real Betis	2:0	3:1	28.12.1958	00:00	1958	1959	15
+Sevilla FC	Celta Vigo	2:0	2:0	28.12.1958	00:00	1958	1959	15
+AtlÃ©tico Madrid	UD Las Palmas	2:0	3:1	28.12.1958	00:00	1958	1959	15
+Athletic Bilbao	Sporting GijÃ³n	6:0	9:0	28.12.1958	00:00	1958	1959	15
+Real Oviedo	AtlÃ©tico Madrid	1:0	2:1	04.01.1959	00:00	1958	1959	16
+Real Sociedad	Real Zaragoza	1:0	1:0	04.01.1959	00:00	1958	1959	16
+Granada CF	Real Betis	0:0	0:0	04.01.1959	00:00	1958	1959	16
+Athletic Bilbao	Celta Vigo	5:0	9:0	04.01.1959	00:00	1958	1959	16
+Real Madrid	UD Las Palmas	3:0	10:1	04.01.1959	00:00	1958	1959	16
+Espanyol Barcelona	Sporting GijÃ³n	1:0	2:0	04.01.1959	00:00	1958	1959	16
+Sevilla FC	CA Osasuna	0:0	1:0	04.01.1959	00:00	1958	1959	16
+Valencia CF	FC Barcelona	1:2	1:2	04.01.1959	00:00	1958	1959	16
+Real Betis	Sevilla FC	2:0	2:0	11.01.1959	00:00	1958	1959	17
+Real Zaragoza	Granada CF	1:1	1:1	11.01.1959	00:00	1958	1959	17
+FC Barcelona	Real Sociedad	3:1	4:2	11.01.1959	00:00	1958	1959	17
+Sporting GijÃ³n	Real Madrid	0:0	0:0	11.01.1959	00:00	1958	1959	17
+Celta Vigo	Espanyol Barcelona	0:1	1:2	11.01.1959	00:00	1958	1959	17
+CA Osasuna	Athletic Bilbao	0:3	1:8	11.01.1959	00:00	1958	1959	17
+AtlÃ©tico Madrid	Valencia CF	0:1	1:2	11.01.1959	00:00	1958	1959	17
+UD Las Palmas	Real Oviedo	0:0	2:1	11.01.1959	00:00	1958	1959	17
+Sevilla FC	Real Zaragoza	1:1	3:1	18.01.1959	00:00	1958	1959	18
+Espanyol Barcelona	CA Osasuna	2:1	2:2	18.01.1959	00:00	1958	1959	18
+Valencia CF	Real Oviedo	0:2	1:2	18.01.1959	00:00	1958	1959	18
+Sporting GijÃ³n	UD Las Palmas	1:0	2:0	18.01.1959	00:00	1958	1959	18
+Athletic Bilbao	Real Betis	5:0	7:0	18.01.1959	00:00	1958	1959	18
+Real Sociedad	AtlÃ©tico Madrid	0:0	0:0	18.01.1959	00:00	1958	1959	18
+Granada CF	FC Barcelona	1:3	1:4	18.01.1959	00:00	1958	1959	18
+Real Madrid	Celta Vigo	2:0	3:0	18.01.1959	00:00	1958	1959	18
+Real Oviedo	Real Sociedad	0:0	1:1	25.01.1959	00:00	1958	1959	19
+Valencia CF	UD Las Palmas	2:0	5:1	25.01.1959	00:00	1958	1959	19
+Celta Vigo	Sporting GijÃ³n	0:0	1:0	25.01.1959	00:00	1958	1959	19
+Real Betis	Espanyol Barcelona	0:1	3:1	25.01.1959	00:00	1958	1959	19
+CA Osasuna	Real Madrid	0:2	1:2	25.01.1959	00:00	1958	1959	19
+Real Zaragoza	Athletic Bilbao	0:0	2:0	25.01.1959	00:00	1958	1959	19
+FC Barcelona	Sevilla FC	3:0	4:0	25.01.1959	00:00	1958	1959	19
+AtlÃ©tico Madrid	Granada CF	3:0	4:0	25.01.1959	00:00	1958	1959	19
+Sevilla FC	AtlÃ©tico Madrid	1:1	3:3	01.02.1959	00:00	1958	1959	20
+Sporting GijÃ³n	CA Osasuna	0:0	2:1	01.02.1959	00:00	1958	1959	20
+Granada CF	Real Oviedo	1:1	1:1	01.02.1959	00:00	1958	1959	20
+UD Las Palmas	Celta Vigo	2:1	3:1	01.02.1959	00:00	1958	1959	20
+Espanyol Barcelona	Real Zaragoza	1:0	1:1	01.02.1959	00:00	1958	1959	20
+Real Sociedad	Valencia CF	0:0	0:0	01.02.1959	00:00	1958	1959	20
+Athletic Bilbao	FC Barcelona	0:1	1:2	01.02.1959	00:00	1958	1959	20
+Real Madrid	Real Betis	3:1	4:2	01.02.1959	00:00	1958	1959	20
+FC Barcelona	Espanyol Barcelona	2:1	5:3	08.02.1959	00:00	1958	1959	21
+Real Betis	Sporting GijÃ³n	2:1	5:3	08.02.1959	00:00	1958	1959	21
+CA Osasuna	Celta Vigo	1:0	4:0	08.02.1959	00:00	1958	1959	21
+Valencia CF	Granada CF	2:0	3:0	08.02.1959	00:00	1958	1959	21
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	0:1	08.02.1959	00:00	1958	1959	21
+Real Zaragoza	Real Madrid	0:1	1:2	08.02.1959	00:00	1958	1959	21
+UD Las Palmas	Real Sociedad	0:0	0:0	08.02.1959	00:00	1958	1959	21
+Real Oviedo	Sevilla FC	1:0	1:0	08.02.1959	00:00	1958	1959	21
+Granada CF	Real Sociedad	1:0	1:0	15.02.1959	00:00	1958	1959	22
+Athletic Bilbao	Real Oviedo	0:1	0:1	15.02.1959	00:00	1958	1959	22
+CA Osasuna	UD Las Palmas	1:0	2:0	15.02.1959	00:00	1958	1959	22
+Sporting GijÃ³n	Real Zaragoza	0:1	0:2	15.02.1959	00:00	1958	1959	22
+Espanyol Barcelona	AtlÃ©tico Madrid	0:1	2:2	15.02.1959	00:00	1958	1959	22
+Sevilla FC	Valencia CF	0:0	1:0	15.02.1959	00:00	1958	1959	22
+Real Madrid	FC Barcelona	0:0	1:0	15.02.1959	00:00	1958	1959	22
+Celta Vigo	Real Betis	0:0	1:1	15.02.1959	00:00	1958	1959	22
+Real Zaragoza	Celta Vigo	1:0	2:0	22.02.1959	00:00	1958	1959	23
+Real Betis	CA Osasuna	0:0	1:0	22.02.1959	00:00	1958	1959	23
+FC Barcelona	Sporting GijÃ³n	3:0	4:1	22.02.1959	00:00	1958	1959	23
+Real Sociedad	Sevilla FC	0:0	4:0	22.02.1959	00:00	1958	1959	23
+Real Oviedo	Espanyol Barcelona	0:0	1:0	22.02.1959	00:00	1958	1959	23
+Valencia CF	Athletic Bilbao	1:0	2:0	22.02.1959	00:00	1958	1959	23
+AtlÃ©tico Madrid	Real Madrid	1:0	2:1	22.02.1959	00:00	1958	1959	23
+Granada CF	UD Las Palmas	1:0	4:1	22.02.1959	00:00	1958	1959	23
+Athletic Bilbao	Real Sociedad	0:0	1:0	08.03.1959	00:00	1958	1959	24
+Sevilla FC	Granada CF	1:0	3:0	08.03.1959	00:00	1958	1959	24
+Real Madrid	Real Oviedo	2:0	4:0	08.03.1959	00:00	1958	1959	24
+CA Osasuna	Real Zaragoza	0:0	3:0	08.03.1959	00:00	1958	1959	24
+Sporting GijÃ³n	AtlÃ©tico Madrid	1:2	3:2	08.03.1959	00:00	1958	1959	24
+Espanyol Barcelona	Valencia CF	0:0	2:0	08.03.1959	00:00	1958	1959	24
+Celta Vigo	FC Barcelona	0:0	0:1	08.03.1959	00:00	1958	1959	24
+UD Las Palmas	Real Betis	1:0	2:0	08.03.1959	00:00	1958	1959	24
+AtlÃ©tico Madrid	Celta Vigo	1:0	3:1	14.03.1959	00:00	1958	1959	25
+Real Sociedad	Espanyol Barcelona	1:0	2:1	15.03.1959	00:00	1958	1959	25
+Real Zaragoza	Real Betis	1:1	1:2	15.03.1959	00:00	1958	1959	25
+FC Barcelona	CA Osasuna	3:0	6:1	15.03.1959	00:00	1958	1959	25
+Real Oviedo	Sporting GijÃ³n	1:0	2:0	15.03.1959	00:00	1958	1959	25
+Granada CF	Athletic Bilbao	0:0	1:0	15.03.1959	00:00	1958	1959	25
+Valencia CF	Real Madrid	0:1	1:1	15.03.1959	00:00	1958	1959	25
+Sevilla FC	UD Las Palmas	1:2	3:4	15.03.1959	00:00	1958	1959	25
+Athletic Bilbao	Sevilla FC	1:1	2:1	22.03.1959	00:00	1958	1959	26
+Espanyol Barcelona	Granada CF	0:0	1:0	22.03.1959	00:00	1958	1959	26
+Celta Vigo	Real Oviedo	1:0	1:1	22.03.1959	00:00	1958	1959	26
+Real Madrid	Real Sociedad	3:0	6:1	22.03.1959	00:00	1958	1959	26
+CA Osasuna	AtlÃ©tico Madrid	1:1	3:1	22.03.1959	00:00	1958	1959	26
+Sporting GijÃ³n	Valencia CF	2:1	2:1	22.03.1959	00:00	1958	1959	26
+Real Betis	FC Barcelona	1:1	2:5	22.03.1959	00:00	1958	1959	26
+Real Zaragoza	UD Las Palmas	4:0	5:0	22.03.1959	00:00	1958	1959	26
+UD Las Palmas	Athletic Bilbao	1:0	1:0	29.03.1959	00:00	1958	1959	27
+Real Oviedo	CA Osasuna	0:2	1:3	29.03.1959	00:00	1958	1959	27
+Real Sociedad	Sporting GijÃ³n	0:0	0:0	29.03.1959	00:00	1958	1959	27
+Valencia CF	Celta Vigo	1:0	3:0	29.03.1959	00:00	1958	1959	27
+Sevilla FC	Espanyol Barcelona	2:0	3:0	29.03.1959	00:00	1958	1959	27
+AtlÃ©tico Madrid	Real Betis	0:0	3:1	29.03.1959	00:00	1958	1959	27
+Granada CF	Real Madrid	0:1	0:3	29.03.1959	00:00	1958	1959	27
+FC Barcelona	Real Zaragoza	1:0	3:0	29.03.1959	00:00	1958	1959	27
+Real Zaragoza	AtlÃ©tico Madrid	0:1	2:1	05.04.1959	00:00	1958	1959	28
+Sporting GijÃ³n	Granada CF	0:1	0:1	05.04.1959	00:00	1958	1959	28
+Real Betis	Real Oviedo	2:0	2:0	05.04.1959	00:00	1958	1959	28
+Real Madrid	Sevilla FC	2:0	8:0	05.04.1959	00:00	1958	1959	28
+CA Osasuna	Valencia CF	0:1	0:3	05.04.1959	00:00	1958	1959	28
+Espanyol Barcelona	Athletic Bilbao	1:1	2:1	05.04.1959	00:00	1958	1959	28
+UD Las Palmas	FC Barcelona	0:1	0:2	05.04.1959	00:00	1958	1959	28
+Celta Vigo	Real Sociedad	0:0	0:0	05.04.1959	00:00	1958	1959	28
+AtlÃ©tico Madrid	FC Barcelona	0:0	1:1	12.04.1959	00:00	1958	1959	29
+Sevilla FC	Sporting GijÃ³n	2:0	3:0	12.04.1959	00:00	1958	1959	29
+Real Sociedad	CA Osasuna	0:1	0:2	12.04.1959	00:00	1958	1959	29
+Espanyol Barcelona	UD Las Palmas	1:0	1:1	12.04.1959	00:00	1958	1959	29
+Granada CF	Celta Vigo	1:0	2:0	12.04.1959	00:00	1958	1959	29
+Real Oviedo	Real Zaragoza	1:1	4:1	12.04.1959	00:00	1958	1959	29
+Athletic Bilbao	Real Madrid	1:1	4:1	12.04.1959	00:00	1958	1959	29
+Valencia CF	Real Betis	0:0	2:0	12.04.1959	00:00	1958	1959	29
+CA Osasuna	Granada CF	1:0	2:1	19.04.1959	00:00	1958	1959	30
+Sporting GijÃ³n	Athletic Bilbao	0:2	0:2	19.04.1959	00:00	1958	1959	30
+Real Madrid	Espanyol Barcelona	0:2	3:3	19.04.1959	00:00	1958	1959	30
+Real Zaragoza	Valencia CF	2:0	6:1	19.04.1959	00:00	1958	1959	30
+UD Las Palmas	AtlÃ©tico Madrid	0:1	2:2	19.04.1959	00:00	1958	1959	30
+Celta Vigo	Sevilla FC	0:0	0:1	19.04.1959	00:00	1958	1959	30
+Real Betis	Real Sociedad	0:1	0:1	19.04.1959	00:00	1958	1959	30
+FC Barcelona	Real Oviedo	3:1	7:1	19.04.1959	00:00	1958	1959	30

@@ -1,0 +1,240 @@
+Real Madrid	Valencia CF	1:0	2:0	12.09.1970	00:00	1970	1971	1
+UD Las Palmas	AtlÃ©tico Madrid	0:0	1:1	12.09.1970	00:00	1970	1971	1
+Athletic Bilbao	FC Barcelona	0:1	1:1	12.09.1970	00:00	1970	1971	1
+Espanyol Barcelona	Sevilla FC	0:0	0:1	13.09.1970	00:00	1970	1971	1
+CE Sabadell	Real Sociedad	0:0	0:0	13.09.1970	00:00	1970	1971	1
+Celta Vigo	Sporting GijÃ³n	1:0	2:0	13.09.1970	00:00	1970	1971	1
+Real Zaragoza	CD MÃ¡laga	0:0	0:0	13.09.1970	00:00	1970	1971	1
+Elche CF	Granada CF	1:0	1:1	13.09.1970	00:00	1970	1971	1
+Valencia CF	UD Las Palmas	2:0	5:1	19.09.1970	00:00	1970	1971	2
+FC Barcelona	Real Zaragoza	4:1	5:2	20.09.1970	00:00	1970	1971	2
+Sporting GijÃ³n	CE Sabadell	2:0	3:2	20.09.1970	00:00	1970	1971	2
+CD MÃ¡laga	Celta Vigo	0:0	2:1	20.09.1970	00:00	1970	1971	2
+AtlÃ©tico Madrid	Athletic Bilbao	2:0	2:0	20.09.1970	00:00	1970	1971	2
+Sevilla FC	Real Madrid	1:1	3:1	20.09.1970	00:00	1970	1971	2
+Granada CF	Espanyol Barcelona	1:0	1:0	20.09.1970	00:00	1970	1971	2
+Real Sociedad	Elche CF	1:0	2:0	20.09.1970	00:00	1970	1971	2
+Real Madrid	Granada CF	1:1	3:2	26.09.1970	00:00	1970	1971	3
+Valencia CF	Sevilla FC	0:0	0:1	26.09.1970	00:00	1970	1971	3
+UD Las Palmas	Athletic Bilbao	0:1	1:1	26.09.1970	00:00	1970	1971	3
+CE Sabadell	CD MÃ¡laga	1:2	5:2	27.09.1970	00:00	1970	1971	3
+Elche CF	Sporting GijÃ³n	2:0	5:0	27.09.1970	00:00	1970	1971	3
+Espanyol Barcelona	Real Sociedad	0:0	0:0	27.09.1970	00:00	1970	1971	3
+Celta Vigo	FC Barcelona	0:1	1:1	27.09.1970	00:00	1970	1971	3
+Real Zaragoza	AtlÃ©tico Madrid	0:1	0:1	27.09.1970	00:00	1970	1971	3
+Athletic Bilbao	Real Zaragoza	1:0	3:0	04.10.1970	00:00	1970	1971	4
+AtlÃ©tico Madrid	Celta Vigo	0:1	3:1	04.10.1970	00:00	1970	1971	4
+CD MÃ¡laga	Elche CF	0:0	1:0	04.10.1970	00:00	1970	1971	4
+Granada CF	Valencia CF	1:1	2:2	04.10.1970	00:00	1970	1971	4
+Real Sociedad	Real Madrid	0:0	0:0	04.10.1970	00:00	1970	1971	4
+Sporting GijÃ³n	Espanyol Barcelona	0:1	0:1	04.10.1970	00:00	1970	1971	4
+UD Las Palmas	Sevilla FC	0:0	0:0	04.10.1970	00:00	1970	1971	4
+FC Barcelona	CE Sabadell	2:1	4:1	04.10.1970	00:00	1970	1971	4
+CE Sabadell	AtlÃ©tico Madrid	0:0	0:2	11.10.1970	00:00	1970	1971	5
+Sevilla FC	Granada CF	0:0	1:0	11.10.1970	00:00	1970	1971	5
+Espanyol Barcelona	CD MÃ¡laga	0:0	1:1	11.10.1970	00:00	1970	1971	5
+Real Madrid	Sporting GijÃ³n	0:1	1:1	11.10.1970	00:00	1970	1971	5
+Valencia CF	Real Sociedad	0:0	0:0	11.10.1970	00:00	1970	1971	5
+Celta Vigo	Athletic Bilbao	2:1	2:1	11.10.1970	00:00	1970	1971	5
+Elche CF	FC Barcelona	0:1	0:1	11.10.1970	00:00	1970	1971	5
+Real Zaragoza	UD Las Palmas	1:0	1:1	11.10.1970	00:00	1970	1971	5
+AtlÃ©tico Madrid	Elche CF	3:0	3:1	17.10.1970	00:00	1970	1971	6
+Sporting GijÃ³n	Valencia CF	0:0	0:1	17.10.1970	00:00	1970	1971	6
+FC Barcelona	Espanyol Barcelona	2:0	3:0	17.10.1970	00:00	1970	1971	6
+Athletic Bilbao	CE Sabadell	1:0	1:0	17.10.1970	00:00	1970	1971	6
+Real Zaragoza	Celta Vigo	0:0	0:0	18.10.1970	00:00	1970	1971	6
+Real Sociedad	Sevilla FC	0:0	1:0	18.10.1970	00:00	1970	1971	6
+Granada CF	UD Las Palmas	0:0	1:0	18.10.1970	00:00	1970	1971	6
+CD MÃ¡laga	Real Madrid	0:1	0:2	18.10.1970	00:00	1970	1971	6
+Granada CF	Real Sociedad	1:0	2:0	25.10.1970	00:00	1970	1971	7
+Valencia CF	CD MÃ¡laga	1:0	1:0	25.10.1970	00:00	1970	1971	7
+Sevilla FC	Sporting GijÃ³n	1:0	1:1	25.10.1970	00:00	1970	1971	7
+CE Sabadell	Real Zaragoza	1:1	2:1	25.10.1970	00:00	1970	1971	7
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	0:0	25.10.1970	00:00	1970	1971	7
+Elche CF	Athletic Bilbao	0:0	1:1	25.10.1970	00:00	1970	1971	7
+Real Madrid	FC Barcelona	0:1	0:1	25.10.1970	00:00	1970	1971	7
+UD Las Palmas	Celta Vigo	0:0	1:2	25.10.1970	00:00	1970	1971	7
+FC Barcelona	Valencia CF	0:1	0:2	31.10.1970	00:00	1970	1971	8
+UD Las Palmas	Real Sociedad	2:2	4:2	01.11.1970	00:00	1970	1971	8
+CD MÃ¡laga	Sevilla FC	1:0	1:1	01.11.1970	00:00	1970	1971	8
+Celta Vigo	CE Sabadell	1:0	1:0	01.11.1970	00:00	1970	1971	8
+Sporting GijÃ³n	Granada CF	2:2	3:2	01.11.1970	00:00	1970	1971	8
+Athletic Bilbao	Espanyol Barcelona	1:0	2:0	01.11.1970	00:00	1970	1971	8
+AtlÃ©tico Madrid	Real Madrid	0:2	2:2	01.11.1970	00:00	1970	1971	8
+Real Zaragoza	Elche CF	0:0	1:1	01.11.1970	00:00	1970	1971	8
+Espanyol Barcelona	Real Zaragoza	0:0	0:0	15.11.1970	00:00	1970	1971	9
+Granada CF	CD MÃ¡laga	0:1	1:1	15.11.1970	00:00	1970	1971	9
+Real Sociedad	Sporting GijÃ³n	1:0	3:1	15.11.1970	00:00	1970	1971	9
+Elche CF	Celta Vigo	1:1	1:1	15.11.1970	00:00	1970	1971	9
+Valencia CF	AtlÃ©tico Madrid	0:0	1:0	15.11.1970	00:00	1970	1971	9
+Real Madrid	Athletic Bilbao	0:0	1:2	15.11.1970	00:00	1970	1971	9
+Sevilla FC	FC Barcelona	0:0	0:1	15.11.1970	00:00	1970	1971	9
+CE Sabadell	UD Las Palmas	0:0	0:0	15.11.1970	00:00	1970	1971	9
+AtlÃ©tico Madrid	Sevilla FC	2:0	4:1	22.11.1970	00:00	1970	1971	10
+CD MÃ¡laga	Real Sociedad	0:0	0:0	22.11.1970	00:00	1970	1971	10
+FC Barcelona	Granada CF	1:1	2:1	22.11.1970	00:00	1970	1971	10
+CE Sabadell	Elche CF	0:0	1:0	22.11.1970	00:00	1970	1971	10
+Athletic Bilbao	Valencia CF	0:0	0:0	22.11.1970	00:00	1970	1971	10
+Celta Vigo	Espanyol Barcelona	1:0	1:0	22.11.1970	00:00	1970	1971	10
+Real Zaragoza	Real Madrid	0:2	0:5	22.11.1970	00:00	1970	1971	10
+UD Las Palmas	Sporting GijÃ³n	1:1	1:2	22.11.1970	00:00	1970	1971	10
+Valencia CF	Real Zaragoza	1:0	2:0	29.11.1970	00:00	1970	1971	11
+Espanyol Barcelona	CE Sabadell	0:0	3:1	29.11.1970	00:00	1970	1971	11
+UD Las Palmas	Elche CF	1:2	2:2	29.11.1970	00:00	1970	1971	11
+Real Madrid	Celta Vigo	4:0	4:0	29.11.1970	00:00	1970	1971	11
+Granada CF	AtlÃ©tico Madrid	0:0	0:0	29.11.1970	00:00	1970	1971	11
+Sevilla FC	Athletic Bilbao	1:1	3:2	29.11.1970	00:00	1970	1971	11
+Real Sociedad	FC Barcelona	0:0	1:0	29.11.1970	00:00	1970	1971	11
+Sporting GijÃ³n	CD MÃ¡laga	1:0	3:0	29.11.1970	00:00	1970	1971	11
+Elche CF	Espanyol Barcelona	0:0	1:1	06.12.1970	00:00	1970	1971	12
+Athletic Bilbao	Granada CF	3:0	3:0	06.12.1970	00:00	1970	1971	12
+FC Barcelona	Sporting GijÃ³n	0:0	2:0	06.12.1970	00:00	1970	1971	12
+CD MÃ¡laga	UD Las Palmas	0:0	1:1	06.12.1970	00:00	1970	1971	12
+Celta Vigo	Valencia CF	1:0	1:0	06.12.1970	00:00	1970	1971	12
+AtlÃ©tico Madrid	Real Sociedad	1:0	1:0	06.12.1970	00:00	1970	1971	12
+CE Sabadell	Real Madrid	1:0	1:1	06.12.1970	00:00	1970	1971	12
+Real Zaragoza	Sevilla FC	1:0	4:1	06.12.1970	00:00	1970	1971	12
+Granada CF	Real Zaragoza	1:0	3:0	13.12.1970	00:00	1970	1971	13
+Valencia CF	CE Sabadell	1:1	2:1	13.12.1970	00:00	1970	1971	13
+Real Madrid	Elche CF	0:1	1:1	13.12.1970	00:00	1970	1971	13
+Sevilla FC	Celta Vigo	1:0	2:1	13.12.1970	00:00	1970	1971	13
+Sporting GijÃ³n	AtlÃ©tico Madrid	1:0	1:1	13.12.1970	00:00	1970	1971	13
+Real Sociedad	Athletic Bilbao	0:1	2:1	13.12.1970	00:00	1970	1971	13
+CD MÃ¡laga	FC Barcelona	0:1	0:1	13.12.1970	00:00	1970	1971	13
+Espanyol Barcelona	UD Las Palmas	1:0	2:1	13.12.1970	00:00	1970	1971	13
+UD Las Palmas	FC Barcelona	2:0	3:2	20.12.1970	00:00	1970	1971	14
+AtlÃ©tico Madrid	CD MÃ¡laga	2:1	2:1	20.12.1970	00:00	1970	1971	14
+Celta Vigo	Granada CF	0:0	2:0	20.12.1970	00:00	1970	1971	14
+Athletic Bilbao	Sporting GijÃ³n	1:0	3:0	20.12.1970	00:00	1970	1971	14
+Real Zaragoza	Real Sociedad	1:0	1:0	20.12.1970	00:00	1970	1971	14
+Elche CF	Valencia CF	0:1	1:3	20.12.1970	00:00	1970	1971	14
+Espanyol Barcelona	Real Madrid	0:1	0:1	20.12.1970	00:00	1970	1971	14
+CE Sabadell	Sevilla FC	0:1	2:1	20.12.1970	00:00	1970	1971	14
+Granada CF	CE Sabadell	3:0	3:1	27.12.1970	00:00	1970	1971	15
+CD MÃ¡laga	Athletic Bilbao	3:1	3:3	27.12.1970	00:00	1970	1971	15
+Valencia CF	Espanyol Barcelona	0:0	2:1	27.12.1970	00:00	1970	1971	15
+FC Barcelona	AtlÃ©tico Madrid	2:0	2:0	27.12.1970	00:00	1970	1971	15
+Sporting GijÃ³n	Real Zaragoza	0:0	1:1	27.12.1970	00:00	1970	1971	15
+Real Sociedad	Celta Vigo	1:1	1:3	27.12.1970	00:00	1970	1971	15
+Real Madrid	UD Las Palmas	1:1	4:2	27.12.1970	00:00	1970	1971	15
+Sevilla FC	Elche CF	2:0	2:1	27.12.1970	00:00	1970	1971	15
+FC Barcelona	Athletic Bilbao	0:0	0:1	03.01.1971	00:00	1970	1971	16
+Sevilla FC	Espanyol Barcelona	1:0	1:0	03.01.1971	00:00	1970	1971	16
+CD MÃ¡laga	Real Zaragoza	1:0	1:0	03.01.1971	00:00	1970	1971	16
+Sporting GijÃ³n	Celta Vigo	1:0	4:0	03.01.1971	00:00	1970	1971	16
+AtlÃ©tico Madrid	UD Las Palmas	1:1	2:1	03.01.1971	00:00	1970	1971	16
+Granada CF	Elche CF	1:1	3:1	03.01.1971	00:00	1970	1971	16
+Real Sociedad	CE Sabadell	1:0	2:0	03.01.1971	00:00	1970	1971	16
+Valencia CF	Real Madrid	1:0	1:0	03.01.1971	00:00	1970	1971	16
+Elche CF	Real Sociedad	1:1	1:2	10.01.1971	00:00	1970	1971	17
+Espanyol Barcelona	Granada CF	0:0	1:0	10.01.1971	00:00	1970	1971	17
+CE Sabadell	Sporting GijÃ³n	1:0	2:1	10.01.1971	00:00	1970	1971	17
+Real Zaragoza	FC Barcelona	1:0	1:2	10.01.1971	00:00	1970	1971	17
+Athletic Bilbao	AtlÃ©tico Madrid	1:0	1:0	10.01.1971	00:00	1970	1971	17
+UD Las Palmas	Valencia CF	0:0	0:0	10.01.1971	00:00	1970	1971	17
+Real Madrid	Sevilla FC	1:0	4:0	10.01.1971	00:00	1970	1971	17
+Celta Vigo	CD MÃ¡laga	0:0	0:0	10.01.1971	00:00	1970	1971	17
+Sevilla FC	Valencia CF	0:1	2:2	17.01.1971	00:00	1970	1971	18
+CD MÃ¡laga	CE Sabadell	0:0	1:0	17.01.1971	00:00	1970	1971	18
+Sporting GijÃ³n	Elche CF	2:1	3:1	17.01.1971	00:00	1970	1971	18
+Athletic Bilbao	UD Las Palmas	0:0	1:0	17.01.1971	00:00	1970	1971	18
+AtlÃ©tico Madrid	Real Zaragoza	2:0	3:0	17.01.1971	00:00	1970	1971	18
+Real Sociedad	Espanyol Barcelona	0:0	1:0	17.01.1971	00:00	1970	1971	18
+Granada CF	Real Madrid	1:0	2:0	17.01.1971	00:00	1970	1971	18
+FC Barcelona	Celta Vigo	1:0	2:1	17.01.1971	00:00	1970	1971	18
+Sevilla FC	UD Las Palmas	2:0	3:1	24.01.1971	00:00	1970	1971	19
+Espanyol Barcelona	Sporting GijÃ³n	2:0	2:0	24.01.1971	00:00	1970	1971	19
+Elche CF	CD MÃ¡laga	1:0	1:1	24.01.1971	00:00	1970	1971	19
+Celta Vigo	AtlÃ©tico Madrid	1:2	3:2	24.01.1971	00:00	1970	1971	19
+CE Sabadell	FC Barcelona	1:0	2:1	24.01.1971	00:00	1970	1971	19
+Real Zaragoza	Athletic Bilbao	0:1	1:2	24.01.1971	00:00	1970	1971	19
+Real Madrid	Real Sociedad	0:0	1:0	24.01.1971	00:00	1970	1971	19
+Valencia CF	Granada CF	1:0	2:1	24.01.1971	00:00	1970	1971	19
+Real Sociedad	Valencia CF	0:0	0:0	31.01.1971	00:00	1970	1971	20
+AtlÃ©tico Madrid	CE Sabadell	2:0	4:1	31.01.1971	00:00	1970	1971	20
+FC Barcelona	Elche CF	0:0	0:0	31.01.1971	00:00	1970	1971	20
+Athletic Bilbao	Celta Vigo	0:0	2:0	31.01.1971	00:00	1970	1971	20
+Granada CF	Sevilla FC	0:0	0:0	31.01.1971	00:00	1970	1971	20
+CD MÃ¡laga	Espanyol Barcelona	0:0	0:0	31.01.1971	00:00	1970	1971	20
+Sporting GijÃ³n	Real Madrid	0:1	0:1	31.01.1971	00:00	1970	1971	20
+UD Las Palmas	Real Zaragoza	1:0	4:0	31.01.1971	00:00	1970	1971	20
+Elche CF	AtlÃ©tico Madrid	0:0	0:4	07.02.1971	00:00	1970	1971	21
+Real Madrid	CD MÃ¡laga	2:1	2:2	07.02.1971	00:00	1970	1971	21
+Valencia CF	Sporting GijÃ³n	0:0	1:0	07.02.1971	00:00	1970	1971	21
+UD Las Palmas	Granada CF	1:0	2:0	07.02.1971	00:00	1970	1971	21
+CE Sabadell	Athletic Bilbao	1:0	1:0	07.02.1971	00:00	1970	1971	21
+Espanyol Barcelona	FC Barcelona	0:1	0:1	07.02.1971	00:00	1970	1971	21
+Celta Vigo	Real Zaragoza	0:0	2:0	07.02.1971	00:00	1970	1971	21
+Sevilla FC	Real Sociedad	1:0	1:0	07.02.1971	00:00	1970	1971	21
+Sporting GijÃ³n	Sevilla FC	2:0	4:0	14.02.1971	00:00	1970	1971	22
+Real Zaragoza	CE Sabadell	1:1	3:1	14.02.1971	00:00	1970	1971	22
+Real Sociedad	Granada CF	1:1	1:1	14.02.1971	00:00	1970	1971	22
+Celta Vigo	UD Las Palmas	0:0	1:0	14.02.1971	00:00	1970	1971	22
+CD MÃ¡laga	Valencia CF	0:0	0:1	14.02.1971	00:00	1970	1971	22
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	3:0	14.02.1971	00:00	1970	1971	22
+FC Barcelona	Real Madrid	0:0	0:1	14.02.1971	00:00	1970	1971	22
+Athletic Bilbao	Elche CF	1:0	2:0	14.02.1971	00:00	1970	1971	22
+CE Sabadell	Celta Vigo	3:2	3:2	28.02.1971	00:00	1970	1971	23
+Sevilla FC	CD MÃ¡laga	0:0	1:0	28.02.1971	00:00	1970	1971	23
+Granada CF	Sporting GijÃ³n	1:0	3:0	28.02.1971	00:00	1970	1971	23
+Elche CF	Real Zaragoza	1:1	2:1	28.02.1971	00:00	1970	1971	23
+Real Madrid	AtlÃ©tico Madrid	1:0	1:0	28.02.1971	00:00	1970	1971	23
+Espanyol Barcelona	Athletic Bilbao	0:0	1:0	28.02.1971	00:00	1970	1971	23
+Valencia CF	FC Barcelona	1:1	1:1	28.02.1971	00:00	1970	1971	23
+Real Sociedad	UD Las Palmas	1:0	1:0	28.02.1971	00:00	1970	1971	23
+AtlÃ©tico Madrid	Valencia CF	1:0	3:0	06.03.1971	00:00	1970	1971	24
+FC Barcelona	Sevilla FC	2:1	5:2	07.03.1971	00:00	1970	1971	24
+UD Las Palmas	CE Sabadell	3:0	5:0	07.03.1971	00:00	1970	1971	24
+CD MÃ¡laga	Granada CF	1:0	1:0	07.03.1971	00:00	1970	1971	24
+Sporting GijÃ³n	Real Sociedad	1:0	2:0	07.03.1971	00:00	1970	1971	24
+Real Zaragoza	Espanyol Barcelona	1:0	2:2	07.03.1971	00:00	1970	1971	24
+Athletic Bilbao	Real Madrid	0:0	0:1	07.03.1971	00:00	1970	1971	24
+Celta Vigo	Elche CF	1:0	3:0	07.03.1971	00:00	1970	1971	24
+Real Madrid	Real Zaragoza	2:0	2:1	14.03.1971	00:00	1970	1971	25
+Espanyol Barcelona	Celta Vigo	0:1	0:1	14.03.1971	00:00	1970	1971	25
+Elche CF	CE Sabadell	0:0	0:0	14.03.1971	00:00	1970	1971	25
+Real Sociedad	CD MÃ¡laga	0:2	1:2	14.03.1971	00:00	1970	1971	25
+Sevilla FC	AtlÃ©tico Madrid	0:1	1:1	14.03.1971	00:00	1970	1971	25
+Valencia CF	Athletic Bilbao	1:0	4:0	14.03.1971	00:00	1970	1971	25
+Granada CF	FC Barcelona	0:0	0:2	14.03.1971	00:00	1970	1971	25
+Sporting GijÃ³n	UD Las Palmas	1:0	2:0	14.03.1971	00:00	1970	1971	25
+AtlÃ©tico Madrid	Granada CF	1:0	3:0	20.03.1971	00:00	1970	1971	26
+Real Zaragoza	Valencia CF	0:0	0:2	21.03.1971	00:00	1970	1971	26
+CD MÃ¡laga	Sporting GijÃ³n	0:0	3:0	21.03.1971	00:00	1970	1971	26
+Elche CF	UD Las Palmas	1:0	2:0	21.03.1971	00:00	1970	1971	26
+Athletic Bilbao	Sevilla FC	0:0	1:0	21.03.1971	00:00	1970	1971	26
+CE Sabadell	Espanyol Barcelona	0:0	0:0	21.03.1971	00:00	1970	1971	26
+Celta Vigo	Real Madrid	0:0	2:0	21.03.1971	00:00	1970	1971	26
+FC Barcelona	Real Sociedad	2:0	4:0	21.03.1971	00:00	1970	1971	26
+Granada CF	Athletic Bilbao	2:2	2:2	28.03.1971	00:00	1970	1971	27
+Real Madrid	CE Sabadell	1:0	3:1	28.03.1971	00:00	1970	1971	27
+Espanyol Barcelona	Elche CF	0:0	2:0	28.03.1971	00:00	1970	1971	27
+UD Las Palmas	CD MÃ¡laga	0:1	1:2	28.03.1971	00:00	1970	1971	27
+Real Sociedad	AtlÃ©tico Madrid	0:1	0:1	28.03.1971	00:00	1970	1971	27
+Valencia CF	Celta Vigo	1:0	2:1	28.03.1971	00:00	1970	1971	27
+Sporting GijÃ³n	FC Barcelona	0:0	0:2	28.03.1971	00:00	1970	1971	27
+Sevilla FC	Real Zaragoza	2:1	4:2	28.03.1971	00:00	1970	1971	27
+Celta Vigo	Sevilla FC	0:0	2:0	04.04.1971	00:00	1970	1971	28
+Real Zaragoza	Granada CF	0:0	0:0	04.04.1971	00:00	1970	1971	28
+FC Barcelona	CD MÃ¡laga	0:0	1:0	04.04.1971	00:00	1970	1971	28
+Athletic Bilbao	Real Sociedad	0:0	1:1	04.04.1971	00:00	1970	1971	28
+CE Sabadell	Valencia CF	0:0	0:1	04.04.1971	00:00	1970	1971	28
+UD Las Palmas	Espanyol Barcelona	0:0	0:0	04.04.1971	00:00	1970	1971	28
+Elche CF	Real Madrid	0:0	0:1	04.04.1971	00:00	1970	1971	28
+AtlÃ©tico Madrid	Sporting GijÃ³n	1:0	2:0	04.04.1971	00:00	1970	1971	28
+CD MÃ¡laga	AtlÃ©tico Madrid	0:0	0:0	10.04.1971	00:00	1970	1971	29
+Real Madrid	Espanyol Barcelona	0:0	1:0	10.04.1971	00:00	1970	1971	29
+Sevilla FC	CE Sabadell	0:0	1:0	11.04.1971	00:00	1970	1971	29
+Valencia CF	Elche CF	2:0	3:0	11.04.1971	00:00	1970	1971	29
+Granada CF	Celta Vigo	1:0	1:0	11.04.1971	00:00	1970	1971	29
+Sporting GijÃ³n	Athletic Bilbao	1:0	3:1	11.04.1971	00:00	1970	1971	29
+Real Sociedad	Real Zaragoza	0:0	2:0	11.04.1971	00:00	1970	1971	29
+FC Barcelona	UD Las Palmas	0:0	2:0	12.04.1971	00:00	1970	1971	29
+CE Sabadell	Granada CF	0:0	0:1	18.04.1971	00:00	1970	1971	30
+UD Las Palmas	Real Madrid	0:0	0:0	18.04.1971	00:00	1970	1971	30
+AtlÃ©tico Madrid	FC Barcelona	0:0	1:1	18.04.1971	00:00	1970	1971	30
+Espanyol Barcelona	Valencia CF	0:0	1:0	18.04.1971	00:00	1970	1971	30
+Elche CF	Sevilla FC	0:0	1:0	18.04.1971	00:00	1970	1971	30
+Celta Vigo	Real Sociedad	0:0	0:0	18.04.1971	00:00	1970	1971	30
+Real Zaragoza	Sporting GijÃ³n	0:0	0:0	18.04.1971	00:00	1970	1971	30
+Athletic Bilbao	CD MÃ¡laga	2:0	2:1	18.04.1971	00:00	1970	1971	30

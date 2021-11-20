@@ -1,0 +1,90 @@
+Real Madrid	Espanyol Barcelona	1:0	2:0	07.12.1930	00:00	1930	1931	1
+Real Sociedad	CD AlavÃ©s	1:1	2:2	07.12.1930	00:00	1930	1931	1
+Arenas de Getxo	Real UniÃ³n	1:2	1:2	07.12.1930	00:00	1930	1931	1
+Racing Santander	CE Europa	0:1	2:1	07.12.1930	00:00	1930	1931	1
+FC Barcelona	Athletic Bilbao	3:1	6:3	07.12.1930	00:00	1930	1931	1
+CE Europa	FC Barcelona	1:2	2:2	14.12.1930	00:00	1930	1931	2
+Athletic Bilbao	Real Sociedad	3:1	6:1	14.12.1930	00:00	1930	1931	2
+Espanyol Barcelona	Racing Santander	3:0	4:1	14.12.1930	00:00	1930	1931	2
+CD AlavÃ©s	Arenas de Getxo	2:2	3:2	14.12.1930	00:00	1930	1931	2
+Real UniÃ³n	Real Madrid	0:1	1:1	27.01.1931	00:00	1930	1931	2
+Arenas de Getxo	Real Madrid	2:0	4:1	21.12.1930	00:00	1930	1931	3
+CE Europa	Real UniÃ³n	2:0	2:1	21.12.1930	00:00	1930	1931	3
+CD AlavÃ©s	Espanyol Barcelona	0:0	4:1	21.12.1930	00:00	1930	1931	3
+Real Sociedad	FC Barcelona	4:1	4:1	21.12.1930	00:00	1930	1931	3
+Racing Santander	Athletic Bilbao	1:1	4:1	21.12.1930	00:00	1930	1931	3
+Real Madrid	CE Europa	3:0	3:1	25.12.1930	00:00	1930	1931	4
+Real UniÃ³n	Real Sociedad	1:2	2:4	28.12.1930	00:00	1930	1931	4
+FC Barcelona	Racing Santander	0:1	1:1	28.12.1930	00:00	1930	1931	4
+Espanyol Barcelona	Arenas de Getxo	0:0	5:0	28.12.1930	00:00	1930	1931	4
+Athletic Bilbao	CD AlavÃ©s	4:1	7:1	28.12.1930	00:00	1930	1931	4
+Real Madrid	CD AlavÃ©s	1:0	1:0	04.01.1931	00:00	1930	1931	5
+CE Europa	Athletic Bilbao	2:1	2:1	04.01.1931	00:00	1930	1931	5
+Arenas de Getxo	FC Barcelona	3:0	5:0	04.01.1931	00:00	1930	1931	5
+Racing Santander	Real Sociedad	2:1	2:5	04.01.1931	00:00	1930	1931	5
+Real UniÃ³n	Espanyol Barcelona	2:0	6:1	04.01.1931	00:00	1930	1931	5
+Racing Santander	Real Madrid	1:0	3:0	11.01.1931	00:00	1930	1931	6
+FC Barcelona	Espanyol Barcelona	4:1	6:2	11.01.1931	00:00	1930	1931	6
+Athletic Bilbao	Arenas de Getxo	4:1	5:2	11.01.1931	00:00	1930	1931	6
+CD AlavÃ©s	Real UniÃ³n	0:0	3:1	11.01.1931	00:00	1930	1931	6
+Real Sociedad	CE Europa	3:1	3:1	11.01.1931	00:00	1930	1931	6
+Arenas de Getxo	Real Sociedad	1:0	1:3	18.01.1931	00:00	1930	1931	7
+CD AlavÃ©s	Racing Santander	1:1	2:5	18.01.1931	00:00	1930	1931	7
+Real Madrid	Athletic Bilbao	0:4	0:6	18.01.1931	00:00	1930	1931	7
+Real UniÃ³n	FC Barcelona	1:1	1:1	18.01.1931	00:00	1930	1931	7
+Espanyol Barcelona	CE Europa	1:0	4:0	18.01.1931	00:00	1930	1931	7
+Real Sociedad	Real Madrid	1:1	2:1	25.01.1931	00:00	1930	1931	8
+Athletic Bilbao	Espanyol Barcelona	3:0	5:1	25.01.1931	00:00	1930	1931	8
+CE Europa	Arenas de Getxo	1:2	1:4	25.01.1931	00:00	1930	1931	8
+FC Barcelona	CD AlavÃ©s	1:1	1:1	25.01.1931	00:00	1930	1931	8
+Racing Santander	Real UniÃ³n	3:0	4:1	25.01.1931	00:00	1930	1931	8
+CD AlavÃ©s	CE Europa	1:0	2:0	01.02.1931	00:00	1930	1931	9
+Real Madrid	FC Barcelona	0:0	0:0	01.02.1931	00:00	1930	1931	9
+Real UniÃ³n	Athletic Bilbao	0:2	2:3	01.02.1931	00:00	1930	1931	9
+Espanyol Barcelona	Real Sociedad	1:0	1:0	01.02.1931	00:00	1930	1931	9
+Arenas de Getxo	Racing Santander	1:1	4:2	01.02.1931	00:00	1930	1931	9
+Athletic Bilbao	FC Barcelona	6:1	12:1	08.02.1931	00:00	1930	1931	10
+CD AlavÃ©s	Real Sociedad	1:1	1:2	08.02.1931	00:00	1930	1931	10
+CE Europa	Racing Santander	1:2	1:2	08.02.1931	00:00	1930	1931	10
+Real UniÃ³n	Arenas de Getxo	1:2	2:2	08.02.1931	00:00	1930	1931	10
+Espanyol Barcelona	Real Madrid	1:0	1:1	08.02.1931	00:00	1930	1931	10
+Real Sociedad	Athletic Bilbao	1:0	1:0	15.02.1931	00:00	1930	1931	11
+Racing Santander	Espanyol Barcelona	1:0	4:0	15.02.1931	00:00	1930	1931	11
+Arenas de Getxo	CD AlavÃ©s	1:0	1:1	15.02.1931	00:00	1930	1931	11
+Real Madrid	Real UniÃ³n	1:0	3:0	15.02.1931	00:00	1930	1931	11
+FC Barcelona	CE Europa	0:2	0:2	15.02.1931	00:00	1930	1931	11
+FC Barcelona	Real Sociedad	4:1	5:1	22.02.1931	00:00	1930	1931	12
+Real UniÃ³n	CE Europa	1:1	4:3	22.02.1931	00:00	1930	1931	12
+Espanyol Barcelona	CD AlavÃ©s	2:0	2:0	22.02.1931	00:00	1930	1931	12
+Athletic Bilbao	Racing Santander	3:1	7:1	22.02.1931	00:00	1930	1931	12
+Real Madrid	Arenas de Getxo	0:1	1:2	22.02.1931	00:00	1930	1931	12
+CE Europa	Real Madrid	0:1	0:3	01.03.1931	00:00	1930	1931	13
+Racing Santander	FC Barcelona	0:1	0:1	01.03.1931	00:00	1930	1931	13
+CD AlavÃ©s	Athletic Bilbao	1:1	1:4	01.03.1931	00:00	1930	1931	13
+Arenas de Getxo	Espanyol Barcelona	1:0	1:0	01.03.1931	00:00	1930	1931	13
+Real Sociedad	Real UniÃ³n	2:3	3:3	01.03.1931	00:00	1930	1931	13
+Real Sociedad	Racing Santander	3:4	4:7	08.03.1931	00:00	1930	1931	14
+Athletic Bilbao	CE Europa	3:0	4:1	08.03.1931	00:00	1930	1931	14
+Espanyol Barcelona	Real UniÃ³n	1:1	4:2	08.03.1931	00:00	1930	1931	14
+CD AlavÃ©s	Real Madrid	1:0	2:0	08.03.1931	00:00	1930	1931	14
+FC Barcelona	Arenas de Getxo	1:0	2:0	08.03.1931	00:00	1930	1931	14
+CE Europa	Real Sociedad	1:1	2:1	14.03.1931	00:00	1930	1931	15
+Arenas de Getxo	Athletic Bilbao	2:0	3:2	15.03.1931	00:00	1930	1931	15
+Real Madrid	Racing Santander	0:0	0:0	15.03.1931	00:00	1930	1931	15
+Real UniÃ³n	CD AlavÃ©s	2:1	4:1	15.03.1931	00:00	1930	1931	15
+Espanyol Barcelona	FC Barcelona	3:3	4:4	17.03.1931	00:00	1930	1931	15
+Real Sociedad	Arenas de Getxo	2:1	4:1	22.03.1931	00:00	1930	1931	16
+Racing Santander	CD AlavÃ©s	3:0	4:0	22.03.1931	00:00	1930	1931	16
+CE Europa	Espanyol Barcelona	1:0	3:1	22.03.1931	00:00	1930	1931	16
+Athletic Bilbao	Real Madrid	2:3	2:4	22.03.1931	00:00	1930	1931	16
+FC Barcelona	Real UniÃ³n	3:0	5:3	22.03.1931	00:00	1930	1931	16
+CD AlavÃ©s	FC Barcelona	1:0	1:1	29.03.1931	00:00	1930	1931	17
+Espanyol Barcelona	Athletic Bilbao	0:3	0:4	29.03.1931	00:00	1930	1931	17
+Real Madrid	Real Sociedad	1:0	2:0	29.03.1931	00:00	1930	1931	17
+Real UniÃ³n	Racing Santander	3:3	4:3	29.03.1931	00:00	1930	1931	17
+Arenas de Getxo	CE Europa	0:0	1:0	29.03.1931	00:00	1930	1931	17
+Athletic Bilbao	Real UniÃ³n	0:1	1:2	05.04.1931	00:00	1930	1931	18
+FC Barcelona	Real Madrid	2:1	3:1	05.04.1931	00:00	1930	1931	18
+Real Sociedad	Espanyol Barcelona	1:0	2:1	05.04.1931	00:00	1930	1931	18
+Racing Santander	Arenas de Getxo	1:0	4:1	05.04.1931	00:00	1930	1931	18
+CE Europa	CD AlavÃ©s	1:0	1:0	05.04.1931	00:00	1930	1931	18

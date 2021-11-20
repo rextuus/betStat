@@ -1,0 +1,240 @@
+Sevilla FC	Valencia CF	0:1	1:1	04.09.1965	00:00	1965	1966	1
+Real Madrid	CE Sabadell	0:0	1:0	04.09.1965	00:00	1965	1966	1
+CD MÃ¡laga	Pontevedra CF	0:0	0:0	04.09.1965	00:00	1965	1966	1
+UD Las Palmas	Espanyol Barcelona	1:1	1:1	05.09.1965	00:00	1965	1966	1
+Real Zaragoza	AtlÃ©tico Madrid	1:1	2:2	05.09.1965	00:00	1965	1966	1
+Athletic Bilbao	Real Betis	2:0	6:1	05.09.1965	00:00	1965	1966	1
+FC Barcelona	RCD Mallorca	0:0	3:1	05.09.1965	00:00	1965	1966	1
+Elche CF	CÃ³rdoba CF	1:0	2:0	05.09.1965	00:00	1965	1966	1
+RCD Mallorca	UD Las Palmas	2:1	4:1	12.09.1965	00:00	1965	1966	2
+Valencia CF	CD MÃ¡laga	1:0	1:0	12.09.1965	00:00	1965	1966	2
+Espanyol Barcelona	Real Zaragoza	0:0	1:1	12.09.1965	00:00	1965	1966	2
+CÃ³rdoba CF	Sevilla FC	0:0	0:0	12.09.1965	00:00	1965	1966	2
+CE Sabadell	FC Barcelona	0:2	1:3	12.09.1965	00:00	1965	1966	2
+Real Betis	Real Madrid	1:0	1:2	12.09.1965	00:00	1965	1966	2
+AtlÃ©tico Madrid	Elche CF	1:0	3:0	12.09.1965	00:00	1965	1966	2
+Pontevedra CF	Athletic Bilbao	2:0	3:0	12.09.1965	00:00	1965	1966	2
+Real Madrid	Pontevedra CF	0:0	1:0	18.09.1965	00:00	1965	1966	3
+Sevilla FC	AtlÃ©tico Madrid	0:0	1:1	19.09.1965	00:00	1965	1966	3
+CD MÃ¡laga	CÃ³rdoba CF	1:0	1:3	19.09.1965	00:00	1965	1966	3
+RCD Mallorca	CE Sabadell	0:0	0:1	19.09.1965	00:00	1965	1966	3
+UD Las Palmas	Real Zaragoza	1:1	2:1	19.09.1965	00:00	1965	1966	3
+Athletic Bilbao	Valencia CF	1:0	1:0	19.09.1965	00:00	1965	1966	3
+Elche CF	Espanyol Barcelona	2:0	3:0	19.09.1965	00:00	1965	1966	3
+FC Barcelona	Real Betis	1:0	4:1	19.09.1965	00:00	1965	1966	3
+Real Betis	RCD Mallorca	0:1	1:2	26.09.1965	00:00	1965	1966	4
+Espanyol Barcelona	Sevilla FC	1:0	1:0	26.09.1965	00:00	1965	1966	4
+Valencia CF	Real Madrid	1:0	3:0	26.09.1965	00:00	1965	1966	4
+CÃ³rdoba CF	Athletic Bilbao	0:0	1:0	26.09.1965	00:00	1965	1966	4
+AtlÃ©tico Madrid	CD MÃ¡laga	1:0	1:0	26.09.1965	00:00	1965	1966	4
+Real Zaragoza	Elche CF	3:1	6:1	26.09.1965	00:00	1965	1966	4
+UD Las Palmas	CE Sabadell	1:0	1:0	26.09.1965	00:00	1965	1966	4
+Pontevedra CF	FC Barcelona	1:0	2:0	26.09.1965	00:00	1965	1966	4
+Sevilla FC	Real Zaragoza	0:0	1:1	03.10.1965	00:00	1965	1966	5
+CD MÃ¡laga	Espanyol Barcelona	0:0	0:0	03.10.1965	00:00	1965	1966	5
+Athletic Bilbao	AtlÃ©tico Madrid	0:1	0:2	03.10.1965	00:00	1965	1966	5
+CE Sabadell	Real Betis	2:0	4:1	03.10.1965	00:00	1965	1966	5
+Elche CF	UD Las Palmas	1:0	1:1	03.10.1965	00:00	1965	1966	5
+Real Madrid	CÃ³rdoba CF	1:0	2:1	03.10.1965	00:00	1965	1966	5
+RCD Mallorca	Pontevedra CF	0:1	0:3	03.10.1965	00:00	1965	1966	5
+FC Barcelona	Valencia CF	1:1	1:2	03.10.1965	00:00	1965	1966	5
+Valencia CF	RCD Mallorca	2:1	4:1	09.10.1965	00:00	1965	1966	6
+AtlÃ©tico Madrid	Real Madrid	1:1	1:1	10.10.1965	00:00	1965	1966	6
+CÃ³rdoba CF	FC Barcelona	0:0	0:0	10.10.1965	00:00	1965	1966	6
+Espanyol Barcelona	Athletic Bilbao	2:0	3:4	10.10.1965	00:00	1965	1966	6
+Real Zaragoza	CD MÃ¡laga	1:0	1:1	10.10.1965	00:00	1965	1966	6
+Pontevedra CF	CE Sabadell	1:0	2:1	10.10.1965	00:00	1965	1966	6
+Elche CF	Sevilla FC	0:1	1:1	10.10.1965	00:00	1965	1966	6
+Real Betis	UD Las Palmas	0:0	1:0	10.10.1965	00:00	1965	1966	6
+CE Sabadell	Valencia CF	0:0	0:1	17.10.1965	00:00	1965	1966	7
+Athletic Bilbao	Real Zaragoza	0:0	2:0	17.10.1965	00:00	1965	1966	7
+Real Betis	Pontevedra CF	1:0	3:0	17.10.1965	00:00	1965	1966	7
+RCD Mallorca	CÃ³rdoba CF	2:0	2:1	17.10.1965	00:00	1965	1966	7
+CD MÃ¡laga	Elche CF	0:0	0:1	17.10.1965	00:00	1965	1966	7
+UD Las Palmas	Sevilla FC	0:0	1:0	17.10.1965	00:00	1965	1966	7
+FC Barcelona	AtlÃ©tico Madrid	0:3	1:4	17.10.1965	00:00	1965	1966	7
+Real Madrid	Espanyol Barcelona	0:0	0:0	17.10.1965	00:00	1965	1966	7
+Real Zaragoza	Real Madrid	2:0	2:3	31.10.1965	00:00	1965	1966	8
+Espanyol Barcelona	FC Barcelona	1:0	1:1	31.10.1965	00:00	1965	1966	8
+Elche CF	Athletic Bilbao	0:0	0:0	31.10.1965	00:00	1965	1966	8
+Sevilla FC	CD MÃ¡laga	0:0	0:1	31.10.1965	00:00	1965	1966	8
+CÃ³rdoba CF	CE Sabadell	1:0	3:0	31.10.1965	00:00	1965	1966	8
+AtlÃ©tico Madrid	RCD Mallorca	0:0	1:0	31.10.1965	00:00	1965	1966	8
+UD Las Palmas	Pontevedra CF	0:1	0:1	31.10.1965	00:00	1965	1966	8
+Valencia CF	Real Betis	2:1	6:3	01.12.1965	00:00	1965	1966	8
+Real Madrid	Elche CF	1:0	2:1	13.11.1965	00:00	1965	1966	9
+CD MÃ¡laga	UD Las Palmas	1:0	1:0	14.11.1965	00:00	1965	1966	9
+Athletic Bilbao	Sevilla FC	1:0	1:0	14.11.1965	00:00	1965	1966	9
+FC Barcelona	Real Zaragoza	0:1	0:1	14.11.1965	00:00	1965	1966	9
+Real Betis	CÃ³rdoba CF	0:1	0:4	14.11.1965	00:00	1965	1966	9
+Pontevedra CF	Valencia CF	1:0	2:0	14.11.1965	00:00	1965	1966	9
+RCD Mallorca	Espanyol Barcelona	1:0	3:0	14.11.1965	00:00	1965	1966	9
+CE Sabadell	AtlÃ©tico Madrid	0:0	0:1	14.11.1965	00:00	1965	1966	9
+Espanyol Barcelona	CE Sabadell	1:1	2:1	20.11.1965	00:00	1965	1966	10
+UD Las Palmas	Valencia CF	0:1	0:2	21.11.1965	00:00	1965	1966	10
+AtlÃ©tico Madrid	Real Betis	1:0	3:0	21.11.1965	00:00	1965	1966	10
+Sevilla FC	Real Madrid	1:1	2:1	21.11.1965	00:00	1965	1966	10
+Elche CF	FC Barcelona	0:0	1:0	21.11.1965	00:00	1965	1966	10
+CD MÃ¡laga	Athletic Bilbao	0:0	2:0	21.11.1965	00:00	1965	1966	10
+Real Zaragoza	RCD Mallorca	1:0	4:0	21.11.1965	00:00	1965	1966	10
+CÃ³rdoba CF	Pontevedra CF	0:0	0:2	21.11.1965	00:00	1965	1966	10
+Real Madrid	CD MÃ¡laga	0:0	1:0	27.11.1965	00:00	1965	1966	11
+FC Barcelona	Sevilla FC	2:0	3:0	28.11.1965	00:00	1965	1966	11
+Valencia CF	CÃ³rdoba CF	1:0	1:0	28.11.1965	00:00	1965	1966	11
+CE Sabadell	Real Zaragoza	2:1	3:1	28.11.1965	00:00	1965	1966	11
+Real Betis	Espanyol Barcelona	1:0	1:1	28.11.1965	00:00	1965	1966	11
+UD Las Palmas	Athletic Bilbao	0:1	1:1	28.11.1965	00:00	1965	1966	11
+RCD Mallorca	Elche CF	0:0	4:2	28.11.1965	00:00	1965	1966	11
+Pontevedra CF	AtlÃ©tico Madrid	0:0	1:0	28.11.1965	00:00	1965	1966	11
+Real Zaragoza	Real Betis	1:1	4:1	05.12.1965	00:00	1965	1966	12
+Espanyol Barcelona	Pontevedra CF	0:0	2:0	05.12.1965	00:00	1965	1966	12
+Sevilla FC	RCD Mallorca	1:1	3:1	05.12.1965	00:00	1965	1966	12
+CÃ³rdoba CF	UD Las Palmas	1:1	1:1	05.12.1965	00:00	1965	1966	12
+AtlÃ©tico Madrid	Valencia CF	2:0	2:2	05.12.1965	00:00	1965	1966	12
+CD MÃ¡laga	FC Barcelona	1:0	1:0	05.12.1965	00:00	1965	1966	12
+Athletic Bilbao	Real Madrid	2:0	2:0	05.12.1965	00:00	1965	1966	12
+Elche CF	CE Sabadell	0:0	0:0	05.12.1965	00:00	1965	1966	12
+FC Barcelona	Athletic Bilbao	0:0	1:0	12.12.1965	00:00	1965	1966	13
+Real Madrid	UD Las Palmas	2:0	3:1	12.12.1965	00:00	1965	1966	13
+Real Betis	Elche CF	1:0	2:1	12.12.1965	00:00	1965	1966	13
+RCD Mallorca	CD MÃ¡laga	2:0	2:2	12.12.1965	00:00	1965	1966	13
+CE Sabadell	Sevilla FC	0:2	2:2	12.12.1965	00:00	1965	1966	13
+Pontevedra CF	Real Zaragoza	1:0	1:1	12.12.1965	00:00	1965	1966	13
+CÃ³rdoba CF	AtlÃ©tico Madrid	0:1	0:1	12.12.1965	00:00	1965	1966	13
+Valencia CF	Espanyol Barcelona	1:1	2:1	12.12.1965	00:00	1965	1966	13
+Real Madrid	FC Barcelona	1:3	1:3	19.12.1965	00:00	1965	1966	14
+Real Zaragoza	Valencia CF	1:0	2:0	19.12.1965	00:00	1965	1966	14
+UD Las Palmas	AtlÃ©tico Madrid	0:0	1:1	19.12.1965	00:00	1965	1966	14
+Sevilla FC	Real Betis	1:1	1:1	19.12.1965	00:00	1965	1966	14
+CD MÃ¡laga	CE Sabadell	0:0	2:0	19.12.1965	00:00	1965	1966	14
+Athletic Bilbao	RCD Mallorca	1:0	4:0	19.12.1965	00:00	1965	1966	14
+Espanyol Barcelona	CÃ³rdoba CF	1:0	1:0	19.12.1965	00:00	1965	1966	14
+Elche CF	Pontevedra CF	2:0	2:0	19.12.1965	00:00	1965	1966	14
+FC Barcelona	UD Las Palmas	2:1	3:2	25.12.1965	00:00	1965	1966	15
+AtlÃ©tico Madrid	Espanyol Barcelona	1:1	5:2	26.12.1965	00:00	1965	1966	15
+Valencia CF	Elche CF	1:2	1:2	26.12.1965	00:00	1965	1966	15
+Real Betis	CD MÃ¡laga	1:0	4:0	26.12.1965	00:00	1965	1966	15
+CE Sabadell	Athletic Bilbao	0:0	1:2	26.12.1965	00:00	1965	1966	15
+RCD Mallorca	Real Madrid	1:3	2:5	26.12.1965	00:00	1965	1966	15
+Pontevedra CF	Sevilla FC	1:0	2:1	26.12.1965	00:00	1965	1966	15
+CÃ³rdoba CF	Real Zaragoza	2:1	2:1	26.12.1965	00:00	1965	1966	15
+RCD Mallorca	FC Barcelona	0:1	1:2	02.01.1966	00:00	1965	1966	16
+AtlÃ©tico Madrid	Real Zaragoza	0:0	0:1	02.01.1966	00:00	1965	1966	16
+CÃ³rdoba CF	Elche CF	0:0	1:0	02.01.1966	00:00	1965	1966	16
+Pontevedra CF	CD MÃ¡laga	2:0	3:0	02.01.1966	00:00	1965	1966	16
+Real Betis	Athletic Bilbao	0:0	2:0	02.01.1966	00:00	1965	1966	16
+Espanyol Barcelona	UD Las Palmas	0:0	1:1	02.01.1966	00:00	1965	1966	16
+CE Sabadell	Real Madrid	0:1	1:1	02.01.1966	00:00	1965	1966	16
+Valencia CF	Sevilla FC	0:0	0:1	02.01.1966	00:00	1965	1966	16
+Sevilla FC	CÃ³rdoba CF	1:1	2:1	06.01.1966	00:00	1965	1966	17
+UD Las Palmas	RCD Mallorca	0:0	0:0	06.01.1966	00:00	1965	1966	17
+Athletic Bilbao	Pontevedra CF	2:0	2:0	06.01.1966	00:00	1965	1966	17
+CD MÃ¡laga	Valencia CF	1:0	2:1	06.01.1966	00:00	1965	1966	17
+FC Barcelona	CE Sabadell	3:0	5:0	06.01.1966	00:00	1965	1966	17
+Real Zaragoza	Espanyol Barcelona	0:0	1:0	06.01.1966	00:00	1965	1966	17
+Real Madrid	Real Betis	1:0	2:0	06.01.1966	00:00	1965	1966	17
+Elche CF	AtlÃ©tico Madrid	0:0	0:0	06.01.1966	00:00	1965	1966	17
+Real Betis	FC Barcelona	0:0	0:0	09.01.1966	00:00	1965	1966	18
+Valencia CF	Athletic Bilbao	0:1	1:1	09.01.1966	00:00	1965	1966	18
+AtlÃ©tico Madrid	Sevilla FC	2:0	6:1	09.01.1966	00:00	1965	1966	18
+Real Zaragoza	UD Las Palmas	3:0	3:1	09.01.1966	00:00	1965	1966	18
+CÃ³rdoba CF	CD MÃ¡laga	0:0	1:0	09.01.1966	00:00	1965	1966	18
+Espanyol Barcelona	Elche CF	0:2	0:3	09.01.1966	00:00	1965	1966	18
+CE Sabadell	RCD Mallorca	1:0	1:0	09.01.1966	00:00	1965	1966	18
+Pontevedra CF	Real Madrid	0:2	1:3	09.01.1966	00:00	1965	1966	18
+CE Sabadell	UD Las Palmas	0:0	1:0	16.01.1966	00:00	1965	1966	19
+FC Barcelona	Pontevedra CF	0:0	3:0	16.01.1966	00:00	1965	1966	19
+Athletic Bilbao	CÃ³rdoba CF	3:1	3:2	16.01.1966	00:00	1965	1966	19
+CD MÃ¡laga	AtlÃ©tico Madrid	1:1	1:1	16.01.1966	00:00	1965	1966	19
+Elche CF	Real Zaragoza	2:0	3:1	16.01.1966	00:00	1965	1966	19
+Real Madrid	Valencia CF	2:0	2:1	16.01.1966	00:00	1965	1966	19
+Sevilla FC	Espanyol Barcelona	0:0	0:2	16.01.1966	00:00	1965	1966	19
+RCD Mallorca	Real Betis	2:0	4:0	16.01.1966	00:00	1965	1966	19
+CÃ³rdoba CF	Real Madrid	1:2	1:2	23.01.1966	00:00	1965	1966	20
+Valencia CF	FC Barcelona	0:0	0:2	23.01.1966	00:00	1965	1966	20
+AtlÃ©tico Madrid	Athletic Bilbao	1:0	1:0	23.01.1966	00:00	1965	1966	20
+Real Zaragoza	Sevilla FC	2:0	2:0	23.01.1966	00:00	1965	1966	20
+Pontevedra CF	RCD Mallorca	1:1	2:1	23.01.1966	00:00	1965	1966	20
+Real Betis	CE Sabadell	1:0	2:1	23.01.1966	00:00	1965	1966	20
+UD Las Palmas	Elche CF	0:0	1:0	23.01.1966	00:00	1965	1966	20
+Espanyol Barcelona	CD MÃ¡laga	1:1	3:2	23.01.1966	00:00	1965	1966	20
+CE Sabadell	Pontevedra CF	1:0	1:0	30.01.1966	00:00	1965	1966	21
+Athletic Bilbao	Espanyol Barcelona	1:1	3:1	30.01.1966	00:00	1965	1966	21
+RCD Mallorca	Valencia CF	1:0	2:0	30.01.1966	00:00	1965	1966	21
+Real Madrid	AtlÃ©tico Madrid	1:1	3:1	30.01.1966	00:00	1965	1966	21
+CD MÃ¡laga	Real Zaragoza	0:1	0:1	30.01.1966	00:00	1965	1966	21
+UD Las Palmas	Real Betis	2:0	4:1	30.01.1966	00:00	1965	1966	21
+FC Barcelona	CÃ³rdoba CF	1:1	3:1	30.01.1966	00:00	1965	1966	21
+Sevilla FC	Elche CF	1:0	2:0	30.01.1966	00:00	1965	1966	21
+Pontevedra CF	Real Betis	0:0	0:0	06.02.1966	00:00	1965	1966	22
+Real Zaragoza	Athletic Bilbao	2:1	3:2	06.02.1966	00:00	1965	1966	22
+Sevilla FC	UD Las Palmas	0:1	0:1	06.02.1966	00:00	1965	1966	22
+Elche CF	CD MÃ¡laga	0:1	0:2	06.02.1966	00:00	1965	1966	22
+Valencia CF	CE Sabadell	0:1	0:1	06.02.1966	00:00	1965	1966	22
+CÃ³rdoba CF	RCD Mallorca	1:0	2:0	06.02.1966	00:00	1965	1966	22
+AtlÃ©tico Madrid	FC Barcelona	0:1	0:1	06.02.1966	00:00	1965	1966	22
+Espanyol Barcelona	Real Madrid	1:0	1:1	06.02.1966	00:00	1965	1966	22
+FC Barcelona	Espanyol Barcelona	2:0	4:2	12.02.1966	00:00	1965	1966	23
+Pontevedra CF	UD Las Palmas	1:0	1:0	13.02.1966	00:00	1965	1966	23
+Athletic Bilbao	Elche CF	1:0	2:0	13.02.1966	00:00	1965	1966	23
+Real Madrid	Real Zaragoza	1:0	2:0	13.02.1966	00:00	1965	1966	23
+CD MÃ¡laga	Sevilla FC	0:1	0:1	13.02.1966	00:00	1965	1966	23
+RCD Mallorca	AtlÃ©tico Madrid	0:0	0:0	13.02.1966	00:00	1965	1966	23
+Real Betis	Valencia CF	0:1	1:1	13.02.1966	00:00	1965	1966	23
+CE Sabadell	CÃ³rdoba CF	1:0	2:1	13.02.1966	00:00	1965	1966	23
+Elche CF	Real Madrid	0:0	1:0	20.02.1966	00:00	1965	1966	24
+Real Zaragoza	FC Barcelona	0:0	0:0	20.02.1966	00:00	1965	1966	24
+Sevilla FC	Athletic Bilbao	0:0	0:0	20.02.1966	00:00	1965	1966	24
+CÃ³rdoba CF	Real Betis	1:2	3:3	20.02.1966	00:00	1965	1966	24
+UD Las Palmas	CD MÃ¡laga	0:0	2:0	20.02.1966	00:00	1965	1966	24
+AtlÃ©tico Madrid	CE Sabadell	2:0	3:0	20.02.1966	00:00	1965	1966	24
+Espanyol Barcelona	RCD Mallorca	0:1	1:1	20.02.1966	00:00	1965	1966	24
+Valencia CF	Pontevedra CF	2:0	4:0	20.02.1966	00:00	1965	1966	24
+FC Barcelona	Elche CF	0:0	0:0	26.02.1966	00:00	1965	1966	25
+Valencia CF	UD Las Palmas	2:0	4:0	27.02.1966	00:00	1965	1966	25
+CE Sabadell	Espanyol Barcelona	0:0	2:0	27.02.1966	00:00	1965	1966	25
+Real Betis	AtlÃ©tico Madrid	1:2	1:2	27.02.1966	00:00	1965	1966	25
+RCD Mallorca	Real Zaragoza	0:0	0:0	27.02.1966	00:00	1965	1966	25
+Athletic Bilbao	CD MÃ¡laga	0:1	1:1	27.02.1966	00:00	1965	1966	25
+Pontevedra CF	CÃ³rdoba CF	1:0	1:1	27.02.1966	00:00	1965	1966	25
+Real Madrid	Sevilla FC	1:0	4:0	27.02.1966	00:00	1965	1966	25
+Elche CF	RCD Mallorca	2:0	3:2	06.03.1966	00:00	1965	1966	26
+AtlÃ©tico Madrid	Pontevedra CF	1:0	4:0	06.03.1966	00:00	1965	1966	26
+Real Zaragoza	CE Sabadell	0:0	1:0	06.03.1966	00:00	1965	1966	26
+Espanyol Barcelona	Real Betis	0:1	1:1	06.03.1966	00:00	1965	1966	26
+CD MÃ¡laga	Real Madrid	0:0	0:0	06.03.1966	00:00	1965	1966	26
+CÃ³rdoba CF	Valencia CF	1:0	1:0	06.03.1966	00:00	1965	1966	26
+Sevilla FC	FC Barcelona	1:1	1:1	06.03.1966	00:00	1965	1966	26
+Athletic Bilbao	UD Las Palmas	0:0	1:1	06.03.1966	00:00	1965	1966	26
+RCD Mallorca	Sevilla FC	2:1	2:1	13.03.1966	00:00	1965	1966	27
+UD Las Palmas	CÃ³rdoba CF	2:1	5:1	13.03.1966	00:00	1965	1966	27
+CE Sabadell	Elche CF	1:3	3:4	13.03.1966	00:00	1965	1966	27
+Real Madrid	Athletic Bilbao	1:0	2:0	13.03.1966	00:00	1965	1966	27
+Real Betis	Real Zaragoza	1:0	1:0	13.03.1966	00:00	1965	1966	27
+Valencia CF	AtlÃ©tico Madrid	0:1	1:2	13.03.1966	00:00	1965	1966	27
+Pontevedra CF	Espanyol Barcelona	1:0	3:0	13.03.1966	00:00	1965	1966	27
+FC Barcelona	CD MÃ¡laga	3:0	4:0	13.03.1966	00:00	1965	1966	27
+CD MÃ¡laga	RCD Mallorca	2:1	2:1	20.03.1966	00:00	1965	1966	28
+Real Zaragoza	Pontevedra CF	0:0	2:0	20.03.1966	00:00	1965	1966	28
+UD Las Palmas	Real Madrid	0:0	1:2	20.03.1966	00:00	1965	1966	28
+AtlÃ©tico Madrid	CÃ³rdoba CF	2:0	2:0	20.03.1966	00:00	1965	1966	28
+Elche CF	Real Betis	0:1	1:1	20.03.1966	00:00	1965	1966	28
+Athletic Bilbao	FC Barcelona	1:0	1:0	20.03.1966	00:00	1965	1966	28
+Espanyol Barcelona	Valencia CF	2:0	2:0	20.03.1966	00:00	1965	1966	28
+Sevilla FC	CE Sabadell	1:0	2:0	20.03.1966	00:00	1965	1966	28
+CE Sabadell	CD MÃ¡laga	2:0	3:2	27.03.1966	00:00	1965	1966	29
+Pontevedra CF	Elche CF	1:0	1:1	27.03.1966	00:00	1965	1966	29
+AtlÃ©tico Madrid	UD Las Palmas	2:0	2:0	27.03.1966	00:00	1965	1966	29
+Valencia CF	Real Zaragoza	0:0	0:0	27.03.1966	00:00	1965	1966	29
+Real Betis	Sevilla FC	1:2	1:2	27.03.1966	00:00	1965	1966	29
+CÃ³rdoba CF	Espanyol Barcelona	2:1	2:1	27.03.1966	00:00	1965	1966	29
+RCD Mallorca	Athletic Bilbao	1:0	3:1	27.03.1966	00:00	1965	1966	29
+FC Barcelona	Real Madrid	0:1	2:1	27.03.1966	00:00	1965	1966	29
+Elche CF	Valencia CF	0:1	2:1	03.04.1966	00:00	1965	1966	30
+Espanyol Barcelona	AtlÃ©tico Madrid	0:2	0:2	03.04.1966	00:00	1965	1966	30
+CD MÃ¡laga	Real Betis	0:1	1:1	03.04.1966	00:00	1965	1966	30
+Athletic Bilbao	CE Sabadell	1:0	3:0	03.04.1966	00:00	1965	1966	30
+Real Madrid	RCD Mallorca	3:1	5:1	03.04.1966	00:00	1965	1966	30
+Real Zaragoza	CÃ³rdoba CF	2:0	4:0	03.04.1966	00:00	1965	1966	30
+Sevilla FC	Pontevedra CF	0:0	1:0	03.04.1966	00:00	1965	1966	30
+UD Las Palmas	FC Barcelona	2:0	2:1	03.04.1966	00:00	1965	1966	30

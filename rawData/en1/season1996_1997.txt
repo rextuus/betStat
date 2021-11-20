@@ -1,0 +1,380 @@
+Arsenal FC	West Ham United	2:0	2:0	17.08.1996	00:00	1996	1997	1
+Blackburn Rovers	Tottenham Hotspur	0:1	0:2	17.08.1996	00:00	1996	1997	1
+Coventry City	Nottingham Forest	0:2	0:3	17.08.1996	00:00	1996	1997	1
+Derby County	Leeds United	0:1	3:3	17.08.1996	00:00	1996	1997	1
+Everton FC	Newcastle United	2:0	2:0	17.08.1996	00:00	1996	1997	1
+Middlesbrough FC	Liverpool FC	2:2	3:3	17.08.1996	00:00	1996	1997	1
+Sheffield Wednesday	Aston Villa	0:0	2:1	17.08.1996	00:00	1996	1997	1
+Sunderland AFC	Leicester City	0:0	0:0	17.08.1996	00:00	1996	1997	1
+Wimbledon FC	Manchester United	0:1	0:3	17.08.1996	00:00	1996	1997	1
+Southampton FC	Chelsea FC	0:0	0:0	18.08.1996	00:00	1996	1997	1
+Liverpool FC	Arsenal FC	0:0	2:0	19.08.1996	00:00	1996	1997	2
+Leeds United	Sheffield Wednesday	0:1	0:2	20.08.1996	00:00	1996	1997	2
+Aston Villa	Blackburn Rovers	0:0	1:0	21.08.1996	00:00	1996	1997	2
+Chelsea FC	Middlesbrough FC	0:0	1:0	21.08.1996	00:00	1996	1997	2
+Leicester City	Southampton FC	2:0	2:1	21.08.1996	00:00	1996	1997	2
+Manchester United	Everton FC	0:2	2:2	21.08.1996	00:00	1996	1997	2
+Newcastle United	Wimbledon FC	1:0	2:0	21.08.1996	00:00	1996	1997	2
+Nottingham Forest	Sunderland AFC	1:4	1:4	21.08.1996	00:00	1996	1997	2
+Tottenham Hotspur	Derby County	1:0	1:1	21.08.1996	00:00	1996	1997	2
+West Ham United	Coventry City	0:1	1:1	21.08.1996	00:00	1996	1997	2
+Aston Villa	Derby County	1:0	2:0	24.08.1996	00:00	1996	1997	3
+Chelsea FC	Coventry City	1:0	2:0	24.08.1996	00:00	1996	1997	3
+Leicester City	Arsenal FC	0:1	0:2	24.08.1996	00:00	1996	1997	3
+Liverpool FC	Sunderland AFC	0:0	0:0	24.08.1996	00:00	1996	1997	3
+Newcastle United	Sheffield Wednesday	1:1	1:2	24.08.1996	00:00	1996	1997	3
+Nottingham Forest	Middlesbrough FC	0:0	1:1	24.08.1996	00:00	1996	1997	3
+Tottenham Hotspur	Everton FC	0:0	0:0	24.08.1996	00:00	1996	1997	3
+West Ham United	Southampton FC	0:1	2:1	24.08.1996	00:00	1996	1997	3
+Manchester United	Blackburn Rovers	1:1	2:2	25.08.1996	00:00	1996	1997	3
+Leeds United	Wimbledon FC	0:0	1:0	26.08.1996	00:00	1996	1997	3
+Sheffield Wednesday	Leicester City	2:1	2:1	02.09.1996	00:00	1996	1997	4
+Arsenal FC	Chelsea FC	1:2	3:3	04.09.1996	00:00	1996	1997	4
+Blackburn Rovers	Leeds United	0:1	0:1	04.09.1996	00:00	1996	1997	4
+Sunderland AFC	Newcastle United	1:0	1:2	04.09.1996	00:00	1996	1997	4
+Wimbledon FC	Tottenham Hotspur	1:0	1:0	04.09.1996	00:00	1996	1997	4
+Coventry City	Liverpool FC	0:0	0:1	04.09.1996	00:00	1996	1997	4
+Derby County	Manchester United	1:1	1:1	04.09.1996	00:00	1996	1997	4
+Everton FC	Aston Villa	0:0	0:1	04.09.1996	00:00	1996	1997	4
+Middlesbrough FC	West Ham United	2:0	4:1	04.09.1996	00:00	1996	1997	4
+Southampton FC	Nottingham Forest	0:2	2:2	04.09.1996	00:00	1996	1997	4
+Aston Villa	Arsenal FC	1:0	2:2	07.09.1996	00:00	1996	1997	5
+Leeds United	Manchester United	0:1	0:4	07.09.1996	00:00	1996	1997	5
+Liverpool FC	Southampton FC	1:0	2:1	07.09.1996	00:00	1996	1997	5
+Middlesbrough FC	Coventry City	2:0	4:0	07.09.1996	00:00	1996	1997	5
+Nottingham Forest	Leicester City	0:0	0:0	07.09.1996	00:00	1996	1997	5
+Sheffield Wednesday	Chelsea FC	0:1	0:2	07.09.1996	00:00	1996	1997	5
+Tottenham Hotspur	Newcastle United	1:1	1:2	07.09.1996	00:00	1996	1997	5
+Wimbledon FC	Everton FC	1:0	4:0	07.09.1996	00:00	1996	1997	5
+Sunderland AFC	West Ham United	0:0	0:0	08.09.1996	00:00	1996	1997	5
+Blackburn Rovers	Derby County	1:1	1:2	09.09.1996	00:00	1996	1997	5
+Coventry City	Leeds United	0:1	2:1	14.09.1996	00:00	1996	1997	6
+Derby County	Sunderland AFC	0:0	1:0	14.09.1996	00:00	1996	1997	6
+Everton FC	Middlesbrough FC	1:0	1:2	14.09.1996	00:00	1996	1997	6
+Manchester United	Nottingham Forest	2:1	4:1	14.09.1996	00:00	1996	1997	6
+Newcastle United	Blackburn Rovers	1:0	2:1	14.09.1996	00:00	1996	1997	6
+Southampton FC	Tottenham Hotspur	0:0	0:1	14.09.1996	00:00	1996	1997	6
+West Ham United	Wimbledon FC	0:0	0:2	14.09.1996	00:00	1996	1997	6
+Chelsea FC	Aston Villa	1:1	1:1	15.09.1996	00:00	1996	1997	6
+Leicester City	Liverpool FC	0:0	0:3	15.09.1996	00:00	1996	1997	6
+Arsenal FC	Sheffield Wednesday	0:1	4:1	16.09.1996	00:00	1996	1997	6
+Aston Villa	Manchester United	0:0	0:0	21.09.1996	00:00	1996	1997	7
+Blackburn Rovers	Everton FC	1:1	1:1	21.09.1996	00:00	1996	1997	7
+Leeds United	Newcastle United	0:0	0:1	21.09.1996	00:00	1996	1997	7
+Liverpool FC	Chelsea FC	3:0	5:1	21.09.1996	00:00	1996	1997	7
+Middlesbrough FC	Arsenal FC	0:2	0:2	21.09.1996	00:00	1996	1997	7
+Nottingham Forest	West Ham United	0:1	0:2	21.09.1996	00:00	1996	1997	7
+Sheffield Wednesday	Derby County	0:0	0:0	21.09.1996	00:00	1996	1997	7
+Sunderland AFC	Coventry City	0:0	1:0	21.09.1996	00:00	1996	1997	7
+Tottenham Hotspur	Leicester City	0:1	1:2	22.09.1996	00:00	1996	1997	7
+Wimbledon FC	Southampton FC	2:0	3:1	23.09.1996	00:00	1996	1997	7
+Arsenal FC	Sunderland AFC	0:0	2:0	28.09.1996	00:00	1996	1997	8
+Chelsea FC	Nottingham Forest	0:0	1:1	28.09.1996	00:00	1996	1997	8
+Coventry City	Blackburn Rovers	0:0	0:0	28.09.1996	00:00	1996	1997	8
+Derby County	Wimbledon FC	0:0	0:2	28.09.1996	00:00	1996	1997	8
+Everton FC	Sheffield Wednesday	1:0	2:0	28.09.1996	00:00	1996	1997	8
+Leicester City	Leeds United	0:0	1:0	28.09.1996	00:00	1996	1997	8
+Southampton FC	Middlesbrough FC	2:0	4:0	28.09.1996	00:00	1996	1997	8
+Manchester United	Tottenham Hotspur	1:0	2:0	29.09.1996	00:00	1996	1997	8
+West Ham United	Liverpool FC	1:1	1:2	29.09.1996	00:00	1996	1997	8
+Newcastle United	Aston Villa	3:1	4:3	30.09.1996	00:00	1996	1997	8
+Blackburn Rovers	Arsenal FC	0:1	0:2	12.10.1996	00:00	1996	1997	9
+Derby County	Newcastle United	0:0	0:1	12.10.1996	00:00	1996	1997	9
+Everton FC	West Ham United	1:0	2:1	12.10.1996	00:00	1996	1997	9
+Leeds United	Nottingham Forest	0:0	2:0	12.10.1996	00:00	1996	1997	9
+Leicester City	Chelsea FC	1:0	1:3	12.10.1996	00:00	1996	1997	9
+Manchester United	Liverpool FC	1:0	1:0	12.10.1996	00:00	1996	1997	9
+Tottenham Hotspur	Aston Villa	0:0	1:0	12.10.1996	00:00	1996	1997	9
+Wimbledon FC	Sheffield Wednesday	2:1	4:2	12.10.1996	00:00	1996	1997	9
+Coventry City	Southampton FC	0:1	1:1	13.10.1996	00:00	1996	1997	9
+Sunderland AFC	Middlesbrough FC	1:1	2:2	14.10.1996	00:00	1996	1997	9
+Arsenal FC	Coventry City	0:0	0:0	19.10.1996	00:00	1996	1997	10
+Aston Villa	Leeds United	0:0	2:0	19.10.1996	00:00	1996	1997	10
+Chelsea FC	Wimbledon FC	1:2	2:4	19.10.1996	00:00	1996	1997	10
+Middlesbrough FC	Tottenham Hotspur	0:2	0:3	19.10.1996	00:00	1996	1997	10
+Nottingham Forest	Derby County	1:0	1:1	19.10.1996	00:00	1996	1997	10
+Sheffield Wednesday	Blackburn Rovers	1:0	1:1	19.10.1996	00:00	1996	1997	10
+Southampton FC	Sunderland AFC	1:0	3:0	19.10.1996	00:00	1996	1997	10
+West Ham United	Leicester City	0:0	1:0	19.10.1996	00:00	1996	1997	10
+Newcastle United	Manchester United	2:0	5:0	20.10.1996	00:00	1996	1997	10
+Liverpool FC	Everton FC	1:0	1:1	20.11.1996	00:00	1996	1997	10
+Arsenal FC	Leeds United	2:0	3:0	26.10.1996	00:00	1996	1997	11
+Chelsea FC	Tottenham Hotspur	1:1	3:1	26.10.1996	00:00	1996	1997	11
+Coventry City	Sheffield Wednesday	0:0	0:0	26.10.1996	00:00	1996	1997	11
+Leicester City	Newcastle United	1:0	2:0	26.10.1996	00:00	1996	1997	11
+Middlesbrough FC	Wimbledon FC	0:0	0:0	26.10.1996	00:00	1996	1997	11
+Southampton FC	Manchester United	3:1	6:3	26.10.1996	00:00	1996	1997	11
+Sunderland AFC	Aston Villa	1:0	1:0	26.10.1996	00:00	1996	1997	11
+West Ham United	Blackburn Rovers	0:1	2:1	26.10.1996	00:00	1996	1997	11
+Liverpool FC	Derby County	0:0	2:1	27.10.1996	00:00	1996	1997	11
+Nottingham Forest	Everton FC	0:1	0:1	28.10.1996	00:00	1996	1997	11
+Aston Villa	Nottingham Forest	1:0	2:0	02.11.1996	00:00	1996	1997	12
+Derby County	Leicester City	0:0	2:0	02.11.1996	00:00	1996	1997	12
+Leeds United	Sunderland AFC	1:0	3:0	02.11.1996	00:00	1996	1997	12
+Manchester United	Chelsea FC	0:1	1:2	02.11.1996	00:00	1996	1997	12
+Sheffield Wednesday	Southampton FC	1:0	1:1	02.11.1996	00:00	1996	1997	12
+Tottenham Hotspur	West Ham United	0:0	1:0	02.11.1996	00:00	1996	1997	12
+Wimbledon FC	Arsenal FC	1:1	2:2	02.11.1996	00:00	1996	1997	12
+Blackburn Rovers	Liverpool FC	2:0	3:0	03.11.1996	00:00	1996	1997	12
+Newcastle United	Middlesbrough FC	1:0	3:1	03.11.1996	00:00	1996	1997	12
+Everton FC	Coventry City	1:0	1:1	04.11.1996	00:00	1996	1997	12
+Aston Villa	Leicester City	1:2	1:3	16.11.1996	00:00	1996	1997	13
+Blackburn Rovers	Chelsea FC	0:0	1:1	16.11.1996	00:00	1996	1997	13
+Everton FC	Southampton FC	5:1	7:1	16.11.1996	00:00	1996	1997	13
+Leeds United	Liverpool FC	0:1	0:2	16.11.1996	00:00	1996	1997	13
+Manchester United	Arsenal FC	0:0	1:0	16.11.1996	00:00	1996	1997	13
+Newcastle United	West Ham United	0:1	1:1	16.11.1996	00:00	1996	1997	13
+Tottenham Hotspur	Sunderland AFC	1:0	2:0	16.11.1996	00:00	1996	1997	13
+Wimbledon FC	Coventry City	1:0	2:2	16.11.1996	00:00	1996	1997	13
+Derby County	Middlesbrough FC	1:0	2:1	17.11.1996	00:00	1996	1997	13
+Sheffield Wednesday	Nottingham Forest	0:0	2:0	18.11.1996	00:00	1996	1997	13
+Chelsea FC	Newcastle United	1:1	1:1	23.11.1996	00:00	1996	1997	14
+Coventry City	Aston Villa	0:1	1:2	23.11.1996	00:00	1996	1997	14
+Leicester City	Everton FC	0:1	1:2	23.11.1996	00:00	1996	1997	14
+Liverpool FC	Wimbledon FC	1:0	1:1	23.11.1996	00:00	1996	1997	14
+Middlesbrough FC	Manchester United	1:1	2:2	23.11.1996	00:00	1996	1997	14
+Southampton FC	Leeds United	0:0	0:2	23.11.1996	00:00	1996	1997	14
+Sunderland AFC	Sheffield Wednesday	0:0	1:1	23.11.1996	00:00	1996	1997	14
+West Ham United	Derby County	1:1	1:1	23.11.1996	00:00	1996	1997	14
+Arsenal FC	Tottenham Hotspur	1:0	3:1	24.11.1996	00:00	1996	1997	14
+Nottingham Forest	Blackburn Rovers	1:0	2:2	25.11.1996	00:00	1996	1997	14
+Aston Villa	Middlesbrough FC	1:0	1:0	30.11.1996	00:00	1996	1997	15
+Blackburn Rovers	Southampton FC	1:0	2:1	30.11.1996	00:00	1996	1997	15
+Derby County	Coventry City	1:1	2:1	30.11.1996	00:00	1996	1997	15
+Everton FC	Sunderland AFC	0:0	1:3	30.11.1996	00:00	1996	1997	15
+Manchester United	Leicester City	0:0	3:1	30.11.1996	00:00	1996	1997	15
+Newcastle United	Arsenal FC	1:1	1:2	30.11.1996	00:00	1996	1997	15
+Sheffield Wednesday	West Ham United	0:0	0:0	30.11.1996	00:00	1996	1997	15
+Wimbledon FC	Nottingham Forest	1:0	1:0	30.11.1996	00:00	1996	1997	15
+Leeds United	Chelsea FC	2:0	2:0	01.12.1996	00:00	1996	1997	15
+Tottenham Hotspur	Liverpool FC	0:1	0:2	02.12.1996	00:00	1996	1997	15
+Arsenal FC	Derby County	1:0	2:2	07.12.1996	00:00	1996	1997	16
+Southampton FC	Aston Villa	0:1	0:1	07.12.1996	00:00	1996	1997	16
+Sunderland AFC	Wimbledon FC	0:2	1:3	07.12.1996	00:00	1996	1997	16
+Chelsea FC	Everton FC	1:2	2:2	07.12.1996	00:00	1996	1997	16
+Middlesbrough FC	Leeds United	0:0	0:0	07.12.1996	00:00	1996	1997	16
+Liverpool FC	Sheffield Wednesday	0:1	0:1	07.12.1996	00:00	1996	1997	16
+Leicester City	Blackburn Rovers	0:1	1:1	07.12.1996	00:00	1996	1997	16
+Coventry City	Tottenham Hotspur	0:1	1:2	07.12.1996	00:00	1996	1997	16
+West Ham United	Manchester United	0:0	2:2	08.12.1996	00:00	1996	1997	16
+Nottingham Forest	Newcastle United	0:0	0:0	09.12.1996	00:00	1996	1997	16
+Middlesbrough FC	Leicester City	0:1	0:2	03.12.1996	00:00	1996	1997	17
+Arsenal FC	Southampton FC	1:0	3:1	04.12.1996	00:00	1996	1997	17
+West Ham United	Aston Villa	0:1	0:2	04.12.1996	00:00	1996	1997	17
+Leeds United	Tottenham Hotspur	0:0	0:0	14.12.1996	00:00	1996	1997	17
+Wimbledon FC	Blackburn Rovers	0:0	1:0	14.12.1996	00:00	1996	1997	17
+Sunderland AFC	Chelsea FC	1:0	3:0	15.12.1996	00:00	1996	1997	17
+Derby County	Everton FC	0:0	0:1	16.12.1996	00:00	1996	1997	17
+Coventry City	Newcastle United	2:0	2:1	17.12.1996	00:00	1996	1997	17
+Liverpool FC	Nottingham Forest	2:1	4:2	17.12.1996	00:00	1996	1997	17
+Sheffield Wednesday	Manchester United	0:0	1:1	18.12.1996	00:00	1996	1997	17
+Chelsea FC	West Ham United	3:1	3:1	21.12.1996	00:00	1996	1997	18
+Everton FC	Leeds United	0:0	0:0	21.12.1996	00:00	1996	1997	18
+Leicester City	Coventry City	0:1	0:2	21.12.1996	00:00	1996	1997	18
+Manchester United	Sunderland AFC	2:0	5:0	21.12.1996	00:00	1996	1997	18
+Nottingham Forest	Arsenal FC	0:0	2:1	21.12.1996	00:00	1996	1997	18
+Southampton FC	Derby County	2:1	3:1	21.12.1996	00:00	1996	1997	18
+Tottenham Hotspur	Sheffield Wednesday	1:1	1:1	21.12.1996	00:00	1996	1997	18
+Aston Villa	Wimbledon FC	2:0	5:0	22.12.1996	00:00	1996	1997	18
+Newcastle United	Liverpool FC	1:1	1:1	23.12.1996	00:00	1996	1997	18
+Blackburn Rovers	Middlesbrough FC	0:0	0:0	08.05.1997	00:00	1996	1997	18
+Aston Villa	Chelsea FC	0:0	0:2	26.12.1996	00:00	1996	1997	19
+Blackburn Rovers	Newcastle United	0:0	1:0	26.12.1996	00:00	1996	1997	19
+Leeds United	Coventry City	1:3	1:3	26.12.1996	00:00	1996	1997	19
+Liverpool FC	Leicester City	0:0	1:1	26.12.1996	00:00	1996	1997	19
+Middlesbrough FC	Everton FC	2:2	4:2	26.12.1996	00:00	1996	1997	19
+Nottingham Forest	Manchester United	0:2	0:4	26.12.1996	00:00	1996	1997	19
+Sheffield Wednesday	Arsenal FC	0:0	0:0	26.12.1996	00:00	1996	1997	19
+Sunderland AFC	Derby County	0:0	2:0	26.12.1996	00:00	1996	1997	19
+Tottenham Hotspur	Southampton FC	2:1	3:1	26.12.1996	00:00	1996	1997	19
+Wimbledon FC	West Ham United	1:0	1:1	28.03.1997	00:00	1996	1997	19
+Liverpool FC	Middlesbrough FC	3:0	5:1	14.12.1996	00:00	1996	1997	20
+West Ham United	Arsenal FC	0:1	1:2	29.01.1997	00:00	1996	1997	20
+Tottenham Hotspur	Blackburn Rovers	1:0	2:1	29.01.1997	00:00	1996	1997	20
+Nottingham Forest	Coventry City	0:0	0:1	29.01.1997	00:00	1996	1997	20
+Leeds United	Derby County	0:0	0:0	29.01.1997	00:00	1996	1997	20
+Newcastle United	Everton FC	0:1	4:1	29.01.1997	00:00	1996	1997	20
+Aston Villa	Sheffield Wednesday	0:0	0:1	29.01.1997	00:00	1996	1997	20
+Leicester City	Sunderland AFC	1:1	1:1	29.01.1997	00:00	1996	1997	20
+Manchester United	Wimbledon FC	0:0	2:1	29.01.1997	00:00	1996	1997	20
+Chelsea FC	Southampton FC	1:0	1:0	19.03.1997	00:00	1996	1997	20
+Arsenal FC	Aston Villa	1:0	2:2	28.12.1996	00:00	1996	1997	21
+Chelsea FC	Sheffield Wednesday	2:1	2:2	28.12.1996	00:00	1996	1997	21
+Coventry City	Middlesbrough FC	1:0	3:0	28.12.1996	00:00	1996	1997	21
+Derby County	Blackburn Rovers	0:0	0:0	28.12.1996	00:00	1996	1997	21
+Everton FC	Wimbledon FC	1:0	1:3	28.12.1996	00:00	1996	1997	21
+Leicester City	Nottingham Forest	1:1	2:2	28.12.1996	00:00	1996	1997	21
+Manchester United	Leeds United	1:0	1:0	28.12.1996	00:00	1996	1997	21
+Newcastle United	Tottenham Hotspur	2:0	7:1	28.12.1996	00:00	1996	1997	21
+West Ham United	Sunderland AFC	1:0	2:0	28.12.1996	00:00	1996	1997	21
+Southampton FC	Liverpool FC	0:0	0:1	29.12.1996	00:00	1996	1997	21
+Arsenal FC	Middlesbrough FC	2:0	2:0	01.01.1997	00:00	1996	1997	22
+Chelsea FC	Liverpool FC	1:0	1:0	01.01.1997	00:00	1996	1997	22
+Coventry City	Sunderland AFC	2:2	2:2	01.01.1997	00:00	1996	1997	22
+Everton FC	Blackburn Rovers	0:2	0:2	01.01.1997	00:00	1996	1997	22
+Manchester United	Aston Villa	0:0	0:0	01.01.1997	00:00	1996	1997	22
+Newcastle United	Leeds United	1:0	3:0	01.01.1997	00:00	1996	1997	22
+West Ham United	Nottingham Forest	0:1	0:1	01.01.1997	00:00	1996	1997	22
+Derby County	Sheffield Wednesday	1:1	2:2	19.02.1997	00:00	1996	1997	22
+Southampton FC	Wimbledon FC	0:0	0:0	26.02.1997	00:00	1996	1997	22
+Leicester City	Tottenham Hotspur	0:0	1:1	19.03.1997	00:00	1996	1997	22
+Aston Villa	Newcastle United	1:2	2:2	11.01.1997	00:00	1996	1997	23
+Blackburn Rovers	Coventry City	3:0	4:0	11.01.1997	00:00	1996	1997	23
+Leeds United	Leicester City	2:0	3:0	11.01.1997	00:00	1996	1997	23
+Liverpool FC	West Ham United	0:0	0:0	11.01.1997	00:00	1996	1997	23
+Middlesbrough FC	Southampton FC	0:0	0:1	11.01.1997	00:00	1996	1997	23
+Nottingham Forest	Chelsea FC	1:0	2:0	11.01.1997	00:00	1996	1997	23
+Sheffield Wednesday	Everton FC	1:0	2:1	11.01.1997	00:00	1996	1997	23
+Sunderland AFC	Arsenal FC	0:0	1:0	11.01.1997	00:00	1996	1997	23
+Wimbledon FC	Derby County	0:0	1:1	11.01.1997	00:00	1996	1997	23
+Tottenham Hotspur	Manchester United	1:1	1:2	12.01.1997	00:00	1996	1997	23
+Chelsea FC	Derby County	2:1	3:1	18.01.1997	00:00	1996	1997	24
+Coventry City	Manchester United	0:0	0:2	18.01.1997	00:00	1996	1997	24
+Leicester City	Wimbledon FC	0:0	1:0	18.01.1997	00:00	1996	1997	24
+Liverpool FC	Aston Villa	0:0	3:0	18.01.1997	00:00	1996	1997	24
+Middlesbrough FC	Sheffield Wednesday	2:1	4:2	18.01.1997	00:00	1996	1997	24
+Southampton FC	Newcastle United	0:1	2:2	18.01.1997	00:00	1996	1997	24
+Sunderland AFC	Blackburn Rovers	0:0	0:0	18.01.1997	00:00	1996	1997	24
+Arsenal FC	Everton FC	0:0	3:1	19.01.1997	00:00	1996	1997	24
+Nottingham Forest	Tottenham Hotspur	0:1	2:1	19.01.1997	00:00	1996	1997	24
+West Ham United	Leeds United	0:0	0:2	20.01.1997	00:00	1996	1997	24
+Aston Villa	Sunderland AFC	1:0	1:0	01.02.1997	00:00	1996	1997	25
+Blackburn Rovers	West Ham United	2:0	2:1	01.02.1997	00:00	1996	1997	25
+Derby County	Liverpool FC	0:0	0:1	01.02.1997	00:00	1996	1997	25
+Everton FC	Nottingham Forest	0:0	2:0	01.02.1997	00:00	1996	1997	25
+Leeds United	Arsenal FC	0:0	0:0	01.02.1997	00:00	1996	1997	25
+Manchester United	Southampton FC	1:1	2:1	01.02.1997	00:00	1996	1997	25
+Sheffield Wednesday	Coventry City	0:0	0:0	01.02.1997	00:00	1996	1997	25
+Tottenham Hotspur	Chelsea FC	0:1	1:2	01.02.1997	00:00	1996	1997	25
+Wimbledon FC	Middlesbrough FC	1:0	1:1	01.02.1997	00:00	1996	1997	25
+Newcastle United	Leicester City	1:0	4:3	02.02.1997	00:00	1996	1997	25
+Derby County	West Ham United	0:0	1:0	15.02.1997	00:00	1996	1997	26
+Tottenham Hotspur	Arsenal FC	0:0	0:0	15.02.1997	00:00	1996	1997	26
+Aston Villa	Coventry City	1:0	2:1	19.02.1997	00:00	1996	1997	26
+Blackburn Rovers	Nottingham Forest	0:1	1:1	11.03.1997	00:00	1996	1997	26
+Leeds United	Southampton FC	0:0	0:0	12.03.1997	00:00	1996	1997	26
+Sheffield Wednesday	Sunderland AFC	1:1	2:1	12.03.1997	00:00	1996	1997	26
+Everton FC	Leicester City	1:0	1:1	09.04.1997	00:00	1996	1997	26
+Newcastle United	Chelsea FC	3:0	3:1	16.04.1997	00:00	1996	1997	26
+Manchester United	Middlesbrough FC	2:3	3:3	05.05.1997	00:00	1996	1997	26
+Wimbledon FC	Liverpool FC	1:0	2:1	06.05.1997	00:00	1996	1997	26
+Chelsea FC	Manchester United	1:0	1:1	22.02.1997	00:00	1996	1997	27
+Coventry City	Everton FC	0:0	0:0	22.02.1997	00:00	1996	1997	27
+Leicester City	Derby County	3:1	4:2	22.02.1997	00:00	1996	1997	27
+Liverpool FC	Blackburn Rovers	0:0	0:0	22.02.1997	00:00	1996	1997	27
+Middlesbrough FC	Newcastle United	0:1	0:1	22.02.1997	00:00	1996	1997	27
+Nottingham Forest	Aston Villa	0:0	0:0	22.02.1997	00:00	1996	1997	27
+Southampton FC	Sheffield Wednesday	2:0	2:3	22.02.1997	00:00	1996	1997	27
+Sunderland AFC	Leeds United	0:0	0:1	22.02.1997	00:00	1996	1997	27
+Arsenal FC	Wimbledon FC	0:1	0:1	23.02.1997	00:00	1996	1997	27
+West Ham United	Tottenham Hotspur	3:2	4:3	24.02.1997	00:00	1996	1997	27
+Blackburn Rovers	Sunderland AFC	0:0	1:0	01.03.1997	00:00	1996	1997	28
+Derby County	Chelsea FC	0:1	3:2	01.03.1997	00:00	1996	1997	28
+Everton FC	Arsenal FC	0:2	0:2	01.03.1997	00:00	1996	1997	28
+Leeds United	West Ham United	0:0	1:0	01.03.1997	00:00	1996	1997	28
+Manchester United	Coventry City	2:0	3:1	01.03.1997	00:00	1996	1997	28
+Newcastle United	Southampton FC	0:0	0:1	01.03.1997	00:00	1996	1997	28
+Sheffield Wednesday	Middlesbrough FC	2:0	3:1	01.03.1997	00:00	1996	1997	28
+Tottenham Hotspur	Nottingham Forest	0:1	0:1	01.03.1997	00:00	1996	1997	28
+Wimbledon FC	Leicester City	0:3	1:3	01.03.1997	00:00	1996	1997	28
+Aston Villa	Liverpool FC	0:0	1:0	02.03.1997	00:00	1996	1997	28
+Tottenham Hotspur	Leeds United	1:0	1:0	15.03.1997	00:00	1996	1997	29
+Southampton FC	Arsenal FC	0:1	0:2	15.03.1997	00:00	1996	1997	29
+Nottingham Forest	Liverpool FC	1:1	1:1	15.03.1997	00:00	1996	1997	29
+Newcastle United	Coventry City	2:0	4:0	15.03.1997	00:00	1996	1997	29
+Manchester United	Sheffield Wednesday	1:0	2:0	15.03.1997	00:00	1996	1997	29
+Leicester City	Middlesbrough FC	0:3	1:3	15.03.1997	00:00	1996	1997	29
+Everton FC	Derby County	0:0	1:0	15.03.1997	00:00	1996	1997	29
+Blackburn Rovers	Wimbledon FC	2:1	3:1	15.03.1997	00:00	1996	1997	29
+Aston Villa	West Ham United	0:0	0:0	15.03.1997	00:00	1996	1997	29
+Chelsea FC	Sunderland AFC	2:0	6:2	16.03.1997	00:00	1996	1997	29
+Blackburn Rovers	Aston Villa	0:0	0:2	22.03.1997	00:00	1996	1997	30
+Coventry City	West Ham United	1:2	1:3	22.03.1997	00:00	1996	1997	30
+Derby County	Tottenham Hotspur	2:1	4:2	22.03.1997	00:00	1996	1997	30
+Everton FC	Manchester United	0:1	0:2	22.03.1997	00:00	1996	1997	30
+Middlesbrough FC	Chelsea FC	0:0	1:0	22.03.1997	00:00	1996	1997	30
+Sheffield Wednesday	Leeds United	1:2	2:2	22.03.1997	00:00	1996	1997	30
+Southampton FC	Leicester City	1:0	2:2	22.03.1997	00:00	1996	1997	30
+Sunderland AFC	Nottingham Forest	0:0	1:1	22.03.1997	00:00	1996	1997	30
+Wimbledon FC	Newcastle United	1:0	1:1	23.03.1997	00:00	1996	1997	30
+Arsenal FC	Liverpool FC	0:0	1:2	24.03.1997	00:00	1996	1997	30
+Manchester United	Derby County	0:2	2:3	05.04.1997	00:00	1996	1997	31
+Newcastle United	Sunderland AFC	0:1	1:1	05.04.1997	00:00	1996	1997	31
+Aston Villa	Everton FC	1:1	3:1	05.04.1997	00:00	1996	1997	31
+Chelsea FC	Arsenal FC	0:1	0:3	05.04.1997	00:00	1996	1997	31
+Nottingham Forest	Southampton FC	0:1	1:3	05.04.1997	00:00	1996	1997	31
+Tottenham Hotspur	Wimbledon FC	0:0	1:0	05.04.1997	00:00	1996	1997	31
+Liverpool FC	Coventry City	0:0	1:2	06.04.1997	00:00	1996	1997	31
+Leeds United	Blackburn Rovers	0:0	0:0	07.04.1997	00:00	1996	1997	31
+West Ham United	Middlesbrough FC	0:0	0:0	09.04.1997	00:00	1996	1997	31
+Leicester City	Sheffield Wednesday	0:0	1:0	07.05.1997	00:00	1996	1997	31
+Liverpool FC	Leeds United	3:0	4:0	19.02.1997	00:00	1996	1997	32
+Arsenal FC	Manchester United	0:2	1:2	19.02.1997	00:00	1996	1997	32
+Coventry City	Wimbledon FC	1:1	1:1	03.03.1997	00:00	1996	1997	32
+Sunderland AFC	Tottenham Hotspur	0:3	0:4	04.03.1997	00:00	1996	1997	32
+Leicester City	Aston Villa	0:0	1:0	05.03.1997	00:00	1996	1997	32
+Chelsea FC	Blackburn Rovers	0:0	1:1	05.03.1997	00:00	1996	1997	32
+Southampton FC	Everton FC	0:2	2:2	05.03.1997	00:00	1996	1997	32
+Middlesbrough FC	Derby County	1:0	6:1	05.03.1997	00:00	1996	1997	32
+Nottingham Forest	Sheffield Wednesday	0:0	0:3	05.03.1997	00:00	1996	1997	32
+West Ham United	Newcastle United	0:0	0:0	06.05.1997	00:00	1996	1997	32
+Middlesbrough FC	Nottingham Forest	0:1	1:1	24.03.1997	00:00	1996	1997	33
+Coventry City	Chelsea FC	0:1	3:1	09.04.1997	00:00	1996	1997	33
+Arsenal FC	Leicester City	1:0	2:0	12.04.1997	00:00	1996	1997	33
+Blackburn Rovers	Manchester United	1:2	2:3	12.04.1997	00:00	1996	1997	33
+Derby County	Aston Villa	2:0	2:1	12.04.1997	00:00	1996	1997	33
+Everton FC	Tottenham Hotspur	1:0	1:0	12.04.1997	00:00	1996	1997	33
+Southampton FC	West Ham United	2:0	2:0	12.04.1997	00:00	1996	1997	33
+Sheffield Wednesday	Newcastle United	0:1	1:1	13.04.1997	00:00	1996	1997	33
+Sunderland AFC	Liverpool FC	0:1	1:2	13.04.1997	00:00	1996	1997	33
+Wimbledon FC	Leeds United	1:0	2:0	16.04.1997	00:00	1996	1997	33
+Arsenal FC	Blackburn Rovers	1:0	1:1	19.04.1997	00:00	1996	1997	34
+Aston Villa	Tottenham Hotspur	0:0	1:1	19.04.1997	00:00	1996	1997	34
+Chelsea FC	Leicester City	1:0	2:1	19.04.1997	00:00	1996	1997	34
+Liverpool FC	Manchester United	1:2	1:3	19.04.1997	00:00	1996	1997	34
+Middlesbrough FC	Sunderland AFC	0:1	0:1	19.04.1997	00:00	1996	1997	34
+Newcastle United	Derby County	1:1	3:1	19.04.1997	00:00	1996	1997	34
+Nottingham Forest	Leeds United	1:0	1:1	19.04.1997	00:00	1996	1997	34
+Sheffield Wednesday	Wimbledon FC	1:0	3:1	19.04.1997	00:00	1996	1997	34
+Southampton FC	Coventry City	1:0	2:2	19.04.1997	00:00	1996	1997	34
+West Ham United	Everton FC	2:0	2:2	19.04.1997	00:00	1996	1997	34
+Everton FC	Liverpool FC	0:1	1:1	16.04.1997	00:00	1996	1997	35
+Coventry City	Arsenal FC	1:1	1:1	21.04.1997	00:00	1996	1997	35
+Leeds United	Aston Villa	0:0	0:0	22.04.1997	00:00	1996	1997	35
+Wimbledon FC	Chelsea FC	0:1	0:1	22.04.1997	00:00	1996	1997	35
+Blackburn Rovers	Sheffield Wednesday	3:0	4:1	22.04.1997	00:00	1996	1997	35
+Sunderland AFC	Southampton FC	0:1	0:1	22.04.1997	00:00	1996	1997	35
+Derby County	Nottingham Forest	0:0	0:0	23.04.1997	00:00	1996	1997	35
+Leicester City	West Ham United	0:0	0:1	23.04.1997	00:00	1996	1997	35
+Tottenham Hotspur	Middlesbrough FC	0:0	1:0	24.04.1997	00:00	1996	1997	35
+Manchester United	Newcastle United	0:0	0:0	08.05.1997	00:00	1996	1997	35
+Arsenal FC	Newcastle United	0:1	0:1	03.05.1997	00:00	1996	1997	36
+Chelsea FC	Leeds United	0:0	0:0	03.05.1997	00:00	1996	1997	36
+Coventry City	Derby County	0:0	1:2	03.05.1997	00:00	1996	1997	36
+Leicester City	Manchester United	2:1	2:2	03.05.1997	00:00	1996	1997	36
+Liverpool FC	Tottenham Hotspur	2:1	2:1	03.05.1997	00:00	1996	1997	36
+Middlesbrough FC	Aston Villa	2:0	3:2	03.05.1997	00:00	1996	1997	36
+Nottingham Forest	Wimbledon FC	0:1	1:1	03.05.1997	00:00	1996	1997	36
+Southampton FC	Blackburn Rovers	1:0	2:0	03.05.1997	00:00	1996	1997	36
+Sunderland AFC	Everton FC	1:0	3:0	03.05.1997	00:00	1996	1997	36
+West Ham United	Sheffield Wednesday	3:0	5:1	03.05.1997	00:00	1996	1997	36
+Leeds United	Everton FC	1:0	1:0	08.03.1997	00:00	1996	1997	37
+Coventry City	Leicester City	0:0	0:0	08.03.1997	00:00	1996	1997	37
+Sunderland AFC	Manchester United	0:0	2:1	08.03.1997	00:00	1996	1997	37
+Arsenal FC	Nottingham Forest	0:0	2:0	08.03.1997	00:00	1996	1997	37
+Liverpool FC	Newcastle United	3:0	4:3	10.03.1997	00:00	1996	1997	37
+West Ham United	Chelsea FC	0:1	3:2	12.03.1997	00:00	1996	1997	37
+Middlesbrough FC	Blackburn Rovers	1:0	2:1	19.03.1997	00:00	1996	1997	37
+Derby County	Southampton FC	0:0	1:1	09.04.1997	00:00	1996	1997	37
+Sheffield Wednesday	Tottenham Hotspur	1:1	2:1	09.04.1997	00:00	1996	1997	37
+Wimbledon FC	Aston Villa	0:1	0:2	09.04.1997	00:00	1996	1997	37
+Aston Villa	Southampton FC	1:0	1:0	11.05.1997	00:00	1996	1997	38
+Blackburn Rovers	Leicester City	1:1	2:4	11.05.1997	00:00	1996	1997	38
+Derby County	Arsenal FC	1:0	1:3	11.05.1997	00:00	1996	1997	38
+Everton FC	Chelsea FC	0:2	1:2	11.05.1997	00:00	1996	1997	38
+Leeds United	Middlesbrough FC	0:0	1:1	11.05.1997	00:00	1996	1997	38
+Manchester United	West Ham United	1:0	2:0	11.05.1997	00:00	1996	1997	38
+Newcastle United	Nottingham Forest	4:0	5:0	11.05.1997	00:00	1996	1997	38
+Sheffield Wednesday	Liverpool FC	0:0	1:1	11.05.1997	00:00	1996	1997	38
+Tottenham Hotspur	Coventry City	1:2	1:2	11.05.1997	00:00	1996	1997	38
+Wimbledon FC	Sunderland AFC	0:0	1:0	11.05.1997	00:00	1996	1997	38

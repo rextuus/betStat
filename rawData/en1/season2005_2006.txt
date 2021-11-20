@@ -1,0 +1,380 @@
+Everton FC	Manchester United	0:2	0:2	13.08.2005	13:45	2005	2006	1
+Aston Villa	Bolton Wanderers	2:2	2:2	13.08.2005	16:00	2005	2006	1
+Fulham FC	Birmingham City	0:0	0:0	13.08.2005	16:00	2005	2006	1
+Manchester City	West Bromwich Albion	0:0	0:0	13.08.2005	16:00	2005	2006	1
+Portsmouth FC	Tottenham Hotspur	0:1	0:2	13.08.2005	16:00	2005	2006	1
+Sunderland AFC	Charlton Athletic	1:1	1:3	13.08.2005	16:00	2005	2006	1
+West Ham United	Blackburn Rovers	1:1	3:1	13.08.2005	16:00	2005	2006	1
+Middlesbrough FC	Liverpool FC	0:0	0:0	13.08.2005	18:15	2005	2006	1
+Arsenal FC	Newcastle United	0:0	2:0	14.08.2005	14:30	2005	2006	1
+Wigan Athletic	Chelsea FC	0:0	0:1	14.08.2005	17:00	2005	2006	1
+Manchester United	Aston Villa	0:0	1:0	20.08.2005	13:45	2005	2006	2
+Blackburn Rovers	Fulham FC	1:0	2:1	20.08.2005	16:00	2005	2006	2
+Charlton Athletic	Wigan Athletic	1:0	1:0	20.08.2005	16:00	2005	2006	2
+Newcastle United	West Ham United	0:0	0:0	20.08.2005	16:00	2005	2006	2
+Tottenham Hotspur	Middlesbrough FC	0:0	2:0	20.08.2005	16:00	2005	2006	2
+West Bromwich Albion	Portsmouth FC	1:0	2:1	20.08.2005	16:00	2005	2006	2
+Liverpool FC	Sunderland AFC	1:0	1:0	20.08.2005	16:15	2005	2006	2
+Birmingham City	Manchester City	1:1	1:2	20.08.2005	18:15	2005	2006	2
+Bolton Wanderers	Everton FC	0:0	0:1	21.08.2005	14:30	2005	2006	2
+Chelsea FC	Arsenal FC	0:0	1:0	21.08.2005	17:00	2005	2006	2
+Birmingham City	Middlesbrough FC	0:2	0:3	23.08.2005	20:45	2005	2006	3
+Portsmouth FC	Aston Villa	1:1	1:1	23.08.2005	20:45	2005	2006	3
+Sunderland AFC	Manchester City	1:2	1:2	23.08.2005	20:45	2005	2006	3
+Arsenal FC	Fulham FC	1:1	4:1	24.08.2005	20:45	2005	2006	3
+Chelsea FC	West Bromwich Albion	2:0	4:0	24.08.2005	20:45	2005	2006	3
+Bolton Wanderers	Newcastle United	1:0	2:0	24.08.2005	21:00	2005	2006	3
+Blackburn Rovers	Tottenham Hotspur	0:0	0:0	24.08.2005	21:00	2005	2006	3
+Everton FC	West Ham United	1:1	1:2	14.12.2005	21:00	2005	2006	3
+Manchester United	Wigan Athletic	2:0	4:0	14.12.2005	21:00	2005	2006	3
+Charlton Athletic	Liverpool FC	2:0	2:0	08.02.2006	21:00	2005	2006	3
+West Bromwich Albion	Birmingham City	1:3	2:3	27.08.2005	13:15	2005	2006	4
+Aston Villa	Blackburn Rovers	1:0	1:0	27.08.2005	16:00	2005	2006	4
+Fulham FC	Everton FC	0:0	1:0	27.08.2005	16:00	2005	2006	4
+Manchester City	Portsmouth FC	0:0	2:1	27.08.2005	16:00	2005	2006	4
+Tottenham Hotspur	Chelsea FC	0:1	0:2	27.08.2005	16:00	2005	2006	4
+West Ham United	Bolton Wanderers	0:0	1:2	27.08.2005	16:00	2005	2006	4
+Wigan Athletic	Sunderland AFC	1:0	1:0	27.08.2005	16:00	2005	2006	4
+Middlesbrough FC	Charlton Athletic	0:1	0:3	28.08.2005	14:30	2005	2006	4
+Newcastle United	Manchester United	0:0	0:2	28.08.2005	17:00	2005	2006	4
+Liverpool FC	Arsenal FC	0:0	1:0	14.02.2006	21:00	2005	2006	4
+Birmingham City	Charlton Athletic	0:1	0:1	10.09.2005	16:00	2005	2006	5
+Chelsea FC	Sunderland AFC	0:0	2:0	10.09.2005	16:00	2005	2006	5
+Everton FC	Portsmouth FC	0:0	0:1	10.09.2005	16:00	2005	2006	5
+Manchester United	Manchester City	1:0	1:1	10.09.2005	16:00	2005	2006	5
+Newcastle United	Fulham FC	0:1	1:1	10.09.2005	16:00	2005	2006	5
+Tottenham Hotspur	Liverpool FC	0:0	0:0	10.09.2005	16:00	2005	2006	5
+West Bromwich Albion	Wigan Athletic	1:1	1:2	10.09.2005	16:00	2005	2006	5
+Middlesbrough FC	Arsenal FC	1:0	2:1	10.09.2005	18:15	2005	2006	5
+Bolton Wanderers	Blackburn Rovers	0:0	0:0	11.09.2005	17:00	2005	2006	5
+West Ham United	Aston Villa	2:0	4:0	12.09.2005	21:00	2005	2006	5
+Charlton Athletic	Chelsea FC	0:0	0:2	17.09.2005	16:00	2005	2006	6
+Fulham FC	West Ham United	0:1	1:2	17.09.2005	16:00	2005	2006	6
+Portsmouth FC	Birmingham City	1:1	1:1	17.09.2005	16:00	2005	2006	6
+Sunderland AFC	West Bromwich Albion	1:0	1:1	17.09.2005	16:00	2005	2006	6
+Aston Villa	Tottenham Hotspur	1:0	1:1	17.09.2005	18:15	2005	2006	6
+Liverpool FC	Manchester United	0:0	0:0	18.09.2005	13:00	2005	2006	6
+Blackburn Rovers	Newcastle United	0:0	0:3	18.09.2005	15:00	2005	2006	6
+Wigan Athletic	Middlesbrough FC	0:1	1:1	18.09.2005	16:00	2005	2006	6
+Manchester City	Bolton Wanderers	0:0	0:1	18.09.2005	17:00	2005	2006	6
+Arsenal FC	Everton FC	2:0	2:0	19.09.2005	21:00	2005	2006	6
+Birmingham City	Liverpool FC	0:0	2:2	24.09.2005	13:45	2005	2006	7
+Chelsea FC	Aston Villa	1:1	2:1	24.09.2005	16:00	2005	2006	7
+Everton FC	Wigan Athletic	0:0	0:1	24.09.2005	16:00	2005	2006	7
+Manchester United	Blackburn Rovers	0:1	1:2	24.09.2005	16:00	2005	2006	7
+Newcastle United	Manchester City	1:0	1:0	24.09.2005	16:00	2005	2006	7
+West Bromwich Albion	Charlton Athletic	0:2	1:2	24.09.2005	16:00	2005	2006	7
+West Ham United	Arsenal FC	0:0	0:0	24.09.2005	16:00	2005	2006	7
+Bolton Wanderers	Portsmouth FC	1:0	1:0	24.09.2005	18:15	2005	2006	7
+Middlesbrough FC	Sunderland AFC	0:1	0:2	25.09.2005	17:00	2005	2006	7
+Tottenham Hotspur	Fulham FC	1:0	1:0	26.09.2005	21:00	2005	2006	7
+Blackburn Rovers	West Bromwich Albion	0:0	2:0	01.10.2005	16:00	2005	2006	8
+Charlton Athletic	Tottenham Hotspur	1:0	2:3	01.10.2005	16:00	2005	2006	8
+Fulham FC	Manchester United	2:3	2:3	01.10.2005	16:00	2005	2006	8
+Portsmouth FC	Newcastle United	0:0	0:0	01.10.2005	16:00	2005	2006	8
+Sunderland AFC	West Ham United	1:0	1:1	01.10.2005	18:15	2005	2006	8
+Manchester City	Everton FC	0:0	2:0	02.10.2005	12:15	2005	2006	8
+Wigan Athletic	Bolton Wanderers	0:0	2:1	02.10.2005	14:00	2005	2006	8
+Arsenal FC	Birmingham City	0:0	1:0	02.10.2005	14:30	2005	2006	8
+Aston Villa	Middlesbrough FC	0:1	2:3	02.10.2005	15:00	2005	2006	8
+Liverpool FC	Chelsea FC	1:2	1:4	02.10.2005	17:00	2005	2006	8
+Wigan Athletic	Newcastle United	1:0	1:0	15.10.2005	13:45	2005	2006	9
+Chelsea FC	Bolton Wanderers	0:1	5:1	15.10.2005	16:00	2005	2006	9
+Liverpool FC	Blackburn Rovers	0:0	1:0	15.10.2005	16:00	2005	2006	9
+Sunderland AFC	Manchester United	0:1	1:3	15.10.2005	16:00	2005	2006	9
+Tottenham Hotspur	Everton FC	0:0	2:0	15.10.2005	16:00	2005	2006	9
+West Bromwich Albion	Arsenal FC	1:1	2:1	15.10.2005	16:00	2005	2006	9
+Middlesbrough FC	Portsmouth FC	0:1	1:1	15.10.2005	18:15	2005	2006	9
+Birmingham City	Aston Villa	0:1	0:1	16.10.2005	13:00	2005	2006	9
+Manchester City	West Ham United	1:0	2:1	16.10.2005	17:00	2005	2006	9
+Charlton Athletic	Fulham FC	0:1	1:1	17.10.2005	21:00	2005	2006	9
+Blackburn Rovers	Birmingham City	0:0	2:0	22.10.2005	13:45	2005	2006	10
+Arsenal FC	Manchester City	0:0	1:0	22.10.2005	16:00	2005	2006	10
+Aston Villa	Wigan Athletic	0:1	0:2	22.10.2005	16:00	2005	2006	10
+Fulham FC	Liverpool FC	1:0	2:0	22.10.2005	16:00	2005	2006	10
+Manchester United	Tottenham Hotspur	1:0	1:1	22.10.2005	16:00	2005	2006	10
+Portsmouth FC	Charlton Athletic	1:0	1:2	22.10.2005	18:15	2005	2006	10
+Newcastle United	Sunderland AFC	2:2	3:2	23.10.2005	14:30	2005	2006	10
+Bolton Wanderers	West Bromwich Albion	0:0	2:0	23.10.2005	16:00	2005	2006	10
+West Ham United	Middlesbrough FC	0:0	2:1	23.10.2005	16:00	2005	2006	10
+Everton FC	Chelsea FC	1:0	1:1	23.10.2005	17:00	2005	2006	10
+Wigan Athletic	Fulham FC	0:0	1:0	29.10.2005	13:45	2005	2006	11
+Tottenham Hotspur	Arsenal FC	1:0	1:1	29.10.2005	14:00	2005	2006	11
+Birmingham City	Everton FC	0:1	0:1	29.10.2005	16:00	2005	2006	11
+Charlton Athletic	Bolton Wanderers	0:0	0:1	29.10.2005	16:00	2005	2006	11
+Chelsea FC	Blackburn Rovers	2:2	4:2	29.10.2005	16:00	2005	2006	11
+Liverpool FC	West Ham United	1:0	2:0	29.10.2005	16:00	2005	2006	11
+Sunderland AFC	Portsmouth FC	1:0	1:4	29.10.2005	16:00	2005	2006	11
+Middlesbrough FC	Manchester United	3:0	4:1	29.10.2005	18:15	2005	2006	11
+West Bromwich Albion	Newcastle United	0:0	0:3	30.10.2005	17:00	2005	2006	11
+Manchester City	Aston Villa	2:0	3:1	31.10.2005	21:00	2005	2006	11
+Aston Villa	Liverpool FC	0:0	0:2	05.11.2005	13:45	2005	2006	12
+Arsenal FC	Sunderland AFC	2:0	3:1	05.11.2005	16:00	2005	2006	12
+Blackburn Rovers	Charlton Athletic	2:1	4:1	05.11.2005	16:00	2005	2006	12
+Fulham FC	Manchester City	2:1	2:1	05.11.2005	16:00	2005	2006	12
+Newcastle United	Birmingham City	0:0	1:0	05.11.2005	16:00	2005	2006	12
+West Ham United	West Bromwich Albion	0:0	1:0	05.11.2005	16:00	2005	2006	12
+Portsmouth FC	Wigan Athletic	0:0	0:2	05.11.2005	18:15	2005	2006	12
+Everton FC	Middlesbrough FC	1:0	1:0	06.11.2005	15:00	2005	2006	12
+Manchester United	Chelsea FC	1:0	1:0	06.11.2005	17:00	2005	2006	12
+Bolton Wanderers	Tottenham Hotspur	1:0	1:0	07.11.2005	21:00	2005	2006	12
+Wigan Athletic	Arsenal FC	2:3	2:3	19.11.2005	13:45	2005	2006	13
+Charlton Athletic	Manchester United	0:1	1:3	19.11.2005	16:00	2005	2006	13
+Chelsea FC	Newcastle United	0:0	3:0	19.11.2005	16:00	2005	2006	13
+Liverpool FC	Portsmouth FC	2:0	3:0	19.11.2005	16:00	2005	2006	13
+Manchester City	Blackburn Rovers	0:0	0:0	19.11.2005	16:00	2005	2006	13
+Sunderland AFC	Aston Villa	0:0	1:3	19.11.2005	16:00	2005	2006	13
+West Bromwich Albion	Everton FC	1:0	4:0	19.11.2005	18:15	2005	2006	13
+Tottenham Hotspur	West Ham United	1:0	1:1	20.11.2005	14:00	2005	2006	13
+Middlesbrough FC	Fulham FC	0:1	3:2	20.11.2005	17:00	2005	2006	13
+Birmingham City	Bolton Wanderers	1:0	1:0	04.04.2006	20:45	2005	2006	13
+Arsenal FC	Blackburn Rovers	2:0	3:0	26.11.2005	16:00	2005	2006	14
+Aston Villa	Charlton Athletic	0:0	1:0	26.11.2005	16:00	2005	2006	14
+Manchester City	Liverpool FC	0:0	0:1	26.11.2005	16:00	2005	2006	14
+Sunderland AFC	Birmingham City	0:0	0:1	26.11.2005	16:00	2005	2006	14
+Wigan Athletic	Tottenham Hotspur	0:1	1:2	26.11.2005	16:00	2005	2006	14
+Portsmouth FC	Chelsea FC	0:1	0:2	26.11.2005	18:15	2005	2006	14
+Everton FC	Newcastle United	0:0	1:0	27.11.2005	14:30	2005	2006	14
+Fulham FC	Bolton Wanderers	2:0	2:1	27.11.2005	15:00	2005	2006	14
+Middlesbrough FC	West Bromwich Albion	1:1	2:2	27.11.2005	16:00	2005	2006	14
+West Ham United	Manchester United	1:0	1:2	27.11.2005	17:00	2005	2006	14
+Liverpool FC	Wigan Athletic	2:0	3:0	03.12.2005	13:45	2005	2006	15
+Blackburn Rovers	Everton FC	0:2	0:2	03.12.2005	16:00	2005	2006	15
+Bolton Wanderers	Arsenal FC	2:0	2:0	03.12.2005	16:00	2005	2006	15
+Chelsea FC	Middlesbrough FC	0:0	1:0	03.12.2005	16:00	2005	2006	15
+Newcastle United	Aston Villa	1:0	1:1	03.12.2005	16:00	2005	2006	15
+Tottenham Hotspur	Sunderland AFC	1:1	3:2	03.12.2005	16:00	2005	2006	15
+West Bromwich Albion	Fulham FC	0:0	0:0	03.12.2005	16:00	2005	2006	15
+Manchester United	Portsmouth FC	1:0	3:0	03.12.2005	18:15	2005	2006	15
+Charlton Athletic	Manchester City	1:2	2:5	04.12.2005	17:00	2005	2006	15
+Birmingham City	West Ham United	1:2	1:2	05.12.2005	21:00	2005	2006	15
+Liverpool FC	Middlesbrough FC	0:0	2:0	10.12.2005	13:45	2005	2006	16
+Birmingham City	Fulham FC	0:0	1:0	10.12.2005	16:00	2005	2006	16
+Blackburn Rovers	West Ham United	0:1	3:2	10.12.2005	16:00	2005	2006	16
+Bolton Wanderers	Aston Villa	0:0	1:1	10.12.2005	16:00	2005	2006	16
+Charlton Athletic	Sunderland AFC	1:0	2:0	10.12.2005	16:00	2005	2006	16
+Chelsea FC	Wigan Athletic	0:0	1:0	10.12.2005	16:00	2005	2006	16
+West Bromwich Albion	Manchester City	1:0	2:0	10.12.2005	16:00	2005	2006	16
+Newcastle United	Arsenal FC	0:0	1:0	10.12.2005	18:15	2005	2006	16
+Manchester United	Everton FC	1:1	1:1	11.12.2005	17:00	2005	2006	16
+Tottenham Hotspur	Portsmouth FC	0:1	3:1	12.12.2005	21:00	2005	2006	16
+Sunderland AFC	Liverpool FC	0:2	0:2	30.11.2005	20:45	2005	2006	17
+Aston Villa	Manchester United	0:1	0:2	17.12.2005	13:45	2005	2006	17
+Everton FC	Bolton Wanderers	0:1	0:4	17.12.2005	16:00	2005	2006	17
+Fulham FC	Blackburn Rovers	1:0	2:1	17.12.2005	16:00	2005	2006	17
+Portsmouth FC	West Bromwich Albion	0:0	1:0	17.12.2005	16:00	2005	2006	17
+West Ham United	Newcastle United	1:2	2:4	17.12.2005	16:00	2005	2006	17
+Wigan Athletic	Charlton Athletic	1:0	3:0	17.12.2005	16:00	2005	2006	17
+Manchester City	Birmingham City	3:0	4:1	17.12.2005	18:15	2005	2006	17
+Middlesbrough FC	Tottenham Hotspur	2:1	3:3	18.12.2005	14:30	2005	2006	17
+Arsenal FC	Chelsea FC	0:1	0:2	18.12.2005	17:00	2005	2006	17
+Charlton Athletic	Arsenal FC	0:0	0:1	26.12.2005	13:45	2005	2006	18
+Chelsea FC	Fulham FC	2:1	3:2	26.12.2005	14:00	2005	2006	18
+Tottenham Hotspur	Birmingham City	0:0	2:0	26.12.2005	14:00	2005	2006	18
+Liverpool FC	Newcastle United	2:0	2:0	26.12.2005	16:00	2005	2006	18
+Manchester United	West Bromwich Albion	2:0	3:0	26.12.2005	16:00	2005	2006	18
+Middlesbrough FC	Blackburn Rovers	0:1	0:2	26.12.2005	16:00	2005	2006	18
+Portsmouth FC	West Ham United	1:0	1:1	26.12.2005	16:00	2005	2006	18
+Sunderland AFC	Bolton Wanderers	0:0	0:0	26.12.2005	16:00	2005	2006	18
+Wigan Athletic	Manchester City	3:1	4:3	26.12.2005	16:00	2005	2006	18
+Aston Villa	Everton FC	1:0	4:0	26.12.2005	18:15	2005	2006	18
+Arsenal FC	Portsmouth FC	4:0	4:0	28.12.2005	20:45	2005	2006	19
+Birmingham City	Manchester United	1:1	2:2	28.12.2005	20:45	2005	2006	19
+Fulham FC	Aston Villa	2:1	3:3	28.12.2005	20:45	2005	2006	19
+Manchester City	Chelsea FC	0:0	0:1	28.12.2005	20:45	2005	2006	19
+West Bromwich Albion	Tottenham Hotspur	1:0	2:0	28.12.2005	20:45	2005	2006	19
+West Ham United	Wigan Athletic	0:2	0:2	28.12.2005	20:45	2005	2006	19
+Everton FC	Liverpool FC	1:2	1:3	28.12.2005	21:00	2005	2006	19
+Blackburn Rovers	Sunderland AFC	1:0	2:0	15.02.2006	21:00	2005	2006	19
+Newcastle United	Charlton Athletic	0:0	0:0	22.02.2006	20:45	2005	2006	19
+Bolton Wanderers	Middlesbrough FC	0:0	1:1	03.05.2006	21:00	2005	2006	19
+Aston Villa	Arsenal FC	0:0	0:0	31.12.2005	13:45	2005	2006	20
+Charlton Athletic	West Ham United	1:0	2:0	31.12.2005	14:00	2005	2006	20
+Chelsea FC	Birmingham City	2:0	2:0	31.12.2005	14:00	2005	2006	20
+Tottenham Hotspur	Newcastle United	1:0	2:0	31.12.2005	14:00	2005	2006	20
+Liverpool FC	West Bromwich Albion	0:0	1:0	31.12.2005	16:00	2005	2006	20
+Manchester United	Bolton Wanderers	2:1	4:1	31.12.2005	16:00	2005	2006	20
+Middlesbrough FC	Manchester City	0:0	0:0	31.12.2005	16:00	2005	2006	20
+Portsmouth FC	Fulham FC	1:0	1:0	31.12.2005	16:00	2005	2006	20
+Sunderland AFC	Everton FC	0:0	0:1	31.12.2005	16:00	2005	2006	20
+Wigan Athletic	Blackburn Rovers	0:1	0:3	31.12.2005	16:00	2005	2006	20
+West Bromwich Albion	Aston Villa	0:0	1:2	02.01.2006	13:00	2005	2006	21
+West Ham United	Chelsea FC	0:1	1:3	02.01.2006	13:45	2005	2006	21
+Birmingham City	Wigan Athletic	2:0	2:0	02.01.2006	16:00	2005	2006	21
+Bolton Wanderers	Liverpool FC	1:0	2:2	02.01.2006	16:00	2005	2006	21
+Everton FC	Charlton Athletic	2:1	3:1	02.01.2006	16:00	2005	2006	21
+Fulham FC	Sunderland AFC	1:1	2:1	02.01.2006	16:00	2005	2006	21
+Newcastle United	Middlesbrough FC	1:0	2:2	02.01.2006	16:00	2005	2006	21
+Blackburn Rovers	Portsmouth FC	2:1	2:1	02.01.2006	20:35	2005	2006	21
+Arsenal FC	Manchester United	0:0	0:0	03.01.2006	21:00	2005	2006	21
+Manchester City	Tottenham Hotspur	0:1	0:2	04.01.2006	21:00	2005	2006	21
+Manchester City	Manchester United	2:0	3:1	14.01.2006	13:45	2005	2006	22
+Arsenal FC	Middlesbrough FC	4:0	7:0	14.01.2006	16:00	2005	2006	22
+Aston Villa	West Ham United	1:0	1:2	14.01.2006	16:00	2005	2006	22
+Charlton Athletic	Birmingham City	1:0	2:0	14.01.2006	16:00	2005	2006	22
+Fulham FC	Newcastle United	0:0	1:0	14.01.2006	16:00	2005	2006	22
+Liverpool FC	Tottenham Hotspur	0:0	1:0	14.01.2006	16:00	2005	2006	22
+Portsmouth FC	Everton FC	0:1	0:1	14.01.2006	16:00	2005	2006	22
+Blackburn Rovers	Bolton Wanderers	0:0	0:0	14.01.2006	18:15	2005	2006	22
+Wigan Athletic	West Bromwich Albion	0:0	0:1	15.01.2006	14:30	2005	2006	22
+Sunderland AFC	Chelsea FC	1:1	1:2	15.01.2006	17:00	2005	2006	22
+Everton FC	Arsenal FC	1:0	1:0	21.01.2006	13:45	2005	2006	23
+Birmingham City	Portsmouth FC	2:0	5:0	21.01.2006	16:00	2005	2006	23
+Bolton Wanderers	Manchester City	2:0	2:0	21.01.2006	16:00	2005	2006	23
+Middlesbrough FC	Wigan Athletic	0:2	2:3	21.01.2006	16:00	2005	2006	23
+Newcastle United	Blackburn Rovers	0:0	0:1	21.01.2006	16:00	2005	2006	23
+Tottenham Hotspur	Aston Villa	0:0	0:0	21.01.2006	16:00	2005	2006	23
+West Bromwich Albion	Sunderland AFC	0:0	0:1	21.01.2006	18:15	2005	2006	23
+Chelsea FC	Charlton Athletic	1:0	1:1	22.01.2006	14:30	2005	2006	23
+Manchester United	Liverpool FC	0:0	1:0	22.01.2006	17:00	2005	2006	23
+West Ham United	Fulham FC	2:0	2:1	23.01.2006	21:00	2005	2006	23
+Sunderland AFC	Middlesbrough FC	0:2	0:3	31.01.2006	20:45	2005	2006	24
+Wigan Athletic	Everton FC	1:1	1:1	31.01.2006	20:45	2005	2006	24
+Charlton Athletic	West Bromwich Albion	0:0	0:0	31.01.2006	21:00	2005	2006	24
+Fulham FC	Tottenham Hotspur	0:0	1:0	31.01.2006	21:00	2005	2006	24
+Portsmouth FC	Bolton Wanderers	0:0	1:1	01.02.2006	20:45	2005	2006	24
+Aston Villa	Chelsea FC	0:1	1:1	01.02.2006	20:45	2005	2006	24
+Manchester City	Newcastle United	2:0	3:0	01.02.2006	20:45	2005	2006	24
+Arsenal FC	West Ham United	1:2	2:3	01.02.2006	21:00	2005	2006	24
+Liverpool FC	Birmingham City	0:0	1:1	01.02.2006	21:00	2005	2006	24
+Blackburn Rovers	Manchester United	3:1	4:3	01.02.2006	21:00	2005	2006	24
+Birmingham City	Arsenal FC	0:1	0:2	04.02.2006	16:00	2005	2006	25
+Bolton Wanderers	Wigan Athletic	0:0	1:1	04.02.2006	16:00	2005	2006	25
+Everton FC	Manchester City	1:0	1:0	04.02.2006	16:00	2005	2006	25
+Middlesbrough FC	Aston Villa	0:2	0:4	04.02.2006	16:00	2005	2006	25
+Newcastle United	Portsmouth FC	1:0	2:0	04.02.2006	16:00	2005	2006	25
+West Bromwich Albion	Blackburn Rovers	2:0	2:0	04.02.2006	16:00	2005	2006	25
+West Ham United	Sunderland AFC	0:0	2:0	04.02.2006	16:00	2005	2006	25
+Manchester United	Fulham FC	3:2	4:2	04.02.2006	18:15	2005	2006	25
+Tottenham Hotspur	Charlton Athletic	2:0	3:1	05.02.2006	14:30	2005	2006	25
+Chelsea FC	Liverpool FC	1:0	2:0	05.02.2006	17:00	2005	2006	25
+Wigan Athletic	Liverpool FC	0:1	0:1	11.02.2006	13:45	2005	2006	26
+Arsenal FC	Bolton Wanderers	0:1	1:1	11.02.2006	16:00	2005	2006	26
+Aston Villa	Newcastle United	1:2	1:2	11.02.2006	16:00	2005	2006	26
+Everton FC	Blackburn Rovers	1:0	1:0	11.02.2006	16:00	2005	2006	26
+Fulham FC	West Bromwich Albion	2:0	6:1	11.02.2006	16:00	2005	2006	26
+Middlesbrough FC	Chelsea FC	2:0	3:0	11.02.2006	16:00	2005	2006	26
+Portsmouth FC	Manchester United	0:3	1:3	11.02.2006	18:15	2005	2006	26
+Sunderland AFC	Tottenham Hotspur	0:1	1:1	12.02.2006	14:30	2005	2006	26
+Manchester City	Charlton Athletic	1:0	3:2	12.02.2006	17:00	2005	2006	26
+West Ham United	Birmingham City	1:0	3:0	13.02.2006	21:00	2005	2006	26
+Tottenham Hotspur	Wigan Athletic	1:1	2:2	19.02.2006	14:15	2005	2006	27
+Birmingham City	Sunderland AFC	1:0	1:0	25.02.2006	16:00	2005	2006	27
+Blackburn Rovers	Arsenal FC	1:0	1:0	25.02.2006	16:00	2005	2006	27
+Charlton Athletic	Aston Villa	0:0	0:0	25.02.2006	16:00	2005	2006	27
+Chelsea FC	Portsmouth FC	0:0	2:0	25.02.2006	16:00	2005	2006	27
+Newcastle United	Everton FC	0:0	2:0	25.02.2006	18:15	2005	2006	27
+Liverpool FC	Manchester City	1:0	1:0	26.02.2006	13:15	2005	2006	27
+Bolton Wanderers	Fulham FC	1:1	2:1	26.02.2006	14:00	2005	2006	27
+West Bromwich Albion	Middlesbrough FC	0:2	0:2	26.02.2006	16:00	2005	2006	27
+Manchester United	West Ham United	1:0	1:0	29.03.2006	21:00	2005	2006	27
+West Bromwich Albion	Chelsea FC	0:0	1:2	04.03.2006	13:45	2005	2006	28
+Aston Villa	Portsmouth FC	1:0	1:0	04.03.2006	16:00	2005	2006	28
+Fulham FC	Arsenal FC	0:2	0:4	04.03.2006	16:00	2005	2006	28
+Middlesbrough FC	Birmingham City	1:0	1:0	04.03.2006	16:00	2005	2006	28
+Newcastle United	Bolton Wanderers	2:0	3:1	04.03.2006	16:00	2005	2006	28
+West Ham United	Everton FC	2:1	2:2	04.03.2006	16:00	2005	2006	28
+Liverpool FC	Charlton Athletic	0:0	0:0	04.03.2006	18:15	2005	2006	28
+Manchester City	Sunderland AFC	2:1	2:1	05.03.2006	14:30	2005	2006	28
+Tottenham Hotspur	Blackburn Rovers	2:1	3:2	05.03.2006	17:00	2005	2006	28
+Wigan Athletic	Manchester United	0:0	1:2	06.03.2006	21:00	2005	2006	28
+Birmingham City	West Bromwich Albion	0:0	1:1	11.03.2006	13:00	2005	2006	29
+Chelsea FC	Tottenham Hotspur	1:1	2:1	11.03.2006	13:45	2005	2006	29
+Bolton Wanderers	West Ham United	3:0	4:1	11.03.2006	16:00	2005	2006	29
+Everton FC	Fulham FC	2:0	3:1	11.03.2006	16:00	2005	2006	29
+Portsmouth FC	Manchester City	0:0	2:1	11.03.2006	16:00	2005	2006	29
+Sunderland AFC	Wigan Athletic	0:1	0:1	11.03.2006	16:00	2005	2006	29
+Blackburn Rovers	Aston Villa	0:0	2:0	11.03.2006	18:15	2005	2006	29
+Manchester United	Newcastle United	2:0	2:0	12.03.2006	14:30	2005	2006	29
+Charlton Athletic	Middlesbrough FC	0:0	2:1	12.03.2006	16:00	2005	2006	29
+Arsenal FC	Liverpool FC	1:0	2:1	12.03.2006	17:00	2005	2006	29
+Everton FC	Aston Villa	3:0	4:1	18.03.2006	13:45	2005	2006	30
+Arsenal FC	Charlton Athletic	2:0	3:0	18.03.2006	16:00	2005	2006	30
+Blackburn Rovers	Middlesbrough FC	2:1	3:2	18.03.2006	16:00	2005	2006	30
+Bolton Wanderers	Sunderland AFC	0:0	2:0	18.03.2006	16:00	2005	2006	30
+Manchester City	Wigan Athletic	0:0	0:1	18.03.2006	16:00	2005	2006	30
+West Bromwich Albion	Manchester United	0:1	1:2	18.03.2006	16:00	2005	2006	30
+West Ham United	Portsmouth FC	0:3	2:4	18.03.2006	16:00	2005	2006	30
+Birmingham City	Tottenham Hotspur	0:0	0:2	18.03.2006	18:15	2005	2006	30
+Newcastle United	Liverpool FC	1:2	1:3	19.03.2006	14:30	2005	2006	30
+Fulham FC	Chelsea FC	1:0	1:0	19.03.2006	17:00	2005	2006	30
+Liverpool FC	Everton FC	1:0	3:1	25.03.2006	13:45	2005	2006	31
+Aston Villa	Fulham FC	0:0	0:0	25.03.2006	16:00	2005	2006	31
+Chelsea FC	Manchester City	2:0	2:0	25.03.2006	16:00	2005	2006	31
+Sunderland AFC	Blackburn Rovers	0:1	0:1	25.03.2006	16:00	2005	2006	31
+Wigan Athletic	West Ham United	1:0	1:2	25.03.2006	16:00	2005	2006	31
+Middlesbrough FC	Bolton Wanderers	2:1	4:3	26.03.2006	14:30	2005	2006	31
+Charlton Athletic	Newcastle United	2:1	3:1	26.03.2006	15:00	2005	2006	31
+Manchester United	Birmingham City	2:0	3:0	26.03.2006	17:00	2005	2006	31
+Tottenham Hotspur	West Bromwich Albion	0:1	2:1	27.03.2006	21:00	2005	2006	31
+Portsmouth FC	Arsenal FC	0:1	1:1	12.04.2006	21:00	2005	2006	31
+Birmingham City	Chelsea FC	0:0	0:0	01.04.2006	13:45	2005	2006	32
+Arsenal FC	Aston Villa	2:0	5:0	01.04.2006	16:00	2005	2006	32
+Bolton Wanderers	Manchester United	1:1	1:2	01.04.2006	16:00	2005	2006	32
+Everton FC	Sunderland AFC	2:1	2:2	01.04.2006	16:00	2005	2006	32
+Fulham FC	Portsmouth FC	1:2	1:3	01.04.2006	16:00	2005	2006	32
+Newcastle United	Tottenham Hotspur	3:1	3:1	01.04.2006	16:00	2005	2006	32
+West Bromwich Albion	Liverpool FC	0:2	0:2	01.04.2006	18:15	2005	2006	32
+Manchester City	Middlesbrough FC	0:1	0:1	02.04.2006	16:00	2005	2006	32
+West Ham United	Charlton Athletic	0:0	0:0	02.04.2006	17:00	2005	2006	32
+Blackburn Rovers	Wigan Athletic	0:0	1:1	03.04.2006	21:00	2005	2006	32
+Tottenham Hotspur	Manchester City	1:0	2:1	08.04.2006	13:45	2005	2006	33
+Charlton Athletic	Everton FC	0:0	0:0	08.04.2006	16:00	2005	2006	33
+Portsmouth FC	Blackburn Rovers	1:1	2:2	08.04.2006	16:00	2005	2006	33
+Wigan Athletic	Birmingham City	0:0	1:1	08.04.2006	18:15	2005	2006	33
+Aston Villa	West Bromwich Albion	0:0	0:0	09.04.2006	13:00	2005	2006	33
+Chelsea FC	West Ham United	2:1	4:1	09.04.2006	13:00	2005	2006	33
+Liverpool FC	Bolton Wanderers	1:0	1:0	09.04.2006	15:00	2005	2006	33
+Middlesbrough FC	Newcastle United	0:2	1:2	09.04.2006	16:00	2005	2006	33
+Manchester United	Arsenal FC	0:0	2:0	09.04.2006	17:00	2005	2006	33
+Sunderland AFC	Fulham FC	1:0	2:1	04.05.2006	20:45	2005	2006	33
+Manchester United	Sunderland AFC	0:0	0:0	14.04.2006	20:45	2005	2006	34
+Bolton Wanderers	Chelsea FC	0:1	0:2	15.04.2006	13:45	2005	2006	34
+Arsenal FC	West Bromwich Albion	1:0	3:1	15.04.2006	16:00	2005	2006	34
+Everton FC	Tottenham Hotspur	0:1	0:1	15.04.2006	16:00	2005	2006	34
+Fulham FC	Charlton Athletic	2:1	2:1	15.04.2006	16:00	2005	2006	34
+Newcastle United	Wigan Athletic	2:1	3:1	15.04.2006	16:00	2005	2006	34
+Portsmouth FC	Middlesbrough FC	0:0	1:0	15.04.2006	16:00	2005	2006	34
+West Ham United	Manchester City	1:0	1:0	15.04.2006	16:00	2005	2006	34
+Aston Villa	Birmingham City	1:1	3:1	16.04.2006	13:00	2005	2006	34
+Blackburn Rovers	Liverpool FC	0:1	0:1	16.04.2006	15:30	2005	2006	34
+Liverpool FC	Fulham FC	2:1	5:1	15.03.2006	21:00	2005	2006	35
+Tottenham Hotspur	Manchester United	0:2	1:2	17.04.2006	13:45	2005	2006	35
+Charlton Athletic	Portsmouth FC	0:1	2:1	17.04.2006	16:00	2005	2006	35
+Chelsea FC	Everton FC	1:0	3:0	17.04.2006	16:00	2005	2006	35
+Middlesbrough FC	West Ham United	1:0	2:0	17.04.2006	16:00	2005	2006	35
+Sunderland AFC	Newcastle United	1:0	1:4	17.04.2006	16:00	2005	2006	35
+West Bromwich Albion	Bolton Wanderers	0:0	0:0	17.04.2006	21:00	2005	2006	35
+Wigan Athletic	Aston Villa	1:0	3:2	18.04.2006	20:45	2005	2006	35
+Birmingham City	Blackburn Rovers	0:0	2:1	19.04.2006	20:45	2005	2006	35
+Manchester City	Arsenal FC	1:1	1:3	04.05.2006	20:45	2005	2006	35
+Arsenal FC	Tottenham Hotspur	0:0	1:1	22.04.2006	13:45	2005	2006	36
+Bolton Wanderers	Charlton Athletic	3:0	4:1	22.04.2006	16:00	2005	2006	36
+Everton FC	Birmingham City	0:0	0:0	22.04.2006	16:00	2005	2006	36
+Newcastle United	West Bromwich Albion	2:0	3:0	22.04.2006	16:00	2005	2006	36
+Portsmouth FC	Sunderland AFC	0:0	2:1	22.04.2006	16:00	2005	2006	36
+Fulham FC	Wigan Athletic	1:0	1:0	24.04.2006	21:00	2005	2006	36
+Aston Villa	Manchester City	0:0	0:1	25.04.2006	20:45	2005	2006	36
+West Ham United	Liverpool FC	0:1	1:2	26.04.2006	20:45	2005	2006	36
+Manchester United	Middlesbrough FC	0:0	0:0	01.05.2006	21:00	2005	2006	36
+Blackburn Rovers	Chelsea FC	1:0	1:0	02.05.2006	21:00	2005	2006	36
+Chelsea FC	Manchester United	1:0	3:0	29.04.2006	13:30	2005	2006	37
+Birmingham City	Newcastle United	0:0	0:0	29.04.2006	16:00	2005	2006	37
+Liverpool FC	Aston Villa	1:0	3:1	29.04.2006	16:00	2005	2006	37
+Manchester City	Fulham FC	0:0	1:2	29.04.2006	16:00	2005	2006	37
+Middlesbrough FC	Everton FC	0:0	0:1	29.04.2006	16:00	2005	2006	37
+Wigan Athletic	Portsmouth FC	1:0	1:2	29.04.2006	16:00	2005	2006	37
+Charlton Athletic	Blackburn Rovers	0:1	0:2	29.04.2006	18:15	2005	2006	37
+Tottenham Hotspur	Bolton Wanderers	0:0	1:0	30.04.2006	17:00	2005	2006	37
+Sunderland AFC	Arsenal FC	0:3	0:3	01.05.2006	18:15	2005	2006	37
+West Bromwich Albion	West Ham United	0:1	0:1	01.05.2006	21:00	2005	2006	37
+Arsenal FC	Wigan Athletic	2:2	4:2	07.05.2006	16:00	2005	2006	38
+Aston Villa	Sunderland AFC	1:0	2:1	07.05.2006	16:00	2005	2006	38
+Blackburn Rovers	Manchester City	1:0	2:0	07.05.2006	16:00	2005	2006	38
+Bolton Wanderers	Birmingham City	0:0	1:0	07.05.2006	16:00	2005	2006	38
+Everton FC	West Bromwich Albion	0:1	2:2	07.05.2006	16:00	2005	2006	38
+Fulham FC	Middlesbrough FC	0:0	1:0	07.05.2006	16:00	2005	2006	38
+Manchester United	Charlton Athletic	3:0	4:0	07.05.2006	16:00	2005	2006	38
+Newcastle United	Chelsea FC	0:0	1:0	07.05.2006	16:00	2005	2006	38
+Portsmouth FC	Liverpool FC	0:0	1:3	07.05.2006	16:00	2005	2006	38
+West Ham United	Tottenham Hotspur	1:1	2:1	07.05.2006	16:00	2005	2006	38

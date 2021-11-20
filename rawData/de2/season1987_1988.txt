@@ -1,0 +1,380 @@
+SSV Ulm 1846	Blau-WeiÃ 90 Berlin	0:1	2:4	20.07.1987	19:30	1987	1988	1
+SG Union Solingen	FC St. Pauli	0:1	0:3	22.07.1987	19:30	1987	1988	1
+VfL OsnabrÃ¼ck	Stuttgarter Kickers	1:1	1:1	22.07.1987	19:30	1987	1988	1
+Alemannia Aachen	Arminia Bielefeld	2:0	3:0	22.07.1987	19:30	1987	1988	1
+1. FC SaarbrÃ¼cken	SV Darmstadt 98	0:0	0:2	22.07.1987	19:30	1987	1988	1
+SpVgg Bayreuth	SG Wattenscheid 09	0:0	0:0	22.07.1987	19:30	1987	1988	1
+Fortuna KÃ¶ln	BVL 08 Remscheid	1:0	2:1	22.07.1987	19:30	1987	1988	1
+Rot-Weiss Essen	Fortuna DÃ¼sseldorf	1:1	1:1	22.07.1987	19:30	1987	1988	1
+SC Freiburg	Rot-WeiÃ Oberhausen	2:0	2:1	22.07.1987	19:30	1987	1988	1
+Kickers Offenbach	SV Meppen	1:0	3:0	22.07.1987	19:30	1987	1988	1
+SV Darmstadt 98	SpVgg Bayreuth	1:0	2:0	25.07.1987	15:00	1987	1988	2
+Fortuna DÃ¼sseldorf	SC Freiburg	0:1	0:2	25.07.1987	15:00	1987	1988	2
+Blau-WeiÃ 90 Berlin	SG Union Solingen	2:0	3:0	25.07.1987	15:00	1987	1988	2
+Arminia Bielefeld	Kickers Offenbach	0:2	0:2	25.07.1987	15:00	1987	1988	2
+SV Meppen	Fortuna KÃ¶ln	1:2	3:2	26.07.1987	15:00	1987	1988	2
+SG Wattenscheid 09	Alemannia Aachen	0:0	1:1	26.07.1987	15:00	1987	1988	2
+FC St. Pauli	VfL OsnabrÃ¼ck	1:1	1:1	26.07.1987	15:00	1987	1988	2
+Stuttgarter Kickers	1. FC SaarbrÃ¼cken	2:0	7:0	26.07.1987	15:00	1987	1988	2
+Rot-WeiÃ Oberhausen	SSV Ulm 1846	2:1	2:1	26.07.1987	15:00	1987	1988	2
+BVL 08 Remscheid	Rot-Weiss Essen	1:0	1:1	24.10.1987	15:00	1987	1988	2
+1. FC SaarbrÃ¼cken	FC St. Pauli	0:1	0:2	01.08.1987	15:00	1987	1988	3
+Fortuna DÃ¼sseldorf	BVL 08 Remscheid	1:1	6:2	01.08.1987	15:00	1987	1988	3
+SG Union Solingen	Rot-WeiÃ Oberhausen	1:1	1:1	01.08.1987	15:00	1987	1988	3
+VfL OsnabrÃ¼ck	Blau-WeiÃ 90 Berlin	1:0	1:0	01.08.1987	15:00	1987	1988	3
+SpVgg Bayreuth	Stuttgarter Kickers	1:0	3:0	01.08.1987	15:00	1987	1988	3
+Alemannia Aachen	SV Darmstadt 98	1:0	1:1	01.08.1987	15:00	1987	1988	3
+Kickers Offenbach	SG Wattenscheid 09	1:2	2:2	01.08.1987	15:00	1987	1988	3
+Rot-Weiss Essen	SV Meppen	0:1	1:2	01.08.1987	15:00	1987	1988	3
+SC Freiburg	SSV Ulm 1846	0:1	0:3	01.08.1987	15:00	1987	1988	3
+Fortuna KÃ¶ln	Arminia Bielefeld	0:0	3:1	01.08.1987	15:00	1987	1988	3
+Arminia Bielefeld	Rot-Weiss Essen	0:0	0:0	08.08.1987	15:00	1987	1988	4
+FC St. Pauli	SpVgg Bayreuth	0:0	3:1	08.08.1987	15:00	1987	1988	4
+SSV Ulm 1846	SG Union Solingen	1:0	1:0	08.08.1987	15:00	1987	1988	4
+BVL 08 Remscheid	SC Freiburg	0:0	0:0	08.08.1987	15:00	1987	1988	4
+SV Meppen	Fortuna DÃ¼sseldorf	0:1	0:2	08.08.1987	15:00	1987	1988	4
+SV Darmstadt 98	Kickers Offenbach	1:0	1:1	08.08.1987	15:00	1987	1988	4
+Stuttgarter Kickers	Alemannia Aachen	0:0	1:0	08.08.1987	15:00	1987	1988	4
+Rot-WeiÃ Oberhausen	VfL OsnabrÃ¼ck	1:0	3:1	08.08.1987	15:00	1987	1988	4
+Blau-WeiÃ 90 Berlin	1. FC SaarbrÃ¼cken	0:1	2:2	08.08.1987	15:00	1987	1988	4
+SG Wattenscheid 09	Fortuna KÃ¶ln	0:1	2:1	08.08.1987	15:00	1987	1988	4
+SpVgg Bayreuth	Blau-WeiÃ 90 Berlin	0:0	0:0	15.08.1987	15:00	1987	1988	5
+SC Freiburg	SG Union Solingen	1:0	4:0	15.08.1987	15:00	1987	1988	5
+Fortuna DÃ¼sseldorf	Arminia Bielefeld	0:0	4:1	15.08.1987	15:00	1987	1988	5
+BVL 08 Remscheid	SV Meppen	1:2	6:3	15.08.1987	15:00	1987	1988	5
+1. FC SaarbrÃ¼cken	Rot-WeiÃ Oberhausen	1:0	1:0	15.08.1987	15:00	1987	1988	5
+Alemannia Aachen	FC St. Pauli	0:0	1:0	15.08.1987	15:00	1987	1988	5
+Kickers Offenbach	Stuttgarter Kickers	1:1	1:1	15.08.1987	15:00	1987	1988	5
+Fortuna KÃ¶ln	SV Darmstadt 98	1:0	1:0	15.08.1987	15:00	1987	1988	5
+Rot-Weiss Essen	SG Wattenscheid 09	0:1	2:1	15.08.1987	15:00	1987	1988	5
+VfL OsnabrÃ¼ck	SSV Ulm 1846	0:0	1:1	15.08.1987	15:00	1987	1988	5
+Arminia Bielefeld	BVL 08 Remscheid	1:1	1:3	22.08.1987	15:00	1987	1988	6
+SG Wattenscheid 09	Fortuna DÃ¼sseldorf	1:0	1:0	22.08.1987	15:00	1987	1988	6
+FC St. Pauli	Kickers Offenbach	3:0	3:0	22.08.1987	15:00	1987	1988	6
+SSV Ulm 1846	1. FC SaarbrÃ¼cken	1:0	3:0	22.08.1987	15:00	1987	1988	6
+SG Union Solingen	VfL OsnabrÃ¼ck	0:0	0:0	22.08.1987	15:00	1987	1988	6
+Rot-WeiÃ Oberhausen	SpVgg Bayreuth	2:0	4:1	22.08.1987	15:00	1987	1988	6
+SV Darmstadt 98	Rot-Weiss Essen	1:1	2:1	22.08.1987	15:00	1987	1988	6
+Stuttgarter Kickers	Fortuna KÃ¶ln	1:1	2:2	22.08.1987	15:00	1987	1988	6
+Blau-WeiÃ 90 Berlin	Alemannia Aachen	1:1	2:2	22.08.1987	15:00	1987	1988	6
+SV Meppen	SC Freiburg	2:2	3:3	22.08.1987	15:00	1987	1988	6
+Alemannia Aachen	Rot-WeiÃ Oberhausen	1:0	2:1	25.08.1987	15:00	1987	1988	7
+Fortuna DÃ¼sseldorf	SV Darmstadt 98	0:0	0:1	25.08.1987	15:00	1987	1988	7
+BVL 08 Remscheid	SG Wattenscheid 09	1:0	1:5	25.08.1987	15:00	1987	1988	7
+SV Meppen	Arminia Bielefeld	2:1	3:2	25.08.1987	15:00	1987	1988	7
+SpVgg Bayreuth	SSV Ulm 1846	1:1	2:1	25.08.1987	15:00	1987	1988	7
+SC Freiburg	VfL OsnabrÃ¼ck	1:0	2:1	25.08.1987	15:00	1987	1988	7
+Kickers Offenbach	Blau-WeiÃ 90 Berlin	2:0	3:0	25.08.1987	15:00	1987	1988	7
+Fortuna KÃ¶ln	FC St. Pauli	0:0	2:0	25.08.1987	15:00	1987	1988	7
+Rot-Weiss Essen	Stuttgarter Kickers	1:2	2:3	25.08.1987	15:00	1987	1988	7
+1. FC SaarbrÃ¼cken	SG Union Solingen	3:1	3:2	25.08.1987	15:00	1987	1988	7
+Arminia Bielefeld	SC Freiburg	2:2	3:3	01.09.1987	15:00	1987	1988	8
+SSV Ulm 1846	Alemannia Aachen	1:0	4:0	01.09.1987	15:00	1987	1988	8
+SG Union Solingen	SpVgg Bayreuth	0:1	0:3	01.09.1987	15:00	1987	1988	8
+VfL OsnabrÃ¼ck	1. FC SaarbrÃ¼cken	0:1	1:2	01.09.1987	15:00	1987	1988	8
+SG Wattenscheid 09	SV Meppen	0:0	0:0	01.09.1987	15:00	1987	1988	8
+SV Darmstadt 98	BVL 08 Remscheid	0:0	3:1	01.09.1987	15:00	1987	1988	8
+Stuttgarter Kickers	Fortuna DÃ¼sseldorf	0:0	2:1	01.09.1987	15:00	1987	1988	8
+Rot-WeiÃ Oberhausen	Kickers Offenbach	0:0	2:2	01.09.1987	15:00	1987	1988	8
+FC St. Pauli	Rot-Weiss Essen	1:1	4:2	01.09.1987	15:00	1987	1988	8
+Blau-WeiÃ 90 Berlin	Fortuna KÃ¶ln	1:0	1:0	01.09.1987	15:00	1987	1988	8
+Arminia Bielefeld	SG Wattenscheid 09	0:0	2:1	05.09.1987	15:00	1987	1988	9
+SC Freiburg	1. FC SaarbrÃ¼cken	0:1	1:1	05.09.1987	15:00	1987	1988	9
+Fortuna DÃ¼sseldorf	FC St. Pauli	0:0	0:0	05.09.1987	15:00	1987	1988	9
+BVL 08 Remscheid	Stuttgarter Kickers	1:0	2:2	05.09.1987	15:00	1987	1988	9
+SV Meppen	SV Darmstadt 98	1:1	1:1	05.09.1987	15:00	1987	1988	9
+Alemannia Aachen	SG Union Solingen	1:2	2:2	05.09.1987	15:00	1987	1988	9
+Kickers Offenbach	SSV Ulm 1846	1:0	3:0	05.09.1987	15:00	1987	1988	9
+Rot-Weiss Essen	Blau-WeiÃ 90 Berlin	0:0	2:1	05.09.1987	15:00	1987	1988	9
+Fortuna KÃ¶ln	Rot-WeiÃ Oberhausen	0:2	0:4	05.09.1987	15:00	1987	1988	9
+SpVgg Bayreuth	VfL OsnabrÃ¼ck	0:2	0:2	05.09.1987	15:00	1987	1988	9
+SG Wattenscheid 09	SC Freiburg	1:0	1:0	12.09.1987	15:00	1987	1988	10
+SSV Ulm 1846	Fortuna KÃ¶ln	0:1	3:1	12.09.1987	15:00	1987	1988	10
+SG Union Solingen	Kickers Offenbach	0:0	1:0	12.09.1987	15:00	1987	1988	10
+1. FC SaarbrÃ¼cken	SpVgg Bayreuth	1:1	2:2	12.09.1987	15:00	1987	1988	10
+SV Darmstadt 98	Arminia Bielefeld	2:0	5:0	12.09.1987	15:00	1987	1988	10
+Stuttgarter Kickers	SV Meppen	3:1	6:3	12.09.1987	15:00	1987	1988	10
+Blau-WeiÃ 90 Berlin	Fortuna DÃ¼sseldorf	1:1	1:1	12.09.1987	15:00	1987	1988	10
+Rot-WeiÃ Oberhausen	Rot-Weiss Essen	3:0	3:1	12.09.1987	15:00	1987	1988	10
+FC St. Pauli	BVL 08 Remscheid	0:0	0:0	12.09.1987	15:00	1987	1988	10
+VfL OsnabrÃ¼ck	Alemannia Aachen	0:0	1:1	12.09.1987	15:00	1987	1988	10
+Arminia Bielefeld	Stuttgarter Kickers	2:1	2:2	19.09.1987	15:00	1987	1988	11
+SC Freiburg	SpVgg Bayreuth	2:1	5:1	19.09.1987	15:00	1987	1988	11
+Fortuna DÃ¼sseldorf	Rot-WeiÃ Oberhausen	3:0	3:0	19.09.1987	15:00	1987	1988	11
+BVL 08 Remscheid	Blau-WeiÃ 90 Berlin	0:2	2:2	19.09.1987	15:00	1987	1988	11
+SV Meppen	FC St. Pauli	0:0	1:1	19.09.1987	15:00	1987	1988	11
+Alemannia Aachen	1. FC SaarbrÃ¼cken	2:1	4:2	19.09.1987	15:00	1987	1988	11
+Kickers Offenbach	VfL OsnabrÃ¼ck	1:0	2:4	19.09.1987	15:00	1987	1988	11
+Fortuna KÃ¶ln	SG Union Solingen	4:1	5:3	19.09.1987	15:00	1987	1988	11
+Rot-Weiss Essen	SSV Ulm 1846	1:0	3:0	19.09.1987	15:00	1987	1988	11
+SG Wattenscheid 09	SV Darmstadt 98	0:0	0:0	19.09.1987	15:00	1987	1988	11
+SV Darmstadt 98	SC Freiburg	1:1	1:1	26.09.1987	15:00	1987	1988	12
+SSV Ulm 1846	Fortuna DÃ¼sseldorf	0:2	0:3	26.09.1987	15:00	1987	1988	12
+SG Union Solingen	Rot-Weiss Essen	1:0	1:0	26.09.1987	15:00	1987	1988	12
+VfL OsnabrÃ¼ck	Fortuna KÃ¶ln	1:0	3:0	26.09.1987	15:00	1987	1988	12
+SpVgg Bayreuth	Alemannia Aachen	2:0	2:3	26.09.1987	15:00	1987	1988	12
+FC St. Pauli	Arminia Bielefeld	1:0	2:0	26.09.1987	15:00	1987	1988	12
+Stuttgarter Kickers	SG Wattenscheid 09	4:0	6:1	26.09.1987	15:00	1987	1988	12
+Blau-WeiÃ 90 Berlin	SV Meppen	0:0	3:0	26.09.1987	15:00	1987	1988	12
+Rot-WeiÃ Oberhausen	BVL 08 Remscheid	0:0	1:0	26.09.1987	15:00	1987	1988	12
+1. FC SaarbrÃ¼cken	Kickers Offenbach	0:0	1:0	26.09.1987	15:00	1987	1988	12
+Arminia Bielefeld	Blau-WeiÃ 90 Berlin	0:0	2:1	03.10.1987	15:00	1987	1988	13
+Fortuna DÃ¼sseldorf	SG Union Solingen	0:1	1:2	03.10.1987	15:00	1987	1988	13
+BVL 08 Remscheid	SSV Ulm 1846	1:0	1:0	03.10.1987	15:00	1987	1988	13
+SV Meppen	Rot-WeiÃ Oberhausen	1:0	2:0	03.10.1987	15:00	1987	1988	13
+SG Wattenscheid 09	FC St. Pauli	0:0	1:0	03.10.1987	15:00	1987	1988	13
+SV Darmstadt 98	Stuttgarter Kickers	2:0	2:0	03.10.1987	15:00	1987	1988	13
+Kickers Offenbach	SpVgg Bayreuth	2:1	3:3	03.10.1987	15:00	1987	1988	13
+Rot-Weiss Essen	VfL OsnabrÃ¼ck	0:1	2:2	03.10.1987	15:00	1987	1988	13
+SC Freiburg	Alemannia Aachen	2:0	3:0	03.10.1987	15:00	1987	1988	13
+Fortuna KÃ¶ln	1. FC SaarbrÃ¼cken	2:2	2:4	03.10.1987	15:00	1987	1988	13
+1. FC SaarbrÃ¼cken	Rot-Weiss Essen	1:0	1:1	10.10.1987	15:00	1987	1988	14
+FC St. Pauli	SV Darmstadt 98	0:2	3:2	10.10.1987	15:00	1987	1988	14
+SSV Ulm 1846	SV Meppen	1:0	2:1	10.10.1987	15:00	1987	1988	14
+SG Union Solingen	BVL 08 Remscheid	0:1	1:2	10.10.1987	15:00	1987	1988	14
+VfL OsnabrÃ¼ck	Fortuna DÃ¼sseldorf	2:1	3:2	10.10.1987	15:00	1987	1988	14
+Alemannia Aachen	Kickers Offenbach	0:1	0:2	10.10.1987	15:00	1987	1988	14
+Stuttgarter Kickers	SC Freiburg	2:0	4:2	10.10.1987	15:00	1987	1988	14
+Rot-WeiÃ Oberhausen	Arminia Bielefeld	1:2	2:2	10.10.1987	15:00	1987	1988	14
+Blau-WeiÃ 90 Berlin	SG Wattenscheid 09	1:1	3:1	10.10.1987	15:00	1987	1988	14
+SpVgg Bayreuth	Fortuna KÃ¶ln	2:0	2:0	10.10.1987	15:00	1987	1988	14
+SG Wattenscheid 09	Rot-WeiÃ Oberhausen	1:0	2:2	17.10.1987	15:00	1987	1988	15
+SC Freiburg	Kickers Offenbach	1:1	3:2	17.10.1987	15:00	1987	1988	15
+Fortuna DÃ¼sseldorf	1. FC SaarbrÃ¼cken	0:1	4:2	17.10.1987	15:00	1987	1988	15
+BVL 08 Remscheid	VfL OsnabrÃ¼ck	0:0	0:2	17.10.1987	15:00	1987	1988	15
+Arminia Bielefeld	SSV Ulm 1846	0:0	0:0	17.10.1987	15:00	1987	1988	15
+SV Darmstadt 98	Blau-WeiÃ 90 Berlin	0:1	0:2	17.10.1987	15:00	1987	1988	15
+Stuttgarter Kickers	FC St. Pauli	2:0	2:1	17.10.1987	15:00	1987	1988	15
+Fortuna KÃ¶ln	Alemannia Aachen	0:1	0:3	17.10.1987	15:00	1987	1988	15
+Rot-Weiss Essen	SpVgg Bayreuth	1:0	2:0	17.10.1987	15:00	1987	1988	15
+SV Meppen	SG Union Solingen	0:0	1:1	17.10.1987	15:00	1987	1988	15
+1. FC SaarbrÃ¼cken	BVL 08 Remscheid	1:1	3:1	31.10.1987	15:00	1987	1988	16
+SSV Ulm 1846	SG Wattenscheid 09	0:0	1:2	31.10.1987	15:00	1987	1988	16
+FC St. Pauli	SC Freiburg	0:1	1:1	31.10.1987	15:00	1987	1988	16
+SG Union Solingen	Arminia Bielefeld	4:0	5:0	31.10.1987	15:00	1987	1988	16
+VfL OsnabrÃ¼ck	SV Meppen	1:2	3:2	31.10.1987	15:00	1987	1988	16
+Alemannia Aachen	Rot-Weiss Essen	0:1	1:1	31.10.1987	15:00	1987	1988	16
+Kickers Offenbach	Fortuna KÃ¶ln	1:0	2:0	31.10.1987	15:00	1987	1988	16
+Rot-WeiÃ Oberhausen	SV Darmstadt 98	0:0	0:0	31.10.1987	15:00	1987	1988	16
+Blau-WeiÃ 90 Berlin	Stuttgarter Kickers	0:1	1:1	31.10.1987	15:00	1987	1988	16
+SpVgg Bayreuth	Fortuna DÃ¼sseldorf	0:0	1:0	31.10.1987	15:00	1987	1988	16
+SG Wattenscheid 09	SG Union Solingen	0:1	2:1	07.11.1987	15:00	1987	1988	17
+FC St. Pauli	Blau-WeiÃ 90 Berlin	1:0	1:0	07.11.1987	15:00	1987	1988	17
+Fortuna DÃ¼sseldorf	Alemannia Aachen	2:0	3:0	07.11.1987	15:00	1987	1988	17
+BVL 08 Remscheid	SpVgg Bayreuth	2:1	5:2	07.11.1987	15:00	1987	1988	17
+Arminia Bielefeld	VfL OsnabrÃ¼ck	0:0	0:0	07.11.1987	15:00	1987	1988	17
+SV Darmstadt 98	SSV Ulm 1846	0:0	1:0	07.11.1987	15:00	1987	1988	17
+Stuttgarter Kickers	Rot-WeiÃ Oberhausen	0:0	2:1	07.11.1987	15:00	1987	1988	17
+Fortuna KÃ¶ln	SC Freiburg	2:0	3:1	07.11.1987	15:00	1987	1988	17
+Rot-Weiss Essen	Kickers Offenbach	0:0	1:3	07.11.1987	15:00	1987	1988	17
+SV Meppen	1. FC SaarbrÃ¼cken	1:0	1:0	07.11.1987	15:00	1987	1988	17
+SpVgg Bayreuth	SV Meppen	0:1	0:1	14.11.1987	15:00	1987	1988	18
+SSV Ulm 1846	Stuttgarter Kickers	0:5	0:8	14.11.1987	15:00	1987	1988	18
+SG Union Solingen	SV Darmstadt 98	1:0	1:0	14.11.1987	15:00	1987	1988	18
+1. FC SaarbrÃ¼cken	Arminia Bielefeld	0:0	2:0	14.11.1987	15:00	1987	1988	18
+Kickers Offenbach	Fortuna DÃ¼sseldorf	0:3	1:3	14.11.1987	15:00	1987	1988	18
+Fortuna KÃ¶ln	Rot-Weiss Essen	2:1	5:1	14.11.1987	15:00	1987	1988	18
+Rot-WeiÃ Oberhausen	FC St. Pauli	1:3	1:6	14.11.1987	15:00	1987	1988	18
+VfL OsnabrÃ¼ck	SG Wattenscheid 09	2:1	2:1	14.11.1987	15:00	1987	1988	18
+Alemannia Aachen	BVL 08 Remscheid	2:0	2:1	14.11.1987	15:00	1987	1988	18
+SC Freiburg	Blau-WeiÃ 90 Berlin	0:0	0:0	30.03.1988	18:00	1987	1988	18
+SG Wattenscheid 09	1. FC SaarbrÃ¼cken	2:2	4:3	21.11.1987	15:00	1987	1988	19
+FC St. Pauli	SSV Ulm 1846	3:3	4:3	21.11.1987	15:00	1987	1988	19
+Fortuna DÃ¼sseldorf	Fortuna KÃ¶ln	0:0	0:2	21.11.1987	15:00	1987	1988	19
+BVL 08 Remscheid	Kickers Offenbach	0:0	1:1	21.11.1987	15:00	1987	1988	19
+Arminia Bielefeld	SpVgg Bayreuth	1:0	3:1	21.11.1987	15:00	1987	1988	19
+SV Darmstadt 98	VfL OsnabrÃ¼ck	0:0	1:1	21.11.1987	15:00	1987	1988	19
+Stuttgarter Kickers	SG Union Solingen	1:0	2:2	21.11.1987	15:00	1987	1988	19
+Blau-WeiÃ 90 Berlin	Rot-WeiÃ Oberhausen	1:1	3:1	21.11.1987	15:00	1987	1988	19
+Rot-Weiss Essen	SC Freiburg	1:1	2:1	21.11.1987	15:00	1987	1988	19
+SV Meppen	Alemannia Aachen	0:0	1:0	21.11.1987	15:00	1987	1988	19
+SG Wattenscheid 09	SpVgg Bayreuth	1:0	3:0	28.11.1987	15:00	1987	1988	20
+Stuttgarter Kickers	VfL OsnabrÃ¼ck	1:0	2:0	28.11.1987	15:00	1987	1988	20
+Rot-WeiÃ Oberhausen	SC Freiburg	4:0	5:0	28.11.1987	15:00	1987	1988	20
+SV Darmstadt 98	1. FC SaarbrÃ¼cken	1:2	3:2	28.11.1987	15:00	1987	1988	20
+FC St. Pauli	SG Union Solingen	1:0	1:0	28.11.1987	15:00	1987	1988	20
+SV Meppen	Kickers Offenbach	1:1	3:3	28.11.1987	15:00	1987	1988	20
+Fortuna DÃ¼sseldorf	Rot-Weiss Essen	1:0	2:1	28.11.1987	15:00	1987	1988	20
+Blau-WeiÃ 90 Berlin	SSV Ulm 1846	4:1	4:1	28.11.1987	15:00	1987	1988	20
+Arminia Bielefeld	Alemannia Aachen	0:0	0:0	28.11.1987	15:00	1987	1988	20
+BVL 08 Remscheid	Fortuna KÃ¶ln	1:0	2:0	28.11.1987	15:00	1987	1988	20
+Alemannia Aachen	SG Wattenscheid 09	1:3	1:3	05.12.1987	15:00	1987	1988	21
+VfL OsnabrÃ¼ck	FC St. Pauli	0:0	1:0	05.12.1987	15:00	1987	1988	21
+SC Freiburg	Fortuna DÃ¼sseldorf	1:1	1:1	05.12.1987	15:00	1987	1988	21
+Rot-Weiss Essen	BVL 08 Remscheid	2:0	3:1	05.12.1987	15:00	1987	1988	21
+Kickers Offenbach	Arminia Bielefeld	1:0	2:0	05.12.1987	15:00	1987	1988	21
+SpVgg Bayreuth	SV Darmstadt 98	0:1	0:1	05.12.1987	15:00	1987	1988	21
+1. FC SaarbrÃ¼cken	Stuttgarter Kickers	1:1	1:1	05.12.1987	15:00	1987	1988	21
+SG Union Solingen	Blau-WeiÃ 90 Berlin	0:1	2:2	05.12.1987	15:00	1987	1988	21
+SSV Ulm 1846	Rot-WeiÃ Oberhausen	0:1	0:1	05.12.1987	15:00	1987	1988	21
+Fortuna KÃ¶ln	SV Meppen	1:0	1:1	05.12.1987	15:00	1987	1988	21
+Stuttgarter Kickers	SpVgg Bayreuth	3:0	5:0	20.02.1988	15:00	1987	1988	22
+FC St. Pauli	1. FC SaarbrÃ¼cken	2:0	2:0	20.02.1988	15:00	1987	1988	22
+SSV Ulm 1846	SC Freiburg	1:0	2:0	20.02.1988	15:00	1987	1988	22
+BVL 08 Remscheid	Fortuna DÃ¼sseldorf	0:0	0:1	20.02.1988	15:00	1987	1988	22
+Rot-WeiÃ Oberhausen	SG Union Solingen	0:0	0:0	20.02.1988	15:00	1987	1988	22
+SV Meppen	Rot-Weiss Essen	0:1	1:1	20.02.1988	15:00	1987	1988	22
+SV Darmstadt 98	Alemannia Aachen	0:0	0:0	20.02.1988	15:00	1987	1988	22
+SG Wattenscheid 09	Kickers Offenbach	2:0	2:0	20.02.1988	15:00	1987	1988	22
+Arminia Bielefeld	Fortuna KÃ¶ln	0:1	0:2	20.02.1988	15:00	1987	1988	22
+Blau-WeiÃ 90 Berlin	VfL OsnabrÃ¼ck	1:0	1:0	20.02.1988	15:00	1987	1988	22
+Fortuna KÃ¶ln	SG Wattenscheid 09	1:0	1:2	27.02.1988	15:00	1987	1988	23
+SpVgg Bayreuth	FC St. Pauli	0:1	1:3	27.02.1988	15:00	1987	1988	23
+SG Union Solingen	SSV Ulm 1846	1:0	2:2	27.02.1988	15:00	1987	1988	23
+SC Freiburg	BVL 08 Remscheid	2:0	3:0	27.02.1988	15:00	1987	1988	23
+Rot-Weiss Essen	Arminia Bielefeld	1:1	1:1	27.02.1988	15:00	1987	1988	23
+Kickers Offenbach	SV Darmstadt 98	1:0	1:1	27.02.1988	15:00	1987	1988	23
+Alemannia Aachen	Stuttgarter Kickers	0:0	1:0	27.02.1988	15:00	1987	1988	23
+1. FC SaarbrÃ¼cken	Blau-WeiÃ 90 Berlin	0:1	4:2	27.02.1988	15:00	1987	1988	23
+VfL OsnabrÃ¼ck	Rot-WeiÃ Oberhausen	0:2	1:2	27.02.1988	15:00	1987	1988	23
+Fortuna DÃ¼sseldorf	SV Meppen	1:0	3:1	27.02.1988	15:00	1987	1988	23
+Arminia Bielefeld	Fortuna DÃ¼sseldorf	0:0	0:0	05.03.1988	15:00	1987	1988	24
+Rot-WeiÃ Oberhausen	1. FC SaarbrÃ¼cken	1:0	1:0	05.03.1988	15:00	1987	1988	24
+SG Union Solingen	SC Freiburg	1:0	2:1	05.03.1988	15:00	1987	1988	24
+SV Meppen	BVL 08 Remscheid	0:0	3:2	05.03.1988	15:00	1987	1988	24
+SSV Ulm 1846	VfL OsnabrÃ¼ck	1:1	1:1	05.03.1988	15:00	1987	1988	24
+FC St. Pauli	Alemannia Aachen	0:1	1:1	05.03.1988	15:00	1987	1988	24
+Stuttgarter Kickers	Kickers Offenbach	1:0	2:0	05.03.1988	15:00	1987	1988	24
+SG Wattenscheid 09	Rot-Weiss Essen	0:0	1:0	05.03.1988	15:00	1987	1988	24
+SV Darmstadt 98	Fortuna KÃ¶ln	0:0	1:0	05.03.1988	15:00	1987	1988	24
+Blau-WeiÃ 90 Berlin	SpVgg Bayreuth	2:0	3:0	05.03.1988	15:00	1987	1988	24
+Fortuna DÃ¼sseldorf	SG Wattenscheid 09	1:0	2:1	12.03.1988	15:00	1987	1988	25
+Kickers Offenbach	FC St. Pauli	1:0	3:1	12.03.1988	15:00	1987	1988	25
+1. FC SaarbrÃ¼cken	SSV Ulm 1846	0:0	0:2	12.03.1988	15:00	1987	1988	25
+VfL OsnabrÃ¼ck	SG Union Solingen	2:1	3:1	12.03.1988	15:00	1987	1988	25
+BVL 08 Remscheid	Arminia Bielefeld	1:0	1:2	12.03.1988	15:00	1987	1988	25
+Rot-Weiss Essen	SV Darmstadt 98	0:1	2:1	12.03.1988	15:00	1987	1988	25
+Fortuna KÃ¶ln	Stuttgarter Kickers	0:0	2:2	12.03.1988	15:00	1987	1988	25
+Alemannia Aachen	Blau-WeiÃ 90 Berlin	1:0	1:0	12.03.1988	15:00	1987	1988	25
+SpVgg Bayreuth	Rot-WeiÃ Oberhausen	1:0	3:0	12.03.1988	15:00	1987	1988	25
+SC Freiburg	SV Meppen	1:0	4:2	12.03.1988	15:00	1987	1988	25
+SV Darmstadt 98	Fortuna DÃ¼sseldorf	1:0	1:0	19.03.1988	15:00	1987	1988	26
+SG Union Solingen	1. FC SaarbrÃ¼cken	1:2	1:3	19.03.1988	15:00	1987	1988	26
+VfL OsnabrÃ¼ck	SC Freiburg	0:1	0:1	19.03.1988	15:00	1987	1988	26
+SG Wattenscheid 09	BVL 08 Remscheid	0:0	2:2	19.03.1988	15:00	1987	1988	26
+Arminia Bielefeld	SV Meppen	1:0	2:0	19.03.1988	15:00	1987	1988	26
+Rot-WeiÃ Oberhausen	Alemannia Aachen	1:1	3:1	19.03.1988	15:00	1987	1988	26
+Blau-WeiÃ 90 Berlin	Kickers Offenbach	1:0	1:0	19.03.1988	15:00	1987	1988	26
+FC St. Pauli	Fortuna KÃ¶ln	2:0	5:1	19.03.1988	15:00	1987	1988	26
+Stuttgarter Kickers	Rot-Weiss Essen	1:0	4:1	19.03.1988	15:00	1987	1988	26
+SSV Ulm 1846	SpVgg Bayreuth	2:0	3:1	19.03.1988	15:00	1987	1988	26
+Alemannia Aachen	SSV Ulm 1846	3:0	5:0	26.03.1988	15:00	1987	1988	27
+Kickers Offenbach	Rot-WeiÃ Oberhausen	1:1	3:1	26.03.1988	15:00	1987	1988	27
+Rot-Weiss Essen	FC St. Pauli	1:1	2:2	26.03.1988	15:00	1987	1988	27
+SpVgg Bayreuth	SG Union Solingen	1:0	4:1	26.03.1988	15:00	1987	1988	27
+1. FC SaarbrÃ¼cken	VfL OsnabrÃ¼ck	1:3	2:3	26.03.1988	15:00	1987	1988	27
+SV Meppen	SG Wattenscheid 09	0:1	2:1	26.03.1988	15:00	1987	1988	27
+BVL 08 Remscheid	SV Darmstadt 98	1:0	3:0	26.03.1988	15:00	1987	1988	27
+Fortuna DÃ¼sseldorf	Stuttgarter Kickers	1:0	4:0	26.03.1988	15:00	1987	1988	27
+Fortuna KÃ¶ln	Blau-WeiÃ 90 Berlin	1:1	3:2	26.03.1988	15:00	1987	1988	27
+SC Freiburg	Arminia Bielefeld	2:0	3:0	26.03.1988	15:00	1987	1988	27
+SG Union Solingen	Alemannia Aachen	1:3	1:4	29.03.1988	15:00	1987	1988	28
+1. FC SaarbrÃ¼cken	SC Freiburg	1:1	2:1	29.03.1988	15:00	1987	1988	28
+FC St. Pauli	Fortuna DÃ¼sseldorf	1:0	2:2	29.03.1988	15:00	1987	1988	28
+Stuttgarter Kickers	BVL 08 Remscheid	2:1	4:2	29.03.1988	15:00	1987	1988	28
+SV Darmstadt 98	SV Meppen	1:1	1:1	29.03.1988	15:00	1987	1988	28
+Blau-WeiÃ 90 Berlin	Rot-Weiss Essen	1:1	1:1	29.03.1988	15:00	1987	1988	28
+VfL OsnabrÃ¼ck	SpVgg Bayreuth	0:0	1:1	29.03.1988	15:00	1987	1988	28
+SSV Ulm 1846	Kickers Offenbach	1:1	1:2	29.03.1988	15:00	1987	1988	28
+Rot-WeiÃ Oberhausen	Fortuna KÃ¶ln	0:0	0:0	29.03.1988	15:00	1987	1988	28
+SG Wattenscheid 09	Arminia Bielefeld	2:0	2:1	29.03.1988	15:00	1987	1988	28
+SpVgg Bayreuth	1. FC SaarbrÃ¼cken	0:1	2:1	02.04.1988	15:00	1987	1988	29
+Alemannia Aachen	VfL OsnabrÃ¼ck	1:0	3:0	02.04.1988	15:00	1987	1988	29
+Kickers Offenbach	SG Union Solingen	0:0	0:0	02.04.1988	15:00	1987	1988	29
+BVL 08 Remscheid	FC St. Pauli	0:1	3:1	02.04.1988	15:00	1987	1988	29
+Arminia Bielefeld	SV Darmstadt 98	0:1	0:1	02.04.1988	15:00	1987	1988	29
+SV Meppen	Stuttgarter Kickers	0:1	1:1	02.04.1988	15:00	1987	1988	29
+Fortuna DÃ¼sseldorf	Blau-WeiÃ 90 Berlin	1:0	2:1	02.04.1988	15:00	1987	1988	29
+Rot-Weiss Essen	Rot-WeiÃ Oberhausen	1:1	2:1	02.04.1988	15:00	1987	1988	29
+Fortuna KÃ¶ln	SSV Ulm 1846	1:0	2:0	02.04.1988	15:00	1987	1988	29
+SC Freiburg	SG Wattenscheid 09	0:3	1:3	02.04.1988	15:00	1987	1988	29
+1. FC SaarbrÃ¼cken	Alemannia Aachen	1:1	2:2	09.04.1988	15:00	1987	1988	30
+SpVgg Bayreuth	SC Freiburg	2:1	5:1	09.04.1988	15:00	1987	1988	30
+Rot-WeiÃ Oberhausen	Fortuna DÃ¼sseldorf	2:0	2:0	09.04.1988	15:00	1987	1988	30
+Blau-WeiÃ 90 Berlin	BVL 08 Remscheid	4:0	6:0	09.04.1988	15:00	1987	1988	30
+FC St. Pauli	SV Meppen	2:0	2:0	09.04.1988	15:00	1987	1988	30
+SV Darmstadt 98	SG Wattenscheid 09	0:0	1:1	09.04.1988	15:00	1987	1988	30
+VfL OsnabrÃ¼ck	Kickers Offenbach	0:0	1:1	09.04.1988	15:00	1987	1988	30
+SG Union Solingen	Fortuna KÃ¶ln	1:1	3:1	09.04.1988	15:00	1987	1988	30
+SSV Ulm 1846	Rot-Weiss Essen	1:2	1:3	09.04.1988	15:00	1987	1988	30
+Stuttgarter Kickers	Arminia Bielefeld	1:0	1:0	09.04.1988	15:00	1987	1988	30
+Kickers Offenbach	1. FC SaarbrÃ¼cken	1:0	1:1	16.04.1988	15:00	1987	1988	31
+Fortuna DÃ¼sseldorf	SSV Ulm 1846	2:0	3:0	16.04.1988	15:00	1987	1988	31
+Arminia Bielefeld	FC St. Pauli	0:1	0:1	16.04.1988	15:00	1987	1988	31
+Rot-Weiss Essen	SG Union Solingen	0:0	1:2	16.04.1988	15:00	1987	1988	31
+Fortuna KÃ¶ln	VfL OsnabrÃ¼ck	0:1	2:1	16.04.1988	15:00	1987	1988	31
+SC Freiburg	SV Darmstadt 98	1:1	1:1	16.04.1988	15:00	1987	1988	31
+SG Wattenscheid 09	Stuttgarter Kickers	0:0	1:1	16.04.1988	15:00	1987	1988	31
+BVL 08 Remscheid	Rot-WeiÃ Oberhausen	1:0	1:0	16.04.1988	15:00	1987	1988	31
+SV Meppen	Blau-WeiÃ 90 Berlin	1:2	2:3	16.04.1988	15:00	1987	1988	31
+Alemannia Aachen	SpVgg Bayreuth	2:0	2:1	16.04.1988	15:00	1987	1988	31
+FC St. Pauli	SG Wattenscheid 09	1:1	3:1	23.04.1988	15:00	1987	1988	32
+VfL OsnabrÃ¼ck	Rot-Weiss Essen	0:0	1:1	23.04.1988	15:00	1987	1988	32
+SG Union Solingen	Fortuna DÃ¼sseldorf	0:1	0:3	23.04.1988	15:00	1987	1988	32
+SSV Ulm 1846	BVL 08 Remscheid	0:0	2:1	23.04.1988	15:00	1987	1988	32
+Blau-WeiÃ 90 Berlin	Arminia Bielefeld	0:0	2:1	23.04.1988	15:00	1987	1988	32
+Alemannia Aachen	SC Freiburg	0:0	0:0	23.04.1988	15:00	1987	1988	32
+Stuttgarter Kickers	SV Darmstadt 98	1:1	1:1	23.04.1988	15:00	1987	1988	32
+SpVgg Bayreuth	Kickers Offenbach	1:0	2:0	23.04.1988	15:00	1987	1988	32
+1. FC SaarbrÃ¼cken	Fortuna KÃ¶ln	1:0	3:0	23.04.1988	15:00	1987	1988	32
+Rot-WeiÃ Oberhausen	SV Meppen	0:1	0:1	23.04.1988	15:00	1987	1988	32
+Rot-Weiss Essen	1. FC SaarbrÃ¼cken	0:0	1:1	04.05.1988	15:00	1987	1988	33
+SV Meppen	SSV Ulm 1846	2:2	4:2	04.05.1988	15:00	1987	1988	33
+SV Darmstadt 98	FC St. Pauli	0:0	0:0	04.05.1988	15:00	1987	1988	33
+BVL 08 Remscheid	SG Union Solingen	0:0	0:1	04.05.1988	15:00	1987	1988	33
+Fortuna DÃ¼sseldorf	VfL OsnabrÃ¼ck	1:0	1:0	04.05.1988	15:00	1987	1988	33
+Fortuna KÃ¶ln	SpVgg Bayreuth	1:0	2:1	04.05.1988	15:00	1987	1988	33
+Kickers Offenbach	Alemannia Aachen	0:0	0:0	04.05.1988	15:00	1987	1988	33
+SC Freiburg	Stuttgarter Kickers	2:1	3:2	04.05.1988	15:00	1987	1988	33
+Arminia Bielefeld	Rot-WeiÃ Oberhausen	0:0	1:0	04.05.1988	15:00	1987	1988	33
+SG Wattenscheid 09	Blau-WeiÃ 90 Berlin	0:0	1:1	04.05.1988	15:00	1987	1988	33
+SG Union Solingen	SV Meppen	1:1	2:1	07.05.1988	15:00	1987	1988	34
+1. FC SaarbrÃ¼cken	Fortuna DÃ¼sseldorf	1:0	1:2	07.05.1988	15:00	1987	1988	34
+Alemannia Aachen	Fortuna KÃ¶ln	0:0	2:0	07.05.1988	15:00	1987	1988	34
+VfL OsnabrÃ¼ck	BVL 08 Remscheid	1:0	1:0	07.05.1988	15:00	1987	1988	34
+Kickers Offenbach	SC Freiburg	0:0	1:1	07.05.1988	15:00	1987	1988	34
+Rot-WeiÃ Oberhausen	SG Wattenscheid 09	0:1	0:1	07.05.1988	15:00	1987	1988	34
+FC St. Pauli	Stuttgarter Kickers	0:1	0:2	07.05.1988	15:00	1987	1988	34
+SpVgg Bayreuth	Rot-Weiss Essen	1:1	3:2	07.05.1988	15:00	1987	1988	34
+SSV Ulm 1846	Arminia Bielefeld	1:0	3:1	07.05.1988	15:00	1987	1988	34
+Blau-WeiÃ 90 Berlin	SV Darmstadt 98	1:0	2:0	07.05.1988	15:00	1987	1988	34
+Rot-Weiss Essen	Alemannia Aachen	2:0	4:0	14.05.1988	15:00	1987	1988	35
+SC Freiburg	FC St. Pauli	1:0	1:1	14.05.1988	15:00	1987	1988	35
+SG Wattenscheid 09	SSV Ulm 1846	2:0	5:1	14.05.1988	15:00	1987	1988	35
+Arminia Bielefeld	SG Union Solingen	0:0	0:1	14.05.1988	15:00	1987	1988	35
+SV Meppen	VfL OsnabrÃ¼ck	2:0	3:0	14.05.1988	15:00	1987	1988	35
+Fortuna DÃ¼sseldorf	SpVgg Bayreuth	0:0	1:0	14.05.1988	15:00	1987	1988	35
+Fortuna KÃ¶ln	Kickers Offenbach	2:1	4:2	14.05.1988	15:00	1987	1988	35
+Stuttgarter Kickers	Blau-WeiÃ 90 Berlin	1:0	3:0	14.05.1988	15:00	1987	1988	35
+SV Darmstadt 98	Rot-WeiÃ Oberhausen	0:0	3:0	14.05.1988	15:00	1987	1988	35
+BVL 08 Remscheid	1. FC SaarbrÃ¼cken	1:1	2:1	14.05.1988	15:00	1987	1988	35
+VfL OsnabrÃ¼ck	Arminia Bielefeld	0:0	2:0	18.05.1988	15:00	1987	1988	36
+1. FC SaarbrÃ¼cken	SV Meppen	1:0	2:0	18.05.1988	15:00	1987	1988	36
+SpVgg Bayreuth	BVL 08 Remscheid	2:1	3:1	18.05.1988	15:00	1987	1988	36
+Blau-WeiÃ 90 Berlin	FC St. Pauli	0:2	2:2	18.05.1988	15:00	1987	1988	36
+SSV Ulm 1846	SV Darmstadt 98	1:1	2:2	18.05.1988	15:00	1987	1988	36
+Rot-WeiÃ Oberhausen	Stuttgarter Kickers	0:1	0:3	18.05.1988	15:00	1987	1988	36
+SC Freiburg	Fortuna KÃ¶ln	1:2	1:6	18.05.1988	15:00	1987	1988	36
+Kickers Offenbach	Rot-Weiss Essen	2:0	2:0	18.05.1988	15:00	1987	1988	36
+Alemannia Aachen	Fortuna DÃ¼sseldorf	2:0	4:0	18.05.1988	15:00	1987	1988	36
+SG Union Solingen	SG Wattenscheid 09	1:0	3:1	18.05.1988	15:00	1987	1988	36
+SG Wattenscheid 09	VfL OsnabrÃ¼ck	1:0	2:0	24.05.1988	15:00	1987	1988	37
+Blau-WeiÃ 90 Berlin	SC Freiburg	2:0	3:1	24.05.1988	15:00	1987	1988	37
+SV Darmstadt 98	SG Union Solingen	3:0	3:1	24.05.1988	15:00	1987	1988	37
+Arminia Bielefeld	1. FC SaarbrÃ¼cken	0:1	1:1	24.05.1988	15:00	1987	1988	37
+BVL 08 Remscheid	Alemannia Aachen	1:1	1:3	24.05.1988	15:00	1987	1988	37
+Fortuna DÃ¼sseldorf	Kickers Offenbach	0:0	0:1	24.05.1988	15:00	1987	1988	37
+Rot-Weiss Essen	Fortuna KÃ¶ln	1:0	1:0	24.05.1988	15:00	1987	1988	37
+FC St. Pauli	Rot-WeiÃ Oberhausen	1:0	2:0	24.05.1988	15:00	1987	1988	37
+SV Meppen	SpVgg Bayreuth	0:0	0:2	24.05.1988	15:00	1987	1988	37
+Stuttgarter Kickers	SSV Ulm 1846	1:0	1:3	24.05.1988	15:00	1987	1988	37
+Rot-WeiÃ Oberhausen	Blau-WeiÃ 90 Berlin	0:0	3:0	29.05.1988	15:00	1987	1988	38
+Fortuna KÃ¶ln	Fortuna DÃ¼sseldorf	0:0	0:2	29.05.1988	15:00	1987	1988	38
+Kickers Offenbach	BVL 08 Remscheid	0:0	1:2	29.05.1988	15:00	1987	1988	38
+Alemannia Aachen	SV Meppen	2:0	4:1	29.05.1988	15:00	1987	1988	38
+SpVgg Bayreuth	Arminia Bielefeld	1:0	2:0	29.05.1988	15:00	1987	1988	38
+1. FC SaarbrÃ¼cken	SG Wattenscheid 09	0:1	1:1	29.05.1988	15:00	1987	1988	38
+SG Union Solingen	Stuttgarter Kickers	0:1	2:2	29.05.1988	15:00	1987	1988	38
+SC Freiburg	Rot-Weiss Essen	1:0	3:0	29.05.1988	15:00	1987	1988	38
+SSV Ulm 1846	FC St. Pauli	0:1	0:1	29.05.1988	15:00	1987	1988	38
+VfL OsnabrÃ¼ck	SV Darmstadt 98	0:0	1:2	29.05.1988	15:00	1987	1988	38

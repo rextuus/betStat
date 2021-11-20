@@ -1,0 +1,306 @@
+VfB Stuttgart	FC Schalke 04	0:1	2:2	10.08.2007	20:30	2007	2008	1
+Bayern MÃ¼nchen	Hansa Rostock	1:0	3:0	11.08.2007	15:30	2007	2008	1
+Bayer Leverkusen	Energie Cottbus	0:0	0:0	11.08.2007	15:30	2007	2008	1
+VfL Bochum	Werder Bremen	0:2	2:2	11.08.2007	15:30	2007	2008	1
+Hannover 96	Hamburger SV	0:1	0:1	11.08.2007	15:30	2007	2008	1
+Eintracht Frankfurt	Hertha BSC	1:0	1:0	11.08.2007	15:30	2007	2008	1
+VfL Wolfsburg	Arminia Bielefeld	0:1	1:3	11.08.2007	15:30	2007	2008	1
+1. FC NÃ¼rnberg	Karlsruher SC	0:1	0:2	12.08.2007	17:00	2007	2008	1
+Borussia Dortmund	MSV Duisburg	0:1	1:3	12.08.2007	17:00	2007	2008	1
+Karlsruher SC	Hannover 96	1:0	1:2	17.08.2007	20:30	2007	2008	2
+FC Schalke 04	Borussia Dortmund	2:0	4:1	18.08.2007	15:30	2007	2008	2
+Werder Bremen	Bayern MÃ¼nchen	0:1	0:4	18.08.2007	15:30	2007	2008	2
+Hertha BSC	VfB Stuttgart	0:1	3:1	18.08.2007	15:30	2007	2008	2
+Arminia Bielefeld	Eintracht Frankfurt	0:0	2:2	18.08.2007	15:30	2007	2008	2
+Hansa Rostock	1. FC NÃ¼rnberg	0:2	1:2	18.08.2007	15:30	2007	2008	2
+MSV Duisburg	VfL Wolfsburg	0:1	1:3	18.08.2007	15:30	2007	2008	2
+Hamburger SV	Bayer Leverkusen	0:0	1:0	19.08.2007	17:00	2007	2008	2
+Energie Cottbus	VfL Bochum	0:2	1:2	19.08.2007	17:00	2007	2008	2
+VfL Bochum	Hamburger SV	1:0	2:1	24.08.2007	20:30	2007	2008	3
+VfB Stuttgart	MSV Duisburg	1:0	1:0	25.08.2007	15:30	2007	2008	3
+Bayern MÃ¼nchen	Hannover 96	1:0	3:0	25.08.2007	15:30	2007	2008	3
+Bayer Leverkusen	Karlsruher SC	3:0	3:0	25.08.2007	15:30	2007	2008	3
+1. FC NÃ¼rnberg	Werder Bremen	0:0	0:1	25.08.2007	15:30	2007	2008	3
+Borussia Dortmund	Energie Cottbus	1:0	3:0	25.08.2007	15:30	2007	2008	3
+Arminia Bielefeld	Hertha BSC	0:0	2:0	25.08.2007	15:30	2007	2008	3
+Eintracht Frankfurt	Hansa Rostock	1:0	1:0	26.08.2007	17:00	2007	2008	3
+VfL Wolfsburg	FC Schalke 04	1:0	1:1	26.08.2007	17:00	2007	2008	3
+FC Schalke 04	Bayer Leverkusen	1:0	1:1	31.08.2007	20:30	2007	2008	4
+Werder Bremen	Eintracht Frankfurt	1:0	2:1	01.09.2007	15:30	2007	2008	4
+Hertha BSC	VfL Wolfsburg	1:0	2:1	01.09.2007	15:30	2007	2008	4
+Hannover 96	VfL Bochum	2:1	3:2	01.09.2007	15:30	2007	2008	4
+Energie Cottbus	1. FC NÃ¼rnberg	1:0	1:1	01.09.2007	15:30	2007	2008	4
+Hansa Rostock	Borussia Dortmund	0:0	0:1	01.09.2007	15:30	2007	2008	4
+MSV Duisburg	Arminia Bielefeld	0:0	3:0	01.09.2007	15:30	2007	2008	4
+Hamburger SV	Bayern MÃ¼nchen	0:0	1:1	02.09.2007	17:00	2007	2008	4
+Karlsruher SC	VfB Stuttgart	0:0	1:0	02.09.2007	17:00	2007	2008	4
+Borussia Dortmund	Werder Bremen	3:0	3:0	14.09.2007	20:30	2007	2008	5
+VfB Stuttgart	Energie Cottbus	0:0	3:0	15.09.2007	15:30	2007	2008	5
+Bayern MÃ¼nchen	FC Schalke 04	0:1	1:1	15.09.2007	15:30	2007	2008	5
+Bayer Leverkusen	VfL Bochum	0:0	2:0	15.09.2007	15:30	2007	2008	5
+1. FC NÃ¼rnberg	Hannover 96	0:2	2:2	15.09.2007	15:30	2007	2008	5
+Arminia Bielefeld	Hansa Rostock	1:0	4:2	15.09.2007	15:30	2007	2008	5
+Eintracht Frankfurt	Hamburger SV	1:0	2:1	15.09.2007	15:30	2007	2008	5
+VfL Wolfsburg	Karlsruher SC	1:0	1:2	16.09.2007	17:00	2007	2008	5
+MSV Duisburg	Hertha BSC	0:0	1:2	16.09.2007	17:00	2007	2008	5
+VfL Bochum	Eintracht Frankfurt	0:0	0:0	21.09.2007	20:30	2007	2008	6
+FC Schalke 04	Arminia Bielefeld	1:0	3:0	22.09.2007	15:30	2007	2008	6
+Werder Bremen	VfB Stuttgart	3:1	4:1	22.09.2007	15:30	2007	2008	6
+Hamburger SV	1. FC NÃ¼rnberg	0:0	1:0	22.09.2007	15:30	2007	2008	6
+Hertha BSC	Borussia Dortmund	1:1	3:2	22.09.2007	15:30	2007	2008	6
+Energie Cottbus	VfL Wolfsburg	1:1	1:2	22.09.2007	15:30	2007	2008	6
+Hansa Rostock	MSV Duisburg	1:0	2:0	22.09.2007	15:30	2007	2008	6
+Hannover 96	Bayer Leverkusen	0:0	0:3	23.09.2007	17:00	2007	2008	6
+Karlsruher SC	Bayern MÃ¼nchen	0:2	1:4	23.09.2007	17:00	2007	2008	6
+Borussia Dortmund	Hamburger SV	0:2	0:3	25.09.2007	20:00	2007	2008	7
+Hertha BSC	Hansa Rostock	1:1	1:3	25.09.2007	20:00	2007	2008	7
+VfL Wolfsburg	Werder Bremen	0:0	1:1	25.09.2007	20:00	2007	2008	7
+MSV Duisburg	FC Schalke 04	0:1	0:2	25.09.2007	20:00	2007	2008	7
+VfB Stuttgart	VfL Bochum	0:0	1:0	26.09.2007	20:00	2007	2008	7
+Bayern MÃ¼nchen	Energie Cottbus	0:0	5:0	26.09.2007	20:00	2007	2008	7
+1. FC NÃ¼rnberg	Bayer Leverkusen	0:1	1:2	26.09.2007	20:00	2007	2008	7
+Arminia Bielefeld	Hannover 96	0:0	0:2	26.09.2007	20:00	2007	2008	7
+Eintracht Frankfurt	Karlsruher SC	0:0	0:1	26.09.2007	20:00	2007	2008	7
+FC Schalke 04	Hertha BSC	1:0	1:0	28.09.2007	20:30	2007	2008	8
+Werder Bremen	Arminia Bielefeld	4:1	8:1	29.09.2007	15:30	2007	2008	8
+Bayer Leverkusen	Bayern MÃ¼nchen	0:1	0:1	29.09.2007	15:30	2007	2008	8
+Hamburger SV	VfL Wolfsburg	1:0	2:2	29.09.2007	15:30	2007	2008	8
+VfL Bochum	1. FC NÃ¼rnberg	1:1	3:3	29.09.2007	15:30	2007	2008	8
+Karlsruher SC	Borussia Dortmund	1:1	3:1	29.09.2007	15:30	2007	2008	8
+Hansa Rostock	VfB Stuttgart	2:0	2:1	29.09.2007	15:30	2007	2008	8
+Hannover 96	MSV Duisburg	1:1	2:1	30.09.2007	17:00	2007	2008	8
+Energie Cottbus	Eintracht Frankfurt	2:0	2:2	30.09.2007	17:00	2007	2008	8
+Borussia Dortmund	VfL Bochum	1:1	2:1	05.10.2007	20:30	2007	2008	9
+VfB Stuttgart	Hannover 96	0:1	0:2	06.10.2007	15:30	2007	2008	9
+FC Schalke 04	Karlsruher SC	0:0	0:2	06.10.2007	15:30	2007	2008	9
+Hertha BSC	Energie Cottbus	0:0	0:0	06.10.2007	15:30	2007	2008	9
+Arminia Bielefeld	Hamburger SV	0:0	0:1	06.10.2007	15:30	2007	2008	9
+VfL Wolfsburg	Hansa Rostock	0:0	1:0	06.10.2007	15:30	2007	2008	9
+MSV Duisburg	Werder Bremen	1:1	1:3	06.10.2007	15:30	2007	2008	9
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	2:0	3:0	07.10.2007	17:00	2007	2008	9
+Eintracht Frankfurt	Bayer Leverkusen	0:0	2:1	07.10.2007	17:00	2007	2008	9
+Energie Cottbus	MSV Duisburg	0:1	1:2	19.10.2007	20:30	2007	2008	10
+Werder Bremen	Hertha BSC	0:0	3:2	20.10.2007	15:30	2007	2008	10
+Bayer Leverkusen	Borussia Dortmund	0:1	2:2	20.10.2007	15:30	2007	2008	10
+1. FC NÃ¼rnberg	Eintracht Frankfurt	1:1	5:1	20.10.2007	15:30	2007	2008	10
+Hamburger SV	VfB Stuttgart	3:0	4:1	20.10.2007	15:30	2007	2008	10
+VfL Bochum	Bayern MÃ¼nchen	1:1	1:2	20.10.2007	15:30	2007	2008	10
+Hansa Rostock	FC Schalke 04	0:1	1:1	20.10.2007	15:30	2007	2008	10
+Hannover 96	VfL Wolfsburg	2:2	2:2	21.10.2007	17:00	2007	2008	10
+Karlsruher SC	Arminia Bielefeld	0:0	0:0	21.10.2007	17:00	2007	2008	10
+Eintracht Frankfurt	Hannover 96	0:0	0:0	26.10.2007	20:30	2007	2008	11
+VfB Stuttgart	Bayer Leverkusen	0:0	1:0	27.10.2007	15:30	2007	2008	11
+FC Schalke 04	Werder Bremen	1:1	1:1	27.10.2007	15:30	2007	2008	11
+Hertha BSC	VfL Bochum	2:0	2:0	27.10.2007	15:30	2007	2008	11
+Arminia Bielefeld	Energie Cottbus	0:0	1:1	27.10.2007	15:30	2007	2008	11
+VfL Wolfsburg	1. FC NÃ¼rnberg	2:0	3:1	27.10.2007	15:30	2007	2008	11
+Hansa Rostock	Karlsruher SC	0:0	0:0	27.10.2007	15:30	2007	2008	11
+Borussia Dortmund	Bayern MÃ¼nchen	0:0	0:0	28.10.2007	17:00	2007	2008	11
+MSV Duisburg	Hamburger SV	0:1	0:1	28.10.2007	17:00	2007	2008	11
+Energie Cottbus	FC Schalke 04	0:0	1:0	02.11.2007	20:30	2007	2008	12
+Werder Bremen	Hansa Rostock	1:0	1:0	03.11.2007	15:30	2007	2008	12
+Bayern MÃ¼nchen	Eintracht Frankfurt	0:0	0:0	03.11.2007	15:30	2007	2008	12
+Bayer Leverkusen	Arminia Bielefeld	3:0	4:0	03.11.2007	15:30	2007	2008	12
+1. FC NÃ¼rnberg	VfB Stuttgart	0:1	0:1	03.11.2007	15:30	2007	2008	12
+Hamburger SV	Hertha BSC	1:0	2:1	03.11.2007	15:30	2007	2008	12
+Hannover 96	Borussia Dortmund	0:0	2:1	03.11.2007	15:30	2007	2008	12
+VfL Bochum	VfL Wolfsburg	4:0	5:3	04.11.2007	17:00	2007	2008	12
+Karlsruher SC	MSV Duisburg	1:0	1:0	04.11.2007	17:00	2007	2008	12
+MSV Duisburg	VfL Bochum	0:1	0:2	09.11.2007	20:30	2007	2008	13
+VfB Stuttgart	Bayern MÃ¼nchen	3:0	3:1	10.11.2007	15:30	2007	2008	13
+FC Schalke 04	Hamburger SV	1:1	1:1	10.11.2007	15:30	2007	2008	13
+Werder Bremen	Karlsruher SC	2:0	4:0	10.11.2007	15:30	2007	2008	13
+Borussia Dortmund	Eintracht Frankfurt	0:0	1:1	10.11.2007	15:30	2007	2008	13
+Hertha BSC	Hannover 96	0:0	1:0	10.11.2007	15:30	2007	2008	13
+Hansa Rostock	Energie Cottbus	1:0	3:2	10.11.2007	15:30	2007	2008	13
+Arminia Bielefeld	1. FC NÃ¼rnberg	0:1	3:1	11.11.2007	17:00	2007	2008	13
+VfL Wolfsburg	Bayer Leverkusen	0:1	1:2	11.11.2007	17:00	2007	2008	13
+Karlsruher SC	Hertha BSC	0:1	2:1	23.11.2007	20:30	2007	2008	14
+Bayern MÃ¼nchen	VfL Wolfsburg	1:0	2:1	24.11.2007	15:30	2007	2008	14
+Bayer Leverkusen	MSV Duisburg	0:1	4:1	24.11.2007	15:30	2007	2008	14
+VfL Bochum	Arminia Bielefeld	2:0	3:0	24.11.2007	15:30	2007	2008	14
+Hannover 96	FC Schalke 04	1:1	2:3	24.11.2007	15:30	2007	2008	14
+Energie Cottbus	Werder Bremen	0:0	0:2	24.11.2007	15:30	2007	2008	14
+Eintracht Frankfurt	VfB Stuttgart	1:1	1:4	24.11.2007	15:30	2007	2008	14
+1. FC NÃ¼rnberg	Borussia Dortmund	1:0	2:0	25.11.2007	17:00	2007	2008	14
+Hamburger SV	Hansa Rostock	1:0	2:0	25.11.2007	17:00	2007	2008	14
+Hansa Rostock	Hannover 96	0:0	0:3	30.11.2007	20:30	2007	2008	15
+VfB Stuttgart	Borussia Dortmund	1:1	1:2	01.12.2007	15:30	2007	2008	15
+FC Schalke 04	VfL Bochum	1:0	1:0	01.12.2007	15:30	2007	2008	15
+Werder Bremen	Hamburger SV	1:0	2:1	01.12.2007	15:30	2007	2008	15
+Hertha BSC	Bayer Leverkusen	0:1	0:3	01.12.2007	15:30	2007	2008	15
+Energie Cottbus	Karlsruher SC	0:0	2:0	01.12.2007	15:30	2007	2008	15
+VfL Wolfsburg	Eintracht Frankfurt	1:1	2:2	01.12.2007	15:30	2007	2008	15
+Arminia Bielefeld	Bayern MÃ¼nchen	0:1	0:1	02.12.2007	17:00	2007	2008	15
+MSV Duisburg	1. FC NÃ¼rnberg	0:0	1:0	02.12.2007	17:00	2007	2008	15
+Borussia Dortmund	Arminia Bielefeld	2:0	6:1	07.12.2007	20:30	2007	2008	16
+VfB Stuttgart	VfL Wolfsburg	1:0	3:1	08.12.2007	15:30	2007	2008	16
+Bayern MÃ¼nchen	MSV Duisburg	0:0	0:0	08.12.2007	15:30	2007	2008	16
+Hamburger SV	Energie Cottbus	0:0	0:0	08.12.2007	15:30	2007	2008	16
+VfL Bochum	Karlsruher SC	1:1	2:2	08.12.2007	15:30	2007	2008	16
+Hannover 96	Werder Bremen	3:2	4:3	08.12.2007	15:30	2007	2008	16
+Eintracht Frankfurt	FC Schalke 04	0:0	2:2	08.12.2007	15:30	2007	2008	16
+Bayer Leverkusen	Hansa Rostock	1:0	3:0	09.12.2007	17:00	2007	2008	16
+1. FC NÃ¼rnberg	Hertha BSC	2:0	2:1	09.12.2007	17:00	2007	2008	16
+Energie Cottbus	Hannover 96	3:0	5:1	14.12.2007	20:30	2007	2008	17
+FC Schalke 04	1. FC NÃ¼rnberg	2:0	2:1	15.12.2007	15:30	2007	2008	17
+Werder Bremen	Bayer Leverkusen	1:1	5:2	15.12.2007	15:30	2007	2008	17
+Hertha BSC	Bayern MÃ¼nchen	0:0	0:0	15.12.2007	15:30	2007	2008	17
+Arminia Bielefeld	VfB Stuttgart	0:0	2:0	15.12.2007	15:30	2007	2008	17
+VfL Wolfsburg	Borussia Dortmund	2:0	4:0	15.12.2007	15:30	2007	2008	17
+Karlsruher SC	Hamburger SV	0:0	1:1	15.12.2007	15:30	2007	2008	17
+Hansa Rostock	VfL Bochum	2:0	2:0	16.12.2007	17:00	2007	2008	17
+MSV Duisburg	Eintracht Frankfurt	0:1	0:1	16.12.2007	17:00	2007	2008	17
+Hansa Rostock	Bayern MÃ¼nchen	0:2	1:2	01.02.2008	20:30	2007	2008	18
+Energie Cottbus	Bayer Leverkusen	1:0	2:3	02.02.2008	15:30	2007	2008	18
+Karlsruher SC	1. FC NÃ¼rnberg	0:0	2:0	02.02.2008	15:30	2007	2008	18
+MSV Duisburg	Borussia Dortmund	2:0	3:3	02.02.2008	15:30	2007	2008	18
+Hamburger SV	Hannover 96	0:1	1:1	02.02.2008	15:30	2007	2008	18
+Hertha BSC	Eintracht Frankfurt	0:1	0:3	02.02.2008	15:30	2007	2008	18
+Arminia Bielefeld	VfL Wolfsburg	0:1	0:1	02.02.2008	15:30	2007	2008	18
+FC Schalke 04	VfB Stuttgart	1:0	4:1	03.02.2008	17:00	2007	2008	18
+Werder Bremen	VfL Bochum	1:0	1:2	03.02.2008	17:00	2007	2008	18
+Eintracht Frankfurt	Arminia Bielefeld	1:0	2:1	08.02.2008	20:30	2007	2008	19
+Bayer Leverkusen	Hamburger SV	0:1	1:1	09.02.2008	15:30	2007	2008	19
+VfB Stuttgart	Hertha BSC	1:2	1:3	09.02.2008	15:30	2007	2008	19
+VfL Bochum	Energie Cottbus	2:1	3:3	09.02.2008	15:30	2007	2008	19
+Hannover 96	Karlsruher SC	1:0	2:2	09.02.2008	15:30	2007	2008	19
+1. FC NÃ¼rnberg	Hansa Rostock	1:1	1:1	09.02.2008	15:30	2007	2008	19
+VfL Wolfsburg	MSV Duisburg	1:1	2:1	09.02.2008	15:30	2007	2008	19
+Borussia Dortmund	FC Schalke 04	1:2	2:3	10.02.2008	17:00	2007	2008	19
+Bayern MÃ¼nchen	Werder Bremen	1:1	1:1	10.02.2008	17:00	2007	2008	19
+FC Schalke 04	VfL Wolfsburg	0:0	1:2	15.02.2008	20:30	2007	2008	20
+MSV Duisburg	VfB Stuttgart	0:2	2:3	16.02.2008	15:30	2007	2008	20
+Karlsruher SC	Bayer Leverkusen	0:1	2:2	16.02.2008	15:30	2007	2008	20
+Werder Bremen	1. FC NÃ¼rnberg	1:0	2:0	16.02.2008	15:30	2007	2008	20
+Energie Cottbus	Borussia Dortmund	0:1	0:2	16.02.2008	15:30	2007	2008	20
+Hertha BSC	Arminia Bielefeld	0:0	1:0	16.02.2008	15:30	2007	2008	20
+Hansa Rostock	Eintracht Frankfurt	0:0	1:0	16.02.2008	15:30	2007	2008	20
+Hannover 96	Bayern MÃ¼nchen	0:0	0:3	17.02.2008	17:00	2007	2008	20
+Hamburger SV	VfL Bochum	1:0	3:0	17.02.2008	17:00	2007	2008	20
+VfL Bochum	Hannover 96	1:0	2:1	22.02.2008	20:30	2007	2008	21
+Bayer Leverkusen	FC Schalke 04	0:0	1:0	23.02.2008	15:30	2007	2008	21
+Eintracht Frankfurt	Werder Bremen	0:0	1:0	23.02.2008	15:30	2007	2008	21
+VfL Wolfsburg	Hertha BSC	0:0	0:0	23.02.2008	15:30	2007	2008	21
+VfB Stuttgart	Karlsruher SC	2:0	3:1	23.02.2008	15:30	2007	2008	21
+Borussia Dortmund	Hansa Rostock	0:0	1:0	23.02.2008	15:30	2007	2008	21
+Arminia Bielefeld	MSV Duisburg	0:1	0:2	23.02.2008	15:30	2007	2008	21
+Bayern MÃ¼nchen	Hamburger SV	0:0	1:1	24.02.2008	17:00	2007	2008	21
+1. FC NÃ¼rnberg	Energie Cottbus	0:0	1:1	24.02.2008	17:00	2007	2008	21
+Hertha BSC	MSV Duisburg	2:0	2:0	29.02.2008	20:30	2007	2008	22
+FC Schalke 04	Bayern MÃ¼nchen	0:1	0:1	01.03.2008	15:30	2007	2008	22
+Hannover 96	1. FC NÃ¼rnberg	1:0	2:1	01.03.2008	15:30	2007	2008	22
+Werder Bremen	Borussia Dortmund	1:0	2:0	01.03.2008	15:30	2007	2008	22
+Hansa Rostock	Arminia Bielefeld	0:0	1:1	01.03.2008	15:30	2007	2008	22
+Karlsruher SC	VfL Wolfsburg	1:1	3:1	01.03.2008	15:30	2007	2008	22
+VfL Bochum	Bayer Leverkusen	0:0	2:0	02.03.2008	17:00	2007	2008	22
+Hamburger SV	Eintracht Frankfurt	1:0	4:1	02.03.2008	17:00	2007	2008	22
+Energie Cottbus	VfB Stuttgart	0:1	0:1	11.03.2008	19:00	2007	2008	22
+Borussia Dortmund	Hertha BSC	1:0	1:1	07.03.2008	20:30	2007	2008	23
+Arminia Bielefeld	FC Schalke 04	0:1	0:2	08.03.2008	15:30	2007	2008	23
+VfB Stuttgart	Werder Bremen	2:1	6:3	08.03.2008	15:30	2007	2008	23
+Eintracht Frankfurt	VfL Bochum	0:0	1:1	08.03.2008	15:30	2007	2008	23
+VfL Wolfsburg	Energie Cottbus	2:0	3:0	08.03.2008	15:30	2007	2008	23
+Bayern MÃ¼nchen	Karlsruher SC	1:0	2:0	08.03.2008	15:30	2007	2008	23
+MSV Duisburg	Hansa Rostock	1:1	1:1	08.03.2008	15:30	2007	2008	23
+1. FC NÃ¼rnberg	Hamburger SV	0:0	0:0	09.03.2008	17:00	2007	2008	23
+Bayer Leverkusen	Hannover 96	2:0	2:0	09.03.2008	17:00	2007	2008	23
+FC Schalke 04	MSV Duisburg	0:1	2:1	14.03.2008	20:30	2007	2008	24
+VfL Bochum	VfB Stuttgart	1:0	1:1	15.03.2008	15:30	2007	2008	24
+Energie Cottbus	Bayern MÃ¼nchen	2:0	2:0	15.03.2008	15:30	2007	2008	24
+Hamburger SV	Borussia Dortmund	0:0	1:0	15.03.2008	15:30	2007	2008	24
+Hansa Rostock	Hertha BSC	0:0	0:0	15.03.2008	15:30	2007	2008	24
+Hannover 96	Arminia Bielefeld	1:2	2:2	15.03.2008	15:30	2007	2008	24
+Karlsruher SC	Eintracht Frankfurt	0:1	0:1	15.03.2008	15:30	2007	2008	24
+Bayer Leverkusen	1. FC NÃ¼rnberg	1:1	4:1	16.03.2008	17:00	2007	2008	24
+Werder Bremen	VfL Wolfsburg	0:0	0:1	16.03.2008	17:00	2007	2008	24
+Eintracht Frankfurt	Energie Cottbus	0:0	2:1	20.03.2008	20:30	2007	2008	25
+Bayern MÃ¼nchen	Bayer Leverkusen	1:0	2:1	22.03.2008	15:30	2007	2008	25
+VfL Wolfsburg	Hamburger SV	0:1	1:1	22.03.2008	15:30	2007	2008	25
+1. FC NÃ¼rnberg	VfL Bochum	1:1	1:1	22.03.2008	15:30	2007	2008	25
+MSV Duisburg	Hannover 96	0:1	1:1	22.03.2008	15:30	2007	2008	25
+Borussia Dortmund	Karlsruher SC	1:0	1:1	22.03.2008	15:30	2007	2008	25
+VfB Stuttgart	Hansa Rostock	0:0	4:1	22.03.2008	15:30	2007	2008	25
+Hertha BSC	FC Schalke 04	0:2	1:2	23.03.2008	17:00	2007	2008	25
+Arminia Bielefeld	Werder Bremen	1:0	1:1	23.03.2008	17:00	2007	2008	25
+Hansa Rostock	VfL Wolfsburg	0:0	0:1	28.03.2008	20:30	2007	2008	26
+Karlsruher SC	FC Schalke 04	0:0	0:0	29.03.2008	15:30	2007	2008	26
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	1:0	1:1	29.03.2008	15:30	2007	2008	26
+VfL Bochum	Borussia Dortmund	3:2	3:3	29.03.2008	15:30	2007	2008	26
+Hamburger SV	Arminia Bielefeld	0:0	1:1	29.03.2008	15:30	2007	2008	26
+Bayer Leverkusen	Eintracht Frankfurt	0:1	0:2	29.03.2008	15:30	2007	2008	26
+Werder Bremen	MSV Duisburg	0:2	1:2	29.03.2008	15:30	2007	2008	26
+Hannover 96	VfB Stuttgart	0:0	0:0	30.03.2008	17:00	2007	2008	26
+Energie Cottbus	Hertha BSC	1:1	2:1	30.03.2008	17:00	2007	2008	26
+MSV Duisburg	Energie Cottbus	0:1	0:1	04.04.2008	20:30	2007	2008	27
+Hertha BSC	Werder Bremen	1:1	1:2	05.04.2008	15:30	2007	2008	27
+Eintracht Frankfurt	1. FC NÃ¼rnberg	1:1	1:3	05.04.2008	15:30	2007	2008	27
+VfB Stuttgart	Hamburger SV	1:0	1:0	05.04.2008	15:30	2007	2008	27
+VfL Wolfsburg	Hannover 96	2:1	3:2	05.04.2008	15:30	2007	2008	27
+Arminia Bielefeld	Karlsruher SC	0:0	1:0	05.04.2008	15:30	2007	2008	27
+FC Schalke 04	Hansa Rostock	0:0	1:0	05.04.2008	15:30	2007	2008	27
+Borussia Dortmund	Bayer Leverkusen	0:0	2:1	06.04.2008	17:00	2007	2008	27
+Bayern MÃ¼nchen	VfL Bochum	1:1	3:1	06.04.2008	17:00	2007	2008	27
+Werder Bremen	FC Schalke 04	2:1	5:1	12.04.2008	15:30	2007	2008	28
+VfL Bochum	Hertha BSC	1:1	1:1	12.04.2008	15:30	2007	2008	28
+Energie Cottbus	Arminia Bielefeld	0:0	1:0	12.04.2008	15:30	2007	2008	28
+Hannover 96	Eintracht Frankfurt	1:1	2:1	12.04.2008	15:30	2007	2008	28
+Karlsruher SC	Hansa Rostock	0:1	1:2	12.04.2008	15:30	2007	2008	28
+Hamburger SV	MSV Duisburg	0:0	0:1	12.04.2008	15:30	2007	2008	28
+Bayer Leverkusen	VfB Stuttgart	2:0	3:0	13.04.2008	17:00	2007	2008	28
+Bayern MÃ¼nchen	Borussia Dortmund	4:0	5:0	13.04.2008	17:00	2007	2008	28
+1. FC NÃ¼rnberg	VfL Wolfsburg	0:0	1:0	20.04.2008	15:00	2007	2008	28
+Hansa Rostock	Werder Bremen	0:0	1:2	15.04.2008	20:00	2007	2008	29
+Hertha BSC	Hamburger SV	0:0	0:0	15.04.2008	20:00	2007	2008	29
+VfL Wolfsburg	VfL Bochum	0:0	0:1	15.04.2008	20:00	2007	2008	29
+FC Schalke 04	Energie Cottbus	3:0	5:0	15.04.2008	20:00	2007	2008	29
+Eintracht Frankfurt	Bayern MÃ¼nchen	1:0	1:3	16.04.2008	20:00	2007	2008	29
+Arminia Bielefeld	Bayer Leverkusen	0:0	1:0	16.04.2008	20:00	2007	2008	29
+VfB Stuttgart	1. FC NÃ¼rnberg	3:0	3:0	16.04.2008	20:00	2007	2008	29
+Borussia Dortmund	Hannover 96	0:2	1:3	16.04.2008	20:00	2007	2008	29
+MSV Duisburg	Karlsruher SC	0:0	0:1	16.04.2008	20:00	2007	2008	29
+Eintracht Frankfurt	Borussia Dortmund	0:0	1:1	25.04.2008	20:30	2007	2008	30
+Hamburger SV	FC Schalke 04	0:1	0:1	26.04.2008	15:30	2007	2008	30
+Karlsruher SC	Werder Bremen	1:2	3:3	26.04.2008	15:30	2007	2008	30
+Hannover 96	Hertha BSC	2:0	2:2	26.04.2008	15:30	2007	2008	30
+1. FC NÃ¼rnberg	Arminia Bielefeld	2:0	2:2	26.04.2008	15:30	2007	2008	30
+Energie Cottbus	Hansa Rostock	0:1	2:1	26.04.2008	15:30	2007	2008	30
+VfL Bochum	MSV Duisburg	0:1	1:1	26.04.2008	15:30	2007	2008	30
+Bayern MÃ¼nchen	VfB Stuttgart	1:1	4:1	27.04.2008	17:00	2007	2008	30
+Bayer Leverkusen	VfL Wolfsburg	1:2	2:2	27.04.2008	17:00	2007	2008	30
+Borussia Dortmund	1. FC NÃ¼rnberg	0:0	0:0	02.05.2008	20:30	2007	2008	31
+Hansa Rostock	Hamburger SV	0:2	1:3	03.05.2008	15:30	2007	2008	31
+Arminia Bielefeld	VfL Bochum	0:0	2:0	03.05.2008	15:30	2007	2008	31
+FC Schalke 04	Hannover 96	1:1	1:1	03.05.2008	15:30	2007	2008	31
+Werder Bremen	Energie Cottbus	0:0	2:0	03.05.2008	15:30	2007	2008	31
+VfB Stuttgart	Eintracht Frankfurt	3:0	4:1	03.05.2008	15:30	2007	2008	31
+Hertha BSC	Karlsruher SC	2:0	3:1	03.05.2008	15:30	2007	2008	31
+VfL Wolfsburg	Bayern MÃ¼nchen	0:0	0:0	04.05.2008	17:00	2007	2008	31
+MSV Duisburg	Bayer Leverkusen	2:1	3:2	04.05.2008	17:00	2007	2008	31
+Borussia Dortmund	VfB Stuttgart	1:0	3:2	06.05.2008	20:00	2007	2008	32
+VfL Bochum	FC Schalke 04	0:1	0:3	06.05.2008	20:00	2007	2008	32
+Karlsruher SC	Energie Cottbus	0:0	1:1	06.05.2008	20:00	2007	2008	32
+Hannover 96	Hansa Rostock	1:0	3:0	06.05.2008	20:00	2007	2008	32
+Hamburger SV	Werder Bremen	0:0	0:1	07.05.2008	20:00	2007	2008	32
+Bayer Leverkusen	Hertha BSC	0:1	1:2	07.05.2008	20:00	2007	2008	32
+Bayern MÃ¼nchen	Arminia Bielefeld	1:0	2:0	07.05.2008	20:00	2007	2008	32
+Eintracht Frankfurt	VfL Wolfsburg	1:2	2:3	07.05.2008	20:00	2007	2008	32
+1. FC NÃ¼rnberg	MSV Duisburg	2:0	2:0	07.05.2008	20:00	2007	2008	32
+VfL Wolfsburg	VfB Stuttgart	2:0	4:0	10.05.2008	15:30	2007	2008	33
+MSV Duisburg	Bayern MÃ¼nchen	0:3	2:3	10.05.2008	15:30	2007	2008	33
+Hansa Rostock	Bayer Leverkusen	0:1	1:2	10.05.2008	15:30	2007	2008	33
+Hertha BSC	1. FC NÃ¼rnberg	0:0	1:0	10.05.2008	15:30	2007	2008	33
+Energie Cottbus	Hamburger SV	1:0	2:0	10.05.2008	15:30	2007	2008	33
+Karlsruher SC	VfL Bochum	0:1	1:3	10.05.2008	15:30	2007	2008	33
+Arminia Bielefeld	Borussia Dortmund	2:1	2:2	10.05.2008	15:30	2007	2008	33
+Werder Bremen	Hannover 96	2:0	6:1	10.05.2008	15:30	2007	2008	33
+FC Schalke 04	Eintracht Frankfurt	0:0	1:0	10.05.2008	15:30	2007	2008	33
+1. FC NÃ¼rnberg	FC Schalke 04	0:1	0:2	17.05.2008	15:30	2007	2008	34
+Bayer Leverkusen	Werder Bremen	0:0	0:1	17.05.2008	15:30	2007	2008	34
+Bayern MÃ¼nchen	Hertha BSC	3:0	4:1	17.05.2008	15:30	2007	2008	34
+VfB Stuttgart	Arminia Bielefeld	0:1	2:2	17.05.2008	15:30	2007	2008	34
+Hannover 96	Energie Cottbus	2:0	4:0	17.05.2008	15:30	2007	2008	34
+Borussia Dortmund	VfL Wolfsburg	1:2	2:4	17.05.2008	15:30	2007	2008	34
+Hamburger SV	Karlsruher SC	3:0	7:0	17.05.2008	15:30	2007	2008	34
+VfL Bochum	Hansa Rostock	1:1	1:2	17.05.2008	15:30	2007	2008	34
+Eintracht Frankfurt	MSV Duisburg	3:0	4:2	17.05.2008	15:30	2007	2008	34

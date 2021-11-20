@@ -1,0 +1,306 @@
+CD Aves	Sporting CP	0:1	0:2	06.08.2017	19:00	2017	2018	1
+VitÃ³ria SetÃºbal	Moreirense FC	1:0	1:1	06.08.2017	21:15	2017	2018	1
+Portimonense SC	Boavista	0:1	2:1	07.08.2017	18:00	2017	2018	1
+CD Feirense	CD Tondela	0:1	1:1	07.08.2017	20:00	2017	2018	1
+Rio Ave FC	Os Belenenses	1:0	1:0	07.08.2017	22:00	2017	2018	1
+CS MarÃ­timo	PaÃ§os de Ferreira	0:0	1:0	08.08.2017	17:00	2017	2018	1
+FC Porto	GD Estoril	1:0	4:0	09.08.2017	20:00	2017	2018	1
+SL Benfica	Sporting Braga	2:1	3:1	09.08.2017	22:00	2017	2018	1
+VitÃ³ria GuimarÃ£es	GD Chaves	2:0	3:2	10.08.2017	22:00	2017	2018	1
+Sporting CP	VitÃ³ria SetÃºbal	0:0	1:0	11.08.2017	21:30	2017	2018	2
+Moreirense FC	CD Feirense	0:0	0:0	12.08.2017	17:00	2017	2018	2
+Os Belenenses	CS MarÃ­timo	0:0	1:0	12.08.2017	19:15	2017	2018	2
+Boavista	Rio Ave FC	0:1	1:2	12.08.2017	21:30	2017	2018	2
+PaÃ§os de Ferreira	CD Aves	0:2	2:2	13.08.2017	17:00	2017	2018	2
+Sporting Braga	Portimonense SC	1:1	2:1	13.08.2017	19:00	2017	2018	2
+CD Tondela	FC Porto	0:1	0:1	13.08.2017	21:15	2017	2018	2
+GD Estoril	VitÃ³ria GuimarÃ£es	1:0	3:0	14.08.2017	20:00	2017	2018	2
+GD Chaves	SL Benfica	0:0	0:1	14.08.2017	22:00	2017	2018	2
+Rio Ave FC	Portimonense SC	0:0	2:0	18.08.2017	21:30	2017	2018	3
+CD Tondela	GD Estoril	0:2	2:3	19.08.2017	17:00	2017	2018	3
+VitÃ³ria GuimarÃ£es	Sporting CP	0:3	0:5	19.08.2017	19:15	2017	2018	3
+SL Benfica	Os Belenenses	3:0	5:0	19.08.2017	21:30	2017	2018	3
+VitÃ³ria SetÃºbal	GD Chaves	0:0	1:1	20.08.2017	17:00	2017	2018	3
+FC Porto	Moreirense FC	2:0	3:0	20.08.2017	19:00	2017	2018	3
+CD Aves	Sporting Braga	0:0	0:2	20.08.2017	21:00	2017	2018	3
+CS MarÃ­timo	Boavista	0:0	1:0	20.08.2017	21:15	2017	2018	3
+CD Feirense	PaÃ§os de Ferreira	1:1	2:1	21.08.2017	21:00	2017	2018	3
+Os Belenenses	VitÃ³ria SetÃºbal	1:0	1:1	25.08.2017	21:30	2017	2018	4
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	0:0	0:0	26.08.2017	17:00	2017	2018	4
+Moreirense FC	CD Tondela	0:1	0:3	26.08.2017	17:00	2017	2018	4
+GD Chaves	CD Feirense	0:1	0:2	26.08.2017	19:15	2017	2018	4
+Rio Ave FC	SL Benfica	0:0	1:1	26.08.2017	21:30	2017	2018	4
+Boavista	CD Aves	0:0	1:0	27.08.2017	17:00	2017	2018	4
+Sporting CP	GD Estoril	2:0	2:1	27.08.2017	19:00	2017	2018	4
+Sporting Braga	FC Porto	0:1	0:1	27.08.2017	21:15	2017	2018	4
+Portimonense SC	CS MarÃ­timo	0:0	1:2	28.08.2017	21:00	2017	2018	4
+CD Feirense	Sporting CP	0:0	2:3	08.09.2017	20:00	2017	2018	5
+SL Benfica	Portimonense SC	0:0	2:1	08.09.2017	22:00	2017	2018	5
+CD Tondela	PaÃ§os de Ferreira	1:0	2:2	09.09.2017	17:00	2017	2018	5
+CS MarÃ­timo	Rio Ave FC	0:0	1:0	09.09.2017	19:15	2017	2018	5
+FC Porto	GD Chaves	0:0	3:0	09.09.2017	21:30	2017	2018	5
+VitÃ³ria SetÃºbal	Sporting Braga	2:0	2:0	10.09.2017	17:00	2017	2018	5
+VitÃ³ria GuimarÃ£es	Boavista	0:0	1:0	10.09.2017	19:00	2017	2018	5
+GD Estoril	Moreirense FC	0:1	0:2	10.09.2017	21:15	2017	2018	5
+CD Aves	Os Belenenses	1:1	2:1	11.09.2017	21:00	2017	2018	5
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	0:0	1:0	15.09.2017	21:30	2017	2018	6
+CS MarÃ­timo	CD Aves	2:0	2:1	16.09.2017	17:00	2017	2018	6
+Boavista	SL Benfica	0:1	2:1	16.09.2017	19:15	2017	2018	6
+Sporting CP	CD Tondela	1:0	2:0	16.09.2017	21:30	2017	2018	6
+Os Belenenses	GD Estoril	0:0	2:1	17.09.2017	17:00	2017	2018	6
+Rio Ave FC	FC Porto	0:0	1:2	17.09.2017	19:00	2017	2018	6
+Sporting Braga	VitÃ³ria GuimarÃ£es	2:1	2:1	17.09.2017	21:15	2017	2018	6
+Portimonense SC	CD Feirense	2:1	2:1	18.09.2017	20:00	2017	2018	6
+GD Chaves	Moreirense FC	1:0	3:0	18.09.2017	22:00	2017	2018	6
+FC Porto	Portimonense SC	3:1	5:2	22.09.2017	21:30	2017	2018	7
+GD Estoril	GD Chaves	0:1	0:2	23.09.2017	17:00	2017	2018	7
+Moreirense FC	Sporting CP	1:0	1:1	23.09.2017	19:15	2017	2018	7
+SL Benfica	PaÃ§os de Ferreira	1:0	2:0	23.09.2017	21:30	2017	2018	7
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	1:1	2:1	24.09.2017	17:00	2017	2018	7
+CD Feirense	Os Belenenses	0:3	1:4	24.09.2017	17:00	2017	2018	7
+CD Tondela	Sporting Braga	1:1	1:2	24.09.2017	19:00	2017	2018	7
+CD Aves	Rio Ave FC	0:0	0:0	24.09.2017	21:15	2017	2018	7
+VitÃ³ria SetÃºbal	Boavista	0:0	1:1	25.09.2017	21:00	2017	2018	7
+GD Chaves	CD Tondela	1:1	1:1	29.09.2017	21:30	2017	2018	8
+PaÃ§os de Ferreira	Moreirense FC	2:1	3:2	30.09.2017	17:00	2017	2018	8
+Portimonense SC	CD Aves	1:1	2:2	30.09.2017	17:00	2017	2018	8
+Boavista	CD Feirense	1:0	1:0	30.09.2017	19:15	2017	2018	8
+Rio Ave FC	VitÃ³ria SetÃºbal	0:0	2:1	30.09.2017	21:30	2017	2018	8
+Sporting Braga	GD Estoril	2:0	6:0	01.10.2017	18:15	2017	2018	8
+Sporting CP	FC Porto	0:0	0:0	01.10.2017	20:15	2017	2018	8
+Os Belenenses	VitÃ³ria GuimarÃ£es	1:0	1:0	01.10.2017	22:30	2017	2018	8
+CS MarÃ­timo	SL Benfica	0:1	1:1	01.10.2017	22:30	2017	2018	8
+GD Estoril	Boavista	0:2	0:3	20.10.2017	21:30	2017	2018	9
+CD Feirense	Rio Ave FC	1:0	1:0	21.10.2017	17:00	2017	2018	9
+VitÃ³ria SetÃºbal	CS MarÃ­timo	0:1	3:1	21.10.2017	19:15	2017	2018	9
+FC Porto	PaÃ§os de Ferreira	4:1	6:1	21.10.2017	21:30	2017	2018	9
+CD Tondela	Os Belenenses	0:0	2:0	22.10.2017	17:00	2017	2018	9
+CD Aves	SL Benfica	0:1	1:3	22.10.2017	19:00	2017	2018	9
+Sporting CP	GD Chaves	3:0	5:1	22.10.2017	21:15	2017	2018	9
+Moreirense FC	Sporting Braga	0:0	0:1	23.10.2017	20:00	2017	2018	9
+VitÃ³ria GuimarÃ£es	Portimonense SC	1:3	3:3	23.10.2017	22:00	2017	2018	9
+SL Benfica	CD Feirense	1:0	1:0	27.10.2017	20:00	2017	2018	10
+Rio Ave FC	Sporting CP	0:0	0:1	27.10.2017	22:00	2017	2018	10
+CS MarÃ­timo	CD Tondela	1:0	2:0	28.10.2017	17:00	2017	2018	10
+Os Belenenses	Moreirense FC	1:0	3:0	28.10.2017	19:15	2017	2018	10
+Boavista	FC Porto	0:0	0:3	28.10.2017	21:30	2017	2018	10
+Sporting Braga	GD Chaves	0:0	1:0	29.10.2017	17:00	2017	2018	10
+PaÃ§os de Ferreira	GD Estoril	1:0	1:0	29.10.2017	19:00	2017	2018	10
+CD Aves	VitÃ³ria GuimarÃ£es	1:2	1:3	29.10.2017	21:15	2017	2018	10
+Portimonense SC	VitÃ³ria SetÃºbal	3:1	5:2	30.10.2017	21:00	2017	2018	10
+VitÃ³ria SetÃºbal	CD Aves	0:0	0:1	03.11.2017	21:30	2017	2018	11
+Moreirense FC	Portimonense SC	1:1	1:1	04.11.2017	17:00	2017	2018	11
+CD Tondela	Boavista	0:0	3:2	04.11.2017	17:00	2017	2018	11
+GD Estoril	Rio Ave FC	0:1	0:2	04.11.2017	19:15	2017	2018	11
+FC Porto	Os Belenenses	1:0	2:0	04.11.2017	21:30	2017	2018	11
+GD Chaves	PaÃ§os de Ferreira	1:1	4:2	05.11.2017	17:00	2017	2018	11
+CD Feirense	CS MarÃ­timo	0:1	0:1	05.11.2017	17:00	2017	2018	11
+VitÃ³ria GuimarÃ£es	SL Benfica	0:1	1:3	05.11.2017	19:00	2017	2018	11
+Sporting CP	Sporting Braga	0:0	2:2	05.11.2017	21:15	2017	2018	11
+Os Belenenses	GD Chaves	0:1	0:1	24.11.2017	21:30	2017	2018	12
+Portimonense SC	CD Tondela	1:0	2:0	25.11.2017	17:00	2017	2018	12
+Boavista	Moreirense FC	1:0	1:0	25.11.2017	19:15	2017	2018	12
+CD Aves	FC Porto	0:1	1:1	25.11.2017	21:30	2017	2018	12
+CS MarÃ­timo	GD Estoril	0:0	0:0	26.11.2017	17:00	2017	2018	12
+PaÃ§os de Ferreira	Sporting CP	0:1	1:2	26.11.2017	19:00	2017	2018	12
+SL Benfica	VitÃ³ria SetÃºbal	2:0	6:0	26.11.2017	21:15	2017	2018	12
+Sporting Braga	CD Feirense	3:1	3:1	27.11.2017	20:00	2017	2018	12
+Rio Ave FC	VitÃ³ria GuimarÃ£es	0:1	0:1	27.11.2017	22:00	2017	2018	12
+Sporting CP	Os Belenenses	1:0	1:0	01.12.2017	19:15	2017	2018	13
+FC Porto	SL Benfica	0:0	0:0	01.12.2017	21:30	2017	2018	13
+Moreirense FC	CS MarÃ­timo	1:1	1:1	02.12.2017	17:00	2017	2018	13
+CD Tondela	Rio Ave FC	0:1	1:3	02.12.2017	19:15	2017	2018	13
+GD Chaves	Boavista	0:0	0:0	02.12.2017	21:30	2017	2018	13
+CD Feirense	CD Aves	0:0	0:1	03.12.2017	17:00	2017	2018	13
+Sporting Braga	PaÃ§os de Ferreira	0:0	3:0	03.12.2017	19:00	2017	2018	13
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	0:1	1:2	03.12.2017	21:15	2017	2018	13
+GD Estoril	Portimonense SC	0:0	0:0	04.12.2017	21:00	2017	2018	13
+Rio Ave FC	Moreirense FC	0:0	2:1	08.12.2017	21:30	2017	2018	14
+CD Aves	CD Tondela	0:0	0:1	09.12.2017	17:00	2017	2018	14
+SL Benfica	GD Estoril	2:1	3:1	09.12.2017	19:15	2017	2018	14
+Boavista	Sporting CP	0:1	1:3	09.12.2017	21:30	2017	2018	14
+Portimonense SC	GD Chaves	0:0	0:1	10.12.2017	17:00	2017	2018	14
+Os Belenenses	PaÃ§os de Ferreira	0:1	1:1	10.12.2017	19:00	2017	2018	14
+VitÃ³ria SetÃºbal	FC Porto	0:3	0:5	10.12.2017	21:15	2017	2018	14
+VitÃ³ria GuimarÃ£es	CD Feirense	0:0	1:0	11.12.2017	20:00	2017	2018	14
+CS MarÃ­timo	Sporting Braga	0:0	1:0	11.12.2017	22:00	2017	2018	14
+PaÃ§os de Ferreira	Boavista	1:0	1:2	15.12.2017	21:30	2017	2018	15
+CD Feirense	VitÃ³ria SetÃºbal	1:0	1:0	16.12.2017	17:00	2017	2018	15
+GD Estoril	CD Aves	1:1	3:2	16.12.2017	19:15	2017	2018	15
+Sporting Braga	Os Belenenses	1:0	4:0	16.12.2017	21:30	2017	2018	15
+GD Chaves	Rio Ave FC	0:1	1:1	17.12.2017	17:00	2017	2018	15
+Sporting CP	Portimonense SC	1:0	2:0	17.12.2017	19:00	2017	2018	15
+CD Tondela	SL Benfica	0:3	1:5	17.12.2017	21:15	2017	2018	15
+Moreirense FC	VitÃ³ria GuimarÃ£es	2:0	2:1	18.12.2017	20:00	2017	2018	15
+FC Porto	CS MarÃ­timo	2:1	3:1	18.12.2017	22:00	2017	2018	15
+VitÃ³ria GuimarÃ£es	CD Tondela	0:0	0:1	23.12.2017	19:15	2017	2018	16
+CD Aves	Moreirense FC	0:2	1:2	03.01.2018	19:15	2017	2018	16
+Boavista	Sporting Braga	0:1	1:3	03.01.2018	19:15	2017	2018	16
+CS MarÃ­timo	GD Chaves	0:1	1:2	03.01.2018	19:15	2017	2018	16
+CD Feirense	FC Porto	1:1	1:2	03.01.2018	21:15	2017	2018	16
+Rio Ave FC	PaÃ§os de Ferreira	1:0	4:2	03.01.2018	21:15	2017	2018	16
+SL Benfica	Sporting CP	0:1	1:1	03.01.2018	22:30	2017	2018	16
+VitÃ³ria SetÃºbal	GD Estoril	0:0	2:2	04.01.2018	19:15	2017	2018	16
+Portimonense SC	Os Belenenses	0:0	0:0	04.01.2018	21:15	2017	2018	16
+Sporting Braga	Rio Ave FC	1:1	2:1	06.01.2018	21:30	2017	2018	17
+GD Chaves	CD Aves	0:1	1:1	07.01.2018	12:45	2017	2018	17
+Moreirense FC	SL Benfica	0:1	0:2	07.01.2018	17:00	2017	2018	17
+Sporting CP	CS MarÃ­timo	1:0	5:0	07.01.2018	19:00	2017	2018	17
+FC Porto	VitÃ³ria GuimarÃ£es	0:1	4:2	07.01.2018	21:15	2017	2018	17
+PaÃ§os de Ferreira	Portimonense SC	0:0	1:1	08.01.2018	20:00	2017	2018	17
+GD Estoril	CD Feirense	0:1	0:2	08.01.2018	22:00	2017	2018	17
+CD Tondela	VitÃ³ria SetÃºbal	1:1	1:1	09.01.2018	20:00	2017	2018	17
+Os Belenenses	Boavista	1:0	1:1	09.01.2018	22:00	2017	2018	17
+GD Chaves	VitÃ³ria GuimarÃ£es	3:3	4:3	12.01.2018	21:30	2017	2018	18
+PaÃ§os de Ferreira	CS MarÃ­timo	0:0	0:0	13.01.2018	19:15	2017	2018	18
+Sporting Braga	SL Benfica	0:1	1:3	13.01.2018	21:30	2017	2018	18
+CD Tondela	CD Feirense	0:0	3:1	14.01.2018	17:00	2017	2018	18
+Boavista	Portimonense SC	2:0	2:0	14.01.2018	17:00	2017	2018	18
+Os Belenenses	Rio Ave FC	0:1	1:2	14.01.2018	19:00	2017	2018	18
+Sporting CP	CD Aves	1:0	3:0	14.01.2018	21:15	2017	2018	18
+Moreirense FC	VitÃ³ria SetÃºbal	1:2	2:2	15.01.2018	20:00	2017	2018	18
+GD Estoril	FC Porto	1:0	1:3	21.02.2018	19:00	2017	2018	18
+VitÃ³ria SetÃºbal	Sporting CP	0:1	1:1	19.01.2018	20:00	2017	2018	19
+FC Porto	CD Tondela	1:0	1:0	19.01.2018	22:00	2017	2018	19
+CS MarÃ­timo	Os Belenenses	0:0	0:0	20.01.2018	17:00	2017	2018	19
+SL Benfica	GD Chaves	2:0	3:0	20.01.2018	19:15	2017	2018	19
+Portimonense SC	Sporting Braga	0:2	1:2	20.01.2018	21:30	2017	2018	19
+CD Aves	PaÃ§os de Ferreira	0:1	0:2	21.01.2018	17:00	2017	2018	19
+CD Feirense	Moreirense FC	1:0	1:0	21.01.2018	17:00	2017	2018	19
+Rio Ave FC	Boavista	1:0	2:0	21.01.2018	19:00	2017	2018	19
+VitÃ³ria GuimarÃ£es	GD Estoril	1:1	3:1	21.01.2018	21:15	2017	2018	19
+PaÃ§os de Ferreira	CD Feirense	1:1	2:1	29.01.2018	20:00	2017	2018	20
+Portimonense SC	Rio Ave FC	3:0	4:1	29.01.2018	20:00	2017	2018	20
+Os Belenenses	SL Benfica	0:0	1:1	29.01.2018	22:00	2017	2018	20
+Sporting Braga	CD Aves	1:0	2:0	30.01.2018	20:00	2017	2018	20
+GD Estoril	CD Tondela	2:0	3:0	30.01.2018	20:00	2017	2018	20
+Moreirense FC	FC Porto	0:0	0:0	30.01.2018	22:00	2017	2018	20
+Boavista	CS MarÃ­timo	1:1	2:1	31.01.2018	20:00	2017	2018	20
+GD Chaves	VitÃ³ria SetÃºbal	1:1	2:2	31.01.2018	20:00	2017	2018	20
+Sporting CP	VitÃ³ria GuimarÃ£es	0:0	1:0	31.01.2018	22:00	2017	2018	20
+SL Benfica	Rio Ave FC	0:1	5:1	03.02.2018	19:15	2017	2018	21
+FC Porto	Sporting Braga	2:1	3:1	03.02.2018	21:30	2017	2018	21
+CD Feirense	GD Chaves	1:1	1:2	04.02.2018	17:00	2017	2018	21
+CD Tondela	Moreirense FC	1:1	1:2	04.02.2018	17:00	2017	2018	21
+GD Estoril	Sporting CP	2:0	2:0	04.02.2018	19:00	2017	2018	21
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	2:1	3:2	04.02.2018	21:15	2017	2018	21
+CS MarÃ­timo	Portimonense SC	0:3	0:3	05.02.2018	20:00	2017	2018	21
+VitÃ³ria SetÃºbal	Os Belenenses	1:0	3:0	05.02.2018	22:00	2017	2018	21
+CD Aves	Boavista	2:0	3:0	06.02.2018	21:00	2017	2018	21
+PaÃ§os de Ferreira	CD Tondela	0:2	0:2	09.02.2018	21:30	2017	2018	22
+Rio Ave FC	CS MarÃ­timo	2:0	3:0	10.02.2018	17:00	2017	2018	22
+Sporting Braga	VitÃ³ria SetÃºbal	1:0	3:1	10.02.2018	19:15	2017	2018	22
+Portimonense SC	SL Benfica	0:1	1:3	10.02.2018	21:30	2017	2018	22
+Os Belenenses	CD Aves	1:4	2:5	11.02.2018	17:00	2017	2018	22
+GD Chaves	FC Porto	0:2	0:4	11.02.2018	17:00	2017	2018	22
+Sporting CP	CD Feirense	0:0	2:0	11.02.2018	19:00	2017	2018	22
+Boavista	VitÃ³ria GuimarÃ£es	0:0	1:0	11.02.2018	21:15	2017	2018	22
+Moreirense FC	GD Estoril	1:0	1:2	12.02.2018	21:00	2017	2018	22
+CD Feirense	Portimonense SC	1:1	1:3	16.02.2018	21:30	2017	2018	23
+CD Aves	CS MarÃ­timo	0:0	0:0	17.02.2018	17:00	2017	2018	23
+SL Benfica	Boavista	2:0	4:0	17.02.2018	19:15	2017	2018	23
+GD Estoril	Os Belenenses	0:1	0:2	17.02.2018	21:30	2017	2018	23
+Moreirense FC	GD Chaves	0:0	0:1	18.02.2018	17:00	2017	2018	23
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	0:0	1:0	18.02.2018	17:00	2017	2018	23
+FC Porto	Rio Ave FC	3:0	5:0	18.02.2018	19:00	2017	2018	23
+VitÃ³ria GuimarÃ£es	Sporting Braga	0:3	0:5	18.02.2018	21:15	2017	2018	23
+CD Tondela	Sporting CP	1:1	1:2	19.02.2018	21:00	2017	2018	23
+Rio Ave FC	CD Aves	0:0	0:0	23.02.2018	21:30	2017	2018	24
+Os Belenenses	CD Feirense	0:0	1:0	24.02.2018	17:00	2017	2018	24
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	3:1	3:2	24.02.2018	19:15	2017	2018	24
+PaÃ§os de Ferreira	SL Benfica	1:0	1:3	24.02.2018	21:30	2017	2018	24
+GD Chaves	GD Estoril	1:0	2:0	25.02.2018	17:00	2017	2018	24
+Boavista	VitÃ³ria SetÃºbal	2:0	4:0	25.02.2018	19:00	2017	2018	24
+Portimonense SC	FC Porto	0:3	1:5	25.02.2018	21:15	2017	2018	24
+Sporting Braga	CD Tondela	0:0	1:0	26.02.2018	20:00	2017	2018	24
+Sporting CP	Moreirense FC	0:0	1:0	26.02.2018	22:00	2017	2018	24
+FC Porto	Sporting CP	1:1	2:1	02.03.2018	21:30	2017	2018	25
+CD Feirense	Boavista	1:0	3:0	03.03.2018	17:00	2017	2018	25
+SL Benfica	CS MarÃ­timo	4:0	5:0	03.03.2018	19:15	2017	2018	25
+GD Estoril	Sporting Braga	0:3	0:6	03.03.2018	21:30	2017	2018	25
+CD Tondela	GD Chaves	1:0	2:0	04.03.2018	12:45	2017	2018	25
+Moreirense FC	PaÃ§os de Ferreira	1:0	2:0	04.03.2018	17:00	2017	2018	25
+VitÃ³ria SetÃºbal	Rio Ave FC	0:0	1:0	04.03.2018	19:00	2017	2018	25
+VitÃ³ria GuimarÃ£es	Os Belenenses	0:0	0:0	04.03.2018	21:15	2017	2018	25
+CD Aves	Portimonense SC	1:0	3:0	05.03.2018	21:00	2017	2018	25
+Sporting Braga	Moreirense FC	1:0	3:0	09.03.2018	21:30	2017	2018	26
+Rio Ave FC	CD Feirense	0:1	2:1	10.03.2018	17:00	2017	2018	26
+SL Benfica	CD Aves	0:0	2:0	10.03.2018	19:15	2017	2018	26
+Boavista	GD Estoril	0:0	1:0	10.03.2018	21:30	2017	2018	26
+Portimonense SC	VitÃ³ria GuimarÃ£es	1:1	2:1	11.03.2018	12:45	2017	2018	26
+CS MarÃ­timo	VitÃ³ria SetÃºbal	3:0	4:2	11.03.2018	17:00	2017	2018	26
+Os Belenenses	CD Tondela	0:0	0:0	11.03.2018	19:00	2017	2018	26
+PaÃ§os de Ferreira	FC Porto	1:0	1:0	11.03.2018	21:15	2017	2018	26
+GD Chaves	Sporting CP	0:0	1:2	12.03.2018	20:00	2017	2018	26
+VitÃ³ria SetÃºbal	Portimonense SC	1:1	1:1	16.03.2018	21:30	2017	2018	27
+CD Tondela	CS MarÃ­timo	1:1	1:2	17.03.2018	17:00	2017	2018	27
+GD Estoril	PaÃ§os de Ferreira	1:0	1:1	17.03.2018	17:00	2017	2018	27
+CD Feirense	SL Benfica	0:0	0:2	17.03.2018	19:15	2017	2018	27
+FC Porto	Boavista	1:0	2:0	17.03.2018	21:30	2017	2018	27
+VitÃ³ria GuimarÃ£es	CD Aves	1:1	2:1	18.03.2018	17:00	2017	2018	27
+Moreirense FC	Os Belenenses	1:0	2:1	18.03.2018	17:00	2017	2018	27
+GD Chaves	Sporting Braga	0:2	1:4	18.03.2018	19:00	2017	2018	27
+Sporting CP	Rio Ave FC	1:0	2:0	18.03.2018	21:15	2017	2018	27
+CD Aves	VitÃ³ria SetÃºbal	1:0	1:4	29.03.2018	21:00	2017	2018	28
+CS MarÃ­timo	CD Feirense	0:0	4:1	30.03.2018	17:00	2017	2018	28
+Rio Ave FC	GD Estoril	2:0	2:0	30.03.2018	19:15	2017	2018	28
+Boavista	CD Tondela	1:1	1:1	30.03.2018	21:30	2017	2018	28
+PaÃ§os de Ferreira	GD Chaves	1:0	2:0	31.03.2018	17:00	2017	2018	28
+Portimonense SC	Moreirense FC	0:2	4:3	31.03.2018	17:00	2017	2018	28
+SL Benfica	VitÃ³ria GuimarÃ£es	1:0	2:0	31.03.2018	19:15	2017	2018	28
+Sporting Braga	Sporting CP	0:0	1:0	31.03.2018	21:30	2017	2018	28
+Os Belenenses	FC Porto	1:0	2:0	02.04.2018	21:00	2017	2018	28
+VitÃ³ria GuimarÃ£es	Rio Ave FC	3:0	3:0	06.04.2018	21:30	2017	2018	29
+CD Tondela	Portimonense SC	2:1	2:2	07.04.2018	17:00	2017	2018	29
+GD Estoril	CS MarÃ­timo	1:0	1:1	07.04.2018	17:00	2017	2018	29
+CD Feirense	Sporting Braga	0:1	2:2	07.04.2018	19:15	2017	2018	29
+VitÃ³ria SetÃºbal	SL Benfica	1:1	1:2	07.04.2018	21:30	2017	2018	29
+GD Chaves	Os Belenenses	0:0	1:1	08.04.2018	17:00	2017	2018	29
+FC Porto	CD Aves	2:0	2:0	08.04.2018	19:00	2017	2018	29
+Sporting CP	PaÃ§os de Ferreira	1:0	2:0	08.04.2018	21:15	2017	2018	29
+Moreirense FC	Boavista	0:0	1:0	09.04.2018	21:00	2017	2018	29
+PaÃ§os de Ferreira	Sporting Braga	0:2	1:5	13.04.2018	21:30	2017	2018	30
+Portimonense SC	GD Estoril	0:1	0:1	14.04.2018	17:00	2017	2018	30
+CD Aves	CD Feirense	1:0	1:0	14.04.2018	17:00	2017	2018	30
+Boavista	GD Chaves	2:1	3:3	14.04.2018	19:15	2017	2018	30
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	1:1	1:1	14.04.2018	21:30	2017	2018	30
+CS MarÃ­timo	Moreirense FC	0:0	1:1	15.04.2018	17:00	2017	2018	30
+SL Benfica	FC Porto	0:0	0:1	15.04.2018	19:00	2017	2018	30
+Os Belenenses	Sporting CP	1:3	3:4	15.04.2018	21:15	2017	2018	30
+Rio Ave FC	CD Tondela	1:0	1:1	16.04.2018	21:00	2017	2018	30
+Sporting Braga	CS MarÃ­timo	0:0	2:0	20.04.2018	21:30	2017	2018	31
+PaÃ§os de Ferreira	Os Belenenses	1:0	1:1	21.04.2018	17:00	2017	2018	31
+CD Feirense	VitÃ³ria GuimarÃ£es	1:1	2:1	21.04.2018	19:15	2017	2018	31
+GD Estoril	SL Benfica	0:1	1:2	21.04.2018	21:30	2017	2018	31
+CD Tondela	CD Aves	0:0	3:0	22.04.2018	17:00	2017	2018	31
+GD Chaves	Portimonense SC	0:0	2:1	22.04.2018	17:00	2017	2018	31
+Moreirense FC	Rio Ave FC	1:1	2:1	22.04.2018	19:00	2017	2018	31
+Sporting CP	Boavista	1:0	1:0	22.04.2018	21:15	2017	2018	31
+FC Porto	VitÃ³ria SetÃºbal	4:1	5:1	23.04.2018	21:00	2017	2018	31
+VitÃ³ria GuimarÃ£es	Moreirense FC	0:0	1:0	27.04.2018	21:30	2017	2018	32
+VitÃ³ria SetÃºbal	CD Feirense	0:0	0:2	28.04.2018	17:00	2017	2018	32
+SL Benfica	CD Tondela	1:2	2:3	28.04.2018	19:15	2017	2018	32
+Portimonense SC	Sporting CP	1:1	1:2	28.04.2018	21:30	2017	2018	32
+Rio Ave FC	GD Chaves	0:0	2:1	29.04.2018	17:00	2017	2018	32
+Boavista	PaÃ§os de Ferreira	0:0	1:0	29.04.2018	17:00	2017	2018	32
+CS MarÃ­timo	FC Porto	0:0	0:1	29.04.2018	19:00	2017	2018	32
+Os Belenenses	Sporting Braga	0:0	0:1	29.04.2018	21:15	2017	2018	32
+CD Aves	GD Estoril	0:0	1:0	30.04.2018	21:00	2017	2018	32
+Sporting Braga	Boavista	0:1	1:1	04.05.2018	21:30	2017	2018	33
+Os Belenenses	Portimonense SC	1:2	3:2	05.05.2018	17:00	2017	2018	33
+CD Tondela	VitÃ³ria GuimarÃ£es	1:2	1:4	05.05.2018	19:15	2017	2018	33
+Sporting CP	SL Benfica	0:0	0:0	05.05.2018	21:30	2017	2018	33
+Moreirense FC	CD Aves	0:1	0:3	06.05.2018	17:00	2017	2018	33
+GD Estoril	VitÃ³ria SetÃºbal	1:0	2:1	06.05.2018	17:00	2017	2018	33
+GD Chaves	CS MarÃ­timo	2:1	4:1	06.05.2018	19:00	2017	2018	33
+FC Porto	CD Feirense	1:0	2:1	06.05.2018	21:15	2017	2018	33
+PaÃ§os de Ferreira	Rio Ave FC	0:0	0:0	07.05.2018	21:00	2017	2018	33
+CD Aves	GD Chaves	2:1	2:3	11.05.2018	21:30	2017	2018	34
+VitÃ³ria GuimarÃ£es	FC Porto	0:0	0:1	12.05.2018	17:00	2017	2018	34
+Boavista	Os Belenenses	1:0	1:0	12.05.2018	21:00	2017	2018	34
+Rio Ave FC	Sporting Braga	1:0	1:0	13.05.2018	19:00	2017	2018	34
+CD Feirense	GD Estoril	0:0	0:0	13.05.2018	19:00	2017	2018	34
+Portimonense SC	PaÃ§os de Ferreira	1:0	3:1	13.05.2018	19:00	2017	2018	34
+SL Benfica	Moreirense FC	0:0	1:0	13.05.2018	19:00	2017	2018	34
+CS MarÃ­timo	Sporting CP	1:1	2:1	13.05.2018	19:00	2017	2018	34
+VitÃ³ria SetÃºbal	CD Tondela	1:0	1:0	13.05.2018	19:00	2017	2018	34

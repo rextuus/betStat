@@ -1,0 +1,306 @@
+Eintracht Frankfurt	Fortuna DÃ¼sseldorf	1:1	3:2	25.07.1997	19:15	1997	1998	1
+SV Meppen	FSV Zwickau	2:0	2:1	26.07.1997	15:30	1997	1998	1
+FC Carl Zeiss Jena	SG Wattenscheid 09	0:1	1:1	26.07.1997	15:30	1997	1998	1
+SpVgg Unterhaching	1. FSV Mainz 05	3:0	3:2	27.07.1997	15:00	1997	1998	1
+KFC Uerdingen 05	Fortuna KÃ¶ln	2:0	2:0	27.07.1997	15:00	1997	1998	1
+VfB Leipzig	Stuttgarter Kickers	1:1	3:1	27.07.1997	15:00	1997	1998	1
+SC Freiburg	Energie Cottbus	0:0	2:0	27.07.1997	15:00	1997	1998	1
+FC GÃ¼tersloh	1. FC NÃ¼rnberg	1:0	4:2	27.07.1997	15:00	1997	1998	1
+SpVgg Greuther FÃ¼rth	FC St. Pauli	0:0	0:0	27.07.1997	15:00	1997	1998	1
+FC St. Pauli	FC GÃ¼tersloh	0:0	0:0	01.08.1997	19:00	1997	1998	2
+Fortuna KÃ¶ln	SV Meppen	1:1	2:2	01.08.1997	19:00	1997	1998	2
+Fortuna DÃ¼sseldorf	KFC Uerdingen 05	0:0	1:1	01.08.1997	19:00	1997	1998	2
+Stuttgarter Kickers	FC Carl Zeiss Jena	1:1	2:1	03.08.1997	15:00	1997	1998	2
+Energie Cottbus	VfB Leipzig	1:1	1:1	03.08.1997	15:00	1997	1998	2
+1. FSV Mainz 05	SpVgg Greuther FÃ¼rth	4:0	4:1	03.08.1997	15:00	1997	1998	2
+FSV Zwickau	SpVgg Unterhaching	0:2	0:4	03.08.1997	15:00	1997	1998	2
+SG Wattenscheid 09	Eintracht Frankfurt	0:1	0:1	03.08.1997	15:00	1997	1998	2
+1. FC NÃ¼rnberg	SC Freiburg	1:1	4:1	04.08.1997	19:15	1997	1998	2
+SpVgg Unterhaching	Fortuna KÃ¶ln	0:0	0:1	08.08.1997	19:00	1997	1998	3
+SV Meppen	Fortuna DÃ¼sseldorf	1:1	2:2	08.08.1997	19:00	1997	1998	3
+KFC Uerdingen 05	SG Wattenscheid 09	2:1	2:1	08.08.1997	19:00	1997	1998	3
+FC Carl Zeiss Jena	Energie Cottbus	0:2	0:3	10.08.1997	15:00	1997	1998	3
+FC GÃ¼tersloh	SC Freiburg	0:2	1:2	10.08.1997	15:00	1997	1998	3
+VfB Leipzig	1. FC NÃ¼rnberg	1:1	2:1	10.08.1997	15:00	1997	1998	3
+SpVgg Greuther FÃ¼rth	FSV Zwickau	1:0	1:0	10.08.1997	15:00	1997	1998	3
+Eintracht Frankfurt	Stuttgarter Kickers	1:0	1:0	10.08.1997	15:00	1997	1998	3
+FC St. Pauli	1. FSV Mainz 05	1:0	2:0	11.08.1997	19:15	1997	1998	3
+Fortuna KÃ¶ln	SpVgg Greuther FÃ¼rth	1:1	1:1	22.08.1997	19:00	1997	1998	4
+Energie Cottbus	Eintracht Frankfurt	0:1	0:1	22.08.1997	19:00	1997	1998	4
+1. FSV Mainz 05	FC GÃ¼tersloh	0:1	1:1	22.08.1997	19:00	1997	1998	4
+Stuttgarter Kickers	KFC Uerdingen 05	1:1	2:2	23.08.1997	15:30	1997	1998	4
+SC Freiburg	VfB Leipzig	3:1	5:2	24.08.1997	15:00	1997	1998	4
+FSV Zwickau	FC St. Pauli	3:0	4:0	24.08.1997	15:00	1997	1998	4
+Fortuna DÃ¼sseldorf	SpVgg Unterhaching	1:0	1:1	24.08.1997	15:00	1997	1998	4
+SG Wattenscheid 09	SV Meppen	0:0	1:1	24.08.1997	15:00	1997	1998	4
+1. FC NÃ¼rnberg	FC Carl Zeiss Jena	1:1	1:3	24.08.1997	15:00	1997	1998	4
+SpVgg Unterhaching	SG Wattenscheid 09	0:0	0:0	29.08.1997	19:00	1997	1998	5
+1. FSV Mainz 05	FSV Zwickau	0:0	2:2	29.08.1997	19:00	1997	1998	5
+KFC Uerdingen 05	Energie Cottbus	2:1	2:1	29.08.1997	19:00	1997	1998	5
+FC GÃ¼tersloh	VfB Leipzig	1:0	1:0	30.08.1997	15:30	1997	1998	5
+FC Carl Zeiss Jena	SC Freiburg	0:2	1:4	31.08.1997	15:00	1997	1998	5
+FC St. Pauli	Fortuna KÃ¶ln	0:0	1:1	31.08.1997	15:00	1997	1998	5
+SpVgg Greuther FÃ¼rth	Fortuna DÃ¼sseldorf	0:0	2:2	31.08.1997	15:00	1997	1998	5
+SV Meppen	Stuttgarter Kickers	0:1	1:1	31.08.1997	15:00	1997	1998	5
+Eintracht Frankfurt	1. FC NÃ¼rnberg	3:0	4:1	31.08.1997	15:15	1997	1998	5
+SC Freiburg	Eintracht Frankfurt	0:0	0:0	12.09.1997	19:00	1997	1998	6
+1. FC NÃ¼rnberg	KFC Uerdingen 05	0:0	0:0	12.09.1997	19:00	1997	1998	6
+FSV Zwickau	FC GÃ¼tersloh	0:1	2:2	13.09.1997	15:30	1997	1998	6
+Energie Cottbus	SV Meppen	1:0	1:0	14.09.1997	15:00	1997	1998	6
+VfB Leipzig	FC Carl Zeiss Jena	0:0	0:0	14.09.1997	15:00	1997	1998	6
+Fortuna KÃ¶ln	1. FSV Mainz 05	1:0	2:1	14.09.1997	15:00	1997	1998	6
+SG Wattenscheid 09	SpVgg Greuther FÃ¼rth	0:0	2:1	14.09.1997	15:00	1997	1998	6
+Stuttgarter Kickers	SpVgg Unterhaching	2:2	2:3	14.09.1997	15:00	1997	1998	6
+Fortuna DÃ¼sseldorf	FC St. Pauli	0:1	1:3	15.09.1997	19:15	1997	1998	6
+FC St. Pauli	SG Wattenscheid 09	0:1	1:1	19.09.1997	19:00	1997	1998	7
+Eintracht Frankfurt	VfB Leipzig	2:0	3:2	19.09.1997	19:00	1997	1998	7
+SpVgg Unterhaching	Energie Cottbus	0:0	0:0	20.09.1997	15:30	1997	1998	7
+FSV Zwickau	Fortuna KÃ¶ln	0:0	0:1	20.09.1997	15:30	1997	1998	7
+1. FSV Mainz 05	Fortuna DÃ¼sseldorf	0:0	2:0	21.09.1997	15:00	1997	1998	7
+FC GÃ¼tersloh	FC Carl Zeiss Jena	1:0	1:0	21.09.1997	15:00	1997	1998	7
+SV Meppen	1. FC NÃ¼rnberg	0:0	1:0	21.09.1997	15:00	1997	1998	7
+SpVgg Greuther FÃ¼rth	Stuttgarter Kickers	0:0	1:2	21.09.1997	15:00	1997	1998	7
+KFC Uerdingen 05	SC Freiburg	0:0	1:0	22.09.1997	19:15	1997	1998	7
+Fortuna DÃ¼sseldorf	FSV Zwickau	2:0	4:1	26.09.1997	19:00	1997	1998	8
+1. FC NÃ¼rnberg	SpVgg Unterhaching	0:0	1:0	26.09.1997	19:00	1997	1998	8
+Fortuna KÃ¶ln	FC GÃ¼tersloh	1:2	2:2	27.09.1997	15:30	1997	1998	8
+Energie Cottbus	SpVgg Greuther FÃ¼rth	2:0	3:0	28.09.1997	15:00	1997	1998	8
+SC Freiburg	SV Meppen	1:0	4:2	28.09.1997	15:00	1997	1998	8
+SG Wattenscheid 09	1. FSV Mainz 05	1:0	1:1	28.09.1997	15:00	1997	1998	8
+Stuttgarter Kickers	FC St. Pauli	3:1	3:1	28.09.1997	15:00	1997	1998	8
+FC Carl Zeiss Jena	Eintracht Frankfurt	2:1	2:1	28.09.1997	15:00	1997	1998	8
+VfB Leipzig	KFC Uerdingen 05	0:0	2:1	29.09.1997	19:15	1997	1998	8
+1. FSV Mainz 05	Stuttgarter Kickers	2:2	3:3	03.10.1997	19:00	1997	1998	9
+KFC Uerdingen 05	FC Carl Zeiss Jena	0:0	2:0	03.10.1997	19:00	1997	1998	9
+Fortuna KÃ¶ln	Fortuna DÃ¼sseldorf	0:0	0:3	04.10.1997	15:30	1997	1998	9
+FC St. Pauli	Energie Cottbus	1:1	2:2	05.10.1997	15:00	1997	1998	9
+FSV Zwickau	SG Wattenscheid 09	0:0	0:0	05.10.1997	15:00	1997	1998	9
+SV Meppen	VfB Leipzig	2:0	6:0	05.10.1997	15:00	1997	1998	9
+SpVgg Unterhaching	SC Freiburg	1:0	1:1	05.10.1997	15:00	1997	1998	9
+FC GÃ¼tersloh	Eintracht Frankfurt	0:0	0:0	05.10.1997	15:00	1997	1998	9
+SpVgg Greuther FÃ¼rth	1. FC NÃ¼rnberg	0:1	0:1	06.10.1997	19:15	1997	1998	9
+Energie Cottbus	1. FSV Mainz 05	1:0	2:2	17.10.1997	19:00	1997	1998	10
+FC Carl Zeiss Jena	SV Meppen	0:0	2:1	17.10.1997	19:00	1997	1998	10
+Fortuna DÃ¼sseldorf	FC GÃ¼tersloh	0:1	0:1	19.10.1997	15:00	1997	1998	10
+SC Freiburg	SpVgg Greuther FÃ¼rth	0:1	0:1	19.10.1997	15:00	1997	1998	10
+VfB Leipzig	SpVgg Unterhaching	1:0	1:0	19.10.1997	15:00	1997	1998	10
+SG Wattenscheid 09	Fortuna KÃ¶ln	2:1	4:2	19.10.1997	15:00	1997	1998	10
+Stuttgarter Kickers	FSV Zwickau	1:0	1:0	19.10.1997	15:00	1997	1998	10
+1. FC NÃ¼rnberg	FC St. Pauli	0:0	1:0	19.10.1997	15:00	1997	1998	10
+Eintracht Frankfurt	KFC Uerdingen 05	0:0	0:1	20.10.1997	19:15	1997	1998	10
+SV Meppen	Eintracht Frankfurt	0:0	1:1	24.10.1997	19:00	1997	1998	11
+SpVgg Unterhaching	FC Carl Zeiss Jena	1:0	3:0	24.10.1997	19:00	1997	1998	11
+Fortuna KÃ¶ln	Stuttgarter Kickers	1:1	2:2	24.10.1997	19:00	1997	1998	11
+FSV Zwickau	Energie Cottbus	0:0	0:0	26.10.1997	15:00	1997	1998	11
+FC GÃ¼tersloh	KFC Uerdingen 05	0:0	1:1	26.10.1997	15:00	1997	1998	11
+1. FSV Mainz 05	1. FC NÃ¼rnberg	1:3	2:5	26.10.1997	15:00	1997	1998	11
+Fortuna DÃ¼sseldorf	SG Wattenscheid 09	1:0	2:0	26.10.1997	15:00	1997	1998	11
+SpVgg Greuther FÃ¼rth	VfB Leipzig	0:0	3:0	26.10.1997	15:00	1997	1998	11
+FC St. Pauli	SC Freiburg	1:0	2:0	27.10.1997	19:15	1997	1998	11
+1. FC NÃ¼rnberg	FSV Zwickau	1:0	2:0	31.10.1997	19:00	1997	1998	12
+FC Carl Zeiss Jena	SpVgg Greuther FÃ¼rth	0:0	0:1	31.10.1997	19:00	1997	1998	12
+Eintracht Frankfurt	SpVgg Unterhaching	0:0	1:1	31.10.1997	19:00	1997	1998	12
+VfB Leipzig	FC St. Pauli	0:0	2:0	02.11.1997	14:30	1997	1998	12
+Stuttgarter Kickers	Fortuna DÃ¼sseldorf	1:0	2:4	02.11.1997	14:30	1997	1998	12
+Energie Cottbus	Fortuna KÃ¶ln	0:0	1:1	02.11.1997	15:00	1997	1998	12
+KFC Uerdingen 05	SV Meppen	1:0	2:0	02.11.1997	15:00	1997	1998	12
+SG Wattenscheid 09	FC GÃ¼tersloh	0:2	1:2	02.11.1997	15:00	1997	1998	12
+SC Freiburg	1. FSV Mainz 05	1:0	2:1	03.11.1997	19:15	1997	1998	12
+FC St. Pauli	FC Carl Zeiss Jena	0:0	2:1	07.11.1997	19:00	1997	1998	13
+1. FSV Mainz 05	VfB Leipzig	1:1	2:1	07.11.1997	19:00	1997	1998	13
+SG Wattenscheid 09	Stuttgarter Kickers	0:0	0:1	07.11.1997	19:00	1997	1998	13
+SpVgg Greuther FÃ¼rth	Eintracht Frankfurt	0:0	2:1	09.11.1997	14:00	1997	1998	13
+FC GÃ¼tersloh	SV Meppen	1:0	1:0	09.11.1997	14:30	1997	1998	13
+Fortuna DÃ¼sseldorf	Energie Cottbus	1:1	1:2	09.11.1997	15:00	1997	1998	13
+Fortuna KÃ¶ln	1. FC NÃ¼rnberg	0:0	0:1	09.11.1997	15:00	1997	1998	13
+SpVgg Unterhaching	KFC Uerdingen 05	1:0	2:0	09.11.1997	15:00	1997	1998	13
+FSV Zwickau	SC Freiburg	0:0	0:1	10.11.1997	19:15	1997	1998	13
+FC Carl Zeiss Jena	1. FSV Mainz 05	1:2	2:2	21.11.1997	19:00	1997	1998	14
+KFC Uerdingen 05	SpVgg Greuther FÃ¼rth	2:0	2:0	21.11.1997	19:00	1997	1998	14
+SV Meppen	SpVgg Unterhaching	0:0	1:1	22.11.1997	15:30	1997	1998	14
+VfB Leipzig	FSV Zwickau	0:0	0:1	23.11.1997	14:30	1997	1998	14
+Stuttgarter Kickers	FC GÃ¼tersloh	0:0	0:2	23.11.1997	14:30	1997	1998	14
+SC Freiburg	Fortuna KÃ¶ln	1:1	3:2	23.11.1997	15:00	1997	1998	14
+Energie Cottbus	SG Wattenscheid 09	0:0	1:2	23.11.1997	15:00	1997	1998	14
+1. FC NÃ¼rnberg	Fortuna DÃ¼sseldorf	0:1	0:1	23.11.1997	15:00	1997	1998	14
+Eintracht Frankfurt	FC St. Pauli	3:0	4:2	24.11.1997	19:15	1997	1998	14
+FC St. Pauli	KFC Uerdingen 05	0:0	0:0	28.11.1997	19:00	1997	1998	15
+1. FSV Mainz 05	Eintracht Frankfurt	1:0	1:1	28.11.1997	19:00	1997	1998	15
+SpVgg Greuther FÃ¼rth	SV Meppen	1:0	2:0	29.11.1997	14:15	1997	1998	15
+FSV Zwickau	FC Carl Zeiss Jena	0:2	0:3	29.11.1997	15:30	1997	1998	15
+Fortuna DÃ¼sseldorf	SC Freiburg	1:2	2:4	30.11.1997	15:00	1997	1998	15
+Energie Cottbus	Stuttgarter Kickers	0:1	2:1	30.11.1997	15:00	1997	1998	15
+Fortuna KÃ¶ln	VfB Leipzig	0:0	2:0	30.11.1997	15:00	1997	1998	15
+SpVgg Unterhaching	FC GÃ¼tersloh	1:1	1:1	30.11.1997	15:00	1997	1998	15
+SG Wattenscheid 09	1. FC NÃ¼rnberg	0:1	0:1	01.12.1997	19:15	1997	1998	15
+SC Freiburg	SG Wattenscheid 09	3:0	4:0	05.12.1997	19:00	1997	1998	16
+VfB Leipzig	Fortuna DÃ¼sseldorf	0:1	1:1	05.12.1997	19:00	1997	1998	16
+FC GÃ¼tersloh	Energie Cottbus	0:0	0:0	07.12.1997	14:00	1997	1998	16
+KFC Uerdingen 05	1. FSV Mainz 05	0:0	0:1	07.12.1997	15:00	1997	1998	16
+SV Meppen	FC St. Pauli	0:2	0:3	07.12.1997	15:00	1997	1998	16
+SpVgg Unterhaching	SpVgg Greuther FÃ¼rth	0:0	0:1	07.12.1997	15:00	1997	1998	16
+Eintracht Frankfurt	FSV Zwickau	1:0	1:1	07.12.1997	15:00	1997	1998	16
+1. FC NÃ¼rnberg	Stuttgarter Kickers	0:0	1:0	08.12.1997	19:15	1997	1998	16
+FC Carl Zeiss Jena	Fortuna KÃ¶ln	1:2	1:3	20.12.1997	15:30	1997	1998	16
+Fortuna DÃ¼sseldorf	FC Carl Zeiss Jena	0:1	2:2	12.12.1997	19:00	1997	1998	17
+SG Wattenscheid 09	VfB Leipzig	2:0	4:0	12.12.1997	19:00	1997	1998	17
+Stuttgarter Kickers	SC Freiburg	0:1	0:1	12.12.1997	19:00	1997	1998	17
+FSV Zwickau	KFC Uerdingen 05	1:0	1:0	13.12.1997	15:30	1997	1998	17
+SpVgg Greuther FÃ¼rth	FC GÃ¼tersloh	0:0	0:0	14.12.1997	14:00	1997	1998	17
+Energie Cottbus	1. FC NÃ¼rnberg	1:1	1:1	14.12.1997	15:00	1997	1998	17
+1. FSV Mainz 05	SV Meppen	0:0	3:0	14.12.1997	15:00	1997	1998	17
+Fortuna KÃ¶ln	Eintracht Frankfurt	1:0	1:2	14.12.1997	15:00	1997	1998	17
+FC St. Pauli	SpVgg Unterhaching	0:0	1:0	15.12.1997	19:15	1997	1998	17
+1. FC NÃ¼rnberg	FC GÃ¼tersloh	0:0	1:0	13.02.1998	19:00	1997	1998	18
+FC St. Pauli	SpVgg Greuther FÃ¼rth	0:0	1:0	13.02.1998	19:00	1997	1998	18
+FSV Zwickau	SV Meppen	0:0	0:0	13.02.1998	19:00	1997	1998	18
+SG Wattenscheid 09	FC Carl Zeiss Jena	2:0	2:0	15.02.1998	15:00	1997	1998	18
+1. FSV Mainz 05	SpVgg Unterhaching	0:0	1:1	15.02.1998	15:00	1997	1998	18
+Energie Cottbus	SC Freiburg	2:0	2:1	15.02.1998	15:00	1997	1998	18
+Stuttgarter Kickers	VfB Leipzig	1:1	2:3	15.02.1998	15:00	1997	1998	18
+Fortuna KÃ¶ln	KFC Uerdingen 05	0:1	2:2	15.02.1998	15:00	1997	1998	18
+Fortuna DÃ¼sseldorf	Eintracht Frankfurt	0:0	0:0	16.02.1998	19:30	1997	1998	18
+VfB Leipzig	Energie Cottbus	0:0	0:0	20.02.1998	19:00	1997	1998	19
+SC Freiburg	1. FC NÃ¼rnberg	0:1	0:1	20.02.1998	19:00	1997	1998	19
+FC GÃ¼tersloh	FC St. Pauli	0:0	1:1	22.02.1998	14:30	1997	1998	19
+SpVgg Greuther FÃ¼rth	1. FSV Mainz 05	1:1	2:2	22.02.1998	14:30	1997	1998	19
+FC Carl Zeiss Jena	Stuttgarter Kickers	0:0	2:1	22.02.1998	15:00	1997	1998	19
+SpVgg Unterhaching	FSV Zwickau	0:0	2:0	22.02.1998	15:00	1997	1998	19
+Eintracht Frankfurt	SG Wattenscheid 09	2:1	2:1	23.02.1998	19:30	1997	1998	19
+KFC Uerdingen 05	Fortuna DÃ¼sseldorf	0:1	0:1	25.02.1998	19:00	1997	1998	19
+SV Meppen	Fortuna KÃ¶ln	0:1	2:2	25.02.1998	19:00	1997	1998	19
+1. FC NÃ¼rnberg	VfB Leipzig	2:1	3:1	27.02.1998	19:00	1997	1998	20
+FSV Zwickau	SpVgg Greuther FÃ¼rth	0:0	1:1	27.02.1998	19:00	1997	1998	20
+Stuttgarter Kickers	Eintracht Frankfurt	0:1	2:3	28.02.1998	15:30	1997	1998	20
+1. FSV Mainz 05	FC St. Pauli	0:0	0:0	01.03.1998	15:00	1997	1998	20
+Energie Cottbus	FC Carl Zeiss Jena	0:0	0:0	01.03.1998	15:00	1997	1998	20
+SG Wattenscheid 09	KFC Uerdingen 05	0:1	0:1	01.03.1998	15:00	1997	1998	20
+Fortuna DÃ¼sseldorf	SV Meppen	1:1	4:3	01.03.1998	15:00	1997	1998	20
+Fortuna KÃ¶ln	SpVgg Unterhaching	0:0	2:1	01.03.1998	15:00	1997	1998	20
+SC Freiburg	FC GÃ¼tersloh	1:1	2:1	02.03.1998	19:30	1997	1998	20
+FC St. Pauli	FSV Zwickau	2:0	3:1	06.03.1998	19:00	1997	1998	21
+FC Carl Zeiss Jena	1. FC NÃ¼rnberg	0:2	0:3	06.03.1998	19:00	1997	1998	21
+KFC Uerdingen 05	Stuttgarter Kickers	0:1	0:2	06.03.1998	19:00	1997	1998	21
+Eintracht Frankfurt	Energie Cottbus	1:0	2:0	08.03.1998	15:00	1997	1998	21
+VfB Leipzig	SC Freiburg	1:0	2:0	08.03.1998	15:00	1997	1998	21
+FC GÃ¼tersloh	1. FSV Mainz 05	2:2	3:2	08.03.1998	15:00	1997	1998	21
+SpVgg Greuther FÃ¼rth	Fortuna KÃ¶ln	0:0	0:0	08.03.1998	15:00	1997	1998	21
+SpVgg Unterhaching	Fortuna DÃ¼sseldorf	2:1	3:1	09.03.1998	19:30	1997	1998	21
+SV Meppen	SG Wattenscheid 09	0:0	1:0	17.03.1998	19:00	1997	1998	21
+VfB Leipzig	FC GÃ¼tersloh	0:0	1:0	13.03.1998	19:00	1997	1998	22
+SG Wattenscheid 09	SpVgg Unterhaching	1:0	2:0	13.03.1998	19:00	1997	1998	22
+SC Freiburg	FC Carl Zeiss Jena	1:0	1:1	13.03.1998	19:00	1997	1998	22
+Fortuna KÃ¶ln	FC St. Pauli	0:0	1:1	14.03.1998	15:30	1997	1998	22
+Energie Cottbus	KFC Uerdingen 05	0:1	2:2	15.03.1998	15:00	1997	1998	22
+FSV Zwickau	1. FSV Mainz 05	0:0	0:0	15.03.1998	15:00	1997	1998	22
+Fortuna DÃ¼sseldorf	SpVgg Greuther FÃ¼rth	1:0	1:0	15.03.1998	15:00	1997	1998	22
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:1	0:1	16.03.1998	19:30	1997	1998	22
+Stuttgarter Kickers	SV Meppen	1:1	2:1	15.04.1998	19:00	1997	1998	22
+KFC Uerdingen 05	1. FC NÃ¼rnberg	0:1	0:3	10.03.1998	19:00	1997	1998	23
+FC St. Pauli	Fortuna DÃ¼sseldorf	2:1	3:1	20.03.1998	19:00	1997	1998	23
+1. FSV Mainz 05	Fortuna KÃ¶ln	1:0	2:2	20.03.1998	19:00	1997	1998	23
+SV Meppen	Energie Cottbus	3:0	3:1	22.03.1998	15:00	1997	1998	23
+SpVgg Greuther FÃ¼rth	SG Wattenscheid 09	0:0	0:0	22.03.1998	15:00	1997	1998	23
+SpVgg Unterhaching	Stuttgarter Kickers	0:0	2:0	22.03.1998	15:00	1997	1998	23
+Eintracht Frankfurt	SC Freiburg	1:0	2:0	23.03.1998	19:30	1997	1998	23
+FC GÃ¼tersloh	FSV Zwickau	2:0	5:0	15.04.1998	18:00	1997	1998	23
+FC Carl Zeiss Jena	VfB Leipzig	0:0	0:0	26.05.1998	19:00	1997	1998	23
+FC Carl Zeiss Jena	FC GÃ¼tersloh	1:0	2:1	27.03.1998	19:00	1997	1998	24
+VfB Leipzig	Eintracht Frankfurt	0:1	1:1	27.03.1998	19:00	1997	1998	24
+Fortuna KÃ¶ln	FSV Zwickau	3:0	5:2	28.03.1998	15:30	1997	1998	24
+SG Wattenscheid 09	FC St. Pauli	1:0	4:1	29.03.1998	15:00	1997	1998	24
+Fortuna DÃ¼sseldorf	1. FSV Mainz 05	1:0	2:0	29.03.1998	15:00	1997	1998	24
+Energie Cottbus	SpVgg Unterhaching	1:0	1:0	29.03.1998	15:00	1997	1998	24
+Stuttgarter Kickers	SpVgg Greuther FÃ¼rth	0:0	1:0	29.03.1998	15:00	1997	1998	24
+SC Freiburg	KFC Uerdingen 05	0:0	0:0	30.03.1998	19:30	1997	1998	24
+1. FC NÃ¼rnberg	SV Meppen	1:0	4:0	30.03.1998	19:30	1997	1998	24
+FSV Zwickau	Fortuna DÃ¼sseldorf	0:0	0:1	03.04.1998	19:00	1997	1998	25
+SV Meppen	SC Freiburg	0:1	0:5	03.04.1998	19:00	1997	1998	25
+Eintracht Frankfurt	FC Carl Zeiss Jena	0:2	2:2	03.04.1998	19:00	1997	1998	25
+KFC Uerdingen 05	VfB Leipzig	0:1	0:1	05.04.1998	15:00	1997	1998	25
+SpVgg Greuther FÃ¼rth	Energie Cottbus	0:0	1:0	05.04.1998	15:00	1997	1998	25
+1. FSV Mainz 05	SG Wattenscheid 09	1:0	1:3	05.04.1998	15:00	1997	1998	25
+FC St. Pauli	Stuttgarter Kickers	0:0	0:0	05.04.1998	15:00	1997	1998	25
+FC GÃ¼tersloh	Fortuna KÃ¶ln	1:0	1:0	05.04.1998	15:00	1997	1998	25
+SpVgg Unterhaching	1. FC NÃ¼rnberg	1:0	2:2	06.04.1998	19:30	1997	1998	25
+Eintracht Frankfurt	FC GÃ¼tersloh	0:0	0:0	09.04.1998	19:00	1997	1998	26
+VfB Leipzig	SV Meppen	0:0	0:0	09.04.1998	19:00	1997	1998	26
+1. FC NÃ¼rnberg	SpVgg Greuther FÃ¼rth	0:0	0:1	09.04.1998	19:00	1997	1998	26
+SG Wattenscheid 09	FSV Zwickau	1:1	2:1	11.04.1998	15:30	1997	1998	26
+FC Carl Zeiss Jena	KFC Uerdingen 05	0:0	0:3	12.04.1998	15:00	1997	1998	26
+Stuttgarter Kickers	1. FSV Mainz 05	0:1	1:2	12.04.1998	15:00	1997	1998	26
+Fortuna DÃ¼sseldorf	Fortuna KÃ¶ln	1:1	2:3	12.04.1998	15:00	1997	1998	26
+SC Freiburg	SpVgg Unterhaching	1:0	1:1	12.04.1998	15:00	1997	1998	26
+Energie Cottbus	FC St. Pauli	0:0	0:0	13.04.1998	19:30	1997	1998	26
+1. FSV Mainz 05	Energie Cottbus	0:0	0:0	17.04.1998	19:00	1997	1998	27
+SpVgg Unterhaching	VfB Leipzig	1:0	1:1	17.04.1998	19:00	1997	1998	27
+FC St. Pauli	1. FC NÃ¼rnberg	0:0	0:0	17.04.1998	19:00	1997	1998	27
+SV Meppen	FC Carl Zeiss Jena	0:1	0:2	19.04.1998	15:00	1997	1998	27
+SpVgg Greuther FÃ¼rth	SC Freiburg	0:0	1:1	19.04.1998	15:00	1997	1998	27
+FC GÃ¼tersloh	Fortuna DÃ¼sseldorf	1:0	2:1	19.04.1998	15:00	1997	1998	27
+Fortuna KÃ¶ln	SG Wattenscheid 09	1:0	3:2	19.04.1998	15:00	1997	1998	27
+FSV Zwickau	Stuttgarter Kickers	0:1	0:1	19.04.1998	15:00	1997	1998	27
+KFC Uerdingen 05	Eintracht Frankfurt	0:0	0:1	20.04.1998	19:30	1997	1998	27
+SG Wattenscheid 09	Fortuna DÃ¼sseldorf	1:0	4:0	24.04.1998	19:00	1997	1998	28
+KFC Uerdingen 05	FC GÃ¼tersloh	0:1	0:3	24.04.1998	19:00	1997	1998	28
+Stuttgarter Kickers	Fortuna KÃ¶ln	1:0	1:1	24.04.1998	19:00	1997	1998	28
+1. FC NÃ¼rnberg	1. FSV Mainz 05	0:0	1:0	26.04.1998	15:00	1997	1998	28
+Eintracht Frankfurt	SV Meppen	1:0	1:0	26.04.1998	15:00	1997	1998	28
+VfB Leipzig	SpVgg Greuther FÃ¼rth	2:0	2:0	26.04.1998	15:00	1997	1998	28
+Energie Cottbus	FSV Zwickau	2:1	2:1	26.04.1998	15:00	1997	1998	28
+SC Freiburg	FC St. Pauli	0:0	0:0	27.04.1998	19:30	1997	1998	28
+FC Carl Zeiss Jena	SpVgg Unterhaching	2:0	2:3	29.04.1998	19:00	1997	1998	28
+SV Meppen	KFC Uerdingen 05	0:0	2:3	01.05.1998	19:00	1997	1998	29
+1. FSV Mainz 05	SC Freiburg	0:0	0:1	01.05.1998	19:00	1997	1998	29
+FC St. Pauli	VfB Leipzig	1:0	1:0	01.05.1998	19:00	1997	1998	29
+Fortuna KÃ¶ln	Energie Cottbus	1:0	2:0	03.05.1998	15:00	1997	1998	29
+FC GÃ¼tersloh	SG Wattenscheid 09	0:0	0:0	03.05.1998	15:00	1997	1998	29
+Fortuna DÃ¼sseldorf	Stuttgarter Kickers	0:0	0:1	03.05.1998	15:00	1997	1998	29
+SpVgg Greuther FÃ¼rth	FC Carl Zeiss Jena	1:0	3:0	03.05.1998	15:00	1997	1998	29
+SpVgg Unterhaching	Eintracht Frankfurt	0:0	1:2	03.05.1998	15:00	1997	1998	29
+FSV Zwickau	1. FC NÃ¼rnberg	1:1	2:3	04.05.1998	19:30	1997	1998	29
+FC Carl Zeiss Jena	FC St. Pauli	0:1	1:1	08.05.1998	19:00	1997	1998	30
+Stuttgarter Kickers	SG Wattenscheid 09	1:0	2:0	08.05.1998	19:00	1997	1998	30
+SC Freiburg	FSV Zwickau	1:0	1:3	08.05.1998	19:00	1997	1998	30
+Energie Cottbus	Fortuna DÃ¼sseldorf	0:1	2:1	10.05.1998	15:00	1997	1998	30
+VfB Leipzig	1. FSV Mainz 05	0:1	1:3	10.05.1998	15:00	1997	1998	30
+1. FC NÃ¼rnberg	Fortuna KÃ¶ln	0:1	1:1	10.05.1998	15:00	1997	1998	30
+KFC Uerdingen 05	SpVgg Unterhaching	0:0	2:2	10.05.1998	15:00	1997	1998	30
+Eintracht Frankfurt	SpVgg Greuther FÃ¼rth	0:0	1:1	10.05.1998	15:00	1997	1998	30
+SV Meppen	FC GÃ¼tersloh	0:1	0:2	11.05.1998	19:30	1997	1998	30
+FSV Zwickau	VfB Leipzig	0:0	2:0	15.05.1998	19:00	1997	1998	31
+Fortuna DÃ¼sseldorf	1. FC NÃ¼rnberg	1:0	2:1	15.05.1998	19:00	1997	1998	31
+1. FSV Mainz 05	FC Carl Zeiss Jena	4:0	5:0	15.05.1998	19:00	1997	1998	31
+SpVgg Greuther FÃ¼rth	KFC Uerdingen 05	2:0	3:1	17.05.1998	15:00	1997	1998	31
+Fortuna KÃ¶ln	SC Freiburg	0:0	0:2	17.05.1998	15:00	1997	1998	31
+SG Wattenscheid 09	Energie Cottbus	0:1	0:2	17.05.1998	15:00	1997	1998	31
+SpVgg Unterhaching	SV Meppen	0:0	1:0	17.05.1998	15:00	1997	1998	31
+FC GÃ¼tersloh	Stuttgarter Kickers	0:0	1:1	17.05.1998	15:00	1997	1998	31
+FC St. Pauli	Eintracht Frankfurt	1:0	2:0	18.05.1998	19:30	1997	1998	31
+FC Carl Zeiss Jena	FSV Zwickau	1:1	2:3	20.05.1998	19:00	1997	1998	32
+KFC Uerdingen 05	FC St. Pauli	0:1	0:2	21.05.1998	19:00	1997	1998	32
+VfB Leipzig	Fortuna KÃ¶ln	1:3	1:4	21.05.1998	19:00	1997	1998	32
+1. FC NÃ¼rnberg	SG Wattenscheid 09	0:0	2:2	21.05.1998	19:00	1997	1998	32
+SV Meppen	SpVgg Greuther FÃ¼rth	0:1	2:1	21.05.1998	19:00	1997	1998	32
+SC Freiburg	Fortuna DÃ¼sseldorf	2:0	2:0	22.05.1998	19:00	1997	1998	32
+FC GÃ¼tersloh	SpVgg Unterhaching	0:0	0:0	22.05.1998	19:00	1997	1998	32
+Stuttgarter Kickers	Energie Cottbus	2:0	2:1	24.05.1998	15:00	1997	1998	32
+Eintracht Frankfurt	1. FSV Mainz 05	2:0	2:2	25.05.1998	19:30	1997	1998	32
+1. FSV Mainz 05	KFC Uerdingen 05	0:1	2:1	03.06.1998	19:00	1997	1998	33
+SG Wattenscheid 09	SC Freiburg	1:2	1:4	03.06.1998	19:00	1997	1998	33
+Fortuna DÃ¼sseldorf	VfB Leipzig	0:0	2:0	03.06.1998	19:00	1997	1998	33
+Energie Cottbus	FC GÃ¼tersloh	0:1	2:2	03.06.1998	19:00	1997	1998	33
+FC St. Pauli	SV Meppen	0:0	3:1	03.06.1998	19:00	1997	1998	33
+SpVgg Greuther FÃ¼rth	SpVgg Unterhaching	0:0	0:0	03.06.1998	19:00	1997	1998	33
+Stuttgarter Kickers	1. FC NÃ¼rnberg	0:1	1:1	03.06.1998	19:00	1997	1998	33
+Fortuna KÃ¶ln	FC Carl Zeiss Jena	0:1	0:3	03.06.1998	19:00	1997	1998	33
+FSV Zwickau	Eintracht Frankfurt	1:1	1:1	03.06.1998	19:00	1997	1998	33
+FC Carl Zeiss Jena	Fortuna DÃ¼sseldorf	3:1	3:4	07.06.1998	15:00	1997	1998	34
+SpVgg Unterhaching	FC St. Pauli	0:1	1:4	07.06.1998	15:00	1997	1998	34
+SV Meppen	1. FSV Mainz 05	0:1	0:3	07.06.1998	15:00	1997	1998	34
+Eintracht Frankfurt	Fortuna KÃ¶ln	0:0	4:2	07.06.1998	15:00	1997	1998	34
+VfB Leipzig	SG Wattenscheid 09	0:0	0:0	07.06.1998	15:00	1997	1998	34
+SC Freiburg	Stuttgarter Kickers	2:1	2:1	07.06.1998	15:00	1997	1998	34
+FC GÃ¼tersloh	SpVgg Greuther FÃ¼rth	0:1	1:1	07.06.1998	15:00	1997	1998	34
+1. FC NÃ¼rnberg	Energie Cottbus	1:1	3:3	07.06.1998	15:00	1997	1998	34
+KFC Uerdingen 05	FSV Zwickau	1:0	2:2	07.06.1998	15:00	1997	1998	34

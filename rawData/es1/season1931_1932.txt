@@ -1,0 +1,90 @@
+Real Madrid	Athletic Bilbao	1:1	1:1	22.11.1931	00:00	1931	1932	1
+Espanyol Barcelona	Valencia CF	1:0	3:0	22.11.1931	00:00	1931	1932	1
+Arenas de Getxo	Donostia FC	0:0	2:1	22.11.1931	00:00	1931	1932	1
+CD AlavÃ©s	Racing Santander	0:0	1:2	22.11.1931	00:00	1931	1932	1
+Real UniÃ³n	FC Barcelona	1:2	1:3	22.11.1931	00:00	1931	1932	1
+Donostia FC	Real Madrid	1:1	1:2	29.11.1931	00:00	1931	1932	2
+Racing Santander	Espanyol Barcelona	0:1	2:1	29.11.1931	00:00	1931	1932	2
+FC Barcelona	Arenas de Getxo	2:2	2:2	29.11.1931	00:00	1931	1932	2
+Athletic Bilbao	CD AlavÃ©s	2:0	3:2	29.11.1931	00:00	1931	1932	2
+Valencia CF	Real UniÃ³n	3:0	5:1	29.11.1931	00:00	1931	1932	2
+Valencia CF	Real Madrid	0:1	1:1	20.12.1931	00:00	1931	1932	3
+Arenas de Getxo	Racing Santander	0:1	3:1	20.12.1931	00:00	1931	1932	3
+CD AlavÃ©s	Donostia FC	0:2	1:2	20.12.1931	00:00	1931	1932	3
+Espanyol Barcelona	FC Barcelona	0:0	0:3	20.12.1931	00:00	1931	1932	3
+Real UniÃ³n	Athletic Bilbao	0:2	1:5	20.12.1931	00:00	1931	1932	3
+Athletic Bilbao	FC Barcelona	1:0	3:0	27.12.1931	00:00	1931	1932	4
+Donostia FC	Valencia CF	6:1	7:1	27.12.1931	00:00	1931	1932	4
+Espanyol Barcelona	Arenas de Getxo	1:1	4:2	27.12.1931	00:00	1931	1932	4
+Real Madrid	CD AlavÃ©s	3:0	5:0	27.12.1931	00:00	1931	1932	4
+Racing Santander	Real UniÃ³n	2:0	2:2	27.12.1931	00:00	1931	1932	4
+Valencia CF	Athletic Bilbao	0:0	0:0	03.01.1932	00:00	1931	1932	5
+Arenas de Getxo	Real Madrid	2:2	2:2	03.01.1932	00:00	1931	1932	5
+Donostia FC	Real UniÃ³n	3:0	5:0	03.01.1932	00:00	1931	1932	5
+FC Barcelona	Racing Santander	2:1	4:2	03.01.1932	00:00	1931	1932	5
+CD AlavÃ©s	Espanyol Barcelona	3:1	4:1	06.01.1932	00:00	1931	1932	5
+Real Madrid	Espanyol Barcelona	1:0	3:0	10.01.1932	00:00	1931	1932	6
+Racing Santander	Valencia CF	2:0	4:1	10.01.1932	00:00	1931	1932	6
+Athletic Bilbao	Donostia FC	5:1	5:1	10.01.1932	00:00	1931	1932	6
+Real UniÃ³n	Arenas de Getxo	0:0	1:0	10.01.1932	00:00	1931	1932	6
+FC Barcelona	CD AlavÃ©s	1:0	6:0	10.01.1932	00:00	1931	1932	6
+Donostia FC	Racing Santander	0:2	1:5	17.01.1932	00:00	1931	1932	7
+Arenas de Getxo	CD AlavÃ©s	3:1	4:2	17.01.1932	00:00	1931	1932	7
+Espanyol Barcelona	Athletic Bilbao	1:0	1:0	17.01.1932	00:00	1931	1932	7
+Valencia CF	FC Barcelona	0:0	0:0	17.01.1932	00:00	1931	1932	7
+Real Madrid	Real UniÃ³n	2:0	3:2	17.01.1932	00:00	1931	1932	7
+Racing Santander	Real Madrid	0:0	0:0	24.01.1932	00:00	1931	1932	8
+Real UniÃ³n	Espanyol Barcelona	1:0	4:1	24.01.1932	00:00	1931	1932	8
+CD AlavÃ©s	Valencia CF	0:0	2:1	24.01.1932	00:00	1931	1932	8
+FC Barcelona	Donostia FC	1:0	2:0	24.01.1932	00:00	1931	1932	8
+Athletic Bilbao	Arenas de Getxo	3:1	4:1	24.01.1932	00:00	1931	1932	8
+Real UniÃ³n	CD AlavÃ©s	0:1	0:2	31.01.1932	00:00	1931	1932	9
+Real Madrid	FC Barcelona	2:0	2:0	31.01.1932	00:00	1931	1932	9
+Espanyol Barcelona	Donostia FC	1:0	2:0	31.01.1932	00:00	1931	1932	9
+Athletic Bilbao	Racing Santander	1:1	3:2	31.01.1932	00:00	1931	1932	9
+Valencia CF	Arenas de Getxo	0:2	3:2	31.01.1932	00:00	1931	1932	9
+Valencia CF	Espanyol Barcelona	2:1	3:1	07.02.1932	00:00	1931	1932	10
+Donostia FC	Arenas de Getxo	2:0	7:0	07.02.1932	00:00	1931	1932	10
+Racing Santander	CD AlavÃ©s	1:1	1:1	07.02.1932	00:00	1931	1932	10
+FC Barcelona	Real UniÃ³n	1:1	3:2	07.02.1932	00:00	1931	1932	10
+Athletic Bilbao	Real Madrid	2:2	3:3	07.02.1932	00:00	1931	1932	10
+Arenas de Getxo	FC Barcelona	0:2	1:3	14.02.1932	00:00	1931	1932	11
+CD AlavÃ©s	Athletic Bilbao	0:1	0:1	14.02.1932	00:00	1931	1932	11
+Real Madrid	Donostia FC	1:0	1:0	14.02.1932	00:00	1931	1932	11
+Real UniÃ³n	Valencia CF	2:0	3:2	16.02.1932	00:00	1931	1932	11
+Espanyol Barcelona	Racing Santander	1:1	6:1	16.02.1932	00:00	1931	1932	11
+FC Barcelona	Espanyol Barcelona	1:1	2:2	21.02.1932	00:00	1931	1932	12
+Athletic Bilbao	Real UniÃ³n	0:1	2:1	21.02.1932	00:00	1931	1932	12
+Donostia FC	CD AlavÃ©s	2:0	4:1	21.02.1932	00:00	1931	1932	12
+Real Madrid	Valencia CF	1:0	4:1	21.02.1932	00:00	1931	1932	12
+Racing Santander	Arenas de Getxo	0:1	1:1	21.02.1932	00:00	1931	1932	12
+CD AlavÃ©s	Real Madrid	0:1	0:1	28.02.1932	00:00	1931	1932	13
+FC Barcelona	Athletic Bilbao	1:2	1:3	28.02.1932	00:00	1931	1932	13
+Arenas de Getxo	Espanyol Barcelona	1:2	3:2	28.02.1932	00:00	1931	1932	13
+Valencia CF	Donostia FC	2:0	4:0	28.02.1932	00:00	1931	1932	13
+Real UniÃ³n	Racing Santander	1:0	2:2	28.02.1932	00:00	1931	1932	13
+Athletic Bilbao	Valencia CF	3:2	7:2	06.03.1932	00:00	1931	1932	14
+Espanyol Barcelona	CD AlavÃ©s	2:0	4:0	06.03.1932	00:00	1931	1932	14
+Real Madrid	Arenas de Getxo	2:0	4:0	06.03.1932	00:00	1931	1932	14
+Racing Santander	FC Barcelona	1:0	3:2	06.03.1932	00:00	1931	1932	14
+Real UniÃ³n	Donostia FC	1:0	2:0	06.03.1932	00:00	1931	1932	14
+Espanyol Barcelona	Real Madrid	0:1	1:2	13.03.1932	00:00	1931	1932	15
+CD AlavÃ©s	FC Barcelona	1:2	1:3	13.03.1932	00:00	1931	1932	15
+Donostia FC	Athletic Bilbao	2:1	3:2	13.03.1932	00:00	1931	1932	15
+Valencia CF	Racing Santander	3:1	6:4	13.03.1932	00:00	1931	1932	15
+Arenas de Getxo	Real UniÃ³n	4:0	5:0	13.03.1932	00:00	1931	1932	15
+FC Barcelona	Valencia CF	3:2	3:2	20.03.1932	00:00	1931	1932	16
+Racing Santander	Donostia FC	2:1	2:1	20.03.1932	00:00	1931	1932	16
+Athletic Bilbao	Espanyol Barcelona	2:0	4:0	20.03.1932	00:00	1931	1932	16
+Real UniÃ³n	Real Madrid	0:1	1:1	20.03.1932	00:00	1931	1932	16
+CD AlavÃ©s	Arenas de Getxo	1:0	3:1	20.03.1932	00:00	1931	1932	16
+Donostia FC	FC Barcelona	0:0	0:1	27.03.1932	00:00	1931	1932	17
+Arenas de Getxo	Athletic Bilbao	0:0	2:1	27.03.1932	00:00	1931	1932	17
+Real Madrid	Racing Santander	0:0	0:0	27.03.1932	00:00	1931	1932	17
+Valencia CF	CD AlavÃ©s	4:1	5:1	27.03.1932	00:00	1931	1932	17
+Espanyol Barcelona	Real UniÃ³n	0:1	3:1	27.03.1932	00:00	1931	1932	17
+CD AlavÃ©s	Real UniÃ³n	0:0	1:0	03.04.1932	00:00	1931	1932	18
+FC Barcelona	Real Madrid	1:1	2:2	03.04.1932	00:00	1931	1932	18
+Racing Santander	Athletic Bilbao	0:0	2:0	03.04.1932	00:00	1931	1932	18
+Donostia FC	Espanyol Barcelona	2:2	5:2	03.04.1932	00:00	1931	1932	18
+Arenas de Getxo	Valencia CF	3:0	4:1	03.04.1932	00:00	1931	1932	18

@@ -1,0 +1,306 @@
+Boavista	SC Beira-Mar	1:0	3:0	10.08.2001	00:00	2001	2002	1
+Varzim SC	SL Benfica	0:1	2:2	11.08.2001	00:00	2001	2002	1
+Sporting Braga	UniÃ£o Leiria	0:0	0:0	11.08.2001	00:00	2001	2002	1
+VitÃ³ria GuimarÃ£es	Gil Vicente	0:1	0:2	12.08.2001	00:00	2001	2002	1
+Sporting CP	FC Porto	0:0	1:0	12.08.2001	00:00	2001	2002	1
+SC Salgueiros	SC Farense	0:1	0:2	12.08.2001	00:00	2001	2002	1
+PaÃ§os de Ferreira	Os Belenenses	0:0	3:1	12.08.2001	00:00	2001	2002	1
+CS MarÃ­timo	VitÃ³ria SetÃºbal	2:0	3:1	13.08.2001	00:00	2001	2002	1
+CD Santa Clara	FC Alverca	0:1	2:1	02.09.2001	00:00	2001	2002	1
+Gil Vicente	Sporting Braga	2:1	2:1	18.08.2001	00:00	2001	2002	2
+Os Belenenses	Sporting CP	2:0	3:0	18.08.2001	00:00	2001	2002	2
+VitÃ³ria SetÃºbal	Varzim SC	0:0	2:0	19.08.2001	00:00	2001	2002	2
+UniÃ£o Leiria	CD Santa Clara	2:1	2:2	19.08.2001	00:00	2001	2002	2
+FC Porto	Boavista	1:0	4:1	19.08.2001	00:00	2001	2002	2
+SL Benfica	SC Salgueiros	0:0	2:0	19.08.2001	00:00	2001	2002	2
+SC Beira-Mar	CS MarÃ­timo	2:0	2:0	19.08.2001	00:00	2001	2002	2
+FC Alverca	PaÃ§os de Ferreira	1:0	1:0	19.08.2001	00:00	2001	2002	2
+SC Farense	VitÃ³ria GuimarÃ£es	0:1	0:1	20.08.2001	00:00	2001	2002	2
+Sporting CP	FC Alverca	0:0	0:1	25.08.2001	00:00	2001	2002	3
+CD Santa Clara	Gil Vicente	0:0	0:0	25.08.2001	00:00	2001	2002	3
+SL Benfica	VitÃ³ria SetÃºbal	2:1	3:2	25.08.2001	00:00	2001	2002	3
+Varzim SC	SC Beira-Mar	1:1	1:1	26.08.2001	00:00	2001	2002	3
+PaÃ§os de Ferreira	UniÃ£o Leiria	0:1	1:2	26.08.2001	00:00	2001	2002	3
+Sporting Braga	SC Farense	2:0	4:0	26.08.2001	00:00	2001	2002	3
+Boavista	Os Belenenses	0:0	2:0	26.08.2001	00:00	2001	2002	3
+SC Salgueiros	VitÃ³ria GuimarÃ£es	0:1	1:3	27.08.2001	00:00	2001	2002	3
+CS MarÃ­timo	FC Porto	1:2	1:3	27.08.2001	00:00	2001	2002	3
+FC Alverca	Boavista	0:1	1:2	07.09.2001	00:00	2001	2002	4
+UniÃ£o Leiria	Sporting CP	0:0	1:1	08.09.2001	00:00	2001	2002	4
+Os Belenenses	CS MarÃ­timo	0:0	0:1	08.09.2001	00:00	2001	2002	4
+VitÃ³ria SetÃºbal	SC Salgueiros	1:0	3:0	09.09.2001	00:00	2001	2002	4
+FC Porto	Varzim SC	0:0	3:0	09.09.2001	00:00	2001	2002	4
+Gil Vicente	PaÃ§os de Ferreira	1:0	1:1	09.09.2001	00:00	2001	2002	4
+SC Farense	CD Santa Clara	0:0	1:0	09.09.2001	00:00	2001	2002	4
+SC Beira-Mar	SL Benfica	1:2	3:3	09.09.2001	00:00	2001	2002	4
+VitÃ³ria GuimarÃ£es	Sporting Braga	1:1	2:1	10.09.2001	00:00	2001	2002	4
+Varzim SC	Os Belenenses	0:3	1:5	14.09.2001	00:00	2001	2002	5
+Boavista	UniÃ£o Leiria	0:0	1:0	15.09.2001	00:00	2001	2002	5
+SL Benfica	FC Porto	0:0	0:0	15.09.2001	00:00	2001	2002	5
+VitÃ³ria SetÃºbal	SC Beira-Mar	2:0	4:1	16.09.2001	00:00	2001	2002	5
+Sporting CP	Gil Vicente	1:0	3:1	16.09.2001	00:00	2001	2002	5
+CD Santa Clara	VitÃ³ria GuimarÃ£es	1:0	2:0	16.09.2001	00:00	2001	2002	5
+SC Salgueiros	Sporting Braga	0:0	1:0	16.09.2001	00:00	2001	2002	5
+PaÃ§os de Ferreira	SC Farense	0:1	1:1	16.09.2001	00:00	2001	2002	5
+CS MarÃ­timo	FC Alverca	2:0	5:0	17.09.2001	00:00	2001	2002	5
+Sporting Braga	CD Santa Clara	1:0	6:0	21.09.2001	00:00	2001	2002	6
+FC Porto	VitÃ³ria SetÃºbal	0:0	3:0	22.09.2001	00:00	2001	2002	6
+Gil Vicente	Boavista	0:3	0:3	22.09.2001	00:00	2001	2002	6
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	0:1	1:1	23.09.2001	00:00	2001	2002	6
+UniÃ£o Leiria	CS MarÃ­timo	1:0	2:0	23.09.2001	00:00	2001	2002	6
+SC Farense	Sporting CP	1:1	1:3	23.09.2001	00:00	2001	2002	6
+Os Belenenses	SL Benfica	0:0	1:1	23.09.2001	00:00	2001	2002	6
+SC Beira-Mar	SC Salgueiros	1:1	1:1	23.09.2001	00:00	2001	2002	6
+FC Alverca	Varzim SC	2:1	4:2	23.09.2001	00:00	2001	2002	6
+VitÃ³ria SetÃºbal	Os Belenenses	0:1	0:1	28.09.2001	00:00	2001	2002	7
+PaÃ§os de Ferreira	Sporting Braga	0:0	0:0	29.09.2001	00:00	2001	2002	7
+SC Beira-Mar	FC Porto	1:0	2:0	29.09.2001	00:00	2001	2002	7
+Varzim SC	UniÃ£o Leiria	0:0	2:0	30.09.2001	00:00	2001	2002	7
+SC Salgueiros	CD Santa Clara	1:0	2:1	30.09.2001	00:00	2001	2002	7
+Boavista	SC Farense	0:0	1:1	30.09.2001	00:00	2001	2002	7
+SL Benfica	FC Alverca	2:1	3:2	30.09.2001	00:00	2001	2002	7
+CS MarÃ­timo	Gil Vicente	2:0	2:1	01.10.2001	00:00	2001	2002	7
+Sporting CP	VitÃ³ria GuimarÃ£es	2:0	5:0	01.10.2001	00:00	2001	2002	7
+VitÃ³ria GuimarÃ£es	Boavista	2:0	2:0	12.10.2001	00:00	2001	2002	8
+UniÃ£o Leiria	SL Benfica	1:0	1:1	13.10.2001	00:00	2001	2002	8
+CD Santa Clara	PaÃ§os de Ferreira	0:0	1:1	13.10.2001	00:00	2001	2002	8
+FC Porto	SC Salgueiros	2:0	3:0	13.10.2001	00:00	2001	2002	8
+Sporting Braga	Sporting CP	0:0	2:1	13.10.2001	00:00	2001	2002	8
+Gil Vicente	Varzim SC	1:0	1:0	14.10.2001	00:00	2001	2002	8
+SC Farense	CS MarÃ­timo	1:0	2:1	14.10.2001	00:00	2001	2002	8
+FC Alverca	VitÃ³ria SetÃºbal	0:1	1:1	14.10.2001	00:00	2001	2002	8
+Os Belenenses	SC Beira-Mar	0:2	1:5	15.10.2001	00:00	2001	2002	8
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	0:0	2:0	19.10.2001	00:00	2001	2002	9
+FC Porto	Os Belenenses	0:1	1:2	20.10.2001	00:00	2001	2002	9
+Boavista	Sporting Braga	1:0	3:0	20.10.2001	00:00	2001	2002	9
+SL Benfica	Gil Vicente	0:0	2:0	20.10.2001	00:00	2001	2002	9
+VitÃ³ria SetÃºbal	UniÃ£o Leiria	1:1	1:1	21.10.2001	00:00	2001	2002	9
+Varzim SC	SC Farense	1:0	2:0	21.10.2001	00:00	2001	2002	9
+SC Salgueiros	PaÃ§os de Ferreira	2:0	3:2	21.10.2001	00:00	2001	2002	9
+SC Beira-Mar	FC Alverca	0:1	6:2	21.10.2001	00:00	2001	2002	9
+Sporting CP	CD Santa Clara	0:0	0:0	22.10.2001	00:00	2001	2002	9
+CD Santa Clara	Boavista	0:1	0:2	07.10.2001	00:00	2001	2002	10
+SC Farense	SL Benfica	0:1	0:2	26.10.2001	00:00	2001	2002	10
+VitÃ³ria GuimarÃ£es	Varzim SC	2:0	4:0	27.10.2001	00:00	2001	2002	10
+PaÃ§os de Ferreira	Sporting CP	0:4	0:6	27.10.2001	00:00	2001	2002	10
+Sporting Braga	CS MarÃ­timo	1:0	1:0	27.10.2001	00:00	2001	2002	10
+UniÃ£o Leiria	SC Beira-Mar	1:1	4:1	28.10.2001	00:00	2001	2002	10
+Gil Vicente	VitÃ³ria SetÃºbal	2:0	2:1	28.10.2001	00:00	2001	2002	10
+FC Alverca	FC Porto	0:0	0:1	28.10.2001	00:00	2001	2002	10
+Os Belenenses	SC Salgueiros	0:0	1:0	29.10.2001	00:00	2001	2002	10
+Varzim SC	Sporting Braga	0:0	0:0	02.11.2001	00:00	2001	2002	11
+VitÃ³ria SetÃºbal	SC Farense	1:0	2:0	03.11.2001	00:00	2001	2002	11
+SL Benfica	VitÃ³ria GuimarÃ£es	0:0	0:0	03.11.2001	00:00	2001	2002	11
+FC Porto	UniÃ£o Leiria	0:1	2:1	04.11.2001	00:00	2001	2002	11
+CS MarÃ­timo	CD Santa Clara	1:0	1:0	04.11.2001	00:00	2001	2002	11
+Os Belenenses	FC Alverca	0:1	1:1	04.11.2001	00:00	2001	2002	11
+SC Beira-Mar	Gil Vicente	1:1	2:2	04.11.2001	00:00	2001	2002	11
+SC Salgueiros	Sporting CP	1:1	1:5	05.11.2001	00:00	2001	2002	11
+Boavista	PaÃ§os de Ferreira	1:0	5:0	06.11.2001	00:00	2001	2002	11
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	0:0	0:0	23.11.2001	00:00	2001	2002	12
+Sporting Braga	SL Benfica	0:0	0:1	24.11.2001	00:00	2001	2002	12
+FC Alverca	SC Salgueiros	1:0	1:2	24.11.2001	00:00	2001	2002	12
+UniÃ£o Leiria	Os Belenenses	1:0	3:0	25.11.2001	00:00	2001	2002	12
+CD Santa Clara	Varzim SC	1:0	1:0	25.11.2001	00:00	2001	2002	12
+PaÃ§os de Ferreira	CS MarÃ­timo	0:0	2:1	25.11.2001	00:00	2001	2002	12
+Gil Vicente	FC Porto	0:3	2:5	25.11.2001	00:00	2001	2002	12
+SC Farense	SC Beira-Mar	1:0	1:0	25.11.2001	00:00	2001	2002	12
+Sporting CP	Boavista	1:0	2:0	26.11.2001	00:00	2001	2002	12
+FC Porto	SC Farense	2:0	2:0	30.11.2001	00:00	2001	2002	13
+SC Salgueiros	Boavista	0:1	1:1	01.12.2001	00:00	2001	2002	13
+CS MarÃ­timo	Sporting CP	0:0	0:2	01.12.2001	00:00	2001	2002	13
+Varzim SC	PaÃ§os de Ferreira	0:2	0:3	02.12.2001	00:00	2001	2002	13
+SL Benfica	CD Santa Clara	2:1	2:1	02.12.2001	00:00	2001	2002	13
+Os Belenenses	Gil Vicente	0:0	1:0	02.12.2001	00:00	2001	2002	13
+SC Beira-Mar	VitÃ³ria GuimarÃ£es	0:0	0:0	02.12.2001	00:00	2001	2002	13
+FC Alverca	UniÃ£o Leiria	0:0	1:1	02.12.2001	00:00	2001	2002	13
+VitÃ³ria SetÃºbal	Sporting Braga	0:0	0:0	03.12.2001	00:00	2001	2002	13
+SC Farense	Os Belenenses	0:0	2:2	07.12.2001	00:00	2001	2002	14
+VitÃ³ria GuimarÃ£es	FC Porto	2:0	2:0	08.12.2001	00:00	2001	2002	14
+PaÃ§os de Ferreira	SL Benfica	2:1	2:1	08.12.2001	00:00	2001	2002	14
+Sporting Braga	SC Beira-Mar	1:1	3:2	08.12.2001	00:00	2001	2002	14
+UniÃ£o Leiria	SC Salgueiros	3:0	7:0	09.12.2001	00:00	2001	2002	14
+Sporting CP	Varzim SC	4:0	4:0	09.12.2001	00:00	2001	2002	14
+CD Santa Clara	VitÃ³ria SetÃºbal	1:0	1:0	09.12.2001	00:00	2001	2002	14
+Boavista	CS MarÃ­timo	0:1	0:1	09.12.2001	00:00	2001	2002	14
+Gil Vicente	FC Alverca	0:2	2:2	03.04.2002	00:00	2001	2002	14
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	0:1	1:3	15.12.2001	00:00	2001	2002	15
+Varzim SC	Boavista	0:1	0:2	15.12.2001	00:00	2001	2002	15
+UniÃ£o Leiria	Gil Vicente	1:0	2:1	15.12.2001	00:00	2001	2002	15
+SC Salgueiros	CS MarÃ­timo	0:1	2:1	15.12.2001	00:00	2001	2002	15
+FC Porto	Sporting Braga	0:0	0:0	15.12.2001	00:00	2001	2002	15
+SL Benfica	Sporting CP	1:0	2:2	15.12.2001	00:00	2001	2002	15
+Os Belenenses	VitÃ³ria GuimarÃ£es	2:0	2:1	15.12.2001	00:00	2001	2002	15
+SC Beira-Mar	CD Santa Clara	0:0	0:1	15.12.2001	00:00	2001	2002	15
+FC Alverca	SC Farense	1:0	1:0	15.12.2001	00:00	2001	2002	15
+VitÃ³ria GuimarÃ£es	FC Alverca	1:0	2:0	22.12.2001	00:00	2001	2002	16
+Sporting CP	VitÃ³ria SetÃºbal	0:0	1:0	22.12.2001	00:00	2001	2002	16
+CD Santa Clara	FC Porto	1:0	2:1	22.12.2001	00:00	2001	2002	16
+SC Salgueiros	Gil Vicente	0:0	3:0	22.12.2001	00:00	2001	2002	16
+PaÃ§os de Ferreira	SC Beira-Mar	0:0	0:0	22.12.2001	00:00	2001	2002	16
+CS MarÃ­timo	Varzim SC	0:1	1:1	22.12.2001	00:00	2001	2002	16
+SC Farense	UniÃ£o Leiria	0:0	0:1	22.12.2001	00:00	2001	2002	16
+Sporting Braga	Os Belenenses	2:0	2:3	22.12.2001	00:00	2001	2002	16
+Boavista	SL Benfica	1:0	1:0	23.12.2001	00:00	2001	2002	16
+FC Alverca	Sporting Braga	0:1	0:3	04.01.2002	00:00	2001	2002	17
+Varzim SC	SC Salgueiros	0:0	0:0	05.01.2002	00:00	2001	2002	17
+UniÃ£o Leiria	VitÃ³ria GuimarÃ£es	1:0	2:1	05.01.2002	00:00	2001	2002	17
+FC Porto	PaÃ§os de Ferreira	1:0	1:0	05.01.2002	00:00	2001	2002	17
+Gil Vicente	SC Farense	0:1	3:1	05.01.2002	00:00	2001	2002	17
+SL Benfica	CS MarÃ­timo	1:1	1:1	05.01.2002	00:00	2001	2002	17
+Os Belenenses	CD Santa Clara	0:1	1:1	05.01.2002	00:00	2001	2002	17
+SC Beira-Mar	Sporting CP	0:1	1:2	05.01.2002	00:00	2001	2002	17
+VitÃ³ria SetÃºbal	Boavista	0:0	1:1	07.01.2002	00:00	2001	2002	17
+Gil Vicente	VitÃ³ria GuimarÃ£es	2:1	2:1	11.01.2002	00:00	2001	2002	18
+FC Porto	Sporting CP	1:2	2:2	12.01.2002	00:00	2001	2002	18
+SC Farense	SC Salgueiros	0:1	2:1	12.01.2002	00:00	2001	2002	18
+SL Benfica	Varzim SC	0:2	3:2	12.01.2002	00:00	2001	2002	18
+VitÃ³ria SetÃºbal	CS MarÃ­timo	0:0	0:1	13.01.2002	00:00	2001	2002	18
+UniÃ£o Leiria	Sporting Braga	2:0	3:1	13.01.2002	00:00	2001	2002	18
+Os Belenenses	PaÃ§os de Ferreira	0:2	1:2	13.01.2002	00:00	2001	2002	18
+FC Alverca	CD Santa Clara	0:1	3:1	13.01.2002	00:00	2001	2002	18
+SC Beira-Mar	Boavista	0:0	0:3	14.01.2002	00:00	2001	2002	18
+VitÃ³ria GuimarÃ£es	SC Farense	1:1	3:1	18.01.2002	00:00	2001	2002	19
+SC Salgueiros	SL Benfica	1:1	1:4	19.01.2002	00:00	2001	2002	19
+Varzim SC	VitÃ³ria SetÃºbal	1:1	2:1	20.01.2002	00:00	2001	2002	19
+Sporting CP	Os Belenenses	1:0	2:0	20.01.2002	00:00	2001	2002	19
+CD Santa Clara	UniÃ£o Leiria	0:0	1:1	20.01.2002	00:00	2001	2002	19
+PaÃ§os de Ferreira	FC Alverca	1:0	2:2	20.01.2002	00:00	2001	2002	19
+CS MarÃ­timo	SC Beira-Mar	2:0	3:1	20.01.2002	00:00	2001	2002	19
+Boavista	FC Porto	1:0	2:0	20.01.2002	00:00	2001	2002	19
+Sporting Braga	Gil Vicente	1:0	1:0	21.01.2002	00:00	2001	2002	19
+VitÃ³ria GuimarÃ£es	SC Salgueiros	2:0	3:0	26.01.2002	00:00	2001	2002	20
+FC Porto	CS MarÃ­timo	2:0	2:1	26.01.2002	00:00	2001	2002	20
+FC Alverca	Sporting CP	0:1	1:3	26.01.2002	00:00	2001	2002	20
+VitÃ³ria SetÃºbal	SL Benfica	0:1	1:1	27.01.2002	00:00	2001	2002	20
+UniÃ£o Leiria	PaÃ§os de Ferreira	1:0	2:1	27.01.2002	00:00	2001	2002	20
+Gil Vicente	CD Santa Clara	0:3	1:3	27.01.2002	00:00	2001	2002	20
+SC Farense	Sporting Braga	2:0	2:2	27.01.2002	00:00	2001	2002	20
+Os Belenenses	Boavista	0:1	0:2	27.01.2002	00:00	2001	2002	20
+SC Beira-Mar	Varzim SC	1:0	4:0	27.01.2002	00:00	2001	2002	20
+Boavista	FC Alverca	0:0	2:0	01.02.2002	00:00	2001	2002	21
+Sporting CP	UniÃ£o Leiria	3:0	4:1	02.02.2002	00:00	2001	2002	21
+Sporting Braga	VitÃ³ria GuimarÃ£es	0:0	0:0	02.02.2002	00:00	2001	2002	21
+Varzim SC	FC Porto	0:0	0:1	03.02.2002	00:00	2001	2002	21
+CD Santa Clara	SC Farense	0:0	2:0	03.02.2002	00:00	2001	2002	21
+SC Salgueiros	VitÃ³ria SetÃºbal	0:1	0:2	03.02.2002	00:00	2001	2002	21
+PaÃ§os de Ferreira	Gil Vicente	2:0	2:0	03.02.2002	00:00	2001	2002	21
+CS MarÃ­timo	Os Belenenses	0:1	0:2	03.02.2002	00:00	2001	2002	21
+SL Benfica	SC Beira-Mar	1:1	4:1	03.02.2002	00:00	2001	2002	21
+VitÃ³ria GuimarÃ£es	CD Santa Clara	0:0	1:0	08.02.2002	00:00	2001	2002	22
+UniÃ£o Leiria	Boavista	0:0	0:1	09.02.2002	00:00	2001	2002	22
+Sporting Braga	SC Salgueiros	0:0	0:0	09.02.2002	00:00	2001	2002	22
+Os Belenenses	Varzim SC	2:0	3:2	09.02.2002	00:00	2001	2002	22
+SC Beira-Mar	VitÃ³ria SetÃºbal	0:0	1:0	09.02.2002	00:00	2001	2002	22
+FC Alverca	CS MarÃ­timo	0:0	0:2	09.02.2002	00:00	2001	2002	22
+FC Porto	SL Benfica	1:1	3:2	10.02.2002	00:00	2001	2002	22
+Gil Vicente	Sporting CP	0:1	1:1	10.02.2002	00:00	2001	2002	22
+SC Farense	PaÃ§os de Ferreira	1:1	1:1	10.02.2002	00:00	2001	2002	22
+VitÃ³ria SetÃºbal	FC Porto	0:1	1:4	16.02.2002	00:00	2001	2002	23
+Boavista	Gil Vicente	0:0	0:0	16.02.2002	00:00	2001	2002	23
+Varzim SC	FC Alverca	0:0	1:0	17.02.2002	00:00	2001	2002	23
+Sporting CP	SC Farense	1:0	1:0	17.02.2002	00:00	2001	2002	23
+CD Santa Clara	Sporting Braga	0:0	1:0	17.02.2002	00:00	2001	2002	23
+SC Salgueiros	SC Beira-Mar	0:0	1:1	17.02.2002	00:00	2001	2002	23
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	0:0	0:0	17.02.2002	00:00	2001	2002	23
+SL Benfica	Os Belenenses	1:1	2:1	17.02.2002	00:00	2001	2002	23
+CS MarÃ­timo	UniÃ£o Leiria	1:0	3:0	18.02.2002	00:00	2001	2002	23
+VitÃ³ria GuimarÃ£es	Sporting CP	0:1	0:1	22.02.2002	00:00	2001	2002	24
+FC Porto	SC Beira-Mar	1:1	2:3	23.02.2002	00:00	2001	2002	24
+SC Farense	Boavista	1:0	1:2	23.02.2002	00:00	2001	2002	24
+UniÃ£o Leiria	Varzim SC	0:0	0:1	24.02.2002	00:00	2001	2002	24
+CD Santa Clara	SC Salgueiros	0:1	1:1	24.02.2002	00:00	2001	2002	24
+Gil Vicente	CS MarÃ­timo	1:0	1:1	24.02.2002	00:00	2001	2002	24
+FC Alverca	SL Benfica	0:0	1:3	24.02.2002	00:00	2001	2002	24
+Sporting Braga	PaÃ§os de Ferreira	1:0	1:0	25.02.2002	00:00	2001	2002	24
+Os Belenenses	VitÃ³ria SetÃºbal	1:0	1:1	25.02.2002	00:00	2001	2002	24
+Sporting CP	Sporting Braga	2:2	2:2	02.03.2002	00:00	2001	2002	25
+SL Benfica	UniÃ£o Leiria	0:1	0:2	02.03.2002	00:00	2001	2002	25
+VitÃ³ria SetÃºbal	FC Alverca	0:0	2:1	03.03.2002	00:00	2001	2002	25
+Varzim SC	Gil Vicente	0:0	2:0	03.03.2002	00:00	2001	2002	25
+SC Salgueiros	FC Porto	0:2	0:3	03.03.2002	00:00	2001	2002	25
+PaÃ§os de Ferreira	CD Santa Clara	1:0	2:1	03.03.2002	00:00	2001	2002	25
+CS MarÃ­timo	SC Farense	0:0	1:0	03.03.2002	00:00	2001	2002	25
+Boavista	VitÃ³ria GuimarÃ£es	0:0	0:0	03.03.2002	00:00	2001	2002	25
+SC Beira-Mar	Os Belenenses	0:0	0:3	04.03.2002	00:00	2001	2002	25
+Os Belenenses	FC Porto	1:0	3:0	08.03.2002	00:00	2001	2002	26
+Gil Vicente	SL Benfica	0:2	0:2	09.03.2002	00:00	2001	2002	26
+Sporting Braga	Boavista	0:1	0:2	09.03.2002	00:00	2001	2002	26
+UniÃ£o Leiria	VitÃ³ria SetÃºbal	0:0	0:0	10.03.2002	00:00	2001	2002	26
+CD Santa Clara	Sporting CP	0:0	0:3	10.03.2002	00:00	2001	2002	26
+PaÃ§os de Ferreira	SC Salgueiros	2:0	6:0	10.03.2002	00:00	2001	2002	26
+SC Farense	Varzim SC	1:1	1:1	10.03.2002	00:00	2001	2002	26
+FC Alverca	SC Beira-Mar	0:0	2:0	10.03.2002	00:00	2001	2002	26
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	1:1	1:3	11.03.2002	00:00	2001	2002	26
+SC Salgueiros	Os Belenenses	0:2	1:2	14.03.2002	00:00	2001	2002	27
+VitÃ³ria SetÃºbal	Gil Vicente	0:2	3:2	16.03.2002	00:00	2001	2002	27
+Varzim SC	VitÃ³ria GuimarÃ£es	0:0	0:0	16.03.2002	00:00	2001	2002	27
+Sporting CP	PaÃ§os de Ferreira	1:0	3:0	16.03.2002	00:00	2001	2002	27
+FC Porto	FC Alverca	0:0	0:0	16.03.2002	00:00	2001	2002	27
+CS MarÃ­timo	Sporting Braga	2:0	4:1	16.03.2002	00:00	2001	2002	27
+Boavista	CD Santa Clara	1:0	2:0	16.03.2002	00:00	2001	2002	27
+SC Beira-Mar	UniÃ£o Leiria	0:0	2:1	16.03.2002	00:00	2001	2002	27
+SL Benfica	SC Farense	1:0	5:0	18.03.2002	00:00	2001	2002	27
+VitÃ³ria GuimarÃ£es	SL Benfica	0:1	1:4	23.03.2002	00:00	2001	2002	28
+Sporting CP	SC Salgueiros	1:0	2:0	23.03.2002	00:00	2001	2002	28
+Gil Vicente	SC Beira-Mar	0:1	2:1	23.03.2002	00:00	2001	2002	28
+UniÃ£o Leiria	FC Porto	0:1	1:1	24.03.2002	00:00	2001	2002	28
+CD Santa Clara	CS MarÃ­timo	0:0	0:0	24.03.2002	00:00	2001	2002	28
+PaÃ§os de Ferreira	Boavista	0:1	0:1	24.03.2002	00:00	2001	2002	28
+SC Farense	VitÃ³ria SetÃºbal	1:1	2:2	24.03.2002	00:00	2001	2002	28
+Sporting Braga	Varzim SC	1:0	2:0	24.03.2002	00:00	2001	2002	28
+FC Alverca	Os Belenenses	0:0	0:1	25.03.2002	00:00	2001	2002	28
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	0:0	1:0	30.03.2002	00:00	2001	2002	29
+Varzim SC	CD Santa Clara	0:0	1:0	30.03.2002	00:00	2001	2002	29
+SC Salgueiros	FC Alverca	2:1	2:1	30.03.2002	00:00	2001	2002	29
+FC Porto	Gil Vicente	0:0	2:1	30.03.2002	00:00	2001	2002	29
+CS MarÃ­timo	PaÃ§os de Ferreira	0:1	0:1	30.03.2002	00:00	2001	2002	29
+Boavista	Sporting CP	0:0	0:0	30.03.2002	00:00	2001	2002	29
+SL Benfica	Sporting Braga	0:0	1:1	30.03.2002	00:00	2001	2002	29
+SC Beira-Mar	SC Farense	2:0	2:1	30.03.2002	00:00	2001	2002	29
+Os Belenenses	UniÃ£o Leiria	0:0	1:0	01.04.2002	00:00	2001	2002	29
+Boavista	SC Salgueiros	1:0	2:1	05.04.2002	00:00	2001	2002	30
+CD Santa Clara	SL Benfica	0:0	0:0	06.04.2002	00:00	2001	2002	30
+SC Farense	FC Porto	0:1	0:3	06.04.2002	00:00	2001	2002	30
+VitÃ³ria GuimarÃ£es	SC Beira-Mar	0:0	0:0	07.04.2002	00:00	2001	2002	30
+UniÃ£o Leiria	FC Alverca	1:0	2:1	07.04.2002	00:00	2001	2002	30
+Sporting CP	CS MarÃ­timo	2:0	4:0	07.04.2002	00:00	2001	2002	30
+PaÃ§os de Ferreira	Varzim SC	0:0	0:0	07.04.2002	00:00	2001	2002	30
+Gil Vicente	Os Belenenses	2:1	3:2	07.04.2002	00:00	2001	2002	30
+Sporting Braga	VitÃ³ria SetÃºbal	1:0	1:1	08.04.2002	00:00	2001	2002	30
+CS MarÃ­timo	Boavista	0:0	0:0	12.04.2002	00:00	2001	2002	31
+Varzim SC	Sporting CP	0:1	1:3	13.04.2002	00:00	2001	2002	31
+FC Porto	VitÃ³ria GuimarÃ£es	2:0	3:0	13.04.2002	00:00	2001	2002	31
+VitÃ³ria SetÃºbal	CD Santa Clara	1:0	3:2	14.04.2002	00:00	2001	2002	31
+SC Salgueiros	UniÃ£o Leiria	0:0	0:1	14.04.2002	00:00	2001	2002	31
+SL Benfica	PaÃ§os de Ferreira	2:0	4:0	14.04.2002	00:00	2001	2002	31
+Os Belenenses	SC Farense	1:0	4:0	14.04.2002	00:00	2001	2002	31
+SC Beira-Mar	Sporting Braga	3:2	4:2	14.04.2002	00:00	2001	2002	31
+FC Alverca	Gil Vicente	1:1	1:4	14.04.2002	00:00	2001	2002	31
+VitÃ³ria GuimarÃ£es	Os Belenenses	1:1	2:1	19.04.2002	00:00	2001	2002	32
+Sporting Braga	FC Porto	0:2	0:4	20.04.2002	00:00	2001	2002	32
+Boavista	Varzim SC	1:2	1:2	20.04.2002	00:00	2001	2002	32
+Sporting CP	SL Benfica	0:0	1:1	21.04.2002	00:00	2001	2002	32
+CD Santa Clara	SC Beira-Mar	0:0	0:0	21.04.2002	00:00	2001	2002	32
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	1:0	1:0	21.04.2002	00:00	2001	2002	32
+Gil Vicente	UniÃ£o Leiria	0:0	0:0	21.04.2002	00:00	2001	2002	32
+SC Farense	FC Alverca	0:1	2:1	21.04.2002	00:00	2001	2002	32
+CS MarÃ­timo	SC Salgueiros	3:0	4:0	22.04.2002	00:00	2001	2002	32
+Os Belenenses	Sporting Braga	0:0	1:1	26.04.2002	00:00	2001	2002	33
+VitÃ³ria SetÃºbal	Sporting CP	2:1	2:2	27.04.2002	00:00	2001	2002	33
+FC Porto	CD Santa Clara	1:2	5:3	27.04.2002	00:00	2001	2002	33
+Varzim SC	CS MarÃ­timo	0:1	0:1	28.04.2002	00:00	2001	2002	33
+UniÃ£o Leiria	SC Farense	2:1	4:1	28.04.2002	00:00	2001	2002	33
+Gil Vicente	SC Salgueiros	2:0	3:2	28.04.2002	00:00	2001	2002	33
+SL Benfica	Boavista	0:1	2:1	28.04.2002	00:00	2001	2002	33
+SC Beira-Mar	PaÃ§os de Ferreira	0:1	0:2	28.04.2002	00:00	2001	2002	33
+FC Alverca	VitÃ³ria GuimarÃ£es	1:1	3:2	29.04.2002	00:00	2001	2002	33
+VitÃ³ria GuimarÃ£es	UniÃ£o Leiria	2:1	2:4	05.05.2002	00:00	2001	2002	34
+Sporting CP	SC Beira-Mar	1:0	2:1	05.05.2002	00:00	2001	2002	34
+CD Santa Clara	Os Belenenses	2:0	2:3	05.05.2002	00:00	2001	2002	34
+SC Salgueiros	Varzim SC	1:1	2:1	05.05.2002	00:00	2001	2002	34
+PaÃ§os de Ferreira	FC Porto	1:1	1:2	05.05.2002	00:00	2001	2002	34
+CS MarÃ­timo	SL Benfica	0:1	3:2	05.05.2002	00:00	2001	2002	34
+SC Farense	Gil Vicente	1:2	3:2	05.05.2002	00:00	2001	2002	34
+Sporting Braga	FC Alverca	3:0	5:3	05.05.2002	00:00	2001	2002	34
+Boavista	VitÃ³ria SetÃºbal	2:1	4:1	05.05.2002	00:00	2001	2002	34

@@ -1,0 +1,306 @@
+FC Carl Zeiss Jena	FSV Zwickau	1:0	2:0	04.08.1995	18:00	1995	1996	1
+Chemnitzer FC	VfB Leipzig	1:2	1:2	04.08.1995	19:00	1995	1996	1
+Arminia Bielefeld	VfB LÃ¼beck	1:0	2:1	04.08.1995	19:30	1995	1996	1
+MSV Duisburg	VfL Bochum	0:0	0:0	04.08.1995	20:15	1995	1996	1
+SpVgg Unterhaching	SV Meppen	1:0	1:1	05.08.1995	15:30	1995	1996	1
+Waldhof Mannheim	Fortuna KÃ¶ln	0:0	2:0	05.08.1995	15:30	1995	1996	1
+SG Wattenscheid 09	1. FC NÃ¼rnberg	1:2	1:2	05.08.1995	15:30	1995	1996	1
+VfL Wolfsburg	Hertha BSC	0:1	1:4	05.08.1995	15:30	1995	1996	1
+1. FSV Mainz 05	Hannover 96	1:1	0:2	05.08.1995	15:30	1995	1996	1
+SV Meppen	FC Carl Zeiss Jena	1:1	1:1	08.08.1995	18:30	1995	1996	2
+VfB LÃ¼beck	1. FSV Mainz 05	0:0	3:0	08.08.1995	18:30	1995	1996	2
+Hertha BSC	SpVgg Unterhaching	0:0	1:0	08.08.1995	19:30	1995	1996	2
+Hannover 96	MSV Duisburg	1:1	2:2	08.08.1995	20:00	1995	1996	2
+FSV Zwickau	Chemnitzer FC	1:0	1:0	09.08.1995	18:30	1995	1996	2
+VfB Leipzig	Arminia Bielefeld	0:0	0:0	09.08.1995	18:30	1995	1996	2
+1. FC NÃ¼rnberg	VfL Wolfsburg	0:0	0:0	09.08.1995	20:00	1995	1996	2
+VfL Bochum	Waldhof Mannheim	2:0	3:1	09.08.1995	20:00	1995	1996	2
+Fortuna KÃ¶ln	SG Wattenscheid 09	1:0	2:0	09.08.1995	20:00	1995	1996	2
+MSV Duisburg	VfB LÃ¼beck	1:0	2:1	11.08.1995	19:30	1995	1996	3
+FC Carl Zeiss Jena	Hertha BSC	0:1	0:3	11.08.1995	19:30	1995	1996	3
+Chemnitzer FC	SV Meppen	2:0	2:0	12.08.1995	15:30	1995	1996	3
+Waldhof Mannheim	SG Wattenscheid 09	2:0	5:2	12.08.1995	15:30	1995	1996	3
+Arminia Bielefeld	FSV Zwickau	1:0	4:0	12.08.1995	15:30	1995	1996	3
+VfL Wolfsburg	Fortuna KÃ¶ln	0:2	1:3	13.08.1995	15:00	1995	1996	3
+1. FSV Mainz 05	VfB Leipzig	0:0	0:1	13.08.1995	15:00	1995	1996	3
+SpVgg Unterhaching	1. FC NÃ¼rnberg	0:0	0:0	13.08.1995	15:00	1995	1996	3
+VfL Bochum	Hannover 96	1:0	1:0	14.08.1995	19:30	1995	1996	3
+VfB Leipzig	MSV Duisburg	0:1	2:2	18.08.1995	18:15	1995	1996	4
+Hannover 96	Waldhof Mannheim	0:0	1:0	18.08.1995	20:00	1995	1996	4
+FSV Zwickau	1. FSV Mainz 05	1:0	3:0	19.08.1995	15:30	1995	1996	4
+Fortuna KÃ¶ln	SpVgg Unterhaching	0:2	0:2	19.08.1995	15:30	1995	1996	4
+SG Wattenscheid 09	VfL Wolfsburg	0:0	1:2	20.08.1995	15:00	1995	1996	4
+SV Meppen	Arminia Bielefeld	1:1	2:2	20.08.1995	15:00	1995	1996	4
+VfB LÃ¼beck	VfL Bochum	2:0	3:0	20.08.1995	15:00	1995	1996	4
+1. FC NÃ¼rnberg	FC Carl Zeiss Jena	0:1	0:2	21.08.1995	20:15	1995	1996	4
+Hertha BSC	Chemnitzer FC	1:0	1:1	25.10.1995	19:30	1995	1996	4
+Chemnitzer FC	1. FC NÃ¼rnberg	0:0	1:1	29.08.1995	19:00	1995	1996	5
+FC Carl Zeiss Jena	Fortuna KÃ¶ln	1:0	1:0	29.08.1995	19:30	1995	1996	5
+MSV Duisburg	FSV Zwickau	0:0	3:0	29.08.1995	19:30	1995	1996	5
+Arminia Bielefeld	Hertha BSC	1:0	1:0	29.08.1995	19:30	1995	1996	5
+SpVgg Unterhaching	SG Wattenscheid 09	1:0	1:0	29.08.1995	20:00	1995	1996	5
+VfL Bochum	VfB Leipzig	1:0	3:0	29.08.1995	20:00	1995	1996	5
+Waldhof Mannheim	VfL Wolfsburg	1:0	3:0	30.08.1995	19:30	1995	1996	5
+Hannover 96	VfB LÃ¼beck	0:0	0:0	30.08.1995	20:00	1995	1996	5
+1. FSV Mainz 05	SV Meppen	0:0	0:0	30.08.1995	20:00	1995	1996	5
+1. FC NÃ¼rnberg	Arminia Bielefeld	0:0	0:2	01.09.1995	20:00	1995	1996	6
+Fortuna KÃ¶ln	Chemnitzer FC	0:1	1:2	01.09.1995	20:00	1995	1996	6
+VfL Wolfsburg	SpVgg Unterhaching	3:1	3:1	02.09.1995	15:30	1995	1996	6
+VfB Leipzig	Hannover 96	1:0	1:0	02.09.1995	15:30	1995	1996	6
+Hertha BSC	1. FSV Mainz 05	1:0	2:0	02.09.1995	20:00	1995	1996	6
+SG Wattenscheid 09	FC Carl Zeiss Jena	0:1	1:1	03.09.1995	15:00	1995	1996	6
+SV Meppen	MSV Duisburg	0:0	1:1	03.09.1995	15:00	1995	1996	6
+VfB LÃ¼beck	Waldhof Mannheim	2:1	3:1	03.09.1995	15:00	1995	1996	6
+FSV Zwickau	VfL Bochum	1:1	2:1	26.09.1995	15:30	1995	1996	6
+MSV Duisburg	Hertha BSC	1:0	2:0	08.09.1995	19:30	1995	1996	7
+VfL Bochum	SV Meppen	2:0	4:1	08.09.1995	20:00	1995	1996	7
+Chemnitzer FC	SG Wattenscheid 09	2:0	2:0	09.09.1995	15:30	1995	1996	7
+Waldhof Mannheim	SpVgg Unterhaching	0:0	0:1	09.09.1995	15:30	1995	1996	7
+1. FSV Mainz 05	1. FC NÃ¼rnberg	0:0	0:2	09.09.1995	15:30	1995	1996	7
+Hannover 96	FSV Zwickau	1:0	1:1	10.09.1995	15:00	1995	1996	7
+VfB LÃ¼beck	VfB Leipzig	0:1	0:2	10.09.1995	15:00	1995	1996	7
+FC Carl Zeiss Jena	VfL Wolfsburg	1:0	1:1	10.09.1995	15:00	1995	1996	7
+Arminia Bielefeld	Fortuna KÃ¶ln	1:0	2:1	11.09.1995	20:15	1995	1996	7
+VfL Wolfsburg	Chemnitzer FC	0:0	1:1	14.09.1995	17:45	1995	1996	8
+1. FC NÃ¼rnberg	MSV Duisburg	0:0	0:0	15.09.1995	20:00	1995	1996	8
+SpVgg Unterhaching	FC Carl Zeiss Jena	1:0	2:0	15.09.1995	20:00	1995	1996	8
+SG Wattenscheid 09	Arminia Bielefeld	2:2	3:2	16.09.1995	15:30	1995	1996	8
+VfB Leipzig	Waldhof Mannheim	0:0	2:0	16.09.1995	15:30	1995	1996	8
+SV Meppen	Hannover 96	0:0	0:0	16.09.1995	15:30	1995	1996	8
+Hertha BSC	VfL Bochum	0:0	0:2	16.09.1995	15:30	1995	1996	8
+FSV Zwickau	VfB LÃ¼beck	0:0	1:0	17.09.1995	15:00	1995	1996	8
+Fortuna KÃ¶ln	1. FSV Mainz 05	0:0	1:0	17.09.1995	15:00	1995	1996	8
+VfL Bochum	1. FC NÃ¼rnberg	4:0	4:0	22.09.1995	20:00	1995	1996	9
+Hannover 96	Hertha BSC	0:0	1:0	23.09.1995	15:30	1995	1996	9
+1. FSV Mainz 05	SG Wattenscheid 09	0:0	2:0	23.09.1995	15:30	1995	1996	9
+VfB Leipzig	FSV Zwickau	1:0	2:0	23.09.1995	15:30	1995	1996	9
+VfB LÃ¼beck	SV Meppen	1:0	1:1	24.09.1995	15:00	1995	1996	9
+Chemnitzer FC	SpVgg Unterhaching	0:0	2:0	24.09.1995	15:00	1995	1996	9
+Arminia Bielefeld	VfL Wolfsburg	1:0	1:0	24.09.1995	15:00	1995	1996	9
+Waldhof Mannheim	FC Carl Zeiss Jena	0:0	1:0	25.09.1995	20:15	1995	1996	9
+MSV Duisburg	Fortuna KÃ¶ln	2:1	2:2	06.10.1995	19:30	1995	1996	9
+SG Wattenscheid 09	MSV Duisburg	0:1	0:2	29.09.1995	19:30	1995	1996	10
+1. FC NÃ¼rnberg	Hannover 96	0:1	0:2	29.09.1995	20:00	1995	1996	10
+FSV Zwickau	Waldhof Mannheim	1:0	2:1	30.09.1995	15:30	1995	1996	10
+VfL Wolfsburg	1. FSV Mainz 05	1:0	2:2	30.09.1995	15:30	1995	1996	10
+Fortuna KÃ¶ln	VfL Bochum	0:0	0:2	30.09.1995	15:30	1995	1996	10
+FC Carl Zeiss Jena	Chemnitzer FC	2:1	4:1	01.10.1995	15:00	1995	1996	10
+SV Meppen	VfB Leipzig	0:0	0:2	01.10.1995	15:00	1995	1996	10
+SpVgg Unterhaching	Arminia Bielefeld	1:0	3:0	01.10.1995	15:00	1995	1996	10
+Hertha BSC	VfB LÃ¼beck	0:0	0:0	02.10.1995	20:15	1995	1996	10
+Waldhof Mannheim	Chemnitzer FC	2:1	4:1	13.10.1995	19:30	1995	1996	11
+MSV Duisburg	VfL Wolfsburg	2:0	2:1	13.10.1995	19:30	1995	1996	11
+1. FSV Mainz 05	SpVgg Unterhaching	2:0	3:1	13.10.1995	20:00	1995	1996	11
+FSV Zwickau	SV Meppen	0:1	4:1	14.10.1995	15:00	1995	1996	11
+Hannover 96	Fortuna KÃ¶ln	0:0	2:0	14.10.1995	15:30	1995	1996	11
+VfB LÃ¼beck	1. FC NÃ¼rnberg	0:0	0:0	15.10.1995	15:00	1995	1996	11
+VfB Leipzig	Hertha BSC	1:0	2:2	15.10.1995	15:00	1995	1996	11
+VfL Bochum	SG Wattenscheid 09	1:0	2:2	15.10.1995	17:30	1995	1996	11
+Arminia Bielefeld	FC Carl Zeiss Jena	1:2	1:2	16.10.1995	20:15	1995	1996	11
+SG Wattenscheid 09	Hannover 96	2:0	5:1	20.10.1995	19:30	1995	1996	12
+FC Carl Zeiss Jena	1. FSV Mainz 05	3:0	6:1	20.10.1995	19:30	1995	1996	12
+VfL Wolfsburg	VfL Bochum	0:2	0:5	21.10.1995	15:00	1995	1996	12
+SV Meppen	Waldhof Mannheim	0:1	2:1	21.10.1995	15:00	1995	1996	12
+Fortuna KÃ¶ln	VfB LÃ¼beck	1:0	1:3	21.10.1995	15:30	1995	1996	12
+SpVgg Unterhaching	MSV Duisburg	1:1	1:2	22.10.1995	15:00	1995	1996	12
+Chemnitzer FC	Arminia Bielefeld	2:1	5:1	22.10.1995	15:00	1995	1996	12
+Hertha BSC	FSV Zwickau	0:0	0:0	22.10.1995	15:00	1995	1996	12
+1. FC NÃ¼rnberg	VfB Leipzig	0:0	1:0	23.10.1995	20:15	1995	1996	12
+Waldhof Mannheim	Arminia Bielefeld	1:4	3:5	27.10.1995	19:30	1995	1996	13
+VfB Leipzig	Fortuna KÃ¶ln	0:1	1:1	28.10.1995	14:30	1995	1996	13
+SV Meppen	Hertha BSC	0:0	1:1	28.10.1995	14:30	1995	1996	13
+Hannover 96	VfL Wolfsburg	0:0	0:1	28.10.1995	15:30	1995	1996	13
+FSV Zwickau	1. FC NÃ¼rnberg	0:0	1:0	29.10.1995	14:30	1995	1996	13
+VfB LÃ¼beck	SG Wattenscheid 09	1:0	2:1	29.10.1995	14:30	1995	1996	13
+MSV Duisburg	FC Carl Zeiss Jena	1:0	4:1	29.10.1995	15:00	1995	1996	13
+1. FSV Mainz 05	Chemnitzer FC	1:1	4:2	29.10.1995	15:00	1995	1996	13
+VfL Bochum	SpVgg Unterhaching	2:1	3:1	30.10.1995	20:15	1995	1996	13
+FC Carl Zeiss Jena	VfL Bochum	0:1	0:4	03.11.1995	19:30	1995	1996	14
+Arminia Bielefeld	1. FSV Mainz 05	1:0	2:0	03.11.1995	19:30	1995	1996	14
+1. FC NÃ¼rnberg	SV Meppen	1:0	2:1	04.11.1995	15:30	1995	1996	14
+Fortuna KÃ¶ln	FSV Zwickau	1:0	1:1	04.11.1995	15:30	1995	1996	14
+SG Wattenscheid 09	VfB Leipzig	0:0	2:1	04.11.1995	15:30	1995	1996	14
+VfL Wolfsburg	VfB LÃ¼beck	0:0	2:1	05.11.1995	14:30	1995	1996	14
+SpVgg Unterhaching	Hannover 96	1:0	1:0	07.11.1995	20:00	1995	1996	14
+Chemnitzer FC	MSV Duisburg	1:0	1:0	29.11.1995	19:00	1995	1996	14
+Hertha BSC	Waldhof Mannheim	1:0	1:0	29.11.1995	20:00	1995	1996	14
+VfL Bochum	Chemnitzer FC	0:0	2:2	10.11.1995	20:00	1995	1996	15
+1. FSV Mainz 05	Waldhof Mannheim	0:0	0:0	10.11.1995	20:00	1995	1996	15
+FSV Zwickau	SG Wattenscheid 09	1:0	2:0	11.11.1995	14:30	1995	1996	15
+1. FC NÃ¼rnberg	Hertha BSC	0:0	1:0	11.11.1995	15:30	1995	1996	15
+Hannover 96	FC Carl Zeiss Jena	1:0	1:1	11.11.1995	15:30	1995	1996	15
+VfB Leipzig	VfL Wolfsburg	1:0	2:0	12.11.1995	14:30	1995	1996	15
+SV Meppen	Fortuna KÃ¶ln	0:1	2:2	12.11.1995	14:30	1995	1996	15
+VfB LÃ¼beck	SpVgg Unterhaching	2:0	3:1	12.11.1995	14:30	1995	1996	15
+MSV Duisburg	Arminia Bielefeld	0:1	1:1	13.11.1995	20:15	1995	1996	15
+FC Carl Zeiss Jena	VfB LÃ¼beck	2:0	3:1	17.11.1995	19:00	1995	1996	16
+SpVgg Unterhaching	VfB Leipzig	1:1	4:1	17.11.1995	20:00	1995	1996	16
+VfL Wolfsburg	FSV Zwickau	0:1	0:1	18.11.1995	14:15	1995	1996	16
+Chemnitzer FC	Hannover 96	1:1	2:1	18.11.1995	15:30	1995	1996	16
+SG Wattenscheid 09	SV Meppen	1:0	3:0	18.11.1995	15:30	1995	1996	16
+Waldhof Mannheim	1. FC NÃ¼rnberg	0:2	1:4	19.11.1995	15:00	1995	1996	16
+Fortuna KÃ¶ln	Hertha BSC	0:1	0:1	19.11.1995	15:00	1995	1996	16
+1. FSV Mainz 05	MSV Duisburg	0:0	0:1	19.11.1995	15:00	1995	1996	16
+Arminia Bielefeld	VfL Bochum	0:0	1:3	20.11.1995	20:15	1995	1996	16
+VfL Bochum	1. FSV Mainz 05	2:0	3:0	24.11.1995	20:00	1995	1996	17
+Hannover 96	Arminia Bielefeld	0:0	0:1	24.11.1995	20:00	1995	1996	17
+FSV Zwickau	SpVgg Unterhaching	1:1	1:2	25.11.1995	14:15	1995	1996	17
+VfB Leipzig	FC Carl Zeiss Jena	1:0	2:0	25.11.1995	14:15	1995	1996	17
+SV Meppen	VfL Wolfsburg	1:0	2:1	25.11.1995	14:15	1995	1996	17
+Hertha BSC	SG Wattenscheid 09	0:0	1:2	25.11.1995	15:30	1995	1996	17
+VfB LÃ¼beck	Chemnitzer FC	0:1	0:2	26.11.1995	14:00	1995	1996	17
+1. FC NÃ¼rnberg	Fortuna KÃ¶ln	0:0	1:1	26.11.1995	15:00	1995	1996	17
+MSV Duisburg	Waldhof Mannheim	0:1	1:1	26.11.1995	18:00	1995	1996	17
+Hannover 96	1. FSV Mainz 05	0:1	0:2	01.12.1995	20:00	1995	1996	18
+VfB Leipzig	Chemnitzer FC	0:0	0:0	02.12.1995	14:00	1995	1996	18
+FSV Zwickau	FC Carl Zeiss Jena	1:1	2:1	02.12.1995	14:00	1995	1996	18
+Hertha BSC	VfL Wolfsburg	1:1	2:2	02.12.1995	15:30	1995	1996	18
+SV Meppen	SpVgg Unterhaching	0:0	0:0	03.12.1995	14:00	1995	1996	18
+VfB LÃ¼beck	Arminia Bielefeld	0:1	0:2	03.12.1995	14:00	1995	1996	18
+1. FC NÃ¼rnberg	SG Wattenscheid 09	2:0	3:0	03.12.1995	15:00	1995	1996	18
+Fortuna KÃ¶ln	Waldhof Mannheim	0:0	1:0	03.12.1995	15:00	1995	1996	18
+VfL Bochum	MSV Duisburg	0:1	0:1	04.12.1995	20:15	1995	1996	18
+SpVgg Unterhaching	Hertha BSC	0:0	0:0	08.12.1995	19:00	1995	1996	19
+1. FSV Mainz 05	VfB LÃ¼beck	0:0	0:1	08.12.1995	19:00	1995	1996	19
+VfL Wolfsburg	1. FC NÃ¼rnberg	0:1	1:1	09.12.1995	14:00	1995	1996	19
+Chemnitzer FC	FSV Zwickau	0:0	0:1	09.12.1995	15:30	1995	1996	19
+FC Carl Zeiss Jena	SV Meppen	1:0	2:2	09.12.1995	15:30	1995	1996	19
+Waldhof Mannheim	VfL Bochum	1:0	1:0	10.12.1995	15:00	1995	1996	19
+MSV Duisburg	Hannover 96	3:0	4:0	10.12.1995	15:00	1995	1996	19
+Arminia Bielefeld	VfB Leipzig	0:0	3:0	10.12.1995	15:00	1995	1996	19
+SG Wattenscheid 09	Fortuna KÃ¶ln	0:3	2:3	10.12.1995	15:00	1995	1996	19
+SG Wattenscheid 09	Waldhof Mannheim	0:0	0:0	08.03.1996	19:30	1995	1996	20
+Hertha BSC	FC Carl Zeiss Jena	1:0	2:4	08.03.1996	20:00	1995	1996	20
+Hannover 96	VfL Bochum	1:0	2:0	09.03.1996	15:30	1995	1996	20
+Fortuna KÃ¶ln	VfL Wolfsburg	2:0	2:0	09.03.1996	15:30	1995	1996	20
+VfB Leipzig	1. FSV Mainz 05	0:0	0:0	09.03.1996	15:30	1995	1996	20
+SV Meppen	Chemnitzer FC	1:0	2:0	10.03.1996	15:00	1995	1996	20
+1. FC NÃ¼rnberg	SpVgg Unterhaching	1:2	2:2	11.03.1996	19:30	1995	1996	20
+VfB LÃ¼beck	MSV Duisburg	1:0	2:1	08.04.1996	15:00	1995	1996	20
+FSV Zwickau	Arminia Bielefeld	1:1	1:3	08.04.1996	17:00	1995	1996	20
+FC Carl Zeiss Jena	1. FC NÃ¼rnberg	0:0	1:0	15.03.1996	19:00	1995	1996	21
+VfL Wolfsburg	SG Wattenscheid 09	0:0	1:0	16.03.1996	15:30	1995	1996	21
+Waldhof Mannheim	Hannover 96	1:0	1:0	16.03.1996	15:30	1995	1996	21
+Arminia Bielefeld	SV Meppen	1:1	2:2	16.03.1996	15:30	1995	1996	21
+1. FSV Mainz 05	FSV Zwickau	1:0	1:0	16.03.1996	19:30	1995	1996	21
+SpVgg Unterhaching	Fortuna KÃ¶ln	1:0	2:0	17.03.1996	15:00	1995	1996	21
+VfL Bochum	VfB LÃ¼beck	2:0	3:1	17.03.1996	15:00	1995	1996	21
+MSV Duisburg	VfB Leipzig	0:0	5:1	18.03.1996	19:30	1995	1996	21
+Chemnitzer FC	Hertha BSC	0:1	1:2	16.04.1996	19:00	1995	1996	21
+VfL Wolfsburg	Waldhof Mannheim	2:0	2:0	22.03.1996	19:30	1995	1996	22
+Hertha BSC	Arminia Bielefeld	0:0	0:0	22.03.1996	20:00	1995	1996	22
+1. FC NÃ¼rnberg	Chemnitzer FC	0:1	1:1	23.03.1996	15:30	1995	1996	22
+VfB Leipzig	VfL Bochum	0:0	0:1	23.03.1996	15:30	1995	1996	22
+VfB LÃ¼beck	Hannover 96	1:0	2:0	24.03.1996	15:00	1995	1996	22
+SV Meppen	1. FSV Mainz 05	0:0	2:1	24.03.1996	15:00	1995	1996	22
+SG Wattenscheid 09	SpVgg Unterhaching	0:0	0:0	24.03.1996	15:00	1995	1996	22
+Fortuna KÃ¶ln	FC Carl Zeiss Jena	4:0	6:0	25.03.1996	19:30	1995	1996	22
+FSV Zwickau	MSV Duisburg	0:0	1:0	07.05.1996	18:15	1995	1996	22
+SpVgg Unterhaching	VfL Wolfsburg	2:1	2:2	29.03.1996	19:30	1995	1996	23
+Arminia Bielefeld	1. FC NÃ¼rnberg	1:1	2:2	29.03.1996	19:30	1995	1996	23
+MSV Duisburg	SV Meppen	1:1	3:1	29.03.1996	19:39	1995	1996	23
+FC Carl Zeiss Jena	SG Wattenscheid 09	1:1	1:1	30.03.1996	15:30	1995	1996	23
+Waldhof Mannheim	VfB LÃ¼beck	2:0	2:0	30.03.1996	15:30	1995	1996	23
+1. FSV Mainz 05	Hertha BSC	0:0	0:0	31.03.1996	15:00	1995	1996	23
+Hannover 96	VfB Leipzig	2:0	4:0	31.03.1996	15:00	1995	1996	23
+VfL Bochum	FSV Zwickau	2:0	3:0	01.04.1996	19:30	1995	1996	23
+Chemnitzer FC	Fortuna KÃ¶ln	1:1	1:1	23.04.1996	19:00	1995	1996	23
+FSV Zwickau	Hannover 96	0:0	2:1	04.04.1996	17:15	1995	1996	24
+VfB Leipzig	VfB LÃ¼beck	1:0	2:1	04.04.1996	17:15	1995	1996	24
+VfL Wolfsburg	FC Carl Zeiss Jena	0:1	1:1	04.04.1996	19:30	1995	1996	24
+Fortuna KÃ¶ln	Arminia Bielefeld	1:0	1:0	04.04.1996	20:00	1995	1996	24
+Hertha BSC	MSV Duisburg	1:0	1:0	04.04.1996	20:00	1995	1996	24
+1. FC NÃ¼rnberg	1. FSV Mainz 05	0:1	1:2	06.04.1996	15:30	1995	1996	24
+SG Wattenscheid 09	Chemnitzer FC	2:2	2:2	07.04.1996	15:00	1995	1996	24
+SV Meppen	VfL Bochum	2:0	2:3	07.04.1996	15:00	1995	1996	24
+SpVgg Unterhaching	Waldhof Mannheim	1:0	3:1	08.04.1996	15:00	1995	1996	24
+Chemnitzer FC	VfL Wolfsburg	0:2	0:4	12.04.1996	19:00	1995	1996	25
+1. FSV Mainz 05	Fortuna KÃ¶ln	0:0	2:0	12.04.1996	20:00	1995	1996	25
+VfL Bochum	Hertha BSC	0:2	2:2	12.04.1996	20:00	1995	1996	25
+Arminia Bielefeld	SG Wattenscheid 09	1:0	1:0	13.04.1996	15:30	1995	1996	25
+VfB LÃ¼beck	FSV Zwickau	0:0	3:1	14.04.1996	15:00	1995	1996	25
+FC Carl Zeiss Jena	SpVgg Unterhaching	1:0	1:0	14.04.1996	15:00	1995	1996	25
+Waldhof Mannheim	VfB Leipzig	1:0	2:0	14.04.1996	15:00	1995	1996	25
+MSV Duisburg	1. FC NÃ¼rnberg	0:1	1:1	15.04.1996	19:30	1995	1996	25
+Hannover 96	SV Meppen	0:0	1:0	16.04.1996	18:30	1995	1996	25
+FC Carl Zeiss Jena	Waldhof Mannheim	0:0	0:0	19.04.1996	19:30	1995	1996	26
+SpVgg Unterhaching	Chemnitzer FC	0:0	0:1	19.04.1996	20:00	1995	1996	26
+Fortuna KÃ¶ln	MSV Duisburg	1:0	1:1	19.04.1996	20:00	1995	1996	26
+1. FC NÃ¼rnberg	VfL Bochum	0:0	0:1	20.04.1996	15:00	1995	1996	26
+SV Meppen	VfB LÃ¼beck	2:0	2:0	20.04.1996	15:00	1995	1996	26
+Hertha BSC	Hannover 96	2:0	4:1	20.04.1996	15:30	1995	1996	26
+SG Wattenscheid 09	1. FSV Mainz 05	2:0	2:1	20.04.1996	15:30	1995	1996	26
+FSV Zwickau	VfB Leipzig	2:1	3:1	21.04.1996	15:00	1995	1996	26
+VfL Wolfsburg	Arminia Bielefeld	0:1	1:1	22.04.1996	19:30	1995	1996	26
+MSV Duisburg	SG Wattenscheid 09	0:1	0:2	26.04.1996	19:30	1995	1996	27
+Waldhof Mannheim	FSV Zwickau	3:0	3:1	26.04.1996	19:30	1995	1996	27
+1. FSV Mainz 05	VfL Wolfsburg	1:0	2:2	27.04.1996	15:30	1995	1996	27
+VfB Leipzig	SV Meppen	0:1	0:3	27.04.1996	15:30	1995	1996	27
+Arminia Bielefeld	SpVgg Unterhaching	2:1	2:2	28.04.1996	15:00	1995	1996	27
+VfB LÃ¼beck	Hertha BSC	0:0	0:1	28.04.1996	15:00	1995	1996	27
+VfL Bochum	Fortuna KÃ¶ln	1:0	3:1	28.04.1996	15:00	1995	1996	27
+Chemnitzer FC	FC Carl Zeiss Jena	0:0	3:0	28.04.1996	15:00	1995	1996	27
+Hannover 96	1. FC NÃ¼rnberg	1:1	2:2	29.04.1996	19:30	1995	1996	27
+Chemnitzer FC	Waldhof Mannheim	0:1	1:1	03.05.1996	19:00	1995	1996	28
+Hertha BSC	VfB Leipzig	1:0	2:0	03.05.1996	20:00	1995	1996	28
+VfL Wolfsburg	MSV Duisburg	1:0	3:1	03.05.1996	20:00	1995	1996	28
+Fortuna KÃ¶ln	Hannover 96	0:0	1:0	04.05.1996	15:00	1995	1996	28
+SV Meppen	FSV Zwickau	1:0	3:0	04.05.1996	15:30	1995	1996	28
+FC Carl Zeiss Jena	Arminia Bielefeld	1:1	2:1	05.05.1996	15:00	1995	1996	28
+SpVgg Unterhaching	1. FSV Mainz 05	0:0	0:0	05.05.1996	15:00	1995	1996	28
+1. FC NÃ¼rnberg	VfB LÃ¼beck	0:0	0:1	05.05.1996	15:00	1995	1996	28
+SG Wattenscheid 09	VfL Bochum	0:2	1:3	06.05.1996	19:25	1995	1996	28
+FSV Zwickau	Hertha BSC	2:0	3:1	10.05.1996	18:15	1995	1996	29
+Arminia Bielefeld	Chemnitzer FC	2:0	3:1	10.05.1996	19:30	1995	1996	29
+Hannover 96	SG Wattenscheid 09	1:0	3:0	10.05.1996	20:00	1995	1996	29
+VfL Bochum	VfL Wolfsburg	0:0	0:0	10.05.1996	20:00	1995	1996	29
+MSV Duisburg	SpVgg Unterhaching	0:1	1:1	12.05.1996	15:00	1995	1996	29
+VfB Leipzig	1. FC NÃ¼rnberg	1:0	2:1	12.05.1996	15:00	1995	1996	29
+Waldhof Mannheim	SV Meppen	0:0	2:0	12.05.1996	15:00	1995	1996	29
+VfB LÃ¼beck	Fortuna KÃ¶ln	0:0	0:1	12.05.1996	15:00	1995	1996	29
+1. FSV Mainz 05	FC Carl Zeiss Jena	2:0	3:0	12.05.1996	15:00	1995	1996	29
+FC Carl Zeiss Jena	MSV Duisburg	2:1	2:4	15.05.1996	18:00	1995	1996	30
+VfL Wolfsburg	Hannover 96	2:0	3:3	15.05.1996	18:00	1995	1996	30
+Chemnitzer FC	1. FSV Mainz 05	0:1	0:3	15.05.1996	18:00	1995	1996	30
+1. FC NÃ¼rnberg	FSV Zwickau	0:1	2:1	15.05.1996	18:30	1995	1996	30
+Arminia Bielefeld	Waldhof Mannheim	2:2	2:2	15.05.1996	19:30	1995	1996	30
+Hertha BSC	SV Meppen	1:1	1:4	16.05.1996	15:00	1995	1996	30
+SpVgg Unterhaching	VfL Bochum	2:1	4:2	16.05.1996	17:00	1995	1996	30
+SG Wattenscheid 09	VfB LÃ¼beck	0:0	2:3	16.05.1996	19:30	1995	1996	30
+Fortuna KÃ¶ln	VfB Leipzig	1:0	2:1	16.05.1996	20:00	1995	1996	30
+SV Meppen	1. FC NÃ¼rnberg	1:0	2:0	19.05.1996	15:00	1995	1996	31
+VfB Leipzig	SG Wattenscheid 09	0:0	1:0	19.05.1996	15:00	1995	1996	31
+VfB LÃ¼beck	VfL Wolfsburg	0:1	1:1	19.05.1996	15:00	1995	1996	31
+FSV Zwickau	Fortuna KÃ¶ln	0:0	0:0	19.05.1996	15:00	1995	1996	31
+VfL Bochum	FC Carl Zeiss Jena	1:1	1:1	19.05.1996	15:00	1995	1996	31
+1. FSV Mainz 05	Arminia Bielefeld	1:0	2:0	19.05.1996	15:00	1995	1996	31
+Waldhof Mannheim	Hertha BSC	1:1	3:2	19.05.1996	15:00	1995	1996	31
+Hannover 96	SpVgg Unterhaching	1:2	1:3	19.05.1996	15:00	1995	1996	31
+MSV Duisburg	Chemnitzer FC	0:0	1:0	20.05.1996	19:30	1995	1996	31
+FC Carl Zeiss Jena	Hannover 96	1:0	4:1	23.05.1996	19:30	1995	1996	32
+Chemnitzer FC	VfL Bochum	0:0	0:2	24.05.1996	19:00	1995	1996	32
+Waldhof Mannheim	1. FSV Mainz 05	1:1	2:2	24.05.1996	19:30	1995	1996	32
+Fortuna KÃ¶ln	SV Meppen	0:0	0:0	24.05.1996	20:00	1995	1996	32
+SpVgg Unterhaching	VfB LÃ¼beck	2:0	5:0	26.05.1996	15:00	1995	1996	32
+SG Wattenscheid 09	FSV Zwickau	2:1	3:1	26.05.1996	15:00	1995	1996	32
+VfL Wolfsburg	VfB Leipzig	1:0	1:0	26.05.1996	15:00	1995	1996	32
+Arminia Bielefeld	MSV Duisburg	1:1	3:2	27.05.1996	19:25	1995	1996	32
+Hertha BSC	1. FC NÃ¼rnberg	0:0	0:1	27.05.1996	19:30	1995	1996	32
+Hannover 96	Chemnitzer FC	1:1	4:2	02.06.1996	15:00	1995	1996	33
+Hertha BSC	Fortuna KÃ¶ln	0:0	0:0	02.06.1996	15:00	1995	1996	33
+1. FC NÃ¼rnberg	Waldhof Mannheim	0:2	2:4	02.06.1996	15:00	1995	1996	33
+SV Meppen	SG Wattenscheid 09	2:0	4:0	02.06.1996	15:00	1995	1996	33
+FSV Zwickau	VfL Wolfsburg	0:0	0:1	02.06.1996	15:00	1995	1996	33
+VfB LÃ¼beck	FC Carl Zeiss Jena	1:1	2:1	02.06.1996	15:00	1995	1996	33
+VfL Bochum	Arminia Bielefeld	0:0	2:0	02.06.1996	15:00	1995	1996	33
+MSV Duisburg	1. FSV Mainz 05	0:1	0:3	02.06.1996	15:00	1995	1996	33
+VfB Leipzig	SpVgg Unterhaching	1:0	3:2	02.06.1996	15:00	1995	1996	33
+Arminia Bielefeld	Hannover 96	1:0	2:1	08.06.1996	15:30	1995	1996	34
+SpVgg Unterhaching	FSV Zwickau	3:1	4:2	08.06.1996	15:30	1995	1996	34
+Fortuna KÃ¶ln	1. FC NÃ¼rnberg	1:0	1:0	08.06.1996	15:30	1995	1996	34
+1. FSV Mainz 05	VfL Bochum	1:0	1:0	08.06.1996	15:30	1995	1996	34
+Waldhof Mannheim	MSV Duisburg	1:2	1:3	08.06.1996	15:30	1995	1996	34
+VfL Wolfsburg	SV Meppen	0:0	0:0	08.06.1996	15:30	1995	1996	34
+SG Wattenscheid 09	Hertha BSC	0:0	0:0	08.06.1996	15:30	1995	1996	34
+Chemnitzer FC	VfB LÃ¼beck	1:0	2:1	08.06.1996	15:30	1995	1996	34
+FC Carl Zeiss Jena	VfB Leipzig	1:1	3:1	08.06.1996	15:30	1995	1996	34

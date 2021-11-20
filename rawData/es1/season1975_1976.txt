@@ -1,0 +1,306 @@
+Real Sociedad	Real Betis	2:2	3:2	06.09.1975	00:00	1975	1976	1
+Sevilla FC	UD Las Palmas	2:0	3:0	06.09.1975	00:00	1975	1976	1
+Valencia CF	Real Oviedo	0:0	2:0	06.09.1975	00:00	1975	1976	1
+Real Madrid	Racing Santander	2:0	2:0	06.09.1975	00:00	1975	1976	1
+Espanyol Barcelona	HÃ©rcules CF	2:0	3:1	06.09.1975	00:00	1975	1976	1
+Sporting GijÃ³n	Granada CF	0:0	0:0	06.09.1975	00:00	1975	1976	1
+Elche CF	FC Barcelona	1:2	2:3	06.09.1975	00:00	1975	1976	1
+UD Salamanca	Athletic Bilbao	1:0	2:1	07.09.1975	00:00	1975	1976	1
+Real Zaragoza	AtlÃ©tico Madrid	1:0	2:1	07.09.1975	00:00	1975	1976	1
+UD Las Palmas	Real Sociedad	0:0	2:1	13.09.1975	00:00	1975	1976	2
+AtlÃ©tico Madrid	Sporting GijÃ³n	1:0	2:2	13.09.1975	00:00	1975	1976	2
+Athletic Bilbao	Sevilla FC	0:1	4:1	13.09.1975	00:00	1975	1976	2
+FC Barcelona	UD Salamanca	2:1	3:1	13.09.1975	00:00	1975	1976	2
+Granada CF	Elche CF	2:1	3:2	14.09.1975	00:00	1975	1976	2
+Racing Santander	Real Zaragoza	4:0	4:1	14.09.1975	00:00	1975	1976	2
+HÃ©rcules CF	Valencia CF	0:0	2:0	14.09.1975	00:00	1975	1976	2
+Real Betis	Espanyol Barcelona	0:1	1:2	14.09.1975	00:00	1975	1976	2
+Real Oviedo	Real Madrid	0:0	0:0	14.09.1975	00:00	1975	1976	2
+Valencia CF	Real Betis	0:0	0:1	20.09.1975	00:00	1975	1976	3
+Sevilla FC	Real Sociedad	1:1	2:1	20.09.1975	00:00	1975	1976	3
+Espanyol Barcelona	UD Las Palmas	0:0	1:0	20.09.1975	00:00	1975	1976	3
+Real Zaragoza	Real Oviedo	3:0	5:1	21.09.1975	00:00	1975	1976	3
+UD Salamanca	Granada CF	1:0	1:1	21.09.1975	00:00	1975	1976	3
+Real Madrid	HÃ©rcules CF	1:0	4:0	21.09.1975	00:00	1975	1976	3
+Sporting GijÃ³n	Racing Santander	0:1	1:2	21.09.1975	00:00	1975	1976	3
+Athletic Bilbao	FC Barcelona	1:0	2:1	21.09.1975	00:00	1975	1976	3
+Elche CF	AtlÃ©tico Madrid	1:0	3:1	21.09.1975	00:00	1975	1976	3
+UD Las Palmas	Valencia CF	0:2	2:4	27.09.1975	00:00	1975	1976	4
+Real Sociedad	Espanyol Barcelona	0:0	1:0	27.09.1975	00:00	1975	1976	4
+FC Barcelona	Sevilla FC	0:0	2:0	28.09.1975	00:00	1975	1976	4
+AtlÃ©tico Madrid	UD Salamanca	2:0	4:1	28.09.1975	00:00	1975	1976	4
+Racing Santander	Elche CF	1:0	2:1	28.09.1975	00:00	1975	1976	4
+HÃ©rcules CF	Real Zaragoza	1:0	2:0	28.09.1975	00:00	1975	1976	4
+Granada CF	Athletic Bilbao	1:0	2:1	28.09.1975	00:00	1975	1976	4
+Real Betis	Real Madrid	0:1	0:2	28.09.1975	00:00	1975	1976	4
+Real Oviedo	Sporting GijÃ³n	2:1	3:1	28.09.1975	00:00	1975	1976	4
+Athletic Bilbao	AtlÃ©tico Madrid	0:0	2:0	05.10.1975	00:00	1975	1976	5
+Elche CF	Real Oviedo	0:0	1:0	05.10.1975	00:00	1975	1976	5
+FC Barcelona	Granada CF	2:0	3:0	05.10.1975	00:00	1975	1976	5
+Sporting GijÃ³n	HÃ©rcules CF	1:1	1:3	05.10.1975	00:00	1975	1976	5
+UD Salamanca	Racing Santander	2:0	3:0	05.10.1975	00:00	1975	1976	5
+Sevilla FC	Espanyol Barcelona	1:0	2:1	05.10.1975	00:00	1975	1976	5
+Valencia CF	Real Sociedad	1:1	3:1	05.10.1975	00:00	1975	1976	5
+Real Zaragoza	Real Betis	0:1	1:2	05.10.1975	00:00	1975	1976	5
+Real Madrid	UD Las Palmas	0:0	2:1	05.10.1975	00:00	1975	1976	5
+UD Las Palmas	Real Zaragoza	1:0	3:2	18.10.1975	00:00	1975	1976	6
+Real Sociedad	Real Madrid	1:0	1:1	18.10.1975	00:00	1975	1976	6
+Racing Santander	Athletic Bilbao	1:0	1:1	19.10.1975	00:00	1975	1976	6
+Real Oviedo	UD Salamanca	0:0	0:1	19.10.1975	00:00	1975	1976	6
+HÃ©rcules CF	Elche CF	0:0	1:0	19.10.1975	00:00	1975	1976	6
+Real Betis	Sporting GijÃ³n	0:0	1:0	19.10.1975	00:00	1975	1976	6
+Espanyol Barcelona	Valencia CF	0:0	1:0	19.10.1975	00:00	1975	1976	6
+AtlÃ©tico Madrid	FC Barcelona	2:0	3:0	19.10.1975	00:00	1975	1976	6
+Granada CF	Sevilla FC	0:1	1:1	19.10.1975	00:00	1975	1976	6
+Real Zaragoza	Real Sociedad	0:0	0:1	26.10.1975	00:00	1975	1976	7
+FC Barcelona	Racing Santander	1:1	2:1	26.10.1975	00:00	1975	1976	7
+Athletic Bilbao	Real Oviedo	1:0	1:0	26.10.1975	00:00	1975	1976	7
+UD Salamanca	HÃ©rcules CF	0:0	0:1	26.10.1975	00:00	1975	1976	7
+Granada CF	AtlÃ©tico Madrid	2:1	3:4	26.10.1975	00:00	1975	1976	7
+Sevilla FC	Valencia CF	3:0	3:1	26.10.1975	00:00	1975	1976	7
+Real Madrid	Espanyol Barcelona	1:0	3:1	26.10.1975	00:00	1975	1976	7
+Sporting GijÃ³n	UD Las Palmas	2:0	3:0	26.10.1975	00:00	1975	1976	7
+Elche CF	Real Betis	1:1	2:3	26.10.1975	00:00	1975	1976	7
+UD Las Palmas	Elche CF	0:0	0:0	01.11.1975	00:00	1975	1976	8
+Real Sociedad	Sporting GijÃ³n	0:0	1:0	01.11.1975	00:00	1975	1976	8
+AtlÃ©tico Madrid	Sevilla FC	0:0	1:0	01.11.1975	00:00	1975	1976	8
+Valencia CF	Real Madrid	0:1	1:1	01.11.1975	00:00	1975	1976	8
+Real Betis	UD Salamanca	1:0	1:1	02.11.1975	00:00	1975	1976	8
+Racing Santander	Granada CF	0:0	1:1	02.11.1975	00:00	1975	1976	8
+Espanyol Barcelona	Real Zaragoza	2:0	2:1	02.11.1975	00:00	1975	1976	8
+Real Oviedo	FC Barcelona	1:1	1:1	02.11.1975	00:00	1975	1976	8
+HÃ©rcules CF	Athletic Bilbao	2:1	2:2	02.11.1975	00:00	1975	1976	8
+Elche CF	Real Sociedad	1:0	1:1	09.11.1975	00:00	1975	1976	9
+Granada CF	Real Oviedo	0:0	1:0	09.11.1975	00:00	1975	1976	9
+FC Barcelona	HÃ©rcules CF	0:1	1:1	09.11.1975	00:00	1975	1976	9
+AtlÃ©tico Madrid	Racing Santander	1:1	1:1	09.11.1975	00:00	1975	1976	9
+Sevilla FC	Real Madrid	0:0	1:1	09.11.1975	00:00	1975	1976	9
+Athletic Bilbao	Real Betis	0:0	0:0	09.11.1975	00:00	1975	1976	9
+Real Zaragoza	Valencia CF	0:1	0:2	09.11.1975	00:00	1975	1976	9
+Sporting GijÃ³n	Espanyol Barcelona	3:0	6:1	09.11.1975	00:00	1975	1976	9
+UD Salamanca	UD Las Palmas	1:0	1:0	09.11.1975	00:00	1975	1976	9
+Racing Santander	Sevilla FC	0:0	2:1	23.11.1975	00:00	1975	1976	10
+Real Sociedad	UD Salamanca	1:0	1:1	23.11.1975	00:00	1975	1976	10
+HÃ©rcules CF	Granada CF	2:0	2:0	23.11.1975	00:00	1975	1976	10
+Espanyol Barcelona	Elche CF	1:0	2:0	23.11.1975	00:00	1975	1976	10
+Real Madrid	Real Zaragoza	2:1	3:2	23.11.1975	00:00	1975	1976	10
+Real Oviedo	AtlÃ©tico Madrid	0:0	0:2	23.11.1975	00:00	1975	1976	10
+UD Las Palmas	Athletic Bilbao	0:0	2:2	23.11.1975	00:00	1975	1976	10
+Real Betis	FC Barcelona	1:0	1:0	23.11.1975	00:00	1975	1976	10
+Valencia CF	Sporting GijÃ³n	0:0	0:0	23.11.1975	00:00	1975	1976	10
+FC Barcelona	UD Las Palmas	0:0	3:0	30.11.1975	00:00	1975	1976	11
+Athletic Bilbao	Real Sociedad	0:0	2:0	30.11.1975	00:00	1975	1976	11
+AtlÃ©tico Madrid	HÃ©rcules CF	2:0	3:0	30.11.1975	00:00	1975	1976	11
+Racing Santander	Real Oviedo	1:1	2:1	30.11.1975	00:00	1975	1976	11
+Sporting GijÃ³n	Real Madrid	0:2	0:2	30.11.1975	00:00	1975	1976	11
+Elche CF	Valencia CF	0:0	2:0	30.11.1975	00:00	1975	1976	11
+UD Salamanca	Espanyol Barcelona	1:0	1:0	30.11.1975	00:00	1975	1976	11
+Granada CF	Real Betis	0:0	0:0	30.11.1975	00:00	1975	1976	11
+Sevilla FC	Real Zaragoza	0:0	0:0	30.11.1975	00:00	1975	1976	11
+Valencia CF	UD Salamanca	0:0	1:0	06.12.1975	00:00	1975	1976	12
+UD Las Palmas	Granada CF	1:0	1:2	06.12.1975	00:00	1975	1976	12
+Espanyol Barcelona	Athletic Bilbao	1:0	3:1	07.12.1975	00:00	1975	1976	12
+Real Madrid	Elche CF	1:0	2:2	07.12.1975	00:00	1975	1976	12
+HÃ©rcules CF	Racing Santander	2:0	2:1	07.12.1975	00:00	1975	1976	12
+Real Zaragoza	Sporting GijÃ³n	1:1	2:1	07.12.1975	00:00	1975	1976	12
+Real Betis	AtlÃ©tico Madrid	0:1	1:3	07.12.1975	00:00	1975	1976	12
+Real Sociedad	FC Barcelona	0:0	2:2	07.12.1975	00:00	1975	1976	12
+Real Oviedo	Sevilla FC	1:0	3:0	07.12.1975	00:00	1975	1976	12
+Racing Santander	Real Betis	1:0	3:0	14.12.1975	00:00	1975	1976	13
+Elche CF	Real Zaragoza	0:0	0:0	14.12.1975	00:00	1975	1976	13
+AtlÃ©tico Madrid	UD Las Palmas	1:0	2:1	14.12.1975	00:00	1975	1976	13
+Real Oviedo	HÃ©rcules CF	0:1	1:1	14.12.1975	00:00	1975	1976	13
+Athletic Bilbao	Valencia CF	5:1	5:4	14.12.1975	00:00	1975	1976	13
+FC Barcelona	Espanyol Barcelona	2:0	5:0	14.12.1975	00:00	1975	1976	13
+UD Salamanca	Real Madrid	0:0	0:0	14.12.1975	00:00	1975	1976	13
+Granada CF	Real Sociedad	2:0	2:1	14.12.1975	00:00	1975	1976	13
+Sevilla FC	Sporting GijÃ³n	2:0	2:1	14.12.1975	00:00	1975	1976	13
+UD Las Palmas	Racing Santander	3:0	5:0	20.12.1975	00:00	1975	1976	14
+Real Sociedad	AtlÃ©tico Madrid	0:0	1:1	21.12.1975	00:00	1975	1976	14
+Real Zaragoza	UD Salamanca	1:0	3:0	21.12.1975	00:00	1975	1976	14
+Espanyol Barcelona	Granada CF	0:0	3:0	21.12.1975	00:00	1975	1976	14
+Sporting GijÃ³n	Elche CF	1:0	1:1	21.12.1975	00:00	1975	1976	14
+HÃ©rcules CF	Sevilla FC	0:0	1:0	21.12.1975	00:00	1975	1976	14
+Real Madrid	Athletic Bilbao	0:0	1:0	21.12.1975	00:00	1975	1976	14
+Valencia CF	FC Barcelona	3:1	3:2	21.12.1975	00:00	1975	1976	14
+Real Betis	Real Oviedo	2:0	2:1	21.12.1975	00:00	1975	1976	14
+Athletic Bilbao	Real Zaragoza	0:0	0:0	28.12.1975	00:00	1975	1976	15
+HÃ©rcules CF	Real Betis	0:0	1:1	28.12.1975	00:00	1975	1976	15
+Real Oviedo	UD Las Palmas	1:1	1:2	28.12.1975	00:00	1975	1976	15
+Sevilla FC	Elche CF	0:0	2:1	28.12.1975	00:00	1975	1976	15
+Granada CF	Valencia CF	1:0	2:1	28.12.1975	00:00	1975	1976	15
+AtlÃ©tico Madrid	Espanyol Barcelona	2:0	3:1	28.12.1975	00:00	1975	1976	15
+FC Barcelona	Real Madrid	1:0	2:1	28.12.1975	00:00	1975	1976	15
+UD Salamanca	Sporting GijÃ³n	0:0	1:0	28.12.1975	00:00	1975	1976	15
+Racing Santander	Real Sociedad	2:0	2:0	28.12.1975	00:00	1975	1976	15
+UD Las Palmas	HÃ©rcules CF	1:0	2:1	03.01.1976	00:00	1975	1976	16
+Real Sociedad	Real Oviedo	0:1	0:2	04.01.1976	00:00	1975	1976	16
+Elche CF	UD Salamanca	1:0	1:1	04.01.1976	00:00	1975	1976	16
+Espanyol Barcelona	Racing Santander	1:0	2:1	04.01.1976	00:00	1975	1976	16
+Sevilla FC	Real Betis	1:0	2:0	04.01.1976	00:00	1975	1976	16
+Valencia CF	AtlÃ©tico Madrid	0:1	0:1	04.01.1976	00:00	1975	1976	16
+Sporting GijÃ³n	Athletic Bilbao	0:1	1:1	04.01.1976	00:00	1975	1976	16
+Real Zaragoza	FC Barcelona	2:3	4:4	04.01.1976	00:00	1975	1976	16
+Real Madrid	Granada CF	3:0	4:1	04.01.1976	00:00	1975	1976	16
+Athletic Bilbao	Elche CF	0:0	0:0	11.01.1976	00:00	1975	1976	17
+AtlÃ©tico Madrid	Real Madrid	1:0	1:0	11.01.1976	00:00	1975	1976	17
+Real Oviedo	Espanyol Barcelona	0:0	1:2	11.01.1976	00:00	1975	1976	17
+Racing Santander	Valencia CF	0:1	0:1	11.01.1976	00:00	1975	1976	17
+UD Salamanca	Sevilla FC	0:0	1:1	11.01.1976	00:00	1975	1976	17
+HÃ©rcules CF	Real Sociedad	0:0	0:0	11.01.1976	00:00	1975	1976	17
+Granada CF	Real Zaragoza	0:0	0:0	11.01.1976	00:00	1975	1976	17
+Real Betis	UD Las Palmas	1:0	1:0	11.01.1976	00:00	1975	1976	17
+FC Barcelona	Sporting GijÃ³n	1:1	5:1	11.01.1976	00:00	1975	1976	17
+UD Las Palmas	Sevilla FC	0:1	0:1	17.01.1976	00:00	1975	1976	18
+Racing Santander	Real Madrid	1:0	1:0	18.01.1976	00:00	1975	1976	18
+HÃ©rcules CF	Espanyol Barcelona	1:1	2:1	18.01.1976	00:00	1975	1976	18
+Real Oviedo	Valencia CF	1:0	2:1	18.01.1976	00:00	1975	1976	18
+Real Betis	Real Sociedad	1:0	1:0	18.01.1976	00:00	1975	1976	18
+AtlÃ©tico Madrid	Real Zaragoza	1:0	2:0	18.01.1976	00:00	1975	1976	18
+Granada CF	Sporting GijÃ³n	1:1	1:1	18.01.1976	00:00	1975	1976	18
+FC Barcelona	Elche CF	0:0	1:0	18.01.1976	00:00	1975	1976	18
+Athletic Bilbao	UD Salamanca	0:0	1:0	18.01.1976	00:00	1975	1976	18
+Sevilla FC	Athletic Bilbao	0:0	0:0	25.01.1976	00:00	1975	1976	19
+Elche CF	Granada CF	0:0	0:0	25.01.1976	00:00	1975	1976	19
+Valencia CF	HÃ©rcules CF	2:1	2:2	25.01.1976	00:00	1975	1976	19
+Real Zaragoza	Racing Santander	2:0	2:0	25.01.1976	00:00	1975	1976	19
+Real Madrid	Real Oviedo	1:0	2:0	25.01.1976	00:00	1975	1976	19
+Real Sociedad	UD Las Palmas	0:0	2:0	25.01.1976	00:00	1975	1976	19
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:0	1:0	25.01.1976	00:00	1975	1976	19
+UD Salamanca	FC Barcelona	1:0	2:0	25.01.1976	00:00	1975	1976	19
+Espanyol Barcelona	Real Betis	2:1	2:1	25.01.1976	00:00	1975	1976	19
+UD Las Palmas	Espanyol Barcelona	0:1	1:1	31.01.1976	00:00	1975	1976	20
+Real Oviedo	Real Zaragoza	2:0	2:0	01.02.1976	00:00	1975	1976	20
+HÃ©rcules CF	Real Madrid	1:2	1:2	01.02.1976	00:00	1975	1976	20
+Granada CF	UD Salamanca	0:0	0:0	01.02.1976	00:00	1975	1976	20
+AtlÃ©tico Madrid	Elche CF	1:0	3:0	01.02.1976	00:00	1975	1976	20
+Racing Santander	Sporting GijÃ³n	2:0	2:0	01.02.1976	00:00	1975	1976	20
+FC Barcelona	Athletic Bilbao	1:0	2:1	01.02.1976	00:00	1975	1976	20
+Real Betis	Valencia CF	2:0	2:1	01.02.1976	00:00	1975	1976	20
+Real Sociedad	Sevilla FC	1:0	4:1	01.02.1976	00:00	1975	1976	20
+Valencia CF	UD Las Palmas	0:1	0:1	08.02.1976	00:00	1975	1976	21
+Athletic Bilbao	Granada CF	0:1	2:1	08.02.1976	00:00	1975	1976	21
+Real Zaragoza	HÃ©rcules CF	1:0	1:0	08.02.1976	00:00	1975	1976	21
+Sporting GijÃ³n	Real Oviedo	3:0	3:1	08.02.1976	00:00	1975	1976	21
+Real Madrid	Real Betis	3:0	5:0	08.02.1976	00:00	1975	1976	21
+Espanyol Barcelona	Real Sociedad	1:1	2:2	08.02.1976	00:00	1975	1976	21
+UD Salamanca	AtlÃ©tico Madrid	1:1	2:2	08.02.1976	00:00	1975	1976	21
+Sevilla FC	FC Barcelona	0:0	2:0	08.02.1976	00:00	1975	1976	21
+Elche CF	Racing Santander	3:0	5:2	08.02.1976	00:00	1975	1976	21
+Granada CF	FC Barcelona	0:0	0:2	15.02.1976	00:00	1975	1976	22
+Racing Santander	UD Salamanca	0:0	1:0	15.02.1976	00:00	1975	1976	22
+Real Oviedo	Elche CF	1:0	4:1	15.02.1976	00:00	1975	1976	22
+HÃ©rcules CF	Sporting GijÃ³n	1:0	1:1	15.02.1976	00:00	1975	1976	22
+Real Betis	Real Zaragoza	0:0	1:0	15.02.1976	00:00	1975	1976	22
+AtlÃ©tico Madrid	Athletic Bilbao	1:0	2:0	15.02.1976	00:00	1975	1976	22
+Real Sociedad	Valencia CF	0:0	1:1	15.02.1976	00:00	1975	1976	22
+UD Las Palmas	Real Madrid	0:0	2:2	15.02.1976	00:00	1975	1976	22
+Espanyol Barcelona	Sevilla FC	0:0	1:0	15.02.1976	00:00	1975	1976	22
+Sporting GijÃ³n	Real Betis	1:0	5:0	22.02.1976	00:00	1975	1976	23
+Sevilla FC	Granada CF	1:0	1:0	22.02.1976	00:00	1975	1976	23
+Elche CF	HÃ©rcules CF	0:0	1:1	22.02.1976	00:00	1975	1976	23
+Athletic Bilbao	Racing Santander	0:0	1:0	22.02.1976	00:00	1975	1976	23
+Real Zaragoza	UD Las Palmas	0:0	0:1	22.02.1976	00:00	1975	1976	23
+Real Madrid	Real Sociedad	0:0	1:0	22.02.1976	00:00	1975	1976	23
+FC Barcelona	AtlÃ©tico Madrid	2:1	2:1	22.02.1976	00:00	1975	1976	23
+Valencia CF	Espanyol Barcelona	0:0	0:0	22.02.1976	00:00	1975	1976	23
+UD Salamanca	Real Oviedo	0:0	0:0	22.02.1976	00:00	1975	1976	23
+Valencia CF	Sevilla FC	1:0	3:0	29.02.1976	00:00	1975	1976	24
+AtlÃ©tico Madrid	Granada CF	2:2	3:2	29.02.1976	00:00	1975	1976	24
+Real Betis	Elche CF	2:0	2:0	29.02.1976	00:00	1975	1976	24
+HÃ©rcules CF	UD Salamanca	1:0	1:0	29.02.1976	00:00	1975	1976	24
+Real Oviedo	Athletic Bilbao	2:1	4:1	29.02.1976	00:00	1975	1976	24
+Racing Santander	FC Barcelona	1:0	2:1	29.02.1976	00:00	1975	1976	24
+Espanyol Barcelona	Real Madrid	0:0	0:1	29.02.1976	00:00	1975	1976	24
+UD Las Palmas	Sporting GijÃ³n	1:0	2:1	29.02.1976	00:00	1975	1976	24
+Real Sociedad	Real Zaragoza	0:0	1:1	29.02.1976	00:00	1975	1976	24
+Sporting GijÃ³n	Real Sociedad	1:0	3:0	07.03.1976	00:00	1975	1976	25
+Athletic Bilbao	HÃ©rcules CF	0:0	1:0	07.03.1976	00:00	1975	1976	25
+Granada CF	Racing Santander	2:0	2:0	07.03.1976	00:00	1975	1976	25
+FC Barcelona	Real Oviedo	2:0	2:0	07.03.1976	00:00	1975	1976	25
+UD Salamanca	Real Betis	1:0	2:0	07.03.1976	00:00	1975	1976	25
+Sevilla FC	AtlÃ©tico Madrid	0:0	1:0	07.03.1976	00:00	1975	1976	25
+Real Madrid	Valencia CF	1:0	2:0	07.03.1976	00:00	1975	1976	25
+Real Zaragoza	Espanyol Barcelona	1:0	4:0	07.03.1976	00:00	1975	1976	25
+Elche CF	UD Las Palmas	1:0	1:1	07.03.1976	00:00	1975	1976	25
+UD Las Palmas	UD Salamanca	0:0	1:0	13.03.1976	00:00	1975	1976	26
+Real Madrid	Sevilla FC	1:0	2:0	13.03.1976	00:00	1975	1976	26
+Real Betis	Athletic Bilbao	0:0	0:0	14.03.1976	00:00	1975	1976	26
+Real Oviedo	Granada CF	1:0	3:0	14.03.1976	00:00	1975	1976	26
+Real Sociedad	Elche CF	2:0	4:0	14.03.1976	00:00	1975	1976	26
+Espanyol Barcelona	Sporting GijÃ³n	1:0	2:1	14.03.1976	00:00	1975	1976	26
+Racing Santander	AtlÃ©tico Madrid	2:1	4:3	14.03.1976	00:00	1975	1976	26
+HÃ©rcules CF	FC Barcelona	0:0	0:0	14.03.1976	00:00	1975	1976	26
+Valencia CF	Real Zaragoza	1:1	3:2	14.03.1976	00:00	1975	1976	26
+UD Salamanca	Real Sociedad	0:1	1:2	21.03.1976	00:00	1975	1976	27
+Granada CF	HÃ©rcules CF	0:0	0:0	21.03.1976	00:00	1975	1976	27
+Sevilla FC	Racing Santander	3:0	3:1	21.03.1976	00:00	1975	1976	27
+AtlÃ©tico Madrid	Real Oviedo	2:0	3:1	21.03.1976	00:00	1975	1976	27
+FC Barcelona	Real Betis	3:1	3:1	21.03.1976	00:00	1975	1976	27
+Sporting GijÃ³n	Valencia CF	0:1	1:1	21.03.1976	00:00	1975	1976	27
+Elche CF	Espanyol Barcelona	1:0	2:1	21.03.1976	00:00	1975	1976	27
+Real Zaragoza	Real Madrid	2:1	3:1	21.03.1976	00:00	1975	1976	27
+Athletic Bilbao	UD Las Palmas	1:0	1:0	21.03.1976	00:00	1975	1976	27
+UD Las Palmas	FC Barcelona	1:0	3:1	27.03.1976	00:00	1975	1976	28
+Real Madrid	Sporting GijÃ³n	1:0	2:0	27.03.1976	00:00	1975	1976	28
+Valencia CF	Elche CF	0:0	2:0	28.03.1976	00:00	1975	1976	28
+HÃ©rcules CF	AtlÃ©tico Madrid	0:1	1:1	28.03.1976	00:00	1975	1976	28
+Espanyol Barcelona	UD Salamanca	2:0	3:0	28.03.1976	00:00	1975	1976	28
+Real Betis	Granada CF	2:0	4:1	28.03.1976	00:00	1975	1976	28
+Real Sociedad	Athletic Bilbao	1:1	3:2	28.03.1976	00:00	1975	1976	28
+Real Oviedo	Racing Santander	1:0	2:0	28.03.1976	00:00	1975	1976	28
+Real Zaragoza	Sevilla FC	1:0	1:0	28.03.1976	00:00	1975	1976	28
+FC Barcelona	Real Sociedad	2:0	2:0	04.04.1976	00:00	1975	1976	29
+Racing Santander	HÃ©rcules CF	1:0	4:1	04.04.1976	00:00	1975	1976	29
+Sevilla FC	Real Oviedo	2:0	4:0	04.04.1976	00:00	1975	1976	29
+Granada CF	UD Las Palmas	1:0	1:0	04.04.1976	00:00	1975	1976	29
+Sporting GijÃ³n	Real Zaragoza	1:1	2:2	04.04.1976	00:00	1975	1976	29
+UD Salamanca	Valencia CF	0:0	2:0	04.04.1976	00:00	1975	1976	29
+Athletic Bilbao	Espanyol Barcelona	1:0	2:1	04.04.1976	00:00	1975	1976	29
+Elche CF	Real Madrid	0:1	1:1	04.04.1976	00:00	1975	1976	29
+AtlÃ©tico Madrid	Real Betis	2:0	4:0	04.04.1976	00:00	1975	1976	29
+Real Madrid	UD Salamanca	1:0	1:0	10.04.1976	00:00	1975	1976	30
+HÃ©rcules CF	Real Oviedo	1:0	1:0	11.04.1976	00:00	1975	1976	30
+Sporting GijÃ³n	Sevilla FC	0:0	1:0	11.04.1976	00:00	1975	1976	30
+Real Betis	Racing Santander	2:0	3:0	11.04.1976	00:00	1975	1976	30
+Real Sociedad	Granada CF	1:0	2:0	11.04.1976	00:00	1975	1976	30
+Valencia CF	Athletic Bilbao	0:0	0:0	11.04.1976	00:00	1975	1976	30
+Espanyol Barcelona	FC Barcelona	1:0	3:0	11.04.1976	00:00	1975	1976	30
+UD Las Palmas	AtlÃ©tico Madrid	1:0	2:0	11.04.1976	00:00	1975	1976	30
+Real Zaragoza	Elche CF	0:0	2:0	11.04.1976	00:00	1975	1976	30
+AtlÃ©tico Madrid	Real Sociedad	0:1	2:2	18.04.1976	00:00	1975	1976	31
+Sevilla FC	HÃ©rcules CF	0:0	0:0	18.04.1976	00:00	1975	1976	31
+Elche CF	Sporting GijÃ³n	1:0	1:0	18.04.1976	00:00	1975	1976	31
+Racing Santander	UD Las Palmas	1:0	2:1	18.04.1976	00:00	1975	1976	31
+UD Salamanca	Real Zaragoza	1:0	1:0	18.04.1976	00:00	1975	1976	31
+FC Barcelona	Valencia CF	1:1	1:1	18.04.1976	00:00	1975	1976	31
+Granada CF	Espanyol Barcelona	0:1	0:1	18.04.1976	00:00	1975	1976	31
+Athletic Bilbao	Real Madrid	1:0	2:0	18.04.1976	00:00	1975	1976	31
+Real Oviedo	Real Betis	2:0	3:0	18.04.1976	00:00	1975	1976	31
+Real Madrid	FC Barcelona	0:1	0:2	30.04.1976	00:00	1975	1976	32
+Valencia CF	Granada CF	2:1	2:1	01.05.1976	00:00	1975	1976	32
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	1:0	01.05.1976	00:00	1975	1976	32
+Elche CF	Sevilla FC	1:0	2:0	02.05.1976	00:00	1975	1976	32
+UD Las Palmas	Real Oviedo	0:0	0:0	02.05.1976	00:00	1975	1976	32
+Real Sociedad	Racing Santander	1:0	3:2	02.05.1976	00:00	1975	1976	32
+Sporting GijÃ³n	UD Salamanca	0:1	0:1	02.05.1976	00:00	1975	1976	32
+Real Betis	HÃ©rcules CF	0:0	1:0	02.05.1976	00:00	1975	1976	32
+Real Zaragoza	Athletic Bilbao	1:0	1:1	02.05.1976	00:00	1975	1976	32
+FC Barcelona	Real Zaragoza	0:1	2:1	09.05.1976	00:00	1975	1976	33
+UD Salamanca	Elche CF	1:0	2:2	09.05.1976	00:00	1975	1976	33
+HÃ©rcules CF	UD Las Palmas	1:0	1:0	09.05.1976	00:00	1975	1976	33
+Real Oviedo	Real Sociedad	2:0	3:0	09.05.1976	00:00	1975	1976	33
+Real Betis	Sevilla FC	1:0	1:0	09.05.1976	00:00	1975	1976	33
+AtlÃ©tico Madrid	Valencia CF	0:0	1:0	09.05.1976	00:00	1975	1976	33
+Racing Santander	Espanyol Barcelona	0:0	1:1	09.05.1976	00:00	1975	1976	33
+Granada CF	Real Madrid	0:1	1:2	09.05.1976	00:00	1975	1976	33
+Athletic Bilbao	Sporting GijÃ³n	1:0	2:1	09.05.1976	00:00	1975	1976	33
+Valencia CF	Racing Santander	0:0	3:0	15.05.1976	00:00	1975	1976	34
+Real Sociedad	HÃ©rcules CF	0:0	3:0	15.05.1976	00:00	1975	1976	34
+Sevilla FC	UD Salamanca	0:1	1:2	16.05.1976	00:00	1975	1976	34
+Sporting GijÃ³n	FC Barcelona	0:0	1:1	16.05.1976	00:00	1975	1976	34
+Elche CF	Athletic Bilbao	1:1	3:1	16.05.1976	00:00	1975	1976	34
+Real Madrid	AtlÃ©tico Madrid	0:0	1:0	16.05.1976	00:00	1975	1976	34
+UD Las Palmas	Real Betis	1:0	3:0	16.05.1976	00:00	1975	1976	34
+Espanyol Barcelona	Real Oviedo	1:0	3:1	16.05.1976	00:00	1975	1976	34
+Real Zaragoza	Granada CF	0:0	2:0	16.05.1976	00:00	1975	1976	34

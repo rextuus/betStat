@@ -1,0 +1,462 @@
+Arsenal FC	Stoke City	0:1	0:1	29.08.1981	00:00	1981	1982	1
+West Ham United	Brighton & Hove Albion	0:0	1:1	29.08.1981	00:00	1981	1982	1
+Swansea City	Leeds United	1:1	5:1	29.08.1981	00:00	1981	1982	1
+Nottingham Forest	Southampton FC	2:1	2:1	29.08.1981	00:00	1981	1982	1
+Middlesbrough FC	Tottenham Hotspur	1:2	1:3	29.08.1981	00:00	1981	1982	1
+Manchester City	West Bromwich Albion	2:0	2:1	29.08.1981	00:00	1981	1982	1
+Ipswich Town	Sunderland AFC	0:1	3:3	29.08.1981	00:00	1981	1982	1
+Everton FC	Birmingham City	1:1	3:1	29.08.1981	00:00	1981	1982	1
+Coventry City	Manchester United	1:1	2:1	29.08.1981	00:00	1981	1982	1
+Aston Villa	Notts County	0:1	0:1	29.08.1981	00:00	1981	1982	1
+Wolverhampton Wanderers	Liverpool FC	0:0	1:0	29.08.1981	00:00	1981	1982	1
+Manchester United	Nottingham Forest	0:0	0:0	31.08.1981	00:00	1981	1982	2
+Southampton FC	Wolverhampton Wanderers	1:0	4:1	01.09.1981	00:00	1981	1982	2
+Notts County	Manchester City	1:0	1:1	01.09.1981	00:00	1981	1982	2
+Liverpool FC	Middlesbrough FC	0:1	1:1	01.09.1981	00:00	1981	1982	2
+Brighton & Hove Albion	Swansea City	1:2	1:2	01.09.1981	00:00	1981	1982	2
+Birmingham City	Ipswich Town	1:0	1:1	01.09.1981	00:00	1981	1982	2
+Leeds United	Everton FC	1:1	1:1	02.09.1981	00:00	1981	1982	2
+Stoke City	Coventry City	2:0	4:0	02.09.1981	00:00	1981	1982	2
+Sunderland AFC	Aston Villa	1:1	2:1	02.09.1981	00:00	1981	1982	2
+Tottenham Hotspur	West Ham United	0:1	0:4	02.09.1981	00:00	1981	1982	2
+West Bromwich Albion	Arsenal FC	0:2	0:2	02.09.1981	00:00	1981	1982	2
+Birmingham City	Nottingham Forest	2:2	4:3	05.09.1981	00:00	1981	1982	3
+Tottenham Hotspur	Aston Villa	0:3	1:3	05.09.1981	00:00	1981	1982	3
+Sunderland AFC	West Ham United	0:1	0:2	05.09.1981	00:00	1981	1982	3
+Stoke City	Manchester City	0:1	1:3	05.09.1981	00:00	1981	1982	3
+Southampton FC	Everton FC	0:0	1:0	05.09.1981	00:00	1981	1982	3
+Notts County	Coventry City	1:0	2:1	05.09.1981	00:00	1981	1982	3
+Manchester United	Ipswich Town	1:2	1:2	05.09.1981	00:00	1981	1982	3
+Liverpool FC	Arsenal FC	1:0	2:0	05.09.1981	00:00	1981	1982	3
+Leeds United	Wolverhampton Wanderers	1:0	3:0	05.09.1981	00:00	1981	1982	3
+Brighton & Hove Albion	Middlesbrough FC	1:0	2:0	05.09.1981	00:00	1981	1982	3
+West Bromwich Albion	Swansea City	1:0	4:1	05.09.1981	00:00	1981	1982	3
+Arsenal FC	Sunderland AFC	0:0	1:1	12.09.1981	00:00	1981	1982	4
+West Ham United	Stoke City	1:1	3:2	12.09.1981	00:00	1981	1982	4
+Swansea City	Notts County	2:0	3:2	12.09.1981	00:00	1981	1982	4
+Nottingham Forest	West Bromwich Albion	0:0	0:0	12.09.1981	00:00	1981	1982	4
+Middlesbrough FC	Birmingham City	2:0	2:1	12.09.1981	00:00	1981	1982	4
+Manchester City	Southampton FC	1:1	1:1	12.09.1981	00:00	1981	1982	4
+Ipswich Town	Liverpool FC	1:0	2:0	12.09.1981	00:00	1981	1982	4
+Everton FC	Brighton & Hove Albion	0:0	1:1	12.09.1981	00:00	1981	1982	4
+Coventry City	Leeds United	2:0	4:0	12.09.1981	00:00	1981	1982	4
+Aston Villa	Manchester United	1:1	1:1	12.09.1981	00:00	1981	1982	4
+Wolverhampton Wanderers	Tottenham Hotspur	0:0	0:1	12.09.1981	00:00	1981	1982	4
+Birmingham City	Manchester City	1:0	3:0	19.09.1981	00:00	1981	1982	5
+Tottenham Hotspur	Everton FC	0:0	3:0	19.09.1981	00:00	1981	1982	5
+Sunderland AFC	Wolverhampton Wanderers	0:0	0:0	19.09.1981	00:00	1981	1982	5
+Stoke City	Nottingham Forest	1:0	1:2	19.09.1981	00:00	1981	1982	5
+Southampton FC	Middlesbrough FC	2:0	2:0	19.09.1981	00:00	1981	1982	5
+Notts County	Ipswich Town	0:1	1:4	19.09.1981	00:00	1981	1982	5
+Manchester United	Swansea City	1:0	1:0	19.09.1981	00:00	1981	1982	5
+Liverpool FC	Aston Villa	0:0	0:0	19.09.1981	00:00	1981	1982	5
+Leeds United	Arsenal FC	0:0	0:0	19.09.1981	00:00	1981	1982	5
+Brighton & Hove Albion	Coventry City	1:1	2:2	19.09.1981	00:00	1981	1982	5
+West Bromwich Albion	West Ham United	0:0	0:0	19.09.1981	00:00	1981	1982	5
+Arsenal FC	Birmingham City	1:0	1:0	22.09.1981	00:00	1981	1982	6
+Wolverhampton Wanderers	Brighton & Hove Albion	0:1	0:1	22.09.1981	00:00	1981	1982	6
+West Ham United	Southampton FC	2:1	4:2	22.09.1981	00:00	1981	1982	6
+Swansea City	Tottenham Hotspur	0:0	2:1	22.09.1981	00:00	1981	1982	6
+Middlesbrough FC	Manchester United	0:1	0:2	22.09.1981	00:00	1981	1982	6
+Ipswich Town	West Bromwich Albion	0:0	1:0	22.09.1981	00:00	1981	1982	6
+Everton FC	Notts County	2:0	3:1	22.09.1981	00:00	1981	1982	6
+Coventry City	Liverpool FC	1:2	1:2	22.09.1981	00:00	1981	1982	6
+Aston Villa	Stoke City	1:0	2:2	23.09.1981	00:00	1981	1982	6
+Manchester City	Leeds United	2:0	4:0	23.09.1981	00:00	1981	1982	6
+Nottingham Forest	Sunderland AFC	0:0	2:0	23.09.1981	00:00	1981	1982	6
+Arsenal FC	Manchester United	0:0	0:0	26.09.1981	00:00	1981	1982	7
+West Ham United	Liverpool FC	1:0	1:1	26.09.1981	00:00	1981	1982	7
+Swansea City	Sunderland AFC	0:0	2:0	26.09.1981	00:00	1981	1982	7
+Nottingham Forest	Brighton & Hove Albion	0:1	2:1	26.09.1981	00:00	1981	1982	7
+Middlesbrough FC	Stoke City	1:1	3:2	26.09.1981	00:00	1981	1982	7
+Manchester City	Tottenham Hotspur	0:0	0:1	26.09.1981	00:00	1981	1982	7
+Ipswich Town	Leeds United	0:1	2:1	26.09.1981	00:00	1981	1982	7
+Everton FC	West Bromwich Albion	0:0	1:0	26.09.1981	00:00	1981	1982	7
+Coventry City	Southampton FC	1:1	4:2	26.09.1981	00:00	1981	1982	7
+Aston Villa	Birmingham City	0:0	0:0	26.09.1981	00:00	1981	1982	7
+Wolverhampton Wanderers	Notts County	1:1	3:2	26.09.1981	00:00	1981	1982	7
+Tottenham Hotspur	Nottingham Forest	1:0	3:0	03.10.1981	00:00	1981	1982	8
+Sunderland AFC	Coventry City	0:0	0:0	03.10.1981	00:00	1981	1982	8
+Stoke City	Everton FC	1:0	3:1	03.10.1981	00:00	1981	1982	8
+Southampton FC	Ipswich Town	1:3	4:3	03.10.1981	00:00	1981	1982	8
+Notts County	Arsenal FC	0:1	2:1	03.10.1981	00:00	1981	1982	8
+Manchester United	Wolverhampton Wanderers	2:0	5:0	03.10.1981	00:00	1981	1982	8
+Liverpool FC	Swansea City	0:1	2:2	03.10.1981	00:00	1981	1982	8
+Leeds United	Aston Villa	0:1	1:1	03.10.1981	00:00	1981	1982	8
+Brighton & Hove Albion	Manchester City	0:0	4:1	03.10.1981	00:00	1981	1982	8
+Birmingham City	West Ham United	1:1	2:2	03.10.1981	00:00	1981	1982	8
+West Bromwich Albion	Middlesbrough FC	0:0	2:0	03.10.1981	00:00	1981	1982	8
+Birmingham City	Southampton FC	0:0	4:0	10.10.1981	00:00	1981	1982	9
+West Bromwich Albion	Brighton & Hove Albion	0:0	0:0	10.10.1981	00:00	1981	1982	9
+Tottenham Hotspur	Stoke City	0:0	2:0	10.10.1981	00:00	1981	1982	9
+Swansea City	Arsenal FC	1:0	2:0	10.10.1981	00:00	1981	1982	9
+Notts County	Sunderland AFC	1:0	2:0	10.10.1981	00:00	1981	1982	9
+Middlesbrough FC	Nottingham Forest	0:0	1:1	10.10.1981	00:00	1981	1982	9
+Manchester City	Manchester United	0:0	0:0	10.10.1981	00:00	1981	1982	9
+Liverpool FC	Leeds United	2:0	3:0	10.10.1981	00:00	1981	1982	9
+Ipswich Town	Wolverhampton Wanderers	1:0	1:0	10.10.1981	00:00	1981	1982	9
+Coventry City	Aston Villa	1:1	1:1	10.10.1981	00:00	1981	1982	9
+West Ham United	Everton FC	1:1	1:1	10.10.1981	00:00	1981	1982	9
+Arsenal FC	Manchester City	0:0	1:0	17.10.1981	00:00	1981	1982	10
+Aston Villa	West Ham United	3:1	3:2	17.10.1981	00:00	1981	1982	10
+Brighton & Hove Albion	Liverpool FC	0:2	3:3	17.10.1981	00:00	1981	1982	10
+Everton FC	Ipswich Town	2:1	2:1	17.10.1981	00:00	1981	1982	10
+Nottingham Forest	Coventry City	0:1	2:1	17.10.1981	00:00	1981	1982	10
+Southampton FC	Notts County	1:0	3:1	17.10.1981	00:00	1981	1982	10
+Stoke City	Swansea City	1:0	1:2	17.10.1981	00:00	1981	1982	10
+Sunderland AFC	Tottenham Hotspur	0:1	0:2	17.10.1981	00:00	1981	1982	10
+Wolverhampton Wanderers	Middlesbrough FC	0:0	0:0	17.10.1981	00:00	1981	1982	10
+Leeds United	West Bromwich Albion	0:0	3:1	17.10.1981	00:00	1981	1982	10
+Manchester United	Birmingham City	0:1	1:1	17.10.1981	00:00	1981	1982	10
+West Bromwich Albion	Southampton FC	1:1	1:1	24.10.1981	00:00	1981	1982	11
+Tottenham Hotspur	Brighton & Hove Albion	0:0	0:1	24.10.1981	00:00	1981	1982	11
+Stoke City	Birmingham City	0:0	1:0	24.10.1981	00:00	1981	1982	11
+Notts County	West Ham United	0:0	1:1	24.10.1981	00:00	1981	1982	11
+Middlesbrough FC	Everton FC	0:1	0:2	24.10.1981	00:00	1981	1982	11
+Manchester City	Nottingham Forest	0:0	0:0	24.10.1981	00:00	1981	1982	11
+Ipswich Town	Arsenal FC	1:0	2:1	24.10.1981	00:00	1981	1982	11
+Coventry City	Swansea City	2:0	3:1	24.10.1981	00:00	1981	1982	11
+Wolverhampton Wanderers	Aston Villa	0:2	0:3	24.10.1981	00:00	1981	1982	11
+Leeds United	Sunderland AFC	0:0	1:0	24.10.1981	00:00	1981	1982	11
+Liverpool FC	Manchester United	0:1	1:2	24.10.1981	00:00	1981	1982	11
+Sunderland AFC	Liverpool FC	0:0	0:2	31.10.1981	00:00	1981	1982	12
+Southampton FC	Tottenham Hotspur	1:1	1:2	31.10.1981	00:00	1981	1982	12
+Nottingham Forest	Leeds United	1:1	2:1	31.10.1981	00:00	1981	1982	12
+Everton FC	Manchester City	0:0	0:1	31.10.1981	00:00	1981	1982	12
+Brighton & Hove Albion	Stoke City	0:0	0:0	31.10.1981	00:00	1981	1982	12
+Birmingham City	West Bromwich Albion	1:2	3:3	31.10.1981	00:00	1981	1982	12
+Aston Villa	Ipswich Town	0:1	0:1	31.10.1981	00:00	1981	1982	12
+Arsenal FC	Coventry City	0:0	1:0	31.10.1981	00:00	1981	1982	12
+Swansea City	Wolverhampton Wanderers	0:0	0:0	31.10.1981	00:00	1981	1982	12
+West Ham United	Middlesbrough FC	2:0	3:2	31.10.1981	00:00	1981	1982	12
+Manchester United	Notts County	1:1	2:1	31.10.1981	00:00	1981	1982	12
+Tottenham Hotspur	West Bromwich Albion	1:2	1:2	07.11.1981	00:00	1981	1982	13
+Stoke City	Southampton FC	0:1	0:2	07.11.1981	00:00	1981	1982	13
+Nottingham Forest	West Ham United	0:0	0:0	07.11.1981	00:00	1981	1982	13
+Manchester City	Middlesbrough FC	2:1	3:2	07.11.1981	00:00	1981	1982	13
+Liverpool FC	Everton FC	0:0	3:1	07.11.1981	00:00	1981	1982	13
+Leeds United	Notts County	1:0	1:0	07.11.1981	00:00	1981	1982	13
+Ipswich Town	Swansea City	0:1	2:3	07.11.1981	00:00	1981	1982	13
+Brighton & Hove Albion	Birmingham City	0:1	1:1	07.11.1981	00:00	1981	1982	13
+Aston Villa	Arsenal FC	0:2	0:2	07.11.1981	00:00	1981	1982	13
+Wolverhampton Wanderers	Coventry City	0:0	1:0	07.11.1981	00:00	1981	1982	13
+Sunderland AFC	Manchester United	1:1	1:5	07.11.1981	00:00	1981	1982	13
+Manchester United	Leeds United	0:0	1:0	30.09.1981	00:00	1981	1982	14
+West Bromwich Albion	Stoke City	1:2	1:2	14.11.1981	00:00	1981	1982	14
+Middlesbrough FC	Sunderland AFC	0:0	0:0	14.11.1981	00:00	1981	1982	14
+Southampton FC	Brighton & Hove Albion	0:0	0:2	08.12.1981	00:00	1981	1982	14
+Swansea City	Aston Villa	2:1	2:1	15.12.1981	00:00	1981	1982	14
+Coventry City	Ipswich Town	1:1	2:4	16.01.1982	00:00	1981	1982	14
+Notts County	Liverpool FC	0:1	0:4	26.01.1982	00:00	1981	1982	14
+Arsenal FC	Wolverhampton Wanderers	0:0	2:1	02.02.1982	00:00	1981	1982	14
+West Ham United	Manchester City	0:0	1:1	02.02.1982	00:00	1981	1982	14
+Birmingham City	Tottenham Hotspur	0:0	0:0	23.03.1982	00:00	1981	1982	14
+Everton FC	Nottingham Forest	0:0	2:1	20.04.1982	00:00	1981	1982	14
+West Bromwich Albion	Liverpool FC	0:0	1:1	21.11.1981	00:00	1981	1982	15
+Stoke City	Ipswich Town	0:0	2:0	21.11.1981	00:00	1981	1982	15
+Southampton FC	Leeds United	3:0	4:0	21.11.1981	00:00	1981	1982	15
+Nottingham Forest	Arsenal FC	1:0	1:2	21.11.1981	00:00	1981	1982	15
+Middlesbrough FC	Aston Villa	1:1	3:3	21.11.1981	00:00	1981	1982	15
+Manchester City	Swansea City	1:0	4:0	21.11.1981	00:00	1981	1982	15
+Everton FC	Sunderland AFC	0:0	1:2	21.11.1981	00:00	1981	1982	15
+Brighton & Hove Albion	Notts County	0:2	2:2	21.11.1981	00:00	1981	1982	15
+Birmingham City	Wolverhampton Wanderers	0:1	0:3	21.11.1981	00:00	1981	1982	15
+West Ham United	Coventry City	2:1	5:2	21.11.1981	00:00	1981	1982	15
+Tottenham Hotspur	Manchester United	2:1	3:1	21.11.1981	00:00	1981	1982	15
+Coventry City	Stoke City	2:0	3:0	24.11.1981	00:00	1981	1982	16
+Swansea City	Brighton & Hove Albion	0:0	0:0	24.11.1981	00:00	1981	1982	16
+Wolverhampton Wanderers	Southampton FC	0:0	0:0	24.11.1981	00:00	1981	1982	16
+Ipswich Town	Birmingham City	2:0	3:2	05.01.1982	00:00	1981	1982	16
+Aston Villa	Sunderland AFC	0:0	1:0	02.02.1982	00:00	1981	1982	16
+Arsenal FC	West Bromwich Albion	0:1	2:2	16.03.1982	00:00	1981	1982	16
+Everton FC	Leeds United	0:0	1:0	04.05.1982	00:00	1981	1982	16
+Nottingham Forest	Manchester United	0:1	0:1	05.05.1982	00:00	1981	1982	16
+Manchester City	Notts County	0:0	1:0	05.05.1982	00:00	1981	1982	16
+West Ham United	Tottenham Hotspur	0:1	2:2	10.05.1982	00:00	1981	1982	16
+Middlesbrough FC	Liverpool FC	0:0	0:0	18.05.1982	00:00	1981	1982	16
+Arsenal FC	Everton FC	0:0	1:0	28.11.1981	00:00	1981	1982	17
+Aston Villa	Nottingham Forest	2:0	3:1	28.11.1981	00:00	1981	1982	17
+Ipswich Town	Manchester City	0:0	2:0	28.11.1981	00:00	1981	1982	17
+Leeds United	West Ham United	1:0	3:3	28.11.1981	00:00	1981	1982	17
+Liverpool FC	Southampton FC	0:0	0:1	28.11.1981	00:00	1981	1982	17
+Coventry City	Middlesbrough FC	1:0	1:1	28.11.1981	00:00	1981	1982	17
+Notts County	Tottenham Hotspur	1:1	2:2	28.11.1981	00:00	1981	1982	17
+Swansea City	Birmingham City	0:0	1:0	28.11.1981	00:00	1981	1982	17
+Wolverhampton Wanderers	Stoke City	1:0	2:0	28.11.1981	00:00	1981	1982	17
+Manchester United	Brighton & Hove Albion	1:0	2:0	28.11.1981	00:00	1981	1982	17
+Sunderland AFC	West Bromwich Albion	1:0	1:2	28.11.1981	00:00	1981	1982	17
+Birmingham City	Notts County	1:1	2:1	05.12.1981	00:00	1981	1982	18
+Manchester City	Aston Villa	0:0	1:0	05.12.1981	00:00	1981	1982	18
+Middlesbrough FC	Ipswich Town	0:1	0:1	05.12.1981	00:00	1981	1982	18
+West Ham United	Arsenal FC	0:2	1:2	05.12.1981	00:00	1981	1982	18
+West Bromwich Albion	Wolverhampton Wanderers	0:0	3:0	05.12.1981	00:00	1981	1982	18
+Tottenham Hotspur	Coventry City	1:1	1:2	05.12.1981	00:00	1981	1982	18
+Stoke City	Leeds United	0:2	1:2	05.12.1981	00:00	1981	1982	18
+Nottingham Forest	Liverpool FC	0:0	0:2	05.12.1981	00:00	1981	1982	18
+Everton FC	Swansea City	0:0	3:1	05.12.1981	00:00	1981	1982	18
+Brighton & Hove Albion	Sunderland AFC	1:1	2:1	05.12.1981	00:00	1981	1982	18
+Southampton FC	Manchester United	2:1	3:2	05.12.1981	00:00	1981	1982	18
+Coventry City	Manchester City	0:1	0:1	12.12.1981	00:00	1981	1982	19
+Leeds United	Tottenham Hotspur	0:0	0:0	12.12.1981	00:00	1981	1982	19
+Swansea City	Nottingham Forest	1:0	1:2	12.12.1981	00:00	1981	1982	19
+Wolverhampton Wanderers	Everton FC	0:2	0:3	23.01.1982	00:00	1981	1982	19
+Manchester United	West Ham United	0:0	1:0	27.01.1982	00:00	1981	1982	19
+Arsenal FC	Middlesbrough FC	0:0	1:0	16.02.1982	00:00	1981	1982	19
+Sunderland AFC	Southampton FC	0:0	2:0	10.03.1982	00:00	1981	1982	19
+Ipswich Town	Brighton & Hove Albion	1:0	3:1	30.03.1982	00:00	1981	1982	19
+Liverpool FC	Birmingham City	1:0	3:1	30.03.1982	00:00	1981	1982	19
+Aston Villa	West Bromwich Albion	0:1	2:1	30.03.1982	00:00	1981	1982	19
+Notts County	Stoke City	1:1	3:1	26.04.1982	00:00	1981	1982	19
+Everton FC	Aston Villa	1:0	2:0	19.12.1981	00:00	1981	1982	20
+Manchester City	Sunderland AFC	0:1	2:3	19.12.1981	00:00	1981	1982	20
+Southampton FC	Arsenal FC	1:1	3:1	23.01.1982	00:00	1981	1982	20
+Stoke City	Manchester United	0:1	0:3	23.01.1982	00:00	1981	1982	20
+Birmingham City	Coventry City	1:2	3:3	26.01.1982	00:00	1981	1982	20
+Middlesbrough FC	Swansea City	0:1	1:1	13.02.1982	00:00	1981	1982	20
+Brighton & Hove Albion	Leeds United	1:0	1:0	02.03.1982	00:00	1981	1982	20
+Nottingham Forest	Ipswich Town	0:0	1:1	17.03.1982	00:00	1981	1982	20
+West Bromwich Albion	Notts County	1:0	2:4	24.03.1982	00:00	1981	1982	20
+West Ham United	Wolverhampton Wanderers	0:1	3:1	06.04.1982	00:00	1981	1982	20
+Tottenham Hotspur	Liverpool FC	2:0	2:2	03.05.1982	00:00	1981	1982	20
+Coventry City	West Bromwich Albion	0:1	0:2	26.12.1981	00:00	1981	1982	21
+Liverpool FC	Manchester City	0:1	1:3	26.12.1981	00:00	1981	1982	21
+Manchester United	Everton FC	0:1	1:1	06.01.1982	00:00	1981	1982	21
+Arsenal FC	Brighton & Hove Albion	0:0	0:0	26.01.1982	00:00	1981	1982	21
+Aston Villa	Southampton FC	0:1	1:1	10.02.1982	00:00	1981	1982	21
+Sunderland AFC	Stoke City	0:0	0:2	10.02.1982	00:00	1981	1982	21
+Wolverhampton Wanderers	Nottingham Forest	0:0	0:0	16.02.1982	00:00	1981	1982	21
+Swansea City	West Ham United	0:1	0:1	30.03.1982	00:00	1981	1982	21
+Notts County	Middlesbrough FC	0:0	0:1	11.05.1982	00:00	1981	1982	21
+Leeds United	Birmingham City	2:2	3:3	12.05.1982	00:00	1981	1982	21
+Ipswich Town	Tottenham Hotspur	1:0	2:1	17.05.1982	00:00	1981	1982	21
+Brighton & Hove Albion	Aston Villa	0:0	0:1	28.12.1981	00:00	1981	1982	22
+Everton FC	Coventry City	3:2	3:2	28.12.1981	00:00	1981	1982	22
+Manchester City	Wolverhampton Wanderers	0:0	2:1	28.12.1981	00:00	1981	1982	22
+Southampton FC	Swansea City	1:1	3:1	28.12.1981	00:00	1981	1982	22
+Nottingham Forest	Notts County	0:0	0:2	23.01.1982	00:00	1981	1982	22
+Birmingham City	Sunderland AFC	1:0	2:0	16.02.1982	00:00	1981	1982	22
+West Ham United	Ipswich Town	1:0	2:0	02.03.1982	00:00	1981	1982	22
+Stoke City	Liverpool FC	0:2	1:5	09.03.1982	00:00	1981	1982	22
+Tottenham Hotspur	Arsenal FC	0:2	2:2	29.03.1982	00:00	1981	1982	22
+Middlesbrough FC	Leeds United	0:0	0:0	06.04.1982	00:00	1981	1982	22
+West Bromwich Albion	Manchester United	0:2	0:3	12.05.1982	00:00	1981	1982	22
+Nottingham Forest	Birmingham City	0:0	2:1	09.01.1982	00:00	1981	1982	23
+Manchester City	Stoke City	0:1	1:1	09.01.1982	00:00	1981	1982	23
+Everton FC	Southampton FC	1:0	1:1	19.01.1982	00:00	1981	1982	23
+Coventry City	Notts County	1:2	1:5	16.02.1982	00:00	1981	1982	23
+Aston Villa	Tottenham Hotspur	0:0	1:1	17.02.1982	00:00	1981	1982	23
+Wolverhampton Wanderers	Leeds United	1:0	1:0	16.03.1982	00:00	1981	1982	23
+Swansea City	West Bromwich Albion	0:1	3:1	06.04.1982	00:00	1981	1982	23
+Middlesbrough FC	Brighton & Hove Albion	1:1	2:1	20.04.1982	00:00	1981	1982	23
+Ipswich Town	Manchester United	1:1	2:1	20.04.1982	00:00	1981	1982	23
+West Ham United	Sunderland AFC	0:1	1:1	04.05.1982	00:00	1981	1982	23
+Arsenal FC	Liverpool FC	0:1	1:1	11.05.1982	00:00	1981	1982	23
+Brighton & Hove Albion	West Ham United	0:0	1:0	16.01.1982	00:00	1981	1982	24
+Liverpool FC	Wolverhampton Wanderers	0:1	2:1	16.01.1982	00:00	1981	1982	24
+Notts County	Aston Villa	0:0	1:0	16.01.1982	00:00	1981	1982	24
+Leeds United	Swansea City	1:0	2:0	16.01.1982	00:00	1981	1982	24
+Stoke City	Arsenal FC	0:1	0:1	20.01.1982	00:00	1981	1982	24
+Tottenham Hotspur	Middlesbrough FC	1:0	1:0	27.01.1982	00:00	1981	1982	24
+Southampton FC	Nottingham Forest	1:0	2:0	13.02.1982	00:00	1981	1982	24
+Manchester United	Coventry City	0:1	0:1	17.03.1982	00:00	1981	1982	24
+Birmingham City	Everton FC	0:1	0:2	06.04.1982	00:00	1981	1982	24
+Sunderland AFC	Ipswich Town	0:0	1:1	07.04.1982	00:00	1981	1982	24
+West Bromwich Albion	Manchester City	0:1	0:1	21.04.1982	00:00	1981	1982	24
+Ipswich Town	Notts County	0:1	1:3	30.01.1982	00:00	1981	1982	25
+Arsenal FC	Leeds United	1:0	1:0	30.01.1982	00:00	1981	1982	25
+Middlesbrough FC	Southampton FC	0:1	0:1	30.01.1982	00:00	1981	1982	25
+West Ham United	West Bromwich Albion	1:0	3:1	30.01.1982	00:00	1981	1982	25
+Wolverhampton Wanderers	Sunderland AFC	0:0	0:1	30.01.1982	00:00	1981	1982	25
+Nottingham Forest	Stoke City	0:0	0:0	30.01.1982	00:00	1981	1982	25
+Aston Villa	Liverpool FC	0:2	0:3	30.01.1982	00:00	1981	1982	25
+Manchester City	Birmingham City	4:2	4:2	30.01.1982	00:00	1981	1982	25
+Swansea City	Manchester United	0:0	2:0	30.01.1982	00:00	1981	1982	25
+Coventry City	Brighton & Hove Albion	0:1	0:1	30.01.1982	00:00	1981	1982	25
+Everton FC	Tottenham Hotspur	1:0	1:1	30.01.1982	00:00	1981	1982	25
+Liverpool FC	Ipswich Town	3:0	4:0	06.02.1982	00:00	1981	1982	26
+Birmingham City	Middlesbrough FC	0:0	0:0	06.02.1982	00:00	1981	1982	26
+West Bromwich Albion	Nottingham Forest	1:0	2:1	06.02.1982	00:00	1981	1982	26
+Sunderland AFC	Arsenal FC	0:0	0:0	06.02.1982	00:00	1981	1982	26
+Stoke City	West Ham United	1:0	2:1	06.02.1982	00:00	1981	1982	26
+Tottenham Hotspur	Wolverhampton Wanderers	2:1	6:1	06.02.1982	00:00	1981	1982	26
+Notts County	Swansea City	0:1	0:1	06.02.1982	00:00	1981	1982	26
+Manchester United	Aston Villa	1:1	4:1	06.02.1982	00:00	1981	1982	26
+Brighton & Hove Albion	Everton FC	1:0	3:1	06.02.1982	00:00	1981	1982	26
+Leeds United	Coventry City	0:0	0:0	06.02.1982	00:00	1981	1982	26
+Southampton FC	Manchester City	0:0	2:1	06.02.1982	00:00	1981	1982	26
+Arsenal FC	Notts County	0:0	1:0	13.02.1982	00:00	1981	1982	27
+West Ham United	Birmingham City	0:1	2:2	13.02.1982	00:00	1981	1982	27
+Wolverhampton Wanderers	Manchester United	0:1	0:1	13.02.1982	00:00	1981	1982	27
+Everton FC	Stoke City	0:0	0:0	13.02.1982	00:00	1981	1982	27
+Manchester City	Brighton & Hove Albion	2:0	4:0	13.02.1982	00:00	1981	1982	27
+Ipswich Town	Southampton FC	3:1	5:2	16.02.1982	00:00	1981	1982	27
+Swansea City	Liverpool FC	0:0	2:0	16.02.1982	00:00	1981	1982	27
+Middlesbrough FC	West Bromwich Albion	1:0	1:0	09.03.1982	00:00	1981	1982	27
+Coventry City	Sunderland AFC	2:1	6:1	27.04.1982	00:00	1981	1982	27
+Aston Villa	Leeds United	1:1	1:4	28.04.1982	00:00	1981	1982	27
+Nottingham Forest	Tottenham Hotspur	1:0	2:0	12.05.1982	00:00	1981	1982	27
+Liverpool FC	West Ham United	2:0	3:0	05.01.1982	00:00	1981	1982	28
+Leeds United	Ipswich Town	0:0	0:2	20.02.1982	00:00	1981	1982	28
+Stoke City	Middlesbrough FC	1:0	2:0	20.02.1982	00:00	1981	1982	28
+Manchester United	Arsenal FC	0:0	0:0	20.02.1982	00:00	1981	1982	28
+Brighton & Hove Albion	Nottingham Forest	0:1	0:1	20.02.1982	00:00	1981	1982	28
+Birmingham City	Aston Villa	0:0	0:1	20.02.1982	00:00	1981	1982	28
+West Bromwich Albion	Everton FC	0:0	0:0	20.02.1982	00:00	1981	1982	28
+Tottenham Hotspur	Manchester City	0:0	2:0	20.02.1982	00:00	1981	1982	28
+Sunderland AFC	Swansea City	0:1	0:1	20.02.1982	00:00	1981	1982	28
+Notts County	Wolverhampton Wanderers	1:0	4:0	20.02.1982	00:00	1981	1982	28
+Southampton FC	Coventry City	1:2	5:5	04.05.1982	00:00	1981	1982	28
+Wolverhampton Wanderers	Ipswich Town	2:1	2:1	27.02.1982	00:00	1981	1982	29
+Leeds United	Liverpool FC	0:1	0:2	27.02.1982	00:00	1981	1982	29
+Nottingham Forest	Middlesbrough FC	0:1	1:1	27.02.1982	00:00	1981	1982	29
+Southampton FC	Birmingham City	1:1	3:1	27.02.1982	00:00	1981	1982	29
+Arsenal FC	Swansea City	0:1	0:2	27.02.1982	00:00	1981	1982	29
+Brighton & Hove Albion	West Bromwich Albion	1:0	2:2	27.02.1982	00:00	1981	1982	29
+Sunderland AFC	Notts County	0:0	1:1	27.02.1982	00:00	1981	1982	29
+Aston Villa	Coventry City	2:1	2:1	27.02.1982	00:00	1981	1982	29
+Everton FC	West Ham United	0:0	0:0	27.02.1982	00:00	1981	1982	29
+Manchester United	Manchester City	1:1	1:1	27.02.1982	00:00	1981	1982	29
+Stoke City	Tottenham Hotspur	0:0	0:2	27.02.1982	00:00	1981	1982	29
+Middlesbrough FC	Wolverhampton Wanderers	0:0	0:0	06.03.1982	00:00	1981	1982	30
+Notts County	Southampton FC	0:1	1:1	06.03.1982	00:00	1981	1982	30
+Manchester City	Arsenal FC	0:0	0:0	06.03.1982	00:00	1981	1982	30
+Birmingham City	Manchester United	0:1	0:1	06.03.1982	00:00	1981	1982	30
+Ipswich Town	Everton FC	1:0	3:0	06.03.1982	00:00	1981	1982	30
+Liverpool FC	Brighton & Hove Albion	0:1	0:1	06.03.1982	00:00	1981	1982	30
+Swansea City	Stoke City	1:0	3:0	06.03.1982	00:00	1981	1982	30
+West Ham United	Aston Villa	1:1	2:2	06.03.1982	00:00	1981	1982	30
+Coventry City	Nottingham Forest	0:1	0:1	09.03.1982	00:00	1981	1982	30
+Tottenham Hotspur	Sunderland AFC	2:0	2:2	14.04.1982	00:00	1981	1982	30
+West Bromwich Albion	Leeds United	0:0	2:0	18.05.1982	00:00	1981	1982	30
+Brighton & Hove Albion	Tottenham Hotspur	0:1	1:3	09.03.1982	00:00	1981	1982	31
+Sunderland AFC	Leeds United	0:0	0:1	13.03.1982	00:00	1981	1982	31
+Birmingham City	Stoke City	1:0	2:1	13.03.1982	00:00	1981	1982	31
+Arsenal FC	Ipswich Town	1:0	1:0	13.03.1982	00:00	1981	1982	31
+West Ham United	Notts County	0:0	1:0	13.03.1982	00:00	1981	1982	31
+Aston Villa	Wolverhampton Wanderers	2:1	3:1	13.03.1982	00:00	1981	1982	31
+Everton FC	Middlesbrough FC	1:0	2:0	13.03.1982	00:00	1981	1982	31
+Swansea City	Coventry City	0:0	0:0	13.03.1982	00:00	1981	1982	31
+Nottingham Forest	Manchester City	0:1	1:1	13.03.1982	00:00	1981	1982	31
+Southampton FC	West Bromwich Albion	0:0	0:0	13.03.1982	00:00	1981	1982	31
+Manchester United	Liverpool FC	0:0	0:1	07.04.1982	00:00	1981	1982	31
+Liverpool FC	Sunderland AFC	1:0	1:0	20.03.1982	00:00	1981	1982	32
+West Bromwich Albion	Birmingham City	0:0	1:1	20.03.1982	00:00	1981	1982	32
+Middlesbrough FC	West Ham United	0:2	2:3	20.03.1982	00:00	1981	1982	32
+Notts County	Manchester United	0:1	1:3	20.03.1982	00:00	1981	1982	32
+Wolverhampton Wanderers	Swansea City	0:1	0:1	20.03.1982	00:00	1981	1982	32
+Stoke City	Brighton & Hove Albion	0:0	0:0	20.03.1982	00:00	1981	1982	32
+Manchester City	Everton FC	1:1	1:1	20.03.1982	00:00	1981	1982	32
+Leeds United	Nottingham Forest	1:1	1:1	20.03.1982	00:00	1981	1982	32
+Ipswich Town	Aston Villa	2:0	3:1	20.03.1982	00:00	1981	1982	32
+Coventry City	Arsenal FC	0:0	1:0	20.03.1982	00:00	1981	1982	32
+Tottenham Hotspur	Southampton FC	2:0	3:2	20.03.1982	00:00	1981	1982	32
+West Bromwich Albion	Tottenham Hotspur	0:0	1:0	27.03.1982	00:00	1981	1982	33
+Swansea City	Ipswich Town	1:1	1:2	27.03.1982	00:00	1981	1982	33
+Birmingham City	Brighton & Hove Albion	0:0	1:0	27.03.1982	00:00	1981	1982	33
+Manchester United	Sunderland AFC	0:0	0:0	27.03.1982	00:00	1981	1982	33
+Arsenal FC	Aston Villa	2:2	4:3	27.03.1982	00:00	1981	1982	33
+Everton FC	Liverpool FC	1:1	1:3	27.03.1982	00:00	1981	1982	33
+Notts County	Leeds United	0:1	2:1	27.03.1982	00:00	1981	1982	33
+West Ham United	Nottingham Forest	0:1	0:1	27.03.1982	00:00	1981	1982	33
+Coventry City	Wolverhampton Wanderers	0:0	0:0	27.03.1982	00:00	1981	1982	33
+Middlesbrough FC	Manchester City	0:0	0:0	27.03.1982	00:00	1981	1982	33
+Southampton FC	Stoke City	3:0	4:3	27.03.1982	00:00	1981	1982	33
+Liverpool FC	Notts County	0:0	1:0	02.04.1982	00:00	1981	1982	34
+Leeds United	Manchester United	0:0	0:0	03.04.1982	00:00	1981	1982	34
+Sunderland AFC	Middlesbrough FC	0:1	0:2	03.04.1982	00:00	1981	1982	34
+Nottingham Forest	Everton FC	0:0	0:1	03.04.1982	00:00	1981	1982	34
+Brighton & Hove Albion	Southampton FC	1:0	1:1	03.04.1982	00:00	1981	1982	34
+Ipswich Town	Coventry City	1:0	1:0	03.04.1982	00:00	1981	1982	34
+Manchester City	West Ham United	0:0	0:1	03.04.1982	00:00	1981	1982	34
+Wolverhampton Wanderers	Arsenal FC	0:0	1:1	03.04.1982	00:00	1981	1982	34
+Tottenham Hotspur	Birmingham City	0:1	1:1	28.04.1982	00:00	1981	1982	34
+Stoke City	West Bromwich Albion	2:0	3:0	20.05.1982	00:00	1981	1982	34
+Aston Villa	Swansea City	2:0	3:0	21.05.1982	00:00	1981	1982	34
+Birmingham City	Leeds United	0:0	0:1	10.04.1982	00:00	1981	1982	35
+Middlesbrough FC	Notts County	1:0	3:0	10.04.1982	00:00	1981	1982	35
+Nottingham Forest	Wolverhampton Wanderers	0:0	0:1	10.04.1982	00:00	1981	1982	35
+Southampton FC	Aston Villa	0:0	0:3	10.04.1982	00:00	1981	1982	35
+Stoke City	Sunderland AFC	0:1	0:1	10.04.1982	00:00	1981	1982	35
+Tottenham Hotspur	Ipswich Town	0:0	1:0	10.04.1982	00:00	1981	1982	35
+Brighton & Hove Albion	Arsenal FC	0:0	2:1	10.04.1982	00:00	1981	1982	35
+Everton FC	Manchester United	1:1	3:3	10.04.1982	00:00	1981	1982	35
+Manchester City	Liverpool FC	0:2	0:5	10.04.1982	00:00	1981	1982	35
+West Bromwich Albion	Coventry City	1:1	1:2	10.04.1982	00:00	1981	1982	35
+West Ham United	Swansea City	0:1	1:1	10.04.1982	00:00	1981	1982	35
+Sunderland AFC	Birmingham City	2:0	2:0	12.04.1982	00:00	1981	1982	36
+Notts County	Nottingham Forest	1:1	1:2	12.04.1982	00:00	1981	1982	36
+Manchester United	West Bromwich Albion	0:0	1:0	12.04.1982	00:00	1981	1982	36
+Aston Villa	Brighton & Hove Albion	0:0	3:0	12.04.1982	00:00	1981	1982	36
+Arsenal FC	Tottenham Hotspur	0:1	1:3	12.04.1982	00:00	1981	1982	36
+Wolverhampton Wanderers	Manchester City	4:0	4:1	12.04.1982	00:00	1981	1982	36
+Ipswich Town	West Ham United	2:1	3:2	13.04.1982	00:00	1981	1982	36
+Leeds United	Middlesbrough FC	0:1	1:1	13.04.1982	00:00	1981	1982	36
+Liverpool FC	Stoke City	2:0	2:0	13.04.1982	00:00	1981	1982	36
+Coventry City	Everton FC	1:0	1:0	13.04.1982	00:00	1981	1982	36
+Swansea City	Southampton FC	1:0	1:0	13.04.1982	00:00	1981	1982	36
+Aston Villa	Middlesbrough FC	1:0	1:0	17.04.1982	00:00	1981	1982	37
+Ipswich Town	Stoke City	1:0	2:0	17.04.1982	00:00	1981	1982	37
+Liverpool FC	West Bromwich Albion	0:0	1:0	17.04.1982	00:00	1981	1982	37
+Manchester United	Tottenham Hotspur	0:0	2:0	17.04.1982	00:00	1981	1982	37
+Arsenal FC	Nottingham Forest	1:0	2:0	17.04.1982	00:00	1981	1982	37
+Coventry City	West Ham United	1:0	1:0	17.04.1982	00:00	1981	1982	37
+Notts County	Brighton & Hove Albion	2:0	4:1	17.04.1982	00:00	1981	1982	37
+Sunderland AFC	Everton FC	1:1	3:1	17.04.1982	00:00	1981	1982	37
+Swansea City	Manchester City	2:0	2:0	17.04.1982	00:00	1981	1982	37
+Leeds United	Southampton FC	1:3	1:3	17.04.1982	00:00	1981	1982	37
+Wolverhampton Wanderers	Birmingham City	0:0	1:1	17.04.1982	00:00	1981	1982	37
+Nottingham Forest	Aston Villa	1:0	1:1	24.04.1982	00:00	1981	1982	38
+Southampton FC	Liverpool FC	1:1	2:3	24.04.1982	00:00	1981	1982	38
+Tottenham Hotspur	Notts County	2:1	3:1	24.04.1982	00:00	1981	1982	38
+West Ham United	Leeds United	0:1	4:3	24.04.1982	00:00	1981	1982	38
+West Bromwich Albion	Sunderland AFC	1:2	2:3	24.04.1982	00:00	1981	1982	38
+Middlesbrough FC	Coventry City	0:0	0:0	24.04.1982	00:00	1981	1982	38
+Manchester City	Ipswich Town	0:1	1:1	24.04.1982	00:00	1981	1982	38
+Everton FC	Arsenal FC	1:1	2:1	24.04.1982	00:00	1981	1982	38
+Brighton & Hove Albion	Manchester United	0:0	0:1	24.04.1982	00:00	1981	1982	38
+Birmingham City	Swansea City	1:0	2:1	24.04.1982	00:00	1981	1982	38
+Stoke City	Wolverhampton Wanderers	1:1	2:1	24.04.1982	00:00	1981	1982	38
+Leeds United	Stoke City	0:0	0:0	01.05.1982	00:00	1981	1982	39
+Arsenal FC	West Ham United	2:0	2:0	01.05.1982	00:00	1981	1982	39
+Aston Villa	Manchester City	0:0	0:0	01.05.1982	00:00	1981	1982	39
+Ipswich Town	Middlesbrough FC	2:1	3:1	01.05.1982	00:00	1981	1982	39
+Liverpool FC	Nottingham Forest	0:0	2:0	01.05.1982	00:00	1981	1982	39
+Manchester United	Southampton FC	0:0	1:0	01.05.1982	00:00	1981	1982	39
+Notts County	Birmingham City	1:1	1:4	01.05.1982	00:00	1981	1982	39
+Coventry City	Tottenham Hotspur	0:0	0:0	01.05.1982	00:00	1981	1982	39
+Sunderland AFC	Brighton & Hove Albion	1:0	3:0	01.05.1982	00:00	1981	1982	39
+Swansea City	Everton FC	0:1	1:3	01.05.1982	00:00	1981	1982	39
+Wolverhampton Wanderers	West Bromwich Albion	0:1	1:2	01.05.1982	00:00	1981	1982	39
+Manchester United	Middlesbrough FC	0:0	1:0	21.10.1981	00:00	1981	1982	40
+Notts County	Everton FC	0:1	2:2	24.11.1981	00:00	1981	1982	40
+Sunderland AFC	Nottingham Forest	0:1	2:3	25.11.1981	00:00	1981	1982	40
+Southampton FC	West Ham United	2:1	2:1	20.02.1982	00:00	1981	1982	40
+Liverpool FC	Coventry City	3:0	4:0	20.02.1982	00:00	1981	1982	40
+Leeds United	Manchester City	0:0	0:1	10.03.1982	00:00	1981	1982	40
+Birmingham City	Arsenal FC	0:0	0:1	04.05.1982	00:00	1981	1982	40
+Brighton & Hove Albion	Wolverhampton Wanderers	2:0	2:0	04.05.1982	00:00	1981	1982	40
+Stoke City	Aston Villa	1:0	1:0	05.05.1982	00:00	1981	1982	40
+Tottenham Hotspur	Swansea City	1:0	2:1	05.05.1982	00:00	1981	1982	40
+West Bromwich Albion	Ipswich Town	0:1	1:2	05.05.1982	00:00	1981	1982	40
+Tottenham Hotspur	Leeds United	1:0	2:1	08.05.1982	00:00	1981	1982	41
+West Ham United	Manchester United	0:0	1:1	08.05.1982	00:00	1981	1982	41
+West Bromwich Albion	Aston Villa	0:0	0:1	08.05.1982	00:00	1981	1982	41
+Stoke City	Notts County	2:1	2:2	08.05.1982	00:00	1981	1982	41
+Nottingham Forest	Swansea City	0:1	0:2	08.05.1982	00:00	1981	1982	41
+Middlesbrough FC	Arsenal FC	1:1	1:3	08.05.1982	00:00	1981	1982	41
+Brighton & Hove Albion	Ipswich Town	0:1	0:1	08.05.1982	00:00	1981	1982	41
+Birmingham City	Liverpool FC	0:0	0:1	08.05.1982	00:00	1981	1982	41
+Everton FC	Wolverhampton Wanderers	1:1	1:1	08.05.1982	00:00	1981	1982	41
+Manchester City	Coventry City	0:2	1:3	08.05.1982	00:00	1981	1982	41
+Southampton FC	Sunderland AFC	0:0	1:0	08.05.1982	00:00	1981	1982	41
+Aston Villa	Everton FC	1:1	1:2	15.05.1982	00:00	1981	1982	42
+Ipswich Town	Nottingham Forest	0:0	1:3	15.05.1982	00:00	1981	1982	42
+Liverpool FC	Tottenham Hotspur	0:1	3:1	15.05.1982	00:00	1981	1982	42
+Swansea City	Middlesbrough FC	0:0	1:2	15.05.1982	00:00	1981	1982	42
+Arsenal FC	Southampton FC	3:0	4:1	15.05.1982	00:00	1981	1982	42
+Wolverhampton Wanderers	West Ham United	2:1	2:1	15.05.1982	00:00	1981	1982	42
+Sunderland AFC	Manchester City	1:0	1:0	15.05.1982	00:00	1981	1982	42
+Notts County	West Bromwich Albion	0:1	1:2	15.05.1982	00:00	1981	1982	42
+Manchester United	Stoke City	2:0	2:0	15.05.1982	00:00	1981	1982	42
+Leeds United	Brighton & Hove Albion	0:1	2:1	15.05.1982	00:00	1981	1982	42
+Coventry City	Birmingham City	0:0	0:1	15.05.1982	00:00	1981	1982	42

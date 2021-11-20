@@ -1,0 +1,380 @@
+Southampton FC	Middlesbrough FC	0:0	0:0	17.08.2002	16:00	2002	2003	1
+Leeds United	Manchester City	2:0	3:0	17.08.2002	16:00	2002	2003	1
+Manchester United	West Bromwich Albion	0:0	1:0	17.08.2002	16:00	2002	2003	1
+Charlton Athletic	Chelsea FC	2:1	2:3	17.08.2002	16:00	2002	2003	1
+Everton FC	Tottenham Hotspur	1:0	2:2	17.08.2002	16:00	2002	2003	1
+Fulham FC	Bolton Wanderers	3:1	4:1	17.08.2002	16:00	2002	2003	1
+Blackburn Rovers	Sunderland AFC	0:0	0:0	17.08.2002	16:00	2002	2003	1
+Aston Villa	Liverpool FC	0:0	0:1	18.08.2002	15:00	2002	2003	1
+Arsenal FC	Birmingham City	2:0	2:0	18.08.2002	17:05	2002	2003	1
+Newcastle United	West Ham United	0:0	4:0	19.08.2002	21:00	2002	2003	1
+Chelsea FC	Manchester United	2:1	2:2	23.08.2002	21:00	2002	2003	2
+Manchester City	Newcastle United	1:0	1:0	24.08.2002	13:15	2002	2003	2
+West Ham United	Arsenal FC	1:0	2:2	24.08.2002	16:00	2002	2003	2
+Sunderland AFC	Everton FC	0:1	0:1	24.08.2002	16:00	2002	2003	2
+Tottenham Hotspur	Aston Villa	1:0	1:0	24.08.2002	16:00	2002	2003	2
+Liverpool FC	Southampton FC	1:0	3:0	24.08.2002	16:00	2002	2003	2
+Middlesbrough FC	Fulham FC	1:0	2:2	24.08.2002	16:00	2002	2003	2
+Birmingham City	Blackburn Rovers	0:1	0:1	24.08.2002	16:00	2002	2003	2
+Bolton Wanderers	Charlton Athletic	1:1	1:2	24.08.2002	16:00	2002	2003	2
+West Bromwich Albion	Leeds United	0:1	1:3	24.08.2002	18:30	2002	2003	2
+Charlton Athletic	Tottenham Hotspur	0:1	0:1	27.08.2002	20:45	2002	2003	3
+Arsenal FC	West Bromwich Albion	3:0	5:2	27.08.2002	21:00	2002	2003	3
+Leeds United	Sunderland AFC	0:0	0:1	28.08.2002	20:45	2002	2003	3
+Southampton FC	Chelsea FC	0:0	1:1	28.08.2002	20:45	2002	2003	3
+Aston Villa	Manchester City	0:0	1:0	28.08.2002	20:45	2002	2003	3
+Blackburn Rovers	Liverpool FC	1:1	2:2	28.08.2002	21:00	2002	2003	3
+Everton FC	Birmingham City	0:0	1:1	28.08.2002	21:00	2002	2003	3
+Manchester United	Middlesbrough FC	1:0	1:0	03.09.2002	21:00	2002	2003	3
+Fulham FC	West Ham United	0:0	0:1	23.10.2002	20:45	2002	2003	3
+Newcastle United	Bolton Wanderers	1:0	1:0	22.01.2003	20:45	2002	2003	3
+Birmingham City	Leeds United	1:0	2:1	31.08.2002	13:00	2002	2003	4
+West Ham United	Charlton Athletic	0:2	0:2	31.08.2002	16:00	2002	2003	4
+Sunderland AFC	Manchester United	0:1	1:1	31.08.2002	16:00	2002	2003	4
+Tottenham Hotspur	Southampton FC	1:1	2:1	31.08.2002	16:00	2002	2003	4
+West Bromwich Albion	Fulham FC	0:0	1:0	31.08.2002	16:00	2002	2003	4
+Manchester City	Everton FC	2:1	3:1	31.08.2002	16:00	2002	2003	4
+Middlesbrough FC	Blackburn Rovers	0:0	1:0	31.08.2002	16:00	2002	2003	4
+Bolton Wanderers	Aston Villa	0:0	1:0	01.09.2002	15:00	2002	2003	4
+Chelsea FC	Arsenal FC	1:0	1:1	01.09.2002	17:05	2002	2003	4
+Liverpool FC	Newcastle United	0:0	2:2	02.09.2002	21:00	2002	2003	4
+Middlesbrough FC	Sunderland AFC	2:0	3:0	10.09.2002	20:45	2002	2003	5
+Arsenal FC	Manchester City	2:1	2:1	10.09.2002	21:00	2002	2003	5
+Aston Villa	Charlton Athletic	0:0	2:0	11.09.2002	20:45	2002	2003	5
+West Ham United	West Bromwich Albion	0:1	0:1	11.09.2002	20:45	2002	2003	5
+Southampton FC	Everton FC	0:0	1:0	11.09.2002	20:45	2002	2003	5
+Fulham FC	Tottenham Hotspur	0:2	3:2	11.09.2002	20:45	2002	2003	5
+Manchester United	Bolton Wanderers	0:0	0:1	11.09.2002	21:00	2002	2003	5
+Newcastle United	Leeds United	0:1	0:2	11.09.2002	21:00	2002	2003	5
+Blackburn Rovers	Chelsea FC	2:1	2:3	11.09.2002	21:00	2002	2003	5
+Liverpool FC	Birmingham City	1:0	2:2	11.09.2002	21:00	2002	2003	5
+Leeds United	Manchester United	0:0	1:0	14.09.2002	13:00	2002	2003	6
+West Bromwich Albion	Southampton FC	0:0	1:0	14.09.2002	16:00	2002	2003	6
+Sunderland AFC	Fulham FC	0:1	0:3	14.09.2002	16:00	2002	2003	6
+Chelsea FC	Newcastle United	2:0	3:0	14.09.2002	16:00	2002	2003	6
+Everton FC	Middlesbrough FC	1:1	2:1	14.09.2002	16:00	2002	2003	6
+Bolton Wanderers	Liverpool FC	0:1	2:3	14.09.2002	16:00	2002	2003	6
+Charlton Athletic	Arsenal FC	0:1	0:3	14.09.2002	16:00	2002	2003	6
+Manchester City	Blackburn Rovers	0:1	2:2	15.09.2002	15:00	2002	2003	6
+Tottenham Hotspur	West Ham United	0:0	3:2	15.09.2002	17:05	2002	2003	6
+Birmingham City	Aston Villa	1:0	3:0	16.09.2002	21:00	2002	2003	6
+Newcastle United	Sunderland AFC	2:0	2:0	21.09.2002	13:15	2002	2003	7
+West Ham United	Manchester City	0:0	0:0	21.09.2002	16:00	2002	2003	7
+Middlesbrough FC	Birmingham City	1:0	1:0	21.09.2002	16:00	2002	2003	7
+Southampton FC	Charlton Athletic	0:0	0:0	21.09.2002	16:00	2002	2003	7
+Liverpool FC	West Bromwich Albion	0:0	2:0	21.09.2002	16:00	2002	2003	7
+Manchester United	Tottenham Hotspur	0:0	1:0	21.09.2002	16:00	2002	2003	7
+Arsenal FC	Bolton Wanderers	1:0	2:1	21.09.2002	16:00	2002	2003	7
+Aston Villa	Everton FC	1:0	3:2	22.09.2002	15:00	2002	2003	7
+Blackburn Rovers	Leeds United	1:0	1:0	22.09.2002	16:00	2002	2003	7
+Fulham FC	Chelsea FC	0:0	0:0	23.09.2002	21:00	2002	2003	7
+Leeds United	Arsenal FC	0:2	1:4	28.09.2002	13:00	2002	2003	8
+Charlton Athletic	Manchester United	1:0	1:3	28.09.2002	16:00	2002	2003	8
+Chelsea FC	West Ham United	1:1	2:3	28.09.2002	16:00	2002	2003	8
+Everton FC	Fulham FC	2:0	2:0	28.09.2002	16:00	2002	2003	8
+Bolton Wanderers	Southampton FC	0:0	1:1	28.09.2002	16:00	2002	2003	8
+Manchester City	Liverpool FC	0:1	0:3	28.09.2002	16:00	2002	2003	8
+Sunderland AFC	Aston Villa	0:0	1:0	28.09.2002	16:00	2002	2003	8
+Tottenham Hotspur	Middlesbrough FC	0:1	0:3	28.09.2002	16:00	2002	2003	8
+Birmingham City	Newcastle United	0:1	0:2	28.09.2002	18:30	2002	2003	8
+West Bromwich Albion	Blackburn Rovers	0:0	0:2	30.09.2002	21:00	2002	2003	8
+West Ham United	Birmingham City	1:2	1:2	05.10.2002	16:00	2002	2003	9
+Middlesbrough FC	Bolton Wanderers	1:0	2:0	05.10.2002	16:00	2002	2003	9
+Newcastle United	West Bromwich Albion	1:1	2:1	05.10.2002	16:00	2002	2003	9
+Southampton FC	Manchester City	2:0	2:0	05.10.2002	16:00	2002	2003	9
+Fulham FC	Charlton Athletic	1:0	1:0	06.10.2002	14:00	2002	2003	9
+Arsenal FC	Sunderland AFC	3:0	3:1	06.10.2002	15:00	2002	2003	9
+Aston Villa	Leeds United	0:0	0:0	06.10.2002	16:00	2002	2003	9
+Blackburn Rovers	Tottenham Hotspur	0:1	1:2	06.10.2002	16:00	2002	2003	9
+Liverpool FC	Chelsea FC	0:0	1:0	06.10.2002	17:05	2002	2003	9
+Manchester United	Everton FC	0:0	3:0	07.10.2002	21:00	2002	2003	9
+Leeds United	Liverpool FC	0:0	0:1	19.10.2002	13:00	2002	2003	10
+West Bromwich Albion	Birmingham City	0:0	1:1	19.10.2002	16:00	2002	2003	10
+Manchester City	Chelsea FC	0:0	0:3	19.10.2002	16:00	2002	2003	10
+Sunderland AFC	West Ham United	0:1	0:1	19.10.2002	16:00	2002	2003	10
+Everton FC	Arsenal FC	1:1	2:1	19.10.2002	16:00	2002	2003	10
+Fulham FC	Manchester United	1:0	1:1	19.10.2002	16:00	2002	2003	10
+Blackburn Rovers	Newcastle United	2:1	5:2	19.10.2002	16:00	2002	2003	10
+Tottenham Hotspur	Bolton Wanderers	0:0	3:1	20.10.2002	17:05	2002	2003	10
+Charlton Athletic	Middlesbrough FC	1:0	1:0	20.10.2002	17:05	2002	2003	10
+Aston Villa	Southampton FC	0:0	0:1	21.10.2002	21:00	2002	2003	10
+Middlesbrough FC	Leeds United	1:1	2:2	26.10.2002	16:00	2002	2003	11
+Newcastle United	Charlton Athletic	1:1	2:1	26.10.2002	16:00	2002	2003	11
+Chelsea FC	West Bromwich Albion	1:0	2:0	26.10.2002	16:00	2002	2003	11
+Liverpool FC	Tottenham Hotspur	0:0	2:1	26.10.2002	16:00	2002	2003	11
+Manchester United	Aston Villa	0:1	1:1	26.10.2002	16:00	2002	2003	11
+Arsenal FC	Blackburn Rovers	1:1	1:2	26.10.2002	16:00	2002	2003	11
+Birmingham City	Manchester City	0:1	0:2	26.10.2002	16:00	2002	2003	11
+Southampton FC	Fulham FC	2:2	4:2	27.10.2002	15:00	2002	2003	11
+West Ham United	Everton FC	0:0	0:1	27.10.2002	17:05	2002	2003	11
+Bolton Wanderers	Sunderland AFC	0:1	1:1	28.10.2002	21:00	2002	2003	11
+West Bromwich Albion	Manchester City	0:0	1:2	02.11.2002	16:00	2002	2003	12
+Manchester United	Southampton FC	1:1	2:1	02.11.2002	16:00	2002	2003	12
+Liverpool FC	West Ham United	1:0	2:0	02.11.2002	16:00	2002	2003	12
+Birmingham City	Bolton Wanderers	0:0	3:1	02.11.2002	16:00	2002	2003	12
+Tottenham Hotspur	Chelsea FC	0:0	0:0	03.11.2002	15:00	2002	2003	12
+Fulham FC	Arsenal FC	0:1	0:1	03.11.2002	15:00	2002	2003	12
+Leeds United	Everton FC	0:0	0:1	03.11.2002	16:00	2002	2003	12
+Blackburn Rovers	Aston Villa	0:0	0:0	03.11.2002	16:00	2002	2003	12
+Charlton Athletic	Sunderland AFC	0:1	1:1	03.11.2002	17:05	2002	2003	12
+Newcastle United	Middlesbrough FC	1:0	2:0	04.11.2002	21:00	2002	2003	12
+Manchester City	Manchester United	2:1	3:1	09.11.2002	13:15	2002	2003	13
+Middlesbrough FC	Liverpool FC	0:0	1:0	09.11.2002	16:00	2002	2003	13
+Southampton FC	Blackburn Rovers	1:0	1:1	09.11.2002	16:00	2002	2003	13
+Chelsea FC	Birmingham City	3:0	3:0	09.11.2002	16:00	2002	2003	13
+Everton FC	Charlton Athletic	1:0	1:0	09.11.2002	16:00	2002	2003	13
+Arsenal FC	Newcastle United	1:0	1:0	09.11.2002	16:00	2002	2003	13
+Aston Villa	Fulham FC	1:0	3:1	09.11.2002	16:00	2002	2003	13
+Bolton Wanderers	West Bromwich Albion	0:1	1:1	09.11.2002	16:00	2002	2003	13
+West Ham United	Leeds United	1:4	3:4	10.11.2002	15:00	2002	2003	13
+Sunderland AFC	Tottenham Hotspur	0:0	2:0	10.11.2002	17:05	2002	2003	13
+Manchester City	Charlton Athletic	0:0	0:1	16.11.2002	16:00	2002	2003	14
+Newcastle United	Southampton FC	1:1	2:1	16.11.2002	16:00	2002	2003	14
+West Bromwich Albion	Aston Villa	0:0	0:0	16.11.2002	16:00	2002	2003	14
+Chelsea FC	Middlesbrough FC	0:0	1:0	16.11.2002	16:00	2002	2003	14
+Arsenal FC	Tottenham Hotspur	1:0	3:0	16.11.2002	16:00	2002	2003	14
+Liverpool FC	Sunderland AFC	0:0	0:0	17.11.2002	15:00	2002	2003	14
+Leeds United	Bolton Wanderers	1:1	2:4	17.11.2002	16:00	2002	2003	14
+Birmingham City	Fulham FC	0:0	0:0	17.11.2002	16:00	2002	2003	14
+Blackburn Rovers	Everton FC	0:1	0:1	17.11.2002	16:00	2002	2003	14
+West Ham United	Manchester United	0:1	1:1	17.11.2002	17:05	2002	2003	14
+Manchester United	Newcastle United	3:1	5:3	23.11.2002	13:15	2002	2003	15
+Middlesbrough FC	Manchester City	0:0	3:1	23.11.2002	16:00	2002	2003	15
+Southampton FC	Arsenal FC	1:1	3:2	23.11.2002	16:00	2002	2003	15
+Sunderland AFC	Birmingham City	0:0	0:1	23.11.2002	16:00	2002	2003	15
+Everton FC	West Bromwich Albion	1:0	1:0	23.11.2002	16:00	2002	2003	15
+Fulham FC	Liverpool FC	2:0	3:2	23.11.2002	16:00	2002	2003	15
+Aston Villa	West Ham United	1:0	4:1	23.11.2002	16:00	2002	2003	15
+Bolton Wanderers	Chelsea FC	0:0	1:1	23.11.2002	16:00	2002	2003	15
+Tottenham Hotspur	Leeds United	2:0	2:0	24.11.2002	15:00	2002	2003	15
+Charlton Athletic	Blackburn Rovers	0:0	3:1	24.11.2002	17:05	2002	2003	15
+Manchester City	Bolton Wanderers	1:0	2:0	30.11.2002	16:00	2002	2003	16
+West Bromwich Albion	Middlesbrough FC	0:0	1:0	30.11.2002	16:00	2002	2003	16
+Chelsea FC	Sunderland AFC	0:0	3:0	30.11.2002	16:00	2002	2003	16
+Arsenal FC	Aston Villa	1:0	3:1	30.11.2002	16:00	2002	2003	16
+Birmingham City	Tottenham Hotspur	0:0	1:1	30.11.2002	16:00	2002	2003	16
+Blackburn Rovers	Fulham FC	1:0	2:1	30.11.2002	16:00	2002	2003	16
+Liverpool FC	Manchester United	0:0	1:2	01.12.2002	13:15	2002	2003	16
+Newcastle United	Everton FC	0:1	2:1	01.12.2002	15:15	2002	2003	16
+Leeds United	Charlton Athletic	1:0	1:2	01.12.2002	16:00	2002	2003	16
+West Ham United	Southampton FC	0:0	0:1	02.12.2002	21:00	2002	2003	16
+Manchester United	Arsenal FC	1:0	2:0	07.12.2002	13:15	2002	2003	17
+Middlesbrough FC	West Ham United	0:0	2:2	07.12.2002	16:00	2002	2003	17
+Southampton FC	Birmingham City	0:0	2:0	07.12.2002	16:00	2002	2003	17
+Everton FC	Chelsea FC	1:2	1:3	07.12.2002	16:00	2002	2003	17
+Fulham FC	Leeds United	1:0	1:0	07.12.2002	16:00	2002	2003	17
+Aston Villa	Newcastle United	0:0	0:1	07.12.2002	16:00	2002	2003	17
+Bolton Wanderers	Blackburn Rovers	1:0	1:1	07.12.2002	16:00	2002	2003	17
+Charlton Athletic	Liverpool FC	1:0	2:0	07.12.2002	16:00	2002	2003	17
+Tottenham Hotspur	West Bromwich Albion	2:0	3:1	08.12.2002	17:05	2002	2003	17
+Sunderland AFC	Manchester City	0:1	0:3	09.12.2002	21:00	2002	2003	17
+Manchester United	West Ham United	2:0	3:0	14.12.2002	13:15	2002	2003	18
+Middlesbrough FC	Chelsea FC	1:1	1:1	14.12.2002	16:00	2002	2003	18
+Southampton FC	Newcastle United	0:0	1:1	14.12.2002	16:00	2002	2003	18
+Everton FC	Blackburn Rovers	2:1	2:1	14.12.2002	16:00	2002	2003	18
+Aston Villa	West Bromwich Albion	1:1	2:1	14.12.2002	16:00	2002	2003	18
+Charlton Athletic	Manchester City	0:0	2:2	14.12.2002	16:00	2002	2003	18
+Tottenham Hotspur	Arsenal FC	1:1	1:1	15.12.2002	15:00	2002	2003	18
+Fulham FC	Birmingham City	0:1	0:1	15.12.2002	15:00	2002	2003	18
+Sunderland AFC	Liverpool FC	1:0	2:1	15.12.2002	17:05	2002	2003	18
+Bolton Wanderers	Leeds United	0:2	0:3	16.12.2002	21:00	2002	2003	18
+West Ham United	Bolton Wanderers	1:0	1:1	21.12.2002	16:00	2002	2003	19
+Newcastle United	Fulham FC	1:0	2:0	21.12.2002	16:00	2002	2003	19
+Chelsea FC	Aston Villa	1:0	2:0	21.12.2002	16:00	2002	2003	19
+Leeds United	Southampton FC	0:0	1:1	21.12.2002	16:00	2002	2003	19
+Arsenal FC	Middlesbrough FC	1:0	2:0	21.12.2002	16:00	2002	2003	19
+Birmingham City	Charlton Athletic	0:1	1:1	21.12.2002	16:00	2002	2003	19
+West Bromwich Albion	Sunderland AFC	2:0	2:2	21.12.2002	16:00	2002	2003	19
+Blackburn Rovers	Manchester United	1:0	1:0	22.12.2002	15:00	2002	2003	19
+Liverpool FC	Everton FC	0:0	0:0	22.12.2002	17:05	2002	2003	19
+Manchester City	Tottenham Hotspur	1:1	2:3	23.12.2002	21:00	2002	2003	19
+West Ham United	Fulham FC	0:0	1:1	26.12.2002	13:00	2002	2003	20
+Tottenham Hotspur	Charlton Athletic	0:1	2:2	26.12.2002	13:00	2002	2003	20
+Chelsea FC	Southampton FC	0:0	0:0	26.12.2002	13:00	2002	2003	20
+Bolton Wanderers	Newcastle United	3:1	4:3	26.12.2002	14:00	2002	2003	20
+West Bromwich Albion	Arsenal FC	1:0	1:2	26.12.2002	15:00	2002	2003	20
+Sunderland AFC	Leeds United	1:0	1:2	26.12.2002	16:00	2002	2003	20
+Liverpool FC	Blackburn Rovers	1:0	1:1	26.12.2002	16:00	2002	2003	20
+Manchester City	Aston Villa	1:1	3:1	26.12.2002	16:00	2002	2003	20
+Birmingham City	Everton FC	1:1	1:1	26.12.2002	16:00	2002	2003	20
+Middlesbrough FC	Manchester United	1:0	3:1	26.12.2002	17:00	2002	2003	20
+Southampton FC	Sunderland AFC	0:0	2:1	28.12.2002	16:00	2002	2003	21
+Leeds United	Chelsea FC	2:0	2:0	28.12.2002	16:00	2002	2003	21
+Manchester United	Birmingham City	1:0	2:0	28.12.2002	16:00	2002	2003	21
+Charlton Athletic	West Bromwich Albion	1:0	1:0	28.12.2002	16:00	2002	2003	21
+Everton FC	Bolton Wanderers	0:0	0:0	28.12.2002	16:00	2002	2003	21
+Fulham FC	Manchester City	0:0	0:1	28.12.2002	16:00	2002	2003	21
+Aston Villa	Middlesbrough FC	1:0	1:0	28.12.2002	16:00	2002	2003	21
+Blackburn Rovers	West Ham United	1:1	2:2	28.12.2002	16:00	2002	2003	21
+Newcastle United	Tottenham Hotspur	1:0	2:1	29.12.2002	15:00	2002	2003	21
+Arsenal FC	Liverpool FC	0:0	1:1	29.12.2002	17:05	2002	2003	21
+Manchester United	Sunderland AFC	0:1	2:1	01.01.2003	15:00	2002	2003	22
+Southampton FC	Tottenham Hotspur	0:0	1:0	01.01.2003	16:00	2002	2003	22
+Leeds United	Birmingham City	1:0	2:0	01.01.2003	16:00	2002	2003	22
+Everton FC	Manchester City	1:1	2:2	01.01.2003	16:00	2002	2003	22
+Arsenal FC	Chelsea FC	1:0	3:2	01.01.2003	16:00	2002	2003	22
+Aston Villa	Bolton Wanderers	1:0	2:0	01.01.2003	16:00	2002	2003	22
+Blackburn Rovers	Middlesbrough FC	0:0	1:0	01.01.2003	16:00	2002	2003	22
+Newcastle United	Liverpool FC	1:0	1:0	01.01.2003	20:45	2002	2003	22
+Charlton Athletic	West Ham United	2:1	4:2	22.01.2003	20:45	2002	2003	22
+Fulham FC	West Bromwich Albion	0:0	3:0	19.02.2003	20:45	2002	2003	22
+West Ham United	Newcastle United	2:1	2:2	11.01.2003	16:00	2002	2003	23
+Sunderland AFC	Blackburn Rovers	0:0	0:0	11.01.2003	16:00	2002	2003	23
+West Bromwich Albion	Manchester United	1:2	1:3	11.01.2003	16:00	2002	2003	23
+Liverpool FC	Aston Villa	1:0	1:1	11.01.2003	16:00	2002	2003	23
+Manchester City	Leeds United	1:0	2:1	11.01.2003	16:00	2002	2003	23
+Middlesbrough FC	Southampton FC	0:1	2:2	11.01.2003	16:00	2002	2003	23
+Bolton Wanderers	Fulham FC	0:0	0:0	11.01.2003	16:00	2002	2003	23
+Chelsea FC	Charlton Athletic	3:1	4:1	11.01.2003	16:00	2002	2003	23
+Tottenham Hotspur	Everton FC	1:1	4:3	12.01.2003	15:00	2002	2003	23
+Birmingham City	Arsenal FC	0:2	0:4	12.01.2003	17:05	2002	2003	23
+Manchester United	Chelsea FC	1:1	2:1	18.01.2003	13:30	2002	2003	24
+Leeds United	West Bromwich Albion	0:0	0:0	18.01.2003	16:00	2002	2003	24
+Newcastle United	Manchester City	1:0	2:0	18.01.2003	16:00	2002	2003	24
+Charlton Athletic	Bolton Wanderers	0:0	1:1	18.01.2003	16:00	2002	2003	24
+Everton FC	Sunderland AFC	0:1	2:1	18.01.2003	16:00	2002	2003	24
+Aston Villa	Tottenham Hotspur	0:0	0:1	18.01.2003	16:00	2002	2003	24
+Blackburn Rovers	Birmingham City	1:0	1:1	18.01.2003	16:00	2002	2003	24
+Southampton FC	Liverpool FC	0:1	0:1	18.01.2003	18:35	2002	2003	24
+Arsenal FC	West Ham United	1:1	3:1	19.01.2003	15:00	2002	2003	24
+Fulham FC	Middlesbrough FC	1:0	1:0	19.01.2003	17:05	2002	2003	24
+Middlesbrough FC	Aston Villa	2:2	2:5	28.01.2003	20:45	2002	2003	25
+Sunderland AFC	Southampton FC	0:0	0:1	28.01.2003	21:00	2002	2003	25
+Bolton Wanderers	Everton FC	0:2	1:2	28.01.2003	21:00	2002	2003	25
+Chelsea FC	Leeds United	0:1	3:2	28.01.2003	21:00	2002	2003	25
+West Bromwich Albion	Charlton Athletic	0:0	0:1	29.01.2003	20:45	2002	2003	25
+West Ham United	Blackburn Rovers	0:1	2:1	29.01.2003	20:45	2002	2003	25
+Manchester City	Fulham FC	1:1	4:1	29.01.2003	20:45	2002	2003	25
+Tottenham Hotspur	Newcastle United	0:0	0:1	29.01.2003	20:45	2002	2003	25
+Liverpool FC	Arsenal FC	0:1	2:2	29.01.2003	21:00	2002	2003	25
+Birmingham City	Manchester United	0:0	0:1	04.02.2003	20:45	2002	2003	25
+Southampton FC	Manchester United	0:2	0:2	01.02.2003	16:00	2002	2003	26
+Sunderland AFC	Charlton Athletic	0:3	1:3	01.02.2003	16:00	2002	2003	26
+Chelsea FC	Tottenham Hotspur	1:1	1:1	01.02.2003	16:00	2002	2003	26
+Everton FC	Leeds United	0:0	2:0	01.02.2003	16:00	2002	2003	26
+Manchester City	West Bromwich Albion	1:1	1:2	01.02.2003	16:00	2002	2003	26
+Arsenal FC	Fulham FC	1:1	2:1	01.02.2003	16:00	2002	2003	26
+Bolton Wanderers	Birmingham City	1:1	4:2	01.02.2003	16:00	2002	2003	26
+West Ham United	Liverpool FC	0:2	0:3	02.02.2003	15:00	2002	2003	26
+Aston Villa	Blackburn Rovers	2:0	3:0	02.02.2003	17:05	2002	2003	26
+Middlesbrough FC	Newcastle United	0:0	1:0	05.03.2003	20:45	2002	2003	26
+Liverpool FC	Middlesbrough FC	0:1	1:1	08.02.2003	13:30	2002	2003	27
+West Bromwich Albion	Bolton Wanderers	0:1	1:1	08.02.2003	16:00	2002	2003	27
+Tottenham Hotspur	Sunderland AFC	2:1	4:1	08.02.2003	16:00	2002	2003	27
+Fulham FC	Aston Villa	2:1	2:1	08.02.2003	16:00	2002	2003	27
+Leeds United	West Ham United	1:0	1:0	08.02.2003	16:00	2002	2003	27
+Birmingham City	Chelsea FC	0:1	1:3	08.02.2003	16:00	2002	2003	27
+Blackburn Rovers	Southampton FC	1:0	1:0	08.02.2003	16:00	2002	2003	27
+Charlton Athletic	Everton FC	1:0	2:1	08.02.2003	16:00	2002	2003	27
+Manchester United	Manchester City	1:0	1:1	09.02.2003	13:30	2002	2003	27
+Newcastle United	Arsenal FC	0:1	1:1	09.02.2003	17:05	2002	2003	27
+Bolton Wanderers	Manchester United	0:0	1:1	22.02.2003	13:00	2002	2003	28
+Everton FC	Southampton FC	0:1	2:1	22.02.2003	13:30	2002	2003	28
+Manchester City	Arsenal FC	0:4	1:5	22.02.2003	16:00	2002	2003	28
+Sunderland AFC	Middlesbrough FC	0:2	1:3	22.02.2003	16:00	2002	2003	28
+Chelsea FC	Blackburn Rovers	0:0	1:2	22.02.2003	16:00	2002	2003	28
+Leeds United	Newcastle United	0:1	0:3	22.02.2003	16:00	2002	2003	28
+Charlton Athletic	Aston Villa	0:0	3:0	22.02.2003	16:00	2002	2003	28
+West Bromwich Albion	West Ham United	0:1	1:2	23.02.2003	15:00	2002	2003	28
+Birmingham City	Liverpool FC	1:0	2:1	23.02.2003	17:05	2002	2003	28
+Tottenham Hotspur	Fulham FC	1:1	1:1	24.02.2003	21:00	2002	2003	28
+Newcastle United	Chelsea FC	1:1	2:1	01.03.2003	13:30	2002	2003	29
+West Ham United	Tottenham Hotspur	1:0	2:0	01.03.2003	16:00	2002	2003	29
+Middlesbrough FC	Everton FC	0:1	1:1	01.03.2003	16:00	2002	2003	29
+Southampton FC	West Bromwich Albion	1:0	1:0	01.03.2003	16:00	2002	2003	29
+Fulham FC	Sunderland AFC	0:0	1:0	01.03.2003	16:00	2002	2003	29
+Blackburn Rovers	Manchester City	1:0	1:0	01.03.2003	16:00	2002	2003	29
+Arsenal FC	Charlton Athletic	2:0	2:0	02.03.2003	13:00	2002	2003	29
+Aston Villa	Birmingham City	0:0	0:2	03.03.2003	21:00	2002	2003	29
+Manchester United	Leeds United	1:0	2:1	05.03.2003	21:00	2002	2003	29
+Liverpool FC	Bolton Wanderers	1:0	2:0	08.03.2003	16:00	2002	2003	29
+Aston Villa	Manchester United	0:1	0:1	15.03.2003	13:30	2002	2003	30
+Sunderland AFC	Bolton Wanderers	0:0	0:2	15.03.2003	16:00	2002	2003	30
+Everton FC	West Ham United	0:0	0:0	15.03.2003	16:00	2002	2003	30
+Fulham FC	Southampton FC	1:0	2:2	15.03.2003	16:00	2002	2003	30
+Leeds United	Middlesbrough FC	1:2	2:3	15.03.2003	16:00	2002	2003	30
+Blackburn Rovers	Arsenal FC	1:0	2:0	15.03.2003	16:00	2002	2003	30
+Charlton Athletic	Newcastle United	0:1	0:2	15.03.2003	16:00	2002	2003	30
+Manchester City	Birmingham City	0:0	1:0	16.03.2003	15:00	2002	2003	30
+Tottenham Hotspur	Liverpool FC	0:0	2:3	16.03.2003	16:00	2002	2003	30
+West Bromwich Albion	Chelsea FC	0:1	0:2	16.03.2003	17:05	2002	2003	30
+Birmingham City	West Bromwich Albion	0:0	1:0	22.03.2003	13:00	2002	2003	31
+Manchester United	Fulham FC	1:0	3:0	22.03.2003	13:30	2002	2003	31
+West Ham United	Sunderland AFC	1:0	2:0	22.03.2003	16:00	2002	2003	31
+Middlesbrough FC	Charlton Athletic	0:1	1:1	22.03.2003	16:00	2002	2003	31
+Newcastle United	Blackburn Rovers	1:0	5:1	22.03.2003	16:00	2002	2003	31
+Southampton FC	Aston Villa	1:2	2:2	22.03.2003	16:00	2002	2003	31
+Chelsea FC	Manchester City	2:0	5:0	22.03.2003	16:00	2002	2003	31
+Liverpool FC	Leeds United	2:1	3:1	23.03.2003	15:00	2002	2003	31
+Arsenal FC	Everton FC	1:0	2:1	23.03.2003	17:05	2002	2003	31
+Bolton Wanderers	Tottenham Hotspur	0:0	1:0	24.03.2003	21:00	2002	2003	31
+Bolton Wanderers	Manchester City	1:0	2:0	05.04.2003	13:00	2002	2003	32
+Manchester United	Liverpool FC	1:0	4:0	05.04.2003	13:30	2002	2003	32
+Tottenham Hotspur	Birmingham City	1:0	2:1	05.04.2003	16:00	2002	2003	32
+Middlesbrough FC	West Bromwich Albion	1:0	3:0	05.04.2003	16:00	2002	2003	32
+Southampton FC	West Ham United	1:0	1:1	05.04.2003	16:00	2002	2003	32
+Sunderland AFC	Chelsea FC	1:0	1:2	05.04.2003	16:00	2002	2003	32
+Aston Villa	Arsenal FC	0:0	1:1	05.04.2003	16:00	2002	2003	32
+Charlton Athletic	Leeds United	1:3	1:6	05.04.2003	16:00	2002	2003	32
+Everton FC	Newcastle United	1:1	2:1	06.04.2003	17:00	2002	2003	32
+Fulham FC	Blackburn Rovers	0:2	0:4	07.04.2003	21:00	2002	2003	32
+Newcastle United	Manchester United	1:4	2:6	12.04.2003	13:30	2002	2003	33
+West Ham United	Aston Villa	1:1	2:2	12.04.2003	16:00	2002	2003	33
+Manchester City	Middlesbrough FC	0:0	0:0	12.04.2003	16:00	2002	2003	33
+West Bromwich Albion	Everton FC	1:2	1:2	12.04.2003	16:00	2002	2003	33
+Chelsea FC	Bolton Wanderers	0:0	1:0	12.04.2003	16:00	2002	2003	33
+Leeds United	Tottenham Hotspur	1:2	2:2	12.04.2003	16:00	2002	2003	33
+Liverpool FC	Fulham FC	1:0	2:0	12.04.2003	16:00	2002	2003	33
+Birmingham City	Sunderland AFC	1:0	2:0	12.04.2003	16:00	2002	2003	33
+Blackburn Rovers	Charlton Athletic	1:0	1:0	12.04.2003	16:00	2002	2003	33
+Arsenal FC	Southampton FC	5:1	6:1	07.05.2003	20:45	2002	2003	33
+Tottenham Hotspur	Manchester City	0:2	0:2	18.04.2003	16:00	2002	2003	34
+Middlesbrough FC	Arsenal FC	0:0	0:2	19.04.2003	16:00	2002	2003	34
+Southampton FC	Leeds United	2:0	3:2	19.04.2003	16:00	2002	2003	34
+Sunderland AFC	West Bromwich Albion	0:2	1:2	19.04.2003	16:00	2002	2003	34
+Everton FC	Liverpool FC	0:1	1:2	19.04.2003	16:00	2002	2003	34
+Fulham FC	Newcastle United	0:1	2:1	19.04.2003	16:00	2002	2003	34
+Manchester United	Blackburn Rovers	2:1	3:1	19.04.2003	16:00	2002	2003	34
+Aston Villa	Chelsea FC	1:0	2:1	19.04.2003	16:00	2002	2003	34
+Bolton Wanderers	West Ham United	1:0	1:0	19.04.2003	16:00	2002	2003	34
+Charlton Athletic	Birmingham City	0:1	0:2	19.04.2003	16:00	2002	2003	34
+Arsenal FC	Manchester United	0:1	2:2	16.04.2003	21:00	2002	2003	35
+West Ham United	Middlesbrough FC	0:0	1:0	21.04.2003	16:00	2002	2003	35
+Manchester City	Sunderland AFC	2:0	3:0	21.04.2003	16:00	2002	2003	35
+Newcastle United	Aston Villa	1:0	1:1	21.04.2003	16:00	2002	2003	35
+West Bromwich Albion	Tottenham Hotspur	1:1	2:3	21.04.2003	16:00	2002	2003	35
+Chelsea FC	Everton FC	1:0	4:1	21.04.2003	16:00	2002	2003	35
+Liverpool FC	Charlton Athletic	0:0	2:1	21.04.2003	16:00	2002	2003	35
+Birmingham City	Southampton FC	0:1	3:2	21.04.2003	16:00	2002	2003	35
+Blackburn Rovers	Bolton Wanderers	0:0	0:0	21.04.2003	16:00	2002	2003	35
+Leeds United	Fulham FC	1:0	2:0	22.04.2003	20:45	2002	2003	35
+Bolton Wanderers	Arsenal FC	0:0	2:2	26.04.2003	13:30	2002	2003	36
+West Bromwich Albion	Liverpool FC	0:1	0:6	26.04.2003	16:00	2002	2003	36
+Sunderland AFC	Newcastle United	0:1	0:1	26.04.2003	16:00	2002	2003	36
+Chelsea FC	Fulham FC	1:0	1:1	26.04.2003	16:00	2002	2003	36
+Everton FC	Aston Villa	0:0	2:1	26.04.2003	16:00	2002	2003	36
+Leeds United	Blackburn Rovers	1:1	2:3	26.04.2003	16:00	2002	2003	36
+Birmingham City	Middlesbrough FC	2:0	3:0	26.04.2003	16:00	2002	2003	36
+Charlton Athletic	Southampton FC	1:0	2:1	26.04.2003	16:00	2002	2003	36
+Manchester City	West Ham United	0:0	0:1	27.04.2003	15:00	2002	2003	36
+Tottenham Hotspur	Manchester United	0:0	0:2	27.04.2003	17:05	2002	2003	36
+Manchester United	Charlton Athletic	3:1	4:1	03.05.2003	13:30	2002	2003	37
+West Ham United	Chelsea FC	0:0	1:0	03.05.2003	16:00	2002	2003	37
+Middlesbrough FC	Tottenham Hotspur	3:0	5:1	03.05.2003	16:00	2002	2003	37
+Newcastle United	Birmingham City	1:0	1:0	03.05.2003	16:00	2002	2003	37
+Fulham FC	Everton FC	2:0	2:0	03.05.2003	16:00	2002	2003	37
+Liverpool FC	Manchester City	0:0	1:2	03.05.2003	16:00	2002	2003	37
+Aston Villa	Sunderland AFC	0:0	1:0	03.05.2003	16:00	2002	2003	37
+Blackburn Rovers	West Bromwich Albion	1:0	1:1	03.05.2003	16:00	2002	2003	37
+Southampton FC	Bolton Wanderers	0:0	0:0	03.05.2003	18:35	2002	2003	37
+Arsenal FC	Leeds United	1:1	2:3	04.05.2003	17:05	2002	2003	37
+West Bromwich Albion	Newcastle United	0:1	2:2	11.05.2003	16:00	2002	2003	38
+Manchester City	Southampton FC	0:1	0:1	11.05.2003	16:00	2002	2003	38
+Sunderland AFC	Arsenal FC	0:2	0:4	11.05.2003	16:00	2002	2003	38
+Tottenham Hotspur	Blackburn Rovers	0:2	0:4	11.05.2003	16:00	2002	2003	38
+Chelsea FC	Liverpool FC	2:1	2:1	11.05.2003	16:00	2002	2003	38
+Everton FC	Manchester United	1:1	1:2	11.05.2003	16:00	2002	2003	38
+Leeds United	Aston Villa	1:1	3:1	11.05.2003	16:00	2002	2003	38
+Birmingham City	West Ham United	0:0	2:2	11.05.2003	16:00	2002	2003	38
+Bolton Wanderers	Middlesbrough FC	2:0	2:1	11.05.2003	16:00	2002	2003	38
+Charlton Athletic	Fulham FC	0:1	0:1	11.05.2003	16:00	2002	2003	38

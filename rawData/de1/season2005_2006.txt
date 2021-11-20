@@ -1,0 +1,306 @@
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	1:0	3:0	05.08.2005	20:30	2005	2006	1
+Hamburger SV	1. FC NÃ¼rnberg	2:0	3:0	06.08.2005	15:30	2005	2006	1
+1. FC KÃ¶ln	1. FSV Mainz 05	0:0	1:0	06.08.2005	15:30	2005	2006	1
+MSV Duisburg	VfB Stuttgart	1:1	1:1	06.08.2005	15:30	2005	2006	1
+VfL Wolfsburg	Borussia Dortmund	1:0	2:2	06.08.2005	15:30	2005	2006	1
+Hannover 96	Hertha BSC	0:0	2:2	06.08.2005	15:30	2005	2006	1
+Werder Bremen	Arminia Bielefeld	3:2	5:2	06.08.2005	15:30	2005	2006	1
+FC Schalke 04	1. FC Kaiserslautern	0:1	2:1	07.08.2005	17:30	2005	2006	1
+Eintracht Frankfurt	Bayer Leverkusen	1:1	1:4	07.08.2005	17:30	2005	2006	1
+Hertha BSC	Eintracht Frankfurt	0:0	2:0	13.08.2005	15:30	2005	2006	2
+Bayer Leverkusen	Bayern MÃ¼nchen	1:3	2:5	13.08.2005	15:30	2005	2006	2
+Bor. MÃ¶nchengladbach	VfL Wolfsburg	0:1	1:1	13.08.2005	15:30	2005	2006	2
+Borussia Dortmund	FC Schalke 04	1:1	1:2	13.08.2005	15:30	2005	2006	2
+1. FC Kaiserslautern	MSV Duisburg	2:1	5:3	13.08.2005	15:30	2005	2006	2
+Arminia Bielefeld	Hamburger SV	0:0	0:2	13.08.2005	15:30	2005	2006	2
+1. FC NÃ¼rnberg	Hannover 96	0:1	1:1	13.08.2005	15:30	2005	2006	2
+VfB Stuttgart	1. FC KÃ¶ln	0:1	2:3	14.08.2005	17:30	2005	2006	2
+1. FSV Mainz 05	Werder Bremen	0:1	0:2	14.08.2005	17:30	2005	2006	2
+Hamburger SV	Hannover 96	1:1	1:1	27.08.2005	15:30	2005	2006	3
+1. FC KÃ¶ln	1. FC Kaiserslautern	0:1	2:3	27.08.2005	15:30	2005	2006	3
+FC Schalke 04	Bor. MÃ¶nchengladbach	0:1	1:1	27.08.2005	15:30	2005	2006	3
+VfL Wolfsburg	Bayer Leverkusen	1:1	2:1	27.08.2005	15:30	2005	2006	3
+Bayern MÃ¼nchen	Hertha BSC	0:0	3:0	27.08.2005	15:30	2005	2006	3
+Eintracht Frankfurt	1. FC NÃ¼rnberg	0:0	1:0	27.08.2005	15:30	2005	2006	3
+Werder Bremen	VfB Stuttgart	1:0	1:1	27.08.2005	15:30	2005	2006	3
+MSV Duisburg	Borussia Dortmund	0:0	1:1	28.08.2005	17:30	2005	2006	3
+Arminia Bielefeld	1. FSV Mainz 05	2:0	2:0	28.08.2005	17:30	2005	2006	3
+Bayer Leverkusen	FC Schalke 04	0:0	1:1	10.09.2005	15:30	2005	2006	4
+Bor. MÃ¶nchengladbach	MSV Duisburg	1:1	2:1	10.09.2005	15:30	2005	2006	4
+1. FC Kaiserslautern	Werder Bremen	0:3	1:5	10.09.2005	15:30	2005	2006	4
+VfB Stuttgart	Arminia Bielefeld	0:0	1:1	10.09.2005	15:30	2005	2006	4
+1. FSV Mainz 05	Hamburger SV	0:1	1:3	10.09.2005	15:30	2005	2006	4
+Hannover 96	Eintracht Frankfurt	1:0	2:0	10.09.2005	15:30	2005	2006	4
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	1:1	1:2	10.09.2005	15:30	2005	2006	4
+Hertha BSC	VfL Wolfsburg	0:0	3:0	11.09.2005	17:30	2005	2006	4
+Borussia Dortmund	1. FC KÃ¶ln	1:0	2:1	11.09.2005	17:30	2005	2006	4
+Hamburger SV	Eintracht Frankfurt	0:0	1:1	17.09.2005	15:30	2005	2006	5
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	2:0	2:1	17.09.2005	15:30	2005	2006	5
+VfL Wolfsburg	1. FC NÃ¼rnberg	1:0	1:1	17.09.2005	15:30	2005	2006	5
+Bayern MÃ¼nchen	Hannover 96	1:0	1:0	17.09.2005	15:30	2005	2006	5
+1. FSV Mainz 05	VfB Stuttgart	0:0	1:2	17.09.2005	15:30	2005	2006	5
+Arminia Bielefeld	1. FC Kaiserslautern	0:0	0:0	17.09.2005	15:30	2005	2006	5
+Werder Bremen	Borussia Dortmund	1:1	3:2	17.09.2005	15:30	2005	2006	5
+MSV Duisburg	Bayer Leverkusen	1:2	1:3	18.09.2005	17:30	2005	2006	5
+FC Schalke 04	Hertha BSC	0:0	0:0	18.09.2005	17:30	2005	2006	5
+Bor. MÃ¶nchengladbach	Werder Bremen	0:1	2:1	20.09.2005	20:00	2005	2006	6
+Borussia Dortmund	Arminia Bielefeld	1:0	2:0	20.09.2005	20:00	2005	2006	6
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:0	0:1	20.09.2005	20:00	2005	2006	6
+Hannover 96	VfL Wolfsburg	1:4	2:4	20.09.2005	20:00	2005	2006	6
+Hertha BSC	MSV Duisburg	1:1	3:2	21.09.2005	20:00	2005	2006	6
+Bayer Leverkusen	1. FC KÃ¶ln	1:0	2:1	21.09.2005	20:00	2005	2006	6
+1. FC Kaiserslautern	1. FSV Mainz 05	0:1	0:2	21.09.2005	20:00	2005	2006	6
+VfB Stuttgart	Hamburger SV	0:1	1:2	21.09.2005	20:00	2005	2006	6
+1. FC NÃ¼rnberg	FC Schalke 04	1:0	1:1	21.09.2005	20:00	2005	2006	6
+Hamburger SV	Bayern MÃ¼nchen	1:0	2:0	24.09.2005	15:30	2005	2006	7
+MSV Duisburg	1. FC NÃ¼rnberg	1:0	1:0	24.09.2005	15:30	2005	2006	7
+FC Schalke 04	Hannover 96	0:0	2:0	24.09.2005	15:30	2005	2006	7
+VfL Wolfsburg	Eintracht Frankfurt	1:0	1:0	24.09.2005	15:30	2005	2006	7
+1. FSV Mainz 05	Borussia Dortmund	0:0	1:1	24.09.2005	15:30	2005	2006	7
+Arminia Bielefeld	Bor. MÃ¶nchengladbach	0:1	0:2	24.09.2005	15:30	2005	2006	7
+Werder Bremen	Bayer Leverkusen	0:0	2:1	24.09.2005	15:30	2005	2006	7
+1. FC KÃ¶ln	Hertha BSC	0:0	0:1	25.09.2005	17:30	2005	2006	7
+VfB Stuttgart	1. FC Kaiserslautern	1:0	1:0	25.09.2005	17:30	2005	2006	7
+Hertha BSC	Werder Bremen	0:0	1:2	01.10.2005	15:30	2005	2006	8
+Bayer Leverkusen	Arminia Bielefeld	0:0	1:1	01.10.2005	15:30	2005	2006	8
+Bor. MÃ¶nchengladbach	1. FSV Mainz 05	1:0	1:0	01.10.2005	15:30	2005	2006	8
+Bayern MÃ¼nchen	VfL Wolfsburg	0:0	2:0	01.10.2005	15:30	2005	2006	8
+Eintracht Frankfurt	FC Schalke 04	0:0	0:1	01.10.2005	15:30	2005	2006	8
+Hannover 96	MSV Duisburg	1:1	1:1	01.10.2005	15:30	2005	2006	8
+1. FC NÃ¼rnberg	1. FC KÃ¶ln	1:0	2:1	01.10.2005	15:30	2005	2006	8
+Borussia Dortmund	VfB Stuttgart	0:0	0:0	02.10.2005	17:30	2005	2006	8
+1. FC Kaiserslautern	Hamburger SV	0:1	0:3	02.10.2005	17:30	2005	2006	8
+Hamburger SV	VfL Wolfsburg	0:1	0:1	15.10.2005	15:30	2005	2006	9
+FC Schalke 04	Bayern MÃ¼nchen	0:1	1:1	15.10.2005	15:30	2005	2006	9
+1. FC Kaiserslautern	Borussia Dortmund	1:3	3:3	15.10.2005	15:30	2005	2006	9
+VfB Stuttgart	Bor. MÃ¶nchengladbach	0:1	1:1	15.10.2005	15:30	2005	2006	9
+1. FSV Mainz 05	Bayer Leverkusen	0:0	3:1	15.10.2005	15:30	2005	2006	9
+Arminia Bielefeld	Hertha BSC	2:0	3:0	15.10.2005	15:30	2005	2006	9
+Werder Bremen	1. FC NÃ¼rnberg	3:1	6:2	15.10.2005	15:30	2005	2006	9
+1. FC KÃ¶ln	Hannover 96	0:0	1:4	16.10.2005	17:30	2005	2006	9
+MSV Duisburg	Eintracht Frankfurt	0:1	0:1	16.10.2005	17:30	2005	2006	9
+Hertha BSC	1. FSV Mainz 05	2:0	3:1	22.10.2005	15:30	2005	2006	10
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	3:1	4:1	22.10.2005	15:30	2005	2006	10
+VfL Wolfsburg	FC Schalke 04	0:0	0:0	22.10.2005	15:30	2005	2006	10
+Bayern MÃ¼nchen	MSV Duisburg	2:0	4:0	22.10.2005	15:30	2005	2006	10
+Eintracht Frankfurt	1. FC KÃ¶ln	4:1	6:3	22.10.2005	15:30	2005	2006	10
+Hannover 96	Werder Bremen	0:0	0:0	22.10.2005	15:30	2005	2006	10
+1. FC NÃ¼rnberg	Arminia Bielefeld	1:1	2:3	22.10.2005	15:30	2005	2006	10
+Bayer Leverkusen	VfB Stuttgart	0:0	1:1	23.10.2005	17:30	2005	2006	10
+Borussia Dortmund	Hamburger SV	0:0	1:1	23.10.2005	17:30	2005	2006	10
+Hamburger SV	FC Schalke 04	1:0	1:0	29.10.2005	15:30	2005	2006	11
+1. FC KÃ¶ln	Bayern MÃ¼nchen	1:0	1:2	29.10.2005	15:30	2005	2006	11
+MSV Duisburg	VfL Wolfsburg	0:0	1:0	29.10.2005	15:30	2005	2006	11
+Borussia Dortmund	Bor. MÃ¶nchengladbach	1:0	2:1	29.10.2005	15:30	2005	2006	11
+1. FC Kaiserslautern	Bayer Leverkusen	1:1	2:2	29.10.2005	15:30	2005	2006	11
+VfB Stuttgart	Hertha BSC	0:1	3:3	29.10.2005	15:30	2005	2006	11
+Werder Bremen	Eintracht Frankfurt	1:1	4:1	29.10.2005	15:30	2005	2006	11
+1. FSV Mainz 05	1. FC NÃ¼rnberg	3:1	4:1	30.10.2005	17:30	2005	2006	11
+Arminia Bielefeld	Hannover 96	1:0	4:1	30.10.2005	17:30	2005	2006	11
+Hertha BSC	1. FC Kaiserslautern	1:0	3:0	05.11.2005	15:30	2005	2006	12
+Bayer Leverkusen	Borussia Dortmund	1:0	2:1	05.11.2005	15:30	2005	2006	12
+FC Schalke 04	MSV Duisburg	1:0	3:0	05.11.2005	15:30	2005	2006	12
+VfL Wolfsburg	1. FC KÃ¶ln	1:0	1:1	05.11.2005	15:30	2005	2006	12
+Bayern MÃ¼nchen	Werder Bremen	3:1	3:1	05.11.2005	15:30	2005	2006	12
+Eintracht Frankfurt	Arminia Bielefeld	1:0	3:0	05.11.2005	15:30	2005	2006	12
+Hannover 96	1. FSV Mainz 05	0:1	2:2	05.11.2005	15:30	2005	2006	12
+Bor. MÃ¶nchengladbach	Hamburger SV	0:0	0:0	06.11.2005	17:30	2005	2006	12
+1. FC NÃ¼rnberg	VfB Stuttgart	0:1	0:1	06.11.2005	17:30	2005	2006	12
+1. FC KÃ¶ln	FC Schalke 04	0:1	2:2	19.11.2005	15:30	2005	2006	13
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	1:1	1:1	19.11.2005	15:30	2005	2006	13
+Borussia Dortmund	Hertha BSC	2:0	2:0	19.11.2005	15:30	2005	2006	13
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	1:1	1:3	19.11.2005	15:30	2005	2006	13
+1. FSV Mainz 05	Eintracht Frankfurt	0:2	2:2	19.11.2005	15:30	2005	2006	13
+Arminia Bielefeld	Bayern MÃ¼nchen	0:0	1:2	19.11.2005	15:30	2005	2006	13
+Werder Bremen	VfL Wolfsburg	2:0	6:1	19.11.2005	15:30	2005	2006	13
+Hamburger SV	MSV Duisburg	2:0	2:0	20.11.2005	17:30	2005	2006	13
+VfB Stuttgart	Hannover 96	1:0	2:2	20.11.2005	17:30	2005	2006	13
+Bayer Leverkusen	Hamburger SV	0:0	0:1	26.11.2005	15:30	2005	2006	14
+FC Schalke 04	Werder Bremen	1:0	2:1	26.11.2005	15:30	2005	2006	14
+VfL Wolfsburg	Arminia Bielefeld	0:0	0:0	26.11.2005	15:30	2005	2006	14
+Bayern MÃ¼nchen	1. FSV Mainz 05	1:1	2:1	26.11.2005	15:30	2005	2006	14
+Hannover 96	1. FC Kaiserslautern	2:0	5:1	26.11.2005	15:30	2005	2006	14
+1. FC NÃ¼rnberg	Borussia Dortmund	0:2	1:2	26.11.2005	15:30	2005	2006	14
+Hertha BSC	Bor. MÃ¶nchengladbach	0:2	2:2	27.11.2005	17:30	2005	2006	14
+Eintracht Frankfurt	VfB Stuttgart	1:0	1:1	27.11.2005	17:30	2005	2006	14
+MSV Duisburg	1. FC KÃ¶ln	1:1	1:1	06.12.2005	18:00	2005	2006	14
+Hamburger SV	1. FC KÃ¶ln	1:0	3:1	03.12.2005	15:30	2005	2006	15
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	0:0	0:1	03.12.2005	15:30	2005	2006	15
+Borussia Dortmund	Hannover 96	0:1	0:2	03.12.2005	15:30	2005	2006	15
+VfB Stuttgart	Bayern MÃ¼nchen	0:0	0:0	03.12.2005	15:30	2005	2006	15
+Arminia Bielefeld	FC Schalke 04	0:0	0:1	03.12.2005	15:30	2005	2006	15
+Werder Bremen	MSV Duisburg	0:0	2:0	03.12.2005	15:30	2005	2006	15
+Bayer Leverkusen	Hertha BSC	1:0	1:2	04.12.2005	17:30	2005	2006	15
+1. FSV Mainz 05	VfL Wolfsburg	3:1	5:1	04.12.2005	17:30	2005	2006	15
+1. FC Kaiserslautern	Eintracht Frankfurt	0:0	1:2	14.12.2005	18:00	2005	2006	15
+Hamburger SV	Hertha BSC	2:0	2:1	10.12.2005	15:30	2005	2006	16
+MSV Duisburg	Arminia Bielefeld	1:0	1:1	10.12.2005	15:30	2005	2006	16
+FC Schalke 04	1. FSV Mainz 05	0:0	1:0	10.12.2005	15:30	2005	2006	16
+VfL Wolfsburg	VfB Stuttgart	0:0	0:1	10.12.2005	15:30	2005	2006	16
+Eintracht Frankfurt	Borussia Dortmund	1:0	2:0	10.12.2005	15:30	2005	2006	16
+Hannover 96	Bor. MÃ¶nchengladbach	0:0	1:1	10.12.2005	15:30	2005	2006	16
+1. FC NÃ¼rnberg	Bayer Leverkusen	1:1	1:1	10.12.2005	15:30	2005	2006	16
+1. FC KÃ¶ln	Werder Bremen	1:1	1:4	11.12.2005	17:30	2005	2006	16
+Bayern MÃ¼nchen	1. FC Kaiserslautern	1:1	2:1	11.12.2005	17:30	2005	2006	16
+Bayer Leverkusen	Hannover 96	0:0	0:0	17.12.2005	15:30	2005	2006	17
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	1:2	4:3	17.12.2005	15:30	2005	2006	17
+Borussia Dortmund	Bayern MÃ¼nchen	0:0	1:2	17.12.2005	15:30	2005	2006	17
+1. FC Kaiserslautern	VfL Wolfsburg	1:0	3:2	17.12.2005	15:30	2005	2006	17
+VfB Stuttgart	FC Schalke 04	0:0	2:0	17.12.2005	15:30	2005	2006	17
+1. FSV Mainz 05	MSV Duisburg	1:0	1:1	17.12.2005	15:30	2005	2006	17
+Arminia Bielefeld	1. FC KÃ¶ln	0:1	3:2	17.12.2005	15:30	2005	2006	17
+Hertha BSC	1. FC NÃ¼rnberg	0:0	1:1	18.12.2005	17:30	2005	2006	17
+Werder Bremen	Hamburger SV	1:0	1:1	18.12.2005	17:30	2005	2006	17
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:1	1:3	27.01.2006	20:30	2005	2006	18
+1. FC NÃ¼rnberg	Hamburger SV	0:0	2:1	28.01.2006	15:30	2005	2006	18
+1. FSV Mainz 05	1. FC KÃ¶ln	1:1	4:2	28.01.2006	15:30	2005	2006	18
+VfB Stuttgart	MSV Duisburg	0:1	0:1	28.01.2006	15:30	2005	2006	18
+Borussia Dortmund	VfL Wolfsburg	2:1	3:2	28.01.2006	15:30	2005	2006	18
+Bayer Leverkusen	Eintracht Frankfurt	0:1	2:1	28.01.2006	15:30	2005	2006	18
+Hertha BSC	Hannover 96	0:1	1:1	28.01.2006	15:30	2005	2006	18
+1. FC Kaiserslautern	FC Schalke 04	0:1	0:2	29.01.2006	17:30	2005	2006	18
+Arminia Bielefeld	Werder Bremen	0:0	0:1	29.01.2006	17:30	2005	2006	18
+Eintracht Frankfurt	Hertha BSC	0:1	1:1	04.02.2006	15:30	2005	2006	19
+Bayern MÃ¼nchen	Bayer Leverkusen	1:0	1:0	04.02.2006	15:30	2005	2006	19
+FC Schalke 04	Borussia Dortmund	0:0	0:0	04.02.2006	15:30	2005	2006	19
+MSV Duisburg	1. FC Kaiserslautern	1:0	2:2	04.02.2006	15:30	2005	2006	19
+1. FC KÃ¶ln	VfB Stuttgart	0:0	0:0	04.02.2006	15:30	2005	2006	19
+Werder Bremen	1. FSV Mainz 05	3:2	4:2	04.02.2006	15:30	2005	2006	19
+Hamburger SV	Arminia Bielefeld	0:1	2:1	04.02.2006	15:30	2005	2006	19
+VfL Wolfsburg	Bor. MÃ¶nchengladbach	1:0	2:0	05.02.2006	17:30	2005	2006	19
+Hannover 96	1. FC NÃ¼rnberg	0:0	1:1	05.02.2006	17:30	2005	2006	19
+1. FC Kaiserslautern	1. FC KÃ¶ln	1:1	2:2	07.02.2006	20:00	2005	2006	20
+Borussia Dortmund	MSV Duisburg	0:0	2:0	07.02.2006	20:00	2005	2006	20
+Hertha BSC	Bayern MÃ¼nchen	0:0	0:0	07.02.2006	20:00	2005	2006	20
+1. FSV Mainz 05	Arminia Bielefeld	0:0	1:1	07.02.2006	20:00	2005	2006	20
+Hannover 96	Hamburger SV	0:0	2:1	08.02.2006	20:00	2005	2006	20
+Bor. MÃ¶nchengladbach	FC Schalke 04	0:0	0:0	08.02.2006	20:00	2005	2006	20
+Bayer Leverkusen	VfL Wolfsburg	1:0	4:0	08.02.2006	20:00	2005	2006	20
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:1	0:1	08.02.2006	20:00	2005	2006	20
+VfB Stuttgart	Werder Bremen	0:0	0:0	08.02.2006	20:00	2005	2006	20
+VfL Wolfsburg	Hertha BSC	0:1	1:1	11.02.2006	15:30	2005	2006	21
+FC Schalke 04	Bayer Leverkusen	3:1	7:4	11.02.2006	15:30	2005	2006	21
+MSV Duisburg	Bor. MÃ¶nchengladbach	1:1	1:1	11.02.2006	15:30	2005	2006	21
+Werder Bremen	1. FC Kaiserslautern	0:0	0:2	11.02.2006	15:30	2005	2006	21
+Arminia Bielefeld	VfB Stuttgart	1:1	2:1	11.02.2006	15:30	2005	2006	21
+Hamburger SV	1. FSV Mainz 05	1:0	1:0	11.02.2006	15:30	2005	2006	21
+Eintracht Frankfurt	Hannover 96	0:0	0:1	11.02.2006	15:30	2005	2006	21
+1. FC KÃ¶ln	Borussia Dortmund	0:0	0:0	12.02.2006	17:30	2005	2006	21
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	1:1	2:1	12.02.2006	17:30	2005	2006	21
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	0:0	2:0	18.02.2006	15:30	2005	2006	22
+Bayer Leverkusen	MSV Duisburg	2:1	3:2	18.02.2006	15:30	2005	2006	22
+Hertha BSC	FC Schalke 04	1:2	1:2	18.02.2006	15:30	2005	2006	22
+1. FC NÃ¼rnberg	VfL Wolfsburg	1:0	1:0	18.02.2006	15:30	2005	2006	22
+Hannover 96	Bayern MÃ¼nchen	0:0	1:1	18.02.2006	15:30	2005	2006	22
+1. FC Kaiserslautern	Arminia Bielefeld	1:0	2:0	18.02.2006	15:30	2005	2006	22
+Borussia Dortmund	Werder Bremen	0:1	0:1	18.02.2006	15:30	2005	2006	22
+Eintracht Frankfurt	Hamburger SV	1:1	1:2	19.02.2006	17:30	2005	2006	22
+VfB Stuttgart	1. FSV Mainz 05	1:1	2:1	19.02.2006	17:30	2005	2006	22
+1. FC KÃ¶ln	Bayer Leverkusen	0:0	0:3	25.02.2006	15:30	2005	2006	23
+Werder Bremen	Bor. MÃ¶nchengladbach	2:0	2:0	25.02.2006	15:30	2005	2006	23
+Arminia Bielefeld	Borussia Dortmund	1:0	1:0	25.02.2006	15:30	2005	2006	23
+1. FSV Mainz 05	1. FC Kaiserslautern	0:2	0:2	25.02.2006	15:30	2005	2006	23
+Bayern MÃ¼nchen	Eintracht Frankfurt	3:1	5:2	25.02.2006	15:30	2005	2006	23
+VfL Wolfsburg	Hannover 96	1:1	2:1	25.02.2006	15:30	2005	2006	23
+FC Schalke 04	1. FC NÃ¼rnberg	0:0	2:0	25.02.2006	15:30	2005	2006	23
+MSV Duisburg	Hertha BSC	1:0	2:1	26.02.2006	17:30	2005	2006	23
+Hamburger SV	VfB Stuttgart	0:1	0:2	26.02.2006	17:30	2005	2006	23
+Bayern MÃ¼nchen	Hamburger SV	0:1	1:2	04.03.2006	15:30	2005	2006	24
+Hertha BSC	1. FC KÃ¶ln	0:0	2:4	04.03.2006	15:30	2005	2006	24
+1. FC NÃ¼rnberg	MSV Duisburg	2:0	3:0	04.03.2006	15:30	2005	2006	24
+Hannover 96	FC Schalke 04	0:2	1:2	04.03.2006	15:30	2005	2006	24
+Borussia Dortmund	1. FSV Mainz 05	1:0	1:1	04.03.2006	15:30	2005	2006	24
+Bayer Leverkusen	Werder Bremen	1:1	1:1	04.03.2006	15:30	2005	2006	24
+Eintracht Frankfurt	VfL Wolfsburg	0:0	1:1	05.03.2006	17:30	2005	2006	24
+Bor. MÃ¶nchengladbach	Arminia Bielefeld	1:0	2:0	05.03.2006	17:30	2005	2006	24
+1. FC Kaiserslautern	VfB Stuttgart	1:0	1:1	07.03.2006	18:00	2005	2006	24
+Werder Bremen	Hertha BSC	0:0	0:3	11.03.2006	15:30	2005	2006	25
+Arminia Bielefeld	Bayer Leverkusen	1:0	1:0	11.03.2006	15:30	2005	2006	25
+1. FSV Mainz 05	Bor. MÃ¶nchengladbach	0:0	3:0	11.03.2006	15:30	2005	2006	25
+VfB Stuttgart	Borussia Dortmund	0:0	0:0	11.03.2006	15:30	2005	2006	25
+VfL Wolfsburg	Bayern MÃ¼nchen	0:0	0:0	11.03.2006	15:30	2005	2006	25
+MSV Duisburg	Hannover 96	0:0	0:0	11.03.2006	15:30	2005	2006	25
+1. FC KÃ¶ln	1. FC NÃ¼rnberg	1:3	3:4	11.03.2006	15:30	2005	2006	25
+FC Schalke 04	Eintracht Frankfurt	0:0	2:0	12.03.2006	17:30	2005	2006	25
+Hamburger SV	1. FC Kaiserslautern	0:0	3:0	12.03.2006	18:45	2005	2006	25
+VfL Wolfsburg	Hamburger SV	0:1	0:1	18.03.2006	15:30	2005	2006	26
+Hannover 96	1. FC KÃ¶ln	1:0	1:0	18.03.2006	15:30	2005	2006	26
+Eintracht Frankfurt	MSV Duisburg	3:2	5:2	18.03.2006	15:30	2005	2006	26
+Borussia Dortmund	1. FC Kaiserslautern	1:1	2:1	18.03.2006	15:30	2005	2006	26
+Bor. MÃ¶nchengladbach	VfB Stuttgart	0:0	1:1	18.03.2006	15:30	2005	2006	26
+Bayer Leverkusen	1. FSV Mainz 05	0:1	1:2	18.03.2006	15:30	2005	2006	26
+1. FC NÃ¼rnberg	Werder Bremen	2:0	3:1	18.03.2006	15:30	2005	2006	26
+Bayern MÃ¼nchen	FC Schalke 04	0:0	3:0	19.03.2006	17:30	2005	2006	26
+Hertha BSC	Arminia Bielefeld	0:0	1:0	19.03.2006	17:30	2005	2006	26
+1. FSV Mainz 05	Hertha BSC	0:1	2:2	25.03.2006	15:30	2005	2006	27
+VfB Stuttgart	Bayer Leverkusen	0:1	0:2	25.03.2006	15:30	2005	2006	27
+Hamburger SV	Borussia Dortmund	1:1	2:4	25.03.2006	15:30	2005	2006	27
+FC Schalke 04	VfL Wolfsburg	1:1	2:2	25.03.2006	15:30	2005	2006	27
+MSV Duisburg	Bayern MÃ¼nchen	1:0	1:3	25.03.2006	15:30	2005	2006	27
+1. FC KÃ¶ln	Eintracht Frankfurt	1:1	1:1	25.03.2006	15:30	2005	2006	27
+Werder Bremen	Hannover 96	2:0	5:0	25.03.2006	15:30	2005	2006	27
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	2:0	3:0	26.03.2006	17:30	2005	2006	27
+Arminia Bielefeld	1. FC NÃ¼rnberg	0:0	0:0	26.03.2006	17:30	2005	2006	27
+Bayern MÃ¼nchen	1. FC KÃ¶ln	2:2	2:2	01.04.2006	15:30	2005	2006	28
+VfL Wolfsburg	MSV Duisburg	0:0	1:1	01.04.2006	15:30	2005	2006	28
+Bor. MÃ¶nchengladbach	Borussia Dortmund	2:1	2:1	01.04.2006	15:30	2005	2006	28
+Bayer Leverkusen	1. FC Kaiserslautern	2:0	5:1	01.04.2006	15:30	2005	2006	28
+Hertha BSC	VfB Stuttgart	0:0	2:0	01.04.2006	15:30	2005	2006	28
+1. FC NÃ¼rnberg	1. FSV Mainz 05	1:0	3:0	01.04.2006	15:30	2005	2006	28
+Eintracht Frankfurt	Werder Bremen	0:0	0:1	01.04.2006	15:30	2005	2006	28
+FC Schalke 04	Hamburger SV	0:0	0:2	02.04.2006	17:30	2005	2006	28
+Hannover 96	Arminia Bielefeld	0:1	0:1	02.04.2006	17:30	2005	2006	28
+1. FC Kaiserslautern	Hertha BSC	0:2	0:2	08.04.2006	15:30	2005	2006	29
+Borussia Dortmund	Bayer Leverkusen	1:1	1:2	08.04.2006	15:30	2005	2006	29
+1. FC KÃ¶ln	VfL Wolfsburg	0:0	3:0	08.04.2006	15:30	2005	2006	29
+Werder Bremen	Bayern MÃ¼nchen	1:0	3:0	08.04.2006	15:30	2005	2006	29
+Arminia Bielefeld	Eintracht Frankfurt	0:0	1:0	08.04.2006	15:30	2005	2006	29
+1. FSV Mainz 05	Hannover 96	0:0	0:0	08.04.2006	15:30	2005	2006	29
+VfB Stuttgart	1. FC NÃ¼rnberg	0:0	1:0	08.04.2006	15:30	2005	2006	29
+Hamburger SV	Bor. MÃ¶nchengladbach	1:0	2:0	09.04.2006	17:30	2005	2006	29
+MSV Duisburg	FC Schalke 04	1:0	1:1	09.04.2006	17:30	2005	2006	29
+MSV Duisburg	Hamburger SV	0:2	0:2	15.04.2006	15:30	2005	2006	30
+FC Schalke 04	1. FC KÃ¶ln	0:1	1:1	15.04.2006	15:30	2005	2006	30
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	1:0	2:1	15.04.2006	15:30	2005	2006	30
+Hertha BSC	Borussia Dortmund	0:0	0:0	15.04.2006	15:30	2005	2006	30
+Eintracht Frankfurt	1. FSV Mainz 05	0:0	0:0	15.04.2006	15:30	2005	2006	30
+Bayern MÃ¼nchen	Arminia Bielefeld	0:0	2:0	15.04.2006	15:30	2005	2006	30
+VfL Wolfsburg	Werder Bremen	1:1	1:1	15.04.2006	15:30	2005	2006	30
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	1:1	3:2	16.04.2006	17:30	2005	2006	30
+Hannover 96	VfB Stuttgart	2:0	3:3	16.04.2006	17:30	2005	2006	30
+Bor. MÃ¶nchengladbach	Hertha BSC	1:1	2:2	22.04.2006	15:30	2005	2006	31
+Hamburger SV	Bayer Leverkusen	0:1	0:2	22.04.2006	15:30	2005	2006	31
+1. FC KÃ¶ln	MSV Duisburg	1:0	3:1	22.04.2006	15:30	2005	2006	31
+Arminia Bielefeld	VfL Wolfsburg	0:1	0:1	22.04.2006	15:30	2005	2006	31
+VfB Stuttgart	Eintracht Frankfurt	0:0	0:2	22.04.2006	15:30	2005	2006	31
+1. FC Kaiserslautern	Hannover 96	1:0	1:0	22.04.2006	15:30	2005	2006	31
+Borussia Dortmund	1. FC NÃ¼rnberg	1:1	2:1	22.04.2006	15:30	2005	2006	31
+Werder Bremen	FC Schalke 04	0:0	0:0	23.04.2006	17:30	2005	2006	31
+1. FSV Mainz 05	Bayern MÃ¼nchen	2:2	2:2	23.04.2006	17:30	2005	2006	31
+1. FC KÃ¶ln	Hamburger SV	0:1	0:1	02.05.2006	20:00	2005	2006	32
+Hertha BSC	Bayer Leverkusen	1:3	1:5	02.05.2006	20:00	2005	2006	32
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	1:2	5:2	02.05.2006	20:00	2005	2006	32
+Hannover 96	Borussia Dortmund	1:0	1:2	02.05.2006	20:00	2005	2006	32
+Eintracht Frankfurt	1. FC Kaiserslautern	0:1	2:2	03.05.2006	20:00	2005	2006	32
+Bayern MÃ¼nchen	VfB Stuttgart	2:1	3:1	03.05.2006	20:00	2005	2006	32
+VfL Wolfsburg	1. FSV Mainz 05	0:1	0:3	03.05.2006	20:00	2005	2006	32
+FC Schalke 04	Arminia Bielefeld	1:0	3:1	03.05.2006	20:00	2005	2006	32
+MSV Duisburg	Werder Bremen	2:3	3:5	03.05.2006	20:00	2005	2006	32
+Hertha BSC	Hamburger SV	1:2	4:2	06.05.2006	15:30	2005	2006	33
+Werder Bremen	1. FC KÃ¶ln	3:0	6:0	06.05.2006	15:30	2005	2006	33
+Arminia Bielefeld	MSV Duisburg	0:0	0:2	06.05.2006	15:30	2005	2006	33
+1. FSV Mainz 05	FC Schalke 04	1:0	1:0	06.05.2006	15:30	2005	2006	33
+VfB Stuttgart	VfL Wolfsburg	1:1	2:1	06.05.2006	15:30	2005	2006	33
+1. FC Kaiserslautern	Bayern MÃ¼nchen	1:0	1:1	06.05.2006	15:30	2005	2006	33
+Borussia Dortmund	Eintracht Frankfurt	0:0	1:1	06.05.2006	15:30	2005	2006	33
+Bor. MÃ¶nchengladbach	Hannover 96	0:1	2:2	06.05.2006	15:30	2005	2006	33
+Bayer Leverkusen	1. FC NÃ¼rnberg	0:1	2:2	06.05.2006	15:30	2005	2006	33
+1. FC NÃ¼rnberg	Hertha BSC	1:1	2:1	13.05.2006	15:30	2005	2006	34
+Hannover 96	Bayer Leverkusen	1:2	2:2	13.05.2006	15:30	2005	2006	34
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	0:0	0:2	13.05.2006	15:30	2005	2006	34
+Bayern MÃ¼nchen	Borussia Dortmund	1:1	3:3	13.05.2006	15:30	2005	2006	34
+VfL Wolfsburg	1. FC Kaiserslautern	0:1	2:2	13.05.2006	15:30	2005	2006	34
+FC Schalke 04	VfB Stuttgart	0:1	3:2	13.05.2006	15:30	2005	2006	34
+MSV Duisburg	1. FSV Mainz 05	0:0	0:0	13.05.2006	15:30	2005	2006	34
+1. FC KÃ¶ln	Arminia Bielefeld	1:0	4:2	13.05.2006	15:30	2005	2006	34
+Hamburger SV	Werder Bremen	0:1	1:2	13.05.2006	15:30	2005	2006	34

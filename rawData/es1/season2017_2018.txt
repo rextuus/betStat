@@ -1,0 +1,380 @@
+CD LeganÃ©s	CD AlavÃ©s	1:0	1:0	18.08.2017	20:15	2017	2018	1
+Valencia CF	UD Las Palmas	1:0	1:0	18.08.2017	20:15	2017	2018	1
+Celta Vigo	Real Sociedad	1:1	2:3	19.08.2017	18:15	2017	2018	1
+Girona FC	AtlÃ©tico Madrid	2:0	2:2	19.08.2017	18:15	2017	2018	1
+Sevilla FC	Espanyol Barcelona	1:1	1:1	19.08.2017	22:15	2017	2018	1
+Athletic Bilbao	Getafe CF	0:0	0:0	20.08.2017	22:15	2017	2018	1
+FC Barcelona	Real Betis	2:0	2:0	20.08.2017	20:15	2017	2018	1
+Deportivo La CoruÃ±a	Real Madrid	0:2	0:3	20.08.2017	20:15	2017	2018	1
+Levante UD	Villarreal CF	0:0	1:0	21.08.2017	20:15	2017	2018	1
+MÃ¡laga CF	SD Eibar	0:0	0:1	21.08.2017	20:15	2017	2018	1
+Real Sociedad	Villarreal CF	3:0	3:0	25.08.2017	20:15	2017	2018	2
+Real Betis	Celta Vigo	1:1	2:1	25.08.2017	20:15	2017	2018	2
+CD AlavÃ©s	FC Barcelona	0:0	0:2	26.08.2017	18:15	2017	2018	2
+Girona FC	MÃ¡laga CF	1:0	1:0	26.08.2017	18:15	2017	2018	2
+Levante UD	Deportivo La CoruÃ±a	1:2	2:2	26.08.2017	20:15	2017	2018	2
+UD Las Palmas	AtlÃ©tico Madrid	0:2	1:5	26.08.2017	20:15	2017	2018	2
+SD Eibar	Athletic Bilbao	0:1	0:1	27.08.2017	18:15	2017	2018	2
+Espanyol Barcelona	CD LeganÃ©s	0:1	0:1	27.08.2017	18:15	2017	2018	2
+Getafe CF	Sevilla FC	0:0	0:1	27.08.2017	20:15	2017	2018	2
+Real Madrid	Valencia CF	1:1	2:2	27.08.2017	20:15	2017	2018	2
+CD LeganÃ©s	Getafe CF	0:1	1:2	08.09.2017	21:00	2017	2018	3
+Real Madrid	Levante UD	1:1	1:1	09.09.2017	21:00	2017	2018	3
+Valencia CF	AtlÃ©tico Madrid	0:0	0:0	09.09.2017	16:15	2017	2018	3
+Sevilla FC	SD Eibar	0:0	3:0	09.09.2017	16:15	2017	2018	3
+FC Barcelona	Espanyol Barcelona	2:0	5:0	09.09.2017	20:45	2017	2018	3
+Deportivo La CoruÃ±a	Real Sociedad	1:2	2:4	10.09.2017	20:45	2017	2018	3
+Athletic Bilbao	Girona FC	1:0	2:0	10.09.2017	16:15	2017	2018	3
+Celta Vigo	CD AlavÃ©s	1:0	1:0	10.09.2017	16:15	2017	2018	3
+Villarreal CF	Real Betis	1:1	3:1	10.09.2017	20:45	2017	2018	3
+MÃ¡laga CF	UD Las Palmas	0:1	1:3	11.09.2017	20:45	2017	2018	3
+SD Eibar	CD LeganÃ©s	0:0	1:0	15.09.2017	21:00	2017	2018	4
+Levante UD	Valencia CF	1:1	1:1	16.09.2017	21:00	2017	2018	4
+Getafe CF	FC Barcelona	1:0	1:2	16.09.2017	16:15	2017	2018	4
+Real Betis	Deportivo La CoruÃ±a	1:1	2:1	16.09.2017	16:15	2017	2018	4
+AtlÃ©tico Madrid	MÃ¡laga CF	0:0	1:0	16.09.2017	20:45	2017	2018	4
+CD AlavÃ©s	Villarreal CF	0:1	0:3	17.09.2017	20:45	2017	2018	4
+Girona FC	Sevilla FC	0:0	0:1	17.09.2017	16:15	2017	2018	4
+UD Las Palmas	Athletic Bilbao	0:0	1:0	17.09.2017	16:15	2017	2018	4
+Real Sociedad	Real Madrid	1:2	1:3	17.09.2017	20:45	2017	2018	4
+Espanyol Barcelona	Celta Vigo	2:0	2:1	18.09.2017	20:45	2017	2018	4
+Valencia CF	MÃ¡laga CF	1:0	5:0	19.09.2017	20:00	2017	2018	5
+FC Barcelona	SD Eibar	2:0	6:1	19.09.2017	20:00	2017	2018	5
+Athletic Bilbao	AtlÃ©tico Madrid	0:0	1:2	20.09.2017	20:00	2017	2018	5
+CD LeganÃ©s	Girona FC	0:0	0:0	20.09.2017	20:00	2017	2018	5
+Deportivo La CoruÃ±a	CD AlavÃ©s	1:0	1:0	20.09.2017	21:00	2017	2018	5
+Real Madrid	Real Betis	0:0	0:1	20.09.2017	21:00	2017	2018	5
+Sevilla FC	UD Las Palmas	0:0	1:0	20.09.2017	22:00	2017	2018	5
+Villarreal CF	Espanyol Barcelona	0:0	0:0	21.09.2017	22:00	2017	2018	5
+Celta Vigo	Getafe CF	1:0	1:1	21.09.2017	21:00	2017	2018	5
+Levante UD	Real Sociedad	1:0	3:0	21.09.2017	21:00	2017	2018	5
+AtlÃ©tico Madrid	Sevilla FC	0:0	2:0	23.09.2017	13:00	2017	2018	6
+CD AlavÃ©s	Real Madrid	1:2	1:2	23.09.2017	13:00	2017	2018	6
+MÃ¡laga CF	Athletic Bilbao	1:1	3:3	23.09.2017	18:30	2017	2018	6
+Girona FC	FC Barcelona	0:1	0:3	23.09.2017	18:30	2017	2018	6
+Espanyol Barcelona	Deportivo La CoruÃ±a	2:0	4:1	24.09.2017	12:00	2017	2018	6
+Getafe CF	Villarreal CF	0:0	4:0	24.09.2017	12:00	2017	2018	6
+SD Eibar	Celta Vigo	0:3	0:4	24.09.2017	18:30	2017	2018	6
+UD Las Palmas	CD LeganÃ©s	0:0	0:2	24.09.2017	18:30	2017	2018	6
+Real Sociedad	Valencia CF	1:1	2:3	24.09.2017	20:45	2017	2018	6
+Real Betis	Levante UD	0:0	4:0	25.09.2017	20:45	2017	2018	6
+Celta Vigo	Girona FC	2:2	3:3	29.09.2017	21:00	2017	2018	7
+Deportivo La CoruÃ±a	Getafe CF	0:0	2:1	30.09.2017	21:00	2017	2018	7
+Sevilla FC	MÃ¡laga CF	0:0	2:0	30.09.2017	16:15	2017	2018	7
+Levante UD	CD AlavÃ©s	0:1	0:2	30.09.2017	16:15	2017	2018	7
+CD LeganÃ©s	AtlÃ©tico Madrid	0:0	0:0	30.09.2017	20:45	2017	2018	7
+Real Sociedad	Real Betis	2:2	4:4	01.10.2017	20:45	2017	2018	7
+FC Barcelona	UD Las Palmas	0:0	3:0	01.10.2017	16:15	2017	2018	7
+Valencia CF	Athletic Bilbao	2:0	3:2	01.10.2017	16:15	2017	2018	7
+Villarreal CF	SD Eibar	1:0	3:0	01.10.2017	18:30	2017	2018	7
+Real Madrid	Espanyol Barcelona	1:0	2:0	01.10.2017	18:30	2017	2018	7
+Espanyol Barcelona	Levante UD	0:0	0:0	13.10.2017	21:00	2017	2018	8
+Athletic Bilbao	Sevilla FC	1:0	1:0	14.10.2017	21:00	2017	2018	8
+Getafe CF	Real Madrid	0:1	1:2	14.10.2017	16:15	2017	2018	8
+CD AlavÃ©s	Real Sociedad	0:0	0:2	14.10.2017	16:15	2017	2018	8
+AtlÃ©tico Madrid	FC Barcelona	1:0	1:1	14.10.2017	20:45	2017	2018	8
+SD Eibar	Deportivo La CoruÃ±a	0:0	0:0	15.10.2017	20:45	2017	2018	8
+Girona FC	Villarreal CF	1:2	1:2	15.10.2017	16:15	2017	2018	8
+MÃ¡laga CF	CD LeganÃ©s	0:0	0:2	15.10.2017	16:15	2017	2018	8
+Real Betis	Valencia CF	0:2	3:6	15.10.2017	20:45	2017	2018	8
+UD Las Palmas	Celta Vigo	0:2	2:5	16.10.2017	20:45	2017	2018	8
+Levante UD	Getafe CF	0:0	1:1	21.10.2017	13:00	2017	2018	9
+Real Betis	CD AlavÃ©s	1:0	2:0	21.10.2017	13:00	2017	2018	9
+Valencia CF	Sevilla FC	1:0	4:0	21.10.2017	18:30	2017	2018	9
+FC Barcelona	MÃ¡laga CF	1:0	2:0	21.10.2017	18:30	2017	2018	9
+Villarreal CF	UD Las Palmas	0:0	4:0	22.10.2017	12:00	2017	2018	9
+Celta Vigo	AtlÃ©tico Madrid	0:1	0:1	22.10.2017	12:00	2017	2018	9
+CD LeganÃ©s	Athletic Bilbao	0:0	1:0	22.10.2017	18:30	2017	2018	9
+Real Madrid	SD Eibar	2:0	3:0	22.10.2017	18:30	2017	2018	9
+Real Sociedad	Espanyol Barcelona	0:1	1:1	23.10.2017	20:00	2017	2018	9
+Deportivo La CoruÃ±a	Girona FC	0:1	1:2	23.10.2017	20:00	2017	2018	9
+CD AlavÃ©s	Valencia CF	0:1	1:2	28.10.2017	13:00	2017	2018	10
+AtlÃ©tico Madrid	Villarreal CF	0:0	1:1	28.10.2017	13:00	2017	2018	10
+Athletic Bilbao	FC Barcelona	0:1	0:2	28.10.2017	20:45	2017	2018	10
+Sevilla FC	CD LeganÃ©s	1:0	2:1	28.10.2017	20:45	2017	2018	10
+Getafe CF	Real Sociedad	0:1	2:1	29.10.2017	12:00	2017	2018	10
+Girona FC	Real Madrid	0:1	2:1	29.10.2017	12:00	2017	2018	10
+SD Eibar	Levante UD	0:2	2:2	29.10.2017	18:30	2017	2018	10
+MÃ¡laga CF	Celta Vigo	1:0	2:1	29.10.2017	18:30	2017	2018	10
+Espanyol Barcelona	Real Betis	0:0	1:0	30.10.2017	21:00	2017	2018	10
+UD Las Palmas	Deportivo La CoruÃ±a	1:1	1:3	30.10.2017	21:00	2017	2018	10
+Real Betis	Getafe CF	0:2	2:2	03.11.2017	21:00	2017	2018	11
+Valencia CF	CD LeganÃ©s	1:0	3:0	04.11.2017	21:00	2017	2018	11
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:0	0:1	04.11.2017	16:15	2017	2018	11
+CD AlavÃ©s	Espanyol Barcelona	1:0	1:0	04.11.2017	16:15	2017	2018	11
+FC Barcelona	Sevilla FC	1:0	2:1	04.11.2017	20:45	2017	2018	11
+Levante UD	Girona FC	0:0	1:2	05.11.2017	20:45	2017	2018	11
+Celta Vigo	Athletic Bilbao	3:1	3:1	05.11.2017	16:15	2017	2018	11
+Real Sociedad	SD Eibar	2:0	3:1	05.11.2017	16:15	2017	2018	11
+Villarreal CF	MÃ¡laga CF	0:0	2:0	05.11.2017	18:30	2017	2018	11
+Real Madrid	UD Las Palmas	1:0	3:0	05.11.2017	18:30	2017	2018	11
+Girona FC	Real Sociedad	0:1	1:1	17.11.2017	21:00	2017	2018	12
+Getafe CF	CD AlavÃ©s	2:0	4:1	18.11.2017	21:00	2017	2018	12
+CD LeganÃ©s	FC Barcelona	0:1	0:3	18.11.2017	16:15	2017	2018	12
+Sevilla FC	Celta Vigo	1:1	2:1	18.11.2017	16:15	2017	2018	12
+AtlÃ©tico Madrid	Real Madrid	0:0	0:0	18.11.2017	20:45	2017	2018	12
+MÃ¡laga CF	Deportivo La CoruÃ±a	1:1	3:2	19.11.2017	20:45	2017	2018	12
+Espanyol Barcelona	Valencia CF	0:0	0:2	19.11.2017	16:15	2017	2018	12
+UD Las Palmas	Levante UD	0:0	0:2	19.11.2017	16:15	2017	2018	12
+Athletic Bilbao	Villarreal CF	0:1	1:1	19.11.2017	20:45	2017	2018	12
+SD Eibar	Real Betis	2:0	5:0	20.11.2017	20:45	2017	2018	12
+Celta Vigo	CD LeganÃ©s	1:0	1:0	24.11.2017	21:00	2017	2018	13
+CD AlavÃ©s	SD Eibar	0:1	1:2	25.11.2017	21:00	2017	2018	13
+Real Madrid	MÃ¡laga CF	2:1	3:2	25.11.2017	16:15	2017	2018	13
+Real Betis	Girona FC	0:1	2:2	25.11.2017	16:15	2017	2018	13
+Levante UD	AtlÃ©tico Madrid	0:2	0:5	25.11.2017	20:45	2017	2018	13
+Deportivo La CoruÃ±a	Athletic Bilbao	1:1	2:2	26.11.2017	20:45	2017	2018	13
+Real Sociedad	UD Las Palmas	1:1	2:2	26.11.2017	16:15	2017	2018	13
+Villarreal CF	Sevilla FC	1:0	2:3	26.11.2017	16:15	2017	2018	13
+Valencia CF	FC Barcelona	0:0	1:1	26.11.2017	20:45	2017	2018	13
+Espanyol Barcelona	Getafe CF	0:0	1:0	27.11.2017	20:45	2017	2018	13
+MÃ¡laga CF	Levante UD	0:0	0:0	01.12.2017	21:00	2017	2018	14
+FC Barcelona	Celta Vigo	1:1	2:2	02.12.2017	21:00	2017	2018	14
+AtlÃ©tico Madrid	Real Sociedad	0:1	2:1	02.12.2017	16:15	2017	2018	14
+Sevilla FC	Deportivo La CoruÃ±a	1:0	2:0	02.12.2017	16:15	2017	2018	14
+Athletic Bilbao	Real Madrid	0:0	0:0	02.12.2017	20:45	2017	2018	14
+CD LeganÃ©s	Villarreal CF	0:0	3:1	03.12.2017	20:45	2017	2018	14
+Getafe CF	Valencia CF	0:0	1:0	03.12.2017	16:15	2017	2018	14
+SD Eibar	Espanyol Barcelona	2:0	3:1	03.12.2017	16:15	2017	2018	14
+UD Las Palmas	Real Betis	1:0	1:0	03.12.2017	20:45	2017	2018	14
+Girona FC	CD AlavÃ©s	0:0	2:3	04.12.2017	20:45	2017	2018	14
+CD AlavÃ©s	UD Las Palmas	1:0	2:0	08.12.2017	21:00	2017	2018	15
+Getafe CF	SD Eibar	0:0	0:0	09.12.2017	21:00	2017	2018	15
+Real Madrid	Sevilla FC	5:0	5:0	09.12.2017	16:15	2017	2018	15
+Deportivo La CoruÃ±a	CD LeganÃ©s	1:0	1:0	09.12.2017	16:15	2017	2018	15
+Valencia CF	Celta Vigo	1:0	2:1	09.12.2017	20:45	2017	2018	15
+Real Sociedad	MÃ¡laga CF	0:1	0:2	10.12.2017	20:45	2017	2018	15
+Real Betis	AtlÃ©tico Madrid	0:1	0:1	10.12.2017	16:15	2017	2018	15
+Levante UD	Athletic Bilbao	0:1	1:2	10.12.2017	16:15	2017	2018	15
+Villarreal CF	FC Barcelona	0:0	0:2	10.12.2017	20:45	2017	2018	15
+Espanyol Barcelona	Girona FC	0:1	0:1	11.12.2017	20:45	2017	2018	15
+Sevilla FC	Levante UD	0:0	0:0	15.12.2017	21:00	2017	2018	16
+Athletic Bilbao	Real Sociedad	0:0	0:0	16.12.2017	21:00	2017	2018	16
+SD Eibar	Valencia CF	0:0	2:1	16.12.2017	18:30	2017	2018	16
+AtlÃ©tico Madrid	CD AlavÃ©s	0:0	1:0	16.12.2017	18:30	2017	2018	16
+Girona FC	Getafe CF	1:0	1:0	17.12.2017	12:00	2017	2018	16
+Celta Vigo	Villarreal CF	0:1	0:1	17.12.2017	12:00	2017	2018	16
+UD Las Palmas	Espanyol Barcelona	0:2	2:2	17.12.2017	18:30	2017	2018	16
+FC Barcelona	Deportivo La CoruÃ±a	2:0	4:0	17.12.2017	18:30	2017	2018	16
+MÃ¡laga CF	Real Betis	0:1	0:2	18.12.2017	21:00	2017	2018	16
+CD LeganÃ©s	Real Madrid	1:2	1:3	21.02.2018	21:00	2017	2018	16
+Levante UD	CD LeganÃ©s	0:0	0:0	19.12.2017	21:30	2017	2018	17
+Getafe CF	UD Las Palmas	2:0	2:0	20.12.2017	21:30	2017	2018	17
+Real Sociedad	Sevilla FC	1:1	3:1	20.12.2017	21:30	2017	2018	17
+SD Eibar	Girona FC	2:1	4:1	21.12.2017	21:30	2017	2018	17
+CD AlavÃ©s	MÃ¡laga CF	0:0	1:0	21.12.2017	21:30	2017	2018	17
+Real Betis	Athletic Bilbao	0:1	0:2	22.12.2017	21:30	2017	2018	17
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	1:0	22.12.2017	21:30	2017	2018	17
+Real Madrid	FC Barcelona	0:0	0:3	23.12.2017	21:30	2017	2018	17
+Valencia CF	Villarreal CF	0:1	0:1	23.12.2017	16:15	2017	2018	17
+Deportivo La CoruÃ±a	Celta Vigo	0:2	1:3	23.12.2017	16:15	2017	2018	17
+AtlÃ©tico Madrid	Getafe CF	1:0	2:0	06.01.2018	13:00	2017	2018	18
+Valencia CF	Girona FC	1:1	2:1	06.01.2018	13:00	2017	2018	18
+UD Las Palmas	SD Eibar	1:0	1:2	06.01.2018	18:30	2017	2018	18
+Sevilla FC	Real Betis	2:2	3:5	06.01.2018	18:30	2017	2018	18
+CD LeganÃ©s	Real Sociedad	0:0	1:0	07.01.2018	12:00	2017	2018	18
+FC Barcelona	Levante UD	2:0	3:0	07.01.2018	12:00	2017	2018	18
+Athletic Bilbao	CD AlavÃ©s	1:0	2:0	07.01.2018	18:30	2017	2018	18
+Villarreal CF	Deportivo La CoruÃ±a	1:0	1:1	07.01.2018	18:30	2017	2018	18
+Celta Vigo	Real Madrid	1:2	2:2	07.01.2018	20:45	2017	2018	18
+MÃ¡laga CF	Espanyol Barcelona	0:1	0:1	08.01.2018	20:45	2017	2018	18
+Getafe CF	MÃ¡laga CF	0:0	1:0	12.01.2018	21:00	2017	2018	19
+Girona FC	UD Las Palmas	1:0	6:0	13.01.2018	21:00	2017	2018	19
+Real Madrid	Villarreal CF	0:0	0:1	13.01.2018	16:15	2017	2018	19
+SD Eibar	AtlÃ©tico Madrid	0:1	0:1	13.01.2018	16:15	2017	2018	19
+Deportivo La CoruÃ±a	Valencia CF	0:1	1:2	13.01.2018	20:45	2017	2018	19
+Levante UD	Celta Vigo	0:1	0:1	14.01.2018	20:45	2017	2018	19
+CD AlavÃ©s	Sevilla FC	0:0	1:0	14.01.2018	16:15	2017	2018	19
+Espanyol Barcelona	Athletic Bilbao	1:1	1:1	14.01.2018	16:15	2017	2018	19
+Real Sociedad	FC Barcelona	2:1	2:4	14.01.2018	20:45	2017	2018	19
+Real Betis	CD LeganÃ©s	2:1	3:2	15.01.2018	20:45	2017	2018	19
+Getafe CF	Athletic Bilbao	1:1	2:2	19.01.2018	21:00	2017	2018	20
+Espanyol Barcelona	Sevilla FC	0:2	0:3	20.01.2018	21:00	2017	2018	20
+AtlÃ©tico Madrid	Girona FC	1:0	1:1	20.01.2018	16:15	2017	2018	20
+Villarreal CF	Levante UD	1:0	2:1	20.01.2018	16:15	2017	2018	20
+UD Las Palmas	Valencia CF	1:1	2:1	20.01.2018	20:45	2017	2018	20
+CD AlavÃ©s	CD LeganÃ©s	0:0	2:2	21.01.2018	20:45	2017	2018	20
+Real Madrid	Deportivo La CoruÃ±a	2:1	7:1	21.01.2018	16:15	2017	2018	20
+Real Sociedad	Celta Vigo	1:1	1:2	21.01.2018	16:15	2017	2018	20
+Real Betis	FC Barcelona	0:0	0:5	21.01.2018	20:45	2017	2018	20
+SD Eibar	MÃ¡laga CF	0:1	1:1	22.01.2018	20:45	2017	2018	20
+Athletic Bilbao	SD Eibar	0:0	1:1	26.01.2018	21:00	2017	2018	21
+Deportivo La CoruÃ±a	Levante UD	2:0	2:2	27.01.2018	21:00	2017	2018	21
+Valencia CF	Real Madrid	0:2	1:4	27.01.2018	16:15	2017	2018	21
+MÃ¡laga CF	Girona FC	0:0	0:0	27.01.2018	16:15	2017	2018	21
+Villarreal CF	Real Sociedad	4:1	4:2	27.01.2018	20:45	2017	2018	21
+CD LeganÃ©s	Espanyol Barcelona	1:0	3:2	28.01.2018	20:45	2017	2018	21
+AtlÃ©tico Madrid	UD Las Palmas	0:0	3:0	28.01.2018	16:15	2017	2018	21
+Sevilla FC	Getafe CF	0:0	1:1	28.01.2018	16:15	2017	2018	21
+FC Barcelona	CD AlavÃ©s	0:1	2:1	28.01.2018	20:45	2017	2018	21
+Celta Vigo	Real Betis	1:0	3:2	29.01.2018	20:45	2017	2018	21
+Real Sociedad	Deportivo La CoruÃ±a	1:0	5:0	02.02.2018	21:00	2017	2018	22
+SD Eibar	Sevilla FC	3:1	5:1	03.02.2018	21:00	2017	2018	22
+Real Betis	Villarreal CF	1:0	2:1	03.02.2018	16:15	2017	2018	22
+CD AlavÃ©s	Celta Vigo	2:0	2:1	03.02.2018	16:15	2017	2018	22
+Levante UD	Real Madrid	1:1	2:2	03.02.2018	20:45	2017	2018	22
+Getafe CF	CD LeganÃ©s	0:0	0:0	04.02.2018	20:45	2017	2018	22
+Espanyol Barcelona	FC Barcelona	0:0	1:1	04.02.2018	16:15	2017	2018	22
+Girona FC	Athletic Bilbao	1:0	2:0	04.02.2018	16:15	2017	2018	22
+AtlÃ©tico Madrid	Valencia CF	0:0	1:0	04.02.2018	20:45	2017	2018	22
+UD Las Palmas	MÃ¡laga CF	0:0	1:0	05.02.2018	20:45	2017	2018	22
+Athletic Bilbao	UD Las Palmas	0:0	0:0	09.02.2018	21:00	2017	2018	23
+Villarreal CF	CD AlavÃ©s	0:1	1:2	10.02.2018	21:00	2017	2018	23
+MÃ¡laga CF	AtlÃ©tico Madrid	0:1	0:1	10.02.2018	16:15	2017	2018	23
+CD LeganÃ©s	SD Eibar	0:0	0:1	10.02.2018	16:15	2017	2018	23
+Real Madrid	Real Sociedad	4:0	5:2	10.02.2018	20:45	2017	2018	23
+Sevilla FC	Girona FC	0:0	1:0	11.02.2018	20:45	2017	2018	23
+FC Barcelona	Getafe CF	0:0	0:0	11.02.2018	16:15	2017	2018	23
+Celta Vigo	Espanyol Barcelona	1:1	2:2	11.02.2018	16:15	2017	2018	23
+Valencia CF	Levante UD	1:1	3:1	11.02.2018	20:45	2017	2018	23
+Deportivo La CoruÃ±a	Real Betis	0:0	0:1	12.02.2018	20:45	2017	2018	23
+Girona FC	CD LeganÃ©s	2:0	3:0	16.02.2018	21:00	2017	2018	24
+UD Las Palmas	Sevilla FC	0:1	1:2	17.02.2018	21:00	2017	2018	24
+SD Eibar	FC Barcelona	0:1	0:2	17.02.2018	16:15	2017	2018	24
+CD AlavÃ©s	Deportivo La CoruÃ±a	0:0	1:0	17.02.2018	16:15	2017	2018	24
+MÃ¡laga CF	Valencia CF	1:0	1:2	17.02.2018	20:45	2017	2018	24
+Real Sociedad	Levante UD	2:0	3:0	18.02.2018	20:45	2017	2018	24
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	2:0	18.02.2018	16:15	2017	2018	24
+Espanyol Barcelona	Villarreal CF	0:1	1:1	18.02.2018	16:15	2017	2018	24
+Real Betis	Real Madrid	2:1	3:5	18.02.2018	20:45	2017	2018	24
+Getafe CF	Celta Vigo	1:0	3:0	19.02.2018	20:45	2017	2018	24
+Deportivo La CoruÃ±a	Espanyol Barcelona	0:0	0:0	23.02.2018	21:00	2017	2018	25
+Celta Vigo	SD Eibar	0:0	2:0	24.02.2018	21:00	2017	2018	25
+Real Madrid	CD AlavÃ©s	1:0	4:0	24.02.2018	16:15	2017	2018	25
+CD LeganÃ©s	UD Las Palmas	0:0	0:0	24.02.2018	16:15	2017	2018	25
+FC Barcelona	Girona FC	4:1	6:1	24.02.2018	20:45	2017	2018	25
+Villarreal CF	Getafe CF	1:0	1:0	25.02.2018	20:45	2017	2018	25
+Athletic Bilbao	MÃ¡laga CF	2:1	2:1	25.02.2018	16:15	2017	2018	25
+Valencia CF	Real Sociedad	1:0	2:1	25.02.2018	16:15	2017	2018	25
+Sevilla FC	AtlÃ©tico Madrid	0:2	2:5	25.02.2018	20:45	2017	2018	25
+Levante UD	Real Betis	0:0	0:2	26.02.2018	20:45	2017	2018	25
+Espanyol Barcelona	Real Madrid	0:0	1:0	27.02.2018	20:00	2017	2018	26
+Girona FC	Celta Vigo	1:0	1:0	27.02.2018	20:00	2017	2018	26
+Athletic Bilbao	Valencia CF	0:1	1:1	28.02.2018	19:30	2017	2018	26
+Getafe CF	Deportivo La CoruÃ±a	2:0	3:0	28.02.2018	19:30	2017	2018	26
+MÃ¡laga CF	Sevilla FC	0:1	0:1	28.02.2018	19:30	2017	2018	26
+AtlÃ©tico Madrid	CD LeganÃ©s	2:0	4:0	28.02.2018	19:30	2017	2018	26
+SD Eibar	Villarreal CF	1:0	1:0	28.02.2018	21:30	2017	2018	26
+Real Betis	Real Sociedad	0:0	0:0	01.03.2018	21:30	2017	2018	26
+UD Las Palmas	FC Barcelona	0:1	1:1	01.03.2018	21:00	2017	2018	26
+CD AlavÃ©s	Levante UD	0:0	1:0	01.03.2018	21:00	2017	2018	26
+Villarreal CF	Girona FC	0:1	0:2	03.03.2018	13:00	2017	2018	27
+Sevilla FC	Athletic Bilbao	2:0	2:0	03.03.2018	13:00	2017	2018	27
+Deportivo La CoruÃ±a	SD Eibar	1:1	1:1	03.03.2018	18:30	2017	2018	27
+CD LeganÃ©s	MÃ¡laga CF	0:0	2:0	03.03.2018	18:30	2017	2018	27
+Real Madrid	Getafe CF	2:0	3:1	03.03.2018	20:45	2017	2018	27
+Levante UD	Espanyol Barcelona	0:0	1:1	04.03.2018	20:45	2017	2018	27
+FC Barcelona	AtlÃ©tico Madrid	1:0	1:0	04.03.2018	16:15	2017	2018	27
+Real Sociedad	CD AlavÃ©s	2:1	2:1	04.03.2018	16:15	2017	2018	27
+Valencia CF	Real Betis	1:0	2:0	04.03.2018	20:45	2017	2018	27
+Celta Vigo	UD Las Palmas	0:0	2:1	05.03.2018	20:45	2017	2018	27
+Girona FC	Deportivo La CoruÃ±a	1:0	2:0	09.03.2018	21:00	2017	2018	28
+SD Eibar	Real Madrid	0:1	1:2	10.03.2018	21:00	2017	2018	28
+Sevilla FC	Valencia CF	0:1	0:2	10.03.2018	16:15	2017	2018	28
+Getafe CF	Levante UD	0:0	0:1	10.03.2018	16:15	2017	2018	28
+MÃ¡laga CF	FC Barcelona	0:2	0:2	10.03.2018	20:45	2017	2018	28
+Espanyol Barcelona	Real Sociedad	0:1	2:1	11.03.2018	20:45	2017	2018	28
+AtlÃ©tico Madrid	Celta Vigo	1:0	3:0	11.03.2018	16:15	2017	2018	28
+UD Las Palmas	Villarreal CF	0:0	0:2	11.03.2018	16:15	2017	2018	28
+Athletic Bilbao	CD LeganÃ©s	2:0	2:0	11.03.2018	20:45	2017	2018	28
+CD AlavÃ©s	Real Betis	0:2	1:3	12.03.2018	20:45	2017	2018	28
+Levante UD	SD Eibar	1:0	2:1	16.03.2018	21:00	2017	2018	29
+Deportivo La CoruÃ±a	UD Las Palmas	1:1	1:1	17.03.2018	21:00	2017	2018	29
+Valencia CF	CD AlavÃ©s	2:0	3:1	17.03.2018	16:15	2017	2018	29
+Real Sociedad	Getafe CF	1:1	1:2	17.03.2018	16:15	2017	2018	29
+Real Betis	Espanyol Barcelona	1:0	3:0	17.03.2018	20:45	2017	2018	29
+CD LeganÃ©s	Sevilla FC	1:0	2:1	18.03.2018	20:45	2017	2018	29
+FC Barcelona	Athletic Bilbao	2:0	2:0	18.03.2018	16:15	2017	2018	29
+Celta Vigo	MÃ¡laga CF	0:0	0:0	18.03.2018	16:15	2017	2018	29
+Villarreal CF	AtlÃ©tico Madrid	0:1	2:1	18.03.2018	18:30	2017	2018	29
+Real Madrid	Girona FC	1:1	6:3	18.03.2018	18:30	2017	2018	29
+Girona FC	Levante UD	0:0	1:1	31.03.2018	13:00	2017	2018	30
+Athletic Bilbao	Celta Vigo	0:0	1:1	31.03.2018	13:00	2017	2018	30
+UD Las Palmas	Real Madrid	0:2	0:3	31.03.2018	18:30	2017	2018	30
+Sevilla FC	FC Barcelona	1:0	2:2	31.03.2018	18:30	2017	2018	30
+Espanyol Barcelona	CD AlavÃ©s	0:0	0:0	01.04.2018	12:00	2017	2018	30
+CD LeganÃ©s	Valencia CF	0:0	0:1	01.04.2018	12:00	2017	2018	30
+SD Eibar	Real Sociedad	0:0	0:0	01.04.2018	18:30	2017	2018	30
+MÃ¡laga CF	Villarreal CF	1:0	1:0	01.04.2018	18:30	2017	2018	30
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	1:0	01.04.2018	20:45	2017	2018	30
+Getafe CF	Real Betis	0:0	0:1	02.04.2018	20:45	2017	2018	30
+Deportivo La CoruÃ±a	MÃ¡laga CF	1:1	3:2	06.04.2018	21:00	2017	2018	31
+CD AlavÃ©s	Getafe CF	0:0	2:0	07.04.2018	21:00	2017	2018	31
+Celta Vigo	Sevilla FC	1:0	4:0	07.04.2018	16:15	2017	2018	31
+Real Betis	SD Eibar	1:0	2:0	07.04.2018	16:15	2017	2018	31
+FC Barcelona	CD LeganÃ©s	2:0	3:1	07.04.2018	20:45	2017	2018	31
+Levante UD	UD Las Palmas	1:0	2:1	08.04.2018	20:45	2017	2018	31
+Real Madrid	AtlÃ©tico Madrid	0:0	1:1	08.04.2018	16:15	2017	2018	31
+Real Sociedad	Girona FC	2:0	5:0	08.04.2018	16:15	2017	2018	31
+Valencia CF	Espanyol Barcelona	1:0	1:0	08.04.2018	20:45	2017	2018	31
+Villarreal CF	Athletic Bilbao	0:1	1:3	09.04.2018	20:45	2017	2018	31
+Girona FC	Real Betis	0:1	0:1	13.04.2018	21:00	2017	2018	32
+Sevilla FC	Villarreal CF	0:1	2:2	14.04.2018	21:00	2017	2018	32
+FC Barcelona	Valencia CF	1:0	2:1	14.04.2018	16:15	2017	2018	32
+UD Las Palmas	Real Sociedad	0:1	0:1	14.04.2018	16:15	2017	2018	32
+CD LeganÃ©s	Celta Vigo	0:0	1:0	14.04.2018	18:30	2017	2018	32
+Athletic Bilbao	Deportivo La CoruÃ±a	0:2	2:3	14.04.2018	18:30	2017	2018	32
+SD Eibar	CD AlavÃ©s	0:1	0:1	15.04.2018	12:00	2017	2018	32
+AtlÃ©tico Madrid	Levante UD	1:0	3:0	15.04.2018	12:00	2017	2018	32
+Getafe CF	Espanyol Barcelona	0:0	1:0	15.04.2018	18:30	2017	2018	32
+MÃ¡laga CF	Real Madrid	0:1	1:2	15.04.2018	18:30	2017	2018	32
+Deportivo La CoruÃ±a	Sevilla FC	0:0	0:0	17.04.2018	19:30	2017	2018	33
+Celta Vigo	FC Barcelona	1:1	2:2	17.04.2018	19:30	2017	2018	33
+Villarreal CF	CD LeganÃ©s	1:0	2:1	17.04.2018	21:30	2017	2018	33
+Espanyol Barcelona	SD Eibar	0:1	0:1	18.04.2018	21:30	2017	2018	33
+Valencia CF	Getafe CF	0:1	1:2	18.04.2018	19:30	2017	2018	33
+Real Madrid	Athletic Bilbao	0:1	1:1	18.04.2018	19:30	2017	2018	33
+CD AlavÃ©s	Girona FC	0:0	1:2	19.04.2018	19:30	2017	2018	33
+Real Sociedad	AtlÃ©tico Madrid	1:0	3:0	19.04.2018	19:30	2017	2018	33
+Real Betis	UD Las Palmas	0:0	1:0	19.04.2018	21:30	2017	2018	33
+Levante UD	MÃ¡laga CF	0:0	1:0	19.04.2018	21:30	2017	2018	33
+CD LeganÃ©s	Deportivo La CoruÃ±a	0:0	0:0	20.04.2018	21:00	2017	2018	34
+SD Eibar	Getafe CF	0:1	0:1	21.04.2018	21:00	2017	2018	34
+Celta Vigo	Valencia CF	0:0	1:1	21.04.2018	16:15	2017	2018	34
+Girona FC	Espanyol Barcelona	0:1	0:2	22.04.2018	16:15	2017	2018	34
+MÃ¡laga CF	Real Sociedad	2:0	2:0	22.04.2018	16:15	2017	2018	34
+UD Las Palmas	CD AlavÃ©s	0:0	0:4	22.04.2018	16:15	2017	2018	34
+AtlÃ©tico Madrid	Real Betis	0:0	0:0	22.04.2018	20:45	2017	2018	34
+Athletic Bilbao	Levante UD	1:2	1:3	23.04.2018	20:45	2017	2018	34
+FC Barcelona	Villarreal CF	3:0	5:1	09.05.2018	20:00	2017	2018	34
+Sevilla FC	Real Madrid	2:0	3:2	09.05.2018	20:00	2017	2018	34
+Levante UD	Sevilla FC	1:1	2:1	27.04.2018	21:00	2017	2018	35
+Espanyol Barcelona	UD Las Palmas	0:1	1:1	28.04.2018	21:00	2017	2018	35
+Real Sociedad	Athletic Bilbao	2:0	3:1	28.04.2018	16:15	2017	2018	35
+Real Madrid	CD LeganÃ©s	2:0	2:1	28.04.2018	16:15	2017	2018	35
+Villarreal CF	Celta Vigo	3:1	4:1	28.04.2018	20:45	2017	2018	35
+Getafe CF	Girona FC	1:1	1:1	29.04.2018	20:45	2017	2018	35
+CD AlavÃ©s	AtlÃ©tico Madrid	0:0	0:1	29.04.2018	16:15	2017	2018	35
+Valencia CF	SD Eibar	0:0	0:0	29.04.2018	16:15	2017	2018	35
+Deportivo La CoruÃ±a	FC Barcelona	1:2	2:4	29.04.2018	20:45	2017	2018	35
+Real Betis	MÃ¡laga CF	1:1	2:1	30.04.2018	20:45	2017	2018	35
+Sevilla FC	Real Sociedad	0:0	1:0	04.05.2018	21:00	2017	2018	36
+Girona FC	SD Eibar	0:2	1:4	05.05.2018	21:00	2017	2018	36
+Athletic Bilbao	Real Betis	0:0	2:0	05.05.2018	16:15	2017	2018	36
+Celta Vigo	Deportivo La CoruÃ±a	1:0	1:1	05.05.2018	16:15	2017	2018	36
+Villarreal CF	Valencia CF	0:0	1:0	05.05.2018	20:45	2017	2018	36
+MÃ¡laga CF	CD AlavÃ©s	0:1	0:3	06.05.2018	20:45	2017	2018	36
+AtlÃ©tico Madrid	Espanyol Barcelona	0:0	0:2	06.05.2018	16:15	2017	2018	36
+UD Las Palmas	Getafe CF	0:0	0:1	06.05.2018	16:15	2017	2018	36
+FC Barcelona	Real Madrid	1:1	2:2	06.05.2018	20:45	2017	2018	36
+CD LeganÃ©s	Levante UD	0:0	0:3	07.05.2018	20:45	2017	2018	36
+Real Sociedad	CD LeganÃ©s	2:1	3:2	12.05.2018	16:15	2017	2018	37
+CD AlavÃ©s	Athletic Bilbao	1:0	3:1	12.05.2018	16:15	2017	2018	37
+Real Betis	Sevilla FC	1:0	2:2	12.05.2018	18:30	2017	2018	37
+Deportivo La CoruÃ±a	Villarreal CF	0:3	2:4	12.05.2018	18:30	2017	2018	37
+SD Eibar	UD Las Palmas	1:0	1:0	12.05.2018	18:30	2017	2018	37
+Getafe CF	AtlÃ©tico Madrid	0:1	0:1	12.05.2018	18:30	2017	2018	37
+Girona FC	Valencia CF	0:0	0:1	12.05.2018	18:30	2017	2018	37
+Real Madrid	Celta Vigo	3:0	6:0	12.05.2018	18:30	2017	2018	37
+Espanyol Barcelona	MÃ¡laga CF	3:1	4:1	13.05.2018	16:15	2017	2018	37
+Levante UD	FC Barcelona	2:1	5:4	13.05.2018	16:15	2017	2018	37
+Celta Vigo	Levante UD	2:1	4:2	19.05.2018	13:00	2017	2018	38
+CD LeganÃ©s	Real Betis	1:1	3:2	19.05.2018	13:00	2017	2018	38
+UD Las Palmas	Girona FC	1:2	1:2	19.05.2018	18:30	2017	2018	38
+MÃ¡laga CF	Getafe CF	0:0	0:1	19.05.2018	18:30	2017	2018	38
+Sevilla FC	CD AlavÃ©s	1:0	1:0	19.05.2018	18:30	2017	2018	38
+Villarreal CF	Real Madrid	0:2	2:2	19.05.2018	18:30	2017	2018	38
+Valencia CF	Deportivo La CoruÃ±a	1:0	2:1	20.05.2018	12:00	2017	2018	38
+Athletic Bilbao	Espanyol Barcelona	0:1	0:1	20.05.2018	12:00	2017	2018	38
+AtlÃ©tico Madrid	SD Eibar	1:1	2:2	20.05.2018	18:30	2017	2018	38
+FC Barcelona	Real Sociedad	0:0	1:0	20.05.2018	18:30	2017	2018	38

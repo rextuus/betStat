@@ -1,0 +1,306 @@
+Sporting CP	Os Belenenses	1:0	2:1	19.08.2005	22:30	2005	2006	1
+Boavista	VitÃ³ria SetÃºbal	0:0	0:0	20.08.2005	20:15	2005	2006	1
+AcadÃ©mica de Coimbra	SL Benfica	0:0	0:0	20.08.2005	22:30	2005	2006	1
+FC Penafiel	Rio Ave FC	0:0	0:2	21.08.2005	17:00	2005	2006	1
+Gil Vicente	CS MarÃ­timo	0:0	1:0	21.08.2005	17:00	2005	2006	1
+PaÃ§os de Ferreira	CD Nacional	0:0	0:1	21.08.2005	18:00	2005	2006	1
+FC Porto	Estrela Amadora	0:0	1:0	21.08.2005	20:45	2005	2006	1
+VitÃ³ria GuimarÃ£es	Naval 1Â° de Maio	0:0	0:2	21.08.2005	21:30	2005	2006	1
+UniÃ£o Leiria	Sporting Braga	0:1	0:1	22.08.2005	21:30	2005	2006	1
+Naval 1Â° de Maio	FC Porto	0:1	2:3	26.08.2005	22:30	2005	2006	2
+Os Belenenses	UniÃ£o Leiria	3:1	3:1	27.08.2005	20:15	2005	2006	2
+SL Benfica	Gil Vicente	0:0	0:2	27.08.2005	22:15	2005	2006	2
+Rio Ave FC	VitÃ³ria GuimarÃ£es	2:1	3:1	28.08.2005	17:00	2005	2006	2
+Sporting Braga	FC Penafiel	0:0	1:0	28.08.2005	17:00	2005	2006	2
+CD Nacional	AcadÃ©mica de Coimbra	2:1	2:2	28.08.2005	17:00	2005	2006	2
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	0:1	0:1	28.08.2005	17:00	2005	2006	2
+CS MarÃ­timo	Sporting CP	0:0	1:2	28.08.2005	20:00	2005	2006	2
+Estrela Amadora	Boavista	0:1	1:1	29.08.2005	21:30	2005	2006	2
+VitÃ³ria GuimarÃ£es	Sporting Braga	0:0	0:2	09.09.2005	22:30	2005	2006	3
+FC Porto	Rio Ave FC	0:0	3:0	10.09.2005	20:30	2005	2006	3
+Sporting CP	SL Benfica	1:0	2:1	10.09.2005	22:30	2005	2006	3
+UniÃ£o Leiria	CS MarÃ­timo	0:0	0:0	11.09.2005	17:00	2005	2006	3
+Gil Vicente	CD Nacional	0:0	0:1	11.09.2005	17:00	2005	2006	3
+Estrela Amadora	Naval 1Â° de Maio	1:0	2:1	11.09.2005	18:00	2005	2006	3
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	0:0	0:1	11.09.2005	19:15	2005	2006	3
+Boavista	PaÃ§os de Ferreira	1:0	4:1	11.09.2005	21:30	2005	2006	3
+FC Penafiel	Os Belenenses	0:1	0:3	12.09.2005	21:30	2005	2006	3
+Naval 1Â° de Maio	Boavista	1:2	2:2	16.09.2005	22:30	2005	2006	4
+Rio Ave FC	Estrela Amadora	1:1	2:1	18.09.2005	17:00	2005	2006	4
+CS MarÃ­timo	FC Penafiel	1:0	2:2	18.09.2005	17:00	2005	2006	4
+VitÃ³ria SetÃºbal	Gil Vicente	1:0	1:0	18.09.2005	17:00	2005	2006	4
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	1:1	2:1	18.09.2005	17:00	2005	2006	4
+SL Benfica	UniÃ£o Leiria	2:0	4:0	18.09.2005	20:15	2005	2006	4
+Sporting Braga	FC Porto	0:0	0:0	18.09.2005	22:15	2005	2006	4
+Os Belenenses	VitÃ³ria GuimarÃ£es	1:1	3:1	19.09.2005	20:00	2005	2006	4
+CD Nacional	Sporting CP	0:0	2:1	19.09.2005	22:15	2005	2006	4
+FC Penafiel	SL Benfica	0:2	1:3	23.09.2005	22:30	2005	2006	5
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	1:0	1:0	24.09.2005	20:00	2005	2006	5
+FC Porto	Os Belenenses	1:0	2:0	24.09.2005	22:15	2005	2006	5
+Naval 1Â° de Maio	Rio Ave FC	1:0	1:0	25.09.2005	17:00	2005	2006	5
+Estrela Amadora	Sporting Braga	0:0	0:0	25.09.2005	17:00	2005	2006	5
+UniÃ£o Leiria	CD Nacional	0:0	0:0	25.09.2005	17:00	2005	2006	5
+Gil Vicente	PaÃ§os de Ferreira	2:0	2:0	25.09.2005	17:00	2005	2006	5
+Sporting CP	VitÃ³ria SetÃºbal	1:0	1:0	25.09.2005	21:30	2005	2006	5
+Boavista	AcadÃ©mica de Coimbra	1:1	2:1	26.09.2005	21:30	2005	2006	5
+Os Belenenses	Estrela Amadora	0:2	0:2	30.09.2005	22:30	2005	2006	6
+Rio Ave FC	Boavista	0:0	1:1	01.10.2005	19:45	2005	2006	6
+CD Nacional	FC Penafiel	0:0	2:0	02.10.2005	17:00	2005	2006	6
+VitÃ³ria SetÃºbal	UniÃ£o Leiria	1:0	2:0	02.10.2005	17:00	2005	2006	6
+AcadÃ©mica de Coimbra	Gil Vicente	1:0	2:0	02.10.2005	17:00	2005	2006	6
+CS MarÃ­timo	FC Porto	1:0	2:2	02.10.2005	20:15	2005	2006	6
+PaÃ§os de Ferreira	Sporting CP	2:0	3:0	02.10.2005	22:30	2005	2006	6
+SL Benfica	VitÃ³ria GuimarÃ£es	1:1	2:1	03.10.2005	21:30	2005	2006	6
+Sporting Braga	Naval 1Â° de Maio	1:0	1:0	04.10.2005	21:30	2005	2006	6
+Rio Ave FC	Sporting Braga	0:1	1:2	14.10.2005	22:30	2005	2006	7
+VitÃ³ria GuimarÃ£es	CD Nacional	0:0	0:0	15.10.2005	18:30	2005	2006	7
+FC Porto	SL Benfica	0:0	0:2	15.10.2005	22:00	2005	2006	7
+Estrela Amadora	CS MarÃ­timo	2:1	2:2	16.10.2005	17:00	2005	2006	7
+FC Penafiel	VitÃ³ria SetÃºbal	0:0	0:1	16.10.2005	17:00	2005	2006	7
+UniÃ£o Leiria	PaÃ§os de Ferreira	0:0	3:0	16.10.2005	18:00	2005	2006	7
+Sporting CP	AcadÃ©mica de Coimbra	0:1	0:1	16.10.2005	20:15	2005	2006	7
+Naval 1Â° de Maio	Os Belenenses	1:1	2:1	16.10.2005	22:15	2005	2006	7
+Boavista	Gil Vicente	1:0	2:0	17.10.2005	21:30	2005	2006	7
+Os Belenenses	Rio Ave FC	1:0	1:2	21.10.2005	22:30	2005	2006	8
+Sporting Braga	Boavista	1:0	1:0	22.10.2005	19:45	2005	2006	8
+SL Benfica	Estrela Amadora	0:0	2:0	22.10.2005	22:00	2005	2006	8
+CS MarÃ­timo	Naval 1Â° de Maio	2:0	2:1	23.10.2005	17:00	2005	2006	8
+PaÃ§os de Ferreira	FC Penafiel	2:1	2:2	23.10.2005	17:00	2005	2006	8
+AcadÃ©mica de Coimbra	UniÃ£o Leiria	1:1	1:3	23.10.2005	17:00	2005	2006	8
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	0:1	0:1	23.10.2005	20:00	2005	2006	8
+Gil Vicente	Sporting CP	0:1	2:2	23.10.2005	20:15	2005	2006	8
+CD Nacional	FC Porto	0:0	0:1	23.10.2005	22:15	2005	2006	8
+FC Porto	VitÃ³ria SetÃºbal	0:0	0:0	29.10.2005	20:15	2005	2006	9
+Naval 1Â° de Maio	SL Benfica	0:0	1:1	29.10.2005	22:15	2005	2006	9
+Rio Ave FC	CS MarÃ­timo	2:1	2:2	30.10.2005	17:00	2005	2006	9
+Estrela Amadora	CD Nacional	0:1	0:2	30.10.2005	17:00	2005	2006	9
+FC Penafiel	AcadÃ©mica de Coimbra	0:0	1:0	30.10.2005	17:00	2005	2006	9
+UniÃ£o Leiria	Gil Vicente	2:0	3:0	30.10.2005	17:00	2005	2006	9
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	0:0	0:2	30.10.2005	19:00	2005	2006	9
+Boavista	Sporting CP	0:2	2:2	30.10.2005	21:30	2005	2006	9
+Sporting Braga	Os Belenenses	1:0	2:0	31.10.2005	21:30	2005	2006	9
+Sporting CP	UniÃ£o Leiria	2:0	2:1	04.11.2005	22:00	2005	2006	10
+CS MarÃ­timo	Sporting Braga	1:0	1:0	05.11.2005	18:15	2005	2006	10
+Os Belenenses	Boavista	0:0	1:1	05.11.2005	22:30	2005	2006	10
+CD Nacional	Naval 1Â° de Maio	0:0	2:0	06.11.2005	17:00	2005	2006	10
+VitÃ³ria SetÃºbal	Estrela Amadora	1:0	1:0	06.11.2005	17:00	2005	2006	10
+Gil Vicente	FC Penafiel	1:0	2:2	06.11.2005	17:00	2005	2006	10
+SL Benfica	Rio Ave FC	1:1	2:2	06.11.2005	20:15	2005	2006	10
+PaÃ§os de Ferreira	FC Porto	0:1	0:1	06.11.2005	22:15	2005	2006	10
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	1:0	1:0	07.11.2005	21:30	2005	2006	10
+VitÃ³ria GuimarÃ£es	Gil Vicente	1:0	2:0	18.11.2005	22:30	2005	2006	11
+Sporting Braga	SL Benfica	1:0	3:2	19.11.2005	18:00	2005	2006	11
+FC Porto	AcadÃ©mica de Coimbra	2:0	5:1	19.11.2005	22:15	2005	2006	11
+Rio Ave FC	CD Nacional	0:0	0:2	20.11.2005	17:00	2005	2006	11
+Naval 1Â° de Maio	VitÃ³ria SetÃºbal	0:0	0:3	20.11.2005	17:00	2005	2006	11
+Estrela Amadora	PaÃ§os de Ferreira	0:0	0:0	20.11.2005	17:00	2005	2006	11
+FC Penafiel	Sporting CP	0:0	0:1	20.11.2005	20:15	2005	2006	11
+Boavista	UniÃ£o Leiria	0:0	2:0	20.11.2005	22:15	2005	2006	11
+Os Belenenses	CS MarÃ­timo	0:1	0:1	21.11.2005	21:00	2005	2006	11
+CD Nacional	Sporting Braga	1:0	1:0	25.11.2005	22:30	2005	2006	12
+CS MarÃ­timo	Boavista	1:0	1:1	26.11.2005	20:30	2005	2006	12
+VitÃ³ria SetÃºbal	Rio Ave FC	0:0	1:0	27.11.2005	16:00	2005	2006	12
+PaÃ§os de Ferreira	Naval 1Â° de Maio	1:1	3:1	27.11.2005	17:00	2005	2006	12
+AcadÃ©mica de Coimbra	Estrela Amadora	0:0	1:0	27.11.2005	17:00	2005	2006	12
+UniÃ£o Leiria	FC Penafiel	0:0	1:1	27.11.2005	17:00	2005	2006	12
+Sporting CP	VitÃ³ria GuimarÃ£es	0:0	2:0	27.11.2005	20:15	2005	2006	12
+SL Benfica	Os Belenenses	0:0	0:0	27.11.2005	22:15	2005	2006	12
+Gil Vicente	FC Porto	0:1	0:1	28.11.2005	21:30	2005	2006	12
+FC Porto	Sporting CP	0:0	1:1	02.12.2005	22:00	2005	2006	13
+Os Belenenses	CD Nacional	0:0	1:0	03.12.2005	20:15	2005	2006	13
+CS MarÃ­timo	SL Benfica	0:0	0:1	03.12.2005	22:15	2005	2006	13
+Rio Ave FC	PaÃ§os de Ferreira	2:1	2:2	04.12.2005	17:00	2005	2006	13
+Naval 1Â° de Maio	AcadÃ©mica de Coimbra	0:1	0:1	04.12.2005	17:00	2005	2006	13
+Estrela Amadora	Gil Vicente	0:0	1:0	04.12.2005	17:00	2005	2006	13
+Boavista	FC Penafiel	2:0	2:1	04.12.2005	19:30	2005	2006	13
+Sporting Braga	VitÃ³ria SetÃºbal	0:0	0:1	04.12.2005	21:45	2005	2006	13
+VitÃ³ria GuimarÃ£es	UniÃ£o Leiria	0:3	0:3	05.12.2005	21:30	2005	2006	13
+Sporting CP	Estrela Amadora	0:1	0:1	09.12.2005	22:30	2005	2006	14
+CD Nacional	CS MarÃ­timo	1:0	2:1	10.12.2005	20:15	2005	2006	14
+UniÃ£o Leiria	FC Porto	1:2	1:3	10.12.2005	22:15	2005	2006	14
+AcadÃ©mica de Coimbra	Rio Ave FC	0:1	2:2	11.12.2005	17:00	2005	2006	14
+Gil Vicente	Naval 1Â° de Maio	1:0	2:0	11.12.2005	17:00	2005	2006	14
+FC Penafiel	VitÃ³ria GuimarÃ£es	0:0	0:1	11.12.2005	17:00	2005	2006	14
+PaÃ§os de Ferreira	Sporting Braga	1:0	1:0	11.12.2005	19:15	2005	2006	14
+SL Benfica	Boavista	1:0	1:0	11.12.2005	21:30	2005	2006	14
+VitÃ³ria SetÃºbal	Os Belenenses	0:0	1:0	12.12.2005	21:30	2005	2006	14
+Naval 1Â° de Maio	Sporting CP	0:1	0:2	16.12.2005	22:30	2005	2006	15
+CS MarÃ­timo	VitÃ³ria SetÃºbal	0:0	1:0	17.12.2005	17:00	2005	2006	15
+Os Belenenses	PaÃ§os de Ferreira	1:0	2:0	17.12.2005	17:00	2005	2006	15
+Rio Ave FC	Gil Vicente	0:0	1:0	17.12.2005	17:00	2005	2006	15
+Estrela Amadora	UniÃ£o Leiria	1:2	1:2	17.12.2005	17:00	2005	2006	15
+Sporting Braga	AcadÃ©mica de Coimbra	1:0	2:0	17.12.2005	18:00	2005	2006	15
+SL Benfica	CD Nacional	0:0	1:0	17.12.2005	20:15	2005	2006	15
+FC Porto	FC Penafiel	2:1	3:1	17.12.2005	22:15	2005	2006	15
+Boavista	VitÃ³ria GuimarÃ£es	1:0	1:1	18.12.2005	21:15	2005	2006	15
+Sporting CP	Rio Ave FC	2:0	3:0	20.12.2005	22:30	2005	2006	16
+PaÃ§os de Ferreira	CS MarÃ­timo	1:0	1:2	21.12.2005	17:00	2005	2006	16
+UniÃ£o Leiria	Naval 1Â° de Maio	1:1	2:1	21.12.2005	18:00	2005	2006	16
+AcadÃ©mica de Coimbra	Os Belenenses	0:0	0:1	21.12.2005	20:00	2005	2006	16
+Gil Vicente	Sporting Braga	0:1	2:1	21.12.2005	20:15	2005	2006	16
+VitÃ³ria SetÃºbal	SL Benfica	0:0	0:1	21.12.2005	22:30	2005	2006	16
+Boavista	CD Nacional	0:1	0:3	22.12.2005	20:15	2005	2006	16
+FC Penafiel	Estrela Amadora	0:1	0:1	22.12.2005	22:00	2005	2006	16
+VitÃ³ria GuimarÃ£es	FC Porto	0:1	0:2	22.12.2005	22:30	2005	2006	16
+Os Belenenses	Gil Vicente	0:0	0:2	06.01.2006	20:15	2005	2006	17
+CD Nacional	VitÃ³ria SetÃºbal	0:1	2:2	06.01.2006	22:30	2005	2006	17
+CS MarÃ­timo	AcadÃ©mica de Coimbra	2:1	2:2	07.01.2006	17:00	2005	2006	17
+Naval 1Â° de Maio	FC Penafiel	1:0	4:1	07.01.2006	18:00	2005	2006	17
+Sporting Braga	Sporting CP	2:0	3:2	07.01.2006	22:15	2005	2006	17
+Estrela Amadora	VitÃ³ria GuimarÃ£es	0:0	2:0	08.01.2006	17:00	2005	2006	17
+SL Benfica	PaÃ§os de Ferreira	1:0	2:0	08.01.2006	19:30	2005	2006	17
+FC Porto	Boavista	1:0	1:0	08.01.2006	21:45	2005	2006	17
+Rio Ave FC	UniÃ£o Leiria	0:2	1:2	09.01.2006	21:30	2005	2006	17
+Sporting Braga	UniÃ£o Leiria	0:0	1:0	14.01.2006	20:00	2005	2006	18
+Os Belenenses	Sporting CP	0:1	0:1	14.01.2006	22:15	2005	2006	18
+Naval 1Â° de Maio	VitÃ³ria GuimarÃ£es	0:0	0:0	15.01.2006	17:00	2005	2006	18
+Rio Ave FC	FC Penafiel	1:0	2:0	15.01.2006	17:00	2005	2006	18
+CS MarÃ­timo	Gil Vicente	0:1	1:1	15.01.2006	17:00	2005	2006	18
+CD Nacional	PaÃ§os de Ferreira	1:1	2:2	15.01.2006	17:00	2005	2006	18
+SL Benfica	AcadÃ©mica de Coimbra	1:0	3:0	15.01.2006	19:45	2005	2006	18
+Estrela Amadora	FC Porto	2:0	2:1	15.01.2006	21:45	2005	2006	18
+VitÃ³ria SetÃºbal	Boavista	0:0	0:2	16.01.2006	21:30	2005	2006	18
+FC Penafiel	Sporting Braga	0:0	0:0	19.01.2006	22:00	2005	2006	19
+Gil Vicente	SL Benfica	1:2	1:3	20.01.2006	22:30	2005	2006	19
+VitÃ³ria GuimarÃ£es	Rio Ave FC	0:1	1:1	21.01.2006	17:00	2005	2006	19
+AcadÃ©mica de Coimbra	CD Nacional	0:0	0:0	21.01.2006	17:00	2005	2006	19
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	0:2	1:2	21.01.2006	17:00	2005	2006	19
+Boavista	Estrela Amadora	1:0	2:1	21.01.2006	18:00	2005	2006	19
+Sporting CP	CS MarÃ­timo	1:1	1:1	21.01.2006	20:15	2005	2006	19
+FC Porto	Naval 1Â° de Maio	1:0	1:0	21.01.2006	22:15	2005	2006	19
+UniÃ£o Leiria	Os Belenenses	2:0	2:2	23.01.2006	21:30	2005	2006	19
+PaÃ§os de Ferreira	Boavista	0:1	0:1	27.01.2006	22:30	2005	2006	20
+Naval 1Â° de Maio	Estrela Amadora	1:0	2:0	28.01.2006	18:00	2005	2006	20
+SL Benfica	Sporting CP	1:0	1:3	28.01.2006	20:45	2005	2006	20
+Os Belenenses	FC Penafiel	3:0	5:0	29.01.2006	17:00	2005	2006	20
+CS MarÃ­timo	UniÃ£o Leiria	0:0	3:0	29.01.2006	17:00	2005	2006	20
+CD Nacional	Gil Vicente	1:0	2:0	29.01.2006	17:00	2005	2006	20
+Rio Ave FC	FC Porto	0:0	0:0	29.01.2006	20:15	2005	2006	20
+Sporting Braga	VitÃ³ria GuimarÃ£es	0:0	1:0	29.01.2006	22:15	2005	2006	20
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	0:0	0:1	30.01.2006	21:30	2005	2006	20
+Boavista	Naval 1Â° de Maio	2:0	3:0	03.02.2006	22:30	2005	2006	21
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	0:0	3:0	04.02.2006	17:00	2005	2006	21
+Sporting CP	CD Nacional	0:0	1:0	04.02.2006	20:15	2005	2006	21
+UniÃ£o Leiria	SL Benfica	1:0	3:1	04.02.2006	22:15	2005	2006	21
+Estrela Amadora	Rio Ave FC	0:0	0:0	05.02.2006	17:00	2005	2006	21
+FC Penafiel	CS MarÃ­timo	1:1	3:2	05.02.2006	17:00	2005	2006	21
+Gil Vicente	VitÃ³ria SetÃºbal	2:0	5:0	05.02.2006	17:00	2005	2006	21
+VitÃ³ria GuimarÃ£es	Os Belenenses	1:1	2:2	05.02.2006	21:00	2005	2006	21
+FC Porto	Sporting Braga	0:0	1:1	06.02.2006	21:30	2005	2006	21
+AcadÃ©mica de Coimbra	Boavista	0:1	0:2	11.02.2006	20:15	2005	2006	22
+Os Belenenses	FC Porto	0:1	0:2	11.02.2006	22:30	2005	2006	22
+Rio Ave FC	Naval 1Â° de Maio	0:1	0:1	12.02.2006	17:00	2005	2006	22
+Sporting Braga	Estrela Amadora	0:1	1:1	12.02.2006	17:00	2005	2006	22
+CD Nacional	UniÃ£o Leiria	1:3	1:4	12.02.2006	17:00	2005	2006	22
+PaÃ§os de Ferreira	Gil Vicente	1:0	1:0	12.02.2006	17:00	2005	2006	22
+VitÃ³ria SetÃºbal	Sporting CP	0:1	1:2	12.02.2006	19:30	2005	2006	22
+SL Benfica	FC Penafiel	1:0	4:0	12.02.2006	22:30	2005	2006	22
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	0:1	0:1	13.02.2006	21:30	2005	2006	22
+Boavista	Rio Ave FC	1:1	2:1	17.02.2006	22:30	2005	2006	23
+VitÃ³ria GuimarÃ£es	SL Benfica	1:0	2:0	18.02.2006	19:00	2005	2006	23
+Sporting CP	PaÃ§os de Ferreira	1:0	3:0	18.02.2006	21:30	2005	2006	23
+Estrela Amadora	Os Belenenses	0:2	1:2	19.02.2006	17:00	2005	2006	23
+FC Penafiel	CD Nacional	1:1	1:2	19.02.2006	17:00	2005	2006	23
+Gil Vicente	AcadÃ©mica de Coimbra	3:2	4:3	19.02.2006	17:00	2005	2006	23
+FC Porto	CS MarÃ­timo	1:0	1:0	19.02.2006	19:30	2005	2006	23
+Naval 1Â° de Maio	Sporting Braga	0:0	0:1	19.02.2006	22:15	2005	2006	23
+UniÃ£o Leiria	VitÃ³ria SetÃºbal	0:1	0:2	20.02.2006	21:30	2005	2006	23
+Gil Vicente	Boavista	0:1	0:1	24.02.2006	22:30	2005	2006	24
+CD Nacional	VitÃ³ria GuimarÃ£es	1:1	1:1	25.02.2006	20:00	2005	2006	24
+AcadÃ©mica de Coimbra	Sporting CP	0:1	0:3	25.02.2006	22:15	2005	2006	24
+Os Belenenses	Naval 1Â° de Maio	0:2	2:3	26.02.2006	17:00	2005	2006	24
+CS MarÃ­timo	Estrela Amadora	0:0	1:0	26.02.2006	17:00	2005	2006	24
+VitÃ³ria SetÃºbal	FC Penafiel	2:0	2:0	26.02.2006	17:00	2005	2006	24
+PaÃ§os de Ferreira	UniÃ£o Leiria	1:0	1:1	26.02.2006	17:00	2005	2006	24
+SL Benfica	FC Porto	1:0	1:0	26.02.2006	20:45	2005	2006	24
+Sporting Braga	Rio Ave FC	1:0	5:0	27.02.2006	21:30	2005	2006	24
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	2:0	4:0	03.03.2006	22:30	2005	2006	25
+Naval 1Â° de Maio	CS MarÃ­timo	1:0	2:0	04.03.2006	17:00	2005	2006	25
+Boavista	Sporting Braga	0:0	0:0	04.03.2006	20:15	2005	2006	25
+Estrela Amadora	SL Benfica	1:0	1:2	04.03.2006	22:30	2005	2006	25
+FC Penafiel	PaÃ§os de Ferreira	1:2	2:2	05.03.2006	17:00	2005	2006	25
+UniÃ£o Leiria	AcadÃ©mica de Coimbra	0:1	0:2	05.03.2006	17:00	2005	2006	25
+FC Porto	CD Nacional	2:0	3:0	05.03.2006	19:30	2005	2006	25
+Sporting CP	Gil Vicente	0:0	2:0	05.03.2006	21:30	2005	2006	25
+Rio Ave FC	Os Belenenses	1:0	2:1	06.03.2006	21:30	2005	2006	25
+VitÃ³ria SetÃºbal	FC Porto	0:1	0:2	10.03.2006	22:30	2005	2006	26
+AcadÃ©mica de Coimbra	FC Penafiel	0:0	1:0	11.03.2006	17:00	2005	2006	26
+Gil Vicente	UniÃ£o Leiria	1:1	1:2	11.03.2006	17:00	2005	2006	26
+CS MarÃ­timo	Rio Ave FC	0:0	0:0	11.03.2006	20:00	2005	2006	26
+Sporting CP	Boavista	1:0	1:0	11.03.2006	22:15	2005	2006	26
+CD Nacional	Estrela Amadora	1:1	1:2	12.03.2006	17:00	2005	2006	26
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	0:0	1:1	12.03.2006	17:00	2005	2006	26
+SL Benfica	Naval 1Â° de Maio	0:0	0:0	12.03.2006	20:45	2005	2006	26
+Os Belenenses	Sporting Braga	1:0	2:0	13.03.2006	21:30	2005	2006	26
+Naval 1Â° de Maio	CD Nacional	2:1	3:1	17.03.2006	22:30	2005	2006	27
+Boavista	Os Belenenses	0:0	0:2	18.03.2006	20:00	2005	2006	27
+FC Porto	PaÃ§os de Ferreira	1:0	3:0	18.03.2006	22:30	2005	2006	27
+Sporting Braga	CS MarÃ­timo	1:0	2:0	19.03.2006	17:00	2005	2006	27
+Estrela Amadora	VitÃ³ria SetÃºbal	1:0	1:0	19.03.2006	17:00	2005	2006	27
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	1:1	1:1	19.03.2006	17:00	2005	2006	27
+FC Penafiel	Gil Vicente	0:0	1:1	19.03.2006	17:00	2005	2006	27
+Rio Ave FC	SL Benfica	0:0	0:1	19.03.2006	19:30	2005	2006	27
+UniÃ£o Leiria	Sporting CP	0:0	0:1	19.03.2006	21:30	2005	2006	27
+CD Nacional	Rio Ave FC	0:0	1:1	25.03.2006	19:00	2005	2006	28
+SL Benfica	Sporting Braga	1:0	1:0	25.03.2006	20:00	2005	2006	28
+CS MarÃ­timo	Os Belenenses	1:0	1:0	25.03.2006	22:30	2005	2006	28
+VitÃ³ria SetÃºbal	Naval 1Â° de Maio	4:0	4:1	26.03.2006	17:00	2005	2006	28
+PaÃ§os de Ferreira	Estrela Amadora	0:0	2:1	26.03.2006	17:00	2005	2006	28
+Gil Vicente	VitÃ³ria GuimarÃ£es	0:1	1:1	26.03.2006	17:00	2005	2006	28
+AcadÃ©mica de Coimbra	FC Porto	0:0	0:1	26.03.2006	19:30	2005	2006	28
+Sporting CP	FC Penafiel	2:0	2:0	26.03.2006	21:30	2005	2006	28
+UniÃ£o Leiria	Boavista	0:0	0:0	27.03.2006	21:30	2005	2006	28
+Sporting Braga	CD Nacional	1:0	1:0	31.03.2006	22:30	2005	2006	29
+Naval 1Â° de Maio	PaÃ§os de Ferreira	0:0	1:0	01.04.2006	17:00	2005	2006	29
+VitÃ³ria GuimarÃ£es	Sporting CP	0:0	0:1	01.04.2006	20:00	2005	2006	29
+Os Belenenses	SL Benfica	1:2	1:2	01.04.2006	22:15	2005	2006	29
+Estrela Amadora	AcadÃ©mica de Coimbra	0:2	3:2	02.04.2006	17:00	2005	2006	29
+FC Penafiel	UniÃ£o Leiria	1:0	1:1	02.04.2006	17:00	2005	2006	29
+Boavista	CS MarÃ­timo	1:0	1:1	02.04.2006	19:00	2005	2006	29
+FC Porto	Gil Vicente	1:0	3:0	02.04.2006	21:15	2005	2006	29
+Rio Ave FC	VitÃ³ria SetÃºbal	1:0	1:0	03.04.2006	21:30	2005	2006	29
+CD Nacional	Os Belenenses	1:0	4:0	07.04.2006	22:30	2005	2006	30
+UniÃ£o Leiria	VitÃ³ria GuimarÃ£es	0:0	1:0	08.04.2006	18:15	2005	2006	30
+Sporting CP	FC Porto	0:0	0:1	08.04.2006	21:45	2005	2006	30
+PaÃ§os de Ferreira	Rio Ave FC	1:0	2:1	09.04.2006	17:00	2005	2006	30
+AcadÃ©mica de Coimbra	Naval 1Â° de Maio	2:1	2:2	09.04.2006	17:00	2005	2006	30
+Gil Vicente	Estrela Amadora	0:1	1:1	09.04.2006	17:00	2005	2006	30
+SL Benfica	CS MarÃ­timo	0:1	2:2	09.04.2006	19:30	2005	2006	30
+VitÃ³ria SetÃºbal	Sporting Braga	0:0	1:0	09.04.2006	21:45	2005	2006	30
+FC Penafiel	Boavista	0:0	0:0	10.04.2006	21:30	2005	2006	30
+Os Belenenses	VitÃ³ria SetÃºbal	2:0	3:1	14.04.2006	18:15	2005	2006	31
+FC Porto	UniÃ£o Leiria	1:0	1:0	14.04.2006	20:45	2005	2006	31
+Rio Ave FC	AcadÃ©mica de Coimbra	1:0	1:4	15.04.2006	17:00	2005	2006	31
+Naval 1Â° de Maio	Gil Vicente	1:1	1:4	15.04.2006	17:00	2005	2006	31
+VitÃ³ria GuimarÃ£es	FC Penafiel	2:0	3:1	15.04.2006	17:00	2005	2006	31
+Estrela Amadora	Sporting CP	0:0	0:0	15.04.2006	20:15	2005	2006	31
+Boavista	SL Benfica	0:0	0:2	15.04.2006	22:15	2005	2006	31
+CS MarÃ­timo	CD Nacional	0:0	2:0	16.04.2006	19:00	2005	2006	31
+Sporting Braga	PaÃ§os de Ferreira	0:1	2:3	17.04.2006	21:30	2005	2006	31
+VitÃ³ria GuimarÃ£es	Boavista	0:1	1:1	21.04.2006	22:30	2005	2006	32
+FC Penafiel	FC Porto	0:0	0:1	22.04.2006	20:15	2005	2006	32
+VitÃ³ria SetÃºbal	CS MarÃ­timo	0:1	0:1	23.04.2006	17:00	2005	2006	32
+PaÃ§os de Ferreira	Os Belenenses	1:1	1:1	23.04.2006	17:00	2005	2006	32
+Gil Vicente	Rio Ave FC	0:0	1:0	23.04.2006	17:00	2005	2006	32
+UniÃ£o Leiria	Estrela Amadora	0:1	1:1	23.04.2006	17:00	2005	2006	32
+CD Nacional	SL Benfica	0:0	1:1	23.04.2006	19:30	2005	2006	32
+Sporting CP	Naval 1Â° de Maio	0:0	0:0	23.04.2006	21:45	2005	2006	32
+AcadÃ©mica de Coimbra	Sporting Braga	0:1	0:3	24.04.2006	21:30	2005	2006	32
+CD Nacional	Boavista	0:0	1:0	29.04.2006	20:00	2005	2006	33
+SL Benfica	VitÃ³ria SetÃºbal	1:0	1:0	30.04.2006	19:30	2005	2006	33
+CS MarÃ­timo	PaÃ§os de Ferreira	1:1	1:1	30.04.2006	19:30	2005	2006	33
+Os Belenenses	AcadÃ©mica de Coimbra	0:0	0:0	30.04.2006	19:30	2005	2006	33
+Sporting Braga	Gil Vicente	0:0	1:1	30.04.2006	19:30	2005	2006	33
+Rio Ave FC	Sporting CP	1:2	1:3	30.04.2006	19:30	2005	2006	33
+Naval 1Â° de Maio	UniÃ£o Leiria	0:2	0:2	30.04.2006	19:30	2005	2006	33
+Estrela Amadora	FC Penafiel	0:0	1:0	30.04.2006	19:30	2005	2006	33
+FC Porto	VitÃ³ria GuimarÃ£es	0:0	3:1	30.04.2006	19:30	2005	2006	33
+VitÃ³ria SetÃºbal	CD Nacional	0:0	1:1	06.05.2006	19:00	2005	2006	34
+Boavista	FC Porto	0:1	1:1	06.05.2006	19:00	2005	2006	34
+PaÃ§os de Ferreira	SL Benfica	0:1	3:1	07.05.2006	19:30	2005	2006	34
+AcadÃ©mica de Coimbra	CS MarÃ­timo	0:0	2:2	07.05.2006	19:30	2005	2006	34
+Gil Vicente	Os Belenenses	1:0	1:0	07.05.2006	19:30	2005	2006	34
+Sporting CP	Sporting Braga	1:0	1:0	07.05.2006	19:30	2005	2006	34
+UniÃ£o Leiria	Rio Ave FC	1:0	5:2	07.05.2006	19:30	2005	2006	34
+FC Penafiel	Naval 1Â° de Maio	0:0	0:1	07.05.2006	19:30	2005	2006	34
+VitÃ³ria GuimarÃ£es	Estrela Amadora	0:0	0:1	07.05.2006	19:30	2005	2006	34

@@ -1,0 +1,462 @@
+Birmingham City	Sheffield United	1:1	1:2	12.08.1972	00:00	1972	1973	1
+Tottenham Hotspur	Coventry City	1:0	2:1	12.08.1972	00:00	1972	1973	1
+Stoke City	Crystal Palace	1:0	2:0	12.08.1972	00:00	1972	1973	1
+Southampton FC	Derby County	0:1	1:1	12.08.1972	00:00	1972	1973	1
+Norwich City	Everton FC	1:0	1:1	12.08.1972	00:00	1972	1973	1
+Newcastle United	Wolverhampton Wanderers	2:1	2:1	12.08.1972	00:00	1972	1973	1
+Manchester United	Ipswich Town	0:1	1:2	12.08.1972	00:00	1972	1973	1
+Liverpool FC	Manchester City	1:0	2:0	12.08.1972	00:00	1972	1973	1
+Leicester City	Arsenal FC	0:1	0:1	12.08.1972	00:00	1972	1973	1
+Chelsea FC	Leeds United	1:0	4:0	12.08.1972	00:00	1972	1973	1
+West Bromwich Albion	West Ham United	0:0	0:0	12.08.1972	00:00	1972	1973	1
+West Ham United	Coventry City	0:0	1:0	14.08.1972	00:00	1972	1973	2
+Southampton FC	Stoke City	1:0	1:0	15.08.1972	00:00	1972	1973	2
+Sheffield United	Leeds United	0:1	0:2	15.08.1972	00:00	1972	1973	2
+Liverpool FC	Manchester United	2:0	2:0	15.08.1972	00:00	1972	1973	2
+Ipswich Town	Norwich City	1:1	1:2	15.08.1972	00:00	1972	1973	2
+Crystal Palace	Derby County	0:0	0:0	15.08.1972	00:00	1972	1973	2
+Birmingham City	Newcastle United	2:2	3:2	15.08.1972	00:00	1972	1973	2
+Arsenal FC	Wolverhampton Wanderers	3:1	5:2	15.08.1972	00:00	1972	1973	2
+Leicester City	Chelsea FC	1:0	1:1	16.08.1972	00:00	1972	1973	2
+Manchester City	Everton FC	0:1	0:1	16.08.1972	00:00	1972	1973	2
+West Bromwich Albion	Tottenham Hotspur	0:1	0:1	16.08.1972	00:00	1972	1973	2
+Arsenal FC	Stoke City	1:0	2:0	19.08.1972	00:00	1972	1973	3
+West Ham United	Leicester City	2:2	5:2	19.08.1972	00:00	1972	1973	3
+Sheffield United	Newcastle United	0:0	1:2	19.08.1972	00:00	1972	1973	3
+Manchester City	Norwich City	1:0	3:0	19.08.1972	00:00	1972	1973	3
+Leeds United	West Bromwich Albion	1:0	2:0	19.08.1972	00:00	1972	1973	3
+Ipswich Town	Birmingham City	1:0	2:0	19.08.1972	00:00	1972	1973	3
+Everton FC	Manchester United	1:0	2:0	19.08.1972	00:00	1972	1973	3
+Derby County	Chelsea FC	0:1	1:2	19.08.1972	00:00	1972	1973	3
+Crystal Palace	Liverpool FC	1:0	1:1	19.08.1972	00:00	1972	1973	3
+Coventry City	Southampton FC	1:1	1:1	19.08.1972	00:00	1972	1973	3
+Wolverhampton Wanderers	Tottenham Hotspur	3:1	3:2	19.08.1972	00:00	1972	1973	3
+Coventry City	Arsenal FC	1:1	1:1	22.08.1972	00:00	1972	1973	4
+Everton FC	Crystal Palace	1:0	1:1	22.08.1972	00:00	1972	1973	4
+Wolverhampton Wanderers	West Ham United	0:0	3:0	22.08.1972	00:00	1972	1973	4
+Stoke City	Sheffield United	0:1	2:2	23.08.1972	00:00	1972	1973	4
+Norwich City	Southampton FC	0:0	0:0	23.08.1972	00:00	1972	1973	4
+Newcastle United	West Bromwich Albion	1:1	1:1	23.08.1972	00:00	1972	1973	4
+Manchester United	Leicester City	1:1	1:1	23.08.1972	00:00	1972	1973	4
+Leeds United	Ipswich Town	2:2	3:3	23.08.1972	00:00	1972	1973	4
+Derby County	Manchester City	0:0	1:0	23.08.1972	00:00	1972	1973	4
+Chelsea FC	Liverpool FC	1:2	1:2	23.08.1972	00:00	1972	1973	4
+Tottenham Hotspur	Birmingham City	1:0	2:0	23.08.1972	00:00	1972	1973	4
+Birmingham City	Crystal Palace	1:1	1:1	26.08.1972	00:00	1972	1973	5
+Tottenham Hotspur	Leeds United	0:0	0:0	26.08.1972	00:00	1972	1973	5
+Stoke City	Everton FC	1:0	1:1	26.08.1972	00:00	1972	1973	5
+Southampton FC	Wolverhampton Wanderers	1:1	1:1	26.08.1972	00:00	1972	1973	5
+Norwich City	Derby County	0:0	1:0	26.08.1972	00:00	1972	1973	5
+Newcastle United	Ipswich Town	0:2	1:2	26.08.1972	00:00	1972	1973	5
+Manchester United	Arsenal FC	0:0	0:0	26.08.1972	00:00	1972	1973	5
+Liverpool FC	West Ham United	1:2	3:2	26.08.1972	00:00	1972	1973	5
+Leicester City	Coventry City	0:0	0:0	26.08.1972	00:00	1972	1973	5
+Chelsea FC	Manchester City	1:0	2:1	26.08.1972	00:00	1972	1973	5
+West Bromwich Albion	Sheffield United	0:1	0:2	26.08.1972	00:00	1972	1973	5
+Arsenal FC	West Ham United	1:0	1:0	29.08.1972	00:00	1972	1973	6
+Coventry City	Wolverhampton Wanderers	0:0	0:1	29.08.1972	00:00	1972	1973	6
+Crystal Palace	Manchester City	0:0	1:0	29.08.1972	00:00	1972	1973	6
+Everton FC	Derby County	1:0	1:0	29.08.1972	00:00	1972	1973	6
+Sheffield United	Ipswich Town	0:0	0:0	29.08.1972	00:00	1972	1973	6
+Norwich City	Stoke City	2:0	2:0	30.08.1972	00:00	1972	1973	6
+Newcastle United	Tottenham Hotspur	0:0	0:1	30.08.1972	00:00	1972	1973	6
+Manchester United	Chelsea FC	0:0	0:0	30.08.1972	00:00	1972	1973	6
+Leicester City	Liverpool FC	2:2	3:2	30.08.1972	00:00	1972	1973	6
+Leeds United	Southampton FC	0:0	1:0	30.08.1972	00:00	1972	1973	6
+West Bromwich Albion	Birmingham City	1:0	2:2	30.08.1972	00:00	1972	1973	6
+Arsenal FC	Chelsea FC	0:1	1:1	02.09.1972	00:00	1972	1973	7
+West Ham United	Manchester United	1:1	2:2	02.09.1972	00:00	1972	1973	7
+Sheffield United	Southampton FC	1:0	3:1	02.09.1972	00:00	1972	1973	7
+Manchester City	Leicester City	1:0	1:0	02.09.1972	00:00	1972	1973	7
+Leeds United	Norwich City	2:0	2:0	02.09.1972	00:00	1972	1973	7
+Ipswich Town	Tottenham Hotspur	0:0	1:1	02.09.1972	00:00	1972	1973	7
+Everton FC	West Bromwich Albion	1:0	1:0	02.09.1972	00:00	1972	1973	7
+Derby County	Liverpool FC	0:1	2:1	02.09.1972	00:00	1972	1973	7
+Crystal Palace	Newcastle United	1:1	2:1	02.09.1972	00:00	1972	1973	7
+Coventry City	Stoke City	2:0	2:1	02.09.1972	00:00	1972	1973	7
+Wolverhampton Wanderers	Birmingham City	3:0	3:2	02.09.1972	00:00	1972	1973	7
+Birmingham City	Manchester City	2:1	4:1	09.09.1972	00:00	1972	1973	8
+Tottenham Hotspur	Crystal Palace	2:0	2:1	09.09.1972	00:00	1972	1973	8
+Stoke City	Leeds United	0:1	2:2	09.09.1972	00:00	1972	1973	8
+Southampton FC	Ipswich Town	0:0	1:2	09.09.1972	00:00	1972	1973	8
+Norwich City	Sheffield United	0:0	1:1	09.09.1972	00:00	1972	1973	8
+Newcastle United	Arsenal FC	1:0	2:1	09.09.1972	00:00	1972	1973	8
+Manchester United	Coventry City	0:0	0:1	09.09.1972	00:00	1972	1973	8
+Liverpool FC	Wolverhampton Wanderers	1:0	4:2	09.09.1972	00:00	1972	1973	8
+Leicester City	Everton FC	0:2	1:2	09.09.1972	00:00	1972	1973	8
+Chelsea FC	West Ham United	1:2	1:3	09.09.1972	00:00	1972	1973	8
+West Bromwich Albion	Derby County	1:1	2:1	09.09.1972	00:00	1972	1973	8
+Arsenal FC	Liverpool FC	0:0	0:0	16.09.1972	00:00	1972	1973	9
+West Ham United	Norwich City	3:0	4:0	16.09.1972	00:00	1972	1973	9
+Sheffield United	Chelsea FC	2:1	2:1	16.09.1972	00:00	1972	1973	9
+Manchester City	Tottenham Hotspur	1:0	2:1	16.09.1972	00:00	1972	1973	9
+Leeds United	Leicester City	0:1	3:1	16.09.1972	00:00	1972	1973	9
+Ipswich Town	Stoke City	1:0	2:0	16.09.1972	00:00	1972	1973	9
+Everton FC	Southampton FC	0:0	0:1	16.09.1972	00:00	1972	1973	9
+Derby County	Birmingham City	0:0	1:0	16.09.1972	00:00	1972	1973	9
+Crystal Palace	West Bromwich Albion	0:1	0:2	16.09.1972	00:00	1972	1973	9
+Coventry City	Newcastle United	0:2	0:3	16.09.1972	00:00	1972	1973	9
+Wolverhampton Wanderers	Manchester United	1:0	2:0	16.09.1972	00:00	1972	1973	9
+Birmingham City	Everton FC	1:1	2:1	23.09.1972	00:00	1972	1973	10
+Tottenham Hotspur	West Ham United	0:0	1:0	23.09.1972	00:00	1972	1973	10
+Stoke City	Manchester City	2:0	5:1	23.09.1972	00:00	1972	1973	10
+Southampton FC	Crystal Palace	0:0	2:0	23.09.1972	00:00	1972	1973	10
+Norwich City	Arsenal FC	2:1	3:2	23.09.1972	00:00	1972	1973	10
+Newcastle United	Leeds United	2:2	3:2	23.09.1972	00:00	1972	1973	10
+Manchester United	Derby County	1:0	3:0	23.09.1972	00:00	1972	1973	10
+Liverpool FC	Sheffield United	3:0	5:0	23.09.1972	00:00	1972	1973	10
+Leicester City	Wolverhampton Wanderers	1:0	1:1	23.09.1972	00:00	1972	1973	10
+Chelsea FC	Ipswich Town	0:0	2:0	23.09.1972	00:00	1972	1973	10
+West Bromwich Albion	Coventry City	1:0	1:0	23.09.1972	00:00	1972	1973	10
+Sheffield United	Manchester United	0:0	1:0	30.09.1972	00:00	1972	1973	11
+Manchester City	West Bromwich Albion	1:0	2:1	30.09.1972	00:00	1972	1973	11
+Leeds United	Liverpool FC	1:1	1:2	30.09.1972	00:00	1972	1973	11
+Ipswich Town	Leicester City	0:1	0:2	30.09.1972	00:00	1972	1973	11
+Everton FC	Newcastle United	1:1	3:1	30.09.1972	00:00	1972	1973	11
+Derby County	Tottenham Hotspur	0:0	2:1	30.09.1972	00:00	1972	1973	11
+Crystal Palace	Norwich City	0:2	0:2	30.09.1972	00:00	1972	1973	11
+Coventry City	Chelsea FC	0:2	1:3	30.09.1972	00:00	1972	1973	11
+Arsenal FC	Southampton FC	0:0	1:0	30.09.1972	00:00	1972	1973	11
+Wolverhampton Wanderers	Stoke City	2:2	5:3	30.09.1972	00:00	1972	1973	11
+West Ham United	Birmingham City	1:0	2:0	30.09.1972	00:00	1972	1973	11
+Tottenham Hotspur	Stoke City	3:1	4:3	07.10.1972	00:00	1972	1973	12
+Newcastle United	Norwich City	1:1	3:1	07.10.1972	00:00	1972	1973	12
+Manchester City	Wolverhampton Wanderers	0:0	1:1	07.10.1972	00:00	1972	1973	12
+Liverpool FC	Everton FC	0:0	1:0	07.10.1972	00:00	1972	1973	12
+Leicester City	Southampton FC	0:0	1:0	07.10.1972	00:00	1972	1973	12
+Leeds United	Derby County	3:0	5:0	07.10.1972	00:00	1972	1973	12
+Ipswich Town	West Ham United	0:0	1:1	07.10.1972	00:00	1972	1973	12
+Crystal Palace	Coventry City	0:0	0:1	07.10.1972	00:00	1972	1973	12
+West Bromwich Albion	Manchester United	2:0	2:2	07.10.1972	00:00	1972	1973	12
+Birmingham City	Chelsea FC	1:0	2:2	07.10.1972	00:00	1972	1973	12
+Sheffield United	Arsenal FC	1:0	1:0	07.10.1972	00:00	1972	1973	12
+West Ham United	Sheffield United	3:0	3:1	14.10.1972	00:00	1972	1973	13
+Stoke City	Newcastle United	0:0	2:0	14.10.1972	00:00	1972	1973	13
+Southampton FC	Liverpool FC	0:1	1:1	14.10.1972	00:00	1972	1973	13
+Norwich City	Tottenham Hotspur	1:1	2:1	14.10.1972	00:00	1972	1973	13
+Everton FC	Leeds United	0:1	1:2	14.10.1972	00:00	1972	1973	13
+Derby County	Leicester City	1:0	2:1	14.10.1972	00:00	1972	1973	13
+Coventry City	Manchester City	1:0	3:2	14.10.1972	00:00	1972	1973	13
+Chelsea FC	West Bromwich Albion	1:0	3:1	14.10.1972	00:00	1972	1973	13
+Wolverhampton Wanderers	Crystal Palace	1:1	1:1	14.10.1972	00:00	1972	1973	13
+Arsenal FC	Ipswich Town	0:0	1:0	14.10.1972	00:00	1972	1973	13
+Manchester United	Birmingham City	1:0	1:0	14.10.1972	00:00	1972	1973	13
+Tottenham Hotspur	Chelsea FC	0:1	0:1	21.10.1972	00:00	1972	1973	14
+Sheffield United	Everton FC	0:0	0:1	21.10.1972	00:00	1972	1973	14
+Newcastle United	Manchester United	0:0	2:1	21.10.1972	00:00	1972	1973	14
+Manchester City	West Ham United	4:2	4:3	21.10.1972	00:00	1972	1973	14
+Liverpool FC	Stoke City	0:1	2:1	21.10.1972	00:00	1972	1973	14
+Leicester City	Norwich City	0:0	1:2	21.10.1972	00:00	1972	1973	14
+Leeds United	Coventry City	0:0	1:1	21.10.1972	00:00	1972	1973	14
+Ipswich Town	Derby County	2:0	3:1	21.10.1972	00:00	1972	1973	14
+West Bromwich Albion	Wolverhampton Wanderers	0:0	1:0	21.10.1972	00:00	1972	1973	14
+Birmingham City	Southampton FC	0:0	1:1	21.10.1972	00:00	1972	1973	14
+Crystal Palace	Arsenal FC	0:1	2:3	21.10.1972	00:00	1972	1973	14
+West Ham United	Crystal Palace	2:0	4:0	28.10.1972	00:00	1972	1973	15
+Stoke City	Leicester City	1:0	1:0	28.10.1972	00:00	1972	1973	15
+Southampton FC	West Bromwich Albion	1:0	2:1	28.10.1972	00:00	1972	1973	15
+Norwich City	Liverpool FC	0:1	1:1	28.10.1972	00:00	1972	1973	15
+Manchester United	Tottenham Hotspur	0:3	1:4	28.10.1972	00:00	1972	1973	15
+Everton FC	Ipswich Town	2:0	2:2	28.10.1972	00:00	1972	1973	15
+Derby County	Sheffield United	1:0	2:1	28.10.1972	00:00	1972	1973	15
+Chelsea FC	Newcastle United	0:0	1:1	28.10.1972	00:00	1972	1973	15
+Wolverhampton Wanderers	Leeds United	0:2	0:2	28.10.1972	00:00	1972	1973	15
+Arsenal FC	Manchester City	0:0	0:0	28.10.1972	00:00	1972	1973	15
+Coventry City	Birmingham City	0:0	0:0	28.10.1972	00:00	1972	1973	15
+West Bromwich Albion	Newcastle United	1:1	2:3	04.11.1972	00:00	1972	1973	16
+Southampton FC	Norwich City	1:0	1:0	04.11.1972	00:00	1972	1973	16
+Sheffield United	Stoke City	0:0	0:0	04.11.1972	00:00	1972	1973	16
+Manchester City	Derby County	2:0	4:0	04.11.1972	00:00	1972	1973	16
+Liverpool FC	Chelsea FC	1:0	3:1	04.11.1972	00:00	1972	1973	16
+Leicester City	Manchester United	0:1	2:2	04.11.1972	00:00	1972	1973	16
+Ipswich Town	Leeds United	2:1	2:2	04.11.1972	00:00	1972	1973	16
+Crystal Palace	Everton FC	1:0	1:0	04.11.1972	00:00	1972	1973	16
+West Ham United	Wolverhampton Wanderers	0:0	2:2	04.11.1972	00:00	1972	1973	16
+Arsenal FC	Coventry City	0:1	0:2	04.11.1972	00:00	1972	1973	16
+Birmingham City	Tottenham Hotspur	0:0	0:0	04.11.1972	00:00	1972	1973	16
+Stoke City	Southampton FC	2:2	3:3	11.11.1972	00:00	1972	1973	17
+Norwich City	Ipswich Town	0:0	0:0	11.11.1972	00:00	1972	1973	17
+Manchester United	Liverpool FC	1:0	2:0	11.11.1972	00:00	1972	1973	17
+Leeds United	Sheffield United	0:0	2:1	11.11.1972	00:00	1972	1973	17
+Everton FC	Manchester City	1:2	2:3	11.11.1972	00:00	1972	1973	17
+Derby County	Crystal Palace	2:2	2:2	11.11.1972	00:00	1972	1973	17
+Coventry City	West Ham United	1:0	3:1	11.11.1972	00:00	1972	1973	17
+Chelsea FC	Leicester City	0:0	1:1	11.11.1972	00:00	1972	1973	17
+Tottenham Hotspur	West Bromwich Albion	1:1	1:1	11.11.1972	00:00	1972	1973	17
+Newcastle United	Birmingham City	2:0	3:0	11.11.1972	00:00	1972	1973	17
+Wolverhampton Wanderers	Arsenal FC	0:0	1:3	11.11.1972	00:00	1972	1973	17
+West Ham United	Derby County	0:2	1:2	18.11.1972	00:00	1972	1973	18
+Southampton FC	Chelsea FC	1:1	3:1	18.11.1972	00:00	1972	1973	18
+Norwich City	West Bromwich Albion	1:0	2:0	18.11.1972	00:00	1972	1973	18
+Manchester City	Manchester United	1:0	3:0	18.11.1972	00:00	1972	1973	18
+Liverpool FC	Newcastle United	2:1	3:2	18.11.1972	00:00	1972	1973	18
+Leicester City	Tottenham Hotspur	0:0	0:1	18.11.1972	00:00	1972	1973	18
+Crystal Palace	Leeds United	2:0	2:2	18.11.1972	00:00	1972	1973	18
+Coventry City	Sheffield United	3:0	3:0	18.11.1972	00:00	1972	1973	18
+Wolverhampton Wanderers	Ipswich Town	0:0	0:1	18.11.1972	00:00	1972	1973	18
+Arsenal FC	Everton FC	1:0	1:0	18.11.1972	00:00	1972	1973	18
+Stoke City	Birmingham City	1:2	1:2	18.11.1972	00:00	1972	1973	18
+West Bromwich Albion	Stoke City	1:1	2:1	25.11.1972	00:00	1972	1973	19
+Tottenham Hotspur	Liverpool FC	0:2	1:2	25.11.1972	00:00	1972	1973	19
+Sheffield United	Wolverhampton Wanderers	1:0	1:2	25.11.1972	00:00	1972	1973	19
+Manchester United	Southampton FC	1:1	2:1	25.11.1972	00:00	1972	1973	19
+Leeds United	Manchester City	0:0	3:0	25.11.1972	00:00	1972	1973	19
+Everton FC	West Ham United	1:1	1:2	25.11.1972	00:00	1972	1973	19
+Chelsea FC	Crystal Palace	0:0	0:0	25.11.1972	00:00	1972	1973	19
+Birmingham City	Norwich City	1:1	4:1	25.11.1972	00:00	1972	1973	19
+Derby County	Arsenal FC	4:0	5:0	25.11.1972	00:00	1972	1973	19
+Ipswich Town	Coventry City	1:0	2:0	05.12.1972	00:00	1972	1973	19
+Newcastle United	Leicester City	1:0	2:2	01.01.1973	00:00	1972	1973	19
+Coventry City	Everton FC	0:0	1:0	02.12.1972	00:00	1972	1973	20
+Leicester City	West Bromwich Albion	1:0	3:1	02.12.1972	00:00	1972	1973	20
+Manchester City	Ipswich Town	1:0	1:1	02.12.1972	00:00	1972	1973	20
+West Ham United	Newcastle United	0:0	1:1	02.12.1972	00:00	1972	1973	20
+Wolverhampton Wanderers	Derby County	0:1	1:2	02.12.1972	00:00	1972	1973	20
+Stoke City	Chelsea FC	0:1	1:1	02.12.1972	00:00	1972	1973	20
+Southampton FC	Tottenham Hotspur	1:1	1:1	02.12.1972	00:00	1972	1973	20
+Norwich City	Manchester United	0:1	0:2	02.12.1972	00:00	1972	1973	20
+Arsenal FC	Leeds United	0:1	2:1	02.12.1972	00:00	1972	1973	20
+Liverpool FC	Birmingham City	2:3	4:3	02.12.1972	00:00	1972	1973	20
+Crystal Palace	Sheffield United	0:0	0:1	13.03.1973	00:00	1972	1973	20
+Ipswich Town	Crystal Palace	1:1	2:1	09.12.1972	00:00	1972	1973	21
+Newcastle United	Southampton FC	0:0	0:0	09.12.1972	00:00	1972	1973	21
+Sheffield United	Manchester City	1:1	1:1	09.12.1972	00:00	1972	1973	21
+West Bromwich Albion	Liverpool FC	0:1	1:1	09.12.1972	00:00	1972	1973	21
+Tottenham Hotspur	Arsenal FC	0:0	1:2	09.12.1972	00:00	1972	1973	21
+Manchester United	Stoke City	0:2	0:2	09.12.1972	00:00	1972	1973	21
+Leeds United	West Ham United	1:0	1:0	09.12.1972	00:00	1972	1973	21
+Everton FC	Wolverhampton Wanderers	0:0	0:1	09.12.1972	00:00	1972	1973	21
+Derby County	Coventry City	0:0	2:0	09.12.1972	00:00	1972	1973	21
+Chelsea FC	Norwich City	0:0	3:1	09.12.1972	00:00	1972	1973	21
+Birmingham City	Leicester City	0:1	1:1	09.12.1972	00:00	1972	1973	21
+Derby County	Newcastle United	0:1	1:1	16.12.1972	00:00	1972	1973	22
+Sheffield United	Leicester City	1:0	2:0	16.12.1972	00:00	1972	1973	22
+Wolverhampton Wanderers	Chelsea FC	1:0	1:0	16.12.1972	00:00	1972	1973	22
+West Ham United	Stoke City	2:1	3:2	16.12.1972	00:00	1972	1973	22
+Manchester City	Southampton FC	0:1	2:1	16.12.1972	00:00	1972	1973	22
+Ipswich Town	Liverpool FC	0:1	1:1	16.12.1972	00:00	1972	1973	22
+Everton FC	Tottenham Hotspur	2:0	3:1	16.12.1972	00:00	1972	1973	22
+Crystal Palace	Manchester United	2:0	5:0	16.12.1972	00:00	1972	1973	22
+Coventry City	Norwich City	1:0	3:1	16.12.1972	00:00	1972	1973	22
+Arsenal FC	West Bromwich Albion	2:0	2:1	16.12.1972	00:00	1972	1973	22
+Leeds United	Birmingham City	2:0	4:0	16.12.1972	00:00	1972	1973	22
+Leicester City	Crystal Palace	0:0	2:1	23.12.1972	00:00	1972	1973	23
+Newcastle United	Manchester City	1:1	2:1	23.12.1972	00:00	1972	1973	23
+West Bromwich Albion	Ipswich Town	1:0	2:0	23.12.1972	00:00	1972	1973	23
+Tottenham Hotspur	Sheffield United	1:0	2:0	23.12.1972	00:00	1972	1973	23
+Stoke City	Derby County	3:0	4:0	23.12.1972	00:00	1972	1973	23
+Southampton FC	West Ham United	0:0	0:0	23.12.1972	00:00	1972	1973	23
+Norwich City	Wolverhampton Wanderers	1:0	1:1	23.12.1972	00:00	1972	1973	23
+Manchester United	Leeds United	1:0	1:1	23.12.1972	00:00	1972	1973	23
+Liverpool FC	Coventry City	2:0	2:0	23.12.1972	00:00	1972	1973	23
+Chelsea FC	Everton FC	0:0	1:1	23.12.1972	00:00	1972	1973	23
+Birmingham City	Arsenal FC	0:1	1:1	23.12.1972	00:00	1972	1973	23
+Leeds United	Newcastle United	0:0	1:0	26.12.1972	00:00	1972	1973	24
+Wolverhampton Wanderers	Leicester City	1:0	2:0	26.12.1972	00:00	1972	1973	24
+West Ham United	Tottenham Hotspur	0:0	2:2	26.12.1972	00:00	1972	1973	24
+Sheffield United	Liverpool FC	0:1	0:3	26.12.1972	00:00	1972	1973	24
+Manchester City	Stoke City	1:1	1:1	26.12.1972	00:00	1972	1973	24
+Ipswich Town	Chelsea FC	2:0	3:0	26.12.1972	00:00	1972	1973	24
+Derby County	Manchester United	2:0	3:1	26.12.1972	00:00	1972	1973	24
+Crystal Palace	Southampton FC	1:0	3:0	26.12.1972	00:00	1972	1973	24
+Coventry City	West Bromwich Albion	0:0	0:0	26.12.1972	00:00	1972	1973	24
+Arsenal FC	Norwich City	0:0	2:0	26.12.1972	00:00	1972	1973	24
+Everton FC	Birmingham City	1:0	1:1	26.12.1972	00:00	1972	1973	24
+Leicester City	West Ham United	1:1	2:1	30.12.1972	00:00	1972	1973	25
+Newcastle United	Sheffield United	2:1	4:1	30.12.1972	00:00	1972	1973	25
+Stoke City	Arsenal FC	0:0	0:0	30.12.1972	00:00	1972	1973	25
+Southampton FC	Coventry City	0:1	2:1	30.12.1972	00:00	1972	1973	25
+Norwich City	Manchester City	1:0	1:1	30.12.1972	00:00	1972	1973	25
+Liverpool FC	Crystal Palace	0:0	1:0	30.12.1972	00:00	1972	1973	25
+Chelsea FC	Derby County	0:1	1:1	30.12.1972	00:00	1972	1973	25
+Birmingham City	Ipswich Town	0:2	1:2	30.12.1972	00:00	1972	1973	25
+Manchester United	Everton FC	0:0	0:0	24.01.1973	00:00	1972	1973	25
+West Bromwich Albion	Leeds United	0:1	1:1	28.03.1973	00:00	1972	1973	25
+Tottenham Hotspur	Wolverhampton Wanderers	1:0	2:2	30.04.1973	00:00	1972	1973	25
+Arsenal FC	Manchester United	1:0	3:1	06.01.1973	00:00	1972	1973	26
+Leeds United	Tottenham Hotspur	2:0	2:1	06.01.1973	00:00	1972	1973	26
+Sheffield United	West Bromwich Albion	2:0	3:0	06.01.1973	00:00	1972	1973	26
+Wolverhampton Wanderers	Southampton FC	0:0	0:1	06.01.1973	00:00	1972	1973	26
+West Ham United	Liverpool FC	0:0	0:1	06.01.1973	00:00	1972	1973	26
+Ipswich Town	Newcastle United	1:0	1:0	06.01.1973	00:00	1972	1973	26
+Everton FC	Stoke City	0:0	2:0	06.01.1973	00:00	1972	1973	26
+Derby County	Norwich City	1:0	1:0	06.01.1973	00:00	1972	1973	26
+Coventry City	Leicester City	1:0	3:2	06.01.1973	00:00	1972	1973	26
+Crystal Palace	Birmingham City	0:0	0:0	06.03.1973	00:00	1972	1973	26
+Manchester City	Chelsea FC	0:0	0:1	27.03.1973	00:00	1972	1973	26
+Chelsea FC	Arsenal FC	0:0	0:1	20.01.1973	00:00	1972	1973	27
+Manchester United	West Ham United	1:2	2:2	20.01.1973	00:00	1972	1973	27
+Tottenham Hotspur	Ipswich Town	0:0	0:1	20.01.1973	00:00	1972	1973	27
+Leicester City	Manchester City	1:0	1:1	20.01.1973	00:00	1972	1973	27
+Liverpool FC	Derby County	1:1	1:1	20.01.1973	00:00	1972	1973	27
+Newcastle United	Crystal Palace	1:0	2:0	20.01.1973	00:00	1972	1973	27
+Norwich City	Leeds United	0:2	1:2	20.01.1973	00:00	1972	1973	27
+Southampton FC	Sheffield United	1:1	1:1	20.01.1973	00:00	1972	1973	27
+Birmingham City	Wolverhampton Wanderers	0:0	0:1	27.02.1973	00:00	1972	1973	27
+Stoke City	Coventry City	0:1	2:1	26.03.1973	00:00	1972	1973	27
+West Bromwich Albion	Everton FC	1:0	4:1	11.04.1973	00:00	1972	1973	27
+Derby County	West Bromwich Albion	1:0	2:0	27.01.1973	00:00	1972	1973	28
+Crystal Palace	Tottenham Hotspur	0:0	0:0	27.01.1973	00:00	1972	1973	28
+Leeds United	Stoke City	0:0	1:0	27.01.1973	00:00	1972	1973	28
+Manchester City	Birmingham City	0:0	1:0	27.01.1973	00:00	1972	1973	28
+West Ham United	Chelsea FC	1:1	3:1	27.01.1973	00:00	1972	1973	28
+Arsenal FC	Newcastle United	0:1	2:2	27.01.1973	00:00	1972	1973	28
+Wolverhampton Wanderers	Liverpool FC	1:1	2:1	27.01.1973	00:00	1972	1973	28
+Sheffield United	Norwich City	2:0	2:0	27.01.1973	00:00	1972	1973	28
+Ipswich Town	Southampton FC	1:1	2:2	27.01.1973	00:00	1972	1973	28
+Everton FC	Leicester City	0:1	0:1	27.01.1973	00:00	1972	1973	28
+Coventry City	Manchester United	1:1	1:1	27.01.1973	00:00	1972	1973	28
+West Bromwich Albion	Crystal Palace	0:0	0:4	10.02.1973	00:00	1972	1973	29
+Birmingham City	Derby County	1:0	2:0	10.02.1973	00:00	1972	1973	29
+Chelsea FC	Sheffield United	2:1	4:2	10.02.1973	00:00	1972	1973	29
+Tottenham Hotspur	Manchester City	1:1	2:3	10.02.1973	00:00	1972	1973	29
+Leicester City	Leeds United	1:0	2:0	10.02.1973	00:00	1972	1973	29
+Liverpool FC	Arsenal FC	0:0	0:2	10.02.1973	00:00	1972	1973	29
+Manchester United	Wolverhampton Wanderers	0:0	2:1	10.02.1973	00:00	1972	1973	29
+Newcastle United	Coventry City	1:1	1:1	10.02.1973	00:00	1972	1973	29
+Norwich City	West Ham United	0:1	0:1	10.02.1973	00:00	1972	1973	29
+Southampton FC	Everton FC	0:0	0:0	10.02.1973	00:00	1972	1973	29
+Stoke City	Ipswich Town	1:0	1:0	04.04.1973	00:00	1972	1973	29
+West Ham United	West Bromwich Albion	1:0	2:1	17.02.1973	00:00	1972	1973	30
+Sheffield United	Birmingham City	0:1	0:1	17.02.1973	00:00	1972	1973	30
+Leeds United	Chelsea FC	1:0	1:1	17.02.1973	00:00	1972	1973	30
+Crystal Palace	Stoke City	2:0	3:2	17.02.1973	00:00	1972	1973	30
+Coventry City	Tottenham Hotspur	0:0	0:1	17.02.1973	00:00	1972	1973	30
+Arsenal FC	Leicester City	1:0	1:0	17.02.1973	00:00	1972	1973	30
+Derby County	Southampton FC	1:0	4:0	17.02.1973	00:00	1972	1973	30
+Ipswich Town	Manchester United	2:0	4:1	17.02.1973	00:00	1972	1973	30
+Manchester City	Liverpool FC	1:0	1:1	17.02.1973	00:00	1972	1973	30
+Wolverhampton Wanderers	Newcastle United	1:0	1:1	17.02.1973	00:00	1972	1973	30
+Everton FC	Norwich City	0:2	2:2	03.04.1973	00:00	1972	1973	30
+Stoke City	West Ham United	2:0	2:0	24.02.1973	00:00	1972	1973	31
+Tottenham Hotspur	Everton FC	0:0	3:0	24.02.1973	00:00	1972	1973	31
+Leicester City	Sheffield United	0:0	0:0	24.02.1973	00:00	1972	1973	31
+Liverpool FC	Ipswich Town	0:0	2:1	24.02.1973	00:00	1972	1973	31
+West Bromwich Albion	Arsenal FC	0:0	1:0	28.02.1973	00:00	1972	1973	31
+Newcastle United	Derby County	0:0	2:0	28.02.1973	00:00	1972	1973	31
+Chelsea FC	Wolverhampton Wanderers	0:0	0:2	06.03.1973	00:00	1972	1973	31
+Southampton FC	Manchester City	1:0	1:1	06.03.1973	00:00	1972	1973	31
+Norwich City	Coventry City	1:0	1:1	07.03.1973	00:00	1972	1973	31
+Manchester United	Crystal Palace	2:0	2:0	11.04.1973	00:00	1972	1973	31
+Birmingham City	Leeds United	1:1	2:1	30.04.1973	00:00	1972	1973	31
+Norwich City	Newcastle United	0:1	0:1	24.02.1973	00:00	1972	1973	32
+Coventry City	Crystal Palace	1:0	2:0	02.03.1973	00:00	1972	1973	32
+West Ham United	Ipswich Town	0:0	0:1	02.03.1973	00:00	1972	1973	32
+Wolverhampton Wanderers	Manchester City	3:0	5:1	03.03.1973	00:00	1972	1973	32
+Chelsea FC	Birmingham City	0:0	0:0	03.03.1973	00:00	1972	1973	32
+Manchester United	West Bromwich Albion	1:1	2:1	03.03.1973	00:00	1972	1973	32
+Everton FC	Liverpool FC	0:0	0:2	03.03.1973	00:00	1972	1973	32
+Southampton FC	Leicester City	0:0	0:0	03.03.1973	00:00	1972	1973	32
+Arsenal FC	Sheffield United	1:1	3:2	03.03.1973	00:00	1972	1973	32
+Derby County	Leeds United	1:1	2:3	03.03.1973	00:00	1972	1973	32
+Stoke City	Tottenham Hotspur	0:0	1:1	14.03.1973	00:00	1972	1973	32
+Crystal Palace	Wolverhampton Wanderers	1:0	1:1	10.03.1973	00:00	1972	1973	33
+Leeds United	Everton FC	1:1	2:1	10.03.1973	00:00	1972	1973	33
+West Bromwich Albion	Chelsea FC	1:1	1:1	10.03.1973	00:00	1972	1973	33
+Tottenham Hotspur	Norwich City	1:0	3:0	10.03.1973	00:00	1972	1973	33
+Manchester City	Coventry City	0:1	1:2	10.03.1973	00:00	1972	1973	33
+Sheffield United	West Ham United	0:0	0:0	10.03.1973	00:00	1972	1973	33
+Newcastle United	Stoke City	0:0	1:0	10.03.1973	00:00	1972	1973	33
+Liverpool FC	Southampton FC	2:1	3:2	10.03.1973	00:00	1972	1973	33
+Leicester City	Derby County	0:0	0:0	10.03.1973	00:00	1972	1973	33
+Birmingham City	Manchester United	0:1	3:1	10.03.1973	00:00	1972	1973	33
+Ipswich Town	Arsenal FC	1:1	1:2	10.03.1973	00:00	1972	1973	33
+Manchester United	Newcastle United	1:0	2:1	17.03.1973	00:00	1972	1973	34
+Everton FC	Sheffield United	1:0	2:1	17.03.1973	00:00	1972	1973	34
+Norwich City	Leicester City	1:1	1:1	17.03.1973	00:00	1972	1973	34
+Southampton FC	Birmingham City	1:0	2:0	17.03.1973	00:00	1972	1973	34
+Stoke City	Liverpool FC	0:0	0:1	17.03.1973	00:00	1972	1973	34
+West Ham United	Manchester City	0:0	2:1	17.03.1973	00:00	1972	1973	34
+Wolverhampton Wanderers	West Bromwich Albion	1:0	2:0	20.03.1973	00:00	1972	1973	34
+Arsenal FC	Crystal Palace	1:0	1:0	26.03.1973	00:00	1972	1973	34
+Coventry City	Leeds United	0:1	0:1	02.04.1973	00:00	1972	1973	34
+Chelsea FC	Tottenham Hotspur	0:1	0:1	03.04.1973	00:00	1972	1973	34
+Derby County	Ipswich Town	1:0	3:0	30.04.1973	00:00	1972	1973	34
+Leeds United	Wolverhampton Wanderers	0:0	0:0	24.03.1973	00:00	1972	1973	35
+Newcastle United	Chelsea FC	1:0	1:1	24.03.1973	00:00	1972	1973	35
+Ipswich Town	Everton FC	0:0	0:1	24.03.1973	00:00	1972	1973	35
+Tottenham Hotspur	Manchester United	0:1	1:1	24.03.1973	00:00	1972	1973	35
+Birmingham City	Coventry City	2:0	3:0	24.03.1973	00:00	1972	1973	35
+West Bromwich Albion	Southampton FC	1:0	1:1	24.03.1973	00:00	1972	1973	35
+Sheffield United	Derby County	1:0	3:1	24.03.1973	00:00	1972	1973	35
+Manchester City	Arsenal FC	0:0	1:2	24.03.1973	00:00	1972	1973	35
+Liverpool FC	Norwich City	0:0	3:1	24.03.1973	00:00	1972	1973	35
+Leicester City	Stoke City	0:0	2:0	24.03.1973	00:00	1972	1973	35
+Crystal Palace	West Ham United	0:1	1:3	24.03.1973	00:00	1972	1973	35
+Coventry City	Ipswich Town	1:1	2:1	31.03.1973	00:00	1972	1973	36
+Crystal Palace	Chelsea FC	1:0	2:0	31.03.1973	00:00	1972	1973	36
+Southampton FC	Manchester United	0:1	0:2	31.03.1973	00:00	1972	1973	36
+Wolverhampton Wanderers	Sheffield United	1:1	1:1	31.03.1973	00:00	1972	1973	36
+West Ham United	Everton FC	0:0	2:0	31.03.1973	00:00	1972	1973	36
+Stoke City	West Bromwich Albion	0:0	2:0	31.03.1973	00:00	1972	1973	36
+Norwich City	Birmingham City	0:2	1:2	31.03.1973	00:00	1972	1973	36
+Manchester City	Leeds United	0:0	1:0	31.03.1973	00:00	1972	1973	36
+Liverpool FC	Tottenham Hotspur	0:1	1:1	31.03.1973	00:00	1972	1973	36
+Leicester City	Newcastle United	0:0	0:0	31.03.1973	00:00	1972	1973	36
+Arsenal FC	Derby County	0:1	0:1	31.03.1973	00:00	1972	1973	36
+Manchester United	Norwich City	0:0	1:0	07.04.1973	00:00	1972	1973	37
+Sheffield United	Crystal Palace	0:0	2:0	07.04.1973	00:00	1972	1973	37
+West Bromwich Albion	Leicester City	1:0	1:0	07.04.1973	00:00	1972	1973	37
+Tottenham Hotspur	Southampton FC	1:0	1:2	07.04.1973	00:00	1972	1973	37
+Newcastle United	West Ham United	1:1	1:2	07.04.1973	00:00	1972	1973	37
+Ipswich Town	Manchester City	1:1	1:1	07.04.1973	00:00	1972	1973	37
+Everton FC	Coventry City	1:0	2:0	07.04.1973	00:00	1972	1973	37
+Chelsea FC	Stoke City	1:2	1:3	07.04.1973	00:00	1972	1973	37
+Birmingham City	Liverpool FC	1:0	2:1	07.04.1973	00:00	1972	1973	37
+Derby County	Wolverhampton Wanderers	3:0	3:0	04.05.1973	00:00	1972	1973	37
+Leeds United	Arsenal FC	2:0	6:1	09.05.1973	00:00	1972	1973	37
+Arsenal FC	Tottenham Hotspur	0:0	1:1	14.04.1973	00:00	1972	1973	38
+Wolverhampton Wanderers	Everton FC	2:1	4:2	14.04.1973	00:00	1972	1973	38
+West Ham United	Leeds United	0:0	1:1	14.04.1973	00:00	1972	1973	38
+Stoke City	Manchester United	0:0	2:2	14.04.1973	00:00	1972	1973	38
+Southampton FC	Newcastle United	0:0	1:1	14.04.1973	00:00	1972	1973	38
+Norwich City	Chelsea FC	1:0	1:0	14.04.1973	00:00	1972	1973	38
+Manchester City	Sheffield United	2:0	3:1	14.04.1973	00:00	1972	1973	38
+Liverpool FC	West Bromwich Albion	1:0	1:0	14.04.1973	00:00	1972	1973	38
+Leicester City	Birmingham City	0:0	0:1	14.04.1973	00:00	1972	1973	38
+Crystal Palace	Ipswich Town	0:0	1:1	14.04.1973	00:00	1972	1973	38
+Coventry City	Derby County	0:1	0:2	14.04.1973	00:00	1972	1973	38
+Arsenal FC	Birmingham City	1:0	2:0	26.09.1972	00:00	1972	1973	39
+Derby County	Stoke City	0:2	0:3	14.02.1973	00:00	1972	1973	39
+Ipswich Town	West Bromwich Albion	1:0	2:0	17.03.1973	00:00	1972	1973	39
+Coventry City	Liverpool FC	0:1	1:2	17.04.1973	00:00	1972	1973	39
+Everton FC	Chelsea FC	1:0	1:0	17.04.1973	00:00	1972	1973	39
+Leeds United	Manchester United	0:0	0:1	18.04.1973	00:00	1972	1973	39
+Manchester City	Newcastle United	1:0	2:0	18.04.1973	00:00	1972	1973	39
+West Ham United	Southampton FC	2:2	4:3	20.04.1973	00:00	1972	1973	39
+Crystal Palace	Leicester City	0:0	0:1	20.04.1973	00:00	1972	1973	39
+Wolverhampton Wanderers	Norwich City	0:0	3:0	23.04.1973	00:00	1972	1973	39
+Sheffield United	Tottenham Hotspur	3:1	3:2	02.05.1973	00:00	1972	1973	39
+Birmingham City	Stoke City	2:0	3:1	21.04.1973	00:00	1972	1973	40
+Everton FC	Arsenal FC	0:0	0:0	21.04.1973	00:00	1972	1973	40
+Ipswich Town	Wolverhampton Wanderers	0:1	2:1	21.04.1973	00:00	1972	1973	40
+Sheffield United	Coventry City	2:1	3:1	21.04.1973	00:00	1972	1973	40
+West Bromwich Albion	Norwich City	0:0	0:1	21.04.1973	00:00	1972	1973	40
+Chelsea FC	Southampton FC	1:1	2:1	21.04.1973	00:00	1972	1973	40
+Derby County	West Ham United	0:0	1:1	21.04.1973	00:00	1972	1973	40
+Leeds United	Crystal Palace	3:0	4:0	21.04.1973	00:00	1972	1973	40
+Manchester United	Manchester City	0:0	0:0	21.04.1973	00:00	1972	1973	40
+Newcastle United	Liverpool FC	1:1	2:1	21.04.1973	00:00	1972	1973	40
+Tottenham Hotspur	Leicester City	1:0	1:1	21.04.1973	00:00	1972	1973	40
+Tottenham Hotspur	Derby County	1:0	1:0	18.04.1973	00:00	1972	1973	41
+Birmingham City	West Ham United	0:0	0:0	23.04.1973	00:00	1972	1973	41
+Chelsea FC	Coventry City	1:0	2:0	23.04.1973	00:00	1972	1973	41
+Liverpool FC	Leeds United	0:0	2:0	23.04.1973	00:00	1972	1973	41
+Manchester United	Sheffield United	1:1	1:2	23.04.1973	00:00	1972	1973	41
+Southampton FC	Arsenal FC	1:2	2:2	23.04.1973	00:00	1972	1973	41
+Stoke City	Wolverhampton Wanderers	1:0	2:0	24.04.1973	00:00	1972	1973	41
+Norwich City	Crystal Palace	1:1	2:1	24.04.1973	00:00	1972	1973	41
+Leicester City	Ipswich Town	0:1	1:1	24.04.1973	00:00	1972	1973	41
+Newcastle United	Everton FC	0:0	0:0	25.04.1973	00:00	1972	1973	41
+West Bromwich Albion	Manchester City	0:1	1:2	25.04.1973	00:00	1972	1973	41
+Derby County	Everton FC	1:0	3:1	28.04.1973	00:00	1972	1973	42
+Birmingham City	West Bromwich Albion	1:1	3:2	28.04.1973	00:00	1972	1973	42
+Ipswich Town	Sheffield United	1:0	1:1	28.04.1973	00:00	1972	1973	42
+Chelsea FC	Manchester United	0:0	1:0	28.04.1973	00:00	1972	1973	42
+Wolverhampton Wanderers	Coventry City	1:0	3:0	28.04.1973	00:00	1972	1973	42
+West Ham United	Arsenal FC	0:2	1:2	28.04.1973	00:00	1972	1973	42
+Tottenham Hotspur	Newcastle United	0:2	3:2	28.04.1973	00:00	1972	1973	42
+Stoke City	Norwich City	1:0	2:0	28.04.1973	00:00	1972	1973	42
+Southampton FC	Leeds United	0:0	3:1	28.04.1973	00:00	1972	1973	42
+Manchester City	Crystal Palace	1:0	2:3	28.04.1973	00:00	1972	1973	42
+Liverpool FC	Leicester City	0:0	0:0	28.04.1973	00:00	1972	1973	42

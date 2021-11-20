@@ -1,0 +1,306 @@
+Eintracht Braunschweig	Borussia Dortmund	1:0	4:0	14.08.1965	16:00	1965	1966	1
+1. FC KÃ¶ln	Hannover 96	0:1	0:1	14.08.1965	16:00	1965	1966	1
+Borussia Neunkirchen	Bor. MÃ¶nchengladbach	1:1	1:1	14.08.1965	16:00	1965	1966	1
+Tasmania 1900 Berlin	Karlsruher SC	0:0	2:0	14.08.1965	16:00	1965	1966	1
+Eintracht Frankfurt	Hamburger SV	1:0	2:0	14.08.1965	16:00	1965	1966	1
+Werder Bremen	1. FC NÃ¼rnberg	0:0	1:0	14.08.1965	16:00	1965	1966	1
+MSV Duisburg	1. FC Kaiserslautern	0:0	2:2	14.08.1965	16:00	1965	1966	1
+TSV 1860 MÃ¼nchen	Bayern MÃ¼nchen	1:0	1:0	14.08.1965	16:00	1965	1966	1
+VfB Stuttgart	FC Schalke 04	1:0	1:0	14.08.1965	16:00	1965	1966	1
+VfB Stuttgart	MSV Duisburg	1:0	2:0	21.08.1965	16:00	1965	1966	2
+Hannover 96	Werder Bremen	0:0	2:1	21.08.1965	16:00	1965	1966	2
+1. FC Kaiserslautern	1. FC KÃ¶ln	1:2	3:2	21.08.1965	16:00	1965	1966	2
+Bor. MÃ¶nchengladbach	Tasmania 1900 Berlin	1:0	5:0	21.08.1965	16:00	1965	1966	2
+Hamburger SV	Eintracht Braunschweig	1:1	2:1	21.08.1965	16:00	1965	1966	2
+FC Schalke 04	Karlsruher SC	0:0	0:0	21.08.1965	16:00	1965	1966	2
+Bayern MÃ¼nchen	Eintracht Frankfurt	1:0	2:0	21.08.1965	16:00	1965	1966	2
+Borussia Dortmund	Borussia Neunkirchen	1:0	1:0	21.08.1965	16:00	1965	1966	2
+1. FC NÃ¼rnberg	TSV 1860 MÃ¼nchen	1:3	1:4	21.08.1965	16:00	1965	1966	2
+MSV Duisburg	FC Schalke 04	2:0	5:1	27.08.1965	16:00	1965	1966	3
+Tasmania 1900 Berlin	Borussia Dortmund	0:1	0:2	28.08.1965	16:00	1965	1966	3
+Karlsruher SC	Bor. MÃ¶nchengladbach	1:2	3:3	28.08.1965	16:00	1965	1966	3
+Borussia Neunkirchen	Hamburger SV	0:1	1:1	28.08.1965	16:00	1965	1966	3
+Werder Bremen	1. FC Kaiserslautern	2:0	4:1	28.08.1965	16:00	1965	1966	3
+1. FC KÃ¶ln	VfB Stuttgart	0:0	3:1	28.08.1965	16:00	1965	1966	3
+Eintracht Braunschweig	Bayern MÃ¼nchen	0:2	2:4	28.08.1965	16:00	1965	1966	3
+TSV 1860 MÃ¼nchen	Hannover 96	1:0	5:0	28.08.1965	16:00	1965	1966	3
+Eintracht Frankfurt	1. FC NÃ¼rnberg	1:1	1:2	03.09.1965	16:00	1965	1966	3
+Bayern MÃ¼nchen	Borussia Neunkirchen	2:0	6:0	04.09.1965	16:00	1965	1966	4
+VfB Stuttgart	Werder Bremen	0:1	0:2	04.09.1965	16:00	1965	1966	4
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	2:0	3:0	04.09.1965	16:00	1965	1966	4
+Borussia Dortmund	Karlsruher SC	2:1	4:1	04.09.1965	16:00	1965	1966	4
+Hannover 96	Eintracht Frankfurt	2:1	4:1	04.09.1965	16:00	1965	1966	4
+FC Schalke 04	Bor. MÃ¶nchengladbach	0:0	0:0	04.09.1965	16:00	1965	1966	4
+Hamburger SV	Tasmania 1900 Berlin	0:0	5:1	04.09.1965	16:00	1965	1966	4
+MSV Duisburg	1. FC KÃ¶ln	2:2	2:3	04.09.1965	16:00	1965	1966	4
+1. FC NÃ¼rnberg	Eintracht Braunschweig	0:1	1:1	04.09.1965	16:00	1965	1966	4
+Borussia Neunkirchen	1. FC NÃ¼rnberg	1:0	2:1	11.09.1965	16:00	1965	1966	5
+Karlsruher SC	Hamburger SV	1:2	1:4	11.09.1965	16:00	1965	1966	5
+Bor. MÃ¶nchengladbach	Borussia Dortmund	1:1	4:5	11.09.1965	16:00	1965	1966	5
+Tasmania 1900 Berlin	Bayern MÃ¼nchen	0:1	0:2	11.09.1965	16:00	1965	1966	5
+1. FC KÃ¶ln	FC Schalke 04	0:0	2:1	11.09.1965	16:00	1965	1966	5
+Eintracht Frankfurt	1. FC Kaiserslautern	3:0	6:0	11.09.1965	16:00	1965	1966	5
+Eintracht Braunschweig	Hannover 96	0:0	2:1	11.09.1965	16:00	1965	1966	5
+Werder Bremen	MSV Duisburg	1:0	2:0	11.09.1965	16:00	1965	1966	5
+TSV 1860 MÃ¼nchen	VfB Stuttgart	0:0	0:0	17.09.1965	16:00	1965	1966	5
+1. FC Kaiserslautern	Eintracht Braunschweig	0:0	1:1	18.09.1965	16:00	1965	1966	6
+Bayern MÃ¼nchen	Karlsruher SC	2:1	5:1	18.09.1965	16:00	1965	1966	6
+1. FC KÃ¶ln	Werder Bremen	1:0	2:0	18.09.1965	16:00	1965	1966	6
+Hannover 96	Borussia Neunkirchen	4:0	6:0	18.09.1965	16:00	1965	1966	6
+FC Schalke 04	Borussia Dortmund	1:1	2:3	18.09.1965	16:00	1965	1966	6
+VfB Stuttgart	Eintracht Frankfurt	0:0	0:0	18.09.1965	16:00	1965	1966	6
+Hamburger SV	Bor. MÃ¶nchengladbach	3:0	5:0	18.09.1965	16:00	1965	1966	6
+MSV Duisburg	TSV 1860 MÃ¼nchen	0:1	2:3	18.09.1965	16:00	1965	1966	6
+1. FC NÃ¼rnberg	Tasmania 1900 Berlin	3:2	7:2	18.09.1965	16:00	1965	1966	6
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	1:1	1:2	02.10.1965	16:00	1965	1966	7
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	1:0	2:1	02.10.1965	16:00	1965	1966	7
+Borussia Dortmund	Hamburger SV	1:1	2:2	02.10.1965	16:00	1965	1966	7
+Werder Bremen	FC Schalke 04	1:0	2:0	02.10.1965	16:00	1965	1966	7
+Tasmania 1900 Berlin	Hannover 96	1:3	1:5	02.10.1965	16:00	1965	1966	7
+Borussia Neunkirchen	1. FC Kaiserslautern	1:1	1:4	02.10.1965	16:00	1965	1966	7
+Eintracht Frankfurt	MSV Duisburg	0:0	2:0	02.10.1965	16:00	1965	1966	7
+Eintracht Braunschweig	VfB Stuttgart	0:0	1:1	02.10.1965	16:00	1965	1966	7
+Karlsruher SC	1. FC NÃ¼rnberg	1:0	1:2	02.10.1965	16:00	1965	1966	7
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	0:1	2:2	16.10.1965	16:00	1965	1966	8
+VfB Stuttgart	Borussia Neunkirchen	1:0	2:0	16.10.1965	16:00	1965	1966	8
+1. FC KÃ¶ln	Eintracht Frankfurt	1:0	1:0	16.10.1965	16:00	1965	1966	8
+Werder Bremen	TSV 1860 MÃ¼nchen	0:0	0:2	16.10.1965	16:00	1965	1966	8
+1. FC Kaiserslautern	Tasmania 1900 Berlin	0:0	0:0	16.10.1965	16:00	1965	1966	8
+FC Schalke 04	Hamburger SV	2:1	2:1	16.10.1965	16:00	1965	1966	8
+Hannover 96	Karlsruher SC	3:0	5:2	16.10.1965	16:00	1965	1966	8
+Bayern MÃ¼nchen	Borussia Dortmund	0:1	0:2	16.10.1965	16:00	1965	1966	8
+MSV Duisburg	Eintracht Braunschweig	1:0	4:1	16.10.1965	16:00	1965	1966	8
+Bor. MÃ¶nchengladbach	Hannover 96	0:0	2:0	20.10.1965	15:45	1965	1966	9
+Tasmania 1900 Berlin	VfB Stuttgart	0:1	0:2	20.10.1965	15:45	1965	1966	9
+Borussia Neunkirchen	MSV Duisburg	0:0	0:1	20.10.1965	15:45	1965	1966	9
+Borussia Dortmund	1. FC NÃ¼rnberg	1:0	2:0	20.10.1965	19:00	1965	1966	9
+Karlsruher SC	1. FC Kaiserslautern	0:0	1:0	20.10.1965	19:00	1965	1966	9
+Eintracht Braunschweig	1. FC KÃ¶ln	1:1	1:2	20.10.1965	19:00	1965	1966	9
+TSV 1860 MÃ¼nchen	FC Schalke 04	1:0	3:0	20.10.1965	20:00	1965	1966	9
+Hamburger SV	Bayern MÃ¼nchen	0:2	0:4	20.10.1965	20:00	1965	1966	9
+Eintracht Frankfurt	Werder Bremen	1:0	1:0	20.10.1965	20:00	1965	1966	9
+FC Schalke 04	Bayern MÃ¼nchen	0:1	1:1	23.10.1965	16:00	1965	1966	10
+VfB Stuttgart	Karlsruher SC	0:0	1:0	23.10.1965	16:00	1965	1966	10
+TSV 1860 MÃ¼nchen	Eintracht Frankfurt	1:1	4:2	23.10.1965	16:00	1965	1966	10
+Hannover 96	Borussia Dortmund	1:1	1:1	23.10.1965	16:00	1965	1966	10
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	0:1	1:2	23.10.1965	16:00	1965	1966	10
+1. FC KÃ¶ln	Borussia Neunkirchen	2:1	4:2	23.10.1965	16:00	1965	1966	10
+MSV Duisburg	Tasmania 1900 Berlin	0:0	3:0	23.10.1965	16:00	1965	1966	10
+1. FC NÃ¼rnberg	Hamburger SV	1:0	5:0	23.10.1965	16:00	1965	1966	10
+Werder Bremen	Eintracht Braunschweig	3:0	4:0	23.10.1965	16:00	1965	1966	10
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	0:0	0:0	30.10.1965	16:00	1965	1966	11
+Borussia Dortmund	1. FC Kaiserslautern	0:0	4:0	30.10.1965	16:00	1965	1966	11
+Eintracht Frankfurt	FC Schalke 04	2:0	4:1	30.10.1965	16:00	1965	1966	11
+Eintracht Braunschweig	TSV 1860 MÃ¼nchen	1:2	2:2	30.10.1965	16:00	1965	1966	11
+Hamburger SV	Hannover 96	0:1	2:1	30.10.1965	16:00	1965	1966	11
+Bor. MÃ¶nchengladbach	VfB Stuttgart	1:0	1:0	30.10.1965	16:00	1965	1966	11
+Karlsruher SC	MSV Duisburg	0:2	0:4	30.10.1965	16:00	1965	1966	11
+Tasmania 1900 Berlin	1. FC KÃ¶ln	0:1	0:6	30.10.1965	16:00	1965	1966	11
+Borussia Neunkirchen	Werder Bremen	0:1	1:2	05.11.1965	16:00	1965	1966	11
+Hannover 96	Bayern MÃ¼nchen	2:1	3:4	06.11.1965	14:30	1965	1966	12
+FC Schalke 04	1. FC NÃ¼rnberg	0:0	1:0	06.11.1965	15:00	1965	1966	12
+VfB Stuttgart	Borussia Dortmund	0:1	1:1	06.11.1965	15:00	1965	1966	12
+Werder Bremen	Tasmania 1900 Berlin	3:0	5:0	06.11.1965	15:00	1965	1966	12
+1. FC KÃ¶ln	Karlsruher SC	0:0	2:0	06.11.1965	15:00	1965	1966	12
+MSV Duisburg	Bor. MÃ¶nchengladbach	3:1	3:2	06.11.1965	15:00	1965	1966	12
+1. FC Kaiserslautern	Hamburger SV	2:1	2:1	06.11.1965	15:00	1965	1966	12
+TSV 1860 MÃ¼nchen	Borussia Neunkirchen	2:0	4:1	06.11.1965	15:00	1965	1966	12
+Eintracht Frankfurt	Eintracht Braunschweig	2:0	4:1	06.11.1965	15:00	1965	1966	12
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	1:2	2:3	20.11.1965	14:30	1965	1966	13
+Borussia Neunkirchen	Eintracht Frankfurt	0:2	1:6	20.11.1965	14:30	1965	1966	13
+Karlsruher SC	Werder Bremen	2:2	3:2	20.11.1965	15:00	1965	1966	13
+Borussia Dortmund	MSV Duisburg	1:1	1:1	20.11.1965	15:00	1965	1966	13
+Tasmania 1900 Berlin	TSV 1860 MÃ¼nchen	0:2	0:5	20.11.1965	15:00	1965	1966	13
+1. FC NÃ¼rnberg	Hannover 96	0:0	2:1	20.11.1965	15:00	1965	1966	13
+Hamburger SV	VfB Stuttgart	1:0	4:1	20.11.1965	15:00	1965	1966	13
+Bayern MÃ¼nchen	1. FC Kaiserslautern	1:0	3:0	20.11.1965	15:00	1965	1966	13
+Eintracht Braunschweig	FC Schalke 04	1:0	3:0	20.11.1965	15:00	1965	1966	13
+1. FC KÃ¶ln	Borussia Dortmund	1:2	1:2	27.11.1965	15:00	1965	1966	14
+VfB Stuttgart	Bayern MÃ¼nchen	0:1	0:1	27.11.1965	15:00	1965	1966	14
+MSV Duisburg	Hamburger SV	0:0	3:1	27.11.1965	15:00	1965	1966	14
+FC Schalke 04	Hannover 96	1:0	1:0	27.11.1965	15:00	1965	1966	14
+Eintracht Braunschweig	Borussia Neunkirchen	0:0	1:2	27.11.1965	15:00	1965	1966	14
+Werder Bremen	Bor. MÃ¶nchengladbach	0:0	2:0	27.11.1965	15:00	1965	1966	14
+TSV 1860 MÃ¼nchen	Karlsruher SC	1:0	2:0	27.11.1965	15:00	1965	1966	14
+Eintracht Frankfurt	Tasmania 1900 Berlin	1:0	4:0	27.11.1965	15:00	1965	1966	14
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	0:0	0:0	03.12.1965	06:00	1965	1966	14
+Hannover 96	1. FC Kaiserslautern	2:0	4:0	04.12.1965	14:00	1965	1966	15
+Borussia Neunkirchen	FC Schalke 04	1:0	1:0	04.12.1965	14:00	1965	1966	15
+Hamburger SV	1. FC KÃ¶ln	0:1	2:2	04.12.1965	15:00	1965	1966	15
+Borussia Dortmund	Werder Bremen	1:1	2:1	04.12.1965	15:00	1965	1966	15
+Bayern MÃ¼nchen	MSV Duisburg	1:0	3:0	04.12.1965	15:00	1965	1966	15
+Karlsruher SC	Eintracht Frankfurt	1:0	4:0	04.12.1965	15:00	1965	1966	15
+1. FC NÃ¼rnberg	VfB Stuttgart	0:0	1:1	04.12.1965	15:00	1965	1966	15
+Bor. MÃ¶nchengladbach	TSV 1860 MÃ¼nchen	0:1	1:1	29.12.1965	20:00	1965	1966	15
+Tasmania 1900 Berlin	Eintracht Braunschweig	0:2	0:2	31.12.1965	20:00	1965	1966	15
+Borussia Neunkirchen	Tasmania 1900 Berlin	1:1	3:1	11.12.1965	14:00	1965	1966	16
+1. FC KÃ¶ln	Bayern MÃ¼nchen	3:1	6:1	11.12.1965	15:00	1965	1966	16
+TSV 1860 MÃ¼nchen	Borussia Dortmund	1:0	2:1	11.12.1965	15:00	1965	1966	16
+Eintracht Braunschweig	Karlsruher SC	0:0	2:0	11.12.1965	15:00	1965	1966	16
+FC Schalke 04	1. FC Kaiserslautern	1:1	2:1	11.12.1965	15:00	1965	1966	16
+VfB Stuttgart	Hannover 96	2:0	4:2	11.12.1965	15:00	1965	1966	16
+Werder Bremen	Hamburger SV	2:0	2:0	11.12.1965	15:00	1965	1966	16
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	1:0	3:1	11.12.1965	15:00	1965	1966	16
+MSV Duisburg	1. FC NÃ¼rnberg	0:1	1:2	29.12.1965	20:00	1965	1966	16
+Tasmania 1900 Berlin	FC Schalke 04	0:2	1:2	18.12.1965	14:00	1965	1966	17
+1. FC NÃ¼rnberg	1. FC KÃ¶ln	0:0	2:0	18.12.1965	15:00	1965	1966	17
+Hannover 96	MSV Duisburg	0:3	0:3	18.12.1965	15:00	1965	1966	17
+Bayern MÃ¼nchen	Werder Bremen	1:1	3:1	18.12.1965	15:00	1965	1966	17
+Hamburger SV	TSV 1860 MÃ¼nchen	0:0	1:2	18.12.1965	15:00	1965	1966	17
+Bor. MÃ¶nchengladbach	Eintracht Braunschweig	1:0	1:0	18.12.1965	15:00	1965	1966	17
+Karlsruher SC	Borussia Neunkirchen	0:1	1:1	18.12.1965	15:00	1965	1966	17
+1. FC Kaiserslautern	VfB Stuttgart	0:2	1:2	24.12.1965	06:00	1965	1966	17
+Borussia Dortmund	Eintracht Frankfurt	1:0	3:0	19.01.1966	20:00	1965	1966	17
+Bor. MÃ¶nchengladbach	Borussia Neunkirchen	1:0	4:1	08.01.1966	14:15	1965	1966	18
+Borussia Dortmund	Eintracht Braunschweig	0:1	1:1	08.01.1966	15:00	1965	1966	18
+Hannover 96	1. FC KÃ¶ln	1:1	1:1	08.01.1966	15:00	1965	1966	18
+Karlsruher SC	Tasmania 1900 Berlin	3:0	3:0	08.01.1966	15:00	1965	1966	18
+Hamburger SV	Eintracht Frankfurt	0:0	0:1	08.01.1966	15:00	1965	1966	18
+1. FC NÃ¼rnberg	Werder Bremen	0:0	2:1	08.01.1966	15:00	1965	1966	18
+1. FC Kaiserslautern	MSV Duisburg	0:0	1:0	08.01.1966	15:00	1965	1966	18
+Bayern MÃ¼nchen	TSV 1860 MÃ¼nchen	0:0	3:0	14.01.1966	06:00	1965	1966	18
+FC Schalke 04	VfB Stuttgart	0:0	2:0	14.01.1966	06:00	1965	1966	18
+Tasmania 1900 Berlin	Bor. MÃ¶nchengladbach	0:0	0:0	15.01.1966	14:15	1965	1966	19
+Borussia Neunkirchen	Borussia Dortmund	0:1	1:3	15.01.1966	14:15	1965	1966	19
+MSV Duisburg	VfB Stuttgart	2:0	5:2	15.01.1966	15:00	1965	1966	19
+Werder Bremen	Hannover 96	1:3	3:3	15.01.1966	15:00	1965	1966	19
+1. FC KÃ¶ln	1. FC Kaiserslautern	2:0	3:2	15.01.1966	15:00	1965	1966	19
+Eintracht Braunschweig	Hamburger SV	1:2	1:4	15.01.1966	15:00	1965	1966	19
+Karlsruher SC	FC Schalke 04	1:0	1:0	15.01.1966	15:00	1965	1966	19
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:0	0:0	15.01.1966	15:00	1965	1966	19
+TSV 1860 MÃ¼nchen	1. FC NÃ¼rnberg	0:1	1:1	15.01.1966	15:00	1965	1966	19
+Borussia Dortmund	Tasmania 1900 Berlin	2:1	3:1	29.01.1966	15:00	1965	1966	20
+Bor. MÃ¶nchengladbach	Karlsruher SC	0:1	1:1	29.01.1966	15:00	1965	1966	20
+Hamburger SV	Borussia Neunkirchen	0:0	3:0	29.01.1966	15:00	1965	1966	20
+1. FC Kaiserslautern	Werder Bremen	2:2	2:3	29.01.1966	15:00	1965	1966	20
+VfB Stuttgart	1. FC KÃ¶ln	0:1	0:1	29.01.1966	15:00	1965	1966	20
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:0	0:0	29.01.1966	15:00	1965	1966	20
+Bayern MÃ¼nchen	Eintracht Braunschweig	1:1	2:2	29.01.1966	15:00	1965	1966	20
+Hannover 96	TSV 1860 MÃ¼nchen	0:0	0:1	29.01.1966	15:00	1965	1966	20
+FC Schalke 04	MSV Duisburg	0:0	0:0	29.01.1966	15:00	1965	1966	20
+Borussia Neunkirchen	Bayern MÃ¼nchen	0:3	0:4	05.02.1966	14:30	1965	1966	21
+Bor. MÃ¶nchengladbach	FC Schalke 04	0:0	2:0	05.02.1966	14:30	1965	1966	21
+Tasmania 1900 Berlin	Hamburger SV	0:1	0:4	05.02.1966	14:30	1965	1966	21
+Werder Bremen	VfB Stuttgart	0:0	3:1	05.02.1966	15:00	1965	1966	21
+Karlsruher SC	Borussia Dortmund	0:0	0:0	05.02.1966	15:00	1965	1966	21
+Eintracht Frankfurt	Hannover 96	0:0	0:1	05.02.1966	15:00	1965	1966	21
+1. FC KÃ¶ln	MSV Duisburg	0:0	1:1	05.02.1966	15:00	1965	1966	21
+Eintracht Braunschweig	1. FC NÃ¼rnberg	1:0	3:0	05.02.1966	15:00	1965	1966	21
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	2:0	4:2	12.04.1966	20:00	1965	1966	21
+1. FC NÃ¼rnberg	Borussia Neunkirchen	1:0	3:1	12.02.1966	15:00	1965	1966	22
+Hamburger SV	Karlsruher SC	4:0	8:0	12.02.1966	15:00	1965	1966	22
+Borussia Dortmund	Bor. MÃ¶nchengladbach	0:0	3:1	12.02.1966	15:00	1965	1966	22
+Bayern MÃ¼nchen	Tasmania 1900 Berlin	1:0	2:1	12.02.1966	15:00	1965	1966	22
+VfB Stuttgart	TSV 1860 MÃ¼nchen	0:0	0:0	12.02.1966	15:00	1965	1966	22
+FC Schalke 04	1. FC KÃ¶ln	0:0	0:0	12.02.1966	15:00	1965	1966	22
+1. FC Kaiserslautern	Eintracht Frankfurt	1:2	5:2	12.02.1966	15:00	1965	1966	22
+MSV Duisburg	Werder Bremen	0:1	1:2	12.02.1966	15:00	1965	1966	22
+Hannover 96	Eintracht Braunschweig	1:0	1:1	07.04.1966	20:00	1965	1966	22
+Eintracht Braunschweig	1. FC Kaiserslautern	0:1	1:1	26.02.1966	15:00	1965	1966	23
+Karlsruher SC	Bayern MÃ¼nchen	0:0	1:0	26.02.1966	15:00	1965	1966	23
+Werder Bremen	1. FC KÃ¶ln	2:0	2:1	26.02.1966	15:00	1965	1966	23
+Borussia Neunkirchen	Hannover 96	0:0	1:0	26.02.1966	15:00	1965	1966	23
+Borussia Dortmund	FC Schalke 04	3:0	7:0	26.02.1966	15:00	1965	1966	23
+Eintracht Frankfurt	VfB Stuttgart	3:2	3:2	26.02.1966	15:00	1965	1966	23
+Bor. MÃ¶nchengladbach	Hamburger SV	0:0	0:0	26.02.1966	15:00	1965	1966	23
+TSV 1860 MÃ¼nchen	MSV Duisburg	0:2	3:3	26.02.1966	15:00	1965	1966	23
+Tasmania 1900 Berlin	1. FC NÃ¼rnberg	0:0	0:1	26.02.1966	15:00	1965	1966	23
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	3:2	5:2	05.03.1966	16:00	1965	1966	24
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	2:0	3:1	05.03.1966	16:00	1965	1966	24
+Hamburger SV	Borussia Dortmund	0:1	1:1	05.03.1966	16:00	1965	1966	24
+FC Schalke 04	Werder Bremen	1:1	1:6	05.03.1966	16:00	1965	1966	24
+Hannover 96	Tasmania 1900 Berlin	3:0	5:0	05.03.1966	16:00	1965	1966	24
+1. FC Kaiserslautern	Borussia Neunkirchen	0:0	0:0	05.03.1966	16:00	1965	1966	24
+MSV Duisburg	Eintracht Frankfurt	0:0	0:0	05.03.1966	16:00	1965	1966	24
+VfB Stuttgart	Eintracht Braunschweig	0:1	0:1	05.03.1966	16:00	1965	1966	24
+1. FC NÃ¼rnberg	Karlsruher SC	1:0	3:0	05.03.1966	16:00	1965	1966	24
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	5:1	8:3	12.03.1966	16:00	1965	1966	25
+Borussia Neunkirchen	VfB Stuttgart	1:1	1:2	12.03.1966	16:00	1965	1966	25
+TSV 1860 MÃ¼nchen	Werder Bremen	2:1	3:1	12.03.1966	16:00	1965	1966	25
+Tasmania 1900 Berlin	1. FC Kaiserslautern	0:0	1:1	12.03.1966	16:00	1965	1966	25
+Hamburger SV	FC Schalke 04	1:0	1:1	12.03.1966	16:00	1965	1966	25
+Karlsruher SC	Hannover 96	1:0	1:0	12.03.1966	16:00	1965	1966	25
+Borussia Dortmund	Bayern MÃ¼nchen	0:0	3:0	12.03.1966	16:00	1965	1966	25
+Eintracht Braunschweig	MSV Duisburg	0:0	1:0	12.03.1966	16:00	1965	1966	25
+Eintracht Frankfurt	1. FC KÃ¶ln	0:0	0:0	18.03.1966	16:00	1965	1966	25
+FC Schalke 04	TSV 1860 MÃ¼nchen	0:1	0:2	19.03.1966	16:00	1965	1966	26
+1. FC NÃ¼rnberg	Borussia Dortmund	0:0	0:0	19.03.1966	16:00	1965	1966	26
+1. FC Kaiserslautern	Karlsruher SC	1:0	1:0	19.03.1966	16:00	1965	1966	26
+Hannover 96	Bor. MÃ¶nchengladbach	1:1	2:1	19.03.1966	16:00	1965	1966	26
+VfB Stuttgart	Tasmania 1900 Berlin	0:0	2:0	19.03.1966	16:00	1965	1966	26
+MSV Duisburg	Borussia Neunkirchen	1:0	1:0	19.03.1966	16:00	1965	1966	26
+Bayern MÃ¼nchen	Hamburger SV	1:0	3:0	19.03.1966	16:00	1965	1966	26
+Werder Bremen	Eintracht Frankfurt	3:1	3:2	19.03.1966	16:00	1965	1966	26
+1. FC KÃ¶ln	Eintracht Braunschweig	3:0	3:0	19.03.1966	16:00	1965	1966	26
+Bayern MÃ¼nchen	FC Schalke 04	1:0	1:0	26.03.1966	16:00	1965	1966	27
+Karlsruher SC	VfB Stuttgart	1:0	3:0	26.03.1966	16:00	1965	1966	27
+Eintracht Frankfurt	TSV 1860 MÃ¼nchen	3:1	5:2	26.03.1966	16:00	1965	1966	27
+Borussia Dortmund	Hannover 96	1:0	4:0	26.03.1966	16:00	1965	1966	27
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	1:0	2:0	26.03.1966	16:00	1965	1966	27
+Borussia Neunkirchen	1. FC KÃ¶ln	2:1	2:1	26.03.1966	16:00	1965	1966	27
+Tasmania 1900 Berlin	MSV Duisburg	0:4	0:9	26.03.1966	16:00	1965	1966	27
+Hamburger SV	1. FC NÃ¼rnberg	0:1	0:2	26.03.1966	16:00	1965	1966	27
+Eintracht Braunschweig	Werder Bremen	1:0	1:0	26.03.1966	16:00	1965	1966	27
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	1:1	2:2	02.04.1966	16:00	1965	1966	28
+1. FC Kaiserslautern	Borussia Dortmund	0:0	0:0	02.04.1966	16:00	1965	1966	28
+Werder Bremen	Borussia Neunkirchen	4:1	5:2	02.04.1966	16:00	1965	1966	28
+FC Schalke 04	Eintracht Frankfurt	2:2	3:2	02.04.1966	16:00	1965	1966	28
+TSV 1860 MÃ¼nchen	Eintracht Braunschweig	1:0	1:1	02.04.1966	16:00	1965	1966	28
+Hannover 96	Hamburger SV	0:0	0:0	02.04.1966	16:00	1965	1966	28
+VfB Stuttgart	Bor. MÃ¶nchengladbach	3:0	5:0	02.04.1966	16:00	1965	1966	28
+MSV Duisburg	Karlsruher SC	3:2	8:2	02.04.1966	16:00	1965	1966	28
+1. FC KÃ¶ln	Tasmania 1900 Berlin	2:0	4:0	02.04.1966	16:00	1965	1966	28
+1. FC NÃ¼rnberg	FC Schalke 04	0:0	1:0	16.04.1966	16:00	1965	1966	29
+Borussia Dortmund	VfB Stuttgart	1:0	4:0	16.04.1966	16:00	1965	1966	29
+Tasmania 1900 Berlin	Werder Bremen	1:1	1:1	16.04.1966	16:00	1965	1966	29
+Karlsruher SC	1. FC KÃ¶ln	2:0	2:1	16.04.1966	16:00	1965	1966	29
+Bayern MÃ¼nchen	Hannover 96	1:1	3:1	16.04.1966	16:00	1965	1966	29
+Bor. MÃ¶nchengladbach	MSV Duisburg	0:1	1:2	16.04.1966	16:00	1965	1966	29
+Hamburger SV	1. FC Kaiserslautern	2:1	4:1	16.04.1966	16:00	1965	1966	29
+Borussia Neunkirchen	TSV 1860 MÃ¼nchen	0:4	1:9	16.04.1966	16:00	1965	1966	29
+Eintracht Braunschweig	Eintracht Frankfurt	1:1	2:2	26.04.1966	20:00	1965	1966	29
+Werder Bremen	Karlsruher SC	1:1	3:1	23.04.1966	16:00	1965	1966	30
+MSV Duisburg	Borussia Dortmund	0:0	2:1	23.04.1966	16:00	1965	1966	30
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:0	2:2	23.04.1966	16:00	1965	1966	30
+TSV 1860 MÃ¼nchen	Tasmania 1900 Berlin	1:0	4:0	23.04.1966	16:00	1965	1966	30
+Hannover 96	1. FC NÃ¼rnberg	1:0	2:2	23.04.1966	16:00	1965	1966	30
+VfB Stuttgart	Hamburger SV	0:1	1:3	23.04.1966	16:00	1965	1966	30
+1. FC Kaiserslautern	Bayern MÃ¼nchen	0:1	1:2	23.04.1966	16:00	1965	1966	30
+Eintracht Frankfurt	Borussia Neunkirchen	0:1	1:2	23.04.1966	16:00	1965	1966	30
+FC Schalke 04	Eintracht Braunschweig	0:0	1:1	23.04.1966	16:00	1965	1966	30
+Borussia Dortmund	1. FC KÃ¶ln	2:0	3:2	30.04.1966	16:00	1965	1966	31
+Bayern MÃ¼nchen	VfB Stuttgart	0:1	0:1	30.04.1966	16:00	1965	1966	31
+Hamburger SV	MSV Duisburg	0:0	2:0	30.04.1966	16:00	1965	1966	31
+Hannover 96	FC Schalke 04	0:1	0:3	30.04.1966	16:00	1965	1966	31
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	0:1	1:1	30.04.1966	16:00	1965	1966	31
+Borussia Neunkirchen	Eintracht Braunschweig	1:0	1:0	30.04.1966	16:00	1965	1966	31
+Bor. MÃ¶nchengladbach	Werder Bremen	0:1	0:7	30.04.1966	16:00	1965	1966	31
+Karlsruher SC	TSV 1860 MÃ¼nchen	1:0	1:1	30.04.1966	16:00	1965	1966	31
+Tasmania 1900 Berlin	Eintracht Frankfurt	0:1	0:3	30.04.1966	16:00	1965	1966	31
+1. FC Kaiserslautern	Hannover 96	0:0	1:1	07.05.1966	16:00	1965	1966	32
+1. FC KÃ¶ln	Hamburger SV	3:0	5:1	14.05.1966	16:00	1965	1966	32
+Werder Bremen	Borussia Dortmund	0:0	1:0	14.05.1966	16:00	1965	1966	32
+MSV Duisburg	Bayern MÃ¼nchen	1:0	1:1	14.05.1966	16:00	1965	1966	32
+Eintracht Frankfurt	Karlsruher SC	1:0	1:0	14.05.1966	16:00	1965	1966	32
+VfB Stuttgart	1. FC NÃ¼rnberg	1:0	1:0	14.05.1966	16:00	1965	1966	32
+FC Schalke 04	Borussia Neunkirchen	0:0	2:0	14.05.1966	16:00	1965	1966	32
+TSV 1860 MÃ¼nchen	Bor. MÃ¶nchengladbach	2:1	3:3	14.05.1966	16:00	1965	1966	32
+Eintracht Braunschweig	Tasmania 1900 Berlin	1:0	3:1	14.05.1966	16:00	1965	1966	32
+Bayern MÃ¼nchen	1. FC KÃ¶ln	0:3	1:4	21.05.1966	16:00	1965	1966	33
+Borussia Dortmund	TSV 1860 MÃ¼nchen	0:0	0:2	21.05.1966	16:00	1965	1966	33
+Tasmania 1900 Berlin	Borussia Neunkirchen	1:1	2:1	21.05.1966	16:00	1965	1966	33
+Karlsruher SC	Eintracht Braunschweig	0:1	1:4	21.05.1966	16:00	1965	1966	33
+1. FC Kaiserslautern	FC Schalke 04	2:1	3:2	21.05.1966	16:00	1965	1966	33
+Hannover 96	VfB Stuttgart	1:0	4:2	21.05.1966	16:00	1965	1966	33
+Hamburger SV	Werder Bremen	1:2	1:3	21.05.1966	16:00	1965	1966	33
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:1	1:2	21.05.1966	16:00	1965	1966	33
+1. FC NÃ¼rnberg	MSV Duisburg	2:0	4:1	21.05.1966	16:00	1965	1966	33
+1. FC KÃ¶ln	1. FC NÃ¼rnberg	2:1	2:1	28.05.1966	16:00	1965	1966	34
+MSV Duisburg	Hannover 96	0:0	2:2	28.05.1966	16:00	1965	1966	34
+Werder Bremen	Bayern MÃ¼nchen	1:1	1:1	28.05.1966	16:00	1965	1966	34
+TSV 1860 MÃ¼nchen	Hamburger SV	1:0	1:1	28.05.1966	16:00	1965	1966	34
+Eintracht Braunschweig	Bor. MÃ¶nchengladbach	0:1	1:1	28.05.1966	16:00	1965	1966	34
+Borussia Neunkirchen	Karlsruher SC	1:0	1:0	28.05.1966	16:00	1965	1966	34
+VfB Stuttgart	1. FC Kaiserslautern	3:1	4:1	28.05.1966	16:00	1965	1966	34
+FC Schalke 04	Tasmania 1900 Berlin	2:0	4:0	28.05.1966	16:00	1965	1966	34
+Eintracht Frankfurt	Borussia Dortmund	3:1	4:1	28.05.1966	16:00	1965	1966	34

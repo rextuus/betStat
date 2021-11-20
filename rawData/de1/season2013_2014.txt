@@ -1,0 +1,306 @@
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	2:1	3:1	09.08.2013	20:30	2013	2014	1
+Bayer Leverkusen	SC Freiburg	1:1	3:1	10.08.2013	15:30	2013	2014	1
+Hannover 96	VfL Wolfsburg	1:0	2:0	10.08.2013	15:30	2013	2014	1
+1899 Hoffenheim	1. FC NÃ¼rnberg	1:0	2:2	10.08.2013	15:30	2013	2014	1
+FC Augsburg	Borussia Dortmund	0:1	0:4	10.08.2013	15:30	2013	2014	1
+Hertha BSC	Eintracht Frankfurt	2:1	6:1	10.08.2013	15:30	2013	2014	1
+Eintracht Braunschweig	Werder Bremen	0:0	0:1	10.08.2013	18:30	2013	2014	1
+1. FSV Mainz 05	VfB Stuttgart	1:1	3:2	11.08.2013	15:30	2013	2014	1
+FC Schalke 04	Hamburger SV	2:2	3:3	11.08.2013	17:30	2013	2014	1
+VfB Stuttgart	Bayer Leverkusen	0:1	0:1	17.08.2013	15:30	2013	2014	2
+VfL Wolfsburg	FC Schalke 04	0:0	4:0	17.08.2013	15:30	2013	2014	2
+Werder Bremen	FC Augsburg	1:0	1:0	17.08.2013	15:30	2013	2014	2
+SC Freiburg	1. FSV Mainz 05	0:0	1:2	17.08.2013	15:30	2013	2014	2
+Hamburger SV	1899 Hoffenheim	1:1	1:5	17.08.2013	15:30	2013	2014	2
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:1	0:1	17.08.2013	15:30	2013	2014	2
+Bor. MÃ¶nchengladbach	Hannover 96	1:0	3:0	17.08.2013	18:30	2013	2014	2
+1. FC NÃ¼rnberg	Hertha BSC	1:0	2:2	18.08.2013	15:30	2013	2014	2
+Borussia Dortmund	Eintracht Braunschweig	0:0	2:1	18.08.2013	17:30	2013	2014	2
+Borussia Dortmund	Werder Bremen	0:0	1:0	23.08.2013	20:30	2013	2014	3
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	0:0	2:0	24.08.2013	15:30	2013	2014	3
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	2:0	4:2	24.08.2013	15:30	2013	2014	3
+Hannover 96	FC Schalke 04	2:0	2:1	24.08.2013	15:30	2013	2014	3
+1899 Hoffenheim	SC Freiburg	2:2	3:3	24.08.2013	15:30	2013	2014	3
+1. FSV Mainz 05	VfL Wolfsburg	0:0	2:0	24.08.2013	15:30	2013	2014	3
+Hertha BSC	Hamburger SV	0:0	1:0	24.08.2013	18:30	2013	2014	3
+Eintracht Braunschweig	Eintracht Frankfurt	0:0	0:2	25.08.2013	15:30	2013	2014	3
+FC Augsburg	VfB Stuttgart	2:1	2:1	25.08.2013	17:30	2013	2014	3
+SC Freiburg	Bayern MÃ¼nchen	0:1	1:1	27.08.2013	18:30	2013	2014	4
+Bor. MÃ¶nchengladbach	Werder Bremen	1:0	4:1	31.08.2013	15:30	2013	2014	4
+Hannover 96	1. FSV Mainz 05	2:1	4:1	31.08.2013	15:30	2013	2014	4
+VfL Wolfsburg	Hertha BSC	2:0	2:0	31.08.2013	15:30	2013	2014	4
+1. FC NÃ¼rnberg	FC Augsburg	0:0	0:1	31.08.2013	15:30	2013	2014	4
+Hamburger SV	Eintracht Braunschweig	2:0	4:0	31.08.2013	15:30	2013	2014	4
+FC Schalke 04	Bayer Leverkusen	1:0	2:0	31.08.2013	18:30	2013	2014	4
+VfB Stuttgart	1899 Hoffenheim	3:1	6:2	01.09.2013	15:30	2013	2014	4
+Eintracht Frankfurt	Borussia Dortmund	1:1	1:2	01.09.2013	17:30	2013	2014	4
+Hertha BSC	VfB Stuttgart	0:0	0:1	13.09.2013	20:30	2013	2014	5
+Bayern MÃ¼nchen	Hannover 96	0:0	2:0	14.09.2013	15:30	2013	2014	5
+Bayer Leverkusen	VfL Wolfsburg	1:1	3:1	14.09.2013	15:30	2013	2014	5
+Werder Bremen	Eintracht Frankfurt	0:2	0:3	14.09.2013	15:30	2013	2014	5
+1. FSV Mainz 05	FC Schalke 04	0:1	0:1	14.09.2013	15:30	2013	2014	5
+FC Augsburg	SC Freiburg	0:0	2:1	14.09.2013	15:30	2013	2014	5
+Borussia Dortmund	Hamburger SV	2:1	6:2	14.09.2013	18:30	2013	2014	5
+1899 Hoffenheim	Bor. MÃ¶nchengladbach	1:0	2:1	15.09.2013	15:30	2013	2014	5
+Eintracht Braunschweig	1. FC NÃ¼rnberg	0:1	1:1	15.09.2013	17:30	2013	2014	5
+Bor. MÃ¶nchengladbach	Eintracht Braunschweig	2:0	4:1	20.09.2013	20:30	2013	2014	6
+Hannover 96	FC Augsburg	0:0	2:1	21.09.2013	15:30	2013	2014	6
+VfL Wolfsburg	1899 Hoffenheim	1:1	2:1	21.09.2013	15:30	2013	2014	6
+1. FC NÃ¼rnberg	Borussia Dortmund	0:1	1:1	21.09.2013	15:30	2013	2014	6
+1. FSV Mainz 05	Bayer Leverkusen	0:3	1:4	21.09.2013	15:30	2013	2014	6
+Hamburger SV	Werder Bremen	0:1	0:2	21.09.2013	15:30	2013	2014	6
+FC Schalke 04	Bayern MÃ¼nchen	0:2	0:4	21.09.2013	18:30	2013	2014	6
+SC Freiburg	Hertha BSC	1:1	1:1	22.09.2013	15:30	2013	2014	6
+VfB Stuttgart	Eintracht Frankfurt	1:1	1:1	22.09.2013	17:30	2013	2014	6
+FC Augsburg	Bor. MÃ¶nchengladbach	1:1	2:2	27.09.2013	20:30	2013	2014	7
+Borussia Dortmund	SC Freiburg	2:0	5:0	28.09.2013	15:30	2013	2014	7
+Bayern MÃ¼nchen	VfL Wolfsburg	0:0	1:0	28.09.2013	15:30	2013	2014	7
+Bayer Leverkusen	Hannover 96	2:0	2:0	28.09.2013	15:30	2013	2014	7
+1899 Hoffenheim	FC Schalke 04	1:3	3:3	28.09.2013	15:30	2013	2014	7
+Hertha BSC	1. FSV Mainz 05	0:1	3:1	28.09.2013	15:30	2013	2014	7
+Eintracht Frankfurt	Hamburger SV	1:1	2:2	28.09.2013	18:30	2013	2014	7
+Werder Bremen	1. FC NÃ¼rnberg	2:1	3:3	29.09.2013	15:30	2013	2014	7
+Eintracht Braunschweig	VfB Stuttgart	0:1	0:4	29.09.2013	17:30	2013	2014	7
+Hannover 96	Hertha BSC	1:0	1:1	04.10.2013	20:30	2013	2014	8
+FC Schalke 04	FC Augsburg	2:1	4:1	05.10.2013	15:30	2013	2014	8
+Bor. MÃ¶nchengladbach	Borussia Dortmund	0:0	2:0	05.10.2013	15:30	2013	2014	8
+VfB Stuttgart	Werder Bremen	1:1	1:1	05.10.2013	15:30	2013	2014	8
+VfL Wolfsburg	Eintracht Braunschweig	0:1	0:2	05.10.2013	15:30	2013	2014	8
+1. FSV Mainz 05	1899 Hoffenheim	0:2	2:2	05.10.2013	15:30	2013	2014	8
+Bayer Leverkusen	Bayern MÃ¼nchen	1:1	1:1	05.10.2013	18:30	2013	2014	8
+1. FC NÃ¼rnberg	Hamburger SV	0:1	0:5	06.10.2013	15:30	2013	2014	8
+SC Freiburg	Eintracht Frankfurt	0:0	1:1	06.10.2013	17:30	2013	2014	8
+1899 Hoffenheim	Bayer Leverkusen	0:1	1:2	18.10.2013	20:30	2013	2014	9
+Borussia Dortmund	Hannover 96	1:0	1:0	19.10.2013	15:30	2013	2014	9
+Bayern MÃ¼nchen	1. FSV Mainz 05	0:1	4:1	19.10.2013	15:30	2013	2014	9
+Werder Bremen	SC Freiburg	0:0	0:0	19.10.2013	15:30	2013	2014	9
+Eintracht Braunschweig	FC Schalke 04	1:1	2:3	19.10.2013	15:30	2013	2014	9
+Eintracht Frankfurt	1. FC NÃ¼rnberg	0:0	1:1	19.10.2013	15:30	2013	2014	9
+Hertha BSC	Bor. MÃ¶nchengladbach	1:0	1:0	19.10.2013	18:30	2013	2014	9
+Hamburger SV	VfB Stuttgart	1:2	3:3	20.10.2013	15:30	2013	2014	9
+FC Augsburg	VfL Wolfsburg	1:2	1:2	20.10.2013	17:30	2013	2014	9
+VfB Stuttgart	1. FC NÃ¼rnberg	1:1	1:1	25.10.2013	20:30	2013	2014	10
+Bayern MÃ¼nchen	Hertha BSC	1:1	3:2	26.10.2013	15:30	2013	2014	10
+FC Schalke 04	Borussia Dortmund	0:1	1:3	26.10.2013	15:30	2013	2014	10
+Bayer Leverkusen	FC Augsburg	1:1	2:1	26.10.2013	15:30	2013	2014	10
+Hannover 96	1899 Hoffenheim	0:2	1:4	26.10.2013	15:30	2013	2014	10
+1. FSV Mainz 05	Eintracht Braunschweig	1:0	2:0	26.10.2013	15:30	2013	2014	10
+VfL Wolfsburg	Werder Bremen	1:0	3:0	26.10.2013	18:30	2013	2014	10
+SC Freiburg	Hamburger SV	0:1	0:3	27.10.2013	15:30	2013	2014	10
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	2:1	4:1	27.10.2013	17:30	2013	2014	10
+Borussia Dortmund	VfB Stuttgart	2:1	6:1	01.11.2013	20:30	2013	2014	11
+1. FC NÃ¼rnberg	SC Freiburg	0:0	0:3	02.11.2013	15:30	2013	2014	11
+1899 Hoffenheim	Bayern MÃ¼nchen	1:1	1:2	02.11.2013	15:30	2013	2014	11
+Hamburger SV	Bor. MÃ¶nchengladbach	0:1	0:2	02.11.2013	15:30	2013	2014	11
+Eintracht Braunschweig	Bayer Leverkusen	0:0	1:0	02.11.2013	15:30	2013	2014	11
+Hertha BSC	FC Schalke 04	0:1	0:2	02.11.2013	15:30	2013	2014	11
+Eintracht Frankfurt	VfL Wolfsburg	1:1	1:2	02.11.2013	18:30	2013	2014	11
+FC Augsburg	1. FSV Mainz 05	1:0	2:1	03.11.2013	15:30	2013	2014	11
+Werder Bremen	Hannover 96	2:2	3:2	03.11.2013	17:30	2013	2014	11
+Hannover 96	Eintracht Braunschweig	0:0	0:0	08.11.2013	20:30	2013	2014	12
+Bayern MÃ¼nchen	FC Augsburg	2:0	3:0	09.11.2013	15:30	2013	2014	12
+FC Schalke 04	Werder Bremen	0:1	3:1	09.11.2013	15:30	2013	2014	12
+Bayer Leverkusen	Hamburger SV	2:1	5:3	09.11.2013	15:30	2013	2014	12
+VfL Wolfsburg	Borussia Dortmund	0:1	2:1	09.11.2013	15:30	2013	2014	12
+1899 Hoffenheim	Hertha BSC	0:1	2:3	09.11.2013	15:30	2013	2014	12
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	0:1	3:1	09.11.2013	18:30	2013	2014	12
+1. FSV Mainz 05	Eintracht Frankfurt	0:0	1:0	10.11.2013	15:30	2013	2014	12
+SC Freiburg	VfB Stuttgart	0:2	1:3	10.11.2013	17:30	2013	2014	12
+VfB Stuttgart	Bor. MÃ¶nchengladbach	0:1	0:2	22.11.2013	20:30	2013	2014	13
+1. FC NÃ¼rnberg	VfL Wolfsburg	0:1	1:1	23.11.2013	15:30	2013	2014	13
+FC Augsburg	1899 Hoffenheim	2:0	2:0	23.11.2013	15:30	2013	2014	13
+Eintracht Braunschweig	SC Freiburg	0:0	0:1	23.11.2013	15:30	2013	2014	13
+Eintracht Frankfurt	FC Schalke 04	0:2	3:3	23.11.2013	15:30	2013	2014	13
+Hertha BSC	Bayer Leverkusen	0:1	0:1	23.11.2013	15:30	2013	2014	13
+Borussia Dortmund	Bayern MÃ¼nchen	0:0	0:3	23.11.2013	18:30	2013	2014	13
+Hamburger SV	Hannover 96	1:1	3:1	24.11.2013	15:30	2013	2014	13
+Werder Bremen	1. FSV Mainz 05	0:2	2:3	24.11.2013	17:30	2013	2014	13
+VfL Wolfsburg	Hamburger SV	1:1	1:1	29.11.2013	20:30	2013	2014	14
+Bayern MÃ¼nchen	Eintracht Braunschweig	2:0	2:0	30.11.2013	15:30	2013	2014	14
+Bayer Leverkusen	1. FC NÃ¼rnberg	1:0	3:0	30.11.2013	15:30	2013	2014	14
+1899 Hoffenheim	Werder Bremen	2:2	4:4	30.11.2013	15:30	2013	2014	14
+1. FSV Mainz 05	Borussia Dortmund	0:0	1:3	30.11.2013	15:30	2013	2014	14
+Hertha BSC	FC Augsburg	0:0	0:0	30.11.2013	15:30	2013	2014	14
+FC Schalke 04	VfB Stuttgart	1:0	3:0	30.11.2013	18:30	2013	2014	14
+Hannover 96	Eintracht Frankfurt	1:0	2:0	01.12.2013	15:30	2013	2014	14
+Bor. MÃ¶nchengladbach	SC Freiburg	0:0	1:0	01.12.2013	17:30	2013	2014	14
+1. FC NÃ¼rnberg	1. FSV Mainz 05	1:0	1:1	06.12.2013	20:30	2013	2014	15
+Bor. MÃ¶nchengladbach	FC Schalke 04	2:1	2:1	07.12.2013	15:30	2013	2014	15
+VfB Stuttgart	Hannover 96	2:2	4:2	07.12.2013	15:30	2013	2014	15
+Werder Bremen	Bayern MÃ¼nchen	0:3	0:7	07.12.2013	15:30	2013	2014	15
+Hamburger SV	FC Augsburg	0:1	0:1	07.12.2013	15:30	2013	2014	15
+Eintracht Frankfurt	1899 Hoffenheim	0:0	1:2	07.12.2013	15:30	2013	2014	15
+Borussia Dortmund	Bayer Leverkusen	0:1	0:1	07.12.2013	18:30	2013	2014	15
+SC Freiburg	VfL Wolfsburg	0:2	0:3	08.12.2013	15:30	2013	2014	15
+Eintracht Braunschweig	Hertha BSC	0:1	0:2	08.12.2013	17:30	2013	2014	15
+Hertha BSC	Werder Bremen	2:2	3:2	13.12.2013	20:30	2013	2014	16
+Bayern MÃ¼nchen	Hamburger SV	1:0	3:1	14.12.2013	15:30	2013	2014	16
+Hannover 96	1. FC NÃ¼rnberg	0:3	3:3	14.12.2013	15:30	2013	2014	16
+1899 Hoffenheim	Borussia Dortmund	2:1	2:2	14.12.2013	15:30	2013	2014	16
+1. FSV Mainz 05	Bor. MÃ¶nchengladbach	0:0	0:0	14.12.2013	15:30	2013	2014	16
+FC Augsburg	Eintracht Braunschweig	3:0	4:1	14.12.2013	15:30	2013	2014	16
+VfL Wolfsburg	VfB Stuttgart	1:0	3:1	14.12.2013	18:30	2013	2014	16
+FC Schalke 04	SC Freiburg	1:0	2:0	15.12.2013	15:30	2013	2014	16
+Bayer Leverkusen	Eintracht Frankfurt	0:0	0:1	15.12.2013	17:30	2013	2014	16
+Eintracht Frankfurt	FC Augsburg	1:1	1:1	20.12.2013	20:30	2013	2014	17
+Borussia Dortmund	Hertha BSC	1:2	1:2	21.12.2013	15:30	2013	2014	17
+Werder Bremen	Bayer Leverkusen	0:0	1:0	21.12.2013	15:30	2013	2014	17
+SC Freiburg	Hannover 96	2:0	2:1	21.12.2013	15:30	2013	2014	17
+Hamburger SV	1. FSV Mainz 05	1:0	2:3	21.12.2013	15:30	2013	2014	17
+Eintracht Braunschweig	1899 Hoffenheim	1:0	1:0	21.12.2013	15:30	2013	2014	17
+1. FC NÃ¼rnberg	FC Schalke 04	0:0	0:0	21.12.2013	18:30	2013	2014	17
+Bor. MÃ¶nchengladbach	VfL Wolfsburg	0:0	2:2	22.12.2013	15:30	2013	2014	17
+VfB Stuttgart	Bayern MÃ¼nchen	1:0	1:2	29.01.2014	20:00	2013	2014	17
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:1	0:2	24.01.2014	20:30	2013	2014	18
+SC Freiburg	Bayer Leverkusen	1:2	3:2	25.01.2014	15:30	2013	2014	18
+VfL Wolfsburg	Hannover 96	1:1	1:3	25.01.2014	15:30	2013	2014	18
+1. FC NÃ¼rnberg	1899 Hoffenheim	2:0	4:0	25.01.2014	15:30	2013	2014	18
+VfB Stuttgart	1. FSV Mainz 05	1:1	1:2	25.01.2014	15:30	2013	2014	18
+Borussia Dortmund	FC Augsburg	1:0	2:2	25.01.2014	15:30	2013	2014	18
+Eintracht Frankfurt	Hertha BSC	1:0	1:0	25.01.2014	18:30	2013	2014	18
+Werder Bremen	Eintracht Braunschweig	0:0	0:0	26.01.2014	15:30	2013	2014	18
+Hamburger SV	FC Schalke 04	0:1	0:3	26.01.2014	17:30	2013	2014	18
+Eintracht Braunschweig	Borussia Dortmund	0:1	1:2	31.01.2014	20:30	2013	2014	19
+Bayer Leverkusen	VfB Stuttgart	1:1	2:1	01.02.2014	15:30	2013	2014	19
+FC Schalke 04	VfL Wolfsburg	1:0	2:1	01.02.2014	15:30	2013	2014	19
+FC Augsburg	Werder Bremen	1:1	3:1	01.02.2014	15:30	2013	2014	19
+1. FSV Mainz 05	SC Freiburg	1:0	2:0	01.02.2014	15:30	2013	2014	19
+1899 Hoffenheim	Hamburger SV	2:0	3:0	01.02.2014	15:30	2013	2014	19
+Hannover 96	Bor. MÃ¶nchengladbach	0:0	3:1	01.02.2014	18:30	2013	2014	19
+Hertha BSC	1. FC NÃ¼rnberg	1:1	1:3	02.02.2014	15:30	2013	2014	19
+Bayern MÃ¼nchen	Eintracht Frankfurt	2:0	5:0	02.02.2014	17:30	2013	2014	19
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	0:0	0:1	07.02.2014	20:30	2013	2014	20
+Werder Bremen	Borussia Dortmund	0:2	1:5	08.02.2014	15:30	2013	2014	20
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	0:1	0:2	08.02.2014	15:30	2013	2014	20
+SC Freiburg	1899 Hoffenheim	0:0	1:1	08.02.2014	15:30	2013	2014	20
+VfL Wolfsburg	1. FSV Mainz 05	0:0	3:0	08.02.2014	15:30	2013	2014	20
+Eintracht Frankfurt	Eintracht Braunschweig	3:0	3:0	08.02.2014	15:30	2013	2014	20
+Hamburger SV	Hertha BSC	0:3	0:3	08.02.2014	18:30	2013	2014	20
+VfB Stuttgart	FC Augsburg	0:2	1:4	09.02.2014	15:30	2013	2014	20
+FC Schalke 04	Hannover 96	2:0	2:0	09.02.2014	17:30	2013	2014	20
+1. FSV Mainz 05	Hannover 96	0:0	2:0	14.02.2014	20:30	2013	2014	21
+Werder Bremen	Bor. MÃ¶nchengladbach	0:1	1:1	15.02.2014	15:30	2013	2014	21
+1899 Hoffenheim	VfB Stuttgart	1:0	4:1	15.02.2014	15:30	2013	2014	21
+Bayern MÃ¼nchen	SC Freiburg	3:0	4:0	15.02.2014	15:30	2013	2014	21
+Eintracht Braunschweig	Hamburger SV	0:1	4:2	15.02.2014	15:30	2013	2014	21
+Borussia Dortmund	Eintracht Frankfurt	2:0	4:0	15.02.2014	15:30	2013	2014	21
+Bayer Leverkusen	FC Schalke 04	0:1	1:2	15.02.2014	18:30	2013	2014	21
+FC Augsburg	1. FC NÃ¼rnberg	0:0	0:1	16.02.2014	15:30	2013	2014	21
+Hertha BSC	VfL Wolfsburg	1:0	1:2	16.02.2014	17:30	2013	2014	21
+FC Schalke 04	1. FSV Mainz 05	0:0	0:0	21.02.2014	20:30	2013	2014	22
+Hamburger SV	Borussia Dortmund	1:0	3:0	22.02.2014	15:30	2013	2014	22
+Bor. MÃ¶nchengladbach	1899 Hoffenheim	2:0	2:2	22.02.2014	15:30	2013	2014	22
+SC Freiburg	FC Augsburg	1:1	2:4	22.02.2014	15:30	2013	2014	22
+1. FC NÃ¼rnberg	Eintracht Braunschweig	0:1	2:1	22.02.2014	15:30	2013	2014	22
+VfB Stuttgart	Hertha BSC	1:1	1:2	22.02.2014	15:30	2013	2014	22
+VfL Wolfsburg	Bayer Leverkusen	1:1	3:1	22.02.2014	18:30	2013	2014	22
+Eintracht Frankfurt	Werder Bremen	0:0	0:0	23.02.2014	15:30	2013	2014	22
+Hannover 96	Bayern MÃ¼nchen	0:2	0:4	23.02.2014	17:30	2013	2014	22
+Hertha BSC	SC Freiburg	0:0	0:0	28.02.2014	20:30	2013	2014	23
+Eintracht Braunschweig	Bor. MÃ¶nchengladbach	0:1	1:1	01.03.2014	15:30	2013	2014	23
+FC Augsburg	Hannover 96	0:1	1:1	01.03.2014	15:30	2013	2014	23
+Borussia Dortmund	1. FC NÃ¼rnberg	0:0	3:0	01.03.2014	15:30	2013	2014	23
+Bayer Leverkusen	1. FSV Mainz 05	0:1	0:1	01.03.2014	15:30	2013	2014	23
+Werder Bremen	Hamburger SV	1:0	1:0	01.03.2014	15:30	2013	2014	23
+Bayern MÃ¼nchen	FC Schalke 04	4:0	5:1	01.03.2014	18:30	2013	2014	23
+1899 Hoffenheim	VfL Wolfsburg	4:1	6:2	02.03.2014	15:30	2013	2014	23
+Eintracht Frankfurt	VfB Stuttgart	0:1	2:1	02.03.2014	17:30	2013	2014	23
+VfL Wolfsburg	Bayern MÃ¼nchen	1:1	1:6	08.03.2014	15:30	2013	2014	24
+Hannover 96	Bayer Leverkusen	1:1	1:1	08.03.2014	15:30	2013	2014	24
+FC Schalke 04	1899 Hoffenheim	2:0	4:0	08.03.2014	15:30	2013	2014	24
+Bor. MÃ¶nchengladbach	FC Augsburg	1:1	1:2	08.03.2014	15:30	2013	2014	24
+VfB Stuttgart	Eintracht Braunschweig	2:1	2:2	08.03.2014	15:30	2013	2014	24
+Hamburger SV	Eintracht Frankfurt	0:1	1:1	08.03.2014	15:30	2013	2014	24
+1. FC NÃ¼rnberg	Werder Bremen	0:1	0:2	08.03.2014	18:30	2013	2014	24
+SC Freiburg	Borussia Dortmund	0:0	0:1	09.03.2014	15:30	2013	2014	24
+1. FSV Mainz 05	Hertha BSC	0:0	1:1	09.03.2014	17:30	2013	2014	24
+FC Augsburg	FC Schalke 04	1:1	1:2	14.03.2014	20:30	2013	2014	25
+Borussia Dortmund	Bor. MÃ¶nchengladbach	0:2	1:2	15.03.2014	15:30	2013	2014	25
+Werder Bremen	VfB Stuttgart	0:0	1:1	15.03.2014	15:30	2013	2014	25
+Hertha BSC	Hannover 96	0:0	0:3	15.03.2014	15:30	2013	2014	25
+Eintracht Braunschweig	VfL Wolfsburg	0:1	1:1	15.03.2014	15:30	2013	2014	25
+1899 Hoffenheim	1. FSV Mainz 05	0:0	2:4	15.03.2014	15:30	2013	2014	25
+Bayern MÃ¼nchen	Bayer Leverkusen	1:0	2:1	15.03.2014	18:30	2013	2014	25
+Hamburger SV	1. FC NÃ¼rnberg	0:0	2:1	16.03.2014	15:30	2013	2014	25
+Eintracht Frankfurt	SC Freiburg	0:1	1:4	16.03.2014	17:30	2013	2014	25
+SC Freiburg	Werder Bremen	1:0	3:1	21.03.2014	20:30	2013	2014	26
+Hannover 96	Borussia Dortmund	0:1	0:3	22.03.2014	15:30	2013	2014	26
+1. FSV Mainz 05	Bayern MÃ¼nchen	0:0	0:2	22.03.2014	15:30	2013	2014	26
+VfL Wolfsburg	FC Augsburg	0:1	1:1	22.03.2014	15:30	2013	2014	26
+VfB Stuttgart	Hamburger SV	0:0	1:0	22.03.2014	15:30	2013	2014	26
+FC Schalke 04	Eintracht Braunschweig	1:0	3:1	22.03.2014	15:30	2013	2014	26
+Bor. MÃ¶nchengladbach	Hertha BSC	3:0	3:0	22.03.2014	18:30	2013	2014	26
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:1	2:5	23.03.2014	15:30	2013	2014	26
+Bayer Leverkusen	1899 Hoffenheim	1:2	2:3	23.03.2014	17:30	2013	2014	26
+Hertha BSC	Bayern MÃ¼nchen	0:2	1:3	25.03.2014	20:00	2013	2014	27
+Borussia Dortmund	FC Schalke 04	0:0	0:0	25.03.2014	20:00	2013	2014	27
+Werder Bremen	VfL Wolfsburg	1:2	1:3	25.03.2014	20:00	2013	2014	27
+Eintracht Braunschweig	1. FSV Mainz 05	2:1	3:1	25.03.2014	20:00	2013	2014	27
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	1:0	1:0	26.03.2014	20:00	2013	2014	27
+FC Augsburg	Bayer Leverkusen	0:1	1:3	26.03.2014	20:00	2013	2014	27
+1. FC NÃ¼rnberg	VfB Stuttgart	1:0	2:0	26.03.2014	20:00	2013	2014	27
+1899 Hoffenheim	Hannover 96	1:1	3:1	26.03.2014	20:00	2013	2014	27
+Hamburger SV	SC Freiburg	0:0	1:1	26.03.2014	20:00	2013	2014	27
+FC Schalke 04	Hertha BSC	1:0	2:0	28.03.2014	20:30	2013	2014	28
+VfB Stuttgart	Borussia Dortmund	2:1	2:3	29.03.2014	15:30	2013	2014	28
+Bayern MÃ¼nchen	1899 Hoffenheim	3:2	3:3	29.03.2014	15:30	2013	2014	28
+1. FSV Mainz 05	FC Augsburg	2:0	3:0	29.03.2014	15:30	2013	2014	28
+Bayer Leverkusen	Eintracht Braunschweig	0:0	1:1	29.03.2014	15:30	2013	2014	28
+VfL Wolfsburg	Eintracht Frankfurt	0:1	2:1	29.03.2014	15:30	2013	2014	28
+SC Freiburg	1. FC NÃ¼rnberg	1:2	3:2	29.03.2014	18:30	2013	2014	28
+Bor. MÃ¶nchengladbach	Hamburger SV	1:1	3:1	30.03.2014	15:30	2013	2014	28
+Hannover 96	Werder Bremen	1:0	1:2	30.03.2014	17:30	2013	2014	28
+Hamburger SV	Bayer Leverkusen	1:0	2:1	04.04.2014	20:30	2013	2014	29
+FC Augsburg	Bayern MÃ¼nchen	1:0	1:0	05.04.2014	15:30	2013	2014	29
+Werder Bremen	FC Schalke 04	1:1	1:1	05.04.2014	15:30	2013	2014	29
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	0:1	0:2	05.04.2014	15:30	2013	2014	29
+VfB Stuttgart	SC Freiburg	0:0	2:0	05.04.2014	15:30	2013	2014	29
+Eintracht Frankfurt	1. FSV Mainz 05	0:0	2:0	05.04.2014	15:30	2013	2014	29
+Borussia Dortmund	VfL Wolfsburg	0:1	2:1	05.04.2014	18:30	2013	2014	29
+Eintracht Braunschweig	Hannover 96	2:0	3:0	06.04.2014	15:30	2013	2014	29
+Hertha BSC	1899 Hoffenheim	1:1	1:1	06.04.2014	17:30	2013	2014	29
+FC Schalke 04	Eintracht Frankfurt	0:0	2:0	11.04.2014	20:30	2013	2014	30
+1. FSV Mainz 05	Werder Bremen	3:0	3:0	12.04.2014	15:30	2013	2014	30
+VfL Wolfsburg	1. FC NÃ¼rnberg	2:1	4:1	12.04.2014	15:30	2013	2014	30
+Hannover 96	Hamburger SV	1:0	2:1	12.04.2014	15:30	2013	2014	30
+SC Freiburg	Eintracht Braunschweig	1:0	2:0	12.04.2014	15:30	2013	2014	30
+Bor. MÃ¶nchengladbach	VfB Stuttgart	0:1	1:1	12.04.2014	15:30	2013	2014	30
+Bayern MÃ¼nchen	Borussia Dortmund	0:1	0:3	12.04.2014	18:30	2013	2014	30
+Bayer Leverkusen	Hertha BSC	2:1	2:1	13.04.2014	15:30	2013	2014	30
+1899 Hoffenheim	FC Augsburg	2:0	2:0	13.04.2014	17:30	2013	2014	30
+Eintracht Frankfurt	Hannover 96	1:3	2:3	17.04.2014	20:30	2013	2014	31
+Eintracht Braunschweig	Bayern MÃ¼nchen	0:0	0:2	19.04.2014	15:30	2013	2014	31
+SC Freiburg	Bor. MÃ¶nchengladbach	0:1	4:2	19.04.2014	15:30	2013	2014	31
+Werder Bremen	1899 Hoffenheim	1:1	3:1	19.04.2014	15:30	2013	2014	31
+Borussia Dortmund	1. FSV Mainz 05	2:1	4:2	19.04.2014	15:30	2013	2014	31
+FC Augsburg	Hertha BSC	0:0	0:0	19.04.2014	15:30	2013	2014	31
+Hamburger SV	VfL Wolfsburg	0:2	1:3	19.04.2014	18:30	2013	2014	31
+1. FC NÃ¼rnberg	Bayer Leverkusen	1:1	1:4	20.04.2014	15:30	2013	2014	31
+VfB Stuttgart	FC Schalke 04	1:0	3:1	20.04.2014	17:30	2013	2014	31
+Hannover 96	VfB Stuttgart	0:0	0:0	25.04.2014	20:30	2013	2014	32
+Bayern MÃ¼nchen	Werder Bremen	1:2	5:2	26.04.2014	15:30	2013	2014	32
+1. FSV Mainz 05	1. FC NÃ¼rnberg	2:0	2:0	26.04.2014	15:30	2013	2014	32
+VfL Wolfsburg	SC Freiburg	1:0	2:2	26.04.2014	15:30	2013	2014	32
+Hertha BSC	Eintracht Braunschweig	0:0	2:0	26.04.2014	15:30	2013	2014	32
+1899 Hoffenheim	Eintracht Frankfurt	0:0	0:0	26.04.2014	15:30	2013	2014	32
+Bayer Leverkusen	Borussia Dortmund	2:2	2:2	26.04.2014	18:30	2013	2014	32
+FC Augsburg	Hamburger SV	3:1	3:1	27.04.2014	15:30	2013	2014	32
+FC Schalke 04	Bor. MÃ¶nchengladbach	0:1	0:1	27.04.2014	17:30	2013	2014	32
+Hamburger SV	Bayern MÃ¼nchen	0:1	1:4	03.05.2014	15:30	2013	2014	33
+SC Freiburg	FC Schalke 04	0:1	0:2	03.05.2014	15:30	2013	2014	33
+Eintracht Frankfurt	Bayer Leverkusen	0:2	0:2	03.05.2014	15:30	2013	2014	33
+1. FC NÃ¼rnberg	Hannover 96	0:1	0:2	03.05.2014	15:30	2013	2014	33
+VfB Stuttgart	VfL Wolfsburg	0:1	1:2	03.05.2014	15:30	2013	2014	33
+Borussia Dortmund	1899 Hoffenheim	3:1	3:2	03.05.2014	15:30	2013	2014	33
+Bor. MÃ¶nchengladbach	1. FSV Mainz 05	1:0	3:1	03.05.2014	15:30	2013	2014	33
+Eintracht Braunschweig	FC Augsburg	0:0	0:1	03.05.2014	15:30	2013	2014	33
+Werder Bremen	Hertha BSC	0:0	2:0	03.05.2014	15:30	2013	2014	33
+Hertha BSC	Borussia Dortmund	0:2	0:4	10.05.2014	15:30	2013	2014	34
+VfL Wolfsburg	Bor. MÃ¶nchengladbach	1:0	3:1	10.05.2014	15:30	2013	2014	34
+Bayern MÃ¼nchen	VfB Stuttgart	0:0	1:0	10.05.2014	15:30	2013	2014	34
+Bayer Leverkusen	Werder Bremen	1:1	2:1	10.05.2014	15:30	2013	2014	34
+FC Schalke 04	1. FC NÃ¼rnberg	2:0	4:1	10.05.2014	15:30	2013	2014	34
+Hannover 96	SC Freiburg	1:0	3:2	10.05.2014	15:30	2013	2014	34
+1. FSV Mainz 05	Hamburger SV	1:1	3:2	10.05.2014	15:30	2013	2014	34
+1899 Hoffenheim	Eintracht Braunschweig	1:0	3:1	10.05.2014	15:30	2013	2014	34
+FC Augsburg	Eintracht Frankfurt	1:1	2:1	10.05.2014	15:30	2013	2014	34

@@ -1,0 +1,380 @@
+AS Roma	Udinese Calcio	0:0	4:0	20.08.2016	18:00	2016	2017	1
+Juventus	ACF Fiorentina	1:0	2:1	20.08.2016	20:45	2016	2017	1
+AC Milan	Torino FC	1:0	3:2	21.08.2016	18:00	2016	2017	1
+Atalanta	Lazio Roma	0:3	3:4	21.08.2016	20:45	2016	2017	1
+Bologna FC	FC Crotone	0:0	1:0	21.08.2016	20:45	2016	2017	1
+Chievo Verona	Inter	0:0	2:0	21.08.2016	20:45	2016	2017	1
+Empoli FC	Sampdoria	0:1	0:1	21.08.2016	20:45	2016	2017	1
+Genoa CFC	Cagliari Calcio	0:0	3:1	21.08.2016	20:45	2016	2017	1
+US Palermo	Sassuolo Calcio	0:1	0:1	21.08.2016	20:45	2016	2017	1
+Pescara Calcio	SSC Napoli	2:0	2:2	21.08.2016	20:45	2016	2017	1
+Lazio Roma	Juventus	0:0	0:1	27.08.2016	18:00	2016	2017	2
+SSC Napoli	AC Milan	2:0	4:2	27.08.2016	20:45	2016	2017	2
+Inter	US Palermo	0:0	1:1	28.08.2016	18:00	2016	2017	2
+Cagliari Calcio	AS Roma	0:1	2:2	28.08.2016	20:45	2016	2017	2
+FC Crotone	Genoa CFC	1:0	1:3	28.08.2016	20:45	2016	2017	2
+ACF Fiorentina	Chievo Verona	1:0	1:0	28.08.2016	20:45	2016	2017	2
+Sampdoria	Atalanta	2:1	2:1	28.08.2016	20:45	2016	2017	2
+Sassuolo Calcio	Pescara Calcio	0:0	0:3	28.08.2016	20:45	2016	2017	2
+Torino FC	Bologna FC	2:1	5:1	28.08.2016	20:45	2016	2017	2
+Udinese Calcio	Empoli FC	1:0	2:0	28.08.2016	20:45	2016	2017	2
+Juventus	Sassuolo Calcio	3:1	3:1	10.09.2016	18:00	2016	2017	3
+US Palermo	SSC Napoli	0:0	0:3	10.09.2016	20:45	2016	2017	3
+Bologna FC	Cagliari Calcio	1:0	2:1	11.09.2016	12:30	2016	2017	3
+Atalanta	Torino FC	0:0	2:1	11.09.2016	15:00	2016	2017	3
+Chievo Verona	Lazio Roma	0:0	1:1	11.09.2016	15:00	2016	2017	3
+AC Milan	Udinese Calcio	0:0	0:1	11.09.2016	15:00	2016	2017	3
+AS Roma	Sampdoria	1:2	3:2	11.09.2016	15:00	2016	2017	3
+Pescara Calcio	Inter	0:0	1:2	11.09.2016	20:45	2016	2017	3
+Empoli FC	FC Crotone	1:1	2:1	12.09.2016	20:45	2016	2017	3
+Genoa CFC	ACF Fiorentina	1:0	1:0	15.12.2016	20:00	2016	2017	3
+Sampdoria	AC Milan	0:0	0:1	16.09.2016	20:45	2016	2017	4
+Lazio Roma	Pescara Calcio	0:0	3:0	17.09.2016	18:00	2016	2017	4
+SSC Napoli	Bologna FC	1:0	3:1	17.09.2016	20:45	2016	2017	4
+Udinese Calcio	Chievo Verona	1:0	1:2	18.09.2016	12:30	2016	2017	4
+Cagliari Calcio	Atalanta	1:0	3:0	18.09.2016	15:00	2016	2017	4
+FC Crotone	US Palermo	1:0	1:1	18.09.2016	15:00	2016	2017	4
+Sassuolo Calcio	Genoa CFC	0:0	2:0	18.09.2016	15:00	2016	2017	4
+Torino FC	Empoli FC	0:0	0:0	18.09.2016	15:00	2016	2017	4
+Inter	Juventus	0:0	2:1	18.09.2016	18:00	2016	2017	4
+ACF Fiorentina	AS Roma	0:0	1:0	18.09.2016	20:45	2016	2017	4
+AC Milan	Lazio Roma	1:0	2:0	20.09.2016	20:45	2016	2017	5
+Bologna FC	Sampdoria	1:0	2:0	21.09.2016	18:30	2016	2017	5
+Atalanta	US Palermo	0:0	0:1	21.09.2016	20:45	2016	2017	5
+Chievo Verona	Sassuolo Calcio	2:1	2:1	21.09.2016	20:45	2016	2017	5
+Empoli FC	Inter	0:2	0:2	21.09.2016	20:45	2016	2017	5
+Genoa CFC	SSC Napoli	0:0	0:0	21.09.2016	20:45	2016	2017	5
+Juventus	Cagliari Calcio	3:0	4:0	21.09.2016	20:45	2016	2017	5
+Pescara Calcio	Torino FC	0:0	0:0	21.09.2016	20:45	2016	2017	5
+AS Roma	FC Crotone	2:0	4:0	21.09.2016	20:45	2016	2017	5
+Udinese Calcio	ACF Fiorentina	2:1	2:2	21.09.2016	20:45	2016	2017	5
+US Palermo	Juventus	0:0	0:1	24.09.2016	18:00	2016	2017	6
+SSC Napoli	Chievo Verona	2:0	2:0	24.09.2016	20:45	2016	2017	6
+Torino FC	AS Roma	1:0	3:1	25.09.2016	12:30	2016	2017	6
+Genoa CFC	Pescara Calcio	0:0	1:1	25.09.2016	15:00	2016	2017	6
+Inter	Bologna FC	1:1	1:1	25.09.2016	15:00	2016	2017	6
+Lazio Roma	Empoli FC	1:0	2:0	25.09.2016	15:00	2016	2017	6
+Sassuolo Calcio	Udinese Calcio	1:0	1:0	25.09.2016	15:00	2016	2017	6
+ACF Fiorentina	AC Milan	0:0	0:0	25.09.2016	20:45	2016	2017	6
+FC Crotone	Atalanta	0:3	1:3	26.09.2016	19:00	2016	2017	6
+Cagliari Calcio	Sampdoria	1:0	2:1	26.09.2016	21:00	2016	2017	6
+Pescara Calcio	Chievo Verona	0:0	0:2	01.10.2016	18:00	2016	2017	7
+Udinese Calcio	Lazio Roma	0:1	0:3	01.10.2016	20:45	2016	2017	7
+Empoli FC	Juventus	0:0	0:3	02.10.2016	12:30	2016	2017	7
+Atalanta	SSC Napoli	1:0	1:0	02.10.2016	15:00	2016	2017	7
+Bologna FC	Genoa CFC	0:0	0:1	02.10.2016	15:00	2016	2017	7
+Cagliari Calcio	FC Crotone	1:0	2:1	02.10.2016	15:00	2016	2017	7
+Sampdoria	US Palermo	0:0	1:1	02.10.2016	15:00	2016	2017	7
+AC Milan	Sassuolo Calcio	1:1	4:3	02.10.2016	18:00	2016	2017	7
+Torino FC	ACF Fiorentina	1:0	2:1	02.10.2016	18:00	2016	2017	7
+AS Roma	Inter	1:0	2:1	02.10.2016	20:45	2016	2017	7
+SSC Napoli	AS Roma	0:1	1:3	15.10.2016	15:00	2016	2017	8
+Pescara Calcio	Sampdoria	1:1	1:1	15.10.2016	18:00	2016	2017	8
+Juventus	Udinese Calcio	1:1	2:1	15.10.2016	20:45	2016	2017	8
+ACF Fiorentina	Atalanta	0:0	0:0	16.10.2016	12:30	2016	2017	8
+Genoa CFC	Empoli FC	0:0	0:0	16.10.2016	15:00	2016	2017	8
+Inter	Cagliari Calcio	0:0	1:2	16.10.2016	15:00	2016	2017	8
+Lazio Roma	Bologna FC	0:1	1:1	16.10.2016	15:00	2016	2017	8
+Sassuolo Calcio	FC Crotone	0:1	2:1	16.10.2016	15:00	2016	2017	8
+Chievo Verona	AC Milan	0:1	1:3	16.10.2016	20:45	2016	2017	8
+US Palermo	Torino FC	1:3	1:4	17.10.2016	20:45	2016	2017	8
+Sampdoria	Genoa CFC	1:1	2:1	22.10.2016	18:00	2016	2017	9
+AC Milan	Juventus	0:0	1:0	22.10.2016	20:45	2016	2017	9
+Udinese Calcio	Pescara Calcio	1:0	3:1	23.10.2016	12:30	2016	2017	9
+Atalanta	Inter	1:0	2:1	23.10.2016	15:00	2016	2017	9
+Cagliari Calcio	ACF Fiorentina	1:4	3:5	23.10.2016	15:00	2016	2017	9
+FC Crotone	SSC Napoli	0:2	1:2	23.10.2016	15:00	2016	2017	9
+Empoli FC	Chievo Verona	0:0	0:0	23.10.2016	15:00	2016	2017	9
+Torino FC	Lazio Roma	1:0	2:2	23.10.2016	15:00	2016	2017	9
+Bologna FC	Sassuolo Calcio	1:0	1:1	23.10.2016	18:00	2016	2017	9
+AS Roma	US Palermo	1:0	4:1	23.10.2016	20:45	2016	2017	9
+Genoa CFC	AC Milan	1:0	3:0	25.10.2016	20:45	2016	2017	10
+Chievo Verona	Bologna FC	0:0	1:1	26.10.2016	20:45	2016	2017	10
+ACF Fiorentina	FC Crotone	0:1	1:1	26.10.2016	20:45	2016	2017	10
+Inter	Torino FC	1:0	2:1	26.10.2016	20:45	2016	2017	10
+Juventus	Sampdoria	2:0	4:1	26.10.2016	20:45	2016	2017	10
+Lazio Roma	Cagliari Calcio	3:0	4:1	26.10.2016	20:45	2016	2017	10
+SSC Napoli	Empoli FC	0:0	2:0	26.10.2016	20:45	2016	2017	10
+Pescara Calcio	Atalanta	0:0	0:1	26.10.2016	20:45	2016	2017	10
+Sassuolo Calcio	AS Roma	1:0	1:3	26.10.2016	20:45	2016	2017	10
+US Palermo	Udinese Calcio	1:1	1:3	27.10.2016	20:45	2016	2017	10
+Bologna FC	ACF Fiorentina	0:1	0:1	29.10.2016	18:00	2016	2017	11
+Juventus	SSC Napoli	0:0	2:1	29.10.2016	20:45	2016	2017	11
+Atalanta	Genoa CFC	2:0	3:0	30.10.2016	12:30	2016	2017	11
+FC Crotone	Chievo Verona	1:0	2:0	30.10.2016	15:00	2016	2017	11
+Empoli FC	AS Roma	0:0	0:0	30.10.2016	15:00	2016	2017	11
+Lazio Roma	Sassuolo Calcio	0:0	2:1	30.10.2016	15:00	2016	2017	11
+AC Milan	Pescara Calcio	0:0	1:0	30.10.2016	15:00	2016	2017	11
+Sampdoria	Inter	1:0	1:0	30.10.2016	20:45	2016	2017	11
+Udinese Calcio	Torino FC	0:1	2:2	31.10.2016	19:00	2016	2017	11
+Cagliari Calcio	US Palermo	0:0	2:1	31.10.2016	21:00	2016	2017	11
+Torino FC	Cagliari Calcio	3:1	5:1	05.11.2016	18:00	2016	2017	12
+SSC Napoli	Lazio Roma	0:0	1:1	05.11.2016	20:45	2016	2017	12
+Pescara Calcio	Empoli FC	0:3	0:4	06.11.2016	12:30	2016	2017	12
+Chievo Verona	Juventus	0:0	1:2	06.11.2016	15:00	2016	2017	12
+Genoa CFC	Udinese Calcio	1:1	1:1	06.11.2016	15:00	2016	2017	12
+US Palermo	AC Milan	0:1	1:2	06.11.2016	15:00	2016	2017	12
+Sassuolo Calcio	Atalanta	0:3	0:3	06.11.2016	15:00	2016	2017	12
+ACF Fiorentina	Sampdoria	1:0	1:1	06.11.2016	18:00	2016	2017	12
+Inter	FC Crotone	0:0	3:0	06.11.2016	18:00	2016	2017	12
+AS Roma	Bologna FC	1:0	3:0	06.11.2016	20:45	2016	2017	12
+Chievo Verona	Cagliari Calcio	0:0	1:0	19.11.2016	15:00	2016	2017	13
+Udinese Calcio	SSC Napoli	0:0	1:2	19.11.2016	18:00	2016	2017	13
+Juventus	Pescara Calcio	1:0	3:0	19.11.2016	20:45	2016	2017	13
+Sampdoria	Sassuolo Calcio	0:0	3:2	20.11.2016	12:30	2016	2017	13
+Atalanta	AS Roma	0:1	2:1	20.11.2016	15:00	2016	2017	13
+Bologna FC	US Palermo	1:1	3:1	20.11.2016	15:00	2016	2017	13
+FC Crotone	Torino FC	0:0	0:2	20.11.2016	15:00	2016	2017	13
+Empoli FC	ACF Fiorentina	0:1	0:4	20.11.2016	15:00	2016	2017	13
+Lazio Roma	Genoa CFC	1:0	3:1	20.11.2016	15:00	2016	2017	13
+AC Milan	Inter	1:0	2:2	20.11.2016	20:45	2016	2017	13
+Torino FC	Chievo Verona	2:0	2:1	26.11.2016	18:00	2016	2017	14
+Empoli FC	AC Milan	1:1	1:4	26.11.2016	20:45	2016	2017	14
+US Palermo	Lazio Roma	0:1	0:1	27.11.2016	12:30	2016	2017	14
+Bologna FC	Atalanta	0:1	0:2	27.11.2016	15:00	2016	2017	14
+Cagliari Calcio	Udinese Calcio	1:0	2:1	27.11.2016	15:00	2016	2017	14
+FC Crotone	Sampdoria	1:0	1:1	27.11.2016	15:00	2016	2017	14
+Genoa CFC	Juventus	3:0	3:1	27.11.2016	15:00	2016	2017	14
+AS Roma	Pescara Calcio	2:0	3:2	27.11.2016	20:45	2016	2017	14
+SSC Napoli	Sassuolo Calcio	1:0	1:1	28.11.2016	19:00	2016	2017	14
+Inter	ACF Fiorentina	3:1	4:2	28.11.2016	21:00	2016	2017	14
+SSC Napoli	Inter	2:0	3:0	02.12.2016	20:45	2016	2017	15
+Juventus	Atalanta	2:0	3:1	03.12.2016	20:45	2016	2017	15
+AC Milan	FC Crotone	1:1	2:1	04.12.2016	12:30	2016	2017	15
+Lazio Roma	AS Roma	0:0	0:2	04.12.2016	15:00	2016	2017	15
+Pescara Calcio	Cagliari Calcio	0:1	1:1	04.12.2016	15:00	2016	2017	15
+Sampdoria	Torino FC	0:0	2:0	04.12.2016	15:00	2016	2017	15
+Sassuolo Calcio	Empoli FC	2:0	3:0	04.12.2016	15:00	2016	2017	15
+ACF Fiorentina	US Palermo	1:0	2:1	04.12.2016	20:45	2016	2017	15
+Chievo Verona	Genoa CFC	0:0	0:0	05.12.2016	19:00	2016	2017	15
+Udinese Calcio	Bologna FC	0:0	1:0	05.12.2016	21:00	2016	2017	15
+FC Crotone	Pescara Calcio	1:0	2:1	10.12.2016	18:00	2016	2017	16
+Sampdoria	Lazio Roma	0:2	1:2	10.12.2016	20:45	2016	2017	16
+Cagliari Calcio	SSC Napoli	0:2	0:5	11.12.2016	12:30	2016	2017	16
+Atalanta	Udinese Calcio	0:1	1:3	11.12.2016	15:00	2016	2017	16
+Bologna FC	Empoli FC	0:0	0:0	11.12.2016	15:00	2016	2017	16
+US Palermo	Chievo Verona	0:1	0:2	11.12.2016	15:00	2016	2017	16
+Torino FC	Juventus	1:1	1:3	11.12.2016	15:00	2016	2017	16
+Inter	Genoa CFC	1:0	2:0	11.12.2016	20:45	2016	2017	16
+ACF Fiorentina	Sassuolo Calcio	2:0	2:1	12.12.2016	19:00	2016	2017	16
+AS Roma	AC Milan	0:0	1:0	12.12.2016	21:00	2016	2017	16
+Empoli FC	Cagliari Calcio	1:0	2:0	17.12.2016	15:00	2016	2017	17
+AC Milan	Atalanta	0:0	0:0	17.12.2016	18:00	2016	2017	17
+Juventus	AS Roma	1:0	1:0	17.12.2016	20:45	2016	2017	17
+Sassuolo Calcio	Inter	0:0	0:1	18.12.2016	12:30	2016	2017	17
+Chievo Verona	Sampdoria	2:0	2:1	18.12.2016	15:00	2016	2017	17
+SSC Napoli	Torino FC	3:0	5:3	18.12.2016	15:00	2016	2017	17
+Pescara Calcio	Bologna FC	0:2	0:3	18.12.2016	15:00	2016	2017	17
+Udinese Calcio	FC Crotone	1:0	2:0	18.12.2016	15:00	2016	2017	17
+Genoa CFC	US Palermo	1:1	3:4	18.12.2016	20:45	2016	2017	17
+Lazio Roma	ACF Fiorentina	2:0	3:1	18.12.2016	20:45	2016	2017	17
+Atalanta	Empoli FC	0:0	2:1	20.12.2016	20:45	2016	2017	18
+Inter	Lazio Roma	0:0	3:0	21.12.2016	20:45	2016	2017	18
+Cagliari Calcio	Sassuolo Calcio	1:2	4:3	22.12.2016	20:45	2016	2017	18
+ACF Fiorentina	SSC Napoli	0:1	3:3	22.12.2016	20:45	2016	2017	18
+US Palermo	Pescara Calcio	1:0	1:1	22.12.2016	20:45	2016	2017	18
+AS Roma	Chievo Verona	1:1	3:1	22.12.2016	20:45	2016	2017	18
+Sampdoria	Udinese Calcio	0:0	0:0	22.12.2016	20:45	2016	2017	18
+Torino FC	Genoa CFC	0:0	1:0	22.12.2016	20:45	2016	2017	18
+FC Crotone	Juventus	0:0	0:2	08.02.2017	18:00	2016	2017	18
+Bologna FC	AC Milan	0:0	0:1	08.02.2017	20:45	2016	2017	18
+Empoli FC	US Palermo	0:0	1:0	07.01.2017	18:00	2016	2017	19
+SSC Napoli	Sampdoria	0:1	2:1	07.01.2017	20:45	2016	2017	19
+Udinese Calcio	Inter	1:1	1:2	08.01.2017	12:30	2016	2017	19
+Chievo Verona	Atalanta	0:3	1:4	08.01.2017	15:00	2016	2017	19
+Genoa CFC	AS Roma	0:1	0:1	08.01.2017	15:00	2016	2017	19
+Lazio Roma	FC Crotone	0:0	1:0	08.01.2017	15:00	2016	2017	19
+Sassuolo Calcio	Torino FC	0:0	0:0	08.01.2017	15:00	2016	2017	19
+AC Milan	Cagliari Calcio	0:0	1:0	08.01.2017	18:00	2016	2017	19
+Juventus	Bologna FC	2:0	3:0	08.01.2017	20:45	2016	2017	19
+Pescara Calcio	ACF Fiorentina	1:0	1:2	01.02.2017	20:45	2016	2017	19
+FC Crotone	Bologna FC	0:0	0:1	14.01.2017	18:00	2016	2017	20
+Inter	Chievo Verona	0:1	3:1	14.01.2017	20:45	2016	2017	20
+Cagliari Calcio	Genoa CFC	2:1	4:1	15.01.2017	12:30	2016	2017	20
+Lazio Roma	Atalanta	1:1	2:1	15.01.2017	15:00	2016	2017	20
+Sampdoria	Empoli FC	0:0	0:0	15.01.2017	15:00	2016	2017	20
+Sassuolo Calcio	US Palermo	2:1	4:1	15.01.2017	15:00	2016	2017	20
+SSC Napoli	Pescara Calcio	0:0	3:1	15.01.2017	15:00	2016	2017	20
+Udinese Calcio	AS Roma	0:1	0:1	15.01.2017	15:00	2016	2017	20
+ACF Fiorentina	Juventus	1:0	2:1	15.01.2017	20:45	2016	2017	20
+Torino FC	AC Milan	2:0	2:2	16.01.2017	20:45	2016	2017	20
+Chievo Verona	ACF Fiorentina	0:1	0:3	21.01.2017	18:00	2016	2017	21
+AC Milan	SSC Napoli	1:2	1:2	21.01.2017	20:45	2016	2017	21
+Juventus	Lazio Roma	2:0	2:0	22.01.2017	12:30	2016	2017	21
+Genoa CFC	FC Crotone	1:0	2:2	22.01.2017	15:00	2016	2017	21
+US Palermo	Inter	0:0	0:1	22.01.2017	15:00	2016	2017	21
+Pescara Calcio	Sassuolo Calcio	0:1	1:3	22.01.2017	15:00	2016	2017	21
+Bologna FC	Torino FC	1:0	2:0	22.01.2017	15:00	2016	2017	21
+Empoli FC	Udinese Calcio	0:0	1:0	22.01.2017	15:00	2016	2017	21
+Atalanta	Sampdoria	0:0	1:0	22.01.2017	18:00	2016	2017	21
+AS Roma	Cagliari Calcio	0:0	1:0	22.01.2017	20:45	2016	2017	21
+Lazio Roma	Chievo Verona	0:0	0:1	28.01.2017	18:00	2016	2017	22
+Inter	Pescara Calcio	2:0	3:0	28.01.2017	20:45	2016	2017	22
+Torino FC	Atalanta	1:0	1:1	29.01.2017	12:30	2016	2017	22
+Cagliari Calcio	Bologna FC	0:0	1:1	29.01.2017	15:00	2016	2017	22
+FC Crotone	Empoli FC	1:1	4:1	29.01.2017	15:00	2016	2017	22
+ACF Fiorentina	Genoa CFC	1:0	3:3	29.01.2017	15:00	2016	2017	22
+Sassuolo Calcio	Juventus	0:2	0:2	29.01.2017	15:00	2016	2017	22
+Udinese Calcio	AC Milan	1:1	2:1	29.01.2017	15:00	2016	2017	22
+Sampdoria	AS Roma	1:1	3:2	29.01.2017	15:00	2016	2017	22
+SSC Napoli	US Palermo	0:1	1:1	29.01.2017	20:45	2016	2017	22
+Bologna FC	SSC Napoli	1:4	1:7	04.02.2017	20:45	2016	2017	23
+AC Milan	Sampdoria	0:0	0:1	05.02.2017	12:30	2016	2017	23
+Atalanta	Cagliari Calcio	2:0	2:0	05.02.2017	15:00	2016	2017	23
+Pescara Calcio	Lazio Roma	2:2	2:6	05.02.2017	15:00	2016	2017	23
+Genoa CFC	Sassuolo Calcio	0:1	0:1	05.02.2017	15:00	2016	2017	23
+Empoli FC	Torino FC	1:1	1:1	05.02.2017	15:00	2016	2017	23
+Chievo Verona	Udinese Calcio	0:0	0:0	05.02.2017	15:00	2016	2017	23
+US Palermo	FC Crotone	1:0	1:0	05.02.2017	18:00	2016	2017	23
+Juventus	Inter	1:0	1:0	05.02.2017	20:45	2016	2017	23
+AS Roma	ACF Fiorentina	1:0	4:0	07.02.2017	20:45	2016	2017	23
+SSC Napoli	Genoa CFC	0:0	2:0	10.02.2017	20:45	2016	2017	24
+ACF Fiorentina	Udinese Calcio	1:0	3:0	11.02.2017	20:45	2016	2017	24
+FC Crotone	AS Roma	0:1	0:2	12.02.2017	12:30	2016	2017	24
+US Palermo	Atalanta	1:2	1:3	12.02.2017	15:00	2016	2017	24
+Sassuolo Calcio	Chievo Verona	1:1	1:3	12.02.2017	15:00	2016	2017	24
+Inter	Empoli FC	1:0	2:0	12.02.2017	15:00	2016	2017	24
+Torino FC	Pescara Calcio	3:0	5:3	12.02.2017	15:00	2016	2017	24
+Sampdoria	Bologna FC	0:1	3:1	12.02.2017	18:00	2016	2017	24
+Cagliari Calcio	Juventus	0:1	0:2	12.02.2017	20:45	2016	2017	24
+Lazio Roma	AC Milan	1:0	1:1	13.02.2017	20:45	2016	2017	24
+Juventus	US Palermo	2:0	4:1	17.02.2017	20:45	2016	2017	25
+Atalanta	FC Crotone	0:0	1:0	18.02.2017	18:00	2016	2017	25
+Empoli FC	Lazio Roma	0:0	1:2	18.02.2017	20:45	2016	2017	25
+Bologna FC	Inter	0:0	0:1	19.02.2017	12:30	2016	2017	25
+Sampdoria	Cagliari Calcio	1:1	1:1	19.02.2017	15:00	2016	2017	25
+Pescara Calcio	Genoa CFC	3:0	5:0	19.02.2017	15:00	2016	2017	25
+Chievo Verona	SSC Napoli	0:2	1:3	19.02.2017	15:00	2016	2017	25
+Udinese Calcio	Sassuolo Calcio	1:0	1:2	19.02.2017	15:00	2016	2017	25
+AS Roma	Torino FC	2:0	4:1	19.02.2017	18:00	2016	2017	25
+AC Milan	ACF Fiorentina	2:1	2:1	19.02.2017	20:45	2016	2017	25
+SSC Napoli	Atalanta	0:1	0:2	25.02.2017	18:00	2016	2017	26
+Juventus	Empoli FC	0:0	2:0	25.02.2017	20:45	2016	2017	26
+US Palermo	Sampdoria	1:0	1:1	26.02.2017	12:30	2016	2017	26
+Genoa CFC	Bologna FC	0:0	1:1	26.02.2017	15:00	2016	2017	26
+FC Crotone	Cagliari Calcio	1:1	1:2	26.02.2017	15:00	2016	2017	26
+Sassuolo Calcio	AC Milan	0:1	0:1	26.02.2017	15:00	2016	2017	26
+Chievo Verona	Pescara Calcio	1:0	2:0	26.02.2017	15:00	2016	2017	26
+Lazio Roma	Udinese Calcio	0:0	1:0	26.02.2017	15:00	2016	2017	26
+Inter	AS Roma	0:1	1:3	26.02.2017	20:45	2016	2017	26
+ACF Fiorentina	Torino FC	2:0	2:2	27.02.2017	20:45	2016	2017	26
+AS Roma	SSC Napoli	0:1	1:2	04.03.2017	15:00	2016	2017	27
+Sampdoria	Pescara Calcio	1:1	3:1	04.03.2017	18:00	2016	2017	27
+AC Milan	Chievo Verona	1:1	3:1	04.03.2017	20:45	2016	2017	27
+Atalanta	ACF Fiorentina	0:0	0:0	05.03.2017	12:30	2016	2017	27
+Empoli FC	Genoa CFC	0:0	0:2	05.03.2017	15:00	2016	2017	27
+Cagliari Calcio	Inter	1:2	1:5	05.03.2017	15:00	2016	2017	27
+Udinese Calcio	Juventus	1:0	1:1	05.03.2017	15:00	2016	2017	27
+Torino FC	US Palermo	0:1	3:1	05.03.2017	15:00	2016	2017	27
+FC Crotone	Sassuolo Calcio	0:0	0:0	05.03.2017	15:00	2016	2017	27
+Bologna FC	Lazio Roma	0:1	0:2	05.03.2017	20:45	2016	2017	27
+Juventus	AC Milan	1:1	2:1	10.03.2017	20:45	2016	2017	28
+Genoa CFC	Sampdoria	0:0	0:1	11.03.2017	20:45	2016	2017	28
+Sassuolo Calcio	Bologna FC	0:0	0:1	12.03.2017	12:30	2016	2017	28
+Inter	Atalanta	5:1	7:1	12.03.2017	15:00	2016	2017	28
+ACF Fiorentina	Cagliari Calcio	0:0	1:0	12.03.2017	15:00	2016	2017	28
+SSC Napoli	FC Crotone	1:0	3:0	12.03.2017	15:00	2016	2017	28
+Chievo Verona	Empoli FC	2:0	4:0	12.03.2017	15:00	2016	2017	28
+Pescara Calcio	Udinese Calcio	0:1	1:3	12.03.2017	15:00	2016	2017	28
+US Palermo	AS Roma	0:1	0:3	12.03.2017	20:45	2016	2017	28
+Lazio Roma	Torino FC	0:0	3:1	13.03.2017	20:45	2016	2017	28
+Torino FC	Inter	1:1	2:2	18.03.2017	18:00	2016	2017	29
+AC Milan	Genoa CFC	1:0	1:0	18.03.2017	20:45	2016	2017	29
+Empoli FC	SSC Napoli	0:3	2:3	19.03.2017	12:30	2016	2017	29
+Bologna FC	Chievo Verona	0:1	4:1	19.03.2017	15:00	2016	2017	29
+FC Crotone	ACF Fiorentina	0:0	0:1	19.03.2017	15:00	2016	2017	29
+Sampdoria	Juventus	0:1	0:1	19.03.2017	15:00	2016	2017	29
+Cagliari Calcio	Lazio Roma	0:0	0:0	19.03.2017	15:00	2016	2017	29
+Atalanta	Pescara Calcio	1:0	3:0	19.03.2017	15:00	2016	2017	29
+Udinese Calcio	US Palermo	1:1	4:1	19.03.2017	18:00	2016	2017	29
+AS Roma	Sassuolo Calcio	2:1	3:1	19.03.2017	20:45	2016	2017	29
+Sassuolo Calcio	Lazio Roma	1:1	1:2	01.04.2017	18:00	2016	2017	30
+AS Roma	Empoli FC	1:0	2:0	01.04.2017	20:45	2016	2017	30
+Torino FC	Udinese Calcio	0:0	2:2	02.04.2017	12:30	2016	2017	30
+Genoa CFC	Atalanta	0:2	0:5	02.04.2017	15:00	2016	2017	30
+ACF Fiorentina	Bologna FC	0:0	1:0	02.04.2017	15:00	2016	2017	30
+US Palermo	Cagliari Calcio	1:0	1:3	02.04.2017	15:00	2016	2017	30
+Chievo Verona	FC Crotone	0:0	1:2	02.04.2017	15:00	2016	2017	30
+Pescara Calcio	AC Milan	1:1	1:1	02.04.2017	15:00	2016	2017	30
+SSC Napoli	Juventus	0:1	1:1	02.04.2017	20:45	2016	2017	30
+Inter	Sampdoria	1:0	1:2	03.04.2017	20:45	2016	2017	30
+Empoli FC	Pescara Calcio	1:1	1:1	08.04.2017	15:00	2016	2017	31
+Atalanta	Sassuolo Calcio	0:1	1:1	08.04.2017	18:00	2016	2017	31
+Juventus	Chievo Verona	1:0	2:0	08.04.2017	20:45	2016	2017	31
+Sampdoria	ACF Fiorentina	1:0	2:2	09.04.2017	12:50	2016	2017	31
+Udinese Calcio	Genoa CFC	2:0	3:0	09.04.2017	15:00	2016	2017	31
+FC Crotone	Inter	2:0	2:1	09.04.2017	15:00	2016	2017	31
+AC Milan	US Palermo	3:0	4:0	09.04.2017	15:00	2016	2017	31
+Bologna FC	AS Roma	0:2	0:3	09.04.2017	15:00	2016	2017	31
+Cagliari Calcio	Torino FC	1:2	2:3	09.04.2017	15:00	2016	2017	31
+Lazio Roma	SSC Napoli	0:1	0:3	09.04.2017	20:45	2016	2017	31
+Inter	AC Milan	2:0	2:2	15.04.2017	12:30	2016	2017	32
+AS Roma	Atalanta	0:1	1:1	15.04.2017	15:00	2016	2017	32
+US Palermo	Bologna FC	0:0	0:0	15.04.2017	15:00	2016	2017	32
+Cagliari Calcio	Chievo Verona	3:0	4:0	15.04.2017	15:00	2016	2017	32
+Torino FC	FC Crotone	0:0	1:1	15.04.2017	15:00	2016	2017	32
+ACF Fiorentina	Empoli FC	0:1	1:2	15.04.2017	15:00	2016	2017	32
+Pescara Calcio	Juventus	0:2	0:2	15.04.2017	15:00	2016	2017	32
+Genoa CFC	Lazio Roma	1:1	2:2	15.04.2017	15:00	2016	2017	32
+Sassuolo Calcio	Sampdoria	0:1	2:1	15.04.2017	18:00	2016	2017	32
+SSC Napoli	Udinese Calcio	0:0	3:0	15.04.2017	20:45	2016	2017	32
+Atalanta	Bologna FC	2:1	3:2	22.04.2017	18:00	2016	2017	33
+ACF Fiorentina	Inter	1:2	5:4	22.04.2017	20:45	2016	2017	33
+Sassuolo Calcio	SSC Napoli	0:0	2:2	23.04.2017	12:30	2016	2017	33
+Udinese Calcio	Cagliari Calcio	0:0	2:1	23.04.2017	15:00	2016	2017	33
+Sampdoria	FC Crotone	1:0	1:2	23.04.2017	15:00	2016	2017	33
+AC Milan	Empoli FC	0:1	1:2	23.04.2017	15:00	2016	2017	33
+Lazio Roma	US Palermo	5:0	6:2	23.04.2017	15:00	2016	2017	33
+Chievo Verona	Torino FC	0:0	1:3	23.04.2017	15:00	2016	2017	33
+Juventus	Genoa CFC	3:0	4:0	23.04.2017	20:45	2016	2017	33
+Pescara Calcio	AS Roma	0:2	1:4	24.04.2017	20:45	2016	2017	33
+Atalanta	Juventus	1:0	2:2	28.04.2017	20:45	2016	2017	34
+Torino FC	Sampdoria	0:1	1:1	29.04.2017	20:45	2016	2017	34
+AS Roma	Lazio Roma	1:1	1:3	30.04.2017	12:30	2016	2017	34
+Genoa CFC	Chievo Verona	1:0	1:2	30.04.2017	15:00	2016	2017	34
+US Palermo	ACF Fiorentina	1:0	2:0	30.04.2017	15:00	2016	2017	34
+FC Crotone	AC Milan	1:0	1:1	30.04.2017	15:00	2016	2017	34
+Cagliari Calcio	Pescara Calcio	1:0	1:0	30.04.2017	15:00	2016	2017	34
+Empoli FC	Sassuolo Calcio	1:2	1:3	30.04.2017	15:00	2016	2017	34
+Bologna FC	Udinese Calcio	2:0	4:0	30.04.2017	15:00	2016	2017	34
+Inter	SSC Napoli	0:1	0:1	30.04.2017	20:45	2016	2017	34
+SSC Napoli	Cagliari Calcio	1:0	3:1	06.05.2017	18:00	2016	2017	35
+Juventus	Torino FC	0:0	1:1	06.05.2017	20:45	2016	2017	35
+Udinese Calcio	Atalanta	0:1	1:1	07.05.2017	12:30	2016	2017	35
+Empoli FC	Bologna FC	2:1	3:1	07.05.2017	15:00	2016	2017	35
+Pescara Calcio	FC Crotone	0:0	0:1	07.05.2017	15:00	2016	2017	35
+Sassuolo Calcio	ACF Fiorentina	0:1	2:2	07.05.2017	15:00	2016	2017	35
+Genoa CFC	Inter	0:0	1:0	07.05.2017	15:00	2016	2017	35
+Chievo Verona	US Palermo	0:0	1:1	07.05.2017	15:00	2016	2017	35
+Lazio Roma	Sampdoria	5:1	7:3	07.05.2017	15:00	2016	2017	35
+AC Milan	AS Roma	0:2	1:4	07.05.2017	20:45	2016	2017	35
+ACF Fiorentina	Lazio Roma	0:0	3:2	13.05.2017	18:00	2016	2017	36
+Atalanta	AC Milan	1:0	1:1	13.05.2017	20:45	2016	2017	36
+Inter	Sassuolo Calcio	0:1	1:2	14.05.2017	12:30	2016	2017	36
+Sampdoria	Chievo Verona	1:0	1:1	14.05.2017	15:00	2016	2017	36
+Cagliari Calcio	Empoli FC	3:0	3:2	14.05.2017	15:00	2016	2017	36
+US Palermo	Genoa CFC	1:0	1:0	14.05.2017	15:00	2016	2017	36
+Torino FC	SSC Napoli	0:1	0:5	14.05.2017	15:00	2016	2017	36
+Bologna FC	Pescara Calcio	1:1	3:1	14.05.2017	15:00	2016	2017	36
+FC Crotone	Udinese Calcio	1:0	1:0	14.05.2017	15:00	2016	2017	36
+AS Roma	Juventus	1:1	3:1	14.05.2017	20:45	2016	2017	36
+Chievo Verona	AS Roma	2:2	3:5	20.05.2017	18:00	2016	2017	37
+SSC Napoli	ACF Fiorentina	2:0	4:1	20.05.2017	20:45	2016	2017	37
+Empoli FC	Atalanta	0:1	0:1	21.05.2017	15:00	2016	2017	37
+AC Milan	Bologna FC	0:0	3:0	21.05.2017	15:00	2016	2017	37
+Sassuolo Calcio	Cagliari Calcio	4:1	6:2	21.05.2017	15:00	2016	2017	37
+Juventus	FC Crotone	2:0	3:0	21.05.2017	15:00	2016	2017	37
+Udinese Calcio	Sampdoria	1:0	1:1	21.05.2017	15:00	2016	2017	37
+Genoa CFC	Torino FC	1:0	2:1	21.05.2017	15:00	2016	2017	37
+Lazio Roma	Inter	1:2	1:3	21.05.2017	20:45	2016	2017	37
+Pescara Calcio	US Palermo	1:0	2:0	22.05.2017	20:45	2016	2017	37
+Atalanta	Chievo Verona	0:0	1:0	27.05.2017	18:00	2016	2017	38
+Bologna FC	Juventus	0:0	1:2	27.05.2017	18:00	2016	2017	38
+Cagliari Calcio	AC Milan	1:0	2:1	28.05.2017	15:00	2016	2017	38
+AS Roma	Genoa CFC	1:1	3:2	28.05.2017	18:00	2016	2017	38
+Sampdoria	SSC Napoli	0:2	2:4	28.05.2017	18:00	2016	2017	38
+US Palermo	Empoli FC	0:0	2:1	28.05.2017	20:45	2016	2017	38
+FC Crotone	Lazio Roma	2:1	3:1	28.05.2017	20:45	2016	2017	38
+ACF Fiorentina	Pescara Calcio	0:1	2:2	28.05.2017	20:45	2016	2017	38
+Torino FC	Sassuolo Calcio	3:2	5:3	28.05.2017	20:45	2016	2017	38
+Inter	Udinese Calcio	3:0	5:2	28.05.2017	20:45	2016	2017	38

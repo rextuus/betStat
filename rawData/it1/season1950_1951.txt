@@ -1,0 +1,380 @@
+SSC Napoli	ACF Fiorentina	0:0	3:2	01.01.2000	00:00	1950	1951	1
+Aurora Pro Patria	Juventus	0:0	0:7	01.01.2000	00:00	1950	1951	1
+US Palermo	Atalanta	0:0	2:0	01.01.2000	00:00	1950	1951	1
+Novara Calcio	Sampdoria	0:0	3:0	01.01.2000	00:00	1950	1951	1
+AC Milan	Udinese Calcio	0:0	6:2	01.01.2000	00:00	1950	1951	1
+Lazio Roma	Inter	0:0	3:3	01.01.2000	00:00	1950	1951	1
+Genoa CFC	Lucchese	0:0	2:1	01.01.2000	00:00	1950	1951	1
+Bologna FC	AS Roma	0:0	3:1	01.01.2000	00:00	1950	1951	1
+Torino FC	Calcio Padova	0:0	2:1	01.01.2000	00:00	1950	1951	1
+Calcio Como	Unione Triestina	0:0	3:1	01.01.2000	00:00	1950	1951	1
+Novara Calcio	Bologna FC	0:0	1:2	01.01.2000	00:00	1950	1951	2
+Udinese Calcio	Genoa CFC	0:0	1:0	01.01.2000	00:00	1950	1951	2
+Sampdoria	AC Milan	0:0	1:2	01.01.2000	00:00	1950	1951	2
+AS Roma	US Palermo	0:0	1:2	01.01.2000	00:00	1950	1951	2
+Calcio Padova	Lazio Roma	0:0	2:0	01.01.2000	00:00	1950	1951	2
+Juventus	Unione Triestina	0:0	2:2	01.01.2000	00:00	1950	1951	2
+Inter	Calcio Como	0:0	4:2	01.01.2000	00:00	1950	1951	2
+Atalanta	SSC Napoli	0:0	2:2	01.01.2000	00:00	1950	1951	2
+ACF Fiorentina	Torino FC	0:0	3:3	01.01.2000	00:00	1950	1951	2
+Lucchese	Aurora Pro Patria	0:0	0:0	01.01.2000	00:00	1950	1951	2
+Lucchese	Juventus	0:0	0:1	01.01.2000	00:00	1950	1951	3
+Unione Triestina	AS Roma	0:0	4:2	01.01.2000	00:00	1950	1951	3
+Torino FC	Sampdoria	0:0	3:1	01.01.2000	00:00	1950	1951	3
+US Palermo	Udinese Calcio	0:0	1:0	01.01.2000	00:00	1950	1951	3
+AC Milan	Novara Calcio	0:0	9:2	01.01.2000	00:00	1950	1951	3
+Lazio Roma	Aurora Pro Patria	0:0	4:2	01.01.2000	00:00	1950	1951	3
+Genoa CFC	Atalanta	0:0	0:2	01.01.2000	00:00	1950	1951	3
+Calcio Como	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1950	1951	3
+Bologna FC	SSC Napoli	0:0	2:0	01.01.2000	00:00	1950	1951	3
+Calcio Padova	Inter	0:0	2:3	01.01.2000	00:00	1950	1951	3
+Aurora Pro Patria	Atalanta	0:0	2:0	01.01.2000	00:00	1950	1951	4
+Udinese Calcio	Novara Calcio	0:0	2:1	01.01.2000	00:00	1950	1951	4
+Torino FC	Lazio Roma	0:0	0:1	01.01.2000	00:00	1950	1951	4
+Sampdoria	Juventus	0:0	1:1	01.01.2000	00:00	1950	1951	4
+AS Roma	Calcio Padova	0:0	5:0	01.01.2000	00:00	1950	1951	4
+Inter	Unione Triestina	0:0	2:0	01.01.2000	00:00	1950	1951	4
+ACF Fiorentina	Lucchese	0:0	3:1	01.01.2000	00:00	1950	1951	4
+Calcio Como	Genoa CFC	0:0	3:2	01.01.2000	00:00	1950	1951	4
+Bologna FC	US Palermo	0:0	2:0	01.01.2000	00:00	1950	1951	4
+SSC Napoli	AC Milan	0:0	3:5	01.01.2000	00:00	1950	1951	4
+Lazio Roma	Udinese Calcio	0:0	3:2	01.01.2000	00:00	1950	1951	5
+Unione Triestina	Torino FC	0:0	2:0	01.01.2000	00:00	1950	1951	5
+US Palermo	AC Milan	0:0	0:2	01.01.2000	00:00	1950	1951	5
+Calcio Padova	Aurora Pro Patria	0:0	3:1	01.01.2000	00:00	1950	1951	5
+Lucchese	Bologna FC	0:0	0:1	01.01.2000	00:00	1950	1951	5
+Juventus	AS Roma	0:0	7:2	01.01.2000	00:00	1950	1951	5
+Inter	SSC Napoli	0:0	4:3	01.01.2000	00:00	1950	1951	5
+Genoa CFC	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1950	1951	5
+Atalanta	Sampdoria	0:0	0:0	01.01.2000	00:00	1950	1951	5
+Novara Calcio	Calcio Como	0:0	1:1	01.01.2000	00:00	1950	1951	5
+US Palermo	Novara Calcio	0:0	3:2	01.01.2000	00:00	1950	1951	6
+Torino FC	Calcio Como	0:0	2:2	01.01.2000	00:00	1950	1951	6
+Sampdoria	Unione Triestina	0:0	3:1	01.01.2000	00:00	1950	1951	6
+Udinese Calcio	Atalanta	0:0	2:1	01.01.2000	00:00	1950	1951	6
+Aurora Pro Patria	Inter	0:0	2:0	01.01.2000	00:00	1950	1951	6
+AC Milan	Lucchese	0:0	2:0	01.01.2000	00:00	1950	1951	6
+ACF Fiorentina	Juventus	0:0	1:2	01.01.2000	00:00	1950	1951	6
+Bologna FC	Calcio Padova	0:0	2:2	01.01.2000	00:00	1950	1951	6
+AS Roma	Lazio Roma	0:0	0:1	01.01.2000	00:00	1950	1951	6
+SSC Napoli	Genoa CFC	0:0	1:1	01.01.2000	00:00	1950	1951	6
+Juventus	AC Milan	0:0	1:1	01.01.2000	00:00	1950	1951	7
+Unione Triestina	Udinese Calcio	0:0	0:0	01.01.2000	00:00	1950	1951	7
+Calcio Padova	ACF Fiorentina	0:0	3:0	01.01.2000	00:00	1950	1951	7
+Novara Calcio	Aurora Pro Patria	0:0	3:0	01.01.2000	00:00	1950	1951	7
+Lazio Roma	Sampdoria	0:0	2:2	01.01.2000	00:00	1950	1951	7
+Inter	AS Roma	0:0	6:0	01.01.2000	00:00	1950	1951	7
+Genoa CFC	US Palermo	0:0	0:0	01.01.2000	00:00	1950	1951	7
+Calcio Como	Bologna FC	0:0	2:1	01.01.2000	00:00	1950	1951	7
+Atalanta	Torino FC	0:0	1:1	01.01.2000	00:00	1950	1951	7
+Lucchese	SSC Napoli	0:0	1:0	01.01.2000	00:00	1950	1951	7
+Aurora Pro Patria	Unione Triestina	0:0	2:2	01.01.2000	00:00	1950	1951	8
+Udinese Calcio	Inter	0:0	1:3	01.01.2000	00:00	1950	1951	8
+Torino FC	US Palermo	0:0	2:1	01.01.2000	00:00	1950	1951	8
+Sampdoria	Calcio Padova	0:0	1:2	01.01.2000	00:00	1950	1951	8
+SSC Napoli	Calcio Como	0:0	7:0	01.01.2000	00:00	1950	1951	8
+AC Milan	Genoa CFC	0:0	4:0	01.01.2000	00:00	1950	1951	8
+Lucchese	Lazio Roma	0:0	1:1	01.01.2000	00:00	1950	1951	8
+ACF Fiorentina	Atalanta	0:0	1:0	01.01.2000	00:00	1950	1951	8
+Bologna FC	Juventus	0:0	0:5	01.01.2000	00:00	1950	1951	8
+AS Roma	Novara Calcio	0:0	0:0	01.01.2000	00:00	1950	1951	8
+Inter	Sampdoria	0:0	5:1	01.01.2000	00:00	1950	1951	9
+US Palermo	Aurora Pro Patria	0:0	8:0	01.01.2000	00:00	1950	1951	9
+Calcio Padova	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1950	1951	9
+Novara Calcio	Torino FC	0:0	3:2	01.01.2000	00:00	1950	1951	9
+Juventus	SSC Napoli	0:0	3:2	01.01.2000	00:00	1950	1951	9
+Unione Triestina	Lucchese	0:0	0:0	01.01.2000	00:00	1950	1951	9
+Genoa CFC	AS Roma	0:0	2:2	01.01.2000	00:00	1950	1951	9
+Calcio Como	AC Milan	0:0	2:2	01.01.2000	00:00	1950	1951	9
+Atalanta	Bologna FC	0:0	2:0	01.01.2000	00:00	1950	1951	9
+Lazio Roma	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1950	1951	9
+Aurora Pro Patria	Genoa CFC	0:0	5:2	01.01.2000	00:00	1950	1951	10
+Torino FC	Juventus	0:0	1:4	01.01.2000	00:00	1950	1951	10
+Sampdoria	Lucchese	0:0	3:1	01.01.2000	00:00	1950	1951	10
+AS Roma	Calcio Como	0:0	2:0	01.01.2000	00:00	1950	1951	10
+US Palermo	Calcio Padova	0:0	3:1	01.01.2000	00:00	1950	1951	10
+SSC Napoli	Novara Calcio	0:0	3:0	01.01.2000	00:00	1950	1951	10
+AC Milan	Inter	0:0	2:3	01.01.2000	00:00	1950	1951	10
+Atalanta	Lazio Roma	0:0	1:0	01.01.2000	00:00	1950	1951	10
+Udinese Calcio	Bologna FC	0:0	2:1	01.01.2000	00:00	1950	1951	10
+ACF Fiorentina	Unione Triestina	0:0	3:1	01.01.2000	00:00	1950	1951	10
+Calcio Padova	AC Milan	0:0	1:2	01.01.2000	00:00	1950	1951	11
+Unione Triestina	Atalanta	0:0	2:1	01.01.2000	00:00	1950	1951	11
+Torino FC	Genoa CFC	0:0	2:1	01.01.2000	00:00	1950	1951	11
+Sampdoria	ACF Fiorentina	0:0	0:0	01.01.2000	00:00	1950	1951	11
+AS Roma	SSC Napoli	0:0	0:0	01.01.2000	00:00	1950	1951	11
+Lucchese	Udinese Calcio	0:0	0:1	01.01.2000	00:00	1950	1951	11
+Inter	US Palermo	0:0	3:1	01.01.2000	00:00	1950	1951	11
+Bologna FC	Aurora Pro Patria	0:0	5:2	01.01.2000	00:00	1950	1951	11
+Calcio Como	Juventus	0:0	1:0	01.01.2000	00:00	1950	1951	11
+Novara Calcio	Lazio Roma	0:0	4:2	01.01.2000	00:00	1950	1951	11
+Lazio Roma	Unione Triestina	0:0	2:0	01.01.2000	00:00	1950	1951	12
+Udinese Calcio	Calcio Como	0:0	1:1	01.01.2000	00:00	1950	1951	12
+Aurora Pro Patria	AS Roma	0:0	3:1	01.01.2000	00:00	1950	1951	12
+SSC Napoli	Sampdoria	0:0	4:0	01.01.2000	00:00	1950	1951	12
+Lucchese	Torino FC	0:0	2:0	01.01.2000	00:00	1950	1951	12
+Juventus	US Palermo	0:0	4:1	01.01.2000	00:00	1950	1951	12
+Genoa CFC	Novara Calcio	0:0	3:0	01.01.2000	00:00	1950	1951	12
+ACF Fiorentina	Inter	0:0	1:2	01.01.2000	00:00	1950	1951	12
+Atalanta	Calcio Padova	0:0	3:1	01.01.2000	00:00	1950	1951	12
+AC Milan	Bologna FC	0:0	1:2	01.01.2000	00:00	1950	1951	12
+Unione Triestina	AC Milan	0:0	3:4	01.01.2000	00:00	1950	1951	13
+Torino FC	Udinese Calcio	0:0	3:3	01.01.2000	00:00	1950	1951	13
+US Palermo	Lazio Roma	0:0	2:1	01.01.2000	00:00	1950	1951	13
+Sampdoria	Genoa CFC	0:0	2:1	01.01.2000	00:00	1950	1951	13
+AS Roma	Atalanta	0:0	3:3	01.01.2000	00:00	1950	1951	13
+SSC Napoli	Aurora Pro Patria	0:0	1:1	01.01.2000	00:00	1950	1951	13
+Inter	Juventus	0:0	3:0	01.01.2000	00:00	1950	1951	13
+Bologna FC	ACF Fiorentina	0:0	0:1	01.01.2000	00:00	1950	1951	13
+Calcio Como	Calcio Padova	0:0	1:0	01.01.2000	00:00	1950	1951	13
+Novara Calcio	Lucchese	0:0	3:3	01.01.2000	00:00	1950	1951	13
+Lucchese	AS Roma	0:0	1:0	01.01.2000	00:00	1950	1951	14
+Udinese Calcio	Sampdoria	0:0	3:0	01.01.2000	00:00	1950	1951	14
+Aurora Pro Patria	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1950	1951	14
+US Palermo	Calcio Como	0:0	3:0	01.01.2000	00:00	1950	1951	14
+AC Milan	Torino FC	0:0	3:0	01.01.2000	00:00	1950	1951	14
+Lazio Roma	SSC Napoli	0:0	3:1	01.01.2000	00:00	1950	1951	14
+Juventus	Novara Calcio	0:0	4:0	01.01.2000	00:00	1950	1951	14
+Genoa CFC	Bologna FC	0:0	1:2	01.01.2000	00:00	1950	1951	14
+Atalanta	Inter	0:0	3:3	01.01.2000	00:00	1950	1951	14
+Calcio Padova	Unione Triestina	0:0	2:0	01.01.2000	00:00	1950	1951	14
+AC Milan	Aurora Pro Patria	0:0	2:0	01.01.2000	00:00	1950	1951	15
+Unione Triestina	US Palermo	0:0	4:2	01.01.2000	00:00	1950	1951	15
+Torino FC	SSC Napoli	0:0	0:0	01.01.2000	00:00	1950	1951	15
+Udinese Calcio	Juventus	0:0	0:3	01.01.2000	00:00	1950	1951	15
+Calcio Padova	Lucchese	0:0	2:1	01.01.2000	00:00	1950	1951	15
+ACF Fiorentina	Novara Calcio	0:0	2:1	01.01.2000	00:00	1950	1951	15
+Calcio Como	Atalanta	0:0	1:0	01.01.2000	00:00	1950	1951	15
+Bologna FC	Inter	0:0	1:1	01.01.2000	00:00	1950	1951	15
+Sampdoria	AS Roma	0:0	1:0	01.01.2000	00:00	1950	1951	15
+Lazio Roma	Genoa CFC	0:0	3:1	01.01.2000	00:00	1950	1951	15
+Inter	Lucchese	0:0	2:1	01.01.2000	00:00	1950	1951	16
+Torino FC	Bologna FC	0:0	1:1	01.01.2000	00:00	1950	1951	16
+AS Roma	Udinese Calcio	0:0	4:1	01.01.2000	00:00	1950	1951	16
+Aurora Pro Patria	Sampdoria	0:0	1:1	01.01.2000	00:00	1950	1951	16
+SSC Napoli	Unione Triestina	0:0	2:1	01.01.2000	00:00	1950	1951	16
+Genoa CFC	Juventus	0:0	0:3	01.01.2000	00:00	1950	1951	16
+ACF Fiorentina	US Palermo	0:0	1:0	01.01.2000	00:00	1950	1951	16
+Calcio Como	Lazio Roma	0:0	2:1	01.01.2000	00:00	1950	1951	16
+Atalanta	AC Milan	0:0	4:7	01.01.2000	00:00	1950	1951	16
+Novara Calcio	Calcio Padova	0:0	2:1	01.01.2000	00:00	1950	1951	16
+Novara Calcio	Inter	0:0	0:1	01.01.2000	00:00	1950	1951	17
+Sampdoria	Calcio Como	0:0	2:1	01.01.2000	00:00	1950	1951	17
+AS Roma	Torino FC	0:0	1:0	01.01.2000	00:00	1950	1951	17
+Aurora Pro Patria	Udinese Calcio	0:0	2:1	01.01.2000	00:00	1950	1951	17
+Unione Triestina	Bologna FC	0:0	2:1	01.01.2000	00:00	1950	1951	17
+AC Milan	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1950	1951	17
+Lucchese	Atalanta	0:0	2:1	01.01.2000	00:00	1950	1951	17
+Juventus	Lazio Roma	0:0	1:1	01.01.2000	00:00	1950	1951	17
+Calcio Padova	Genoa CFC	0:0	4:0	01.01.2000	00:00	1950	1951	17
+US Palermo	SSC Napoli	0:0	0:1	01.01.2000	00:00	1950	1951	17
+ACF Fiorentina	AS Roma	0:0	1:0	01.01.2000	00:00	1950	1951	18
+Lucchese	US Palermo	0:0	0:0	01.01.2000	00:00	1950	1951	18
+Lazio Roma	AC Milan	0:0	1:1	01.01.2000	00:00	1950	1951	18
+Juventus	Calcio Padova	0:0	5:1	01.01.2000	00:00	1950	1951	18
+Genoa CFC	Unione Triestina	0:0	3:2	01.01.2000	00:00	1950	1951	18
+Udinese Calcio	SSC Napoli	0:0	0:1	01.01.2000	00:00	1950	1951	18
+Calcio Como	Aurora Pro Patria	0:0	2:1	01.01.2000	00:00	1950	1951	18
+Bologna FC	Sampdoria	0:0	0:0	01.01.2000	00:00	1950	1951	18
+Atalanta	Novara Calcio	0:0	3:0	01.01.2000	00:00	1950	1951	18
+Inter	Torino FC	0:0	3:1	01.01.2000	00:00	1950	1951	18
+AC Milan	AS Roma	0:0	2:0	01.01.2000	00:00	1950	1951	19
+US Palermo	Sampdoria	0:0	4:1	01.01.2000	00:00	1950	1951	19
+Novara Calcio	Unione Triestina	0:0	4:1	01.01.2000	00:00	1950	1951	19
+SSC Napoli	Calcio Padova	0:0	1:0	01.01.2000	00:00	1950	1951	19
+Lazio Roma	Bologna FC	0:0	1:0	01.01.2000	00:00	1950	1951	19
+Genoa CFC	Inter	0:0	2:2	01.01.2000	00:00	1950	1951	19
+ACF Fiorentina	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1950	1951	19
+Atalanta	Juventus	0:0	1:5	01.01.2000	00:00	1950	1951	19
+Torino FC	Aurora Pro Patria	0:0	1:0	01.01.2000	00:00	1950	1951	19
+Calcio Como	Lucchese	0:0	5:0	01.01.2000	00:00	1950	1951	19
+Calcio Padova	Torino FC	0:0	2:2	01.01.2000	00:00	1950	1951	20
+Udinese Calcio	AC Milan	0:0	0:0	01.01.2000	00:00	1950	1951	20
+Unione Triestina	Calcio Como	0:0	1:0	01.01.2000	00:00	1950	1951	20
+Sampdoria	Novara Calcio	0:0	1:1	01.01.2000	00:00	1950	1951	20
+AS Roma	Bologna FC	0:0	2:2	01.01.2000	00:00	1950	1951	20
+Juventus	Aurora Pro Patria	0:0	2:1	01.01.2000	00:00	1950	1951	20
+Inter	Lazio Roma	0:0	0:0	01.01.2000	00:00	1950	1951	20
+Atalanta	US Palermo	0:0	3:2	01.01.2000	00:00	1950	1951	20
+ACF Fiorentina	SSC Napoli	0:0	2:0	01.01.2000	00:00	1950	1951	20
+Lucchese	Genoa CFC	0:0	0:0	01.01.2000	00:00	1950	1951	20
+AC Milan	Sampdoria	0:0	2:0	01.01.2000	00:00	1950	1951	21
+Unione Triestina	Juventus	0:0	2:2	01.01.2000	00:00	1950	1951	21
+Torino FC	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1950	1951	21
+Aurora Pro Patria	Lucchese	0:0	2:2	01.01.2000	00:00	1950	1951	21
+SSC Napoli	Atalanta	0:0	0:0	01.01.2000	00:00	1950	1951	21
+Lazio Roma	Calcio Padova	0:0	4:0	01.01.2000	00:00	1950	1951	21
+Genoa CFC	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1950	1951	21
+Calcio Como	Inter	0:0	3:1	01.01.2000	00:00	1950	1951	21
+Bologna FC	Novara Calcio	0:0	1:0	01.01.2000	00:00	1950	1951	21
+US Palermo	AS Roma	0:0	3:0	01.01.2000	00:00	1950	1951	21
+Udinese Calcio	US Palermo	0:0	0:0	01.01.2000	00:00	1950	1951	22
+Sampdoria	Torino FC	0:0	2:1	01.01.2000	00:00	1950	1951	22
+Novara Calcio	AC Milan	0:0	1:3	01.01.2000	00:00	1950	1951	22
+AS Roma	Unione Triestina	0:0	5:0	01.01.2000	00:00	1950	1951	22
+Aurora Pro Patria	Lazio Roma	0:0	1:0	01.01.2000	00:00	1950	1951	22
+Juventus	Lucchese	0:0	1:0	01.01.2000	00:00	1950	1951	22
+Inter	Calcio Padova	0:0	5:1	01.01.2000	00:00	1950	1951	22
+Atalanta	Genoa CFC	0:0	2:1	01.01.2000	00:00	1950	1951	22
+ACF Fiorentina	Calcio Como	0:0	3:0	01.01.2000	00:00	1950	1951	22
+SSC Napoli	Bologna FC	0:0	4:1	01.01.2000	00:00	1950	1951	22
+Lucchese	ACF Fiorentina	0:0	0:2	01.01.2000	00:00	1950	1951	23
+Unione Triestina	Inter	0:0	2:1	01.01.2000	00:00	1950	1951	23
+US Palermo	Bologna FC	0:0	1:1	01.01.2000	00:00	1950	1951	23
+Calcio Padova	AS Roma	0:0	3:1	01.01.2000	00:00	1950	1951	23
+AC Milan	SSC Napoli	0:0	2:1	01.01.2000	00:00	1950	1951	23
+Lazio Roma	Torino FC	0:0	3:0	01.01.2000	00:00	1950	1951	23
+Juventus	Sampdoria	0:0	7:2	01.01.2000	00:00	1950	1951	23
+Genoa CFC	Calcio Como	0:0	3:2	01.01.2000	00:00	1950	1951	23
+Atalanta	Aurora Pro Patria	0:0	1:0	01.01.2000	00:00	1950	1951	23
+Novara Calcio	Udinese Calcio	0:0	2:0	01.01.2000	00:00	1950	1951	23
+SSC Napoli	Inter	0:0	0:4	01.01.2000	00:00	1950	1951	24
+Torino FC	Unione Triestina	0:0	1:0	01.01.2000	00:00	1950	1951	24
+Sampdoria	Atalanta	0:0	2:1	01.01.2000	00:00	1950	1951	24
+Udinese Calcio	Lazio Roma	0:0	2:3	01.01.2000	00:00	1950	1951	24
+Aurora Pro Patria	Calcio Padova	0:0	1:0	01.01.2000	00:00	1950	1951	24
+ACF Fiorentina	Genoa CFC	0:0	1:0	01.01.2000	00:00	1950	1951	24
+Calcio Como	Novara Calcio	0:0	2:1	01.01.2000	00:00	1950	1951	24
+Bologna FC	Lucchese	0:0	2:0	01.01.2000	00:00	1950	1951	24
+AS Roma	Juventus	0:0	3:0	01.01.2000	00:00	1950	1951	24
+AC Milan	US Palermo	0:0	9:0	01.01.2000	00:00	1950	1951	24
+Juventus	ACF Fiorentina	0:0	5:0	01.01.2000	00:00	1950	1951	25
+Unione Triestina	Sampdoria	0:0	2:1	01.01.2000	00:00	1950	1951	25
+Calcio Padova	Bologna FC	0:0	0:2	01.01.2000	00:00	1950	1951	25
+Novara Calcio	US Palermo	0:0	3:0	01.01.2000	00:00	1950	1951	25
+Lazio Roma	AS Roma	0:0	2:1	01.01.2000	00:00	1950	1951	25
+Inter	Aurora Pro Patria	0:0	6:0	01.01.2000	00:00	1950	1951	25
+Genoa CFC	SSC Napoli	0:0	1:2	01.01.2000	00:00	1950	1951	25
+Calcio Como	Torino FC	0:0	4:2	01.01.2000	00:00	1950	1951	25
+Atalanta	Udinese Calcio	0:0	0:0	01.01.2000	00:00	1950	1951	25
+Lucchese	AC Milan	0:0	1:5	01.01.2000	00:00	1950	1951	25
+SSC Napoli	Lucchese	0:0	1:0	01.01.2000	00:00	1950	1951	26
+Torino FC	Atalanta	0:0	1:1	01.01.2000	00:00	1950	1951	26
+Sampdoria	Lazio Roma	0:0	1:1	01.01.2000	00:00	1950	1951	26
+AS Roma	Inter	0:0	0:1	01.01.2000	00:00	1950	1951	26
+Udinese Calcio	Unione Triestina	0:0	1:1	01.01.2000	00:00	1950	1951	26
+AC Milan	Juventus	0:0	2:0	01.01.2000	00:00	1950	1951	26
+ACF Fiorentina	Calcio Padova	0:0	4:1	01.01.2000	00:00	1950	1951	26
+Bologna FC	Calcio Como	0:0	0:2	01.01.2000	00:00	1950	1951	26
+Aurora Pro Patria	Novara Calcio	0:0	2:1	01.01.2000	00:00	1950	1951	26
+US Palermo	Genoa CFC	0:0	4:1	01.01.2000	00:00	1950	1951	26
+Juventus	Bologna FC	0:0	1:1	01.01.2000	00:00	1950	1951	27
+Unione Triestina	Aurora Pro Patria	0:0	3:1	01.01.2000	00:00	1950	1951	27
+US Palermo	Torino FC	0:0	1:1	01.01.2000	00:00	1950	1951	27
+Calcio Padova	Sampdoria	0:0	2:1	01.01.2000	00:00	1950	1951	27
+Lazio Roma	Lucchese	0:0	2:0	01.01.2000	00:00	1950	1951	27
+Inter	Udinese Calcio	0:0	6:1	01.01.2000	00:00	1950	1951	27
+Genoa CFC	AC Milan	0:0	0:3	01.01.2000	00:00	1950	1951	27
+Calcio Como	SSC Napoli	0:0	1:2	01.01.2000	00:00	1950	1951	27
+Atalanta	ACF Fiorentina	0:0	0:2	01.01.2000	00:00	1950	1951	27
+Novara Calcio	AS Roma	0:0	1:0	01.01.2000	00:00	1950	1951	27
+SSC Napoli	Juventus	0:0	1:1	01.01.2000	00:00	1950	1951	28
+Aurora Pro Patria	US Palermo	0:0	2:1	01.01.2000	00:00	1950	1951	28
+Udinese Calcio	Calcio Padova	0:0	2:0	01.01.2000	00:00	1950	1951	28
+Torino FC	Novara Calcio	0:0	2:1	01.01.2000	00:00	1950	1951	28
+Sampdoria	Inter	0:0	0:4	01.01.2000	00:00	1950	1951	28
+Bologna FC	Atalanta	0:0	3:2	01.01.2000	00:00	1950	1951	28
+AC Milan	Calcio Como	0:0	7:2	01.01.2000	00:00	1950	1951	28
+Lucchese	Unione Triestina	0:0	2:0	01.01.2000	00:00	1950	1951	28
+ACF Fiorentina	Lazio Roma	0:0	1:0	01.01.2000	00:00	1950	1951	28
+AS Roma	Genoa CFC	0:0	0:1	01.01.2000	00:00	1950	1951	28
+Juventus	Torino FC	0:0	5:1	01.01.2000	00:00	1950	1951	29
+Unione Triestina	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1950	1951	29
+Calcio Padova	US Palermo	0:0	1:0	01.01.2000	00:00	1950	1951	29
+Novara Calcio	SSC Napoli	0:0	6:0	01.01.2000	00:00	1950	1951	29
+Lazio Roma	Atalanta	0:0	5:0	01.01.2000	00:00	1950	1951	29
+Inter	AC Milan	0:0	0:1	01.01.2000	00:00	1950	1951	29
+Genoa CFC	Aurora Pro Patria	0:0	1:0	01.01.2000	00:00	1950	1951	29
+Calcio Como	AS Roma	0:0	1:0	01.01.2000	00:00	1950	1951	29
+Bologna FC	Udinese Calcio	0:0	5:2	01.01.2000	00:00	1950	1951	29
+Lucchese	Sampdoria	0:0	4:0	01.01.2000	00:00	1950	1951	29
+Aurora Pro Patria	Bologna FC	0:0	2:0	01.01.2000	00:00	1950	1951	30
+Udinese Calcio	Lucchese	0:0	2:1	01.01.2000	00:00	1950	1951	30
+AC Milan	Calcio Padova	0:0	3:1	01.01.2000	00:00	1950	1951	30
+US Palermo	Inter	0:0	0:3	01.01.2000	00:00	1950	1951	30
+SSC Napoli	AS Roma	0:0	0:0	01.01.2000	00:00	1950	1951	30
+Juventus	Calcio Como	0:0	0:3	01.01.2000	00:00	1950	1951	30
+Genoa CFC	Torino FC	0:0	1:0	01.01.2000	00:00	1950	1951	30
+ACF Fiorentina	Sampdoria	0:0	3:0	01.01.2000	00:00	1950	1951	30
+Atalanta	Unione Triestina	0:0	1:0	01.01.2000	00:00	1950	1951	30
+Lazio Roma	Novara Calcio	0:0	0:0	01.01.2000	00:00	1950	1951	30
+Calcio Padova	Atalanta	0:0	0:0	01.01.2000	00:00	1950	1951	31
+Unione Triestina	Lazio Roma	0:0	1:3	01.01.2000	00:00	1950	1951	31
+Torino FC	Lucchese	0:0	2:0	01.01.2000	00:00	1950	1951	31
+Sampdoria	SSC Napoli	0:0	3:1	01.01.2000	00:00	1950	1951	31
+US Palermo	Juventus	0:0	1:5	01.01.2000	00:00	1950	1951	31
+Novara Calcio	Genoa CFC	0:0	1:0	01.01.2000	00:00	1950	1951	31
+Inter	ACF Fiorentina	0:0	2:0	01.01.2000	00:00	1950	1951	31
+Calcio Como	Udinese Calcio	0:0	0:2	01.01.2000	00:00	1950	1951	31
+Bologna FC	AC Milan	0:0	0:0	01.01.2000	00:00	1950	1951	31
+AS Roma	Aurora Pro Patria	0:0	2:0	01.01.2000	00:00	1950	1951	31
+Aurora Pro Patria	SSC Napoli	0:0	1:3	01.01.2000	00:00	1950	1951	32
+Lucchese	Novara Calcio	0:0	2:2	01.01.2000	00:00	1950	1951	32
+Udinese Calcio	Torino FC	0:0	3:1	01.01.2000	00:00	1950	1951	32
+Calcio Padova	Calcio Como	0:0	3:1	01.01.2000	00:00	1950	1951	32
+AC Milan	Unione Triestina	0:0	2:0	01.01.2000	00:00	1950	1951	32
+Juventus	Inter	0:0	0:2	01.01.2000	00:00	1950	1951	32
+Genoa CFC	Sampdoria	0:0	2:3	01.01.2000	00:00	1950	1951	32
+ACF Fiorentina	Bologna FC	0:0	2:1	01.01.2000	00:00	1950	1951	32
+Atalanta	AS Roma	0:0	0:0	01.01.2000	00:00	1950	1951	32
+Lazio Roma	US Palermo	0:0	3:3	01.01.2000	00:00	1950	1951	32
+Torino FC	AC Milan	0:0	0:4	01.01.2000	00:00	1950	1951	33
+Bologna FC	Genoa CFC	0:0	3:3	01.01.2000	00:00	1950	1951	33
+Unione Triestina	Calcio Padova	0:0	0:0	01.01.2000	00:00	1950	1951	33
+Sampdoria	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1950	1951	33
+AS Roma	Lucchese	0:0	0:1	01.01.2000	00:00	1950	1951	33
+SSC Napoli	Lazio Roma	0:0	0:0	01.01.2000	00:00	1950	1951	33
+Inter	Atalanta	0:0	3:1	01.01.2000	00:00	1950	1951	33
+ACF Fiorentina	Aurora Pro Patria	0:0	3:0	01.01.2000	00:00	1950	1951	33
+Calcio Como	US Palermo	0:0	2:1	01.01.2000	00:00	1950	1951	33
+Novara Calcio	Juventus	0:0	3:1	01.01.2000	00:00	1950	1951	33
+Juventus	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1950	1951	34
+AS Roma	Sampdoria	0:0	5:0	01.01.2000	00:00	1950	1951	34
+Aurora Pro Patria	AC Milan	0:0	0:0	01.01.2000	00:00	1950	1951	34
+US Palermo	Unione Triestina	0:0	6:0	01.01.2000	00:00	1950	1951	34
+Novara Calcio	ACF Fiorentina	0:0	0:1	01.01.2000	00:00	1950	1951	34
+Atalanta	Calcio Como	0:0	2:1	01.01.2000	00:00	1950	1951	34
+Lucchese	Calcio Padova	0:0	3:2	01.01.2000	00:00	1950	1951	34
+Inter	Bologna FC	0:0	3:1	01.01.2000	00:00	1950	1951	34
+Genoa CFC	Lazio Roma	0:0	3:0	01.01.2000	00:00	1950	1951	34
+SSC Napoli	Torino FC	0:0	1:1	01.01.2000	00:00	1950	1951	34
+Lazio Roma	Calcio Como	0:0	2:0	01.01.2000	00:00	1950	1951	35
+Bologna FC	Torino FC	0:0	2:1	01.01.2000	00:00	1950	1951	35
+Lucchese	Inter	0:0	3:2	01.01.2000	00:00	1950	1951	35
+AC Milan	Atalanta	0:0	3:3	01.01.2000	00:00	1950	1951	35
+Calcio Padova	Novara Calcio	0:0	1:2	01.01.2000	00:00	1950	1951	35
+US Palermo	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1950	1951	35
+Sampdoria	Aurora Pro Patria	0:0	2:0	01.01.2000	00:00	1950	1951	35
+Unione Triestina	SSC Napoli	0:0	1:1	01.01.2000	00:00	1950	1951	35
+Udinese Calcio	AS Roma	0:0	1:0	01.01.2000	00:00	1950	1951	35
+Juventus	Genoa CFC	0:0	4:1	01.01.2000	00:00	1950	1951	35
+ACF Fiorentina	AC Milan	0:0	1:1	01.01.2000	00:00	1950	1951	36
+Udinese Calcio	Aurora Pro Patria	0:0	0:3	01.01.2000	00:00	1950	1951	36
+Torino FC	AS Roma	0:0	0:0	01.01.2000	00:00	1950	1951	36
+SSC Napoli	US Palermo	0:0	3:0	01.01.2000	00:00	1950	1951	36
+Lazio Roma	Juventus	0:0	0:3	01.01.2000	00:00	1950	1951	36
+Genoa CFC	Calcio Padova	0:0	3:1	01.01.2000	00:00	1950	1951	36
+Calcio Como	Sampdoria	0:0	2:0	01.01.2000	00:00	1950	1951	36
+Bologna FC	Unione Triestina	0:0	1:0	01.01.2000	00:00	1950	1951	36
+Atalanta	Lucchese	0:0	0:5	01.01.2000	00:00	1950	1951	36
+Inter	Novara Calcio	0:0	5:0	01.01.2000	00:00	1950	1951	36
+AS Roma	ACF Fiorentina	0:0	3:0	01.01.2000	00:00	1950	1951	37
+Calcio Padova	Juventus	0:0	0:1	01.01.2000	00:00	1950	1951	37
+Unione Triestina	Genoa CFC	0:0	0:0	01.01.2000	00:00	1950	1951	37
+Torino FC	Inter	0:0	2:1	01.01.2000	00:00	1950	1951	37
+Sampdoria	Bologna FC	0:0	7:2	01.01.2000	00:00	1950	1951	37
+US Palermo	Lucchese	0:0	1:0	01.01.2000	00:00	1950	1951	37
+AC Milan	Lazio Roma	0:0	1:2	01.01.2000	00:00	1950	1951	37
+Novara Calcio	Atalanta	0:0	1:1	01.01.2000	00:00	1950	1951	37
+SSC Napoli	Udinese Calcio	0:0	2:1	01.01.2000	00:00	1950	1951	37
+Aurora Pro Patria	Calcio Como	0:0	1:0	01.01.2000	00:00	1950	1951	37
+Calcio Padova	SSC Napoli	0:0	2:0	01.01.2000	00:00	1950	1951	38
+Udinese Calcio	ACF Fiorentina	0:0	2:2	01.01.2000	00:00	1950	1951	38
+Unione Triestina	Novara Calcio	0:0	3:0	01.01.2000	00:00	1950	1951	38
+Sampdoria	US Palermo	0:0	5:1	01.01.2000	00:00	1950	1951	38
+Aurora Pro Patria	Torino FC	0:0	4:3	01.01.2000	00:00	1950	1951	38
+Lucchese	Calcio Como	0:0	5:0	01.01.2000	00:00	1950	1951	38
+Juventus	Atalanta	0:0	6:2	01.01.2000	00:00	1950	1951	38
+Inter	Genoa CFC	0:0	5:2	01.01.2000	00:00	1950	1951	38
+Bologna FC	Lazio Roma	0:0	7:2	01.01.2000	00:00	1950	1951	38
+AS Roma	AC Milan	0:0	2:1	01.01.2000	00:00	1950	1951	38

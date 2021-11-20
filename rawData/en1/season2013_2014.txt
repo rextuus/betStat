@@ -1,0 +1,380 @@
+Liverpool FC	Stoke City	1:0	1:0	17.08.2013	13:45	2013	2014	1
+Arsenal FC	Aston Villa	1:1	1:3	17.08.2013	16:00	2013	2014	1
+Norwich City	Everton FC	0:0	2:2	17.08.2013	16:00	2013	2014	1
+Sunderland AFC	Fulham FC	0:0	0:1	17.08.2013	16:00	2013	2014	1
+West Bromwich Albion	Southampton FC	0:0	0:1	17.08.2013	16:00	2013	2014	1
+West Ham United	Cardiff City	1:0	2:0	17.08.2013	16:00	2013	2014	1
+Swansea City	Manchester United	0:2	1:4	17.08.2013	18:30	2013	2014	1
+Crystal Palace	Tottenham Hotspur	0:0	0:1	18.08.2013	14:30	2013	2014	1
+Chelsea FC	Hull City	2:0	2:0	18.08.2013	17:00	2013	2014	1
+Manchester City	Newcastle United	2:0	4:0	19.08.2013	21:00	2013	2014	1
+Fulham FC	Arsenal FC	0:2	1:3	24.08.2013	13:45	2013	2014	2
+Everton FC	West Bromwich Albion	0:0	0:0	24.08.2013	16:00	2013	2014	2
+Hull City	Norwich City	1:0	1:0	24.08.2013	16:00	2013	2014	2
+Newcastle United	West Ham United	0:0	0:0	24.08.2013	16:00	2013	2014	2
+Southampton FC	Sunderland AFC	0:1	1:1	24.08.2013	16:00	2013	2014	2
+Stoke City	Crystal Palace	0:1	2:1	24.08.2013	16:00	2013	2014	2
+Aston Villa	Liverpool FC	0:1	0:1	24.08.2013	18:30	2013	2014	2
+Cardiff City	Manchester City	0:0	3:2	25.08.2013	17:00	2013	2014	2
+Tottenham Hotspur	Swansea City	0:0	1:0	25.08.2013	17:00	2013	2014	2
+Manchester United	Chelsea FC	0:0	0:0	26.08.2013	21:00	2013	2014	2
+Chelsea FC	Aston Villa	1:1	2:1	21.08.2013	20:45	2013	2014	3
+Manchester City	Hull City	0:0	2:0	31.08.2013	13:45	2013	2014	3
+Cardiff City	Everton FC	0:0	0:0	31.08.2013	16:00	2013	2014	3
+Newcastle United	Fulham FC	0:0	1:0	31.08.2013	16:00	2013	2014	3
+Norwich City	Southampton FC	0:0	1:0	31.08.2013	16:00	2013	2014	3
+West Ham United	Stoke City	0:0	0:1	31.08.2013	16:00	2013	2014	3
+Crystal Palace	Sunderland AFC	1:0	3:1	31.08.2013	18:30	2013	2014	3
+Liverpool FC	Manchester United	1:0	1:0	01.09.2013	14:30	2013	2014	3
+West Bromwich Albion	Swansea City	0:1	0:2	01.09.2013	14:30	2013	2014	3
+Arsenal FC	Tottenham Hotspur	1:0	1:0	01.09.2013	17:00	2013	2014	3
+Manchester United	Crystal Palace	1:0	2:0	14.09.2013	13:45	2013	2014	4
+Aston Villa	Newcastle United	0:1	1:2	14.09.2013	16:00	2013	2014	4
+Fulham FC	West Bromwich Albion	1:0	1:1	14.09.2013	16:00	2013	2014	4
+Hull City	Cardiff City	1:0	1:1	14.09.2013	16:00	2013	2014	4
+Stoke City	Manchester City	0:0	0:0	14.09.2013	16:00	2013	2014	4
+Sunderland AFC	Arsenal FC	0:1	1:3	14.09.2013	16:00	2013	2014	4
+Tottenham Hotspur	Norwich City	1:0	2:0	14.09.2013	16:00	2013	2014	4
+Everton FC	Chelsea FC	1:0	1:0	14.09.2013	18:30	2013	2014	4
+Southampton FC	West Ham United	0:0	0:0	15.09.2013	17:00	2013	2014	4
+Swansea City	Liverpool FC	1:2	2:2	16.09.2013	21:00	2013	2014	4
+Norwich City	Aston Villa	0:1	0:1	21.09.2013	13:45	2013	2014	5
+Liverpool FC	Southampton FC	0:0	0:1	21.09.2013	16:00	2013	2014	5
+Newcastle United	Hull City	2:1	2:3	21.09.2013	16:00	2013	2014	5
+West Bromwich Albion	Sunderland AFC	1:0	3:0	21.09.2013	16:00	2013	2014	5
+West Ham United	Everton FC	1:0	2:3	21.09.2013	16:00	2013	2014	5
+Chelsea FC	Fulham FC	0:0	2:0	21.09.2013	18:30	2013	2014	5
+Arsenal FC	Stoke City	2:1	3:1	22.09.2013	14:30	2013	2014	5
+Crystal Palace	Swansea City	0:1	0:2	22.09.2013	14:30	2013	2014	5
+Cardiff City	Tottenham Hotspur	0:0	0:1	22.09.2013	17:00	2013	2014	5
+Manchester City	Manchester United	2:0	4:1	22.09.2013	17:00	2013	2014	5
+Tottenham Hotspur	Chelsea FC	1:0	1:1	28.09.2013	13:45	2013	2014	6
+Aston Villa	Manchester City	0:1	3:2	28.09.2013	16:00	2013	2014	6
+Fulham FC	Cardiff City	1:1	1:2	28.09.2013	16:00	2013	2014	6
+Hull City	West Ham United	1:0	1:0	28.09.2013	16:00	2013	2014	6
+Manchester United	West Bromwich Albion	0:0	1:2	28.09.2013	16:00	2013	2014	6
+Southampton FC	Crystal Palace	0:0	2:0	28.09.2013	16:00	2013	2014	6
+Swansea City	Arsenal FC	0:0	1:2	28.09.2013	18:30	2013	2014	6
+Stoke City	Norwich City	0:1	0:1	29.09.2013	14:30	2013	2014	6
+Sunderland AFC	Liverpool FC	0:2	1:3	29.09.2013	17:00	2013	2014	6
+Everton FC	Newcastle United	3:0	3:2	30.09.2013	21:00	2013	2014	6
+Manchester City	Everton FC	2:1	3:1	05.10.2013	13:45	2013	2014	7
+Cardiff City	Newcastle United	0:2	1:2	05.10.2013	16:00	2013	2014	7
+Fulham FC	Stoke City	0:0	1:0	05.10.2013	16:00	2013	2014	7
+Hull City	Aston Villa	0:0	0:0	05.10.2013	16:00	2013	2014	7
+Liverpool FC	Crystal Palace	3:0	3:1	05.10.2013	16:00	2013	2014	7
+Sunderland AFC	Manchester United	1:0	1:2	05.10.2013	18:30	2013	2014	7
+Norwich City	Chelsea FC	0:1	1:3	06.10.2013	14:30	2013	2014	7
+Southampton FC	Swansea City	1:0	2:0	06.10.2013	14:30	2013	2014	7
+Tottenham Hotspur	West Ham United	0:0	0:3	06.10.2013	17:00	2013	2014	7
+West Bromwich Albion	Arsenal FC	1:0	1:1	06.10.2013	17:00	2013	2014	7
+Newcastle United	Liverpool FC	1:1	2:2	19.10.2013	13:45	2013	2014	8
+Arsenal FC	Norwich City	1:0	4:1	19.10.2013	16:00	2013	2014	8
+Chelsea FC	Cardiff City	1:1	4:1	19.10.2013	16:00	2013	2014	8
+Everton FC	Hull City	1:1	2:1	19.10.2013	16:00	2013	2014	8
+Manchester United	Southampton FC	1:0	1:1	19.10.2013	16:00	2013	2014	8
+Stoke City	West Bromwich Albion	0:0	0:0	19.10.2013	16:00	2013	2014	8
+Swansea City	Sunderland AFC	0:0	4:0	19.10.2013	16:00	2013	2014	8
+West Ham United	Manchester City	0:1	1:3	19.10.2013	18:30	2013	2014	8
+Aston Villa	Tottenham Hotspur	0:1	0:2	20.10.2013	17:00	2013	2014	8
+Crystal Palace	Fulham FC	1:2	1:4	21.10.2013	21:00	2013	2014	8
+Crystal Palace	Arsenal FC	0:0	0:2	26.10.2013	13:45	2013	2014	9
+Aston Villa	Everton FC	0:0	0:2	26.10.2013	16:00	2013	2014	9
+Liverpool FC	West Bromwich Albion	2:0	4:1	26.10.2013	16:00	2013	2014	9
+Manchester United	Stoke City	1:2	3:2	26.10.2013	16:00	2013	2014	9
+Norwich City	Cardiff City	0:0	0:0	26.10.2013	16:00	2013	2014	9
+Southampton FC	Fulham FC	2:0	2:0	26.10.2013	18:30	2013	2014	9
+Sunderland AFC	Newcastle United	1:0	2:1	27.10.2013	14:30	2013	2014	9
+Chelsea FC	Manchester City	1:0	2:1	27.10.2013	17:00	2013	2014	9
+Swansea City	West Ham United	0:0	0:0	27.10.2013	17:00	2013	2014	9
+Tottenham Hotspur	Hull City	0:0	1:0	27.10.2013	17:00	2013	2014	9
+Newcastle United	Chelsea FC	0:0	2:0	02.11.2013	13:45	2013	2014	10
+Fulham FC	Manchester United	0:3	1:3	02.11.2013	16:00	2013	2014	10
+Hull City	Sunderland AFC	1:0	1:0	02.11.2013	16:00	2013	2014	10
+Manchester City	Norwich City	4:0	7:0	02.11.2013	16:00	2013	2014	10
+Stoke City	Southampton FC	1:1	1:1	02.11.2013	16:00	2013	2014	10
+West Bromwich Albion	Crystal Palace	1:0	2:0	02.11.2013	16:00	2013	2014	10
+West Ham United	Aston Villa	0:0	0:0	02.11.2013	16:00	2013	2014	10
+Arsenal FC	Liverpool FC	1:0	2:0	02.11.2013	18:30	2013	2014	10
+Everton FC	Tottenham Hotspur	0:0	0:0	03.11.2013	14:30	2013	2014	10
+Cardiff City	Swansea City	0:0	1:0	03.11.2013	17:00	2013	2014	10
+Aston Villa	Cardiff City	0:0	2:0	09.11.2013	16:00	2013	2014	11
+Chelsea FC	West Bromwich Albion	1:0	2:2	09.11.2013	16:00	2013	2014	11
+Crystal Palace	Everton FC	0:0	0:0	09.11.2013	16:00	2013	2014	11
+Liverpool FC	Fulham FC	3:0	4:0	09.11.2013	16:00	2013	2014	11
+Southampton FC	Hull City	3:0	4:1	09.11.2013	16:00	2013	2014	11
+Norwich City	West Ham United	0:1	3:1	09.11.2013	18:30	2013	2014	11
+Tottenham Hotspur	Newcastle United	0:1	0:1	10.11.2013	13:00	2013	2014	11
+Sunderland AFC	Manchester City	1:0	1:0	10.11.2013	15:05	2013	2014	11
+Manchester United	Arsenal FC	1:0	1:0	10.11.2013	17:10	2013	2014	11
+Swansea City	Stoke City	0:2	3:3	10.11.2013	17:10	2013	2014	11
+Everton FC	Liverpool FC	1:2	3:3	23.11.2013	13:45	2013	2014	12
+Arsenal FC	Southampton FC	1:0	2:0	23.11.2013	16:00	2013	2014	12
+Fulham FC	Swansea City	0:0	1:2	23.11.2013	16:00	2013	2014	12
+Hull City	Crystal Palace	0:0	0:1	23.11.2013	16:00	2013	2014	12
+Newcastle United	Norwich City	2:0	2:1	23.11.2013	16:00	2013	2014	12
+Stoke City	Sunderland AFC	1:0	2:0	23.11.2013	16:00	2013	2014	12
+West Ham United	Chelsea FC	0:2	0:3	23.11.2013	18:30	2013	2014	12
+Manchester City	Tottenham Hotspur	3:0	6:0	24.11.2013	14:30	2013	2014	12
+Cardiff City	Manchester United	1:2	2:2	24.11.2013	17:00	2013	2014	12
+West Bromwich Albion	Aston Villa	2:0	2:2	25.11.2013	21:00	2013	2014	12
+Aston Villa	Sunderland AFC	0:0	0:0	30.11.2013	16:00	2013	2014	13
+Cardiff City	Arsenal FC	0:1	0:3	30.11.2013	16:00	2013	2014	13
+Everton FC	Stoke City	1:0	4:0	30.11.2013	16:00	2013	2014	13
+Norwich City	Crystal Palace	1:0	1:0	30.11.2013	16:00	2013	2014	13
+West Ham United	Fulham FC	0:0	3:0	30.11.2013	16:00	2013	2014	13
+Newcastle United	West Bromwich Albion	1:0	2:1	30.11.2013	18:30	2013	2014	13
+Tottenham Hotspur	Manchester United	1:1	2:2	01.12.2013	13:00	2013	2014	13
+Hull City	Liverpool FC	1:1	3:1	01.12.2013	15:05	2013	2014	13
+Chelsea FC	Southampton FC	0:1	3:1	01.12.2013	17:10	2013	2014	13
+Manchester City	Swansea City	1:0	3:0	01.12.2013	17:10	2013	2014	13
+Crystal Palace	West Ham United	1:0	1:0	03.12.2013	21:00	2013	2014	14
+Arsenal FC	Hull City	1:0	2:0	04.12.2013	20:45	2013	2014	14
+Liverpool FC	Norwich City	3:0	5:1	04.12.2013	20:45	2013	2014	14
+Manchester United	Everton FC	0:0	0:1	04.12.2013	20:45	2013	2014	14
+Southampton FC	Aston Villa	0:1	2:3	04.12.2013	20:45	2013	2014	14
+Stoke City	Cardiff City	0:0	0:0	04.12.2013	20:45	2013	2014	14
+Sunderland AFC	Chelsea FC	1:2	3:4	04.12.2013	20:45	2013	2014	14
+Swansea City	Newcastle United	1:0	3:0	04.12.2013	20:45	2013	2014	14
+West Bromwich Albion	Manchester City	0:2	2:3	04.12.2013	21:00	2013	2014	14
+Fulham FC	Tottenham Hotspur	0:0	1:2	04.12.2013	21:00	2013	2014	14
+Manchester United	Newcastle United	0:0	0:1	07.12.2013	13:45	2013	2014	15
+Crystal Palace	Cardiff City	1:0	2:0	07.12.2013	16:00	2013	2014	15
+Liverpool FC	West Ham United	1:0	4:1	07.12.2013	16:00	2013	2014	15
+Southampton FC	Manchester City	1:1	1:1	07.12.2013	16:00	2013	2014	15
+Stoke City	Chelsea FC	1:1	3:2	07.12.2013	16:00	2013	2014	15
+West Bromwich Albion	Norwich City	0:1	0:2	07.12.2013	16:00	2013	2014	15
+Sunderland AFC	Tottenham Hotspur	1:1	1:2	07.12.2013	18:30	2013	2014	15
+Fulham FC	Aston Villa	2:0	2:0	08.12.2013	14:30	2013	2014	15
+Arsenal FC	Everton FC	0:0	1:1	08.12.2013	17:00	2013	2014	15
+Swansea City	Hull City	0:1	1:1	09.12.2013	21:00	2013	2014	15
+Manchester City	Arsenal FC	2:1	6:3	14.12.2013	13:45	2013	2014	16
+Cardiff City	West Bromwich Albion	0:0	1:0	14.12.2013	16:00	2013	2014	16
+Chelsea FC	Crystal Palace	2:1	2:1	14.12.2013	16:00	2013	2014	16
+Everton FC	Fulham FC	1:0	4:1	14.12.2013	16:00	2013	2014	16
+Newcastle United	Southampton FC	1:0	1:1	14.12.2013	16:00	2013	2014	16
+West Ham United	Sunderland AFC	0:0	0:0	14.12.2013	16:00	2013	2014	16
+Hull City	Stoke City	0:0	0:0	14.12.2013	18:30	2013	2014	16
+Aston Villa	Manchester United	0:2	0:3	15.12.2013	14:30	2013	2014	16
+Norwich City	Swansea City	1:1	1:1	15.12.2013	14:30	2013	2014	16
+Tottenham Hotspur	Liverpool FC	0:2	0:5	15.12.2013	17:00	2013	2014	16
+Liverpool FC	Cardiff City	3:0	3:1	21.12.2013	13:45	2013	2014	17
+Crystal Palace	Newcastle United	0:2	0:3	21.12.2013	16:00	2013	2014	17
+Fulham FC	Manchester City	0:2	2:4	21.12.2013	16:00	2013	2014	17
+Manchester United	West Ham United	2:0	3:1	21.12.2013	16:00	2013	2014	17
+Stoke City	Aston Villa	0:0	2:1	21.12.2013	16:00	2013	2014	17
+Sunderland AFC	Norwich City	0:0	0:0	21.12.2013	16:00	2013	2014	17
+West Bromwich Albion	Hull City	0:1	1:1	21.12.2013	16:00	2013	2014	17
+Southampton FC	Tottenham Hotspur	1:1	2:3	22.12.2013	14:30	2013	2014	17
+Swansea City	Everton FC	0:0	1:2	22.12.2013	17:00	2013	2014	17
+Arsenal FC	Chelsea FC	0:0	0:0	23.12.2013	21:00	2013	2014	17
+Hull City	Manchester United	2:2	2:3	26.12.2013	13:45	2013	2014	18
+Aston Villa	Crystal Palace	0:0	0:1	26.12.2013	16:00	2013	2014	18
+Cardiff City	Southampton FC	0:3	0:3	26.12.2013	16:00	2013	2014	18
+Chelsea FC	Swansea City	1:0	1:0	26.12.2013	16:00	2013	2014	18
+Everton FC	Sunderland AFC	0:1	0:1	26.12.2013	16:00	2013	2014	18
+Newcastle United	Stoke City	1:1	5:1	26.12.2013	16:00	2013	2014	18
+Norwich City	Fulham FC	1:1	1:2	26.12.2013	16:00	2013	2014	18
+Tottenham Hotspur	West Bromwich Albion	1:1	1:1	26.12.2013	16:00	2013	2014	18
+West Ham United	Arsenal FC	0:0	1:3	26.12.2013	16:00	2013	2014	18
+Manchester City	Liverpool FC	2:1	2:1	26.12.2013	18:30	2013	2014	18
+West Ham United	West Bromwich Albion	1:2	3:3	28.12.2013	13:45	2013	2014	19
+Aston Villa	Swansea City	1:1	1:1	28.12.2013	16:00	2013	2014	19
+Hull City	Fulham FC	0:0	6:0	28.12.2013	16:00	2013	2014	19
+Manchester City	Crystal Palace	0:0	1:0	28.12.2013	16:00	2013	2014	19
+Norwich City	Manchester United	0:0	0:1	28.12.2013	16:00	2013	2014	19
+Cardiff City	Sunderland AFC	1:0	2:2	28.12.2013	18:30	2013	2014	19
+Everton FC	Southampton FC	1:0	2:1	29.12.2013	14:30	2013	2014	19
+Newcastle United	Arsenal FC	0:0	0:1	29.12.2013	14:30	2013	2014	19
+Chelsea FC	Liverpool FC	2:1	2:1	29.12.2013	17:00	2013	2014	19
+Tottenham Hotspur	Stoke City	1:0	3:0	29.12.2013	17:00	2013	2014	19
+Swansea City	Manchester City	1:1	2:3	01.01.2014	13:45	2013	2014	20
+Arsenal FC	Cardiff City	0:0	2:0	01.01.2014	16:00	2013	2014	20
+Crystal Palace	Norwich City	1:1	1:1	01.01.2014	16:00	2013	2014	20
+Fulham FC	West Ham United	1:1	2:1	01.01.2014	16:00	2013	2014	20
+Liverpool FC	Hull City	1:0	2:0	01.01.2014	16:00	2013	2014	20
+Southampton FC	Chelsea FC	0:0	0:3	01.01.2014	16:00	2013	2014	20
+Stoke City	Everton FC	0:0	1:1	01.01.2014	16:00	2013	2014	20
+Sunderland AFC	Aston Villa	0:1	0:1	01.01.2014	16:00	2013	2014	20
+West Bromwich Albion	Newcastle United	0:0	1:0	01.01.2014	16:00	2013	2014	20
+Manchester United	Tottenham Hotspur	0:1	1:2	01.01.2014	18:30	2013	2014	20
+Hull City	Chelsea FC	0:0	0:2	11.01.2014	13:45	2013	2014	21
+Cardiff City	West Ham United	0:1	0:2	11.01.2014	16:00	2013	2014	21
+Everton FC	Norwich City	1:0	2:0	11.01.2014	16:00	2013	2014	21
+Fulham FC	Sunderland AFC	0:2	1:4	11.01.2014	16:00	2013	2014	21
+Southampton FC	West Bromwich Albion	0:0	1:0	11.01.2014	16:00	2013	2014	21
+Tottenham Hotspur	Crystal Palace	0:0	2:0	11.01.2014	16:00	2013	2014	21
+Manchester United	Swansea City	0:0	2:0	11.01.2014	18:30	2013	2014	21
+Newcastle United	Manchester City	0:1	0:2	12.01.2014	15:05	2013	2014	21
+Stoke City	Liverpool FC	2:2	3:5	12.01.2014	17:10	2013	2014	21
+Aston Villa	Arsenal FC	0:2	1:2	13.01.2014	21:00	2013	2014	21
+Sunderland AFC	Southampton FC	1:2	2:2	18.01.2014	13:45	2013	2014	22
+Manchester City	Cardiff City	2:1	4:2	18.01.2014	16:00	2013	2014	22
+Arsenal FC	Fulham FC	0:0	2:0	18.01.2014	16:00	2013	2014	22
+Norwich City	Hull City	0:0	1:0	18.01.2014	16:00	2013	2014	22
+West Ham United	Newcastle United	1:2	1:3	18.01.2014	16:00	2013	2014	22
+Crystal Palace	Stoke City	0:0	1:0	18.01.2014	16:00	2013	2014	22
+Liverpool FC	Aston Villa	1:2	2:2	18.01.2014	18:30	2013	2014	22
+Swansea City	Tottenham Hotspur	0:1	1:3	19.01.2014	14:30	2013	2014	22
+Chelsea FC	Manchester United	2:0	3:1	19.01.2014	17:00	2013	2014	22
+West Bromwich Albion	Everton FC	0:1	1:1	20.01.2014	21:00	2013	2014	22
+Manchester United	Cardiff City	1:0	2:0	28.01.2014	20:45	2013	2014	23
+Norwich City	Newcastle United	0:0	0:0	28.01.2014	20:45	2013	2014	23
+Southampton FC	Arsenal FC	1:0	2:2	28.01.2014	20:45	2013	2014	23
+Swansea City	Fulham FC	0:0	2:0	28.01.2014	20:45	2013	2014	23
+Crystal Palace	Hull City	1:0	1:0	28.01.2014	21:00	2013	2014	23
+Liverpool FC	Everton FC	3:0	4:0	28.01.2014	21:00	2013	2014	23
+Aston Villa	West Bromwich Albion	3:3	4:3	29.01.2014	20:45	2013	2014	23
+Sunderland AFC	Stoke City	1:0	1:0	29.01.2014	20:45	2013	2014	23
+Chelsea FC	West Ham United	0:0	0:0	29.01.2014	20:45	2013	2014	23
+Tottenham Hotspur	Manchester City	0:1	1:5	29.01.2014	20:45	2013	2014	23
+Newcastle United	Sunderland AFC	0:2	0:3	01.02.2014	13:45	2013	2014	24
+West Ham United	Swansea City	2:0	2:0	01.02.2014	13:45	2013	2014	24
+Everton FC	Aston Villa	0:1	2:1	01.02.2014	16:00	2013	2014	24
+Stoke City	Manchester United	1:0	2:1	01.02.2014	16:00	2013	2014	24
+Cardiff City	Norwich City	0:1	2:1	01.02.2014	16:00	2013	2014	24
+Fulham FC	Southampton FC	0:0	0:3	01.02.2014	16:00	2013	2014	24
+Hull City	Tottenham Hotspur	1:0	1:1	01.02.2014	16:00	2013	2014	24
+West Bromwich Albion	Liverpool FC	0:1	1:1	02.02.2014	14:30	2013	2014	24
+Arsenal FC	Crystal Palace	0:0	2:0	02.02.2014	17:00	2013	2014	24
+Manchester City	Chelsea FC	0:1	0:1	03.02.2014	21:00	2013	2014	24
+Liverpool FC	Arsenal FC	4:0	5:1	08.02.2014	13:45	2013	2014	25
+Aston Villa	West Ham United	0:0	0:2	08.02.2014	16:00	2013	2014	25
+Chelsea FC	Newcastle United	2:0	3:0	08.02.2014	16:00	2013	2014	25
+Crystal Palace	West Bromwich Albion	2:0	3:1	08.02.2014	16:00	2013	2014	25
+Norwich City	Manchester City	0:0	0:0	08.02.2014	16:00	2013	2014	25
+Southampton FC	Stoke City	2:2	2:2	08.02.2014	16:00	2013	2014	25
+Sunderland AFC	Hull City	0:1	0:2	08.02.2014	16:00	2013	2014	25
+Swansea City	Cardiff City	0:0	3:0	08.02.2014	18:30	2013	2014	25
+Tottenham Hotspur	Everton FC	0:0	1:0	09.02.2014	14:30	2013	2014	25
+Manchester United	Fulham FC	0:1	2:2	09.02.2014	17:00	2013	2014	25
+Cardiff City	Aston Villa	0:0	0:0	11.02.2014	20:45	2013	2014	26
+West Ham United	Norwich City	0:0	2:0	11.02.2014	20:45	2013	2014	26
+Hull City	Southampton FC	0:0	0:1	11.02.2014	20:45	2013	2014	26
+West Bromwich Albion	Chelsea FC	0:1	1:1	11.02.2014	21:00	2013	2014	26
+Arsenal FC	Manchester United	0:0	0:0	12.02.2014	20:45	2013	2014	26
+Newcastle United	Tottenham Hotspur	0:1	0:4	12.02.2014	20:45	2013	2014	26
+Fulham FC	Liverpool FC	1:1	2:3	12.02.2014	21:00	2013	2014	26
+Stoke City	Swansea City	1:0	1:1	12.02.2014	21:00	2013	2014	26
+Everton FC	Crystal Palace	0:1	2:3	16.04.2014	20:45	2013	2014	26
+Manchester City	Sunderland AFC	1:0	2:2	16.04.2014	20:45	2013	2014	26
+Chelsea FC	Everton FC	0:0	1:0	22.02.2014	13:45	2013	2014	27
+Arsenal FC	Sunderland AFC	3:0	4:1	22.02.2014	16:00	2013	2014	27
+Cardiff City	Hull City	0:2	0:4	22.02.2014	16:00	2013	2014	27
+Manchester City	Stoke City	0:0	1:0	22.02.2014	16:00	2013	2014	27
+West Bromwich Albion	Fulham FC	0:1	1:1	22.02.2014	16:00	2013	2014	27
+West Ham United	Southampton FC	2:1	3:1	22.02.2014	16:00	2013	2014	27
+Crystal Palace	Manchester United	0:0	0:2	22.02.2014	18:30	2013	2014	27
+Liverpool FC	Swansea City	3:2	4:3	23.02.2014	14:30	2013	2014	27
+Newcastle United	Aston Villa	0:0	1:0	23.02.2014	14:30	2013	2014	27
+Norwich City	Tottenham Hotspur	0:0	1:0	23.02.2014	17:00	2013	2014	27
+Stoke City	Arsenal FC	0:0	1:0	01.03.2014	16:00	2013	2014	28
+Fulham FC	Chelsea FC	0:0	1:3	01.03.2014	16:00	2013	2014	28
+Hull City	Newcastle United	0:2	1:4	01.03.2014	16:00	2013	2014	28
+Everton FC	West Ham United	0:0	1:0	01.03.2014	16:00	2013	2014	28
+Southampton FC	Liverpool FC	0:1	0:3	01.03.2014	18:30	2013	2014	28
+Tottenham Hotspur	Cardiff City	1:0	1:0	02.03.2014	17:30	2013	2014	28
+Swansea City	Crystal Palace	1:0	1:1	02.03.2014	17:30	2013	2014	28
+Aston Villa	Norwich City	4:1	4:1	02.03.2014	17:30	2013	2014	28
+Manchester United	Manchester City	0:1	0:3	25.03.2014	20:45	2013	2014	28
+Sunderland AFC	West Bromwich Albion	2:0	2:0	07.05.2014	20:45	2013	2014	28
+West Bromwich Albion	Manchester United	0:1	0:3	08.03.2014	13:45	2013	2014	29
+Cardiff City	Fulham FC	1:0	3:1	08.03.2014	16:00	2013	2014	29
+Crystal Palace	Southampton FC	0:1	0:1	08.03.2014	16:00	2013	2014	29
+Norwich City	Stoke City	0:0	1:1	08.03.2014	16:00	2013	2014	29
+Chelsea FC	Tottenham Hotspur	0:0	4:0	08.03.2014	18:30	2013	2014	29
+Arsenal FC	Swansea City	0:1	2:2	25.03.2014	20:45	2013	2014	29
+Newcastle United	Everton FC	0:1	0:3	25.03.2014	20:45	2013	2014	29
+West Ham United	Hull City	1:0	2:1	26.03.2014	20:45	2013	2014	29
+Liverpool FC	Sunderland AFC	1:0	2:1	26.03.2014	21:00	2013	2014	29
+Manchester City	Aston Villa	0:0	4:0	07.05.2014	20:45	2013	2014	29
+Hull City	Manchester City	0:1	0:2	15.03.2014	13:45	2013	2014	30
+Everton FC	Cardiff City	0:0	2:1	15.03.2014	16:00	2013	2014	30
+Sunderland AFC	Crystal Palace	0:0	0:0	15.03.2014	16:00	2013	2014	30
+Fulham FC	Newcastle United	0:0	1:0	15.03.2014	16:00	2013	2014	30
+Southampton FC	Norwich City	1:0	4:2	15.03.2014	16:00	2013	2014	30
+Swansea City	West Bromwich Albion	1:0	1:2	15.03.2014	16:00	2013	2014	30
+Stoke City	West Ham United	1:1	3:1	15.03.2014	16:00	2013	2014	30
+Aston Villa	Chelsea FC	0:0	1:0	15.03.2014	18:30	2013	2014	30
+Manchester United	Liverpool FC	0:1	0:3	16.03.2014	14:30	2013	2014	30
+Tottenham Hotspur	Arsenal FC	0:1	0:1	16.03.2014	17:00	2013	2014	30
+Chelsea FC	Arsenal FC	4:0	6:0	22.03.2014	13:45	2013	2014	31
+Cardiff City	Liverpool FC	2:2	3:6	22.03.2014	16:00	2013	2014	31
+Everton FC	Swansea City	1:1	3:2	22.03.2014	16:00	2013	2014	31
+Hull City	West Bromwich Albion	2:0	2:0	22.03.2014	16:00	2013	2014	31
+Manchester City	Fulham FC	1:0	5:0	22.03.2014	16:00	2013	2014	31
+Newcastle United	Crystal Palace	0:0	1:0	22.03.2014	16:00	2013	2014	31
+Norwich City	Sunderland AFC	2:0	2:0	22.03.2014	16:00	2013	2014	31
+West Ham United	Manchester United	0:2	0:2	22.03.2014	18:30	2013	2014	31
+Tottenham Hotspur	Southampton FC	1:2	3:2	23.03.2014	14:30	2013	2014	31
+Aston Villa	Stoke City	1:3	1:4	23.03.2014	17:00	2013	2014	31
+Manchester United	Aston Villa	2:1	4:1	29.03.2014	13:45	2013	2014	32
+West Bromwich Albion	Cardiff City	2:1	3:3	29.03.2014	16:00	2013	2014	32
+Crystal Palace	Chelsea FC	0:0	1:0	29.03.2014	16:00	2013	2014	32
+Stoke City	Hull City	0:0	1:0	29.03.2014	16:00	2013	2014	32
+Southampton FC	Newcastle United	1:0	4:0	29.03.2014	16:00	2013	2014	32
+Swansea City	Norwich City	2:0	3:0	29.03.2014	16:00	2013	2014	32
+Arsenal FC	Manchester City	0:1	1:1	29.03.2014	18:30	2013	2014	32
+Fulham FC	Everton FC	0:0	1:3	30.03.2014	14:30	2013	2014	32
+Liverpool FC	Tottenham Hotspur	2:0	4:0	30.03.2014	17:00	2013	2014	32
+Sunderland AFC	West Ham United	0:1	1:2	31.03.2014	21:00	2013	2014	32
+Manchester City	Southampton FC	3:1	4:1	05.04.2014	13:45	2013	2014	33
+Aston Villa	Fulham FC	0:0	1:2	05.04.2014	16:00	2013	2014	33
+Cardiff City	Crystal Palace	0:1	0:3	05.04.2014	16:00	2013	2014	33
+Hull City	Swansea City	1:0	1:0	05.04.2014	16:00	2013	2014	33
+Newcastle United	Manchester United	0:1	0:4	05.04.2014	16:00	2013	2014	33
+Norwich City	West Bromwich Albion	0:1	0:1	05.04.2014	16:00	2013	2014	33
+Chelsea FC	Stoke City	1:0	3:0	05.04.2014	18:30	2013	2014	33
+Everton FC	Arsenal FC	2:0	3:0	06.04.2014	14:30	2013	2014	33
+West Ham United	Liverpool FC	1:1	1:2	06.04.2014	17:00	2013	2014	33
+Tottenham Hotspur	Sunderland AFC	1:1	5:1	07.04.2014	21:00	2013	2014	33
+Crystal Palace	Aston Villa	0:0	1:0	12.04.2014	16:07	2013	2014	34
+Southampton FC	Cardiff City	0:0	0:1	12.04.2014	16:07	2013	2014	34
+Sunderland AFC	Everton FC	0:0	0:1	12.04.2014	16:07	2013	2014	34
+Stoke City	Newcastle United	1:0	1:0	12.04.2014	16:07	2013	2014	34
+Fulham FC	Norwich City	1:0	1:0	12.04.2014	16:07	2013	2014	34
+West Bromwich Albion	Tottenham Hotspur	3:1	3:3	12.04.2014	16:07	2013	2014	34
+Liverpool FC	Manchester City	1:0	3:2	13.04.2014	14:37	2013	2014	34
+Swansea City	Chelsea FC	0:0	0:1	13.04.2014	17:07	2013	2014	34
+Arsenal FC	West Ham United	1:1	3:1	15.04.2014	20:45	2013	2014	34
+Manchester United	Hull City	1:0	3:1	06.05.2014	20:45	2013	2014	34
+Tottenham Hotspur	Fulham FC	1:1	3:1	19.04.2014	13:45	2013	2014	35
+Aston Villa	Southampton FC	0:0	0:0	19.04.2014	16:00	2013	2014	35
+Cardiff City	Stoke City	0:1	1:1	19.04.2014	16:00	2013	2014	35
+Newcastle United	Swansea City	1:1	1:2	19.04.2014	16:00	2013	2014	35
+West Ham United	Crystal Palace	0:0	0:1	19.04.2014	16:00	2013	2014	35
+Chelsea FC	Sunderland AFC	1:1	1:2	19.04.2014	18:30	2013	2014	35
+Norwich City	Liverpool FC	0:2	2:3	20.04.2014	13:00	2013	2014	35
+Hull City	Arsenal FC	0:2	0:3	20.04.2014	15:05	2013	2014	35
+Everton FC	Manchester United	2:0	2:0	20.04.2014	17:10	2013	2014	35
+Manchester City	West Bromwich Albion	3:1	3:1	21.04.2014	21:00	2013	2014	35
+Southampton FC	Everton FC	2:0	2:0	26.04.2014	13:45	2013	2014	36
+Swansea City	Aston Villa	2:1	4:1	26.04.2014	16:00	2013	2014	36
+Fulham FC	Hull City	0:0	2:2	26.04.2014	16:00	2013	2014	36
+Stoke City	Tottenham Hotspur	0:1	0:1	26.04.2014	16:00	2013	2014	36
+West Bromwich Albion	West Ham United	1:0	1:0	26.04.2014	16:00	2013	2014	36
+Manchester United	Norwich City	1:0	4:0	26.04.2014	18:30	2013	2014	36
+Sunderland AFC	Cardiff City	2:0	4:0	27.04.2014	13:00	2013	2014	36
+Liverpool FC	Chelsea FC	0:1	0:2	27.04.2014	15:05	2013	2014	36
+Crystal Palace	Manchester City	0:2	0:2	27.04.2014	17:10	2013	2014	36
+Arsenal FC	Newcastle United	2:0	3:0	28.04.2014	21:00	2013	2014	36
+West Ham United	Tottenham Hotspur	2:0	2:0	03.05.2014	13:45	2013	2014	37
+Aston Villa	Hull City	3:1	3:1	03.05.2014	16:00	2013	2014	37
+Manchester United	Sunderland AFC	0:1	0:1	03.05.2014	16:00	2013	2014	37
+Newcastle United	Cardiff City	1:0	3:0	03.05.2014	16:00	2013	2014	37
+Stoke City	Fulham FC	1:0	4:1	03.05.2014	16:00	2013	2014	37
+Swansea City	Southampton FC	0:0	0:1	03.05.2014	16:00	2013	2014	37
+Everton FC	Manchester City	1:2	2:3	03.05.2014	18:30	2013	2014	37
+Arsenal FC	West Bromwich Albion	1:0	1:0	04.05.2014	14:30	2013	2014	37
+Chelsea FC	Norwich City	0:0	0:0	04.05.2014	17:00	2013	2014	37
+Crystal Palace	Liverpool FC	0:1	3:3	05.05.2014	21:00	2013	2014	37
+Cardiff City	Chelsea FC	1:0	1:2	11.05.2014	16:00	2013	2014	38
+Fulham FC	Crystal Palace	0:1	2:2	11.05.2014	16:00	2013	2014	38
+Hull City	Everton FC	0:1	0:2	11.05.2014	16:00	2013	2014	38
+Liverpool FC	Newcastle United	0:1	2:1	11.05.2014	16:00	2013	2014	38
+Manchester City	West Ham United	1:0	2:0	11.05.2014	16:00	2013	2014	38
+Norwich City	Arsenal FC	0:0	0:2	11.05.2014	16:00	2013	2014	38
+Southampton FC	Manchester United	1:0	1:1	11.05.2014	16:00	2013	2014	38
+Sunderland AFC	Swansea City	0:2	1:3	11.05.2014	16:00	2013	2014	38
+Tottenham Hotspur	Aston Villa	3:0	3:0	11.05.2014	16:00	2013	2014	38
+West Bromwich Albion	Stoke City	0:1	1:2	11.05.2014	16:00	2013	2014	38

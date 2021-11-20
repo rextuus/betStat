@@ -1,0 +1,240 @@
+Udinese Calcio	Inter	0:2	0:4	14.09.1980	00:00	1980	1981	1
+Torino FC	AC Pistoiese	0:0	1:0	14.09.1980	00:00	1980	1981	1
+ACF Fiorentina	AC Perugia	1:0	1:0	14.09.1980	00:00	1980	1981	1
+SSC Napoli	US Catanzaro	0:0	1:1	14.09.1980	00:00	1980	1981	1
+Cagliari Calcio	Juventus	1:1	1:1	14.09.1980	00:00	1980	1981	1
+Bologna FC	Ascoli Calcio	0:0	1:0	14.09.1980	00:00	1980	1981	1
+Calcio Como	AS Roma	0:1	0:1	14.09.1980	00:00	1980	1981	1
+Brescia Calcio	US Avellino	0:1	1:2	14.09.1980	00:00	1980	1981	1
+Inter	Cagliari Calcio	3:1	4:1	21.09.1980	00:00	1980	1981	2
+AS Roma	Brescia Calcio	0:0	1:0	21.09.1980	00:00	1980	1981	2
+AC Pistoiese	Udinese Calcio	0:0	1:1	21.09.1980	00:00	1980	1981	2
+Juventus	Calcio Como	2:0	2:0	21.09.1980	00:00	1980	1981	2
+US Catanzaro	Torino FC	1:0	1:0	21.09.1980	00:00	1980	1981	2
+US Avellino	ACF Fiorentina	0:1	2:3	21.09.1980	00:00	1980	1981	2
+Ascoli Calcio	SSC Napoli	0:1	3:2	21.09.1980	00:00	1980	1981	2
+AC Perugia	Bologna FC	0:0	0:0	21.09.1980	00:00	1980	1981	2
+Calcio Como	Inter	1:0	1:0	28.09.1980	00:00	1980	1981	3
+ACF Fiorentina	US Catanzaro	0:0	1:1	28.09.1980	00:00	1980	1981	3
+Udinese Calcio	AC Perugia	1:1	1:1	28.09.1980	00:00	1980	1981	3
+Torino FC	US Avellino	1:0	2:0	28.09.1980	00:00	1980	1981	3
+Bologna FC	AS Roma	1:0	1:1	28.09.1980	00:00	1980	1981	3
+Cagliari Calcio	Ascoli Calcio	1:0	2:0	28.09.1980	00:00	1980	1981	3
+Brescia Calcio	Juventus	1:1	1:1	28.09.1980	00:00	1980	1981	3
+SSC Napoli	AC Pistoiese	0:0	1:0	28.09.1980	00:00	1980	1981	3
+Inter	SSC Napoli	1:0	3:0	05.10.1980	00:00	1980	1981	4
+Udinese Calcio	ACF Fiorentina	0:0	0:0	05.10.1980	00:00	1980	1981	4
+AS Roma	Torino FC	0:0	2:0	05.10.1980	00:00	1980	1981	4
+Juventus	Bologna FC	0:0	0:1	05.10.1980	00:00	1980	1981	4
+US Catanzaro	Calcio Como	0:0	2:0	05.10.1980	00:00	1980	1981	4
+US Avellino	Cagliari Calcio	1:1	2:1	05.10.1980	00:00	1980	1981	4
+Ascoli Calcio	AC Perugia	0:2	0:3	05.10.1980	00:00	1980	1981	4
+AC Pistoiese	Brescia Calcio	0:0	1:0	05.10.1980	00:00	1980	1981	4
+Calcio Como	Udinese Calcio	1:0	2:0	19.10.1980	00:00	1980	1981	5
+ACF Fiorentina	Inter	0:0	0:0	19.10.1980	00:00	1980	1981	5
+Torino FC	Cagliari Calcio	1:0	1:2	19.10.1980	00:00	1980	1981	5
+AC Perugia	US Avellino	0:0	0:0	19.10.1980	00:00	1980	1981	5
+Ascoli Calcio	Juventus	0:0	0:0	19.10.1980	00:00	1980	1981	5
+Brescia Calcio	US Catanzaro	0:1	1:1	19.10.1980	00:00	1980	1981	5
+Bologna FC	AC Pistoiese	0:0	2:0	19.10.1980	00:00	1980	1981	5
+SSC Napoli	AS Roma	2:0	4:0	19.10.1980	00:00	1980	1981	5
+US Catanzaro	AC Perugia	0:0	0:1	26.10.1980	00:00	1980	1981	6
+Udinese Calcio	Bologna FC	0:0	1:1	26.10.1980	00:00	1980	1981	6
+AC Pistoiese	Ascoli Calcio	0:0	0:1	26.10.1980	00:00	1980	1981	6
+Inter	AS Roma	0:3	2:4	26.10.1980	00:00	1980	1981	6
+Cagliari Calcio	SSC Napoli	0:0	0:0	26.10.1980	00:00	1980	1981	6
+Brescia Calcio	ACF Fiorentina	0:0	0:0	26.10.1980	00:00	1980	1981	6
+US Avellino	Calcio Como	1:1	2:1	26.10.1980	00:00	1980	1981	6
+Juventus	Torino FC	1:0	1:2	26.10.1980	00:00	1980	1981	6
+Inter	AC Pistoiese	1:0	2:0	09.11.1980	00:00	1980	1981	7
+SSC Napoli	US Avellino	0:0	1:0	09.11.1980	00:00	1980	1981	7
+Torino FC	Calcio Como	1:0	1:1	09.11.1980	00:00	1980	1981	7
+AS Roma	US Catanzaro	0:0	0:0	09.11.1980	00:00	1980	1981	7
+ACF Fiorentina	Cagliari Calcio	0:0	0:0	09.11.1980	00:00	1980	1981	7
+Bologna FC	Brescia Calcio	0:1	0:1	09.11.1980	00:00	1980	1981	7
+Ascoli Calcio	Udinese Calcio	0:0	1:0	09.11.1980	00:00	1980	1981	7
+AC Perugia	Juventus	0:0	0:0	09.11.1980	00:00	1980	1981	7
+Cagliari Calcio	AS Roma	0:0	1:0	23.11.1980	00:00	1980	1981	8
+AC Pistoiese	AC Perugia	1:0	1:0	23.11.1980	00:00	1980	1981	8
+Calcio Como	ACF Fiorentina	0:0	2:1	23.11.1980	00:00	1980	1981	8
+Udinese Calcio	US Catanzaro	0:1	2:1	23.11.1980	00:00	1980	1981	8
+Brescia Calcio	Torino FC	0:0	1:1	23.11.1980	00:00	1980	1981	8
+Bologna FC	SSC Napoli	0:0	1:1	23.11.1980	00:00	1980	1981	8
+US Avellino	Ascoli Calcio	2:1	4:2	23.11.1980	00:00	1980	1981	8
+Juventus	Inter	0:0	2:1	23.11.1980	00:00	1980	1981	8
+Torino FC	ACF Fiorentina	1:1	1:1	30.11.1980	00:00	1980	1981	9
+AS Roma	Udinese Calcio	2:1	3:1	30.11.1980	00:00	1980	1981	9
+AC Perugia	Cagliari Calcio	0:0	1:1	30.11.1980	00:00	1980	1981	9
+AC Pistoiese	US Avellino	1:0	2:1	30.11.1980	00:00	1980	1981	9
+Inter	Bologna FC	0:0	1:0	30.11.1980	00:00	1980	1981	9
+Ascoli Calcio	Calcio Como	1:0	2:1	30.11.1980	00:00	1980	1981	9
+US Catanzaro	Juventus	0:0	0:0	30.11.1980	00:00	1980	1981	9
+SSC Napoli	Brescia Calcio	1:0	1:1	30.11.1980	00:00	1980	1981	9
+Calcio Como	AC Perugia	0:0	1:0	14.12.1980	00:00	1980	1981	10
+Udinese Calcio	US Avellino	1:2	5:4	14.12.1980	00:00	1980	1981	10
+SSC Napoli	Torino FC	1:2	1:3	14.12.1980	00:00	1980	1981	10
+ACF Fiorentina	AS Roma	0:0	1:1	14.12.1980	00:00	1980	1981	10
+US Catanzaro	Ascoli Calcio	0:0	2:0	14.12.1980	00:00	1980	1981	10
+Cagliari Calcio	Bologna FC	0:0	0:0	14.12.1980	00:00	1980	1981	10
+Brescia Calcio	Inter	0:0	0:0	14.12.1980	00:00	1980	1981	10
+Juventus	AC Pistoiese	3:0	4:1	14.12.1980	00:00	1980	1981	10
+Inter	Torino FC	1:1	1:1	21.12.1980	00:00	1980	1981	11
+Juventus	Udinese Calcio	2:0	4:0	21.12.1980	00:00	1980	1981	11
+AS Roma	Ascoli Calcio	3:1	4:1	21.12.1980	00:00	1980	1981	11
+AC Pistoiese	Calcio Como	1:0	2:0	21.12.1980	00:00	1980	1981	11
+US Avellino	US Catanzaro	1:0	1:0	21.12.1980	00:00	1980	1981	11
+Cagliari Calcio	Brescia Calcio	0:1	1:2	21.12.1980	00:00	1980	1981	11
+Bologna FC	ACF Fiorentina	1:0	2:1	21.12.1980	00:00	1980	1981	11
+AC Perugia	SSC Napoli	0:0	0:0	21.12.1980	00:00	1980	1981	11
+Calcio Como	Cagliari Calcio	2:0	3:1	28.12.1980	00:00	1980	1981	12
+Torino FC	Bologna FC	0:0	1:2	28.12.1980	00:00	1980	1981	12
+ACF Fiorentina	SSC Napoli	0:0	0:1	28.12.1980	00:00	1980	1981	12
+Udinese Calcio	Brescia Calcio	0:0	0:0	28.12.1980	00:00	1980	1981	12
+US Catanzaro	AC Pistoiese	0:1	1:3	28.12.1980	00:00	1980	1981	12
+US Avellino	Juventus	0:1	1:1	28.12.1980	00:00	1980	1981	12
+Ascoli Calcio	Inter	0:1	0:1	28.12.1980	00:00	1980	1981	12
+AC Perugia	AS Roma	0:1	1:1	28.12.1980	00:00	1980	1981	12
+Inter	US Avellino	0:0	0:0	18.01.1981	00:00	1980	1981	13
+AS Roma	Juventus	0:0	0:0	18.01.1981	00:00	1980	1981	13
+Torino FC	Ascoli Calcio	1:0	3:0	18.01.1981	00:00	1980	1981	13
+SSC Napoli	Calcio Como	1:0	2:0	18.01.1981	00:00	1980	1981	13
+Cagliari Calcio	Udinese Calcio	0:1	1:1	18.01.1981	00:00	1980	1981	13
+Bologna FC	US Catanzaro	0:0	0:0	18.01.1981	00:00	1980	1981	13
+Brescia Calcio	AC Perugia	0:1	1:1	18.01.1981	00:00	1980	1981	13
+ACF Fiorentina	AC Pistoiese	1:2	1:2	18.01.1981	00:00	1980	1981	13
+Calcio Como	Brescia Calcio	1:0	2:2	25.01.1981	00:00	1980	1981	14
+AC Pistoiese	AS Roma	0:1	0:4	25.01.1981	00:00	1980	1981	14
+Juventus	SSC Napoli	0:1	1:1	25.01.1981	00:00	1980	1981	14
+Udinese Calcio	Torino FC	0:0	0:0	25.01.1981	00:00	1980	1981	14
+US Catanzaro	Cagliari Calcio	0:0	0:0	25.01.1981	00:00	1980	1981	14
+US Avellino	Bologna FC	1:0	2:0	25.01.1981	00:00	1980	1981	14
+Ascoli Calcio	ACF Fiorentina	0:0	1:0	25.01.1981	00:00	1980	1981	14
+AC Perugia	Inter	0:1	0:2	25.01.1981	00:00	1980	1981	14
+Inter	US Catanzaro	2:1	2:2	01.02.1981	00:00	1980	1981	15
+AS Roma	US Avellino	1:0	1:1	01.02.1981	00:00	1980	1981	15
+Torino FC	AC Perugia	2:0	2:0	01.02.1981	00:00	1980	1981	15
+SSC Napoli	Udinese Calcio	0:0	1:0	01.02.1981	00:00	1980	1981	15
+ACF Fiorentina	Juventus	0:0	0:1	01.02.1981	00:00	1980	1981	15
+Cagliari Calcio	AC Pistoiese	2:0	2:0	01.02.1981	00:00	1980	1981	15
+Bologna FC	Calcio Como	0:1	1:1	01.02.1981	00:00	1980	1981	15
+Brescia Calcio	Ascoli Calcio	0:1	0:1	01.02.1981	00:00	1980	1981	15
+US Avellino	Brescia Calcio	0:0	1:0	08.02.1981	00:00	1980	1981	16
+AC Pistoiese	Torino FC	0:1	1:1	08.02.1981	00:00	1980	1981	16
+AS Roma	Calcio Como	0:1	1:1	08.02.1981	00:00	1980	1981	16
+AC Perugia	ACF Fiorentina	0:0	0:0	08.02.1981	00:00	1980	1981	16
+US Catanzaro	SSC Napoli	0:0	0:0	08.02.1981	00:00	1980	1981	16
+Ascoli Calcio	Bologna FC	0:0	1:1	08.02.1981	00:00	1980	1981	16
+Inter	Udinese Calcio	2:0	2:0	08.02.1981	00:00	1980	1981	16
+Juventus	Cagliari Calcio	0:1	1:1	08.02.1981	00:00	1980	1981	16
+Calcio Como	Juventus	0:2	1:2	15.02.1981	00:00	1980	1981	17
+Torino FC	US Catanzaro	1:0	2:0	15.02.1981	00:00	1980	1981	17
+ACF Fiorentina	US Avellino	1:0	2:1	15.02.1981	00:00	1980	1981	17
+Udinese Calcio	AC Pistoiese	1:0	1:0	15.02.1981	00:00	1980	1981	17
+Cagliari Calcio	Inter	0:1	1:1	15.02.1981	00:00	1980	1981	17
+Brescia Calcio	AS Roma	0:1	1:2	15.02.1981	00:00	1980	1981	17
+Bologna FC	AC Perugia	1:0	4:0	15.02.1981	00:00	1980	1981	17
+SSC Napoli	Ascoli Calcio	1:0	1:0	15.02.1981	00:00	1980	1981	17
+Juventus	Brescia Calcio	2:0	2:0	22.02.1981	00:00	1980	1981	18
+AS Roma	Bologna FC	1:1	1:1	22.02.1981	00:00	1980	1981	18
+AC Pistoiese	SSC Napoli	0:0	0:1	22.02.1981	00:00	1980	1981	18
+AC Perugia	Udinese Calcio	0:1	1:2	22.02.1981	00:00	1980	1981	18
+Inter	Calcio Como	1:1	2:1	22.02.1981	00:00	1980	1981	18
+US Catanzaro	ACF Fiorentina	2:0	2:2	22.02.1981	00:00	1980	1981	18
+Ascoli Calcio	Cagliari Calcio	0:0	0:0	22.02.1981	00:00	1980	1981	18
+US Avellino	Torino FC	1:0	3:0	22.02.1981	00:00	1980	1981	18
+ACF Fiorentina	Udinese Calcio	0:0	1:1	01.03.1981	00:00	1980	1981	19
+AC Perugia	Ascoli Calcio	0:0	0:0	01.03.1981	00:00	1980	1981	19
+Torino FC	AS Roma	0:2	0:2	01.03.1981	00:00	1980	1981	19
+SSC Napoli	Inter	1:0	1:0	01.03.1981	00:00	1980	1981	19
+Cagliari Calcio	US Avellino	1:0	1:0	01.03.1981	00:00	1980	1981	19
+Bologna FC	Juventus	0:3	1:5	01.03.1981	00:00	1980	1981	19
+Brescia Calcio	AC Pistoiese	1:2	2:2	01.03.1981	00:00	1980	1981	19
+Calcio Como	US Catanzaro	0:0	0:0	01.03.1981	00:00	1980	1981	19
+Inter	ACF Fiorentina	1:1	1:2	08.03.1981	00:00	1980	1981	20
+Udinese Calcio	Calcio Como	1:0	2:0	08.03.1981	00:00	1980	1981	20
+AS Roma	SSC Napoli	0:0	1:1	08.03.1981	00:00	1980	1981	20
+US Avellino	AC Perugia	1:0	2:1	08.03.1981	00:00	1980	1981	20
+Juventus	Ascoli Calcio	2:0	3:0	08.03.1981	00:00	1980	1981	20
+US Catanzaro	Brescia Calcio	0:0	0:0	08.03.1981	00:00	1980	1981	20
+Cagliari Calcio	Torino FC	1:1	1:1	08.03.1981	00:00	1980	1981	20
+AC Pistoiese	Bologna FC	0:2	0:2	08.03.1981	00:00	1980	1981	20
+Calcio Como	US Avellino	0:0	2:0	15.03.1981	00:00	1980	1981	21
+AS Roma	Inter	0:0	1:0	15.03.1981	00:00	1980	1981	21
+AC Perugia	US Catanzaro	0:0	0:0	15.03.1981	00:00	1980	1981	21
+Torino FC	Juventus	0:1	0:2	15.03.1981	00:00	1980	1981	21
+ACF Fiorentina	Brescia Calcio	1:0	1:0	15.03.1981	00:00	1980	1981	21
+Bologna FC	Udinese Calcio	1:0	1:0	15.03.1981	00:00	1980	1981	21
+Ascoli Calcio	AC Pistoiese	0:0	0:0	15.03.1981	00:00	1980	1981	21
+SSC Napoli	Cagliari Calcio	0:0	2:0	15.03.1981	00:00	1980	1981	21
+US Avellino	SSC Napoli	0:0	0:0	22.03.1981	00:00	1980	1981	22
+Brescia Calcio	Bologna FC	0:0	0:0	22.03.1981	00:00	1980	1981	22
+Cagliari Calcio	ACF Fiorentina	0:0	0:0	22.03.1981	00:00	1980	1981	22
+US Catanzaro	AS Roma	0:0	1:1	22.03.1981	00:00	1980	1981	22
+Calcio Como	Torino FC	0:1	0:2	22.03.1981	00:00	1980	1981	22
+Juventus	AC Perugia	0:0	2:1	22.03.1981	00:00	1980	1981	22
+AC Pistoiese	Inter	1:0	1:2	22.03.1981	00:00	1980	1981	22
+Udinese Calcio	Ascoli Calcio	0:0	0:0	22.03.1981	00:00	1980	1981	22
+SSC Napoli	Bologna FC	2:1	2:1	29.03.1981	00:00	1980	1981	23
+AS Roma	Cagliari Calcio	0:0	1:0	29.03.1981	00:00	1980	1981	23
+AC Perugia	AC Pistoiese	2:0	3:0	29.03.1981	00:00	1980	1981	23
+ACF Fiorentina	Calcio Como	0:0	1:1	29.03.1981	00:00	1980	1981	23
+US Catanzaro	Udinese Calcio	1:0	2:1	29.03.1981	00:00	1980	1981	23
+Ascoli Calcio	US Avellino	0:0	1:1	29.03.1981	00:00	1980	1981	23
+Torino FC	Brescia Calcio	1:1	1:1	29.03.1981	00:00	1980	1981	23
+Inter	Juventus	0:0	1:0	29.03.1981	00:00	1980	1981	23
+Brescia Calcio	SSC Napoli	0:0	1:2	05.04.1981	00:00	1980	1981	24
+Udinese Calcio	AS Roma	0:1	0:2	05.04.1981	00:00	1980	1981	24
+Juventus	US Catanzaro	1:0	3:0	05.04.1981	00:00	1980	1981	24
+ACF Fiorentina	Torino FC	0:0	2:0	05.04.1981	00:00	1980	1981	24
+Cagliari Calcio	AC Perugia	2:0	2:1	05.04.1981	00:00	1980	1981	24
+Bologna FC	Inter	1:0	2:1	05.04.1981	00:00	1980	1981	24
+US Avellino	AC Pistoiese	1:0	3:0	05.04.1981	00:00	1980	1981	24
+Calcio Como	Ascoli Calcio	0:0	0:0	05.04.1981	00:00	1980	1981	24
+AC Pistoiese	Juventus	0:1	1:3	12.04.1981	00:00	1980	1981	25
+Bologna FC	Cagliari Calcio	2:1	2:1	12.04.1981	00:00	1980	1981	25
+Torino FC	SSC Napoli	0:1	0:1	12.04.1981	00:00	1980	1981	25
+AS Roma	ACF Fiorentina	0:0	1:1	12.04.1981	00:00	1980	1981	25
+Inter	Brescia Calcio	0:0	0:0	12.04.1981	00:00	1980	1981	25
+Ascoli Calcio	US Catanzaro	1:2	1:2	12.04.1981	00:00	1980	1981	25
+US Avellino	Udinese Calcio	0:0	0:0	12.04.1981	00:00	1980	1981	25
+AC Perugia	Calcio Como	0:0	0:0	12.04.1981	00:00	1980	1981	25
+Calcio Como	AC Pistoiese	1:0	1:0	26.04.1981	00:00	1980	1981	26
+Udinese Calcio	Juventus	0:2	0:2	26.04.1981	00:00	1980	1981	26
+Torino FC	Inter	0:1	0:1	26.04.1981	00:00	1980	1981	26
+ACF Fiorentina	Bologna FC	2:1	2:1	26.04.1981	00:00	1980	1981	26
+US Catanzaro	US Avellino	1:0	1:1	26.04.1981	00:00	1980	1981	26
+Brescia Calcio	Cagliari Calcio	1:0	1:0	26.04.1981	00:00	1980	1981	26
+Ascoli Calcio	AS Roma	0:0	0:0	26.04.1981	00:00	1980	1981	26
+SSC Napoli	AC Perugia	0:1	0:1	26.04.1981	00:00	1980	1981	26
+SSC Napoli	ACF Fiorentina	1:1	1:1	03.05.1981	00:00	1980	1981	27
+Bologna FC	Torino FC	0:0	1:0	03.05.1981	00:00	1980	1981	27
+AC Pistoiese	US Catanzaro	0:0	0:1	03.05.1981	00:00	1980	1981	27
+AS Roma	AC Perugia	3:0	5:0	03.05.1981	00:00	1980	1981	27
+Inter	Ascoli Calcio	0:1	1:2	03.05.1981	00:00	1980	1981	27
+Brescia Calcio	Udinese Calcio	0:0	1:1	03.05.1981	00:00	1980	1981	27
+Juventus	US Avellino	0:0	1:0	03.05.1981	00:00	1980	1981	27
+Cagliari Calcio	Calcio Como	0:0	1:1	03.05.1981	00:00	1980	1981	27
+Calcio Como	SSC Napoli	0:0	0:1	10.05.1981	00:00	1980	1981	28
+Udinese Calcio	Cagliari Calcio	0:1	2:2	10.05.1981	00:00	1980	1981	28
+AC Pistoiese	ACF Fiorentina	0:0	0:1	10.05.1981	00:00	1980	1981	28
+Juventus	AS Roma	0:0	0:0	10.05.1981	00:00	1980	1981	28
+US Catanzaro	Bologna FC	1:2	2:2	10.05.1981	00:00	1980	1981	28
+US Avellino	Inter	0:2	1:3	10.05.1981	00:00	1980	1981	28
+Ascoli Calcio	Torino FC	0:0	0:0	10.05.1981	00:00	1980	1981	28
+AC Perugia	Brescia Calcio	0:0	0:0	10.05.1981	00:00	1980	1981	28
+Brescia Calcio	Calcio Como	1:0	1:0	17.05.1981	00:00	1980	1981	29
+AS Roma	AC Pistoiese	1:0	1:0	17.05.1981	00:00	1980	1981	29
+Torino FC	Udinese Calcio	0:0	0:0	17.05.1981	00:00	1980	1981	29
+SSC Napoli	Juventus	0:0	0:1	17.05.1981	00:00	1980	1981	29
+Inter	AC Perugia	2:0	3:1	17.05.1981	00:00	1980	1981	29
+Cagliari Calcio	US Catanzaro	0:1	2:1	17.05.1981	00:00	1980	1981	29
+Bologna FC	US Avellino	0:0	0:0	17.05.1981	00:00	1980	1981	29
+ACF Fiorentina	Ascoli Calcio	1:0	2:1	17.05.1981	00:00	1980	1981	29
+Udinese Calcio	SSC Napoli	0:1	2:1	24.05.1981	00:00	1980	1981	30
+Ascoli Calcio	Brescia Calcio	0:0	0:0	24.05.1981	00:00	1980	1981	30
+US Avellino	AS Roma	1:1	1:1	24.05.1981	00:00	1980	1981	30
+US Catanzaro	Inter	0:0	0:0	24.05.1981	00:00	1980	1981	30
+Calcio Como	Bologna FC	2:1	2:1	24.05.1981	00:00	1980	1981	30
+Juventus	ACF Fiorentina	1:0	1:0	24.05.1981	00:00	1980	1981	30
+AC Perugia	Torino FC	1:0	1:0	24.05.1981	00:00	1980	1981	30
+AC Pistoiese	Cagliari Calcio	1:1	1:3	24.05.1981	00:00	1980	1981	30

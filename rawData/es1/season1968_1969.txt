@@ -1,0 +1,240 @@
+FC Barcelona	Real Sociedad	0:0	0:0	14.09.1968	00:00	1968	1969	1
+Real Zaragoza	Athletic Bilbao	0:1	0:2	15.09.1968	00:00	1968	1969	1
+Real Madrid	Espanyol Barcelona	2:1	3:1	15.09.1968	00:00	1968	1969	1
+Pontevedra CF	Valencia CF	1:0	2:0	15.09.1968	00:00	1968	1969	1
+UD Las Palmas	AtlÃ©tico Madrid	2:0	2:1	15.09.1968	00:00	1968	1969	1
+CD MÃ¡laga	Deportivo La CoruÃ±a	1:0	3:1	15.09.1968	00:00	1968	1969	1
+Granada CF	CE Sabadell	0:0	0:1	15.09.1968	00:00	1968	1969	1
+Elche CF	CÃ³rdoba CF	1:1	4:1	15.09.1968	00:00	1968	1969	1
+AtlÃ©tico Madrid	FC Barcelona	0:1	0:1	21.09.1968	00:00	1968	1969	2
+Espanyol Barcelona	UD Las Palmas	1:0	1:2	21.09.1968	00:00	1968	1969	2
+CÃ³rdoba CF	CD MÃ¡laga	1:1	2:2	22.09.1968	00:00	1968	1969	2
+Real Sociedad	Pontevedra CF	0:0	0:0	22.09.1968	00:00	1968	1969	2
+Athletic Bilbao	Elche CF	0:0	1:1	22.09.1968	00:00	1968	1969	2
+Deportivo La CoruÃ±a	Real Madrid	1:0	2:4	22.09.1968	00:00	1968	1969	2
+CE Sabadell	Real Zaragoza	0:0	1:0	22.09.1968	00:00	1968	1969	2
+Valencia CF	Granada CF	2:0	4:1	22.09.1968	00:00	1968	1969	2
+Granada CF	Real Sociedad	0:0	0:0	28.09.1968	00:00	1968	1969	3
+CD MÃ¡laga	Athletic Bilbao	3:0	4:0	28.09.1968	00:00	1968	1969	3
+UD Las Palmas	FC Barcelona	0:0	0:0	29.09.1968	00:00	1968	1969	3
+Real Madrid	CÃ³rdoba CF	1:0	2:0	29.09.1968	00:00	1968	1969	3
+Elche CF	CE Sabadell	2:0	3:0	29.09.1968	00:00	1968	1969	3
+Espanyol Barcelona	Deportivo La CoruÃ±a	1:0	4:0	29.09.1968	00:00	1968	1969	3
+Real Zaragoza	Valencia CF	2:1	3:1	29.09.1968	00:00	1968	1969	3
+Pontevedra CF	AtlÃ©tico Madrid	0:0	0:0	29.09.1968	00:00	1968	1969	3
+CE Sabadell	CD MÃ¡laga	1:0	2:1	06.10.1968	00:00	1968	1969	4
+Valencia CF	Elche CF	0:0	1:0	06.10.1968	00:00	1968	1969	4
+AtlÃ©tico Madrid	Granada CF	0:0	1:0	06.10.1968	00:00	1968	1969	4
+Real Sociedad	Real Zaragoza	1:0	2:1	06.10.1968	00:00	1968	1969	4
+Athletic Bilbao	Real Madrid	0:1	0:1	06.10.1968	00:00	1968	1969	4
+CÃ³rdoba CF	Espanyol Barcelona	2:0	5:0	06.10.1968	00:00	1968	1969	4
+UD Las Palmas	Deportivo La CoruÃ±a	0:0	2:1	06.10.1968	00:00	1968	1969	4
+FC Barcelona	Pontevedra CF	0:0	1:0	06.10.1968	00:00	1968	1969	4
+CD MÃ¡laga	Valencia CF	1:1	4:1	13.10.1968	00:00	1968	1969	5
+Deportivo La CoruÃ±a	CÃ³rdoba CF	0:0	1:0	13.10.1968	00:00	1968	1969	5
+Real Madrid	CE Sabadell	2:1	5:3	13.10.1968	00:00	1968	1969	5
+Pontevedra CF	UD Las Palmas	1:0	3:0	13.10.1968	00:00	1968	1969	5
+Real Zaragoza	AtlÃ©tico Madrid	0:0	2:0	13.10.1968	00:00	1968	1969	5
+Espanyol Barcelona	Athletic Bilbao	2:0	2:0	13.10.1968	00:00	1968	1969	5
+Granada CF	FC Barcelona	0:0	1:0	13.10.1968	00:00	1968	1969	5
+Elche CF	Real Sociedad	0:0	0:0	13.10.1968	00:00	1968	1969	5
+FC Barcelona	Real Zaragoza	2:0	4:0	20.10.1968	00:00	1968	1969	6
+AtlÃ©tico Madrid	Elche CF	0:0	0:0	20.10.1968	00:00	1968	1969	6
+Real Sociedad	CD MÃ¡laga	1:0	1:0	20.10.1968	00:00	1968	1969	6
+Pontevedra CF	Granada CF	0:0	1:0	20.10.1968	00:00	1968	1969	6
+CE Sabadell	Espanyol Barcelona	1:0	1:0	20.10.1968	00:00	1968	1969	6
+Valencia CF	Real Madrid	0:0	0:1	20.10.1968	00:00	1968	1969	6
+Athletic Bilbao	Deportivo La CoruÃ±a	1:1	2:3	20.10.1968	00:00	1968	1969	6
+CÃ³rdoba CF	UD Las Palmas	1:1	3:4	20.10.1968	00:00	1968	1969	6
+CD MÃ¡laga	AtlÃ©tico Madrid	0:0	0:0	03.11.1968	00:00	1968	1969	7
+Real Zaragoza	Pontevedra CF	0:1	2:2	03.11.1968	00:00	1968	1969	7
+Deportivo La CoruÃ±a	CE Sabadell	1:1	1:1	03.11.1968	00:00	1968	1969	7
+Real Madrid	Real Sociedad	2:1	2:1	03.11.1968	00:00	1968	1969	7
+Espanyol Barcelona	Valencia CF	0:1	0:1	03.11.1968	00:00	1968	1969	7
+CÃ³rdoba CF	Athletic Bilbao	1:1	1:1	03.11.1968	00:00	1968	1969	7
+Elche CF	FC Barcelona	0:1	1:2	03.11.1968	00:00	1968	1969	7
+UD Las Palmas	Granada CF	0:0	1:0	03.11.1968	00:00	1968	1969	7
+Valencia CF	Deportivo La CoruÃ±a	2:1	2:1	10.11.1968	00:00	1968	1969	8
+Granada CF	Real Zaragoza	0:0	1:0	10.11.1968	00:00	1968	1969	8
+CE Sabadell	CÃ³rdoba CF	0:0	4:0	10.11.1968	00:00	1968	1969	8
+Pontevedra CF	Elche CF	0:1	0:1	10.11.1968	00:00	1968	1969	8
+AtlÃ©tico Madrid	Real Madrid	0:0	0:1	10.11.1968	00:00	1968	1969	8
+Real Sociedad	Espanyol Barcelona	0:0	2:1	10.11.1968	00:00	1968	1969	8
+UD Las Palmas	Athletic Bilbao	1:0	1:1	10.11.1968	00:00	1968	1969	8
+FC Barcelona	CD MÃ¡laga	0:0	1:0	10.11.1968	00:00	1968	1969	8
+Athletic Bilbao	CE Sabadell	1:0	2:1	16.11.1968	00:00	1968	1969	9
+Real Madrid	FC Barcelona	1:1	2:1	16.11.1968	00:00	1968	1969	9
+Espanyol Barcelona	AtlÃ©tico Madrid	3:2	3:2	17.11.1968	00:00	1968	1969	9
+CD MÃ¡laga	Pontevedra CF	1:0	2:1	17.11.1968	00:00	1968	1969	9
+Elche CF	Granada CF	0:1	0:1	17.11.1968	00:00	1968	1969	9
+Deportivo La CoruÃ±a	Real Sociedad	0:0	1:1	17.11.1968	00:00	1968	1969	9
+CÃ³rdoba CF	Valencia CF	0:0	2:0	17.11.1968	00:00	1968	1969	9
+Real Zaragoza	UD Las Palmas	1:2	2:3	17.11.1968	00:00	1968	1969	9
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	2:0	5:1	24.11.1968	00:00	1968	1969	10
+Granada CF	CD MÃ¡laga	1:0	2:0	24.11.1968	00:00	1968	1969	10
+Real Sociedad	CÃ³rdoba CF	4:0	5:1	24.11.1968	00:00	1968	1969	10
+UD Las Palmas	CE Sabadell	1:0	3:1	24.11.1968	00:00	1968	1969	10
+FC Barcelona	Espanyol Barcelona	0:0	1:0	24.11.1968	00:00	1968	1969	10
+Valencia CF	Athletic Bilbao	2:0	5:1	24.11.1968	00:00	1968	1969	10
+Pontevedra CF	Real Madrid	0:0	0:0	24.11.1968	00:00	1968	1969	10
+Real Zaragoza	Elche CF	0:0	0:2	24.11.1968	00:00	1968	1969	10
+Real Madrid	Granada CF	1:0	2:1	30.11.1968	00:00	1968	1969	11
+CÃ³rdoba CF	AtlÃ©tico Madrid	0:1	0:3	01.12.1968	00:00	1968	1969	11
+Espanyol Barcelona	Pontevedra CF	2:0	2:1	01.12.1968	00:00	1968	1969	11
+UD Las Palmas	Elche CF	0:1	1:1	01.12.1968	00:00	1968	1969	11
+Athletic Bilbao	Real Sociedad	3:1	3:1	01.12.1968	00:00	1968	1969	11
+CE Sabadell	Valencia CF	1:0	2:1	01.12.1968	00:00	1968	1969	11
+Deportivo La CoruÃ±a	FC Barcelona	0:0	1:0	01.12.1968	00:00	1968	1969	11
+CD MÃ¡laga	Real Zaragoza	0:0	1:1	01.12.1968	00:00	1968	1969	11
+Elche CF	CD MÃ¡laga	0:0	0:0	08.12.1968	00:00	1968	1969	12
+Real Sociedad	CE Sabadell	1:0	1:1	08.12.1968	00:00	1968	1969	12
+Pontevedra CF	Deportivo La CoruÃ±a	0:0	0:0	08.12.1968	00:00	1968	1969	12
+FC Barcelona	CÃ³rdoba CF	3:0	4:0	18.12.1968	00:00	1968	1969	12
+Valencia CF	UD Las Palmas	2:2	2:2	18.12.1968	00:00	1968	1969	12
+Granada CF	Espanyol Barcelona	0:0	1:0	18.12.1968	00:00	1968	1969	12
+AtlÃ©tico Madrid	Athletic Bilbao	2:3	4:4	18.12.1968	00:00	1968	1969	12
+Real Zaragoza	Real Madrid	1:0	1:1	18.12.1968	00:00	1968	1969	12
+Espanyol Barcelona	Real Zaragoza	1:1	3:1	15.12.1968	00:00	1968	1969	13
+CÃ³rdoba CF	Pontevedra CF	2:0	3:1	15.12.1968	00:00	1968	1969	13
+Deportivo La CoruÃ±a	Granada CF	1:0	4:0	15.12.1968	00:00	1968	1969	13
+CD MÃ¡laga	UD Las Palmas	0:0	2:0	15.12.1968	00:00	1968	1969	13
+Valencia CF	Real Sociedad	1:0	2:1	15.12.1968	00:00	1968	1969	13
+CE Sabadell	AtlÃ©tico Madrid	0:0	0:1	15.12.1968	00:00	1968	1969	13
+Athletic Bilbao	FC Barcelona	0:1	1:1	15.12.1968	00:00	1968	1969	13
+Real Madrid	Elche CF	0:1	1:1	15.12.1968	00:00	1968	1969	13
+Pontevedra CF	Athletic Bilbao	0:0	1:0	22.12.1968	00:00	1968	1969	14
+FC Barcelona	CE Sabadell	0:0	2:0	22.12.1968	00:00	1968	1969	14
+Granada CF	CÃ³rdoba CF	2:0	3:0	22.12.1968	00:00	1968	1969	14
+Real Zaragoza	Deportivo La CoruÃ±a	1:0	3:1	22.12.1968	00:00	1968	1969	14
+UD Las Palmas	Real Sociedad	1:0	4:0	22.12.1968	00:00	1968	1969	14
+Elche CF	Espanyol Barcelona	1:0	1:0	22.12.1968	00:00	1968	1969	14
+CD MÃ¡laga	Real Madrid	1:1	1:2	22.12.1968	00:00	1968	1969	14
+AtlÃ©tico Madrid	Valencia CF	0:1	2:2	22.12.1968	00:00	1968	1969	14
+CE Sabadell	Pontevedra CF	1:1	1:1	29.12.1968	00:00	1968	1969	15
+Valencia CF	FC Barcelona	0:0	0:0	29.12.1968	00:00	1968	1969	15
+Real Sociedad	AtlÃ©tico Madrid	1:0	2:2	29.12.1968	00:00	1968	1969	15
+CÃ³rdoba CF	Real Zaragoza	0:1	0:1	29.12.1968	00:00	1968	1969	15
+Real Madrid	UD Las Palmas	1:0	2:0	29.12.1968	00:00	1968	1969	15
+Espanyol Barcelona	CD MÃ¡laga	2:1	2:1	29.12.1968	00:00	1968	1969	15
+Deportivo La CoruÃ±a	Elche CF	3:1	4:2	29.12.1968	00:00	1968	1969	15
+Athletic Bilbao	Granada CF	2:0	4:2	29.12.1968	00:00	1968	1969	15
+Deportivo La CoruÃ±a	CD MÃ¡laga	1:0	2:0	04.01.1969	00:00	1968	1969	16
+Espanyol Barcelona	Real Madrid	0:1	1:1	05.01.1969	00:00	1968	1969	16
+Real Sociedad	FC Barcelona	1:0	2:1	05.01.1969	00:00	1968	1969	16
+Athletic Bilbao	Real Zaragoza	2:0	3:0	05.01.1969	00:00	1968	1969	16
+CÃ³rdoba CF	Elche CF	0:0	0:0	05.01.1969	00:00	1968	1969	16
+CE Sabadell	Granada CF	0:0	2:1	05.01.1969	00:00	1968	1969	16
+Valencia CF	Pontevedra CF	1:0	2:0	05.01.1969	00:00	1968	1969	16
+AtlÃ©tico Madrid	UD Las Palmas	0:1	1:1	06.01.1969	00:00	1968	1969	16
+Pontevedra CF	Real Sociedad	1:0	1:0	12.01.1969	00:00	1968	1969	17
+CD MÃ¡laga	CÃ³rdoba CF	0:1	1:1	12.01.1969	00:00	1968	1969	17
+Real Madrid	Deportivo La CoruÃ±a	1:0	2:1	12.01.1969	00:00	1968	1969	17
+Elche CF	Athletic Bilbao	0:0	1:1	12.01.1969	00:00	1968	1969	17
+Granada CF	Valencia CF	1:0	3:0	12.01.1969	00:00	1968	1969	17
+UD Las Palmas	Espanyol Barcelona	0:0	1:0	12.01.1969	00:00	1968	1969	17
+FC Barcelona	AtlÃ©tico Madrid	2:1	4:1	12.01.1969	00:00	1968	1969	17
+Real Zaragoza	CE Sabadell	2:0	3:0	12.01.1969	00:00	1968	1969	17
+Valencia CF	Real Zaragoza	0:0	0:0	19.01.1969	00:00	1968	1969	18
+AtlÃ©tico Madrid	Pontevedra CF	0:0	1:0	19.01.1969	00:00	1968	1969	18
+Real Sociedad	Granada CF	2:0	5:1	19.01.1969	00:00	1968	1969	18
+CE Sabadell	Elche CF	3:0	3:0	19.01.1969	00:00	1968	1969	18
+FC Barcelona	UD Las Palmas	0:0	1:2	19.01.1969	00:00	1968	1969	18
+Deportivo La CoruÃ±a	Espanyol Barcelona	1:1	1:1	19.01.1969	00:00	1968	1969	18
+CÃ³rdoba CF	Real Madrid	2:0	2:2	19.01.1969	00:00	1968	1969	18
+Athletic Bilbao	CD MÃ¡laga	2:2	4:3	19.01.1969	00:00	1968	1969	18
+Real Zaragoza	Real Sociedad	2:1	2:2	26.01.1969	00:00	1968	1969	19
+Deportivo La CoruÃ±a	UD Las Palmas	0:0	2:0	26.01.1969	00:00	1968	1969	19
+CD MÃ¡laga	CE Sabadell	3:0	4:2	26.01.1969	00:00	1968	1969	19
+Elche CF	Valencia CF	0:0	0:0	26.01.1969	00:00	1968	1969	19
+Pontevedra CF	FC Barcelona	0:1	0:1	26.01.1969	00:00	1968	1969	19
+Real Madrid	Athletic Bilbao	1:0	2:1	26.01.1969	00:00	1968	1969	19
+Granada CF	AtlÃ©tico Madrid	1:0	2:0	26.01.1969	00:00	1968	1969	19
+Espanyol Barcelona	CÃ³rdoba CF	0:0	3:0	26.01.1969	00:00	1968	1969	19
+AtlÃ©tico Madrid	Real Zaragoza	0:0	1:0	02.02.1969	00:00	1968	1969	20
+UD Las Palmas	Pontevedra CF	0:0	1:0	02.02.1969	00:00	1968	1969	20
+FC Barcelona	Granada CF	2:0	4:0	02.02.1969	00:00	1968	1969	20
+Real Sociedad	Elche CF	0:0	1:0	02.02.1969	00:00	1968	1969	20
+CÃ³rdoba CF	Deportivo La CoruÃ±a	0:0	0:0	02.02.1969	00:00	1968	1969	20
+Athletic Bilbao	Espanyol Barcelona	0:0	1:0	02.02.1969	00:00	1968	1969	20
+CE Sabadell	Real Madrid	0:0	0:0	02.02.1969	00:00	1968	1969	20
+Valencia CF	CD MÃ¡laga	0:0	0:0	02.02.1969	00:00	1968	1969	20
+Real Madrid	Valencia CF	0:0	0:0	09.02.1969	00:00	1968	1969	21
+UD Las Palmas	CÃ³rdoba CF	3:0	4:0	09.02.1969	00:00	1968	1969	21
+Espanyol Barcelona	CE Sabadell	1:1	1:1	09.02.1969	00:00	1968	1969	21
+Granada CF	Pontevedra CF	0:0	0:0	09.02.1969	00:00	1968	1969	21
+Deportivo La CoruÃ±a	Athletic Bilbao	0:0	1:0	09.02.1969	00:00	1968	1969	21
+Real Zaragoza	FC Barcelona	0:0	0:0	09.02.1969	00:00	1968	1969	21
+CD MÃ¡laga	Real Sociedad	1:0	1:0	09.02.1969	00:00	1968	1969	21
+Elche CF	AtlÃ©tico Madrid	1:1	2:2	09.02.1969	00:00	1968	1969	21
+Granada CF	UD Las Palmas	0:2	2:2	16.02.1969	00:00	1968	1969	22
+Athletic Bilbao	CÃ³rdoba CF	2:0	3:0	16.02.1969	00:00	1968	1969	22
+FC Barcelona	Elche CF	1:0	1:1	16.02.1969	00:00	1968	1969	22
+CE Sabadell	Deportivo La CoruÃ±a	0:0	0:0	16.02.1969	00:00	1968	1969	22
+Pontevedra CF	Real Zaragoza	0:0	0:0	16.02.1969	00:00	1968	1969	22
+Valencia CF	Espanyol Barcelona	1:0	2:2	16.02.1969	00:00	1968	1969	22
+Real Sociedad	Real Madrid	0:1	0:2	16.02.1969	00:00	1968	1969	22
+AtlÃ©tico Madrid	CD MÃ¡laga	0:1	4:1	16.02.1969	00:00	1968	1969	22
+Athletic Bilbao	UD Las Palmas	1:1	2:1	02.03.1969	00:00	1968	1969	23
+Elche CF	Pontevedra CF	0:0	0:0	02.03.1969	00:00	1968	1969	23
+CÃ³rdoba CF	CE Sabadell	0:0	0:1	02.03.1969	00:00	1968	1969	23
+Espanyol Barcelona	Real Sociedad	0:0	1:0	02.03.1969	00:00	1968	1969	23
+Real Madrid	AtlÃ©tico Madrid	0:0	0:0	02.03.1969	00:00	1968	1969	23
+Deportivo La CoruÃ±a	Valencia CF	1:0	1:2	02.03.1969	00:00	1968	1969	23
+CD MÃ¡laga	FC Barcelona	0:3	0:3	02.03.1969	00:00	1968	1969	23
+Real Zaragoza	Granada CF	1:0	6:0	02.03.1969	00:00	1968	1969	23
+UD Las Palmas	Real Zaragoza	1:0	2:1	09.03.1969	00:00	1968	1969	24
+Valencia CF	CÃ³rdoba CF	2:2	2:2	09.03.1969	00:00	1968	1969	24
+Granada CF	Elche CF	1:0	1:0	09.03.1969	00:00	1968	1969	24
+Real Sociedad	Deportivo La CoruÃ±a	0:1	1:3	09.03.1969	00:00	1968	1969	24
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	1:0	09.03.1969	00:00	1968	1969	24
+CE Sabadell	Athletic Bilbao	0:0	1:1	09.03.1969	00:00	1968	1969	24
+FC Barcelona	Real Madrid	1:0	1:1	09.03.1969	00:00	1968	1969	24
+Pontevedra CF	CD MÃ¡laga	1:0	1:0	09.03.1969	00:00	1968	1969	24
+Athletic Bilbao	Valencia CF	0:1	1:2	15.03.1969	00:00	1968	1969	25
+CÃ³rdoba CF	Real Sociedad	0:0	1:1	16.03.1969	00:00	1968	1969	25
+Elche CF	Real Zaragoza	0:0	0:0	16.03.1969	00:00	1968	1969	25
+Real Madrid	Pontevedra CF	2:1	2:2	16.03.1969	00:00	1968	1969	25
+CD MÃ¡laga	Granada CF	0:0	0:0	16.03.1969	00:00	1968	1969	25
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	1:0	3:1	16.03.1969	00:00	1968	1969	25
+Espanyol Barcelona	FC Barcelona	0:0	0:0	16.03.1969	00:00	1968	1969	25
+CE Sabadell	UD Las Palmas	0:0	1:1	16.03.1969	00:00	1968	1969	25
+Pontevedra CF	Espanyol Barcelona	1:0	1:0	22.03.1969	00:00	1968	1969	26
+Elche CF	UD Las Palmas	0:0	0:0	23.03.1969	00:00	1968	1969	26
+AtlÃ©tico Madrid	CÃ³rdoba CF	0:0	1:2	23.03.1969	00:00	1968	1969	26
+Valencia CF	CE Sabadell	0:0	0:0	23.03.1969	00:00	1968	1969	26
+FC Barcelona	Deportivo La CoruÃ±a	1:1	4:1	23.03.1969	00:00	1968	1969	26
+Real Sociedad	Athletic Bilbao	2:0	2:0	23.03.1969	00:00	1968	1969	26
+Granada CF	Real Madrid	0:0	0:0	23.03.1969	00:00	1968	1969	26
+Real Zaragoza	CD MÃ¡laga	3:0	4:0	23.03.1969	00:00	1968	1969	26
+UD Las Palmas	Valencia CF	2:0	2:1	30.03.1969	00:00	1968	1969	27
+Deportivo La CoruÃ±a	Pontevedra CF	2:0	2:0	30.03.1969	00:00	1968	1969	27
+Espanyol Barcelona	Granada CF	0:0	0:0	30.03.1969	00:00	1968	1969	27
+CD MÃ¡laga	Elche CF	0:0	1:0	30.03.1969	00:00	1968	1969	27
+Athletic Bilbao	AtlÃ©tico Madrid	0:0	0:2	30.03.1969	00:00	1968	1969	27
+Real Madrid	Real Zaragoza	1:0	2:0	30.03.1969	00:00	1968	1969	27
+CÃ³rdoba CF	FC Barcelona	2:1	2:1	30.03.1969	00:00	1968	1969	27
+CE Sabadell	Real Sociedad	0:0	1:0	30.03.1969	00:00	1968	1969	27
+Granada CF	Deportivo La CoruÃ±a	0:0	1:0	06.04.1969	00:00	1968	1969	28
+Pontevedra CF	CÃ³rdoba CF	0:0	0:0	06.04.1969	00:00	1968	1969	28
+UD Las Palmas	CD MÃ¡laga	2:1	3:1	06.04.1969	00:00	1968	1969	28
+Real Sociedad	Valencia CF	3:0	4:0	06.04.1969	00:00	1968	1969	28
+Real Zaragoza	Espanyol Barcelona	0:0	0:0	06.04.1969	00:00	1968	1969	28
+Elche CF	Real Madrid	0:0	1:0	06.04.1969	00:00	1968	1969	28
+AtlÃ©tico Madrid	CE Sabadell	0:1	2:2	06.04.1969	00:00	1968	1969	28
+FC Barcelona	Athletic Bilbao	0:1	0:1	07.04.1969	00:00	1968	1969	28
+Athletic Bilbao	Pontevedra CF	0:1	2:2	12.04.1969	00:00	1968	1969	29
+Valencia CF	AtlÃ©tico Madrid	2:0	2:1	12.04.1969	00:00	1968	1969	29
+Espanyol Barcelona	Elche CF	0:1	1:1	13.04.1969	00:00	1968	1969	29
+CÃ³rdoba CF	Granada CF	0:0	1:1	13.04.1969	00:00	1968	1969	29
+Real Madrid	CD MÃ¡laga	1:0	2:0	13.04.1969	00:00	1968	1969	29
+Real Sociedad	UD Las Palmas	1:0	1:0	13.04.1969	00:00	1968	1969	29
+CE Sabadell	FC Barcelona	0:0	0:0	13.04.1969	00:00	1968	1969	29
+Deportivo La CoruÃ±a	Real Zaragoza	0:0	0:1	13.04.1969	00:00	1968	1969	29
+FC Barcelona	Valencia CF	0:0	1:1	16.04.1969	00:00	1968	1969	30
+Real Zaragoza	CÃ³rdoba CF	1:1	2:2	20.04.1969	00:00	1968	1969	30
+UD Las Palmas	Real Madrid	0:0	0:1	20.04.1969	00:00	1968	1969	30
+Granada CF	Athletic Bilbao	0:0	1:0	20.04.1969	00:00	1968	1969	30
+CD MÃ¡laga	Espanyol Barcelona	2:0	4:0	20.04.1969	00:00	1968	1969	30
+AtlÃ©tico Madrid	Real Sociedad	1:0	1:0	20.04.1969	00:00	1968	1969	30
+Elche CF	Deportivo La CoruÃ±a	0:0	2:0	20.04.1969	00:00	1968	1969	30
+Pontevedra CF	CE Sabadell	0:0	0:0	20.04.1969	00:00	1968	1969	30

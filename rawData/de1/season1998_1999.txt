@@ -1,0 +1,306 @@
+MSV Duisburg	Eintracht Frankfurt	1:1	2:1	14.08.1998	19:30	1998	1999	1
+VfB Stuttgart	Borussia Dortmund	2:1	2:1	14.08.1998	20:00	1998	1999	1
+VfL Wolfsburg	Bayern MÃ¼nchen	0:0	0:1	15.08.1998	15:30	1998	1999	1
+Bayer Leverkusen	Hansa Rostock	1:1	3:1	15.08.1998	15:30	1998	1999	1
+VfL Bochum	SC Freiburg	0:0	1:2	15.08.1998	15:30	1998	1999	1
+1. FC NÃ¼rnberg	Hamburger SV	0:0	1:1	15.08.1998	15:30	1998	1999	1
+Bor. MÃ¶nchengladbach	FC Schalke 04	2:0	3:0	15.08.1998	15:30	1998	1999	1
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	1:1	1:2	15.08.1998	15:30	1998	1999	1
+Hertha BSC	Werder Bremen	0:0	1:0	16.08.1998	18:00	1998	1999	1
+Werder Bremen	1. FC NÃ¼rnberg	2:2	2:3	21.08.1998	20:00	1998	1999	2
+Hansa Rostock	VfL Wolfsburg	2:2	3:3	21.08.1998	20:00	1998	1999	2
+Eintracht Frankfurt	TSV 1860 MÃ¼nchen	1:1	2:3	22.08.1998	15:30	1998	1999	2
+FC Schalke 04	VfB Stuttgart	0:0	1:0	22.08.1998	15:30	1998	1999	2
+Borussia Dortmund	Hertha BSC	1:0	3:0	22.08.1998	15:30	1998	1999	2
+SC Freiburg	Bayer Leverkusen	0:0	1:1	22.08.1998	15:30	1998	1999	2
+Bayern MÃ¼nchen	MSV Duisburg	1:1	3:1	22.08.1998	15:30	1998	1999	2
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	1:0	2:1	22.08.1998	15:30	1998	1999	2
+Hamburger SV	VfL Bochum	1:0	1:0	23.08.1998	18:00	1998	1999	2
+MSV Duisburg	TSV 1860 MÃ¼nchen	1:0	1:1	08.09.1998	19:30	1998	1999	3
+VfL Wolfsburg	SC Freiburg	0:1	1:1	08.09.1998	20:00	1998	1999	3
+VfL Bochum	Werder Bremen	1:0	2:0	08.09.1998	20:00	1998	1999	3
+VfB Stuttgart	1. FC Kaiserslautern	1:0	4:0	08.09.1998	20:00	1998	1999	3
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:0	1:1	08.09.1998	20:00	1998	1999	3
+1. FC NÃ¼rnberg	Borussia Dortmund	0:0	0:0	09.09.1998	19:30	1998	1999	3
+Bayer Leverkusen	Hamburger SV	0:0	1:2	09.09.1998	20:00	1998	1999	3
+Hertha BSC	FC Schalke 04	0:0	2:0	09.09.1998	20:00	1998	1999	3
+Bayern MÃ¼nchen	Hansa Rostock	0:0	6:1	09.09.1998	20:00	1998	1999	3
+Eintracht Frankfurt	VfB Stuttgart	0:0	1:1	11.09.1998	20:00	1998	1999	4
+TSV 1860 MÃ¼nchen	Bor. MÃ¶nchengladbach	2:0	3:1	11.09.1998	20:00	1998	1999	4
+FC Schalke 04	1. FC NÃ¼rnberg	2:0	2:2	12.09.1998	15:30	1998	1999	4
+Werder Bremen	Bayer Leverkusen	0:1	2:2	12.09.1998	15:30	1998	1999	4
+Hamburger SV	VfL Wolfsburg	1:0	1:1	12.09.1998	15:30	1998	1999	4
+SC Freiburg	Bayern MÃ¼nchen	0:2	0:2	12.09.1998	15:30	1998	1999	4
+Hansa Rostock	MSV Duisburg	0:0	3:0	12.09.1998	15:30	1998	1999	4
+1. FC Kaiserslautern	Hertha BSC	1:2	4:3	12.09.1998	15:30	1998	1999	4
+Borussia Dortmund	VfL Bochum	0:0	0:1	13.09.1998	18:00	1998	1999	4
+Hertha BSC	Eintracht Frankfurt	1:1	3:1	18.09.1998	20:00	1998	1999	5
+Hansa Rostock	SC Freiburg	0:0	0:2	18.09.1998	20:00	1998	1999	5
+VfL Wolfsburg	Werder Bremen	0:3	2:4	19.09.1998	15:30	1998	1999	5
+Bayer Leverkusen	Borussia Dortmund	1:0	3:1	19.09.1998	15:30	1998	1999	5
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	1:0	1:1	19.09.1998	15:30	1998	1999	5
+VfL Bochum	FC Schalke 04	0:0	1:2	19.09.1998	15:30	1998	1999	5
+VfB Stuttgart	TSV 1860 MÃ¼nchen	0:0	0:1	19.09.1998	15:30	1998	1999	5
+Bayern MÃ¼nchen	Hamburger SV	2:1	5:3	20.09.1998	18:00	1998	1999	5
+MSV Duisburg	Bor. MÃ¶nchengladbach	1:0	2:2	20.09.1998	18:00	1998	1999	5
+Hamburger SV	Hansa Rostock	0:0	1:0	25.09.1998	20:00	1998	1999	6
+TSV 1860 MÃ¼nchen	Hertha BSC	1:0	2:0	25.09.1998	20:00	1998	1999	6
+FC Schalke 04	Bayer Leverkusen	0:0	0:1	26.09.1998	15:30	1998	1999	6
+Borussia Dortmund	VfL Wolfsburg	1:1	2:1	26.09.1998	15:30	1998	1999	6
+Werder Bremen	Bayern MÃ¼nchen	0:0	0:1	26.09.1998	15:30	1998	1999	6
+SC Freiburg	MSV Duisburg	1:0	2:2	26.09.1998	15:30	1998	1999	6
+Bor. MÃ¶nchengladbach	VfB Stuttgart	2:2	2:3	26.09.1998	15:30	1998	1999	6
+1. FC Kaiserslautern	VfL Bochum	1:0	2:3	26.09.1998	15:30	1998	1999	6
+Eintracht Frankfurt	1. FC NÃ¼rnberg	1:1	3:2	27.09.1998	18:00	1998	1999	6
+VfL Wolfsburg	FC Schalke 04	0:0	0:0	02.10.1998	20:00	1998	1999	7
+Hertha BSC	Bor. MÃ¶nchengladbach	1:1	4:1	02.10.1998	20:00	1998	1999	7
+Bayer Leverkusen	1. FC Kaiserslautern	1:2	2:2	03.10.1998	15:30	1998	1999	7
+VfL Bochum	Eintracht Frankfurt	0:0	0:0	03.10.1998	15:30	1998	1999	7
+1. FC NÃ¼rnberg	TSV 1860 MÃ¼nchen	0:2	1:5	03.10.1998	15:30	1998	1999	7
+SC Freiburg	Hamburger SV	0:0	0:0	03.10.1998	15:30	1998	1999	7
+Hansa Rostock	Werder Bremen	1:1	2:1	03.10.1998	15:30	1998	1999	7
+Bayern MÃ¼nchen	Borussia Dortmund	2:1	2:2	04.10.1998	18:00	1998	1999	7
+MSV Duisburg	VfB Stuttgart	1:0	2:0	04.10.1998	20:00	1998	1999	7
+TSV 1860 MÃ¼nchen	VfL Bochum	2:1	2:1	16.10.1998	20:00	1998	1999	8
+1. FC Kaiserslautern	VfL Wolfsburg	0:0	1:1	16.10.1998	20:00	1998	1999	8
+Eintracht Frankfurt	Bayer Leverkusen	2:0	2:3	17.10.1998	15:30	1998	1999	8
+FC Schalke 04	Bayern MÃ¼nchen	1:2	1:3	17.10.1998	15:30	1998	1999	8
+Werder Bremen	SC Freiburg	1:3	2:3	17.10.1998	15:30	1998	1999	8
+Hamburger SV	MSV Duisburg	2:0	4:1	17.10.1998	15:30	1998	1999	8
+VfB Stuttgart	Hertha BSC	0:0	0:0	17.10.1998	15:30	1998	1999	8
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	0:1	0:2	17.10.1998	15:30	1998	1999	8
+Borussia Dortmund	Hansa Rostock	1:0	2:0	18.10.1998	18:00	1998	1999	8
+Hamburger SV	Werder Bremen	0:0	1:1	23.10.1998	20:00	1998	1999	9
+SC Freiburg	Borussia Dortmund	1:1	2:2	23.10.1998	20:00	1998	1999	9
+VfL Wolfsburg	Eintracht Frankfurt	1:0	2:0	24.10.1998	15:30	1998	1999	9
+VfL Bochum	Bor. MÃ¶nchengladbach	1:1	2:1	24.10.1998	15:30	1998	1999	9
+1. FC NÃ¼rnberg	VfB Stuttgart	0:2	2:2	24.10.1998	15:30	1998	1999	9
+Hansa Rostock	FC Schalke 04	0:0	2:2	24.10.1998	15:30	1998	1999	9
+Bayern MÃ¼nchen	1. FC Kaiserslautern	2:0	4:0	24.10.1998	15:30	1998	1999	9
+Bayer Leverkusen	TSV 1860 MÃ¼nchen	1:0	1:1	25.10.1998	18:00	1998	1999	9
+MSV Duisburg	Hertha BSC	0:0	0:0	25.10.1998	18:00	1998	1999	9
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	0:4	2:8	30.10.1998	20:00	1998	1999	10
+1. FC Kaiserslautern	Hansa Rostock	0:2	3:2	30.10.1998	20:00	1998	1999	10
+Eintracht Frankfurt	Bayern MÃ¼nchen	1:0	1:0	31.10.1998	15:30	1998	1999	10
+Werder Bremen	MSV Duisburg	0:1	1:1	31.10.1998	15:30	1998	1999	10
+VfB Stuttgart	VfL Bochum	2:1	4:2	31.10.1998	15:30	1998	1999	10
+TSV 1860 MÃ¼nchen	VfL Wolfsburg	0:1	2:3	31.10.1998	15:30	1998	1999	10
+Hertha BSC	1. FC NÃ¼rnberg	3:0	3:0	01.11.1998	18:00	1998	1999	10
+FC Schalke 04	SC Freiburg	1:0	1:1	03.11.1998	20:00	1998	1999	10
+Borussia Dortmund	Hamburger SV	1:0	2:1	24.11.1998	19:30	1998	1999	10
+MSV Duisburg	1. FC NÃ¼rnberg	0:1	1:1	06.11.1998	19:30	1998	1999	11
+Werder Bremen	Borussia Dortmund	0:1	1:1	06.11.1998	20:00	1998	1999	11
+VfL Wolfsburg	Bor. MÃ¶nchengladbach	4:1	7:1	07.11.1998	15:30	1998	1999	11
+VfL Bochum	Hertha BSC	0:0	2:0	07.11.1998	15:30	1998	1999	11
+Hamburger SV	FC Schalke 04	1:0	2:2	07.11.1998	15:30	1998	1999	11
+SC Freiburg	1. FC Kaiserslautern	0:1	0:1	07.11.1998	15:30	1998	1999	11
+Hansa Rostock	Eintracht Frankfurt	1:1	2:2	07.11.1998	15:30	1998	1999	11
+Bayern MÃ¼nchen	TSV 1860 MÃ¼nchen	0:0	3:1	07.11.1998	15:30	1998	1999	11
+Bayer Leverkusen	VfB Stuttgart	0:0	0:0	08.11.1998	18:00	1998	1999	11
+TSV 1860 MÃ¼nchen	Hansa Rostock	1:0	2:1	10.11.1998	20:00	1998	1999	12
+1. FC Kaiserslautern	Hamburger SV	0:0	1:0	10.11.1998	20:00	1998	1999	12
+1. FC NÃ¼rnberg	VfL Bochum	1:1	2:2	11.11.1998	19:30	1998	1999	12
+Eintracht Frankfurt	SC Freiburg	2:1	3:1	11.11.1998	20:00	1998	1999	12
+Borussia Dortmund	MSV Duisburg	2:0	2:0	11.11.1998	20:00	1998	1999	12
+Hertha BSC	Bayer Leverkusen	0:0	0:1	11.11.1998	20:00	1998	1999	12
+VfB Stuttgart	VfL Wolfsburg	1:1	1:2	11.11.1998	20:00	1998	1999	12
+FC Schalke 04	Werder Bremen	0:0	1:2	24.11.1998	20:00	1998	1999	12
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:2	0:2	16.12.1998	20:00	1998	1999	12
+Werder Bremen	1. FC Kaiserslautern	0:0	0:1	13.11.1998	20:00	1998	1999	13
+Hansa Rostock	Bor. MÃ¶nchengladbach	0:1	1:1	13.11.1998	20:00	1998	1999	13
+VfL Wolfsburg	Hertha BSC	2:1	2:1	14.11.1998	15:30	1998	1999	13
+Bayer Leverkusen	1. FC NÃ¼rnberg	3:0	3:0	14.11.1998	15:30	1998	1999	13
+Borussia Dortmund	FC Schalke 04	2:0	3:0	14.11.1998	15:30	1998	1999	13
+Hamburger SV	Eintracht Frankfurt	0:1	0:1	14.11.1998	15:30	1998	1999	13
+Bayern MÃ¼nchen	VfB Stuttgart	0:0	2:0	14.11.1998	15:30	1998	1999	13
+MSV Duisburg	VfL Bochum	1:0	2:0	14.11.1998	15:30	1998	1999	13
+SC Freiburg	TSV 1860 MÃ¼nchen	1:0	1:2	15.11.1998	18:00	1998	1999	13
+Eintracht Frankfurt	Werder Bremen	0:0	0:2	20.11.1998	20:00	1998	1999	14
+FC Schalke 04	MSV Duisburg	1:0	2:0	20.11.1998	20:00	1998	1999	14
+VfL Bochum	Bayer Leverkusen	0:2	1:5	21.11.1998	15:30	1998	1999	14
+1. FC NÃ¼rnberg	VfL Wolfsburg	0:0	1:1	21.11.1998	15:30	1998	1999	14
+Hertha BSC	Bayern MÃ¼nchen	0:0	1:0	21.11.1998	15:30	1998	1999	14
+VfB Stuttgart	Hansa Rostock	1:0	1:1	21.11.1998	15:30	1998	1999	14
+TSV 1860 MÃ¼nchen	Hamburger SV	0:0	0:0	21.11.1998	15:30	1998	1999	14
+1. FC Kaiserslautern	Borussia Dortmund	0:0	1:0	21.11.1998	15:30	1998	1999	14
+Bor. MÃ¶nchengladbach	SC Freiburg	2:1	3:1	22.11.1998	18:00	1998	1999	14
+Borussia Dortmund	Eintracht Frankfurt	1:0	3:1	27.11.1998	20:00	1998	1999	15
+Hansa Rostock	Hertha BSC	0:0	1:2	27.11.1998	20:00	1998	1999	15
+Bayer Leverkusen	MSV Duisburg	1:0	2:0	28.11.1998	15:30	1998	1999	15
+VfL Wolfsburg	VfL Bochum	2:1	4:1	28.11.1998	15:30	1998	1999	15
+Werder Bremen	TSV 1860 MÃ¼nchen	1:1	4:1	28.11.1998	15:30	1998	1999	15
+Hamburger SV	Bor. MÃ¶nchengladbach	2:0	3:0	28.11.1998	15:30	1998	1999	15
+SC Freiburg	VfB Stuttgart	2:0	2:0	28.11.1998	15:30	1998	1999	15
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	1:0	2:0	28.11.1998	15:30	1998	1999	15
+1. FC Kaiserslautern	FC Schalke 04	1:1	4:1	29.11.1998	18:00	1998	1999	15
+1. FC NÃ¼rnberg	Hansa Rostock	2:1	2:2	04.12.1998	19:30	1998	1999	16
+VfL Bochum	Bayern MÃ¼nchen	1:1	2:2	04.12.1998	20:00	1998	1999	16
+Eintracht Frankfurt	FC Schalke 04	0:2	1:2	05.12.1998	15:30	1998	1999	16
+Bayer Leverkusen	VfL Wolfsburg	2:0	3:0	05.12.1998	15:30	1998	1999	16
+VfB Stuttgart	Hamburger SV	1:1	3:1	05.12.1998	15:30	1998	1999	16
+TSV 1860 MÃ¼nchen	Borussia Dortmund	1:0	2:0	06.12.1998	18:00	1998	1999	16
+Bor. MÃ¶nchengladbach	Werder Bremen	0:1	0:1	08.12.1998	20:00	1998	1999	16
+Hertha BSC	SC Freiburg	1:0	1:0	15.12.1998	20:00	1998	1999	16
+MSV Duisburg	1. FC Kaiserslautern	0:1	3:1	16.12.1998	19:30	1998	1999	16
+Borussia Dortmund	Bor. MÃ¶nchengladbach	1:1	1:1	11.12.1998	20:00	1998	1999	17
+Hamburger SV	Hertha BSC	0:1	0:4	11.12.1998	20:00	1998	1999	17
+VfL Wolfsburg	MSV Duisburg	1:0	4:2	12.12.1998	15:30	1998	1999	17
+FC Schalke 04	TSV 1860 MÃ¼nchen	0:1	2:2	12.12.1998	15:30	1998	1999	17
+Werder Bremen	VfB Stuttgart	0:1	2:2	12.12.1998	15:30	1998	1999	17
+SC Freiburg	1. FC NÃ¼rnberg	1:0	1:0	12.12.1998	15:30	1998	1999	17
+Hansa Rostock	VfL Bochum	1:0	3:0	12.12.1998	15:30	1998	1999	17
+1. FC Kaiserslautern	Eintracht Frankfurt	1:0	2:1	12.12.1998	15:30	1998	1999	17
+Bayern MÃ¼nchen	Bayer Leverkusen	2:0	2:0	13.12.1998	18:00	1998	1999	17
+SC Freiburg	VfL Bochum	0:0	1:1	18.12.1998	20:00	1998	1999	18
+Borussia Dortmund	VfB Stuttgart	1:0	3:0	18.12.1998	20:00	1998	1999	18
+Bayern MÃ¼nchen	VfL Wolfsburg	1:0	3:0	19.12.1998	15:30	1998	1999	18
+Hansa Rostock	Bayer Leverkusen	0:1	1:1	19.12.1998	15:30	1998	1999	18
+Hamburger SV	1. FC NÃ¼rnberg	0:0	2:0	19.12.1998	15:30	1998	1999	18
+FC Schalke 04	Bor. MÃ¶nchengladbach	0:0	1:0	19.12.1998	15:30	1998	1999	18
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	0:0	1:1	19.12.1998	15:30	1998	1999	18
+Eintracht Frankfurt	MSV Duisburg	0:0	0:0	19.12.1998	15:30	1998	1999	18
+Werder Bremen	Hertha BSC	1:0	2:1	20.12.1998	18:00	1998	1999	18
+VfL Wolfsburg	Hansa Rostock	0:1	1:1	19.02.1999	20:00	1998	1999	19
+TSV 1860 MÃ¼nchen	Eintracht Frankfurt	4:0	4:1	20.02.1999	15:30	1998	1999	19
+VfB Stuttgart	FC Schalke 04	0:0	2:1	20.02.1999	15:30	1998	1999	19
+Hertha BSC	Borussia Dortmund	0:0	3:0	20.02.1999	15:30	1998	1999	19
+1. FC NÃ¼rnberg	Werder Bremen	1:1	1:1	20.02.1999	15:30	1998	1999	19
+Bayer Leverkusen	SC Freiburg	0:1	1:1	20.02.1999	15:30	1998	1999	19
+MSV Duisburg	Bayern MÃ¼nchen	0:2	0:3	20.02.1999	15:30	1998	1999	19
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	0:1	0:2	21.02.1999	18:00	1998	1999	19
+VfL Bochum	Hamburger SV	1:0	2:0	16.03.1999	20:00	1998	1999	19
+Werder Bremen	VfL Bochum	0:1	1:1	26.02.1999	20:00	1998	1999	20
+1. FC Kaiserslautern	VfB Stuttgart	0:0	1:1	26.02.1999	20:00	1998	1999	20
+SC Freiburg	VfL Wolfsburg	0:0	0:0	27.02.1999	15:30	1998	1999	20
+Hamburger SV	Bayer Leverkusen	0:0	0:0	27.02.1999	15:30	1998	1999	20
+Borussia Dortmund	1. FC NÃ¼rnberg	1:0	3:0	27.02.1999	15:30	1998	1999	20
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	0:0	0:0	27.02.1999	15:30	1998	1999	20
+Hansa Rostock	Bayern MÃ¼nchen	0:0	0:4	27.02.1999	15:30	1998	1999	20
+TSV 1860 MÃ¼nchen	MSV Duisburg	0:0	0:0	27.02.1999	15:30	1998	1999	20
+FC Schalke 04	Hertha BSC	0:0	0:0	28.02.1999	18:00	1998	1999	20
+MSV Duisburg	Hansa Rostock	3:0	4:1	05.03.1999	19:00	1998	1999	21
+1. FC NÃ¼rnberg	FC Schalke 04	2:0	3:0	05.03.1999	20:30	1998	1999	21
+VfB Stuttgart	Eintracht Frankfurt	1:0	2:0	06.03.1999	15:30	1998	1999	21
+VfL Bochum	Borussia Dortmund	0:1	0:1	06.03.1999	15:30	1998	1999	21
+VfL Wolfsburg	Hamburger SV	1:1	4:1	06.03.1999	15:30	1998	1999	21
+Bayern MÃ¼nchen	SC Freiburg	1:0	2:0	06.03.1999	15:30	1998	1999	21
+Bor. MÃ¶nchengladbach	TSV 1860 MÃ¼nchen	1:0	2:0	06.03.1999	15:30	1998	1999	21
+Hertha BSC	1. FC Kaiserslautern	0:1	1:1	06.03.1999	15:30	1998	1999	21
+Bayer Leverkusen	Werder Bremen	0:0	2:0	07.03.1999	18:00	1998	1999	21
+Borussia Dortmund	Bayer Leverkusen	1:0	1:0	12.03.1999	20:00	1998	1999	22
+SC Freiburg	Hansa Rostock	0:0	3:0	12.03.1999	20:00	1998	1999	22
+Werder Bremen	VfL Wolfsburg	0:0	0:1	13.03.1999	15:30	1998	1999	22
+FC Schalke 04	VfL Bochum	2:2	2:2	13.03.1999	15:30	1998	1999	22
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	1:0	2:0	13.03.1999	15:30	1998	1999	22
+TSV 1860 MÃ¼nchen	VfB Stuttgart	0:0	1:1	13.03.1999	15:30	1998	1999	22
+Hamburger SV	Bayern MÃ¼nchen	0:2	0:2	13.03.1999	15:30	1998	1999	22
+Bor. MÃ¶nchengladbach	MSV Duisburg	0:0	0:2	13.03.1999	15:30	1998	1999	22
+Eintracht Frankfurt	Hertha BSC	0:0	1:1	14.03.1999	18:00	1998	1999	22
+Bayer Leverkusen	FC Schalke 04	1:0	1:1	19.03.1999	20:00	1998	1999	23
+VfL Wolfsburg	Borussia Dortmund	0:0	0:0	19.03.1999	20:00	1998	1999	23
+1. FC NÃ¼rnberg	Eintracht Frankfurt	1:1	2:2	20.03.1999	15:30	1998	1999	23
+Bayern MÃ¼nchen	Werder Bremen	0:0	1:0	20.03.1999	15:30	1998	1999	23
+MSV Duisburg	SC Freiburg	0:0	1:0	20.03.1999	15:30	1998	1999	23
+VfB Stuttgart	Bor. MÃ¶nchengladbach	1:0	2:2	20.03.1999	15:30	1998	1999	23
+Hertha BSC	TSV 1860 MÃ¼nchen	1:1	2:1	20.03.1999	15:30	1998	1999	23
+VfL Bochum	1. FC Kaiserslautern	1:0	1:2	20.03.1999	15:30	1998	1999	23
+Hansa Rostock	Hamburger SV	0:1	0:1	21.03.1999	18:00	1998	1999	23
+FC Schalke 04	VfL Wolfsburg	0:0	2:0	03.04.1999	15:30	1998	1999	24
+TSV 1860 MÃ¼nchen	1. FC NÃ¼rnberg	0:1	1:2	03.04.1999	15:30	1998	1999	24
+Hamburger SV	SC Freiburg	1:1	2:1	03.04.1999	15:30	1998	1999	24
+Werder Bremen	Hansa Rostock	0:2	0:3	03.04.1999	15:30	1998	1999	24
+Borussia Dortmund	Bayern MÃ¼nchen	2:0	2:2	03.04.1999	15:30	1998	1999	24
+VfB Stuttgart	MSV Duisburg	0:0	0:0	03.04.1999	20:00	1998	1999	24
+1. FC Kaiserslautern	Bayer Leverkusen	0:1	0:1	03.04.1999	20:15	1998	1999	24
+Eintracht Frankfurt	VfL Bochum	0:0	1:0	04.04.1999	18:00	1998	1999	24
+Bor. MÃ¶nchengladbach	Hertha BSC	0:1	2:4	04.04.1999	18:00	1998	1999	24
+MSV Duisburg	Hamburger SV	2:0	2:3	09.04.1999	19:30	1998	1999	25
+SC Freiburg	Werder Bremen	0:0	0:2	09.04.1999	20:00	1998	1999	25
+Bayer Leverkusen	Eintracht Frankfurt	2:0	2:1	10.04.1999	15:30	1998	1999	25
+Bayern MÃ¼nchen	FC Schalke 04	0:0	1:1	10.04.1999	15:30	1998	1999	25
+Hansa Rostock	Borussia Dortmund	0:0	2:0	10.04.1999	15:30	1998	1999	25
+Hertha BSC	VfB Stuttgart	0:0	2:0	10.04.1999	15:30	1998	1999	25
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	1:0	2:0	10.04.1999	15:30	1998	1999	25
+VfL Wolfsburg	1. FC Kaiserslautern	1:0	2:1	10.04.1999	15:30	1998	1999	25
+VfL Bochum	TSV 1860 MÃ¼nchen	0:0	2:0	11.04.1999	18:00	1998	1999	25
+VfB Stuttgart	1. FC NÃ¼rnberg	0:0	0:0	13.04.1999	19:30	1998	1999	26
+Eintracht Frankfurt	VfL Wolfsburg	0:1	0:1	13.04.1999	20:00	1998	1999	26
+Werder Bremen	Hamburger SV	0:0	0:0	13.04.1999	20:00	1998	1999	26
+FC Schalke 04	Hansa Rostock	0:0	1:0	13.04.1999	20:00	1998	1999	26
+1. FC Kaiserslautern	Bayern MÃ¼nchen	2:1	2:1	13.04.1999	20:00	1998	1999	26
+TSV 1860 MÃ¼nchen	Bayer Leverkusen	0:0	0:2	14.04.1999	20:00	1998	1999	26
+Bor. MÃ¶nchengladbach	VfL Bochum	0:0	2:2	14.04.1999	20:00	1998	1999	26
+Borussia Dortmund	SC Freiburg	1:1	2:1	14.04.1999	20:00	1998	1999	26
+Hertha BSC	MSV Duisburg	0:1	1:3	14.04.1999	20:00	1998	1999	26
+Bayern MÃ¼nchen	Eintracht Frankfurt	2:0	3:1	16.04.1999	20:00	1998	1999	27
+Hansa Rostock	1. FC Kaiserslautern	1:0	2:1	16.04.1999	20:00	1998	1999	27
+SC Freiburg	FC Schalke 04	0:0	0:2	17.04.1999	15:30	1998	1999	27
+MSV Duisburg	Werder Bremen	1:0	2:0	17.04.1999	15:30	1998	1999	27
+1. FC NÃ¼rnberg	Hertha BSC	0:0	0:0	17.04.1999	15:30	1998	1999	27
+VfL Bochum	VfB Stuttgart	0:2	3:3	17.04.1999	15:30	1998	1999	27
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	1:0	4:1	17.04.1999	15:30	1998	1999	27
+VfL Wolfsburg	TSV 1860 MÃ¼nchen	0:0	1:0	17.04.1999	15:30	1998	1999	27
+Hamburger SV	Borussia Dortmund	0:0	0:0	18.04.1999	18:00	1998	1999	27
+VfB Stuttgart	Bayer Leverkusen	0:1	0:1	23.04.1999	20:00	1998	1999	28
+Borussia Dortmund	Werder Bremen	0:1	2:1	23.04.1999	20:00	1998	1999	28
+Bor. MÃ¶nchengladbach	VfL Wolfsburg	2:0	5:2	24.04.1999	15:30	1998	1999	28
+Hertha BSC	VfL Bochum	3:0	4:1	24.04.1999	15:30	1998	1999	28
+FC Schalke 04	Hamburger SV	1:2	1:4	24.04.1999	15:30	1998	1999	28
+1. FC Kaiserslautern	SC Freiburg	0:1	0:2	24.04.1999	15:30	1998	1999	28
+Eintracht Frankfurt	Hansa Rostock	0:1	2:2	24.04.1999	15:30	1998	1999	28
+1. FC NÃ¼rnberg	MSV Duisburg	0:1	0:2	24.04.1999	15:30	1998	1999	28
+TSV 1860 MÃ¼nchen	Bayern MÃ¼nchen	0:0	1:1	25.04.1999	18:00	1998	1999	28
+SC Freiburg	Eintracht Frankfurt	1:0	2:0	30.04.1999	20:00	1998	1999	29
+VfL Bochum	1. FC NÃ¼rnberg	0:1	0:3	30.04.1999	20:00	1998	1999	29
+Bayer Leverkusen	Hertha BSC	1:1	2:2	01.05.1999	15:30	1998	1999	29
+VfL Wolfsburg	VfB Stuttgart	0:2	3:2	01.05.1999	15:30	1998	1999	29
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	1:1	4:2	01.05.1999	15:30	1998	1999	29
+Hansa Rostock	TSV 1860 MÃ¼nchen	4:0	4:1	01.05.1999	15:30	1998	1999	29
+Hamburger SV	1. FC Kaiserslautern	1:0	2:0	01.05.1999	15:30	1998	1999	29
+MSV Duisburg	Borussia Dortmund	3:1	3:2	02.05.1999	18:00	1998	1999	29
+Werder Bremen	FC Schalke 04	0:0	1:0	11.05.1999	20:00	1998	1999	29
+1. FC Kaiserslautern	Werder Bremen	1:0	4:0	04.05.1999	20:00	1998	1999	30
+Eintracht Frankfurt	Hamburger SV	2:0	2:2	04.05.1999	20:00	1998	1999	30
+Bor. MÃ¶nchengladbach	Hansa Rostock	0:0	1:1	04.05.1999	20:00	1998	1999	30
+VfB Stuttgart	Bayern MÃ¼nchen	0:0	0:2	04.05.1999	20:00	1998	1999	30
+VfL Bochum	MSV Duisburg	0:1	0:2	05.05.1999	19:30	1998	1999	30
+Hertha BSC	VfL Wolfsburg	1:0	2:0	05.05.1999	20:00	1998	1999	30
+1. FC NÃ¼rnberg	Bayer Leverkusen	1:1	2:2	05.05.1999	20:00	1998	1999	30
+FC Schalke 04	Borussia Dortmund	1:1	1:1	05.05.1999	20:00	1998	1999	30
+TSV 1860 MÃ¼nchen	SC Freiburg	1:0	2:0	05.05.1999	20:00	1998	1999	30
+Werder Bremen	Eintracht Frankfurt	0:0	1:2	07.05.1999	20:00	1998	1999	31
+Hansa Rostock	VfB Stuttgart	1:0	3:0	07.05.1999	20:00	1998	1999	31
+MSV Duisburg	FC Schalke 04	1:0	1:2	08.05.1999	15:30	1998	1999	31
+Bayer Leverkusen	VfL Bochum	1:0	2:0	08.05.1999	15:30	1998	1999	31
+VfL Wolfsburg	1. FC NÃ¼rnberg	0:1	1:1	08.05.1999	15:30	1998	1999	31
+SC Freiburg	Bor. MÃ¶nchengladbach	1:0	2:1	08.05.1999	15:30	1998	1999	31
+Hamburger SV	TSV 1860 MÃ¼nchen	0:0	3:0	08.05.1999	15:30	1998	1999	31
+Borussia Dortmund	1. FC Kaiserslautern	1:0	1:0	08.05.1999	15:30	1998	1999	31
+Bayern MÃ¼nchen	Hertha BSC	1:0	1:1	09.05.1999	18:00	1998	1999	31
+Bor. MÃ¶nchengladbach	Hamburger SV	0:0	2:2	14.05.1999	20:00	1998	1999	32
+Hertha BSC	Hansa Rostock	0:0	2:0	14.05.1999	20:00	1998	1999	32
+VfL Bochum	VfL Wolfsburg	0:1	0:2	15.05.1999	15:30	1998	1999	32
+MSV Duisburg	Bayer Leverkusen	0:0	0:0	15.05.1999	15:30	1998	1999	32
+Eintracht Frankfurt	Borussia Dortmund	1:0	2:0	15.05.1999	15:30	1998	1999	32
+TSV 1860 MÃ¼nchen	Werder Bremen	1:2	1:3	15.05.1999	15:30	1998	1999	32
+VfB Stuttgart	SC Freiburg	1:1	3:1	15.05.1999	15:30	1998	1999	32
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	0:0	2:0	15.05.1999	15:30	1998	1999	32
+FC Schalke 04	1. FC Kaiserslautern	0:0	0:2	16.05.1999	18:00	1998	1999	32
+FC Schalke 04	Eintracht Frankfurt	2:1	2:3	22.05.1999	15:30	1998	1999	33
+VfL Wolfsburg	Bayer Leverkusen	0:0	1:0	22.05.1999	15:30	1998	1999	33
+Bayern MÃ¼nchen	VfL Bochum	0:1	4:2	22.05.1999	15:30	1998	1999	33
+Hansa Rostock	1. FC NÃ¼rnberg	1:0	1:1	22.05.1999	15:30	1998	1999	33
+SC Freiburg	Hertha BSC	0:1	0:2	22.05.1999	15:30	1998	1999	33
+Hamburger SV	VfB Stuttgart	3:1	3:1	22.05.1999	15:30	1998	1999	33
+Werder Bremen	Bor. MÃ¶nchengladbach	2:0	4:1	22.05.1999	15:30	1998	1999	33
+Borussia Dortmund	TSV 1860 MÃ¼nchen	0:0	3:1	22.05.1999	15:30	1998	1999	33
+1. FC Kaiserslautern	MSV Duisburg	3:0	3:0	22.05.1999	15:30	1998	1999	33
+MSV Duisburg	VfL Wolfsburg	2:1	6:1	29.05.1999	15:30	1998	1999	34
+TSV 1860 MÃ¼nchen	FC Schalke 04	4:3	4:5	29.05.1999	15:30	1998	1999	34
+Bor. MÃ¶nchengladbach	Borussia Dortmund	0:0	0:2	29.05.1999	15:30	1998	1999	34
+VfB Stuttgart	Werder Bremen	1:0	1:0	29.05.1999	15:30	1998	1999	34
+Hertha BSC	Hamburger SV	1:0	6:1	29.05.1999	15:30	1998	1999	34
+1. FC NÃ¼rnberg	SC Freiburg	0:2	1:2	29.05.1999	15:30	1998	1999	34
+VfL Bochum	Hansa Rostock	0:1	2:3	29.05.1999	15:30	1998	1999	34
+Bayer Leverkusen	Bayern MÃ¼nchen	0:1	1:2	29.05.1999	15:30	1998	1999	34
+Eintracht Frankfurt	1. FC Kaiserslautern	0:0	5:1	29.05.1999	15:30	1998	1999	34

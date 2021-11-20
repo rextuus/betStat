@@ -1,0 +1,306 @@
+FC Ingolstadt 04	Energie Cottbus	2:0	2:2	03.08.2012	18:00	2012	2013	1
+Erzgebirge Aue	FC St. Pauli	0:0	0:0	03.08.2012	18:00	2012	2013	1
+Hertha BSC	SC Paderborn 07	0:1	2:2	03.08.2012	20:30	2012	2013	1
+TSV 1860 MÃ¼nchen	Jahn Regensburg	1:0	1:0	04.08.2012	13:00	2012	2013	1
+VfL Bochum	Dynamo Dresden	0:1	2:1	04.08.2012	15:30	2012	2013	1
+MSV Duisburg	VfR Aalen	1:2	1:4	05.08.2012	13:30	2012	2013	1
+SV Sandhausen	FSV Frankfurt	1:1	1:1	05.08.2012	13:30	2012	2013	1
+Eintracht Braunschweig	1. FC KÃ¶ln	0:0	1:0	05.08.2012	15:30	2012	2013	1
+1. FC Kaiserslautern	1. FC Union Berlin	0:0	3:3	06.08.2012	20:15	2012	2013	1
+1. FC KÃ¶ln	SV Sandhausen	0:0	1:1	10.08.2012	18:00	2012	2013	2
+VfR Aalen	1. FC Kaiserslautern	1:2	1:2	10.08.2012	18:00	2012	2013	2
+Energie Cottbus	Erzgebirge Aue	2:0	3:0	10.08.2012	20:30	2012	2013	2
+SC Paderborn 07	VfL Bochum	2:0	4:0	11.08.2012	13:00	2012	2013	2
+FC St. Pauli	FC Ingolstadt 04	0:0	1:1	11.08.2012	15:30	2012	2013	2
+1. FC Union Berlin	Eintracht Braunschweig	0:1	0:1	12.08.2012	13:30	2012	2013	2
+Jahn Regensburg	MSV Duisburg	1:0	2:0	12.08.2012	13:30	2012	2013	2
+FSV Frankfurt	Hertha BSC	0:1	3:1	12.08.2012	15:30	2012	2013	2
+Dynamo Dresden	TSV 1860 MÃ¼nchen	1:1	2:2	13.08.2012	20:15	2012	2013	2
+Hertha BSC	Jahn Regensburg	2:0	2:1	24.08.2012	18:00	2012	2013	3
+Eintracht Braunschweig	SC Paderborn 07	0:1	2:1	24.08.2012	18:00	2012	2013	3
+SV Sandhausen	1. FC Union Berlin	1:0	2:0	24.08.2012	18:00	2012	2013	3
+MSV Duisburg	Dynamo Dresden	0:2	1:3	25.08.2012	13:00	2012	2013	3
+Energie Cottbus	FC St. Pauli	1:0	2:0	25.08.2012	13:00	2012	2013	3
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	0:0	0:0	26.08.2012	13:30	2012	2013	3
+VfL Bochum	VfR Aalen	0:0	0:1	26.08.2012	13:30	2012	2013	3
+FC Ingolstadt 04	FSV Frankfurt	0:1	0:2	26.08.2012	13:30	2012	2013	3
+Erzgebirge Aue	1. FC KÃ¶ln	1:0	2:0	27.08.2012	20:15	2012	2013	3
+TSV 1860 MÃ¼nchen	MSV Duisburg	1:0	3:0	31.08.2012	18:00	2012	2013	4
+Dynamo Dresden	1. FC Kaiserslautern	0:1	1:3	31.08.2012	18:00	2012	2013	4
+1. FC KÃ¶ln	Energie Cottbus	0:1	0:1	31.08.2012	18:15	2012	2013	4
+FC St. Pauli	SV Sandhausen	0:0	2:1	01.09.2012	13:00	2012	2013	4
+VfR Aalen	Eintracht Braunschweig	0:1	0:3	01.09.2012	13:00	2012	2013	4
+SC Paderborn 07	FC Ingolstadt 04	0:2	1:3	02.09.2012	13:30	2012	2013	4
+FSV Frankfurt	Erzgebirge Aue	0:0	1:0	02.09.2012	13:30	2012	2013	4
+Jahn Regensburg	VfL Bochum	0:0	0:1	02.09.2012	13:30	2012	2013	4
+1. FC Union Berlin	Hertha BSC	0:1	1:2	03.09.2012	20:15	2012	2013	4
+VfL Bochum	TSV 1860 MÃ¼nchen	0:0	0:0	14.09.2012	18:00	2012	2013	5
+FC Ingolstadt 04	1. FC Union Berlin	1:1	2:1	14.09.2012	18:00	2012	2013	5
+Energie Cottbus	FSV Frankfurt	0:1	2:2	14.09.2012	18:00	2012	2013	5
+Eintracht Braunschweig	Jahn Regensburg	0:0	1:0	15.09.2012	13:00	2012	2013	5
+SV Sandhausen	Dynamo Dresden	1:0	1:1	15.09.2012	13:00	2012	2013	5
+Hertha BSC	VfR Aalen	0:0	2:0	16.09.2012	13:30	2012	2013	5
+1. FC Kaiserslautern	MSV Duisburg	1:0	2:1	16.09.2012	13:30	2012	2013	5
+Erzgebirge Aue	SC Paderborn 07	0:0	0:1	16.09.2012	13:30	2012	2013	5
+1. FC KÃ¶ln	FC St. Pauli	0:0	0:0	17.09.2012	20:15	2012	2013	5
+1. FC Union Berlin	1. FC KÃ¶ln	1:1	2:1	21.09.2012	18:00	2012	2013	6
+FSV Frankfurt	FC St. Pauli	1:0	2:1	21.09.2012	18:00	2012	2013	6
+VfR Aalen	Erzgebirge Aue	1:0	2:0	21.09.2012	18:00	2012	2013	6
+1. FC Kaiserslautern	Hertha BSC	0:0	1:1	22.09.2012	13:00	2012	2013	6
+SC Paderborn 07	SV Sandhausen	0:0	3:0	22.09.2012	13:00	2012	2013	6
+Jahn Regensburg	Energie Cottbus	0:1	0:1	22.09.2012	13:00	2012	2013	6
+TSV 1860 MÃ¼nchen	Eintracht Braunschweig	0:1	1:1	23.09.2012	13:30	2012	2013	6
+Dynamo Dresden	FC Ingolstadt 04	0:0	0:1	23.09.2012	13:30	2012	2013	6
+MSV Duisburg	VfL Bochum	0:0	0:0	23.09.2012	13:30	2012	2013	6
+1. FC KÃ¶ln	FSV Frankfurt	0:0	2:1	25.09.2012	17:30	2012	2013	7
+FC St. Pauli	VfR Aalen	0:1	0:1	25.09.2012	17:30	2012	2013	7
+Energie Cottbus	SC Paderborn 07	0:0	2:1	25.09.2012	17:30	2012	2013	7
+SV Sandhausen	Jahn Regensburg	1:1	1:2	25.09.2012	17:30	2012	2013	7
+Hertha BSC	Dynamo Dresden	1:0	1:0	26.09.2012	17:30	2012	2013	7
+Eintracht Braunschweig	MSV Duisburg	0:0	3:0	26.09.2012	17:30	2012	2013	7
+FC Ingolstadt 04	TSV 1860 MÃ¼nchen	0:1	0:2	26.09.2012	17:30	2012	2013	7
+Erzgebirge Aue	1. FC Union Berlin	0:1	1:1	26.09.2012	17:30	2012	2013	7
+VfL Bochum	1. FC Kaiserslautern	0:1	1:2	27.09.2012	20:15	2012	2013	7
+SC Paderborn 07	1. FC KÃ¶ln	0:1	1:2	28.09.2012	18:00	2012	2013	8
+VfR Aalen	FSV Frankfurt	1:0	3:0	28.09.2012	18:00	2012	2013	8
+Jahn Regensburg	FC St. Pauli	2:0	3:0	28.09.2012	18:00	2012	2013	8
+TSV 1860 MÃ¼nchen	SV Sandhausen	3:0	4:0	29.09.2012	13:00	2012	2013	8
+1. FC Union Berlin	Energie Cottbus	1:0	3:1	29.09.2012	13:00	2012	2013	8
+1. FC Kaiserslautern	Eintracht Braunschweig	1:0	1:1	30.09.2012	13:30	2012	2013	8
+Dynamo Dresden	Erzgebirge Aue	2:0	3:1	30.09.2012	13:30	2012	2013	8
+VfL Bochum	FC Ingolstadt 04	0:1	1:1	30.09.2012	13:30	2012	2013	8
+MSV Duisburg	Hertha BSC	0:1	2:2	01.10.2012	20:15	2012	2013	8
+Hertha BSC	TSV 1860 MÃ¼nchen	0:0	3:0	05.10.2012	18:00	2012	2013	9
+FC St. Pauli	1. FC Union Berlin	0:1	2:2	05.10.2012	18:00	2012	2013	9
+FSV Frankfurt	SC Paderborn 07	0:0	1:1	05.10.2012	18:00	2012	2013	9
+Eintracht Braunschweig	VfL Bochum	1:0	3:0	06.10.2012	13:00	2012	2013	9
+Energie Cottbus	MSV Duisburg	0:1	0:1	06.10.2012	13:00	2012	2013	9
+FC Ingolstadt 04	1. FC Kaiserslautern	0:0	1:1	07.10.2012	13:30	2012	2013	9
+Erzgebirge Aue	Jahn Regensburg	1:0	3:1	07.10.2012	13:30	2012	2013	9
+SV Sandhausen	VfR Aalen	1:0	1:0	07.10.2012	13:30	2012	2013	9
+1. FC KÃ¶ln	Dynamo Dresden	0:1	1:1	08.10.2012	20:15	2012	2013	9
+1. FC Kaiserslautern	SV Sandhausen	2:1	3:1	19.10.2012	18:00	2012	2013	10
+MSV Duisburg	FC Ingolstadt 04	0:0	0:2	19.10.2012	18:00	2012	2013	10
+VfL Bochum	Hertha BSC	0:0	0:2	19.10.2012	18:00	2012	2013	10
+Dynamo Dresden	Eintracht Braunschweig	0:1	0:2	20.10.2012	13:00	2012	2013	10
+Jahn Regensburg	1. FC KÃ¶ln	1:0	2:3	20.10.2012	13:00	2012	2013	10
+SC Paderborn 07	FC St. Pauli	0:0	1:1	21.10.2012	13:30	2012	2013	10
+1. FC Union Berlin	FSV Frankfurt	1:0	1:0	21.10.2012	13:30	2012	2013	10
+VfR Aalen	Energie Cottbus	0:0	1:1	21.10.2012	13:30	2012	2013	10
+TSV 1860 MÃ¼nchen	Erzgebirge Aue	0:0	1:1	22.10.2012	20:15	2012	2013	10
+1. FC KÃ¶ln	1. FC Kaiserslautern	2:1	3:3	26.10.2012	18:00	2012	2013	11
+FC Ingolstadt 04	VfR Aalen	0:0	2:0	26.10.2012	18:00	2012	2013	11
+Energie Cottbus	TSV 1860 MÃ¼nchen	1:0	1:0	26.10.2012	18:00	2012	2013	11
+Eintracht Braunschweig	Hertha BSC	1:0	1:1	27.10.2012	13:00	2012	2013	11
+Erzgebirge Aue	VfL Bochum	3:0	6:1	27.10.2012	13:00	2012	2013	11
+SV Sandhausen	MSV Duisburg	0:1	0:2	27.10.2012	13:00	2012	2013	11
+FC St. Pauli	Dynamo Dresden	1:2	3:2	28.10.2012	13:30	2012	2013	11
+1. FC Union Berlin	SC Paderborn 07	0:0	0:1	28.10.2012	13:30	2012	2013	11
+FSV Frankfurt	Jahn Regensburg	1:0	3:1	28.10.2012	13:30	2012	2013	11
+Hertha BSC	FC Ingolstadt 04	0:0	0:0	02.11.2012	18:00	2012	2013	12
+Eintracht Braunschweig	SV Sandhausen	1:0	2:1	02.11.2012	18:00	2012	2013	12
+Jahn Regensburg	SC Paderborn 07	0:1	0:2	02.11.2012	18:00	2012	2013	12
+TSV 1860 MÃ¼nchen	FC St. Pauli	0:1	0:2	03.11.2012	13:00	2012	2013	12
+MSV Duisburg	FSV Frankfurt	0:2	1:2	03.11.2012	13:00	2012	2013	12
+Dynamo Dresden	1. FC Union Berlin	0:1	0:2	04.11.2012	13:30	2012	2013	12
+VfL Bochum	Energie Cottbus	0:1	2:2	04.11.2012	13:30	2012	2013	12
+VfR Aalen	1. FC KÃ¶ln	1:0	2:0	04.11.2012	13:30	2012	2013	12
+1. FC Kaiserslautern	Erzgebirge Aue	2:1	4:1	05.11.2012	20:15	2012	2013	12
+1. FC KÃ¶ln	MSV Duisburg	0:0	0:0	09.11.2012	18:00	2012	2013	13
+Erzgebirge Aue	Eintracht Braunschweig	0:1	1:1	09.11.2012	18:00	2012	2013	13
+SV Sandhausen	Hertha BSC	0:2	1:6	09.11.2012	18:00	2012	2013	13
+SC Paderborn 07	1. FC Kaiserslautern	0:0	1:1	10.11.2012	13:00	2012	2013	13
+1. FC Union Berlin	VfR Aalen	0:0	0:0	10.11.2012	13:00	2012	2013	13
+FC Ingolstadt 04	Jahn Regensburg	0:1	4:2	11.11.2012	13:30	2012	2013	13
+FSV Frankfurt	TSV 1860 MÃ¼nchen	0:1	0:1	11.11.2012	13:30	2012	2013	13
+Energie Cottbus	Dynamo Dresden	2:0	2:0	11.11.2012	13:30	2012	2013	13
+FC St. Pauli	VfL Bochum	1:0	1:1	12.11.2012	20:15	2012	2013	13
+1. FC Kaiserslautern	Energie Cottbus	1:0	1:0	16.11.2012	18:00	2012	2013	14
+Dynamo Dresden	FSV Frankfurt	2:0	2:1	16.11.2012	18:00	2012	2013	14
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	0:1	0:2	16.11.2012	20:30	2012	2013	14
+Eintracht Braunschweig	FC Ingolstadt 04	1:0	3:0	17.11.2012	13:00	2012	2013	14
+VfR Aalen	SC Paderborn 07	0:0	0:1	17.11.2012	13:00	2012	2013	14
+MSV Duisburg	Erzgebirge Aue	1:1	2:1	18.11.2012	13:30	2012	2013	14
+VfL Bochum	SV Sandhausen	3:2	5:2	18.11.2012	13:30	2012	2013	14
+Jahn Regensburg	1. FC Union Berlin	2:1	3:3	18.11.2012	13:30	2012	2013	14
+Hertha BSC	FC St. Pauli	0:0	1:0	19.11.2012	20:15	2012	2013	14
+1. FC KÃ¶ln	VfL Bochum	2:0	3:1	23.11.2012	18:00	2012	2013	15
+SC Paderborn 07	Dynamo Dresden	2:2	2:2	23.11.2012	18:00	2012	2013	15
+Jahn Regensburg	VfR Aalen	1:0	1:3	23.11.2012	18:00	2012	2013	15
+1. FC Union Berlin	TSV 1860 MÃ¼nchen	1:0	2:2	24.11.2012	13:00	2012	2013	15
+FSV Frankfurt	1. FC Kaiserslautern	0:1	0:1	24.11.2012	13:00	2012	2013	15
+Energie Cottbus	Eintracht Braunschweig	2:1	3:1	24.11.2012	13:00	2012	2013	15
+FC St. Pauli	MSV Duisburg	1:1	4:1	25.11.2012	13:30	2012	2013	15
+FC Ingolstadt 04	SV Sandhausen	1:0	1:1	25.11.2012	13:30	2012	2013	15
+Erzgebirge Aue	Hertha BSC	0:2	0:4	25.11.2012	13:30	2012	2013	15
+1. FC Kaiserslautern	Jahn Regensburg	1:1	1:1	27.11.2012	17:30	2012	2013	16
+TSV 1860 MÃ¼nchen	SC Paderborn 07	1:0	1:0	27.11.2012	17:30	2012	2013	16
+Dynamo Dresden	VfR Aalen	0:0	0:0	27.11.2012	17:30	2012	2013	16
+VfL Bochum	FSV Frankfurt	0:1	1:3	27.11.2012	17:30	2012	2013	16
+Eintracht Braunschweig	FC St. Pauli	1:0	1:0	28.11.2012	17:30	2012	2013	16
+MSV Duisburg	1. FC Union Berlin	0:2	1:2	28.11.2012	17:30	2012	2013	16
+FC Ingolstadt 04	Erzgebirge Aue	1:1	1:2	28.11.2012	17:30	2012	2013	16
+SV Sandhausen	Energie Cottbus	0:1	3:1	28.11.2012	17:30	2012	2013	16
+Hertha BSC	1. FC KÃ¶ln	1:1	1:1	29.11.2012	20:15	2012	2013	16
+VfR Aalen	TSV 1860 MÃ¼nchen	0:0	1:1	30.11.2012	18:00	2012	2013	17
+Jahn Regensburg	Dynamo Dresden	0:0	0:0	30.11.2012	18:00	2012	2013	17
+FC St. Pauli	1. FC Kaiserslautern	0:0	1:0	01.12.2012	13:00	2012	2013	17
+1. FC Union Berlin	VfL Bochum	1:1	2:1	01.12.2012	13:00	2012	2013	17
+Erzgebirge Aue	SV Sandhausen	1:1	2:2	01.12.2012	13:00	2012	2013	17
+1. FC KÃ¶ln	FC Ingolstadt 04	1:0	1:0	02.12.2012	13:30	2012	2013	17
+SC Paderborn 07	MSV Duisburg	0:0	0:2	02.12.2012	13:30	2012	2013	17
+FSV Frankfurt	Eintracht Braunschweig	0:2	1:2	02.12.2012	13:30	2012	2013	17
+Energie Cottbus	Hertha BSC	0:1	1:2	03.12.2012	20:15	2012	2013	17
+1. FC Union Berlin	1. FC Kaiserslautern	1:0	2:0	07.12.2012	18:00	2012	2013	18
+VfR Aalen	MSV Duisburg	0:0	0:1	07.12.2012	18:00	2012	2013	18
+FSV Frankfurt	SV Sandhausen	2:0	3:1	07.12.2012	18:00	2012	2013	18
+SC Paderborn 07	Hertha BSC	0:0	0:1	08.12.2012	13:00	2012	2013	18
+Dynamo Dresden	VfL Bochum	0:2	0:3	08.12.2012	13:00	2012	2013	18
+Jahn Regensburg	TSV 1860 MÃ¼nchen	0:0	1:1	09.12.2012	13:30	2012	2013	18
+Energie Cottbus	FC Ingolstadt 04	1:0	1:1	09.12.2012	13:30	2012	2013	18
+FC St. Pauli	Erzgebirge Aue	0:0	0:3	09.12.2012	13:30	2012	2013	18
+1. FC KÃ¶ln	Eintracht Braunschweig	0:1	2:2	10.12.2012	20:15	2012	2013	18
+SV Sandhausen	1. FC KÃ¶ln	0:0	0:0	14.12.2012	18:00	2012	2013	19
+Erzgebirge Aue	Energie Cottbus	1:0	3:0	14.12.2012	18:00	2012	2013	19
+1. FC Kaiserslautern	VfR Aalen	0:1	0:1	14.12.2012	18:00	2012	2013	19
+FC Ingolstadt 04	FC St. Pauli	0:0	0:0	15.12.2012	13:00	2012	2013	19
+Hertha BSC	FSV Frankfurt	0:0	2:1	15.12.2012	13:00	2012	2013	19
+VfL Bochum	SC Paderborn 07	2:0	4:0	16.12.2012	13:30	2012	2013	19
+TSV 1860 MÃ¼nchen	Dynamo Dresden	0:0	1:1	16.12.2012	13:30	2012	2013	19
+MSV Duisburg	Jahn Regensburg	0:2	4:2	16.12.2012	13:30	2012	2013	19
+Eintracht Braunschweig	1. FC Union Berlin	2:2	4:3	17.12.2012	20:15	2012	2013	19
+Dynamo Dresden	MSV Duisburg	0:0	0:0	01.02.2013	18:00	2012	2013	20
+VfR Aalen	VfL Bochum	0:1	2:2	01.02.2013	18:00	2012	2013	20
+1. FC Union Berlin	SV Sandhausen	2:0	3:1	01.02.2013	18:00	2012	2013	20
+SC Paderborn 07	Eintracht Braunschweig	0:1	1:2	02.02.2013	13:00	2012	2013	20
+1. FC KÃ¶ln	Erzgebirge Aue	1:0	2:1	02.02.2013	13:00	2012	2013	20
+Jahn Regensburg	Hertha BSC	0:0	1:5	03.02.2013	13:30	2012	2013	20
+FSV Frankfurt	FC Ingolstadt 04	0:0	0:2	03.02.2013	13:30	2012	2013	20
+FC St. Pauli	Energie Cottbus	0:0	0:0	03.02.2013	13:30	2012	2013	20
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	0:0	0:1	04.02.2013	20:15	2012	2013	20
+Erzgebirge Aue	FSV Frankfurt	0:0	0:2	08.02.2013	18:00	2012	2013	21
+Eintracht Braunschweig	VfR Aalen	0:1	1:1	08.02.2013	18:00	2012	2013	21
+1. FC Kaiserslautern	Dynamo Dresden	2:0	3:0	08.02.2013	20:30	2012	2013	21
+Energie Cottbus	1. FC KÃ¶ln	0:0	0:0	09.02.2013	13:00	2012	2013	21
+MSV Duisburg	TSV 1860 MÃ¼nchen	1:2	1:3	09.02.2013	13:00	2012	2013	21
+SV Sandhausen	FC St. Pauli	3:0	4:1	10.02.2013	13:30	2012	2013	21
+FC Ingolstadt 04	SC Paderborn 07	0:1	1:3	10.02.2013	13:30	2012	2013	21
+VfL Bochum	Jahn Regensburg	0:0	0:2	10.02.2013	13:30	2012	2013	21
+Hertha BSC	1. FC Union Berlin	0:1	2:2	11.02.2013	20:15	2012	2013	21
+Jahn Regensburg	Eintracht Braunschweig	0:1	0:1	15.02.2013	18:00	2012	2013	22
+TSV 1860 MÃ¼nchen	VfL Bochum	0:1	0:1	15.02.2013	18:00	2012	2013	22
+SC Paderborn 07	Erzgebirge Aue	2:0	2:0	15.02.2013	18:00	2012	2013	22
+VfR Aalen	Hertha BSC	0:0	0:1	16.02.2013	13:00	2012	2013	22
+1. FC Union Berlin	FC Ingolstadt 04	0:0	1:1	16.02.2013	13:00	2012	2013	22
+MSV Duisburg	1. FC Kaiserslautern	0:0	0:0	17.02.2013	13:30	2012	2013	22
+FSV Frankfurt	Energie Cottbus	1:0	1:0	17.02.2013	13:30	2012	2013	22
+Dynamo Dresden	SV Sandhausen	1:0	3:1	17.02.2013	13:30	2012	2013	22
+FC St. Pauli	1. FC KÃ¶ln	0:1	0:1	18.02.2013	20:15	2012	2013	22
+VfL Bochum	MSV Duisburg	0:1	2:2	22.02.2013	18:00	2012	2013	23
+FC St. Pauli	FSV Frankfurt	1:0	3:0	22.02.2013	18:00	2012	2013	23
+Erzgebirge Aue	VfR Aalen	1:0	1:1	22.02.2013	18:00	2012	2013	23
+1. FC KÃ¶ln	1. FC Union Berlin	1:0	2:0	23.02.2013	13:00	2012	2013	23
+FC Ingolstadt 04	Dynamo Dresden	1:0	1:1	23.02.2013	13:00	2012	2013	23
+SV Sandhausen	SC Paderborn 07	1:0	1:3	24.02.2013	13:30	2012	2013	23
+Eintracht Braunschweig	TSV 1860 MÃ¼nchen	0:0	1:2	24.02.2013	13:30	2012	2013	23
+Energie Cottbus	Jahn Regensburg	0:1	1:1	24.02.2013	13:30	2012	2013	23
+Hertha BSC	1. FC Kaiserslautern	0:0	1:0	25.02.2013	20:15	2012	2013	23
+SC Paderborn 07	Energie Cottbus	0:0	0:1	01.03.2013	18:00	2012	2013	24
+1. FC Union Berlin	Erzgebirge Aue	2:0	3:0	01.03.2013	18:00	2012	2013	24
+Jahn Regensburg	SV Sandhausen	1:2	1:3	01.03.2013	18:00	2012	2013	24
+Dynamo Dresden	Hertha BSC	1:0	1:0	02.03.2013	13:00	2012	2013	24
+1. FC Kaiserslautern	VfL Bochum	0:0	0:0	02.03.2013	13:00	2012	2013	24
+FSV Frankfurt	1. FC KÃ¶ln	0:0	1:1	03.03.2013	13:30	2012	2013	24
+VfR Aalen	FC St. Pauli	0:0	0:1	03.03.2013	13:30	2012	2013	24
+TSV 1860 MÃ¼nchen	FC Ingolstadt 04	1:0	1:1	03.03.2013	13:30	2012	2013	24
+MSV Duisburg	Eintracht Braunschweig	0:0	1:0	04.03.2013	20:15	2012	2013	24
+SV Sandhausen	TSV 1860 MÃ¼nchen	0:0	0:1	08.03.2013	18:00	2012	2013	25
+FSV Frankfurt	VfR Aalen	3:0	6:1	08.03.2013	18:00	2012	2013	25
+FC St. Pauli	Jahn Regensburg	1:1	3:2	08.03.2013	18:00	2012	2013	25
+1. FC KÃ¶ln	SC Paderborn 07	1:0	3:0	09.03.2013	13:00	2012	2013	25
+Energie Cottbus	1. FC Union Berlin	1:1	2:1	09.03.2013	13:00	2012	2013	25
+Erzgebirge Aue	Dynamo Dresden	1:0	1:0	10.03.2013	13:30	2012	2013	25
+Hertha BSC	MSV Duisburg	2:0	4:2	10.03.2013	13:30	2012	2013	25
+FC Ingolstadt 04	VfL Bochum	0:0	2:1	10.03.2013	13:30	2012	2013	25
+Eintracht Braunschweig	1. FC Kaiserslautern	0:1	1:1	11.03.2013	20:15	2012	2013	25
+1. FC Union Berlin	FC St. Pauli	2:1	4:2	15.03.2013	18:00	2012	2013	26
+SC Paderborn 07	FSV Frankfurt	1:0	3:0	15.03.2013	18:00	2012	2013	26
+MSV Duisburg	Energie Cottbus	1:0	2:1	15.03.2013	18:00	2012	2013	26
+TSV 1860 MÃ¼nchen	Hertha BSC	0:0	0:0	16.03.2013	13:00	2012	2013	26
+VfL Bochum	Eintracht Braunschweig	0:0	0:1	16.03.2013	13:00	2012	2013	26
+1. FC Kaiserslautern	FC Ingolstadt 04	1:0	3:0	17.03.2013	13:30	2012	2013	26
+Jahn Regensburg	Erzgebirge Aue	1:1	1:1	17.03.2013	13:30	2012	2013	26
+VfR Aalen	SV Sandhausen	1:0	2:2	17.03.2013	13:30	2012	2013	26
+Dynamo Dresden	1. FC KÃ¶ln	0:0	0:2	18.03.2013	20:15	2012	2013	26
+Erzgebirge Aue	TSV 1860 MÃ¼nchen	0:1	0:1	28.03.2013	18:00	2012	2013	27
+Energie Cottbus	VfR Aalen	0:0	1:1	28.03.2013	18:00	2012	2013	27
+Eintracht Braunschweig	Dynamo Dresden	1:1	2:1	28.03.2013	20:30	2012	2013	27
+FC Ingolstadt 04	MSV Duisburg	0:1	0:1	30.03.2013	13:00	2012	2013	27
+Hertha BSC	VfL Bochum	1:0	2:0	30.03.2013	13:00	2012	2013	27
+SV Sandhausen	1. FC Kaiserslautern	0:1	1:1	31.03.2013	13:30	2012	2013	27
+FSV Frankfurt	1. FC Union Berlin	2:0	3:0	31.03.2013	13:30	2012	2013	27
+1. FC KÃ¶ln	Jahn Regensburg	1:0	2:1	31.03.2013	13:30	2012	2013	27
+FC St. Pauli	SC Paderborn 07	0:0	2:2	01.04.2013	20:15	2012	2013	27
+1. FC Kaiserslautern	1. FC KÃ¶ln	1:0	3:0	05.04.2013	18:00	2012	2013	28
+VfR Aalen	FC Ingolstadt 04	1:1	2:1	05.04.2013	18:00	2012	2013	28
+VfL Bochum	Erzgebirge Aue	0:3	0:3	05.04.2013	18:00	2012	2013	28
+Dynamo Dresden	FC St. Pauli	0:0	3:2	06.04.2013	13:00	2012	2013	28
+Jahn Regensburg	FSV Frankfurt	0:0	1:4	06.04.2013	13:00	2012	2013	28
+SC Paderborn 07	1. FC Union Berlin	0:1	1:1	07.04.2013	13:30	2012	2013	28
+TSV 1860 MÃ¼nchen	Energie Cottbus	0:0	1:1	07.04.2013	13:30	2012	2013	28
+MSV Duisburg	SV Sandhausen	1:1	2:1	07.04.2013	13:30	2012	2013	28
+Hertha BSC	Eintracht Braunschweig	1:0	3:0	08.04.2013	20:15	2012	2013	28
+FC Ingolstadt 04	Hertha BSC	1:0	1:1	12.04.2013	18:00	2012	2013	29
+SV Sandhausen	Eintracht Braunschweig	0:2	1:3	12.04.2013	18:00	2012	2013	29
+1. FC Union Berlin	Dynamo Dresden	0:0	0:0	12.04.2013	18:00	2012	2013	29
+FC St. Pauli	TSV 1860 MÃ¼nchen	1:0	3:1	13.04.2013	13:00	2012	2013	29
+FSV Frankfurt	MSV Duisburg	1:1	1:1	13.04.2013	13:00	2012	2013	29
+Energie Cottbus	VfL Bochum	0:0	0:2	14.04.2013	13:30	2012	2013	29
+1. FC KÃ¶ln	VfR Aalen	0:0	1:0	14.04.2013	13:30	2012	2013	29
+SC Paderborn 07	Jahn Regensburg	0:0	0:0	14.04.2013	13:30	2012	2013	29
+Erzgebirge Aue	1. FC Kaiserslautern	0:1	1:1	15.04.2013	20:15	2012	2013	29
+VfL Bochum	FC St. Pauli	2:0	3:0	19.04.2013	18:00	2012	2013	30
+VfR Aalen	1. FC Union Berlin	2:0	3:0	19.04.2013	18:00	2012	2013	30
+Jahn Regensburg	FC Ingolstadt 04	1:2	1:2	19.04.2013	18:00	2012	2013	30
+1. FC Kaiserslautern	SC Paderborn 07	1:0	3:0	20.04.2013	13:00	2012	2013	30
+TSV 1860 MÃ¼nchen	FSV Frankfurt	0:2	1:2	20.04.2013	13:00	2012	2013	30
+Dynamo Dresden	Energie Cottbus	0:0	1:0	21.04.2013	13:30	2012	2013	30
+Eintracht Braunschweig	Erzgebirge Aue	1:0	1:1	21.04.2013	13:30	2012	2013	30
+Hertha BSC	SV Sandhausen	0:0	1:0	21.04.2013	13:30	2012	2013	30
+MSV Duisburg	1. FC KÃ¶ln	0:1	1:1	22.04.2013	20:15	2012	2013	30
+FC Ingolstadt 04	Eintracht Braunschweig	0:0	0:1	26.04.2013	18:00	2012	2013	31
+SV Sandhausen	VfL Bochum	0:1	0:1	26.04.2013	18:00	2012	2013	31
+1. FC Union Berlin	Jahn Regensburg	0:0	1:0	26.04.2013	18:00	2012	2013	31
+FSV Frankfurt	Dynamo Dresden	0:0	3:1	27.04.2013	13:00	2012	2013	31
+Erzgebirge Aue	MSV Duisburg	0:0	0:0	27.04.2013	13:00	2012	2013	31
+FC St. Pauli	Hertha BSC	0:1	2:3	28.04.2013	13:30	2012	2013	31
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	1:0	1:1	28.04.2013	13:30	2012	2013	31
+SC Paderborn 07	VfR Aalen	2:0	2:2	28.04.2013	13:30	2012	2013	31
+Energie Cottbus	1. FC Kaiserslautern	1:0	4:2	29.04.2013	20:15	2012	2013	31
+Dynamo Dresden	SC Paderborn 07	1:1	2:1	03.05.2013	18:00	2012	2013	32
+Hertha BSC	Erzgebirge Aue	3:0	3:2	03.05.2013	18:00	2012	2013	32
+VfR Aalen	Jahn Regensburg	1:1	2:1	03.05.2013	18:00	2012	2013	32
+VfL Bochum	1. FC KÃ¶ln	0:1	2:1	04.05.2013	13:00	2012	2013	32
+SV Sandhausen	FC Ingolstadt 04	1:1	3:1	04.05.2013	13:00	2012	2013	32
+MSV Duisburg	FC St. Pauli	0:0	0:0	05.05.2013	13:30	2012	2013	32
+TSV 1860 MÃ¼nchen	1. FC Union Berlin	2:0	3:0	05.05.2013	13:30	2012	2013	32
+1. FC Kaiserslautern	FSV Frankfurt	4:0	4:1	05.05.2013	13:30	2012	2013	32
+Eintracht Braunschweig	Energie Cottbus	0:0	0:0	06.05.2013	20:15	2012	2013	32
+1. FC KÃ¶ln	Hertha BSC	0:1	1:2	12.05.2013	13:30	2012	2013	33
+Jahn Regensburg	1. FC Kaiserslautern	1:2	1:3	12.05.2013	13:30	2012	2013	33
+SC Paderborn 07	TSV 1860 MÃ¼nchen	1:0	2:0	12.05.2013	13:30	2012	2013	33
+FC St. Pauli	Eintracht Braunschweig	2:0	5:1	12.05.2013	13:30	2012	2013	33
+VfR Aalen	Dynamo Dresden	1:0	3:0	12.05.2013	13:30	2012	2013	33
+1. FC Union Berlin	MSV Duisburg	0:0	2:1	12.05.2013	13:30	2012	2013	33
+FSV Frankfurt	VfL Bochum	1:0	2:1	12.05.2013	13:30	2012	2013	33
+Erzgebirge Aue	FC Ingolstadt 04	0:0	0:1	12.05.2013	13:30	2012	2013	33
+Energie Cottbus	SV Sandhausen	2:0	3:0	12.05.2013	13:30	2012	2013	33
+FC Ingolstadt 04	1. FC KÃ¶ln	0:0	0:3	19.05.2013	13:30	2012	2013	34
+1. FC Kaiserslautern	FC St. Pauli	0:2	1:2	19.05.2013	13:30	2012	2013	34
+MSV Duisburg	SC Paderborn 07	1:1	3:2	19.05.2013	13:30	2012	2013	34
+VfL Bochum	1. FC Union Berlin	0:0	1:2	19.05.2013	13:30	2012	2013	34
+Eintracht Braunschweig	FSV Frankfurt	1:1	2:2	19.05.2013	13:30	2012	2013	34
+Hertha BSC	Energie Cottbus	0:1	1:1	19.05.2013	13:30	2012	2013	34
+SV Sandhausen	Erzgebirge Aue	0:0	0:1	19.05.2013	13:30	2012	2013	34
+TSV 1860 MÃ¼nchen	VfR Aalen	1:0	3:0	19.05.2013	13:30	2012	2013	34
+Dynamo Dresden	Jahn Regensburg	0:0	3:1	19.05.2013	13:30	2012	2013	34

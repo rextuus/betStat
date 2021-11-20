@@ -1,0 +1,90 @@
+Arenas de Getxo	AtlÃ©tico Madrid	0:2	2:3	10.02.1929	00:00	1928	1929	1
+Espanyol Barcelona	Real UniÃ³n	1:0	3:2	10.02.1929	00:00	1928	1929	1
+Real Madrid	CE Europa	0:0	5:0	10.02.1929	00:00	1928	1929	1
+Real Sociedad	Athletic Bilbao	1:1	1:1	10.02.1929	00:00	1928	1929	1
+Racing Santander	FC Barcelona	0:0	0:2	12.02.1929	00:00	1928	1929	1
+FC Barcelona	Real Madrid	0:1	1:2	17.02.1929	00:00	1928	1929	2
+Athletic Bilbao	Espanyol Barcelona	3:0	9:0	17.02.1929	00:00	1928	1929	2
+AtlÃ©tico Madrid	Real Sociedad	0:3	0:3	17.02.1929	00:00	1928	1929	2
+Real UniÃ³n	Racing Santander	0:1	3:1	17.02.1929	00:00	1928	1929	2
+CE Europa	Arenas de Getxo	2:0	5:2	17.02.1929	00:00	1928	1929	2
+Real Sociedad	FC Barcelona	2:0	3:0	24.02.1929	00:00	1928	1929	3
+Espanyol Barcelona	CE Europa	3:0	3:1	24.02.1929	00:00	1928	1929	3
+Arenas de Getxo	Real UniÃ³n	1:0	1:1	24.02.1929	00:00	1928	1929	3
+Racing Santander	Athletic Bilbao	0:2	0:4	24.02.1929	00:00	1928	1929	3
+Real Madrid	AtlÃ©tico Madrid	1:1	2:1	24.02.1929	00:00	1928	1929	3
+Real UniÃ³n	AtlÃ©tico Madrid	1:1	1:2	03.03.1929	00:00	1928	1929	4
+Real Madrid	Real Sociedad	2:0	2:1	03.03.1929	00:00	1928	1929	4
+Espanyol Barcelona	Racing Santander	1:0	3:0	03.03.1929	00:00	1928	1929	4
+FC Barcelona	Arenas de Getxo	1:2	2:2	03.03.1929	00:00	1928	1929	4
+Athletic Bilbao	CE Europa	1:0	2:0	03.03.1929	00:00	1928	1929	4
+CE Europa	Real UniÃ³n	2:2	3:3	10.03.1929	00:00	1928	1929	5
+AtlÃ©tico Madrid	FC Barcelona	2:0	4:1	10.03.1929	00:00	1928	1929	5
+Racing Santander	Real Madrid	1:0	1:3	10.03.1929	00:00	1928	1929	5
+Real Sociedad	Espanyol Barcelona	0:0	1:1	10.03.1929	00:00	1928	1929	5
+Arenas de Getxo	Athletic Bilbao	1:0	1:0	10.03.1929	00:00	1928	1929	5
+Espanyol Barcelona	Real Madrid	2:0	4:0	24.03.1929	00:00	1928	1929	6
+Real UniÃ³n	Athletic Bilbao	4:1	6:3	24.03.1929	00:00	1928	1929	6
+Arenas de Getxo	Real Sociedad	1:0	3:0	24.03.1929	00:00	1928	1929	6
+AtlÃ©tico Madrid	Racing Santander	2:0	4:0	24.03.1929	00:00	1928	1929	6
+FC Barcelona	CE Europa	3:0	5:2	24.03.1929	00:00	1928	1929	6
+Real Sociedad	Racing Santander	6:1	8:1	31.03.1929	00:00	1928	1929	7
+Espanyol Barcelona	Arenas de Getxo	0:1	1:2	31.03.1929	00:00	1928	1929	7
+CE Europa	AtlÃ©tico Madrid	1:0	4:1	31.03.1929	00:00	1928	1929	7
+Athletic Bilbao	FC Barcelona	1:0	5:1	31.03.1929	00:00	1928	1929	7
+Real Madrid	Real UniÃ³n	2:0	2:0	31.03.1929	00:00	1928	1929	7
+Arenas de Getxo	Real Madrid	2:0	3:2	07.04.1929	00:00	1928	1929	8
+AtlÃ©tico Madrid	Athletic Bilbao	1:1	2:3	07.04.1929	00:00	1928	1929	8
+FC Barcelona	Espanyol Barcelona	0:0	1:0	07.04.1929	00:00	1928	1929	8
+Real UniÃ³n	Real Sociedad	2:0	2:3	07.04.1929	00:00	1928	1929	8
+Racing Santander	CE Europa	2:0	3:2	07.04.1929	00:00	1928	1929	8
+Arenas de Getxo	Racing Santander	1:0	2:1	21.04.1929	00:00	1928	1929	9
+Real UniÃ³n	FC Barcelona	1:0	1:2	21.04.1929	00:00	1928	1929	9
+Real Madrid	Athletic Bilbao	2:0	5:1	21.04.1929	00:00	1928	1929	9
+Espanyol Barcelona	AtlÃ©tico Madrid	2:1	3:2	21.04.1929	00:00	1928	1929	9
+CE Europa	Real Sociedad	3:1	4:3	21.04.1929	00:00	1928	1929	9
+Real UniÃ³n	Espanyol Barcelona	4:0	4:3	28.04.1929	00:00	1928	1929	10
+Athletic Bilbao	Real Sociedad	1:2	4:2	28.04.1929	00:00	1928	1929	10
+FC Barcelona	Racing Santander	2:0	5:1	28.04.1929	00:00	1928	1929	10
+AtlÃ©tico Madrid	Arenas de Getxo	0:2	1:2	28.04.1929	00:00	1928	1929	10
+CE Europa	Real Madrid	4:2	5:2	28.04.1929	00:00	1928	1929	10
+Espanyol Barcelona	Athletic Bilbao	1:1	4:1	05.05.1929	00:00	1928	1929	11
+Racing Santander	Real UniÃ³n	1:1	1:3	05.05.1929	00:00	1928	1929	11
+Arenas de Getxo	CE Europa	0:1	2:2	05.05.1929	00:00	1928	1929	11
+Real Madrid	FC Barcelona	0:0	0:1	09.05.1929	00:00	1928	1929	11
+Real Sociedad	AtlÃ©tico Madrid	2:1	3:3	09.05.1929	00:00	1928	1929	11
+CE Europa	Espanyol Barcelona	0:0	0:3	09.05.1929	00:00	1928	1929	12
+Athletic Bilbao	Racing Santander	0:0	0:0	12.05.1929	00:00	1928	1929	12
+AtlÃ©tico Madrid	Real UniÃ³n	1:0	3:1	19.05.1929	00:00	1928	1929	12
+Real Sociedad	Real Madrid	3:1	5:4	19.05.1929	00:00	1928	1929	12
+Arenas de Getxo	FC Barcelona	0:0	0:2	30.06.1929	00:00	1928	1929	12
+FC Barcelona	AtlÃ©tico Madrid	2:0	4:0	26.05.1929	00:00	1928	1929	13
+Espanyol Barcelona	Real Sociedad	0:1	1:1	26.05.1929	00:00	1928	1929	13
+Real Madrid	Racing Santander	0:1	2:2	26.05.1929	00:00	1928	1929	13
+Athletic Bilbao	Arenas de Getxo	0:2	2:3	26.05.1929	00:00	1928	1929	13
+Real UniÃ³n	CE Europa	2:2	2:3	26.05.1929	00:00	1928	1929	13
+Real UniÃ³n	Arenas de Getxo	4:1	7:1	12.05.1929	00:00	1928	1929	14
+AtlÃ©tico Madrid	Real Madrid	0:2	0:3	30.05.1929	00:00	1928	1929	14
+FC Barcelona	Real Sociedad	1:0	1:0	30.05.1929	00:00	1928	1929	14
+Racing Santander	Espanyol Barcelona	0:1	1:1	30.05.1929	00:00	1928	1929	14
+CE Europa	Athletic Bilbao	0:1	1:1	30.05.1929	00:00	1928	1929	14
+CE Europa	FC Barcelona	1:1	1:1	02.06.1929	00:00	1928	1929	15
+Real Madrid	Espanyol Barcelona	2:0	2:0	02.06.1929	00:00	1928	1929	15
+Racing Santander	AtlÃ©tico Madrid	0:2	1:2	02.06.1929	00:00	1928	1929	15
+Real Sociedad	Arenas de Getxo	2:1	3:2	02.06.1929	00:00	1928	1929	15
+Athletic Bilbao	Real UniÃ³n	0:0	2:1	02.06.1929	00:00	1928	1929	15
+Arenas de Getxo	Espanyol Barcelona	3:0	3:0	09.06.1929	00:00	1928	1929	16
+Racing Santander	Real Sociedad	2:1	6:1	09.06.1929	00:00	1928	1929	16
+FC Barcelona	Athletic Bilbao	0:0	3:0	09.06.1929	00:00	1928	1929	16
+Real UniÃ³n	Real Madrid	0:1	0:2	09.06.1929	00:00	1928	1929	16
+AtlÃ©tico Madrid	CE Europa	3:3	5:4	09.06.1929	00:00	1928	1929	16
+Espanyol Barcelona	FC Barcelona	0:0	1:1	16.06.1929	00:00	1928	1929	17
+Athletic Bilbao	AtlÃ©tico Madrid	1:1	3:3	16.06.1929	00:00	1928	1929	17
+CE Europa	Racing Santander	0:0	4:1	16.06.1929	00:00	1928	1929	17
+Real Madrid	Arenas de Getxo	1:0	2:0	16.06.1929	00:00	1928	1929	17
+Real Sociedad	Real UniÃ³n	1:1	3:2	16.06.1929	00:00	1928	1929	17
+Real Sociedad	CE Europa	1:1	5:4	23.06.1929	00:00	1928	1929	18
+Athletic Bilbao	Real Madrid	1:0	2:0	23.06.1929	00:00	1928	1929	18
+AtlÃ©tico Madrid	Espanyol Barcelona	2:1	7:1	23.06.1929	00:00	1928	1929	18
+Racing Santander	Arenas de Getxo	3:0	5:1	23.06.1929	00:00	1928	1929	18
+FC Barcelona	Real UniÃ³n	2:1	4:1	23.06.1929	00:00	1928	1929	18

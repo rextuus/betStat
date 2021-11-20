@@ -1,0 +1,306 @@
+Rio Ave FC	FC Porto	1:1	1:3	12.08.2016	21:30	2016	2017	1
+Moreirense FC	PaÃ§os de Ferreira	0:1	1:1	13.08.2016	17:00	2016	2017	1
+Sporting CP	CS MarÃ­timo	1:0	2:0	13.08.2016	19:15	2016	2017	1
+CD Tondela	SL Benfica	0:1	0:2	13.08.2016	21:30	2016	2017	1
+Boavista	FC Arouca	2:0	2:0	14.08.2016	17:00	2016	2017	1
+VitÃ³ria SetÃºbal	Os Belenenses	1:0	2:0	14.08.2016	19:00	2016	2017	1
+VitÃ³ria GuimarÃ£es	Sporting Braga	0:1	0:1	14.08.2016	21:15	2016	2017	1
+GD Estoril	CD Feirense	0:1	0:2	15.08.2016	21:00	2016	2017	1
+CD Nacional	GD Chaves	0:1	0:1	04.09.2016	17:00	2016	2017	1
+Os Belenenses	Boavista	0:0	0:0	19.08.2016	21:30	2016	2017	2
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	0:2	0:2	20.08.2016	12:45	2016	2017	2
+GD Chaves	CD Tondela	1:0	1:1	20.08.2016	17:00	2016	2017	2
+PaÃ§os de Ferreira	Sporting CP	0:1	0:1	20.08.2016	19:15	2016	2017	2
+FC Porto	GD Estoril	0:0	1:0	20.08.2016	21:30	2016	2017	2
+CD Feirense	Moreirense FC	0:1	0:3	21.08.2016	17:00	2016	2017	2
+FC Arouca	CD Nacional	2:0	2:0	21.08.2016	19:00	2016	2017	2
+SL Benfica	VitÃ³ria SetÃºbal	0:0	1:1	21.08.2016	21:15	2016	2017	2
+Sporting Braga	Rio Ave FC	0:1	1:1	22.08.2016	21:00	2016	2017	2
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	2:1	5:3	26.08.2016	21:30	2016	2017	3
+CD Tondela	Os Belenenses	0:0	0:1	27.08.2016	17:00	2016	2017	3
+GD Estoril	Sporting Braga	0:2	1:3	27.08.2016	19:15	2016	2017	3
+CD Nacional	SL Benfica	0:1	1:3	27.08.2016	21:30	2016	2017	3
+Boavista	GD Chaves	1:0	2:2	28.08.2016	17:00	2016	2017	3
+Moreirense FC	CS MarÃ­timo	0:1	0:1	28.08.2016	17:00	2016	2017	3
+Sporting CP	FC Porto	2:1	2:1	28.08.2016	19:00	2016	2017	3
+Rio Ave FC	CD Feirense	0:0	1:0	28.08.2016	21:15	2016	2017	3
+VitÃ³ria SetÃºbal	FC Arouca	1:0	2:0	28.08.2016	22:00	2016	2017	3
+FC Arouca	SL Benfica	0:1	1:2	09.09.2016	21:30	2016	2017	4
+Os Belenenses	CD Nacional	0:1	2:1	10.09.2016	17:00	2016	2017	4
+Sporting CP	Moreirense FC	1:0	3:0	10.09.2016	19:15	2016	2017	4
+FC Porto	VitÃ³ria GuimarÃ£es	1:0	3:0	10.09.2016	21:30	2016	2017	4
+PaÃ§os de Ferreira	GD Estoril	0:0	0:0	11.09.2016	12:45	2016	2017	4
+CS MarÃ­timo	Rio Ave FC	0:1	0:1	11.09.2016	17:00	2016	2017	4
+Sporting Braga	Boavista	1:0	3:0	11.09.2016	19:00	2016	2017	4
+GD Chaves	VitÃ³ria SetÃºbal	0:0	0:0	11.09.2016	21:15	2016	2017	4
+CD Feirense	CD Tondela	1:0	2:1	12.09.2016	21:00	2016	2017	4
+CD Nacional	CS MarÃ­timo	1:0	2:0	16.09.2016	21:30	2016	2017	5
+GD Estoril	Moreirense FC	1:0	2:0	17.09.2016	17:00	2016	2017	5
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	1:3	1:4	17.09.2016	19:15	2016	2017	5
+VitÃ³ria GuimarÃ£es	Os Belenenses	1:0	1:1	17.09.2016	21:30	2016	2017	5
+FC Arouca	GD Chaves	0:1	0:1	18.09.2016	17:00	2016	2017	5
+Boavista	CD Feirense	0:1	1:2	18.09.2016	17:00	2016	2017	5
+CD Tondela	FC Porto	0:0	0:0	18.09.2016	19:00	2016	2017	5
+Rio Ave FC	Sporting CP	3:0	3:1	18.09.2016	21:15	2016	2017	5
+SL Benfica	Sporting Braga	1:0	3:1	19.09.2016	21:00	2016	2017	5
+FC Porto	Boavista	2:1	3:1	23.09.2016	20:00	2016	2017	6
+Sporting CP	GD Estoril	1:0	4:2	23.09.2016	22:00	2016	2017	6
+CD Feirense	CD Nacional	0:1	0:3	24.09.2016	17:00	2016	2017	6
+GD Chaves	SL Benfica	0:0	0:2	24.09.2016	19:15	2016	2017	6
+Sporting Braga	VitÃ³ria SetÃºbal	0:1	2:1	24.09.2016	21:30	2016	2017	6
+CS MarÃ­timo	CD Tondela	2:0	2:0	25.09.2016	17:00	2016	2017	6
+PaÃ§os de Ferreira	Rio Ave FC	2:0	2:1	25.09.2016	19:00	2016	2017	6
+Moreirense FC	VitÃ³ria GuimarÃ£es	0:0	0:1	25.09.2016	21:15	2016	2017	6
+Os Belenenses	FC Arouca	1:0	1:1	26.09.2016	21:00	2016	2017	6
+CD Tondela	PaÃ§os de Ferreira	1:0	2:1	30.09.2016	21:30	2016	2017	7
+Rio Ave FC	GD Estoril	1:2	1:2	01.10.2016	12:45	2016	2017	7
+GD Chaves	Os Belenenses	0:1	3:1	01.10.2016	17:00	2016	2017	7
+VitÃ³ria GuimarÃ£es	Sporting CP	0:2	3:3	01.10.2016	19:15	2016	2017	7
+CD Nacional	FC Porto	0:3	0:4	01.10.2016	21:30	2016	2017	7
+SL Benfica	CD Feirense	1:0	4:0	02.10.2016	17:00	2016	2017	7
+VitÃ³ria SetÃºbal	CS MarÃ­timo	0:0	0:1	02.10.2016	17:00	2016	2017	7
+Boavista	Moreirense FC	1:0	2:0	02.10.2016	19:00	2016	2017	7
+FC Arouca	Sporting Braga	0:0	1:1	02.10.2016	21:15	2016	2017	7
+PaÃ§os de Ferreira	CD Nacional	0:1	1:1	21.10.2016	20:00	2016	2017	8
+CS MarÃ­timo	Boavista	1:0	1:1	21.10.2016	22:00	2016	2017	8
+CD Feirense	VitÃ³ria SetÃºbal	0:0	1:1	22.10.2016	17:00	2016	2017	8
+Sporting CP	CD Tondela	0:0	1:1	22.10.2016	19:15	2016	2017	8
+FC Porto	FC Arouca	1:0	3:0	22.10.2016	21:30	2016	2017	8
+Moreirense FC	Rio Ave FC	0:0	1:1	23.10.2016	17:00	2016	2017	8
+GD Estoril	VitÃ³ria GuimarÃ£es	0:1	0:2	23.10.2016	19:00	2016	2017	8
+Os Belenenses	SL Benfica	0:1	0:2	23.10.2016	21:15	2016	2017	8
+Sporting Braga	GD Chaves	0:0	1:0	24.10.2016	21:00	2016	2017	8
+SL Benfica	PaÃ§os de Ferreira	1:0	3:0	28.10.2016	20:00	2016	2017	9
+CD Nacional	Sporting CP	0:0	0:0	28.10.2016	22:00	2016	2017	9
+CD Tondela	Moreirense FC	1:1	1:2	29.10.2016	17:00	2016	2017	9
+VitÃ³ria SetÃºbal	FC Porto	0:0	0:0	29.10.2016	19:15	2016	2017	9
+Boavista	GD Estoril	0:0	0:0	29.10.2016	21:30	2016	2017	9
+FC Arouca	CS MarÃ­timo	0:0	1:0	30.10.2016	17:00	2016	2017	9
+Rio Ave FC	VitÃ³ria GuimarÃ£es	0:1	0:3	30.10.2016	19:00	2016	2017	9
+Sporting Braga	Os Belenenses	1:0	2:1	30.10.2016	21:15	2016	2017	9
+GD Chaves	CD Feirense	0:1	1:1	31.10.2016	21:00	2016	2017	9
+VitÃ³ria GuimarÃ£es	CD Nacional	0:0	2:1	04.11.2016	21:30	2016	2017	10
+GD Estoril	CD Tondela	0:0	2:0	05.11.2016	17:00	2016	2017	10
+PaÃ§os de Ferreira	GD Chaves	0:0	1:1	05.11.2016	17:00	2016	2017	10
+CD Feirense	Os Belenenses	0:1	0:1	05.11.2016	19:15	2016	2017	10
+Rio Ave FC	Boavista	1:1	1:2	05.11.2016	21:30	2016	2017	10
+Moreirense FC	VitÃ³ria SetÃºbal	0:0	1:2	06.11.2016	17:00	2016	2017	10
+FC Porto	SL Benfica	0:0	1:1	06.11.2016	19:00	2016	2017	10
+Sporting CP	FC Arouca	1:0	3:0	06.11.2016	21:15	2016	2017	10
+CS MarÃ­timo	Sporting Braga	1:0	1:0	06.11.2016	21:30	2016	2017	10
+VitÃ³ria SetÃºbal	Rio Ave FC	0:1	0:1	25.11.2016	21:30	2016	2017	11
+GD Chaves	CS MarÃ­timo	0:0	0:0	26.11.2016	12:45	2016	2017	11
+CD Nacional	GD Estoril	0:1	0:1	26.11.2016	17:00	2016	2017	11
+Boavista	Sporting CP	0:1	0:1	26.11.2016	19:15	2016	2017	11
+Os Belenenses	FC Porto	0:0	0:0	26.11.2016	21:30	2016	2017	11
+FC Arouca	PaÃ§os de Ferreira	1:0	1:0	27.11.2016	17:00	2016	2017	11
+SL Benfica	Moreirense FC	1:0	3:0	27.11.2016	19:00	2016	2017	11
+CD Tondela	VitÃ³ria GuimarÃ£es	0:0	2:1	27.11.2016	21:15	2016	2017	11
+Sporting Braga	CD Feirense	3:1	6:2	28.11.2016	21:00	2016	2017	11
+CS MarÃ­timo	SL Benfica	1:1	2:1	02.12.2016	21:30	2016	2017	12
+Rio Ave FC	CD Tondela	1:0	3:1	03.12.2016	17:00	2016	2017	12
+Sporting CP	VitÃ³ria SetÃºbal	2:0	2:0	03.12.2016	19:15	2016	2017	12
+FC Porto	Sporting Braga	0:0	1:0	03.12.2016	21:30	2016	2017	12
+Moreirense FC	CD Nacional	1:0	3:1	04.12.2016	17:00	2016	2017	12
+CD Feirense	FC Arouca	0:0	0:2	04.12.2016	17:00	2016	2017	12
+GD Estoril	Os Belenenses	0:0	1:1	04.12.2016	19:00	2016	2017	12
+VitÃ³ria GuimarÃ£es	GD Chaves	1:0	1:1	04.12.2016	21:15	2016	2017	12
+PaÃ§os de Ferreira	Boavista	2:0	2:1	05.12.2016	21:00	2016	2017	12
+VitÃ³ria SetÃºbal	GD Estoril	1:0	2:0	09.12.2016	21:30	2016	2017	13
+Os Belenenses	CS MarÃ­timo	1:0	1:0	10.12.2016	12:45	2016	2017	13
+GD Chaves	Moreirense FC	1:1	2:1	10.12.2016	19:15	2016	2017	13
+Boavista	VitÃ³ria GuimarÃ£es	1:1	1:2	10.12.2016	21:30	2016	2017	13
+CD Feirense	FC Porto	0:2	0:4	11.12.2016	17:00	2016	2017	13
+CD Nacional	CD Tondela	0:2	3:2	11.12.2016	17:00	2016	2017	13
+SL Benfica	Sporting CP	1:0	2:1	11.12.2016	19:00	2016	2017	13
+Sporting Braga	PaÃ§os de Ferreira	2:0	3:0	11.12.2016	21:15	2016	2017	13
+FC Arouca	Rio Ave FC	0:0	0:2	12.12.2016	21:00	2016	2017	13
+PaÃ§os de Ferreira	Os Belenenses	0:0	1:0	16.12.2016	21:30	2016	2017	14
+Moreirense FC	FC Arouca	0:2	1:4	17.12.2016	19:15	2016	2017	14
+GD Estoril	SL Benfica	0:0	0:1	17.12.2016	21:30	2016	2017	14
+CD Tondela	Boavista	1:0	1:1	18.12.2016	17:00	2016	2017	14
+Rio Ave FC	CD Nacional	0:0	2:1	18.12.2016	17:00	2016	2017	14
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	1:0	3:1	18.12.2016	19:00	2016	2017	14
+Sporting CP	Sporting Braga	0:0	0:1	18.12.2016	21:15	2016	2017	14
+CS MarÃ­timo	CD Feirense	2:0	2:0	19.12.2016	18:30	2016	2017	14
+FC Porto	GD Chaves	0:1	2:1	19.12.2016	21:00	2016	2017	14
+FC Porto	CS MarÃ­timo	1:0	2:1	15.12.2016	21:30	2016	2017	15
+SL Benfica	Rio Ave FC	2:0	2:0	21.12.2016	19:00	2016	2017	15
+CD Nacional	Boavista	0:2	0:2	22.12.2016	18:00	2016	2017	15
+Sporting Braga	Moreirense FC	1:1	2:1	22.12.2016	20:00	2016	2017	15
+CD Feirense	PaÃ§os de Ferreira	1:0	2:0	22.12.2016	20:00	2016	2017	15
+Os Belenenses	Sporting CP	0:0	0:1	22.12.2016	22:00	2016	2017	15
+GD Chaves	GD Estoril	0:0	1:0	22.12.2016	22:00	2016	2017	15
+VitÃ³ria SetÃºbal	CD Tondela	2:0	3:0	23.12.2016	20:00	2016	2017	15
+FC Arouca	VitÃ³ria GuimarÃ£es	0:0	0:1	23.12.2016	22:00	2016	2017	15
+CD Nacional	Sporting Braga	0:0	0:0	07.01.2017	12:45	2016	2017	16
+GD Estoril	CS MarÃ­timo	0:1	0:1	07.01.2017	17:00	2016	2017	16
+VitÃ³ria GuimarÃ£es	SL Benfica	0:2	0:2	07.01.2017	19:15	2016	2017	16
+PaÃ§os de Ferreira	FC Porto	0:0	0:0	07.01.2017	21:30	2016	2017	16
+CD Tondela	FC Arouca	0:1	1:2	08.01.2017	17:00	2016	2017	16
+Rio Ave FC	GD Chaves	1:0	2:2	08.01.2017	17:00	2016	2017	16
+Boavista	VitÃ³ria SetÃºbal	1:0	1:0	08.01.2017	19:00	2016	2017	16
+Sporting CP	CD Feirense	2:0	2:1	08.01.2017	21:15	2016	2017	16
+Moreirense FC	Os Belenenses	0:0	1:0	09.01.2017	21:00	2016	2017	16
+FC Arouca	GD Estoril	0:0	2:1	13.01.2017	21:30	2016	2017	17
+SL Benfica	Boavista	1:3	3:3	14.01.2017	17:00	2016	2017	17
+VitÃ³ria SetÃºbal	CD Nacional	0:0	1:0	14.01.2017	17:00	2016	2017	17
+GD Chaves	Sporting CP	1:1	2:2	14.01.2017	19:15	2016	2017	17
+CD Feirense	VitÃ³ria GuimarÃ£es	0:0	0:0	14.01.2017	21:30	2016	2017	17
+CS MarÃ­timo	PaÃ§os de Ferreira	2:1	3:1	15.01.2017	17:00	2016	2017	17
+FC Porto	Moreirense FC	2:0	3:0	15.01.2017	19:00	2016	2017	17
+Os Belenenses	Rio Ave FC	0:0	1:0	15.01.2017	21:15	2016	2017	17
+Sporting Braga	CD Tondela	0:0	2:0	16.01.2017	21:00	2016	2017	17
+PaÃ§os de Ferreira	Moreirense FC	0:1	0:2	20.01.2017	21:30	2016	2017	18
+FC Porto	Rio Ave FC	1:1	4:2	21.01.2017	17:00	2016	2017	18
+CS MarÃ­timo	Sporting CP	2:1	2:2	21.01.2017	19:15	2016	2017	18
+FC Arouca	Boavista	1:1	1:2	21.01.2017	21:30	2016	2017	18
+CD Feirense	GD Estoril	1:0	1:0	22.01.2017	17:00	2016	2017	18
+SL Benfica	CD Tondela	0:0	4:0	22.01.2017	17:00	2016	2017	18
+Os Belenenses	VitÃ³ria SetÃºbal	0:1	1:2	22.01.2017	19:00	2016	2017	18
+Sporting Braga	VitÃ³ria GuimarÃ£es	0:2	1:2	22.01.2017	21:15	2016	2017	18
+GD Chaves	CD Nacional	2:0	2:0	23.01.2017	21:00	2016	2017	18
+Boavista	Os Belenenses	0:0	0:1	27.01.2017	21:30	2016	2017	19
+CD Tondela	GD Chaves	2:0	2:0	28.01.2017	12:45	2016	2017	19
+CD Nacional	FC Arouca	0:0	1:1	28.01.2017	17:00	2016	2017	19
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	0:0	0:0	28.01.2017	17:00	2016	2017	19
+GD Estoril	FC Porto	0:0	1:2	28.01.2017	19:15	2016	2017	19
+Sporting CP	PaÃ§os de Ferreira	3:0	4:2	28.01.2017	21:30	2016	2017	19
+VitÃ³ria SetÃºbal	SL Benfica	1:0	1:0	30.01.2017	21:00	2016	2017	19
+Moreirense FC	CD Feirense	1:0	1:1	02.02.2017	20:00	2016	2017	19
+Rio Ave FC	Sporting Braga	0:0	1:0	02.02.2017	22:00	2016	2017	19
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	0:0	2:0	03.02.2017	21:30	2016	2017	20
+GD Chaves	Boavista	0:0	0:0	04.02.2017	17:00	2016	2017	20
+FC Porto	Sporting CP	2:0	2:1	04.02.2017	21:30	2016	2017	20
+FC Arouca	VitÃ³ria SetÃºbal	2:1	2:1	05.02.2017	17:00	2016	2017	20
+SL Benfica	CD Nacional	2:0	3:0	05.02.2017	19:00	2016	2017	20
+Os Belenenses	CD Tondela	0:0	0:0	05.02.2017	21:15	2016	2017	20
+CS MarÃ­timo	Moreirense FC	1:0	1:0	06.02.2017	20:00	2016	2017	20
+Sporting Braga	GD Estoril	0:1	1:1	06.02.2017	22:00	2016	2017	20
+CD Feirense	Rio Ave FC	1:0	2:1	06.02.2017	22:00	2016	2017	20
+SL Benfica	FC Arouca	2:0	3:0	10.02.2017	21:30	2016	2017	21
+CD Tondela	CD Feirense	0:0	0:1	11.02.2017	12:45	2016	2017	21
+VitÃ³ria SetÃºbal	GD Chaves	0:0	0:0	11.02.2017	17:00	2016	2017	21
+GD Estoril	PaÃ§os de Ferreira	2:1	2:1	11.02.2017	19:15	2016	2017	21
+VitÃ³ria GuimarÃ£es	FC Porto	0:1	0:2	11.02.2017	21:30	2016	2017	21
+CD Nacional	Os Belenenses	1:0	1:1	12.02.2017	17:00	2016	2017	21
+Moreirense FC	Sporting CP	2:1	2:3	12.02.2017	19:00	2016	2017	21
+Boavista	Sporting Braga	1:1	1:1	12.02.2017	21:15	2016	2017	21
+Rio Ave FC	CS MarÃ­timo	0:0	0:0	13.02.2017	21:00	2016	2017	21
+FC Porto	CD Tondela	1:0	4:0	17.02.2017	21:30	2016	2017	22
+GD Chaves	FC Arouca	1:0	2:0	18.02.2017	17:00	2016	2017	22
+Moreirense FC	GD Estoril	0:0	1:1	18.02.2017	17:00	2016	2017	22
+CD Feirense	Boavista	0:0	0:1	18.02.2017	19:15	2016	2017	22
+Sporting CP	Rio Ave FC	1:0	1:0	18.02.2017	21:30	2016	2017	22
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	1:0	2:1	19.02.2017	17:00	2016	2017	22
+Os Belenenses	VitÃ³ria GuimarÃ£es	1:1	1:1	19.02.2017	19:00	2016	2017	22
+Sporting Braga	SL Benfica	0:0	0:1	19.02.2017	21:15	2016	2017	22
+CS MarÃ­timo	CD Nacional	0:0	0:0	20.02.2017	21:00	2016	2017	22
+VitÃ³ria GuimarÃ£es	Moreirense FC	1:0	1:0	24.02.2017	20:00	2016	2017	23
+SL Benfica	GD Chaves	1:1	3:1	24.02.2017	22:00	2016	2017	23
+CD Tondela	CS MarÃ­timo	1:0	1:1	25.02.2017	17:00	2016	2017	23
+GD Estoril	Sporting CP	0:1	0:2	25.02.2017	19:15	2016	2017	23
+Rio Ave FC	PaÃ§os de Ferreira	0:0	0:0	25.02.2017	21:30	2016	2017	23
+CD Nacional	CD Feirense	0:0	0:0	26.02.2017	17:00	2016	2017	23
+VitÃ³ria SetÃºbal	Sporting Braga	0:0	1:1	26.02.2017	19:00	2016	2017	23
+Boavista	FC Porto	0:1	0:1	26.02.2017	21:15	2016	2017	23
+FC Arouca	Os Belenenses	1:0	1:2	27.02.2017	21:00	2016	2017	23
+Moreirense FC	Boavista	0:0	0:0	03.03.2017	21:30	2016	2017	24
+Sporting Braga	FC Arouca	1:1	3:1	04.03.2017	17:00	2016	2017	24
+FC Porto	CD Nacional	2:0	7:0	04.03.2017	19:15	2016	2017	24
+CD Feirense	SL Benfica	0:1	0:1	04.03.2017	21:30	2016	2017	24
+PaÃ§os de Ferreira	CD Tondela	0:0	0:0	05.03.2017	12:45	2016	2017	24
+CS MarÃ­timo	VitÃ³ria SetÃºbal	1:0	1:0	05.03.2017	17:00	2016	2017	24
+Os Belenenses	GD Chaves	0:1	2:1	05.03.2017	19:00	2016	2017	24
+Sporting CP	VitÃ³ria GuimarÃ£es	1:0	1:1	05.03.2017	21:15	2016	2017	24
+GD Estoril	Rio Ave FC	0:1	0:2	06.03.2017	21:00	2016	2017	24
+FC Arouca	FC Porto	0:2	0:4	10.03.2017	21:30	2016	2017	25
+VitÃ³ria SetÃºbal	CD Feirense	1:0	1:2	11.03.2017	17:00	2016	2017	25
+GD Chaves	Sporting Braga	0:0	0:0	11.03.2017	19:15	2016	2017	25
+CD Tondela	Sporting CP	0:1	1:4	11.03.2017	21:30	2016	2017	25
+Boavista	CS MarÃ­timo	1:0	3:0	12.03.2017	17:00	2016	2017	25
+Rio Ave FC	Moreirense FC	2:1	3:2	12.03.2017	19:00	2016	2017	25
+VitÃ³ria GuimarÃ£es	GD Estoril	0:1	3:3	12.03.2017	21:15	2016	2017	25
+CD Nacional	PaÃ§os de Ferreira	0:1	1:1	13.03.2017	19:00	2016	2017	25
+SL Benfica	Os Belenenses	1:0	4:0	13.03.2017	21:00	2016	2017	25
+GD Estoril	Boavista	0:0	0:0	17.03.2017	21:30	2016	2017	26
+Os Belenenses	Sporting Braga	1:2	1:2	18.03.2017	17:00	2016	2017	26
+Moreirense FC	CD Tondela	0:1	1:1	18.03.2017	17:00	2016	2017	26
+Sporting CP	CD Nacional	2:0	2:0	18.03.2017	19:15	2016	2017	26
+PaÃ§os de Ferreira	SL Benfica	0:0	0:0	18.03.2017	21:30	2016	2017	26
+CS MarÃ­timo	FC Arouca	1:1	3:1	19.03.2017	17:00	2016	2017	26
+CD Feirense	GD Chaves	0:1	3:2	19.03.2017	17:00	2016	2017	26
+FC Porto	VitÃ³ria SetÃºbal	1:0	1:1	19.03.2017	19:00	2016	2017	26
+VitÃ³ria GuimarÃ£es	Rio Ave FC	0:0	3:0	19.03.2017	21:15	2016	2017	26
+GD Chaves	PaÃ§os de Ferreira	1:0	1:0	31.03.2017	20:00	2016	2017	27
+CD Nacional	VitÃ³ria GuimarÃ£es	0:1	1:2	31.03.2017	22:00	2016	2017	27
+CD Tondela	GD Estoril	0:1	0:2	01.04.2017	17:00	2016	2017	27
+Boavista	Rio Ave FC	0:0	0:1	01.04.2017	19:15	2016	2017	27
+SL Benfica	FC Porto	1:0	1:1	01.04.2017	21:30	2016	2017	27
+VitÃ³ria SetÃºbal	Moreirense FC	2:0	2:0	02.04.2017	17:00	2016	2017	27
+Os Belenenses	CD Feirense	1:0	1:2	02.04.2017	17:00	2016	2017	27
+FC Arouca	Sporting CP	1:2	1:2	02.04.2017	19:00	2016	2017	27
+Sporting Braga	CS MarÃ­timo	3:2	3:3	02.04.2017	21:15	2016	2017	27
+CD Feirense	Sporting Braga	0:1	0:1	07.04.2017	21:30	2016	2017	28
+PaÃ§os de Ferreira	FC Arouca	1:0	1:1	08.04.2017	17:00	2016	2017	28
+FC Porto	Os Belenenses	1:0	3:0	08.04.2017	19:15	2016	2017	28
+Sporting CP	Boavista	2:0	4:0	08.04.2017	21:30	2016	2017	28
+GD Estoril	CD Nacional	0:0	0:1	09.04.2017	17:00	2016	2017	28
+Rio Ave FC	VitÃ³ria SetÃºbal	0:0	0:0	09.04.2017	17:00	2016	2017	28
+VitÃ³ria GuimarÃ£es	CD Tondela	2:0	2:1	09.04.2017	19:00	2016	2017	28
+Moreirense FC	SL Benfica	0:1	0:1	09.04.2017	21:15	2016	2017	28
+CS MarÃ­timo	GD Chaves	1:0	2:1	10.04.2017	21:00	2016	2017	28
+Os Belenenses	GD Estoril	1:2	1:3	14.04.2017	17:00	2016	2017	29
+Boavista	PaÃ§os de Ferreira	0:0	0:0	14.04.2017	17:00	2016	2017	29
+SL Benfica	CS MarÃ­timo	3:0	3:0	14.04.2017	19:15	2016	2017	29
+VitÃ³ria SetÃºbal	Sporting CP	0:1	0:3	14.04.2017	21:30	2016	2017	29
+FC Arouca	CD Feirense	1:0	2:0	15.04.2017	17:00	2016	2017	29
+GD Chaves	VitÃ³ria GuimarÃ£es	0:3	2:3	15.04.2017	17:00	2016	2017	29
+CD Tondela	Rio Ave FC	1:1	2:1	15.04.2017	19:15	2016	2017	29
+Sporting Braga	FC Porto	1:0	1:1	15.04.2017	21:30	2016	2017	29
+CD Nacional	Moreirense FC	0:1	0:1	17.04.2017	21:00	2016	2017	29
+Rio Ave FC	FC Arouca	2:0	3:0	21.04.2017	21:30	2016	2017	30
+CS MarÃ­timo	Os Belenenses	1:0	3:0	22.04.2017	17:00	2016	2017	30
+CD Tondela	CD Nacional	0:0	2:0	22.04.2017	17:00	2016	2017	30
+GD Estoril	VitÃ³ria SetÃºbal	2:0	3:0	22.04.2017	19:15	2016	2017	30
+Sporting CP	SL Benfica	1:0	1:1	22.04.2017	21:30	2016	2017	30
+PaÃ§os de Ferreira	Sporting Braga	1:0	3:1	23.04.2017	17:00	2016	2017	30
+VitÃ³ria GuimarÃ£es	Boavista	1:0	2:0	23.04.2017	19:00	2016	2017	30
+FC Porto	CD Feirense	0:0	0:0	23.04.2017	21:15	2016	2017	30
+Moreirense FC	GD Chaves	0:0	0:0	24.04.2017	21:00	2016	2017	30
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	0:0	0:2	28.04.2017	21:30	2016	2017	31
+Boavista	CD Tondela	0:0	1:0	29.04.2017	17:00	2016	2017	31
+CD Nacional	Rio Ave FC	0:0	0:2	29.04.2017	17:00	2016	2017	31
+SL Benfica	GD Estoril	1:0	2:1	29.04.2017	19:15	2016	2017	31
+GD Chaves	FC Porto	0:0	0:2	29.04.2017	21:30	2016	2017	31
+FC Arouca	Moreirense FC	2:0	2:2	30.04.2017	17:00	2016	2017	31
+CD Feirense	CS MarÃ­timo	2:1	2:1	30.04.2017	17:00	2016	2017	31
+Sporting Braga	Sporting CP	1:0	2:3	30.04.2017	19:00	2016	2017	31
+Os Belenenses	PaÃ§os de Ferreira	0:0	1:2	30.04.2017	21:15	2016	2017	31
+Moreirense FC	Sporting Braga	0:1	2:1	05.05.2017	21:30	2016	2017	32
+Boavista	CD Nacional	2:2	2:2	06.05.2017	17:00	2016	2017	32
+PaÃ§os de Ferreira	CD Feirense	0:0	0:1	06.05.2017	19:15	2016	2017	32
+CS MarÃ­timo	FC Porto	0:1	1:1	06.05.2017	21:30	2016	2017	32
+Sporting CP	Os Belenenses	0:0	1:3	07.05.2017	12:45	2016	2017	32
+CD Tondela	VitÃ³ria SetÃºbal	2:0	2:1	07.05.2017	17:00	2016	2017	32
+VitÃ³ria GuimarÃ£es	FC Arouca	0:0	1:0	07.05.2017	19:00	2016	2017	32
+Rio Ave FC	SL Benfica	0:0	0:1	07.05.2017	21:15	2016	2017	32
+GD Estoril	GD Chaves	0:1	2:1	08.05.2017	21:00	2016	2017	32
+Os Belenenses	Moreirense FC	1:0	1:1	12.05.2017	21:30	2016	2017	33
+FC Arouca	CD Tondela	1:1	1:2	13.05.2017	17:00	2016	2017	33
+SL Benfica	VitÃ³ria GuimarÃ£es	4:0	5:0	13.05.2017	19:15	2016	2017	33
+CD Feirense	Sporting CP	1:1	2:1	13.05.2017	21:30	2016	2017	33
+CS MarÃ­timo	GD Estoril	0:0	1:1	14.05.2017	17:00	2016	2017	33
+GD Chaves	Rio Ave FC	1:0	2:2	14.05.2017	17:00	2016	2017	33
+FC Porto	PaÃ§os de Ferreira	2:1	4:1	14.05.2017	19:00	2016	2017	33
+Sporting Braga	CD Nacional	3:0	4:0	14.05.2017	21:15	2016	2017	33
+VitÃ³ria SetÃºbal	Boavista	0:1	0:1	15.05.2017	21:00	2016	2017	33
+Rio Ave FC	Os Belenenses	1:0	2:0	20.05.2017	17:00	2016	2017	34
+PaÃ§os de Ferreira	CS MarÃ­timo	0:0	0:0	20.05.2017	17:00	2016	2017	34
+CD Nacional	VitÃ³ria SetÃºbal	0:0	1:2	20.05.2017	17:00	2016	2017	34
+VitÃ³ria GuimarÃ£es	CD Feirense	0:0	0:1	20.05.2017	19:15	2016	2017	34
+Boavista	SL Benfica	1:0	2:2	20.05.2017	21:30	2016	2017	34
+GD Estoril	FC Arouca	3:2	4:2	21.05.2017	19:00	2016	2017	34
+CD Tondela	Sporting Braga	1:0	2:0	21.05.2017	19:00	2016	2017	34
+Moreirense FC	FC Porto	2:0	3:1	21.05.2017	19:00	2016	2017	34
+Sporting CP	GD Chaves	3:0	4:1	21.05.2017	21:15	2016	2017	34

@@ -1,0 +1,240 @@
+LeixÃµes SC	Os Belenenses	0:0	0:0	14.08.2009	21:15	2009	2010	1
+CD Nacional	Sporting CP	1:0	1:1	15.08.2009	20:15	2009	2010	1
+Sporting Braga	AcadÃ©mica de Coimbra	0:0	1:0	15.08.2009	22:15	2009	2010	1
+Naval 1Â° de Maio	SC Olhanense	0:0	0:0	16.08.2009	17:00	2009	2010	1
+UniÃ£o Leiria	Rio Ave FC	0:1	1:1	16.08.2009	18:00	2009	2010	1
+PaÃ§os de Ferreira	FC Porto	1:0	1:1	16.08.2009	19:00	2009	2010	1
+SL Benfica	CS MarÃ­timo	0:1	1:1	16.08.2009	21:15	2009	2010	1
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	0:0	0:0	17.08.2009	19:00	2009	2010	1
+SC Olhanense	UniÃ£o Leiria	0:0	0:0	21.08.2009	21:15	2009	2010	2
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	1:1	1:1	22.08.2009	20:15	2009	2010	2
+Sporting CP	Sporting Braga	0:1	1:2	22.08.2009	22:15	2009	2010	2
+CS MarÃ­timo	LeixÃµes SC	0:0	1:0	23.08.2009	17:00	2009	2010	2
+Rio Ave FC	VitÃ³ria SetÃºbal	1:0	1:0	23.08.2009	17:00	2009	2010	2
+VitÃ³ria GuimarÃ£es	SL Benfica	0:0	0:1	23.08.2009	19:00	2009	2010	2
+FC Porto	CD Nacional	0:0	3:0	23.08.2009	21:15	2009	2010	2
+Os Belenenses	Naval 1Â° de Maio	0:0	2:0	24.08.2009	21:15	2009	2010	2
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	0:0	0:0	29.08.2009	20:15	2009	2010	3
+Naval 1Â° de Maio	FC Porto	0:1	1:3	29.08.2009	22:15	2009	2010	3
+LeixÃµes SC	Rio Ave FC	0:0	0:0	30.08.2009	18:00	2009	2010	3
+UniÃ£o Leiria	CS MarÃ­timo	0:0	0:0	30.08.2009	18:00	2009	2010	3
+Sporting Braga	Os Belenenses	1:0	3:1	30.08.2009	19:00	2009	2010	3
+AcadÃ©mica de Coimbra	Sporting CP	0:0	0:2	30.08.2009	21:15	2009	2010	3
+CD Nacional	SC Olhanense	0:0	1:1	31.08.2009	20:00	2009	2010	3
+SL Benfica	VitÃ³ria SetÃºbal	5:0	8:1	31.08.2009	21:15	2009	2010	3
+VitÃ³ria GuimarÃ£es	Naval 1Â° de Maio	1:0	3:0	11.09.2009	21:15	2009	2010	4
+Rio Ave FC	CD Nacional	1:0	2:0	12.09.2009	19:00	2009	2010	4
+FC Porto	LeixÃµes SC	4:0	4:1	12.09.2009	20:00	2009	2010	4
+CS MarÃ­timo	Sporting Braga	1:1	1:2	13.09.2009	12:15	2009	2010	4
+SC Olhanense	AcadÃ©mica de Coimbra	2:1	2:1	13.09.2009	17:00	2009	2010	4
+VitÃ³ria SetÃºbal	UniÃ£o Leiria	0:1	0:4	13.09.2009	17:00	2009	2010	4
+Os Belenenses	SL Benfica	0:1	0:4	13.09.2009	19:00	2009	2010	4
+Sporting CP	PaÃ§os de Ferreira	0:0	1:0	13.09.2009	21:15	2009	2010	4
+LeixÃµes SC	VitÃ³ria GuimarÃ£es	1:1	3:1	18.09.2009	21:15	2009	2010	5
+PaÃ§os de Ferreira	Rio Ave FC	0:0	1:1	19.09.2009	19:00	2009	2010	5
+Sporting Braga	FC Porto	0:0	1:0	19.09.2009	22:15	2009	2010	5
+AcadÃ©mica de Coimbra	Os Belenenses	1:0	1:1	20.09.2009	17:00	2009	2010	5
+Naval 1Â° de Maio	VitÃ³ria SetÃºbal	0:1	0:1	20.09.2009	18:00	2009	2010	5
+CD Nacional	CS MarÃ­timo	1:0	2:1	20.09.2009	19:00	2009	2010	5
+UniÃ£o Leiria	SL Benfica	1:1	1:2	20.09.2009	21:15	2009	2010	5
+Sporting CP	SC Olhanense	2:2	3:2	21.09.2009	21:15	2009	2010	5
+SC Olhanense	Sporting Braga	0:0	0:1	25.09.2009	21:15	2009	2010	6
+Rio Ave FC	AcadÃ©mica de Coimbra	0:0	0:0	26.09.2009	17:00	2009	2010	6
+CS MarÃ­timo	Naval 1Â° de Maio	0:1	1:2	26.09.2009	17:00	2009	2010	6
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	0:1	0:1	26.09.2009	17:00	2009	2010	6
+FC Porto	Sporting CP	1:0	1:0	26.09.2009	20:15	2009	2010	6
+SL Benfica	LeixÃµes SC	1:0	5:0	26.09.2009	22:15	2009	2010	6
+VitÃ³ria GuimarÃ£es	UniÃ£o Leiria	1:1	2:2	28.09.2009	21:15	2009	2010	6
+Os Belenenses	CD Nacional	0:1	0:1	12.10.2009	21:15	2009	2010	6
+AcadÃ©mica de Coimbra	CS MarÃ­timo	0:2	2:4	02.10.2009	21:15	2009	2010	7
+Naval 1Â° de Maio	Rio Ave FC	1:1	3:2	03.10.2009	18:00	2009	2010	7
+Sporting Braga	VitÃ³ria SetÃºbal	0:0	2:0	03.10.2009	22:15	2009	2010	7
+LeixÃµes SC	UniÃ£o Leiria	1:1	3:2	04.10.2009	17:00	2009	2010	7
+Sporting CP	Os Belenenses	0:0	0:0	04.10.2009	19:00	2009	2010	7
+SC Olhanense	FC Porto	0:2	0:3	04.10.2009	21:15	2009	2010	7
+CD Nacional	VitÃ³ria GuimarÃ£es	2:0	2:0	05.10.2009	19:00	2009	2010	7
+PaÃ§os de Ferreira	SL Benfica	0:3	1:3	05.10.2009	21:15	2009	2010	7
+Os Belenenses	SC Olhanense	0:0	0:0	23.10.2009	21:15	2009	2010	8
+UniÃ£o Leiria	Naval 1Â° de Maio	2:0	2:0	24.10.2009	17:00	2009	2010	8
+Rio Ave FC	Sporting Braga	1:1	1:1	24.10.2009	22:15	2009	2010	8
+CS MarÃ­timo	PaÃ§os de Ferreira	2:0	3:1	25.10.2009	17:00	2009	2010	8
+VitÃ³ria SetÃºbal	LeixÃµes SC	1:0	1:0	25.10.2009	19:00	2009	2010	8
+FC Porto	AcadÃ©mica de Coimbra	0:0	3:2	25.10.2009	21:15	2009	2010	8
+SL Benfica	CD Nacional	2:1	6:1	26.10.2009	21:15	2009	2010	8
+VitÃ³ria GuimarÃ£es	Sporting CP	0:0	1:1	27.10.2009	21:15	2009	2010	8
+FC Porto	Os Belenenses	0:0	1:1	30.10.2009	21:15	2009	2010	9
+Naval 1Â° de Maio	LeixÃµes SC	0:0	1:0	31.10.2009	17:00	2009	2010	9
+Sporting Braga	SL Benfica	1:0	2:0	31.10.2009	22:15	2009	2010	9
+PaÃ§os de Ferreira	UniÃ£o Leiria	0:1	0:1	01.11.2009	17:00	2009	2010	9
+SC Olhanense	Rio Ave FC	0:1	0:1	01.11.2009	17:00	2009	2010	9
+CD Nacional	VitÃ³ria SetÃºbal	1:1	2:1	01.11.2009	19:00	2009	2010	9
+Sporting CP	CS MarÃ­timo	0:0	1:1	01.11.2009	21:15	2009	2010	9
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	1:0	2:0	02.11.2009	21:15	2009	2010	9
+Os Belenenses	PaÃ§os de Ferreira	0:1	0:3	06.11.2009	21:15	2009	2010	10
+VitÃ³ria SetÃºbal	SC Olhanense	0:0	0:0	07.11.2009	17:00	2009	2010	10
+VitÃ³ria GuimarÃ£es	Sporting Braga	1:0	1:0	07.11.2009	22:15	2009	2010	10
+LeixÃµes SC	CD Nacional	1:2	2:4	08.11.2009	17:00	2009	2010	10
+UniÃ£o Leiria	AcadÃ©mica de Coimbra	0:0	1:1	08.11.2009	17:00	2009	2010	10
+CS MarÃ­timo	FC Porto	1:0	1:0	08.11.2009	19:00	2009	2010	10
+Rio Ave FC	Sporting CP	0:2	2:2	08.11.2009	21:15	2009	2010	10
+SL Benfica	Naval 1Â° de Maio	0:0	1:0	09.11.2009	21:15	2009	2010	10
+SC Olhanense	VitÃ³ria GuimarÃ£es	0:1	0:2	27.11.2009	21:15	2009	2010	11
+CD Nacional	Naval 1Â° de Maio	0:1	1:1	28.11.2009	18:00	2009	2010	11
+Sporting CP	SL Benfica	0:0	0:0	28.11.2009	22:15	2009	2010	11
+PaÃ§os de Ferreira	LeixÃµes SC	0:0	1:1	29.11.2009	17:00	2009	2010	11
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	1:0	3:0	29.11.2009	17:00	2009	2010	11
+Os Belenenses	CS MarÃ­timo	0:0	2:2	29.11.2009	19:00	2009	2010	11
+FC Porto	Rio Ave FC	1:1	2:1	29.11.2009	21:15	2009	2010	11
+Sporting Braga	UniÃ£o Leiria	1:0	2:0	30.11.2009	21:15	2009	2010	11
+VitÃ³ria GuimarÃ£es	FC Porto	1:2	1:4	04.12.2009	21:15	2009	2010	12
+Naval 1Â° de Maio	PaÃ§os de Ferreira	1:0	1:0	05.12.2009	18:00	2009	2010	12
+Rio Ave FC	Os Belenenses	0:0	0:0	05.12.2009	20:15	2009	2010	12
+LeixÃµes SC	Sporting Braga	1:0	1:1	05.12.2009	22:15	2009	2010	12
+CS MarÃ­timo	SC Olhanense	1:1	5:2	06.12.2009	17:00	2009	2010	12
+SL Benfica	AcadÃ©mica de Coimbra	2:0	4:0	06.12.2009	21:15	2009	2010	12
+UniÃ£o Leiria	CD Nacional	0:1	1:2	07.12.2009	21:15	2009	2010	12
+VitÃ³ria SetÃºbal	Sporting CP	0:1	0:2	07.12.2009	21:15	2009	2010	12
+PaÃ§os de Ferreira	CD Nacional	1:0	2:1	11.12.2009	21:15	2009	2010	13
+Sporting CP	UniÃ£o Leiria	0:1	0:1	12.12.2009	18:00	2009	2010	13
+SC Olhanense	SL Benfica	2:1	2:2	12.12.2009	22:15	2009	2010	13
+CS MarÃ­timo	Rio Ave FC	0:1	0:1	13.12.2009	17:00	2009	2010	13
+AcadÃ©mica de Coimbra	LeixÃµes SC	1:0	2:0	13.12.2009	17:00	2009	2010	13
+Sporting Braga	Naval 1Â° de Maio	0:0	0:0	13.12.2009	19:00	2009	2010	13
+FC Porto	VitÃ³ria SetÃºbal	2:0	2:0	13.12.2009	21:15	2009	2010	13
+Os Belenenses	VitÃ³ria GuimarÃ£es	0:0	0:1	14.12.2009	21:15	2009	2010	13
+PaÃ§os de Ferreira	Sporting Braga	0:1	0:1	18.12.2009	21:15	2009	2010	14
+VitÃ³ria GuimarÃ£es	Rio Ave FC	0:0	1:0	19.12.2009	20:15	2009	2010	14
+Naval 1Â° de Maio	Sporting CP	0:1	0:1	19.12.2009	22:15	2009	2010	14
+CD Nacional	AcadÃ©mica de Coimbra	2:1	4:3	20.12.2009	17:00	2009	2010	14
+UniÃ£o Leiria	Os Belenenses	0:0	1:0	20.12.2009	17:00	2009	2010	14
+VitÃ³ria SetÃºbal	CS MarÃ­timo	2:1	3:2	20.12.2009	17:00	2009	2010	14
+SL Benfica	FC Porto	1:0	1:0	20.12.2009	21:15	2009	2010	14
+LeixÃµes SC	SC Olhanense	1:1	2:2	21.12.2009	21:15	2009	2010	14
+Sporting Braga	CD Nacional	1:0	2:0	08.01.2010	21:15	2009	2010	15
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	0:0	0:1	09.01.2010	18:00	2009	2010	15
+Sporting CP	LeixÃµes SC	0:0	1:0	09.01.2010	20:15	2009	2010	15
+Rio Ave FC	SL Benfica	0:0	0:1	09.01.2010	22:15	2009	2010	15
+SC Olhanense	PaÃ§os de Ferreira	0:1	1:1	10.01.2010	16:00	2009	2010	15
+AcadÃ©mica de Coimbra	Naval 1Â° de Maio	2:0	2:0	10.01.2010	19:00	2009	2010	15
+FC Porto	UniÃ£o Leiria	2:1	3:2	10.01.2010	21:15	2009	2010	15
+Os Belenenses	VitÃ³ria SetÃºbal	0:0	0:0	11.01.2010	21:15	2009	2010	15
+SC Olhanense	Naval 1Â° de Maio	0:0	1:0	16.01.2010	17:00	2009	2010	16
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	1:1	2:2	16.01.2010	18:00	2009	2010	16
+FC Porto	PaÃ§os de Ferreira	0:0	1:1	16.01.2010	20:15	2009	2010	16
+Sporting CP	CD Nacional	1:1	3:2	16.01.2010	22:15	2009	2010	16
+Os Belenenses	LeixÃµes SC	0:1	1:3	17.01.2010	16:00	2009	2010	16
+Rio Ave FC	UniÃ£o Leiria	0:1	0:2	17.01.2010	17:00	2009	2010	16
+AcadÃ©mica de Coimbra	Sporting Braga	0:1	0:2	17.01.2010	19:00	2009	2010	16
+CS MarÃ­timo	SL Benfica	0:3	0:5	17.01.2010	21:15	2009	2010	16
+Sporting Braga	Sporting CP	1:0	1:0	29.01.2010	21:45	2009	2010	17
+Naval 1Â° de Maio	Os Belenenses	1:0	1:0	30.01.2010	17:00	2009	2010	17
+UniÃ£o Leiria	SC Olhanense	0:0	2:0	30.01.2010	17:00	2009	2010	17
+CD Nacional	FC Porto	0:2	0:4	30.01.2010	18:00	2009	2010	17
+SL Benfica	VitÃ³ria GuimarÃ£es	1:1	3:1	30.01.2010	20:15	2009	2010	17
+VitÃ³ria SetÃºbal	Rio Ave FC	1:1	2:2	31.01.2010	17:00	2009	2010	17
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	0:0	2:1	31.01.2010	19:00	2009	2010	17
+LeixÃµes SC	CS MarÃ­timo	1:2	1:2	01.02.2010	21:15	2009	2010	17
+Sporting CP	AcadÃ©mica de Coimbra	1:1	1:2	06.02.2010	20:15	2009	2010	18
+VitÃ³ria SetÃºbal	SL Benfica	1:1	1:1	06.02.2010	22:15	2009	2010	18
+SC Olhanense	CD Nacional	0:0	1:0	07.02.2010	16:00	2009	2010	18
+Rio Ave FC	LeixÃµes SC	0:0	2:0	07.02.2010	17:00	2009	2010	18
+CS MarÃ­timo	UniÃ£o Leiria	1:0	1:0	07.02.2010	17:30	2009	2010	18
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	1:1	1:2	07.02.2010	19:00	2009	2010	18
+FC Porto	Naval 1Â° de Maio	1:0	3:0	07.02.2010	21:15	2009	2010	18
+Os Belenenses	Sporting Braga	0:1	1:3	08.02.2010	21:15	2009	2010	18
+PaÃ§os de Ferreira	Sporting CP	0:0	0:0	12.02.2010	21:15	2009	2010	19
+SL Benfica	Os Belenenses	1:0	1:0	13.02.2010	18:00	2009	2010	19
+LeixÃµes SC	FC Porto	0:0	0:0	13.02.2010	22:15	2009	2010	19
+CD Nacional	Rio Ave FC	0:0	1:1	14.02.2010	17:00	2009	2010	19
+AcadÃ©mica de Coimbra	SC Olhanense	1:1	1:1	14.02.2010	17:00	2009	2010	19
+UniÃ£o Leiria	VitÃ³ria SetÃºbal	2:3	3:3	14.02.2010	17:00	2009	2010	19
+Sporting Braga	CS MarÃ­timo	0:0	2:1	14.02.2010	19:00	2009	2010	19
+Naval 1Â° de Maio	VitÃ³ria GuimarÃ£es	0:0	0:0	15.02.2010	21:15	2009	2010	19
+SL Benfica	UniÃ£o Leiria	1:0	3:0	03.02.2010	22:00	2009	2010	20
+CS MarÃ­timo	CD Nacional	1:0	1:1	19.02.2010	21:15	2009	2010	20
+VitÃ³ria GuimarÃ£es	LeixÃµes SC	1:0	2:0	20.02.2010	20:15	2009	2010	20
+SC Olhanense	Sporting CP	0:0	0:0	20.02.2010	22:15	2009	2010	20
+VitÃ³ria SetÃºbal	Naval 1Â° de Maio	0:1	0:1	21.02.2010	17:00	2009	2010	20
+Rio Ave FC	PaÃ§os de Ferreira	0:1	1:2	21.02.2010	17:00	2009	2010	20
+FC Porto	Sporting Braga	3:0	5:1	21.02.2010	21:15	2009	2010	20
+Os Belenenses	AcadÃ©mica de Coimbra	0:2	1:2	22.02.2010	21:15	2009	2010	20
+UniÃ£o Leiria	VitÃ³ria GuimarÃ£es	0:0	0:1	26.02.2010	21:15	2009	2010	21
+Naval 1Â° de Maio	CS MarÃ­timo	1:1	2:1	27.02.2010	17:00	2009	2010	21
+Sporting Braga	SC Olhanense	2:1	3:1	27.02.2010	20:15	2009	2010	21
+LeixÃµes SC	SL Benfica	0:1	0:4	27.02.2010	22:15	2009	2010	21
+AcadÃ©mica de Coimbra	Rio Ave FC	0:1	0:1	28.02.2010	17:00	2009	2010	21
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	3:1	5:3	28.02.2010	17:00	2009	2010	21
+Sporting CP	FC Porto	2:0	3:0	28.02.2010	21:15	2009	2010	21
+CD Nacional	Os Belenenses	1:0	1:0	02.03.2010	16:00	2009	2010	21
+UniÃ£o Leiria	LeixÃµes SC	1:0	2:1	05.03.2010	21:15	2009	2010	22
+FC Porto	SC Olhanense	0:2	2:2	06.03.2010	18:00	2009	2010	22
+Rio Ave FC	Naval 1Â° de Maio	0:0	0:0	06.03.2010	20:00	2009	2010	22
+VitÃ³ria SetÃºbal	Sporting Braga	0:0	0:0	06.03.2010	22:15	2009	2010	22
+CS MarÃ­timo	AcadÃ©mica de Coimbra	0:0	0:0	07.03.2010	17:00	2009	2010	22
+Os Belenenses	Sporting CP	0:0	0:4	07.03.2010	19:00	2009	2010	22
+SL Benfica	PaÃ§os de Ferreira	2:1	3:1	07.03.2010	21:15	2009	2010	22
+VitÃ³ria GuimarÃ£es	CD Nacional	2:0	2:0	08.03.2010	21:15	2009	2010	22
+Naval 1Â° de Maio	UniÃ£o Leiria	0:0	1:0	12.03.2010	21:15	2009	2010	23
+Sporting Braga	Rio Ave FC	1:0	1:0	13.03.2010	20:15	2009	2010	23
+AcadÃ©mica de Coimbra	FC Porto	1:1	1:2	13.03.2010	22:15	2009	2010	23
+SC Olhanense	Os Belenenses	1:1	1:3	14.03.2010	16:00	2009	2010	23
+LeixÃµes SC	VitÃ³ria SetÃºbal	1:1	1:2	14.03.2010	17:00	2009	2010	23
+CD Nacional	SL Benfica	0:0	0:1	14.03.2010	19:00	2009	2010	23
+Sporting CP	VitÃ³ria GuimarÃ£es	3:0	3:1	14.03.2010	21:15	2009	2010	23
+PaÃ§os de Ferreira	CS MarÃ­timo	0:0	1:0	15.03.2010	21:15	2009	2010	23
+CS MarÃ­timo	Sporting CP	1:1	3:2	26.03.2010	21:15	2009	2010	24
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	0:0	1:0	27.03.2010	19:00	2009	2010	24
+SL Benfica	Sporting Braga	1:0	1:0	27.03.2010	21:15	2009	2010	24
+LeixÃµes SC	Naval 1Â° de Maio	1:0	1:0	28.03.2010	17:00	2009	2010	24
+VitÃ³ria SetÃºbal	CD Nacional	0:1	2:1	28.03.2010	17:00	2009	2010	24
+Rio Ave FC	SC Olhanense	1:1	1:5	28.03.2010	17:00	2009	2010	24
+UniÃ£o Leiria	PaÃ§os de Ferreira	1:0	2:1	28.03.2010	19:00	2009	2010	24
+Os Belenenses	FC Porto	0:1	0:3	28.03.2010	21:15	2009	2010	24
+Sporting Braga	VitÃ³ria GuimarÃ£es	1:1	3:2	02.04.2010	19:00	2009	2010	25
+CD Nacional	LeixÃµes SC	0:0	1:0	02.04.2010	20:00	2009	2010	25
+Sporting CP	Rio Ave FC	2:0	5:0	02.04.2010	21:15	2009	2010	25
+PaÃ§os de Ferreira	Os Belenenses	0:0	0:0	03.04.2010	17:00	2009	2010	25
+SC Olhanense	VitÃ³ria SetÃºbal	0:1	2:2	03.04.2010	17:00	2009	2010	25
+AcadÃ©mica de Coimbra	UniÃ£o Leiria	0:0	0:0	03.04.2010	19:00	2009	2010	25
+FC Porto	CS MarÃ­timo	2:1	4:1	03.04.2010	21:15	2009	2010	25
+Naval 1Â° de Maio	SL Benfica	2:3	2:4	05.04.2010	22:00	2009	2010	25
+Naval 1Â° de Maio	CD Nacional	0:0	0:0	09.04.2010	21:15	2009	2010	26
+UniÃ£o Leiria	Sporting Braga	1:2	1:2	10.04.2010	20:15	2009	2010	26
+Rio Ave FC	FC Porto	0:0	0:1	10.04.2010	22:15	2009	2010	26
+CS MarÃ­timo	Os Belenenses	1:2	3:3	11.04.2010	17:00	2009	2010	26
+LeixÃµes SC	PaÃ§os de Ferreira	1:0	2:0	11.04.2010	17:00	2009	2010	26
+VitÃ³ria GuimarÃ£es	SC Olhanense	1:0	1:1	11.04.2010	21:15	2009	2010	26
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	0:0	1:1	12.04.2010	21:15	2009	2010	26
+SL Benfica	Sporting CP	0:0	2:0	13.04.2010	21:45	2009	2010	26
+SC Olhanense	CS MarÃ­timo	0:1	1:2	16.04.2010	21:15	2009	2010	27
+PaÃ§os de Ferreira	Naval 1Â° de Maio	0:2	1:3	17.04.2010	20:15	2009	2010	27
+Sporting Braga	LeixÃµes SC	2:0	3:1	17.04.2010	22:15	2009	2010	27
+Os Belenenses	Rio Ave FC	0:0	0:0	18.04.2010	17:00	2009	2010	27
+CD Nacional	UniÃ£o Leiria	1:0	2:0	18.04.2010	17:00	2009	2010	27
+AcadÃ©mica de Coimbra	SL Benfica	1:2	2:3	18.04.2010	19:00	2009	2010	27
+FC Porto	VitÃ³ria GuimarÃ£es	1:0	3:0	18.04.2010	21:15	2009	2010	27
+Sporting CP	VitÃ³ria SetÃºbal	0:1	2:1	19.04.2010	21:15	2009	2010	27
+Rio Ave FC	CS MarÃ­timo	0:0	0:0	23.04.2010	21:15	2009	2010	28
+VitÃ³ria SetÃºbal	FC Porto	0:2	2:5	24.04.2010	20:15	2009	2010	28
+SL Benfica	SC Olhanense	2:0	5:0	24.04.2010	22:15	2009	2010	28
+CD Nacional	PaÃ§os de Ferreira	1:0	1:1	25.04.2010	17:00	2009	2010	28
+LeixÃµes SC	AcadÃ©mica de Coimbra	0:1	1:3	25.04.2010	17:00	2009	2010	28
+Naval 1Â° de Maio	Sporting Braga	0:2	0:4	25.04.2010	19:00	2009	2010	28
+UniÃ£o Leiria	Sporting CP	0:1	1:1	25.04.2010	21:15	2009	2010	28
+VitÃ³ria GuimarÃ£es	Os Belenenses	1:0	2:0	26.04.2010	21:15	2009	2010	28
+Sporting CP	Naval 1Â° de Maio	0:0	0:1	02.05.2010	21:15	2009	2010	29
+AcadÃ©mica de Coimbra	CD Nacional	1:2	3:3	02.05.2010	21:15	2009	2010	29
+Sporting Braga	PaÃ§os de Ferreira	0:0	1:0	02.05.2010	21:15	2009	2010	29
+SC Olhanense	LeixÃµes SC	0:0	1:0	02.05.2010	21:15	2009	2010	29
+FC Porto	SL Benfica	1:0	3:1	02.05.2010	21:15	2009	2010	29
+Rio Ave FC	VitÃ³ria GuimarÃ£es	0:0	0:0	02.05.2010	21:15	2009	2010	29
+CS MarÃ­timo	VitÃ³ria SetÃºbal	1:0	2:0	02.05.2010	21:15	2009	2010	29
+Os Belenenses	UniÃ£o Leiria	2:2	5:2	02.05.2010	21:15	2009	2010	29
+UniÃ£o Leiria	FC Porto	1:0	1:4	08.05.2010	20:15	2009	2010	30
+VitÃ³ria SetÃºbal	Os Belenenses	1:0	1:2	08.05.2010	22:15	2009	2010	30
+LeixÃµes SC	Sporting CP	0:1	1:2	08.05.2010	22:15	2009	2010	30
+PaÃ§os de Ferreira	SC Olhanense	1:1	2:2	09.05.2010	17:00	2009	2010	30
+SL Benfica	Rio Ave FC	1:0	2:1	09.05.2010	19:00	2009	2010	30
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	1:1	1:2	09.05.2010	19:00	2009	2010	30
+CD Nacional	Sporting Braga	0:0	1:1	09.05.2010	19:00	2009	2010	30
+Naval 1Â° de Maio	AcadÃ©mica de Coimbra	0:0	0:1	09.05.2010	19:00	2009	2010	30

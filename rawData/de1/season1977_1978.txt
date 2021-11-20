@@ -1,0 +1,306 @@
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	1:1	5:1	06.08.1977	15:30	1977	1978	1
+FC St. Pauli	Werder Bremen	0:0	3:1	06.08.1977	15:30	1977	1978	1
+VfB Stuttgart	Bayern MÃ¼nchen	2:2	3:3	06.08.1977	15:30	1977	1978	1
+1. FC Kaiserslautern	Eintracht Braunschweig	0:0	2:1	06.08.1977	15:30	1977	1978	1
+Eintracht Frankfurt	1. FC SaarbrÃ¼cken	2:0	4:0	06.08.1977	15:30	1977	1978	1
+TSV 1860 MÃ¼nchen	FC Schalke 04	0:0	0:0	06.08.1977	15:30	1977	1978	1
+MSV Duisburg	Hamburger SV	1:0	5:2	06.08.1977	15:30	1977	1978	1
+Hertha BSC	Borussia Dortmund	0:0	3:1	06.08.1977	15:30	1977	1978	1
+VfL Bochum	Bor. MÃ¶nchengladbach	0:0	0:0	06.08.1977	15:30	1977	1978	1
+Werder Bremen	Fortuna DÃ¼sseldorf	1:0	2:1	12.08.1977	20:00	1977	1978	2
+FC Schalke 04	Eintracht Frankfurt	2:0	3:2	12.08.1977	20:00	1977	1978	2
+Hamburger SV	TSV 1860 MÃ¼nchen	2:0	3:0	13.08.1977	15:30	1977	1978	2
+1. FC SaarbrÃ¼cken	1. FC Kaiserslautern	1:1	3:3	13.08.1977	15:30	1977	1978	2
+Eintracht Braunschweig	VfB Stuttgart	1:0	3:1	13.08.1977	15:30	1977	1978	2
+Bayern MÃ¼nchen	FC St. Pauli	3:2	4:2	13.08.1977	15:30	1977	1978	2
+Bor. MÃ¶nchengladbach	Hertha BSC	1:1	2:1	13.08.1977	15:30	1977	1978	2
+1. FC KÃ¶ln	VfL Bochum	2:1	2:1	13.08.1977	15:30	1977	1978	2
+Borussia Dortmund	MSV Duisburg	1:0	2:1	27.09.1977	20:00	1977	1978	2
+1. FC Kaiserslautern	FC Schalke 04	0:0	0:0	16.08.1977	20:00	1977	1978	3
+Fortuna DÃ¼sseldorf	Bayern MÃ¼nchen	0:1	4:2	17.08.1977	20:00	1977	1978	3
+FC St. Pauli	Eintracht Braunschweig	0:1	0:1	17.08.1977	20:00	1977	1978	3
+VfB Stuttgart	1. FC SaarbrÃ¼cken	1:0	1:0	17.08.1977	20:00	1977	1978	3
+Eintracht Frankfurt	Hamburger SV	0:0	0:2	17.08.1977	20:00	1977	1978	3
+TSV 1860 MÃ¼nchen	Borussia Dortmund	0:1	0:2	17.08.1977	20:00	1977	1978	3
+MSV Duisburg	Bor. MÃ¶nchengladbach	0:1	1:1	17.08.1977	20:00	1977	1978	3
+1. FC KÃ¶ln	Werder Bremen	3:1	7:2	17.08.1977	20:00	1977	1978	3
+VfL Bochum	Hertha BSC	1:0	5:0	17.08.1977	20:00	1977	1978	3
+Werder Bremen	VfL Bochum	0:0	1:0	26.08.1977	20:00	1977	1978	4
+Hamburger SV	1. FC Kaiserslautern	1:0	3:1	27.08.1977	15:30	1977	1978	4
+FC Schalke 04	VfB Stuttgart	0:0	3:1	27.08.1977	15:30	1977	1978	4
+1. FC SaarbrÃ¼cken	FC St. Pauli	3:0	4:0	27.08.1977	15:30	1977	1978	4
+Eintracht Braunschweig	Fortuna DÃ¼sseldorf	0:0	2:0	27.08.1977	15:30	1977	1978	4
+Bor. MÃ¶nchengladbach	TSV 1860 MÃ¼nchen	0:1	2:1	27.08.1977	15:30	1977	1978	4
+Bayern MÃ¼nchen	1. FC KÃ¶ln	0:1	0:3	27.08.1977	15:30	1977	1978	4
+Hertha BSC	MSV Duisburg	1:1	2:2	27.08.1977	15:30	1977	1978	4
+Borussia Dortmund	Eintracht Frankfurt	0:2	0:2	27.08.1977	15:30	1977	1978	4
+1. FC Kaiserslautern	Borussia Dortmund	2:0	4:0	30.08.1977	20:00	1977	1978	5
+FC St. Pauli	FC Schalke 04	1:1	1:1	31.08.1977	20:00	1977	1978	5
+VfB Stuttgart	Hamburger SV	0:1	1:2	31.08.1977	20:00	1977	1978	5
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	1:1	4:2	31.08.1977	20:00	1977	1978	5
+TSV 1860 MÃ¼nchen	Hertha BSC	1:2	2:3	31.08.1977	20:00	1977	1978	5
+Werder Bremen	Bayern MÃ¼nchen	0:0	1:1	31.08.1977	20:00	1977	1978	5
+1. FC KÃ¶ln	Eintracht Braunschweig	3:0	6:0	31.08.1977	20:00	1977	1978	5
+VfL Bochum	MSV Duisburg	0:1	1:2	31.08.1977	20:00	1977	1978	5
+Fortuna DÃ¼sseldorf	1. FC SaarbrÃ¼cken	1:1	2:1	20.09.1977	20:00	1977	1978	5
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	1:1	2:2	03.09.1977	15:30	1977	1978	6
+Hamburger SV	FC St. Pauli	0:1	0:2	03.09.1977	15:30	1977	1978	6
+FC Schalke 04	Fortuna DÃ¼sseldorf	1:0	1:0	03.09.1977	15:30	1977	1978	6
+1. FC SaarbrÃ¼cken	1. FC KÃ¶ln	0:0	1:0	03.09.1977	15:30	1977	1978	6
+Eintracht Braunschweig	Werder Bremen	2:0	2:0	03.09.1977	15:30	1977	1978	6
+Bayern MÃ¼nchen	VfL Bochum	0:1	1:1	03.09.1977	15:30	1977	1978	6
+MSV Duisburg	TSV 1860 MÃ¼nchen	0:1	1:1	03.09.1977	15:30	1977	1978	6
+Hertha BSC	Eintracht Frankfurt	1:0	2:0	03.09.1977	15:30	1977	1978	6
+Borussia Dortmund	VfB Stuttgart	2:0	4:1	03.09.1977	15:30	1977	1978	6
+Werder Bremen	1. FC SaarbrÃ¼cken	1:1	1:1	09.09.1977	20:00	1977	1978	7
+Eintracht Frankfurt	MSV Duisburg	2:1	3:1	09.09.1977	20:00	1977	1978	7
+Fortuna DÃ¼sseldorf	Hamburger SV	1:0	3:1	10.09.1977	15:30	1977	1978	7
+FC St. Pauli	Borussia Dortmund	0:3	3:6	10.09.1977	15:30	1977	1978	7
+VfB Stuttgart	Bor. MÃ¶nchengladbach	0:0	2:0	10.09.1977	15:30	1977	1978	7
+1. FC Kaiserslautern	Hertha BSC	1:0	2:0	10.09.1977	15:30	1977	1978	7
+Bayern MÃ¼nchen	Eintracht Braunschweig	2:1	3:2	10.09.1977	15:30	1977	1978	7
+1. FC KÃ¶ln	FC Schalke 04	1:1	2:4	10.09.1977	15:30	1977	1978	7
+VfL Bochum	TSV 1860 MÃ¼nchen	2:0	2:0	10.09.1977	15:30	1977	1978	7
+MSV Duisburg	1. FC Kaiserslautern	2:2	3:2	16.09.1977	20:00	1977	1978	8
+Bor. MÃ¶nchengladbach	FC St. Pauli	0:0	2:1	17.09.1977	15:30	1977	1978	8
+Hamburger SV	1. FC KÃ¶ln	1:0	1:0	17.09.1977	15:30	1977	1978	8
+FC Schalke 04	Werder Bremen	1:0	1:0	17.09.1977	15:30	1977	1978	8
+Eintracht Braunschweig	VfL Bochum	2:1	3:1	17.09.1977	15:30	1977	1978	8
+TSV 1860 MÃ¼nchen	Eintracht Frankfurt	0:2	2:4	17.09.1977	15:30	1977	1978	8
+Hertha BSC	VfB Stuttgart	1:0	1:1	17.09.1977	15:30	1977	1978	8
+Borussia Dortmund	Fortuna DÃ¼sseldorf	0:0	1:2	17.09.1977	15:30	1977	1978	8
+1. FC SaarbrÃ¼cken	Bayern MÃ¼nchen	1:1	2:1	17.09.1977	16:15	1977	1978	8
+VfB Stuttgart	MSV Duisburg	0:0	1:0	23.09.1977	20:00	1977	1978	9
+Fortuna DÃ¼sseldorf	Bor. MÃ¶nchengladbach	1:2	1:3	24.09.1977	15:30	1977	1978	9
+FC St. Pauli	Hertha BSC	0:0	3:0	24.09.1977	15:30	1977	1978	9
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	1:0	1:0	24.09.1977	15:30	1977	1978	9
+Eintracht Braunschweig	1. FC SaarbrÃ¼cken	1:0	3:0	24.09.1977	15:30	1977	1978	9
+Bayern MÃ¼nchen	FC Schalke 04	2:1	7:1	24.09.1977	15:30	1977	1978	9
+Werder Bremen	Hamburger SV	0:1	1:2	24.09.1977	15:30	1977	1978	9
+1. FC KÃ¶ln	Borussia Dortmund	2:0	4:1	24.09.1977	15:30	1977	1978	9
+VfL Bochum	Eintracht Frankfurt	0:0	0:1	24.09.1977	15:30	1977	1978	9
+Eintracht Frankfurt	1. FC Kaiserslautern	0:0	1:3	01.09.1977	15:30	1977	1978	10
+Hamburger SV	Bayern MÃ¼nchen	0:0	2:2	01.09.1977	15:30	1977	1978	10
+Hertha BSC	Fortuna DÃ¼sseldorf	0:0	0:0	01.09.1977	15:30	1977	1978	10
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	0:2	2:5	01.09.1977	15:30	1977	1978	10
+MSV Duisburg	FC St. Pauli	4:1	4:3	30.09.1977	20:00	1977	1978	10
+Borussia Dortmund	Werder Bremen	0:0	4:1	30.09.1977	20:00	1977	1978	10
+1. FC SaarbrÃ¼cken	VfL Bochum	0:1	0:1	30.09.1977	20:00	1977	1978	10
+FC Schalke 04	Eintracht Braunschweig	1:0	1:0	01.10.1977	15:30	1977	1978	10
+TSV 1860 MÃ¼nchen	VfB Stuttgart	0:1	1:2	01.10.1977	15:30	1977	1978	10
+Fortuna DÃ¼sseldorf	MSV Duisburg	0:0	0:0	12.10.1977	20:00	1977	1978	11
+FC St. Pauli	TSV 1860 MÃ¼nchen	1:1	4:1	12.10.1977	20:00	1977	1978	11
+VfB Stuttgart	Eintracht Frankfurt	0:1	2:1	12.10.1977	20:00	1977	1978	11
+1. FC SaarbrÃ¼cken	FC Schalke 04	2:1	2:1	12.10.1977	20:00	1977	1978	11
+Eintracht Braunschweig	Hamburger SV	2:0	4:0	12.10.1977	20:00	1977	1978	11
+Bayern MÃ¼nchen	Borussia Dortmund	2:0	3:0	12.10.1977	20:00	1977	1978	11
+Werder Bremen	Bor. MÃ¶nchengladbach	1:1	3:2	12.10.1977	20:00	1977	1978	11
+1. FC KÃ¶ln	Hertha BSC	1:0	3:1	12.10.1977	20:00	1977	1978	11
+VfL Bochum	1. FC Kaiserslautern	0:0	0:1	12.10.1977	20:00	1977	1978	11
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	1:0	2:0	22.10.1977	15:30	1977	1978	12
+Hamburger SV	1. FC SaarbrÃ¼cken	1:1	1:2	22.10.1977	15:30	1977	1978	12
+FC Schalke 04	VfL Bochum	3:0	3:1	22.10.1977	15:30	1977	1978	12
+1. FC Kaiserslautern	VfB Stuttgart	0:3	0:4	22.10.1977	15:30	1977	1978	12
+Eintracht Frankfurt	FC St. Pauli	2:1	5:2	22.10.1977	15:30	1977	1978	12
+TSV 1860 MÃ¼nchen	Fortuna DÃ¼sseldorf	0:1	0:1	22.10.1977	15:30	1977	1978	12
+MSV Duisburg	1. FC KÃ¶ln	0:2	1:2	22.10.1977	15:30	1977	1978	12
+Hertha BSC	Werder Bremen	1:0	2:0	22.10.1977	15:30	1977	1978	12
+Borussia Dortmund	Eintracht Braunschweig	1:0	2:0	22.10.1977	15:30	1977	1978	12
+Fortuna DÃ¼sseldorf	Eintracht Frankfurt	1:1	2:1	29.10.1977	15:30	1977	1978	13
+FC Schalke 04	Hamburger SV	1:0	2:2	29.10.1977	15:30	1977	1978	13
+FC St. Pauli	1. FC Kaiserslautern	0:3	0:3	29.10.1977	15:30	1977	1978	13
+Bayern MÃ¼nchen	Hertha BSC	0:1	0:2	29.10.1977	15:30	1977	1978	13
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	4:0	6:2	29.10.1977	15:30	1977	1978	13
+VfL Bochum	VfB Stuttgart	1:0	1:0	29.10.1977	15:30	1977	1978	13
+Eintracht Braunschweig	Bor. MÃ¶nchengladbach	0:3	0:6	29.10.1977	15:30	1977	1978	13
+Werder Bremen	MSV Duisburg	2:0	4:2	29.10.1977	15:30	1977	1978	13
+1. FC SaarbrÃ¼cken	Borussia Dortmund	1:2	2:2	29.10.1977	17:30	1977	1978	13
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	0:2	3:2	04.11.1977	20:00	1977	1978	14
+Bor. MÃ¶nchengladbach	1. FC SaarbrÃ¼cken	1:0	6:1	05.11.1977	15:30	1977	1978	14
+Hamburger SV	VfL Bochum	1:0	3:1	05.11.1977	15:30	1977	1978	14
+VfB Stuttgart	FC St. Pauli	0:0	1:0	05.11.1977	15:30	1977	1978	14
+Eintracht Frankfurt	1. FC KÃ¶ln	2:1	2:2	05.11.1977	15:30	1977	1978	14
+TSV 1860 MÃ¼nchen	Werder Bremen	0:0	0:0	05.11.1977	15:30	1977	1978	14
+MSV Duisburg	Bayern MÃ¼nchen	1:2	6:3	05.11.1977	15:30	1977	1978	14
+Hertha BSC	Eintracht Braunschweig	1:0	1:0	05.11.1977	15:30	1977	1978	14
+Borussia Dortmund	FC Schalke 04	1:1	2:1	05.11.1977	15:30	1977	1978	14
+Fortuna DÃ¼sseldorf	VfB Stuttgart	0:0	1:0	12.11.1977	15:30	1977	1978	15
+FC St. Pauli	VfL Bochum	1:0	1:1	12.11.1977	15:30	1977	1978	15
+FC Schalke 04	Bor. MÃ¶nchengladbach	1:1	1:2	12.11.1977	15:30	1977	1978	15
+1. FC SaarbrÃ¼cken	Hertha BSC	1:2	2:2	12.11.1977	15:30	1977	1978	15
+Eintracht Braunschweig	MSV Duisburg	0:0	1:0	12.11.1977	15:30	1977	1978	15
+Bayern MÃ¼nchen	TSV 1860 MÃ¼nchen	1:0	1:3	12.11.1977	15:30	1977	1978	15
+Werder Bremen	Eintracht Frankfurt	2:0	3:0	12.11.1977	15:30	1977	1978	15
+1. FC KÃ¶ln	1. FC Kaiserslautern	1:1	4:1	12.11.1977	15:30	1977	1978	15
+Borussia Dortmund	Hamburger SV	2:0	2:1	12.11.1977	15:30	1977	1978	15
+MSV Duisburg	1. FC SaarbrÃ¼cken	1:0	5:0	25.11.1977	20:00	1977	1978	16
+1. FC Kaiserslautern	Werder Bremen	2:1	2:1	25.11.1977	20:00	1977	1978	16
+Bor. MÃ¶nchengladbach	Hamburger SV	1:0	2:1	26.11.1977	15:30	1977	1978	16
+VfB Stuttgart	1. FC KÃ¶ln	3:0	3:0	26.11.1977	15:30	1977	1978	16
+Eintracht Frankfurt	Bayern MÃ¼nchen	2:0	4:0	26.11.1977	15:30	1977	1978	16
+TSV 1860 MÃ¼nchen	Eintracht Braunschweig	1:0	1:0	26.11.1977	15:30	1977	1978	16
+FC St. Pauli	Fortuna DÃ¼sseldorf	1:0	2:1	26.11.1977	15:30	1977	1978	16
+Hertha BSC	FC Schalke 04	1:1	2:1	26.11.1977	15:30	1977	1978	16
+VfL Bochum	Borussia Dortmund	0:0	1:0	26.11.1977	15:30	1977	1978	16
+Fortuna DÃ¼sseldorf	VfL Bochum	1:0	1:1	03.12.1977	15:30	1977	1978	17
+Hamburger SV	Hertha BSC	2:0	2:2	03.12.1977	15:30	1977	1978	17
+FC Schalke 04	MSV Duisburg	0:0	0:1	03.12.1977	15:30	1977	1978	17
+1. FC SaarbrÃ¼cken	TSV 1860 MÃ¼nchen	1:0	1:1	03.12.1977	15:30	1977	1978	17
+Eintracht Braunschweig	Eintracht Frankfurt	1:1	1:1	03.12.1977	15:30	1977	1978	17
+Bayern MÃ¼nchen	1. FC Kaiserslautern	2:0	4:2	03.12.1977	15:30	1977	1978	17
+Werder Bremen	VfB Stuttgart	0:1	0:1	03.12.1977	15:30	1977	1978	17
+1. FC KÃ¶ln	FC St. Pauli	1:1	4:1	03.12.1977	15:30	1977	1978	17
+Borussia Dortmund	Bor. MÃ¶nchengladbach	2:1	3:3	03.12.1977	15:30	1977	1978	17
+Bor. MÃ¶nchengladbach	VfL Bochum	1:1	2:2	09.12.1977	20:00	1977	1978	18
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	1:0	1:0	10.12.1977	15:30	1977	1978	18
+Werder Bremen	FC St. Pauli	3:0	4:0	10.12.1977	15:30	1977	1978	18
+Bayern MÃ¼nchen	VfB Stuttgart	0:0	2:0	10.12.1977	15:30	1977	1978	18
+Eintracht Braunschweig	1. FC Kaiserslautern	1:0	3:1	10.12.1977	15:30	1977	1978	18
+1. FC SaarbrÃ¼cken	Eintracht Frankfurt	0:0	0:0	10.12.1977	15:30	1977	1978	18
+FC Schalke 04	TSV 1860 MÃ¼nchen	2:1	2:1	10.12.1977	15:30	1977	1978	18
+Hamburger SV	MSV Duisburg	1:1	4:1	10.12.1977	15:30	1977	1978	18
+Borussia Dortmund	Hertha BSC	1:1	1:1	10.12.1977	15:30	1977	1978	18
+Fortuna DÃ¼sseldorf	Werder Bremen	0:0	2:0	17.12.1977	15:30	1977	1978	19
+Eintracht Frankfurt	FC Schalke 04	1:0	3:0	17.12.1977	15:30	1977	1978	19
+TSV 1860 MÃ¼nchen	Hamburger SV	1:1	2:2	17.12.1977	15:30	1977	1978	19
+1. FC Kaiserslautern	1. FC SaarbrÃ¼cken	1:0	2:1	17.12.1977	15:30	1977	1978	19
+VfB Stuttgart	Eintracht Braunschweig	3:0	5:0	17.12.1977	15:30	1977	1978	19
+FC St. Pauli	Bayern MÃ¼nchen	0:0	0:0	17.12.1977	15:30	1977	1978	19
+Hertha BSC	Bor. MÃ¶nchengladbach	1:0	2:1	17.12.1977	15:30	1977	1978	19
+VfL Bochum	1. FC KÃ¶ln	0:0	0:0	17.12.1977	15:30	1977	1978	19
+MSV Duisburg	Borussia Dortmund	1:1	1:2	17.12.1977	15:30	1977	1978	19
+FC Schalke 04	1. FC Kaiserslautern	2:0	3:0	07.01.1978	15:30	1977	1978	20
+Bayern MÃ¼nchen	Fortuna DÃ¼sseldorf	0:0	0:0	07.01.1978	15:30	1977	1978	20
+Eintracht Braunschweig	FC St. Pauli	1:0	2:0	07.01.1978	15:30	1977	1978	20
+1. FC SaarbrÃ¼cken	VfB Stuttgart	1:0	1:1	07.01.1978	15:30	1977	1978	20
+Hamburger SV	Eintracht Frankfurt	0:0	0:0	07.01.1978	15:30	1977	1978	20
+Borussia Dortmund	TSV 1860 MÃ¼nchen	0:3	1:3	07.01.1978	15:30	1977	1978	20
+Bor. MÃ¶nchengladbach	MSV Duisburg	1:1	1:3	07.01.1978	15:30	1977	1978	20
+Werder Bremen	1. FC KÃ¶ln	0:0	0:2	07.01.1978	15:30	1977	1978	20
+Hertha BSC	VfL Bochum	1:2	4:3	07.01.1978	15:30	1977	1978	20
+VfL Bochum	Werder Bremen	0:0	2:0	14.01.1978	15:30	1977	1978	21
+1. FC Kaiserslautern	Hamburger SV	1:0	3:0	14.01.1978	15:30	1977	1978	21
+VfB Stuttgart	FC Schalke 04	0:1	6:1	14.01.1978	15:30	1977	1978	21
+FC St. Pauli	1. FC SaarbrÃ¼cken	0:2	1:3	14.01.1978	15:30	1977	1978	21
+Fortuna DÃ¼sseldorf	Eintracht Braunschweig	1:0	2:0	14.01.1978	15:30	1977	1978	21
+TSV 1860 MÃ¼nchen	Bor. MÃ¶nchengladbach	0:0	1:1	14.01.1978	15:30	1977	1978	21
+1. FC KÃ¶ln	Bayern MÃ¼nchen	0:0	2:0	14.01.1978	15:30	1977	1978	21
+MSV Duisburg	Hertha BSC	2:0	2:1	14.01.1978	15:30	1977	1978	21
+Eintracht Frankfurt	Borussia Dortmund	0:1	2:1	14.01.1978	15:30	1977	1978	21
+Borussia Dortmund	1. FC Kaiserslautern	2:0	4:0	21.01.1978	15:30	1977	1978	22
+FC Schalke 04	FC St. Pauli	3:0	4:1	21.01.1978	15:30	1977	1978	22
+Hamburger SV	VfB Stuttgart	1:0	2:0	21.01.1978	15:30	1977	1978	22
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:0	2:0	21.01.1978	15:30	1977	1978	22
+Hertha BSC	TSV 1860 MÃ¼nchen	2:0	4:1	21.01.1978	15:30	1977	1978	22
+Bayern MÃ¼nchen	Werder Bremen	2:0	3:1	21.01.1978	15:30	1977	1978	22
+Eintracht Braunschweig	1. FC KÃ¶ln	0:0	1:0	21.01.1978	15:30	1977	1978	22
+MSV Duisburg	VfL Bochum	0:0	0:0	21.01.1978	15:30	1977	1978	22
+1. FC SaarbrÃ¼cken	Fortuna DÃ¼sseldorf	1:0	1:1	21.01.1978	15:30	1977	1978	22
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	0:0	0:3	28.01.1978	15:30	1977	1978	23
+FC St. Pauli	Hamburger SV	1:2	2:3	28.01.1978	15:30	1977	1978	23
+Fortuna DÃ¼sseldorf	FC Schalke 04	0:0	1:1	28.01.1978	15:30	1977	1978	23
+1. FC KÃ¶ln	1. FC SaarbrÃ¼cken	1:0	3:1	28.01.1978	15:30	1977	1978	23
+Werder Bremen	Eintracht Braunschweig	1:0	2:1	28.01.1978	15:30	1977	1978	23
+VfL Bochum	Bayern MÃ¼nchen	0:0	2:1	28.01.1978	15:30	1977	1978	23
+TSV 1860 MÃ¼nchen	MSV Duisburg	2:0	4:0	28.01.1978	15:30	1977	1978	23
+Eintracht Frankfurt	Hertha BSC	0:1	0:5	28.01.1978	15:30	1977	1978	23
+VfB Stuttgart	Borussia Dortmund	2:0	4:1	28.01.1978	15:30	1977	1978	23
+1. FC SaarbrÃ¼cken	Werder Bremen	1:0	1:1	04.02.1978	15:30	1977	1978	24
+MSV Duisburg	Eintracht Frankfurt	1:0	3:0	04.02.1978	15:30	1977	1978	24
+Hamburger SV	Fortuna DÃ¼sseldorf	0:1	0:3	04.02.1978	15:30	1977	1978	24
+Borussia Dortmund	FC St. Pauli	1:0	1:1	04.02.1978	15:30	1977	1978	24
+Bor. MÃ¶nchengladbach	VfB Stuttgart	1:1	3:1	04.02.1978	15:30	1977	1978	24
+Hertha BSC	1. FC Kaiserslautern	1:1	2:1	04.02.1978	15:30	1977	1978	24
+Eintracht Braunschweig	Bayern MÃ¼nchen	0:0	1:1	04.02.1978	15:30	1977	1978	24
+FC Schalke 04	1. FC KÃ¶ln	0:0	2:0	04.02.1978	15:30	1977	1978	24
+TSV 1860 MÃ¼nchen	VfL Bochum	0:0	2:0	04.02.1978	15:30	1977	1978	24
+1. FC Kaiserslautern	MSV Duisburg	2:1	6:1	11.02.1978	15:30	1977	1978	25
+FC St. Pauli	Bor. MÃ¶nchengladbach	0:1	0:1	11.02.1978	15:30	1977	1978	25
+1. FC KÃ¶ln	Hamburger SV	1:0	6:1	11.02.1978	15:30	1977	1978	25
+Werder Bremen	FC Schalke 04	0:0	2:0	11.02.1978	15:30	1977	1978	25
+Bayern MÃ¼nchen	1. FC SaarbrÃ¼cken	3:0	7:1	11.02.1978	15:30	1977	1978	25
+VfL Bochum	Eintracht Braunschweig	1:1	1:1	11.02.1978	15:30	1977	1978	25
+Eintracht Frankfurt	TSV 1860 MÃ¼nchen	1:0	1:0	11.02.1978	15:30	1977	1978	25
+VfB Stuttgart	Hertha BSC	1:0	1:0	11.02.1978	15:30	1977	1978	25
+Fortuna DÃ¼sseldorf	Borussia Dortmund	0:0	1:0	11.02.1978	15:30	1977	1978	25
+Hertha BSC	FC St. Pauli	3:0	5:0	18.02.1978	15:30	1977	1978	26
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	2:1	2:2	18.02.1978	15:30	1977	1978	26
+FC Schalke 04	Bayern MÃ¼nchen	2:0	3:2	18.02.1978	15:30	1977	1978	26
+Hamburger SV	Werder Bremen	1:1	1:1	18.02.1978	15:30	1977	1978	26
+Borussia Dortmund	1. FC KÃ¶ln	1:1	1:2	18.02.1978	15:30	1977	1978	26
+Eintracht Frankfurt	VfL Bochum	3:2	5:3	18.02.1978	15:30	1977	1978	26
+1. FC SaarbrÃ¼cken	Eintracht Braunschweig	0:0	0:1	14.03.1978	20:00	1977	1978	26
+Bor. MÃ¶nchengladbach	Fortuna DÃ¼sseldorf	0:1	3:2	25.03.1978	15:30	1977	1978	26
+MSV Duisburg	VfB Stuttgart	1:1	2:1	28.03.1978	20:00	1977	1978	26
+Werder Bremen	Borussia Dortmund	2:0	3:1	25.02.1978	15:30	1977	1978	27
+VfB Stuttgart	TSV 1860 MÃ¼nchen	0:1	3:1	25.02.1978	15:30	1977	1978	27
+Bayern MÃ¼nchen	Hamburger SV	1:0	2:0	25.02.1978	15:30	1977	1978	27
+Fortuna DÃ¼sseldorf	Hertha BSC	0:0	0:0	25.02.1978	15:30	1977	1978	27
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:1	1:1	25.02.1978	15:30	1977	1978	27
+Eintracht Braunschweig	FC Schalke 04	2:0	3:1	22.03.1978	20:00	1977	1978	27
+FC St. Pauli	MSV Duisburg	0:1	2:2	25.03.1978	15:30	1977	1978	27
+VfL Bochum	1. FC SaarbrÃ¼cken	1:1	4:2	25.03.1978	15:30	1977	1978	27
+1. FC Kaiserslautern	Eintracht Frankfurt	1:0	2:0	25.03.1978	15:30	1977	1978	27
+1. FC Kaiserslautern	VfL Bochum	1:1	4:1	03.03.1978	20:00	1977	1978	28
+MSV Duisburg	Fortuna DÃ¼sseldorf	0:0	0:0	04.03.1978	15:30	1977	1978	28
+TSV 1860 MÃ¼nchen	FC St. Pauli	2:1	4:1	04.03.1978	15:30	1977	1978	28
+Eintracht Frankfurt	VfB Stuttgart	0:0	2:0	04.03.1978	15:30	1977	1978	28
+FC Schalke 04	1. FC SaarbrÃ¼cken	1:0	2:0	04.03.1978	15:30	1977	1978	28
+Hamburger SV	Eintracht Braunschweig	2:2	4:2	04.03.1978	15:30	1977	1978	28
+Borussia Dortmund	Bayern MÃ¼nchen	0:0	1:1	04.03.1978	15:30	1977	1978	28
+Bor. MÃ¶nchengladbach	Werder Bremen	0:0	4:0	04.03.1978	15:30	1977	1978	28
+Hertha BSC	1. FC KÃ¶ln	1:1	1:1	04.03.1978	15:30	1977	1978	28
+Werder Bremen	Hertha BSC	3:0	4:2	10.03.1978	20:00	1977	1978	29
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	1:0	1:1	11.03.1978	15:30	1977	1978	29
+1. FC SaarbrÃ¼cken	Hamburger SV	1:2	3:5	11.03.1978	15:30	1977	1978	29
+VfL Bochum	FC Schalke 04	0:1	1:1	11.03.1978	15:30	1977	1978	29
+VfB Stuttgart	1. FC Kaiserslautern	0:0	3:0	11.03.1978	15:30	1977	1978	29
+FC St. Pauli	Eintracht Frankfurt	2:2	5:3	11.03.1978	15:30	1977	1978	29
+Fortuna DÃ¼sseldorf	TSV 1860 MÃ¼nchen	0:0	2:0	11.03.1978	15:30	1977	1978	29
+1. FC KÃ¶ln	MSV Duisburg	2:1	5:2	11.03.1978	15:30	1977	1978	29
+Eintracht Braunschweig	Borussia Dortmund	0:0	0:1	11.03.1978	15:30	1977	1978	29
+1. FC Kaiserslautern	FC St. Pauli	1:0	2:1	17.03.1978	20:00	1977	1978	30
+VfB Stuttgart	VfL Bochum	2:1	3:1	17.03.1978	20:00	1977	1978	30
+Eintracht Frankfurt	Fortuna DÃ¼sseldorf	2:0	4:0	18.03.1978	15:30	1977	1978	30
+Hamburger SV	FC Schalke 04	1:0	2:0	18.03.1978	15:30	1977	1978	30
+Borussia Dortmund	1. FC SaarbrÃ¼cken	1:0	2:1	18.03.1978	15:30	1977	1978	30
+Hertha BSC	Bayern MÃ¼nchen	1:0	3:1	18.03.1978	15:30	1977	1978	30
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	1:1	1:3	18.03.1978	15:30	1977	1978	30
+Bor. MÃ¶nchengladbach	Eintracht Braunschweig	1:1	3:1	18.03.1978	15:30	1977	1978	30
+MSV Duisburg	Werder Bremen	1:0	2:0	18.03.1978	15:30	1977	1978	30
+VfL Bochum	Hamburger SV	1:1	2:1	31.03.1978	20:00	1977	1978	31
+1. FC SaarbrÃ¼cken	Bor. MÃ¶nchengladbach	0:0	0:1	01.04.1978	15:30	1977	1978	31
+FC St. Pauli	VfB Stuttgart	0:0	1:1	01.04.1978	15:30	1977	1978	31
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	3:1	4:1	01.04.1978	15:30	1977	1978	31
+1. FC KÃ¶ln	Eintracht Frankfurt	0:0	0:1	01.04.1978	15:30	1977	1978	31
+Werder Bremen	TSV 1860 MÃ¼nchen	1:0	2:0	01.04.1978	15:30	1977	1978	31
+Bayern MÃ¼nchen	MSV Duisburg	3:0	3:2	01.04.1978	15:30	1977	1978	31
+Eintracht Braunschweig	Hertha BSC	0:1	1:1	01.04.1978	15:30	1977	1978	31
+FC Schalke 04	Borussia Dortmund	0:1	0:2	01.04.1978	15:30	1977	1978	31
+VfB Stuttgart	Fortuna DÃ¼sseldorf	0:0	1:1	08.04.1978	15:30	1977	1978	32
+VfL Bochum	FC St. Pauli	1:0	4:0	08.04.1978	15:30	1977	1978	32
+Bor. MÃ¶nchengladbach	FC Schalke 04	1:0	2:1	08.04.1978	15:30	1977	1978	32
+Hertha BSC	1. FC SaarbrÃ¼cken	0:0	1:1	08.04.1978	15:30	1977	1978	32
+MSV Duisburg	Eintracht Braunschweig	1:1	3:1	08.04.1978	15:30	1977	1978	32
+TSV 1860 MÃ¼nchen	Bayern MÃ¼nchen	0:0	1:1	08.04.1978	15:30	1977	1978	32
+Eintracht Frankfurt	Werder Bremen	0:1	0:2	08.04.1978	15:30	1977	1978	32
+1. FC Kaiserslautern	1. FC KÃ¶ln	0:0	0:2	08.04.1978	15:30	1977	1978	32
+Hamburger SV	Borussia Dortmund	2:0	4:1	08.04.1978	15:30	1977	1978	32
+1. FC SaarbrÃ¼cken	MSV Duisburg	0:0	1:2	22.04.1978	15:30	1977	1978	33
+Werder Bremen	1. FC Kaiserslautern	3:1	5:3	22.04.1978	15:30	1977	1978	33
+Hamburger SV	Bor. MÃ¶nchengladbach	1:0	2:6	22.04.1978	15:30	1977	1978	33
+1. FC KÃ¶ln	VfB Stuttgart	1:0	2:1	22.04.1978	15:30	1977	1978	33
+Bayern MÃ¼nchen	Eintracht Frankfurt	1:1	2:1	22.04.1978	15:30	1977	1978	33
+Eintracht Braunschweig	TSV 1860 MÃ¼nchen	0:0	2:1	22.04.1978	15:30	1977	1978	33
+Fortuna DÃ¼sseldorf	FC St. Pauli	2:1	3:1	22.04.1978	15:30	1977	1978	33
+FC Schalke 04	Hertha BSC	1:0	2:0	22.04.1978	15:30	1977	1978	33
+Borussia Dortmund	VfL Bochum	4:1	5:3	22.04.1978	15:30	1977	1978	33
+VfL Bochum	Fortuna DÃ¼sseldorf	0:1	2:1	29.04.1978	15:30	1977	1978	34
+Hertha BSC	Hamburger SV	1:0	3:2	29.04.1978	15:30	1977	1978	34
+MSV Duisburg	FC Schalke 04	0:0	1:0	29.04.1978	15:30	1977	1978	34
+TSV 1860 MÃ¼nchen	1. FC SaarbrÃ¼cken	1:0	2:0	29.04.1978	15:30	1977	1978	34
+Eintracht Frankfurt	Eintracht Braunschweig	2:0	2:0	29.04.1978	15:30	1977	1978	34
+1. FC Kaiserslautern	Bayern MÃ¼nchen	2:0	5:0	29.04.1978	15:30	1977	1978	34
+VfB Stuttgart	Werder Bremen	1:0	2:0	29.04.1978	15:30	1977	1978	34
+FC St. Pauli	1. FC KÃ¶ln	0:1	0:5	29.04.1978	15:30	1977	1978	34
+Bor. MÃ¶nchengladbach	Borussia Dortmund	6:0	12:0	29.04.1978	15:30	1977	1978	34

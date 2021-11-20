@@ -1,0 +1,38 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Hello StatisticController!{% endblock %}
+
+{% block body %}
+<table class="table table-bordered">
+    <tr>
+        {% for key, league in leagues %}
+            {% if key in errors%}
+                <th style="background-color:#7b1900"> <a href="{{league}}"> {{key}} </a> </th>
+            {% else %}
+                <th style="background-color:#005619"> <a href="{{league}}"> {{key}} </a></th>
+            {% endif %}
+        {% endfor %}
+    </tr>
+</table>
+<table class="table table-bordered">
+    <tr>
+        <th>Spiel </th>
+        <th>Zeit </th>
+        <th>Tipp </th>
+        <th>Draw Quote </th>
+        <th>Target Quote </th>
+    </tr>
+    {% for entry in candidates %}
+        <tr>
+                <tr>
+                    <td>{{ entry.matchString }}</td>
+                    <td>{{ entry.timeString }}</td>
+                    <td>{{ entry.checkForBetCandidate }}</td>
+                    <td>{{ entry.drawOdd }}</td>
+                    <td>{{ entry.targetOdd }}</td>
+                </tr>
+        </tr>
+
+    {% endfor %}
+</table>
+{% endblock %}

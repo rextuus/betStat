@@ -1,0 +1,380 @@
+Athletic Bilbao	Sevilla FC	0:1	0:2	31.08.1991	00:00	1991	1992	1
+Valencia CF	Deportivo La CoruÃ±a	1:1	2:1	31.08.1991	00:00	1991	1992	1
+CÃ¡diz CF	Real Madrid	0:1	0:1	31.08.1991	00:00	1991	1992	1
+Real Zaragoza	Espanyol Barcelona	1:0	1:1	01.09.1991	00:00	1991	1992	1
+FC Barcelona	Real Sociedad	1:0	2:0	01.09.1991	00:00	1991	1992	1
+Real Valladolid	Sporting GijÃ³n	0:0	0:1	01.09.1991	00:00	1991	1992	1
+Real Oviedo	RCD Mallorca	0:0	0:0	01.09.1991	00:00	1991	1992	1
+AtlÃ©tico Madrid	Real Burgos	0:0	2:0	01.09.1991	00:00	1991	1992	1
+CD Tenerife	CD LogroÃ±Ã©s	2:0	3:0	01.09.1991	00:00	1991	1992	1
+CA Osasuna	Albacete	1:0	2:0	01.09.1991	00:00	1991	1992	1
+Sevilla FC	FC Barcelona	3:0	4:2	07.09.1991	00:00	1991	1992	2
+Sporting GijÃ³n	Athletic Bilbao	1:0	3:2	08.09.1991	00:00	1991	1992	2
+Deportivo La CoruÃ±a	CD Tenerife	1:0	1:1	08.09.1991	00:00	1991	1992	2
+CD LogroÃ±Ã©s	CÃ¡diz CF	1:0	2:1	08.09.1991	00:00	1991	1992	2
+Real Burgos	CA Osasuna	2:0	4:0	08.09.1991	00:00	1991	1992	2
+Real Madrid	Real Valladolid	0:0	1:0	08.09.1991	00:00	1991	1992	2
+Espanyol Barcelona	Real Oviedo	0:0	0:1	08.09.1991	00:00	1991	1992	2
+Real Sociedad	Real Zaragoza	0:0	0:0	08.09.1991	00:00	1991	1992	2
+Albacete	Valencia CF	0:0	1:0	08.09.1991	00:00	1991	1992	2
+RCD Mallorca	AtlÃ©tico Madrid	0:0	0:2	08.09.1991	00:00	1991	1992	2
+Real Oviedo	Real Sociedad	1:0	2:0	14.09.1991	00:00	1991	1992	3
+Valencia CF	Real Burgos	0:1	1:1	14.09.1991	00:00	1991	1992	3
+Athletic Bilbao	Real Madrid	0:3	1:4	14.09.1991	00:00	1991	1992	3
+FC Barcelona	Real Zaragoza	1:1	3:1	14.09.1991	00:00	1991	1992	3
+CA Osasuna	RCD Mallorca	1:0	1:0	14.09.1991	00:00	1991	1992	3
+Sevilla FC	Sporting GijÃ³n	1:0	2:1	15.09.1991	00:00	1991	1992	3
+CD Tenerife	Albacete	1:0	2:3	15.09.1991	00:00	1991	1992	3
+Real Valladolid	CD LogroÃ±Ã©s	1:2	1:2	15.09.1991	00:00	1991	1992	3
+CÃ¡diz CF	Deportivo La CoruÃ±a	1:0	1:0	15.09.1991	00:00	1991	1992	3
+AtlÃ©tico Madrid	Espanyol Barcelona	2:0	3:0	15.09.1991	00:00	1991	1992	3
+Real Zaragoza	Real Oviedo	2:1	3:2	28.09.1991	00:00	1991	1992	4
+Real Madrid	Sevilla FC	2:0	3:1	28.09.1991	00:00	1991	1992	4
+Real Sociedad	AtlÃ©tico Madrid	0:1	0:2	28.09.1991	00:00	1991	1992	4
+Sporting GijÃ³n	FC Barcelona	1:0	2:1	28.09.1991	00:00	1991	1992	4
+Real Burgos	CD Tenerife	1:1	3:1	29.09.1991	00:00	1991	1992	4
+Albacete	CÃ¡diz CF	0:0	0:1	29.09.1991	00:00	1991	1992	4
+Espanyol Barcelona	CA Osasuna	2:0	3:2	29.09.1991	00:00	1991	1992	4
+Deportivo La CoruÃ±a	Real Valladolid	1:0	1:0	29.09.1991	00:00	1991	1992	4
+CD LogroÃ±Ã©s	Athletic Bilbao	0:0	0:1	29.09.1991	00:00	1991	1992	4
+RCD Mallorca	Valencia CF	0:1	0:1	29.09.1991	00:00	1991	1992	4
+Valencia CF	Espanyol Barcelona	0:0	1:0	05.10.1991	00:00	1991	1992	5
+CD Tenerife	RCD Mallorca	0:0	0:1	06.10.1991	00:00	1991	1992	5
+Athletic Bilbao	Deportivo La CoruÃ±a	0:0	0:0	06.10.1991	00:00	1991	1992	5
+Real Valladolid	Albacete	0:0	1:0	06.10.1991	00:00	1991	1992	5
+CÃ¡diz CF	Real Burgos	0:0	0:2	06.10.1991	00:00	1991	1992	5
+AtlÃ©tico Madrid	Real Zaragoza	1:0	2:1	06.10.1991	00:00	1991	1992	5
+CA Osasuna	Real Sociedad	0:0	1:0	06.10.1991	00:00	1991	1992	5
+Sevilla FC	CD LogroÃ±Ã©s	0:0	0:1	06.10.1991	00:00	1991	1992	5
+Sporting GijÃ³n	Real Madrid	0:2	1:4	06.10.1991	00:00	1991	1992	5
+FC Barcelona	Real Oviedo	1:2	1:2	06.10.1991	00:00	1991	1992	5
+Real Oviedo	AtlÃ©tico Madrid	0:0	0:1	19.10.1991	00:00	1991	1992	6
+Real Madrid	FC Barcelona	1:0	1:1	19.10.1991	00:00	1991	1992	6
+Real Sociedad	Valencia CF	1:0	3:1	20.10.1991	00:00	1991	1992	6
+Espanyol Barcelona	CD Tenerife	1:1	2:2	20.10.1991	00:00	1991	1992	6
+RCD Mallorca	CÃ¡diz CF	1:0	1:0	20.10.1991	00:00	1991	1992	6
+Real Zaragoza	CA Osasuna	2:0	2:0	20.10.1991	00:00	1991	1992	6
+Real Burgos	Real Valladolid	0:0	1:0	20.10.1991	00:00	1991	1992	6
+Deportivo La CoruÃ±a	Sevilla FC	1:0	3:1	20.10.1991	00:00	1991	1992	6
+Albacete	Athletic Bilbao	3:0	4:0	20.10.1991	00:00	1991	1992	6
+CD LogroÃ±Ã©s	Sporting GijÃ³n	0:0	0:0	20.10.1991	00:00	1991	1992	6
+FC Barcelona	AtlÃ©tico Madrid	1:0	1:0	26.10.1991	00:00	1991	1992	7
+Sporting GijÃ³n	Deportivo La CoruÃ±a	0:0	1:0	27.10.1991	00:00	1991	1992	7
+Real Madrid	CD LogroÃ±Ã©s	0:0	3:0	27.10.1991	00:00	1991	1992	7
+Sevilla FC	Albacete	2:0	3:0	27.10.1991	00:00	1991	1992	7
+Athletic Bilbao	Real Burgos	0:0	0:0	27.10.1991	00:00	1991	1992	7
+Real Valladolid	RCD Mallorca	0:0	2:1	27.10.1991	00:00	1991	1992	7
+Valencia CF	Real Zaragoza	0:1	0:1	27.10.1991	00:00	1991	1992	7
+CD Tenerife	Real Sociedad	0:0	0:0	27.10.1991	00:00	1991	1992	7
+CÃ¡diz CF	Espanyol Barcelona	2:1	2:1	27.10.1991	00:00	1991	1992	7
+CA Osasuna	Real Oviedo	0:0	1:0	27.10.1991	00:00	1991	1992	7
+Deportivo La CoruÃ±a	Real Madrid	0:0	0:3	02.11.1991	00:00	1991	1992	8
+AtlÃ©tico Madrid	CA Osasuna	1:0	1:0	02.11.1991	00:00	1991	1992	8
+Real Oviedo	Valencia CF	0:0	2:2	03.11.1991	00:00	1991	1992	8
+Real Sociedad	CÃ¡diz CF	1:0	1:0	03.11.1991	00:00	1991	1992	8
+Espanyol Barcelona	Real Valladolid	0:2	0:2	03.11.1991	00:00	1991	1992	8
+Real Burgos	Sevilla FC	1:0	1:0	03.11.1991	00:00	1991	1992	8
+Real Zaragoza	CD Tenerife	2:0	3:0	03.11.1991	00:00	1991	1992	8
+RCD Mallorca	Athletic Bilbao	0:2	1:2	03.11.1991	00:00	1991	1992	8
+CD LogroÃ±Ã©s	FC Barcelona	2:1	2:2	03.11.1991	00:00	1991	1992	8
+Albacete	Sporting GijÃ³n	0:0	0:2	03.11.1991	00:00	1991	1992	8
+Valencia CF	AtlÃ©tico Madrid	1:0	2:0	09.11.1991	00:00	1991	1992	9
+CD LogroÃ±Ã©s	Deportivo La CoruÃ±a	0:0	2:1	10.11.1991	00:00	1991	1992	9
+Sporting GijÃ³n	Real Burgos	0:0	0:0	10.11.1991	00:00	1991	1992	9
+Real Madrid	Albacete	1:0	2:1	10.11.1991	00:00	1991	1992	9
+Sevilla FC	RCD Mallorca	1:0	2:0	10.11.1991	00:00	1991	1992	9
+FC Barcelona	CA Osasuna	0:0	2:0	10.11.1991	00:00	1991	1992	9
+CD Tenerife	Real Oviedo	1:0	1:0	10.11.1991	00:00	1991	1992	9
+CÃ¡diz CF	Real Zaragoza	0:0	0:0	10.11.1991	00:00	1991	1992	9
+Real Valladolid	Real Sociedad	2:2	2:2	10.11.1991	00:00	1991	1992	9
+Athletic Bilbao	Espanyol Barcelona	0:1	0:2	10.11.1991	00:00	1991	1992	9
+Real Sociedad	Athletic Bilbao	0:0	2:0	16.11.1991	00:00	1991	1992	10
+RCD Mallorca	Sporting GijÃ³n	0:0	0:1	17.11.1991	00:00	1991	1992	10
+Espanyol Barcelona	Sevilla FC	0:1	1:1	17.11.1991	00:00	1991	1992	10
+AtlÃ©tico Madrid	CD Tenerife	0:0	1:0	17.11.1991	00:00	1991	1992	10
+Albacete	CD LogroÃ±Ã©s	0:0	2:0	17.11.1991	00:00	1991	1992	10
+Real Oviedo	CÃ¡diz CF	1:0	2:1	17.11.1991	00:00	1991	1992	10
+CA Osasuna	Valencia CF	0:0	0:1	17.11.1991	00:00	1991	1992	10
+Deportivo La CoruÃ±a	FC Barcelona	0:1	0:4	17.11.1991	00:00	1991	1992	10
+Real Burgos	Real Madrid	0:0	0:2	17.11.1991	00:00	1991	1992	10
+Real Zaragoza	Real Valladolid	0:0	2:0	17.11.1991	00:00	1991	1992	10
+FC Barcelona	Valencia CF	1:0	3:1	23.11.1991	00:00	1991	1992	11
+Sevilla FC	Real Sociedad	1:1	2:2	24.11.1991	00:00	1991	1992	11
+CD LogroÃ±Ã©s	Real Burgos	1:1	1:2	24.11.1991	00:00	1991	1992	11
+Real Madrid	RCD Mallorca	0:0	2:0	24.11.1991	00:00	1991	1992	11
+CD Tenerife	CA Osasuna	0:0	0:0	24.11.1991	00:00	1991	1992	11
+Athletic Bilbao	Real Zaragoza	1:0	1:0	24.11.1991	00:00	1991	1992	11
+Deportivo La CoruÃ±a	Albacete	1:1	2:2	24.11.1991	00:00	1991	1992	11
+CÃ¡diz CF	AtlÃ©tico Madrid	1:1	1:1	24.11.1991	00:00	1991	1992	11
+Sporting GijÃ³n	Espanyol Barcelona	0:0	3:0	24.11.1991	00:00	1991	1992	11
+Real Valladolid	Real Oviedo	1:1	1:1	24.11.1991	00:00	1991	1992	11
+Albacete	FC Barcelona	1:1	1:1	30.11.1991	00:00	1991	1992	12
+AtlÃ©tico Madrid	Real Valladolid	1:0	5:1	01.12.1991	00:00	1991	1992	12
+Valencia CF	CD Tenerife	1:0	1:0	01.12.1991	00:00	1991	1992	12
+CA Osasuna	CÃ¡diz CF	0:0	1:0	01.12.1991	00:00	1991	1992	12
+Real Burgos	Deportivo La CoruÃ±a	0:0	0:0	01.12.1991	00:00	1991	1992	12
+Real Sociedad	Sporting GijÃ³n	0:0	0:0	01.12.1991	00:00	1991	1992	12
+Real Zaragoza	Sevilla FC	0:1	1:1	01.12.1991	00:00	1991	1992	12
+Real Oviedo	Athletic Bilbao	1:1	1:1	01.12.1991	00:00	1991	1992	12
+Espanyol Barcelona	Real Madrid	0:3	1:5	01.12.1991	00:00	1991	1992	12
+RCD Mallorca	CD LogroÃ±Ã©s	0:1	2:1	12.02.1992	00:00	1991	1992	12
+Real Madrid	Real Sociedad	1:0	4:1	07.12.1991	00:00	1991	1992	13
+FC Barcelona	CD Tenerife	1:0	5:3	07.12.1991	00:00	1991	1992	13
+Sporting GijÃ³n	Real Zaragoza	0:0	1:2	08.12.1991	00:00	1991	1992	13
+Albacete	Real Burgos	0:0	1:0	08.12.1991	00:00	1991	1992	13
+Deportivo La CoruÃ±a	RCD Mallorca	0:0	1:0	08.12.1991	00:00	1991	1992	13
+Real Valladolid	CA Osasuna	1:1	1:1	08.12.1991	00:00	1991	1992	13
+Sevilla FC	Real Oviedo	1:0	1:1	08.12.1991	00:00	1991	1992	13
+CÃ¡diz CF	Valencia CF	0:0	2:0	08.12.1991	00:00	1991	1992	13
+CD LogroÃ±Ã©s	Espanyol Barcelona	1:1	2:1	08.12.1991	00:00	1991	1992	13
+Athletic Bilbao	AtlÃ©tico Madrid	3:1	3:2	08.12.1991	00:00	1991	1992	13
+AtlÃ©tico Madrid	Sevilla FC	0:1	0:3	14.12.1991	00:00	1991	1992	14
+Real Oviedo	Sporting GijÃ³n	1:0	1:0	15.12.1991	00:00	1991	1992	14
+RCD Mallorca	Albacete	0:0	0:1	15.12.1991	00:00	1991	1992	14
+Real Sociedad	CD LogroÃ±Ã©s	1:0	4:0	15.12.1991	00:00	1991	1992	14
+CD Tenerife	CÃ¡diz CF	1:0	3:1	15.12.1991	00:00	1991	1992	14
+Valencia CF	Real Valladolid	2:0	3:1	15.12.1991	00:00	1991	1992	14
+CA Osasuna	Athletic Bilbao	1:0	1:1	15.12.1991	00:00	1991	1992	14
+Real Burgos	FC Barcelona	1:1	2:2	15.12.1991	00:00	1991	1992	14
+Real Zaragoza	Real Madrid	0:0	1:1	15.12.1991	00:00	1991	1992	14
+Espanyol Barcelona	Deportivo La CoruÃ±a	0:1	0:3	15.12.1991	00:00	1991	1992	14
+FC Barcelona	CÃ¡diz CF	1:0	4:1	21.12.1991	00:00	1991	1992	15
+Athletic Bilbao	Valencia CF	1:0	2:3	21.12.1991	00:00	1991	1992	15
+Real Madrid	Real Oviedo	0:0	0:0	22.12.1991	00:00	1991	1992	15
+Real Valladolid	CD Tenerife	0:1	2:2	22.12.1991	00:00	1991	1992	15
+Real Burgos	RCD Mallorca	0:0	0:0	22.12.1991	00:00	1991	1992	15
+Sevilla FC	CA Osasuna	0:0	1:0	22.12.1991	00:00	1991	1992	15
+Deportivo La CoruÃ±a	Real Sociedad	0:0	0:0	22.12.1991	00:00	1991	1992	15
+Albacete	Espanyol Barcelona	1:0	3:2	22.12.1991	00:00	1991	1992	15
+CD LogroÃ±Ã©s	Real Zaragoza	0:0	0:2	22.12.1991	00:00	1991	1992	15
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:1	0:1	22.12.1991	00:00	1991	1992	15
+CD Tenerife	Athletic Bilbao	2:0	4:1	04.01.1992	00:00	1991	1992	16
+AtlÃ©tico Madrid	Real Madrid	1:0	2:0	04.01.1992	00:00	1991	1992	16
+Valencia CF	Sevilla FC	2:1	3:2	05.01.1992	00:00	1991	1992	16
+Real Sociedad	Albacete	0:0	0:1	05.01.1992	00:00	1991	1992	16
+Real Oviedo	CD LogroÃ±Ã©s	0:1	2:3	05.01.1992	00:00	1991	1992	16
+Espanyol Barcelona	Real Burgos	0:0	0:0	05.01.1992	00:00	1991	1992	16
+Real Zaragoza	Deportivo La CoruÃ±a	1:0	1:0	05.01.1992	00:00	1991	1992	16
+CA Osasuna	Sporting GijÃ³n	0:1	0:2	05.01.1992	00:00	1991	1992	16
+RCD Mallorca	FC Barcelona	1:1	1:2	05.01.1992	00:00	1991	1992	16
+CÃ¡diz CF	Real Valladolid	0:0	0:0	05.01.1992	00:00	1991	1992	16
+CD LogroÃ±Ã©s	AtlÃ©tico Madrid	0:0	1:0	11.01.1992	00:00	1991	1992	17
+Deportivo La CoruÃ±a	Real Oviedo	0:0	0:0	12.01.1992	00:00	1991	1992	17
+FC Barcelona	Real Valladolid	1:0	2:1	12.01.1992	00:00	1991	1992	17
+Real Madrid	CA Osasuna	2:1	5:2	12.01.1992	00:00	1991	1992	17
+Sevilla FC	CD Tenerife	2:0	4:1	12.01.1992	00:00	1991	1992	17
+Real Burgos	Real Sociedad	0:1	0:1	12.01.1992	00:00	1991	1992	17
+Sporting GijÃ³n	Valencia CF	0:1	0:3	12.01.1992	00:00	1991	1992	17
+RCD Mallorca	Espanyol Barcelona	1:0	1:0	12.01.1992	00:00	1991	1992	17
+Athletic Bilbao	CÃ¡diz CF	2:0	3:1	12.01.1992	00:00	1991	1992	17
+Albacete	Real Zaragoza	0:1	1:1	12.01.1992	00:00	1991	1992	17
+Valencia CF	Real Madrid	0:0	2:1	18.01.1992	00:00	1991	1992	18
+Real Sociedad	RCD Mallorca	1:0	1:0	19.01.1992	00:00	1991	1992	18
+Real Oviedo	Albacete	0:1	0:1	19.01.1992	00:00	1991	1992	18
+Real Zaragoza	Real Burgos	0:0	1:0	19.01.1992	00:00	1991	1992	18
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	0:0	1:2	19.01.1992	00:00	1991	1992	18
+CÃ¡diz CF	Sevilla FC	0:1	1:1	19.01.1992	00:00	1991	1992	18
+FC Barcelona	Espanyol Barcelona	3:0	4:3	19.01.1992	00:00	1991	1992	18
+Real Valladolid	Athletic Bilbao	0:0	1:1	19.01.1992	00:00	1991	1992	18
+CD Tenerife	Sporting GijÃ³n	0:0	0:0	19.01.1992	00:00	1991	1992	18
+CA Osasuna	CD LogroÃ±Ã©s	2:0	3:0	19.01.1992	00:00	1991	1992	18
+Athletic Bilbao	FC Barcelona	0:1	0:2	25.01.1992	00:00	1991	1992	19
+CD LogroÃ±Ã©s	Valencia CF	0:0	0:0	26.01.1992	00:00	1991	1992	19
+Sporting GijÃ³n	CÃ¡diz CF	1:0	2:1	26.01.1992	00:00	1991	1992	19
+Deportivo La CoruÃ±a	CA Osasuna	0:0	0:0	26.01.1992	00:00	1991	1992	19
+Sevilla FC	Real Valladolid	0:0	2:1	26.01.1992	00:00	1991	1992	19
+Real Burgos	Real Oviedo	0:0	1:0	26.01.1992	00:00	1991	1992	19
+RCD Mallorca	Real Zaragoza	0:0	0:1	26.01.1992	00:00	1991	1992	19
+Albacete	AtlÃ©tico Madrid	1:0	3:1	26.01.1992	00:00	1991	1992	19
+Real Madrid	CD Tenerife	1:1	2:1	26.01.1992	00:00	1991	1992	19
+Espanyol Barcelona	Real Sociedad	1:0	2:0	26.01.1992	00:00	1991	1992	19
+Real Burgos	AtlÃ©tico Madrid	1:0	1:1	01.02.1992	00:00	1991	1992	20
+Real Sociedad	FC Barcelona	1:1	2:1	02.02.1992	00:00	1991	1992	20
+Sevilla FC	Athletic Bilbao	0:0	1:2	02.02.1992	00:00	1991	1992	20
+Deportivo La CoruÃ±a	Valencia CF	0:1	0:1	02.02.1992	00:00	1991	1992	20
+Espanyol Barcelona	Real Zaragoza	1:0	1:0	02.02.1992	00:00	1991	1992	20
+RCD Mallorca	Real Oviedo	1:1	2:1	02.02.1992	00:00	1991	1992	20
+Sporting GijÃ³n	Real Valladolid	0:0	1:0	02.02.1992	00:00	1991	1992	20
+Albacete	CA Osasuna	1:0	1:0	02.02.1992	00:00	1991	1992	20
+Real Madrid	CÃ¡diz CF	1:0	1:1	02.02.1992	00:00	1991	1992	20
+CD LogroÃ±Ã©s	CD Tenerife	1:0	2:0	02.02.1992	00:00	1991	1992	20
+FC Barcelona	Sevilla FC	0:0	1:0	08.02.1992	00:00	1991	1992	21
+Real Valladolid	Real Madrid	1:0	2:1	09.02.1992	00:00	1991	1992	21
+Valencia CF	Albacete	1:1	1:1	09.02.1992	00:00	1991	1992	21
+CÃ¡diz CF	CD LogroÃ±Ã©s	1:0	2:0	09.02.1992	00:00	1991	1992	21
+CA Osasuna	Real Burgos	0:1	1:1	09.02.1992	00:00	1991	1992	21
+AtlÃ©tico Madrid	RCD Mallorca	2:0	3:0	09.02.1992	00:00	1991	1992	21
+CD Tenerife	Deportivo La CoruÃ±a	0:0	1:0	09.02.1992	00:00	1991	1992	21
+Athletic Bilbao	Sporting GijÃ³n	2:0	2:0	09.02.1992	00:00	1991	1992	21
+Real Oviedo	Espanyol Barcelona	0:0	1:0	09.02.1992	00:00	1991	1992	21
+Real Zaragoza	Real Sociedad	1:1	1:3	09.02.1992	00:00	1991	1992	21
+Real Zaragoza	FC Barcelona	0:1	0:4	15.02.1992	00:00	1991	1992	22
+CD LogroÃ±Ã©s	Real Valladolid	0:0	0:0	16.02.1992	00:00	1991	1992	22
+Real Madrid	Athletic Bilbao	1:0	5:0	16.02.1992	00:00	1991	1992	22
+Albacete	CD Tenerife	0:1	1:1	16.02.1992	00:00	1991	1992	22
+Deportivo La CoruÃ±a	CÃ¡diz CF	0:1	1:1	16.02.1992	00:00	1991	1992	22
+RCD Mallorca	CA Osasuna	0:1	1:1	16.02.1992	00:00	1991	1992	22
+Sporting GijÃ³n	Sevilla FC	1:0	2:1	16.02.1992	00:00	1991	1992	22
+Real Burgos	Valencia CF	2:1	2:1	16.02.1992	00:00	1991	1992	22
+Real Sociedad	Real Oviedo	1:1	2:1	16.02.1992	00:00	1991	1992	22
+Espanyol Barcelona	AtlÃ©tico Madrid	0:2	1:2	16.02.1992	00:00	1991	1992	22
+Valencia CF	RCD Mallorca	1:0	1:1	22.02.1992	00:00	1991	1992	23
+Sevilla FC	Real Madrid	1:0	1:0	22.02.1992	00:00	1991	1992	23
+AtlÃ©tico Madrid	Real Sociedad	2:1	5:1	23.02.1992	00:00	1991	1992	23
+CÃ¡diz CF	Albacete	0:1	1:1	23.02.1992	00:00	1991	1992	23
+Athletic Bilbao	CD LogroÃ±Ã©s	1:1	1:2	23.02.1992	00:00	1991	1992	23
+CD Tenerife	Real Burgos	3:0	4:1	23.02.1992	00:00	1991	1992	23
+Real Valladolid	Deportivo La CoruÃ±a	0:0	2:0	23.02.1992	00:00	1991	1992	23
+Real Oviedo	Real Zaragoza	1:0	2:1	23.02.1992	00:00	1991	1992	23
+CA Osasuna	Espanyol Barcelona	0:1	0:1	23.02.1992	00:00	1991	1992	23
+FC Barcelona	Sporting GijÃ³n	1:1	1:1	23.02.1992	00:00	1991	1992	23
+Real Madrid	Sporting GijÃ³n	1:0	1:0	29.02.1992	00:00	1991	1992	24
+Real Oviedo	FC Barcelona	0:0	0:2	29.02.1992	00:00	1991	1992	24
+Real Zaragoza	AtlÃ©tico Madrid	0:0	1:0	29.02.1992	00:00	1991	1992	24
+Espanyol Barcelona	Valencia CF	0:0	0:0	29.02.1992	00:00	1991	1992	24
+Albacete	Real Valladolid	1:0	3:1	01.03.1992	00:00	1991	1992	24
+CD LogroÃ±Ã©s	Sevilla FC	0:0	1:0	01.03.1992	00:00	1991	1992	24
+RCD Mallorca	CD Tenerife	0:1	0:2	01.03.1992	00:00	1991	1992	24
+Real Sociedad	CA Osasuna	0:0	0:0	01.03.1992	00:00	1991	1992	24
+Real Burgos	CÃ¡diz CF	0:0	1:1	01.03.1992	00:00	1991	1992	24
+Deportivo La CoruÃ±a	Athletic Bilbao	0:0	0:0	01.03.1992	00:00	1991	1992	24
+FC Barcelona	Real Madrid	1:0	1:1	07.03.1992	00:00	1991	1992	25
+CA Osasuna	Real Zaragoza	1:0	1:0	08.03.1992	00:00	1991	1992	25
+Athletic Bilbao	Albacete	1:0	1:0	08.03.1992	00:00	1991	1992	25
+Sporting GijÃ³n	CD LogroÃ±Ã©s	0:0	1:1	08.03.1992	00:00	1991	1992	25
+Real Valladolid	Real Burgos	0:0	2:0	08.03.1992	00:00	1991	1992	25
+CÃ¡diz CF	RCD Mallorca	1:1	1:3	08.03.1992	00:00	1991	1992	25
+AtlÃ©tico Madrid	Real Oviedo	3:0	3:1	08.03.1992	00:00	1991	1992	25
+Valencia CF	Real Sociedad	0:2	1:2	08.03.1992	00:00	1991	1992	25
+CD Tenerife	Espanyol Barcelona	0:0	0:1	08.03.1992	00:00	1991	1992	25
+Sevilla FC	Deportivo La CoruÃ±a	0:0	0:0	08.03.1992	00:00	1991	1992	25
+AtlÃ©tico Madrid	FC Barcelona	2:0	2:2	14.03.1992	00:00	1991	1992	26
+CD LogroÃ±Ã©s	Real Madrid	1:0	1:0	14.03.1992	00:00	1991	1992	26
+Deportivo La CoruÃ±a	Sporting GijÃ³n	2:2	5:2	15.03.1992	00:00	1991	1992	26
+Espanyol Barcelona	CÃ¡diz CF	1:0	3:1	15.03.1992	00:00	1991	1992	26
+Real Sociedad	CD Tenerife	1:0	1:0	15.03.1992	00:00	1991	1992	26
+Real Oviedo	CA Osasuna	1:1	3:1	15.03.1992	00:00	1991	1992	26
+RCD Mallorca	Real Valladolid	0:0	1:1	15.03.1992	00:00	1991	1992	26
+Real Zaragoza	Valencia CF	0:0	0:3	15.03.1992	00:00	1991	1992	26
+Real Burgos	Athletic Bilbao	1:0	2:0	15.03.1992	00:00	1991	1992	26
+Albacete	Sevilla FC	0:0	0:0	15.03.1992	00:00	1991	1992	26
+Real Valladolid	Espanyol Barcelona	0:0	0:0	21.03.1992	00:00	1991	1992	27
+Valencia CF	Real Oviedo	3:1	6:3	22.03.1992	00:00	1991	1992	27
+FC Barcelona	CD LogroÃ±Ã©s	0:0	1:0	22.03.1992	00:00	1991	1992	27
+Sevilla FC	Real Burgos	1:0	3:2	22.03.1992	00:00	1991	1992	27
+Real Madrid	Deportivo La CoruÃ±a	1:0	1:0	22.03.1992	00:00	1991	1992	27
+Sporting GijÃ³n	Albacete	0:1	0:2	22.03.1992	00:00	1991	1992	27
+CD Tenerife	Real Zaragoza	0:0	1:0	22.03.1992	00:00	1991	1992	27
+CÃ¡diz CF	Real Sociedad	0:0	0:0	22.03.1992	00:00	1991	1992	27
+CA Osasuna	AtlÃ©tico Madrid	0:0	1:1	22.03.1992	00:00	1991	1992	27
+Athletic Bilbao	RCD Mallorca	2:0	2:0	22.03.1992	00:00	1991	1992	27
+RCD Mallorca	Sevilla FC	1:0	1:0	28.03.1992	00:00	1991	1992	28
+Albacete	Real Madrid	0:1	1:3	28.03.1992	00:00	1991	1992	28
+CA Osasuna	FC Barcelona	0:0	0:0	28.03.1992	00:00	1991	1992	28
+Real Burgos	Sporting GijÃ³n	0:1	0:1	29.03.1992	00:00	1991	1992	28
+Deportivo La CoruÃ±a	CD LogroÃ±Ã©s	2:2	2:2	29.03.1992	00:00	1991	1992	28
+Real Oviedo	CD Tenerife	1:0	2:0	29.03.1992	00:00	1991	1992	28
+Real Zaragoza	CÃ¡diz CF	2:0	3:0	29.03.1992	00:00	1991	1992	28
+Real Sociedad	Real Valladolid	0:0	1:0	29.03.1992	00:00	1991	1992	28
+AtlÃ©tico Madrid	Valencia CF	0:0	1:0	29.03.1992	00:00	1991	1992	28
+Espanyol Barcelona	Athletic Bilbao	1:0	2:0	29.03.1992	00:00	1991	1992	28
+Valencia CF	CA Osasuna	0:0	1:2	04.04.1992	00:00	1991	1992	29
+Athletic Bilbao	Real Sociedad	0:1	2:1	04.04.1992	00:00	1991	1992	29
+CÃ¡diz CF	Real Oviedo	1:0	3:1	05.04.1992	00:00	1991	1992	29
+CD LogroÃ±Ã©s	Albacete	0:1	1:1	05.04.1992	00:00	1991	1992	29
+Real Madrid	Real Burgos	1:0	2:0	05.04.1992	00:00	1991	1992	29
+Sporting GijÃ³n	RCD Mallorca	0:0	2:0	05.04.1992	00:00	1991	1992	29
+Real Valladolid	Real Zaragoza	0:0	0:0	05.04.1992	00:00	1991	1992	29
+CD Tenerife	AtlÃ©tico Madrid	0:1	0:1	05.04.1992	00:00	1991	1992	29
+Sevilla FC	Espanyol Barcelona	2:1	2:1	05.04.1992	00:00	1991	1992	29
+FC Barcelona	Deportivo La CoruÃ±a	1:1	4:1	05.04.1992	00:00	1991	1992	29
+Real Sociedad	Sevilla FC	1:1	2:1	11.04.1992	00:00	1991	1992	30
+Valencia CF	FC Barcelona	1:0	1:0	11.04.1992	00:00	1991	1992	30
+RCD Mallorca	Real Madrid	0:0	0:0	11.04.1992	00:00	1991	1992	30
+Real Zaragoza	Athletic Bilbao	1:0	1:0	12.04.1992	00:00	1991	1992	30
+Real Burgos	CD LogroÃ±Ã©s	1:0	2:0	12.04.1992	00:00	1991	1992	30
+AtlÃ©tico Madrid	CÃ¡diz CF	2:0	5:1	12.04.1992	00:00	1991	1992	30
+Albacete	Deportivo La CoruÃ±a	1:0	3:0	12.04.1992	00:00	1991	1992	30
+Espanyol Barcelona	Sporting GijÃ³n	0:0	2:0	12.04.1992	00:00	1991	1992	30
+CA Osasuna	CD Tenerife	2:0	2:0	12.04.1992	00:00	1991	1992	30
+Real Oviedo	Real Valladolid	1:0	2:1	12.04.1992	00:00	1991	1992	30
+FC Barcelona	Albacete	2:0	7:1	18.04.1992	00:00	1991	1992	31
+Sevilla FC	Real Zaragoza	1:0	3:0	19.04.1992	00:00	1991	1992	31
+CD LogroÃ±Ã©s	RCD Mallorca	2:0	2:1	19.04.1992	00:00	1991	1992	31
+CÃ¡diz CF	CA Osasuna	0:0	2:2	19.04.1992	00:00	1991	1992	31
+Athletic Bilbao	Real Oviedo	0:0	0:0	19.04.1992	00:00	1991	1992	31
+Sporting GijÃ³n	Real Sociedad	0:1	0:1	19.04.1992	00:00	1991	1992	31
+Real Valladolid	AtlÃ©tico Madrid	0:1	0:1	19.04.1992	00:00	1991	1992	31
+CD Tenerife	Valencia CF	1:0	2:1	19.04.1992	00:00	1991	1992	31
+Deportivo La CoruÃ±a	Real Burgos	1:0	2:2	19.04.1992	00:00	1991	1992	31
+Real Madrid	Espanyol Barcelona	3:0	7:0	19.04.1992	00:00	1991	1992	31
+CD Tenerife	FC Barcelona	2:1	2:1	25.04.1992	00:00	1991	1992	32
+Valencia CF	CÃ¡diz CF	0:0	4:0	25.04.1992	00:00	1991	1992	32
+Real Zaragoza	Sporting GijÃ³n	2:1	3:1	26.04.1992	00:00	1991	1992	32
+Real Burgos	Albacete	2:1	3:1	26.04.1992	00:00	1991	1992	32
+Espanyol Barcelona	CD LogroÃ±Ã©s	1:0	3:0	26.04.1992	00:00	1991	1992	32
+RCD Mallorca	Deportivo La CoruÃ±a	0:1	4:2	26.04.1992	00:00	1991	1992	32
+CA Osasuna	Real Valladolid	0:0	1:1	26.04.1992	00:00	1991	1992	32
+AtlÃ©tico Madrid	Athletic Bilbao	1:1	3:1	26.04.1992	00:00	1991	1992	32
+Real Sociedad	Real Madrid	1:2	2:2	26.04.1992	00:00	1991	1992	32
+Real Oviedo	Sevilla FC	0:0	1:0	26.04.1992	00:00	1991	1992	32
+Sevilla FC	AtlÃ©tico Madrid	0:1	0:1	02.05.1992	00:00	1991	1992	33
+Real Madrid	Real Zaragoza	2:0	2:0	03.05.1992	00:00	1991	1992	33
+CÃ¡diz CF	CD Tenerife	0:0	0:0	03.05.1992	00:00	1991	1992	33
+FC Barcelona	Real Burgos	0:1	1:1	03.05.1992	00:00	1991	1992	33
+Albacete	RCD Mallorca	1:0	1:0	03.05.1992	00:00	1991	1992	33
+Sporting GijÃ³n	Real Oviedo	1:0	1:0	03.05.1992	00:00	1991	1992	33
+CD LogroÃ±Ã©s	Real Sociedad	1:0	1:1	03.05.1992	00:00	1991	1992	33
+Real Valladolid	Valencia CF	0:2	1:4	03.05.1992	00:00	1991	1992	33
+Deportivo La CoruÃ±a	Espanyol Barcelona	1:0	2:2	03.05.1992	00:00	1991	1992	33
+Athletic Bilbao	CA Osasuna	0:0	2:1	03.05.1992	00:00	1991	1992	33
+Valencia CF	Athletic Bilbao	0:1	3:1	09.05.1992	00:00	1991	1992	34
+Real Oviedo	Real Madrid	0:0	1:0	09.05.1992	00:00	1991	1992	34
+Real Sociedad	Deportivo La CoruÃ±a	1:0	1:1	10.05.1992	00:00	1991	1992	34
+Espanyol Barcelona	Albacete	0:0	2:0	10.05.1992	00:00	1991	1992	34
+Real Zaragoza	CD LogroÃ±Ã©s	0:1	3:2	10.05.1992	00:00	1991	1992	34
+RCD Mallorca	Real Burgos	1:0	2:2	10.05.1992	00:00	1991	1992	34
+AtlÃ©tico Madrid	Sporting GijÃ³n	0:1	2:1	10.05.1992	00:00	1991	1992	34
+CÃ¡diz CF	FC Barcelona	0:2	0:2	10.05.1992	00:00	1991	1992	34
+CD Tenerife	Real Valladolid	0:0	0:0	10.05.1992	00:00	1991	1992	34
+CA Osasuna	Sevilla FC	0:0	1:0	10.05.1992	00:00	1991	1992	34
+FC Barcelona	RCD Mallorca	1:0	3:0	16.05.1992	00:00	1991	1992	35
+Real Madrid	AtlÃ©tico Madrid	1:1	3:2	16.05.1992	00:00	1991	1992	35
+Sevilla FC	Valencia CF	1:3	2:3	17.05.1992	00:00	1991	1992	35
+Athletic Bilbao	CD Tenerife	1:1	3:1	17.05.1992	00:00	1991	1992	35
+Real Valladolid	CÃ¡diz CF	1:1	2:2	17.05.1992	00:00	1991	1992	35
+Sporting GijÃ³n	CA Osasuna	1:0	1:0	17.05.1992	00:00	1991	1992	35
+CD LogroÃ±Ã©s	Real Oviedo	0:0	2:0	17.05.1992	00:00	1991	1992	35
+Albacete	Real Sociedad	0:0	0:1	17.05.1992	00:00	1991	1992	35
+Real Burgos	Espanyol Barcelona	0:0	2:1	17.05.1992	00:00	1991	1992	35
+Deportivo La CoruÃ±a	Real Zaragoza	1:0	3:0	17.05.1992	00:00	1991	1992	35
+Valencia CF	Sporting GijÃ³n	2:1	3:1	23.05.1992	00:00	1991	1992	36
+CA Osasuna	Real Madrid	0:0	1:1	23.05.1992	00:00	1991	1992	36
+Real Oviedo	Deportivo La CoruÃ±a	1:1	2:1	24.05.1992	00:00	1991	1992	36
+Espanyol Barcelona	RCD Mallorca	1:1	3:2	24.05.1992	00:00	1991	1992	36
+Real Sociedad	Real Burgos	1:0	4:0	24.05.1992	00:00	1991	1992	36
+Real Zaragoza	Albacete	1:0	1:0	24.05.1992	00:00	1991	1992	36
+CÃ¡diz CF	Athletic Bilbao	0:0	1:0	24.05.1992	00:00	1991	1992	36
+Real Valladolid	FC Barcelona	0:2	0:6	24.05.1992	00:00	1991	1992	36
+AtlÃ©tico Madrid	CD LogroÃ±Ã©s	1:1	2:1	24.05.1992	00:00	1991	1992	36
+CD Tenerife	Sevilla FC	2:0	4:1	24.05.1992	00:00	1991	1992	36
+CD LogroÃ±Ã©s	CA Osasuna	0:0	0:0	30.05.1992	00:00	1991	1992	37
+Albacete	Real Oviedo	1:0	2:0	31.05.1992	00:00	1991	1992	37
+Sporting GijÃ³n	CD Tenerife	1:1	1:1	31.05.1992	00:00	1991	1992	37
+Athletic Bilbao	Real Valladolid	0:0	2:0	31.05.1992	00:00	1991	1992	37
+Real Burgos	Real Zaragoza	0:0	0:1	31.05.1992	00:00	1991	1992	37
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	1:0	1:1	31.05.1992	00:00	1991	1992	37
+Real Madrid	Valencia CF	1:0	2:1	31.05.1992	00:00	1991	1992	37
+Espanyol Barcelona	FC Barcelona	0:1	0:4	31.05.1992	00:00	1991	1992	37
+RCD Mallorca	Real Sociedad	1:0	2:1	31.05.1992	00:00	1991	1992	37
+Sevilla FC	CÃ¡diz CF	0:0	0:0	31.05.1992	00:00	1991	1992	37
+Valencia CF	CD LogroÃ±Ã©s	0:1	1:1	06.06.1992	00:00	1991	1992	38
+CD Tenerife	Real Madrid	1:2	3:2	07.06.1992	00:00	1991	1992	38
+Real Oviedo	Real Burgos	2:1	3:1	07.06.1992	00:00	1991	1992	38
+Real Zaragoza	RCD Mallorca	0:1	1:2	07.06.1992	00:00	1991	1992	38
+CA Osasuna	Deportivo La CoruÃ±a	0:1	0:1	07.06.1992	00:00	1991	1992	38
+CÃ¡diz CF	Sporting GijÃ³n	1:0	1:1	07.06.1992	00:00	1991	1992	38
+Real Valladolid	Sevilla FC	0:0	1:0	07.06.1992	00:00	1991	1992	38
+FC Barcelona	Athletic Bilbao	1:0	2:0	07.06.1992	00:00	1991	1992	38
+AtlÃ©tico Madrid	Albacete	1:0	4:1	07.06.1992	00:00	1991	1992	38
+Real Sociedad	Espanyol Barcelona	1:0	1:1	07.06.1992	00:00	1991	1992	38

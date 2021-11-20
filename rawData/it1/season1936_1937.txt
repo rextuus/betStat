@@ -1,0 +1,240 @@
+Lazio Roma	AC Milan	0:0	3:0	01.01.2000	00:00	1936	1937	1
+Torino FC	Genova 1893 Circolo del Calcio	0:0	1:3	01.01.2000	00:00	1936	1937	1
+Sampierdarenese	Novara Calcio	0:0	2:1	01.01.2000	00:00	1936	1937	1
+Lucchese	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1936	1937	1
+AS Bari	Juventus	0:0	1:1	01.01.2000	00:00	1936	1937	1
+Inter	Unione Triestina	0:0	1:2	01.01.2000	00:00	1936	1937	1
+US Alessandria 1912	Bologna FC	0:0	0:1	01.01.2000	00:00	1936	1937	1
+SSC Napoli	AS Roma	0:0	0:0	01.01.2000	00:00	1936	1937	1
+Juventus	Lucchese	0:0	1:1	01.01.2000	00:00	1936	1937	2
+AC Milan	US Alessandria 1912	0:0	4:1	01.01.2000	00:00	1936	1937	2
+Unione Triestina	Torino FC	0:0	0:2	01.01.2000	00:00	1936	1937	2
+AS Roma	Sampierdarenese	0:0	3:0	01.01.2000	00:00	1936	1937	2
+Bologna FC	AS Bari	0:0	2:2	01.01.2000	00:00	1936	1937	2
+Genova 1893 Circolo del Calcio	Lazio Roma	0:0	4:1	01.01.2000	00:00	1936	1937	2
+ACF Fiorentina	SSC Napoli	0:0	1:1	01.01.2000	00:00	1936	1937	2
+Novara Calcio	Inter	0:0	3:5	01.01.2000	00:00	1936	1937	2
+Lazio Roma	Unione Triestina	0:0	2:1	01.01.2000	00:00	1936	1937	3
+Torino FC	AS Roma	0:0	2:0	01.01.2000	00:00	1936	1937	3
+Sampierdarenese	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1936	1937	3
+Lucchese	AC Milan	0:0	0:0	01.01.2000	00:00	1936	1937	3
+AS Bari	Genova 1893 Circolo del Calcio	0:0	1:0	01.01.2000	00:00	1936	1937	3
+Inter	Bologna FC	0:0	0:1	01.01.2000	00:00	1936	1937	3
+US Alessandria 1912	Novara Calcio	0:0	1:3	01.01.2000	00:00	1936	1937	3
+SSC Napoli	Juventus	0:0	0:1	01.01.2000	00:00	1936	1937	3
+Juventus	Torino FC	0:0	0:1	01.01.2000	00:00	1936	1937	4
+AC Milan	Inter	0:0	1:1	01.01.2000	00:00	1936	1937	4
+Unione Triestina	SSC Napoli	0:0	1:1	01.01.2000	00:00	1936	1937	4
+AS Roma	US Alessandria 1912	0:0	1:0	01.01.2000	00:00	1936	1937	4
+Genova 1893 Circolo del Calcio	Sampierdarenese	0:0	1:1	01.01.2000	00:00	1936	1937	4
+ACF Fiorentina	AS Bari	0:0	1:0	01.01.2000	00:00	1936	1937	4
+Bologna FC	Lazio Roma	0:0	1:1	01.01.2000	00:00	1936	1937	4
+Novara Calcio	Lucchese	0:0	1:2	01.01.2000	00:00	1936	1937	4
+Lazio Roma	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1936	1937	5
+Torino FC	Novara Calcio	0:0	4:1	01.01.2000	00:00	1936	1937	5
+Sampierdarenese	AC Milan	0:0	0:0	01.01.2000	00:00	1936	1937	5
+Lucchese	Bologna FC	0:0	2:2	01.01.2000	00:00	1936	1937	5
+AS Bari	Unione Triestina	0:0	4:0	01.01.2000	00:00	1936	1937	5
+Inter	AS Roma	0:0	2:1	01.01.2000	00:00	1936	1937	5
+US Alessandria 1912	Juventus	0:0	1:0	01.01.2000	00:00	1936	1937	5
+SSC Napoli	Genova 1893 Circolo del Calcio	0:0	0:0	01.01.2000	00:00	1936	1937	5
+Genova 1893 Circolo del Calcio	Lucchese	0:0	1:1	01.01.2000	00:00	1936	1937	6
+Novara Calcio	AS Bari	0:0	1:1	01.01.2000	00:00	1936	1937	6
+Unione Triestina	US Alessandria 1912	0:0	3:0	01.01.2000	00:00	1936	1937	6
+AS Roma	Lazio Roma	0:0	3:1	01.01.2000	00:00	1936	1937	6
+Juventus	Inter	0:0	1:1	01.01.2000	00:00	1936	1937	6
+Bologna FC	Sampierdarenese	0:0	4:1	01.01.2000	00:00	1936	1937	6
+ACF Fiorentina	Torino FC	0:0	1:0	01.01.2000	00:00	1936	1937	6
+AC Milan	SSC Napoli	0:0	1:0	01.01.2000	00:00	1936	1937	6
+Genova 1893 Circolo del Calcio	Bologna FC	0:0	0:1	01.01.2000	00:00	1936	1937	7
+Unione Triestina	AS Roma	0:0	2:2	01.01.2000	00:00	1936	1937	7
+Torino FC	AC Milan	0:0	3:1	01.01.2000	00:00	1936	1937	7
+Lazio Roma	Juventus	0:0	1:0	01.01.2000	00:00	1936	1937	7
+AS Bari	Sampierdarenese	0:0	0:1	01.01.2000	00:00	1936	1937	7
+Inter	Lucchese	0:0	2:2	01.01.2000	00:00	1936	1937	7
+US Alessandria 1912	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1936	1937	7
+SSC Napoli	Novara Calcio	0:0	4:0	01.01.2000	00:00	1936	1937	7
+Lucchese	SSC Napoli	0:0	3:2	01.01.2000	00:00	1936	1937	8
+AC Milan	Unione Triestina	0:0	0:0	01.01.2000	00:00	1936	1937	8
+Sampierdarenese	US Alessandria 1912	0:0	5:0	01.01.2000	00:00	1936	1937	8
+AS Roma	AS Bari	0:0	5:2	01.01.2000	00:00	1936	1937	8
+Juventus	Genova 1893 Circolo del Calcio	0:0	2:2	01.01.2000	00:00	1936	1937	8
+ACF Fiorentina	Inter	0:0	1:0	01.01.2000	00:00	1936	1937	8
+Bologna FC	Torino FC	0:0	0:1	01.01.2000	00:00	1936	1937	8
+Novara Calcio	Lazio Roma	0:0	2:4	01.01.2000	00:00	1936	1937	8
+Genova 1893 Circolo del Calcio	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1936	1937	9
+Unione Triestina	Novara Calcio	0:0	1:4	01.01.2000	00:00	1936	1937	9
+SSC Napoli	Bologna FC	0:0	0:1	01.01.2000	00:00	1936	1937	9
+Juventus	AS Roma	0:0	5:1	01.01.2000	00:00	1936	1937	9
+AS Bari	AC Milan	0:0	2:0	01.01.2000	00:00	1936	1937	9
+Inter	Torino FC	0:0	1:0	01.01.2000	00:00	1936	1937	9
+US Alessandria 1912	Lucchese	0:0	1:0	01.01.2000	00:00	1936	1937	9
+Lazio Roma	Sampierdarenese	0:0	1:0	01.01.2000	00:00	1936	1937	9
+Lucchese	AS Bari	0:0	0:0	01.01.2000	00:00	1936	1937	10
+Torino FC	Lazio Roma	0:0	2:2	01.01.2000	00:00	1936	1937	10
+Sampierdarenese	Inter	0:0	2:2	01.01.2000	00:00	1936	1937	10
+AS Roma	Genova 1893 Circolo del Calcio	0:0	0:0	01.01.2000	00:00	1936	1937	10
+AC Milan	Novara Calcio	0:0	2:0	01.01.2000	00:00	1936	1937	10
+ACF Fiorentina	Unione Triestina	0:0	2:1	01.01.2000	00:00	1936	1937	10
+Bologna FC	Juventus	0:0	1:1	01.01.2000	00:00	1936	1937	10
+SSC Napoli	US Alessandria 1912	0:0	2:0	01.01.2000	00:00	1936	1937	10
+Genova 1893 Circolo del Calcio	AC Milan	0:0	0:1	01.01.2000	00:00	1936	1937	11
+Unione Triestina	Lucchese	0:0	4:1	01.01.2000	00:00	1936	1937	11
+AS Roma	Bologna FC	0:0	0:1	01.01.2000	00:00	1936	1937	11
+Juventus	Sampierdarenese	0:0	3:1	01.01.2000	00:00	1936	1937	11
+AS Bari	SSC Napoli	0:0	3:1	01.01.2000	00:00	1936	1937	11
+Inter	Lazio Roma	0:0	2:2	01.01.2000	00:00	1936	1937	11
+US Alessandria 1912	Torino FC	0:0	0:0	01.01.2000	00:00	1936	1937	11
+Novara Calcio	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1936	1937	11
+Bologna FC	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1936	1937	12
+Sampierdarenese	Unione Triestina	0:0	0:0	01.01.2000	00:00	1936	1937	12
+Novara Calcio	Juventus	0:0	0:2	01.01.2000	00:00	1936	1937	12
+Torino FC	SSC Napoli	0:0	3:0	01.01.2000	00:00	1936	1937	12
+Lazio Roma	Lucchese	0:0	2:1	01.01.2000	00:00	1936	1937	12
+AS Bari	Inter	0:0	1:1	01.01.2000	00:00	1936	1937	12
+US Alessandria 1912	Genova 1893 Circolo del Calcio	0:0	2:1	01.01.2000	00:00	1936	1937	12
+AC Milan	AS Roma	0:0	1:0	01.01.2000	00:00	1936	1937	12
+ACF Fiorentina	AS Roma	0:0	2:0	01.01.2000	00:00	1936	1937	13
+Genova 1893 Circolo del Calcio	Novara Calcio	0:0	5:1	01.01.2000	00:00	1936	1937	13
+Lazio Roma	US Alessandria 1912	0:0	4:0	01.01.2000	00:00	1936	1937	13
+Lucchese	Sampierdarenese	0:0	1:0	01.01.2000	00:00	1936	1937	13
+AC Milan	Juventus	0:0	3:4	01.01.2000	00:00	1936	1937	13
+SSC Napoli	Inter	0:0	2:1	01.01.2000	00:00	1936	1937	13
+Torino FC	AS Bari	0:0	6:1	01.01.2000	00:00	1936	1937	13
+Unione Triestina	Bologna FC	0:0	1:2	01.01.2000	00:00	1936	1937	13
+Juventus	Unione Triestina	0:0	0:0	01.01.2000	00:00	1936	1937	14
+AS Roma	Lucchese	0:0	3:0	01.01.2000	00:00	1936	1937	14
+SSC Napoli	Lazio Roma	0:0	3:5	01.01.2000	00:00	1936	1937	14
+Bologna FC	Novara Calcio	0:0	5:1	01.01.2000	00:00	1936	1937	14
+AS Bari	US Alessandria 1912	0:0	2:1	01.01.2000	00:00	1936	1937	14
+Inter	Genova 1893 Circolo del Calcio	0:0	0:1	01.01.2000	00:00	1936	1937	14
+Sampierdarenese	Torino FC	0:0	0:1	01.01.2000	00:00	1936	1937	14
+ACF Fiorentina	AC Milan	0:0	1:2	01.01.2000	00:00	1936	1937	14
+Lazio Roma	AS Bari	0:0	3:1	01.01.2000	00:00	1936	1937	15
+Unione Triestina	Genova 1893 Circolo del Calcio	0:0	0:1	01.01.2000	00:00	1936	1937	15
+Sampierdarenese	SSC Napoli	0:0	0:2	01.01.2000	00:00	1936	1937	15
+Novara Calcio	AS Roma	0:0	5:1	01.01.2000	00:00	1936	1937	15
+Lucchese	Torino FC	0:0	3:1	01.01.2000	00:00	1936	1937	15
+Juventus	ACF Fiorentina	0:0	3:0	01.01.2000	00:00	1936	1937	15
+US Alessandria 1912	Inter	0:0	0:3	01.01.2000	00:00	1936	1937	15
+AC Milan	Bologna FC	0:0	1:0	01.01.2000	00:00	1936	1937	15
+Genova 1893 Circolo del Calcio	Torino FC	0:0	2:2	01.01.2000	00:00	1936	1937	16
+Unione Triestina	Inter	0:0	1:1	01.01.2000	00:00	1936	1937	16
+AS Roma	SSC Napoli	0:0	1:0	01.01.2000	00:00	1936	1937	16
+Novara Calcio	Sampierdarenese	0:0	3:3	01.01.2000	00:00	1936	1937	16
+ACF Fiorentina	Lucchese	0:0	2:2	01.01.2000	00:00	1936	1937	16
+Bologna FC	US Alessandria 1912	0:0	4:0	01.01.2000	00:00	1936	1937	16
+AC Milan	Lazio Roma	0:0	5:3	01.01.2000	00:00	1936	1937	16
+Juventus	AS Bari	0:0	2:0	01.01.2000	00:00	1936	1937	16
+Lazio Roma	Genova 1893 Circolo del Calcio	0:0	2:1	01.01.2000	00:00	1936	1937	17
+Torino FC	Unione Triestina	0:0	2:0	01.01.2000	00:00	1936	1937	17
+Sampierdarenese	AS Roma	0:0	0:1	01.01.2000	00:00	1936	1937	17
+Lucchese	Juventus	0:0	1:1	01.01.2000	00:00	1936	1937	17
+AS Bari	Bologna FC	0:0	0:1	01.01.2000	00:00	1936	1937	17
+Inter	Novara Calcio	0:0	3:1	01.01.2000	00:00	1936	1937	17
+US Alessandria 1912	AC Milan	0:0	1:3	01.01.2000	00:00	1936	1937	17
+SSC Napoli	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1936	1937	17
+Genova 1893 Circolo del Calcio	AS Bari	0:0	3:1	01.01.2000	00:00	1936	1937	18
+Unione Triestina	Lazio Roma	0:0	1:0	01.01.2000	00:00	1936	1937	18
+AS Roma	Torino FC	0:0	1:1	01.01.2000	00:00	1936	1937	18
+Novara Calcio	US Alessandria 1912	0:0	3:4	01.01.2000	00:00	1936	1937	18
+Juventus	SSC Napoli	0:0	2:0	01.01.2000	00:00	1936	1937	18
+ACF Fiorentina	Sampierdarenese	0:0	2:1	01.01.2000	00:00	1936	1937	18
+Bologna FC	Inter	0:0	1:0	01.01.2000	00:00	1936	1937	18
+AC Milan	Lucchese	0:0	3:0	01.01.2000	00:00	1936	1937	18
+Lazio Roma	Bologna FC	0:0	0:0	01.01.2000	00:00	1936	1937	19
+Torino FC	Juventus	0:0	2:1	01.01.2000	00:00	1936	1937	19
+Sampierdarenese	Genova 1893 Circolo del Calcio	0:0	0:2	01.01.2000	00:00	1936	1937	19
+Lucchese	Novara Calcio	0:0	3:1	01.01.2000	00:00	1936	1937	19
+AS Bari	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1936	1937	19
+Inter	AC Milan	0:0	1:1	01.01.2000	00:00	1936	1937	19
+US Alessandria 1912	AS Roma	0:0	5:3	01.01.2000	00:00	1936	1937	19
+SSC Napoli	Unione Triestina	0:0	0:0	01.01.2000	00:00	1936	1937	19
+Genova 1893 Circolo del Calcio	SSC Napoli	0:0	0:1	01.01.2000	00:00	1936	1937	20
+AS Roma	Inter	0:0	0:0	01.01.2000	00:00	1936	1937	20
+Novara Calcio	Torino FC	0:0	0:0	01.01.2000	00:00	1936	1937	20
+Unione Triestina	AS Bari	0:0	1:1	01.01.2000	00:00	1936	1937	20
+Juventus	US Alessandria 1912	0:0	4:1	01.01.2000	00:00	1936	1937	20
+ACF Fiorentina	Lazio Roma	0:0	5:1	01.01.2000	00:00	1936	1937	20
+Bologna FC	Lucchese	0:0	0:0	01.01.2000	00:00	1936	1937	20
+AC Milan	Sampierdarenese	0:0	2:2	01.01.2000	00:00	1936	1937	20
+US Alessandria 1912	Unione Triestina	0:0	0:0	01.01.2000	00:00	1936	1937	21
+Inter	Juventus	0:0	2:0	01.01.2000	00:00	1936	1937	21
+AS Bari	Novara Calcio	0:0	4:1	01.01.2000	00:00	1936	1937	21
+Lazio Roma	AS Roma	0:0	0:1	01.01.2000	00:00	1936	1937	21
+Lucchese	Genova 1893 Circolo del Calcio	0:0	2:2	01.01.2000	00:00	1936	1937	21
+SSC Napoli	AC Milan	0:0	0:1	01.01.2000	00:00	1936	1937	21
+Sampierdarenese	Bologna FC	0:0	2:2	01.01.2000	00:00	1936	1937	21
+Torino FC	ACF Fiorentina	0:0	0:0	01.01.2000	00:00	1936	1937	21
+AC Milan	Torino FC	0:0	0:0	01.01.2000	00:00	1936	1937	22
+Sampierdarenese	AS Bari	0:0	2:0	01.01.2000	00:00	1936	1937	22
+Novara Calcio	SSC Napoli	0:0	0:0	01.01.2000	00:00	1936	1937	22
+Juventus	Lazio Roma	0:0	6:1	01.01.2000	00:00	1936	1937	22
+ACF Fiorentina	US Alessandria 1912	0:0	1:0	01.01.2000	00:00	1936	1937	22
+Bologna FC	Genova 1893 Circolo del Calcio	0:0	4:4	01.01.2000	00:00	1936	1937	22
+AS Roma	Unione Triestina	0:0	1:3	01.01.2000	00:00	1936	1937	22
+Lucchese	Inter	0:0	1:0	01.01.2000	00:00	1936	1937	22
+AS Bari	AS Roma	0:0	1:0	01.01.2000	00:00	1936	1937	23
+Unione Triestina	AC Milan	0:0	0:0	01.01.2000	00:00	1936	1937	23
+Torino FC	Bologna FC	0:0	3:3	01.01.2000	00:00	1936	1937	23
+SSC Napoli	Lucchese	0:0	4:2	01.01.2000	00:00	1936	1937	23
+Genova 1893 Circolo del Calcio	Juventus	0:0	1:1	01.01.2000	00:00	1936	1937	23
+Inter	ACF Fiorentina	0:0	2:2	01.01.2000	00:00	1936	1937	23
+US Alessandria 1912	Sampierdarenese	0:0	1:0	01.01.2000	00:00	1936	1937	23
+Lazio Roma	Novara Calcio	0:0	1:0	01.01.2000	00:00	1936	1937	23
+Lucchese	US Alessandria 1912	0:0	1:0	01.01.2000	00:00	1936	1937	24
+Torino FC	Inter	0:0	1:2	01.01.2000	00:00	1936	1937	24
+Sampierdarenese	Lazio Roma	0:0	0:2	01.01.2000	00:00	1936	1937	24
+AS Roma	Juventus	0:0	3:1	01.01.2000	00:00	1936	1937	24
+AC Milan	AS Bari	0:0	4:0	01.01.2000	00:00	1936	1937	24
+ACF Fiorentina	Genova 1893 Circolo del Calcio	0:0	1:2	01.01.2000	00:00	1936	1937	24
+Bologna FC	SSC Napoli	0:0	2:1	01.01.2000	00:00	1936	1937	24
+Novara Calcio	Unione Triestina	0:0	2:1	01.01.2000	00:00	1936	1937	24
+US Alessandria 1912	SSC Napoli	0:0	2:0	01.01.2000	00:00	1936	1937	25
+Inter	Sampierdarenese	0:0	1:1	01.01.2000	00:00	1936	1937	25
+AS Bari	Lucchese	0:0	2:0	01.01.2000	00:00	1936	1937	25
+Genova 1893 Circolo del Calcio	AS Roma	0:0	3:1	01.01.2000	00:00	1936	1937	25
+Juventus	Bologna FC	0:0	0:0	01.01.2000	00:00	1936	1937	25
+Lazio Roma	Torino FC	0:0	0:0	01.01.2000	00:00	1936	1937	25
+Novara Calcio	AC Milan	0:0	1:0	01.01.2000	00:00	1936	1937	25
+Unione Triestina	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1936	1937	25
+AC Milan	Genova 1893 Circolo del Calcio	0:0	2:2	01.01.2000	00:00	1936	1937	26
+Torino FC	US Alessandria 1912	0:0	5:0	01.01.2000	00:00	1936	1937	26
+SSC Napoli	AS Bari	0:0	3:0	01.01.2000	00:00	1936	1937	26
+Lazio Roma	Inter	0:0	1:0	01.01.2000	00:00	1936	1937	26
+ACF Fiorentina	Novara Calcio	0:0	1:0	01.01.2000	00:00	1936	1937	26
+Bologna FC	AS Roma	0:0	1:0	01.01.2000	00:00	1936	1937	26
+Sampierdarenese	Juventus	0:0	2:6	01.01.2000	00:00	1936	1937	26
+Lucchese	Unione Triestina	0:0	1:1	01.01.2000	00:00	1936	1937	26
+Genova 1893 Circolo del Calcio	US Alessandria 1912	0:0	4:0	01.01.2000	00:00	1936	1937	27
+Unione Triestina	Sampierdarenese	0:0	0:0	01.01.2000	00:00	1936	1937	27
+AS Roma	AC Milan	0:0	0:0	01.01.2000	00:00	1936	1937	27
+SSC Napoli	Torino FC	0:0	1:1	01.01.2000	00:00	1936	1937	27
+Juventus	Novara Calcio	0:0	1:1	01.01.2000	00:00	1936	1937	27
+ACF Fiorentina	Bologna FC	0:0	0:0	01.01.2000	00:00	1936	1937	27
+Inter	AS Bari	0:0	2:2	01.01.2000	00:00	1936	1937	27
+Lucchese	Lazio Roma	0:0	1:0	01.01.2000	00:00	1936	1937	27
+Juventus	AC Milan	0:0	2:0	01.01.2000	00:00	1936	1937	28
+Sampierdarenese	Lucchese	0:0	3:0	01.01.2000	00:00	1936	1937	28
+Novara Calcio	Genova 1893 Circolo del Calcio	0:0	1:0	01.01.2000	00:00	1936	1937	28
+AS Bari	Torino FC	0:0	0:0	01.01.2000	00:00	1936	1937	28
+Inter	SSC Napoli	0:0	2:2	01.01.2000	00:00	1936	1937	28
+US Alessandria 1912	Lazio Roma	0:0	1:5	01.01.2000	00:00	1936	1937	28
+AS Roma	ACF Fiorentina	0:0	2:2	01.01.2000	00:00	1936	1937	28
+Bologna FC	Unione Triestina	0:0	2:0	01.01.2000	00:00	1936	1937	28
+AC Milan	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1936	1937	29
+Unione Triestina	Juventus	0:0	1:0	01.01.2000	00:00	1936	1937	29
+Novara Calcio	Bologna FC	0:0	4:0	01.01.2000	00:00	1936	1937	29
+Lucchese	AS Roma	0:0	5:1	01.01.2000	00:00	1936	1937	29
+Lazio Roma	SSC Napoli	0:0	4:0	01.01.2000	00:00	1936	1937	29
+Genova 1893 Circolo del Calcio	Inter	0:0	1:2	01.01.2000	00:00	1936	1937	29
+US Alessandria 1912	AS Bari	0:0	0:2	01.01.2000	00:00	1936	1937	29
+Torino FC	Sampierdarenese	0:0	4:0	01.01.2000	00:00	1936	1937	29
+Torino FC	Lucchese	0:0	2:2	01.01.2000	00:00	1936	1937	30
+Inter	US Alessandria 1912	0:0	3:0	01.01.2000	00:00	1936	1937	30
+AS Bari	Lazio Roma	0:0	0:2	01.01.2000	00:00	1936	1937	30
+Bologna FC	AC Milan	0:0	2:0	01.01.2000	00:00	1936	1937	30
+ACF Fiorentina	Juventus	0:0	2:2	01.01.2000	00:00	1936	1937	30
+Genova 1893 Circolo del Calcio	Unione Triestina	0:0	4:3	01.01.2000	00:00	1936	1937	30
+SSC Napoli	Sampierdarenese	0:0	0:2	01.01.2000	00:00	1936	1937	30
+AS Roma	Novara Calcio	0:0	1:0	01.01.2000	00:00	1936	1937	30

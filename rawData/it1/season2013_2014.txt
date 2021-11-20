@@ -1,0 +1,380 @@
+Hellas Verona	AC Milan	1:1	2:1	24.08.2013	18:00	2013	2014	1
+Sampdoria	Juventus	0:0	0:1	24.08.2013	20:45	2013	2014	1
+Inter	Genoa CFC	0:0	2:0	25.08.2013	18:00	2013	2014	1
+Cagliari Calcio	Atalanta	1:1	2:1	25.08.2013	20:45	2013	2014	1
+Lazio Roma	Udinese Calcio	2:0	2:1	25.08.2013	20:45	2013	2014	1
+AS Livorno	AS Roma	0:0	0:2	25.08.2013	20:45	2013	2014	1
+SSC Napoli	Bologna FC	2:0	3:0	25.08.2013	20:45	2013	2014	1
+Parma FC	Chievo Verona	0:0	0:0	25.08.2013	20:45	2013	2014	1
+Torino FC	Sassuolo Calcio	1:0	2:0	25.08.2013	20:45	2013	2014	1
+ACF Fiorentina	Calcio Catania	2:1	2:1	26.08.2013	20:45	2013	2014	1
+Chievo Verona	SSC Napoli	2:2	2:4	31.08.2013	18:00	2013	2014	2
+Juventus	Lazio Roma	2:1	4:1	31.08.2013	20:45	2013	2014	2
+AS Roma	Hellas Verona	0:0	3:0	01.09.2013	18:00	2013	2014	2
+Atalanta	Torino FC	0:0	2:0	01.09.2013	20:45	2013	2014	2
+Bologna FC	Sampdoria	1:1	2:2	01.09.2013	20:45	2013	2014	2
+Calcio Catania	Inter	0:1	0:3	01.09.2013	20:45	2013	2014	2
+Genoa CFC	ACF Fiorentina	0:3	2:5	01.09.2013	20:45	2013	2014	2
+AC Milan	Cagliari Calcio	2:1	3:1	01.09.2013	20:45	2013	2014	2
+Sassuolo Calcio	AS Livorno	0:1	1:4	01.09.2013	20:45	2013	2014	2
+Udinese Calcio	Parma FC	1:0	3:1	01.09.2013	20:45	2013	2014	2
+Inter	Juventus	0:0	1:1	14.09.2013	18:00	2013	2014	3
+SSC Napoli	Atalanta	0:0	2:0	14.09.2013	20:45	2013	2014	3
+Torino FC	AC Milan	0:0	2:2	14.09.2013	20:45	2013	2014	3
+ACF Fiorentina	Cagliari Calcio	0:0	1:1	15.09.2013	12:30	2013	2014	3
+Hellas Verona	Sassuolo Calcio	1:0	2:0	15.09.2013	15:00	2013	2014	3
+Lazio Roma	Chievo Verona	3:0	3:0	15.09.2013	15:00	2013	2014	3
+AS Livorno	Calcio Catania	0:0	2:0	15.09.2013	15:00	2013	2014	3
+Udinese Calcio	Bologna FC	0:0	1:1	15.09.2013	15:00	2013	2014	3
+Sampdoria	Genoa CFC	0:1	0:3	15.09.2013	20:45	2013	2014	3
+Parma FC	AS Roma	1:0	1:3	16.09.2013	20:45	2013	2014	3
+Cagliari Calcio	Sampdoria	1:0	2:2	21.09.2013	18:00	2013	2014	4
+Chievo Verona	Udinese Calcio	2:1	2:1	21.09.2013	18:00	2013	2014	4
+Genoa CFC	AS Livorno	0:0	0:0	21.09.2013	20:45	2013	2014	4
+Sassuolo Calcio	Inter	0:3	0:7	22.09.2013	12:30	2013	2014	4
+Atalanta	ACF Fiorentina	0:1	0:2	22.09.2013	15:00	2013	2014	4
+Bologna FC	Torino FC	1:2	1:2	22.09.2013	15:00	2013	2014	4
+Calcio Catania	Parma FC	0:0	0:0	22.09.2013	15:00	2013	2014	4
+Juventus	Hellas Verona	2:1	2:1	22.09.2013	15:00	2013	2014	4
+AS Roma	Lazio Roma	0:0	2:0	22.09.2013	15:00	2013	2014	4
+AC Milan	SSC Napoli	0:1	1:2	22.09.2013	20:45	2013	2014	4
+Udinese Calcio	Genoa CFC	0:0	1:0	24.09.2013	20:45	2013	2014	5
+Bologna FC	AC Milan	1:1	3:3	25.09.2013	20:45	2013	2014	5
+Chievo Verona	Juventus	1:0	1:2	25.09.2013	20:45	2013	2014	5
+Lazio Roma	Calcio Catania	2:1	3:1	25.09.2013	20:45	2013	2014	5
+AS Livorno	Cagliari Calcio	1:0	1:1	25.09.2013	20:45	2013	2014	5
+SSC Napoli	Sassuolo Calcio	1:1	1:1	25.09.2013	20:45	2013	2014	5
+Parma FC	Atalanta	4:2	4:3	25.09.2013	20:45	2013	2014	5
+Sampdoria	AS Roma	0:0	0:2	25.09.2013	20:45	2013	2014	5
+Torino FC	Hellas Verona	1:1	2:2	25.09.2013	20:45	2013	2014	5
+Inter	ACF Fiorentina	0:0	2:1	26.09.2013	20:45	2013	2014	5
+Genoa CFC	SSC Napoli	0:2	0:2	28.09.2013	18:00	2013	2014	6
+AC Milan	Sampdoria	0:0	1:0	28.09.2013	20:45	2013	2014	6
+Torino FC	Juventus	0:0	0:1	29.09.2013	12:30	2013	2014	6
+Atalanta	Udinese Calcio	1:0	2:0	29.09.2013	15:00	2013	2014	6
+Cagliari Calcio	Inter	0:0	1:1	29.09.2013	15:00	2013	2014	6
+Calcio Catania	Chievo Verona	1:0	2:0	29.09.2013	15:00	2013	2014	6
+Hellas Verona	AS Livorno	1:1	2:1	29.09.2013	15:00	2013	2014	6
+Sassuolo Calcio	Lazio Roma	0:0	2:2	29.09.2013	15:00	2013	2014	6
+AS Roma	Bologna FC	3:0	5:0	29.09.2013	20:45	2013	2014	6
+ACF Fiorentina	Parma FC	0:1	2:2	30.09.2013	20:45	2013	2014	6
+Chievo Verona	Atalanta	0:1	0:1	05.10.2013	18:00	2013	2014	7
+Inter	AS Roma	0:3	0:3	05.10.2013	20:45	2013	2014	7
+Parma FC	Sassuolo Calcio	1:1	3:1	06.10.2013	12:30	2013	2014	7
+Bologna FC	Hellas Verona	0:2	1:4	06.10.2013	15:00	2013	2014	7
+Calcio Catania	Genoa CFC	0:0	1:1	06.10.2013	15:00	2013	2014	7
+SSC Napoli	AS Livorno	2:0	4:0	06.10.2013	15:00	2013	2014	7
+Sampdoria	Torino FC	1:0	2:2	06.10.2013	15:00	2013	2014	7
+Udinese Calcio	Cagliari Calcio	1:0	2:0	06.10.2013	15:00	2013	2014	7
+Juventus	AC Milan	1:1	3:2	06.10.2013	20:45	2013	2014	7
+Lazio Roma	ACF Fiorentina	0:0	0:0	06.10.2013	20:45	2013	2014	7
+AS Roma	SSC Napoli	1:0	2:0	18.10.2013	20:45	2013	2014	8
+Cagliari Calcio	Calcio Catania	1:1	2:1	19.10.2013	18:00	2013	2014	8
+AC Milan	Udinese Calcio	1:0	1:0	19.10.2013	20:45	2013	2014	8
+Atalanta	Lazio Roma	1:0	2:1	20.10.2013	12:30	2013	2014	8
+ACF Fiorentina	Juventus	0:2	4:2	20.10.2013	15:00	2013	2014	8
+Genoa CFC	Chievo Verona	1:0	2:1	20.10.2013	15:00	2013	2014	8
+Hellas Verona	Parma FC	1:2	3:2	20.10.2013	15:00	2013	2014	8
+AS Livorno	Sampdoria	0:1	1:2	20.10.2013	15:00	2013	2014	8
+Sassuolo Calcio	Bologna FC	2:1	2:1	20.10.2013	15:00	2013	2014	8
+Torino FC	Inter	1:1	3:3	20.10.2013	20:45	2013	2014	8
+Sampdoria	Atalanta	0:0	1:0	26.10.2013	18:00	2013	2014	9
+Inter	Hellas Verona	3:1	4:2	26.10.2013	20:45	2013	2014	9
+SSC Napoli	Torino FC	2:0	2:0	27.10.2013	12:30	2013	2014	9
+Bologna FC	AS Livorno	1:0	1:0	27.10.2013	15:00	2013	2014	9
+Calcio Catania	Sassuolo Calcio	0:0	0:0	27.10.2013	15:00	2013	2014	9
+Chievo Verona	ACF Fiorentina	1:1	1:2	27.10.2013	15:00	2013	2014	9
+Juventus	Genoa CFC	2:0	2:0	27.10.2013	15:00	2013	2014	9
+Parma FC	AC Milan	2:0	3:2	27.10.2013	15:00	2013	2014	9
+Udinese Calcio	AS Roma	0:0	0:1	27.10.2013	15:00	2013	2014	9
+Lazio Roma	Cagliari Calcio	0:0	2:0	27.10.2013	20:45	2013	2014	9
+Atalanta	Inter	1:1	1:1	29.10.2013	20:45	2013	2014	10
+Cagliari Calcio	Bologna FC	0:1	0:3	30.10.2013	20:45	2013	2014	10
+ACF Fiorentina	SSC Napoli	1:2	1:2	30.10.2013	20:45	2013	2014	10
+Genoa CFC	Parma FC	0:0	1:0	30.10.2013	20:45	2013	2014	10
+Hellas Verona	Sampdoria	0:0	2:0	30.10.2013	20:45	2013	2014	10
+Juventus	Calcio Catania	2:0	4:0	30.10.2013	20:45	2013	2014	10
+AS Livorno	Torino FC	2:2	3:3	30.10.2013	20:45	2013	2014	10
+AC Milan	Lazio Roma	0:0	1:1	30.10.2013	20:45	2013	2014	10
+Sassuolo Calcio	Udinese Calcio	1:1	1:2	30.10.2013	20:45	2013	2014	10
+AS Roma	Chievo Verona	0:0	1:0	31.10.2013	20:45	2013	2014	10
+Parma FC	Juventus	0:0	0:1	02.11.2013	18:00	2013	2014	11
+AC Milan	ACF Fiorentina	0:1	0:2	02.11.2013	20:45	2013	2014	11
+SSC Napoli	Calcio Catania	2:1	2:1	02.11.2013	20:45	2013	2014	11
+AS Livorno	Atalanta	1:0	1:0	03.11.2013	12:30	2013	2014	11
+Hellas Verona	Cagliari Calcio	1:0	2:1	03.11.2013	15:00	2013	2014	11
+Lazio Roma	Genoa CFC	0:0	0:2	03.11.2013	15:00	2013	2014	11
+Sampdoria	Sassuolo Calcio	1:0	3:4	03.11.2013	15:00	2013	2014	11
+Udinese Calcio	Inter	0:2	0:3	03.11.2013	15:00	2013	2014	11
+Torino FC	AS Roma	0:1	1:1	03.11.2013	20:45	2013	2014	11
+Bologna FC	Chievo Verona	0:0	0:0	04.11.2013	20:45	2013	2014	11
+Calcio Catania	Udinese Calcio	1:0	1:0	09.11.2013	18:00	2013	2014	12
+Inter	AS Livorno	1:0	2:0	09.11.2013	20:45	2013	2014	12
+Genoa CFC	Hellas Verona	2:0	2:0	10.11.2013	12:30	2013	2014	12
+Atalanta	Bologna FC	0:0	2:1	10.11.2013	15:00	2013	2014	12
+Cagliari Calcio	Torino FC	1:0	2:1	10.11.2013	15:00	2013	2014	12
+Chievo Verona	AC Milan	0:0	0:0	10.11.2013	15:00	2013	2014	12
+Parma FC	Lazio Roma	0:0	1:1	10.11.2013	15:00	2013	2014	12
+AS Roma	Sassuolo Calcio	1:0	1:1	10.11.2013	15:00	2013	2014	12
+ACF Fiorentina	Sampdoria	2:0	2:1	10.11.2013	20:45	2013	2014	12
+Juventus	SSC Napoli	1:0	3:0	10.11.2013	20:45	2013	2014	12
+Hellas Verona	Chievo Verona	0:0	0:1	23.11.2013	18:00	2013	2014	13
+AC Milan	Genoa CFC	1:1	1:1	23.11.2013	20:45	2013	2014	13
+SSC Napoli	Parma FC	0:0	0:1	23.11.2013	20:45	2013	2014	13
+AS Livorno	Juventus	0:0	0:2	24.11.2013	15:00	2013	2014	13
+Sampdoria	Lazio Roma	0:0	1:1	24.11.2013	15:00	2013	2014	13
+Sassuolo Calcio	Atalanta	0:0	2:0	24.11.2013	15:00	2013	2014	13
+Torino FC	Calcio Catania	2:0	4:1	24.11.2013	15:00	2013	2014	13
+Udinese Calcio	ACF Fiorentina	1:0	1:0	24.11.2013	15:00	2013	2014	13
+Bologna FC	Inter	1:0	1:1	24.11.2013	20:45	2013	2014	13
+AS Roma	Cagliari Calcio	0:0	0:0	25.11.2013	20:45	2013	2014	13
+Parma FC	Bologna FC	1:1	1:1	30.11.2013	18:00	2013	2014	14
+Genoa CFC	Torino FC	0:1	1:1	30.11.2013	20:45	2013	2014	14
+Calcio Catania	AC Milan	1:1	1:3	01.12.2013	12:30	2013	2014	14
+Atalanta	AS Roma	0:0	1:1	01.12.2013	15:00	2013	2014	14
+Cagliari Calcio	Sassuolo Calcio	0:2	2:2	01.12.2013	15:00	2013	2014	14
+Chievo Verona	AS Livorno	1:0	3:0	01.12.2013	15:00	2013	2014	14
+Inter	Sampdoria	1:0	1:1	01.12.2013	15:00	2013	2014	14
+Juventus	Udinese Calcio	0:0	1:0	01.12.2013	18:30	2013	2014	14
+ACF Fiorentina	Hellas Verona	3:2	4:3	02.12.2013	19:00	2013	2014	14
+Lazio Roma	SSC Napoli	1:1	2:4	02.12.2013	21:00	2013	2014	14
+Bologna FC	Juventus	0:1	0:2	06.12.2013	20:45	2013	2014	15
+AS Livorno	AC Milan	1:1	2:2	07.12.2013	18:00	2013	2014	15
+SSC Napoli	Udinese Calcio	2:1	3:3	07.12.2013	20:45	2013	2014	15
+AS Roma	ACF Fiorentina	1:1	2:1	08.12.2013	12:30	2013	2014	15
+Cagliari Calcio	Genoa CFC	0:1	2:1	08.12.2013	15:00	2013	2014	15
+Hellas Verona	Atalanta	0:1	2:1	08.12.2013	15:00	2013	2014	15
+Sampdoria	Calcio Catania	0:0	2:0	08.12.2013	15:00	2013	2014	15
+Sassuolo Calcio	Chievo Verona	0:0	0:1	08.12.2013	15:00	2013	2014	15
+Torino FC	Lazio Roma	1:0	1:0	08.12.2013	15:00	2013	2014	15
+Inter	Parma FC	1:2	3:3	08.12.2013	20:45	2013	2014	15
+Calcio Catania	Hellas Verona	0:0	0:0	14.12.2013	20:45	2013	2014	16
+Chievo Verona	Sampdoria	0:1	0:1	15.12.2013	15:00	2013	2014	16
+ACF Fiorentina	Bologna FC	2:0	3:0	15.12.2013	15:00	2013	2014	16
+Genoa CFC	Atalanta	0:0	1:1	15.12.2013	15:00	2013	2014	16
+Lazio Roma	AS Livorno	2:0	2:0	15.12.2013	15:00	2013	2014	16
+Parma FC	Cagliari Calcio	0:0	0:0	15.12.2013	15:00	2013	2014	16
+Udinese Calcio	Torino FC	0:0	0:2	15.12.2013	15:00	2013	2014	16
+Juventus	Sassuolo Calcio	3:0	4:0	15.12.2013	18:30	2013	2014	16
+SSC Napoli	Inter	3:2	4:2	15.12.2013	20:45	2013	2014	16
+AC Milan	AS Roma	1:1	2:2	16.12.2013	20:45	2013	2014	16
+AS Livorno	Udinese Calcio	1:1	1:2	21.12.2013	18:00	2013	2014	17
+Cagliari Calcio	SSC Napoli	1:1	1:1	21.12.2013	20:45	2013	2014	17
+Bologna FC	Genoa CFC	0:0	1:0	22.12.2013	12:30	2013	2014	17
+Atalanta	Juventus	1:1	1:4	22.12.2013	15:00	2013	2014	17
+Hellas Verona	Lazio Roma	2:1	4:1	22.12.2013	15:00	2013	2014	17
+AS Roma	Calcio Catania	1:0	4:0	22.12.2013	15:00	2013	2014	17
+Sampdoria	Parma FC	1:0	1:1	22.12.2013	15:00	2013	2014	17
+Sassuolo Calcio	ACF Fiorentina	0:0	0:1	22.12.2013	15:00	2013	2014	17
+Torino FC	Chievo Verona	1:1	4:1	22.12.2013	15:00	2013	2014	17
+Inter	AC Milan	0:0	1:0	22.12.2013	20:45	2013	2014	17
+Chievo Verona	Cagliari Calcio	0:0	0:0	05.01.2014	15:00	2013	2014	18
+ACF Fiorentina	AS Livorno	0:0	1:0	05.01.2014	18:00	2013	2014	18
+Juventus	AS Roma	1:0	3:0	05.01.2014	20:45	2013	2014	18
+SSC Napoli	Sampdoria	0:0	2:0	06.01.2014	12:30	2013	2014	18
+Calcio Catania	Bologna FC	1:0	2:0	06.01.2014	15:00	2013	2014	18
+Genoa CFC	Sassuolo Calcio	2:0	2:0	06.01.2014	15:00	2013	2014	18
+AC Milan	Atalanta	1:0	3:0	06.01.2014	15:00	2013	2014	18
+Parma FC	Torino FC	2:1	3:1	06.01.2014	15:00	2013	2014	18
+Udinese Calcio	Hellas Verona	1:2	1:3	06.01.2014	15:00	2013	2014	18
+Lazio Roma	Inter	0:0	1:0	06.01.2014	18:30	2013	2014	18
+AS Livorno	Parma FC	0:1	0:3	11.01.2014	18:00	2013	2014	19
+Bologna FC	Lazio Roma	0:0	0:0	11.01.2014	20:45	2013	2014	19
+Torino FC	ACF Fiorentina	0:0	0:0	12.01.2014	12:30	2013	2014	19
+Atalanta	Calcio Catania	0:0	2:1	12.01.2014	15:00	2013	2014	19
+Cagliari Calcio	Juventus	1:1	1:4	12.01.2014	15:00	2013	2014	19
+Hellas Verona	SSC Napoli	0:1	0:3	12.01.2014	15:00	2013	2014	19
+AS Roma	Genoa CFC	3:0	4:0	12.01.2014	15:00	2013	2014	19
+Sassuolo Calcio	AC Milan	3:2	4:3	12.01.2014	20:45	2013	2014	19
+Sampdoria	Udinese Calcio	1:0	3:0	13.01.2014	19:00	2013	2014	19
+Inter	Chievo Verona	1:1	1:1	13.01.2014	21:00	2013	2014	19
+AS Roma	AS Livorno	2:0	3:0	18.01.2014	18:00	2013	2014	20
+Juventus	Sampdoria	3:1	4:2	18.01.2014	20:45	2013	2014	20
+Udinese Calcio	Lazio Roma	1:0	2:3	19.01.2014	12:30	2013	2014	20
+Atalanta	Cagliari Calcio	0:0	1:0	19.01.2014	15:00	2013	2014	20
+Calcio Catania	ACF Fiorentina	0:3	0:3	19.01.2014	15:00	2013	2014	20
+Genoa CFC	Inter	0:0	1:0	19.01.2014	15:00	2013	2014	20
+Bologna FC	SSC Napoli	1:0	2:2	19.01.2014	15:00	2013	2014	20
+Chievo Verona	Parma FC	1:1	1:2	19.01.2014	15:00	2013	2014	20
+Sassuolo Calcio	Torino FC	0:1	0:2	19.01.2014	15:00	2013	2014	20
+AC Milan	Hellas Verona	0:0	1:0	19.01.2014	20:45	2013	2014	20
+SSC Napoli	Chievo Verona	0:1	1:1	25.01.2014	18:00	2013	2014	21
+Lazio Roma	Juventus	1:0	1:1	25.01.2014	20:45	2013	2014	21
+Hellas Verona	AS Roma	0:1	1:3	26.01.2014	12:30	2013	2014	21
+Torino FC	Atalanta	0:0	1:0	26.01.2014	15:00	2013	2014	21
+Sampdoria	Bologna FC	0:0	1:1	26.01.2014	15:00	2013	2014	21
+Inter	Calcio Catania	0:0	0:0	26.01.2014	15:00	2013	2014	21
+Cagliari Calcio	AC Milan	1:0	1:2	26.01.2014	15:00	2013	2014	21
+AS Livorno	Sassuolo Calcio	3:1	3:1	26.01.2014	15:00	2013	2014	21
+Parma FC	Udinese Calcio	1:0	1:0	26.01.2014	15:00	2013	2014	21
+ACF Fiorentina	Genoa CFC	2:2	3:3	26.01.2014	20:45	2013	2014	21
+Cagliari Calcio	ACF Fiorentina	1:0	1:0	01.02.2014	18:00	2013	2014	22
+Bologna FC	Udinese Calcio	0:1	0:2	01.02.2014	18:00	2013	2014	22
+AC Milan	Torino FC	0:1	1:1	01.02.2014	20:45	2013	2014	22
+Sassuolo Calcio	Hellas Verona	0:0	1:2	02.02.2014	15:00	2013	2014	22
+Chievo Verona	Lazio Roma	0:1	0:2	02.02.2014	15:00	2013	2014	22
+Calcio Catania	AS Livorno	0:0	3:3	02.02.2014	15:00	2013	2014	22
+Atalanta	SSC Napoli	0:0	3:0	02.02.2014	15:00	2013	2014	22
+Juventus	Inter	1:0	3:1	02.02.2014	20:45	2013	2014	22
+Genoa CFC	Sampdoria	0:1	0:1	03.02.2014	20:45	2013	2014	22
+AS Roma	Parma FC	2:1	4:2	02.04.2014	18:30	2013	2014	22
+ACF Fiorentina	Atalanta	1:0	2:0	08.02.2014	18:00	2013	2014	23
+Udinese Calcio	Chievo Verona	0:0	3:0	08.02.2014	18:00	2013	2014	23
+SSC Napoli	AC Milan	1:1	3:1	08.02.2014	20:45	2013	2014	23
+Torino FC	Bologna FC	1:2	1:2	09.02.2014	12:30	2013	2014	23
+Sampdoria	Cagliari Calcio	1:0	1:0	09.02.2014	15:00	2013	2014	23
+Parma FC	Calcio Catania	0:0	0:0	09.02.2014	15:00	2013	2014	23
+AS Livorno	Genoa CFC	0:1	0:1	09.02.2014	15:00	2013	2014	23
+Hellas Verona	Juventus	0:2	2:2	09.02.2014	15:00	2013	2014	23
+Lazio Roma	AS Roma	0:0	0:0	09.02.2014	15:00	2013	2014	23
+Inter	Sassuolo Calcio	0:0	1:0	09.02.2014	20:45	2013	2014	23
+AC Milan	Bologna FC	0:0	1:0	14.02.2014	20:45	2013	2014	24
+ACF Fiorentina	Inter	0:1	1:2	15.02.2014	20:45	2013	2014	24
+Calcio Catania	Lazio Roma	1:1	3:1	16.02.2014	12:30	2013	2014	24
+Juventus	Chievo Verona	2:0	3:1	16.02.2014	15:00	2013	2014	24
+Cagliari Calcio	AS Livorno	0:1	1:2	16.02.2014	15:00	2013	2014	24
+Sassuolo Calcio	SSC Napoli	0:1	0:2	16.02.2014	15:00	2013	2014	24
+Atalanta	Parma FC	0:1	0:4	16.02.2014	15:00	2013	2014	24
+Genoa CFC	Udinese Calcio	1:2	3:3	16.02.2014	15:00	2013	2014	24
+AS Roma	Sampdoria	1:0	3:0	16.02.2014	20:45	2013	2014	24
+Hellas Verona	Torino FC	1:0	1:3	17.02.2014	20:45	2013	2014	24
+Bologna FC	AS Roma	0:1	0:1	22.02.2014	20:45	2013	2014	25
+AS Livorno	Hellas Verona	0:3	2:3	23.02.2014	12:30	2013	2014	25
+Udinese Calcio	Atalanta	0:1	1:1	23.02.2014	15:00	2013	2014	25
+Inter	Cagliari Calcio	0:1	1:1	23.02.2014	15:00	2013	2014	25
+Chievo Verona	Calcio Catania	1:0	2:0	23.02.2014	15:00	2013	2014	25
+Sampdoria	AC Milan	0:1	0:2	23.02.2014	15:00	2013	2014	25
+Juventus	Torino FC	1:0	1:0	23.02.2014	18:30	2013	2014	25
+Lazio Roma	Sassuolo Calcio	1:0	3:2	23.02.2014	20:45	2013	2014	25
+Parma FC	ACF Fiorentina	1:1	2:2	24.02.2014	19:00	2013	2014	25
+SSC Napoli	Genoa CFC	1:0	1:1	24.02.2014	21:00	2013	2014	25
+AS Roma	Inter	0:0	0:0	01.03.2014	20:45	2013	2014	26
+Cagliari Calcio	Udinese Calcio	1:0	3:0	02.03.2014	12:30	2013	2014	26
+Hellas Verona	Bologna FC	0:0	0:0	02.03.2014	15:00	2013	2014	26
+Genoa CFC	Calcio Catania	1:0	2:0	02.03.2014	15:00	2013	2014	26
+Atalanta	Chievo Verona	1:0	2:1	02.03.2014	15:00	2013	2014	26
+Sassuolo Calcio	Parma FC	0:1	0:1	02.03.2014	15:00	2013	2014	26
+Torino FC	Sampdoria	0:1	0:2	02.03.2014	15:00	2013	2014	26
+AS Livorno	SSC Napoli	1:1	1:1	02.03.2014	18:30	2013	2014	26
+AC Milan	Juventus	0:1	0:2	02.03.2014	20:45	2013	2014	26
+ACF Fiorentina	Lazio Roma	0:1	0:1	02.03.2014	20:45	2013	2014	26
+Udinese Calcio	AC Milan	0:0	1:0	08.03.2014	18:00	2013	2014	27
+Calcio Catania	Cagliari Calcio	0:0	1:1	08.03.2014	20:45	2013	2014	27
+Juventus	ACF Fiorentina	1:0	1:0	09.03.2014	12:30	2013	2014	27
+Lazio Roma	Atalanta	0:0	0:1	09.03.2014	15:00	2013	2014	27
+Chievo Verona	Genoa CFC	1:0	2:1	09.03.2014	15:00	2013	2014	27
+Parma FC	Hellas Verona	1:0	2:0	09.03.2014	15:00	2013	2014	27
+Sampdoria	AS Livorno	0:2	4:2	09.03.2014	15:00	2013	2014	27
+Bologna FC	Sassuolo Calcio	0:0	0:0	09.03.2014	15:00	2013	2014	27
+Inter	Torino FC	1:0	1:0	09.03.2014	15:00	2013	2014	27
+SSC Napoli	AS Roma	0:0	1:0	09.03.2014	20:45	2013	2014	27
+Hellas Verona	Inter	0:1	0:2	15.03.2014	20:45	2013	2014	28
+Atalanta	Sampdoria	2:0	3:0	16.03.2014	12:30	2013	2014	28
+AS Livorno	Bologna FC	0:0	2:1	16.03.2014	15:00	2013	2014	28
+Sassuolo Calcio	Calcio Catania	0:1	3:1	16.03.2014	15:00	2013	2014	28
+Cagliari Calcio	Lazio Roma	0:1	0:2	16.03.2014	15:00	2013	2014	28
+AC Milan	Parma FC	0:1	2:4	16.03.2014	15:00	2013	2014	28
+ACF Fiorentina	Chievo Verona	2:0	3:1	16.03.2014	20:45	2013	2014	28
+Genoa CFC	Juventus	0:0	0:1	16.03.2014	20:45	2013	2014	28
+Torino FC	SSC Napoli	0:0	0:1	17.03.2014	19:00	2013	2014	28
+AS Roma	Udinese Calcio	2:0	3:2	17.03.2014	21:00	2013	2014	28
+Torino FC	AS Livorno	1:0	3:1	22.03.2014	18:00	2013	2014	29
+Chievo Verona	AS Roma	0:2	0:2	22.03.2014	20:45	2013	2014	29
+Parma FC	Genoa CFC	1:1	1:1	23.03.2014	12:30	2013	2014	29
+Inter	Atalanta	1:1	1:2	23.03.2014	15:00	2013	2014	29
+Bologna FC	Cagliari Calcio	0:0	1:0	23.03.2014	15:00	2013	2014	29
+Sampdoria	Hellas Verona	3:0	5:0	23.03.2014	15:00	2013	2014	29
+Udinese Calcio	Sassuolo Calcio	1:0	1:0	23.03.2014	15:00	2013	2014	29
+SSC Napoli	ACF Fiorentina	0:0	0:1	23.03.2014	18:30	2013	2014	29
+Calcio Catania	Juventus	0:0	0:1	23.03.2014	20:45	2013	2014	29
+Lazio Roma	AC Milan	0:1	1:1	23.03.2014	20:45	2013	2014	29
+AS Roma	Torino FC	1:0	2:1	25.03.2014	20:45	2013	2014	30
+Chievo Verona	Bologna FC	1:0	3:0	26.03.2014	20:45	2013	2014	30
+Cagliari Calcio	Hellas Verona	1:0	1:0	26.03.2014	20:45	2013	2014	30
+Genoa CFC	Lazio Roma	0:0	2:0	26.03.2014	20:45	2013	2014	30
+Atalanta	AS Livorno	1:0	2:0	26.03.2014	20:45	2013	2014	30
+ACF Fiorentina	AC Milan	0:1	0:2	26.03.2014	20:45	2013	2014	30
+Calcio Catania	SSC Napoli	0:4	2:4	26.03.2014	20:45	2013	2014	30
+Juventus	Parma FC	2:0	2:1	26.03.2014	20:45	2013	2014	30
+Sassuolo Calcio	Sampdoria	1:1	1:2	26.03.2014	20:45	2013	2014	30
+Inter	Udinese Calcio	0:0	0:0	27.03.2014	20:45	2013	2014	30
+Bologna FC	Atalanta	0:2	0:2	29.03.2014	18:00	2013	2014	31
+AC Milan	Chievo Verona	2:0	3:0	29.03.2014	20:45	2013	2014	31
+Sassuolo Calcio	AS Roma	0:1	0:2	30.03.2014	12:30	2013	2014	31
+Torino FC	Cagliari Calcio	1:0	2:1	30.03.2014	15:00	2013	2014	31
+Sampdoria	ACF Fiorentina	0:0	0:0	30.03.2014	15:00	2013	2014	31
+Hellas Verona	Genoa CFC	1:0	3:0	30.03.2014	15:00	2013	2014	31
+Lazio Roma	Parma FC	1:1	3:2	30.03.2014	15:00	2013	2014	31
+SSC Napoli	Juventus	1:0	2:0	30.03.2014	20:45	2013	2014	31
+Udinese Calcio	Calcio Catania	0:0	1:0	31.03.2014	19:00	2013	2014	31
+AS Livorno	Inter	0:2	2:2	31.03.2014	21:00	2013	2014	31
+Chievo Verona	Hellas Verona	0:0	0:1	05.04.2014	18:00	2013	2014	32
+Inter	Bologna FC	1:1	2:2	05.04.2014	20:45	2013	2014	32
+Lazio Roma	Sampdoria	1:0	2:0	06.04.2014	12:30	2013	2014	32
+Cagliari Calcio	AS Roma	0:1	1:3	06.04.2014	15:00	2013	2014	32
+Atalanta	Sassuolo Calcio	0:1	0:2	06.04.2014	15:00	2013	2014	32
+Calcio Catania	Torino FC	1:0	1:2	06.04.2014	15:00	2013	2014	32
+ACF Fiorentina	Udinese Calcio	1:0	2:1	06.04.2014	15:00	2013	2014	32
+Parma FC	SSC Napoli	0:0	1:0	06.04.2014	20:45	2013	2014	32
+Juventus	AS Livorno	2:0	2:0	07.04.2014	19:00	2013	2014	32
+Genoa CFC	AC Milan	0:1	1:2	07.04.2014	21:00	2013	2014	32
+Sassuolo Calcio	Cagliari Calcio	1:0	1:1	12.04.2014	18:00	2013	2014	33
+AS Roma	Atalanta	2:0	3:1	12.04.2014	20:45	2013	2014	33
+Bologna FC	Parma FC	1:0	1:1	13.04.2014	12:30	2013	2014	33
+AS Livorno	Chievo Verona	2:3	2:4	13.04.2014	15:00	2013	2014	33
+Hellas Verona	ACF Fiorentina	1:2	3:5	13.04.2014	15:00	2013	2014	33
+Torino FC	Genoa CFC	0:0	2:1	13.04.2014	15:00	2013	2014	33
+Sampdoria	Inter	0:1	0:4	13.04.2014	15:00	2013	2014	33
+SSC Napoli	Lazio Roma	1:1	4:2	13.04.2014	15:00	2013	2014	33
+AC Milan	Calcio Catania	1:0	1:0	13.04.2014	20:45	2013	2014	33
+Udinese Calcio	Juventus	0:2	0:2	14.04.2014	20:45	2013	2014	33
+Genoa CFC	Cagliari Calcio	1:1	1:2	19.04.2014	15:00	2013	2014	34
+Atalanta	Hellas Verona	0:0	1:2	19.04.2014	15:00	2013	2014	34
+Parma FC	Inter	0:0	0:2	19.04.2014	15:00	2013	2014	34
+AC Milan	AS Livorno	1:0	3:0	19.04.2014	15:00	2013	2014	34
+Udinese Calcio	SSC Napoli	0:1	1:1	19.04.2014	15:00	2013	2014	34
+Calcio Catania	Sampdoria	1:0	2:1	19.04.2014	15:00	2013	2014	34
+Chievo Verona	Sassuolo Calcio	0:1	0:1	19.04.2014	15:00	2013	2014	34
+Lazio Roma	Torino FC	1:0	3:3	19.04.2014	15:00	2013	2014	34
+Juventus	Bologna FC	0:0	1:0	19.04.2014	18:30	2013	2014	34
+ACF Fiorentina	AS Roma	0:1	0:1	19.04.2014	21:00	2013	2014	34
+AS Roma	AC Milan	1:0	2:0	25.04.2014	20:45	2013	2014	35
+Bologna FC	ACF Fiorentina	0:2	0:3	26.04.2014	18:00	2013	2014	35
+Inter	SSC Napoli	0:0	0:0	26.04.2014	20:45	2013	2014	35
+Hellas Verona	Calcio Catania	3:0	4:0	27.04.2014	12:30	2013	2014	35
+Sampdoria	Chievo Verona	0:0	2:1	27.04.2014	15:00	2013	2014	35
+AS Livorno	Lazio Roma	0:1	0:2	27.04.2014	15:00	2013	2014	35
+Cagliari Calcio	Parma FC	1:0	1:0	27.04.2014	15:00	2013	2014	35
+Torino FC	Udinese Calcio	1:0	2:0	27.04.2014	15:00	2013	2014	35
+Atalanta	Genoa CFC	0:1	1:1	27.04.2014	20:45	2013	2014	35
+Sassuolo Calcio	Juventus	1:1	1:3	28.04.2014	20:45	2013	2014	35
+Genoa CFC	Bologna FC	0:0	0:0	04.05.2014	15:00	2013	2014	36
+Udinese Calcio	AS Livorno	5:2	5:3	04.05.2014	15:00	2013	2014	36
+Calcio Catania	AS Roma	2:1	4:1	04.05.2014	15:00	2013	2014	36
+Parma FC	Sampdoria	1:0	2:0	04.05.2014	15:00	2013	2014	36
+Chievo Verona	Torino FC	0:0	0:1	04.05.2014	15:00	2013	2014	36
+AC Milan	Inter	0:0	1:0	04.05.2014	20:45	2013	2014	36
+Lazio Roma	Hellas Verona	1:1	3:3	05.05.2014	19:00	2013	2014	36
+Juventus	Atalanta	0:0	1:0	05.05.2014	21:00	2013	2014	36
+ACF Fiorentina	Sassuolo Calcio	0:3	3:4	06.05.2014	19:00	2013	2014	36
+SSC Napoli	Cagliari Calcio	2:0	3:0	06.05.2014	21:00	2013	2014	36
+Hellas Verona	Udinese Calcio	1:0	2:2	10.05.2014	18:00	2013	2014	37
+Inter	Lazio Roma	3:1	4:1	10.05.2014	20:45	2013	2014	37
+Atalanta	AC Milan	0:0	2:1	11.05.2014	12:30	2013	2014	37
+Bologna FC	Calcio Catania	0:1	1:2	11.05.2014	15:00	2013	2014	37
+Cagliari Calcio	Chievo Verona	0:0	0:1	11.05.2014	15:00	2013	2014	37
+AS Livorno	ACF Fiorentina	0:0	0:1	11.05.2014	15:00	2013	2014	37
+Sassuolo Calcio	Genoa CFC	1:1	4:2	11.05.2014	15:00	2013	2014	37
+Sampdoria	SSC Napoli	1:3	2:5	11.05.2014	15:00	2013	2014	37
+Torino FC	Parma FC	1:0	1:1	11.05.2014	15:00	2013	2014	37
+AS Roma	Juventus	0:0	0:1	11.05.2014	17:45	2013	2014	37
+Udinese Calcio	Sampdoria	2:1	3:3	17.05.2014	20:45	2013	2014	38
+Calcio Catania	Atalanta	0:0	2:1	18.05.2014	15:00	2013	2014	38
+Juventus	Cagliari Calcio	3:0	3:0	18.05.2014	15:00	2013	2014	38
+Genoa CFC	AS Roma	0:0	1:0	18.05.2014	15:00	2013	2014	38
+Lazio Roma	Bologna FC	0:0	1:0	18.05.2014	20:45	2013	2014	38
+SSC Napoli	Hellas Verona	3:0	5:1	18.05.2014	20:45	2013	2014	38
+Chievo Verona	Inter	0:1	2:1	18.05.2014	20:45	2013	2014	38
+Parma FC	AS Livorno	0:0	2:0	18.05.2014	20:45	2013	2014	38
+AC Milan	Sassuolo Calcio	2:0	2:1	18.05.2014	20:45	2013	2014	38
+ACF Fiorentina	Torino FC	0:0	2:2	18.05.2014	20:45	2013	2014	38

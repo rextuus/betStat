@@ -1,0 +1,380 @@
+Sheffield United	Liverpool FC	0:0	1:1	19.08.2006	13:45	2006	2007	1
+Arsenal FC	Aston Villa	0:0	1:1	19.08.2006	16:00	2006	2007	1
+Everton FC	Watford FC	1:0	2:1	19.08.2006	16:00	2006	2007	1
+Newcastle United	Wigan Athletic	1:0	2:1	19.08.2006	16:00	2006	2007	1
+Portsmouth FC	Blackburn Rovers	1:0	3:0	19.08.2006	16:00	2006	2007	1
+Reading FC	Middlesbrough FC	2:2	3:2	19.08.2006	16:00	2006	2007	1
+West Ham United	Charlton Athletic	0:1	3:1	19.08.2006	16:00	2006	2007	1
+Bolton Wanderers	Tottenham Hotspur	2:0	2:0	19.08.2006	18:15	2006	2007	1
+Manchester United	Fulham FC	4:1	5:1	20.08.2006	14:30	2006	2007	1
+Chelsea FC	Manchester City	2:0	3:0	20.08.2006	17:00	2006	2007	1
+Watford FC	West Ham United	0:0	1:1	22.08.2006	20:45	2006	2007	2
+Tottenham Hotspur	Sheffield United	2:0	2:0	22.08.2006	21:00	2006	2007	2
+Aston Villa	Reading FC	1:1	2:1	23.08.2006	20:45	2006	2007	2
+Blackburn Rovers	Everton FC	0:0	1:1	23.08.2006	20:45	2006	2007	2
+Manchester City	Portsmouth FC	0:0	0:0	23.08.2006	20:45	2006	2007	2
+Charlton Athletic	Manchester United	0:0	0:3	23.08.2006	21:00	2006	2007	2
+Middlesbrough FC	Chelsea FC	0:1	2:1	23.08.2006	21:00	2006	2007	2
+Fulham FC	Bolton Wanderers	0:0	1:1	23.08.2006	21:00	2006	2007	2
+Liverpool FC	Newcastle United	1:0	2:0	20.09.2006	21:00	2006	2007	2
+Wigan Athletic	Arsenal FC	0:0	0:1	13.12.2006	20:45	2006	2007	2
+Liverpool FC	West Ham United	2:1	2:1	26.08.2006	13:45	2006	2007	3
+Charlton Athletic	Bolton Wanderers	0:0	2:0	26.08.2006	16:00	2006	2007	3
+Wigan Athletic	Reading FC	1:0	1:0	26.08.2006	16:00	2006	2007	3
+Watford FC	Manchester United	1:1	1:2	26.08.2006	16:00	2006	2007	3
+Tottenham Hotspur	Everton FC	0:0	0:2	26.08.2006	16:00	2006	2007	3
+Fulham FC	Sheffield United	1:0	1:0	26.08.2006	16:00	2006	2007	3
+Manchester City	Arsenal FC	1:0	1:0	26.08.2006	18:15	2006	2007	3
+Aston Villa	Newcastle United	2:0	2:0	27.08.2006	15:00	2006	2007	3
+Blackburn Rovers	Chelsea FC	0:0	0:2	27.08.2006	17:00	2006	2007	3
+Middlesbrough FC	Portsmouth FC	0:1	0:4	28.08.2006	21:00	2006	2007	3
+Everton FC	Liverpool FC	2:0	3:0	09.09.2006	13:45	2006	2007	4
+Chelsea FC	Charlton Athletic	1:0	2:1	09.09.2006	16:00	2006	2007	4
+Arsenal FC	Middlesbrough FC	0:1	1:1	09.09.2006	16:00	2006	2007	4
+Bolton Wanderers	Watford FC	0:0	1:0	09.09.2006	16:00	2006	2007	4
+Portsmouth FC	Wigan Athletic	0:0	1:0	09.09.2006	16:00	2006	2007	4
+Sheffield United	Blackburn Rovers	0:0	0:0	09.09.2006	16:00	2006	2007	4
+Newcastle United	Fulham FC	0:0	1:2	09.09.2006	16:00	2006	2007	4
+Manchester United	Tottenham Hotspur	1:0	1:0	09.09.2006	18:15	2006	2007	4
+West Ham United	Aston Villa	0:1	1:1	10.09.2006	17:00	2006	2007	4
+Reading FC	Manchester City	1:0	1:0	11.09.2006	21:00	2006	2007	4
+Charlton Athletic	Portsmouth FC	0:0	0:1	16.09.2006	13:45	2006	2007	5
+Sheffield United	Reading FC	0:2	1:2	16.09.2006	16:00	2006	2007	5
+Bolton Wanderers	Middlesbrough FC	0:0	0:0	16.09.2006	16:00	2006	2007	5
+Everton FC	Wigan Athletic	0:0	2:2	16.09.2006	16:00	2006	2007	5
+Watford FC	Aston Villa	0:0	0:0	16.09.2006	18:15	2006	2007	5
+Chelsea FC	Liverpool FC	1:0	1:0	17.09.2006	14:30	2006	2007	5
+Blackburn Rovers	Manchester City	2:2	4:2	17.09.2006	16:00	2006	2007	5
+West Ham United	Newcastle United	0:0	0:2	17.09.2006	16:00	2006	2007	5
+Tottenham Hotspur	Fulham FC	0:0	0:0	17.09.2006	16:00	2006	2007	5
+Manchester United	Arsenal FC	0:0	0:1	17.09.2006	17:00	2006	2007	5
+Liverpool FC	Tottenham Hotspur	0:0	3:0	23.09.2006	13:45	2006	2007	6
+Aston Villa	Charlton Athletic	1:0	2:0	23.09.2006	16:00	2006	2007	6
+Wigan Athletic	Watford FC	1:0	1:1	23.09.2006	16:00	2006	2007	6
+Arsenal FC	Sheffield United	0:0	3:0	23.09.2006	16:00	2006	2007	6
+Middlesbrough FC	Blackburn Rovers	0:1	0:1	23.09.2006	16:00	2006	2007	6
+Manchester City	West Ham United	0:0	2:0	23.09.2006	16:00	2006	2007	6
+Fulham FC	Chelsea FC	0:0	0:2	23.09.2006	16:00	2006	2007	6
+Reading FC	Manchester United	0:0	1:1	23.09.2006	18:15	2006	2007	6
+Newcastle United	Everton FC	1:1	1:1	24.09.2006	17:00	2006	2007	6
+Portsmouth FC	Bolton Wanderers	0:1	0:1	25.09.2006	21:00	2006	2007	6
+Bolton Wanderers	Liverpool FC	1:0	2:0	30.09.2006	13:45	2006	2007	7
+Charlton Athletic	Arsenal FC	1:1	1:2	30.09.2006	16:00	2006	2007	7
+Chelsea FC	Aston Villa	1:1	1:1	30.09.2006	16:00	2006	2007	7
+Everton FC	Manchester City	1:0	1:1	30.09.2006	16:00	2006	2007	7
+Sheffield United	Middlesbrough FC	1:0	2:1	30.09.2006	18:15	2006	2007	7
+West Ham United	Reading FC	0:1	0:1	01.10.2006	15:00	2006	2007	7
+Blackburn Rovers	Wigan Athletic	1:1	2:1	01.10.2006	16:00	2006	2007	7
+Manchester United	Newcastle United	1:0	2:0	01.10.2006	16:00	2006	2007	7
+Tottenham Hotspur	Portsmouth FC	2:1	2:1	01.10.2006	17:00	2006	2007	7
+Watford FC	Fulham FC	1:0	3:3	02.10.2006	21:00	2006	2007	7
+Wigan Athletic	Manchester United	1:0	1:3	14.10.2006	13:45	2006	2007	8
+Aston Villa	Tottenham Hotspur	0:0	1:1	14.10.2006	16:00	2006	2007	8
+Arsenal FC	Watford FC	2:0	3:0	14.10.2006	16:00	2006	2007	8
+Middlesbrough FC	Everton FC	1:0	2:1	14.10.2006	16:00	2006	2007	8
+Portsmouth FC	West Ham United	1:0	2:0	14.10.2006	16:00	2006	2007	8
+Manchester City	Sheffield United	0:0	0:0	14.10.2006	16:00	2006	2007	8
+Liverpool FC	Blackburn Rovers	0:1	1:1	14.10.2006	16:00	2006	2007	8
+Reading FC	Chelsea FC	0:1	0:1	14.10.2006	18:15	2006	2007	8
+Newcastle United	Bolton Wanderers	1:0	1:2	15.10.2006	17:00	2006	2007	8
+Fulham FC	Charlton Athletic	0:0	2:1	16.10.2006	21:00	2006	2007	8
+Wigan Athletic	Manchester City	2:0	4:0	21.10.2006	13:45	2006	2007	9
+Charlton Athletic	Watford FC	0:0	0:0	21.10.2006	16:00	2006	2007	9
+Chelsea FC	Portsmouth FC	0:0	2:1	21.10.2006	16:00	2006	2007	9
+Everton FC	Sheffield United	2:0	2:0	21.10.2006	16:00	2006	2007	9
+Aston Villa	Fulham FC	1:1	1:1	21.10.2006	18:15	2006	2007	9
+Manchester United	Liverpool FC	1:0	2:0	22.10.2006	14:00	2006	2007	9
+Blackburn Rovers	Bolton Wanderers	0:0	0:1	22.10.2006	16:00	2006	2007	9
+Middlesbrough FC	Newcastle United	0:0	1:0	22.10.2006	16:00	2006	2007	9
+Tottenham Hotspur	West Ham United	1:0	1:0	22.10.2006	16:00	2006	2007	9
+Reading FC	Arsenal FC	0:2	0:4	22.10.2006	17:00	2006	2007	9
+Sheffield United	Chelsea FC	0:1	0:2	28.10.2006	13:45	2006	2007	10
+Arsenal FC	Everton FC	0:1	1:1	28.10.2006	16:00	2006	2007	10
+Bolton Wanderers	Manchester United	0:2	0:4	28.10.2006	16:00	2006	2007	10
+Fulham FC	Wigan Athletic	0:0	0:1	28.10.2006	16:00	2006	2007	10
+Liverpool FC	Aston Villa	3:0	3:1	28.10.2006	16:00	2006	2007	10
+Portsmouth FC	Reading FC	1:0	3:1	28.10.2006	16:00	2006	2007	10
+Watford FC	Tottenham Hotspur	0:0	0:0	28.10.2006	16:00	2006	2007	10
+Newcastle United	Charlton Athletic	0:0	0:0	28.10.2006	18:15	2006	2007	10
+West Ham United	Blackburn Rovers	1:0	2:1	29.10.2006	17:00	2006	2007	10
+Manchester City	Middlesbrough FC	1:0	1:0	30.10.2006	21:00	2006	2007	10
+Fulham FC	Everton FC	0:0	1:0	04.11.2006	13:45	2006	2007	11
+Bolton Wanderers	Wigan Athletic	0:0	0:1	04.11.2006	16:00	2006	2007	11
+Charlton Athletic	Manchester City	1:0	1:0	04.11.2006	16:00	2006	2007	11
+Liverpool FC	Reading FC	1:0	2:0	04.11.2006	16:00	2006	2007	11
+Manchester United	Portsmouth FC	2:0	3:0	04.11.2006	16:00	2006	2007	11
+Watford FC	Middlesbrough FC	1:0	2:0	04.11.2006	16:00	2006	2007	11
+Newcastle United	Sheffield United	0:0	0:1	04.11.2006	18:15	2006	2007	11
+West Ham United	Arsenal FC	0:0	1:0	05.11.2006	14:30	2006	2007	11
+Aston Villa	Blackburn Rovers	1:0	2:0	05.11.2006	15:00	2006	2007	11
+Tottenham Hotspur	Chelsea FC	1:1	2:1	05.11.2006	17:00	2006	2007	11
+Manchester City	Newcastle United	0:0	0:0	11.11.2006	13:45	2006	2007	12
+Everton FC	Aston Villa	0:1	0:1	11.11.2006	16:00	2006	2007	12
+Sheffield United	Bolton Wanderers	0:1	2:2	11.11.2006	16:00	2006	2007	12
+Wigan Athletic	Charlton Athletic	2:0	3:2	11.11.2006	16:00	2006	2007	12
+Portsmouth FC	Fulham FC	0:0	1:1	11.11.2006	16:00	2006	2007	12
+Chelsea FC	Watford FC	2:0	4:0	11.11.2006	16:00	2006	2007	12
+Middlesbrough FC	West Ham United	0:0	1:0	11.11.2006	16:00	2006	2007	12
+Blackburn Rovers	Manchester United	0:0	0:1	11.11.2006	18:15	2006	2007	12
+Reading FC	Tottenham Hotspur	2:1	3:1	12.11.2006	14:30	2006	2007	12
+Arsenal FC	Liverpool FC	1:0	3:0	12.11.2006	17:00	2006	2007	12
+Manchester City	Fulham FC	3:0	3:1	18.11.2006	13:45	2006	2007	13
+Everton FC	Bolton Wanderers	0:0	1:0	18.11.2006	16:00	2006	2007	13
+Reading FC	Charlton Athletic	1:0	2:0	18.11.2006	16:00	2006	2007	13
+Sheffield United	Manchester United	1:1	1:2	18.11.2006	16:00	2006	2007	13
+Arsenal FC	Newcastle United	0:1	1:1	18.11.2006	16:00	2006	2007	13
+Portsmouth FC	Watford FC	1:1	2:1	18.11.2006	16:00	2006	2007	13
+Chelsea FC	West Ham United	1:0	1:0	18.11.2006	16:00	2006	2007	13
+Middlesbrough FC	Liverpool FC	0:0	0:0	18.11.2006	18:15	2006	2007	13
+Wigan Athletic	Aston Villa	0:0	0:0	19.11.2006	14:30	2006	2007	13
+Blackburn Rovers	Tottenham Hotspur	1:0	1:1	19.11.2006	17:00	2006	2007	13
+Charlton Athletic	Everton FC	0:0	1:1	25.11.2006	13:45	2006	2007	14
+Liverpool FC	Manchester City	0:0	1:0	25.11.2006	16:00	2006	2007	14
+Aston Villa	Middlesbrough FC	1:1	1:1	25.11.2006	16:00	2006	2007	14
+Fulham FC	Reading FC	0:1	0:1	25.11.2006	16:00	2006	2007	14
+West Ham United	Sheffield United	1:0	1:0	25.11.2006	16:00	2006	2007	14
+Bolton Wanderers	Arsenal FC	2:1	3:1	25.11.2006	18:15	2006	2007	14
+Newcastle United	Portsmouth FC	0:0	1:0	26.11.2006	14:30	2006	2007	14
+Tottenham Hotspur	Wigan Athletic	2:1	3:1	26.11.2006	16:00	2006	2007	14
+Manchester United	Chelsea FC	1:0	1:1	26.11.2006	17:00	2006	2007	14
+Watford FC	Blackburn Rovers	1:1	2:1	23.01.2007	20:45	2006	2007	14
+Watford FC	Sheffield United	0:0	0:1	28.11.2006	21:00	2006	2007	15
+Aston Villa	Manchester City	0:2	1:3	29.11.2006	20:45	2006	2007	15
+Fulham FC	Arsenal FC	2:1	2:1	29.11.2006	20:45	2006	2007	15
+Bolton Wanderers	Chelsea FC	0:1	0:1	29.11.2006	21:00	2006	2007	15
+Liverpool FC	Portsmouth FC	0:0	0:0	29.11.2006	21:00	2006	2007	15
+Manchester United	Everton FC	1:0	3:0	29.11.2006	21:00	2006	2007	15
+Charlton Athletic	Blackburn Rovers	0:0	1:0	05.12.2006	21:00	2006	2007	15
+Tottenham Hotspur	Middlesbrough FC	0:0	2:1	05.12.2006	21:00	2006	2007	15
+Newcastle United	Reading FC	1:2	3:2	06.12.2006	20:45	2006	2007	15
+West Ham United	Wigan Athletic	0:0	0:2	06.12.2006	20:45	2006	2007	15
+Arsenal FC	Tottenham Hotspur	2:0	3:0	02.12.2006	13:45	2006	2007	16
+Reading FC	Bolton Wanderers	1:0	1:0	02.12.2006	16:00	2006	2007	16
+Sheffield United	Charlton Athletic	0:1	2:1	02.12.2006	16:00	2006	2007	16
+Portsmouth FC	Aston Villa	0:1	2:2	02.12.2006	16:00	2006	2007	16
+Blackburn Rovers	Fulham FC	2:0	2:0	02.12.2006	16:00	2006	2007	16
+Wigan Athletic	Liverpool FC	0:4	0:4	02.12.2006	16:00	2006	2007	16
+Middlesbrough FC	Manchester United	0:1	1:2	02.12.2006	18:15	2006	2007	16
+Everton FC	West Ham United	0:0	2:0	03.12.2006	17:00	2006	2007	16
+Manchester City	Watford FC	0:0	0:0	04.12.2006	21:00	2006	2007	16
+Chelsea FC	Newcastle United	0:0	1:0	13.12.2006	20:45	2006	2007	16
+Manchester United	Manchester City	2:0	3:1	09.12.2006	13:45	2006	2007	17
+Tottenham Hotspur	Charlton Athletic	2:1	5:1	09.12.2006	16:00	2006	2007	17
+Portsmouth FC	Everton FC	2:0	2:0	09.12.2006	16:00	2006	2007	17
+Liverpool FC	Fulham FC	0:0	4:0	09.12.2006	16:00	2006	2007	17
+Blackburn Rovers	Newcastle United	0:2	1:3	09.12.2006	16:00	2006	2007	17
+Watford FC	Reading FC	0:0	0:0	09.12.2006	16:00	2006	2007	17
+Middlesbrough FC	Wigan Athletic	0:1	1:1	09.12.2006	16:00	2006	2007	17
+Bolton Wanderers	West Ham United	1:0	4:0	09.12.2006	18:15	2006	2007	17
+Chelsea FC	Arsenal FC	0:0	1:1	10.12.2006	17:00	2006	2007	17
+Sheffield United	Aston Villa	0:1	2:2	11.12.2006	21:00	2006	2007	17
+Charlton Athletic	Liverpool FC	0:1	0:3	16.12.2006	13:45	2006	2007	18
+Reading FC	Blackburn Rovers	1:0	1:2	16.12.2006	16:00	2006	2007	18
+Arsenal FC	Portsmouth FC	0:1	2:2	16.12.2006	16:00	2006	2007	18
+Wigan Athletic	Sheffield United	0:1	0:1	16.12.2006	16:00	2006	2007	18
+Newcastle United	Watford FC	0:0	2:1	16.12.2006	16:00	2006	2007	18
+Aston Villa	Bolton Wanderers	0:0	0:1	16.12.2006	18:15	2006	2007	18
+Everton FC	Chelsea FC	1:0	2:3	17.12.2006	14:45	2006	2007	18
+Manchester City	Tottenham Hotspur	0:2	1:2	17.12.2006	16:00	2006	2007	18
+West Ham United	Manchester United	0:0	1:0	17.12.2006	17:00	2006	2007	18
+Fulham FC	Middlesbrough FC	2:0	2:1	18.12.2006	21:00	2006	2007	18
+Fulham FC	West Ham United	0:0	0:0	23.12.2006	13:45	2006	2007	19
+Arsenal FC	Blackburn Rovers	3:1	6:2	23.12.2006	16:00	2006	2007	19
+Aston Villa	Manchester United	0:0	0:3	23.12.2006	16:00	2006	2007	19
+Liverpool FC	Watford FC	0:0	2:0	23.12.2006	16:00	2006	2007	19
+Manchester City	Bolton Wanderers	0:2	0:2	23.12.2006	16:00	2006	2007	19
+Middlesbrough FC	Charlton Athletic	1:0	2:0	23.12.2006	16:00	2006	2007	19
+Newcastle United	Tottenham Hotspur	3:1	3:1	23.12.2006	16:00	2006	2007	19
+Portsmouth FC	Sheffield United	0:1	3:1	23.12.2006	16:00	2006	2007	19
+Reading FC	Everton FC	0:1	0:2	23.12.2006	16:00	2006	2007	19
+Wigan Athletic	Chelsea FC	1:2	2:3	23.12.2006	18:15	2006	2007	19
+Tottenham Hotspur	Aston Villa	0:0	2:1	26.12.2006	14:00	2006	2007	20
+Chelsea FC	Reading FC	1:0	2:2	26.12.2006	14:00	2006	2007	20
+West Ham United	Portsmouth FC	0:2	1:2	26.12.2006	14:00	2006	2007	20
+Manchester United	Wigan Athletic	0:0	3:1	26.12.2006	16:00	2006	2007	20
+Everton FC	Middlesbrough FC	0:0	0:0	26.12.2006	16:00	2006	2007	20
+Sheffield United	Manchester City	0:0	0:1	26.12.2006	16:00	2006	2007	20
+Blackburn Rovers	Liverpool FC	0:0	1:0	26.12.2006	16:00	2006	2007	20
+Bolton Wanderers	Newcastle United	1:1	2:1	26.12.2006	16:00	2006	2007	20
+Watford FC	Arsenal FC	1:1	1:2	26.12.2006	18:30	2006	2007	20
+Charlton Athletic	Fulham FC	2:1	2:2	27.12.2006	21:00	2006	2007	20
+Charlton Athletic	Aston Villa	0:1	2:1	30.12.2006	13:45	2006	2007	21
+Manchester United	Reading FC	1:1	3:2	30.12.2006	16:00	2006	2007	21
+Blackburn Rovers	Middlesbrough FC	1:0	2:1	30.12.2006	16:00	2006	2007	21
+Bolton Wanderers	Portsmouth FC	2:1	3:2	30.12.2006	16:00	2006	2007	21
+West Ham United	Manchester City	0:0	0:1	30.12.2006	16:00	2006	2007	21
+Tottenham Hotspur	Liverpool FC	0:1	0:1	30.12.2006	16:00	2006	2007	21
+Everton FC	Newcastle United	1:0	3:0	30.12.2006	16:00	2006	2007	21
+Chelsea FC	Fulham FC	1:1	2:2	30.12.2006	16:00	2006	2007	21
+Sheffield United	Arsenal FC	1:0	1:0	30.12.2006	18:15	2006	2007	21
+Watford FC	Wigan Athletic	1:1	1:1	21.02.2007	20:45	2006	2007	21
+Liverpool FC	Bolton Wanderers	0:0	3:0	01.01.2007	13:45	2006	2007	22
+Wigan Athletic	Blackburn Rovers	0:1	0:3	01.01.2007	16:00	2006	2007	22
+Manchester City	Everton FC	0:0	2:1	01.01.2007	16:00	2006	2007	22
+Middlesbrough FC	Sheffield United	1:1	3:1	01.01.2007	16:00	2006	2007	22
+Portsmouth FC	Tottenham Hotspur	1:0	1:1	01.01.2007	16:00	2006	2007	22
+Fulham FC	Watford FC	0:0	0:0	01.01.2007	16:00	2006	2007	22
+Reading FC	West Ham United	4:0	6:0	01.01.2007	16:00	2006	2007	22
+Newcastle United	Manchester United	1:1	2:2	01.01.2007	18:15	2006	2007	22
+Arsenal FC	Charlton Athletic	2:0	4:0	02.01.2007	20:45	2006	2007	22
+Aston Villa	Chelsea FC	0:0	0:0	02.01.2007	21:00	2006	2007	22
+Watford FC	Liverpool FC	0:2	0:3	13.01.2007	13:45	2006	2007	23
+Manchester United	Aston Villa	3:0	3:1	13.01.2007	16:00	2006	2007	23
+West Ham United	Fulham FC	1:1	3:3	13.01.2007	16:00	2006	2007	23
+Bolton Wanderers	Manchester City	0:0	0:0	13.01.2007	16:00	2006	2007	23
+Charlton Athletic	Middlesbrough FC	1:1	1:3	13.01.2007	16:00	2006	2007	23
+Sheffield United	Portsmouth FC	1:0	1:1	13.01.2007	16:00	2006	2007	23
+Chelsea FC	Wigan Athletic	1:0	4:0	13.01.2007	16:00	2006	2007	23
+Blackburn Rovers	Arsenal FC	0:1	0:2	13.01.2007	18:15	2006	2007	23
+Everton FC	Reading FC	0:1	1:1	14.01.2007	14:45	2006	2007	23
+Tottenham Hotspur	Newcastle United	1:1	2:3	14.01.2007	17:00	2006	2007	23
+Liverpool FC	Chelsea FC	2:0	2:0	20.01.2007	13:45	2006	2007	24
+Reading FC	Sheffield United	1:0	3:1	20.01.2007	16:00	2006	2007	24
+Middlesbrough FC	Bolton Wanderers	4:1	5:1	20.01.2007	16:00	2006	2007	24
+Newcastle United	West Ham United	1:2	2:2	20.01.2007	16:00	2006	2007	24
+Aston Villa	Watford FC	0:0	2:0	20.01.2007	16:00	2006	2007	24
+Portsmouth FC	Charlton Athletic	0:0	0:1	20.01.2007	16:00	2006	2007	24
+Fulham FC	Tottenham Hotspur	0:0	1:1	20.01.2007	16:00	2006	2007	24
+Manchester City	Blackburn Rovers	0:1	0:3	20.01.2007	18:15	2006	2007	24
+Wigan Athletic	Everton FC	0:0	0:2	21.01.2007	14:30	2006	2007	24
+Arsenal FC	Manchester United	0:0	2:1	21.01.2007	17:00	2006	2007	24
+Portsmouth FC	Middlesbrough FC	0:0	0:0	30.01.2007	20:45	2006	2007	25
+West Ham United	Liverpool FC	0:0	1:2	30.01.2007	20:45	2006	2007	25
+Sheffield United	Fulham FC	2:0	2:0	30.01.2007	20:45	2006	2007	25
+Reading FC	Wigan Athletic	1:1	3:2	30.01.2007	21:00	2006	2007	25
+Chelsea FC	Blackburn Rovers	1:0	3:0	31.01.2007	20:45	2006	2007	25
+Bolton Wanderers	Charlton Athletic	1:1	1:1	31.01.2007	21:00	2006	2007	25
+Newcastle United	Aston Villa	2:1	3:1	31.01.2007	21:00	2006	2007	25
+Manchester United	Watford FC	1:0	4:0	31.01.2007	21:00	2006	2007	25
+Everton FC	Tottenham Hotspur	1:1	1:2	21.02.2007	21:00	2006	2007	25
+Arsenal FC	Manchester City	1:1	3:1	17.04.2007	20:45	2006	2007	25
+Liverpool FC	Everton FC	0:0	0:0	03.02.2007	13:45	2006	2007	26
+Charlton Athletic	Chelsea FC	0:1	0:1	03.02.2007	16:00	2006	2007	26
+Manchester City	Reading FC	0:0	0:2	03.02.2007	16:00	2006	2007	26
+Watford FC	Bolton Wanderers	0:0	0:1	03.02.2007	16:00	2006	2007	26
+Aston Villa	West Ham United	1:0	1:0	03.02.2007	16:00	2006	2007	26
+Wigan Athletic	Portsmouth FC	0:0	1:0	03.02.2007	16:00	2006	2007	26
+Blackburn Rovers	Sheffield United	1:1	2:1	03.02.2007	16:00	2006	2007	26
+Fulham FC	Newcastle United	0:0	2:1	03.02.2007	16:00	2006	2007	26
+Middlesbrough FC	Arsenal FC	0:0	1:1	03.02.2007	18:15	2006	2007	26
+Tottenham Hotspur	Manchester United	0:1	0:4	04.02.2007	17:00	2006	2007	26
+Reading FC	Aston Villa	1:0	2:0	10.02.2007	13:45	2006	2007	27
+Manchester United	Charlton Athletic	1:0	2:0	10.02.2007	16:00	2006	2007	27
+Chelsea FC	Middlesbrough FC	1:0	3:0	10.02.2007	16:00	2006	2007	27
+Sheffield United	Tottenham Hotspur	1:1	2:1	10.02.2007	16:00	2006	2007	27
+West Ham United	Watford FC	0:1	0:1	10.02.2007	16:00	2006	2007	27
+Everton FC	Blackburn Rovers	1:0	1:0	10.02.2007	16:00	2006	2007	27
+Newcastle United	Liverpool FC	1:1	2:1	10.02.2007	16:00	2006	2007	27
+Portsmouth FC	Manchester City	1:0	2:1	10.02.2007	18:15	2006	2007	27
+Bolton Wanderers	Fulham FC	1:0	2:1	11.02.2007	14:30	2006	2007	27
+Arsenal FC	Wigan Athletic	0:1	2:1	11.02.2007	17:00	2006	2007	27
+Fulham FC	Manchester United	1:1	1:2	24.02.2007	13:45	2006	2007	28
+Charlton Athletic	West Ham United	3:0	4:0	24.02.2007	16:00	2006	2007	28
+Middlesbrough FC	Reading FC	1:0	2:1	24.02.2007	16:00	2006	2007	28
+Liverpool FC	Sheffield United	2:0	4:0	24.02.2007	16:00	2006	2007	28
+Watford FC	Everton FC	0:2	0:3	24.02.2007	18:15	2006	2007	28
+Wigan Athletic	Newcastle United	1:0	1:0	25.02.2007	14:00	2006	2007	28
+Blackburn Rovers	Portsmouth FC	2:0	3:0	25.02.2007	16:00	2006	2007	28
+Tottenham Hotspur	Bolton Wanderers	3:1	4:1	25.02.2007	16:00	2006	2007	28
+Aston Villa	Arsenal FC	0:1	0:1	14.03.2007	20:45	2006	2007	28
+Manchester City	Chelsea FC	0:1	0:1	14.03.2007	21:00	2006	2007	28
+Liverpool FC	Manchester United	0:0	0:1	03.03.2007	13:45	2006	2007	29
+Fulham FC	Aston Villa	1:1	1:1	03.03.2007	16:00	2006	2007	29
+Watford FC	Charlton Athletic	2:0	2:2	03.03.2007	16:00	2006	2007	29
+Sheffield United	Everton FC	0:0	1:1	03.03.2007	16:00	2006	2007	29
+Newcastle United	Middlesbrough FC	0:0	0:0	03.03.2007	16:00	2006	2007	29
+Arsenal FC	Reading FC	0:0	2:1	03.03.2007	16:00	2006	2007	29
+Manchester City	Wigan Athletic	0:1	0:1	03.03.2007	16:00	2006	2007	29
+Portsmouth FC	Chelsea FC	0:1	0:2	03.03.2007	18:15	2006	2007	29
+Bolton Wanderers	Blackburn Rovers	0:0	1:2	04.03.2007	14:35	2006	2007	29
+West Ham United	Tottenham Hotspur	2:0	3:4	04.03.2007	17:00	2006	2007	29
+Manchester United	Bolton Wanderers	3:0	4:1	17.03.2007	13:45	2006	2007	30
+Wigan Athletic	Fulham FC	0:0	0:0	17.03.2007	16:00	2006	2007	30
+Middlesbrough FC	Manchester City	0:0	0:2	17.03.2007	16:00	2006	2007	30
+Reading FC	Portsmouth FC	0:0	0:0	17.03.2007	16:00	2006	2007	30
+Chelsea FC	Sheffield United	2:0	3:0	17.03.2007	16:00	2006	2007	30
+Tottenham Hotspur	Watford FC	1:0	3:1	17.03.2007	16:00	2006	2007	30
+Blackburn Rovers	West Ham United	0:0	1:2	17.03.2007	18:15	2006	2007	30
+Charlton Athletic	Newcastle United	0:0	2:0	18.03.2007	14:30	2006	2007	30
+Aston Villa	Liverpool FC	0:0	0:0	18.03.2007	14:35	2006	2007	30
+Everton FC	Arsenal FC	0:0	1:0	18.03.2007	17:00	2006	2007	30
+Liverpool FC	Arsenal FC	2:0	4:1	31.03.2007	13:45	2006	2007	31
+Bolton Wanderers	Sheffield United	0:0	1:0	31.03.2007	16:00	2006	2007	31
+Charlton Athletic	Wigan Athletic	0:0	1:0	31.03.2007	16:00	2006	2007	31
+Fulham FC	Portsmouth FC	0:1	1:1	31.03.2007	16:00	2006	2007	31
+Manchester United	Blackburn Rovers	0:1	4:1	31.03.2007	16:00	2006	2007	31
+Newcastle United	Manchester City	0:0	0:1	31.03.2007	16:00	2006	2007	31
+West Ham United	Middlesbrough FC	2:0	2:0	31.03.2007	16:00	2006	2007	31
+Watford FC	Chelsea FC	0:0	0:1	31.03.2007	18:15	2006	2007	31
+Tottenham Hotspur	Reading FC	1:0	1:0	01.04.2007	17:00	2006	2007	31
+Aston Villa	Everton FC	0:1	1:1	02.04.2007	21:00	2006	2007	31
+Manchester City	Charlton Athletic	0:0	0:0	06.04.2007	18:15	2006	2007	32
+Everton FC	Fulham FC	3:1	4:1	06.04.2007	20:30	2006	2007	32
+Chelsea FC	Tottenham Hotspur	0:0	1:0	07.04.2007	13:45	2006	2007	32
+Blackburn Rovers	Aston Villa	1:1	1:2	07.04.2007	16:00	2006	2007	32
+Wigan Athletic	Bolton Wanderers	1:1	1:3	07.04.2007	16:00	2006	2007	32
+Reading FC	Liverpool FC	0:1	1:2	07.04.2007	16:00	2006	2007	32
+Sheffield United	Newcastle United	0:1	1:2	07.04.2007	16:00	2006	2007	32
+Middlesbrough FC	Watford FC	2:1	4:1	07.04.2007	16:00	2006	2007	32
+Arsenal FC	West Ham United	0:1	0:1	07.04.2007	16:00	2006	2007	32
+Portsmouth FC	Manchester United	1:0	2:1	07.04.2007	18:15	2006	2007	32
+Watford FC	Portsmouth FC	2:1	4:2	09.04.2007	13:45	2006	2007	33
+Aston Villa	Wigan Athletic	0:1	1:1	09.04.2007	16:00	2006	2007	33
+Bolton Wanderers	Everton FC	1:1	1:1	09.04.2007	16:00	2006	2007	33
+Fulham FC	Manchester City	0:2	1:3	09.04.2007	16:00	2006	2007	33
+Newcastle United	Arsenal FC	0:0	0:0	09.04.2007	16:00	2006	2007	33
+Charlton Athletic	Reading FC	0:0	0:0	09.04.2007	21:00	2006	2007	33
+Manchester United	Sheffield United	1:0	2:0	17.04.2007	21:00	2006	2007	33
+Liverpool FC	Middlesbrough FC	0:0	2:0	18.04.2007	21:00	2006	2007	33
+West Ham United	Chelsea FC	1:2	1:4	18.04.2007	21:00	2006	2007	33
+Tottenham Hotspur	Blackburn Rovers	0:1	1:1	10.05.2007	21:00	2006	2007	33
+Arsenal FC	Bolton Wanderers	1:1	2:1	14.04.2007	16:00	2006	2007	34
+Manchester City	Liverpool FC	0:0	0:0	14.04.2007	16:00	2006	2007	34
+Middlesbrough FC	Aston Villa	1:1	1:3	14.04.2007	16:00	2006	2007	34
+Portsmouth FC	Newcastle United	1:0	2:1	14.04.2007	16:00	2006	2007	34
+Reading FC	Fulham FC	1:0	1:0	14.04.2007	16:00	2006	2007	34
+Sheffield United	West Ham United	1:0	3:0	14.04.2007	16:00	2006	2007	34
+Wigan Athletic	Tottenham Hotspur	2:2	3:3	15.04.2007	14:30	2006	2007	34
+Everton FC	Charlton Athletic	0:0	2:1	15.04.2007	16:00	2006	2007	34
+Blackburn Rovers	Watford FC	3:1	3:1	18.04.2007	21:00	2006	2007	34
+Chelsea FC	Manchester United	0:0	0:0	09.05.2007	21:00	2006	2007	34
+Tottenham Hotspur	Arsenal FC	1:0	2:2	21.04.2007	13:45	2006	2007	35
+Bolton Wanderers	Reading FC	0:0	1:3	21.04.2007	16:00	2006	2007	35
+Watford FC	Manchester City	0:0	1:1	21.04.2007	16:00	2006	2007	35
+Charlton Athletic	Sheffield United	0:0	1:1	21.04.2007	16:00	2006	2007	35
+West Ham United	Everton FC	1:0	1:0	21.04.2007	16:00	2006	2007	35
+Fulham FC	Blackburn Rovers	1:0	1:1	21.04.2007	16:00	2006	2007	35
+Liverpool FC	Wigan Athletic	1:0	2:0	21.04.2007	16:00	2006	2007	35
+Manchester United	Middlesbrough FC	1:1	1:1	21.04.2007	18:15	2006	2007	35
+Newcastle United	Chelsea FC	0:0	0:0	22.04.2007	14:30	2006	2007	35
+Aston Villa	Portsmouth FC	0:0	0:0	22.04.2007	17:00	2006	2007	35
+Chelsea FC	Bolton Wanderers	2:1	2:2	28.04.2007	13:45	2006	2007	36
+Everton FC	Manchester United	1:0	2:4	28.04.2007	13:45	2006	2007	36
+Sheffield United	Watford FC	1:0	1:0	28.04.2007	16:00	2006	2007	36
+Manchester City	Aston Villa	0:1	0:2	28.04.2007	16:00	2006	2007	36
+Portsmouth FC	Liverpool FC	2:0	2:1	28.04.2007	16:00	2006	2007	36
+Blackburn Rovers	Charlton Athletic	0:0	4:1	28.04.2007	16:00	2006	2007	36
+Middlesbrough FC	Tottenham Hotspur	0:1	2:3	28.04.2007	16:00	2006	2007	36
+Wigan Athletic	West Ham United	0:1	0:3	28.04.2007	16:00	2006	2007	36
+Arsenal FC	Fulham FC	1:0	3:1	29.04.2007	17:00	2006	2007	36
+Reading FC	Newcastle United	0:0	1:0	30.04.2007	21:00	2006	2007	36
+Manchester City	Manchester United	0:1	0:1	05.05.2007	13:45	2006	2007	37
+Everton FC	Portsmouth FC	0:0	3:0	05.05.2007	16:00	2006	2007	37
+Fulham FC	Liverpool FC	0:0	1:0	05.05.2007	16:00	2006	2007	37
+Newcastle United	Blackburn Rovers	0:1	0:2	05.05.2007	16:00	2006	2007	37
+Reading FC	Watford FC	0:0	0:2	05.05.2007	16:00	2006	2007	37
+West Ham United	Bolton Wanderers	3:0	3:1	05.05.2007	16:00	2006	2007	37
+Wigan Athletic	Middlesbrough FC	0:0	0:1	05.05.2007	16:00	2006	2007	37
+Aston Villa	Sheffield United	2:0	3:0	05.05.2007	18:15	2006	2007	37
+Arsenal FC	Chelsea FC	1:0	1:1	06.05.2007	17:00	2006	2007	37
+Charlton Athletic	Tottenham Hotspur	0:1	0:2	07.05.2007	21:00	2006	2007	37
+Blackburn Rovers	Reading FC	1:1	3:3	13.05.2007	16:00	2006	2007	38
+Bolton Wanderers	Aston Villa	1:1	2:2	13.05.2007	16:00	2006	2007	38
+Chelsea FC	Everton FC	0:0	1:1	13.05.2007	16:00	2006	2007	38
+Liverpool FC	Charlton Athletic	0:1	2:2	13.05.2007	16:00	2006	2007	38
+Manchester United	West Ham United	0:1	0:1	13.05.2007	16:00	2006	2007	38
+Middlesbrough FC	Fulham FC	2:1	3:1	13.05.2007	16:00	2006	2007	38
+Portsmouth FC	Arsenal FC	0:0	0:0	13.05.2007	16:00	2006	2007	38
+Sheffield United	Wigan Athletic	1:2	1:2	13.05.2007	16:00	2006	2007	38
+Tottenham Hotspur	Manchester City	2:1	2:1	13.05.2007	16:00	2006	2007	38
+Watford FC	Newcastle United	0:1	1:1	13.05.2007	16:00	2006	2007	38

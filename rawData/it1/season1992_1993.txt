@@ -1,0 +1,306 @@
+SSC Napoli	Brescia Calcio	0:0	0:0	06.09.1992	00:00	1992	1993	1
+AC Milan	US Foggia	0:0	1:0	06.09.1992	00:00	1992	1993	1
+Torino FC	Ancona Calcio	3:0	4:1	06.09.1992	00:00	1992	1993	1
+Udinese Calcio	Inter	0:0	2:1	06.09.1992	00:00	1992	1993	1
+AS Roma	Pescara Calcio	0:0	0:1	06.09.1992	00:00	1992	1993	1
+Sampdoria	Lazio Roma	2:2	3:3	06.09.1992	00:00	1992	1993	1
+Cagliari Calcio	Juventus	0:0	0:0	06.09.1992	00:00	1992	1993	1
+ACF Fiorentina	Genoa CFC	0:0	1:1	06.09.1992	00:00	1992	1993	1
+Atalanta	Parma AC	1:0	2:1	06.09.1992	00:00	1992	1993	1
+Parma AC	Udinese Calcio	2:0	3:1	13.09.1992	00:00	1992	1993	2
+Pescara Calcio	AC Milan	4:4	4:5	13.09.1992	00:00	1992	1993	2
+Lazio Roma	ACF Fiorentina	2:1	2:2	13.09.1992	00:00	1992	1993	2
+Ancona Calcio	Sampdoria	2:1	2:3	13.09.1992	00:00	1992	1993	2
+Brescia Calcio	Torino FC	0:0	0:0	13.09.1992	00:00	1992	1993	2
+Inter	Cagliari Calcio	2:0	3:1	13.09.1992	00:00	1992	1993	2
+Juventus	Atalanta	2:0	4:1	13.09.1992	00:00	1992	1993	2
+US Foggia	SSC Napoli	2:2	2:4	13.09.1992	00:00	1992	1993	2
+Genoa CFC	AS Roma	0:0	0:0	13.09.1992	00:00	1992	1993	2
+SSC Napoli	Inter	0:0	1:2	20.09.1992	00:00	1992	1993	3
+AC Milan	Atalanta	0:0	2:0	20.09.1992	00:00	1992	1993	3
+Torino FC	Parma AC	1:0	3:0	20.09.1992	00:00	1992	1993	3
+Udinese Calcio	Sampdoria	1:1	1:2	20.09.1992	00:00	1992	1993	3
+AS Roma	US Foggia	2:0	3:1	20.09.1992	00:00	1992	1993	3
+Cagliari Calcio	Lazio Roma	0:0	1:1	20.09.1992	00:00	1992	1993	3
+ACF Fiorentina	Ancona Calcio	3:1	7:1	20.09.1992	00:00	1992	1993	3
+Brescia Calcio	Pescara Calcio	0:0	1:0	20.09.1992	00:00	1992	1993	3
+Genoa CFC	Juventus	1:1	2:2	20.09.1992	00:00	1992	1993	3
+Parma AC	Brescia Calcio	2:0	2:0	27.09.1992	00:00	1992	1993	4
+Pescara Calcio	Torino FC	0:1	2:2	27.09.1992	00:00	1992	1993	4
+Lazio Roma	Genoa CFC	0:0	1:1	27.09.1992	00:00	1992	1993	4
+Ancona Calcio	SSC Napoli	0:1	1:1	27.09.1992	00:00	1992	1993	4
+Atalanta	Cagliari Calcio	0:0	2:1	27.09.1992	00:00	1992	1993	4
+Inter	ACF Fiorentina	0:0	2:2	27.09.1992	00:00	1992	1993	4
+Juventus	AS Roma	1:1	1:1	27.09.1992	00:00	1992	1993	4
+US Foggia	Udinese Calcio	0:0	1:0	27.09.1992	00:00	1992	1993	4
+Sampdoria	AC Milan	1:1	1:2	23.12.1992	00:00	1992	1993	4
+Lazio Roma	Parma AC	4:2	5:2	04.10.1992	00:00	1992	1993	5
+SSC Napoli	Juventus	0:1	2:3	04.10.1992	00:00	1992	1993	5
+Torino FC	Sampdoria	1:1	2:2	04.10.1992	00:00	1992	1993	5
+Udinese Calcio	Pescara Calcio	2:1	5:2	04.10.1992	00:00	1992	1993	5
+Cagliari Calcio	AS Roma	0:0	1:0	04.10.1992	00:00	1992	1993	5
+ACF Fiorentina	AC Milan	1:4	3:7	04.10.1992	00:00	1992	1993	5
+Brescia Calcio	US Foggia	2:0	4:1	04.10.1992	00:00	1992	1993	5
+Inter	Atalanta	0:0	1:0	04.10.1992	00:00	1992	1993	5
+Genoa CFC	Ancona Calcio	3:2	4:4	04.10.1992	00:00	1992	1993	5
+Parma AC	Ancona Calcio	0:0	3:0	18.10.1992	00:00	1992	1993	6
+Pescara Calcio	ACF Fiorentina	0:1	0:2	18.10.1992	00:00	1992	1993	6
+AC Milan	Lazio Roma	3:1	5:3	18.10.1992	00:00	1992	1993	6
+Udinese Calcio	SSC Napoli	1:0	2:0	18.10.1992	00:00	1992	1993	6
+AS Roma	Inter	1:1	4:1	18.10.1992	00:00	1992	1993	6
+Sampdoria	Cagliari Calcio	1:0	2:0	18.10.1992	00:00	1992	1993	6
+Atalanta	Torino FC	0:0	0:0	18.10.1992	00:00	1992	1993	6
+Juventus	Brescia Calcio	0:0	0:0	18.10.1992	00:00	1992	1993	6
+US Foggia	Genoa CFC	1:2	2:2	18.10.1992	00:00	1992	1993	6
+Parma AC	AC Milan	0:0	0:2	25.10.1992	00:00	1992	1993	7
+Lazio Roma	Atalanta	1:0	3:0	25.10.1992	00:00	1992	1993	7
+SSC Napoli	AS Roma	1:0	2:1	25.10.1992	00:00	1992	1993	7
+Torino FC	Udinese Calcio	1:0	1:0	25.10.1992	00:00	1992	1993	7
+ACF Fiorentina	Sampdoria	1:0	4:0	25.10.1992	00:00	1992	1993	7
+Ancona Calcio	US Foggia	2:0	3:0	25.10.1992	00:00	1992	1993	7
+Brescia Calcio	Cagliari Calcio	0:2	0:2	25.10.1992	00:00	1992	1993	7
+Inter	Juventus	2:0	3:1	25.10.1992	00:00	1992	1993	7
+Genoa CFC	Pescara Calcio	3:3	4:3	25.10.1992	00:00	1992	1993	7
+Pescara Calcio	Inter	0:0	1:4	01.11.1992	00:00	1992	1993	8
+AC Milan	Torino FC	0:0	0:0	01.11.1992	00:00	1992	1993	8
+Udinese Calcio	Lazio Roma	0:0	0:0	01.11.1992	00:00	1992	1993	8
+AS Roma	Brescia Calcio	1:3	2:3	01.11.1992	00:00	1992	1993	8
+Sampdoria	Genoa CFC	2:0	4:1	01.11.1992	00:00	1992	1993	8
+Cagliari Calcio	ACF Fiorentina	1:0	2:1	01.11.1992	00:00	1992	1993	8
+Atalanta	SSC Napoli	1:1	3:2	01.11.1992	00:00	1992	1993	8
+Juventus	Ancona Calcio	3:0	5:1	01.11.1992	00:00	1992	1993	8
+US Foggia	Parma AC	0:0	1:0	01.11.1992	00:00	1992	1993	8
+SSC Napoli	AC Milan	0:2	1:5	08.11.1992	00:00	1992	1993	9
+Parma AC	Pescara Calcio	0:0	1:0	08.11.1992	00:00	1992	1993	9
+Lazio Roma	Torino FC	0:0	1:2	08.11.1992	00:00	1992	1993	9
+ACF Fiorentina	AS Roma	2:0	2:1	08.11.1992	00:00	1992	1993	9
+Ancona Calcio	Brescia Calcio	2:1	5:1	08.11.1992	00:00	1992	1993	9
+Atalanta	US Foggia	2:1	2:1	08.11.1992	00:00	1992	1993	9
+Inter	Sampdoria	0:0	0:0	08.11.1992	00:00	1992	1993	9
+Juventus	Udinese Calcio	4:1	5:1	08.11.1992	00:00	1992	1993	9
+Genoa CFC	Cagliari Calcio	2:1	2:3	08.11.1992	00:00	1992	1993	9
+Pescara Calcio	Atalanta	0:0	2:0	22.11.1992	00:00	1992	1993	10
+AC Milan	Inter	1:0	1:1	22.11.1992	00:00	1992	1993	10
+Torino FC	Juventus	0:0	1:2	22.11.1992	00:00	1992	1993	10
+Udinese Calcio	Genoa CFC	0:0	3:0	22.11.1992	00:00	1992	1993	10
+AS Roma	Ancona Calcio	0:1	2:1	22.11.1992	00:00	1992	1993	10
+Sampdoria	SSC Napoli	1:0	3:1	22.11.1992	00:00	1992	1993	10
+Cagliari Calcio	Parma AC	0:0	0:1	22.11.1992	00:00	1992	1993	10
+Brescia Calcio	ACF Fiorentina	0:0	1:1	22.11.1992	00:00	1992	1993	10
+US Foggia	Lazio Roma	2:0	2:1	22.11.1992	00:00	1992	1993	10
+SSC Napoli	ACF Fiorentina	2:1	4:1	29.11.1992	00:00	1992	1993	11
+Parma AC	Sampdoria	0:0	1:0	29.11.1992	00:00	1992	1993	11
+Lazio Roma	AS Roma	0:0	1:1	29.11.1992	00:00	1992	1993	11
+Ancona Calcio	Cagliari Calcio	0:1	0:1	29.11.1992	00:00	1992	1993	11
+Atalanta	Udinese Calcio	2:0	2:0	29.11.1992	00:00	1992	1993	11
+Inter	Brescia Calcio	1:1	2:1	29.11.1992	00:00	1992	1993	11
+Juventus	AC Milan	0:0	0:1	29.11.1992	00:00	1992	1993	11
+US Foggia	Pescara Calcio	0:0	1:0	29.11.1992	00:00	1992	1993	11
+Genoa CFC	Torino FC	1:1	2:1	29.11.1992	00:00	1992	1993	11
+Pescara Calcio	Lazio Roma	0:1	2:3	06.12.1992	00:00	1992	1993	12
+AC Milan	Udinese Calcio	1:1	1:1	06.12.1992	00:00	1992	1993	12
+Torino FC	US Foggia	1:1	1:1	06.12.1992	00:00	1992	1993	12
+AS Roma	Parma AC	0:0	1:0	06.12.1992	00:00	1992	1993	12
+Sampdoria	Atalanta	0:2	2:3	06.12.1992	00:00	1992	1993	12
+Cagliari Calcio	SSC Napoli	0:0	1:0	06.12.1992	00:00	1992	1993	12
+Brescia Calcio	Genoa CFC	0:0	2:2	06.12.1992	00:00	1992	1993	12
+ACF Fiorentina	Juventus	1:0	2:0	06.12.1992	00:00	1992	1993	12
+Ancona Calcio	Inter	1:0	3:0	06.12.1992	00:00	1992	1993	12
+Pescara Calcio	Sampdoria	2:2	2:2	13.12.1992	00:00	1992	1993	13
+Parma AC	ACF Fiorentina	0:0	1:1	13.12.1992	00:00	1992	1993	13
+Lazio Roma	Inter	0:0	3:1	13.12.1992	00:00	1992	1993	13
+AC Milan	Ancona Calcio	1:0	2:0	13.12.1992	00:00	1992	1993	13
+Torino FC	AS Roma	0:0	0:0	13.12.1992	00:00	1992	1993	13
+Udinese Calcio	Cagliari Calcio	0:0	2:1	13.12.1992	00:00	1992	1993	13
+Atalanta	Brescia Calcio	0:0	1:1	13.12.1992	00:00	1992	1993	13
+US Foggia	Juventus	0:0	2:1	13.12.1992	00:00	1992	1993	13
+Genoa CFC	SSC Napoli	1:0	2:1	13.12.1992	00:00	1992	1993	13
+SSC Napoli	Pescara Calcio	1:0	2:0	03.01.1993	00:00	1992	1993	14
+AS Roma	AC Milan	0:1	0:1	03.01.1993	00:00	1992	1993	14
+Sampdoria	US Foggia	2:2	3:3	03.01.1993	00:00	1992	1993	14
+Cagliari Calcio	Torino FC	0:0	0:0	03.01.1993	00:00	1992	1993	14
+Brescia Calcio	Udinese Calcio	1:1	2:1	03.01.1993	00:00	1992	1993	14
+Ancona Calcio	Lazio Roma	0:0	0:3	03.01.1993	00:00	1992	1993	14
+ACF Fiorentina	Atalanta	0:0	0:1	03.01.1993	00:00	1992	1993	14
+Inter	Genoa CFC	1:0	4:0	03.01.1993	00:00	1992	1993	14
+Juventus	Parma AC	0:1	2:2	03.01.1993	00:00	1992	1993	14
+Parma AC	Genoa CFC	0:0	1:0	10.01.1993	00:00	1992	1993	15
+Lazio Roma	Brescia Calcio	1:0	2:0	10.01.1993	00:00	1992	1993	15
+Pescara Calcio	Ancona Calcio	3:2	4:3	10.01.1993	00:00	1992	1993	15
+AC Milan	Cagliari Calcio	0:0	1:0	10.01.1993	00:00	1992	1993	15
+Torino FC	SSC Napoli	0:1	0:1	10.01.1993	00:00	1992	1993	15
+Udinese Calcio	ACF Fiorentina	2:0	4:0	10.01.1993	00:00	1992	1993	15
+Sampdoria	Juventus	1:1	1:1	10.01.1993	00:00	1992	1993	15
+Atalanta	AS Roma	1:0	3:1	10.01.1993	00:00	1992	1993	15
+US Foggia	Inter	0:1	1:3	10.01.1993	00:00	1992	1993	15
+SSC Napoli	Lazio Roma	1:0	3:1	17.01.1993	00:00	1992	1993	16
+AS Roma	Sampdoria	0:0	0:0	17.01.1993	00:00	1992	1993	16
+ACF Fiorentina	Torino FC	0:0	0:0	17.01.1993	00:00	1992	1993	16
+Brescia Calcio	AC Milan	0:1	0:1	17.01.1993	00:00	1992	1993	16
+Cagliari Calcio	US Foggia	1:0	1:1	17.01.1993	00:00	1992	1993	16
+Ancona Calcio	Udinese Calcio	0:0	1:0	17.01.1993	00:00	1992	1993	16
+Inter	Parma AC	0:1	2:1	17.01.1993	00:00	1992	1993	16
+Juventus	Pescara Calcio	1:1	2:1	17.01.1993	00:00	1992	1993	16
+Genoa CFC	Atalanta	0:0	1:0	17.01.1993	00:00	1992	1993	16
+Parma AC	SSC Napoli	0:0	1:1	24.01.1993	00:00	1992	1993	17
+Lazio Roma	Juventus	1:1	1:1	24.01.1993	00:00	1992	1993	17
+AC Milan	Genoa CFC	0:0	1:0	24.01.1993	00:00	1992	1993	17
+Torino FC	Inter	0:0	1:2	24.01.1993	00:00	1992	1993	17
+Udinese Calcio	AS Roma	1:2	1:2	24.01.1993	00:00	1992	1993	17
+Sampdoria	Brescia Calcio	1:0	1:0	24.01.1993	00:00	1992	1993	17
+Pescara Calcio	Cagliari Calcio	0:0	0:1	24.01.1993	00:00	1992	1993	17
+Atalanta	Ancona Calcio	1:0	2:1	24.01.1993	00:00	1992	1993	17
+US Foggia	ACF Fiorentina	0:0	1:0	24.01.1993	00:00	1992	1993	17
+Parma AC	Atalanta	0:0	0:0	31.01.1993	00:00	1992	1993	18
+Lazio Roma	Sampdoria	1:0	2:1	31.01.1993	00:00	1992	1993	18
+Pescara Calcio	AS Roma	0:0	1:1	31.01.1993	00:00	1992	1993	18
+Brescia Calcio	SSC Napoli	0:0	2:1	31.01.1993	00:00	1992	1993	18
+Ancona Calcio	Torino FC	0:0	0:1	31.01.1993	00:00	1992	1993	18
+Inter	Udinese Calcio	2:0	2:2	31.01.1993	00:00	1992	1993	18
+Juventus	Cagliari Calcio	1:0	2:1	31.01.1993	00:00	1992	1993	18
+Genoa CFC	ACF Fiorentina	0:2	2:2	31.01.1993	00:00	1992	1993	18
+US Foggia	AC Milan	1:0	2:2	31.01.1993	00:00	1992	1993	18
+SSC Napoli	US Foggia	2:0	2:0	07.02.1993	00:00	1992	1993	19
+AC Milan	Pescara Calcio	3:0	4:0	07.02.1993	00:00	1992	1993	19
+Torino FC	Brescia Calcio	1:0	1:0	07.02.1993	00:00	1992	1993	19
+Udinese Calcio	Parma AC	0:0	1:0	07.02.1993	00:00	1992	1993	19
+Sampdoria	Ancona Calcio	1:1	3:1	07.02.1993	00:00	1992	1993	19
+AS Roma	Genoa CFC	1:0	3:0	07.02.1993	00:00	1992	1993	19
+Cagliari Calcio	Inter	0:0	0:0	07.02.1993	00:00	1992	1993	19
+ACF Fiorentina	Lazio Roma	0:0	0:2	07.02.1993	00:00	1992	1993	19
+Atalanta	Juventus	1:0	2:1	07.02.1993	00:00	1992	1993	19
+Parma AC	Torino FC	0:1	2:2	14.02.1993	00:00	1992	1993	20
+Lazio Roma	Cagliari Calcio	1:0	1:2	14.02.1993	00:00	1992	1993	20
+Pescara Calcio	Brescia Calcio	2:0	2:0	14.02.1993	00:00	1992	1993	20
+Sampdoria	Udinese Calcio	0:0	2:0	14.02.1993	00:00	1992	1993	20
+Ancona Calcio	ACF Fiorentina	1:0	2:1	14.02.1993	00:00	1992	1993	20
+Atalanta	AC Milan	0:0	1:1	14.02.1993	00:00	1992	1993	20
+Inter	SSC Napoli	0:0	0:0	14.02.1993	00:00	1992	1993	20
+Juventus	Genoa CFC	0:0	1:0	14.02.1993	00:00	1992	1993	20
+US Foggia	AS Roma	0:0	0:0	14.02.1993	00:00	1992	1993	20
+SSC Napoli	Ancona Calcio	0:0	0:0	28.02.1993	00:00	1992	1993	21
+AC Milan	Sampdoria	2:0	4:0	28.02.1993	00:00	1992	1993	21
+Torino FC	Pescara Calcio	2:1	3:1	28.02.1993	00:00	1992	1993	21
+Udinese Calcio	US Foggia	1:1	3:2	28.02.1993	00:00	1992	1993	21
+AS Roma	Juventus	0:1	2:1	28.02.1993	00:00	1992	1993	21
+Brescia Calcio	Parma AC	0:0	0:1	28.02.1993	00:00	1992	1993	21
+Cagliari Calcio	Atalanta	1:0	2:1	28.02.1993	00:00	1992	1993	21
+ACF Fiorentina	Inter	1:1	2:2	28.02.1993	00:00	1992	1993	21
+Genoa CFC	Lazio Roma	2:1	2:3	28.02.1993	00:00	1992	1993	21
+Parma AC	Lazio Roma	1:0	2:1	07.03.1993	00:00	1992	1993	22
+AC Milan	ACF Fiorentina	0:0	2:0	07.03.1993	00:00	1992	1993	22
+Sampdoria	Torino FC	0:0	0:1	07.03.1993	00:00	1992	1993	22
+AS Roma	Cagliari Calcio	1:0	1:1	07.03.1993	00:00	1992	1993	22
+Pescara Calcio	Udinese Calcio	1:2	2:2	07.03.1993	00:00	1992	1993	22
+Ancona Calcio	Genoa CFC	0:0	0:0	07.03.1993	00:00	1992	1993	22
+Atalanta	Inter	0:0	1:1	07.03.1993	00:00	1992	1993	22
+Juventus	SSC Napoli	2:0	4:3	07.03.1993	00:00	1992	1993	22
+US Foggia	Brescia Calcio	0:0	0:0	07.03.1993	00:00	1992	1993	22
+SSC Napoli	Udinese Calcio	1:0	3:0	14.03.1993	00:00	1992	1993	23
+Lazio Roma	AC Milan	1:2	2:2	14.03.1993	00:00	1992	1993	23
+Torino FC	Atalanta	1:0	1:1	14.03.1993	00:00	1992	1993	23
+Brescia Calcio	Juventus	1:0	2:0	14.03.1993	00:00	1992	1993	23
+Cagliari Calcio	Sampdoria	0:1	0:2	14.03.1993	00:00	1992	1993	23
+Ancona Calcio	Parma AC	1:0	1:1	14.03.1993	00:00	1992	1993	23
+Inter	AS Roma	1:0	1:1	14.03.1993	00:00	1992	1993	23
+ACF Fiorentina	Pescara Calcio	0:0	2:0	14.03.1993	00:00	1992	1993	23
+Genoa CFC	US Foggia	0:0	0:0	14.03.1993	00:00	1992	1993	23
+AC Milan	Parma AC	0:0	0:1	21.03.1993	00:00	1992	1993	24
+Udinese Calcio	Torino FC	1:0	1:0	21.03.1993	00:00	1992	1993	24
+Sampdoria	ACF Fiorentina	1:0	2:0	21.03.1993	00:00	1992	1993	24
+Pescara Calcio	Genoa CFC	0:0	1:2	21.03.1993	00:00	1992	1993	24
+AS Roma	SSC Napoli	0:0	1:1	21.03.1993	00:00	1992	1993	24
+Cagliari Calcio	Brescia Calcio	1:0	3:1	21.03.1993	00:00	1992	1993	24
+Atalanta	Lazio Roma	1:1	2:2	21.03.1993	00:00	1992	1993	24
+Juventus	Inter	0:2	0:2	21.03.1993	00:00	1992	1993	24
+US Foggia	Ancona Calcio	1:0	1:0	21.03.1993	00:00	1992	1993	24
+SSC Napoli	Atalanta	1:0	1:0	28.03.1993	00:00	1992	1993	25
+Parma AC	US Foggia	2:0	4:0	28.03.1993	00:00	1992	1993	25
+Lazio Roma	Udinese Calcio	1:0	4:0	28.03.1993	00:00	1992	1993	25
+Torino FC	AC Milan	1:0	1:1	28.03.1993	00:00	1992	1993	25
+Brescia Calcio	AS Roma	0:2	0:2	28.03.1993	00:00	1992	1993	25
+Ancona Calcio	Juventus	0:1	0:1	28.03.1993	00:00	1992	1993	25
+Inter	Pescara Calcio	1:0	2:0	28.03.1993	00:00	1992	1993	25
+Genoa CFC	Sampdoria	0:0	0:0	28.03.1993	00:00	1992	1993	25
+ACF Fiorentina	Cagliari Calcio	0:1	2:1	28.03.1993	00:00	1992	1993	25
+Sampdoria	Inter	0:2	1:3	04.04.1993	00:00	1992	1993	26
+AC Milan	SSC Napoli	0:2	2:2	04.04.1993	00:00	1992	1993	26
+Torino FC	Lazio Roma	0:0	1:1	04.04.1993	00:00	1992	1993	26
+Udinese Calcio	Juventus	0:0	0:0	04.04.1993	00:00	1992	1993	26
+Pescara Calcio	Parma AC	0:0	0:2	04.04.1993	00:00	1992	1993	26
+AS Roma	ACF Fiorentina	1:1	1:1	04.04.1993	00:00	1992	1993	26
+Brescia Calcio	Ancona Calcio	1:0	1:1	04.04.1993	00:00	1992	1993	26
+Cagliari Calcio	Genoa CFC	2:0	3:0	04.04.1993	00:00	1992	1993	26
+US Foggia	Atalanta	0:0	1:0	04.04.1993	00:00	1992	1993	26
+SSC Napoli	Sampdoria	1:1	1:1	10.04.1993	00:00	1992	1993	27
+Parma AC	Cagliari Calcio	2:1	3:1	10.04.1993	00:00	1992	1993	27
+Lazio Roma	US Foggia	1:0	1:1	10.04.1993	00:00	1992	1993	27
+Ancona Calcio	AS Roma	0:0	1:1	10.04.1993	00:00	1992	1993	27
+Atalanta	Pescara Calcio	0:1	2:1	10.04.1993	00:00	1992	1993	27
+Inter	AC Milan	1:0	1:1	10.04.1993	00:00	1992	1993	27
+Juventus	Torino FC	1:1	2:1	10.04.1993	00:00	1992	1993	27
+ACF Fiorentina	Brescia Calcio	1:0	2:2	10.04.1993	00:00	1992	1993	27
+Genoa CFC	Udinese Calcio	1:0	1:0	10.04.1993	00:00	1992	1993	27
+AC Milan	Juventus	1:2	1:3	18.04.1993	00:00	1992	1993	28
+Sampdoria	Parma AC	1:0	2:1	18.04.1993	00:00	1992	1993	28
+Udinese Calcio	Atalanta	1:1	1:2	18.04.1993	00:00	1992	1993	28
+Torino FC	Genoa CFC	0:0	1:1	18.04.1993	00:00	1992	1993	28
+Pescara Calcio	US Foggia	0:2	2:4	18.04.1993	00:00	1992	1993	28
+AS Roma	Lazio Roma	0:0	0:0	18.04.1993	00:00	1992	1993	28
+Brescia Calcio	Inter	0:0	1:3	18.04.1993	00:00	1992	1993	28
+Cagliari Calcio	Ancona Calcio	1:0	3:0	18.04.1993	00:00	1992	1993	28
+ACF Fiorentina	SSC Napoli	0:1	1:1	18.04.1993	00:00	1992	1993	28
+SSC Napoli	Cagliari Calcio	0:0	1:0	25.04.1993	00:00	1992	1993	29
+Parma AC	AS Roma	2:0	3:1	25.04.1993	00:00	1992	1993	29
+Lazio Roma	Pescara Calcio	1:1	2:1	25.04.1993	00:00	1992	1993	29
+Udinese Calcio	AC Milan	0:0	0:0	25.04.1993	00:00	1992	1993	29
+Atalanta	Sampdoria	0:1	1:2	25.04.1993	00:00	1992	1993	29
+Juventus	ACF Fiorentina	0:0	3:0	25.04.1993	00:00	1992	1993	29
+Inter	Ancona Calcio	2:0	3:0	25.04.1993	00:00	1992	1993	29
+Genoa CFC	Brescia Calcio	1:1	1:1	25.04.1993	00:00	1992	1993	29
+US Foggia	Torino FC	0:0	0:0	25.04.1993	00:00	1992	1993	29
+SSC Napoli	Genoa CFC	2:1	2:2	09.05.1993	00:00	1992	1993	30
+Sampdoria	Pescara Calcio	1:1	1:1	09.05.1993	00:00	1992	1993	30
+AS Roma	Torino FC	2:2	4:5	09.05.1993	00:00	1992	1993	30
+Brescia Calcio	Atalanta	0:0	2:0	09.05.1993	00:00	1992	1993	30
+Cagliari Calcio	Udinese Calcio	1:0	1:1	09.05.1993	00:00	1992	1993	30
+Ancona Calcio	AC Milan	0:2	1:3	09.05.1993	00:00	1992	1993	30
+Inter	Lazio Roma	1:0	2:0	09.05.1993	00:00	1992	1993	30
+Juventus	US Foggia	3:0	4:2	09.05.1993	00:00	1992	1993	30
+ACF Fiorentina	Parma AC	0:1	1:1	09.05.1993	00:00	1992	1993	30
+Parma AC	Juventus	0:1	2:1	16.05.1993	00:00	1992	1993	31
+Lazio Roma	Ancona Calcio	1:0	5:0	16.05.1993	00:00	1992	1993	31
+AC Milan	AS Roma	0:0	0:0	16.05.1993	00:00	1992	1993	31
+Torino FC	Cagliari Calcio	0:2	0:5	16.05.1993	00:00	1992	1993	31
+Udinese Calcio	Brescia Calcio	2:1	2:2	16.05.1993	00:00	1992	1993	31
+Pescara Calcio	SSC Napoli	0:0	3:0	16.05.1993	00:00	1992	1993	31
+Atalanta	ACF Fiorentina	1:0	2:1	16.05.1993	00:00	1992	1993	31
+Genoa CFC	Inter	1:0	1:1	16.05.1993	00:00	1992	1993	31
+US Foggia	Sampdoria	1:0	1:0	16.05.1993	00:00	1992	1993	31
+SSC Napoli	Torino FC	0:0	1:1	23.05.1993	00:00	1992	1993	32
+AS Roma	Atalanta	1:2	2:2	23.05.1993	00:00	1992	1993	32
+Brescia Calcio	Lazio Roma	0:0	2:0	23.05.1993	00:00	1992	1993	32
+Cagliari Calcio	AC Milan	1:1	1:1	23.05.1993	00:00	1992	1993	32
+Ancona Calcio	Pescara Calcio	3:2	5:3	23.05.1993	00:00	1992	1993	32
+Inter	US Foggia	1:0	1:1	23.05.1993	00:00	1992	1993	32
+Genoa CFC	Parma AC	0:1	1:1	23.05.1993	00:00	1992	1993	32
+Juventus	Sampdoria	0:1	1:1	23.05.1993	00:00	1992	1993	32
+ACF Fiorentina	Udinese Calcio	1:2	2:2	23.05.1993	00:00	1992	1993	32
+Parma AC	Inter	1:0	2:0	30.05.1993	00:00	1992	1993	33
+Lazio Roma	SSC Napoli	3:1	4:3	30.05.1993	00:00	1992	1993	33
+AC Milan	Brescia Calcio	0:0	1:1	30.05.1993	00:00	1992	1993	33
+Torino FC	ACF Fiorentina	1:0	1:1	30.05.1993	00:00	1992	1993	33
+Sampdoria	AS Roma	1:0	2:2	30.05.1993	00:00	1992	1993	33
+Pescara Calcio	Juventus	1:1	5:1	30.05.1993	00:00	1992	1993	33
+Udinese Calcio	Ancona Calcio	1:0	2:0	30.05.1993	00:00	1992	1993	33
+Atalanta	Genoa CFC	0:1	1:2	30.05.1993	00:00	1992	1993	33
+US Foggia	Cagliari Calcio	0:0	1:1	30.05.1993	00:00	1992	1993	33
+SSC Napoli	Parma AC	1:0	1:1	06.06.1993	00:00	1992	1993	34
+AS Roma	Udinese Calcio	0:0	1:1	06.06.1993	00:00	1992	1993	34
+Brescia Calcio	Sampdoria	1:1	3:1	06.06.1993	00:00	1992	1993	34
+Cagliari Calcio	Pescara Calcio	3:0	4:0	06.06.1993	00:00	1992	1993	34
+Ancona Calcio	Atalanta	0:0	0:2	06.06.1993	00:00	1992	1993	34
+Genoa CFC	AC Milan	1:0	2:2	06.06.1993	00:00	1992	1993	34
+Inter	Torino FC	0:0	3:0	06.06.1993	00:00	1992	1993	34
+ACF Fiorentina	US Foggia	4:0	6:2	06.06.1993	00:00	1992	1993	34
+Juventus	Lazio Roma	3:1	4:1	06.06.1993	00:00	1992	1993	34

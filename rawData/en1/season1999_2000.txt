@@ -1,0 +1,380 @@
+Arsenal FC	Leicester City	0:0	2:1	07.08.1999	15:00	1999	2000	1
+Chelsea FC	Sunderland AFC	2:0	4:0	07.08.1999	15:00	1999	2000	1
+Coventry City	Southampton FC	0:0	0:1	07.08.1999	15:00	1999	2000	1
+Leeds United	Derby County	0:0	0:0	07.08.1999	15:00	1999	2000	1
+Middlesbrough FC	Bradford City	0:0	0:1	07.08.1999	15:00	1999	2000	1
+Newcastle United	Aston Villa	0:0	0:1	07.08.1999	15:00	1999	2000	1
+Sheffield Wednesday	Liverpool FC	0:0	1:2	07.08.1999	15:00	1999	2000	1
+Watford FC	Wimbledon FC	1:2	2:3	07.08.1999	15:00	1999	2000	1
+West Ham United	Tottenham Hotspur	1:0	1:0	07.08.1999	15:00	1999	2000	1
+Everton FC	Manchester United	0:1	1:1	08.08.1999	16:00	1999	2000	1
+Tottenham Hotspur	Newcastle United	2:1	3:1	09.08.1999	20:15	1999	2000	2
+Wimbledon FC	Middlesbrough FC	1:2	2:3	10.08.1999	19:45	1999	2000	2
+Sunderland AFC	Watford FC	0:0	2:0	10.08.1999	19:45	1999	2000	2
+Derby County	Arsenal FC	1:1	1:2	10.08.1999	20:00	1999	2000	2
+Leicester City	Coventry City	1:0	1:0	11.08.1999	19:45	1999	2000	2
+Manchester United	Sheffield Wednesday	2:0	4:0	11.08.1999	19:45	1999	2000	2
+Southampton FC	Leeds United	0:1	0:3	11.08.1999	19:45	1999	2000	2
+Aston Villa	Everton FC	1:0	3:0	11.08.1999	20:00	1999	2000	2
+Liverpool FC	West Ham United	1:0	1:0	27.10.1999	20:00	1999	2000	2
+Bradford City	Chelsea FC	1:0	1:1	08.01.2000	19:45	1999	2000	2
+Bradford City	Sheffield Wednesday	0:1	1:1	14.08.1999	15:00	1999	2000	3
+Derby County	Middlesbrough FC	1:2	1:3	14.08.1999	15:00	1999	2000	3
+Leicester City	Chelsea FC	1:0	2:2	14.08.1999	15:00	1999	2000	3
+Liverpool FC	Watford FC	0:1	0:1	14.08.1999	15:00	1999	2000	3
+Manchester United	Leeds United	0:0	2:0	14.08.1999	15:00	1999	2000	3
+Sunderland AFC	Arsenal FC	0:0	0:0	14.08.1999	15:00	1999	2000	3
+Tottenham Hotspur	Everton FC	1:1	3:2	14.08.1999	15:00	1999	2000	3
+Wimbledon FC	Coventry City	0:0	1:1	14.08.1999	15:00	1999	2000	3
+Southampton FC	Newcastle United	0:1	4:2	15.08.1999	16:00	1999	2000	3
+Aston Villa	West Ham United	1:1	2:2	16.08.1999	20:00	1999	2000	3
+Chelsea FC	Aston Villa	0:0	1:0	21.08.1999	15:00	1999	2000	4
+Coventry City	Derby County	1:0	2:0	21.08.1999	15:00	1999	2000	4
+Everton FC	Southampton FC	1:0	4:1	21.08.1999	15:00	1999	2000	4
+Leeds United	Sunderland AFC	0:1	2:1	21.08.1999	15:00	1999	2000	4
+Middlesbrough FC	Liverpool FC	0:0	1:0	21.08.1999	15:00	1999	2000	4
+Newcastle United	Wimbledon FC	2:1	3:3	21.08.1999	15:00	1999	2000	4
+Sheffield Wednesday	Tottenham Hotspur	1:2	1:2	21.08.1999	15:00	1999	2000	4
+Watford FC	Bradford City	0:0	1:0	21.08.1999	15:00	1999	2000	4
+West Ham United	Leicester City	1:1	2:1	21.08.1999	15:00	1999	2000	4
+Arsenal FC	Manchester United	1:0	1:2	22.08.1999	16:00	1999	2000	4
+Leeds United	Liverpool FC	1:1	1:2	23.08.1999	20:00	1999	2000	5
+Middlesbrough FC	Leicester City	0:2	0:3	24.08.1999	20:00	1999	2000	5
+Watford FC	Aston Villa	0:0	0:1	24.08.1999	20:00	1999	2000	5
+Coventry City	Manchester United	0:0	1:2	25.08.1999	19:45	1999	2000	5
+Everton FC	Wimbledon FC	1:0	4:0	25.08.1999	19:45	1999	2000	5
+Newcastle United	Sunderland AFC	1:0	1:2	25.08.1999	19:45	1999	2000	5
+Sheffield Wednesday	Derby County	0:0	0:2	25.08.1999	19:45	1999	2000	5
+Arsenal FC	Bradford City	2:0	2:0	25.08.1999	20:00	1999	2000	5
+Chelsea FC	Tottenham Hotspur	0:0	1:0	12.01.2000	20:00	1999	2000	5
+West Ham United	Southampton FC	1:0	2:0	08.03.2000	20:00	1999	2000	5
+Aston Villa	Middlesbrough FC	1:0	1:0	28.08.1999	15:00	1999	2000	6
+Bradford City	West Ham United	0:2	0:3	28.08.1999	15:00	1999	2000	6
+Derby County	Everton FC	0:0	1:0	28.08.1999	15:00	1999	2000	6
+Liverpool FC	Arsenal FC	1:0	2:0	28.08.1999	15:00	1999	2000	6
+Southampton FC	Sheffield Wednesday	0:0	2:0	28.08.1999	15:00	1999	2000	6
+Tottenham Hotspur	Leeds United	1:0	1:2	28.08.1999	15:00	1999	2000	6
+Wimbledon FC	Chelsea FC	0:0	0:1	28.08.1999	15:00	1999	2000	6
+Sunderland AFC	Coventry City	0:1	1:1	29.08.1999	16:00	1999	2000	6
+Manchester United	Newcastle United	1:1	5:1	30.08.1999	17:15	1999	2000	6
+Leicester City	Watford FC	1:0	1:0	30.08.1999	20:00	1999	2000	6
+Chelsea FC	Newcastle United	1:0	1:0	11.09.1999	15:00	1999	2000	7
+Coventry City	Leeds United	2:3	3:4	11.09.1999	15:00	1999	2000	7
+Liverpool FC	Manchester United	1:3	2:3	11.09.1999	15:00	1999	2000	7
+Middlesbrough FC	Southampton FC	1:1	3:2	11.09.1999	15:00	1999	2000	7
+Sheffield Wednesday	Everton FC	0:2	0:2	11.09.1999	15:00	1999	2000	7
+Sunderland AFC	Leicester City	1:0	2:0	11.09.1999	15:00	1999	2000	7
+West Ham United	Watford FC	0:0	1:0	11.09.1999	15:00	1999	2000	7
+Wimbledon FC	Derby County	0:1	2:2	11.09.1999	15:00	1999	2000	7
+Arsenal FC	Aston Villa	1:1	3:1	11.09.1999	17:15	1999	2000	7
+Bradford City	Tottenham Hotspur	0:0	1:1	12.09.1999	16:00	1999	2000	7
+Aston Villa	Bradford City	0:0	1:0	18.09.1999	15:00	1999	2000	8
+Derby County	Sunderland AFC	0:2	0:5	18.09.1999	15:00	1999	2000	8
+Leicester City	Liverpool FC	1:2	2:2	18.09.1999	15:00	1999	2000	8
+Manchester United	Wimbledon FC	0:1	1:1	18.09.1999	15:00	1999	2000	8
+Southampton FC	Arsenal FC	0:0	0:1	18.09.1999	15:00	1999	2000	8
+Watford FC	Chelsea FC	0:0	1:0	18.09.1999	15:00	1999	2000	8
+Tottenham Hotspur	Coventry City	1:0	3:2	19.09.1999	14:00	1999	2000	8
+Newcastle United	Sheffield Wednesday	4:0	8:0	19.09.1999	15:00	1999	2000	8
+Everton FC	West Ham United	0:0	1:0	19.09.1999	16:00	1999	2000	8
+Leeds United	Middlesbrough FC	1:0	2:0	19.09.1999	16:00	1999	2000	8
+Arsenal FC	Watford FC	0:0	1:0	25.09.1999	15:00	1999	2000	9
+Coventry City	West Ham United	1:0	1:0	25.09.1999	15:00	1999	2000	9
+Derby County	Bradford City	0:0	0:1	25.09.1999	15:00	1999	2000	9
+Leeds United	Newcastle United	2:1	3:2	25.09.1999	15:00	1999	2000	9
+Leicester City	Aston Villa	1:0	3:1	25.09.1999	15:00	1999	2000	9
+Manchester United	Southampton FC	2:1	3:3	25.09.1999	15:00	1999	2000	9
+Middlesbrough FC	Chelsea FC	0:0	0:1	25.09.1999	15:00	1999	2000	9
+Sunderland AFC	Sheffield Wednesday	0:0	1:0	25.09.1999	15:00	1999	2000	9
+Wimbledon FC	Tottenham Hotspur	0:0	1:1	26.09.1999	16:00	1999	2000	9
+Liverpool FC	Everton FC	0:1	0:1	27.09.1999	20:00	1999	2000	9
+Aston Villa	Liverpool FC	0:0	0:0	02.10.1999	15:00	1999	2000	10
+Bradford City	Sunderland AFC	0:1	0:4	02.10.1999	15:00	1999	2000	10
+Everton FC	Coventry City	1:1	1:1	02.10.1999	15:00	1999	2000	10
+Sheffield Wednesday	Wimbledon FC	2:1	5:1	02.10.1999	15:00	1999	2000	10
+Tottenham Hotspur	Leicester City	2:1	2:3	03.10.1999	14:00	1999	2000	10
+Watford FC	Leeds United	1:1	1:2	03.10.1999	14:00	1999	2000	10
+West Ham United	Arsenal FC	1:0	2:1	03.10.1999	14:00	1999	2000	10
+Newcastle United	Middlesbrough FC	2:0	2:1	03.10.1999	15:00	1999	2000	10
+Chelsea FC	Manchester United	2:0	5:0	03.10.1999	16:00	1999	2000	10
+Southampton FC	Derby County	2:1	3:3	04.10.1999	20:00	1999	2000	10
+Arsenal FC	Everton FC	1:1	4:1	16.10.1999	15:00	1999	2000	11
+Coventry City	Newcastle United	3:0	4:1	16.10.1999	15:00	1999	2000	11
+Derby County	Tottenham Hotspur	0:1	0:1	16.10.1999	15:00	1999	2000	11
+Leeds United	Sheffield Wednesday	0:0	2:0	16.10.1999	15:00	1999	2000	11
+Leicester City	Southampton FC	2:0	2:1	16.10.1999	15:00	1999	2000	11
+Liverpool FC	Chelsea FC	0:0	1:0	16.10.1999	15:00	1999	2000	11
+Manchester United	Watford FC	3:0	4:1	16.10.1999	15:00	1999	2000	11
+Wimbledon FC	Bradford City	2:1	3:2	16.10.1999	15:00	1999	2000	11
+Middlesbrough FC	West Ham United	0:0	2:0	17.10.1999	16:00	1999	2000	11
+Sunderland AFC	Aston Villa	0:0	2:1	18.10.1999	20:00	1999	2000	11
+Aston Villa	Wimbledon FC	1:1	1:1	23.10.1999	15:00	1999	2000	12
+Bradford City	Leicester City	2:1	3:1	23.10.1999	15:00	1999	2000	12
+Chelsea FC	Arsenal FC	1:0	2:3	23.10.1999	15:00	1999	2000	12
+Sheffield Wednesday	Coventry City	0:0	0:0	23.10.1999	15:00	1999	2000	12
+Southampton FC	Liverpool FC	1:0	1:1	23.10.1999	15:00	1999	2000	12
+Tottenham Hotspur	Manchester United	2:1	3:1	23.10.1999	15:00	1999	2000	12
+Watford FC	Middlesbrough FC	0:2	1:3	24.10.1999	15:00	1999	2000	12
+West Ham United	Sunderland AFC	0:1	1:1	24.10.1999	15:00	1999	2000	12
+Everton FC	Leeds United	3:2	4:4	24.10.1999	16:00	1999	2000	12
+Newcastle United	Derby County	1:0	2:0	25.10.1999	20:00	1999	2000	12
+Derby County	Chelsea FC	1:1	3:1	30.10.1999	15:00	1999	2000	13
+Leeds United	West Ham United	0:0	1:0	30.10.1999	15:00	1999	2000	13
+Leicester City	Sheffield Wednesday	2:0	3:0	30.10.1999	15:00	1999	2000	13
+Arsenal FC	Newcastle United	0:0	0:0	30.10.1999	15:00	1999	2000	13
+Manchester United	Aston Villa	2:0	3:0	30.10.1999	15:00	1999	2000	13
+Middlesbrough FC	Everton FC	1:1	2:1	30.10.1999	15:00	1999	2000	13
+Wimbledon FC	Southampton FC	0:0	1:1	30.10.1999	15:00	1999	2000	13
+Sunderland AFC	Tottenham Hotspur	2:0	2:1	31.10.1999	15:00	1999	2000	13
+Coventry City	Watford FC	2:0	4:0	31.10.1999	16:00	1999	2000	13
+Liverpool FC	Bradford City	2:1	3:1	01.11.1999	20:00	1999	2000	13
+Liverpool FC	Derby County	0:0	2:0	06.11.1999	15:00	1999	2000	14
+Manchester United	Leicester City	1:0	2:0	06.11.1999	15:00	1999	2000	14
+Middlesbrough FC	Sunderland AFC	0:0	1:1	06.11.1999	15:00	1999	2000	14
+Aston Villa	Southampton FC	0:0	0:1	06.11.1999	15:00	1999	2000	14
+Bradford City	Coventry City	1:1	1:1	06.11.1999	15:00	1999	2000	14
+Sheffield Wednesday	Watford FC	0:1	2:2	06.11.1999	15:00	1999	2000	14
+Tottenham Hotspur	Arsenal FC	2:1	2:1	07.11.1999	15:00	1999	2000	14
+Wimbledon FC	Leeds United	1:0	2:0	07.11.1999	15:00	1999	2000	14
+Chelsea FC	West Ham United	0:0	0:0	07.11.1999	16:00	1999	2000	14
+Newcastle United	Everton FC	0:0	1:1	07.11.1999	16:00	1999	2000	14
+Derby County	Manchester United	0:0	1:2	20.11.1999	15:00	1999	2000	15
+Everton FC	Chelsea FC	1:0	1:1	20.11.1999	15:00	1999	2000	15
+Leeds United	Bradford City	0:0	2:1	20.11.1999	15:00	1999	2000	15
+Leicester City	Wimbledon FC	1:1	2:1	20.11.1999	15:00	1999	2000	15
+Southampton FC	Tottenham Hotspur	0:0	0:1	20.11.1999	15:00	1999	2000	15
+Sunderland AFC	Liverpool FC	0:0	0:2	20.11.1999	15:00	1999	2000	15
+Watford FC	Newcastle United	0:0	1:1	20.11.1999	15:00	1999	2000	15
+Arsenal FC	Middlesbrough FC	2:0	5:1	20.11.1999	17:15	1999	2000	15
+West Ham United	Sheffield Wednesday	1:1	4:3	21.11.1999	16:00	1999	2000	15
+Coventry City	Aston Villa	1:1	2:1	22.11.1999	20:00	1999	2000	15
+Coventry City	Leicester City	0:0	0:1	27.11.1999	15:00	1999	2000	16
+Everton FC	Aston Villa	0:0	0:0	27.11.1999	15:00	1999	2000	16
+Middlesbrough FC	Wimbledon FC	0:0	0:0	27.11.1999	15:00	1999	2000	16
+Watford FC	Sunderland AFC	1:2	2:3	27.11.1999	15:00	1999	2000	16
+West Ham United	Liverpool FC	1:0	1:0	27.11.1999	15:00	1999	2000	16
+Newcastle United	Tottenham Hotspur	1:1	2:1	28.11.1999	14:00	1999	2000	16
+Leeds United	Southampton FC	0:0	1:0	28.11.1999	15:00	1999	2000	16
+Arsenal FC	Derby County	1:1	2:1	28.11.1999	16:00	1999	2000	16
+Chelsea FC	Bradford City	1:0	1:0	28.11.1999	16:00	1999	2000	16
+Sheffield Wednesday	Manchester United	0:0	0:1	02.02.2000	20:00	1999	2000	16
+Aston Villa	Newcastle United	0:0	0:1	04.12.1999	15:00	1999	2000	17
+Bradford City	Middlesbrough FC	0:1	1:1	04.12.1999	15:00	1999	2000	17
+Leicester City	Arsenal FC	0:1	0:3	04.12.1999	15:00	1999	2000	17
+Manchester United	Everton FC	3:1	5:1	04.12.1999	15:00	1999	2000	17
+Southampton FC	Coventry City	0:0	0:0	04.12.1999	15:00	1999	2000	17
+Sunderland AFC	Chelsea FC	4:0	4:1	04.12.1999	15:00	1999	2000	17
+Wimbledon FC	Watford FC	2:0	5:0	04.12.1999	15:00	1999	2000	17
+Liverpool FC	Sheffield Wednesday	2:1	4:1	05.12.1999	14:00	1999	2000	17
+Derby County	Leeds United	0:0	0:1	05.12.1999	16:00	1999	2000	17
+Tottenham Hotspur	West Ham United	0:0	0:0	06.12.1999	20:00	1999	2000	17
+Leicester City	Derby County	0:0	0:1	18.12.1999	15:00	1999	2000	18
+Liverpool FC	Coventry City	1:0	2:0	18.12.1999	15:00	1999	2000	18
+Middlesbrough FC	Tottenham Hotspur	1:1	2:1	18.12.1999	15:00	1999	2000	18
+Sunderland AFC	Southampton FC	1:0	2:0	18.12.1999	15:00	1999	2000	18
+Watford FC	Everton FC	0:2	1:3	18.12.1999	15:00	1999	2000	18
+West Ham United	Manchester United	1:3	2:4	18.12.1999	15:00	1999	2000	18
+Arsenal FC	Wimbledon FC	0:1	1:1	18.12.1999	15:00	1999	2000	18
+Aston Villa	Sheffield Wednesday	0:1	2:1	18.12.1999	15:00	1999	2000	18
+Bradford City	Newcastle United	0:0	2:0	18.12.1999	15:00	1999	2000	18
+Chelsea FC	Leeds United	0:0	0:2	19.12.1999	16:00	1999	2000	18
+Coventry City	Arsenal FC	2:0	3:2	26.12.1999	15:00	1999	2000	19
+Derby County	Aston Villa	0:0	0:2	26.12.1999	15:00	1999	2000	19
+Everton FC	Sunderland AFC	3:0	5:0	26.12.1999	15:00	1999	2000	19
+Leeds United	Leicester City	2:1	2:1	26.12.1999	15:00	1999	2000	19
+Manchester United	Bradford City	0:0	4:0	26.12.1999	15:00	1999	2000	19
+Newcastle United	Liverpool FC	1:1	2:2	26.12.1999	15:00	1999	2000	19
+Sheffield Wednesday	Middlesbrough FC	1:0	1:0	26.12.1999	15:00	1999	2000	19
+Southampton FC	Chelsea FC	0:2	1:2	26.12.1999	15:00	1999	2000	19
+Tottenham Hotspur	Watford FC	2:0	4:0	26.12.1999	15:00	1999	2000	19
+Wimbledon FC	West Ham United	1:1	2:2	26.12.1999	15:00	1999	2000	19
+Arsenal FC	Leeds United	1:0	2:0	28.12.1999	15:00	1999	2000	20
+Bradford City	Everton FC	0:0	0:0	28.12.1999	15:00	1999	2000	20
+Leicester City	Newcastle United	0:1	1:2	28.12.1999	15:00	1999	2000	20
+Liverpool FC	Wimbledon FC	0:0	3:1	28.12.1999	15:00	1999	2000	20
+Sunderland AFC	Manchester United	2:1	2:2	28.12.1999	15:00	1999	2000	20
+Watford FC	Southampton FC	2:0	3:2	28.12.1999	15:00	1999	2000	20
+West Ham United	Derby County	1:1	1:1	28.12.1999	15:00	1999	2000	20
+Aston Villa	Tottenham Hotspur	0:1	1:1	29.12.1999	20:00	1999	2000	20
+Chelsea FC	Sheffield Wednesday	2:0	3:0	29.12.1999	20:00	1999	2000	20
+Middlesbrough FC	Coventry City	2:0	2:0	19.02.2000	17:15	1999	2000	20
+Derby County	Watford FC	1:0	2:0	03.01.2000	20:00	1999	2000	21
+Everton FC	Leicester City	1:2	2:2	03.01.2000	20:00	1999	2000	21
+Leeds United	Aston Villa	0:1	1:2	03.01.2000	20:00	1999	2000	21
+Newcastle United	West Ham United	1:0	2:2	03.01.2000	20:00	1999	2000	21
+Sheffield Wednesday	Arsenal FC	0:1	1:1	03.01.2000	20:00	1999	2000	21
+Southampton FC	Bradford City	0:0	1:0	03.01.2000	20:00	1999	2000	21
+Tottenham Hotspur	Liverpool FC	1:0	1:0	03.01.2000	20:00	1999	2000	21
+Wimbledon FC	Sunderland AFC	1:0	1:0	03.01.2000	20:00	1999	2000	21
+Coventry City	Chelsea FC	0:0	2:2	04.01.2000	19:45	1999	2000	21
+Manchester United	Middlesbrough FC	0:0	1:0	29.01.2000	17:15	1999	2000	21
+Arsenal FC	Sunderland AFC	3:0	4:1	15.01.2000	15:00	1999	2000	22
+Chelsea FC	Leicester City	0:1	1:1	15.01.2000	15:00	1999	2000	22
+Coventry City	Wimbledon FC	0:0	2:0	15.01.2000	15:00	1999	2000	22
+Everton FC	Tottenham Hotspur	1:2	2:2	15.01.2000	15:00	1999	2000	22
+Middlesbrough FC	Derby County	0:1	1:4	15.01.2000	15:00	1999	2000	22
+Sheffield Wednesday	Bradford City	0:0	2:0	15.01.2000	15:00	1999	2000	22
+Watford FC	Liverpool FC	1:2	2:3	15.01.2000	15:00	1999	2000	22
+West Ham United	Aston Villa	0:1	1:1	15.01.2000	15:00	1999	2000	22
+Newcastle United	Southampton FC	4:0	5:0	16.01.2000	16:00	1999	2000	22
+Leeds United	Manchester United	0:0	0:1	20.02.2000	16:00	1999	2000	22
+Aston Villa	Chelsea FC	0:0	0:0	22.01.2000	15:00	1999	2000	23
+Bradford City	Watford FC	2:1	3:2	22.01.2000	15:00	1999	2000	23
+Derby County	Coventry City	0:0	0:0	22.01.2000	15:00	1999	2000	23
+Leicester City	West Ham United	1:2	1:3	22.01.2000	15:00	1999	2000	23
+Liverpool FC	Middlesbrough FC	0:0	0:0	22.01.2000	15:00	1999	2000	23
+Southampton FC	Everton FC	0:0	2:0	22.01.2000	15:00	1999	2000	23
+Tottenham Hotspur	Sheffield Wednesday	0:1	0:1	22.01.2000	15:00	1999	2000	23
+Wimbledon FC	Newcastle United	0:0	2:0	22.01.2000	15:00	1999	2000	23
+Sunderland AFC	Leeds United	0:1	1:2	23.01.2000	16:00	1999	2000	23
+Manchester United	Arsenal FC	0:1	1:1	24.01.2000	20:00	1999	2000	23
+Aston Villa	Watford FC	0:0	4:0	05.02.2000	15:00	1999	2000	24
+Bradford City	Arsenal FC	1:1	2:1	05.02.2000	15:00	1999	2000	24
+Derby County	Sheffield Wednesday	0:1	3:3	05.02.2000	15:00	1999	2000	24
+Leicester City	Middlesbrough FC	2:0	2:1	05.02.2000	15:00	1999	2000	24
+Liverpool FC	Leeds United	1:0	3:1	05.02.2000	15:00	1999	2000	24
+Manchester United	Coventry City	1:0	3:2	05.02.2000	15:00	1999	2000	24
+Southampton FC	West Ham United	0:0	2:1	05.02.2000	15:00	1999	2000	24
+Sunderland AFC	Newcastle United	1:2	2:2	05.02.2000	15:00	1999	2000	24
+Tottenham Hotspur	Chelsea FC	0:0	0:1	05.02.2000	15:00	1999	2000	24
+Wimbledon FC	Everton FC	0:0	0:3	06.02.2000	15:00	1999	2000	24
+Chelsea FC	Wimbledon FC	0:0	3:1	12.02.2000	15:00	1999	2000	25
+Coventry City	Sunderland AFC	3:0	3:2	12.02.2000	15:00	1999	2000	25
+Everton FC	Derby County	2:0	2:1	12.02.2000	15:00	1999	2000	25
+Leeds United	Tottenham Hotspur	1:0	1:0	12.02.2000	15:00	1999	2000	25
+Newcastle United	Manchester United	1:0	3:0	12.02.2000	15:00	1999	2000	25
+Sheffield Wednesday	Southampton FC	0:1	0:1	12.02.2000	15:00	1999	2000	25
+Watford FC	Leicester City	0:1	1:1	12.02.2000	15:00	1999	2000	25
+West Ham United	Bradford City	2:2	5:4	12.02.2000	15:00	1999	2000	25
+Arsenal FC	Liverpool FC	0:1	0:1	13.02.2000	16:00	1999	2000	25
+Middlesbrough FC	Aston Villa	0:1	0:4	14.02.2000	20:00	1999	2000	25
+Arsenal FC	Southampton FC	2:0	3:1	26.02.2000	15:00	1999	2000	26
+Bradford City	Aston Villa	0:1	1:1	26.02.2000	15:00	1999	2000	26
+Chelsea FC	Watford FC	1:1	2:1	26.02.2000	15:00	1999	2000	26
+Coventry City	Tottenham Hotspur	0:0	0:1	26.02.2000	15:00	1999	2000	26
+Middlesbrough FC	Leeds United	0:0	0:0	26.02.2000	15:00	1999	2000	26
+Sheffield Wednesday	Newcastle United	0:1	0:2	26.02.2000	15:00	1999	2000	26
+Sunderland AFC	Derby County	0:0	1:1	26.02.2000	15:00	1999	2000	26
+West Ham United	Everton FC	0:1	0:4	26.02.2000	15:00	1999	2000	26
+Wimbledon FC	Manchester United	1:1	2:2	26.02.2000	15:00	1999	2000	26
+Liverpool FC	Leicester City	0:1	0:2	03.05.2000	19:45	1999	2000	26
+Manchester United	Liverpool FC	1:1	1:1	04.03.2000	12:30	1999	2000	27
+Derby County	Wimbledon FC	0:0	4:0	04.03.2000	15:00	1999	2000	27
+Newcastle United	Chelsea FC	0:1	0:1	04.03.2000	15:00	1999	2000	27
+Southampton FC	Middlesbrough FC	1:1	1:1	04.03.2000	15:00	1999	2000	27
+Tottenham Hotspur	Bradford City	1:1	1:1	04.03.2000	15:00	1999	2000	27
+Watford FC	West Ham United	0:2	1:2	04.03.2000	15:00	1999	2000	27
+Everton FC	Sheffield Wednesday	1:0	1:1	04.03.2000	17:15	1999	2000	27
+Leeds United	Coventry City	2:0	3:0	05.03.2000	15:00	1999	2000	27
+Leicester City	Sunderland AFC	2:0	5:2	05.03.2000	15:00	1999	2000	27
+Aston Villa	Arsenal FC	0:0	1:1	05.03.2000	16:00	1999	2000	27
+Aston Villa	Coventry City	1:0	1:0	11.03.2000	15:00	1999	2000	28
+Chelsea FC	Everton FC	1:0	1:1	11.03.2000	15:00	1999	2000	28
+Liverpool FC	Sunderland AFC	1:0	1:1	11.03.2000	15:00	1999	2000	28
+Manchester United	Derby County	1:0	3:1	11.03.2000	15:00	1999	2000	28
+Newcastle United	Watford FC	0:0	1:0	11.03.2000	15:00	1999	2000	28
+Sheffield Wednesday	West Ham United	0:1	3:1	11.03.2000	15:00	1999	2000	28
+Tottenham Hotspur	Southampton FC	4:2	7:2	11.03.2000	15:00	1999	2000	28
+Wimbledon FC	Leicester City	1:0	2:1	11.03.2000	15:00	1999	2000	28
+Middlesbrough FC	Arsenal FC	0:0	2:1	12.03.2000	15:00	1999	2000	28
+Bradford City	Leeds United	0:1	1:2	12.03.2000	16:00	1999	2000	28
+Coventry City	Bradford City	2:0	4:0	18.03.2000	16:00	1999	2000	29
+Derby County	Liverpool FC	0:1	0:2	18.03.2000	16:00	1999	2000	29
+Leicester City	Manchester United	0:1	0:2	18.03.2000	16:00	1999	2000	29
+Southampton FC	Aston Villa	1:0	2:0	18.03.2000	16:00	1999	2000	29
+Sunderland AFC	Middlesbrough FC	0:0	1:1	18.03.2000	16:00	1999	2000	29
+Watford FC	Sheffield Wednesday	0:0	1:0	18.03.2000	16:00	1999	2000	29
+West Ham United	Chelsea FC	0:0	0:0	18.03.2000	16:00	1999	2000	29
+Arsenal FC	Tottenham Hotspur	2:1	2:1	19.03.2000	16:00	1999	2000	29
+Leeds United	Wimbledon FC	3:1	4:1	19.03.2000	16:00	1999	2000	29
+Everton FC	Newcastle United	0:0	0:2	19.03.2000	17:00	1999	2000	29
+Aston Villa	Derby County	1:0	2:0	25.03.2000	16:00	1999	2000	30
+Bradford City	Manchester United	0:2	0:4	25.03.2000	16:00	1999	2000	30
+Chelsea FC	Southampton FC	0:0	1:1	25.03.2000	16:00	1999	2000	30
+Liverpool FC	Newcastle United	0:0	2:1	25.03.2000	16:00	1999	2000	30
+Middlesbrough FC	Sheffield Wednesday	1:0	1:0	25.03.2000	16:00	1999	2000	30
+Sunderland AFC	Everton FC	1:1	2:1	25.03.2000	16:00	1999	2000	30
+Watford FC	Tottenham Hotspur	0:0	1:1	25.03.2000	16:00	1999	2000	30
+Leicester City	Leeds United	1:1	2:1	26.03.2000	16:00	1999	2000	30
+West Ham United	Wimbledon FC	1:0	2:1	26.03.2000	17:00	1999	2000	30
+Arsenal FC	Coventry City	0:0	3:0	26.03.2000	17:00	1999	2000	30
+Everton FC	Watford FC	3:1	4:2	01.04.2000	16:00	1999	2000	31
+Leeds United	Chelsea FC	0:0	0:1	01.04.2000	16:00	1999	2000	31
+Manchester United	West Ham United	3:1	7:1	01.04.2000	16:00	1999	2000	31
+Newcastle United	Bradford City	1:0	2:0	01.04.2000	16:00	1999	2000	31
+Coventry City	Liverpool FC	0:2	0:3	01.04.2000	16:00	1999	2000	31
+Southampton FC	Sunderland AFC	0:1	1:2	01.04.2000	16:00	1999	2000	31
+Wimbledon FC	Arsenal FC	1:2	1:3	01.04.2000	16:00	1999	2000	31
+Derby County	Leicester City	3:0	3:0	02.04.2000	14:00	1999	2000	31
+Tottenham Hotspur	Middlesbrough FC	1:1	2:3	03.04.2000	21:00	1999	2000	31
+Sheffield Wednesday	Aston Villa	0:0	0:1	05.04.2000	20:45	1999	2000	31
+Bradford City	Southampton FC	0:0	1:2	08.04.2000	16:00	1999	2000	32
+Sunderland AFC	Wimbledon FC	0:0	2:1	08.04.2000	16:00	1999	2000	32
+Watford FC	Derby County	0:0	0:0	08.04.2000	16:00	1999	2000	32
+Leicester City	Everton FC	1:1	1:1	08.04.2000	16:00	1999	2000	32
+Liverpool FC	Tottenham Hotspur	1:0	2:0	09.04.2000	16:00	1999	2000	32
+Aston Villa	Leeds United	1:0	1:0	09.04.2000	16:00	1999	2000	32
+Middlesbrough FC	Manchester United	1:0	3:4	10.04.2000	21:00	1999	2000	32
+West Ham United	Newcastle United	0:0	2:1	12.04.2000	20:45	1999	2000	32
+Chelsea FC	Coventry City	0:1	2:1	12.04.2000	20:45	1999	2000	32
+Arsenal FC	Sheffield Wednesday	1:0	3:3	09.05.2000	20:45	1999	2000	32
+Coventry City	Middlesbrough FC	1:0	2:1	15.04.2000	16:00	1999	2000	33
+Derby County	West Ham United	0:2	1:2	15.04.2000	16:00	1999	2000	33
+Everton FC	Bradford City	2:0	4:0	15.04.2000	16:00	1999	2000	33
+Manchester United	Sunderland AFC	1:0	4:0	15.04.2000	16:00	1999	2000	33
+Newcastle United	Leicester City	0:1	0:2	15.04.2000	16:00	1999	2000	33
+Sheffield Wednesday	Chelsea FC	0:0	1:0	15.04.2000	16:00	1999	2000	33
+Southampton FC	Watford FC	1:0	2:0	15.04.2000	16:00	1999	2000	33
+Tottenham Hotspur	Aston Villa	1:0	2:4	15.04.2000	16:00	1999	2000	33
+Wimbledon FC	Liverpool FC	0:1	1:2	16.04.2000	14:00	1999	2000	33
+Leeds United	Arsenal FC	0:1	0:4	16.04.2000	17:00	1999	2000	33
+Bradford City	Derby County	4:3	4:4	21.04.2000	17:00	1999	2000	34
+Everton FC	Liverpool FC	0:0	0:0	21.04.2000	21:00	1999	2000	34
+Chelsea FC	Middlesbrough FC	1:1	1:1	22.04.2000	16:00	1999	2000	34
+Sheffield Wednesday	Sunderland AFC	0:0	0:2	22.04.2000	16:00	1999	2000	34
+Southampton FC	Manchester United	0:3	1:3	22.04.2000	16:00	1999	2000	34
+Tottenham Hotspur	Wimbledon FC	2:0	2:0	22.04.2000	16:00	1999	2000	34
+Aston Villa	Leicester City	1:1	2:2	22.04.2000	16:00	1999	2000	34
+West Ham United	Coventry City	2:0	5:0	22.04.2000	16:00	1999	2000	34
+Watford FC	Arsenal FC	0:3	2:3	23.04.2000	16:00	1999	2000	34
+Newcastle United	Leeds United	1:2	2:2	23.04.2000	16:00	1999	2000	34
+Coventry City	Everton FC	0:0	1:0	15.03.2000	19:45	1999	2000	35
+Liverpool FC	Aston Villa	0:0	0:0	15.03.2000	20:00	1999	2000	35
+Wimbledon FC	Sheffield Wednesday	0:1	0:2	12.04.2000	20:45	1999	2000	35
+Leicester City	Tottenham Hotspur	0:0	0:1	19.04.2000	20:45	1999	2000	35
+Manchester United	Chelsea FC	2:2	3:2	24.04.2000	13:00	1999	2000	35
+Derby County	Southampton FC	2:0	2:0	24.04.2000	14:00	1999	2000	35
+Sunderland AFC	Bradford City	0:0	0:1	24.04.2000	15:45	1999	2000	35
+Middlesbrough FC	Newcastle United	1:2	2:2	02.05.2000	20:45	1999	2000	35
+Arsenal FC	West Ham United	0:1	2:1	02.05.2000	20:45	1999	2000	35
+Leeds United	Watford FC	2:1	3:1	03.05.2000	20:45	1999	2000	35
+Watford FC	Manchester United	1:0	2:3	29.04.2000	12:30	1999	2000	36
+West Ham United	Middlesbrough FC	0:0	0:1	29.04.2000	16:00	1999	2000	36
+Chelsea FC	Liverpool FC	2:0	2:0	29.04.2000	16:00	1999	2000	36
+Everton FC	Arsenal FC	0:1	0:1	29.04.2000	16:00	1999	2000	36
+Newcastle United	Coventry City	0:0	2:0	29.04.2000	16:00	1999	2000	36
+Aston Villa	Sunderland AFC	0:0	1:1	29.04.2000	16:00	1999	2000	36
+Southampton FC	Leicester City	1:1	1:2	29.04.2000	16:00	1999	2000	36
+Tottenham Hotspur	Derby County	0:0	1:1	29.04.2000	16:00	1999	2000	36
+Bradford City	Wimbledon FC	1:0	3:0	30.04.2000	16:00	1999	2000	36
+Sheffield Wednesday	Leeds United	0:1	0:3	30.04.2000	17:00	1999	2000	36
+Manchester United	Tottenham Hotspur	3:1	3:1	06.05.2000	12:30	1999	2000	37
+Middlesbrough FC	Watford FC	1:0	1:1	06.05.2000	16:00	1999	2000	37
+Sunderland AFC	West Ham United	1:0	1:0	06.05.2000	16:00	1999	2000	37
+Wimbledon FC	Aston Villa	1:0	2:2	06.05.2000	16:00	1999	2000	37
+Leicester City	Bradford City	0:0	3:0	06.05.2000	16:00	1999	2000	37
+Arsenal FC	Chelsea FC	1:0	2:1	06.05.2000	16:00	1999	2000	37
+Coventry City	Sheffield Wednesday	1:0	4:1	06.05.2000	16:00	1999	2000	37
+Derby County	Newcastle United	0:0	0:0	06.05.2000	16:00	1999	2000	37
+Liverpool FC	Southampton FC	0:0	0:0	07.05.2000	17:00	1999	2000	37
+Leeds United	Everton FC	1:0	1:1	08.05.2000	21:00	1999	2000	37
+Aston Villa	Manchester United	0:0	0:1	14.05.2000	17:00	1999	2000	38
+Bradford City	Liverpool FC	1:0	1:0	14.05.2000	17:00	1999	2000	38
+Chelsea FC	Derby County	0:0	4:0	14.05.2000	17:00	1999	2000	38
+Everton FC	Middlesbrough FC	0:1	0:2	14.05.2000	17:00	1999	2000	38
+Newcastle United	Arsenal FC	2:1	4:2	14.05.2000	17:00	1999	2000	38
+Sheffield Wednesday	Leicester City	2:0	4:0	14.05.2000	17:00	1999	2000	38
+Southampton FC	Wimbledon FC	0:0	2:0	14.05.2000	17:00	1999	2000	38
+Tottenham Hotspur	Sunderland AFC	1:1	3:1	14.05.2000	17:00	1999	2000	38
+Watford FC	Coventry City	1:0	1:0	14.05.2000	17:00	1999	2000	38
+West Ham United	Leeds United	0:0	0:0	14.05.2000	17:00	1999	2000	38

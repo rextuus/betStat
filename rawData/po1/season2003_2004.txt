@@ -1,0 +1,306 @@
+AcadÃ©mica de Coimbra	Sporting CP	0:0	1:2	16.08.2003	20:45	2003	2004	1
+CD Nacional	PaÃ§os de Ferreira	1:0	2:0	17.08.2003	17:00	2003	2004	1
+CS MarÃ­timo	SC Beira-Mar	0:0	1:0	17.08.2003	17:00	2003	2004	1
+Moreirense FC	Rio Ave FC	0:0	1:0	17.08.2003	17:00	2003	2004	1
+Gil Vicente	FC Alverca	0:0	0:1	17.08.2003	18:00	2003	2004	1
+Boavista	SL Benfica	0:0	0:0	17.08.2003	20:15	2003	2004	1
+FC Porto	Sporting Braga	1:0	2:0	17.08.2003	22:00	2003	2004	1
+VitÃ³ria GuimarÃ£es	UniÃ£o Leiria	0:0	1:0	18.08.2003	21:30	2003	2004	1
+Os Belenenses	Estrela Amadora	1:0	4:0	07.09.2003	19:00	2003	2004	1
+FC Alverca	CS MarÃ­timo	0:0	0:1	22.08.2003	22:00	2003	2004	2
+SL Benfica	VitÃ³ria GuimarÃ£es	1:0	2:0	23.08.2003	20:00	2003	2004	2
+Sporting CP	Os Belenenses	2:1	4:2	23.08.2003	22:15	2003	2004	2
+UniÃ£o Leiria	AcadÃ©mica de Coimbra	0:2	0:2	23.08.2003	22:30	2003	2004	2
+PaÃ§os de Ferreira	Moreirense FC	0:0	1:0	24.08.2003	17:00	2003	2004	2
+Rio Ave FC	Gil Vicente	1:0	1:1	24.08.2003	17:00	2003	2004	2
+Sporting Braga	CD Nacional	1:0	1:0	24.08.2003	18:00	2003	2004	2
+Estrela Amadora	FC Porto	0:0	1:1	24.08.2003	18:00	2003	2004	2
+SC Beira-Mar	Boavista	0:2	0:2	25.08.2003	21:30	2003	2004	2
+Moreirense FC	Sporting Braga	0:1	0:2	30.08.2003	20:00	2003	2004	3
+Boavista	VitÃ³ria GuimarÃ£es	0:0	1:0	30.08.2003	22:15	2003	2004	3
+CD Nacional	Estrela Amadora	1:0	4:0	31.08.2003	17:00	2003	2004	3
+SC Beira-Mar	FC Alverca	1:0	1:0	31.08.2003	17:00	2003	2004	3
+CS MarÃ­timo	Rio Ave FC	1:0	1:0	31.08.2003	17:00	2003	2004	3
+Os Belenenses	UniÃ£o Leiria	1:0	1:1	01.09.2003	21:30	2003	2004	3
+FC Porto	Sporting CP	1:0	4:1	02.09.2003	22:15	2003	2004	3
+Gil Vicente	PaÃ§os de Ferreira	1:0	2:0	03.09.2003	21:00	2003	2004	3
+AcadÃ©mica de Coimbra	SL Benfica	1:2	1:3	29.10.2003	22:00	2003	2004	3
+Sporting Braga	Gil Vicente	1:1	2:1	12.09.2003	22:00	2003	2004	4
+Estrela Amadora	Moreirense FC	1:1	1:2	13.09.2003	18:00	2003	2004	4
+PaÃ§os de Ferreira	CS MarÃ­timo	0:0	0:1	13.09.2003	18:00	2003	2004	4
+UniÃ£o Leiria	FC Porto	0:1	1:3	13.09.2003	20:15	2003	2004	4
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	1:1	1:2	13.09.2003	22:15	2003	2004	4
+Rio Ave FC	SC Beira-Mar	1:1	1:1	14.09.2003	17:00	2003	2004	4
+SL Benfica	Os Belenenses	1:0	3:3	14.09.2003	20:15	2003	2004	4
+Sporting CP	CD Nacional	2:0	2:0	14.09.2003	22:30	2003	2004	4
+FC Alverca	Boavista	1:0	1:1	15.09.2003	21:30	2003	2004	4
+CS MarÃ­timo	Sporting Braga	0:1	1:1	19.09.2003	22:30	2003	2004	5
+Boavista	AcadÃ©mica de Coimbra	0:0	0:0	20.09.2003	19:30	2003	2004	5
+Moreirense FC	Sporting CP	0:0	1:0	20.09.2003	22:15	2003	2004	5
+Gil Vicente	Estrela Amadora	1:1	5:1	21.09.2003	17:00	2003	2004	5
+CD Nacional	UniÃ£o Leiria	0:1	0:2	21.09.2003	17:00	2003	2004	5
+SC Beira-Mar	PaÃ§os de Ferreira	2:1	4:1	21.09.2003	17:00	2003	2004	5
+FC Alverca	Rio Ave FC	0:0	1:0	21.09.2003	18:00	2003	2004	5
+FC Porto	SL Benfica	1:0	2:0	21.09.2003	20:30	2003	2004	5
+Os Belenenses	VitÃ³ria GuimarÃ£es	1:0	2:0	22.09.2003	21:30	2003	2004	5
+Rio Ave FC	Boavista	0:2	1:2	26.09.2003	21:00	2003	2004	6
+VitÃ³ria GuimarÃ£es	FC Porto	1:1	1:2	27.09.2003	22:30	2003	2004	6
+Estrela Amadora	CS MarÃ­timo	1:0	1:0	28.09.2003	17:00	2003	2004	6
+PaÃ§os de Ferreira	FC Alverca	0:0	0:3	28.09.2003	17:00	2003	2004	6
+Sporting Braga	SC Beira-Mar	0:1	0:2	28.09.2003	17:00	2003	2004	6
+UniÃ£o Leiria	Moreirense FC	0:1	2:1	28.09.2003	18:00	2003	2004	6
+SL Benfica	CD Nacional	1:0	1:0	28.09.2003	20:15	2003	2004	6
+AcadÃ©mica de Coimbra	Os Belenenses	0:0	0:1	28.09.2003	22:30	2003	2004	6
+Sporting CP	Gil Vicente	0:0	1:0	29.09.2003	20:45	2003	2004	6
+Boavista	Os Belenenses	0:1	1:1	03.10.2003	22:00	2003	2004	7
+CS MarÃ­timo	Sporting CP	0:1	2:1	04.10.2003	20:15	2003	2004	7
+Moreirense FC	SL Benfica	0:2	1:4	04.10.2003	22:00	2003	2004	7
+CD Nacional	VitÃ³ria GuimarÃ£es	0:0	4:2	05.10.2003	17:00	2003	2004	7
+Gil Vicente	UniÃ£o Leiria	1:0	2:0	05.10.2003	17:00	2003	2004	7
+Rio Ave FC	PaÃ§os de Ferreira	0:0	2:1	05.10.2003	17:00	2003	2004	7
+SC Beira-Mar	Estrela Amadora	2:0	3:0	05.10.2003	17:00	2003	2004	7
+FC Porto	AcadÃ©mica de Coimbra	3:1	4:1	05.10.2003	21:15	2003	2004	7
+FC Alverca	Sporting Braga	0:1	1:2	06.10.2003	20:45	2003	2004	7
+VitÃ³ria GuimarÃ£es	Moreirense FC	2:0	3:0	17.10.2003	22:00	2003	2004	8
+AcadÃ©mica de Coimbra	CD Nacional	0:0	0:1	18.10.2003	17:00	2003	2004	8
+PaÃ§os de Ferreira	Boavista	0:3	0:3	18.10.2003	18:15	2003	2004	8
+Os Belenenses	FC Porto	1:2	1:4	18.10.2003	22:15	2003	2004	8
+Sporting Braga	Rio Ave FC	1:0	1:1	19.10.2003	17:00	2003	2004	8
+Estrela Amadora	FC Alverca	0:1	0:3	19.10.2003	17:00	2003	2004	8
+UniÃ£o Leiria	CS MarÃ­timo	2:1	2:2	19.10.2003	18:30	2003	2004	8
+SL Benfica	Gil Vicente	1:1	2:1	19.10.2003	20:30	2003	2004	8
+Sporting CP	SC Beira-Mar	2:1	3:1	20.10.2003	20:45	2003	2004	8
+PaÃ§os de Ferreira	Sporting Braga	0:0	0:1	24.10.2003	22:00	2003	2004	9
+Gil Vicente	VitÃ³ria GuimarÃ£es	1:1	1:1	25.10.2003	18:15	2003	2004	9
+Moreirense FC	AcadÃ©mica de Coimbra	0:0	1:1	26.10.2003	17:00	2003	2004	9
+CD Nacional	Os Belenenses	1:0	4:0	26.10.2003	17:00	2003	2004	9
+SC Beira-Mar	UniÃ£o Leiria	1:1	4:2	26.10.2003	17:00	2003	2004	9
+Rio Ave FC	Estrela Amadora	1:1	3:1	26.10.2003	17:00	2003	2004	9
+FC Alverca	Sporting CP	1:1	1:2	26.10.2003	20:45	2003	2004	9
+Boavista	FC Porto	0:0	0:1	27.10.2003	20:45	2003	2004	9
+CS MarÃ­timo	SL Benfica	0:0	1:1	12.11.2003	22:15	2003	2004	9
+FC Porto	CD Nacional	0:0	1:0	31.10.2003	22:15	2003	2004	10
+Estrela Amadora	PaÃ§os de Ferreira	0:1	0:1	01.11.2003	17:00	2003	2004	10
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	1:0	1:1	01.11.2003	18:15	2003	2004	10
+Sporting CP	Rio Ave FC	0:1	1:1	01.11.2003	20:45	2003	2004	10
+Os Belenenses	Moreirense FC	0:0	0:0	02.11.2003	16:00	2003	2004	10
+AcadÃ©mica de Coimbra	Gil Vicente	0:0	2:1	02.11.2003	17:00	2003	2004	10
+UniÃ£o Leiria	FC Alverca	2:0	2:1	02.11.2003	17:00	2003	2004	10
+SL Benfica	SC Beira-Mar	1:0	1:2	02.11.2003	21:15	2003	2004	10
+Sporting Braga	Boavista	0:0	0:0	03.11.2003	20:45	2003	2004	10
+Gil Vicente	Os Belenenses	0:0	0:0	07.11.2003	22:00	2003	2004	11
+CS MarÃ­timo	AcadÃ©mica de Coimbra	0:1	0:2	08.11.2003	17:00	2003	2004	11
+Boavista	CD Nacional	0:0	2:1	08.11.2003	19:15	2003	2004	11
+Sporting Braga	Estrela Amadora	1:0	2:1	08.11.2003	20:00	2003	2004	11
+SC Beira-Mar	VitÃ³ria GuimarÃ£es	0:0	2:2	09.11.2003	17:00	2003	2004	11
+Rio Ave FC	UniÃ£o Leiria	1:0	3:0	09.11.2003	17:00	2003	2004	11
+FC Alverca	SL Benfica	0:1	0:3	09.11.2003	20:15	2003	2004	11
+Moreirense FC	FC Porto	1:1	1:1	09.11.2003	22:15	2003	2004	11
+PaÃ§os de Ferreira	Sporting CP	0:1	1:2	10.11.2003	20:45	2003	2004	11
+Estrela Amadora	Boavista	1:0	2:1	28.11.2003	22:00	2003	2004	12
+Os Belenenses	CS MarÃ­timo	1:2	2:2	29.11.2003	18:15	2003	2004	12
+CD Nacional	Moreirense FC	2:1	3:1	30.11.2003	17:00	2003	2004	12
+VitÃ³ria GuimarÃ£es	FC Alverca	2:1	2:2	30.11.2003	17:00	2003	2004	12
+AcadÃ©mica de Coimbra	SC Beira-Mar	0:0	0:1	30.11.2003	17:00	2003	2004	12
+UniÃ£o Leiria	PaÃ§os de Ferreira	0:0	1:0	30.11.2003	17:00	2003	2004	12
+FC Porto	Gil Vicente	1:0	4:1	30.11.2003	19:45	2003	2004	12
+SL Benfica	Rio Ave FC	1:0	2:0	01.12.2003	20:45	2003	2004	12
+Sporting CP	Sporting Braga	1:0	2:0	01.12.2003	22:15	2003	2004	12
+Boavista	Moreirense FC	0:0	1:0	05.12.2003	20:00	2003	2004	13
+CS MarÃ­timo	FC Porto	1:2	2:2	05.12.2003	21:45	2003	2004	13
+Gil Vicente	CD Nacional	3:3	4:4	07.12.2003	17:00	2003	2004	13
+Rio Ave FC	VitÃ³ria GuimarÃ£es	0:0	1:0	07.12.2003	17:00	2003	2004	13
+FC Alverca	AcadÃ©mica de Coimbra	2:0	2:1	07.12.2003	17:00	2003	2004	13
+Estrela Amadora	Sporting CP	1:2	1:4	07.12.2003	19:00	2003	2004	13
+Sporting Braga	UniÃ£o Leiria	1:0	3:1	07.12.2003	19:00	2003	2004	13
+PaÃ§os de Ferreira	SL Benfica	0:2	0:3	07.12.2003	21:15	2003	2004	13
+SC Beira-Mar	Os Belenenses	0:0	2:0	08.12.2003	20:45	2003	2004	13
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	0:0	1:1	12.12.2003	22:00	2003	2004	14
+AcadÃ©mica de Coimbra	Rio Ave FC	0:0	0:0	13.12.2003	17:00	2003	2004	14
+UniÃ£o Leiria	Estrela Amadora	2:1	4:1	13.12.2003	17:00	2003	2004	14
+Sporting CP	Boavista	1:0	1:0	13.12.2003	20:30	2003	2004	14
+SL Benfica	Sporting Braga	1:0	2:0	13.12.2003	22:15	2003	2004	14
+CD Nacional	CS MarÃ­timo	0:0	0:1	14.12.2003	17:00	2003	2004	14
+Moreirense FC	Gil Vicente	0:0	0:0	14.12.2003	17:00	2003	2004	14
+Os Belenenses	FC Alverca	1:0	2:0	14.12.2003	19:00	2003	2004	14
+FC Porto	SC Beira-Mar	1:0	3:0	14.12.2003	21:15	2003	2004	14
+Boavista	Gil Vicente	0:1	0:3	19.12.2003	22:30	2003	2004	15
+Sporting CP	UniÃ£o Leiria	0:0	2:0	20.12.2003	22:15	2003	2004	15
+SC Beira-Mar	CD Nacional	0:0	1:0	21.12.2003	17:00	2003	2004	15
+CS MarÃ­timo	Moreirense FC	1:0	1:0	21.12.2003	17:00	2003	2004	15
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	0:0	1:0	21.12.2003	17:00	2003	2004	15
+Rio Ave FC	Os Belenenses	2:0	4:1	21.12.2003	17:00	2003	2004	15
+Sporting Braga	VitÃ³ria GuimarÃ£es	2:0	2:1	21.12.2003	19:15	2003	2004	15
+Estrela Amadora	SL Benfica	0:3	0:3	21.12.2003	21:15	2003	2004	15
+FC Alverca	FC Porto	1:2	1:2	22.12.2003	20:45	2003	2004	15
+Os Belenenses	PaÃ§os de Ferreira	0:2	0:2	03.01.2004	19:15	2003	2004	16
+CD Nacional	FC Alverca	2:0	3:0	04.01.2004	17:00	2003	2004	16
+Moreirense FC	SC Beira-Mar	2:0	3:1	04.01.2004	17:00	2003	2004	16
+Gil Vicente	CS MarÃ­timo	1:0	2:1	04.01.2004	17:00	2003	2004	16
+VitÃ³ria GuimarÃ£es	Estrela Amadora	0:0	1:0	04.01.2004	17:00	2003	2004	16
+SL Benfica	Sporting CP	0:2	1:3	04.01.2004	20:00	2003	2004	16
+Boavista	UniÃ£o Leiria	0:0	1:0	04.01.2004	22:15	2003	2004	16
+AcadÃ©mica de Coimbra	Sporting Braga	0:1	0:1	05.01.2004	20:45	2003	2004	16
+FC Porto	Rio Ave FC	0:0	1:0	05.01.2004	22:15	2003	2004	16
+Sporting CP	VitÃ³ria GuimarÃ£es	2:1	2:1	09.01.2004	22:00	2003	2004	17
+Rio Ave FC	CD Nacional	0:0	0:0	10.01.2004	18:00	2003	2004	17
+CS MarÃ­timo	Boavista	0:0	0:0	10.01.2004	18:15	2003	2004	17
+PaÃ§os de Ferreira	FC Porto	0:2	0:2	10.01.2004	22:15	2003	2004	17
+FC Alverca	Moreirense FC	1:0	1:2	11.01.2004	17:00	2003	2004	17
+Estrela Amadora	AcadÃ©mica de Coimbra	0:0	2:1	11.01.2004	17:00	2003	2004	17
+UniÃ£o Leiria	SL Benfica	2:1	3:3	11.01.2004	20:15	2003	2004	17
+Sporting Braga	Os Belenenses	0:1	2:1	11.01.2004	22:30	2003	2004	17
+SC Beira-Mar	Gil Vicente	0:1	1:1	12.01.2004	20:45	2003	2004	17
+SC Beira-Mar	CS MarÃ­timo	0:1	2:2	16.01.2004	22:30	2003	2004	18
+Sporting CP	AcadÃ©mica de Coimbra	1:0	2:0	17.01.2004	20:30	2003	2004	18
+Sporting Braga	FC Porto	0:3	0:3	17.01.2004	22:15	2003	2004	18
+PaÃ§os de Ferreira	CD Nacional	0:0	1:1	18.01.2004	17:00	2003	2004	18
+FC Alverca	Gil Vicente	0:0	0:0	18.01.2004	17:00	2003	2004	18
+Rio Ave FC	Moreirense FC	1:1	1:1	18.01.2004	17:00	2003	2004	18
+SL Benfica	Boavista	2:2	3:2	18.01.2004	20:45	2003	2004	18
+Estrela Amadora	Os Belenenses	0:2	2:2	19.01.2004	20:45	2003	2004	18
+UniÃ£o Leiria	VitÃ³ria GuimarÃ£es	0:0	0:0	19.01.2004	21:30	2003	2004	18
+CS MarÃ­timo	FC Alverca	0:1	1:1	23.01.2004	22:30	2003	2004	19
+FC Porto	Estrela Amadora	2:0	2:0	24.01.2004	20:15	2003	2004	19
+Os Belenenses	Sporting CP	1:1	1:3	24.01.2004	22:15	2003	2004	19
+AcadÃ©mica de Coimbra	UniÃ£o Leiria	0:2	1:2	25.01.2004	17:00	2003	2004	19
+Moreirense FC	PaÃ§os de Ferreira	0:0	1:0	25.01.2004	17:00	2003	2004	19
+CD Nacional	Sporting Braga	2:0	5:1	25.01.2004	17:00	2003	2004	19
+Gil Vicente	Rio Ave FC	0:0	1:2	25.01.2004	17:00	2003	2004	19
+VitÃ³ria GuimarÃ£es	SL Benfica	0:0	0:1	25.01.2004	20:45	2003	2004	19
+Boavista	SC Beira-Mar	0:0	1:0	26.01.2004	20:45	2003	2004	19
+Sporting Braga	Moreirense FC	0:1	1:1	30.01.2004	22:15	2003	2004	20
+Sporting CP	FC Porto	0:1	1:1	31.01.2004	22:00	2003	2004	20
+UniÃ£o Leiria	Os Belenenses	0:0	1:1	01.02.2004	17:00	2003	2004	20
+Estrela Amadora	CD Nacional	0:1	0:1	01.02.2004	17:00	2003	2004	20
+Rio Ave FC	CS MarÃ­timo	1:0	2:1	01.02.2004	17:00	2003	2004	20
+PaÃ§os de Ferreira	Gil Vicente	1:2	3:2	01.02.2004	17:00	2003	2004	20
+VitÃ³ria GuimarÃ£es	Boavista	0:0	1:1	01.02.2004	21:45	2003	2004	20
+FC Alverca	SC Beira-Mar	0:0	1:2	02.02.2004	20:45	2003	2004	20
+SL Benfica	AcadÃ©mica de Coimbra	1:0	2:0	03.02.2004	22:15	2003	2004	20
+Gil Vicente	Sporting Braga	1:0	1:0	06.02.2004	22:30	2003	2004	21
+FC Porto	UniÃ£o Leiria	2:0	2:1	07.02.2004	20:00	2003	2004	21
+CD Nacional	Sporting CP	1:1	3:3	07.02.2004	22:15	2003	2004	21
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	0:1	1:1	08.02.2004	17:00	2003	2004	21
+Moreirense FC	Estrela Amadora	1:0	1:0	08.02.2004	17:00	2003	2004	21
+SC Beira-Mar	Rio Ave FC	1:1	1:1	08.02.2004	17:00	2003	2004	21
+CS MarÃ­timo	PaÃ§os de Ferreira	1:0	2:0	08.02.2004	17:00	2003	2004	21
+Os Belenenses	SL Benfica	0:0	0:2	08.02.2004	20:45	2003	2004	21
+Boavista	FC Alverca	0:1	2:1	09.02.2004	20:45	2003	2004	21
+Sporting CP	Moreirense FC	1:0	1:0	13.02.2004	22:30	2003	2004	22
+AcadÃ©mica de Coimbra	Boavista	0:0	1:0	14.02.2004	20:00	2003	2004	22
+Estrela Amadora	Gil Vicente	1:0	1:1	15.02.2004	17:00	2003	2004	22
+UniÃ£o Leiria	CD Nacional	0:0	0:1	15.02.2004	17:00	2003	2004	22
+PaÃ§os de Ferreira	SC Beira-Mar	2:0	2:1	15.02.2004	17:00	2003	2004	22
+Sporting Braga	CS MarÃ­timo	0:0	0:0	15.02.2004	19:00	2003	2004	22
+SL Benfica	FC Porto	0:1	1:1	15.02.2004	20:15	2003	2004	22
+VitÃ³ria GuimarÃ£es	Os Belenenses	0:0	0:1	16.02.2004	20:45	2003	2004	22
+Rio Ave FC	FC Alverca	1:2	1:2	16.02.2004	21:30	2003	2004	22
+SC Beira-Mar	Sporting Braga	0:0	0:2	20.02.2004	22:30	2003	2004	23
+Os Belenenses	AcadÃ©mica de Coimbra	0:2	0:5	21.02.2004	20:15	2003	2004	23
+FC Porto	VitÃ³ria GuimarÃ£es	2:0	3:0	21.02.2004	22:30	2003	2004	23
+CS MarÃ­timo	Estrela Amadora	0:0	1:0	22.02.2004	17:00	2003	2004	23
+Moreirense FC	UniÃ£o Leiria	0:0	0:0	22.02.2004	17:00	2003	2004	23
+FC Alverca	PaÃ§os de Ferreira	2:1	2:1	22.02.2004	17:00	2003	2004	23
+Gil Vicente	Sporting CP	1:0	1:1	22.02.2004	20:15	2003	2004	23
+CD Nacional	SL Benfica	1:1	3:2	22.02.2004	21:15	2003	2004	23
+Boavista	Rio Ave FC	1:0	1:1	23.02.2004	20:45	2003	2004	23
+VitÃ³ria GuimarÃ£es	CD Nacional	1:0	2:1	27.02.2004	22:30	2003	2004	24
+Os Belenenses	Boavista	1:0	1:1	28.02.2004	20:00	2003	2004	24
+Sporting CP	CS MarÃ­timo	0:0	1:0	28.02.2004	22:15	2003	2004	24
+UniÃ£o Leiria	Gil Vicente	0:1	2:2	29.02.2004	17:00	2003	2004	24
+PaÃ§os de Ferreira	Rio Ave FC	0:1	1:2	29.02.2004	17:00	2003	2004	24
+Estrela Amadora	SC Beira-Mar	1:1	2:2	29.02.2004	17:00	2003	2004	24
+SL Benfica	Moreirense FC	0:0	1:1	29.02.2004	20:00	2003	2004	24
+Sporting Braga	FC Alverca	0:0	0:0	01.03.2004	20:45	2003	2004	24
+AcadÃ©mica de Coimbra	FC Porto	0:1	0:1	01.03.2004	22:15	2003	2004	24
+FC Porto	Os Belenenses	1:0	4:1	05.03.2004	22:30	2003	2004	25
+Boavista	PaÃ§os de Ferreira	1:1	1:1	06.03.2004	20:00	2003	2004	25
+SC Beira-Mar	Sporting CP	0:2	0:2	06.03.2004	22:15	2003	2004	25
+Moreirense FC	VitÃ³ria GuimarÃ£es	0:1	1:1	07.03.2004	17:00	2003	2004	25
+CD Nacional	AcadÃ©mica de Coimbra	0:1	2:1	07.03.2004	17:00	2003	2004	25
+CS MarÃ­timo	UniÃ£o Leiria	1:2	2:2	07.03.2004	17:00	2003	2004	25
+FC Alverca	Estrela Amadora	2:0	3:0	07.03.2004	17:00	2003	2004	25
+Gil Vicente	SL Benfica	0:1	1:2	07.03.2004	20:15	2003	2004	25
+Rio Ave FC	Sporting Braga	0:0	0:0	08.03.2004	20:45	2003	2004	25
+Sporting Braga	PaÃ§os de Ferreira	1:0	2:1	13.03.2004	18:15	2003	2004	26
+Os Belenenses	CD Nacional	0:1	0:1	13.03.2004	20:30	2003	2004	26
+FC Porto	Boavista	0:0	1:0	13.03.2004	22:15	2003	2004	26
+AcadÃ©mica de Coimbra	Moreirense FC	0:2	0:3	14.03.2004	17:00	2003	2004	26
+UniÃ£o Leiria	SC Beira-Mar	2:1	2:1	14.03.2004	17:00	2003	2004	26
+VitÃ³ria GuimarÃ£es	Gil Vicente	0:1	0:2	14.03.2004	17:00	2003	2004	26
+Estrela Amadora	Rio Ave FC	0:0	1:4	14.03.2004	17:00	2003	2004	26
+SL Benfica	CS MarÃ­timo	0:0	1:0	14.03.2004	20:00	2003	2004	26
+Sporting CP	FC Alverca	1:0	2:0	15.03.2004	20:45	2003	2004	26
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	0:1	1:1	19.03.2004	22:30	2003	2004	27
+Rio Ave FC	Sporting CP	3:0	4:0	20.03.2004	22:00	2003	2004	27
+Gil Vicente	AcadÃ©mica de Coimbra	0:0	0:1	21.03.2004	17:00	2003	2004	27
+FC Alverca	UniÃ£o Leiria	0:3	1:4	21.03.2004	17:00	2003	2004	27
+PaÃ§os de Ferreira	Estrela Amadora	1:0	1:0	21.03.2004	17:00	2003	2004	27
+Boavista	Sporting Braga	0:0	1:1	21.03.2004	19:15	2003	2004	27
+SC Beira-Mar	SL Benfica	0:0	0:1	21.03.2004	21:30	2003	2004	27
+Moreirense FC	Os Belenenses	0:0	0:0	22.03.2004	20:45	2003	2004	27
+CD Nacional	FC Porto	0:0	0:0	14.04.2004	22:15	2003	2004	27
+AcadÃ©mica de Coimbra	CS MarÃ­timo	1:0	2:0	26.03.2004	22:30	2003	2004	28
+CD Nacional	Boavista	0:0	1:0	27.03.2004	20:00	2003	2004	28
+Sporting CP	PaÃ§os de Ferreira	0:0	1:0	27.03.2004	22:15	2003	2004	28
+VitÃ³ria GuimarÃ£es	SC Beira-Mar	1:0	2:0	28.03.2004	17:00	2003	2004	28
+Estrela Amadora	Sporting Braga	0:0	0:1	28.03.2004	17:00	2003	2004	28
+UniÃ£o Leiria	Rio Ave FC	0:1	1:1	28.03.2004	17:00	2003	2004	28
+FC Porto	Moreirense FC	0:0	1:0	28.03.2004	20:00	2003	2004	28
+SL Benfica	FC Alverca	2:0	2:0	28.03.2004	22:15	2003	2004	28
+Os Belenenses	Gil Vicente	1:0	2:0	29.03.2004	20:45	2003	2004	28
+FC Alverca	VitÃ³ria GuimarÃ£es	0:0	0:1	02.04.2004	22:30	2003	2004	29
+Boavista	Estrela Amadora	1:1	1:2	03.04.2004	19:00	2003	2004	29
+Gil Vicente	FC Porto	0:0	2:0	03.04.2004	22:15	2003	2004	29
+Moreirense FC	CD Nacional	1:0	2:1	04.04.2004	17:00	2003	2004	29
+SC Beira-Mar	AcadÃ©mica de Coimbra	0:0	0:0	04.04.2004	17:00	2003	2004	29
+PaÃ§os de Ferreira	UniÃ£o Leiria	0:0	1:2	04.04.2004	18:00	2003	2004	29
+Rio Ave FC	SL Benfica	0:0	1:1	04.04.2004	20:15	2003	2004	29
+Sporting Braga	Sporting CP	0:2	2:3	04.04.2004	21:45	2003	2004	29
+CS MarÃ­timo	Os Belenenses	2:0	2:0	05.04.2004	20:45	2003	2004	29
+Moreirense FC	Boavista	1:0	2:1	09.04.2004	22:15	2003	2004	30
+CD Nacional	Gil Vicente	1:1	2:1	10.04.2004	17:00	2003	2004	30
+VitÃ³ria GuimarÃ£es	Rio Ave FC	1:0	2:0	10.04.2004	17:00	2003	2004	30
+AcadÃ©mica de Coimbra	FC Alverca	1:0	4:0	10.04.2004	17:00	2003	2004	30
+UniÃ£o Leiria	Sporting Braga	1:1	2:2	10.04.2004	18:00	2003	2004	30
+FC Porto	CS MarÃ­timo	0:0	1:0	10.04.2004	19:00	2003	2004	30
+SL Benfica	PaÃ§os de Ferreira	0:0	2:1	10.04.2004	20:15	2003	2004	30
+Sporting CP	Estrela Amadora	1:0	4:0	10.04.2004	22:15	2003	2004	30
+Os Belenenses	SC Beira-Mar	1:0	1:0	12.04.2004	20:45	2003	2004	30
+Estrela Amadora	UniÃ£o Leiria	0:0	0:0	17.04.2004	17:00	2003	2004	31
+Sporting Braga	SL Benfica	0:3	0:3	17.04.2004	19:45	2003	2004	31
+Boavista	Sporting CP	0:0	2:1	17.04.2004	22:15	2003	2004	31
+Gil Vicente	Moreirense FC	1:0	1:0	18.04.2004	17:00	2003	2004	31
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	0:0	1:0	18.04.2004	17:00	2003	2004	31
+Rio Ave FC	AcadÃ©mica de Coimbra	1:2	3:2	18.04.2004	17:00	2003	2004	31
+FC Alverca	Os Belenenses	1:0	1:0	18.04.2004	19:15	2003	2004	31
+SC Beira-Mar	FC Porto	0:0	0:0	18.04.2004	21:30	2003	2004	31
+CS MarÃ­timo	CD Nacional	1:0	2:0	19.04.2004	20:45	2003	2004	31
+Gil Vicente	Boavista	0:0	0:1	23.04.2004	22:30	2003	2004	32
+SL Benfica	Estrela Amadora	2:0	3:1	24.04.2004	21:00	2003	2004	32
+UniÃ£o Leiria	Sporting CP	0:0	1:0	24.04.2004	22:15	2003	2004	32
+CD Nacional	SC Beira-Mar	1:0	3:0	25.04.2004	17:00	2003	2004	32
+Moreirense FC	CS MarÃ­timo	1:0	3:0	25.04.2004	17:00	2003	2004	32
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	1:0	3:2	25.04.2004	17:00	2003	2004	32
+FC Porto	FC Alverca	0:0	1:0	25.04.2004	20:15	2003	2004	32
+Os Belenenses	Rio Ave FC	2:0	3:0	25.04.2004	22:15	2003	2004	32
+VitÃ³ria GuimarÃ£es	Sporting Braga	0:0	1:0	26.04.2004	20:45	2003	2004	32
+Rio Ave FC	FC Porto	1:0	1:0	30.04.2004	21:50	2003	2004	33
+FC Alverca	CD Nacional	0:1	2:1	02.05.2004	17:00	2003	2004	33
+SC Beira-Mar	Moreirense FC	1:0	1:0	02.05.2004	17:00	2003	2004	33
+CS MarÃ­timo	Gil Vicente	2:0	2:0	02.05.2004	17:00	2003	2004	33
+Sporting Braga	AcadÃ©mica de Coimbra	1:0	2:1	02.05.2004	17:00	2003	2004	33
+PaÃ§os de Ferreira	Os Belenenses	0:1	1:1	02.05.2004	17:00	2003	2004	33
+UniÃ£o Leiria	Boavista	1:0	2:0	02.05.2004	17:00	2003	2004	33
+Estrela Amadora	VitÃ³ria GuimarÃ£es	0:0	0:1	02.05.2004	17:00	2003	2004	33
+Sporting CP	SL Benfica	0:0	0:1	02.05.2004	20:15	2003	2004	33
+Moreirense FC	FC Alverca	0:0	3:1	09.05.2004	17:00	2003	2004	34
+Gil Vicente	SC Beira-Mar	3:0	3:0	09.05.2004	17:00	2003	2004	34
+Boavista	CS MarÃ­timo	1:0	2:1	09.05.2004	17:00	2003	2004	34
+Os Belenenses	Sporting Braga	0:1	0:2	09.05.2004	17:00	2003	2004	34
+CD Nacional	Rio Ave FC	0:0	4:0	09.05.2004	17:00	2003	2004	34
+SL Benfica	UniÃ£o Leiria	0:0	0:0	09.05.2004	17:00	2003	2004	34
+VitÃ³ria GuimarÃ£es	Sporting CP	0:0	0:2	09.05.2004	17:00	2003	2004	34
+AcadÃ©mica de Coimbra	Estrela Amadora	3:0	4:1	09.05.2004	17:00	2003	2004	34
+FC Porto	PaÃ§os de Ferreira	1:1	3:1	09.05.2004	19:30	2003	2004	34

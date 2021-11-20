@@ -1,0 +1,380 @@
+MÃ¡laga CF	Athletic Bilbao	1:0	1:0	23.08.2014	19:00	2014	2015	1
+Sevilla FC	Valencia CF	1:0	1:1	23.08.2014	19:00	2014	2015	1
+Granada CF	Deportivo La CoruÃ±a	0:1	2:1	23.08.2014	21:00	2014	2015	1
+UD AlmerÃ­a	Espanyol Barcelona	0:0	1:1	23.08.2014	21:00	2014	2015	1
+SD Eibar	Real Sociedad	1:0	1:0	24.08.2014	19:00	2014	2015	1
+Celta Vigo	Getafe CF	1:0	3:1	24.08.2014	19:00	2014	2015	1
+FC Barcelona	Elche CF	1:0	3:0	24.08.2014	21:00	2014	2015	1
+Levante UD	Villarreal CF	0:0	0:2	24.08.2014	21:00	2014	2015	1
+Real Madrid	CÃ³rdoba CF	1:0	2:0	25.08.2014	20:00	2014	2015	1
+Rayo Vallecano	AtlÃ©tico Madrid	0:0	0:0	25.08.2014	20:00	2014	2015	1
+Getafe CF	UD AlmerÃ­a	1:0	1:0	29.08.2014	20:00	2014	2015	2
+Valencia CF	MÃ¡laga CF	2:0	3:0	29.08.2014	20:00	2014	2015	2
+CÃ³rdoba CF	Celta Vigo	0:0	1:1	30.08.2014	19:00	2014	2015	2
+Athletic Bilbao	Levante UD	1:0	3:0	30.08.2014	19:00	2014	2015	2
+AtlÃ©tico Madrid	SD Eibar	2:1	2:1	30.08.2014	21:00	2014	2015	2
+Espanyol Barcelona	Sevilla FC	0:1	1:2	30.08.2014	21:00	2014	2015	2
+Villarreal CF	FC Barcelona	0:0	0:1	31.08.2014	19:00	2014	2015	2
+Real Sociedad	Real Madrid	2:2	4:2	31.08.2014	19:00	2014	2015	2
+Deportivo La CoruÃ±a	Rayo Vallecano	1:1	2:2	31.08.2014	21:00	2014	2015	2
+Elche CF	Granada CF	0:0	1:1	31.08.2014	21:00	2014	2015	2
+UD AlmerÃ­a	CÃ³rdoba CF	1:1	1:1	12.09.2014	21:00	2014	2015	3
+FC Barcelona	Athletic Bilbao	0:0	2:0	13.09.2014	21:00	2014	2015	3
+MÃ¡laga CF	Levante UD	0:0	0:0	13.09.2014	18:00	2014	2015	3
+Real Madrid	AtlÃ©tico Madrid	1:1	1:2	13.09.2014	18:00	2014	2015	3
+Celta Vigo	Real Sociedad	1:0	2:2	13.09.2014	22:00	2014	2015	3
+Rayo Vallecano	Elche CF	1:1	2:3	14.09.2014	22:00	2014	2015	3
+Valencia CF	Espanyol Barcelona	1:0	3:1	14.09.2014	17:00	2014	2015	3
+Sevilla FC	Getafe CF	1:0	2:0	14.09.2014	17:00	2014	2015	3
+Granada CF	Villarreal CF	0:0	0:0	14.09.2014	21:00	2014	2015	3
+SD Eibar	Deportivo La CoruÃ±a	0:1	0:1	15.09.2014	21:00	2014	2015	3
+Elche CF	SD Eibar	0:2	0:2	19.09.2014	21:00	2014	2015	4
+Deportivo La CoruÃ±a	Real Madrid	0:3	2:8	20.09.2014	21:00	2014	2015	4
+Athletic Bilbao	Granada CF	0:1	0:1	20.09.2014	18:00	2014	2015	4
+AtlÃ©tico Madrid	Celta Vigo	2:1	2:2	20.09.2014	18:00	2014	2015	4
+Espanyol Barcelona	MÃ¡laga CF	1:0	2:2	20.09.2014	22:00	2014	2015	4
+Real Sociedad	UD AlmerÃ­a	0:1	1:2	21.09.2014	22:00	2014	2015	4
+Villarreal CF	Rayo Vallecano	1:2	4:2	21.09.2014	17:00	2014	2015	4
+CÃ³rdoba CF	Sevilla FC	0:1	1:3	21.09.2014	17:00	2014	2015	4
+Levante UD	FC Barcelona	0:2	0:5	21.09.2014	21:00	2014	2015	4
+Getafe CF	Valencia CF	0:2	0:3	22.09.2014	21:00	2014	2015	4
+Real Madrid	Elche CF	3:1	5:1	23.09.2014	20:00	2014	2015	5
+Celta Vigo	Deportivo La CoruÃ±a	1:0	2:1	23.09.2014	20:00	2014	2015	5
+UD AlmerÃ­a	AtlÃ©tico Madrid	0:0	0:1	24.09.2014	20:00	2014	2015	5
+SD Eibar	Villarreal CF	1:0	1:1	24.09.2014	20:00	2014	2015	5
+Rayo Vallecano	Athletic Bilbao	1:1	2:1	24.09.2014	20:00	2014	2015	5
+Sevilla FC	Real Sociedad	1:0	1:0	24.09.2014	20:00	2014	2015	5
+Granada CF	Levante UD	0:0	0:1	24.09.2014	22:00	2014	2015	5
+MÃ¡laga CF	FC Barcelona	0:0	0:0	24.09.2014	22:00	2014	2015	5
+Espanyol Barcelona	Getafe CF	0:0	2:0	25.09.2014	20:00	2014	2015	5
+Valencia CF	CÃ³rdoba CF	2:0	3:0	25.09.2014	20:00	2014	2015	5
+Elche CF	Celta Vigo	0:0	0:1	26.09.2014	21:00	2014	2015	6
+Villarreal CF	Real Madrid	0:2	0:2	27.09.2014	21:00	2014	2015	6
+FC Barcelona	Granada CF	3:0	6:0	27.09.2014	18:00	2014	2015	6
+AtlÃ©tico Madrid	Sevilla FC	2:0	4:0	27.09.2014	18:00	2014	2015	6
+Athletic Bilbao	SD Eibar	0:0	0:0	27.09.2014	22:00	2014	2015	6
+Levante UD	Rayo Vallecano	0:2	0:2	27.09.2014	22:00	2014	2015	6
+Getafe CF	MÃ¡laga CF	1:0	1:0	28.09.2014	12:00	2014	2015	6
+Deportivo La CoruÃ±a	UD AlmerÃ­a	0:0	0:1	28.09.2014	12:00	2014	2015	6
+Real Sociedad	Valencia CF	1:1	1:1	28.09.2014	19:00	2014	2015	6
+CÃ³rdoba CF	Espanyol Barcelona	0:0	0:0	28.09.2014	19:00	2014	2015	6
+Getafe CF	CÃ³rdoba CF	0:0	1:1	03.10.2014	21:00	2014	2015	7
+Valencia CF	AtlÃ©tico Madrid	3:1	3:1	04.10.2014	21:00	2014	2015	7
+Rayo Vallecano	FC Barcelona	0:2	0:2	04.10.2014	18:00	2014	2015	7
+SD Eibar	Levante UD	0:2	3:3	04.10.2014	18:00	2014	2015	7
+UD AlmerÃ­a	Elche CF	1:1	2:2	04.10.2014	22:00	2014	2015	7
+MÃ¡laga CF	Granada CF	0:1	2:1	04.10.2014	22:00	2014	2015	7
+Sevilla FC	Deportivo La CoruÃ±a	2:1	4:1	05.10.2014	12:00	2014	2015	7
+Celta Vigo	Villarreal CF	1:2	1:3	05.10.2014	12:00	2014	2015	7
+Espanyol Barcelona	Real Sociedad	1:0	2:0	05.10.2014	19:00	2014	2015	7
+Real Madrid	Athletic Bilbao	2:0	5:0	05.10.2014	19:00	2014	2015	7
+Granada CF	Rayo Vallecano	0:0	0:1	17.10.2014	21:00	2014	2015	8
+Levante UD	Real Madrid	0:2	0:5	18.10.2014	21:00	2014	2015	8
+Athletic Bilbao	Celta Vigo	1:0	1:1	18.10.2014	18:00	2014	2015	8
+FC Barcelona	SD Eibar	0:0	3:0	18.10.2014	18:00	2014	2015	8
+CÃ³rdoba CF	MÃ¡laga CF	0:2	1:2	18.10.2014	22:00	2014	2015	8
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	2:0	19.10.2014	22:00	2014	2015	8
+Deportivo La CoruÃ±a	Valencia CF	2:0	3:0	19.10.2014	17:00	2014	2015	8
+Elche CF	Sevilla FC	0:0	0:2	19.10.2014	17:00	2014	2015	8
+Villarreal CF	UD AlmerÃ­a	1:0	2:0	19.10.2014	21:00	2014	2015	8
+Real Sociedad	Getafe CF	0:0	1:2	20.10.2014	21:00	2014	2015	8
+Celta Vigo	Levante UD	1:0	3:0	24.10.2014	21:00	2014	2015	9
+UD AlmerÃ­a	Athletic Bilbao	0:0	0:1	25.10.2014	21:00	2014	2015	9
+Real Madrid	FC Barcelona	1:1	3:1	25.10.2014	18:00	2014	2015	9
+Valencia CF	Elche CF	2:0	3:1	25.10.2014	18:00	2014	2015	9
+CÃ³rdoba CF	Real Sociedad	0:1	1:1	25.10.2014	22:00	2014	2015	9
+SD Eibar	Granada CF	1:1	1:1	25.10.2014	22:00	2014	2015	9
+MÃ¡laga CF	Rayo Vallecano	3:0	4:0	26.10.2014	12:00	2014	2015	9
+Espanyol Barcelona	Deportivo La CoruÃ±a	0:0	0:0	26.10.2014	12:00	2014	2015	9
+Sevilla FC	Villarreal CF	0:0	2:1	26.10.2014	19:00	2014	2015	9
+Getafe CF	AtlÃ©tico Madrid	0:1	0:1	26.10.2014	19:00	2014	2015	9
+Deportivo La CoruÃ±a	Getafe CF	0:1	1:2	31.10.2014	20:45	2014	2015	10
+Granada CF	Real Madrid	0:2	0:4	01.11.2014	20:45	2014	2015	10
+AtlÃ©tico Madrid	CÃ³rdoba CF	1:0	4:2	01.11.2014	18:00	2014	2015	10
+FC Barcelona	Celta Vigo	0:0	0:1	01.11.2014	18:00	2014	2015	10
+Real Sociedad	MÃ¡laga CF	0:0	0:1	01.11.2014	22:00	2014	2015	10
+Athletic Bilbao	Sevilla FC	1:0	1:0	02.11.2014	22:00	2014	2015	10
+Villarreal CF	Valencia CF	0:1	1:3	02.11.2014	17:00	2014	2015	10
+Levante UD	UD AlmerÃ­a	1:0	2:1	02.11.2014	17:00	2014	2015	10
+Elche CF	Espanyol Barcelona	1:0	2:1	02.11.2014	21:00	2014	2015	10
+Rayo Vallecano	SD Eibar	0:1	2:3	03.11.2014	21:00	2014	2015	10
+CÃ³rdoba CF	Deportivo La CoruÃ±a	0:0	0:0	07.11.2014	20:45	2014	2015	11
+UD AlmerÃ­a	FC Barcelona	1:0	1:2	08.11.2014	20:45	2014	2015	11
+Getafe CF	Elche CF	0:0	0:0	08.11.2014	18:00	2014	2015	11
+Real Madrid	Rayo Vallecano	2:1	5:1	08.11.2014	18:00	2014	2015	11
+Celta Vigo	Granada CF	0:0	0:0	08.11.2014	22:00	2014	2015	11
+MÃ¡laga CF	SD Eibar	0:1	2:1	08.11.2014	22:00	2014	2015	11
+Sevilla FC	Levante UD	1:0	1:1	09.11.2014	12:00	2014	2015	11
+Espanyol Barcelona	Villarreal CF	0:1	1:1	09.11.2014	12:00	2014	2015	11
+Valencia CF	Athletic Bilbao	0:0	0:0	09.11.2014	19:00	2014	2015	11
+Real Sociedad	AtlÃ©tico Madrid	1:1	2:1	09.11.2014	19:00	2014	2015	11
+Athletic Bilbao	Espanyol Barcelona	2:0	3:1	21.11.2014	20:45	2014	2015	12
+AtlÃ©tico Madrid	MÃ¡laga CF	2:0	3:1	22.11.2014	20:45	2014	2015	12
+SD Eibar	Real Madrid	0:2	0:4	22.11.2014	18:00	2014	2015	12
+FC Barcelona	Sevilla FC	1:0	5:1	22.11.2014	18:00	2014	2015	12
+Deportivo La CoruÃ±a	Real Sociedad	0:0	0:0	22.11.2014	22:00	2014	2015	12
+Rayo Vallecano	Celta Vigo	1:0	1:0	23.11.2014	22:00	2014	2015	12
+Levante UD	Valencia CF	0:0	2:1	23.11.2014	17:00	2014	2015	12
+Elche CF	CÃ³rdoba CF	0:1	2:2	23.11.2014	17:00	2014	2015	12
+Villarreal CF	Getafe CF	2:0	2:1	23.11.2014	21:00	2014	2015	12
+Granada CF	UD AlmerÃ­a	0:0	0:0	24.11.2014	21:00	2014	2015	12
+Real Sociedad	Elche CF	2:0	3:0	28.11.2014	20:45	2014	2015	13
+Getafe CF	Athletic Bilbao	0:1	1:2	29.11.2014	20:45	2014	2015	13
+Espanyol Barcelona	Levante UD	2:1	2:1	29.11.2014	18:00	2014	2015	13
+MÃ¡laga CF	Real Madrid	0:1	1:2	29.11.2014	18:00	2014	2015	13
+Celta Vigo	SD Eibar	0:1	0:1	29.11.2014	22:00	2014	2015	13
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	2:0	30.11.2014	22:00	2014	2015	13
+Sevilla FC	Granada CF	1:1	5:1	30.11.2014	17:00	2014	2015	13
+CÃ³rdoba CF	Villarreal CF	0:1	0:2	30.11.2014	17:00	2014	2015	13
+Valencia CF	FC Barcelona	0:0	0:1	30.11.2014	21:00	2014	2015	13
+UD AlmerÃ­a	Rayo Vallecano	0:0	0:1	01.12.2014	21:00	2014	2015	13
+Elche CF	AtlÃ©tico Madrid	0:1	0:2	06.12.2014	16:00	2014	2015	14
+Athletic Bilbao	CÃ³rdoba CF	0:1	0:1	06.12.2014	16:00	2014	2015	14
+Real Madrid	Celta Vigo	1:0	3:0	06.12.2014	20:00	2014	2015	14
+Deportivo La CoruÃ±a	MÃ¡laga CF	0:1	0:1	06.12.2014	20:00	2014	2015	14
+Rayo Vallecano	Sevilla FC	0:1	0:1	07.12.2014	12:00	2014	2015	14
+FC Barcelona	Espanyol Barcelona	1:1	5:1	07.12.2014	12:00	2014	2015	14
+Villarreal CF	Real Sociedad	0:0	4:0	07.12.2014	19:00	2014	2015	14
+Granada CF	Valencia CF	0:0	1:1	07.12.2014	19:00	2014	2015	14
+SD Eibar	UD AlmerÃ­a	2:1	5:2	08.12.2014	17:00	2014	2015	14
+Levante UD	Getafe CF	0:0	1:1	08.12.2014	17:00	2014	2015	14
+UD AlmerÃ­a	Real Madrid	1:2	1:4	12.12.2014	20:45	2014	2015	15
+Getafe CF	FC Barcelona	0:0	0:0	13.12.2014	20:45	2014	2015	15
+Valencia CF	Rayo Vallecano	3:0	3:0	13.12.2014	18:00	2014	2015	15
+CÃ³rdoba CF	Levante UD	0:0	0:0	13.12.2014	18:00	2014	2015	15
+MÃ¡laga CF	Celta Vigo	1:0	1:0	13.12.2014	22:00	2014	2015	15
+Espanyol Barcelona	Granada CF	1:0	2:1	14.12.2014	22:00	2014	2015	15
+Sevilla FC	SD Eibar	0:0	0:0	14.12.2014	17:00	2014	2015	15
+AtlÃ©tico Madrid	Villarreal CF	0:0	0:1	14.12.2014	17:00	2014	2015	15
+Real Sociedad	Athletic Bilbao	1:0	1:1	14.12.2014	21:00	2014	2015	15
+Deportivo La CoruÃ±a	Elche CF	1:0	1:0	15.12.2014	21:00	2014	2015	15
+Celta Vigo	UD AlmerÃ­a	0:1	0:1	19.12.2014	20:45	2014	2015	16
+FC Barcelona	CÃ³rdoba CF	1:0	5:0	20.12.2014	20:45	2014	2015	16
+Levante UD	Real Sociedad	0:0	1:1	20.12.2014	18:00	2014	2015	16
+SD Eibar	Valencia CF	0:1	0:1	20.12.2014	18:00	2014	2015	16
+Rayo Vallecano	Espanyol Barcelona	1:1	1:3	20.12.2014	22:00	2014	2015	16
+Villarreal CF	Deportivo La CoruÃ±a	1:0	3:0	21.12.2014	22:00	2014	2015	16
+Granada CF	Getafe CF	1:0	1:1	21.12.2014	17:00	2014	2015	16
+Elche CF	MÃ¡laga CF	1:0	1:2	21.12.2014	17:00	2014	2015	16
+Athletic Bilbao	AtlÃ©tico Madrid	1:0	1:4	21.12.2014	21:00	2014	2015	16
+Real Madrid	Sevilla FC	2:0	2:1	04.02.2015	21:00	2014	2015	16
+AtlÃ©tico Madrid	Levante UD	1:0	3:1	03.01.2015	16:00	2014	2015	17
+Sevilla FC	Celta Vigo	1:0	1:0	03.01.2015	16:00	2014	2015	17
+Elche CF	Villarreal CF	2:2	2:2	03.01.2015	20:00	2014	2015	17
+Deportivo La CoruÃ±a	Athletic Bilbao	1:0	1:0	03.01.2015	20:00	2014	2015	17
+MÃ¡laga CF	UD AlmerÃ­a	0:1	1:2	03.01.2015	22:00	2014	2015	17
+Getafe CF	Rayo Vallecano	1:1	1:2	04.01.2015	22:00	2014	2015	17
+Valencia CF	Real Madrid	0:1	2:1	04.01.2015	17:00	2014	2015	17
+Espanyol Barcelona	SD Eibar	0:2	1:2	04.01.2015	17:00	2014	2015	17
+Real Sociedad	FC Barcelona	1:0	1:0	04.01.2015	21:00	2014	2015	17
+CÃ³rdoba CF	Granada CF	2:0	2:0	05.01.2015	21:00	2014	2015	17
+Levante UD	Deportivo La CoruÃ±a	0:0	0:0	09.01.2015	20:45	2014	2015	18
+Real Madrid	Espanyol Barcelona	2:0	3:0	10.01.2015	20:45	2014	2015	18
+MÃ¡laga CF	Villarreal CF	0:1	1:1	10.01.2015	18:00	2014	2015	18
+Celta Vigo	Valencia CF	0:1	1:1	10.01.2015	18:00	2014	2015	18
+SD Eibar	Getafe CF	1:0	2:1	10.01.2015	22:00	2014	2015	18
+UD AlmerÃ­a	Sevilla FC	0:0	0:2	11.01.2015	22:00	2014	2015	18
+Athletic Bilbao	Elche CF	0:1	1:2	11.01.2015	17:00	2014	2015	18
+Granada CF	Real Sociedad	0:1	1:1	11.01.2015	17:00	2014	2015	18
+FC Barcelona	AtlÃ©tico Madrid	2:0	3:1	11.01.2015	21:00	2014	2015	18
+Rayo Vallecano	CÃ³rdoba CF	0:1	0:1	12.01.2015	21:00	2014	2015	18
+CÃ³rdoba CF	SD Eibar	1:0	1:1	16.01.2015	20:45	2014	2015	19
+Real Sociedad	Rayo Vallecano	0:0	0:1	17.01.2015	20:45	2014	2015	19
+Valencia CF	UD AlmerÃ­a	2:2	3:2	17.01.2015	18:00	2014	2015	19
+Villarreal CF	Athletic Bilbao	1:0	2:0	17.01.2015	18:00	2014	2015	19
+Espanyol Barcelona	Celta Vigo	0:0	1:0	17.01.2015	22:00	2014	2015	19
+Getafe CF	Real Madrid	0:0	0:3	18.01.2015	22:00	2014	2015	19
+AtlÃ©tico Madrid	Granada CF	1:0	2:0	18.01.2015	17:00	2014	2015	19
+Deportivo La CoruÃ±a	FC Barcelona	0:2	0:4	18.01.2015	17:00	2014	2015	19
+Elche CF	Levante UD	1:0	1:0	18.01.2015	21:00	2014	2015	19
+Sevilla FC	MÃ¡laga CF	1:0	2:0	18.01.2015	21:00	2014	2015	19
+CÃ³rdoba CF	Real Madrid	1:1	1:2	24.01.2015	16:00	2014	2015	20
+Elche CF	FC Barcelona	0:1	0:6	24.01.2015	16:00	2014	2015	20
+AtlÃ©tico Madrid	Rayo Vallecano	2:1	3:1	24.01.2015	20:00	2014	2015	20
+Villarreal CF	Levante UD	0:0	1:0	24.01.2015	20:00	2014	2015	20
+Real Sociedad	SD Eibar	0:0	1:0	24.01.2015	22:00	2014	2015	20
+Deportivo La CoruÃ±a	Granada CF	2:1	2:2	25.01.2015	22:00	2014	2015	20
+Athletic Bilbao	MÃ¡laga CF	0:0	1:1	25.01.2015	17:00	2014	2015	20
+Espanyol Barcelona	UD AlmerÃ­a	2:0	3:0	25.01.2015	17:00	2014	2015	20
+Valencia CF	Sevilla FC	2:1	3:1	25.01.2015	21:00	2014	2015	20
+Getafe CF	Celta Vigo	1:1	2:1	26.01.2015	21:00	2014	2015	20
+Rayo Vallecano	Deportivo La CoruÃ±a	1:1	1:2	30.01.2015	20:45	2014	2015	21
+Real Madrid	Real Sociedad	2:1	4:1	31.01.2015	20:45	2014	2015	21
+SD Eibar	AtlÃ©tico Madrid	0:3	1:3	31.01.2015	18:00	2014	2015	21
+Granada CF	Elche CF	0:0	1:0	31.01.2015	18:00	2014	2015	21
+Celta Vigo	CÃ³rdoba CF	0:0	1:0	31.01.2015	22:00	2014	2015	21
+Levante UD	Athletic Bilbao	0:0	0:2	01.02.2015	22:00	2014	2015	21
+UD AlmerÃ­a	Getafe CF	1:0	1:0	01.02.2015	17:00	2014	2015	21
+Sevilla FC	Espanyol Barcelona	2:1	3:2	01.02.2015	17:00	2014	2015	21
+FC Barcelona	Villarreal CF	1:1	3:2	01.02.2015	21:00	2014	2015	21
+MÃ¡laga CF	Valencia CF	1:0	1:0	02.02.2015	21:00	2014	2015	21
+Deportivo La CoruÃ±a	SD Eibar	0:0	2:0	06.02.2015	20:45	2014	2015	22
+AtlÃ©tico Madrid	Real Madrid	2:0	4:0	07.02.2015	20:45	2014	2015	22
+Villarreal CF	Granada CF	1:0	2:0	07.02.2015	18:00	2014	2015	22
+Levante UD	MÃ¡laga CF	2:1	4:1	07.02.2015	18:00	2014	2015	22
+Real Sociedad	Celta Vigo	1:0	1:1	07.02.2015	22:00	2014	2015	22
+CÃ³rdoba CF	UD AlmerÃ­a	1:0	1:2	08.02.2015	22:00	2014	2015	22
+Getafe CF	Sevilla FC	1:0	2:1	08.02.2015	17:00	2014	2015	22
+Espanyol Barcelona	Valencia CF	0:0	1:2	08.02.2015	17:00	2014	2015	22
+Athletic Bilbao	FC Barcelona	0:2	2:5	08.02.2015	21:00	2014	2015	22
+Elche CF	Rayo Vallecano	1:0	2:0	09.02.2015	21:00	2014	2015	22
+UD AlmerÃ­a	Real Sociedad	2:1	2:2	13.02.2015	20:45	2014	2015	23
+Sevilla FC	CÃ³rdoba CF	2:0	3:0	14.02.2015	20:45	2014	2015	23
+Real Madrid	Deportivo La CoruÃ±a	1:0	2:0	14.02.2015	18:00	2014	2015	23
+Granada CF	Athletic Bilbao	0:0	0:0	14.02.2015	18:00	2014	2015	23
+MÃ¡laga CF	Espanyol Barcelona	0:1	0:2	14.02.2015	22:00	2014	2015	23
+Valencia CF	Getafe CF	0:0	1:0	15.02.2015	22:00	2014	2015	23
+FC Barcelona	Levante UD	2:0	5:0	15.02.2015	17:00	2014	2015	23
+Rayo Vallecano	Villarreal CF	0:0	2:0	15.02.2015	17:00	2014	2015	23
+Celta Vigo	AtlÃ©tico Madrid	0:0	2:0	15.02.2015	21:00	2014	2015	23
+SD Eibar	Elche CF	0:0	0:1	16.02.2015	21:00	2014	2015	23
+Getafe CF	Espanyol Barcelona	1:0	2:1	20.02.2015	20:45	2014	2015	24
+FC Barcelona	MÃ¡laga CF	0:1	0:1	21.02.2015	20:45	2014	2015	24
+CÃ³rdoba CF	Valencia CF	0:1	1:2	21.02.2015	18:00	2014	2015	24
+AtlÃ©tico Madrid	UD AlmerÃ­a	3:0	3:0	21.02.2015	18:00	2014	2015	24
+Deportivo La CoruÃ±a	Celta Vigo	0:0	0:2	21.02.2015	22:00	2014	2015	24
+Real Sociedad	Sevilla FC	1:1	4:3	22.02.2015	22:00	2014	2015	24
+Athletic Bilbao	Rayo Vallecano	0:0	1:0	22.02.2015	17:00	2014	2015	24
+Villarreal CF	SD Eibar	0:0	1:0	22.02.2015	17:00	2014	2015	24
+Elche CF	Real Madrid	0:0	0:2	22.02.2015	21:00	2014	2015	24
+Levante UD	Granada CF	0:1	2:1	23.02.2015	21:00	2014	2015	24
+Espanyol Barcelona	CÃ³rdoba CF	1:0	1:0	27.02.2015	20:45	2014	2015	25
+Granada CF	FC Barcelona	0:1	1:3	28.02.2015	20:45	2014	2015	25
+Rayo Vallecano	Levante UD	4:1	4:2	28.02.2015	18:00	2014	2015	25
+UD AlmerÃ­a	Deportivo La CoruÃ±a	0:0	0:0	28.02.2015	18:00	2014	2015	25
+MÃ¡laga CF	Getafe CF	1:0	3:2	28.02.2015	22:00	2014	2015	25
+Valencia CF	Real Sociedad	0:0	2:0	01.03.2015	22:00	2014	2015	25
+SD Eibar	Athletic Bilbao	0:1	0:1	01.03.2015	17:00	2014	2015	25
+Sevilla FC	AtlÃ©tico Madrid	0:0	0:0	01.03.2015	17:00	2014	2015	25
+Real Madrid	Villarreal CF	0:0	1:1	01.03.2015	21:00	2014	2015	25
+Celta Vigo	Elche CF	0:0	1:1	02.03.2015	21:00	2014	2015	25
+Levante UD	SD Eibar	0:0	2:1	06.03.2015	20:45	2014	2015	26
+Deportivo La CoruÃ±a	Sevilla FC	1:1	3:4	07.03.2015	20:45	2014	2015	26
+Athletic Bilbao	Real Madrid	1:0	1:0	07.03.2015	18:00	2014	2015	26
+Elche CF	UD AlmerÃ­a	1:0	1:0	07.03.2015	18:00	2014	2015	26
+Granada CF	MÃ¡laga CF	0:0	1:0	07.03.2015	22:00	2014	2015	26
+FC Barcelona	Rayo Vallecano	1:0	6:1	08.03.2015	22:00	2014	2015	26
+Real Sociedad	Espanyol Barcelona	1:0	1:0	08.03.2015	17:00	2014	2015	26
+Villarreal CF	Celta Vigo	2:0	4:1	08.03.2015	17:00	2014	2015	26
+AtlÃ©tico Madrid	Valencia CF	1:0	1:1	08.03.2015	21:00	2014	2015	26
+CÃ³rdoba CF	Getafe CF	0:0	1:2	09.03.2015	21:00	2014	2015	26
+Valencia CF	Deportivo La CoruÃ±a	0:0	2:0	13.03.2015	20:45	2014	2015	27
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	0:0	14.03.2015	20:45	2014	2015	27
+SD Eibar	FC Barcelona	0:1	0:2	14.03.2015	18:00	2014	2015	27
+Rayo Vallecano	Granada CF	0:1	3:1	14.03.2015	18:00	2014	2015	27
+Celta Vigo	Athletic Bilbao	0:2	1:2	14.03.2015	22:00	2014	2015	27
+UD AlmerÃ­a	Villarreal CF	0:0	0:0	15.03.2015	22:00	2014	2015	27
+MÃ¡laga CF	CÃ³rdoba CF	0:0	2:0	15.03.2015	17:00	2014	2015	27
+Sevilla FC	Elche CF	2:0	3:0	15.03.2015	17:00	2014	2015	27
+Real Madrid	Levante UD	2:0	2:0	15.03.2015	21:00	2014	2015	27
+Getafe CF	Real Sociedad	0:0	0:1	16.03.2015	21:00	2014	2015	27
+Elche CF	Valencia CF	0:1	0:4	20.03.2015	20:45	2014	2015	28
+AtlÃ©tico Madrid	Getafe CF	2:0	2:0	21.03.2015	20:45	2014	2015	28
+Rayo Vallecano	MÃ¡laga CF	1:0	1:0	21.03.2015	18:00	2014	2015	28
+Levante UD	Celta Vigo	0:0	0:1	21.03.2015	18:00	2014	2015	28
+Athletic Bilbao	UD AlmerÃ­a	2:0	2:1	21.03.2015	22:00	2014	2015	28
+Granada CF	SD Eibar	0:0	0:0	21.03.2015	22:00	2014	2015	28
+Deportivo La CoruÃ±a	Espanyol Barcelona	0:0	0:0	22.03.2015	12:00	2014	2015	28
+Villarreal CF	Sevilla FC	0:0	0:2	22.03.2015	12:00	2014	2015	28
+Real Sociedad	CÃ³rdoba CF	1:1	3:1	22.03.2015	19:00	2014	2015	28
+FC Barcelona	Real Madrid	1:1	2:1	22.03.2015	19:00	2014	2015	28
+SD Eibar	Rayo Vallecano	1:2	1:2	03.04.2015	20:45	2014	2015	29
+Sevilla FC	Athletic Bilbao	2:0	2:0	04.04.2015	20:45	2014	2015	29
+CÃ³rdoba CF	AtlÃ©tico Madrid	0:2	0:2	04.04.2015	18:00	2014	2015	29
+UD AlmerÃ­a	Levante UD	0:2	1:4	04.04.2015	18:00	2014	2015	29
+MÃ¡laga CF	Real Sociedad	0:0	1:1	04.04.2015	22:00	2014	2015	29
+Real Madrid	Granada CF	4:0	9:1	05.04.2015	22:00	2014	2015	29
+Valencia CF	Villarreal CF	0:0	0:0	05.04.2015	17:00	2014	2015	29
+Getafe CF	Deportivo La CoruÃ±a	2:0	2:1	05.04.2015	17:00	2014	2015	29
+Celta Vigo	FC Barcelona	0:0	0:1	05.04.2015	21:00	2014	2015	29
+Espanyol Barcelona	Elche CF	1:0	1:1	06.04.2015	21:00	2014	2015	29
+AtlÃ©tico Madrid	Real Sociedad	2:0	2:0	07.04.2015	20:00	2014	2015	30
+Levante UD	Sevilla FC	0:2	1:2	07.04.2015	20:00	2014	2015	30
+SD Eibar	MÃ¡laga CF	0:0	1:0	07.04.2015	22:00	2014	2015	30
+Deportivo La CoruÃ±a	CÃ³rdoba CF	0:0	1:1	08.04.2015	22:00	2014	2015	30
+FC Barcelona	UD AlmerÃ­a	1:0	4:0	08.04.2015	20:00	2014	2015	30
+Granada CF	Celta Vigo	1:0	1:1	08.04.2015	20:00	2014	2015	30
+Rayo Vallecano	Real Madrid	0:0	0:2	08.04.2015	22:00	2014	2015	30
+Athletic Bilbao	Valencia CF	0:0	1:1	09.04.2015	22:00	2014	2015	30
+Elche CF	Getafe CF	0:0	0:1	09.04.2015	22:00	2014	2015	30
+Villarreal CF	Espanyol Barcelona	0:1	0:3	09.04.2015	22:00	2014	2015	30
+Real Madrid	SD Eibar	2:0	3:0	11.04.2015	16:00	2014	2015	31
+MÃ¡laga CF	AtlÃ©tico Madrid	1:1	2:2	11.04.2015	16:00	2014	2015	31
+Sevilla FC	FC Barcelona	1:2	2:2	11.04.2015	20:00	2014	2015	31
+UD AlmerÃ­a	Granada CF	1:0	3:0	11.04.2015	20:00	2014	2015	31
+Celta Vigo	Rayo Vallecano	4:1	6:1	11.04.2015	22:00	2014	2015	31
+Getafe CF	Villarreal CF	0:0	1:1	12.04.2015	22:00	2014	2015	31
+Espanyol Barcelona	Athletic Bilbao	1:0	1:0	12.04.2015	17:00	2014	2015	31
+Real Sociedad	Deportivo La CoruÃ±a	1:1	2:2	12.04.2015	17:00	2014	2015	31
+CÃ³rdoba CF	Elche CF	0:1	0:2	12.04.2015	21:00	2014	2015	31
+Valencia CF	Levante UD	2:0	3:0	13.04.2015	21:00	2014	2015	31
+Levante UD	Espanyol Barcelona	1:2	2:2	17.04.2015	20:45	2014	2015	32
+FC Barcelona	Valencia CF	1:0	2:0	18.04.2015	20:45	2014	2015	32
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:2	1:2	18.04.2015	18:00	2014	2015	32
+Real Madrid	MÃ¡laga CF	1:0	3:1	18.04.2015	18:00	2014	2015	32
+Athletic Bilbao	Getafe CF	1:0	4:0	18.04.2015	22:00	2014	2015	32
+Rayo Vallecano	UD AlmerÃ­a	1:0	2:0	19.04.2015	22:00	2014	2015	32
+Granada CF	Sevilla FC	1:0	1:1	19.04.2015	17:00	2014	2015	32
+Villarreal CF	CÃ³rdoba CF	0:0	0:0	19.04.2015	17:00	2014	2015	32
+SD Eibar	Celta Vigo	0:1	0:1	19.04.2015	21:00	2014	2015	32
+Elche CF	Real Sociedad	1:0	1:0	20.04.2015	21:00	2014	2015	32
+CÃ³rdoba CF	Athletic Bilbao	0:0	0:1	24.04.2015	20:45	2014	2015	33
+Espanyol Barcelona	FC Barcelona	0:2	0:2	25.04.2015	20:45	2014	2015	33
+AtlÃ©tico Madrid	Elche CF	0:0	3:0	25.04.2015	18:00	2014	2015	33
+Getafe CF	Levante UD	0:1	0:1	25.04.2015	18:00	2014	2015	33
+Real Sociedad	Villarreal CF	0:0	0:0	25.04.2015	22:00	2014	2015	33
+MÃ¡laga CF	Deportivo La CoruÃ±a	0:0	1:1	26.04.2015	22:00	2014	2015	33
+UD AlmerÃ­a	SD Eibar	1:0	2:0	26.04.2015	17:00	2014	2015	33
+Sevilla FC	Rayo Vallecano	2:0	2:0	26.04.2015	17:00	2014	2015	33
+Celta Vigo	Real Madrid	2:3	2:4	26.04.2015	21:00	2014	2015	33
+Valencia CF	Granada CF	2:0	4:0	27.04.2015	21:00	2014	2015	33
+FC Barcelona	Getafe CF	5:0	6:0	28.04.2015	20:00	2014	2015	34
+Athletic Bilbao	Real Sociedad	0:0	1:1	28.04.2015	20:00	2014	2015	34
+Levante UD	CÃ³rdoba CF	1:0	1:0	28.04.2015	22:00	2014	2015	34
+SD Eibar	Sevilla FC	0:2	1:3	29.04.2015	22:00	2014	2015	34
+Real Madrid	UD AlmerÃ­a	1:0	3:0	29.04.2015	20:00	2014	2015	34
+Celta Vigo	MÃ¡laga CF	0:0	1:0	29.04.2015	20:00	2014	2015	34
+Elche CF	Deportivo La CoruÃ±a	2:0	4:0	29.04.2015	22:00	2014	2015	34
+Villarreal CF	AtlÃ©tico Madrid	0:0	0:1	29.04.2015	22:00	2014	2015	34
+Rayo Vallecano	Valencia CF	1:0	1:1	30.04.2015	20:00	2014	2015	34
+Granada CF	Espanyol Barcelona	0:1	1:2	30.04.2015	20:00	2014	2015	34
+Real Sociedad	Levante UD	1:0	3:0	01.05.2015	20:45	2014	2015	35
+CÃ³rdoba CF	FC Barcelona	0:2	0:8	02.05.2015	20:45	2014	2015	35
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	0:0	02.05.2015	18:00	2014	2015	35
+Sevilla FC	Real Madrid	1:2	2:3	02.05.2015	18:00	2014	2015	35
+Deportivo La CoruÃ±a	Villarreal CF	0:0	1:1	02.05.2015	22:00	2014	2015	35
+Espanyol Barcelona	Rayo Vallecano	0:1	1:1	03.05.2015	22:00	2014	2015	35
+Getafe CF	Granada CF	1:1	1:2	03.05.2015	17:00	2014	2015	35
+Valencia CF	SD Eibar	1:0	3:1	03.05.2015	17:00	2014	2015	35
+MÃ¡laga CF	Elche CF	0:1	1:2	03.05.2015	21:00	2014	2015	35
+UD AlmerÃ­a	Celta Vigo	0:2	2:2	04.05.2015	21:00	2014	2015	35
+SD Eibar	Espanyol Barcelona	0:1	0:2	08.05.2015	20:45	2014	2015	36
+Granada CF	CÃ³rdoba CF	1:0	2:0	09.05.2015	20:45	2014	2015	36
+FC Barcelona	Real Sociedad	0:0	2:0	09.05.2015	18:00	2014	2015	36
+Real Madrid	Valencia CF	0:2	2:2	09.05.2015	18:00	2014	2015	36
+Athletic Bilbao	Deportivo La CoruÃ±a	1:0	1:1	09.05.2015	22:00	2014	2015	36
+Levante UD	AtlÃ©tico Madrid	1:1	2:2	10.05.2015	22:00	2014	2015	36
+Villarreal CF	Elche CF	1:0	1:0	10.05.2015	17:00	2014	2015	36
+UD AlmerÃ­a	MÃ¡laga CF	1:1	1:2	10.05.2015	17:00	2014	2015	36
+Celta Vigo	Sevilla FC	0:1	1:1	10.05.2015	21:00	2014	2015	36
+Rayo Vallecano	Getafe CF	1:0	2:0	11.05.2015	21:00	2014	2015	36
+Villarreal CF	MÃ¡laga CF	0:0	2:1	17.05.2015	19:00	2014	2015	37
+Elche CF	Athletic Bilbao	2:0	2:3	17.05.2015	19:00	2014	2015	37
+Deportivo La CoruÃ±a	Levante UD	1:0	2:0	17.05.2015	19:00	2014	2015	37
+AtlÃ©tico Madrid	FC Barcelona	0:0	0:1	17.05.2015	19:00	2014	2015	37
+Real Sociedad	Granada CF	0:0	0:3	17.05.2015	19:00	2014	2015	37
+CÃ³rdoba CF	Rayo Vallecano	0:1	1:2	17.05.2015	19:00	2014	2015	37
+Getafe CF	SD Eibar	1:1	1:1	17.05.2015	19:00	2014	2015	37
+Espanyol Barcelona	Real Madrid	0:0	1:4	17.05.2015	19:00	2014	2015	37
+Valencia CF	Celta Vigo	0:1	1:1	17.05.2015	19:00	2014	2015	37
+Sevilla FC	UD AlmerÃ­a	0:1	2:1	17.05.2015	19:00	2014	2015	37
+Levante UD	Elche CF	0:0	0:0	23.05.2015	16:30	2014	2015	38
+Athletic Bilbao	Villarreal CF	3:0	4:0	23.05.2015	16:30	2014	2015	38
+FC Barcelona	Deportivo La CoruÃ±a	1:0	2:2	23.05.2015	18:30	2014	2015	38
+Granada CF	AtlÃ©tico Madrid	0:0	0:0	23.05.2015	18:30	2014	2015	38
+Rayo Vallecano	Real Sociedad	1:2	2:4	23.05.2015	18:30	2014	2015	38
+SD Eibar	CÃ³rdoba CF	3:0	3:0	23.05.2015	18:30	2014	2015	38
+Celta Vigo	Espanyol Barcelona	1:1	3:2	23.05.2015	18:30	2014	2015	38
+UD AlmerÃ­a	Valencia CF	2:2	2:3	23.05.2015	18:30	2014	2015	38
+MÃ¡laga CF	Sevilla FC	0:0	2:3	23.05.2015	18:30	2014	2015	38
+Real Madrid	Getafe CF	3:3	7:3	23.05.2015	18:30	2014	2015	38

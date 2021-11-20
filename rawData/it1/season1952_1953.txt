@@ -1,0 +1,306 @@
+AC Milan	Novara Calcio	0:0	2:0	01.01.2000	00:00	1952	1953	1
+US Palermo	Juventus	0:0	1:1	01.01.2000	00:00	1952	1953	1
+Torino FC	Sampdoria	0:0	2:0	01.01.2000	00:00	1952	1953	1
+SSC Napoli	Atalanta	0:0	2:0	01.01.2000	00:00	1952	1953	1
+ACF Fiorentina	SPAL 1907 Ferrara	0:0	1:1	01.01.2000	00:00	1952	1953	1
+Calcio Como	Inter	0:0	0:1	01.01.2000	00:00	1952	1953	1
+Bologna FC	Aurora Pro Patria	0:0	4:1	01.01.2000	00:00	1952	1953	1
+Unione Triestina	AS Roma	0:0	2:3	01.01.2000	00:00	1952	1953	1
+Lazio Roma	Udinese Calcio	0:0	1:2	01.01.2000	00:00	1952	1953	1
+SPAL 1907 Ferrara	Calcio Como	0:0	0:0	01.01.2000	00:00	1952	1953	2
+Udinese Calcio	Torino FC	0:0	1:0	01.01.2000	00:00	1952	1953	2
+Sampdoria	SSC Napoli	0:0	0:0	01.01.2000	00:00	1952	1953	2
+AS Roma	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1952	1953	2
+US Palermo	AC Milan	0:0	0:1	01.01.2000	00:00	1952	1953	2
+Novara Calcio	Lazio Roma	0:0	2:2	01.01.2000	00:00	1952	1953	2
+Juventus	Bologna FC	0:0	1:2	01.01.2000	00:00	1952	1953	2
+Inter	Atalanta	0:0	1:0	01.01.2000	00:00	1952	1953	2
+Aurora Pro Patria	Unione Triestina	0:0	3:2	01.01.2000	00:00	1952	1953	2
+ACF Fiorentina	Novara Calcio	0:0	1:0	01.01.2000	00:00	1952	1953	3
+Unione Triestina	Sampdoria	0:0	1:1	01.01.2000	00:00	1952	1953	3
+Torino FC	Inter	0:0	1:1	01.01.2000	00:00	1952	1953	3
+SSC Napoli	Udinese Calcio	0:0	4:2	01.01.2000	00:00	1952	1953	3
+Atalanta	Juventus	0:0	1:5	01.01.2000	00:00	1952	1953	3
+Lazio Roma	Aurora Pro Patria	0:0	3:1	01.01.2000	00:00	1952	1953	3
+Calcio Como	US Palermo	0:0	3:1	01.01.2000	00:00	1952	1953	3
+Bologna FC	AS Roma	0:0	0:1	01.01.2000	00:00	1952	1953	3
+AC Milan	SPAL 1907 Ferrara	0:0	1:0	01.01.2000	00:00	1952	1953	3
+Aurora Pro Patria	Torino FC	0:0	3:0	01.01.2000	00:00	1952	1953	4
+AS Roma	AC Milan	0:0	2:1	01.01.2000	00:00	1952	1953	4
+Udinese Calcio	ACF Fiorentina	0:0	0:1	01.01.2000	00:00	1952	1953	4
+Sampdoria	Atalanta	0:0	0:0	01.01.2000	00:00	1952	1953	4
+Bologna FC	US Palermo	0:0	5:2	01.01.2000	00:00	1952	1953	4
+Juventus	Unione Triestina	0:0	3:2	01.01.2000	00:00	1952	1953	4
+SPAL 1907 Ferrara	Lazio Roma	0:0	1:0	01.01.2000	00:00	1952	1953	4
+Inter	SSC Napoli	0:0	5:1	01.01.2000	00:00	1952	1953	4
+Novara Calcio	Calcio Como	0:0	2:1	01.01.2000	00:00	1952	1953	4
+Lazio Roma	SSC Napoli	0:0	2:1	01.01.2000	00:00	1952	1953	5
+Unione Triestina	SPAL 1907 Ferrara	0:0	2:0	01.01.2000	00:00	1952	1953	5
+Torino FC	Novara Calcio	0:0	4:1	01.01.2000	00:00	1952	1953	5
+Aurora Pro Patria	Inter	0:0	2:2	01.01.2000	00:00	1952	1953	5
+AC Milan	Sampdoria	0:0	2:1	01.01.2000	00:00	1952	1953	5
+ACF Fiorentina	Juventus	0:0	1:2	01.01.2000	00:00	1952	1953	5
+Calcio Como	Udinese Calcio	0:0	0:0	01.01.2000	00:00	1952	1953	5
+Atalanta	Bologna FC	0:0	2:0	01.01.2000	00:00	1952	1953	5
+US Palermo	AS Roma	0:0	1:1	01.01.2000	00:00	1952	1953	5
+AS Roma	Calcio Como	0:0	3:0	01.01.2000	00:00	1952	1953	6
+SPAL 1907 Ferrara	Torino FC	0:0	1:1	01.01.2000	00:00	1952	1953	6
+Unione Triestina	AC Milan	0:0	1:1	01.01.2000	00:00	1952	1953	6
+Sampdoria	Lazio Roma	0:0	1:2	01.01.2000	00:00	1952	1953	6
+Novara Calcio	Atalanta	0:0	1:1	01.01.2000	00:00	1952	1953	6
+SSC Napoli	Aurora Pro Patria	0:0	1:0	01.01.2000	00:00	1952	1953	6
+Juventus	Udinese Calcio	0:0	4:0	01.01.2000	00:00	1952	1953	6
+Inter	Bologna FC	0:0	2:1	01.01.2000	00:00	1952	1953	6
+US Palermo	ACF Fiorentina	0:0	0:0	01.01.2000	00:00	1952	1953	6
+Torino FC	AS Roma	0:0	0:0	01.01.2000	00:00	1952	1953	7
+Atalanta	Unione Triestina	0:0	5:2	01.01.2000	00:00	1952	1953	7
+Udinese Calcio	Novara Calcio	0:0	2:1	01.01.2000	00:00	1952	1953	7
+Aurora Pro Patria	SPAL 1907 Ferrara	0:0	2:0	01.01.2000	00:00	1952	1953	7
+AC Milan	Inter	0:0	0:1	01.01.2000	00:00	1952	1953	7
+ACF Fiorentina	SSC Napoli	0:0	2:1	01.01.2000	00:00	1952	1953	7
+Calcio Como	Juventus	0:0	0:1	01.01.2000	00:00	1952	1953	7
+Bologna FC	Sampdoria	0:0	2:0	01.01.2000	00:00	1952	1953	7
+Lazio Roma	US Palermo	0:0	2:0	01.01.2000	00:00	1952	1953	7
+SSC Napoli	US Palermo	0:0	0:0	01.01.2000	00:00	1952	1953	8
+Unione Triestina	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1952	1953	8
+SPAL 1907 Ferrara	Inter	0:0	0:1	01.01.2000	00:00	1952	1953	8
+Sampdoria	Calcio Como	0:0	1:1	01.01.2000	00:00	1952	1953	8
+Atalanta	Lazio Roma	0:0	0:0	01.01.2000	00:00	1952	1953	8
+Novara Calcio	Bologna FC	0:0	2:2	01.01.2000	00:00	1952	1953	8
+AC Milan	Aurora Pro Patria	0:0	4:0	01.01.2000	00:00	1952	1953	8
+Juventus	Torino FC	0:0	4:1	01.01.2000	00:00	1952	1953	8
+AS Roma	Udinese Calcio	0:0	2:2	01.01.2000	00:00	1952	1953	8
+Lazio Roma	AS Roma	0:0	1:0	01.01.2000	00:00	1952	1953	9
+Sampdoria	SPAL 1907 Ferrara	0:0	2:2	01.01.2000	00:00	1952	1953	9
+US Palermo	Udinese Calcio	0:0	3:2	01.01.2000	00:00	1952	1953	9
+Torino FC	Atalanta	0:0	2:3	01.01.2000	00:00	1952	1953	9
+Inter	Unione Triestina	0:0	1:0	01.01.2000	00:00	1952	1953	9
+ACF Fiorentina	Aurora Pro Patria	0:0	2:2	01.01.2000	00:00	1952	1953	9
+Bologna FC	Calcio Como	0:0	1:0	01.01.2000	00:00	1952	1953	9
+Novara Calcio	Juventus	0:0	0:6	01.01.2000	00:00	1952	1953	9
+SSC Napoli	AC Milan	0:0	4:2	01.01.2000	00:00	1952	1953	9
+Juventus	Sampdoria	0:0	3:0	01.01.2000	00:00	1952	1953	10
+Udinese Calcio	AC Milan	0:0	0:1	01.01.2000	00:00	1952	1953	10
+Unione Triestina	Novara Calcio	0:0	2:0	01.01.2000	00:00	1952	1953	10
+Aurora Pro Patria	AS Roma	0:0	0:1	01.01.2000	00:00	1952	1953	10
+Lazio Roma	Torino FC	0:0	2:1	01.01.2000	00:00	1952	1953	10
+Inter	ACF Fiorentina	0:0	3:0	01.01.2000	00:00	1952	1953	10
+Calcio Como	SSC Napoli	0:0	2:1	01.01.2000	00:00	1952	1953	10
+Bologna FC	SPAL 1907 Ferrara	0:0	2:1	01.01.2000	00:00	1952	1953	10
+US Palermo	Atalanta	0:0	4:2	01.01.2000	00:00	1952	1953	10
+Sampdoria	Aurora Pro Patria	0:0	1:0	01.01.2000	00:00	1952	1953	11
+Torino FC	US Palermo	0:0	3:0	01.01.2000	00:00	1952	1953	11
+Udinese Calcio	Unione Triestina	0:0	1:1	01.01.2000	00:00	1952	1953	11
+SPAL 1907 Ferrara	Juventus	0:0	2:2	01.01.2000	00:00	1952	1953	11
+SSC Napoli	Novara Calcio	0:0	2:3	01.01.2000	00:00	1952	1953	11
+AC Milan	Lazio Roma	0:0	3:1	01.01.2000	00:00	1952	1953	11
+ACF Fiorentina	Bologna FC	0:0	1:1	01.01.2000	00:00	1952	1953	11
+Atalanta	Calcio Como	0:0	1:1	01.01.2000	00:00	1952	1953	11
+AS Roma	Inter	0:0	1:3	01.01.2000	00:00	1952	1953	11
+AS Roma	Sampdoria	0:0	0:0	01.01.2000	00:00	1952	1953	12
+Bologna FC	SSC Napoli	0:0	1:3	01.01.2000	00:00	1952	1953	12
+Unione Triestina	Torino FC	0:0	3:0	01.01.2000	00:00	1952	1953	12
+Aurora Pro Patria	US Palermo	0:0	2:1	01.01.2000	00:00	1952	1953	12
+Novara Calcio	SPAL 1907 Ferrara	0:0	0:0	01.01.2000	00:00	1952	1953	12
+Inter	Udinese Calcio	0:0	0:0	01.01.2000	00:00	1952	1953	12
+ACF Fiorentina	Atalanta	0:0	1:1	01.01.2000	00:00	1952	1953	12
+Calcio Como	Lazio Roma	0:0	0:1	01.01.2000	00:00	1952	1953	12
+Juventus	AC Milan	0:0	0:3	01.01.2000	00:00	1952	1953	12
+AC Milan	Calcio Como	0:0	4:2	01.01.2000	00:00	1952	1953	13
+Udinese Calcio	SPAL 1907 Ferrara	0:0	2:0	01.01.2000	00:00	1952	1953	13
+Torino FC	SSC Napoli	0:0	1:2	01.01.2000	00:00	1952	1953	13
+Sampdoria	ACF Fiorentina	0:0	4:0	01.01.2000	00:00	1952	1953	13
+Atalanta	AS Roma	0:0	1:5	01.01.2000	00:00	1952	1953	13
+US Palermo	Novara Calcio	0:0	2:1	01.01.2000	00:00	1952	1953	13
+Lazio Roma	Inter	0:0	1:1	01.01.2000	00:00	1952	1953	13
+Bologna FC	Unione Triestina	0:0	0:1	01.01.2000	00:00	1952	1953	13
+Aurora Pro Patria	Juventus	0:0	3:3	01.01.2000	00:00	1952	1953	13
+Novara Calcio	Aurora Pro Patria	0:0	2:2	01.01.2000	00:00	1952	1953	14
+Udinese Calcio	Sampdoria	0:0	3:2	01.01.2000	00:00	1952	1953	14
+SPAL 1907 Ferrara	Atalanta	0:0	2:2	01.01.2000	00:00	1952	1953	14
+US Palermo	Inter	0:0	0:3	01.01.2000	00:00	1952	1953	14
+AC Milan	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1952	1953	14
+Lazio Roma	Bologna FC	0:0	1:2	01.01.2000	00:00	1952	1953	14
+Juventus	AS Roma	0:0	3:2	01.01.2000	00:00	1952	1953	14
+Calcio Como	Torino FC	0:0	0:1	01.01.2000	00:00	1952	1953	14
+SSC Napoli	Unione Triestina	0:0	1:1	01.01.2000	00:00	1952	1953	14
+Inter	Juventus	0:0	2:0	01.01.2000	00:00	1952	1953	15
+Atalanta	Aurora Pro Patria	0:0	3:2	01.01.2000	00:00	1952	1953	15
+Unione Triestina	Calcio Como	0:0	4:1	01.01.2000	00:00	1952	1953	15
+Torino FC	AC Milan	0:0	1:1	01.01.2000	00:00	1952	1953	15
+SPAL 1907 Ferrara	US Palermo	0:0	4:0	01.01.2000	00:00	1952	1953	15
+AS Roma	SSC Napoli	0:0	5:2	01.01.2000	00:00	1952	1953	15
+ACF Fiorentina	Lazio Roma	0:0	0:0	01.01.2000	00:00	1952	1953	15
+Bologna FC	Udinese Calcio	0:0	3:1	01.01.2000	00:00	1952	1953	15
+Sampdoria	Novara Calcio	0:0	1:1	01.01.2000	00:00	1952	1953	15
+SSC Napoli	SPAL 1907 Ferrara	0:0	1:0	01.01.2000	00:00	1952	1953	16
+AS Roma	Novara Calcio	0:0	4:1	01.01.2000	00:00	1952	1953	16
+Unione Triestina	US Palermo	0:0	2:1	01.01.2000	00:00	1952	1953	16
+Aurora Pro Patria	Calcio Como	0:0	2:0	01.01.2000	00:00	1952	1953	16
+Inter	Sampdoria	0:0	2:1	01.01.2000	00:00	1952	1953	16
+ACF Fiorentina	Torino FC	0:0	0:2	01.01.2000	00:00	1952	1953	16
+Atalanta	Udinese Calcio	0:0	5:0	01.01.2000	00:00	1952	1953	16
+Bologna FC	AC Milan	0:0	2:0	01.01.2000	00:00	1952	1953	16
+Juventus	Lazio Roma	0:0	5:0	01.01.2000	00:00	1952	1953	16
+Torino FC	Bologna FC	0:0	1:1	01.01.2000	00:00	1952	1953	17
+Calcio Como	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1952	1953	17
+Udinese Calcio	Aurora Pro Patria	0:0	7:3	01.01.2000	00:00	1952	1953	17
+SPAL 1907 Ferrara	AS Roma	0:0	2:1	01.01.2000	00:00	1952	1953	17
+US Palermo	Sampdoria	0:0	3:0	01.01.2000	00:00	1952	1953	17
+SSC Napoli	Juventus	0:0	3:2	01.01.2000	00:00	1952	1953	17
+AC Milan	Atalanta	0:0	5:1	01.01.2000	00:00	1952	1953	17
+Lazio Roma	Unione Triestina	0:0	4:1	01.01.2000	00:00	1952	1953	17
+Novara Calcio	Inter	0:0	1:2	01.01.2000	00:00	1952	1953	17
+Novara Calcio	AC Milan	0:0	2:1	01.01.2000	00:00	1952	1953	18
+Udinese Calcio	Lazio Roma	0:0	0:4	01.01.2000	00:00	1952	1953	18
+SPAL 1907 Ferrara	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1952	1953	18
+Sampdoria	Torino FC	0:0	1:0	01.01.2000	00:00	1952	1953	18
+Atalanta	SSC Napoli	0:0	1:1	01.01.2000	00:00	1952	1953	18
+Aurora Pro Patria	Bologna FC	0:0	3:0	01.01.2000	00:00	1952	1953	18
+Juventus	US Palermo	0:0	2:1	01.01.2000	00:00	1952	1953	18
+Inter	Calcio Como	0:0	3:1	01.01.2000	00:00	1952	1953	18
+AS Roma	Unione Triestina	0:0	2:2	01.01.2000	00:00	1952	1953	18
+SSC Napoli	Sampdoria	0:0	2:1	01.01.2000	00:00	1952	1953	19
+ACF Fiorentina	AS Roma	0:0	2:0	01.01.2000	00:00	1952	1953	19
+Unione Triestina	Aurora Pro Patria	0:0	4:0	01.01.2000	00:00	1952	1953	19
+Torino FC	Udinese Calcio	0:0	0:3	01.01.2000	00:00	1952	1953	19
+Atalanta	Inter	0:0	0:1	01.01.2000	00:00	1952	1953	19
+AC Milan	US Palermo	0:0	5:0	01.01.2000	00:00	1952	1953	19
+Calcio Como	SPAL 1907 Ferrara	0:0	1:0	01.01.2000	00:00	1952	1953	19
+Bologna FC	Juventus	0:0	1:0	01.01.2000	00:00	1952	1953	19
+Lazio Roma	Novara Calcio	0:0	1:3	01.01.2000	00:00	1952	1953	19
+US Palermo	Calcio Como	0:0	2:0	01.01.2000	00:00	1952	1953	20
+Udinese Calcio	SSC Napoli	0:0	1:1	01.01.2000	00:00	1952	1953	20
+SPAL 1907 Ferrara	AC Milan	0:0	1:1	01.01.2000	00:00	1952	1953	20
+Sampdoria	Unione Triestina	0:0	3:1	01.01.2000	00:00	1952	1953	20
+Aurora Pro Patria	Lazio Roma	0:0	1:0	01.01.2000	00:00	1952	1953	20
+Novara Calcio	ACF Fiorentina	0:0	1:2	01.01.2000	00:00	1952	1953	20
+Juventus	Atalanta	0:0	1:1	01.01.2000	00:00	1952	1953	20
+Inter	Torino FC	0:0	1:3	01.01.2000	00:00	1952	1953	20
+AS Roma	Bologna FC	0:0	2:1	01.01.2000	00:00	1952	1953	20
+SSC Napoli	Inter	0:0	0:1	01.01.2000	00:00	1952	1953	21
+Torino FC	Aurora Pro Patria	0:0	1:1	01.01.2000	00:00	1952	1953	21
+Unione Triestina	Juventus	0:0	2:1	01.01.2000	00:00	1952	1953	21
+US Palermo	Bologna FC	0:0	4:1	01.01.2000	00:00	1952	1953	21
+Lazio Roma	SPAL 1907 Ferrara	0:0	3:1	01.01.2000	00:00	1952	1953	21
+ACF Fiorentina	Udinese Calcio	0:0	1:0	01.01.2000	00:00	1952	1953	21
+Calcio Como	Novara Calcio	0:0	0:0	01.01.2000	00:00	1952	1953	21
+Atalanta	Sampdoria	0:0	4:0	01.01.2000	00:00	1952	1953	21
+AC Milan	AS Roma	0:0	4:1	01.01.2000	00:00	1952	1953	21
+SPAL 1907 Ferrara	Unione Triestina	0:0	2:0	01.01.2000	00:00	1952	1953	22
+Bologna FC	Atalanta	0:0	3:1	01.01.2000	00:00	1952	1953	22
+Udinese Calcio	Calcio Como	0:0	1:0	01.01.2000	00:00	1952	1953	22
+Sampdoria	AC Milan	0:0	2:1	01.01.2000	00:00	1952	1953	22
+AS Roma	US Palermo	0:0	1:0	01.01.2000	00:00	1952	1953	22
+SSC Napoli	Lazio Roma	0:0	3:0	01.01.2000	00:00	1952	1953	22
+Juventus	ACF Fiorentina	0:0	8:0	01.01.2000	00:00	1952	1953	22
+Inter	Aurora Pro Patria	0:0	2:1	01.01.2000	00:00	1952	1953	22
+Novara Calcio	Torino FC	0:0	2:0	01.01.2000	00:00	1952	1953	22
+ACF Fiorentina	US Palermo	0:0	0:2	01.01.2000	00:00	1952	1953	23
+Udinese Calcio	Juventus	0:0	1:1	01.01.2000	00:00	1952	1953	23
+Torino FC	SPAL 1907 Ferrara	0:0	1:1	01.01.2000	00:00	1952	1953	23
+Aurora Pro Patria	SSC Napoli	0:0	1:1	01.01.2000	00:00	1952	1953	23
+Atalanta	Novara Calcio	0:0	1:0	01.01.2000	00:00	1952	1953	23
+Lazio Roma	Sampdoria	0:0	0:1	01.01.2000	00:00	1952	1953	23
+Calcio Como	AS Roma	0:0	2:1	01.01.2000	00:00	1952	1953	23
+Bologna FC	Inter	0:0	2:0	01.01.2000	00:00	1952	1953	23
+AC Milan	Unione Triestina	0:0	4:1	01.01.2000	00:00	1952	1953	23
+AS Roma	Torino FC	0:0	2:1	01.01.2000	00:00	1952	1953	24
+US Palermo	Lazio Roma	0:0	3:1	01.01.2000	00:00	1952	1953	24
+Sampdoria	Bologna FC	0:0	1:1	01.01.2000	00:00	1952	1953	24
+Unione Triestina	Atalanta	0:0	2:2	01.01.2000	00:00	1952	1953	24
+SSC Napoli	ACF Fiorentina	0:0	0:0	01.01.2000	00:00	1952	1953	24
+Juventus	Calcio Como	0:0	2:1	01.01.2000	00:00	1952	1953	24
+Inter	AC Milan	0:0	0:0	01.01.2000	00:00	1952	1953	24
+Novara Calcio	Udinese Calcio	0:0	3:1	01.01.2000	00:00	1952	1953	24
+SPAL 1907 Ferrara	Aurora Pro Patria	0:0	4:0	01.01.2000	00:00	1952	1953	24
+Inter	SPAL 1907 Ferrara	0:0	1:1	01.01.2000	00:00	1952	1953	25
+Udinese Calcio	AS Roma	0:0	3:1	01.01.2000	00:00	1952	1953	25
+Torino FC	Juventus	0:0	0:1	01.01.2000	00:00	1952	1953	25
+Aurora Pro Patria	AC Milan	0:0	0:1	01.01.2000	00:00	1952	1953	25
+Lazio Roma	Atalanta	0:0	0:2	01.01.2000	00:00	1952	1953	25
+ACF Fiorentina	Unione Triestina	0:0	2:0	01.01.2000	00:00	1952	1953	25
+Calcio Como	Sampdoria	0:0	1:0	01.01.2000	00:00	1952	1953	25
+Bologna FC	Novara Calcio	0:0	1:0	01.01.2000	00:00	1952	1953	25
+US Palermo	SSC Napoli	0:0	0:0	01.01.2000	00:00	1952	1953	25
+AS Roma	Lazio Roma	0:0	0:2	01.01.2000	00:00	1952	1953	26
+Unione Triestina	Inter	0:0	0:0	01.01.2000	00:00	1952	1953	26
+Udinese Calcio	US Palermo	0:0	1:1	01.01.2000	00:00	1952	1953	26
+SPAL 1907 Ferrara	Sampdoria	0:0	0:0	01.01.2000	00:00	1952	1953	26
+AC Milan	SSC Napoli	0:0	2:2	01.01.2000	00:00	1952	1953	26
+Juventus	Novara Calcio	0:0	1:1	01.01.2000	00:00	1952	1953	26
+Atalanta	Torino FC	0:0	1:3	01.01.2000	00:00	1952	1953	26
+Calcio Como	Bologna FC	0:0	1:0	01.01.2000	00:00	1952	1953	26
+Aurora Pro Patria	ACF Fiorentina	0:0	0:0	01.01.2000	00:00	1952	1953	26
+SPAL 1907 Ferrara	Bologna FC	0:0	1:4	01.01.2000	00:00	1952	1953	27
+Atalanta	US Palermo	0:0	0:0	01.01.2000	00:00	1952	1953	27
+Torino FC	Lazio Roma	0:0	2:0	01.01.2000	00:00	1952	1953	27
+Sampdoria	Juventus	0:0	1:1	01.01.2000	00:00	1952	1953	27
+AS Roma	Aurora Pro Patria	0:0	0:0	01.01.2000	00:00	1952	1953	27
+SSC Napoli	Calcio Como	0:0	1:0	01.01.2000	00:00	1952	1953	27
+AC Milan	Udinese Calcio	0:0	0:0	01.01.2000	00:00	1952	1953	27
+ACF Fiorentina	Inter	0:0	1:0	01.01.2000	00:00	1952	1953	27
+Novara Calcio	Unione Triestina	0:0	1:0	01.01.2000	00:00	1952	1953	27
+Juventus	SPAL 1907 Ferrara	0:0	2:2	01.01.2000	00:00	1952	1953	28
+Unione Triestina	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1952	1953	28
+Aurora Pro Patria	Sampdoria	0:0	0:1	01.01.2000	00:00	1952	1953	28
+US Palermo	Torino FC	0:0	1:1	01.01.2000	00:00	1952	1953	28
+Bologna FC	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1952	1953	28
+Lazio Roma	AC Milan	0:0	0:0	01.01.2000	00:00	1952	1953	28
+Inter	AS Roma	0:0	1:0	01.01.2000	00:00	1952	1953	28
+Calcio Como	Atalanta	0:0	2:1	01.01.2000	00:00	1952	1953	28
+Novara Calcio	SSC Napoli	0:0	0:1	01.01.2000	00:00	1952	1953	28
+US Palermo	Aurora Pro Patria	0:0	2:0	01.01.2000	00:00	1952	1953	29
+Sampdoria	AS Roma	0:0	2:2	01.01.2000	00:00	1952	1953	29
+SPAL 1907 Ferrara	Novara Calcio	0:0	0:0	01.01.2000	00:00	1952	1953	29
+Udinese Calcio	Inter	0:0	0:0	01.01.2000	00:00	1952	1953	29
+AC Milan	Juventus	0:0	1:2	01.01.2000	00:00	1952	1953	29
+Lazio Roma	Calcio Como	0:0	2:0	01.01.2000	00:00	1952	1953	29
+Atalanta	ACF Fiorentina	0:0	1:2	01.01.2000	00:00	1952	1953	29
+Torino FC	Unione Triestina	0:0	5:0	01.01.2000	00:00	1952	1953	29
+SSC Napoli	Bologna FC	0:0	4:1	01.01.2000	00:00	1952	1953	29
+Juventus	Aurora Pro Patria	0:0	2:0	01.01.2000	00:00	1952	1953	30
+SPAL 1907 Ferrara	Udinese Calcio	0:0	3:0	01.01.2000	00:00	1952	1953	30
+AS Roma	Atalanta	0:0	2:2	01.01.2000	00:00	1952	1953	30
+SSC Napoli	Torino FC	0:0	3:0	01.01.2000	00:00	1952	1953	30
+Unione Triestina	Bologna FC	0:0	1:0	01.01.2000	00:00	1952	1953	30
+Inter	Lazio Roma	0:0	1:1	01.01.2000	00:00	1952	1953	30
+ACF Fiorentina	Sampdoria	0:0	2:2	01.01.2000	00:00	1952	1953	30
+Calcio Como	AC Milan	0:0	3:1	01.01.2000	00:00	1952	1953	30
+Novara Calcio	US Palermo	0:0	3:4	01.01.2000	00:00	1952	1953	30
+AS Roma	Juventus	0:0	3:0	01.01.2000	00:00	1952	1953	31
+Unione Triestina	SSC Napoli	0:0	2:3	01.01.2000	00:00	1952	1953	31
+Torino FC	Calcio Como	0:0	2:1	01.01.2000	00:00	1952	1953	31
+Sampdoria	Udinese Calcio	0:0	1:1	01.01.2000	00:00	1952	1953	31
+Novara Calcio	Aurora Pro Patria	0:0	3:2	01.01.2000	00:00	1952	1953	31
+Inter	US Palermo	0:0	3:0	01.01.2000	00:00	1952	1953	31
+ACF Fiorentina	AC Milan	0:0	0:3	01.01.2000	00:00	1952	1953	31
+Atalanta	SPAL 1907 Ferrara	0:0	0:1	01.01.2000	00:00	1952	1953	31
+Bologna FC	Lazio Roma	0:0	1:1	01.01.2000	00:00	1952	1953	31
+Novara Calcio	Sampdoria	0:0	2:0	01.01.2000	00:00	1952	1953	32
+Aurora Pro Patria	Atalanta	0:0	0:3	01.01.2000	00:00	1952	1953	32
+Juventus	Inter	0:0	2:1	01.01.2000	00:00	1952	1953	32
+US Palermo	SPAL 1907 Ferrara	0:0	2:2	01.01.2000	00:00	1952	1953	32
+Udinese Calcio	Bologna FC	0:0	0:2	01.01.2000	00:00	1952	1953	32
+Lazio Roma	ACF Fiorentina	0:0	0:1	01.01.2000	00:00	1952	1953	32
+Calcio Como	Unione Triestina	0:0	2:0	01.01.2000	00:00	1952	1953	32
+AC Milan	Torino FC	0:0	5:1	01.01.2000	00:00	1952	1953	32
+SSC Napoli	AS Roma	0:0	0:0	01.01.2000	00:00	1952	1953	32
+SPAL 1907 Ferrara	SSC Napoli	0:0	4:1	01.01.2000	00:00	1952	1953	33
+Torino FC	ACF Fiorentina	0:0	4:1	01.01.2000	00:00	1952	1953	33
+Sampdoria	Inter	0:0	2:0	01.01.2000	00:00	1952	1953	33
+US Palermo	Unione Triestina	0:0	0:0	01.01.2000	00:00	1952	1953	33
+Novara Calcio	AS Roma	0:0	3:1	01.01.2000	00:00	1952	1953	33
+AC Milan	Bologna FC	0:0	1:1	01.01.2000	00:00	1952	1953	33
+Lazio Roma	Juventus	0:0	0:1	01.01.2000	00:00	1952	1953	33
+Calcio Como	Aurora Pro Patria	0:0	4:1	01.01.2000	00:00	1952	1953	33
+Udinese Calcio	Atalanta	0:0	1:3	01.01.2000	00:00	1952	1953	33
+Unione Triestina	Lazio Roma	0:0	3:0	01.01.2000	00:00	1952	1953	34
+Atalanta	AC Milan	0:0	1:1	01.01.2000	00:00	1952	1953	34
+Bologna FC	Torino FC	0:0	2:2	01.01.2000	00:00	1952	1953	34
+ACF Fiorentina	Calcio Como	0:0	2:0	01.01.2000	00:00	1952	1953	34
+Inter	Novara Calcio	0:0	0:1	01.01.2000	00:00	1952	1953	34
+Juventus	SSC Napoli	0:0	1:1	01.01.2000	00:00	1952	1953	34
+Aurora Pro Patria	Udinese Calcio	0:0	2:3	01.01.2000	00:00	1952	1953	34
+AS Roma	SPAL 1907 Ferrara	0:0	0:0	01.01.2000	00:00	1952	1953	34
+Sampdoria	US Palermo	0:0	4:1	01.01.2000	00:00	1952	1953	34

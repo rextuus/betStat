@@ -1,0 +1,380 @@
+RCD Mallorca	Real Madrid	0:0	1:2	21.08.1999	00:00	1999	2000	1
+Valencia CF	Racing Santander	0:1	1:2	21.08.1999	00:00	1999	2000	1
+Athletic Bilbao	Real Betis	0:0	1:0	21.08.1999	00:00	1999	2000	1
+AtlÃ©tico Madrid	Rayo Vallecano	0:1	0:2	22.08.1999	00:00	1999	2000	1
+CD Numancia	Real Valladolid	1:0	1:0	22.08.1999	00:00	1999	2000	1
+Sevilla FC	Real Sociedad	2:1	2:2	22.08.1999	00:00	1999	2000	1
+Real Oviedo	Celta Vigo	0:0	1:0	22.08.1999	00:00	1999	2000	1
+MÃ¡laga CF	Espanyol Barcelona	0:0	1:0	22.08.1999	00:00	1999	2000	1
+Deportivo La CoruÃ±a	CD AlavÃ©s	3:1	4:1	22.08.1999	00:00	1999	2000	1
+FC Barcelona	Real Zaragoza	0:0	2:0	22.08.1999	00:00	1999	2000	1
+Real Sociedad	AtlÃ©tico Madrid	0:1	4:1	28.08.1999	00:00	1999	2000	2
+Rayo Vallecano	RCD Mallorca	0:1	2:1	29.08.1999	00:00	1999	2000	2
+Real Betis	Deportivo La CoruÃ±a	0:0	0:0	29.08.1999	00:00	1999	2000	2
+CD AlavÃ©s	MÃ¡laga CF	0:1	2:1	29.08.1999	00:00	1999	2000	2
+Racing Santander	FC Barcelona	0:2	1:2	29.08.1999	00:00	1999	2000	2
+Celta Vigo	Sevilla FC	1:0	2:1	29.08.1999	00:00	1999	2000	2
+Real Madrid	CD Numancia	0:0	4:1	29.08.1999	00:00	1999	2000	2
+Espanyol Barcelona	Valencia CF	2:1	3:2	29.08.1999	00:00	1999	2000	2
+Real Valladolid	Athletic Bilbao	1:0	1:0	29.08.1999	00:00	1999	2000	2
+Real Zaragoza	Real Oviedo	1:0	4:0	29.08.1999	00:00	1999	2000	2
+Valencia CF	CD AlavÃ©s	0:0	0:2	11.09.1999	00:00	1999	2000	3
+FC Barcelona	Espanyol Barcelona	0:0	3:0	11.09.1999	00:00	1999	2000	3
+Deportivo La CoruÃ±a	Real Valladolid	2:0	2:0	11.09.1999	00:00	1999	2000	3
+Real Oviedo	Racing Santander	0:2	1:2	12.09.1999	00:00	1999	2000	3
+Athletic Bilbao	Real Madrid	2:1	2:2	12.09.1999	00:00	1999	2000	3
+RCD Mallorca	CD Numancia	3:0	3:0	12.09.1999	00:00	1999	2000	3
+MÃ¡laga CF	Real Betis	1:0	3:0	12.09.1999	00:00	1999	2000	3
+AtlÃ©tico Madrid	Celta Vigo	1:1	1:2	12.09.1999	00:00	1999	2000	3
+Rayo Vallecano	Real Sociedad	1:0	2:1	12.09.1999	00:00	1999	2000	3
+Sevilla FC	Real Zaragoza	0:0	0:0	12.09.1999	00:00	1999	2000	3
+Real Betis	Valencia CF	1:0	1:0	18.09.1999	00:00	1999	2000	4
+CD AlavÃ©s	FC Barcelona	1:1	2:1	18.09.1999	00:00	1999	2000	4
+Espanyol Barcelona	Real Oviedo	0:1	2:1	18.09.1999	00:00	1999	2000	4
+Real Valladolid	MÃ¡laga CF	1:1	4:2	18.09.1999	00:00	1999	2000	4
+Real Madrid	Deportivo La CoruÃ±a	0:0	1:1	18.09.1999	00:00	1999	2000	4
+Real Sociedad	RCD Mallorca	1:0	2:1	19.09.1999	00:00	1999	2000	4
+CD Numancia	Athletic Bilbao	1:1	1:1	19.09.1999	00:00	1999	2000	4
+Racing Santander	Sevilla FC	1:2	2:2	19.09.1999	00:00	1999	2000	4
+Real Zaragoza	AtlÃ©tico Madrid	1:1	1:1	19.09.1999	00:00	1999	2000	4
+Celta Vigo	Rayo Vallecano	0:0	0:1	19.09.1999	00:00	1999	2000	4
+MÃ¡laga CF	Real Madrid	0:1	1:1	25.09.1999	00:00	1999	2000	5
+Valencia CF	Real Valladolid	0:0	0:0	25.09.1999	00:00	1999	2000	5
+FC Barcelona	Real Betis	2:1	4:1	25.09.1999	00:00	1999	2000	5
+Real Sociedad	Celta Vigo	0:0	0:2	25.09.1999	00:00	1999	2000	5
+Rayo Vallecano	Real Zaragoza	0:0	0:1	26.09.1999	00:00	1999	2000	5
+RCD Mallorca	Athletic Bilbao	1:0	2:1	26.09.1999	00:00	1999	2000	5
+Deportivo La CoruÃ±a	CD Numancia	0:1	0:2	26.09.1999	00:00	1999	2000	5
+Real Oviedo	CD AlavÃ©s	1:0	1:0	26.09.1999	00:00	1999	2000	5
+AtlÃ©tico Madrid	Racing Santander	0:0	2:0	26.09.1999	00:00	1999	2000	5
+Sevilla FC	Espanyol Barcelona	1:1	1:2	26.09.1999	00:00	1999	2000	5
+CD Numancia	MÃ¡laga CF	0:1	1:1	02.10.1999	00:00	1999	2000	6
+Real Valladolid	FC Barcelona	0:1	0:2	02.10.1999	00:00	1999	2000	6
+Espanyol Barcelona	AtlÃ©tico Madrid	2:1	3:1	03.10.1999	00:00	1999	2000	6
+Racing Santander	Rayo Vallecano	0:0	1:1	03.10.1999	00:00	1999	2000	6
+Athletic Bilbao	Deportivo La CoruÃ±a	0:2	2:3	03.10.1999	00:00	1999	2000	6
+Real Madrid	Valencia CF	0:3	2:3	03.10.1999	00:00	1999	2000	6
+Real Betis	Real Oviedo	1:0	1:0	03.10.1999	00:00	1999	2000	6
+Real Zaragoza	Real Sociedad	0:0	2:0	03.10.1999	00:00	1999	2000	6
+Celta Vigo	RCD Mallorca	0:0	1:0	03.10.1999	00:00	1999	2000	6
+CD AlavÃ©s	Sevilla FC	0:0	0:0	03.10.1999	00:00	1999	2000	6
+MÃ¡laga CF	Athletic Bilbao	1:1	3:4	12.10.1999	00:00	1999	2000	7
+Sevilla FC	Real Betis	1:0	3:0	12.10.1999	00:00	1999	2000	7
+RCD Mallorca	Deportivo La CoruÃ±a	0:0	2:2	12.10.1999	00:00	1999	2000	7
+AtlÃ©tico Madrid	CD AlavÃ©s	0:0	1:0	12.10.1999	00:00	1999	2000	7
+FC Barcelona	Real Madrid	1:1	2:2	13.10.1999	00:00	1999	2000	7
+Real Oviedo	Real Valladolid	1:0	1:1	13.10.1999	00:00	1999	2000	7
+Rayo Vallecano	Espanyol Barcelona	0:0	2:1	13.10.1999	00:00	1999	2000	7
+Celta Vigo	Real Zaragoza	1:1	2:1	13.10.1999	00:00	1999	2000	7
+Valencia CF	CD Numancia	1:0	4:0	13.10.1999	00:00	1999	2000	7
+Real Sociedad	Racing Santander	1:1	2:5	13.10.1999	00:00	1999	2000	7
+Deportivo La CoruÃ±a	MÃ¡laga CF	1:1	4:1	16.10.1999	00:00	1999	2000	8
+Racing Santander	Celta Vigo	3:0	3:0	16.10.1999	00:00	1999	2000	8
+Athletic Bilbao	Valencia CF	1:0	1:0	16.10.1999	00:00	1999	2000	8
+CD Numancia	FC Barcelona	0:1	3:3	16.10.1999	00:00	1999	2000	8
+Real Madrid	Real Oviedo	2:1	2:2	16.10.1999	00:00	1999	2000	8
+Real Zaragoza	RCD Mallorca	0:0	3:0	17.10.1999	00:00	1999	2000	8
+Espanyol Barcelona	Real Sociedad	0:0	0:0	17.10.1999	00:00	1999	2000	8
+Real Valladolid	Sevilla FC	1:1	2:1	17.10.1999	00:00	1999	2000	8
+CD AlavÃ©s	Rayo Vallecano	0:0	0:1	17.10.1999	00:00	1999	2000	8
+Real Betis	AtlÃ©tico Madrid	1:1	2:1	17.10.1999	00:00	1999	2000	8
+Valencia CF	Deportivo La CoruÃ±a	1:0	2:0	23.10.1999	00:00	1999	2000	9
+Sevilla FC	Real Madrid	1:0	1:1	23.10.1999	00:00	1999	2000	9
+FC Barcelona	Athletic Bilbao	1:0	4:0	23.10.1999	00:00	1999	2000	9
+Real Sociedad	CD AlavÃ©s	1:1	1:1	24.10.1999	00:00	1999	2000	9
+RCD Mallorca	MÃ¡laga CF	2:0	2:1	24.10.1999	00:00	1999	2000	9
+Real Oviedo	CD Numancia	0:0	1:0	24.10.1999	00:00	1999	2000	9
+AtlÃ©tico Madrid	Real Valladolid	1:0	3:1	24.10.1999	00:00	1999	2000	9
+Rayo Vallecano	Real Betis	0:0	1:3	24.10.1999	00:00	1999	2000	9
+Real Zaragoza	Racing Santander	1:0	4:1	24.10.1999	00:00	1999	2000	9
+Celta Vigo	Espanyol Barcelona	1:1	2:1	24.10.1999	00:00	1999	2000	9
+Deportivo La CoruÃ±a	FC Barcelona	2:0	2:1	30.10.1999	00:00	1999	2000	10
+Real Madrid	AtlÃ©tico Madrid	1:3	1:3	30.10.1999	00:00	1999	2000	10
+MÃ¡laga CF	Valencia CF	1:0	1:1	30.10.1999	00:00	1999	2000	10
+Espanyol Barcelona	Real Zaragoza	0:1	1:1	31.10.1999	00:00	1999	2000	10
+CD Numancia	Sevilla FC	1:0	2:0	31.10.1999	00:00	1999	2000	10
+Real Valladolid	Rayo Vallecano	0:1	1:2	31.10.1999	00:00	1999	2000	10
+CD AlavÃ©s	Celta Vigo	0:0	1:0	31.10.1999	00:00	1999	2000	10
+Racing Santander	RCD Mallorca	0:0	1:1	31.10.1999	00:00	1999	2000	10
+Athletic Bilbao	Real Oviedo	1:1	1:1	31.10.1999	00:00	1999	2000	10
+Real Betis	Real Sociedad	1:0	1:0	31.10.1999	00:00	1999	2000	10
+Rayo Vallecano	Real Madrid	2:0	2:3	06.11.1999	00:00	1999	2000	11
+AtlÃ©tico Madrid	CD Numancia	2:0	2:2	07.11.1999	00:00	1999	2000	11
+FC Barcelona	MÃ¡laga CF	1:2	1:2	07.11.1999	00:00	1999	2000	11
+RCD Mallorca	Valencia CF	0:0	1:0	07.11.1999	00:00	1999	2000	11
+Real Oviedo	Deportivo La CoruÃ±a	0:0	0:1	07.11.1999	00:00	1999	2000	11
+Sevilla FC	Athletic Bilbao	0:0	0:0	07.11.1999	00:00	1999	2000	11
+Celta Vigo	Real Betis	3:1	5:1	07.11.1999	00:00	1999	2000	11
+Real Zaragoza	CD AlavÃ©s	1:0	2:1	07.11.1999	00:00	1999	2000	11
+Racing Santander	Espanyol Barcelona	1:1	2:2	07.11.1999	00:00	1999	2000	11
+Real Sociedad	Real Valladolid	2:0	3:0	07.11.1999	00:00	1999	2000	11
+Valencia CF	FC Barcelona	2:1	3:1	20.11.1999	00:00	1999	2000	12
+Athletic Bilbao	AtlÃ©tico Madrid	2:1	4:2	20.11.1999	00:00	1999	2000	12
+Real Betis	Real Zaragoza	1:0	2:0	21.11.1999	00:00	1999	2000	12
+Deportivo La CoruÃ±a	Sevilla FC	2:1	5:2	21.11.1999	00:00	1999	2000	12
+MÃ¡laga CF	Real Oviedo	2:0	4:0	21.11.1999	00:00	1999	2000	12
+CD Numancia	Rayo Vallecano	0:0	3:1	21.11.1999	00:00	1999	2000	12
+Real Valladolid	Celta Vigo	0:1	1:3	21.11.1999	00:00	1999	2000	12
+Espanyol Barcelona	RCD Mallorca	0:2	1:2	21.11.1999	00:00	1999	2000	12
+Real Madrid	Real Sociedad	0:0	1:1	21.11.1999	00:00	1999	2000	12
+CD AlavÃ©s	Racing Santander	1:0	2:1	08.12.1999	00:00	1999	2000	12
+Sevilla FC	MÃ¡laga CF	0:0	0:0	27.11.1999	00:00	1999	2000	13
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	0:3	1:3	28.11.1999	00:00	1999	2000	13
+Rayo Vallecano	Athletic Bilbao	0:2	1:2	28.11.1999	00:00	1999	2000	13
+RCD Mallorca	FC Barcelona	2:1	3:2	28.11.1999	00:00	1999	2000	13
+Real Oviedo	Valencia CF	0:0	0:0	28.11.1999	00:00	1999	2000	13
+Real Sociedad	CD Numancia	0:1	2:1	28.11.1999	00:00	1999	2000	13
+Celta Vigo	Real Madrid	1:0	1:0	28.11.1999	00:00	1999	2000	13
+Real Zaragoza	Real Valladolid	1:0	1:1	28.11.1999	00:00	1999	2000	13
+Espanyol Barcelona	CD AlavÃ©s	1:2	2:3	28.11.1999	00:00	1999	2000	13
+Racing Santander	Real Betis	1:1	1:1	28.11.1999	00:00	1999	2000	13
+Real Madrid	Real Zaragoza	0:3	1:5	04.12.1999	00:00	1999	2000	14
+FC Barcelona	Real Oviedo	3:0	3:2	04.12.1999	00:00	1999	2000	14
+Athletic Bilbao	Real Sociedad	1:0	1:1	04.12.1999	00:00	1999	2000	14
+Valencia CF	Sevilla FC	1:0	2:0	04.12.1999	00:00	1999	2000	14
+Real Valladolid	Racing Santander	1:0	1:0	05.12.1999	00:00	1999	2000	14
+CD Numancia	Celta Vigo	1:0	3:1	05.12.1999	00:00	1999	2000	14
+MÃ¡laga CF	AtlÃ©tico Madrid	1:2	2:3	05.12.1999	00:00	1999	2000	14
+Deportivo La CoruÃ±a	Rayo Vallecano	3:1	3:2	05.12.1999	00:00	1999	2000	14
+CD AlavÃ©s	RCD Mallorca	1:0	2:2	05.12.1999	00:00	1999	2000	14
+Real Betis	Espanyol Barcelona	1:0	2:5	05.12.1999	00:00	1999	2000	14
+Sevilla FC	FC Barcelona	1:1	3:2	11.12.1999	00:00	1999	2000	15
+Real Zaragoza	CD Numancia	1:1	3:3	12.12.1999	00:00	1999	2000	15
+AtlÃ©tico Madrid	Valencia CF	1:1	1:2	12.12.1999	00:00	1999	2000	15
+RCD Mallorca	Real Oviedo	0:0	1:1	12.12.1999	00:00	1999	2000	15
+Rayo Vallecano	MÃ¡laga CF	2:1	4:1	12.12.1999	00:00	1999	2000	15
+Celta Vigo	Athletic Bilbao	1:0	1:1	12.12.1999	00:00	1999	2000	15
+Racing Santander	Real Madrid	0:1	1:1	12.12.1999	00:00	1999	2000	15
+Espanyol Barcelona	Real Valladolid	1:0	1:1	12.12.1999	00:00	1999	2000	15
+CD AlavÃ©s	Real Betis	2:0	2:0	12.12.1999	00:00	1999	2000	15
+Real Sociedad	Deportivo La CoruÃ±a	0:1	0:1	12.12.1999	00:00	1999	2000	15
+Real Madrid	Espanyol Barcelona	1:1	2:1	18.12.1999	00:00	1999	2000	16
+Real Valladolid	CD AlavÃ©s	0:1	1:1	18.12.1999	00:00	1999	2000	16
+Deportivo La CoruÃ±a	Celta Vigo	0:0	1:0	18.12.1999	00:00	1999	2000	16
+MÃ¡laga CF	Real Sociedad	0:0	0:0	19.12.1999	00:00	1999	2000	16
+Real Oviedo	Sevilla FC	1:1	4:2	19.12.1999	00:00	1999	2000	16
+Athletic Bilbao	Real Zaragoza	2:2	2:2	19.12.1999	00:00	1999	2000	16
+FC Barcelona	AtlÃ©tico Madrid	1:1	2:1	19.12.1999	00:00	1999	2000	16
+Valencia CF	Rayo Vallecano	1:0	3:1	19.12.1999	00:00	1999	2000	16
+Real Betis	RCD Mallorca	0:0	1:0	19.12.1999	00:00	1999	2000	16
+CD Numancia	Racing Santander	1:0	2:1	19.12.1999	00:00	1999	2000	16
+CD AlavÃ©s	Real Madrid	0:1	1:3	21.12.1999	00:00	1999	2000	17
+Real Sociedad	Valencia CF	0:0	0:0	22.12.1999	00:00	1999	2000	17
+RCD Mallorca	Sevilla FC	0:0	3:1	22.12.1999	00:00	1999	2000	17
+Real Betis	Real Valladolid	0:0	0:1	22.12.1999	00:00	1999	2000	17
+Celta Vigo	MÃ¡laga CF	1:1	2:4	22.12.1999	00:00	1999	2000	17
+Rayo Vallecano	FC Barcelona	1:0	1:1	22.12.1999	00:00	1999	2000	17
+Real Zaragoza	Deportivo La CoruÃ±a	1:0	2:1	22.12.1999	00:00	1999	2000	17
+Racing Santander	Athletic Bilbao	1:1	2:2	22.12.1999	00:00	1999	2000	17
+Espanyol Barcelona	CD Numancia	0:1	3:1	22.12.1999	00:00	1999	2000	17
+AtlÃ©tico Madrid	Real Oviedo	3:0	5:0	22.12.1999	00:00	1999	2000	17
+Valencia CF	Celta Vigo	1:0	1:1	04.01.2000	00:00	1999	2000	18
+Deportivo La CoruÃ±a	Racing Santander	0:1	0:3	05.01.2000	00:00	1999	2000	18
+Sevilla FC	AtlÃ©tico Madrid	2:0	2:1	05.01.2000	00:00	1999	2000	18
+Real Oviedo	Rayo Vallecano	1:0	2:0	05.01.2000	00:00	1999	2000	18
+MÃ¡laga CF	Real Zaragoza	0:0	0:0	05.01.2000	00:00	1999	2000	18
+CD Numancia	CD AlavÃ©s	0:0	0:0	05.01.2000	00:00	1999	2000	18
+RCD Mallorca	Real Valladolid	0:0	0:0	05.01.2000	00:00	1999	2000	18
+FC Barcelona	Real Sociedad	2:0	3:1	05.01.2000	00:00	1999	2000	18
+Athletic Bilbao	Espanyol Barcelona	1:1	2:1	05.01.2000	00:00	1999	2000	18
+Real Madrid	Real Betis	0:0	2:1	26.01.2000	00:00	1999	2000	18
+Espanyol Barcelona	Deportivo La CoruÃ±a	0:0	0:0	08.01.2000	00:00	1999	2000	19
+Celta Vigo	FC Barcelona	0:1	0:2	09.01.2000	00:00	1999	2000	19
+Real Zaragoza	Valencia CF	2:1	4:2	09.01.2000	00:00	1999	2000	19
+Real Sociedad	Real Oviedo	0:0	0:0	09.01.2000	00:00	1999	2000	19
+Racing Santander	MÃ¡laga CF	1:1	2:3	09.01.2000	00:00	1999	2000	19
+CD AlavÃ©s	Athletic Bilbao	1:1	1:2	09.01.2000	00:00	1999	2000	19
+Real Betis	CD Numancia	1:0	1:2	09.01.2000	00:00	1999	2000	19
+Rayo Vallecano	Sevilla FC	1:0	2:0	09.01.2000	00:00	1999	2000	19
+AtlÃ©tico Madrid	RCD Mallorca	0:0	1:0	09.01.2000	00:00	1999	2000	19
+Real Valladolid	Real Madrid	0:0	0:1	15.02.2000	00:00	1999	2000	19
+Rayo Vallecano	AtlÃ©tico Madrid	1:1	1:1	15.01.2000	00:00	1999	2000	20
+Celta Vigo	Real Oviedo	4:2	5:3	16.01.2000	00:00	1999	2000	20
+Real Betis	Athletic Bilbao	1:0	2:1	16.01.2000	00:00	1999	2000	20
+Real Valladolid	CD Numancia	0:0	2:0	16.01.2000	00:00	1999	2000	20
+Real Sociedad	Sevilla FC	0:1	1:1	16.01.2000	00:00	1999	2000	20
+CD AlavÃ©s	Deportivo La CoruÃ±a	1:0	2:1	16.01.2000	00:00	1999	2000	20
+Espanyol Barcelona	MÃ¡laga CF	0:0	0:2	16.01.2000	00:00	1999	2000	20
+Real Zaragoza	FC Barcelona	0:0	0:0	16.01.2000	00:00	1999	2000	20
+Racing Santander	Valencia CF	0:1	1:1	16.01.2000	00:00	1999	2000	20
+Real Madrid	RCD Mallorca	0:1	2:1	17.01.2000	00:00	1999	2000	20
+Deportivo La CoruÃ±a	Real Betis	1:0	2:0	22.01.2000	00:00	1999	2000	21
+Real Oviedo	Real Zaragoza	0:0	1:0	23.01.2000	00:00	1999	2000	21
+Valencia CF	Espanyol Barcelona	1:1	1:2	23.01.2000	00:00	1999	2000	21
+AtlÃ©tico Madrid	Real Sociedad	1:0	1:1	23.01.2000	00:00	1999	2000	21
+CD Numancia	Real Madrid	0:0	0:0	23.01.2000	00:00	1999	2000	21
+MÃ¡laga CF	CD AlavÃ©s	0:1	0:1	23.01.2000	00:00	1999	2000	21
+FC Barcelona	Racing Santander	1:0	1:0	23.01.2000	00:00	1999	2000	21
+Sevilla FC	Celta Vigo	0:0	0:1	23.01.2000	00:00	1999	2000	21
+RCD Mallorca	Rayo Vallecano	1:0	2:1	23.01.2000	00:00	1999	2000	21
+Athletic Bilbao	Real Valladolid	1:0	1:0	23.01.2000	00:00	1999	2000	21
+Celta Vigo	AtlÃ©tico Madrid	0:1	0:1	29.01.2000	00:00	1999	2000	22
+Espanyol Barcelona	FC Barcelona	1:1	1:1	29.01.2000	00:00	1999	2000	22
+Real Betis	MÃ¡laga CF	0:0	0:0	30.01.2000	00:00	1999	2000	22
+Real Madrid	Athletic Bilbao	1:1	3:1	30.01.2000	00:00	1999	2000	22
+CD Numancia	RCD Mallorca	3:1	3:1	30.01.2000	00:00	1999	2000	22
+Real Valladolid	Deportivo La CoruÃ±a	1:0	4:1	30.01.2000	00:00	1999	2000	22
+CD AlavÃ©s	Valencia CF	0:0	0:1	30.01.2000	00:00	1999	2000	22
+Racing Santander	Real Oviedo	2:0	3:1	30.01.2000	00:00	1999	2000	22
+Real Zaragoza	Sevilla FC	1:0	2:1	30.01.2000	00:00	1999	2000	22
+Real Sociedad	Rayo Vallecano	2:0	2:1	30.01.2000	00:00	1999	2000	22
+Valencia CF	Real Betis	1:0	3:1	05.02.2000	00:00	1999	2000	23
+FC Barcelona	CD AlavÃ©s	0:1	0:1	06.02.2000	00:00	1999	2000	23
+Athletic Bilbao	CD Numancia	1:1	2:1	06.02.2000	00:00	1999	2000	23
+Deportivo La CoruÃ±a	Real Madrid	2:1	5:2	06.02.2000	00:00	1999	2000	23
+MÃ¡laga CF	Real Valladolid	0:0	0:0	06.02.2000	00:00	1999	2000	23
+Sevilla FC	Racing Santander	0:0	1:0	06.02.2000	00:00	1999	2000	23
+AtlÃ©tico Madrid	Real Zaragoza	1:0	2:2	06.02.2000	00:00	1999	2000	23
+RCD Mallorca	Real Sociedad	1:0	2:1	06.02.2000	00:00	1999	2000	23
+Rayo Vallecano	Celta Vigo	1:0	1:0	06.02.2000	00:00	1999	2000	23
+Real Oviedo	Espanyol Barcelona	0:0	1:0	06.02.2000	00:00	1999	2000	23
+Real Valladolid	Valencia CF	0:0	0:0	12.02.2000	00:00	1999	2000	24
+Athletic Bilbao	RCD Mallorca	0:1	1:1	12.02.2000	00:00	1999	2000	24
+Real Madrid	MÃ¡laga CF	0:0	1:0	12.02.2000	00:00	1999	2000	24
+Racing Santander	AtlÃ©tico Madrid	1:1	2:1	13.02.2000	00:00	1999	2000	24
+CD Numancia	Deportivo La CoruÃ±a	0:0	1:0	13.02.2000	00:00	1999	2000	24
+Real Betis	FC Barcelona	1:0	2:1	13.02.2000	00:00	1999	2000	24
+Espanyol Barcelona	Sevilla FC	1:1	2:2	13.02.2000	00:00	1999	2000	24
+Real Zaragoza	Rayo Vallecano	1:0	1:1	13.02.2000	00:00	1999	2000	24
+Celta Vigo	Real Sociedad	0:1	4:1	13.02.2000	00:00	1999	2000	24
+CD AlavÃ©s	Real Oviedo	1:0	1:0	13.02.2000	00:00	1999	2000	24
+Deportivo La CoruÃ±a	Athletic Bilbao	1:0	2:0	19.02.2000	00:00	1999	2000	25
+Sevilla FC	CD AlavÃ©s	1:1	2:2	20.02.2000	00:00	1999	2000	25
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	1:1	20.02.2000	00:00	1999	2000	25
+MÃ¡laga CF	CD Numancia	1:1	3:1	20.02.2000	00:00	1999	2000	25
+Valencia CF	Real Madrid	1:0	1:1	20.02.2000	00:00	1999	2000	25
+FC Barcelona	Real Valladolid	2:0	4:0	20.02.2000	00:00	1999	2000	25
+Rayo Vallecano	Racing Santander	1:1	1:2	20.02.2000	00:00	1999	2000	25
+Real Sociedad	Real Zaragoza	1:0	2:1	20.02.2000	00:00	1999	2000	25
+RCD Mallorca	Celta Vigo	0:0	1:0	20.02.2000	00:00	1999	2000	25
+Real Oviedo	Real Betis	0:1	1:1	20.02.2000	00:00	1999	2000	25
+Real Madrid	FC Barcelona	2:0	3:0	26.02.2000	00:00	1999	2000	26
+CD Numancia	Valencia CF	0:1	1:2	26.02.2000	00:00	1999	2000	26
+Racing Santander	Real Sociedad	0:0	0:0	27.02.2000	00:00	1999	2000	26
+Deportivo La CoruÃ±a	RCD Mallorca	1:0	2:1	27.02.2000	00:00	1999	2000	26
+Athletic Bilbao	MÃ¡laga CF	1:2	2:2	27.02.2000	00:00	1999	2000	26
+Real Valladolid	Real Oviedo	1:0	2:1	27.02.2000	00:00	1999	2000	26
+Espanyol Barcelona	Rayo Vallecano	2:1	5:1	27.02.2000	00:00	1999	2000	26
+Real Betis	Sevilla FC	1:0	1:1	27.02.2000	00:00	1999	2000	26
+Real Zaragoza	Celta Vigo	0:1	2:1	27.02.2000	00:00	1999	2000	26
+CD AlavÃ©s	AtlÃ©tico Madrid	0:0	2:0	27.02.2000	00:00	1999	2000	26
+Valencia CF	Athletic Bilbao	0:0	2:0	04.03.2000	00:00	1999	2000	27
+Real Oviedo	Real Madrid	0:0	1:1	04.03.2000	00:00	1999	2000	27
+FC Barcelona	CD Numancia	1:0	4:0	04.03.2000	00:00	1999	2000	27
+Real Sociedad	Espanyol Barcelona	1:0	1:0	05.03.2000	00:00	1999	2000	27
+Sevilla FC	Real Valladolid	0:0	0:1	05.03.2000	00:00	1999	2000	27
+AtlÃ©tico Madrid	Real Betis	0:0	0:0	05.03.2000	00:00	1999	2000	27
+Rayo Vallecano	CD AlavÃ©s	0:0	0:1	05.03.2000	00:00	1999	2000	27
+Celta Vigo	Racing Santander	1:0	2:0	05.03.2000	00:00	1999	2000	27
+RCD Mallorca	Real Zaragoza	1:1	1:1	05.03.2000	00:00	1999	2000	27
+MÃ¡laga CF	Deportivo La CoruÃ±a	1:0	1:0	05.03.2000	00:00	1999	2000	27
+Real Madrid	Sevilla FC	3:0	3:1	11.03.2000	00:00	1999	2000	28
+Athletic Bilbao	FC Barcelona	0:2	0:4	11.03.2000	00:00	1999	2000	28
+Real Betis	Rayo Vallecano	1:0	1:1	11.03.2000	00:00	1999	2000	28
+CD AlavÃ©s	Real Sociedad	0:1	2:1	12.03.2000	00:00	1999	2000	28
+Real Valladolid	AtlÃ©tico Madrid	1:0	1:0	12.03.2000	00:00	1999	2000	28
+MÃ¡laga CF	RCD Mallorca	0:0	0:0	12.03.2000	00:00	1999	2000	28
+Deportivo La CoruÃ±a	Valencia CF	1:0	2:0	12.03.2000	00:00	1999	2000	28
+CD Numancia	Real Oviedo	0:1	1:1	12.03.2000	00:00	1999	2000	28
+Racing Santander	Real Zaragoza	1:0	1:2	12.03.2000	00:00	1999	2000	28
+Espanyol Barcelona	Celta Vigo	0:0	3:0	12.03.2000	00:00	1999	2000	28
+Valencia CF	MÃ¡laga CF	0:0	2:2	18.03.2000	00:00	1999	2000	29
+FC Barcelona	Deportivo La CoruÃ±a	2:0	2:1	18.03.2000	00:00	1999	2000	29
+AtlÃ©tico Madrid	Real Madrid	1:1	1:1	18.03.2000	00:00	1999	2000	29
+RCD Mallorca	Racing Santander	0:1	1:2	19.03.2000	00:00	1999	2000	29
+Real Oviedo	Athletic Bilbao	1:0	1:0	19.03.2000	00:00	1999	2000	29
+Sevilla FC	CD Numancia	1:0	4:0	19.03.2000	00:00	1999	2000	29
+Real Zaragoza	Espanyol Barcelona	1:0	1:1	19.03.2000	00:00	1999	2000	29
+Rayo Vallecano	Real Valladolid	1:0	4:1	19.03.2000	00:00	1999	2000	29
+Celta Vigo	CD AlavÃ©s	0:0	1:1	19.03.2000	00:00	1999	2000	29
+Real Sociedad	Real Betis	0:0	1:0	19.03.2000	00:00	1999	2000	29
+CD AlavÃ©s	Real Zaragoza	0:0	0:2	25.03.2000	00:00	1999	2000	30
+Valencia CF	RCD Mallorca	0:0	1:0	25.03.2000	00:00	1999	2000	30
+Real Madrid	Rayo Vallecano	0:0	0:0	25.03.2000	00:00	1999	2000	30
+CD Numancia	AtlÃ©tico Madrid	1:0	3:0	25.03.2000	00:00	1999	2000	30
+Athletic Bilbao	Sevilla FC	1:0	1:1	25.03.2000	00:00	1999	2000	30
+Espanyol Barcelona	Racing Santander	0:0	1:0	25.03.2000	00:00	1999	2000	30
+Real Valladolid	Real Sociedad	0:1	2:1	25.03.2000	00:00	1999	2000	30
+MÃ¡laga CF	FC Barcelona	1:0	1:2	25.03.2000	00:00	1999	2000	30
+Deportivo La CoruÃ±a	Real Oviedo	2:0	3:1	26.03.2000	00:00	1999	2000	30
+Real Betis	Celta Vigo	0:0	0:0	26.03.2000	00:00	1999	2000	30
+Real Sociedad	Real Madrid	0:1	1:1	01.04.2000	00:00	1999	2000	31
+Real Zaragoza	Real Betis	0:0	1:0	02.04.2000	00:00	1999	2000	31
+FC Barcelona	Valencia CF	0:0	3:0	02.04.2000	00:00	1999	2000	31
+Real Oviedo	MÃ¡laga CF	2:1	2:2	02.04.2000	00:00	1999	2000	31
+Sevilla FC	Deportivo La CoruÃ±a	1:2	1:3	02.04.2000	00:00	1999	2000	31
+Celta Vigo	Real Valladolid	1:0	1:1	02.04.2000	00:00	1999	2000	31
+AtlÃ©tico Madrid	Athletic Bilbao	1:1	1:2	02.04.2000	00:00	1999	2000	31
+Racing Santander	CD AlavÃ©s	0:0	0:0	02.04.2000	00:00	1999	2000	31
+RCD Mallorca	Espanyol Barcelona	1:1	1:3	02.04.2000	00:00	1999	2000	31
+Rayo Vallecano	CD Numancia	0:0	0:0	02.04.2000	00:00	1999	2000	31
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	3:0	4:1	08.04.2000	00:00	1999	2000	32
+MÃ¡laga CF	Sevilla FC	0:0	3:0	09.04.2000	00:00	1999	2000	32
+Real Betis	Racing Santander	1:0	2:2	09.04.2000	00:00	1999	2000	32
+FC Barcelona	RCD Mallorca	0:1	0:3	09.04.2000	00:00	1999	2000	32
+Valencia CF	Real Oviedo	2:0	6:2	09.04.2000	00:00	1999	2000	32
+Athletic Bilbao	Rayo Vallecano	0:2	1:2	09.04.2000	00:00	1999	2000	32
+CD Numancia	Real Sociedad	0:0	1:2	09.04.2000	00:00	1999	2000	32
+Real Valladolid	Real Zaragoza	0:0	1:1	09.04.2000	00:00	1999	2000	32
+Real Madrid	Celta Vigo	0:0	1:0	09.04.2000	00:00	1999	2000	32
+CD AlavÃ©s	Espanyol Barcelona	0:0	0:0	09.04.2000	00:00	1999	2000	32
+Sevilla FC	Valencia CF	0:0	1:2	15.04.2000	00:00	1999	2000	33
+Real Oviedo	FC Barcelona	1:0	3:0	15.04.2000	00:00	1999	2000	33
+Real Zaragoza	Real Madrid	0:0	0:1	15.04.2000	00:00	1999	2000	33
+Racing Santander	Real Valladolid	1:0	1:1	16.04.2000	00:00	1999	2000	33
+Rayo Vallecano	Deportivo La CoruÃ±a	1:0	2:0	16.04.2000	00:00	1999	2000	33
+AtlÃ©tico Madrid	MÃ¡laga CF	1:1	2:2	16.04.2000	00:00	1999	2000	33
+Real Sociedad	Athletic Bilbao	1:1	4:1	16.04.2000	00:00	1999	2000	33
+Celta Vigo	CD Numancia	0:0	0:0	16.04.2000	00:00	1999	2000	33
+RCD Mallorca	CD AlavÃ©s	1:0	2:0	16.04.2000	00:00	1999	2000	33
+Espanyol Barcelona	Real Betis	0:0	3:0	16.04.2000	00:00	1999	2000	33
+Athletic Bilbao	Celta Vigo	0:0	1:0	22.04.2000	00:00	1999	2000	34
+Valencia CF	AtlÃ©tico Madrid	1:0	2:0	22.04.2000	00:00	1999	2000	34
+Real Madrid	Racing Santander	1:2	2:4	22.04.2000	00:00	1999	2000	34
+CD Numancia	Real Zaragoza	1:2	1:2	22.04.2000	00:00	1999	2000	34
+MÃ¡laga CF	Rayo Vallecano	1:0	2:0	22.04.2000	00:00	1999	2000	34
+Real Valladolid	Espanyol Barcelona	0:0	1:0	22.04.2000	00:00	1999	2000	34
+FC Barcelona	Sevilla FC	1:0	2:0	22.04.2000	00:00	1999	2000	34
+Real Oviedo	RCD Mallorca	0:0	0:0	23.04.2000	00:00	1999	2000	34
+Deportivo La CoruÃ±a	Real Sociedad	2:0	2:0	23.04.2000	00:00	1999	2000	34
+Real Betis	CD AlavÃ©s	0:0	0:1	23.04.2000	00:00	1999	2000	34
+AtlÃ©tico Madrid	FC Barcelona	0:1	0:3	29.04.2000	00:00	1999	2000	35
+Espanyol Barcelona	Real Madrid	0:0	0:2	29.04.2000	00:00	1999	2000	35
+Rayo Vallecano	Valencia CF	0:2	1:3	29.04.2000	00:00	1999	2000	35
+Racing Santander	CD Numancia	1:0	1:1	30.04.2000	00:00	1999	2000	35
+Real Sociedad	MÃ¡laga CF	1:0	2:2	30.04.2000	00:00	1999	2000	35
+Sevilla FC	Real Oviedo	0:1	2:3	30.04.2000	00:00	1999	2000	35
+Celta Vigo	Deportivo La CoruÃ±a	1:0	2:1	30.04.2000	00:00	1999	2000	35
+Real Zaragoza	Athletic Bilbao	0:0	0:0	30.04.2000	00:00	1999	2000	35
+RCD Mallorca	Real Betis	3:0	4:0	30.04.2000	00:00	1999	2000	35
+CD AlavÃ©s	Real Valladolid	1:0	1:0	30.04.2000	00:00	1999	2000	35
+Valencia CF	Real Sociedad	1:0	4:0	06.05.2000	00:00	1999	2000	36
+Real Madrid	CD AlavÃ©s	0:0	0:1	06.05.2000	00:00	1999	2000	36
+FC Barcelona	Rayo Vallecano	0:1	0:2	06.05.2000	00:00	1999	2000	36
+CD Numancia	Espanyol Barcelona	1:0	2:0	06.05.2000	00:00	1999	2000	36
+Real Valladolid	Real Betis	0:1	0:3	07.05.2000	00:00	1999	2000	36
+Deportivo La CoruÃ±a	Real Zaragoza	0:0	2:2	07.05.2000	00:00	1999	2000	36
+Sevilla FC	RCD Mallorca	0:1	0:4	07.05.2000	00:00	1999	2000	36
+Real Oviedo	AtlÃ©tico Madrid	1:0	2:2	07.05.2000	00:00	1999	2000	36
+Athletic Bilbao	Racing Santander	2:2	2:2	07.05.2000	00:00	1999	2000	36
+MÃ¡laga CF	Celta Vigo	0:1	0:1	07.05.2000	00:00	1999	2000	36
+AtlÃ©tico Madrid	Sevilla FC	1:1	1:1	13.05.2000	00:00	1999	2000	37
+Espanyol Barcelona	Athletic Bilbao	0:0	0:0	14.05.2000	00:00	1999	2000	37
+Real Sociedad	FC Barcelona	0:0	0:0	14.05.2000	00:00	1999	2000	37
+Celta Vigo	Valencia CF	0:0	0:0	14.05.2000	00:00	1999	2000	37
+Rayo Vallecano	Real Oviedo	1:1	1:2	14.05.2000	00:00	1999	2000	37
+Racing Santander	Deportivo La CoruÃ±a	0:0	0:0	14.05.2000	00:00	1999	2000	37
+Real Betis	Real Madrid	0:1	0:2	14.05.2000	00:00	1999	2000	37
+Real Valladolid	RCD Mallorca	0:0	2:1	14.05.2000	00:00	1999	2000	37
+Real Zaragoza	MÃ¡laga CF	1:1	3:2	14.05.2000	00:00	1999	2000	37
+CD AlavÃ©s	CD Numancia	0:1	2:2	14.05.2000	00:00	1999	2000	37
+FC Barcelona	Celta Vigo	0:2	2:2	19.05.2000	00:00	1999	2000	38
+Sevilla FC	Rayo Vallecano	1:2	2:3	19.05.2000	00:00	1999	2000	38
+Valencia CF	Real Zaragoza	0:1	2:1	19.05.2000	00:00	1999	2000	38
+Deportivo La CoruÃ±a	Espanyol Barcelona	2:0	2:0	19.05.2000	00:00	1999	2000	38
+Athletic Bilbao	CD AlavÃ©s	1:1	2:1	19.05.2000	00:00	1999	2000	38
+Real Madrid	Real Valladolid	0:1	0:1	19.05.2000	00:00	1999	2000	38
+RCD Mallorca	AtlÃ©tico Madrid	1:2	1:2	19.05.2000	00:00	1999	2000	38
+CD Numancia	Real Betis	0:0	1:2	20.05.2000	00:00	1999	2000	38
+Real Oviedo	Real Sociedad	0:0	0:1	20.05.2000	00:00	1999	2000	38
+MÃ¡laga CF	Racing Santander	0:0	0:0	20.05.2000	00:00	1999	2000	38

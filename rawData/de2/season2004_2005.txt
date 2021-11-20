@@ -1,0 +1,306 @@
+Rot-Weiss Essen	Erzgebirge Aue	0:4	1:5	07.08.2004	13:00	2004	2005	1
+Dynamo Dresden	MSV Duisburg	0:0	3:1	07.08.2004	13:00	2004	2005	1
+Karlsruher SC	Wacker Burghausen	0:0	1:1	07.08.2004	13:00	2004	2005	1
+TSV 1860 MÃ¼nchen	SpVgg Unterhaching	2:1	2:2	08.08.2004	15:00	2004	2005	1
+Rot-WeiÃ Oberhausen	Eintracht Trier	1:1	1:1	08.08.2004	15:00	2004	2005	1
+1. FC SaarbrÃ¼cken	Rot-WeiÃ Erfurt	0:1	0:2	08.08.2004	15:00	2004	2005	1
+1. FC KÃ¶ln	Energie Cottbus	0:0	0:0	08.08.2004	15:00	2004	2005	1
+SpVgg Greuther FÃ¼rth	LR Ahlen	0:0	1:0	08.08.2004	15:00	2004	2005	1
+Alemannia Aachen	Eintracht Frankfurt	0:0	1:1	09.08.2004	20:15	2004	2005	1
+Wacker Burghausen	1. FC KÃ¶ln	2:1	4:2	13.08.2004	19:00	2004	2005	2
+MSV Duisburg	1. FC SaarbrÃ¼cken	1:0	2:1	13.08.2004	19:00	2004	2005	2
+Erzgebirge Aue	TSV 1860 MÃ¼nchen	2:1	3:1	13.08.2004	19:00	2004	2005	2
+Rot-WeiÃ Erfurt	Rot-WeiÃ Oberhausen	1:0	1:1	15.08.2004	15:00	2004	2005	2
+Eintracht Trier	Rot-Weiss Essen	0:1	1:1	15.08.2004	15:00	2004	2005	2
+SpVgg Unterhaching	SpVgg Greuther FÃ¼rth	1:1	1:2	15.08.2004	15:00	2004	2005	2
+LR Ahlen	Alemannia Aachen	1:1	1:1	15.08.2004	15:00	2004	2005	2
+Eintracht Frankfurt	Karlsruher SC	0:0	2:1	15.08.2004	15:00	2004	2005	2
+Energie Cottbus	Dynamo Dresden	1:1	2:1	16.08.2004	20:15	2004	2005	2
+Alemannia Aachen	Karlsruher SC	2:0	4:0	27.08.2004	19:00	2004	2005	3
+TSV 1860 MÃ¼nchen	Eintracht Trier	1:0	2:0	27.08.2004	19:00	2004	2005	3
+Rot-Weiss Essen	Rot-WeiÃ Erfurt	0:0	0:0	27.08.2004	19:00	2004	2005	3
+Rot-WeiÃ Oberhausen	MSV Duisburg	0:1	0:2	29.08.2004	15:00	2004	2005	3
+1. FC SaarbrÃ¼cken	Energie Cottbus	0:0	0:0	29.08.2004	15:00	2004	2005	3
+Dynamo Dresden	Wacker Burghausen	0:1	1:1	29.08.2004	15:00	2004	2005	3
+LR Ahlen	SpVgg Unterhaching	0:1	1:2	29.08.2004	15:00	2004	2005	3
+SpVgg Greuther FÃ¼rth	Erzgebirge Aue	1:0	1:0	29.08.2004	15:00	2004	2005	3
+1. FC KÃ¶ln	Eintracht Frankfurt	1:0	2:0	30.08.2004	20:15	2004	2005	3
+Wacker Burghausen	1. FC SaarbrÃ¼cken	1:0	1:2	10.09.2004	19:00	2004	2005	4
+Energie Cottbus	Rot-WeiÃ Oberhausen	0:0	1:0	10.09.2004	19:00	2004	2005	4
+Eintracht Frankfurt	Dynamo Dresden	1:0	2:1	10.09.2004	19:00	2004	2005	4
+MSV Duisburg	Rot-Weiss Essen	0:0	1:0	12.09.2004	15:00	2004	2005	4
+Eintracht Trier	SpVgg Greuther FÃ¼rth	0:0	0:0	12.09.2004	15:00	2004	2005	4
+Erzgebirge Aue	LR Ahlen	0:0	0:0	12.09.2004	15:00	2004	2005	4
+SpVgg Unterhaching	Alemannia Aachen	0:0	0:2	12.09.2004	15:00	2004	2005	4
+Karlsruher SC	1. FC KÃ¶ln	0:0	0:1	12.09.2004	15:00	2004	2005	4
+Rot-WeiÃ Erfurt	TSV 1860 MÃ¼nchen	0:0	0:0	13.09.2004	20:15	2004	2005	4
+TSV 1860 MÃ¼nchen	MSV Duisburg	0:0	1:0	17.09.2004	19:00	2004	2005	5
+Dynamo Dresden	Karlsruher SC	0:1	1:2	17.09.2004	19:00	2004	2005	5
+LR Ahlen	Eintracht Trier	1:0	2:2	17.09.2004	19:00	2004	2005	5
+Rot-Weiss Essen	Energie Cottbus	1:0	4:2	19.09.2004	15:00	2004	2005	5
+Rot-WeiÃ Oberhausen	Wacker Burghausen	1:0	1:2	19.09.2004	15:00	2004	2005	5
+1. FC SaarbrÃ¼cken	Eintracht Frankfurt	1:0	3:0	19.09.2004	15:00	2004	2005	5
+SpVgg Unterhaching	Erzgebirge Aue	2:0	4:1	19.09.2004	15:00	2004	2005	5
+SpVgg Greuther FÃ¼rth	Rot-WeiÃ Erfurt	2:0	2:0	19.09.2004	15:00	2004	2005	5
+Alemannia Aachen	1. FC KÃ¶ln	1:0	2:3	19.09.2004	20:30	2004	2005	5
+Wacker Burghausen	Rot-Weiss Essen	2:1	3:2	24.09.2004	19:00	2004	2005	6
+Rot-WeiÃ Erfurt	LR Ahlen	0:0	1:1	24.09.2004	19:00	2004	2005	6
+Karlsruher SC	1. FC SaarbrÃ¼cken	0:1	1:1	24.09.2004	19:00	2004	2005	6
+MSV Duisburg	SpVgg Greuther FÃ¼rth	1:0	1:0	26.09.2004	15:00	2004	2005	6
+Eintracht Trier	SpVgg Unterhaching	2:0	2:0	26.09.2004	15:00	2004	2005	6
+Erzgebirge Aue	Alemannia Aachen	0:0	1:1	26.09.2004	15:00	2004	2005	6
+1. FC KÃ¶ln	Dynamo Dresden	0:2	3:2	26.09.2004	15:00	2004	2005	6
+Eintracht Frankfurt	Rot-WeiÃ Oberhausen	1:1	6:2	26.09.2004	15:00	2004	2005	6
+Energie Cottbus	TSV 1860 MÃ¼nchen	0:1	1:1	27.09.2004	20:15	2004	2005	6
+Rot-Weiss Essen	Eintracht Frankfurt	2:2	4:4	01.10.2004	19:00	2004	2005	7
+SpVgg Unterhaching	Rot-WeiÃ Erfurt	2:0	4:0	01.10.2004	19:00	2004	2005	7
+LR Ahlen	MSV Duisburg	1:0	2:0	01.10.2004	19:00	2004	2005	7
+TSV 1860 MÃ¼nchen	Wacker Burghausen	1:1	2:4	03.10.2004	15:00	2004	2005	7
+Rot-WeiÃ Oberhausen	Karlsruher SC	1:0	1:0	03.10.2004	15:00	2004	2005	7
+1. FC SaarbrÃ¼cken	1. FC KÃ¶ln	1:0	2:0	03.10.2004	15:00	2004	2005	7
+Erzgebirge Aue	Eintracht Trier	0:0	1:2	03.10.2004	15:00	2004	2005	7
+SpVgg Greuther FÃ¼rth	Energie Cottbus	1:0	2:0	03.10.2004	15:00	2004	2005	7
+Alemannia Aachen	Dynamo Dresden	2:0	5:1	04.10.2004	20:15	2004	2005	7
+MSV Duisburg	SpVgg Unterhaching	1:0	3:1	15.10.2004	19:00	2004	2005	8
+Rot-WeiÃ Erfurt	Erzgebirge Aue	0:2	0:3	15.10.2004	19:00	2004	2005	8
+Karlsruher SC	Rot-Weiss Essen	2:1	4:1	15.10.2004	19:00	2004	2005	8
+Wacker Burghausen	SpVgg Greuther FÃ¼rth	0:1	0:1	17.10.2004	15:00	2004	2005	8
+Energie Cottbus	LR Ahlen	0:0	0:0	17.10.2004	15:00	2004	2005	8
+Eintracht Trier	Alemannia Aachen	0:2	0:4	17.10.2004	15:00	2004	2005	8
+Dynamo Dresden	1. FC SaarbrÃ¼cken	2:1	2:1	17.10.2004	15:00	2004	2005	8
+1. FC KÃ¶ln	Rot-WeiÃ Oberhausen	1:2	3:2	17.10.2004	15:00	2004	2005	8
+Eintracht Frankfurt	TSV 1860 MÃ¼nchen	0:2	1:2	18.10.2004	20:15	2004	2005	8
+TSV 1860 MÃ¼nchen	Karlsruher SC	0:1	1:1	22.10.2004	19:00	2004	2005	9
+Rot-Weiss Essen	1. FC KÃ¶ln	1:0	2:2	22.10.2004	19:00	2004	2005	9
+SpVgg Unterhaching	Energie Cottbus	0:1	2:1	22.10.2004	19:00	2004	2005	9
+SpVgg Greuther FÃ¼rth	Eintracht Frankfurt	1:1	2:1	22.10.2004	19:00	2004	2005	9
+Alemannia Aachen	1. FC SaarbrÃ¼cken	2:0	3:1	24.10.2004	15:00	2004	2005	9
+Rot-WeiÃ Oberhausen	Dynamo Dresden	1:0	2:0	24.10.2004	15:00	2004	2005	9
+Eintracht Trier	Rot-WeiÃ Erfurt	0:0	2:0	24.10.2004	15:00	2004	2005	9
+Erzgebirge Aue	MSV Duisburg	0:0	1:3	24.10.2004	15:00	2004	2005	9
+LR Ahlen	Wacker Burghausen	1:0	1:3	27.04.2005	18:15	2004	2005	9
+Wacker Burghausen	SpVgg Unterhaching	1:0	2:0	26.10.2004	17:30	2004	2005	10
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	2:0	2:0	26.10.2004	17:30	2004	2005	10
+Karlsruher SC	SpVgg Greuther FÃ¼rth	0:1	2:2	26.10.2004	17:30	2004	2005	10
+Eintracht Frankfurt	LR Ahlen	2:2	2:3	26.10.2004	17:30	2004	2005	10
+MSV Duisburg	Eintracht Trier	3:3	4:3	27.10.2004	17:30	2004	2005	10
+Rot-WeiÃ Erfurt	Alemannia Aachen	0:0	1:0	27.10.2004	17:30	2004	2005	10
+1. FC SaarbrÃ¼cken	Rot-WeiÃ Oberhausen	2:0	3:0	27.10.2004	17:30	2004	2005	10
+Dynamo Dresden	Rot-Weiss Essen	1:0	1:0	27.10.2004	17:30	2004	2005	10
+Energie Cottbus	Erzgebirge Aue	0:0	1:0	28.10.2004	20:15	2004	2005	10
+SpVgg Unterhaching	Eintracht Frankfurt	1:0	2:0	29.10.2004	19:00	2004	2005	11
+LR Ahlen	Karlsruher SC	1:2	2:2	29.10.2004	19:00	2004	2005	11
+SpVgg Greuther FÃ¼rth	1. FC KÃ¶ln	0:0	0:1	29.10.2004	19:00	2004	2005	11
+Alemannia Aachen	Rot-WeiÃ Oberhausen	2:0	2:1	31.10.2004	15:00	2004	2005	11
+Rot-Weiss Essen	1. FC SaarbrÃ¼cken	1:0	2:0	31.10.2004	15:00	2004	2005	11
+Rot-WeiÃ Erfurt	MSV Duisburg	0:0	0:0	31.10.2004	15:00	2004	2005	11
+Eintracht Trier	Energie Cottbus	1:1	2:1	31.10.2004	15:00	2004	2005	11
+Erzgebirge Aue	Wacker Burghausen	0:0	2:0	31.10.2004	15:00	2004	2005	11
+TSV 1860 MÃ¼nchen	Dynamo Dresden	0:0	2:0	01.11.2004	20:15	2004	2005	11
+Wacker Burghausen	Eintracht Trier	0:0	0:0	05.11.2004	19:00	2004	2005	12
+Karlsruher SC	SpVgg Unterhaching	1:0	1:0	05.11.2004	19:00	2004	2005	12
+Eintracht Frankfurt	Erzgebirge Aue	1:0	2:0	05.11.2004	19:00	2004	2005	12
+Energie Cottbus	Rot-WeiÃ Erfurt	1:0	3:0	07.11.2004	15:00	2004	2005	12
+Rot-WeiÃ Oberhausen	Rot-Weiss Essen	0:0	1:1	07.11.2004	15:00	2004	2005	12
+1. FC SaarbrÃ¼cken	TSV 1860 MÃ¼nchen	2:1	4:1	07.11.2004	15:00	2004	2005	12
+Dynamo Dresden	SpVgg Greuther FÃ¼rth	0:1	2:2	07.11.2004	15:00	2004	2005	12
+1. FC KÃ¶ln	LR Ahlen	2:0	3:0	07.11.2004	15:00	2004	2005	12
+MSV Duisburg	Alemannia Aachen	1:0	1:0	08.11.2004	20:15	2004	2005	12
+TSV 1860 MÃ¼nchen	Rot-WeiÃ Oberhausen	3:0	5:1	12.11.2004	19:00	2004	2005	13
+Rot-WeiÃ Erfurt	Wacker Burghausen	0:0	1:0	12.11.2004	19:00	2004	2005	13
+SpVgg Greuther FÃ¼rth	1. FC SaarbrÃ¼cken	1:0	2:0	12.11.2004	19:00	2004	2005	13
+Alemannia Aachen	Rot-Weiss Essen	1:0	1:1	14.11.2004	15:00	2004	2005	13
+MSV Duisburg	Energie Cottbus	1:0	2:0	14.11.2004	15:00	2004	2005	13
+Eintracht Trier	Eintracht Frankfurt	1:2	2:2	14.11.2004	15:00	2004	2005	13
+Erzgebirge Aue	Karlsruher SC	0:0	1:0	14.11.2004	15:00	2004	2005	13
+LR Ahlen	Dynamo Dresden	1:0	2:0	14.11.2004	15:00	2004	2005	13
+SpVgg Unterhaching	1. FC KÃ¶ln	1:0	1:3	15.11.2004	20:15	2004	2005	13
+Rot-WeiÃ Oberhausen	SpVgg Greuther FÃ¼rth	0:0	1:0	19.11.2004	19:00	2004	2005	14
+1. FC SaarbrÃ¼cken	LR Ahlen	0:0	0:0	19.11.2004	19:00	2004	2005	14
+1. FC KÃ¶ln	Erzgebirge Aue	0:0	1:0	19.11.2004	19:00	2004	2005	14
+Eintracht Frankfurt	Rot-WeiÃ Erfurt	2:0	2:1	19.11.2004	19:00	2004	2005	14
+Wacker Burghausen	MSV Duisburg	0:0	0:0	21.11.2004	15:00	2004	2005	14
+Dynamo Dresden	SpVgg Unterhaching	1:0	1:0	21.11.2004	15:00	2004	2005	14
+Karlsruher SC	Eintracht Trier	1:0	1:0	21.11.2004	15:00	2004	2005	14
+Energie Cottbus	Alemannia Aachen	1:2	1:2	22.11.2004	20:15	2004	2005	14
+Rot-Weiss Essen	TSV 1860 MÃ¼nchen	0:0	0:0	24.11.2004	18:30	2004	2005	14
+MSV Duisburg	Eintracht Frankfurt	1:0	1:1	26.11.2004	19:00	2004	2005	15
+Eintracht Trier	1. FC KÃ¶ln	0:0	0:0	26.11.2004	19:00	2004	2005	15
+LR Ahlen	Rot-WeiÃ Oberhausen	0:1	0:1	26.11.2004	19:00	2004	2005	15
+Alemannia Aachen	TSV 1860 MÃ¼nchen	3:1	5:1	28.11.2004	15:00	2004	2005	15
+Rot-WeiÃ Erfurt	Karlsruher SC	3:2	4:2	28.11.2004	15:00	2004	2005	15
+Erzgebirge Aue	Dynamo Dresden	2:1	4:1	28.11.2004	15:00	2004	2005	15
+SpVgg Unterhaching	1. FC SaarbrÃ¼cken	0:2	1:3	28.11.2004	15:00	2004	2005	15
+SpVgg Greuther FÃ¼rth	Rot-Weiss Essen	1:0	3:2	28.11.2004	15:00	2004	2005	15
+Energie Cottbus	Wacker Burghausen	0:0	0:2	29.11.2004	20:15	2004	2005	15
+Rot-Weiss Essen	LR Ahlen	0:0	1:0	03.12.2004	19:00	2004	2005	16
+1. FC SaarbrÃ¼cken	Erzgebirge Aue	2:0	2:1	03.12.2004	19:00	2004	2005	16
+Karlsruher SC	MSV Duisburg	0:3	0:3	03.12.2004	19:00	2004	2005	16
+Alemannia Aachen	Wacker Burghausen	1:0	3:1	05.12.2004	15:00	2004	2005	16
+Rot-WeiÃ Oberhausen	SpVgg Unterhaching	0:0	3:1	05.12.2004	15:00	2004	2005	16
+Dynamo Dresden	Eintracht Trier	1:1	4:1	05.12.2004	15:00	2004	2005	16
+1. FC KÃ¶ln	Rot-WeiÃ Erfurt	0:0	1:1	05.12.2004	15:00	2004	2005	16
+Eintracht Frankfurt	Energie Cottbus	2:0	3:1	05.12.2004	15:00	2004	2005	16
+TSV 1860 MÃ¼nchen	SpVgg Greuther FÃ¼rth	0:0	2:1	06.12.2004	20:15	2004	2005	16
+Wacker Burghausen	Eintracht Frankfurt	0:1	0:3	10.12.2004	19:00	2004	2005	17
+Energie Cottbus	Karlsruher SC	2:1	4:1	10.12.2004	19:00	2004	2005	17
+SpVgg Greuther FÃ¼rth	Alemannia Aachen	1:1	3:2	10.12.2004	19:00	2004	2005	17
+Rot-WeiÃ Erfurt	Dynamo Dresden	0:0	1:1	12.12.2004	15:00	2004	2005	17
+Eintracht Trier	1. FC SaarbrÃ¼cken	2:0	2:1	12.12.2004	15:00	2004	2005	17
+Erzgebirge Aue	Rot-WeiÃ Oberhausen	1:0	2:0	12.12.2004	15:00	2004	2005	17
+SpVgg Unterhaching	Rot-Weiss Essen	3:0	4:0	12.12.2004	15:00	2004	2005	17
+LR Ahlen	TSV 1860 MÃ¼nchen	1:0	1:0	12.12.2004	15:00	2004	2005	17
+MSV Duisburg	1. FC KÃ¶ln	0:0	1:0	12.12.2004	20:30	2004	2005	17
+Erzgebirge Aue	Rot-Weiss Essen	0:0	1:1	22.01.2005	13:00	2004	2005	18
+Eintracht Trier	Rot-WeiÃ Oberhausen	1:0	2:2	22.01.2005	13:00	2004	2005	18
+Wacker Burghausen	Karlsruher SC	1:0	1:1	22.01.2005	13:00	2004	2005	18
+SpVgg Unterhaching	TSV 1860 MÃ¼nchen	0:0	1:1	23.01.2005	15:00	2004	2005	18
+Rot-WeiÃ Erfurt	1. FC SaarbrÃ¼cken	0:1	0:1	23.01.2005	15:00	2004	2005	18
+MSV Duisburg	Dynamo Dresden	1:0	4:2	23.01.2005	15:00	2004	2005	18
+Energie Cottbus	1. FC KÃ¶ln	2:2	3:5	23.01.2005	15:00	2004	2005	18
+LR Ahlen	SpVgg Greuther FÃ¼rth	1:2	2:4	23.01.2005	15:00	2004	2005	18
+Eintracht Frankfurt	Alemannia Aachen	1:0	1:0	24.01.2005	20:15	2004	2005	18
+1. FC KÃ¶ln	Wacker Burghausen	4:0	8:1	28.01.2005	19:00	2004	2005	19
+Rot-Weiss Essen	Eintracht Trier	1:1	2:2	28.01.2005	19:00	2004	2005	19
+TSV 1860 MÃ¼nchen	Erzgebirge Aue	1:0	1:0	28.01.2005	19:00	2004	2005	19
+1. FC SaarbrÃ¼cken	MSV Duisburg	0:0	4:1	30.01.2005	15:00	2004	2005	19
+Rot-WeiÃ Oberhausen	Rot-WeiÃ Erfurt	3:1	4:3	30.01.2005	15:00	2004	2005	19
+SpVgg Greuther FÃ¼rth	SpVgg Unterhaching	2:1	3:1	30.01.2005	15:00	2004	2005	19
+Alemannia Aachen	LR Ahlen	0:1	0:2	30.01.2005	15:00	2004	2005	19
+Karlsruher SC	Eintracht Frankfurt	1:0	3:0	30.01.2005	15:00	2004	2005	19
+Dynamo Dresden	Energie Cottbus	0:0	0:1	31.01.2005	20:15	2004	2005	19
+MSV Duisburg	Rot-WeiÃ Oberhausen	2:1	4:1	04.02.2005	19:00	2004	2005	20
+Energie Cottbus	1. FC SaarbrÃ¼cken	1:0	1:1	04.02.2005	19:00	2004	2005	20
+Eintracht Frankfurt	1. FC KÃ¶ln	0:0	1:0	04.02.2005	19:00	2004	2005	20
+Karlsruher SC	Alemannia Aachen	0:0	0:1	06.02.2005	15:00	2004	2005	20
+Eintracht Trier	TSV 1860 MÃ¼nchen	0:0	2:2	06.02.2005	15:00	2004	2005	20
+Rot-WeiÃ Erfurt	Rot-Weiss Essen	0:0	1:1	06.02.2005	15:00	2004	2005	20
+SpVgg Unterhaching	LR Ahlen	2:0	2:1	06.02.2005	15:00	2004	2005	20
+Erzgebirge Aue	SpVgg Greuther FÃ¼rth	2:0	2:1	06.02.2005	15:00	2004	2005	20
+Wacker Burghausen	Dynamo Dresden	1:0	2:1	07.02.2005	20:15	2004	2005	20
+Rot-WeiÃ Oberhausen	Energie Cottbus	0:0	0:1	11.02.2005	19:00	2004	2005	21
+Alemannia Aachen	SpVgg Unterhaching	1:2	2:3	11.02.2005	19:00	2004	2005	21
+Dynamo Dresden	Eintracht Frankfurt	1:0	2:1	11.02.2005	19:00	2004	2005	21
+1. FC SaarbrÃ¼cken	Wacker Burghausen	1:0	2:4	13.02.2005	15:00	2004	2005	21
+Rot-Weiss Essen	MSV Duisburg	0:0	1:0	13.02.2005	15:00	2004	2005	21
+TSV 1860 MÃ¼nchen	Rot-WeiÃ Erfurt	1:0	3:1	13.02.2005	15:00	2004	2005	21
+SpVgg Greuther FÃ¼rth	Eintracht Trier	2:0	3:3	13.02.2005	15:00	2004	2005	21
+LR Ahlen	Erzgebirge Aue	0:0	1:2	13.02.2005	15:00	2004	2005	21
+1. FC KÃ¶ln	Karlsruher SC	0:1	2:2	14.02.2005	20:15	2004	2005	21
+Energie Cottbus	Rot-Weiss Essen	0:0	0:0	18.02.2005	19:00	2004	2005	22
+Karlsruher SC	Dynamo Dresden	1:1	1:1	18.02.2005	19:00	2004	2005	22
+Eintracht Trier	LR Ahlen	1:0	2:0	18.02.2005	19:00	2004	2005	22
+1. FC KÃ¶ln	Alemannia Aachen	0:0	1:0	20.02.2005	15:00	2004	2005	22
+Wacker Burghausen	Rot-WeiÃ Oberhausen	0:1	2:2	20.02.2005	15:00	2004	2005	22
+Eintracht Frankfurt	1. FC SaarbrÃ¼cken	2:0	3:0	20.02.2005	15:00	2004	2005	22
+Erzgebirge Aue	SpVgg Unterhaching	0:0	1:0	20.02.2005	15:00	2004	2005	22
+Rot-WeiÃ Erfurt	SpVgg Greuther FÃ¼rth	1:1	1:2	20.02.2005	15:00	2004	2005	22
+MSV Duisburg	TSV 1860 MÃ¼nchen	0:0	0:1	21.02.2005	20:15	2004	2005	22
+Rot-Weiss Essen	Wacker Burghausen	1:0	1:2	25.02.2005	19:00	2004	2005	23
+TSV 1860 MÃ¼nchen	Energie Cottbus	0:0	1:0	25.02.2005	19:00	2004	2005	23
+LR Ahlen	Rot-WeiÃ Erfurt	2:0	2:3	27.02.2005	15:00	2004	2005	23
+SpVgg Unterhaching	Eintracht Trier	0:0	1:0	27.02.2005	15:00	2004	2005	23
+Alemannia Aachen	Erzgebirge Aue	0:1	1:5	27.02.2005	15:00	2004	2005	23
+Rot-WeiÃ Oberhausen	Eintracht Frankfurt	0:1	0:3	27.02.2005	15:00	2004	2005	23
+SpVgg Greuther FÃ¼rth	MSV Duisburg	0:2	1:3	28.02.2005	20:15	2004	2005	23
+Dynamo Dresden	1. FC KÃ¶ln	0:0	2:1	16.03.2005	18:45	2004	2005	23
+1. FC SaarbrÃ¼cken	Karlsruher SC	2:2	3:4	16.03.2005	18:45	2004	2005	23
+Dynamo Dresden	Alemannia Aachen	2:0	2:0	04.03.2005	19:00	2004	2005	24
+Wacker Burghausen	TSV 1860 MÃ¼nchen	0:1	0:3	04.03.2005	19:00	2004	2005	24
+MSV Duisburg	LR Ahlen	0:0	1:0	04.03.2005	19:00	2004	2005	24
+Eintracht Frankfurt	Rot-Weiss Essen	1:0	1:0	06.03.2005	15:00	2004	2005	24
+Eintracht Trier	Erzgebirge Aue	1:0	1:0	06.03.2005	15:00	2004	2005	24
+Energie Cottbus	SpVgg Greuther FÃ¼rth	1:0	2:0	06.03.2005	15:00	2004	2005	24
+1. FC KÃ¶ln	1. FC SaarbrÃ¼cken	3:0	3:1	07.03.2005	20:15	2004	2005	24
+Karlsruher SC	Rot-WeiÃ Oberhausen	2:0	3:0	06.04.2005	18:15	2004	2005	24
+Rot-WeiÃ Erfurt	SpVgg Unterhaching	1:0	0:2	06.04.2005	18:15	2004	2005	24
+Erzgebirge Aue	Rot-WeiÃ Erfurt	1:0	3:2	11.03.2005	19:00	2004	2005	25
+1. FC SaarbrÃ¼cken	Dynamo Dresden	0:1	0:1	11.03.2005	19:00	2004	2005	25
+Rot-WeiÃ Oberhausen	1. FC KÃ¶ln	0:2	0:3	11.03.2005	19:00	2004	2005	25
+LR Ahlen	Energie Cottbus	1:1	3:1	13.03.2005	15:00	2004	2005	25
+SpVgg Unterhaching	MSV Duisburg	0:1	0:1	13.03.2005	15:00	2004	2005	25
+Alemannia Aachen	Eintracht Trier	1:0	2:0	13.03.2005	15:00	2004	2005	25
+Rot-Weiss Essen	Karlsruher SC	2:1	2:1	13.03.2005	15:00	2004	2005	25
+TSV 1860 MÃ¼nchen	Eintracht Frankfurt	1:1	2:1	14.03.2005	20:15	2004	2005	25
+SpVgg Greuther FÃ¼rth	Wacker Burghausen	0:0	1:1	06.04.2005	18:15	2004	2005	25
+Rot-WeiÃ Erfurt	Eintracht Trier	2:0	3:0	18.03.2005	19:00	2004	2005	26
+MSV Duisburg	Erzgebirge Aue	0:1	1:1	18.03.2005	19:00	2004	2005	26
+Wacker Burghausen	LR Ahlen	0:0	1:0	18.03.2005	19:00	2004	2005	26
+1. FC SaarbrÃ¼cken	Alemannia Aachen	0:1	1:2	20.03.2005	15:00	2004	2005	26
+Karlsruher SC	TSV 1860 MÃ¼nchen	0:0	1:1	20.03.2005	15:00	2004	2005	26
+1. FC KÃ¶ln	Rot-Weiss Essen	0:0	0:0	20.03.2005	15:00	2004	2005	26
+Dynamo Dresden	Rot-WeiÃ Oberhausen	2:0	3:1	20.03.2005	15:00	2004	2005	26
+Energie Cottbus	SpVgg Unterhaching	0:0	0:0	20.03.2005	15:00	2004	2005	26
+Eintracht Frankfurt	SpVgg Greuther FÃ¼rth	1:0	1:0	21.03.2005	20:15	2004	2005	26
+Erzgebirge Aue	Energie Cottbus	2:0	2:0	01.04.2005	19:00	2004	2005	27
+Alemannia Aachen	Rot-WeiÃ Erfurt	4:0	5:1	01.04.2005	19:00	2004	2005	27
+Rot-Weiss Essen	Dynamo Dresden	2:0	2:1	01.04.2005	19:00	2004	2005	27
+SpVgg Unterhaching	Wacker Burghausen	0:1	0:1	03.04.2005	15:00	2004	2005	27
+Rot-WeiÃ Oberhausen	1. FC SaarbrÃ¼cken	1:0	3:0	03.04.2005	15:00	2004	2005	27
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	0:0	0:0	03.04.2005	15:00	2004	2005	27
+SpVgg Greuther FÃ¼rth	Karlsruher SC	1:0	1:0	03.04.2005	15:00	2004	2005	27
+LR Ahlen	Eintracht Frankfurt	2:1	3:2	03.04.2005	15:00	2004	2005	27
+Eintracht Trier	MSV Duisburg	1:0	1:0	04.04.2005	20:15	2004	2005	27
+Dynamo Dresden	TSV 1860 MÃ¼nchen	0:3	0:4	08.04.2005	19:00	2004	2005	28
+1. FC SaarbrÃ¼cken	Rot-Weiss Essen	0:0	0:0	08.04.2005	19:00	2004	2005	28
+Energie Cottbus	Eintracht Trier	1:0	2:1	08.04.2005	19:00	2004	2005	28
+Rot-WeiÃ Oberhausen	Alemannia Aachen	0:0	0:0	10.04.2005	15:00	2004	2005	28
+MSV Duisburg	Rot-WeiÃ Erfurt	2:0	4:0	10.04.2005	15:00	2004	2005	28
+Wacker Burghausen	Erzgebirge Aue	2:1	2:2	10.04.2005	15:00	2004	2005	28
+Eintracht Frankfurt	SpVgg Unterhaching	1:0	3:0	10.04.2005	15:00	2004	2005	28
+Karlsruher SC	LR Ahlen	0:0	0:0	10.04.2005	15:00	2004	2005	28
+1. FC KÃ¶ln	SpVgg Greuther FÃ¼rth	2:0	3:2	11.04.2005	20:15	2004	2005	28
+Rot-WeiÃ Erfurt	Energie Cottbus	1:1	3:3	15.04.2005	19:00	2004	2005	29
+Rot-Weiss Essen	Rot-WeiÃ Oberhausen	2:0	2:2	15.04.2005	19:00	2004	2005	29
+SpVgg Greuther FÃ¼rth	Dynamo Dresden	0:1	0:1	15.04.2005	19:00	2004	2005	29
+Eintracht Trier	Wacker Burghausen	0:1	0:2	17.04.2005	15:00	2004	2005	29
+TSV 1860 MÃ¼nchen	1. FC SaarbrÃ¼cken	1:0	1:1	17.04.2005	15:00	2004	2005	29
+LR Ahlen	1. FC KÃ¶ln	0:0	1:0	17.04.2005	15:00	2004	2005	29
+SpVgg Unterhaching	Karlsruher SC	0:0	2:0	17.04.2005	15:00	2004	2005	29
+Erzgebirge Aue	Eintracht Frankfurt	0:2	0:5	17.04.2005	15:00	2004	2005	29
+Alemannia Aachen	MSV Duisburg	0:0	0:0	18.04.2005	20:15	2004	2005	29
+Rot-Weiss Essen	Alemannia Aachen	0:1	0:2	22.04.2005	19:00	2004	2005	30
+Eintracht Frankfurt	Eintracht Trier	1:0	2:0	22.04.2005	19:00	2004	2005	30
+Karlsruher SC	Erzgebirge Aue	0:0	0:1	22.04.2005	19:00	2004	2005	30
+Rot-WeiÃ Oberhausen	TSV 1860 MÃ¼nchen	0:0	0:0	24.04.2005	15:00	2004	2005	30
+Energie Cottbus	MSV Duisburg	1:0	1:0	24.04.2005	15:00	2004	2005	30
+Wacker Burghausen	Rot-WeiÃ Erfurt	0:0	0:2	24.04.2005	15:00	2004	2005	30
+Dynamo Dresden	LR Ahlen	0:1	3:1	24.04.2005	15:00	2004	2005	30
+1. FC SaarbrÃ¼cken	SpVgg Greuther FÃ¼rth	1:1	2:1	24.04.2005	15:00	2004	2005	30
+1. FC KÃ¶ln	SpVgg Unterhaching	1:0	1:0	25.04.2005	20:15	2004	2005	30
+SpVgg Greuther FÃ¼rth	Rot-WeiÃ Oberhausen	3:2	3:2	29.04.2005	19:00	2004	2005	31
+SpVgg Unterhaching	Dynamo Dresden	0:0	1:0	29.04.2005	19:00	2004	2005	31
+Rot-WeiÃ Erfurt	Eintracht Frankfurt	0:3	0:3	29.04.2005	19:00	2004	2005	31
+MSV Duisburg	Wacker Burghausen	1:3	4:3	01.05.2005	15:00	2004	2005	31
+Alemannia Aachen	Energie Cottbus	3:0	4:0	01.05.2005	15:00	2004	2005	31
+TSV 1860 MÃ¼nchen	Rot-Weiss Essen	0:0	0:0	01.05.2005	15:00	2004	2005	31
+LR Ahlen	1. FC SaarbrÃ¼cken	1:0	2:3	01.05.2005	15:00	2004	2005	31
+Eintracht Trier	Karlsruher SC	0:1	0:2	01.05.2005	15:00	2004	2005	31
+Erzgebirge Aue	1. FC KÃ¶ln	1:1	1:2	02.05.2005	20:15	2004	2005	31
+Karlsruher SC	Rot-WeiÃ Erfurt	1:0	2:0	06.05.2005	19:00	2004	2005	32
+1. FC KÃ¶ln	Eintracht Trier	0:1	1:2	06.05.2005	19:00	2004	2005	32
+Dynamo Dresden	Erzgebirge Aue	1:0	1:0	06.05.2005	19:00	2004	2005	32
+TSV 1860 MÃ¼nchen	Alemannia Aachen	1:0	3:0	08.05.2005	15:00	2004	2005	32
+Wacker Burghausen	Energie Cottbus	0:0	0:0	08.05.2005	15:00	2004	2005	32
+1. FC SaarbrÃ¼cken	SpVgg Unterhaching	0:0	0:1	08.05.2005	15:00	2004	2005	32
+Rot-WeiÃ Oberhausen	LR Ahlen	1:1	2:2	08.05.2005	15:00	2004	2005	32
+Rot-Weiss Essen	SpVgg Greuther FÃ¼rth	0:0	0:2	08.05.2005	15:00	2004	2005	32
+Eintracht Frankfurt	MSV Duisburg	0:1	0:1	09.05.2005	20:15	2004	2005	32
+Wacker Burghausen	Alemannia Aachen	0:1	2:3	15.05.2005	15:00	2004	2005	33
+SpVgg Greuther FÃ¼rth	TSV 1860 MÃ¼nchen	1:1	2:3	15.05.2005	15:00	2004	2005	33
+LR Ahlen	Rot-Weiss Essen	0:1	3:1	15.05.2005	15:00	2004	2005	33
+SpVgg Unterhaching	Rot-WeiÃ Oberhausen	0:2	0:2	15.05.2005	15:00	2004	2005	33
+Erzgebirge Aue	1. FC SaarbrÃ¼cken	0:0	2:0	15.05.2005	15:00	2004	2005	33
+Eintracht Trier	Dynamo Dresden	0:1	2:4	15.05.2005	15:00	2004	2005	33
+Rot-WeiÃ Erfurt	1. FC KÃ¶ln	0:0	0:1	15.05.2005	15:00	2004	2005	33
+MSV Duisburg	Karlsruher SC	0:2	1:4	15.05.2005	15:00	2004	2005	33
+Energie Cottbus	Eintracht Frankfurt	0:1	0:3	15.05.2005	15:00	2004	2005	33
+Eintracht Frankfurt	Wacker Burghausen	1:0	3:0	22.05.2005	15:00	2004	2005	34
+Karlsruher SC	Energie Cottbus	1:2	3:2	22.05.2005	15:00	2004	2005	34
+1. FC KÃ¶ln	MSV Duisburg	0:0	4:0	22.05.2005	15:00	2004	2005	34
+Dynamo Dresden	Rot-WeiÃ Erfurt	1:1	2:1	22.05.2005	15:00	2004	2005	34
+1. FC SaarbrÃ¼cken	Eintracht Trier	1:1	1:1	22.05.2005	15:00	2004	2005	34
+Rot-WeiÃ Oberhausen	Erzgebirge Aue	1:0	1:1	22.05.2005	15:00	2004	2005	34
+Rot-Weiss Essen	SpVgg Unterhaching	0:0	0:1	22.05.2005	15:00	2004	2005	34
+TSV 1860 MÃ¼nchen	LR Ahlen	2:2	3:4	22.05.2005	15:00	2004	2005	34
+Alemannia Aachen	SpVgg Greuther FÃ¼rth	0:0	0:1	22.05.2005	15:00	2004	2005	34

@@ -1,0 +1,462 @@
+Arsenal FC	Stoke City	0:0	2:1	21.08.1965	00:00	1965	1966	1
+Sheffield United	Aston Villa	0:0	1:0	21.08.1965	00:00	1965	1966	1
+Newcastle United	Nottingham Forest	0:0	2:2	21.08.1965	00:00	1965	1966	1
+Manchester United	Sheffield Wednesday	0:0	1:0	21.08.1965	00:00	1965	1966	1
+Leicester City	Liverpool FC	0:0	1:3	21.08.1965	00:00	1965	1966	1
+Leeds United	Sunderland AFC	0:0	1:0	21.08.1965	00:00	1965	1966	1
+Everton FC	Northampton Town	0:0	5:2	21.08.1965	00:00	1965	1966	1
+Chelsea FC	Burnley FC	0:0	1:1	21.08.1965	00:00	1965	1966	1
+Blackpool FC	Fulham FC	0:0	2:2	21.08.1965	00:00	1965	1966	1
+West Bromwich Albion	West Ham United	0:0	3:0	21.08.1965	00:00	1965	1966	1
+Blackburn Rovers	Tottenham Hotspur	0:0	0:1	09.05.1966	00:00	1965	1966	1
+Aston Villa	Leeds United	0:0	0:2	23.08.1965	00:00	1965	1966	2
+West Ham United	Sunderland AFC	0:0	1:1	23.08.1965	00:00	1965	1966	2
+Burnley FC	Blackpool FC	0:0	3:1	24.08.1965	00:00	1965	1966	2
+Nottingham Forest	Manchester United	0:0	4:2	24.08.1965	00:00	1965	1966	2
+Stoke City	Chelsea FC	0:0	2:2	25.08.1965	00:00	1965	1966	2
+Sheffield Wednesday	Everton FC	0:0	3:1	25.08.1965	00:00	1965	1966	2
+Northampton Town	Arsenal FC	0:0	1:1	25.08.1965	00:00	1965	1966	2
+Newcastle United	West Bromwich Albion	0:0	0:1	25.08.1965	00:00	1965	1966	2
+Liverpool FC	Sheffield United	0:0	0:1	25.08.1965	00:00	1965	1966	2
+Fulham FC	Blackburn Rovers	0:0	5:2	25.08.1965	00:00	1965	1966	2
+Tottenham Hotspur	Leicester City	0:0	4:2	25.08.1965	00:00	1965	1966	2
+Tottenham Hotspur	Blackpool FC	0:0	4:0	27.08.1965	00:00	1965	1966	3
+Sunderland AFC	Sheffield United	0:0	4:1	28.08.1965	00:00	1965	1966	3
+Stoke City	Everton FC	1:0	1:1	28.08.1965	00:00	1965	1966	3
+Sheffield Wednesday	Newcastle United	0:0	1:0	28.08.1965	00:00	1965	1966	3
+Nottingham Forest	West Bromwich Albion	0:0	3:2	28.08.1965	00:00	1965	1966	3
+Northampton Town	Manchester United	0:0	1:1	28.08.1965	00:00	1965	1966	3
+Fulham FC	Chelsea FC	0:3	0:3	28.08.1965	00:00	1965	1966	3
+Burnley FC	Arsenal FC	0:0	2:2	28.08.1965	00:00	1965	1966	3
+Aston Villa	Leicester City	0:0	2:2	28.08.1965	00:00	1965	1966	3
+West Ham United	Leeds United	0:0	2:1	28.08.1965	00:00	1965	1966	3
+Liverpool FC	Blackburn Rovers	0:0	5:2	17.11.1965	00:00	1965	1966	3
+Blackpool FC	Burnley FC	0:0	1:3	30.08.1965	00:00	1965	1966	4
+Everton FC	Sheffield Wednesday	0:0	5:1	31.08.1965	00:00	1965	1966	4
+West Bromwich Albion	Newcastle United	0:0	1:2	01.09.1965	00:00	1965	1966	4
+Sunderland AFC	West Ham United	0:0	2:1	01.09.1965	00:00	1965	1966	4
+Sheffield United	Liverpool FC	0:0	0:0	01.09.1965	00:00	1965	1966	4
+Manchester United	Nottingham Forest	0:0	0:0	01.09.1965	00:00	1965	1966	4
+Leicester City	Tottenham Hotspur	0:0	2:2	01.09.1965	00:00	1965	1966	4
+Leeds United	Aston Villa	0:0	2:0	01.09.1965	00:00	1965	1966	4
+Chelsea FC	Stoke City	0:0	1:2	01.09.1965	00:00	1965	1966	4
+Blackburn Rovers	Fulham FC	0:0	3:2	01.09.1965	00:00	1965	1966	4
+Arsenal FC	Northampton Town	0:0	1:1	28.09.1965	00:00	1965	1966	4
+Arsenal FC	Chelsea FC	0:0	1:3	04.09.1965	00:00	1965	1966	5
+Blackburn Rovers	Aston Villa	0:0	0:2	04.09.1965	00:00	1965	1966	5
+West Bromwich Albion	Sheffield Wednesday	0:0	4:2	04.09.1965	00:00	1965	1966	5
+Sheffield United	West Ham United	0:0	5:3	04.09.1965	00:00	1965	1966	5
+Newcastle United	Northampton Town	0:0	2:0	04.09.1965	00:00	1965	1966	5
+Manchester United	Stoke City	0:0	1:1	04.09.1965	00:00	1965	1966	5
+Leicester City	Sunderland AFC	0:0	4:1	04.09.1965	00:00	1965	1966	5
+Leeds United	Nottingham Forest	1:0	2:1	04.09.1965	00:00	1965	1966	5
+Fulham FC	Tottenham Hotspur	0:0	0:2	04.09.1965	00:00	1965	1966	5
+Everton FC	Burnley FC	0:0	1:0	04.09.1965	00:00	1965	1966	5
+Blackpool FC	Liverpool FC	0:0	2:3	04.09.1965	00:00	1965	1966	5
+Aston Villa	Sunderland AFC	0:0	3:1	06.09.1965	00:00	1965	1966	6
+Blackpool FC	Leicester City	0:0	4:0	06.09.1965	00:00	1965	1966	6
+West Ham United	Liverpool FC	0:0	1:5	06.09.1965	00:00	1965	1966	6
+Nottingham Forest	Arsenal FC	0:0	0:1	07.09.1965	00:00	1965	1966	6
+Burnley FC	Northampton Town	0:0	4:1	07.09.1965	00:00	1965	1966	6
+Everton FC	West Bromwich Albion	0:0	2:3	07.09.1965	00:00	1965	1966	6
+Tottenham Hotspur	Leeds United	0:0	3:2	08.09.1965	00:00	1965	1966	6
+Stoke City	Blackburn Rovers	0:0	3:2	08.09.1965	00:00	1965	1966	6
+Newcastle United	Manchester United	0:0	1:2	08.09.1965	00:00	1965	1966	6
+Fulham FC	Sheffield United	0:0	0:0	08.09.1965	00:00	1965	1966	6
+Sheffield Wednesday	Chelsea FC	0:0	1:1	02.05.1966	00:00	1965	1966	6
+Northampton Town	West Bromwich Albion	0:0	3:4	10.09.1965	00:00	1965	1966	7
+Chelsea FC	Everton FC	0:0	3:1	11.09.1965	00:00	1965	1966	7
+Tottenham Hotspur	Arsenal FC	0:0	2:2	11.09.1965	00:00	1965	1966	7
+West Ham United	Leicester City	0:0	2:5	11.09.1965	00:00	1965	1966	7
+Sunderland AFC	Blackburn Rovers	0:0	1:0	11.09.1965	00:00	1965	1966	7
+Stoke City	Newcastle United	0:0	4:0	11.09.1965	00:00	1965	1966	7
+Sheffield Wednesday	Nottingham Forest	0:0	3:1	11.09.1965	00:00	1965	1966	7
+Liverpool FC	Fulham FC	0:0	2:1	11.09.1965	00:00	1965	1966	7
+Leeds United	Sheffield United	0:0	2:2	11.09.1965	00:00	1965	1966	7
+Burnley FC	Manchester United	0:0	3:0	11.09.1965	00:00	1965	1966	7
+Aston Villa	Blackpool FC	0:0	3:0	11.09.1965	00:00	1965	1966	7
+Arsenal FC	Nottingham Forest	0:0	1:0	14.09.1965	00:00	1965	1966	8
+Leicester City	Blackpool FC	0:0	0:3	14.09.1965	00:00	1965	1966	8
+Chelsea FC	Sheffield Wednesday	1:0	1:1	15.09.1965	00:00	1965	1966	8
+West Bromwich Albion	Everton FC	0:0	1:1	15.09.1965	00:00	1965	1966	8
+Sunderland AFC	Aston Villa	0:0	2:0	15.09.1965	00:00	1965	1966	8
+Sheffield United	Fulham FC	0:0	2:0	15.09.1965	00:00	1965	1966	8
+Northampton Town	Burnley FC	0:0	1:2	15.09.1965	00:00	1965	1966	8
+Manchester United	Newcastle United	0:0	1:1	15.09.1965	00:00	1965	1966	8
+Liverpool FC	West Ham United	0:0	1:1	15.09.1965	00:00	1965	1966	8
+Leeds United	Tottenham Hotspur	0:0	2:0	15.09.1965	00:00	1965	1966	8
+Blackburn Rovers	Stoke City	0:0	0:1	15.09.1965	00:00	1965	1966	8
+Everton FC	Arsenal FC	0:0	3:1	18.09.1965	00:00	1965	1966	9
+Manchester United	Chelsea FC	0:0	4:1	18.09.1965	00:00	1965	1966	9
+Tottenham Hotspur	Liverpool FC	0:0	2:1	18.09.1965	00:00	1965	1966	9
+Blackburn Rovers	West Ham United	0:0	1:2	18.09.1965	00:00	1965	1966	9
+West Bromwich Albion	Stoke City	0:0	6:2	18.09.1965	00:00	1965	1966	9
+Sheffield United	Sheffield Wednesday	0:0	1:0	18.09.1965	00:00	1965	1966	9
+Nottingham Forest	Northampton Town	0:0	1:1	18.09.1965	00:00	1965	1966	9
+Newcastle United	Burnley FC	0:0	3:2	18.09.1965	00:00	1965	1966	9
+Leicester City	Leeds United	0:0	3:3	18.09.1965	00:00	1965	1966	9
+Fulham FC	Aston Villa	0:0	3:6	18.09.1965	00:00	1965	1966	9
+Blackpool FC	Sunderland AFC	0:0	1:2	18.09.1965	00:00	1965	1966	9
+Arsenal FC	Manchester United	0:0	4:2	25.09.1965	00:00	1965	1966	10
+Chelsea FC	Newcastle United	0:0	1:1	25.09.1965	00:00	1965	1966	10
+Northampton Town	Sheffield Wednesday	0:0	0:0	25.09.1965	00:00	1965	1966	10
+Aston Villa	Tottenham Hotspur	0:0	3:2	25.09.1965	00:00	1965	1966	10
+West Ham United	Blackpool FC	0:0	1:1	25.09.1965	00:00	1965	1966	10
+Sunderland AFC	Fulham FC	0:0	2:2	25.09.1965	00:00	1965	1966	10
+Stoke City	Nottingham Forest	0:0	1:0	25.09.1965	00:00	1965	1966	10
+Sheffield United	Leicester City	0:0	2:2	25.09.1965	00:00	1965	1966	10
+Liverpool FC	Everton FC	0:0	5:0	25.09.1965	00:00	1965	1966	10
+Leeds United	Blackburn Rovers	0:0	3:0	25.09.1965	00:00	1965	1966	10
+Burnley FC	West Bromwich Albion	0:0	2:0	25.09.1965	00:00	1965	1966	10
+West Bromwich Albion	Chelsea FC	0:0	1:2	02.10.1965	00:00	1965	1966	11
+Blackburn Rovers	Sheffield United	0:0	0:0	02.10.1965	00:00	1965	1966	11
+Fulham FC	West Ham United	0:0	3:0	02.10.1965	00:00	1965	1966	11
+Leicester City	Northampton Town	0:0	1:1	02.10.1965	00:00	1965	1966	11
+Liverpool FC	Aston Villa	0:0	3:1	02.10.1965	00:00	1965	1966	11
+Newcastle United	Arsenal FC	0:0	0:1	02.10.1965	00:00	1965	1966	11
+Tottenham Hotspur	Sunderland AFC	0:0	3:0	06.10.1965	00:00	1965	1966	11
+Manchester United	Everton FC	0:0	3:0	15.12.1965	00:00	1965	1966	11
+Nottingham Forest	Burnley FC	0:0	1:0	08.03.1966	00:00	1965	1966	11
+Blackpool FC	Leeds United	0:0	1:0	28.03.1966	00:00	1965	1966	11
+Sheffield Wednesday	Stoke City	0:0	4:1	30.03.1966	00:00	1965	1966	11
+Burnley FC	Blackburn Rovers	0:0	1:4	09.10.1965	00:00	1965	1966	12
+Chelsea FC	Blackpool FC	0:0	0:1	09.10.1965	00:00	1965	1966	12
+Manchester United	Liverpool FC	0:0	2:0	09.10.1965	00:00	1965	1966	12
+Sheffield Wednesday	Leeds United	0:0	0:0	09.10.1965	00:00	1965	1966	12
+Arsenal FC	Fulham FC	0:0	2:1	09.10.1965	00:00	1965	1966	12
+West Bromwich Albion	Sunderland AFC	0:0	4:1	09.10.1965	00:00	1965	1966	12
+Stoke City	Leicester City	0:0	1:0	09.10.1965	00:00	1965	1966	12
+Nottingham Forest	West Ham United	2:0	5:0	09.10.1965	00:00	1965	1966	12
+Northampton Town	Sheffield United	0:0	0:1	09.10.1965	00:00	1965	1966	12
+Newcastle United	Aston Villa	0:0	1:0	09.10.1965	00:00	1965	1966	12
+Everton FC	Tottenham Hotspur	0:0	3:1	09.10.1965	00:00	1965	1966	12
+Blackburn Rovers	Chelsea FC	0:0	0:1	16.10.1965	00:00	1965	1966	13
+Leeds United	Northampton Town	0:0	6:1	16.10.1965	00:00	1965	1966	13
+Sunderland AFC	Nottingham Forest	0:0	3:2	16.10.1965	00:00	1965	1966	13
+Tottenham Hotspur	Manchester United	0:0	5:1	16.10.1965	00:00	1965	1966	13
+Aston Villa	West Bromwich Albion	0:0	1:1	16.10.1965	00:00	1965	1966	13
+West Ham United	Sheffield Wednesday	0:0	4:2	16.10.1965	00:00	1965	1966	13
+Sheffield United	Stoke City	0:0	3:2	16.10.1965	00:00	1965	1966	13
+Liverpool FC	Newcastle United	0:0	2:0	16.10.1965	00:00	1965	1966	13
+Leicester City	Burnley FC	0:0	0:1	16.10.1965	00:00	1965	1966	13
+Fulham FC	Everton FC	0:0	3:2	16.10.1965	00:00	1965	1966	13
+Blackpool FC	Arsenal FC	0:0	5:3	16.10.1965	00:00	1965	1966	13
+Sheffield Wednesday	Sunderland AFC	0:0	3:1	23.10.1965	00:00	1965	1966	14
+Chelsea FC	Leicester City	0:0	0:2	23.10.1965	00:00	1965	1966	14
+Everton FC	Blackpool FC	0:0	0:0	23.10.1965	00:00	1965	1966	14
+Manchester United	Fulham FC	0:0	4:1	23.10.1965	00:00	1965	1966	14
+Stoke City	Leeds United	0:0	1:2	23.10.1965	00:00	1965	1966	14
+Arsenal FC	Blackburn Rovers	0:0	2:2	23.10.1965	00:00	1965	1966	14
+West Bromwich Albion	Liverpool FC	0:0	3:0	23.10.1965	00:00	1965	1966	14
+Nottingham Forest	Aston Villa	0:0	1:2	23.10.1965	00:00	1965	1966	14
+Northampton Town	West Ham United	0:0	2:1	23.10.1965	00:00	1965	1966	14
+Newcastle United	Tottenham Hotspur	0:0	0:0	23.10.1965	00:00	1965	1966	14
+Burnley FC	Sheffield United	0:0	2:0	23.10.1965	00:00	1965	1966	14
+Blackpool FC	Manchester United	0:0	1:2	30.10.1965	00:00	1965	1966	15
+Leeds United	Burnley FC	0:0	1:1	30.10.1965	00:00	1965	1966	15
+Liverpool FC	Nottingham Forest	0:0	4:0	30.10.1965	00:00	1965	1966	15
+Sheffield United	Chelsea FC	0:0	1:2	30.10.1965	00:00	1965	1966	15
+Aston Villa	Sheffield Wednesday	0:0	2:0	30.10.1965	00:00	1965	1966	15
+West Ham United	Stoke City	0:0	0:0	30.10.1965	00:00	1965	1966	15
+Tottenham Hotspur	West Bromwich Albion	0:0	2:1	30.10.1965	00:00	1965	1966	15
+Sunderland AFC	Northampton Town	1:0	3:0	30.10.1965	00:00	1965	1966	15
+Leicester City	Arsenal FC	0:0	3:1	30.10.1965	00:00	1965	1966	15
+Fulham FC	Newcastle United	0:0	2:0	30.10.1965	00:00	1965	1966	15
+Blackburn Rovers	Everton FC	0:0	1:2	30.10.1965	00:00	1965	1966	15
+Stoke City	Sunderland AFC	0:0	1:1	06.11.1965	00:00	1965	1966	16
+Sheffield Wednesday	Liverpool FC	0:0	0:2	06.11.1965	00:00	1965	1966	16
+Nottingham Forest	Tottenham Hotspur	0:0	1:0	06.11.1965	00:00	1965	1966	16
+Newcastle United	Blackpool FC	0:0	2:0	06.11.1965	00:00	1965	1966	16
+Manchester United	Blackburn Rovers	0:0	2:2	06.11.1965	00:00	1965	1966	16
+Chelsea FC	Leeds United	0:0	1:0	06.11.1965	00:00	1965	1966	16
+Arsenal FC	Sheffield United	0:0	6:2	06.11.1965	00:00	1965	1966	16
+Burnley FC	West Ham United	0:0	3:1	06.11.1965	00:00	1965	1966	16
+Everton FC	Leicester City	0:0	1:2	06.11.1965	00:00	1965	1966	16
+Northampton Town	Aston Villa	2:0	2:1	06.11.1965	00:00	1965	1966	16
+West Bromwich Albion	Fulham FC	0:0	6:2	06.11.1965	00:00	1965	1966	16
+Tottenham Hotspur	Sheffield Wednesday	0:0	2:3	13.11.1965	00:00	1965	1966	17
+Sunderland AFC	Burnley FC	0:0	0:4	13.11.1965	00:00	1965	1966	17
+Liverpool FC	Northampton Town	0:0	5:0	13.11.1965	00:00	1965	1966	17
+Fulham FC	Nottingham Forest	0:0	1:1	13.11.1965	00:00	1965	1966	17
+Blackpool FC	West Bromwich Albion	0:0	1:1	13.11.1965	00:00	1965	1966	17
+West Ham United	Chelsea FC	0:0	2:1	13.11.1965	00:00	1965	1966	17
+Aston Villa	Stoke City	0:0	0:1	13.11.1965	00:00	1965	1966	17
+Blackburn Rovers	Newcastle United	0:1	4:2	13.11.1965	00:00	1965	1966	17
+Leeds United	Arsenal FC	0:0	2:0	13.11.1965	00:00	1965	1966	17
+Leicester City	Manchester United	0:0	0:5	13.11.1965	00:00	1965	1966	17
+Sheffield United	Everton FC	0:0	2:0	13.11.1965	00:00	1965	1966	17
+Manchester United	Sheffield United	0:0	3:1	20.11.1965	00:00	1965	1966	18
+Nottingham Forest	Blackpool FC	0:0	2:1	20.11.1965	00:00	1965	1966	18
+Arsenal FC	West Ham United	0:0	3:2	20.11.1965	00:00	1965	1966	18
+West Bromwich Albion	Blackburn Rovers	0:0	2:1	20.11.1965	00:00	1965	1966	18
+Stoke City	Liverpool FC	0:0	0:0	20.11.1965	00:00	1965	1966	18
+Sheffield Wednesday	Fulham FC	0:0	1:0	20.11.1965	00:00	1965	1966	18
+Northampton Town	Tottenham Hotspur	0:0	0:2	20.11.1965	00:00	1965	1966	18
+Newcastle United	Leicester City	0:0	1:5	20.11.1965	00:00	1965	1966	18
+Everton FC	Leeds United	0:0	0:0	20.11.1965	00:00	1965	1966	18
+Burnley FC	Aston Villa	0:0	3:1	20.11.1965	00:00	1965	1966	18
+Chelsea FC	Sunderland AFC	0:0	3:2	22.02.1966	00:00	1965	1966	18
+Aston Villa	Chelsea FC	0:0	2:4	27.11.1965	00:00	1965	1966	19
+Tottenham Hotspur	Stoke City	0:0	2:2	27.11.1965	00:00	1965	1966	19
+Liverpool FC	Burnley FC	0:0	2:1	27.11.1965	00:00	1965	1966	19
+Blackpool FC	Sheffield Wednesday	0:0	2:1	27.11.1965	00:00	1965	1966	19
+Blackburn Rovers	Nottingham Forest	0:0	5:0	27.11.1965	00:00	1965	1966	19
+Fulham FC	Northampton Town	0:0	1:4	27.11.1965	00:00	1965	1966	19
+Leicester City	West Bromwich Albion	0:0	2:1	27.11.1965	00:00	1965	1966	19
+Sheffield United	Newcastle United	0:0	3:2	27.11.1965	00:00	1965	1966	19
+West Ham United	Everton FC	0:0	3:0	27.11.1965	00:00	1965	1966	19
+Leeds United	Manchester United	0:0	1:1	12.01.1966	00:00	1965	1966	19
+Sunderland AFC	Arsenal FC	0:0	0:2	20.04.1966	00:00	1965	1966	19
+Chelsea FC	Liverpool FC	0:0	0:1	04.12.1965	00:00	1965	1966	20
+Manchester United	West Ham United	0:0	0:0	04.12.1965	00:00	1965	1966	20
+Sheffield Wednesday	Blackburn Rovers	0:0	2:1	04.12.1965	00:00	1965	1966	20
+Northampton Town	Blackpool FC	0:0	2:1	04.12.1965	00:00	1965	1966	20
+Burnley FC	Tottenham Hotspur	0:0	1:1	04.12.1965	00:00	1965	1966	20
+Arsenal FC	Aston Villa	0:0	3:3	04.12.1965	00:00	1965	1966	20
+Everton FC	Sunderland AFC	0:0	2:0	04.12.1965	00:00	1965	1966	20
+Nottingham Forest	Leicester City	0:0	2:0	04.12.1965	00:00	1965	1966	20
+Stoke City	Fulham FC	0:0	3:2	04.12.1965	00:00	1965	1966	20
+West Bromwich Albion	Sheffield United	0:0	1:1	04.12.1965	00:00	1965	1966	20
+Newcastle United	Leeds United	0:0	2:0	16.05.1966	00:00	1965	1966	20
+Leeds United	West Bromwich Albion	0:0	4:0	11.12.1965	00:00	1965	1966	21
+Sunderland AFC	Manchester United	0:0	2:3	11.12.1965	00:00	1965	1966	21
+Tottenham Hotspur	Chelsea FC	0:0	4:2	11.12.1965	00:00	1965	1966	21
+West Ham United	Newcastle United	0:0	4:3	11.12.1965	00:00	1965	1966	21
+Liverpool FC	Arsenal FC	0:0	4:2	11.12.1965	00:00	1965	1966	21
+Fulham FC	Burnley FC	0:0	2:5	11.12.1965	00:00	1965	1966	21
+Blackpool FC	Stoke City	0:0	1:1	11.12.1965	00:00	1965	1966	21
+Aston Villa	Everton FC	0:0	3:2	11.12.1965	00:00	1965	1966	21
+Blackburn Rovers	Northampton Town	0:0	6:1	11.12.1965	00:00	1965	1966	21
+Leicester City	Sheffield Wednesday	0:0	4:1	11.12.1965	00:00	1965	1966	21
+Sheffield United	Nottingham Forest	0:0	1:1	11.12.1965	00:00	1965	1966	21
+Nottingham Forest	Sunderland AFC	0:0	0:0	18.12.1965	00:00	1965	1966	22
+Newcastle United	Liverpool FC	0:0	0:0	18.12.1965	00:00	1965	1966	22
+Manchester United	Tottenham Hotspur	0:0	5:1	18.12.1965	00:00	1965	1966	22
+Burnley FC	Leicester City	0:0	4:2	18.12.1965	00:00	1965	1966	22
+Sheffield Wednesday	West Ham United	0:0	0:0	18.12.1965	00:00	1965	1966	22
+Everton FC	Fulham FC	0:0	2:0	18.12.1965	00:00	1965	1966	22
+West Bromwich Albion	Aston Villa	0:0	2:2	11.02.1966	00:00	1965	1966	22
+Arsenal FC	Blackpool FC	0:0	0:0	05.03.1966	00:00	1965	1966	22
+Northampton Town	Leeds United	0:0	2:1	05.03.1966	00:00	1965	1966	22
+Stoke City	Sheffield United	0:0	2:0	25.03.1966	00:00	1965	1966	22
+Chelsea FC	Blackburn Rovers	0:0	1:0	04.05.1966	00:00	1965	1966	22
+Blackpool FC	Blackburn Rovers	0:0	4:2	25.12.1965	00:00	1965	1966	23
+Liverpool FC	Leeds United	0:0	0:1	27.12.1965	00:00	1965	1966	23
+Northampton Town	Chelsea FC	0:0	2:3	27.12.1965	00:00	1965	1966	23
+Sheffield Wednesday	Arsenal FC	0:0	4:0	27.12.1965	00:00	1965	1966	23
+Tottenham Hotspur	Sheffield United	0:0	1:0	27.12.1965	00:00	1965	1966	23
+Stoke City	Burnley FC	0:0	3:1	27.12.1965	00:00	1965	1966	23
+Manchester United	West Bromwich Albion	0:0	1:1	27.12.1965	00:00	1965	1966	23
+Nottingham Forest	Everton FC	0:0	1:0	27.12.1965	00:00	1965	1966	23
+Sunderland AFC	Newcastle United	0:0	2:0	03.01.1966	00:00	1965	1966	23
+Aston Villa	West Ham United	0:0	1:2	07.02.1966	00:00	1965	1966	23
+Fulham FC	Leicester City	0:0	0:4	18.04.1966	00:00	1965	1966	23
+Leeds United	Liverpool FC	0:0	0:1	28.12.1965	00:00	1965	1966	24
+Chelsea FC	Northampton Town	0:0	1:0	28.12.1965	00:00	1965	1966	24
+Arsenal FC	Sheffield Wednesday	0:0	5:2	28.12.1965	00:00	1965	1966	24
+Burnley FC	Stoke City	0:0	4:1	28.12.1965	00:00	1965	1966	24
+Leicester City	Fulham FC	0:0	5:0	28.12.1965	00:00	1965	1966	24
+Sheffield United	Tottenham Hotspur	0:0	1:3	28.12.1965	00:00	1965	1966	24
+Newcastle United	Sunderland AFC	0:0	2:0	05.03.1966	00:00	1965	1966	24
+West Ham United	Aston Villa	0:0	4:2	05.03.1966	00:00	1965	1966	24
+Everton FC	Nottingham Forest	0:0	3:0	15.03.1966	00:00	1965	1966	24
+Blackburn Rovers	Blackpool FC	0:0	1:3	02.05.1966	00:00	1965	1966	24
+West Bromwich Albion	Manchester United	0:0	3:3	04.05.1966	00:00	1965	1966	24
+Leeds United	Sheffield Wednesday	0:0	3:0	01.01.1966	00:00	1965	1966	25
+Aston Villa	Newcastle United	0:0	4:2	01.01.1966	00:00	1965	1966	25
+Blackpool FC	Chelsea FC	0:0	1:2	01.01.1966	00:00	1965	1966	25
+West Ham United	Nottingham Forest	0:0	0:3	01.01.1966	00:00	1965	1966	25
+Sunderland AFC	West Bromwich Albion	0:0	1:5	01.01.1966	00:00	1965	1966	25
+Liverpool FC	Manchester United	0:0	2:1	01.01.1966	00:00	1965	1966	25
+Fulham FC	Arsenal FC	0:0	1:0	01.01.1966	00:00	1965	1966	25
+Blackburn Rovers	Burnley FC	0:0	0:2	01.01.1966	00:00	1965	1966	25
+Leicester City	Stoke City	0:0	1:0	01.01.1966	00:00	1965	1966	25
+Sheffield United	Northampton Town	0:0	2:2	01.01.1966	00:00	1965	1966	25
+Tottenham Hotspur	Everton FC	0:0	2:2	01.01.1966	00:00	1965	1966	25
+West Bromwich Albion	Leeds United	0:0	1:2	08.01.1966	00:00	1965	1966	26
+Chelsea FC	Tottenham Hotspur	0:0	2:1	08.01.1966	00:00	1965	1966	26
+Stoke City	Blackpool FC	0:0	4:1	08.01.1966	00:00	1965	1966	26
+Newcastle United	West Ham United	0:0	2:1	08.01.1966	00:00	1965	1966	26
+Manchester United	Sunderland AFC	0:0	1:1	08.01.1966	00:00	1965	1966	26
+Arsenal FC	Liverpool FC	0:0	0:1	08.01.1966	00:00	1965	1966	26
+Burnley FC	Fulham FC	0:0	1:0	08.01.1966	00:00	1965	1966	26
+Northampton Town	Blackburn Rovers	0:0	2:1	08.01.1966	00:00	1965	1966	26
+Nottingham Forest	Sheffield United	0:0	1:0	08.01.1966	00:00	1965	1966	26
+Sheffield Wednesday	Leicester City	0:0	1:2	08.01.1966	00:00	1965	1966	26
+Everton FC	Aston Villa	0:0	2:0	08.01.1966	00:00	1965	1966	26
+Aston Villa	Nottingham Forest	0:0	3:0	15.01.1966	00:00	1965	1966	27
+Blackpool FC	Everton FC	0:0	2:0	15.01.1966	00:00	1965	1966	27
+Leeds United	Stoke City	0:0	2:2	15.01.1966	00:00	1965	1966	27
+Tottenham Hotspur	Newcastle United	0:1	2:2	15.01.1966	00:00	1965	1966	27
+Liverpool FC	West Bromwich Albion	0:0	2:2	15.01.1966	00:00	1965	1966	27
+Blackburn Rovers	Arsenal FC	0:0	2:1	15.01.1966	00:00	1965	1966	27
+Fulham FC	Manchester United	0:0	0:1	15.01.1966	00:00	1965	1966	27
+Sheffield United	Burnley FC	0:0	2:1	15.01.1966	00:00	1965	1966	27
+West Ham United	Northampton Town	0:0	1:1	15.01.1966	00:00	1965	1966	27
+Sunderland AFC	Sheffield Wednesday	0:0	0:2	26.01.1966	00:00	1965	1966	27
+Leicester City	Chelsea FC	0:0	1:1	21.03.1966	00:00	1965	1966	27
+Burnley FC	Chelsea FC	0:0	1:2	29.01.1966	00:00	1965	1966	28
+Fulham FC	Blackpool FC	0:0	0:0	29.01.1966	00:00	1965	1966	28
+Sunderland AFC	Leeds United	0:0	2:0	29.01.1966	00:00	1965	1966	28
+West Ham United	West Bromwich Albion	0:0	4:0	29.01.1966	00:00	1965	1966	28
+Stoke City	Arsenal FC	0:0	1:3	29.01.1966	00:00	1965	1966	28
+Nottingham Forest	Newcastle United	0:0	1:2	29.01.1966	00:00	1965	1966	28
+Liverpool FC	Leicester City	0:0	1:0	29.01.1966	00:00	1965	1966	28
+Aston Villa	Sheffield United	0:0	0:2	29.01.1966	00:00	1965	1966	28
+Sheffield Wednesday	Manchester United	0:0	0:0	29.01.1966	00:00	1965	1966	28
+Tottenham Hotspur	Blackburn Rovers	0:0	4:0	29.01.1966	00:00	1965	1966	28
+Northampton Town	Everton FC	0:0	0:2	29.01.1966	00:00	1965	1966	28
+Chelsea FC	Fulham FC	0:0	2:1	05.02.1966	00:00	1965	1966	29
+Blackpool FC	Tottenham Hotspur	0:0	0:0	05.02.1966	00:00	1965	1966	29
+Leeds United	West Ham United	0:0	5:0	05.02.1966	00:00	1965	1966	29
+West Bromwich Albion	Nottingham Forest	2:0	5:3	05.02.1966	00:00	1965	1966	29
+Newcastle United	Sheffield Wednesday	0:0	2:0	05.02.1966	00:00	1965	1966	29
+Leicester City	Aston Villa	0:0	2:1	05.02.1966	00:00	1965	1966	29
+Arsenal FC	Burnley FC	1:0	1:1	05.02.1966	00:00	1965	1966	29
+Manchester United	Northampton Town	0:0	6:2	05.02.1966	00:00	1965	1966	29
+Sheffield United	Sunderland AFC	0:0	2:2	05.02.1966	00:00	1965	1966	29
+Blackburn Rovers	Liverpool FC	0:0	1:4	05.02.1966	00:00	1965	1966	29
+Everton FC	Stoke City	0:0	2:1	05.02.1966	00:00	1965	1966	29
+Stoke City	Northampton Town	0:0	6:2	12.02.1966	00:00	1965	1966	30
+Liverpool FC	Sunderland AFC	0:0	4:0	12.02.1966	00:00	1965	1966	30
+Arsenal FC	West Bromwich Albion	0:0	1:1	05.04.1966	00:00	1965	1966	30
+Aston Villa	Manchester United	0:0	1:1	06.04.1966	00:00	1965	1966	30
+Blackburn Rovers	Leicester City	0:0	0:2	08.04.1966	00:00	1965	1966	30
+Fulham FC	Leeds United	0:0	1:3	08.04.1966	00:00	1965	1966	30
+Blackpool FC	Sheffield United	0:0	2:1	08.04.1966	00:00	1965	1966	30
+Newcastle United	Everton FC	0:0	0:0	08.04.1966	00:00	1965	1966	30
+Tottenham Hotspur	West Ham United	0:0	1:4	08.04.1966	00:00	1965	1966	30
+Nottingham Forest	Chelsea FC	0:0	1:2	12.04.1966	00:00	1965	1966	30
+Sheffield Wednesday	Burnley FC	0:0	0:2	09.05.1966	00:00	1965	1966	30
+Liverpool FC	Blackpool FC	0:0	4:1	19.02.1966	00:00	1965	1966	31
+Nottingham Forest	Leeds United	0:0	0:4	19.02.1966	00:00	1965	1966	31
+Chelsea FC	Arsenal FC	0:0	0:0	19.02.1966	00:00	1965	1966	31
+Northampton Town	Newcastle United	0:0	3:1	19.02.1966	00:00	1965	1966	31
+Sunderland AFC	Leicester City	0:0	0:3	19.02.1966	00:00	1965	1966	31
+West Ham United	Sheffield United	0:0	4:0	19.02.1966	00:00	1965	1966	31
+Tottenham Hotspur	Fulham FC	0:0	4:3	19.02.1966	00:00	1965	1966	31
+Stoke City	Manchester United	0:0	2:2	19.02.1966	00:00	1965	1966	31
+Sheffield Wednesday	West Bromwich Albion	0:0	1:2	19.02.1966	00:00	1965	1966	31
+Aston Villa	Blackburn Rovers	0:0	3:1	19.02.1966	00:00	1965	1966	31
+Burnley FC	Everton FC	0:0	1:1	19.02.1966	00:00	1965	1966	31
+Blackpool FC	Aston Villa	0:0	0:1	26.02.1966	00:00	1965	1966	32
+Everton FC	Chelsea FC	0:0	2:1	26.02.1966	00:00	1965	1966	32
+Sheffield United	Leeds United	0:0	1:1	26.02.1966	00:00	1965	1966	32
+Newcastle United	Stoke City	0:0	3:1	26.02.1966	00:00	1965	1966	32
+Blackburn Rovers	Sunderland AFC	0:0	2:0	26.02.1966	00:00	1965	1966	32
+Fulham FC	Liverpool FC	0:0	2:0	26.02.1966	00:00	1965	1966	32
+Manchester United	Burnley FC	0:0	4:2	26.02.1966	00:00	1965	1966	32
+West Bromwich Albion	Northampton Town	0:0	1:1	26.02.1966	00:00	1965	1966	32
+Arsenal FC	Tottenham Hotspur	0:0	1:1	08.03.1966	00:00	1965	1966	32
+Nottingham Forest	Sheffield Wednesday	0:0	1:0	07.05.1966	00:00	1965	1966	32
+Leicester City	West Ham United	0:0	2:1	09.05.1966	00:00	1965	1966	32
+Chelsea FC	Manchester United	0:0	2:0	12.03.1966	00:00	1965	1966	33
+Leeds United	Leicester City	0:0	3:2	12.03.1966	00:00	1965	1966	33
+Northampton Town	Nottingham Forest	0:0	3:3	12.03.1966	00:00	1965	1966	33
+Sunderland AFC	Blackpool FC	0:0	2:1	12.03.1966	00:00	1965	1966	33
+Stoke City	West Bromwich Albion	0:0	1:1	12.03.1966	00:00	1965	1966	33
+Sheffield Wednesday	Sheffield United	0:0	2:2	12.03.1966	00:00	1965	1966	33
+Burnley FC	Newcastle United	0:0	1:0	12.03.1966	00:00	1965	1966	33
+Arsenal FC	Everton FC	0:0	0:1	12.03.1966	00:00	1965	1966	33
+Aston Villa	Fulham FC	0:0	2:5	12.03.1966	00:00	1965	1966	33
+West Ham United	Blackburn Rovers	0:0	4:1	12.03.1966	00:00	1965	1966	33
+Liverpool FC	Tottenham Hotspur	0:0	1:0	12.03.1966	00:00	1965	1966	33
+Leicester City	Sheffield United	0:0	1:0	19.03.1966	00:00	1965	1966	34
+Newcastle United	Chelsea FC	0:0	0:1	19.03.1966	00:00	1965	1966	34
+Blackburn Rovers	Leeds United	0:0	2:3	19.03.1966	00:00	1965	1966	34
+Blackpool FC	West Ham United	0:0	2:1	19.03.1966	00:00	1965	1966	34
+Fulham FC	Sunderland AFC	0:0	3:0	19.03.1966	00:00	1965	1966	34
+Manchester United	Arsenal FC	0:0	2:1	19.03.1966	00:00	1965	1966	34
+Nottingham Forest	Stoke City	0:0	4:3	19.03.1966	00:00	1965	1966	34
+West Bromwich Albion	Burnley FC	0:0	1:2	19.03.1966	00:00	1965	1966	34
+Tottenham Hotspur	Aston Villa	0:0	5:5	19.03.1966	00:00	1965	1966	34
+Sheffield Wednesday	Northampton Town	0:0	3:1	19.03.1966	00:00	1965	1966	34
+Everton FC	Liverpool FC	0:0	0:0	19.03.1966	00:00	1965	1966	34
+Leeds United	Blackpool FC	0:0	1:2	26.03.1966	00:00	1965	1966	35
+Northampton Town	Leicester City	0:0	2:2	26.03.1966	00:00	1965	1966	35
+Arsenal FC	Newcastle United	0:0	1:3	26.03.1966	00:00	1965	1966	35
+Sunderland AFC	Tottenham Hotspur	0:0	2:0	26.03.1966	00:00	1965	1966	35
+Aston Villa	Liverpool FC	0:0	0:3	26.03.1966	00:00	1965	1966	35
+Burnley FC	Nottingham Forest	0:0	4:1	26.03.1966	00:00	1965	1966	35
+West Ham United	Fulham FC	0:0	1:3	26.03.1966	00:00	1965	1966	35
+Sheffield United	Blackburn Rovers	0:0	2:0	29.03.1966	00:00	1965	1966	35
+Chelsea FC	West Bromwich Albion	0:0	2:3	25.04.1966	00:00	1965	1966	35
+Everton FC	Manchester United	0:0	0:0	25.04.1966	00:00	1965	1966	35
+Stoke City	Sheffield Wednesday	0:0	3:1	04.05.1966	00:00	1965	1966	35
+Fulham FC	West Bromwich Albion	0:0	2:1	02.04.1966	00:00	1965	1966	36
+Tottenham Hotspur	Nottingham Forest	0:0	2:3	02.04.1966	00:00	1965	1966	36
+Aston Villa	Northampton Town	0:0	1:2	02.04.1966	00:00	1965	1966	36
+Sunderland AFC	Stoke City	0:0	2:0	02.04.1966	00:00	1965	1966	36
+West Ham United	Burnley FC	0:0	1:1	02.04.1966	00:00	1965	1966	36
+Leeds United	Chelsea FC	0:0	2:0	04.04.1966	00:00	1965	1966	36
+Liverpool FC	Sheffield Wednesday	0:0	1:0	06.04.1966	00:00	1965	1966	36
+Blackpool FC	Newcastle United	0:0	1:1	20.04.1966	00:00	1965	1966	36
+Sheffield United	Arsenal FC	0:0	3:0	25.04.1966	00:00	1965	1966	36
+Leicester City	Everton FC	0:0	3:0	04.05.1966	00:00	1965	1966	36
+Blackburn Rovers	Manchester United	0:0	1:4	07.05.1966	00:00	1965	1966	36
+Chelsea FC	West Ham United	0:0	6:2	09.04.1966	00:00	1965	1966	37
+Manchester United	Leicester City	0:0	1:2	09.04.1966	00:00	1965	1966	37
+Sheffield Wednesday	Tottenham Hotspur	0:0	1:1	09.04.1966	00:00	1965	1966	37
+Newcastle United	Blackburn Rovers	0:0	2:1	09.04.1966	00:00	1965	1966	37
+Burnley FC	Sunderland AFC	0:0	1:0	09.04.1966	00:00	1965	1966	37
+West Bromwich Albion	Blackpool FC	0:0	2:1	09.04.1966	00:00	1965	1966	37
+Everton FC	Sheffield United	0:0	1:3	09.04.1966	00:00	1965	1966	37
+Northampton Town	Liverpool FC	0:0	0:0	09.04.1966	00:00	1965	1966	37
+Stoke City	Aston Villa	0:0	2:0	09.04.1966	00:00	1965	1966	37
+Nottingham Forest	Fulham FC	0:0	1:2	26.04.1966	00:00	1965	1966	37
+Arsenal FC	Leeds United	0:0	0:3	05.05.1966	00:00	1965	1966	37
+Chelsea FC	Nottingham Forest	1:0	1:0	11.04.1966	00:00	1965	1966	38
+West Bromwich Albion	Arsenal FC	0:0	4:4	11.04.1966	00:00	1965	1966	38
+Burnley FC	Sheffield Wednesday	2:0	2:1	11.04.1966	00:00	1965	1966	38
+Sheffield United	Blackpool FC	0:0	0:1	11.04.1966	00:00	1965	1966	38
+Everton FC	Newcastle United	0:0	1:0	11.04.1966	00:00	1965	1966	38
+Sunderland AFC	Liverpool FC	0:0	2:2	11.04.1966	00:00	1965	1966	38
+Leicester City	Blackburn Rovers	0:0	2:0	12.04.1966	00:00	1965	1966	38
+Leeds United	Fulham FC	0:0	0:1	12.04.1966	00:00	1965	1966	38
+Northampton Town	Stoke City	0:0	1:0	12.04.1966	00:00	1965	1966	38
+West Ham United	Tottenham Hotspur	0:0	2:0	25.04.1966	00:00	1965	1966	38
+Manchester United	Aston Villa	0:0	6:1	09.05.1966	00:00	1965	1966	38
+Sheffield United	Manchester United	0:0	3:1	16.04.1966	00:00	1965	1966	39
+Leicester City	Newcastle United	0:0	1:2	16.04.1966	00:00	1965	1966	39
+Sunderland AFC	Chelsea FC	0:0	2:0	16.04.1966	00:00	1965	1966	39
+West Ham United	Arsenal FC	0:0	2:1	16.04.1966	00:00	1965	1966	39
+Fulham FC	Sheffield Wednesday	0:0	4:2	16.04.1966	00:00	1965	1966	39
+Blackburn Rovers	West Bromwich Albion	0:0	0:1	16.04.1966	00:00	1965	1966	39
+Aston Villa	Burnley FC	0:0	2:1	16.04.1966	00:00	1965	1966	39
+Blackpool FC	Nottingham Forest	0:0	0:3	16.04.1966	00:00	1965	1966	39
+Leeds United	Everton FC	0:0	4:1	16.04.1966	00:00	1965	1966	39
+Liverpool FC	Stoke City	0:0	2:0	16.04.1966	00:00	1965	1966	39
+Tottenham Hotspur	Northampton Town	0:0	1:1	16.04.1966	00:00	1965	1966	39
+Everton FC	West Ham United	0:0	2:2	11.01.1966	00:00	1965	1966	40
+Sheffield Wednesday	Blackpool FC	0:0	3:0	04.04.1966	00:00	1965	1966	40
+West Bromwich Albion	Leicester City	0:0	5:1	22.04.1966	00:00	1965	1966	40
+Nottingham Forest	Blackburn Rovers	0:0	0:3	23.04.1966	00:00	1965	1966	40
+Arsenal FC	Sunderland AFC	0:0	1:1	23.04.1966	00:00	1965	1966	40
+Stoke City	Tottenham Hotspur	0:0	0:1	23.04.1966	00:00	1965	1966	40
+Northampton Town	Fulham FC	0:0	2:4	23.04.1966	00:00	1965	1966	40
+Newcastle United	Sheffield United	0:0	0:2	23.04.1966	00:00	1965	1966	40
+Burnley FC	Liverpool FC	0:0	2:0	23.04.1966	00:00	1965	1966	40
+Chelsea FC	Aston Villa	0:0	0:2	16.05.1966	00:00	1965	1966	40
+Manchester United	Leeds United	0:0	1:1	19.05.1966	00:00	1965	1966	40
+Blackburn Rovers	Sheffield Wednesday	0:0	1:2	30.04.1966	00:00	1965	1966	41
+Leeds United	Newcastle United	0:0	3:0	30.04.1966	00:00	1965	1966	41
+Liverpool FC	Chelsea FC	0:0	2:1	30.04.1966	00:00	1965	1966	41
+West Ham United	Manchester United	0:0	3:2	30.04.1966	00:00	1965	1966	41
+Leicester City	Nottingham Forest	0:0	2:1	30.04.1966	00:00	1965	1966	41
+Aston Villa	Arsenal FC	0:0	3:0	30.04.1966	00:00	1965	1966	41
+Tottenham Hotspur	Burnley FC	0:0	0:1	30.04.1966	00:00	1965	1966	41
+Blackpool FC	Northampton Town	0:0	3:0	30.04.1966	00:00	1965	1966	41
+Fulham FC	Stoke City	0:0	1:1	30.04.1966	00:00	1965	1966	41
+Sheffield United	West Bromwich Albion	0:0	0:2	30.04.1966	00:00	1965	1966	41
+Sunderland AFC	Everton FC	0:0	2:0	30.04.1966	00:00	1965	1966	41
+Everton FC	Blackburn Rovers	0:0	2:2	05.10.1965	00:00	1965	1966	42
+Northampton Town	Sunderland AFC	0:0	2:1	25.04.1966	00:00	1965	1966	42
+Sheffield Wednesday	Aston Villa	0:0	2:0	27.04.1966	00:00	1965	1966	42
+Manchester United	Blackpool FC	0:0	2:1	27.04.1966	00:00	1965	1966	42
+Burnley FC	Leeds United	0:0	0:1	07.05.1966	00:00	1965	1966	42
+Stoke City	West Ham United	0:0	1:0	07.05.1966	00:00	1965	1966	42
+Newcastle United	Fulham FC	0:0	1:1	07.05.1966	00:00	1965	1966	42
+Chelsea FC	Sheffield United	0:0	2:0	07.05.1966	00:00	1965	1966	42
+Arsenal FC	Leicester City	0:0	1:0	07.05.1966	00:00	1965	1966	42
+West Bromwich Albion	Tottenham Hotspur	0:0	2:1	07.05.1966	00:00	1965	1966	42
+Nottingham Forest	Liverpool FC	0:0	1:1	10.05.1966	00:00	1965	1966	42

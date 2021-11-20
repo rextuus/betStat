@@ -1,0 +1,380 @@
+SpVgg Bayreuth	VfL OsnabrÃ¼ck	1:0	4:1	23.07.1988	15:00	1988	1989	1
+FC Schalke 04	Fortuna DÃ¼sseldorf	0:1	1:1	23.07.1988	15:00	1988	1989	1
+Blau-WeiÃ 90 Berlin	Alemannia Aachen	0:1	1:2	23.07.1988	15:00	1988	1989	1
+Kickers Offenbach	Viktoria Aschaffenburg	1:2	2:2	23.07.1988	15:00	1988	1989	1
+1. FSV Mainz 05	1. FC SaarbrÃ¼cken	0:0	1:1	23.07.1988	15:00	1988	1989	1
+SG Union Solingen	Hertha BSC	0:0	1:2	23.07.1988	15:00	1988	1989	1
+SV Meppen	Eintracht Braunschweig	0:0	0:0	23.07.1988	15:00	1988	1989	1
+SC Freiburg	Rot-Weiss Essen	1:2	5:3	23.07.1988	15:00	1988	1989	1
+FC 08 Homburg	Fortuna KÃ¶ln	1:0	2:0	23.07.1988	15:00	1988	1989	1
+SG Wattenscheid 09	SV Darmstadt 98	1:0	2:1	23.07.1988	15:00	1988	1989	1
+Fortuna DÃ¼sseldorf	FC 08 Homburg	1:0	4:1	30.07.1988	15:00	1988	1989	2
+1. FC SaarbrÃ¼cken	SpVgg Bayreuth	0:0	0:0	30.07.1988	15:00	1988	1989	2
+Viktoria Aschaffenburg	SC Freiburg	1:1	2:1	30.07.1988	15:00	1988	1989	2
+Hertha BSC	1. FSV Mainz 05	0:0	0:0	30.07.1988	15:00	1988	1989	2
+Alemannia Aachen	FC Schalke 04	1:0	2:0	30.07.1988	15:00	1988	1989	2
+Eintracht Braunschweig	Blau-WeiÃ 90 Berlin	0:0	1:1	30.07.1988	15:00	1988	1989	2
+Rot-Weiss Essen	SV Meppen	1:1	2:1	30.07.1988	15:00	1988	1989	2
+Fortuna KÃ¶ln	SG Union Solingen	0:0	2:0	30.07.1988	15:00	1988	1989	2
+VfL OsnabrÃ¼ck	SG Wattenscheid 09	0:2	1:3	30.07.1988	15:00	1988	1989	2
+SV Darmstadt 98	Kickers Offenbach	1:0	3:0	30.07.1988	15:00	1988	1989	2
+1. FSV Mainz 05	Fortuna KÃ¶ln	1:1	2:2	13.08.1988	15:00	1988	1989	3
+Fortuna DÃ¼sseldorf	Alemannia Aachen	1:0	1:1	13.08.1988	15:00	1988	1989	3
+FC 08 Homburg	SG Union Solingen	2:1	6:2	13.08.1988	15:00	1988	1989	3
+FC Schalke 04	Eintracht Braunschweig	0:0	2:0	13.08.1988	15:00	1988	1989	3
+SC Freiburg	SV Darmstadt 98	2:0	2:0	13.08.1988	15:00	1988	1989	3
+Kickers Offenbach	VfL OsnabrÃ¼ck	0:1	1:1	13.08.1988	15:00	1988	1989	3
+Blau-WeiÃ 90 Berlin	Rot-Weiss Essen	1:0	2:0	13.08.1988	15:00	1988	1989	3
+SV Meppen	Viktoria Aschaffenburg	1:0	4:1	13.08.1988	15:00	1988	1989	3
+SG Wattenscheid 09	1. FC SaarbrÃ¼cken	2:1	3:2	13.08.1988	15:00	1988	1989	3
+SpVgg Bayreuth	Hertha BSC	0:0	1:1	13.08.1988	15:00	1988	1989	3
+SV Darmstadt 98	SV Meppen	0:1	2:2	20.08.1988	15:00	1988	1989	4
+SG Union Solingen	1. FSV Mainz 05	1:0	2:0	20.08.1988	15:00	1988	1989	4
+VfL OsnabrÃ¼ck	SC Freiburg	0:1	1:4	20.08.1988	15:00	1988	1989	4
+1. FC SaarbrÃ¼cken	Kickers Offenbach	1:2	2:2	20.08.1988	15:00	1988	1989	4
+Eintracht Braunschweig	Fortuna DÃ¼sseldorf	0:0	0:0	20.08.1988	15:00	1988	1989	4
+Viktoria Aschaffenburg	Blau-WeiÃ 90 Berlin	1:0	1:1	20.08.1988	15:00	1988	1989	4
+Fortuna KÃ¶ln	SpVgg Bayreuth	3:0	3:1	20.08.1988	15:00	1988	1989	4
+Alemannia Aachen	FC 08 Homburg	1:1	2:2	20.08.1988	15:00	1988	1989	4
+Hertha BSC	SG Wattenscheid 09	1:2	2:3	20.08.1988	15:00	1988	1989	4
+Rot-Weiss Essen	FC Schalke 04	2:0	2:1	20.08.1988	15:00	1988	1989	4
+SpVgg Bayreuth	SG Union Solingen	0:0	1:1	27.08.1988	15:00	1988	1989	5
+SG Wattenscheid 09	Fortuna KÃ¶ln	0:1	1:3	27.08.1988	15:00	1988	1989	5
+SV Meppen	VfL OsnabrÃ¼ck	0:2	1:3	27.08.1988	15:00	1988	1989	5
+Blau-WeiÃ 90 Berlin	SV Darmstadt 98	2:1	2:1	27.08.1988	15:00	1988	1989	5
+FC Schalke 04	Viktoria Aschaffenburg	0:0	0:0	27.08.1988	15:00	1988	1989	5
+Fortuna DÃ¼sseldorf	Rot-Weiss Essen	2:0	2:0	27.08.1988	15:00	1988	1989	5
+Kickers Offenbach	Hertha BSC	3:0	4:1	27.08.1988	15:00	1988	1989	5
+SC Freiburg	1. FC SaarbrÃ¼cken	0:0	2:0	27.08.1988	15:00	1988	1989	5
+Alemannia Aachen	Eintracht Braunschweig	0:1	0:1	27.08.1988	15:00	1988	1989	5
+FC 08 Homburg	1. FSV Mainz 05	1:0	2:0	15.10.1988	15:00	1988	1989	5
+1. FC SaarbrÃ¼cken	SV Meppen	0:1	4:1	03.09.1988	15:00	1988	1989	6
+VfL OsnabrÃ¼ck	Blau-WeiÃ 90 Berlin	0:1	1:1	03.09.1988	15:00	1988	1989	6
+SG Union Solingen	SG Wattenscheid 09	0:1	0:3	03.09.1988	15:00	1988	1989	6
+1. FSV Mainz 05	SpVgg Bayreuth	1:0	1:0	03.09.1988	15:00	1988	1989	6
+Eintracht Braunschweig	FC 08 Homburg	1:0	2:1	03.09.1988	15:00	1988	1989	6
+Viktoria Aschaffenburg	Fortuna DÃ¼sseldorf	0:2	2:2	03.09.1988	15:00	1988	1989	6
+Fortuna KÃ¶ln	Kickers Offenbach	1:0	3:0	03.09.1988	15:00	1988	1989	6
+Hertha BSC	SC Freiburg	0:0	0:0	03.09.1988	15:00	1988	1989	6
+SV Darmstadt 98	FC Schalke 04	2:1	2:1	03.09.1988	15:00	1988	1989	6
+Rot-Weiss Essen	Alemannia Aachen	0:1	3:1	03.09.1988	15:00	1988	1989	6
+SC Freiburg	Fortuna KÃ¶ln	2:0	2:1	10.09.1988	15:00	1988	1989	7
+Fortuna DÃ¼sseldorf	SV Darmstadt 98	0:1	1:2	10.09.1988	15:00	1988	1989	7
+SG Wattenscheid 09	1. FSV Mainz 05	1:0	2:1	10.09.1988	15:00	1988	1989	7
+Kickers Offenbach	SG Union Solingen	1:0	2:0	10.09.1988	15:00	1988	1989	7
+Alemannia Aachen	Viktoria Aschaffenburg	0:1	0:1	10.09.1988	15:00	1988	1989	7
+SV Meppen	Hertha BSC	0:0	1:0	10.09.1988	15:00	1988	1989	7
+Blau-WeiÃ 90 Berlin	1. FC SaarbrÃ¼cken	1:1	1:1	10.09.1988	15:00	1988	1989	7
+Eintracht Braunschweig	Rot-Weiss Essen	1:1	2:1	10.09.1988	15:00	1988	1989	7
+FC Schalke 04	VfL OsnabrÃ¼ck	0:1	0:2	10.09.1988	15:00	1988	1989	7
+FC 08 Homburg	SpVgg Bayreuth	1:0	3:0	10.09.1988	15:00	1988	1989	7
+Hertha BSC	Blau-WeiÃ 90 Berlin	0:1	0:2	10.08.1988	19:30	1988	1989	8
+SG Union Solingen	SC Freiburg	0:0	0:1	14.09.1988	19:30	1988	1989	8
+Rot-Weiss Essen	FC 08 Homburg	0:1	0:3	14.09.1988	19:30	1988	1989	8
+1. FC SaarbrÃ¼cken	FC Schalke 04	0:1	2:1	14.09.1988	19:30	1988	1989	8
+1. FSV Mainz 05	Kickers Offenbach	2:0	3:1	14.09.1988	19:30	1988	1989	8
+SpVgg Bayreuth	SG Wattenscheid 09	1:0	1:1	14.09.1988	19:30	1988	1989	8
+SV Darmstadt 98	Alemannia Aachen	0:0	0:1	14.09.1988	19:30	1988	1989	8
+VfL OsnabrÃ¼ck	Fortuna DÃ¼sseldorf	1:0	1:5	14.09.1988	19:30	1988	1989	8
+Fortuna KÃ¶ln	SV Meppen	2:1	3:1	14.09.1988	19:30	1988	1989	8
+Viktoria Aschaffenburg	Eintracht Braunschweig	0:0	3:1	14.09.1988	19:30	1988	1989	8
+Rot-Weiss Essen	Viktoria Aschaffenburg	0:0	0:0	09.08.1988	15:00	1988	1989	9
+Fortuna DÃ¼sseldorf	1. FC SaarbrÃ¼cken	1:1	2:1	17.09.1988	15:00	1988	1989	9
+FC Schalke 04	Hertha BSC	0:1	0:1	17.09.1988	15:00	1988	1989	9
+FC 08 Homburg	SG Wattenscheid 09	1:1	3:2	17.09.1988	15:00	1988	1989	9
+Alemannia Aachen	VfL OsnabrÃ¼ck	1:0	2:1	17.09.1988	15:00	1988	1989	9
+Eintracht Braunschweig	SV Darmstadt 98	1:1	2:1	17.09.1988	15:00	1988	1989	9
+Kickers Offenbach	SpVgg Bayreuth	0:2	1:2	17.09.1988	15:00	1988	1989	9
+SC Freiburg	1. FSV Mainz 05	0:1	1:1	17.09.1988	15:00	1988	1989	9
+SV Meppen	SG Union Solingen	0:0	1:1	17.09.1988	15:00	1988	1989	9
+Blau-WeiÃ 90 Berlin	Fortuna KÃ¶ln	0:0	2:1	17.09.1988	15:00	1988	1989	9
+Viktoria Aschaffenburg	FC 08 Homburg	2:0	3:0	03.08.1988	19:30	1988	1989	10
+SV Darmstadt 98	Rot-Weiss Essen	0:1	0:2	20.09.1988	19:30	1988	1989	10
+1. FC SaarbrÃ¼cken	Alemannia Aachen	1:0	2:0	20.09.1988	19:30	1988	1989	10
+SG Union Solingen	Blau-WeiÃ 90 Berlin	0:2	0:2	20.09.1988	19:30	1988	1989	10
+1. FSV Mainz 05	SV Meppen	1:3	1:6	20.09.1988	19:30	1988	1989	10
+SpVgg Bayreuth	SC Freiburg	0:0	3:2	20.09.1988	19:30	1988	1989	10
+Fortuna KÃ¶ln	FC Schalke 04	0:2	1:2	20.09.1988	19:30	1988	1989	10
+VfL OsnabrÃ¼ck	Eintracht Braunschweig	1:1	1:1	20.09.1988	19:30	1988	1989	10
+Hertha BSC	Fortuna DÃ¼sseldorf	1:0	1:1	20.09.1988	19:30	1988	1989	10
+SG Wattenscheid 09	Kickers Offenbach	3:0	3:1	20.09.1988	19:30	1988	1989	10
+FC 08 Homburg	Kickers Offenbach	1:0	1:0	01.10.1988	15:00	1988	1989	11
+Fortuna DÃ¼sseldorf	Fortuna KÃ¶ln	2:0	3:1	01.10.1988	15:00	1988	1989	11
+Rot-Weiss Essen	VfL OsnabrÃ¼ck	0:1	2:1	01.10.1988	15:00	1988	1989	11
+SV Meppen	SpVgg Bayreuth	0:0	1:0	01.10.1988	15:00	1988	1989	11
+FC Schalke 04	SG Union Solingen	1:0	3:1	01.10.1988	15:00	1988	1989	11
+Blau-WeiÃ 90 Berlin	1. FSV Mainz 05	2:1	2:3	01.10.1988	15:00	1988	1989	11
+SC Freiburg	SG Wattenscheid 09	1:0	1:1	01.10.1988	15:00	1988	1989	11
+Alemannia Aachen	Hertha BSC	1:0	2:0	01.10.1988	15:00	1988	1989	11
+Eintracht Braunschweig	1. FC SaarbrÃ¼cken	1:0	1:1	01.10.1988	15:00	1988	1989	11
+Viktoria Aschaffenburg	SV Darmstadt 98	0:0	0:0	15.10.1988	15:00	1988	1989	11
+SG Union Solingen	Fortuna DÃ¼sseldorf	1:0	1:0	09.09.1988	15:00	1988	1989	12
+Hertha BSC	Eintracht Braunschweig	0:2	0:2	09.09.1988	15:00	1988	1989	12
+SG Wattenscheid 09	SV Meppen	0:1	0:2	08.10.1988	15:00	1988	1989	12
+VfL OsnabrÃ¼ck	Viktoria Aschaffenburg	1:1	3:1	08.10.1988	15:00	1988	1989	12
+Fortuna KÃ¶ln	Alemannia Aachen	1:0	4:0	08.10.1988	15:00	1988	1989	12
+SpVgg Bayreuth	Blau-WeiÃ 90 Berlin	0:0	0:1	08.10.1988	15:00	1988	1989	12
+SV Darmstadt 98	FC 08 Homburg	1:1	1:2	08.10.1988	15:00	1988	1989	12
+1. FC SaarbrÃ¼cken	Rot-Weiss Essen	0:0	0:2	08.10.1988	15:00	1988	1989	12
+Kickers Offenbach	SC Freiburg	2:2	3:2	08.10.1988	15:00	1988	1989	12
+1. FSV Mainz 05	FC Schalke 04	1:1	2:2	08.10.1988	15:00	1988	1989	12
+Fortuna DÃ¼sseldorf	1. FSV Mainz 05	1:1	2:1	22.10.1988	15:00	1988	1989	13
+Blau-WeiÃ 90 Berlin	SG Wattenscheid 09	0:0	1:0	22.10.1988	15:00	1988	1989	13
+SV Darmstadt 98	VfL OsnabrÃ¼ck	0:0	1:1	22.10.1988	15:00	1988	1989	13
+FC Schalke 04	SpVgg Bayreuth	1:0	4:0	22.10.1988	15:00	1988	1989	13
+FC 08 Homburg	SC Freiburg	1:0	1:1	22.10.1988	15:00	1988	1989	13
+Viktoria Aschaffenburg	1. FC SaarbrÃ¼cken	0:1	0:1	22.10.1988	15:00	1988	1989	13
+SV Meppen	Kickers Offenbach	1:0	4:0	22.10.1988	15:00	1988	1989	13
+Rot-Weiss Essen	Hertha BSC	0:0	0:0	22.10.1988	15:00	1988	1989	13
+Alemannia Aachen	SG Union Solingen	0:0	3:0	22.10.1988	15:00	1988	1989	13
+Eintracht Braunschweig	Fortuna KÃ¶ln	0:0	0:1	22.10.1988	15:00	1988	1989	13
+VfL OsnabrÃ¼ck	FC 08 Homburg	0:0	0:0	28.10.1988	20:00	1988	1989	14
+SG Wattenscheid 09	FC Schalke 04	0:0	0:1	28.10.1988	20:00	1988	1989	14
+SpVgg Bayreuth	Fortuna DÃ¼sseldorf	0:1	1:2	29.10.1988	14:45	1988	1989	14
+SC Freiburg	SV Meppen	2:1	3:1	29.10.1988	15:00	1988	1989	14
+1. FC SaarbrÃ¼cken	SV Darmstadt 98	2:1	2:1	29.10.1988	15:30	1988	1989	14
+Hertha BSC	Viktoria Aschaffenburg	2:0	3:1	29.10.1988	15:30	1988	1989	14
+Fortuna KÃ¶ln	Rot-Weiss Essen	2:0	3:0	29.10.1988	15:30	1988	1989	14
+1. FSV Mainz 05	Alemannia Aachen	0:1	3:1	30.10.1988	15:00	1988	1989	14
+Kickers Offenbach	Blau-WeiÃ 90 Berlin	1:1	2:1	30.10.1988	15:00	1988	1989	14
+SG Union Solingen	Eintracht Braunschweig	0:2	0:2	30.10.1988	15:00	1988	1989	14
+Alemannia Aachen	SpVgg Bayreuth	4:2	5:3	05.11.1988	15:00	1988	1989	15
+FC 08 Homburg	SV Meppen	0:0	1:0	05.11.1988	15:00	1988	1989	15
+VfL OsnabrÃ¼ck	1. FC SaarbrÃ¼cken	3:0	3:0	05.11.1988	15:00	1988	1989	15
+Viktoria Aschaffenburg	Fortuna KÃ¶ln	1:2	1:6	05.11.1988	15:00	1988	1989	15
+Fortuna DÃ¼sseldorf	SG Wattenscheid 09	1:1	1:1	05.11.1988	15:00	1988	1989	15
+SV Darmstadt 98	Hertha BSC	0:0	1:1	05.11.1988	15:00	1988	1989	15
+Blau-WeiÃ 90 Berlin	SC Freiburg	0:0	1:0	05.11.1988	15:00	1988	1989	15
+FC Schalke 04	Kickers Offenbach	0:0	2:0	05.11.1988	15:00	1988	1989	15
+Rot-Weiss Essen	SG Union Solingen	0:1	0:1	05.11.1988	15:00	1988	1989	15
+Eintracht Braunschweig	1. FSV Mainz 05	0:0	0:0	05.11.1988	15:00	1988	1989	15
+SG Union Solingen	Viktoria Aschaffenburg	2:0	2:2	12.11.1988	15:00	1988	1989	16
+1. FSV Mainz 05	Rot-Weiss Essen	0:0	1:1	12.11.1988	15:00	1988	1989	16
+SpVgg Bayreuth	Eintracht Braunschweig	2:1	2:1	12.11.1988	15:00	1988	1989	16
+SV Meppen	Blau-WeiÃ 90 Berlin	0:2	2:2	12.11.1988	15:00	1988	1989	16
+Hertha BSC	VfL OsnabrÃ¼ck	0:1	2:1	12.11.1988	15:00	1988	1989	16
+Fortuna KÃ¶ln	SV Darmstadt 98	2:0	3:0	12.11.1988	15:00	1988	1989	16
+1. FC SaarbrÃ¼cken	FC 08 Homburg	1:0	2:1	12.11.1988	15:00	1988	1989	16
+Kickers Offenbach	Fortuna DÃ¼sseldorf	1:0	3:0	12.11.1988	15:00	1988	1989	16
+SC Freiburg	FC Schalke 04	1:1	2:1	12.11.1988	15:00	1988	1989	16
+SG Wattenscheid 09	Alemannia Aachen	1:1	3:1	08.12.1988	15:00	1988	1989	16
+Alemannia Aachen	Kickers Offenbach	0:1	1:2	19.11.1988	15:00	1988	1989	17
+Viktoria Aschaffenburg	1. FSV Mainz 05	1:0	2:1	19.11.1988	15:00	1988	1989	17
+Blau-WeiÃ 90 Berlin	FC 08 Homburg	2:0	2:0	19.11.1988	15:00	1988	1989	17
+Fortuna DÃ¼sseldorf	SC Freiburg	3:0	4:0	19.11.1988	15:00	1988	1989	17
+Eintracht Braunschweig	SG Wattenscheid 09	1:0	3:0	19.11.1988	15:00	1988	1989	17
+Rot-Weiss Essen	SpVgg Bayreuth	0:0	0:0	19.11.1988	15:00	1988	1989	17
+SV Darmstadt 98	SG Union Solingen	0:0	1:0	19.11.1988	15:00	1988	1989	17
+VfL OsnabrÃ¼ck	Fortuna KÃ¶ln	2:0	4:2	19.11.1988	15:00	1988	1989	17
+FC Schalke 04	SV Meppen	0:0	0:0	19.11.1988	15:00	1988	1989	17
+1. FC SaarbrÃ¼cken	Hertha BSC	1:0	2:1	19.11.1988	15:00	1988	1989	17
+1. FSV Mainz 05	SV Darmstadt 98	0:0	1:2	26.11.1988	15:00	1988	1989	18
+SG Union Solingen	VfL OsnabrÃ¼ck	2:1	3:2	26.11.1988	15:00	1988	1989	18
+SG Wattenscheid 09	Rot-Weiss Essen	1:0	4:2	26.11.1988	15:00	1988	1989	18
+Fortuna KÃ¶ln	1. FC SaarbrÃ¼cken	0:0	2:0	26.11.1988	15:00	1988	1989	18
+FC 08 Homburg	Hertha BSC	1:0	1:0	26.11.1988	15:00	1988	1989	18
+SpVgg Bayreuth	Viktoria Aschaffenburg	1:0	4:1	26.11.1988	15:00	1988	1989	18
+SC Freiburg	Alemannia Aachen	0:0	3:0	26.11.1988	15:00	1988	1989	18
+SV Meppen	Fortuna DÃ¼sseldorf	2:1	3:1	26.11.1988	15:00	1988	1989	18
+Kickers Offenbach	Eintracht Braunschweig	0:0	0:0	26.11.1988	15:00	1988	1989	18
+Blau-WeiÃ 90 Berlin	FC Schalke 04	0:1	1:1	26.11.1988	15:00	1988	1989	18
+Viktoria Aschaffenburg	SG Wattenscheid 09	1:1	2:1	03.12.1988	15:00	1988	1989	19
+Alemannia Aachen	SV Meppen	1:0	3:0	03.12.1988	15:00	1988	1989	19
+Fortuna DÃ¼sseldorf	Blau-WeiÃ 90 Berlin	1:1	1:1	03.12.1988	15:00	1988	1989	19
+FC Schalke 04	FC 08 Homburg	0:0	0:0	03.12.1988	15:00	1988	1989	19
+SV Darmstadt 98	SpVgg Bayreuth	1:1	2:1	03.12.1988	15:00	1988	1989	19
+Rot-Weiss Essen	Kickers Offenbach	1:0	2:0	11.02.1989	15:00	1988	1989	19
+VfL OsnabrÃ¼ck	1. FSV Mainz 05	1:1	2:1	12.02.1989	15:00	1988	1989	19
+Eintracht Braunschweig	SC Freiburg	0:0	1:1	14.02.1989	15:00	1988	1989	19
+Hertha BSC	Fortuna KÃ¶ln	1:0	3:0	14.02.1989	15:00	1988	1989	19
+1. FC SaarbrÃ¼cken	SG Union Solingen	1:0	2:0	21.04.1989	15:00	1988	1989	19
+Viktoria Aschaffenburg	Kickers Offenbach	2:0	2:1	18.02.1989	15:00	1988	1989	20
+Rot-Weiss Essen	SC Freiburg	1:0	3:0	18.02.1989	15:00	1988	1989	20
+Eintracht Braunschweig	SV Meppen	1:0	1:1	18.02.1989	15:00	1988	1989	20
+1. FC SaarbrÃ¼cken	1. FSV Mainz 05	2:0	2:2	18.02.1989	15:00	1988	1989	20
+Fortuna KÃ¶ln	FC 08 Homburg	1:0	2:0	18.02.1989	15:00	1988	1989	20
+Alemannia Aachen	Blau-WeiÃ 90 Berlin	2:0	3:0	18.02.1989	15:00	1988	1989	20
+Fortuna DÃ¼sseldorf	FC Schalke 04	2:0	2:0	18.02.1989	15:00	1988	1989	20
+VfL OsnabrÃ¼ck	SpVgg Bayreuth	0:1	1:5	18.02.1989	15:00	1988	1989	20
+SV Darmstadt 98	SG Wattenscheid 09	1:3	2:4	18.02.1989	15:00	1988	1989	20
+Hertha BSC	SG Union Solingen	0:1	1:1	18.02.1989	15:00	1988	1989	20
+Blau-WeiÃ 90 Berlin	Eintracht Braunschweig	2:2	3:3	25.02.1989	15:00	1988	1989	21
+SC Freiburg	Viktoria Aschaffenburg	1:0	3:1	25.02.1989	15:00	1988	1989	21
+SpVgg Bayreuth	1. FC SaarbrÃ¼cken	1:0	2:1	25.02.1989	15:00	1988	1989	21
+1. FSV Mainz 05	Hertha BSC	0:0	1:1	25.02.1989	15:00	1988	1989	21
+FC Schalke 04	Alemannia Aachen	2:0	2:2	25.02.1989	15:00	1988	1989	21
+SV Meppen	Rot-Weiss Essen	1:0	2:2	25.02.1989	15:00	1988	1989	21
+Kickers Offenbach	SV Darmstadt 98	0:0	3:1	25.02.1989	15:00	1988	1989	21
+SG Union Solingen	Fortuna KÃ¶ln	0:0	0:2	25.02.1989	15:00	1988	1989	21
+SG Wattenscheid 09	VfL OsnabrÃ¼ck	2:0	5:0	25.02.1989	15:00	1988	1989	21
+FC 08 Homburg	Fortuna DÃ¼sseldorf	2:1	3:1	25.02.1989	15:00	1988	1989	21
+Alemannia Aachen	Fortuna DÃ¼sseldorf	1:0	2:1	04.03.1989	15:00	1988	1989	22
+SG Union Solingen	FC 08 Homburg	0:0	0:2	04.03.1989	15:00	1988	1989	22
+Viktoria Aschaffenburg	SV Meppen	1:0	1:1	04.03.1989	15:00	1988	1989	22
+Eintracht Braunschweig	FC Schalke 04	0:0	1:0	04.03.1989	15:00	1988	1989	22
+Hertha BSC	SpVgg Bayreuth	1:0	3:0	04.03.1989	15:00	1988	1989	22
+VfL OsnabrÃ¼ck	Kickers Offenbach	1:0	1:0	04.03.1989	15:00	1988	1989	22
+SV Darmstadt 98	SC Freiburg	1:0	2:1	04.03.1989	15:00	1988	1989	22
+Fortuna KÃ¶ln	1. FSV Mainz 05	1:0	3:0	04.03.1989	15:00	1988	1989	22
+1. FC SaarbrÃ¼cken	SG Wattenscheid 09	0:0	0:0	23.03.1989	15:00	1988	1989	22
+Rot-Weiss Essen	Blau-WeiÃ 90 Berlin	0:1	3:3	28.03.1989	15:00	1988	1989	22
+FC Schalke 04	Rot-Weiss Essen	1:1	1:1	11.03.1989	15:00	1988	1989	23
+SV Meppen	SV Darmstadt 98	0:1	1:4	11.03.1989	15:00	1988	1989	23
+SC Freiburg	VfL OsnabrÃ¼ck	1:0	3:0	11.03.1989	15:00	1988	1989	23
+Fortuna DÃ¼sseldorf	Eintracht Braunschweig	1:0	4:0	11.03.1989	15:00	1988	1989	23
+1. FSV Mainz 05	SG Union Solingen	1:0	3:0	11.03.1989	15:00	1988	1989	23
+Blau-WeiÃ 90 Berlin	Viktoria Aschaffenburg	0:0	2:0	11.03.1989	15:00	1988	1989	23
+SpVgg Bayreuth	Fortuna KÃ¶ln	0:0	2:0	11.03.1989	15:00	1988	1989	23
+FC 08 Homburg	Alemannia Aachen	1:0	1:1	11.03.1989	15:00	1988	1989	23
+SG Wattenscheid 09	Hertha BSC	1:2	4:2	11.03.1989	15:00	1988	1989	23
+Kickers Offenbach	1. FC SaarbrÃ¼cken	3:0	4:0	11.03.1989	15:00	1988	1989	23
+Rot-Weiss Essen	Fortuna DÃ¼sseldorf	1:2	1:5	18.03.1989	15:00	1988	1989	24
+Fortuna KÃ¶ln	SG Wattenscheid 09	2:3	5:6	18.03.1989	15:00	1988	1989	24
+VfL OsnabrÃ¼ck	SV Meppen	0:0	0:0	18.03.1989	15:00	1988	1989	24
+SV Darmstadt 98	Blau-WeiÃ 90 Berlin	1:1	2:1	18.03.1989	15:00	1988	1989	24
+1. FSV Mainz 05	FC 08 Homburg	0:0	0:0	18.03.1989	15:00	1988	1989	24
+Hertha BSC	Kickers Offenbach	1:0	1:0	18.03.1989	15:00	1988	1989	24
+1. FC SaarbrÃ¼cken	SC Freiburg	0:0	2:0	18.03.1989	15:00	1988	1989	24
+Viktoria Aschaffenburg	FC Schalke 04	1:0	2:0	18.03.1989	15:00	1988	1989	24
+Eintracht Braunschweig	Alemannia Aachen	0:0	0:1	18.03.1989	15:00	1988	1989	24
+SG Union Solingen	SpVgg Bayreuth	1:0	1:1	18.04.1989	15:00	1988	1989	24
+Alemannia Aachen	Rot-Weiss Essen	0:1	3:1	25.03.1989	15:00	1988	1989	25
+Fortuna DÃ¼sseldorf	Viktoria Aschaffenburg	2:0	4:0	25.03.1989	15:00	1988	1989	25
+SG Wattenscheid 09	SG Union Solingen	0:0	0:0	25.03.1989	15:00	1988	1989	25
+SpVgg Bayreuth	1. FSV Mainz 05	1:0	4:1	25.03.1989	15:00	1988	1989	25
+FC 08 Homburg	Eintracht Braunschweig	1:0	2:0	25.03.1989	15:00	1988	1989	25
+Kickers Offenbach	Fortuna KÃ¶ln	0:0	1:1	25.03.1989	15:00	1988	1989	25
+FC Schalke 04	SV Darmstadt 98	2:1	3:4	25.03.1989	15:00	1988	1989	25
+SC Freiburg	Hertha BSC	1:0	1:1	25.03.1989	15:00	1988	1989	25
+Blau-WeiÃ 90 Berlin	VfL OsnabrÃ¼ck	0:1	1:2	25.03.1989	15:00	1988	1989	25
+SV Meppen	1. FC SaarbrÃ¼cken	0:0	0:1	25.03.1989	15:00	1988	1989	25
+Hertha BSC	SV Meppen	0:0	0:0	01.04.1989	15:00	1988	1989	26
+1. FSV Mainz 05	SG Wattenscheid 09	1:0	1:1	01.04.1989	15:00	1988	1989	26
+SG Union Solingen	Kickers Offenbach	0:0	1:0	01.04.1989	15:00	1988	1989	26
+SpVgg Bayreuth	FC 08 Homburg	1:1	1:1	01.04.1989	15:00	1988	1989	26
+Fortuna KÃ¶ln	SC Freiburg	1:0	1:1	01.04.1989	15:00	1988	1989	26
+SV Darmstadt 98	Fortuna DÃ¼sseldorf	0:0	2:1	01.04.1989	15:00	1988	1989	26
+Rot-Weiss Essen	Eintracht Braunschweig	0:1	2:1	01.04.1989	15:00	1988	1989	26
+VfL OsnabrÃ¼ck	FC Schalke 04	0:0	1:0	01.04.1989	15:00	1988	1989	26
+Viktoria Aschaffenburg	Alemannia Aachen	0:0	1:2	01.04.1989	15:00	1988	1989	26
+1. FC SaarbrÃ¼cken	Blau-WeiÃ 90 Berlin	2:0	2:1	12.04.1989	15:00	1988	1989	26
+FC 08 Homburg	Rot-Weiss Essen	0:0	0:0	08.04.1989	15:00	1988	1989	27
+SC Freiburg	SG Union Solingen	1:0	1:1	08.04.1989	15:00	1988	1989	27
+Kickers Offenbach	1. FSV Mainz 05	2:0	3:0	08.04.1989	15:00	1988	1989	27
+SG Wattenscheid 09	SpVgg Bayreuth	1:0	2:0	08.04.1989	15:00	1988	1989	27
+Eintracht Braunschweig	Viktoria Aschaffenburg	0:0	1:0	08.04.1989	15:00	1988	1989	27
+Alemannia Aachen	SV Darmstadt 98	0:1	0:1	08.04.1989	15:00	1988	1989	27
+Fortuna DÃ¼sseldorf	VfL OsnabrÃ¼ck	1:0	3:2	08.04.1989	15:00	1988	1989	27
+Blau-WeiÃ 90 Berlin	Hertha BSC	1:1	1:1	08.04.1989	15:00	1988	1989	27
+FC Schalke 04	1. FC SaarbrÃ¼cken	1:1	2:1	08.04.1989	15:00	1988	1989	27
+SV Meppen	Fortuna KÃ¶ln	1:0	1:1	08.04.1989	15:00	1988	1989	27
+Viktoria Aschaffenburg	Rot-Weiss Essen	0:0	2:1	15.04.1989	15:00	1988	1989	28
+SG Wattenscheid 09	FC 08 Homburg	1:1	2:2	15.04.1989	15:00	1988	1989	28
+1. FC SaarbrÃ¼cken	Fortuna DÃ¼sseldorf	0:1	2:2	15.04.1989	15:00	1988	1989	28
+VfL OsnabrÃ¼ck	Alemannia Aachen	1:0	2:2	15.04.1989	15:00	1988	1989	28
+SV Darmstadt 98	Eintracht Braunschweig	0:0	1:2	15.04.1989	15:00	1988	1989	28
+1. FSV Mainz 05	SC Freiburg	1:0	2:1	15.04.1989	15:00	1988	1989	28
+SG Union Solingen	SV Meppen	0:0	0:1	15.04.1989	15:00	1988	1989	28
+Fortuna KÃ¶ln	Blau-WeiÃ 90 Berlin	1:1	2:1	15.04.1989	15:00	1988	1989	28
+Hertha BSC	FC Schalke 04	1:1	2:1	15.04.1989	15:00	1988	1989	28
+SpVgg Bayreuth	Kickers Offenbach	1:1	1:2	15.04.1989	15:00	1988	1989	28
+Rot-Weiss Essen	SV Darmstadt 98	2:0	3:1	22.04.1989	15:00	1988	1989	29
+Blau-WeiÃ 90 Berlin	SG Union Solingen	0:0	2:0	22.04.1989	15:00	1988	1989	29
+SV Meppen	1. FSV Mainz 05	1:0	4:1	22.04.1989	15:00	1988	1989	29
+SC Freiburg	SpVgg Bayreuth	1:0	4:0	22.04.1989	15:00	1988	1989	29
+FC 08 Homburg	Viktoria Aschaffenburg	2:0	3:0	22.04.1989	15:00	1988	1989	29
+Alemannia Aachen	1. FC SaarbrÃ¼cken	0:0	1:1	22.04.1989	15:00	1988	1989	29
+Eintracht Braunschweig	VfL OsnabrÃ¼ck	0:0	1:0	22.04.1989	15:00	1988	1989	29
+Fortuna DÃ¼sseldorf	Hertha BSC	1:2	2:2	22.04.1989	15:00	1988	1989	29
+Kickers Offenbach	SG Wattenscheid 09	1:0	2:0	16.05.1989	15:00	1988	1989	29
+FC Schalke 04	Fortuna KÃ¶ln	0:2	3:3	23.05.1989	15:00	1988	1989	29
+Fortuna KÃ¶ln	Fortuna DÃ¼sseldorf	0:0	4:1	24.04.1989	20:15	1988	1989	30
+SG Wattenscheid 09	SC Freiburg	0:0	1:0	24.04.1989	20:15	1988	1989	30
+SpVgg Bayreuth	SV Meppen	0:0	0:0	24.04.1989	20:15	1988	1989	30
+Kickers Offenbach	FC 08 Homburg	0:1	0:1	24.04.1989	20:15	1988	1989	30
+1. FC SaarbrÃ¼cken	Eintracht Braunschweig	0:1	2:1	24.04.1989	20:15	1988	1989	30
+SV Darmstadt 98	Viktoria Aschaffenburg	2:1	2:1	24.04.1989	20:15	1988	1989	30
+1. FSV Mainz 05	Blau-WeiÃ 90 Berlin	0:2	0:2	24.04.1989	20:15	1988	1989	30
+SG Union Solingen	FC Schalke 04	0:0	1:3	24.04.1989	20:15	1988	1989	30
+VfL OsnabrÃ¼ck	Rot-Weiss Essen	0:2	1:3	24.04.1989	20:15	1988	1989	30
+Hertha BSC	Alemannia Aachen	0:1	1:1	24.04.1989	20:15	1988	1989	30
+FC Schalke 04	1. FSV Mainz 05	2:0	4:1	27.04.1989	20:15	1988	1989	31
+Viktoria Aschaffenburg	VfL OsnabrÃ¼ck	1:1	1:1	27.04.1989	20:15	1988	1989	31
+Fortuna DÃ¼sseldorf	SG Union Solingen	1:1	1:1	27.04.1989	20:15	1988	1989	31
+Eintracht Braunschweig	Hertha BSC	0:0	1:1	27.04.1989	20:15	1988	1989	31
+Alemannia Aachen	Fortuna KÃ¶ln	2:0	3:1	27.04.1989	20:15	1988	1989	31
+SV Meppen	SG Wattenscheid 09	0:0	1:0	27.04.1989	20:15	1988	1989	31
+FC 08 Homburg	SV Darmstadt 98	1:0	3:0	27.04.1989	20:15	1988	1989	31
+SC Freiburg	Kickers Offenbach	0:0	3:0	27.04.1989	20:15	1988	1989	31
+Rot-Weiss Essen	1. FC SaarbrÃ¼cken	0:1	1:1	27.04.1989	20:15	1988	1989	31
+Blau-WeiÃ 90 Berlin	SpVgg Bayreuth	0:1	1:2	27.04.1989	20:15	1988	1989	31
+Fortuna KÃ¶ln	Eintracht Braunschweig	1:1	3:2	01.05.1989	20:15	1988	1989	32
+VfL OsnabrÃ¼ck	SV Darmstadt 98	0:0	2:0	01.05.1989	20:15	1988	1989	32
+SG Wattenscheid 09	Blau-WeiÃ 90 Berlin	0:0	1:2	01.05.1989	20:15	1988	1989	32
+SpVgg Bayreuth	FC Schalke 04	1:0	1:1	01.05.1989	20:15	1988	1989	32
+1. FSV Mainz 05	Fortuna DÃ¼sseldorf	1:0	2:2	01.05.1989	20:15	1988	1989	32
+1. FC SaarbrÃ¼cken	Viktoria Aschaffenburg	0:0	0:0	01.05.1989	20:15	1988	1989	32
+Kickers Offenbach	SV Meppen	0:1	2:3	01.05.1989	20:15	1988	1989	32
+SG Union Solingen	Alemannia Aachen	0:0	0:2	01.05.1989	20:15	1988	1989	32
+Hertha BSC	Rot-Weiss Essen	1:0	4:0	01.05.1989	20:15	1988	1989	32
+SC Freiburg	FC 08 Homburg	0:0	1:0	01.05.1989	20:15	1988	1989	32
+Fortuna DÃ¼sseldorf	SpVgg Bayreuth	1:1	4:3	13.05.1989	15:00	1988	1989	33
+Alemannia Aachen	1. FSV Mainz 05	3:0	5:2	13.05.1989	15:00	1988	1989	33
+SV Darmstadt 98	1. FC SaarbrÃ¼cken	0:0	0:0	13.05.1989	15:00	1988	1989	33
+Blau-WeiÃ 90 Berlin	Kickers Offenbach	0:0	0:0	13.05.1989	15:00	1988	1989	33
+Eintracht Braunschweig	SG Union Solingen	2:0	4:0	13.05.1989	15:00	1988	1989	33
+Viktoria Aschaffenburg	Hertha BSC	0:0	1:0	13.05.1989	15:00	1988	1989	33
+Rot-Weiss Essen	Fortuna KÃ¶ln	3:2	3:4	13.05.1989	15:00	1988	1989	33
+FC 08 Homburg	VfL OsnabrÃ¼ck	0:0	1:1	13.05.1989	15:00	1988	1989	33
+FC Schalke 04	SG Wattenscheid 09	3:1	3:2	13.05.1989	15:00	1988	1989	33
+SV Meppen	SC Freiburg	0:1	2:3	13.05.1989	15:00	1988	1989	33
+SC Freiburg	Blau-WeiÃ 90 Berlin	1:0	2:4	20.05.1989	15:00	1988	1989	34
+SV Meppen	FC 08 Homburg	2:0	2:2	20.05.1989	15:00	1988	1989	34
+Fortuna KÃ¶ln	Viktoria Aschaffenburg	0:0	2:0	20.05.1989	15:00	1988	1989	34
+SG Wattenscheid 09	Fortuna DÃ¼sseldorf	0:1	1:3	20.05.1989	15:00	1988	1989	34
+Hertha BSC	SV Darmstadt 98	0:0	1:0	20.05.1989	15:00	1988	1989	34
+1. FC SaarbrÃ¼cken	VfL OsnabrÃ¼ck	0:0	2:0	20.05.1989	15:00	1988	1989	34
+Kickers Offenbach	FC Schalke 04	2:0	2:1	20.05.1989	15:00	1988	1989	34
+1. FSV Mainz 05	Eintracht Braunschweig	0:0	1:0	20.05.1989	15:00	1988	1989	34
+SG Union Solingen	Rot-Weiss Essen	1:1	3:2	20.05.1989	15:00	1988	1989	34
+SpVgg Bayreuth	Alemannia Aachen	0:1	0:2	20.05.1989	15:00	1988	1989	34
+VfL OsnabrÃ¼ck	Hertha BSC	0:1	4:3	11.05.1989	15:00	1988	1989	35
+Viktoria Aschaffenburg	SG Union Solingen	2:0	4:0	27.05.1989	15:00	1988	1989	35
+Eintracht Braunschweig	SpVgg Bayreuth	1:1	1:1	27.05.1989	15:00	1988	1989	35
+Alemannia Aachen	SG Wattenscheid 09	0:0	0:2	27.05.1989	15:00	1988	1989	35
+Blau-WeiÃ 90 Berlin	SV Meppen	1:0	2:1	27.05.1989	15:00	1988	1989	35
+FC Schalke 04	SC Freiburg	3:2	4:2	27.05.1989	15:00	1988	1989	35
+SV Darmstadt 98	Fortuna KÃ¶ln	1:0	2:1	27.05.1989	15:00	1988	1989	35
+Fortuna DÃ¼sseldorf	Kickers Offenbach	1:0	2:1	27.05.1989	15:00	1988	1989	35
+Rot-Weiss Essen	1. FSV Mainz 05	0:0	3:0	27.05.1989	15:00	1988	1989	35
+FC 08 Homburg	1. FC SaarbrÃ¼cken	0:1	0:1	27.05.1989	15:00	1988	1989	35
+SC Freiburg	Fortuna DÃ¼sseldorf	1:2	1:3	03.06.1989	15:00	1988	1989	36
+SG Wattenscheid 09	Eintracht Braunschweig	2:2	2:2	03.06.1989	15:00	1988	1989	36
+1. FSV Mainz 05	Viktoria Aschaffenburg	0:1	3:2	03.06.1989	15:00	1988	1989	36
+FC 08 Homburg	Blau-WeiÃ 90 Berlin	1:0	2:0	03.06.1989	15:00	1988	1989	36
+Hertha BSC	1. FC SaarbrÃ¼cken	1:1	1:2	03.06.1989	15:00	1988	1989	36
+SpVgg Bayreuth	Rot-Weiss Essen	0:0	1:0	03.06.1989	15:00	1988	1989	36
+SG Union Solingen	SV Darmstadt 98	0:1	0:3	03.06.1989	15:00	1988	1989	36
+SV Meppen	FC Schalke 04	1:1	1:3	03.06.1989	15:00	1988	1989	36
+Fortuna KÃ¶ln	VfL OsnabrÃ¼ck	0:2	1:3	03.06.1989	15:00	1988	1989	36
+Kickers Offenbach	Alemannia Aachen	1:0	3:0	03.06.1989	15:00	1988	1989	36
+Viktoria Aschaffenburg	SpVgg Bayreuth	2:0	3:0	11.06.1989	15:00	1988	1989	37
+VfL OsnabrÃ¼ck	SG Union Solingen	3:0	6:0	11.06.1989	15:00	1988	1989	37
+Rot-Weiss Essen	SG Wattenscheid 09	1:0	3:0	11.06.1989	15:00	1988	1989	37
+1. FC SaarbrÃ¼cken	Fortuna KÃ¶ln	2:1	4:2	11.06.1989	15:00	1988	1989	37
+SV Darmstadt 98	1. FSV Mainz 05	4:0	7:0	11.06.1989	15:00	1988	1989	37
+Alemannia Aachen	SC Freiburg	0:2	1:4	11.06.1989	15:00	1988	1989	37
+Fortuna DÃ¼sseldorf	SV Meppen	2:1	4:1	11.06.1989	15:00	1988	1989	37
+FC Schalke 04	Blau-WeiÃ 90 Berlin	2:1	4:1	11.06.1989	15:00	1988	1989	37
+Eintracht Braunschweig	Kickers Offenbach	2:1	2:2	11.06.1989	15:00	1988	1989	37
+Hertha BSC	FC 08 Homburg	1:0	2:0	11.06.1989	15:00	1988	1989	37
+SG Wattenscheid 09	Viktoria Aschaffenburg	0:0	2:1	18.06.1989	15:00	1988	1989	38
+SV Meppen	Alemannia Aachen	1:0	2:0	18.06.1989	15:00	1988	1989	38
+Kickers Offenbach	Rot-Weiss Essen	0:0	1:0	18.06.1989	15:00	1988	1989	38
+SG Union Solingen	1. FC SaarbrÃ¼cken	0:2	0:4	18.06.1989	15:00	1988	1989	38
+SC Freiburg	Eintracht Braunschweig	2:0	2:0	18.06.1989	15:00	1988	1989	38
+Fortuna KÃ¶ln	Hertha BSC	0:0	1:0	18.06.1989	15:00	1988	1989	38
+Blau-WeiÃ 90 Berlin	Fortuna DÃ¼sseldorf	1:5	2:7	18.06.1989	15:00	1988	1989	38
+FC 08 Homburg	FC Schalke 04	0:0	2:1	18.06.1989	15:00	1988	1989	38
+1. FSV Mainz 05	VfL OsnabrÃ¼ck	0:0	1:1	18.06.1989	15:00	1988	1989	38
+SpVgg Bayreuth	SV Darmstadt 98	0:0	4:1	18.06.1989	15:00	1988	1989	38

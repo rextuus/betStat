@@ -1,0 +1,306 @@
+FC Porto	CS MarÃ­timo	1:0	2:0	15.08.2014	21:00	2014	2015	1
+Gil Vicente	VitÃ³ria GuimarÃ£es	0:1	1:3	16.08.2014	19:00	2014	2015	1
+AcadÃ©mica de Coimbra	Sporting CP	0:1	1:1	16.08.2014	21:30	2014	2015	1
+Rio Ave FC	VitÃ³ria SetÃºbal	0:0	2:0	17.08.2014	17:00	2014	2015	1
+CD Nacional	Moreirense FC	0:0	0:1	17.08.2014	17:00	2014	2015	1
+FC Penafiel	Os Belenenses	1:1	1:3	17.08.2014	18:00	2014	2015	1
+Sporting Braga	Boavista	1:0	3:0	17.08.2014	20:00	2014	2015	1
+SL Benfica	PaÃ§os de Ferreira	1:0	2:0	17.08.2014	20:15	2014	2015	1
+FC Arouca	GD Estoril	1:1	1:1	18.08.2014	21:00	2014	2015	1
+VitÃ³ria GuimarÃ£es	FC Penafiel	1:0	3:0	22.08.2014	21:00	2014	2015	2
+CS MarÃ­timo	AcadÃ©mica de Coimbra	0:0	2:1	23.08.2014	18:00	2014	2015	2
+PaÃ§os de Ferreira	FC Porto	0:1	0:1	23.08.2014	19:00	2014	2015	2
+Sporting CP	FC Arouca	0:0	1:0	23.08.2014	21:30	2014	2015	2
+Os Belenenses	CD Nacional	2:0	3:1	24.08.2014	17:00	2014	2015	2
+VitÃ³ria SetÃºbal	Gil Vicente	1:0	2:0	24.08.2014	18:00	2014	2015	2
+GD Estoril	Rio Ave FC	0:2	1:5	24.08.2014	18:00	2014	2015	2
+Boavista	SL Benfica	0:1	0:1	24.08.2014	20:30	2014	2015	2
+Moreirense FC	Sporting Braga	0:0	0:0	25.08.2014	21:00	2014	2015	2
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	1:1	1:1	29.08.2014	21:00	2014	2015	3
+Os Belenenses	VitÃ³ria GuimarÃ£es	0:2	0:3	30.08.2014	19:00	2014	2015	3
+Sporting Braga	GD Estoril	1:0	2:1	30.08.2014	21:30	2014	2015	3
+Gil Vicente	CS MarÃ­timo	1:0	1:2	31.08.2014	17:00	2014	2015	3
+FC Penafiel	PaÃ§os de Ferreira	0:0	0:1	31.08.2014	18:00	2014	2015	3
+CD Nacional	FC Arouca	1:0	2:0	31.08.2014	19:00	2014	2015	3
+FC Porto	Moreirense FC	0:0	3:0	31.08.2014	19:00	2014	2015	3
+SL Benfica	Sporting CP	1:1	1:1	31.08.2014	20:00	2014	2015	3
+Rio Ave FC	Boavista	2:0	4:0	01.09.2014	21:00	2014	2015	3
+VitÃ³ria SetÃºbal	SL Benfica	0:3	0:5	12.09.2014	21:30	2014	2015	4
+Moreirense FC	Rio Ave FC	0:1	1:1	13.09.2014	17:00	2014	2015	4
+FC Arouca	Sporting Braga	1:0	1:0	13.09.2014	19:00	2014	2015	4
+Sporting CP	Os Belenenses	1:1	1:1	13.09.2014	21:15	2014	2015	4
+Boavista	AcadÃ©mica de Coimbra	0:0	1:0	14.09.2014	17:00	2014	2015	4
+CS MarÃ­timo	FC Penafiel	0:0	2:0	14.09.2014	17:00	2014	2015	4
+VitÃ³ria GuimarÃ£es	FC Porto	0:0	1:1	14.09.2014	18:00	2014	2015	4
+PaÃ§os de Ferreira	Gil Vicente	1:0	1:1	14.09.2014	18:00	2014	2015	4
+GD Estoril	CD Nacional	1:0	2:1	14.09.2014	20:15	2014	2015	4
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	0:1	1:1	19.09.2014	21:30	2014	2015	5
+FC Penafiel	VitÃ³ria SetÃºbal	1:0	2:0	20.09.2014	17:00	2014	2015	5
+CD Nacional	Sporting Braga	0:0	1:1	20.09.2014	21:15	2014	2015	5
+Rio Ave FC	FC Arouca	0:1	1:2	21.09.2014	17:00	2014	2015	5
+Os Belenenses	CS MarÃ­timo	0:0	1:0	21.09.2014	17:00	2014	2015	5
+SL Benfica	Moreirense FC	0:1	3:1	21.09.2014	18:00	2014	2015	5
+Gil Vicente	Sporting CP	0:2	0:4	21.09.2014	19:00	2014	2015	5
+FC Porto	Boavista	0:0	0:0	21.09.2014	21:15	2014	2015	5
+AcadÃ©mica de Coimbra	GD Estoril	2:1	2:2	22.09.2014	21:00	2014	2015	5
+Sporting CP	FC Porto	1:0	1:1	26.09.2014	21:30	2014	2015	6
+GD Estoril	SL Benfica	1:2	2:3	27.09.2014	19:30	2014	2015	6
+Sporting Braga	Rio Ave FC	0:0	3:0	27.09.2014	21:30	2014	2015	6
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	4:0	4:0	28.09.2014	17:00	2014	2015	6
+Moreirense FC	FC Penafiel	0:0	0:0	28.09.2014	17:00	2014	2015	6
+Boavista	Gil Vicente	1:1	3:2	28.09.2014	17:00	2014	2015	6
+FC Arouca	AcadÃ©mica de Coimbra	0:1	0:1	28.09.2014	17:00	2014	2015	6
+VitÃ³ria SetÃºbal	CD Nacional	2:0	2:0	28.09.2014	19:00	2014	2015	6
+PaÃ§os de Ferreira	Os Belenenses	1:0	2:0	29.09.2014	21:00	2014	2015	6
+VitÃ³ria GuimarÃ£es	Boavista	1:0	3:0	03.10.2014	21:30	2014	2015	7
+FC Penafiel	Sporting CP	0:0	0:4	04.10.2014	21:15	2014	2015	7
+Gil Vicente	GD Estoril	1:1	1:1	05.10.2014	17:00	2014	2015	7
+AcadÃ©mica de Coimbra	Moreirense FC	0:0	0:0	05.10.2014	17:00	2014	2015	7
+PaÃ§os de Ferreira	CS MarÃ­timo	0:1	3:2	05.10.2014	17:00	2014	2015	7
+SL Benfica	FC Arouca	0:0	4:0	05.10.2014	19:00	2014	2015	7
+FC Porto	Sporting Braga	1:1	2:1	05.10.2014	19:00	2014	2015	7
+CD Nacional	Rio Ave FC	0:0	0:0	05.10.2014	20:00	2014	2015	7
+Os Belenenses	VitÃ³ria SetÃºbal	0:1	1:1	05.10.2014	21:15	2014	2015	7
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	0:0	0:1	24.10.2014	21:30	2014	2015	8
+Moreirense FC	Gil Vicente	0:0	2:0	25.10.2014	17:00	2014	2015	8
+Boavista	PaÃ§os de Ferreira	0:1	1:2	25.10.2014	17:00	2014	2015	8
+FC Arouca	FC Porto	0:3	0:5	25.10.2014	21:15	2014	2015	8
+GD Estoril	Os Belenenses	0:1	1:2	26.10.2014	17:00	2014	2015	8
+CD Nacional	AcadÃ©mica de Coimbra	0:0	1:0	26.10.2014	17:00	2014	2015	8
+Sporting CP	CS MarÃ­timo	3:0	4:2	26.10.2014	19:00	2014	2015	8
+Sporting Braga	SL Benfica	1:1	2:1	26.10.2014	21:15	2014	2015	8
+Rio Ave FC	FC Penafiel	2:1	3:2	27.10.2014	21:00	2014	2015	8
+SL Benfica	Rio Ave FC	0:0	1:0	31.10.2014	20:45	2014	2015	9
+FC Penafiel	GD Estoril	0:1	1:2	01.11.2014	17:00	2014	2015	9
+VitÃ³ria GuimarÃ£es	Sporting CP	2:0	3:0	01.11.2014	19:00	2014	2015	9
+FC Porto	CD Nacional	1:0	2:0	01.11.2014	21:15	2014	2015	9
+Gil Vicente	FC Arouca	0:0	1:1	02.11.2014	17:00	2014	2015	9
+CS MarÃ­timo	Moreirense FC	0:1	1:2	02.11.2014	17:00	2014	2015	9
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	0:0	4:1	02.11.2014	17:00	2014	2015	9
+AcadÃ©mica de Coimbra	Sporting Braga	0:0	1:1	02.11.2014	20:15	2014	2015	9
+Os Belenenses	Boavista	3:1	3:1	03.11.2014	21:00	2014	2015	9
+FC Arouca	VitÃ³ria GuimarÃ£es	0:0	1:2	07.11.2014	21:30	2014	2015	10
+Sporting Braga	Gil Vicente	0:0	2:0	08.11.2014	21:15	2014	2015	10
+Moreirense FC	Os Belenenses	0:0	0:1	09.11.2014	17:00	2014	2015	10
+CD Nacional	SL Benfica	1:2	1:2	09.11.2014	17:00	2014	2015	10
+VitÃ³ria SetÃºbal	CS MarÃ­timo	1:0	1:0	09.11.2014	17:00	2014	2015	10
+Boavista	FC Penafiel	0:0	1:0	09.11.2014	17:00	2014	2015	10
+Sporting CP	PaÃ§os de Ferreira	0:1	1:1	09.11.2014	19:00	2014	2015	10
+GD Estoril	FC Porto	1:1	2:2	09.11.2014	21:15	2014	2015	10
+Rio Ave FC	AcadÃ©mica de Coimbra	2:0	3:0	10.11.2014	21:00	2014	2015	10
+VitÃ³ria GuimarÃ£es	Moreirense FC	1:1	2:1	28.11.2014	21:30	2014	2015	11
+Os Belenenses	FC Arouca	0:0	0:0	29.11.2014	17:00	2014	2015	11
+FC Penafiel	Sporting Braga	1:2	1:6	29.11.2014	19:00	2014	2015	11
+Sporting CP	VitÃ³ria SetÃºbal	0:0	3:0	29.11.2014	21:15	2014	2015	11
+CS MarÃ­timo	Boavista	1:0	4:0	30.11.2014	17:00	2014	2015	11
+Gil Vicente	CD Nacional	0:0	0:0	30.11.2014	17:00	2014	2015	11
+AcadÃ©mica de Coimbra	SL Benfica	0:2	0:2	30.11.2014	19:00	2014	2015	11
+FC Porto	Rio Ave FC	0:0	5:0	30.11.2014	21:15	2014	2015	11
+PaÃ§os de Ferreira	GD Estoril	0:0	1:1	01.12.2014	21:00	2014	2015	11
+Boavista	Sporting CP	0:0	1:3	05.12.2014	21:30	2014	2015	12
+Rio Ave FC	Gil Vicente	0:0	0:0	06.12.2014	17:00	2014	2015	12
+SL Benfica	Os Belenenses	0:0	3:0	06.12.2014	18:00	2014	2015	12
+GD Estoril	VitÃ³ria SetÃºbal	1:0	1:0	06.12.2014	19:00	2014	2015	12
+AcadÃ©mica de Coimbra	FC Porto	0:2	0:3	06.12.2014	21:15	2014	2015	12
+Moreirense FC	PaÃ§os de Ferreira	1:0	2:0	07.12.2014	17:00	2014	2015	12
+FC Arouca	FC Penafiel	0:1	0:1	07.12.2014	17:00	2014	2015	12
+Sporting Braga	VitÃ³ria GuimarÃ£es	0:0	0:0	07.12.2014	21:15	2014	2015	12
+CD Nacional	CS MarÃ­timo	0:0	3:0	08.12.2014	21:00	2014	2015	12
+VitÃ³ria SetÃºbal	Boavista	0:0	0:1	12.12.2014	21:30	2014	2015	13
+PaÃ§os de Ferreira	FC Arouca	0:1	2:1	13.12.2014	17:00	2014	2015	13
+Gil Vicente	AcadÃ©mica de Coimbra	0:0	1:1	13.12.2014	17:00	2014	2015	13
+FC Penafiel	CD Nacional	1:0	2:1	13.12.2014	17:00	2014	2015	13
+Os Belenenses	Sporting Braga	0:1	0:1	13.12.2014	21:15	2014	2015	13
+VitÃ³ria GuimarÃ£es	Rio Ave FC	0:0	0:0	14.12.2014	17:00	2014	2015	13
+Sporting CP	Moreirense FC	0:1	1:1	14.12.2014	19:00	2014	2015	13
+FC Porto	SL Benfica	0:1	0:2	14.12.2014	21:00	2014	2015	13
+CS MarÃ­timo	GD Estoril	0:0	0:0	14.12.2014	21:00	2014	2015	13
+FC Porto	VitÃ³ria SetÃºbal	2:0	4:0	19.12.2014	21:30	2014	2015	14
+GD Estoril	VitÃ³ria GuimarÃ£es	0:0	1:0	20.12.2014	21:15	2014	2015	14
+Moreirense FC	Boavista	1:0	1:0	21.12.2014	17:00	2014	2015	14
+FC Arouca	CS MarÃ­timo	0:0	1:0	21.12.2014	17:00	2014	2015	14
+AcadÃ©mica de Coimbra	FC Penafiel	0:0	1:1	21.12.2014	17:00	2014	2015	14
+SL Benfica	Gil Vicente	1:0	1:0	21.12.2014	18:00	2014	2015	14
+CD Nacional	Sporting CP	0:0	0:1	21.12.2014	20:15	2014	2015	14
+Sporting Braga	PaÃ§os de Ferreira	3:0	3:0	22.12.2014	20:00	2014	2015	14
+Rio Ave FC	Os Belenenses	0:0	0:0	22.12.2014	22:00	2014	2015	14
+Os Belenenses	AcadÃ©mica de Coimbra	0:0	0:0	02.01.2015	21:30	2014	2015	15
+CS MarÃ­timo	Sporting Braga	1:1	2:1	03.01.2015	17:00	2014	2015	15
+PaÃ§os de Ferreira	Rio Ave FC	0:1	1:2	03.01.2015	17:00	2014	2015	15
+Sporting CP	GD Estoril	1:0	3:0	03.01.2015	19:00	2014	2015	15
+Gil Vicente	FC Porto	0:1	1:5	03.01.2015	21:15	2014	2015	15
+VitÃ³ria SetÃºbal	Moreirense FC	0:1	2:1	04.01.2015	17:00	2014	2015	15
+Boavista	FC Arouca	1:0	3:1	04.01.2015	17:00	2014	2015	15
+VitÃ³ria GuimarÃ£es	CD Nacional	3:0	4:0	04.01.2015	18:00	2014	2015	15
+FC Penafiel	SL Benfica	0:1	0:3	04.01.2015	20:15	2014	2015	15
+GD Estoril	Moreirense FC	1:0	1:1	09.01.2015	21:30	2014	2015	16
+SL Benfica	VitÃ³ria GuimarÃ£es	1:0	3:0	10.01.2015	18:00	2014	2015	16
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	0:0	2:2	10.01.2015	19:00	2014	2015	16
+FC Porto	Os Belenenses	1:0	3:0	10.01.2015	21:15	2014	2015	16
+Gil Vicente	FC Penafiel	0:1	2:1	11.01.2015	17:00	2014	2015	16
+Rio Ave FC	CS MarÃ­timo	0:0	0:0	11.01.2015	17:00	2014	2015	16
+FC Arouca	VitÃ³ria SetÃºbal	0:0	1:0	11.01.2015	17:00	2014	2015	16
+CD Nacional	Boavista	1:1	2:1	11.01.2015	19:00	2014	2015	16
+Sporting Braga	Sporting CP	0:0	0:1	11.01.2015	20:15	2014	2015	16
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	3:0	4:0	17.01.2015	19:00	2014	2015	17
+FC Penafiel	FC Porto	0:2	1:3	17.01.2015	21:15	2014	2015	17
+Moreirense FC	FC Arouca	1:0	1:0	18.01.2015	17:00	2014	2015	17
+VitÃ³ria SetÃºbal	Sporting Braga	1:0	1:3	18.01.2015	17:00	2014	2015	17
+Boavista	GD Estoril	1:1	1:2	18.01.2015	17:00	2014	2015	17
+Os Belenenses	Gil Vicente	2:0	2:0	18.01.2015	17:00	2014	2015	17
+PaÃ§os de Ferreira	CD Nacional	0:1	2:3	18.01.2015	17:00	2014	2015	17
+CS MarÃ­timo	SL Benfica	0:1	0:4	18.01.2015	19:00	2014	2015	17
+Sporting CP	Rio Ave FC	1:1	4:2	18.01.2015	21:15	2014	2015	17
+VitÃ³ria GuimarÃ£es	Gil Vicente	0:1	2:2	24.01.2015	21:15	2014	2015	18
+VitÃ³ria SetÃºbal	Rio Ave FC	1:1	4:1	25.01.2015	17:00	2014	2015	18
+Os Belenenses	FC Penafiel	0:0	0:0	25.01.2015	17:00	2014	2015	18
+Moreirense FC	CD Nacional	1:0	2:3	25.01.2015	17:00	2014	2015	18
+Sporting CP	AcadÃ©mica de Coimbra	0:0	1:0	25.01.2015	17:00	2014	2015	18
+GD Estoril	FC Arouca	0:0	1:0	25.01.2015	18:00	2014	2015	18
+CS MarÃ­timo	FC Porto	1:0	1:0	25.01.2015	19:00	2014	2015	18
+Boavista	Sporting Braga	0:0	1:0	25.01.2015	21:15	2014	2015	18
+PaÃ§os de Ferreira	SL Benfica	0:0	1:0	26.01.2015	21:00	2014	2015	18
+Sporting Braga	Moreirense FC	0:0	1:0	30.01.2015	21:30	2014	2015	19
+SL Benfica	Boavista	2:0	3:0	31.01.2015	18:00	2014	2015	19
+CD Nacional	Os Belenenses	1:1	2:1	31.01.2015	18:30	2014	2015	19
+FC Penafiel	VitÃ³ria GuimarÃ£es	1:0	1:1	31.01.2015	21:15	2014	2015	19
+Gil Vicente	VitÃ³ria SetÃºbal	1:0	1:1	01.02.2015	17:00	2014	2015	19
+AcadÃ©mica de Coimbra	CS MarÃ­timo	0:1	1:1	01.02.2015	17:00	2014	2015	19
+Rio Ave FC	GD Estoril	1:0	2:1	01.02.2015	17:00	2014	2015	19
+FC Arouca	Sporting CP	1:1	1:3	01.02.2015	19:00	2014	2015	19
+FC Porto	PaÃ§os de Ferreira	3:0	5:0	01.02.2015	21:15	2014	2015	19
+Moreirense FC	FC Porto	0:1	0:2	07.02.2015	21:15	2014	2015	20
+PaÃ§os de Ferreira	FC Penafiel	0:0	2:1	08.02.2015	17:00	2014	2015	20
+CS MarÃ­timo	Gil Vicente	1:1	1:2	08.02.2015	17:00	2014	2015	20
+FC Arouca	CD Nacional	1:2	3:3	08.02.2015	17:00	2014	2015	20
+VitÃ³ria GuimarÃ£es	Os Belenenses	0:0	0:1	08.02.2015	17:00	2014	2015	20
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	0:0	0:0	08.02.2015	17:00	2014	2015	20
+GD Estoril	Sporting Braga	0:0	0:2	08.02.2015	19:00	2014	2015	20
+Sporting CP	SL Benfica	0:0	1:1	08.02.2015	21:00	2014	2015	20
+Boavista	Rio Ave FC	0:1	1:1	09.02.2015	21:00	2014	2015	20
+FC Porto	VitÃ³ria GuimarÃ£es	1:0	1:0	13.02.2015	21:30	2014	2015	21
+Gil Vicente	PaÃ§os de Ferreira	0:0	1:0	14.02.2015	19:00	2014	2015	21
+Os Belenenses	Sporting CP	0:0	1:1	14.02.2015	21:15	2014	2015	21
+FC Penafiel	CS MarÃ­timo	2:1	3:4	15.02.2015	17:00	2014	2015	21
+Rio Ave FC	Moreirense FC	1:1	1:1	15.02.2015	17:00	2014	2015	21
+AcadÃ©mica de Coimbra	Boavista	0:0	0:0	15.02.2015	18:00	2014	2015	21
+SL Benfica	VitÃ³ria SetÃºbal	2:0	3:0	15.02.2015	18:00	2014	2015	21
+Sporting Braga	FC Arouca	1:0	2:0	15.02.2015	20:15	2014	2015	21
+CD Nacional	GD Estoril	0:0	1:0	16.02.2015	21:00	2014	2015	21
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	1:1	2:2	20.02.2015	21:30	2014	2015	22
+Sporting Braga	CD Nacional	0:1	3:1	21.02.2015	18:00	2014	2015	22
+VitÃ³ria SetÃºbal	FC Penafiel	0:0	0:1	21.02.2015	19:00	2014	2015	22
+Moreirense FC	SL Benfica	1:0	1:3	21.02.2015	20:00	2014	2015	22
+FC Arouca	Rio Ave FC	1:0	1:0	22.02.2015	17:00	2014	2015	22
+CS MarÃ­timo	Os Belenenses	1:1	1:2	22.02.2015	17:15	2014	2015	22
+GD Estoril	AcadÃ©mica de Coimbra	0:1	1:2	22.02.2015	18:00	2014	2015	22
+Sporting CP	Gil Vicente	0:0	2:0	22.02.2015	19:15	2014	2015	22
+Boavista	FC Porto	0:0	0:2	23.02.2015	21:00	2014	2015	22
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	1:0	1:0	27.02.2015	21:30	2014	2015	23
+Gil Vicente	Boavista	0:0	1:1	28.02.2015	17:00	2014	2015	23
+SL Benfica	GD Estoril	4:0	6:0	28.02.2015	18:00	2014	2015	23
+Rio Ave FC	Sporting Braga	0:0	0:2	28.02.2015	21:15	2014	2015	23
+FC Penafiel	Moreirense FC	1:0	1:2	01.03.2015	17:00	2014	2015	23
+CD Nacional	VitÃ³ria SetÃºbal	2:0	3:0	01.03.2015	17:00	2014	2015	23
+AcadÃ©mica de Coimbra	FC Arouca	1:0	1:1	01.03.2015	17:00	2014	2015	23
+FC Porto	Sporting CP	1:0	3:0	01.03.2015	20:15	2014	2015	23
+Os Belenenses	PaÃ§os de Ferreira	0:1	0:1	02.03.2015	21:00	2014	2015	23
+Sporting Braga	FC Porto	0:0	0:1	06.03.2015	21:30	2014	2015	24
+VitÃ³ria SetÃºbal	Os Belenenses	1:1	1:1	07.03.2015	20:15	2014	2015	24
+FC Arouca	SL Benfica	1:0	1:3	08.03.2015	17:00	2014	2015	24
+Moreirense FC	AcadÃ©mica de Coimbra	0:0	0:2	08.03.2015	17:00	2014	2015	24
+CS MarÃ­timo	PaÃ§os de Ferreira	1:1	2:1	08.03.2015	17:00	2014	2015	24
+GD Estoril	Gil Vicente	1:0	1:1	08.03.2015	18:00	2014	2015	24
+Boavista	VitÃ³ria GuimarÃ£es	0:1	3:1	08.03.2015	20:15	2014	2015	24
+Rio Ave FC	CD Nacional	0:0	1:1	09.03.2015	19:00	2014	2015	24
+Sporting CP	FC Penafiel	2:2	3:2	09.03.2015	21:00	2014	2015	24
+PaÃ§os de Ferreira	Boavista	1:0	1:0	13.03.2015	21:30	2014	2015	25
+SL Benfica	Sporting Braga	1:0	2:0	14.03.2015	18:00	2014	2015	25
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	0:0	0:1	14.03.2015	20:00	2014	2015	25
+Os Belenenses	GD Estoril	1:1	2:2	14.03.2015	22:00	2014	2015	25
+Gil Vicente	Moreirense FC	0:0	0:1	15.03.2015	17:00	2014	2015	25
+FC Penafiel	Rio Ave FC	0:0	0:2	15.03.2015	17:00	2014	2015	25
+AcadÃ©mica de Coimbra	CD Nacional	1:0	2:1	15.03.2015	17:00	2014	2015	25
+CS MarÃ­timo	Sporting CP	0:1	0:1	15.03.2015	18:00	2014	2015	25
+FC Porto	FC Arouca	1:0	1:0	15.03.2015	20:15	2014	2015	25
+Sporting Braga	AcadÃ©mica de Coimbra	0:0	0:0	20.03.2015	21:30	2014	2015	26
+GD Estoril	FC Penafiel	1:2	3:3	21.03.2015	17:00	2014	2015	26
+Rio Ave FC	SL Benfica	0:1	2:1	21.03.2015	19:00	2014	2015	26
+CD Nacional	FC Porto	0:1	1:1	21.03.2015	21:15	2014	2015	26
+FC Arouca	Gil Vicente	1:0	3:1	22.03.2015	17:00	2014	2015	26
+Moreirense FC	CS MarÃ­timo	1:0	1:1	22.03.2015	17:00	2014	2015	26
+Boavista	Os Belenenses	0:0	1:0	22.03.2015	17:00	2014	2015	26
+Sporting CP	VitÃ³ria GuimarÃ£es	3:0	4:1	22.03.2015	19:00	2014	2015	26
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	0:0	0:0	23.03.2015	21:00	2014	2015	26
+AcadÃ©mica de Coimbra	Rio Ave FC	0:0	0:0	03.04.2015	17:00	2014	2015	27
+VitÃ³ria GuimarÃ£es	FC Arouca	0:0	1:0	03.04.2015	19:00	2014	2015	27
+Gil Vicente	Sporting Braga	0:2	0:2	03.04.2015	21:30	2014	2015	27
+FC Penafiel	Boavista	0:1	2:2	04.04.2015	17:00	2014	2015	27
+SL Benfica	CD Nacional	2:0	3:1	04.04.2015	18:00	2014	2015	27
+Os Belenenses	Moreirense FC	2:0	2:0	04.04.2015	19:00	2014	2015	27
+PaÃ§os de Ferreira	Sporting CP	0:1	1:1	04.04.2015	21:15	2014	2015	27
+CS MarÃ­timo	VitÃ³ria SetÃºbal	0:0	1:1	06.04.2015	19:00	2014	2015	27
+FC Porto	GD Estoril	2:0	5:0	06.04.2015	21:00	2014	2015	27
+FC Arouca	Os Belenenses	0:0	0:1	10.04.2015	21:30	2014	2015	28
+Boavista	CS MarÃ­timo	0:0	0:2	11.04.2015	17:00	2014	2015	28
+SL Benfica	AcadÃ©mica de Coimbra	3:0	5:1	11.04.2015	18:00	2014	2015	28
+Rio Ave FC	FC Porto	0:2	1:3	11.04.2015	19:00	2014	2015	28
+Moreirense FC	VitÃ³ria GuimarÃ£es	0:1	2:1	11.04.2015	21:15	2014	2015	28
+CD Nacional	Gil Vicente	1:0	3:2	12.04.2015	17:00	2014	2015	28
+Sporting Braga	FC Penafiel	1:0	4:0	12.04.2015	18:00	2014	2015	28
+VitÃ³ria SetÃºbal	Sporting CP	0:2	1:2	12.04.2015	20:15	2014	2015	28
+GD Estoril	PaÃ§os de Ferreira	0:0	1:0	13.04.2015	21:00	2014	2015	28
+VitÃ³ria GuimarÃ£es	Sporting Braga	0:0	1:0	17.04.2015	21:30	2014	2015	29
+Os Belenenses	SL Benfica	0:1	0:2	18.04.2015	19:00	2014	2015	29
+FC Porto	AcadÃ©mica de Coimbra	1:0	1:0	18.04.2015	19:00	2014	2015	29
+PaÃ§os de Ferreira	Moreirense FC	0:0	0:0	19.04.2015	17:00	2014	2015	29
+Gil Vicente	Rio Ave FC	0:0	0:0	19.04.2015	17:00	2014	2015	29
+FC Penafiel	FC Arouca	0:1	0:2	19.04.2015	17:00	2014	2015	29
+VitÃ³ria SetÃºbal	GD Estoril	1:0	1:2	19.04.2015	18:00	2014	2015	29
+Sporting CP	Boavista	1:1	2:1	19.04.2015	19:00	2014	2015	29
+CS MarÃ­timo	CD Nacional	1:0	1:1	20.04.2015	21:00	2014	2015	29
+Sporting Braga	Os Belenenses	0:1	1:1	24.04.2015	21:30	2014	2015	30
+AcadÃ©mica de Coimbra	Gil Vicente	1:1	1:2	25.04.2015	18:00	2014	2015	30
+GD Estoril	CS MarÃ­timo	0:0	1:1	25.04.2015	19:00	2014	2015	30
+Rio Ave FC	VitÃ³ria GuimarÃ£es	0:1	1:1	25.04.2015	21:15	2014	2015	30
+FC Arouca	PaÃ§os de Ferreira	0:1	1:3	26.04.2015	17:00	2014	2015	30
+CD Nacional	FC Penafiel	1:0	2:0	26.04.2015	17:00	2014	2015	30
+SL Benfica	FC Porto	0:0	0:0	26.04.2015	18:00	2014	2015	30
+Boavista	VitÃ³ria SetÃºbal	0:0	0:0	26.04.2015	20:15	2014	2015	30
+Moreirense FC	Sporting CP	1:3	1:4	27.04.2015	21:00	2014	2015	30
+VitÃ³ria GuimarÃ£es	GD Estoril	1:0	2:0	01.05.2015	21:30	2014	2015	31
+Gil Vicente	SL Benfica	0:2	0:5	02.05.2015	19:00	2014	2015	31
+Sporting CP	CD Nacional	0:0	2:0	02.05.2015	21:15	2014	2015	31
+Boavista	Moreirense FC	1:0	3:1	03.05.2015	17:00	2014	2015	31
+FC Penafiel	AcadÃ©mica de Coimbra	0:0	0:0	03.05.2015	17:00	2014	2015	31
+CS MarÃ­timo	FC Arouca	0:0	1:1	03.05.2015	17:00	2014	2015	31
+VitÃ³ria SetÃºbal	FC Porto	0:1	0:2	03.05.2015	20:15	2014	2015	31
+Os Belenenses	Rio Ave FC	0:2	1:3	04.05.2015	20:45	2014	2015	31
+PaÃ§os de Ferreira	Sporting Braga	0:1	2:2	04.05.2015	21:00	2014	2015	31
+Rio Ave FC	PaÃ§os de Ferreira	0:0	0:0	09.05.2015	17:00	2014	2015	32
+SL Benfica	FC Penafiel	2:0	4:0	09.05.2015	18:00	2014	2015	32
+AcadÃ©mica de Coimbra	Os Belenenses	0:0	1:1	09.05.2015	19:30	2014	2015	32
+Sporting Braga	CS MarÃ­timo	1:1	1:3	09.05.2015	21:30	2014	2015	32
+Moreirense FC	VitÃ³ria SetÃºbal	1:0	3:1	10.05.2015	17:00	2014	2015	32
+FC Arouca	Boavista	0:0	0:0	10.05.2015	17:00	2014	2015	32
+GD Estoril	Sporting CP	1:0	1:1	10.05.2015	18:00	2014	2015	32
+FC Porto	Gil Vicente	1:0	2:0	10.05.2015	20:15	2014	2015	32
+CD Nacional	VitÃ³ria GuimarÃ£es	1:2	2:2	11.05.2015	21:00	2014	2015	32
+FC Penafiel	Gil Vicente	0:0	2:1	17.05.2015	19:00	2014	2015	33
+CS MarÃ­timo	Rio Ave FC	1:0	4:0	17.05.2015	19:00	2014	2015	33
+Moreirense FC	GD Estoril	0:0	1:1	17.05.2015	19:00	2014	2015	33
+Os Belenenses	FC Porto	0:1	1:1	17.05.2015	19:00	2014	2015	33
+Sporting CP	Sporting Braga	1:1	4:1	17.05.2015	19:00	2014	2015	33
+VitÃ³ria SetÃºbal	FC Arouca	2:0	2:1	17.05.2015	19:00	2014	2015	33
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	1:0	3:2	17.05.2015	19:00	2014	2015	33
+VitÃ³ria GuimarÃ£es	SL Benfica	0:0	0:0	17.05.2015	19:00	2014	2015	33
+Boavista	CD Nacional	0:1	0:1	18.05.2015	21:00	2014	2015	33
+FC Porto	FC Penafiel	0:0	2:0	22.05.2015	21:30	2014	2015	34
+GD Estoril	Boavista	1:0	2:0	23.05.2015	18:00	2014	2015	34
+FC Arouca	Moreirense FC	0:2	1:2	23.05.2015	19:00	2014	2015	34
+Rio Ave FC	Sporting CP	0:0	0:1	23.05.2015	19:00	2014	2015	34
+CD Nacional	PaÃ§os de Ferreira	2:0	3:0	23.05.2015	19:00	2014	2015	34
+Gil Vicente	Os Belenenses	0:0	0:2	23.05.2015	19:00	2014	2015	34
+SL Benfica	CS MarÃ­timo	2:1	4:1	23.05.2015	19:00	2014	2015	34
+Sporting Braga	VitÃ³ria SetÃºbal	3:0	5:0	23.05.2015	21:15	2014	2015	34
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	1:1	2:4	23.05.2015	21:15	2014	2015	34

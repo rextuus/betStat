@@ -1,0 +1,306 @@
+FC Schalke 04	Bor. MÃ¶nchengladbach	1:0	1:1	19.08.1994	20:00	1994	1995	1
+VfB Stuttgart	Hamburger SV	0:0	2:1	19.08.1994	20:00	1994	1995	1
+Bayer Leverkusen	1. FC Kaiserslautern	0:0	0:1	19.08.1994	20:00	1994	1995	1
+Dynamo Dresden	Werder Bremen	1:1	1:1	20.08.1994	15:30	1994	1995	1
+Bayern MÃ¼nchen	VfL Bochum	0:0	3:1	20.08.1994	15:30	1994	1995	1
+Karlsruher SC	SC Freiburg	1:0	2:0	20.08.1994	15:30	1994	1995	1
+Bayer 05 Uerdingen	MSV Duisburg	0:1	1:1	20.08.1994	15:30	1994	1995	1
+Borussia Dortmund	TSV 1860 MÃ¼nchen	2:0	4:0	20.08.1994	15:30	1994	1995	1
+Eintracht Frankfurt	1. FC KÃ¶ln	0:0	0:0	20.08.1994	15:30	1994	1995	1
+SC Freiburg	Bayern MÃ¼nchen	3:1	5:1	23.08.1994	19:30	1994	1995	2
+TSV 1860 MÃ¼nchen	VfB Stuttgart	0:0	0:2	23.08.1994	20:00	1994	1995	2
+VfL Bochum	Dynamo Dresden	1:0	2:0	23.08.1994	20:00	1994	1995	2
+1. FC KÃ¶ln	Borussia Dortmund	1:3	1:6	23.08.1994	20:00	1994	1995	2
+1. FC Kaiserslautern	Eintracht Frankfurt	0:0	1:1	23.08.1994	20:15	1994	1995	2
+MSV Duisburg	FC Schalke 04	0:1	2:2	24.08.1994	18:00	1994	1995	2
+Hamburger SV	Bayer 05 Uerdingen	0:0	0:0	24.08.1994	20:00	1994	1995	2
+Bor. MÃ¶nchengladbach	Karlsruher SC	0:0	2:2	24.08.1994	20:00	1994	1995	2
+Werder Bremen	Bayer Leverkusen	3:1	3:2	24.08.1994	20:00	1994	1995	2
+Dynamo Dresden	SC Freiburg	0:1	1:3	26.08.1994	20:00	1994	1995	3
+Borussia Dortmund	1. FC Kaiserslautern	1:0	2:1	26.08.1994	20:00	1994	1995	3
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	2:0	3:0	27.08.1994	15:30	1994	1995	3
+Karlsruher SC	MSV Duisburg	2:1	4:1	27.08.1994	15:30	1994	1995	3
+FC Schalke 04	Hamburger SV	0:0	0:1	27.08.1994	15:30	1994	1995	3
+Bayer 05 Uerdingen	TSV 1860 MÃ¼nchen	1:0	1:1	27.08.1994	15:30	1994	1995	3
+VfB Stuttgart	1. FC KÃ¶ln	2:1	2:2	27.08.1994	15:30	1994	1995	3
+Werder Bremen	VfL Bochum	0:0	3:0	27.08.1994	15:30	1994	1995	3
+Bayer Leverkusen	Eintracht Frankfurt	2:0	4:0	28.08.1994	18:00	1994	1995	3
+MSV Duisburg	Bayern MÃ¼nchen	0:3	0:3	02.09.1994	19:30	1994	1995	4
+SC Freiburg	Werder Bremen	1:2	1:3	02.09.1994	19:30	1994	1995	4
+Bor. MÃ¶nchengladbach	Dynamo Dresden	0:0	2:0	02.09.1994	20:00	1994	1995	4
+1. FC Kaiserslautern	VfB Stuttgart	2:1	3:2	03.09.1994	15:30	1994	1995	4
+TSV 1860 MÃ¼nchen	FC Schalke 04	0:1	0:1	03.09.1994	15:30	1994	1995	4
+Hamburger SV	Karlsruher SC	0:1	3:1	03.09.1994	15:30	1994	1995	4
+VfL Bochum	Bayer Leverkusen	0:1	1:3	03.09.1994	15:30	1994	1995	4
+Eintracht Frankfurt	Borussia Dortmund	1:1	4:1	03.09.1994	15:30	1994	1995	4
+1. FC KÃ¶ln	Bayer 05 Uerdingen	0:0	2:0	03.09.1994	15:30	1994	1995	4
+Karlsruher SC	TSV 1860 MÃ¼nchen	2:0	3:1	16.09.1994	20:00	1994	1995	5
+VfL Bochum	SC Freiburg	0:2	1:3	16.09.1994	20:00	1994	1995	5
+Dynamo Dresden	MSV Duisburg	1:1	4:2	17.09.1994	15:30	1994	1995	5
+Bayern MÃ¼nchen	Hamburger SV	0:1	1:1	17.09.1994	15:30	1994	1995	5
+FC Schalke 04	1. FC KÃ¶ln	1:1	3:1	17.09.1994	15:30	1994	1995	5
+Bayer 05 Uerdingen	1. FC Kaiserslautern	0:1	1:3	17.09.1994	15:30	1994	1995	5
+Werder Bremen	Bor. MÃ¶nchengladbach	1:0	1:0	17.09.1994	15:30	1994	1995	5
+Bayer Leverkusen	Borussia Dortmund	1:1	2:2	17.09.1994	15:30	1994	1995	5
+VfB Stuttgart	Eintracht Frankfurt	2:1	4:1	18.09.1994	18:00	1994	1995	5
+TSV 1860 MÃ¼nchen	Bayern MÃ¼nchen	0:1	1:3	21.09.1994	20:15	1994	1995	6
+MSV Duisburg	Werder Bremen	0:1	0:2	23.09.1994	19:30	1994	1995	6
+Eintracht Frankfurt	Bayer 05 Uerdingen	0:2	0:3	23.09.1994	20:00	1994	1995	6
+1. FC Kaiserslautern	FC Schalke 04	1:1	3:1	24.09.1994	15:30	1994	1995	6
+Hamburger SV	Dynamo Dresden	0:0	2:1	24.09.1994	15:30	1994	1995	6
+Bor. MÃ¶nchengladbach	VfL Bochum	4:0	7:1	24.09.1994	15:30	1994	1995	6
+SC Freiburg	Bayer Leverkusen	1:1	1:1	24.09.1994	15:30	1994	1995	6
+Borussia Dortmund	VfB Stuttgart	3:0	5:0	24.09.1994	15:30	1994	1995	6
+1. FC KÃ¶ln	Karlsruher SC	2:2	3:4	24.09.1994	15:30	1994	1995	6
+Dynamo Dresden	TSV 1860 MÃ¼nchen	1:0	1:1	30.09.1994	20:00	1994	1995	7
+VfL Bochum	MSV Duisburg	0:0	1:0	30.09.1994	20:00	1994	1995	7
+Bayern MÃ¼nchen	1. FC KÃ¶ln	0:2	2:2	01.10.1994	15:30	1994	1995	7
+Karlsruher SC	1. FC Kaiserslautern	0:3	3:3	01.10.1994	15:30	1994	1995	7
+FC Schalke 04	Eintracht Frankfurt	0:0	0:0	01.10.1994	15:30	1994	1995	7
+Bayer 05 Uerdingen	Borussia Dortmund	0:0	0:2	01.10.1994	15:30	1994	1995	7
+Bayer Leverkusen	VfB Stuttgart	1:0	3:1	01.10.1994	15:30	1994	1995	7
+SC Freiburg	Bor. MÃ¶nchengladbach	1:1	1:1	02.10.1994	18:00	1994	1995	7
+Werder Bremen	Hamburger SV	1:3	1:4	06.10.1994	20:00	1994	1995	7
+1. FC Kaiserslautern	Bayern MÃ¼nchen	1:0	1:1	05.10.1994	20:15	1994	1995	8
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	0:2	3:3	07.10.1994	20:00	1994	1995	8
+Eintracht Frankfurt	Karlsruher SC	0:0	1:0	07.10.1994	20:00	1994	1995	8
+MSV Duisburg	SC Freiburg	0:0	1:2	08.10.1994	15:30	1994	1995	8
+VfB Stuttgart	Bayer 05 Uerdingen	1:0	3:1	08.10.1994	15:30	1994	1995	8
+Borussia Dortmund	FC Schalke 04	2:1	3:2	08.10.1994	15:30	1994	1995	8
+1. FC KÃ¶ln	Dynamo Dresden	0:1	1:2	08.10.1994	15:30	1994	1995	8
+TSV 1860 MÃ¼nchen	Werder Bremen	1:1	1:2	09.10.1994	18:00	1994	1995	8
+Hamburger SV	VfL Bochum	2:1	3:1	09.10.1994	18:00	1994	1995	8
+SC Freiburg	Hamburger SV	2:0	3:0	14.10.1994	19:30	1994	1995	9
+VfL Bochum	TSV 1860 MÃ¼nchen	1:0	2:2	14.10.1994	20:00	1994	1995	9
+Dynamo Dresden	1. FC Kaiserslautern	1:0	1:0	15.10.1994	15:30	1994	1995	9
+Bayern MÃ¼nchen	Eintracht Frankfurt	1:1	3:3	15.10.1994	15:30	1994	1995	9
+Karlsruher SC	Borussia Dortmund	0:0	0:0	15.10.1994	15:30	1994	1995	9
+FC Schalke 04	VfB Stuttgart	1:1	1:1	15.10.1994	15:30	1994	1995	9
+Bor. MÃ¶nchengladbach	MSV Duisburg	1:0	1:0	15.10.1994	15:30	1994	1995	9
+Werder Bremen	1. FC KÃ¶ln	1:0	2:2	15.10.1994	15:30	1994	1995	9
+Bayer Leverkusen	Bayer 05 Uerdingen	1:1	1:1	15.10.1994	15:30	1994	1995	9
+Hamburger SV	Bor. MÃ¶nchengladbach	1:0	1:2	21.10.1994	20:00	1994	1995	10
+1. FC KÃ¶ln	VfL Bochum	2:1	2:1	21.10.1994	20:00	1994	1995	10
+TSV 1860 MÃ¼nchen	SC Freiburg	2:0	4:0	22.10.1994	15:30	1994	1995	10
+MSV Duisburg	Bayer Leverkusen	0:1	0:2	22.10.1994	15:30	1994	1995	10
+Bayer 05 Uerdingen	FC Schalke 04	0:0	1:1	22.10.1994	15:30	1994	1995	10
+VfB Stuttgart	Karlsruher SC	2:0	4:0	22.10.1994	15:30	1994	1995	10
+Borussia Dortmund	Bayern MÃ¼nchen	0:0	1:0	22.10.1994	15:30	1994	1995	10
+Eintracht Frankfurt	Dynamo Dresden	0:0	2:0	22.10.1994	15:30	1994	1995	10
+1. FC Kaiserslautern	Werder Bremen	0:0	1:1	23.10.1994	18:00	1994	1995	10
+Karlsruher SC	Bayer 05 Uerdingen	1:1	2:1	28.10.1994	20:00	1994	1995	11
+VfL Bochum	1. FC Kaiserslautern	0:2	0:2	28.10.1994	20:00	1994	1995	11
+Dynamo Dresden	Borussia Dortmund	0:1	0:1	29.10.1994	15:30	1994	1995	11
+Bayern MÃ¼nchen	VfB Stuttgart	0:1	2:2	29.10.1994	15:30	1994	1995	11
+Bor. MÃ¶nchengladbach	TSV 1860 MÃ¼nchen	0:0	2:0	29.10.1994	15:30	1994	1995	11
+SC Freiburg	1. FC KÃ¶ln	1:0	4:2	29.10.1994	15:30	1994	1995	11
+Werder Bremen	Eintracht Frankfurt	1:0	2:0	29.10.1994	15:30	1994	1995	11
+Bayer Leverkusen	FC Schalke 04	0:0	2:2	29.10.1994	15:30	1994	1995	11
+MSV Duisburg	Hamburger SV	0:2	0:5	30.10.1994	18:00	1994	1995	11
+FC Schalke 04	Karlsruher SC	0:0	0:0	04.11.1994	20:00	1994	1995	12
+VfB Stuttgart	Dynamo Dresden	1:1	4:2	04.11.1994	20:00	1994	1995	12
+1. FC Kaiserslautern	SC Freiburg	2:1	3:2	05.11.1994	15:30	1994	1995	12
+TSV 1860 MÃ¼nchen	MSV Duisburg	1:1	1:1	05.11.1994	15:30	1994	1995	12
+Hamburger SV	Bayer Leverkusen	1:0	1:2	05.11.1994	15:30	1994	1995	12
+Bayer 05 Uerdingen	Bayern MÃ¼nchen	0:0	1:1	05.11.1994	15:30	1994	1995	12
+Eintracht Frankfurt	VfL Bochum	1:0	2:1	05.11.1994	15:30	1994	1995	12
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	1:1	1:3	05.11.1994	15:30	1994	1995	12
+Borussia Dortmund	Werder Bremen	0:0	2:0	06.11.1994	20:00	1994	1995	12
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	1:0	4:0	11.11.1994	20:00	1994	1995	13
+VfL Bochum	Borussia Dortmund	0:1	0:2	11.11.1994	20:00	1994	1995	13
+Dynamo Dresden	Bayer 05 Uerdingen	1:1	1:2	12.11.1994	15:30	1994	1995	13
+Bayern MÃ¼nchen	FC Schalke 04	0:0	2:0	12.11.1994	15:30	1994	1995	13
+MSV Duisburg	1. FC KÃ¶ln	1:1	1:3	12.11.1994	15:30	1994	1995	13
+SC Freiburg	Eintracht Frankfurt	0:0	2:0	12.11.1994	15:30	1994	1995	13
+Werder Bremen	VfB Stuttgart	2:0	4:0	12.11.1994	15:30	1994	1995	13
+Bayer Leverkusen	Karlsruher SC	0:0	0:0	12.11.1994	15:30	1994	1995	13
+Hamburger SV	TSV 1860 MÃ¼nchen	1:0	3:0	13.11.1994	18:00	1994	1995	13
+FC Schalke 04	Dynamo Dresden	2:0	4:0	18.11.1994	20:00	1994	1995	14
+1. FC KÃ¶ln	Hamburger SV	1:0	1:1	18.11.1994	20:00	1994	1995	14
+1. FC Kaiserslautern	MSV Duisburg	0:0	1:0	19.11.1994	15:30	1994	1995	14
+TSV 1860 MÃ¼nchen	Bayer Leverkusen	0:0	1:1	19.11.1994	15:30	1994	1995	14
+Karlsruher SC	Bayern MÃ¼nchen	0:0	2:2	19.11.1994	15:30	1994	1995	14
+Bayer 05 Uerdingen	Werder Bremen	0:2	1:3	19.11.1994	15:30	1994	1995	14
+VfB Stuttgart	VfL Bochum	1:1	2:2	19.11.1994	15:30	1994	1995	14
+Borussia Dortmund	SC Freiburg	0:0	1:1	19.11.1994	15:30	1994	1995	14
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	0:0	2:1	19.11.1994	15:30	1994	1995	14
+VfL Bochum	Bayer 05 Uerdingen	1:0	2:1	25.11.1994	20:00	1994	1995	15
+Werder Bremen	FC Schalke 04	0:0	2:1	25.11.1994	20:00	1994	1995	15
+Dynamo Dresden	Karlsruher SC	0:0	1:1	26.11.1994	15:30	1994	1995	15
+Bayern MÃ¼nchen	Bayer Leverkusen	1:1	2:1	26.11.1994	15:30	1994	1995	15
+Hamburger SV	1. FC Kaiserslautern	0:0	0:0	26.11.1994	15:30	1994	1995	15
+Bor. MÃ¶nchengladbach	Borussia Dortmund	1:3	3:3	26.11.1994	15:30	1994	1995	15
+SC Freiburg	VfB Stuttgart	0:0	2:0	26.11.1994	15:30	1994	1995	15
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	0:0	2:1	26.11.1994	15:30	1994	1995	15
+MSV Duisburg	Eintracht Frankfurt	1:0	1:0	27.11.1994	18:00	1994	1995	15
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	0:0	1:1	02.12.1994	20:00	1994	1995	16
+Borussia Dortmund	MSV Duisburg	1:0	1:0	02.12.1994	20:00	1994	1995	16
+Bayern MÃ¼nchen	Dynamo Dresden	0:0	2:1	03.12.1994	15:30	1994	1995	16
+Karlsruher SC	Werder Bremen	1:1	3:1	03.12.1994	15:30	1994	1995	16
+Bayer 05 Uerdingen	SC Freiburg	0:1	0:2	03.12.1994	15:30	1994	1995	16
+VfB Stuttgart	Bor. MÃ¶nchengladbach	2:0	2:4	03.12.1994	15:30	1994	1995	16
+Eintracht Frankfurt	Hamburger SV	1:0	2:0	03.12.1994	15:30	1994	1995	16
+Bayer Leverkusen	1. FC KÃ¶ln	2:1	3:1	03.12.1994	15:30	1994	1995	16
+FC Schalke 04	VfL Bochum	2:1	3:2	04.12.1994	18:00	1994	1995	16
+Bor. MÃ¶nchengladbach	Bayer 05 Uerdingen	1:0	1:0	29.11.1994	20:00	1994	1995	17
+VfL Bochum	Karlsruher SC	0:1	0:1	29.11.1994	20:00	1994	1995	17
+1. FC KÃ¶ln	1. FC Kaiserslautern	0:1	0:1	29.11.1994	20:00	1994	1995	17
+SC Freiburg	FC Schalke 04	1:0	3:0	09.12.1994	19:30	1994	1995	17
+Dynamo Dresden	Bayer Leverkusen	0:0	1:1	10.12.1994	15:30	1994	1995	17
+TSV 1860 MÃ¼nchen	Eintracht Frankfurt	1:0	2:1	10.12.1994	15:30	1994	1995	17
+Hamburger SV	Borussia Dortmund	0:0	0:4	10.12.1994	15:30	1994	1995	17
+MSV Duisburg	VfB Stuttgart	0:0	2:0	10.12.1994	15:30	1994	1995	17
+Werder Bremen	Bayern MÃ¼nchen	0:0	0:0	10.12.1994	15:30	1994	1995	17
+MSV Duisburg	Bayer 05 Uerdingen	1:0	2:0	17.02.1995	19:30	1994	1995	18
+SC Freiburg	Karlsruher SC	1:1	2:1	17.02.1995	20:00	1994	1995	18
+1. FC KÃ¶ln	Eintracht Frankfurt	1:0	3:0	17.02.1995	20:00	1994	1995	18
+Werder Bremen	Dynamo Dresden	1:0	1:0	18.02.1995	15:30	1994	1995	18
+VfL Bochum	Bayern MÃ¼nchen	0:1	1:2	18.02.1995	15:30	1994	1995	18
+Bor. MÃ¶nchengladbach	FC Schalke 04	0:0	0:1	18.02.1995	15:30	1994	1995	18
+Hamburger SV	VfB Stuttgart	0:2	0:2	18.02.1995	15:30	1994	1995	18
+TSV 1860 MÃ¼nchen	Borussia Dortmund	0:1	1:5	18.02.1995	15:30	1994	1995	18
+1. FC Kaiserslautern	Bayer Leverkusen	0:0	1:0	18.02.1995	15:30	1994	1995	18
+Bayer 05 Uerdingen	Hamburger SV	3:1	4:1	24.02.1995	20:00	1994	1995	19
+Dynamo Dresden	VfL Bochum	0:1	0:2	24.02.1995	20:00	1994	1995	19
+Eintracht Frankfurt	1. FC Kaiserslautern	0:0	1:3	25.02.1995	15:30	1994	1995	19
+VfB Stuttgart	TSV 1860 MÃ¼nchen	1:1	1:1	25.02.1995	15:30	1994	1995	19
+FC Schalke 04	MSV Duisburg	0:0	0:0	25.02.1995	15:30	1994	1995	19
+Bayern MÃ¼nchen	SC Freiburg	1:2	2:2	25.02.1995	15:30	1994	1995	19
+Bayer Leverkusen	Werder Bremen	1:1	1:2	25.02.1995	15:30	1994	1995	19
+Borussia Dortmund	1. FC KÃ¶ln	2:0	2:1	25.02.1995	15:30	1994	1995	19
+Karlsruher SC	Bor. MÃ¶nchengladbach	1:1	2:4	26.02.1995	18:00	1994	1995	19
+MSV Duisburg	Karlsruher SC	0:0	0:0	03.03.1995	19:30	1994	1995	20
+VfL Bochum	Werder Bremen	1:2	1:3	03.03.1995	20:00	1994	1995	20
+SC Freiburg	Dynamo Dresden	2:1	3:1	04.03.1995	15:30	1994	1995	20
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	1:1	2:2	04.03.1995	15:30	1994	1995	20
+Hamburger SV	FC Schalke 04	1:0	3:0	04.03.1995	15:30	1994	1995	20
+1. FC Kaiserslautern	Borussia Dortmund	1:0	1:0	04.03.1995	15:30	1994	1995	20
+Eintracht Frankfurt	Bayer Leverkusen	0:0	2:0	04.03.1995	15:30	1994	1995	20
+1. FC KÃ¶ln	VfB Stuttgart	0:0	1:0	05.03.1995	18:00	1994	1995	20
+TSV 1860 MÃ¼nchen	Bayer 05 Uerdingen	0:1	1:1	21.03.1995	20:00	1994	1995	20
+Bayern MÃ¼nchen	MSV Duisburg	1:0	1:1	10.03.1995	20:00	1994	1995	21
+Werder Bremen	SC Freiburg	3:0	5:1	10.03.1995	20:00	1994	1995	21
+VfB Stuttgart	1. FC Kaiserslautern	1:0	2:2	11.03.1995	15:30	1994	1995	21
+Karlsruher SC	Hamburger SV	1:0	2:0	11.03.1995	15:30	1994	1995	21
+Dynamo Dresden	Bor. MÃ¶nchengladbach	0:1	0:3	11.03.1995	15:30	1994	1995	21
+Bayer Leverkusen	VfL Bochum	0:3	1:3	11.03.1995	15:30	1994	1995	21
+Borussia Dortmund	Eintracht Frankfurt	1:1	1:1	11.03.1995	15:30	1994	1995	21
+Bayer 05 Uerdingen	1. FC KÃ¶ln	0:0	0:0	11.03.1995	15:30	1994	1995	21
+FC Schalke 04	TSV 1860 MÃ¼nchen	3:0	6:2	12.03.1995	18:00	1994	1995	21
+1. FC Kaiserslautern	Bayer 05 Uerdingen	1:1	1:1	17.03.1995	20:00	1994	1995	22
+Bor. MÃ¶nchengladbach	Werder Bremen	0:0	2:0	17.03.1995	20:00	1994	1995	22
+Hamburger SV	Bayern MÃ¼nchen	0:0	1:1	18.03.1995	15:30	1994	1995	22
+TSV 1860 MÃ¼nchen	Karlsruher SC	1:0	1:0	18.03.1995	15:30	1994	1995	22
+1. FC KÃ¶ln	FC Schalke 04	3:1	5:1	18.03.1995	15:30	1994	1995	22
+Eintracht Frankfurt	VfB Stuttgart	0:1	2:2	18.03.1995	15:30	1994	1995	22
+SC Freiburg	VfL Bochum	0:1	1:2	18.03.1995	15:30	1994	1995	22
+Borussia Dortmund	Bayer Leverkusen	0:1	0:3	18.03.1995	15:30	1994	1995	22
+MSV Duisburg	Dynamo Dresden	1:0	1:1	19.03.1995	18:00	1994	1995	22
+Werder Bremen	MSV Duisburg	3:0	5:1	24.03.1995	20:00	1994	1995	23
+Bayer Leverkusen	SC Freiburg	1:2	2:4	24.03.1995	20:00	1994	1995	23
+Bayer 05 Uerdingen	Eintracht Frankfurt	0:0	1:1	24.03.1995	20:00	1994	1995	23
+FC Schalke 04	1. FC Kaiserslautern	0:1	0:1	25.03.1995	15:30	1994	1995	23
+Bayern MÃ¼nchen	TSV 1860 MÃ¼nchen	1:0	1:0	25.03.1995	15:30	1994	1995	23
+Dynamo Dresden	Hamburger SV	0:0	1:1	25.03.1995	15:30	1994	1995	23
+VfL Bochum	Bor. MÃ¶nchengladbach	0:1	0:2	25.03.1995	15:30	1994	1995	23
+VfB Stuttgart	Borussia Dortmund	0:0	0:0	25.03.1995	15:30	1994	1995	23
+Karlsruher SC	1. FC KÃ¶ln	0:0	0:0	25.03.1995	15:30	1994	1995	23
+MSV Duisburg	VfL Bochum	1:1	3:1	31.03.1995	19:30	1994	1995	24
+Eintracht Frankfurt	FC Schalke 04	0:0	0:3	31.03.1995	20:00	1994	1995	24
+TSV 1860 MÃ¼nchen	Dynamo Dresden	1:0	3:1	01.04.1995	15:30	1994	1995	24
+1. FC KÃ¶ln	Bayern MÃ¼nchen	1:1	3:1	01.04.1995	15:30	1994	1995	24
+1. FC Kaiserslautern	Karlsruher SC	0:0	0:0	01.04.1995	15:30	1994	1995	24
+Borussia Dortmund	Bayer 05 Uerdingen	1:0	3:1	01.04.1995	15:30	1994	1995	24
+Bor. MÃ¶nchengladbach	SC Freiburg	1:2	1:2	01.04.1995	15:30	1994	1995	24
+VfB Stuttgart	Bayer Leverkusen	2:2	4:2	01.04.1995	15:30	1994	1995	24
+Hamburger SV	Werder Bremen	0:0	0:0	02.04.1995	18:00	1994	1995	24
+VfL Bochum	Hamburger SV	0:0	0:0	07.04.1995	20:00	1994	1995	25
+Bayer 05 Uerdingen	VfB Stuttgart	2:0	4:1	07.04.1995	20:00	1994	1995	25
+Bayern MÃ¼nchen	1. FC Kaiserslautern	1:1	1:1	08.04.1995	15:30	1994	1995	25
+SC Freiburg	MSV Duisburg	2:0	3:0	08.04.1995	15:30	1994	1995	25
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	1:0	3:1	08.04.1995	15:30	1994	1995	25
+FC Schalke 04	Borussia Dortmund	0:0	0:0	08.04.1995	15:30	1994	1995	25
+Karlsruher SC	Eintracht Frankfurt	1:0	1:1	08.04.1995	15:30	1994	1995	25
+Dynamo Dresden	1. FC KÃ¶ln	1:0	1:3	08.04.1995	15:30	1994	1995	25
+Werder Bremen	TSV 1860 MÃ¼nchen	0:0	2:0	09.04.1995	18:00	1994	1995	25
+Borussia Dortmund	Karlsruher SC	0:1	2:1	13.04.1995	20:00	1994	1995	26
+Hamburger SV	SC Freiburg	1:1	1:2	13.04.1995	20:00	1994	1995	26
+Bayer 05 Uerdingen	Bayer Leverkusen	0:1	0:1	13.04.1995	20:00	1994	1995	26
+1. FC Kaiserslautern	Dynamo Dresden	1:0	3:1	15.04.1995	15:30	1994	1995	26
+Eintracht Frankfurt	Bayern MÃ¼nchen	2:2	2:0	15.04.1995	15:30	1994	1995	26
+VfB Stuttgart	FC Schalke 04	0:0	1:1	15.04.1995	15:30	1994	1995	26
+MSV Duisburg	Bor. MÃ¶nchengladbach	0:1	0:2	15.04.1995	15:30	1994	1995	26
+1. FC KÃ¶ln	Werder Bremen	0:0	1:1	15.04.1995	15:30	1994	1995	26
+TSV 1860 MÃ¼nchen	VfL Bochum	3:0	4:0	16.04.1995	18:00	1994	1995	26
+Bor. MÃ¶nchengladbach	Hamburger SV	1:0	2:1	21.04.1995	20:00	1994	1995	27
+Karlsruher SC	VfB Stuttgart	3:0	3:1	21.04.1995	20:00	1994	1995	27
+VfL Bochum	1. FC KÃ¶ln	0:0	1:0	21.04.1995	20:00	1994	1995	27
+Werder Bremen	1. FC Kaiserslautern	0:2	2:2	22.04.1995	15:30	1994	1995	27
+SC Freiburg	TSV 1860 MÃ¼nchen	0:1	1:1	22.04.1995	15:30	1994	1995	27
+Bayer Leverkusen	MSV Duisburg	1:0	2:0	22.04.1995	15:30	1994	1995	27
+FC Schalke 04	Bayer 05 Uerdingen	0:0	2:0	22.04.1995	15:30	1994	1995	27
+Bayern MÃ¼nchen	Borussia Dortmund	0:0	2:1	22.04.1995	15:30	1994	1995	27
+Dynamo Dresden	Eintracht Frankfurt	1:0	1:2	22.04.1995	15:30	1994	1995	27
+Hamburger SV	MSV Duisburg	1:0	3:0	28.04.1995	20:00	1994	1995	28
+1. FC KÃ¶ln	SC Freiburg	1:0	2:0	28.04.1995	20:00	1994	1995	28
+Borussia Dortmund	Dynamo Dresden	0:0	2:0	29.04.1995	15:30	1994	1995	28
+VfB Stuttgart	Bayern MÃ¼nchen	0:1	0:2	29.04.1995	15:30	1994	1995	28
+Bayer 05 Uerdingen	Karlsruher SC	0:0	0:0	29.04.1995	15:30	1994	1995	28
+TSV 1860 MÃ¼nchen	Bor. MÃ¶nchengladbach	1:0	2:0	29.04.1995	15:30	1994	1995	28
+1. FC Kaiserslautern	VfL Bochum	2:0	3:1	29.04.1995	15:30	1994	1995	28
+FC Schalke 04	Bayer Leverkusen	0:0	3:2	29.04.1995	15:30	1994	1995	28
+Eintracht Frankfurt	Werder Bremen	0:0	0:0	30.04.1995	18:00	1994	1995	28
+MSV Duisburg	TSV 1860 MÃ¼nchen	0:1	1:1	05.05.1995	19:30	1994	1995	29
+SC Freiburg	1. FC Kaiserslautern	1:1	4:1	05.05.1995	20:00	1994	1995	29
+Bayer Leverkusen	Hamburger SV	0:1	3:1	06.05.1995	15:30	1994	1995	29
+Karlsruher SC	FC Schalke 04	1:1	2:2	06.05.1995	15:30	1994	1995	29
+Bayern MÃ¼nchen	Bayer 05 Uerdingen	1:1	2:1	06.05.1995	15:30	1994	1995	29
+Dynamo Dresden	VfB Stuttgart	0:0	1:1	06.05.1995	15:30	1994	1995	29
+VfL Bochum	Eintracht Frankfurt	0:1	0:1	06.05.1995	15:30	1994	1995	29
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	0:0	0:0	06.05.1995	15:30	1994	1995	29
+Werder Bremen	Borussia Dortmund	0:0	3:1	07.05.1995	20:00	1994	1995	29
+Bayer 05 Uerdingen	Dynamo Dresden	1:1	3:1	12.05.1995	20:00	1994	1995	30
+Karlsruher SC	Bayer Leverkusen	1:2	2:4	12.05.1995	20:00	1994	1995	30
+TSV 1860 MÃ¼nchen	Hamburger SV	1:0	1:1	13.05.1995	15:30	1994	1995	30
+1. FC KÃ¶ln	MSV Duisburg	0:1	0:3	13.05.1995	15:30	1994	1995	30
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	1:1	2:2	13.05.1995	15:30	1994	1995	30
+Eintracht Frankfurt	SC Freiburg	1:1	1:2	13.05.1995	15:30	1994	1995	30
+Borussia Dortmund	VfL Bochum	0:0	3:1	13.05.1995	15:30	1994	1995	30
+VfB Stuttgart	Werder Bremen	0:2	1:4	13.05.1995	15:30	1994	1995	30
+FC Schalke 04	Bayern MÃ¼nchen	0:2	0:3	14.05.1995	18:00	1994	1995	30
+Bayer Leverkusen	TSV 1860 MÃ¼nchen	0:1	0:2	19.05.1995	20:00	1994	1995	31
+Hamburger SV	1. FC KÃ¶ln	0:3	0:4	19.05.1995	20:00	1994	1995	31
+MSV Duisburg	1. FC Kaiserslautern	1:2	3:2	20.05.1995	15:30	1994	1995	31
+Bayern MÃ¼nchen	Karlsruher SC	0:1	0:1	20.05.1995	15:30	1994	1995	31
+Dynamo Dresden	FC Schalke 04	1:0	2:1	20.05.1995	15:30	1994	1995	31
+Werder Bremen	Bayer 05 Uerdingen	2:0	6:1	20.05.1995	15:30	1994	1995	31
+VfL Bochum	VfB Stuttgart	2:0	4:0	20.05.1995	15:30	1994	1995	31
+SC Freiburg	Borussia Dortmund	0:0	1:1	20.05.1995	15:30	1994	1995	31
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:0	2:0	21.05.1995	18:00	1994	1995	31
+1. FC Kaiserslautern	Hamburger SV	1:1	4:1	26.05.1995	20:00	1994	1995	32
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	2:0	2:1	26.05.1995	20:00	1994	1995	32
+Karlsruher SC	Dynamo Dresden	2:2	5:3	27.05.1995	15:30	1994	1995	32
+Bayer Leverkusen	Bayern MÃ¼nchen	1:0	2:0	27.05.1995	15:30	1994	1995	32
+Eintracht Frankfurt	MSV Duisburg	2:0	4:1	27.05.1995	15:30	1994	1995	32
+VfB Stuttgart	SC Freiburg	1:0	1:0	27.05.1995	15:30	1994	1995	32
+Bayer 05 Uerdingen	VfL Bochum	0:0	2:1	27.05.1995	15:30	1994	1995	32
+FC Schalke 04	Werder Bremen	2:0	4:2	27.05.1995	15:30	1994	1995	32
+Borussia Dortmund	Bor. MÃ¶nchengladbach	0:0	1:1	28.05.1995	20:00	1994	1995	32
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	1:2	1:3	10.06.1995	15:30	1994	1995	33
+Dynamo Dresden	Bayern MÃ¼nchen	0:0	0:1	10.06.1995	15:30	1994	1995	33
+Werder Bremen	Karlsruher SC	2:0	2:1	10.06.1995	15:30	1994	1995	33
+VfL Bochum	FC Schalke 04	2:1	5:1	10.06.1995	15:30	1994	1995	33
+SC Freiburg	Bayer 05 Uerdingen	0:0	1:0	10.06.1995	15:30	1994	1995	33
+Bor. MÃ¶nchengladbach	VfB Stuttgart	0:1	3:1	10.06.1995	15:30	1994	1995	33
+MSV Duisburg	Borussia Dortmund	1:0	2:3	10.06.1995	15:30	1994	1995	33
+Hamburger SV	Eintracht Frankfurt	0:0	3:1	10.06.1995	15:30	1994	1995	33
+1. FC KÃ¶ln	Bayer Leverkusen	0:1	3:3	10.06.1995	15:30	1994	1995	33
+Bayer Leverkusen	Dynamo Dresden	1:0	2:2	17.06.1995	15:30	1994	1995	34
+Eintracht Frankfurt	TSV 1860 MÃ¼nchen	2:0	3:1	17.06.1995	15:30	1994	1995	34
+Borussia Dortmund	Hamburger SV	2:0	2:0	17.06.1995	15:30	1994	1995	34
+VfB Stuttgart	MSV Duisburg	1:0	3:1	17.06.1995	15:30	1994	1995	34
+Bayer 05 Uerdingen	Bor. MÃ¶nchengladbach	2:0	3:2	17.06.1995	15:30	1994	1995	34
+FC Schalke 04	SC Freiburg	1:1	1:2	17.06.1995	15:30	1994	1995	34
+Karlsruher SC	VfL Bochum	0:1	2:2	17.06.1995	15:30	1994	1995	34
+Bayern MÃ¼nchen	Werder Bremen	2:1	3:1	17.06.1995	15:30	1994	1995	34
+1. FC Kaiserslautern	1. FC KÃ¶ln	1:0	3:1	17.06.1995	15:30	1994	1995	34

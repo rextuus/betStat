@@ -1,0 +1,240 @@
+Real Madrid	Valencia CF	0:2	1:2	12.09.1954	00:00	1954	1955	1
+UD Las Palmas	AtlÃ©tico Madrid	1:0	4:1	12.09.1954	00:00	1954	1955	1
+FC Barcelona	Sevilla FC	4:0	4:2	12.09.1954	00:00	1954	1955	1
+Real Valladolid	Real Sociedad	0:0	1:0	12.09.1954	00:00	1954	1955	1
+CD MÃ¡laga	Celta Vigo	0:0	0:0	12.09.1954	00:00	1954	1955	1
+Deportivo La CoruÃ±a	HÃ©rcules CF	1:0	2:1	12.09.1954	00:00	1954	1955	1
+Athletic Bilbao	CD AlavÃ©s	2:0	4:0	12.09.1954	00:00	1954	1955	1
+Racing Santander	Espanyol Barcelona	2:1	3:1	12.09.1954	00:00	1954	1955	1
+Celta Vigo	Racing Santander	1:1	2:1	19.09.1954	00:00	1954	1955	2
+AtlÃ©tico Madrid	CD MÃ¡laga	1:0	2:2	19.09.1954	00:00	1954	1955	2
+HÃ©rcules CF	Real Valladolid	2:1	2:1	19.09.1954	00:00	1954	1955	2
+Real Sociedad	Real Madrid	0:1	1:3	19.09.1954	00:00	1954	1955	2
+Espanyol Barcelona	Athletic Bilbao	0:1	1:3	19.09.1954	00:00	1954	1955	2
+CD AlavÃ©s	FC Barcelona	2:1	2:2	19.09.1954	00:00	1954	1955	2
+Valencia CF	UD Las Palmas	2:0	4:0	19.09.1954	00:00	1954	1955	2
+Sevilla FC	Deportivo La CoruÃ±a	2:0	3:2	19.09.1954	00:00	1954	1955	2
+Racing Santander	AtlÃ©tico Madrid	2:3	2:4	26.09.1954	00:00	1954	1955	3
+Deportivo La CoruÃ±a	CD AlavÃ©s	1:0	3:0	26.09.1954	00:00	1954	1955	3
+Real Sociedad	HÃ©rcules CF	1:0	4:0	26.09.1954	00:00	1954	1955	3
+Real Madrid	UD Las Palmas	6:0	7:0	26.09.1954	00:00	1954	1955	3
+Real Valladolid	Sevilla FC	0:3	2:5	26.09.1954	00:00	1954	1955	3
+CD MÃ¡laga	Valencia CF	0:1	1:1	26.09.1954	00:00	1954	1955	3
+FC Barcelona	Espanyol Barcelona	0:0	1:0	26.09.1954	00:00	1954	1955	3
+Athletic Bilbao	Celta Vigo	2:1	2:2	26.09.1954	00:00	1954	1955	3
+Valencia CF	Racing Santander	4:0	8:1	03.10.1954	00:00	1954	1955	4
+CD AlavÃ©s	Real Valladolid	0:1	1:4	03.10.1954	00:00	1954	1955	4
+Espanyol Barcelona	Deportivo La CoruÃ±a	2:1	2:2	03.10.1954	00:00	1954	1955	4
+AtlÃ©tico Madrid	Athletic Bilbao	1:2	1:2	03.10.1954	00:00	1954	1955	4
+HÃ©rcules CF	Real Madrid	1:0	1:1	03.10.1954	00:00	1954	1955	4
+Celta Vigo	FC Barcelona	1:1	1:1	03.10.1954	00:00	1954	1955	4
+Sevilla FC	Real Sociedad	3:2	5:2	03.10.1954	00:00	1954	1955	4
+UD Las Palmas	CD MÃ¡laga	1:0	2:1	03.10.1954	00:00	1954	1955	4
+FC Barcelona	AtlÃ©tico Madrid	1:0	4:0	10.10.1954	00:00	1954	1955	5
+Real Sociedad	CD AlavÃ©s	1:0	2:0	10.10.1954	00:00	1954	1955	5
+Real Madrid	CD MÃ¡laga	2:0	4:1	10.10.1954	00:00	1954	1955	5
+Racing Santander	UD Las Palmas	1:0	2:1	10.10.1954	00:00	1954	1955	5
+HÃ©rcules CF	Sevilla FC	1:1	1:1	10.10.1954	00:00	1954	1955	5
+Athletic Bilbao	Valencia CF	2:0	7:0	10.10.1954	00:00	1954	1955	5
+Real Valladolid	Espanyol Barcelona	2:2	4:2	10.10.1954	00:00	1954	1955	5
+Deportivo La CoruÃ±a	Celta Vigo	2:2	4:2	10.10.1954	00:00	1954	1955	5
+UD Las Palmas	Athletic Bilbao	2:1	3:3	17.10.1954	00:00	1954	1955	6
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	2:1	17.10.1954	00:00	1954	1955	6
+Celta Vigo	Real Valladolid	2:2	2:2	17.10.1954	00:00	1954	1955	6
+CD AlavÃ©s	HÃ©rcules CF	1:0	2:0	17.10.1954	00:00	1954	1955	6
+Valencia CF	FC Barcelona	2:0	4:1	17.10.1954	00:00	1954	1955	6
+Sevilla FC	Real Madrid	1:0	1:0	17.10.1954	00:00	1954	1955	6
+CD MÃ¡laga	Racing Santander	1:0	3:1	17.10.1954	00:00	1954	1955	6
+Espanyol Barcelona	Real Sociedad	1:0	1:0	17.10.1954	00:00	1954	1955	6
+Real Sociedad	Celta Vigo	2:0	5:0	24.10.1954	00:00	1954	1955	7
+Sevilla FC	CD AlavÃ©s	1:1	1:2	24.10.1954	00:00	1954	1955	7
+Athletic Bilbao	CD MÃ¡laga	2:1	6:1	24.10.1954	00:00	1954	1955	7
+FC Barcelona	UD Las Palmas	0:0	1:0	24.10.1954	00:00	1954	1955	7
+Real Valladolid	AtlÃ©tico Madrid	2:2	2:2	24.10.1954	00:00	1954	1955	7
+Deportivo La CoruÃ±a	Valencia CF	1:1	2:1	24.10.1954	00:00	1954	1955	7
+HÃ©rcules CF	Espanyol Barcelona	0:0	0:0	24.10.1954	00:00	1954	1955	7
+Real Madrid	Racing Santander	0:0	3:0	24.10.1954	00:00	1954	1955	7
+AtlÃ©tico Madrid	Real Sociedad	2:0	4:0	31.10.1954	00:00	1954	1955	8
+Espanyol Barcelona	Sevilla FC	1:0	2:0	31.10.1954	00:00	1954	1955	8
+Celta Vigo	HÃ©rcules CF	1:1	1:1	31.10.1954	00:00	1954	1955	8
+UD Las Palmas	Deportivo La CoruÃ±a	1:0	2:1	31.10.1954	00:00	1954	1955	8
+CD AlavÃ©s	Real Madrid	0:1	2:4	31.10.1954	00:00	1954	1955	8
+Racing Santander	Athletic Bilbao	0:1	1:4	31.10.1954	00:00	1954	1955	8
+CD MÃ¡laga	FC Barcelona	0:1	1:2	31.10.1954	00:00	1954	1955	8
+Valencia CF	Real Valladolid	0:0	2:1	31.10.1954	00:00	1954	1955	8
+HÃ©rcules CF	AtlÃ©tico Madrid	0:0	4:0	07.11.1954	00:00	1954	1955	9
+Deportivo La CoruÃ±a	CD MÃ¡laga	1:1	3:2	07.11.1954	00:00	1954	1955	9
+FC Barcelona	Racing Santander	2:0	7:0	07.11.1954	00:00	1954	1955	9
+Sevilla FC	Celta Vigo	2:1	5:2	07.11.1954	00:00	1954	1955	9
+Real Sociedad	Valencia CF	1:0	3:0	07.11.1954	00:00	1954	1955	9
+CD AlavÃ©s	Espanyol Barcelona	0:2	2:2	07.11.1954	00:00	1954	1955	9
+Real Madrid	Athletic Bilbao	2:0	3:1	07.11.1954	00:00	1954	1955	9
+Real Valladolid	UD Las Palmas	2:1	2:1	07.11.1954	00:00	1954	1955	9
+UD Las Palmas	Real Sociedad	2:0	2:2	14.11.1954	00:00	1954	1955	10
+CD MÃ¡laga	Real Valladolid	1:0	1:2	14.11.1954	00:00	1954	1955	10
+Celta Vigo	CD AlavÃ©s	1:0	2:0	14.11.1954	00:00	1954	1955	10
+Valencia CF	HÃ©rcules CF	3:2	8:2	14.11.1954	00:00	1954	1955	10
+AtlÃ©tico Madrid	Sevilla FC	0:3	0:3	14.11.1954	00:00	1954	1955	10
+Athletic Bilbao	FC Barcelona	1:1	1:1	14.11.1954	00:00	1954	1955	10
+Espanyol Barcelona	Real Madrid	0:1	1:3	14.11.1954	00:00	1954	1955	10
+Racing Santander	Deportivo La CoruÃ±a	0:1	2:1	14.11.1954	00:00	1954	1955	10
+CD AlavÃ©s	AtlÃ©tico Madrid	1:0	2:0	21.11.1954	00:00	1954	1955	11
+Real Sociedad	CD MÃ¡laga	0:1	1:1	21.11.1954	00:00	1954	1955	11
+Real Valladolid	Racing Santander	2:1	3:1	21.11.1954	00:00	1954	1955	11
+Espanyol Barcelona	Celta Vigo	1:0	4:0	21.11.1954	00:00	1954	1955	11
+Sevilla FC	Valencia CF	0:0	2:1	21.11.1954	00:00	1954	1955	11
+Deportivo La CoruÃ±a	Athletic Bilbao	1:1	1:1	21.11.1954	00:00	1954	1955	11
+Real Madrid	FC Barcelona	1:0	3:0	21.11.1954	00:00	1954	1955	11
+HÃ©rcules CF	UD Las Palmas	3:0	4:0	21.11.1954	00:00	1954	1955	11
+AtlÃ©tico Madrid	Espanyol Barcelona	2:0	2:1	28.11.1954	00:00	1954	1955	12
+Valencia CF	CD AlavÃ©s	2:0	6:1	28.11.1954	00:00	1954	1955	12
+CD MÃ¡laga	HÃ©rcules CF	1:0	3:3	28.11.1954	00:00	1954	1955	12
+FC Barcelona	Deportivo La CoruÃ±a	2:0	3:1	28.11.1954	00:00	1954	1955	12
+UD Las Palmas	Sevilla FC	1:0	4:0	28.11.1954	00:00	1954	1955	12
+Athletic Bilbao	Real Valladolid	1:0	1:0	28.11.1954	00:00	1954	1955	12
+Celta Vigo	Real Madrid	0:0	1:1	28.11.1954	00:00	1954	1955	12
+Racing Santander	Real Sociedad	1:1	3:3	28.11.1954	00:00	1954	1955	12
+Celta Vigo	AtlÃ©tico Madrid	3:0	8:1	05.12.1954	00:00	1954	1955	13
+Sevilla FC	CD MÃ¡laga	2:0	6:1	05.12.1954	00:00	1954	1955	13
+Real Madrid	Deportivo La CoruÃ±a	1:0	5:1	05.12.1954	00:00	1954	1955	13
+CD AlavÃ©s	UD Las Palmas	2:1	4:1	05.12.1954	00:00	1954	1955	13
+Espanyol Barcelona	Valencia CF	0:0	1:1	05.12.1954	00:00	1954	1955	13
+Real Sociedad	Athletic Bilbao	2:3	3:3	05.12.1954	00:00	1954	1955	13
+Real Valladolid	FC Barcelona	0:1	1:2	05.12.1954	00:00	1954	1955	13
+HÃ©rcules CF	Racing Santander	1:0	2:0	05.12.1954	00:00	1954	1955	13
+Real Madrid	AtlÃ©tico Madrid	1:0	1:0	12.12.1954	00:00	1954	1955	14
+Athletic Bilbao	HÃ©rcules CF	2:0	3:0	12.12.1954	00:00	1954	1955	14
+CD MÃ¡laga	CD AlavÃ©s	2:0	2:0	12.12.1954	00:00	1954	1955	14
+Deportivo La CoruÃ±a	Real Valladolid	1:0	2:1	12.12.1954	00:00	1954	1955	14
+Valencia CF	Celta Vigo	1:1	2:1	12.12.1954	00:00	1954	1955	14
+Racing Santander	Sevilla FC	0:0	3:1	12.12.1954	00:00	1954	1955	14
+UD Las Palmas	Espanyol Barcelona	1:1	2:1	12.12.1954	00:00	1954	1955	14
+FC Barcelona	Real Sociedad	2:0	4:1	12.12.1954	00:00	1954	1955	14
+Espanyol Barcelona	CD MÃ¡laga	0:1	1:1	19.12.1954	00:00	1954	1955	15
+Real Valladolid	Real Madrid	0:0	0:1	19.12.1954	00:00	1954	1955	15
+HÃ©rcules CF	FC Barcelona	1:0	1:0	19.12.1954	00:00	1954	1955	15
+Sevilla FC	Athletic Bilbao	0:0	1:1	19.12.1954	00:00	1954	1955	15
+AtlÃ©tico Madrid	Valencia CF	0:2	2:3	19.12.1954	00:00	1954	1955	15
+Celta Vigo	UD Las Palmas	3:0	5:1	19.12.1954	00:00	1954	1955	15
+CD AlavÃ©s	Racing Santander	1:1	2:1	19.12.1954	00:00	1954	1955	15
+Real Sociedad	Deportivo La CoruÃ±a	2:0	3:0	19.12.1954	00:00	1954	1955	15
+Sevilla FC	FC Barcelona	0:0	0:2	26.12.1954	00:00	1954	1955	16
+CD AlavÃ©s	Athletic Bilbao	0:2	2:2	26.12.1954	00:00	1954	1955	16
+AtlÃ©tico Madrid	UD Las Palmas	2:0	2:2	26.12.1954	00:00	1954	1955	16
+Espanyol Barcelona	Racing Santander	1:0	1:0	26.12.1954	00:00	1954	1955	16
+Real Sociedad	Real Valladolid	1:0	3:3	26.12.1954	00:00	1954	1955	16
+HÃ©rcules CF	Deportivo La CoruÃ±a	4:0	4:2	26.12.1954	00:00	1954	1955	16
+Celta Vigo	CD MÃ¡laga	0:0	3:0	26.12.1954	00:00	1954	1955	16
+Valencia CF	Real Madrid	1:1	1:3	26.12.1954	00:00	1954	1955	16
+Real Madrid	Real Sociedad	0:0	1:1	02.01.1955	00:00	1954	1955	17
+FC Barcelona	CD AlavÃ©s	1:1	5:2	02.01.1955	00:00	1954	1955	17
+Racing Santander	Celta Vigo	1:0	3:1	02.01.1955	00:00	1954	1955	17
+Athletic Bilbao	Espanyol Barcelona	0:0	1:2	02.01.1955	00:00	1954	1955	17
+CD MÃ¡laga	AtlÃ©tico Madrid	0:1	0:3	02.01.1955	00:00	1954	1955	17
+UD Las Palmas	Valencia CF	0:0	1:0	02.01.1955	00:00	1954	1955	17
+Deportivo La CoruÃ±a	Sevilla FC	1:1	4:2	02.01.1955	00:00	1954	1955	17
+Real Valladolid	HÃ©rcules CF	0:0	2:0	02.01.1955	00:00	1954	1955	17
+Celta Vigo	Athletic Bilbao	1:0	1:0	09.01.1955	00:00	1954	1955	18
+Valencia CF	CD MÃ¡laga	0:0	0:2	09.01.1955	00:00	1954	1955	18
+CD AlavÃ©s	Deportivo La CoruÃ±a	2:0	2:1	09.01.1955	00:00	1954	1955	18
+Sevilla FC	Real Valladolid	4:0	5:1	09.01.1955	00:00	1954	1955	18
+HÃ©rcules CF	Real Sociedad	3:0	4:1	09.01.1955	00:00	1954	1955	18
+Espanyol Barcelona	FC Barcelona	1:2	2:4	09.01.1955	00:00	1954	1955	18
+UD Las Palmas	Real Madrid	0:0	1:1	09.01.1955	00:00	1954	1955	18
+AtlÃ©tico Madrid	Racing Santander	1:1	3:1	09.01.1955	00:00	1954	1955	18
+FC Barcelona	Celta Vigo	1:1	5:2	16.01.1955	00:00	1954	1955	19
+CD MÃ¡laga	UD Las Palmas	1:0	2:0	16.01.1955	00:00	1954	1955	19
+Real Madrid	HÃ©rcules CF	3:0	3:0	16.01.1955	00:00	1954	1955	19
+Athletic Bilbao	AtlÃ©tico Madrid	1:0	1:1	16.01.1955	00:00	1954	1955	19
+Deportivo La CoruÃ±a	Espanyol Barcelona	1:1	1:1	16.01.1955	00:00	1954	1955	19
+Racing Santander	Valencia CF	1:0	3:2	16.01.1955	00:00	1954	1955	19
+Real Sociedad	Sevilla FC	0:0	1:2	16.01.1955	00:00	1954	1955	19
+Real Valladolid	CD AlavÃ©s	1:0	1:0	16.01.1955	00:00	1954	1955	19
+Valencia CF	Athletic Bilbao	1:1	3:2	23.01.1955	00:00	1954	1955	20
+Sevilla FC	HÃ©rcules CF	2:1	6:1	23.01.1955	00:00	1954	1955	20
+Celta Vigo	Deportivo La CoruÃ±a	1:0	2:0	23.01.1955	00:00	1954	1955	20
+Espanyol Barcelona	Real Valladolid	0:1	1:1	23.01.1955	00:00	1954	1955	20
+CD AlavÃ©s	Real Sociedad	0:1	0:1	23.01.1955	00:00	1954	1955	20
+AtlÃ©tico Madrid	FC Barcelona	0:0	2:2	23.01.1955	00:00	1954	1955	20
+CD MÃ¡laga	Real Madrid	2:0	3:1	23.01.1955	00:00	1954	1955	20
+UD Las Palmas	Racing Santander	3:1	5:1	23.01.1955	00:00	1954	1955	20
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	1:0	1:0	30.01.1955	00:00	1954	1955	21
+Racing Santander	CD MÃ¡laga	1:0	2:1	30.01.1955	00:00	1954	1955	21
+Athletic Bilbao	UD Las Palmas	2:1	9:2	30.01.1955	00:00	1954	1955	21
+HÃ©rcules CF	CD AlavÃ©s	1:0	2:2	30.01.1955	00:00	1954	1955	21
+FC Barcelona	Valencia CF	0:0	4:1	30.01.1955	00:00	1954	1955	21
+Real Sociedad	Espanyol Barcelona	1:0	1:0	30.01.1955	00:00	1954	1955	21
+Real Valladolid	Celta Vigo	1:1	2:1	30.01.1955	00:00	1954	1955	21
+Real Madrid	Sevilla FC	2:0	3:1	30.01.1955	00:00	1954	1955	21
+CD AlavÃ©s	Sevilla FC	0:1	2:1	06.02.1955	00:00	1954	1955	22
+Espanyol Barcelona	HÃ©rcules CF	1:1	4:1	06.02.1955	00:00	1954	1955	22
+Valencia CF	Deportivo La CoruÃ±a	4:0	4:0	06.02.1955	00:00	1954	1955	22
+Celta Vigo	Real Sociedad	4:0	5:1	06.02.1955	00:00	1954	1955	22
+CD MÃ¡laga	Athletic Bilbao	0:3	1:3	06.02.1955	00:00	1954	1955	22
+UD Las Palmas	FC Barcelona	0:0	2:0	06.02.1955	00:00	1954	1955	22
+Racing Santander	Real Madrid	0:3	0:4	06.02.1955	00:00	1954	1955	22
+AtlÃ©tico Madrid	Real Valladolid	1:0	5:4	06.02.1955	00:00	1954	1955	22
+Deportivo La CoruÃ±a	UD Las Palmas	3:1	4:1	13.02.1955	00:00	1954	1955	23
+Real Madrid	CD AlavÃ©s	2:0	4:1	13.02.1955	00:00	1954	1955	23
+FC Barcelona	CD MÃ¡laga	1:0	5:0	13.02.1955	00:00	1954	1955	23
+HÃ©rcules CF	Celta Vigo	1:0	2:1	13.02.1955	00:00	1954	1955	23
+Real Sociedad	AtlÃ©tico Madrid	0:1	0:2	13.02.1955	00:00	1954	1955	23
+Real Valladolid	Valencia CF	1:1	2:3	13.02.1955	00:00	1954	1955	23
+Sevilla FC	Espanyol Barcelona	1:0	3:2	13.02.1955	00:00	1954	1955	23
+Athletic Bilbao	Racing Santander	1:0	3:0	13.02.1955	00:00	1954	1955	23
+Valencia CF	Real Sociedad	0:0	2:0	20.02.1955	00:00	1954	1955	24
+Espanyol Barcelona	CD AlavÃ©s	1:1	4:1	20.02.1955	00:00	1954	1955	24
+AtlÃ©tico Madrid	HÃ©rcules CF	1:0	3:0	20.02.1955	00:00	1954	1955	24
+UD Las Palmas	Real Valladolid	2:0	2:0	20.02.1955	00:00	1954	1955	24
+Celta Vigo	Sevilla FC	3:0	5:1	20.02.1955	00:00	1954	1955	24
+Racing Santander	FC Barcelona	1:1	2:1	20.02.1955	00:00	1954	1955	24
+Athletic Bilbao	Real Madrid	2:0	2:0	20.02.1955	00:00	1954	1955	24
+CD MÃ¡laga	Deportivo La CoruÃ±a	0:1	0:1	20.02.1955	00:00	1954	1955	24
+Sevilla FC	AtlÃ©tico Madrid	1:1	3:3	27.02.1955	00:00	1954	1955	25
+CD AlavÃ©s	Celta Vigo	2:0	2:0	27.02.1955	00:00	1954	1955	25
+Real Valladolid	CD MÃ¡laga	0:2	3:2	27.02.1955	00:00	1954	1955	25
+Deportivo La CoruÃ±a	Racing Santander	0:0	3:1	27.02.1955	00:00	1954	1955	25
+HÃ©rcules CF	Valencia CF	2:2	3:2	27.02.1955	00:00	1954	1955	25
+Real Madrid	Espanyol Barcelona	4:0	5:1	27.02.1955	00:00	1954	1955	25
+FC Barcelona	Athletic Bilbao	1:1	2:3	27.02.1955	00:00	1954	1955	25
+Real Sociedad	UD Las Palmas	3:0	4:0	27.02.1955	00:00	1954	1955	25
+CD MÃ¡laga	Real Sociedad	0:0	2:1	06.03.1955	00:00	1954	1955	26
+AtlÃ©tico Madrid	CD AlavÃ©s	1:1	4:1	06.03.1955	00:00	1954	1955	26
+UD Las Palmas	HÃ©rcules CF	1:1	1:1	06.03.1955	00:00	1954	1955	26
+Racing Santander	Real Valladolid	2:0	2:1	06.03.1955	00:00	1954	1955	26
+Valencia CF	Sevilla FC	1:1	3:1	06.03.1955	00:00	1954	1955	26
+Celta Vigo	Espanyol Barcelona	1:1	1:1	06.03.1955	00:00	1954	1955	26
+FC Barcelona	Real Madrid	1:1	2:2	06.03.1955	00:00	1954	1955	26
+Athletic Bilbao	Deportivo La CoruÃ±a	3:0	5:1	06.03.1955	00:00	1954	1955	26
+Real Valladolid	Athletic Bilbao	0:0	1:0	20.03.1955	00:00	1954	1955	27
+HÃ©rcules CF	CD MÃ¡laga	0:0	1:0	20.03.1955	00:00	1954	1955	27
+Real Sociedad	Racing Santander	0:0	3:0	20.03.1955	00:00	1954	1955	27
+Sevilla FC	UD Las Palmas	1:0	4:0	20.03.1955	00:00	1954	1955	27
+CD AlavÃ©s	Valencia CF	2:0	7:0	20.03.1955	00:00	1954	1955	27
+Real Madrid	Celta Vigo	2:0	5:1	20.03.1955	00:00	1954	1955	27
+Deportivo La CoruÃ±a	FC Barcelona	0:1	2:2	20.03.1955	00:00	1954	1955	27
+Espanyol Barcelona	AtlÃ©tico Madrid	1:0	2:0	20.03.1955	00:00	1954	1955	27
+Athletic Bilbao	Real Sociedad	0:0	1:0	27.03.1955	00:00	1954	1955	28
+UD Las Palmas	CD AlavÃ©s	0:1	2:2	27.03.1955	00:00	1954	1955	28
+Racing Santander	HÃ©rcules CF	0:0	1:1	27.03.1955	00:00	1954	1955	28
+AtlÃ©tico Madrid	Celta Vigo	2:0	4:0	27.03.1955	00:00	1954	1955	28
+CD MÃ¡laga	Sevilla FC	0:1	0:2	27.03.1955	00:00	1954	1955	28
+Valencia CF	Espanyol Barcelona	0:0	2:0	27.03.1955	00:00	1954	1955	28
+Deportivo La CoruÃ±a	Real Madrid	3:1	3:3	27.03.1955	00:00	1954	1955	28
+FC Barcelona	Real Valladolid	2:0	5:0	27.03.1955	00:00	1954	1955	28
+Real Sociedad	FC Barcelona	0:0	0:2	03.04.1955	00:00	1954	1955	29
+Real Valladolid	Deportivo La CoruÃ±a	0:1	1:1	03.04.1955	00:00	1954	1955	29
+CD AlavÃ©s	CD MÃ¡laga	3:0	5:1	03.04.1955	00:00	1954	1955	29
+Sevilla FC	Racing Santander	1:2	5:2	03.04.1955	00:00	1954	1955	29
+Espanyol Barcelona	UD Las Palmas	0:0	0:0	03.04.1955	00:00	1954	1955	29
+HÃ©rcules CF	Athletic Bilbao	1:1	3:2	03.04.1955	00:00	1954	1955	29
+AtlÃ©tico Madrid	Real Madrid	0:3	2:4	03.04.1955	00:00	1954	1955	29
+Celta Vigo	Valencia CF	1:0	2:1	03.04.1955	00:00	1954	1955	29
+Racing Santander	CD AlavÃ©s	0:0	0:2	10.04.1955	00:00	1954	1955	30
+CD MÃ¡laga	Espanyol Barcelona	1:0	1:1	10.04.1955	00:00	1954	1955	30
+Valencia CF	AtlÃ©tico Madrid	2:0	4:4	10.04.1955	00:00	1954	1955	30
+Athletic Bilbao	Sevilla FC	2:0	2:2	10.04.1955	00:00	1954	1955	30
+Deportivo La CoruÃ±a	Real Sociedad	0:1	2:1	10.04.1955	00:00	1954	1955	30
+UD Las Palmas	Celta Vigo	3:1	3:1	10.04.1955	00:00	1954	1955	30
+Real Madrid	Real Valladolid	0:0	1:0	10.04.1955	00:00	1954	1955	30
+FC Barcelona	HÃ©rcules CF	0:1	1:1	10.04.1955	00:00	1954	1955	30

@@ -1,0 +1,462 @@
+Birmingham City	Manchester United	2:2	2:2	20.08.1955	00:00	1955	1956	1
+Tottenham Hotspur	Burnley FC	0:1	0:1	20.08.1955	00:00	1955	1956	1
+Newcastle United	Sheffield United	4:2	4:2	20.08.1955	00:00	1955	1956	1
+Manchester City	Aston Villa	2:2	2:2	20.08.1955	00:00	1955	1956	1
+Huddersfield Town	Portsmouth FC	1:0	1:0	20.08.1955	00:00	1955	1956	1
+Everton FC	Preston North End	0:4	0:4	20.08.1955	00:00	1955	1956	1
+Chelsea FC	Bolton Wanderers	0:2	0:2	20.08.1955	00:00	1955	1956	1
+Charlton Athletic	Luton Town	2:2	2:2	20.08.1955	00:00	1955	1956	1
+Cardiff City	Sunderland AFC	3:1	3:1	20.08.1955	00:00	1955	1956	1
+Blackpool FC	Arsenal FC	3:1	3:1	20.08.1955	00:00	1955	1956	1
+West Bromwich Albion	Wolverhampton Wanderers	1:1	1:1	20.08.1955	00:00	1955	1956	1
+Burnley FC	Blackpool FC	0:2	0:2	22.08.1955	00:00	1955	1956	2
+Sheffield United	Charlton Athletic	0:0	0:0	22.08.1955	00:00	1955	1956	2
+West Bromwich Albion	Everton FC	2:0	2:0	24.08.1955	00:00	1955	1956	2
+Sunderland AFC	Aston Villa	5:1	5:1	24.08.1955	00:00	1955	1956	2
+Preston North End	Luton Town	2:1	2:1	24.08.1955	00:00	1955	1956	2
+Portsmouth FC	Wolverhampton Wanderers	2:1	2:1	24.08.1955	00:00	1955	1956	2
+Newcastle United	Birmingham City	2:2	2:2	24.08.1955	00:00	1955	1956	2
+Manchester United	Tottenham Hotspur	2:2	2:2	24.08.1955	00:00	1955	1956	2
+Huddersfield Town	Chelsea FC	1:3	1:3	24.08.1955	00:00	1955	1956	2
+Arsenal FC	Manchester City	0:0	0:0	06.09.1955	00:00	1955	1956	2
+Bolton Wanderers	Cardiff City	4:0	4:0	07.09.1955	00:00	1955	1956	2
+Wolverhampton Wanderers	Manchester City	7:2	7:2	27.08.1955	00:00	1955	1956	3
+Arsenal FC	Chelsea FC	1:1	1:1	27.08.1955	00:00	1955	1956	3
+Sunderland AFC	Huddersfield Town	4:1	4:1	27.08.1955	00:00	1955	1956	3
+Sheffield United	Birmingham City	0:3	0:3	27.08.1955	00:00	1955	1956	3
+Preston North End	Newcastle United	4:3	4:3	27.08.1955	00:00	1955	1956	3
+Portsmouth FC	Blackpool FC	3:3	3:3	27.08.1955	00:00	1955	1956	3
+Manchester United	West Bromwich Albion	3:1	3:1	27.08.1955	00:00	1955	1956	3
+Luton Town	Tottenham Hotspur	2:1	2:1	27.08.1955	00:00	1955	1956	3
+Burnley FC	Everton FC	0:1	0:1	27.08.1955	00:00	1955	1956	3
+Bolton Wanderers	Charlton Athletic	1:3	1:3	27.08.1955	00:00	1955	1956	3
+Aston Villa	Cardiff City	2:0	2:0	27.08.1955	00:00	1955	1956	3
+Aston Villa	Sunderland AFC	1:4	1:4	29.08.1955	00:00	1955	1956	4
+Blackpool FC	Burnley FC	1:1	1:1	29.08.1955	00:00	1955	1956	4
+Chelsea FC	Huddersfield Town	0:0	0:0	29.08.1955	00:00	1955	1956	4
+Manchester City	Arsenal FC	2:2	2:2	31.08.1955	00:00	1955	1956	4
+Wolverhampton Wanderers	Portsmouth FC	3:1	3:1	31.08.1955	00:00	1955	1956	4
+Tottenham Hotspur	Manchester United	1:2	1:2	31.08.1955	00:00	1955	1956	4
+Luton Town	Preston North End	2:1	2:1	31.08.1955	00:00	1955	1956	4
+Everton FC	West Bromwich Albion	2:0	2:0	31.08.1955	00:00	1955	1956	4
+Cardiff City	Bolton Wanderers	1:0	1:0	31.08.1955	00:00	1955	1956	4
+Birmingham City	Newcastle United	3:1	3:1	31.08.1955	00:00	1955	1956	4
+Charlton Athletic	Sheffield United	3:2	3:2	01.09.1955	00:00	1955	1956	4
+Manchester City	Manchester United	1:0	1:0	03.09.1955	00:00	1955	1956	5
+Birmingham City	Preston North End	0:3	0:3	03.09.1955	00:00	1955	1956	5
+West Bromwich Albion	Sheffield United	2:1	2:1	03.09.1955	00:00	1955	1956	5
+Tottenham Hotspur	Charlton Athletic	2:3	2:3	03.09.1955	00:00	1955	1956	5
+Newcastle United	Burnley FC	3:1	3:1	03.09.1955	00:00	1955	1956	5
+Huddersfield Town	Aston Villa	1:1	1:1	03.09.1955	00:00	1955	1956	5
+Everton FC	Luton Town	0:1	0:1	03.09.1955	00:00	1955	1956	5
+Chelsea FC	Portsmouth FC	1:5	1:5	03.09.1955	00:00	1955	1956	5
+Cardiff City	Wolverhampton Wanderers	1:9	1:9	03.09.1955	00:00	1955	1956	5
+Bolton Wanderers	Arsenal FC	4:1	4:1	03.09.1955	00:00	1955	1956	5
+Blackpool FC	Sunderland AFC	7:3	7:3	03.09.1955	00:00	1955	1956	5
+Arsenal FC	Cardiff City	3:1	3:1	23.08.1955	00:00	1955	1956	6
+Aston Villa	Birmingham City	0:0	0:0	05.09.1955	00:00	1955	1956	6
+Blackpool FC	Chelsea FC	2:1	2:1	05.09.1955	00:00	1955	1956	6
+Burnley FC	Luton Town	3:1	3:1	05.09.1955	00:00	1955	1956	6
+Sheffield United	Tottenham Hotspur	2:0	2:0	05.09.1955	00:00	1955	1956	6
+West Bromwich Albion	Newcastle United	1:1	1:1	07.09.1955	00:00	1955	1956	6
+Preston North End	Charlton Athletic	2:2	2:2	07.09.1955	00:00	1955	1956	6
+Manchester United	Everton FC	2:1	2:1	07.09.1955	00:00	1955	1956	6
+Bolton Wanderers	Huddersfield Town	2:2	2:2	02.01.1956	00:00	1955	1956	6
+Manchester City	Portsmouth FC	4:1	4:1	02.01.1956	00:00	1955	1956	6
+Sunderland AFC	Wolverhampton Wanderers	1:1	1:1	02.01.1956	00:00	1955	1956	6
+Portsmouth FC	Bolton Wanderers	3:3	3:3	10.09.1955	00:00	1955	1956	7
+Wolverhampton Wanderers	Huddersfield Town	4:0	4:0	10.09.1955	00:00	1955	1956	7
+Aston Villa	Blackpool FC	1:1	1:1	10.09.1955	00:00	1955	1956	7
+Tottenham Hotspur	Arsenal FC	3:1	3:1	10.09.1955	00:00	1955	1956	7
+Sunderland AFC	Chelsea FC	4:3	4:3	10.09.1955	00:00	1955	1956	7
+Sheffield United	Manchester United	1:0	1:0	10.09.1955	00:00	1955	1956	7
+Preston North End	West Bromwich Albion	0:1	0:1	10.09.1955	00:00	1955	1956	7
+Manchester City	Cardiff City	3:1	3:1	10.09.1955	00:00	1955	1956	7
+Luton Town	Newcastle United	4:2	4:2	10.09.1955	00:00	1955	1956	7
+Charlton Athletic	Everton FC	0:2	0:2	10.09.1955	00:00	1955	1956	7
+Burnley FC	Birmingham City	3:2	3:2	10.09.1955	00:00	1955	1956	7
+Everton FC	Manchester United	4:2	4:2	14.09.1955	00:00	1955	1956	8
+Charlton Athletic	Preston North End	2:1	2:1	15.09.1955	00:00	1955	1956	8
+Birmingham City	Aston Villa	2:2	2:2	21.09.1955	00:00	1955	1956	8
+Newcastle United	West Bromwich Albion	0:3	0:3	02.01.1956	00:00	1955	1956	8
+Wolverhampton Wanderers	Sunderland AFC	3:1	3:1	28.04.1956	00:00	1955	1956	8
+Tottenham Hotspur	Sheffield United	3:1	3:1	28.04.1956	00:00	1955	1956	8
+Portsmouth FC	Manchester City	2:4	2:4	28.04.1956	00:00	1955	1956	8
+Luton Town	Burnley FC	2:3	2:3	28.04.1956	00:00	1955	1956	8
+Huddersfield Town	Bolton Wanderers	3:1	3:1	28.04.1956	00:00	1955	1956	8
+Chelsea FC	Blackpool FC	2:1	2:1	28.04.1956	00:00	1955	1956	8
+Cardiff City	Arsenal FC	1:2	1:2	28.04.1956	00:00	1955	1956	8
+Bolton Wanderers	Sunderland AFC	0:3	0:3	17.09.1955	00:00	1955	1956	9
+Huddersfield Town	Manchester City	3:3	3:3	17.09.1955	00:00	1955	1956	9
+Arsenal FC	Portsmouth FC	1:3	1:3	17.09.1955	00:00	1955	1956	9
+Birmingham City	Luton Town	0:0	0:0	17.09.1955	00:00	1955	1956	9
+Blackpool FC	Wolverhampton Wanderers	2:1	2:1	17.09.1955	00:00	1955	1956	9
+Cardiff City	Sheffield United	3:2	3:2	17.09.1955	00:00	1955	1956	9
+Chelsea FC	Aston Villa	0:0	0:0	17.09.1955	00:00	1955	1956	9
+West Bromwich Albion	Burnley FC	1:0	1:0	17.09.1955	00:00	1955	1956	9
+Everton FC	Tottenham Hotspur	2:1	2:1	17.09.1955	00:00	1955	1956	9
+Manchester United	Preston North End	3:2	3:2	17.09.1955	00:00	1955	1956	9
+Newcastle United	Charlton Athletic	4:1	4:1	17.09.1955	00:00	1955	1956	9
+Wolverhampton Wanderers	Chelsea FC	2:1	2:1	24.09.1955	00:00	1955	1956	10
+Tottenham Hotspur	Newcastle United	3:1	3:1	24.09.1955	00:00	1955	1956	10
+Sunderland AFC	Arsenal FC	3:1	3:1	24.09.1955	00:00	1955	1956	10
+Preston North End	Sheffield United	0:2	0:2	24.09.1955	00:00	1955	1956	10
+Manchester City	Blackpool FC	2:0	2:0	24.09.1955	00:00	1955	1956	10
+Luton Town	West Bromwich Albion	0:2	0:2	24.09.1955	00:00	1955	1956	10
+Cardiff City	Huddersfield Town	1:2	1:2	24.09.1955	00:00	1955	1956	10
+Burnley FC	Manchester United	0:0	0:0	24.09.1955	00:00	1955	1956	10
+Aston Villa	Bolton Wanderers	0:2	0:2	24.09.1955	00:00	1955	1956	10
+Charlton Athletic	Birmingham City	2:0	2:0	24.09.1955	00:00	1955	1956	10
+Portsmouth FC	Everton FC	1:0	1:0	24.09.1955	00:00	1955	1956	10
+Bolton Wanderers	Wolverhampton Wanderers	2:1	2:1	01.10.1955	00:00	1955	1956	11
+Huddersfield Town	Preston North End	2:2	2:2	01.10.1955	00:00	1955	1956	11
+Portsmouth FC	Sunderland AFC	2:1	2:1	01.10.1955	00:00	1955	1956	11
+Arsenal FC	Aston Villa	1:0	1:0	01.10.1955	00:00	1955	1956	11
+Blackpool FC	Cardiff City	2:1	2:1	01.10.1955	00:00	1955	1956	11
+Chelsea FC	Manchester City	2:1	2:1	01.10.1955	00:00	1955	1956	11
+Sheffield United	Burnley FC	1:2	1:2	01.10.1955	00:00	1955	1956	11
+Birmingham City	Tottenham Hotspur	3:0	3:0	01.10.1955	00:00	1955	1956	11
+Manchester United	Luton Town	3:1	3:1	01.10.1955	00:00	1955	1956	11
+Newcastle United	Everton FC	1:2	1:2	01.10.1955	00:00	1955	1956	11
+West Bromwich Albion	Charlton Athletic	3:3	3:3	01.10.1955	00:00	1955	1956	11
+Burnley FC	Huddersfield Town	2:0	2:0	08.10.1955	00:00	1955	1956	12
+Sheffield United	Manchester City	1:1	1:1	08.10.1955	00:00	1955	1956	12
+West Bromwich Albion	Aston Villa	1:0	1:0	08.10.1955	00:00	1955	1956	12
+Tottenham Hotspur	Bolton Wanderers	0:3	0:3	08.10.1955	00:00	1955	1956	12
+Preston North End	Cardiff City	1:2	1:2	08.10.1955	00:00	1955	1956	12
+Newcastle United	Portsmouth FC	2:1	2:1	08.10.1955	00:00	1955	1956	12
+Luton Town	Blackpool FC	3:1	3:1	08.10.1955	00:00	1955	1956	12
+Birmingham City	Sunderland AFC	1:2	1:2	08.10.1955	00:00	1955	1956	12
+Charlton Athletic	Chelsea FC	1:2	1:2	08.10.1955	00:00	1955	1956	12
+Everton FC	Arsenal FC	1:1	1:1	08.10.1955	00:00	1955	1956	12
+Manchester United	Wolverhampton Wanderers	4:3	4:3	08.10.1955	00:00	1955	1956	12
+Huddersfield Town	Luton Town	0:2	0:2	15.10.1955	00:00	1955	1956	13
+Manchester City	Preston North End	0:2	0:2	15.10.1955	00:00	1955	1956	13
+Wolverhampton Wanderers	Sheffield United	3:2	3:2	15.10.1955	00:00	1955	1956	13
+Sunderland AFC	West Bromwich Albion	2:1	2:1	15.10.1955	00:00	1955	1956	13
+Chelsea FC	Tottenham Hotspur	2:0	2:0	15.10.1955	00:00	1955	1956	13
+Cardiff City	Burnley FC	2:2	2:2	15.10.1955	00:00	1955	1956	13
+Blackpool FC	Charlton Athletic	5:0	5:0	15.10.1955	00:00	1955	1956	13
+Arsenal FC	Newcastle United	1:0	1:0	15.10.1955	00:00	1955	1956	13
+Aston Villa	Manchester United	4:4	4:4	15.10.1955	00:00	1955	1956	13
+Bolton Wanderers	Everton FC	1:1	1:1	15.10.1955	00:00	1955	1956	13
+Portsmouth FC	Birmingham City	0:5	0:5	15.10.1955	00:00	1955	1956	13
+Manchester United	Huddersfield Town	3:0	3:0	22.10.1955	00:00	1955	1956	14
+West Bromwich Albion	Cardiff City	2:1	2:1	22.10.1955	00:00	1955	1956	14
+Tottenham Hotspur	Sunderland AFC	2:3	2:3	22.10.1955	00:00	1955	1956	14
+Sheffield United	Blackpool FC	2:1	2:1	22.10.1955	00:00	1955	1956	14
+Preston North End	Chelsea FC	2:3	2:3	22.10.1955	00:00	1955	1956	14
+Newcastle United	Wolverhampton Wanderers	3:1	3:1	22.10.1955	00:00	1955	1956	14
+Luton Town	Arsenal FC	0:0	0:0	22.10.1955	00:00	1955	1956	14
+Burnley FC	Bolton Wanderers	2:0	2:0	22.10.1955	00:00	1955	1956	14
+Birmingham City	Manchester City	4:3	4:3	22.10.1955	00:00	1955	1956	14
+Charlton Athletic	Portsmouth FC	6:1	6:1	22.10.1955	00:00	1955	1956	14
+Everton FC	Aston Villa	2:1	2:1	22.10.1955	00:00	1955	1956	14
+Bolton Wanderers	Luton Town	4:0	4:0	29.10.1955	00:00	1955	1956	15
+Huddersfield Town	Sheffield United	1:2	1:2	29.10.1955	00:00	1955	1956	15
+Manchester City	West Bromwich Albion	2:0	2:0	29.10.1955	00:00	1955	1956	15
+Aston Villa	Newcastle United	3:0	3:0	29.10.1955	00:00	1955	1956	15
+Blackpool FC	Preston North End	2:6	2:6	29.10.1955	00:00	1955	1956	15
+Cardiff City	Manchester United	0:1	0:1	29.10.1955	00:00	1955	1956	15
+Chelsea FC	Burnley FC	0:0	0:0	29.10.1955	00:00	1955	1956	15
+Portsmouth FC	Tottenham Hotspur	4:1	4:1	29.10.1955	00:00	1955	1956	15
+Arsenal FC	Charlton Athletic	2:4	2:4	29.10.1955	00:00	1955	1956	15
+Sunderland AFC	Everton FC	0:0	0:0	29.10.1955	00:00	1955	1956	15
+Wolverhampton Wanderers	Birmingham City	1:0	1:0	29.10.1955	00:00	1955	1956	15
+West Bromwich Albion	Bolton Wanderers	2:0	2:0	05.11.1955	00:00	1955	1956	16
+Tottenham Hotspur	Cardiff City	1:1	1:1	05.11.1955	00:00	1955	1956	16
+Sheffield United	Portsmouth FC	1:3	1:3	05.11.1955	00:00	1955	1956	16
+Newcastle United	Blackpool FC	1:2	1:2	05.11.1955	00:00	1955	1956	16
+Manchester United	Arsenal FC	1:1	1:1	05.11.1955	00:00	1955	1956	16
+Luton Town	Wolverhampton Wanderers	5:1	5:1	05.11.1955	00:00	1955	1956	16
+Burnley FC	Aston Villa	2:0	2:0	05.11.1955	00:00	1955	1956	16
+Birmingham City	Chelsea FC	3:0	3:0	05.11.1955	00:00	1955	1956	16
+Charlton Athletic	Manchester City	5:2	5:2	05.11.1955	00:00	1955	1956	16
+Everton FC	Huddersfield Town	5:2	5:2	05.11.1955	00:00	1955	1956	16
+Preston North End	Sunderland AFC	2:2	2:2	05.11.1955	00:00	1955	1956	16
+Huddersfield Town	Newcastle United	2:6	2:6	12.11.1955	00:00	1955	1956	17
+Manchester City	Tottenham Hotspur	1:2	1:2	12.11.1955	00:00	1955	1956	17
+Portsmouth FC	Preston North End	0:2	0:2	12.11.1955	00:00	1955	1956	17
+Arsenal FC	Sheffield United	2:1	2:1	12.11.1955	00:00	1955	1956	17
+Cardiff City	Everton FC	3:1	3:1	12.11.1955	00:00	1955	1956	17
+Chelsea FC	West Bromwich Albion	2:0	2:0	12.11.1955	00:00	1955	1956	17
+Sunderland AFC	Burnley FC	4:4	4:4	12.11.1955	00:00	1955	1956	17
+Aston Villa	Luton Town	1:0	1:0	12.11.1955	00:00	1955	1956	17
+Blackpool FC	Birmingham City	2:0	2:0	12.11.1955	00:00	1955	1956	17
+Bolton Wanderers	Manchester United	3:1	3:1	12.11.1955	00:00	1955	1956	17
+Wolverhampton Wanderers	Charlton Athletic	2:0	2:0	12.11.1955	00:00	1955	1956	17
+Luton Town	Sunderland AFC	8:2	8:2	19.11.1955	00:00	1955	1956	18
+West Bromwich Albion	Blackpool FC	1:2	1:2	19.11.1955	00:00	1955	1956	18
+Tottenham Hotspur	Wolverhampton Wanderers	2:1	2:1	19.11.1955	00:00	1955	1956	18
+Sheffield United	Bolton Wanderers	1:3	1:3	19.11.1955	00:00	1955	1956	18
+Preston North End	Arsenal FC	0:1	0:1	19.11.1955	00:00	1955	1956	18
+Newcastle United	Cardiff City	4:0	4:0	19.11.1955	00:00	1955	1956	18
+Manchester United	Chelsea FC	3:0	3:0	19.11.1955	00:00	1955	1956	18
+Burnley FC	Portsmouth FC	3:0	3:0	19.11.1955	00:00	1955	1956	18
+Birmingham City	Huddersfield Town	5:0	5:0	19.11.1955	00:00	1955	1956	18
+Charlton Athletic	Aston Villa	3:1	3:1	19.11.1955	00:00	1955	1956	18
+Everton FC	Manchester City	1:1	1:1	19.11.1955	00:00	1955	1956	18
+Huddersfield Town	West Bromwich Albion	1:0	1:0	26.11.1955	00:00	1955	1956	19
+Manchester City	Newcastle United	1:2	1:2	26.11.1955	00:00	1955	1956	19
+Portsmouth FC	Luton Town	0:0	0:0	26.11.1955	00:00	1955	1956	19
+Arsenal FC	Burnley FC	0:1	0:1	26.11.1955	00:00	1955	1956	19
+Aston Villa	Tottenham Hotspur	0:2	0:2	26.11.1955	00:00	1955	1956	19
+Blackpool FC	Manchester United	0:0	0:0	26.11.1955	00:00	1955	1956	19
+Chelsea FC	Sheffield United	1:0	1:0	26.11.1955	00:00	1955	1956	19
+Bolton Wanderers	Preston North End	0:0	0:0	26.11.1955	00:00	1955	1956	19
+Cardiff City	Birmingham City	2:1	2:1	26.11.1955	00:00	1955	1956	19
+Sunderland AFC	Charlton Athletic	3:2	3:2	26.11.1955	00:00	1955	1956	19
+Wolverhampton Wanderers	Everton FC	1:0	1:0	26.11.1955	00:00	1955	1956	19
+Burnley FC	Manchester City	2:2	2:2	03.12.1955	00:00	1955	1956	20
+West Bromwich Albion	Portsmouth FC	4:0	4:0	03.12.1955	00:00	1955	1956	20
+Tottenham Hotspur	Blackpool FC	1:1	1:1	03.12.1955	00:00	1955	1956	20
+Sheffield United	Aston Villa	2:2	2:2	03.12.1955	00:00	1955	1956	20
+Newcastle United	Bolton Wanderers	3:0	3:0	03.12.1955	00:00	1955	1956	20
+Luton Town	Cardiff City	3:0	3:0	03.12.1955	00:00	1955	1956	20
+Everton FC	Chelsea FC	3:3	3:3	03.12.1955	00:00	1955	1956	20
+Birmingham City	Arsenal FC	4:0	4:0	03.12.1955	00:00	1955	1956	20
+Charlton Athletic	Huddersfield Town	4:1	4:1	03.12.1955	00:00	1955	1956	20
+Manchester United	Sunderland AFC	2:1	2:1	03.12.1955	00:00	1955	1956	20
+Preston North End	Wolverhampton Wanderers	2:0	2:0	03.12.1955	00:00	1955	1956	20
+Huddersfield Town	Tottenham Hotspur	1:0	1:0	10.12.1955	00:00	1955	1956	21
+Manchester City	Luton Town	3:2	3:2	10.12.1955	00:00	1955	1956	21
+Wolverhampton Wanderers	Burnley FC	3:1	3:1	10.12.1955	00:00	1955	1956	21
+Sunderland AFC	Sheffield United	3:2	3:2	10.12.1955	00:00	1955	1956	21
+Chelsea FC	Newcastle United	2:1	2:1	10.12.1955	00:00	1955	1956	21
+Cardiff City	Charlton Athletic	3:1	3:1	10.12.1955	00:00	1955	1956	21
+Blackpool FC	Everton FC	4:0	4:0	10.12.1955	00:00	1955	1956	21
+Arsenal FC	West Bromwich Albion	2:0	2:0	10.12.1955	00:00	1955	1956	21
+Aston Villa	Preston North End	3:2	3:2	10.12.1955	00:00	1955	1956	21
+Bolton Wanderers	Birmingham City	6:0	6:0	10.12.1955	00:00	1955	1956	21
+Portsmouth FC	Manchester United	3:2	3:2	10.12.1955	00:00	1955	1956	21
+Aston Villa	Manchester City	0:3	0:3	17.12.1955	00:00	1955	1956	22
+Portsmouth FC	Huddersfield Town	5:2	5:2	17.12.1955	00:00	1955	1956	22
+Wolverhampton Wanderers	West Bromwich Albion	3:2	3:2	17.12.1955	00:00	1955	1956	22
+Sunderland AFC	Cardiff City	1:1	1:1	17.12.1955	00:00	1955	1956	22
+Sheffield United	Newcastle United	2:1	2:1	17.12.1955	00:00	1955	1956	22
+Burnley FC	Tottenham Hotspur	2:0	2:0	17.12.1955	00:00	1955	1956	22
+Bolton Wanderers	Chelsea FC	4:0	4:0	17.12.1955	00:00	1955	1956	22
+Arsenal FC	Blackpool FC	4:1	4:1	17.12.1955	00:00	1955	1956	22
+Luton Town	Charlton Athletic	2:1	2:1	17.12.1955	00:00	1955	1956	22
+Manchester United	Birmingham City	2:1	2:1	17.12.1955	00:00	1955	1956	22
+Preston North End	Everton FC	0:1	0:1	17.12.1955	00:00	1955	1956	22
+Huddersfield Town	Sunderland AFC	4:0	4:0	24.12.1955	00:00	1955	1956	23
+Manchester City	Wolverhampton Wanderers	2:2	2:2	24.12.1955	00:00	1955	1956	23
+West Bromwich Albion	Manchester United	1:4	1:4	24.12.1955	00:00	1955	1956	23
+Tottenham Hotspur	Luton Town	2:1	2:1	24.12.1955	00:00	1955	1956	23
+Newcastle United	Preston North End	5:0	5:0	24.12.1955	00:00	1955	1956	23
+Chelsea FC	Arsenal FC	2:0	2:0	24.12.1955	00:00	1955	1956	23
+Cardiff City	Aston Villa	1:0	1:0	24.12.1955	00:00	1955	1956	23
+Blackpool FC	Portsmouth FC	2:3	2:3	24.12.1955	00:00	1955	1956	23
+Birmingham City	Sheffield United	0:2	0:2	24.12.1955	00:00	1955	1956	23
+Charlton Athletic	Bolton Wanderers	3:1	3:1	24.12.1955	00:00	1955	1956	23
+Everton FC	Burnley FC	1:1	1:1	24.12.1955	00:00	1955	1956	23
+Aston Villa	Portsmouth FC	1:3	1:3	26.12.1955	00:00	1955	1956	24
+Bolton Wanderers	Manchester City	1:3	1:3	26.12.1955	00:00	1955	1956	24
+Wolverhampton Wanderers	Arsenal FC	3:3	3:3	26.12.1955	00:00	1955	1956	24
+Tottenham Hotspur	West Bromwich Albion	4:1	4:1	26.12.1955	00:00	1955	1956	24
+Sunderland AFC	Newcastle United	1:6	1:6	26.12.1955	00:00	1955	1956	24
+Sheffield United	Luton Town	0:4	0:4	26.12.1955	00:00	1955	1956	24
+Cardiff City	Chelsea FC	1:1	1:1	26.12.1955	00:00	1955	1956	24
+Burnley FC	Preston North End	1:2	1:2	26.12.1955	00:00	1955	1956	24
+Blackpool FC	Huddersfield Town	4:2	4:2	26.12.1955	00:00	1955	1956	24
+Birmingham City	Everton FC	6:2	6:2	26.12.1955	00:00	1955	1956	24
+Manchester United	Charlton Athletic	5:1	5:1	26.12.1955	00:00	1955	1956	24
+Manchester City	Bolton Wanderers	2:0	2:0	27.12.1955	00:00	1955	1956	25
+Portsmouth FC	Aston Villa	2:2	2:2	27.12.1955	00:00	1955	1956	25
+West Bromwich Albion	Tottenham Hotspur	1:0	1:0	27.12.1955	00:00	1955	1956	25
+Preston North End	Burnley FC	4:2	4:2	27.12.1955	00:00	1955	1956	25
+Newcastle United	Sunderland AFC	3:1	3:1	27.12.1955	00:00	1955	1956	25
+Luton Town	Sheffield United	2:1	2:1	27.12.1955	00:00	1955	1956	25
+Huddersfield Town	Blackpool FC	3:1	3:1	27.12.1955	00:00	1955	1956	25
+Chelsea FC	Cardiff City	2:1	2:1	27.12.1955	00:00	1955	1956	25
+Arsenal FC	Wolverhampton Wanderers	2:2	2:2	27.12.1955	00:00	1955	1956	25
+Charlton Athletic	Manchester United	3:0	3:0	27.12.1955	00:00	1955	1956	25
+Everton FC	Birmingham City	5:1	5:1	27.12.1955	00:00	1955	1956	25
+Aston Villa	Huddersfield Town	3:0	3:0	31.12.1955	00:00	1955	1956	26
+Manchester United	Manchester City	2:1	2:1	31.12.1955	00:00	1955	1956	26
+Wolverhampton Wanderers	Cardiff City	0:2	0:2	31.12.1955	00:00	1955	1956	26
+Sunderland AFC	Blackpool FC	0:0	0:0	31.12.1955	00:00	1955	1956	26
+Sheffield United	West Bromwich Albion	2:2	2:2	31.12.1955	00:00	1955	1956	26
+Portsmouth FC	Chelsea FC	4:4	4:4	31.12.1955	00:00	1955	1956	26
+Burnley FC	Newcastle United	3:1	3:1	31.12.1955	00:00	1955	1956	26
+Arsenal FC	Bolton Wanderers	3:1	3:1	31.12.1955	00:00	1955	1956	26
+Charlton Athletic	Tottenham Hotspur	1:2	1:2	31.12.1955	00:00	1955	1956	26
+Luton Town	Everton FC	2:2	2:2	31.12.1955	00:00	1955	1956	26
+Preston North End	Birmingham City	1:1	1:1	31.12.1955	00:00	1955	1956	26
+Huddersfield Town	Wolverhampton Wanderers	1:3	1:3	14.01.1956	00:00	1955	1956	27
+Chelsea FC	Sunderland AFC	2:3	2:3	14.01.1956	00:00	1955	1956	27
+Cardiff City	Manchester City	4:1	4:1	14.01.1956	00:00	1955	1956	27
+Bolton Wanderers	Portsmouth FC	4:0	4:0	14.01.1956	00:00	1955	1956	27
+Blackpool FC	Aston Villa	6:0	6:0	14.01.1956	00:00	1955	1956	27
+Arsenal FC	Tottenham Hotspur	0:1	0:1	14.01.1956	00:00	1955	1956	27
+Manchester United	Sheffield United	3:1	3:1	14.01.1956	00:00	1955	1956	27
+Birmingham City	Burnley FC	1:2	1:2	14.01.1956	00:00	1955	1956	27
+Everton FC	Charlton Athletic	3:2	3:2	14.01.1956	00:00	1955	1956	27
+Newcastle United	Luton Town	4:0	4:0	14.01.1956	00:00	1955	1956	27
+West Bromwich Albion	Preston North End	3:2	3:2	14.01.1956	00:00	1955	1956	27
+Sunderland AFC	Bolton Wanderers	0:0	0:0	21.01.1956	00:00	1955	1956	28
+Sheffield United	Cardiff City	2:1	2:1	21.01.1956	00:00	1955	1956	28
+Portsmouth FC	Arsenal FC	5:2	5:2	21.01.1956	00:00	1955	1956	28
+Manchester City	Huddersfield Town	1:0	1:0	21.01.1956	00:00	1955	1956	28
+Aston Villa	Chelsea FC	1:4	1:4	21.01.1956	00:00	1955	1956	28
+Wolverhampton Wanderers	Blackpool FC	2:3	2:3	21.01.1956	00:00	1955	1956	28
+Burnley FC	West Bromwich Albion	1:2	1:2	21.01.1956	00:00	1955	1956	28
+Charlton Athletic	Newcastle United	0:2	0:2	21.01.1956	00:00	1955	1956	28
+Luton Town	Birmingham City	0:1	0:1	21.01.1956	00:00	1955	1956	28
+Preston North End	Manchester United	3:1	3:1	21.01.1956	00:00	1955	1956	28
+Tottenham Hotspur	Everton FC	1:1	1:1	21.01.1956	00:00	1955	1956	28
+Sheffield United	Preston North End	3:1	3:1	04.02.1956	00:00	1955	1956	29
+Manchester United	Burnley FC	2:0	2:0	04.02.1956	00:00	1955	1956	29
+Huddersfield Town	Cardiff City	1:2	1:2	04.02.1956	00:00	1955	1956	29
+Chelsea FC	Wolverhampton Wanderers	2:3	2:3	04.02.1956	00:00	1955	1956	29
+Blackpool FC	Manchester City	0:1	0:1	04.02.1956	00:00	1955	1956	29
+Arsenal FC	Sunderland AFC	3:1	3:1	04.02.1956	00:00	1955	1956	29
+Birmingham City	Charlton Athletic	4:0	4:0	04.02.1956	00:00	1955	1956	29
+Everton FC	Portsmouth FC	0:2	0:2	04.02.1956	00:00	1955	1956	29
+Newcastle United	Tottenham Hotspur	1:2	1:2	04.02.1956	00:00	1955	1956	29
+West Bromwich Albion	Luton Town	3:1	3:1	04.02.1956	00:00	1955	1956	29
+Bolton Wanderers	Aston Villa	1:0	1:0	18.02.1956	00:00	1955	1956	29
+Wolverhampton Wanderers	Bolton Wanderers	4:2	4:2	11.02.1956	00:00	1955	1956	30
+Preston North End	Huddersfield Town	1:2	1:2	11.02.1956	00:00	1955	1956	30
+Manchester City	Chelsea FC	2:2	2:2	11.02.1956	00:00	1955	1956	30
+Cardiff City	Blackpool FC	1:0	1:0	11.02.1956	00:00	1955	1956	30
+Burnley FC	Sheffield United	1:1	1:1	11.02.1956	00:00	1955	1956	30
+Aston Villa	Arsenal FC	1:1	1:1	11.02.1956	00:00	1955	1956	30
+Sunderland AFC	Portsmouth FC	4:2	4:2	11.02.1956	00:00	1955	1956	30
+Charlton Athletic	West Bromwich Albion	5:1	5:1	11.02.1956	00:00	1955	1956	30
+Everton FC	Newcastle United	0:0	0:0	11.02.1956	00:00	1955	1956	30
+Luton Town	Manchester United	0:2	0:2	11.02.1956	00:00	1955	1956	30
+Tottenham Hotspur	Birmingham City	0:1	0:1	11.02.1956	00:00	1955	1956	30
+Huddersfield Town	Burnley FC	1:0	1:0	18.02.1956	00:00	1955	1956	31
+Cardiff City	Preston North End	3:1	3:1	18.02.1956	00:00	1955	1956	31
+Blackpool FC	Luton Town	3:2	3:2	18.02.1956	00:00	1955	1956	31
+Wolverhampton Wanderers	Manchester United	0:2	0:2	18.02.1956	00:00	1955	1956	31
+Arsenal FC	Everton FC	3:2	3:2	21.02.1956	00:00	1955	1956	31
+Chelsea FC	Charlton Athletic	3:1	3:1	22.02.1956	00:00	1955	1956	31
+Portsmouth FC	Newcastle United	0:2	0:2	22.02.1956	00:00	1955	1956	31
+Bolton Wanderers	Tottenham Hotspur	3:2	3:2	21.03.1956	00:00	1955	1956	31
+Manchester City	Sheffield United	3:1	3:1	11.04.1956	00:00	1955	1956	31
+Sunderland AFC	Birmingham City	1:0	1:0	18.04.1956	00:00	1955	1956	31
+Aston Villa	West Bromwich Albion	3:0	3:0	28.04.1956	00:00	1955	1956	31
+Preston North End	Manchester City	0:3	0:3	25.02.1956	00:00	1955	1956	32
+West Bromwich Albion	Sunderland AFC	3:0	3:0	25.02.1956	00:00	1955	1956	32
+Tottenham Hotspur	Chelsea FC	4:0	4:0	25.02.1956	00:00	1955	1956	32
+Luton Town	Huddersfield Town	1:2	1:2	25.02.1956	00:00	1955	1956	32
+Charlton Athletic	Blackpool FC	1:2	1:2	25.02.1956	00:00	1955	1956	32
+Burnley FC	Cardiff City	0:2	0:2	25.02.1956	00:00	1955	1956	32
+Birmingham City	Portsmouth FC	3:2	3:2	25.02.1956	00:00	1955	1956	32
+Everton FC	Bolton Wanderers	1:0	1:0	25.02.1956	00:00	1955	1956	32
+Manchester United	Aston Villa	1:0	1:0	25.02.1956	00:00	1955	1956	32
+Newcastle United	Arsenal FC	2:0	2:0	25.02.1956	00:00	1955	1956	32
+Sheffield United	Wolverhampton Wanderers	3:3	3:3	02.05.1956	00:00	1955	1956	32
+Bolton Wanderers	Sheffield United	2:1	2:1	03.03.1956	00:00	1955	1956	33
+Blackpool FC	West Bromwich Albion	5:1	5:1	03.03.1956	00:00	1955	1956	33
+Chelsea FC	Manchester United	2:4	2:4	03.03.1956	00:00	1955	1956	33
+Portsmouth FC	Burnley FC	3:1	3:1	03.03.1956	00:00	1955	1956	33
+Aston Villa	Charlton Athletic	1:1	1:1	03.03.1956	00:00	1955	1956	33
+Arsenal FC	Preston North End	3:2	3:2	06.03.1956	00:00	1955	1956	33
+Sunderland AFC	Luton Town	1:2	1:2	07.03.1956	00:00	1955	1956	33
+Cardiff City	Newcastle United	1:1	1:1	07.03.1956	00:00	1955	1956	33
+Huddersfield Town	Birmingham City	1:1	1:1	07.03.1956	00:00	1955	1956	33
+Manchester City	Everton FC	3:0	3:0	07.03.1956	00:00	1955	1956	33
+Sheffield United	Arsenal FC	0:2	0:2	24.03.1956	00:00	1955	1956	33
+Wolverhampton Wanderers	Tottenham Hotspur	5:1	5:1	18.04.1956	00:00	1955	1956	33
+Tottenham Hotspur	Portsmouth FC	1:1	1:1	10.03.1956	00:00	1955	1956	34
+Luton Town	Bolton Wanderers	0:0	0:0	10.03.1956	00:00	1955	1956	34
+West Bromwich Albion	Manchester City	0:4	0:4	10.03.1956	00:00	1955	1956	34
+Birmingham City	Wolverhampton Wanderers	0:0	0:0	10.03.1956	00:00	1955	1956	34
+Burnley FC	Chelsea FC	5:0	5:0	10.03.1956	00:00	1955	1956	34
+Manchester United	Cardiff City	1:1	1:1	10.03.1956	00:00	1955	1956	34
+Preston North End	Blackpool FC	3:3	3:3	10.03.1956	00:00	1955	1956	34
+Sheffield United	Huddersfield Town	3:1	3:1	10.03.1956	00:00	1955	1956	34
+Charlton Athletic	Arsenal FC	2:0	2:0	10.03.1956	00:00	1955	1956	34
+Everton FC	Sunderland AFC	1:2	1:2	10.03.1956	00:00	1955	1956	34
+Newcastle United	Aston Villa	2:3	2:3	10.03.1956	00:00	1955	1956	34
+Portsmouth FC	Sheffield United	1:1	1:1	17.03.1956	00:00	1955	1956	35
+Wolverhampton Wanderers	Luton Town	1:2	1:2	17.03.1956	00:00	1955	1956	35
+Bolton Wanderers	West Bromwich Albion	4:0	4:0	17.03.1956	00:00	1955	1956	35
+Blackpool FC	Newcastle United	5:1	5:1	17.03.1956	00:00	1955	1956	35
+Arsenal FC	Manchester United	1:1	1:1	17.03.1956	00:00	1955	1956	35
+Huddersfield Town	Everton FC	1:0	1:0	17.03.1956	00:00	1955	1956	35
+Aston Villa	Burnley FC	2:0	2:0	19.03.1956	00:00	1955	1956	35
+Chelsea FC	Birmingham City	1:2	1:2	21.03.1956	00:00	1955	1956	35
+Manchester City	Charlton Athletic	0:2	0:2	21.03.1956	00:00	1955	1956	35
+Sunderland AFC	Preston North End	2:2	2:2	21.03.1956	00:00	1955	1956	35
+Cardiff City	Tottenham Hotspur	0:0	0:0	23.04.1956	00:00	1955	1956	35
+Everton FC	Cardiff City	2:0	2:0	24.03.1956	00:00	1955	1956	36
+Tottenham Hotspur	Manchester City	2:1	2:1	24.03.1956	00:00	1955	1956	36
+West Bromwich Albion	Chelsea FC	3:0	3:0	24.03.1956	00:00	1955	1956	36
+Preston North End	Portsmouth FC	2:1	2:1	24.03.1956	00:00	1955	1956	36
+Newcastle United	Huddersfield Town	1:1	1:1	24.03.1956	00:00	1955	1956	36
+Luton Town	Aston Villa	2:1	2:1	24.03.1956	00:00	1955	1956	36
+Burnley FC	Sunderland AFC	4:0	4:0	24.03.1956	00:00	1955	1956	36
+Birmingham City	Blackpool FC	1:2	1:2	24.03.1956	00:00	1955	1956	36
+Charlton Athletic	Wolverhampton Wanderers	0:2	0:2	24.03.1956	00:00	1955	1956	36
+Manchester United	Bolton Wanderers	1:0	1:0	24.03.1956	00:00	1955	1956	36
+Tottenham Hotspur	Preston North End	0:4	0:4	30.03.1956	00:00	1955	1956	37
+Portsmouth FC	Cardiff City	1:1	1:1	30.03.1956	00:00	1955	1956	37
+Sunderland AFC	Manchester City	0:3	0:3	30.03.1956	00:00	1955	1956	37
+Blackpool FC	Bolton Wanderers	0:0	0:0	30.03.1956	00:00	1955	1956	37
+Luton Town	Chelsea FC	2:2	2:2	30.03.1956	00:00	1955	1956	37
+Charlton Athletic	Burnley FC	2:1	2:1	30.03.1956	00:00	1955	1956	37
+Everton FC	Sheffield United	1:4	1:4	30.03.1956	00:00	1955	1956	37
+Manchester United	Newcastle United	5:2	5:2	30.03.1956	00:00	1955	1956	37
+Wolverhampton Wanderers	Aston Villa	0:0	0:0	02.04.1956	00:00	1955	1956	37
+Birmingham City	West Bromwich Albion	2:0	2:0	02.04.1956	00:00	1955	1956	37
+Arsenal FC	Huddersfield Town	2:0	2:0	02.04.1956	00:00	1955	1956	37
+Tottenham Hotspur	Aston Villa	4:3	4:3	07.04.1956	00:00	1955	1956	37
+Sunderland AFC	Tottenham Hotspur	3:2	3:2	31.03.1956	00:00	1955	1956	38
+Arsenal FC	Luton Town	3:0	3:0	31.03.1956	00:00	1955	1956	38
+Cardiff City	West Bromwich Albion	1:3	1:3	31.03.1956	00:00	1955	1956	38
+Huddersfield Town	Manchester United	0:2	0:2	31.03.1956	00:00	1955	1956	38
+Manchester City	Birmingham City	1:1	1:1	31.03.1956	00:00	1955	1956	38
+Blackpool FC	Sheffield United	1:1	1:1	31.03.1956	00:00	1955	1956	38
+Bolton Wanderers	Burnley FC	0:1	0:1	31.03.1956	00:00	1955	1956	38
+Chelsea FC	Preston North End	0:1	0:1	31.03.1956	00:00	1955	1956	38
+Aston Villa	Everton FC	2:0	2:0	31.03.1956	00:00	1955	1956	38
+Portsmouth FC	Charlton Athletic	4:0	4:0	31.03.1956	00:00	1955	1956	38
+Wolverhampton Wanderers	Newcastle United	2:1	2:1	31.03.1956	00:00	1955	1956	38
+Preston North End	Tottenham Hotspur	3:3	3:3	02.04.1956	00:00	1955	1956	39
+Manchester City	Sunderland AFC	4:2	4:2	02.04.1956	00:00	1955	1956	39
+Cardiff City	Portsmouth FC	2:3	2:3	02.04.1956	00:00	1955	1956	39
+Bolton Wanderers	Blackpool FC	1:3	1:3	02.04.1956	00:00	1955	1956	39
+Chelsea FC	Luton Town	0:0	0:0	02.04.1956	00:00	1955	1956	39
+Burnley FC	Charlton Athletic	2:1	2:1	02.04.1956	00:00	1955	1956	39
+Newcastle United	Manchester United	0:0	0:0	02.04.1956	00:00	1955	1956	39
+Sheffield United	Everton FC	1:1	1:1	02.04.1956	00:00	1955	1956	39
+Aston Villa	Wolverhampton Wanderers	0:0	0:0	03.04.1956	00:00	1955	1956	39
+Huddersfield Town	Arsenal FC	0:1	0:1	03.04.1956	00:00	1955	1956	39
+West Bromwich Albion	Birmingham City	0:2	0:2	03.04.1956	00:00	1955	1956	39
+Newcastle United	Manchester City	3:1	3:1	07.04.1956	00:00	1955	1956	40
+West Bromwich Albion	Huddersfield Town	1:2	1:2	07.04.1956	00:00	1955	1956	40
+Sheffield United	Chelsea FC	2:1	2:1	07.04.1956	00:00	1955	1956	40
+Manchester United	Blackpool FC	2:1	2:1	07.04.1956	00:00	1955	1956	40
+Luton Town	Portsmouth FC	1:0	1:0	07.04.1956	00:00	1955	1956	40
+Burnley FC	Arsenal FC	0:1	0:1	07.04.1956	00:00	1955	1956	40
+Birmingham City	Cardiff City	2:1	2:1	07.04.1956	00:00	1955	1956	40
+Charlton Athletic	Sunderland AFC	2:1	2:1	07.04.1956	00:00	1955	1956	40
+Everton FC	Wolverhampton Wanderers	2:1	2:1	07.04.1956	00:00	1955	1956	40
+Preston North End	Bolton Wanderers	0:1	0:1	07.04.1956	00:00	1955	1956	40
+Aston Villa	Sheffield United	3:2	3:2	14.04.1956	00:00	1955	1956	41
+Cardiff City	Luton Town	2:0	2:0	14.04.1956	00:00	1955	1956	41
+Portsmouth FC	West Bromwich Albion	1:1	1:1	14.04.1956	00:00	1955	1956	41
+Manchester City	Burnley FC	1:3	1:3	14.04.1956	00:00	1955	1956	41
+Chelsea FC	Everton FC	6:1	6:1	14.04.1956	00:00	1955	1956	41
+Blackpool FC	Tottenham Hotspur	0:2	0:2	14.04.1956	00:00	1955	1956	41
+Arsenal FC	Birmingham City	1:0	1:0	14.04.1956	00:00	1955	1956	41
+Bolton Wanderers	Newcastle United	3:2	3:2	14.04.1956	00:00	1955	1956	41
+Huddersfield Town	Charlton Athletic	4:0	4:0	14.04.1956	00:00	1955	1956	41
+Sunderland AFC	Manchester United	2:2	2:2	14.04.1956	00:00	1955	1956	41
+Wolverhampton Wanderers	Preston North End	2:1	2:1	14.04.1956	00:00	1955	1956	41
+Charlton Athletic	Cardiff City	0:0	0:0	21.04.1956	00:00	1955	1956	42
+Sheffield United	Sunderland AFC	2:3	2:3	21.04.1956	00:00	1955	1956	42
+West Bromwich Albion	Arsenal FC	2:1	2:1	21.04.1956	00:00	1955	1956	42
+Tottenham Hotspur	Huddersfield Town	1:2	1:2	21.04.1956	00:00	1955	1956	42
+Newcastle United	Chelsea FC	1:1	1:1	21.04.1956	00:00	1955	1956	42
+Luton Town	Manchester City	3:2	3:2	21.04.1956	00:00	1955	1956	42
+Everton FC	Blackpool FC	1:0	1:0	21.04.1956	00:00	1955	1956	42
+Burnley FC	Wolverhampton Wanderers	1:2	1:2	21.04.1956	00:00	1955	1956	42
+Birmingham City	Bolton Wanderers	5:2	5:2	21.04.1956	00:00	1955	1956	42
+Manchester United	Portsmouth FC	1:0	1:0	21.04.1956	00:00	1955	1956	42
+Preston North End	Aston Villa	0:1	0:1	21.04.1956	00:00	1955	1956	42

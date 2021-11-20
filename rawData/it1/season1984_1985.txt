@@ -1,0 +1,240 @@
+Hellas Verona	SSC Napoli	2:0	3:1	16.09.1984	00:00	1984	1985	1
+Torino FC	Ascoli Calcio	1:0	1:0	16.09.1984	00:00	1984	1985	1
+AC Milan	Udinese Calcio	1:1	2:2	16.09.1984	00:00	1984	1985	1
+Sampdoria	US Cremonese	1:0	1:0	16.09.1984	00:00	1984	1985	1
+Calcio Como	Juventus	0:0	0:0	16.09.1984	00:00	1984	1985	1
+Atalanta	Inter	0:1	1:1	16.09.1984	00:00	1984	1985	1
+Lazio Roma	ACF Fiorentina	0:0	0:1	16.09.1984	00:00	1984	1985	1
+US Avellino	AS Roma	0:0	0:0	16.09.1984	00:00	1984	1985	1
+Inter	US Avellino	0:1	2:1	23.09.1984	00:00	1984	1985	2
+Udinese Calcio	Lazio Roma	2:0	5:0	23.09.1984	00:00	1984	1985	2
+AS Roma	Calcio Como	0:0	1:1	23.09.1984	00:00	1984	1985	2
+Juventus	Atalanta	1:0	5:1	23.09.1984	00:00	1984	1985	2
+ACF Fiorentina	AC Milan	0:0	0:0	23.09.1984	00:00	1984	1985	2
+US Cremonese	Torino FC	2:1	2:1	23.09.1984	00:00	1984	1985	2
+Ascoli Calcio	Hellas Verona	0:0	1:3	23.09.1984	00:00	1984	1985	2
+SSC Napoli	Sampdoria	0:0	1:1	23.09.1984	00:00	1984	1985	2
+Lazio Roma	Inter	1:1	1:1	30.09.1984	00:00	1984	1985	3
+AC Milan	US Cremonese	0:1	2:1	30.09.1984	00:00	1984	1985	3
+Hellas Verona	Udinese Calcio	0:0	1:0	30.09.1984	00:00	1984	1985	3
+Torino FC	SSC Napoli	1:0	3:0	30.09.1984	00:00	1984	1985	3
+Atalanta	AS Roma	0:0	0:0	30.09.1984	00:00	1984	1985	3
+Calcio Como	ACF Fiorentina	0:0	0:0	30.09.1984	00:00	1984	1985	3
+US Avellino	Juventus	0:0	0:0	30.09.1984	00:00	1984	1985	3
+Sampdoria	Ascoli Calcio	1:0	2:0	30.09.1984	00:00	1984	1985	3
+Inter	Hellas Verona	0:0	0:0	07.10.1984	00:00	1984	1985	4
+Udinese Calcio	Torino FC	0:1	0:1	07.10.1984	00:00	1984	1985	4
+AS Roma	Sampdoria	1:1	1:1	07.10.1984	00:00	1984	1985	4
+Juventus	AC Milan	1:0	1:1	07.10.1984	00:00	1984	1985	4
+ACF Fiorentina	Atalanta	1:0	5:0	07.10.1984	00:00	1984	1985	4
+US Cremonese	US Avellino	0:0	0:0	07.10.1984	00:00	1984	1985	4
+Ascoli Calcio	Lazio Roma	0:0	0:0	07.10.1984	00:00	1984	1985	4
+SSC Napoli	Calcio Como	2:0	3:0	07.10.1984	00:00	1984	1985	4
+Lazio Roma	SSC Napoli	1:0	1:1	14.10.1984	00:00	1984	1985	5
+AC Milan	AS Roma	0:0	2:1	14.10.1984	00:00	1984	1985	5
+Hellas Verona	Juventus	0:0	2:0	14.10.1984	00:00	1984	1985	5
+Torino FC	Inter	0:1	1:1	14.10.1984	00:00	1984	1985	5
+Atalanta	US Cremonese	1:0	1:0	14.10.1984	00:00	1984	1985	5
+Calcio Como	Udinese Calcio	0:0	2:0	14.10.1984	00:00	1984	1985	5
+US Avellino	Ascoli Calcio	1:0	2:0	14.10.1984	00:00	1984	1985	5
+Sampdoria	ACF Fiorentina	0:0	2:0	14.10.1984	00:00	1984	1985	5
+Inter	Calcio Como	1:0	1:0	21.10.1984	00:00	1984	1985	6
+Udinese Calcio	Sampdoria	1:0	1:0	21.10.1984	00:00	1984	1985	6
+Torino FC	Lazio Roma	0:0	1:0	21.10.1984	00:00	1984	1985	6
+SSC Napoli	AC Milan	0:0	0:0	21.10.1984	00:00	1984	1985	6
+ACF Fiorentina	US Avellino	0:0	1:0	21.10.1984	00:00	1984	1985	6
+US Cremonese	Juventus	0:1	1:3	21.10.1984	00:00	1984	1985	6
+Ascoli Calcio	Atalanta	0:0	0:0	21.10.1984	00:00	1984	1985	6
+AS Roma	Hellas Verona	0:0	0:0	21.10.1984	00:00	1984	1985	6
+Juventus	AS Roma	1:1	1:1	28.10.1984	00:00	1984	1985	7
+Lazio Roma	US Cremonese	0:0	2:1	28.10.1984	00:00	1984	1985	7
+Hellas Verona	ACF Fiorentina	2:0	2:1	28.10.1984	00:00	1984	1985	7
+Sampdoria	Torino FC	1:2	2:2	28.10.1984	00:00	1984	1985	7
+Calcio Como	Ascoli Calcio	0:0	1:0	28.10.1984	00:00	1984	1985	7
+US Avellino	Udinese Calcio	3:1	4:1	28.10.1984	00:00	1984	1985	7
+Atalanta	SSC Napoli	1:0	1:0	28.10.1984	00:00	1984	1985	7
+AC Milan	Inter	1:1	2:1	28.10.1984	00:00	1984	1985	7
+SSC Napoli	US Avellino	0:0	0:0	11.11.1984	00:00	1984	1985	8
+Torino FC	AC Milan	0:0	2:0	11.11.1984	00:00	1984	1985	8
+AS Roma	Lazio Roma	0:0	0:0	11.11.1984	00:00	1984	1985	8
+Udinese Calcio	Atalanta	0:0	2:0	11.11.1984	00:00	1984	1985	8
+Inter	Juventus	2:0	4:0	11.11.1984	00:00	1984	1985	8
+ACF Fiorentina	Ascoli Calcio	1:0	1:1	11.11.1984	00:00	1984	1985	8
+US Cremonese	Hellas Verona	0:0	0:2	11.11.1984	00:00	1984	1985	8
+Sampdoria	Calcio Como	1:0	1:0	11.11.1984	00:00	1984	1985	8
+Hellas Verona	Sampdoria	0:0	0:0	18.11.1984	00:00	1984	1985	9
+AS Roma	ACF Fiorentina	2:0	2:1	18.11.1984	00:00	1984	1985	9
+Inter	Udinese Calcio	1:0	1:0	18.11.1984	00:00	1984	1985	9
+Juventus	Torino FC	1:0	1:2	18.11.1984	00:00	1984	1985	9
+US Avellino	AC Milan	0:0	0:0	18.11.1984	00:00	1984	1985	9
+Ascoli Calcio	SSC Napoli	0:1	1:1	18.11.1984	00:00	1984	1985	9
+Atalanta	Lazio Roma	0:0	1:0	18.11.1984	00:00	1984	1985	9
+Calcio Como	US Cremonese	0:0	1:0	18.11.1984	00:00	1984	1985	9
+Lazio Roma	Calcio Como	2:1	3:2	25.11.1984	00:00	1984	1985	10
+Udinese Calcio	Juventus	0:2	0:3	25.11.1984	00:00	1984	1985	10
+Torino FC	Hellas Verona	1:1	1:2	25.11.1984	00:00	1984	1985	10
+AC Milan	Sampdoria	0:0	0:1	25.11.1984	00:00	1984	1985	10
+ACF Fiorentina	Inter	1:1	1:1	25.11.1984	00:00	1984	1985	10
+Atalanta	US Avellino	1:0	3:3	25.11.1984	00:00	1984	1985	10
+Ascoli Calcio	AS Roma	0:0	0:0	25.11.1984	00:00	1984	1985	10
+SSC Napoli	US Cremonese	1:0	1:0	25.11.1984	00:00	1984	1985	10
+Inter	SSC Napoli	0:0	2:1	02.12.1984	00:00	1984	1985	11
+Juventus	Ascoli Calcio	0:1	2:2	02.12.1984	00:00	1984	1985	11
+Hellas Verona	AC Milan	0:0	0:0	02.12.1984	00:00	1984	1985	11
+Sampdoria	Lazio Roma	2:0	2:2	02.12.1984	00:00	1984	1985	11
+US Avellino	Torino FC	0:2	1:3	02.12.1984	00:00	1984	1985	11
+US Cremonese	ACF Fiorentina	1:0	1:1	02.12.1984	00:00	1984	1985	11
+Calcio Como	Atalanta	0:0	0:0	02.12.1984	00:00	1984	1985	11
+AS Roma	Udinese Calcio	1:0	2:1	02.12.1984	00:00	1984	1985	11
+AC Milan	Atalanta	2:0	2:2	16.12.1984	00:00	1984	1985	12
+Torino FC	Calcio Como	1:1	3:1	16.12.1984	00:00	1984	1985	12
+SSC Napoli	AS Roma	1:1	1:2	16.12.1984	00:00	1984	1985	12
+Udinese Calcio	Ascoli Calcio	1:0	1:1	16.12.1984	00:00	1984	1985	12
+Lazio Roma	Hellas Verona	0:0	0:1	16.12.1984	00:00	1984	1985	12
+ACF Fiorentina	Juventus	0:0	0:0	16.12.1984	00:00	1984	1985	12
+US Cremonese	Inter	0:2	1:2	16.12.1984	00:00	1984	1985	12
+Sampdoria	US Avellino	0:0	1:0	16.12.1984	00:00	1984	1985	12
+Inter	Sampdoria	1:0	2:0	23.12.1984	00:00	1984	1985	13
+AS Roma	US Cremonese	1:0	3:2	23.12.1984	00:00	1984	1985	13
+Udinese Calcio	ACF Fiorentina	1:1	2:2	23.12.1984	00:00	1984	1985	13
+Juventus	SSC Napoli	1:0	2:0	23.12.1984	00:00	1984	1985	13
+US Avellino	Lazio Roma	0:0	1:0	23.12.1984	00:00	1984	1985	13
+Ascoli Calcio	AC Milan	0:0	0:1	23.12.1984	00:00	1984	1985	13
+Atalanta	Torino FC	0:0	0:0	23.12.1984	00:00	1984	1985	13
+Calcio Como	Hellas Verona	0:0	0:0	23.12.1984	00:00	1984	1985	13
+Lazio Roma	AC Milan	0:1	0:1	06.01.1985	00:00	1984	1985	14
+Torino FC	ACF Fiorentina	1:0	2:2	06.01.1985	00:00	1984	1985	14
+SSC Napoli	Udinese Calcio	2:2	4:3	06.01.1985	00:00	1984	1985	14
+Hellas Verona	Atalanta	1:0	1:1	06.01.1985	00:00	1984	1985	14
+Inter	AS Roma	0:0	0:0	06.01.1985	00:00	1984	1985	14
+US Cremonese	Ascoli Calcio	2:0	2:0	06.01.1985	00:00	1984	1985	14
+Calcio Como	US Avellino	1:1	2:1	06.01.1985	00:00	1984	1985	14
+Sampdoria	Juventus	0:1	1:1	06.01.1985	00:00	1984	1985	14
+Juventus	Lazio Roma	0:0	1:0	13.01.1985	00:00	1984	1985	15
+AS Roma	Torino FC	1:0	1:0	13.01.1985	00:00	1984	1985	15
+Udinese Calcio	US Cremonese	0:0	2:0	13.01.1985	00:00	1984	1985	15
+AC Milan	Calcio Como	0:2	0:2	13.01.1985	00:00	1984	1985	15
+ACF Fiorentina	SSC Napoli	0:0	0:1	13.01.1985	00:00	1984	1985	15
+US Avellino	Hellas Verona	1:1	2:1	13.01.1985	00:00	1984	1985	15
+Ascoli Calcio	Inter	0:0	1:1	13.01.1985	00:00	1984	1985	15
+Atalanta	Sampdoria	0:0	0:0	13.01.1985	00:00	1984	1985	15
+US Cremonese	Sampdoria	0:1	1:1	20.01.1985	00:00	1984	1985	16
+AS Roma	US Avellino	0:0	1:0	20.01.1985	00:00	1984	1985	16
+Udinese Calcio	AC Milan	1:0	1:1	20.01.1985	00:00	1984	1985	16
+SSC Napoli	Hellas Verona	0:0	0:0	20.01.1985	00:00	1984	1985	16
+ACF Fiorentina	Lazio Roma	1:0	3:0	20.01.1985	00:00	1984	1985	16
+Ascoli Calcio	Torino FC	1:0	2:2	20.01.1985	00:00	1984	1985	16
+Inter	Atalanta	1:0	1:0	20.01.1985	00:00	1984	1985	16
+Juventus	Calcio Como	2:0	2:0	20.01.1985	00:00	1984	1985	16
+Lazio Roma	Udinese Calcio	0:2	1:4	27.01.1985	00:00	1984	1985	17
+Torino FC	US Cremonese	1:0	1:0	27.01.1985	00:00	1984	1985	17
+AC Milan	ACF Fiorentina	0:1	1:1	27.01.1985	00:00	1984	1985	17
+Hellas Verona	Ascoli Calcio	2:0	2:0	27.01.1985	00:00	1984	1985	17
+Calcio Como	AS Roma	0:0	0:0	27.01.1985	00:00	1984	1985	17
+US Avellino	Inter	0:0	0:0	27.01.1985	00:00	1984	1985	17
+Atalanta	Juventus	1:1	1:1	27.01.1985	00:00	1984	1985	17
+Sampdoria	SSC Napoli	0:0	0:0	27.01.1985	00:00	1984	1985	17
+Juventus	US Avellino	1:0	2:1	10.02.1985	00:00	1984	1985	18
+Udinese Calcio	Hellas Verona	1:3	3:5	10.02.1985	00:00	1984	1985	18
+AS Roma	Atalanta	0:1	1:1	10.02.1985	00:00	1984	1985	18
+SSC Napoli	Torino FC	1:1	2:1	10.02.1985	00:00	1984	1985	18
+Inter	Lazio Roma	0:0	1:0	10.02.1985	00:00	1984	1985	18
+ACF Fiorentina	Calcio Como	1:0	2:1	10.02.1985	00:00	1984	1985	18
+Ascoli Calcio	Sampdoria	0:0	2:0	10.02.1985	00:00	1984	1985	18
+US Cremonese	AC Milan	0:0	0:1	10.02.1985	00:00	1984	1985	18
+AC Milan	Juventus	2:2	3:2	17.02.1985	00:00	1984	1985	19
+Torino FC	Udinese Calcio	0:0	1:0	17.02.1985	00:00	1984	1985	19
+Hellas Verona	Inter	0:1	1:1	17.02.1985	00:00	1984	1985	19
+Sampdoria	AS Roma	1:0	3:0	17.02.1985	00:00	1984	1985	19
+Calcio Como	SSC Napoli	0:1	1:1	17.02.1985	00:00	1984	1985	19
+Atalanta	ACF Fiorentina	1:1	2:2	17.02.1985	00:00	1984	1985	19
+US Avellino	US Cremonese	0:0	2:0	17.02.1985	00:00	1984	1985	19
+Lazio Roma	Ascoli Calcio	0:0	0:0	17.02.1985	00:00	1984	1985	19
+Inter	Torino FC	1:1	1:1	24.02.1985	00:00	1984	1985	20
+Udinese Calcio	Calcio Como	1:0	4:1	24.02.1985	00:00	1984	1985	20
+AS Roma	AC Milan	0:1	0:1	24.02.1985	00:00	1984	1985	20
+Ascoli Calcio	US Avellino	1:2	2:2	24.02.1985	00:00	1984	1985	20
+Juventus	Hellas Verona	0:0	1:1	24.02.1985	00:00	1984	1985	20
+ACF Fiorentina	Sampdoria	0:2	0:3	24.02.1985	00:00	1984	1985	20
+US Cremonese	Atalanta	0:0	0:0	24.02.1985	00:00	1984	1985	20
+SSC Napoli	Lazio Roma	0:0	4:0	24.02.1985	00:00	1984	1985	20
+Calcio Como	Inter	0:0	0:0	03.03.1985	00:00	1984	1985	21
+Sampdoria	Udinese Calcio	0:0	1:0	03.03.1985	00:00	1984	1985	21
+AC Milan	SSC Napoli	1:1	2:1	03.03.1985	00:00	1984	1985	21
+Hellas Verona	AS Roma	0:0	1:0	03.03.1985	00:00	1984	1985	21
+Juventus	US Cremonese	3:1	5:1	03.03.1985	00:00	1984	1985	21
+US Avellino	ACF Fiorentina	0:0	0:0	03.03.1985	00:00	1984	1985	21
+Atalanta	Ascoli Calcio	0:0	0:0	03.03.1985	00:00	1984	1985	21
+Lazio Roma	Torino FC	0:0	0:0	03.03.1985	00:00	1984	1985	21
+Ascoli Calcio	Calcio Como	1:0	1:0	17.03.1985	00:00	1984	1985	22
+US Cremonese	Lazio Roma	0:1	1:1	17.03.1985	00:00	1984	1985	22
+ACF Fiorentina	Hellas Verona	1:0	1:3	17.03.1985	00:00	1984	1985	22
+Inter	AC Milan	0:1	2:2	17.03.1985	00:00	1984	1985	22
+SSC Napoli	Atalanta	1:0	1:0	17.03.1985	00:00	1984	1985	22
+AS Roma	Juventus	0:0	1:1	17.03.1985	00:00	1984	1985	22
+Torino FC	Sampdoria	1:0	1:1	17.03.1985	00:00	1984	1985	22
+Udinese Calcio	US Avellino	1:0	2:0	17.03.1985	00:00	1984	1985	22
+Juventus	Inter	1:1	3:1	24.03.1985	00:00	1984	1985	23
+AC Milan	Torino FC	0:0	0:1	24.03.1985	00:00	1984	1985	23
+Lazio Roma	AS Roma	0:0	1:1	24.03.1985	00:00	1984	1985	23
+US Avellino	SSC Napoli	0:0	0:1	24.03.1985	00:00	1984	1985	23
+Atalanta	Udinese Calcio	0:0	0:1	24.03.1985	00:00	1984	1985	23
+Ascoli Calcio	ACF Fiorentina	0:1	2:1	24.03.1985	00:00	1984	1985	23
+Hellas Verona	US Cremonese	0:0	3:0	24.03.1985	00:00	1984	1985	23
+Calcio Como	Sampdoria	0:0	0:0	24.03.1985	00:00	1984	1985	23
+Lazio Roma	Atalanta	1:1	1:1	31.03.1985	00:00	1984	1985	24
+Udinese Calcio	Inter	1:1	2:1	31.03.1985	00:00	1984	1985	24
+Torino FC	Juventus	0:1	0:2	31.03.1985	00:00	1984	1985	24
+Sampdoria	Hellas Verona	1:1	1:1	31.03.1985	00:00	1984	1985	24
+AC Milan	US Avellino	1:0	2:0	31.03.1985	00:00	1984	1985	24
+ACF Fiorentina	AS Roma	0:0	1:0	31.03.1985	00:00	1984	1985	24
+US Cremonese	Calcio Como	1:0	2:0	31.03.1985	00:00	1984	1985	24
+SSC Napoli	Ascoli Calcio	0:0	1:1	31.03.1985	00:00	1984	1985	24
+AS Roma	Ascoli Calcio	2:0	3:1	14.04.1985	00:00	1984	1985	25
+US Cremonese	SSC Napoli	0:0	1:1	14.04.1985	00:00	1984	1985	25
+Hellas Verona	Torino FC	0:0	1:2	14.04.1985	00:00	1984	1985	25
+Sampdoria	AC Milan	1:0	2:1	14.04.1985	00:00	1984	1985	25
+Inter	ACF Fiorentina	1:0	1:0	14.04.1985	00:00	1984	1985	25
+US Avellino	Atalanta	1:1	1:1	14.04.1985	00:00	1984	1985	25
+Calcio Como	Lazio Roma	0:0	1:0	14.04.1985	00:00	1984	1985	25
+Juventus	Udinese Calcio	1:1	3:2	14.04.1985	00:00	1984	1985	25
+Lazio Roma	Sampdoria	0:2	0:3	21.04.1985	00:00	1984	1985	26
+Udinese Calcio	AS Roma	0:0	0:2	21.04.1985	00:00	1984	1985	26
+Torino FC	US Avellino	1:0	2:0	21.04.1985	00:00	1984	1985	26
+AC Milan	Hellas Verona	0:0	0:0	21.04.1985	00:00	1984	1985	26
+ACF Fiorentina	US Cremonese	1:1	1:1	21.04.1985	00:00	1984	1985	26
+Atalanta	Calcio Como	1:0	1:0	21.04.1985	00:00	1984	1985	26
+Ascoli Calcio	Juventus	0:1	1:1	21.04.1985	00:00	1984	1985	26
+SSC Napoli	Inter	1:1	3:1	21.04.1985	00:00	1984	1985	26
+Juventus	ACF Fiorentina	1:1	1:2	28.04.1985	00:00	1984	1985	27
+Ascoli Calcio	Udinese Calcio	0:0	0:1	28.04.1985	00:00	1984	1985	27
+AS Roma	SSC Napoli	1:1	1:1	28.04.1985	00:00	1984	1985	27
+Hellas Verona	Lazio Roma	0:0	1:0	28.04.1985	00:00	1984	1985	27
+Calcio Como	Torino FC	0:0	0:0	28.04.1985	00:00	1984	1985	27
+Atalanta	AC Milan	0:0	1:0	28.04.1985	00:00	1984	1985	27
+Inter	US Cremonese	1:0	2:0	28.04.1985	00:00	1984	1985	27
+US Avellino	Sampdoria	0:0	2:1	28.04.1985	00:00	1984	1985	27
+AC Milan	Ascoli Calcio	2:1	2:1	05.05.1985	00:00	1984	1985	28
+Hellas Verona	Calcio Como	0:0	0:0	05.05.1985	00:00	1984	1985	28
+Torino FC	Atalanta	0:0	0:0	05.05.1985	00:00	1984	1985	28
+SSC Napoli	Juventus	0:0	0:0	05.05.1985	00:00	1984	1985	28
+Lazio Roma	US Avellino	0:0	0:1	05.05.1985	00:00	1984	1985	28
+ACF Fiorentina	Udinese Calcio	1:0	3:1	05.05.1985	00:00	1984	1985	28
+US Cremonese	AS Roma	0:3	0:5	05.05.1985	00:00	1984	1985	28
+Sampdoria	Inter	0:1	1:2	05.05.1985	00:00	1984	1985	28
+Atalanta	Hellas Verona	1:0	1:1	12.05.1985	00:00	1984	1985	29
+AS Roma	Inter	2:1	4:3	12.05.1985	00:00	1984	1985	29
+Udinese Calcio	SSC Napoli	1:1	2:2	12.05.1985	00:00	1984	1985	29
+AC Milan	Lazio Roma	2:0	2:0	12.05.1985	00:00	1984	1985	29
+Juventus	Sampdoria	0:0	1:1	12.05.1985	00:00	1984	1985	29
+US Avellino	Calcio Como	1:1	1:1	12.05.1985	00:00	1984	1985	29
+Ascoli Calcio	US Cremonese	1:1	3:2	12.05.1985	00:00	1984	1985	29
+ACF Fiorentina	Torino FC	0:0	0:0	12.05.1985	00:00	1984	1985	29
+Hellas Verona	US Avellino	2:1	4:2	19.05.1985	00:00	1984	1985	30
+Calcio Como	AC Milan	0:0	0:0	19.05.1985	00:00	1984	1985	30
+US Cremonese	Udinese Calcio	0:0	2:0	19.05.1985	00:00	1984	1985	30
+Inter	Ascoli Calcio	2:0	5:1	19.05.1985	00:00	1984	1985	30
+Lazio Roma	Juventus	1:2	3:3	19.05.1985	00:00	1984	1985	30
+SSC Napoli	ACF Fiorentina	1:0	1:0	19.05.1985	00:00	1984	1985	30
+Sampdoria	Atalanta	2:0	3:0	19.05.1985	00:00	1984	1985	30
+Torino FC	AS Roma	0:0	1:0	19.05.1985	00:00	1984	1985	30

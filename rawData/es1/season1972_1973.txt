@@ -1,0 +1,306 @@
+Granada CF	Real Zaragoza	0:0	0:0	02.09.1972	00:00	1972	1973	1
+Sporting GijÃ³n	Real Betis	1:0	1:0	02.09.1972	00:00	1972	1973	1
+UD Las Palmas	Real Oviedo	0:0	2:1	02.09.1972	00:00	1972	1973	1
+CD MÃ¡laga	Athletic Bilbao	0:0	0:0	02.09.1972	00:00	1972	1973	1
+CD CastellÃ³n	Real Madrid	1:2	2:3	03.09.1972	00:00	1972	1973	1
+Celta Vigo	Espanyol Barcelona	1:1	1:1	03.09.1972	00:00	1972	1973	1
+AtlÃ©tico Madrid	Valencia CF	1:1	1:3	03.09.1972	00:00	1972	1973	1
+Burgos CF	Real Sociedad	1:0	1:0	03.09.1972	00:00	1972	1973	1
+FC Barcelona	Deportivo La CoruÃ±a	2:0	3:1	03.09.1972	00:00	1972	1973	1
+Athletic Bilbao	Celta Vigo	0:1	1:1	09.09.1972	00:00	1972	1973	2
+Real Betis	UD Las Palmas	0:1	0:2	09.09.1972	00:00	1972	1973	2
+Valencia CF	FC Barcelona	0:0	0:1	09.09.1972	00:00	1972	1973	2
+Real Madrid	Sporting GijÃ³n	0:0	1:0	09.09.1972	00:00	1972	1973	2
+Real Zaragoza	Burgos CF	0:0	2:0	10.09.1972	00:00	1972	1973	2
+Espanyol Barcelona	CD CastellÃ³n	0:0	1:0	10.09.1972	00:00	1972	1973	2
+Deportivo La CoruÃ±a	Granada CF	0:0	0:0	10.09.1972	00:00	1972	1973	2
+Real Sociedad	CD MÃ¡laga	1:1	1:1	10.09.1972	00:00	1972	1973	2
+Real Oviedo	AtlÃ©tico Madrid	0:1	0:2	10.09.1972	00:00	1972	1973	2
+FC Barcelona	Real Oviedo	1:0	3:1	16.09.1972	00:00	1972	1973	3
+Sporting GijÃ³n	Espanyol Barcelona	0:0	0:0	16.09.1972	00:00	1972	1973	3
+Celta Vigo	Real Sociedad	0:1	0:1	17.09.1972	00:00	1972	1973	3
+Burgos CF	CD MÃ¡laga	1:0	2:2	17.09.1972	00:00	1972	1973	3
+Real Zaragoza	Deportivo La CoruÃ±a	2:0	5:0	17.09.1972	00:00	1972	1973	3
+AtlÃ©tico Madrid	Real Betis	2:1	2:1	17.09.1972	00:00	1972	1973	3
+UD Las Palmas	Real Madrid	0:1	1:1	17.09.1972	00:00	1972	1973	3
+CD CastellÃ³n	Athletic Bilbao	1:3	1:4	17.09.1972	00:00	1972	1973	3
+Granada CF	Valencia CF	1:0	1:1	17.09.1972	00:00	1972	1973	3
+Athletic Bilbao	Sporting GijÃ³n	1:0	2:0	23.09.1972	00:00	1972	1973	4
+Espanyol Barcelona	UD Las Palmas	2:0	4:0	23.09.1972	00:00	1972	1973	4
+Valencia CF	Real Zaragoza	0:0	0:0	23.09.1972	00:00	1972	1973	4
+Real Madrid	AtlÃ©tico Madrid	0:1	0:1	23.09.1972	00:00	1972	1973	4
+Real Betis	FC Barcelona	0:0	0:2	24.09.1972	00:00	1972	1973	4
+Deportivo La CoruÃ±a	Burgos CF	1:0	2:1	24.09.1972	00:00	1972	1973	4
+Real Sociedad	CD CastellÃ³n	0:0	0:0	24.09.1972	00:00	1972	1973	4
+CD MÃ¡laga	Celta Vigo	0:0	1:0	24.09.1972	00:00	1972	1973	4
+Real Oviedo	Granada CF	1:0	3:0	24.09.1972	00:00	1972	1973	4
+UD Las Palmas	Athletic Bilbao	1:0	1:0	01.10.1972	00:00	1972	1973	5
+Granada CF	Real Betis	0:0	0:0	01.10.1972	00:00	1972	1973	5
+CD CastellÃ³n	CD MÃ¡laga	1:0	1:0	01.10.1972	00:00	1972	1973	5
+Real Zaragoza	Real Oviedo	1:0	3:0	01.10.1972	00:00	1972	1973	5
+Burgos CF	Celta Vigo	0:0	0:0	01.10.1972	00:00	1972	1973	5
+FC Barcelona	Real Madrid	0:0	1:0	01.10.1972	00:00	1972	1973	5
+AtlÃ©tico Madrid	Espanyol Barcelona	0:0	0:0	01.10.1972	00:00	1972	1973	5
+Deportivo La CoruÃ±a	Valencia CF	1:0	1:1	01.10.1972	00:00	1972	1973	5
+Sporting GijÃ³n	Real Sociedad	2:0	3:0	01.10.1972	00:00	1972	1973	5
+CD MÃ¡laga	Sporting GijÃ³n	1:0	1:0	07.10.1972	00:00	1972	1973	6
+Valencia CF	Burgos CF	1:0	3:0	07.10.1972	00:00	1972	1973	6
+Real Madrid	Granada CF	1:0	2:1	07.10.1972	00:00	1972	1973	6
+Real Sociedad	UD Las Palmas	1:0	1:0	07.10.1972	00:00	1972	1973	6
+Athletic Bilbao	AtlÃ©tico Madrid	1:0	1:0	07.10.1972	00:00	1972	1973	6
+Espanyol Barcelona	FC Barcelona	1:1	1:1	07.10.1972	00:00	1972	1973	6
+Celta Vigo	CD CastellÃ³n	1:0	2:0	07.10.1972	00:00	1972	1973	6
+Real Oviedo	Deportivo La CoruÃ±a	0:0	0:0	08.10.1972	00:00	1972	1973	6
+Real Betis	Real Zaragoza	1:0	1:1	08.10.1972	00:00	1972	1973	6
+UD Las Palmas	CD MÃ¡laga	1:0	1:3	21.10.1972	00:00	1972	1973	7
+AtlÃ©tico Madrid	Real Sociedad	1:1	2:1	21.10.1972	00:00	1972	1973	7
+FC Barcelona	Athletic Bilbao	0:0	1:0	22.10.1972	00:00	1972	1973	7
+Valencia CF	Real Oviedo	1:2	2:2	22.10.1972	00:00	1972	1973	7
+Sporting GijÃ³n	Celta Vigo	2:1	3:1	22.10.1972	00:00	1972	1973	7
+Burgos CF	CD CastellÃ³n	1:1	2:1	22.10.1972	00:00	1972	1973	7
+Real Zaragoza	Real Madrid	0:0	0:0	22.10.1972	00:00	1972	1973	7
+Deportivo La CoruÃ±a	Real Betis	1:0	2:0	22.10.1972	00:00	1972	1973	7
+Granada CF	Espanyol Barcelona	2:0	2:2	22.10.1972	00:00	1972	1973	7
+Espanyol Barcelona	Real Zaragoza	1:0	3:1	29.10.1972	00:00	1972	1973	8
+Real Oviedo	Burgos CF	0:0	1:0	29.10.1972	00:00	1972	1973	8
+Athletic Bilbao	Granada CF	0:0	0:1	29.10.1972	00:00	1972	1973	8
+Real Madrid	Deportivo La CoruÃ±a	0:0	0:0	29.10.1972	00:00	1972	1973	8
+Celta Vigo	UD Las Palmas	1:0	3:1	29.10.1972	00:00	1972	1973	8
+CD MÃ¡laga	AtlÃ©tico Madrid	0:0	0:1	29.10.1972	00:00	1972	1973	8
+Real Betis	Valencia CF	0:0	0:0	29.10.1972	00:00	1972	1973	8
+Real Sociedad	FC Barcelona	2:0	2:0	29.10.1972	00:00	1972	1973	8
+CD CastellÃ³n	Sporting GijÃ³n	0:0	1:0	29.10.1972	00:00	1972	1973	8
+AtlÃ©tico Madrid	Celta Vigo	4:0	5:1	04.11.1972	00:00	1972	1973	9
+UD Las Palmas	CD CastellÃ³n	0:0	0:1	04.11.1972	00:00	1972	1973	9
+Real Zaragoza	Athletic Bilbao	0:0	3:2	05.11.1972	00:00	1972	1973	9
+Real Oviedo	Real Betis	0:0	0:0	05.11.1972	00:00	1972	1973	9
+FC Barcelona	CD MÃ¡laga	0:0	0:0	05.11.1972	00:00	1972	1973	9
+Burgos CF	Sporting GijÃ³n	1:1	2:1	05.11.1972	00:00	1972	1973	9
+Deportivo La CoruÃ±a	Espanyol Barcelona	0:0	0:0	05.11.1972	00:00	1972	1973	9
+Valencia CF	Real Madrid	0:1	0:1	05.11.1972	00:00	1972	1973	9
+Granada CF	Real Sociedad	0:0	2:0	05.11.1972	00:00	1972	1973	9
+Real Sociedad	Real Zaragoza	2:0	3:0	12.11.1972	00:00	1972	1973	10
+Real Betis	Burgos CF	4:0	5:1	12.11.1972	00:00	1972	1973	10
+CD MÃ¡laga	Granada CF	1:0	3:0	12.11.1972	00:00	1972	1973	10
+Athletic Bilbao	Deportivo La CoruÃ±a	1:0	3:0	12.11.1972	00:00	1972	1973	10
+Sporting GijÃ³n	UD Las Palmas	0:0	2:2	12.11.1972	00:00	1972	1973	10
+CD CastellÃ³n	AtlÃ©tico Madrid	0:1	1:1	12.11.1972	00:00	1972	1973	10
+Espanyol Barcelona	Valencia CF	1:0	3:0	12.11.1972	00:00	1972	1973	10
+Celta Vigo	FC Barcelona	0:0	0:0	12.11.1972	00:00	1972	1973	10
+Real Madrid	Real Oviedo	2:0	3:0	12.11.1972	00:00	1972	1973	10
+AtlÃ©tico Madrid	Sporting GijÃ³n	0:0	0:1	19.11.1972	00:00	1972	1973	11
+Deportivo La CoruÃ±a	Real Sociedad	1:1	1:2	19.11.1972	00:00	1972	1973	11
+FC Barcelona	CD CastellÃ³n	3:1	3:1	19.11.1972	00:00	1972	1973	11
+Real Zaragoza	CD MÃ¡laga	1:0	1:1	19.11.1972	00:00	1972	1973	11
+Real Betis	Real Madrid	1:1	2:1	19.11.1972	00:00	1972	1973	11
+Real Oviedo	Espanyol Barcelona	0:0	1:2	19.11.1972	00:00	1972	1973	11
+Valencia CF	Athletic Bilbao	2:1	4:1	19.11.1972	00:00	1972	1973	11
+Burgos CF	UD Las Palmas	1:2	3:3	19.11.1972	00:00	1972	1973	11
+Granada CF	Celta Vigo	0:0	1:0	19.11.1972	00:00	1972	1973	11
+UD Las Palmas	AtlÃ©tico Madrid	0:2	2:2	25.11.1972	00:00	1972	1973	12
+Celta Vigo	Real Zaragoza	0:1	1:2	26.11.1972	00:00	1972	1973	12
+Real Madrid	Burgos CF	1:0	2:0	26.11.1972	00:00	1972	1973	12
+CD CastellÃ³n	Granada CF	0:0	0:0	26.11.1972	00:00	1972	1973	12
+CD MÃ¡laga	Deportivo La CoruÃ±a	2:0	4:1	26.11.1972	00:00	1972	1973	12
+Espanyol Barcelona	Real Betis	0:1	2:2	26.11.1972	00:00	1972	1973	12
+Real Sociedad	Valencia CF	1:0	2:1	26.11.1972	00:00	1972	1973	12
+Sporting GijÃ³n	FC Barcelona	1:0	1:1	26.11.1972	00:00	1972	1973	12
+Athletic Bilbao	Real Oviedo	2:0	3:3	26.11.1972	00:00	1972	1973	12
+FC Barcelona	UD Las Palmas	2:0	3:1	03.12.1972	00:00	1972	1973	13
+Deportivo La CoruÃ±a	Celta Vigo	1:0	1:0	03.12.1972	00:00	1972	1973	13
+Granada CF	Sporting GijÃ³n	1:0	1:0	03.12.1972	00:00	1972	1973	13
+Real Zaragoza	CD CastellÃ³n	0:1	0:1	03.12.1972	00:00	1972	1973	13
+Burgos CF	AtlÃ©tico Madrid	0:1	0:1	03.12.1972	00:00	1972	1973	13
+Real Madrid	Espanyol Barcelona	1:0	1:0	03.12.1972	00:00	1972	1973	13
+Real Betis	Athletic Bilbao	0:0	0:0	03.12.1972	00:00	1972	1973	13
+Real Oviedo	Real Sociedad	0:0	1:1	03.12.1972	00:00	1972	1973	13
+Valencia CF	CD MÃ¡laga	2:0	2:1	03.12.1972	00:00	1972	1973	13
+UD Las Palmas	Granada CF	1:0	1:0	09.12.1972	00:00	1972	1973	14
+Celta Vigo	Valencia CF	1:0	1:0	10.12.1972	00:00	1972	1973	14
+Espanyol Barcelona	Burgos CF	1:0	2:0	10.12.1972	00:00	1972	1973	14
+CD CastellÃ³n	Deportivo La CoruÃ±a	1:0	2:0	10.12.1972	00:00	1972	1973	14
+CD MÃ¡laga	Real Oviedo	1:0	1:1	10.12.1972	00:00	1972	1973	14
+Sporting GijÃ³n	Real Zaragoza	0:0	3:0	10.12.1972	00:00	1972	1973	14
+AtlÃ©tico Madrid	FC Barcelona	1:0	2:0	10.12.1972	00:00	1972	1973	14
+Athletic Bilbao	Real Madrid	1:1	2:1	10.12.1972	00:00	1972	1973	14
+Real Sociedad	Real Betis	2:1	2:1	10.12.1972	00:00	1972	1973	14
+Real Oviedo	Celta Vigo	0:0	0:0	17.12.1972	00:00	1972	1973	15
+Real Zaragoza	UD Las Palmas	0:0	1:0	17.12.1972	00:00	1972	1973	15
+Deportivo La CoruÃ±a	Sporting GijÃ³n	1:0	2:1	17.12.1972	00:00	1972	1973	15
+Valencia CF	CD CastellÃ³n	0:0	4:2	17.12.1972	00:00	1972	1973	15
+Granada CF	AtlÃ©tico Madrid	0:0	0:1	17.12.1972	00:00	1972	1973	15
+Espanyol Barcelona	Athletic Bilbao	0:0	0:0	17.12.1972	00:00	1972	1973	15
+Burgos CF	FC Barcelona	0:0	0:0	17.12.1972	00:00	1972	1973	15
+Real Betis	CD MÃ¡laga	0:1	0:1	17.12.1972	00:00	1972	1973	15
+Real Madrid	Real Sociedad	2:1	6:1	17.12.1972	00:00	1972	1973	15
+UD Las Palmas	Deportivo La CoruÃ±a	2:0	3:0	30.12.1972	00:00	1972	1973	16
+Celta Vigo	Real Betis	0:0	0:0	30.12.1972	00:00	1972	1973	16
+Real Sociedad	Espanyol Barcelona	3:0	4:1	30.12.1972	00:00	1972	1973	16
+Sporting GijÃ³n	Valencia CF	1:0	1:1	31.12.1972	00:00	1972	1973	16
+FC Barcelona	Granada CF	1:0	3:0	31.12.1972	00:00	1972	1973	16
+AtlÃ©tico Madrid	Real Zaragoza	0:0	0:0	31.12.1972	00:00	1972	1973	16
+Burgos CF	Athletic Bilbao	2:0	5:1	31.12.1972	00:00	1972	1973	16
+CD MÃ¡laga	Real Madrid	1:0	1:0	31.12.1972	00:00	1972	1973	16
+CD CastellÃ³n	Real Oviedo	2:0	2:0	31.12.1972	00:00	1972	1973	16
+Granada CF	Burgos CF	0:0	2:0	07.01.1973	00:00	1972	1973	17
+Real Zaragoza	FC Barcelona	0:0	0:2	07.01.1973	00:00	1972	1973	17
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:1	1:1	07.01.1973	00:00	1972	1973	17
+Athletic Bilbao	Real Sociedad	0:1	2:1	07.01.1973	00:00	1972	1973	17
+Real Madrid	Celta Vigo	0:0	1:0	07.01.1973	00:00	1972	1973	17
+Valencia CF	UD Las Palmas	0:0	0:0	07.01.1973	00:00	1972	1973	17
+Real Oviedo	Sporting GijÃ³n	1:0	1:0	07.01.1973	00:00	1972	1973	17
+Espanyol Barcelona	CD MÃ¡laga	1:0	1:0	07.01.1973	00:00	1972	1973	17
+Real Betis	CD CastellÃ³n	1:0	2:0	07.01.1973	00:00	1972	1973	17
+Valencia CF	AtlÃ©tico Madrid	0:1	1:2	21.01.1973	00:00	1972	1973	18
+Espanyol Barcelona	Celta Vigo	2:0	4:2	21.01.1973	00:00	1972	1973	18
+Real Oviedo	UD Las Palmas	1:0	3:0	21.01.1973	00:00	1972	1973	18
+Real Betis	Sporting GijÃ³n	1:0	2:0	21.01.1973	00:00	1972	1973	18
+Athletic Bilbao	CD MÃ¡laga	1:0	2:0	21.01.1973	00:00	1972	1973	18
+Real Zaragoza	Granada CF	2:0	2:0	21.01.1973	00:00	1972	1973	18
+Real Madrid	CD CastellÃ³n	1:0	2:0	21.01.1973	00:00	1972	1973	18
+Real Sociedad	Burgos CF	1:1	5:1	21.01.1973	00:00	1972	1973	18
+Deportivo La CoruÃ±a	FC Barcelona	0:0	0:1	21.01.1973	00:00	1972	1973	18
+UD Las Palmas	Real Betis	1:0	2:0	27.01.1973	00:00	1972	1973	19
+Sporting GijÃ³n	Real Madrid	1:0	1:0	28.01.1973	00:00	1972	1973	19
+Granada CF	Deportivo La CoruÃ±a	0:0	2:0	28.01.1973	00:00	1972	1973	19
+AtlÃ©tico Madrid	Real Oviedo	2:0	2:1	28.01.1973	00:00	1972	1973	19
+Burgos CF	Real Zaragoza	1:0	3:0	28.01.1973	00:00	1972	1973	19
+CD MÃ¡laga	Real Sociedad	1:0	3:0	28.01.1973	00:00	1972	1973	19
+FC Barcelona	Valencia CF	0:0	0:0	28.01.1973	00:00	1972	1973	19
+Celta Vigo	Athletic Bilbao	1:0	1:0	28.01.1973	00:00	1972	1973	19
+CD CastellÃ³n	Espanyol Barcelona	1:0	2:0	28.01.1973	00:00	1972	1973	19
+Espanyol Barcelona	Sporting GijÃ³n	0:0	3:0	04.02.1973	00:00	1972	1973	20
+Real Betis	AtlÃ©tico Madrid	0:0	1:0	04.02.1973	00:00	1972	1973	20
+CD MÃ¡laga	Burgos CF	1:0	3:0	04.02.1973	00:00	1972	1973	20
+Athletic Bilbao	CD CastellÃ³n	1:0	1:1	04.02.1973	00:00	1972	1973	20
+Valencia CF	Granada CF	0:0	0:0	04.02.1973	00:00	1972	1973	20
+Real Oviedo	FC Barcelona	0:0	0:0	04.02.1973	00:00	1972	1973	20
+Deportivo La CoruÃ±a	Real Zaragoza	0:0	0:0	04.02.1973	00:00	1972	1973	20
+Real Sociedad	Celta Vigo	0:0	1:0	04.02.1973	00:00	1972	1973	20
+Real Madrid	UD Las Palmas	0:0	2:1	04.02.1973	00:00	1972	1973	20
+UD Las Palmas	Espanyol Barcelona	0:0	0:2	10.02.1973	00:00	1972	1973	21
+CD CastellÃ³n	Real Sociedad	0:0	3:0	11.02.1973	00:00	1972	1973	21
+Celta Vigo	CD MÃ¡laga	1:0	1:0	11.02.1973	00:00	1972	1973	21
+Burgos CF	Deportivo La CoruÃ±a	0:0	0:0	11.02.1973	00:00	1972	1973	21
+FC Barcelona	Real Betis	1:0	2:0	11.02.1973	00:00	1972	1973	21
+Real Zaragoza	Valencia CF	0:1	0:1	11.02.1973	00:00	1972	1973	21
+Sporting GijÃ³n	Athletic Bilbao	2:0	2:0	11.02.1973	00:00	1972	1973	21
+AtlÃ©tico Madrid	Real Madrid	0:0	1:2	11.02.1973	00:00	1972	1973	21
+Granada CF	Real Oviedo	1:0	4:0	11.02.1973	00:00	1972	1973	21
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	2:1	25.02.1973	00:00	1972	1973	22
+Celta Vigo	Burgos CF	1:0	1:0	25.02.1973	00:00	1972	1973	22
+CD MÃ¡laga	CD CastellÃ³n	1:0	1:1	25.02.1973	00:00	1972	1973	22
+Real Betis	Granada CF	0:0	0:0	25.02.1973	00:00	1972	1973	22
+Valencia CF	Deportivo La CoruÃ±a	0:1	0:1	25.02.1973	00:00	1972	1973	22
+Real Oviedo	Real Zaragoza	1:0	2:0	25.02.1973	00:00	1972	1973	22
+Athletic Bilbao	UD Las Palmas	1:0	1:0	25.02.1973	00:00	1972	1973	22
+Real Madrid	FC Barcelona	0:0	0:0	25.02.1973	00:00	1972	1973	22
+Real Sociedad	Sporting GijÃ³n	0:0	0:0	25.02.1973	00:00	1972	1973	22
+UD Las Palmas	Real Sociedad	0:0	1:0	03.03.1973	00:00	1972	1973	23
+FC Barcelona	Espanyol Barcelona	0:0	0:1	04.03.1973	00:00	1972	1973	23
+Sporting GijÃ³n	CD MÃ¡laga	1:0	2:0	04.03.1973	00:00	1972	1973	23
+Deportivo La CoruÃ±a	Real Oviedo	1:1	1:1	04.03.1973	00:00	1972	1973	23
+CD CastellÃ³n	Celta Vigo	2:1	5:1	04.03.1973	00:00	1972	1973	23
+Burgos CF	Valencia CF	1:0	2:1	04.03.1973	00:00	1972	1973	23
+AtlÃ©tico Madrid	Athletic Bilbao	2:0	2:1	04.03.1973	00:00	1972	1973	23
+Granada CF	Real Madrid	0:0	1:2	04.03.1973	00:00	1972	1973	23
+Real Zaragoza	Real Betis	1:0	3:2	04.03.1973	00:00	1972	1973	23
+Real Madrid	Real Zaragoza	0:0	0:0	11.03.1973	00:00	1972	1973	24
+Espanyol Barcelona	Granada CF	0:0	2:1	11.03.1973	00:00	1972	1973	24
+Real Betis	Deportivo La CoruÃ±a	1:0	2:0	11.03.1973	00:00	1972	1973	24
+Real Sociedad	AtlÃ©tico Madrid	0:0	0:1	11.03.1973	00:00	1972	1973	24
+Real Oviedo	Valencia CF	1:0	3:1	11.03.1973	00:00	1972	1973	24
+Athletic Bilbao	FC Barcelona	0:0	0:1	11.03.1973	00:00	1972	1973	24
+Celta Vigo	Sporting GijÃ³n	1:0	3:0	11.03.1973	00:00	1972	1973	24
+CD MÃ¡laga	UD Las Palmas	0:0	0:1	11.03.1973	00:00	1972	1973	24
+CD CastellÃ³n	Burgos CF	2:0	3:1	13.03.1973	00:00	1972	1973	24
+UD Las Palmas	Celta Vigo	0:0	0:0	17.03.1973	00:00	1972	1973	25
+Real Zaragoza	Espanyol Barcelona	1:0	1:0	18.03.1973	00:00	1972	1973	25
+Sporting GijÃ³n	CD CastellÃ³n	0:0	1:0	18.03.1973	00:00	1972	1973	25
+AtlÃ©tico Madrid	CD MÃ¡laga	1:1	1:1	18.03.1973	00:00	1972	1973	25
+Burgos CF	Real Oviedo	0:0	0:1	18.03.1973	00:00	1972	1973	25
+FC Barcelona	Real Sociedad	1:0	1:0	18.03.1973	00:00	1972	1973	25
+Granada CF	Athletic Bilbao	0:0	0:0	18.03.1973	00:00	1972	1973	25
+Deportivo La CoruÃ±a	Real Madrid	0:0	0:0	18.03.1973	00:00	1972	1973	25
+Valencia CF	Real Betis	0:0	2:0	18.03.1973	00:00	1972	1973	25
+CD CastellÃ³n	UD Las Palmas	0:1	2:1	24.03.1973	00:00	1972	1973	26
+Celta Vigo	AtlÃ©tico Madrid	0:1	0:1	25.03.1973	00:00	1972	1973	26
+Sporting GijÃ³n	Burgos CF	1:1	1:2	25.03.1973	00:00	1972	1973	26
+Real Sociedad	Granada CF	1:0	1:0	25.03.1973	00:00	1972	1973	26
+Espanyol Barcelona	Deportivo La CoruÃ±a	1:0	2:1	25.03.1973	00:00	1972	1973	26
+Athletic Bilbao	Real Zaragoza	0:0	1:0	25.03.1973	00:00	1972	1973	26
+Real Madrid	Valencia CF	2:0	2:1	25.03.1973	00:00	1972	1973	26
+CD MÃ¡laga	FC Barcelona	2:0	2:1	25.03.1973	00:00	1972	1973	26
+Real Betis	Real Oviedo	0:0	0:0	25.03.1973	00:00	1972	1973	26
+UD Las Palmas	Sporting GijÃ³n	1:0	1:1	31.03.1973	00:00	1972	1973	27
+Valencia CF	Espanyol Barcelona	0:0	1:0	01.04.1973	00:00	1972	1973	27
+AtlÃ©tico Madrid	CD CastellÃ³n	0:0	1:0	01.04.1973	00:00	1972	1973	27
+Granada CF	CD MÃ¡laga	2:0	2:0	01.04.1973	00:00	1972	1973	27
+FC Barcelona	Celta Vigo	0:0	2:0	01.04.1973	00:00	1972	1973	27
+Real Zaragoza	Real Sociedad	0:0	1:1	01.04.1973	00:00	1972	1973	27
+Deportivo La CoruÃ±a	Athletic Bilbao	0:1	2:1	01.04.1973	00:00	1972	1973	27
+Real Oviedo	Real Madrid	1:1	1:2	01.04.1973	00:00	1972	1973	27
+Burgos CF	Real Betis	1:1	2:1	01.04.1973	00:00	1972	1973	27
+Real Madrid	Real Betis	1:0	1:1	07.04.1973	00:00	1972	1973	28
+UD Las Palmas	Burgos CF	2:0	4:1	07.04.1973	00:00	1972	1973	28
+Espanyol Barcelona	Real Oviedo	2:0	3:0	08.04.1973	00:00	1972	1973	28
+Athletic Bilbao	Valencia CF	1:0	2:0	08.04.1973	00:00	1972	1973	28
+Celta Vigo	Granada CF	0:0	0:0	08.04.1973	00:00	1972	1973	28
+Real Sociedad	Deportivo La CoruÃ±a	1:0	2:0	08.04.1973	00:00	1972	1973	28
+CD CastellÃ³n	FC Barcelona	2:0	4:0	08.04.1973	00:00	1972	1973	28
+CD MÃ¡laga	Real Zaragoza	2:0	2:1	08.04.1973	00:00	1972	1973	28
+Sporting GijÃ³n	AtlÃ©tico Madrid	1:0	2:3	08.04.1973	00:00	1972	1973	28
+Valencia CF	Real Sociedad	1:0	1:0	15.04.1973	00:00	1972	1973	29
+Granada CF	CD CastellÃ³n	0:0	1:1	15.04.1973	00:00	1972	1973	29
+Deportivo La CoruÃ±a	CD MÃ¡laga	1:0	1:0	15.04.1973	00:00	1972	1973	29
+FC Barcelona	Sporting GijÃ³n	1:0	3:1	15.04.1973	00:00	1972	1973	29
+Real Zaragoza	Celta Vigo	1:1	2:2	15.04.1973	00:00	1972	1973	29
+Real Betis	Espanyol Barcelona	0:1	2:2	15.04.1973	00:00	1972	1973	29
+Real Oviedo	Athletic Bilbao	2:0	2:1	15.04.1973	00:00	1972	1973	29
+Burgos CF	Real Madrid	1:1	2:3	15.04.1973	00:00	1972	1973	29
+AtlÃ©tico Madrid	UD Las Palmas	1:1	2:1	15.04.1973	00:00	1972	1973	29
+CD MÃ¡laga	Valencia CF	0:0	1:1	21.04.1973	00:00	1972	1973	30
+Espanyol Barcelona	Real Madrid	0:0	1:0	21.04.1973	00:00	1972	1973	30
+Real Sociedad	Real Oviedo	0:2	1:2	22.04.1973	00:00	1972	1973	30
+Athletic Bilbao	Real Betis	0:0	1:1	22.04.1973	00:00	1972	1973	30
+Celta Vigo	Deportivo La CoruÃ±a	1:0	1:0	22.04.1973	00:00	1972	1973	30
+AtlÃ©tico Madrid	Burgos CF	1:1	4:2	22.04.1973	00:00	1972	1973	30
+UD Las Palmas	FC Barcelona	2:0	2:1	22.04.1973	00:00	1972	1973	30
+CD CastellÃ³n	Real Zaragoza	0:0	1:1	22.04.1973	00:00	1972	1973	30
+Sporting GijÃ³n	Granada CF	1:0	2:0	22.04.1973	00:00	1972	1973	30
+Valencia CF	Celta Vigo	1:0	1:0	28.04.1973	00:00	1972	1973	31
+Deportivo La CoruÃ±a	CD CastellÃ³n	0:0	1:1	28.04.1973	00:00	1972	1973	31
+Real Oviedo	CD MÃ¡laga	0:0	0:0	28.04.1973	00:00	1972	1973	31
+Granada CF	UD Las Palmas	1:0	1:0	28.04.1973	00:00	1972	1973	31
+Real Betis	Real Sociedad	0:1	1:1	28.04.1973	00:00	1972	1973	31
+FC Barcelona	AtlÃ©tico Madrid	0:0	0:0	28.04.1973	00:00	1972	1973	31
+Burgos CF	Espanyol Barcelona	1:1	1:1	28.04.1973	00:00	1972	1973	31
+Real Zaragoza	Sporting GijÃ³n	2:0	3:1	28.04.1973	00:00	1972	1973	31
+Real Madrid	Athletic Bilbao	0:2	3:3	09.05.1973	00:00	1972	1973	31
+UD Las Palmas	Real Zaragoza	0:1	1:1	05.05.1973	00:00	1972	1973	32
+Athletic Bilbao	Espanyol Barcelona	1:0	1:0	05.05.1973	00:00	1972	1973	32
+CD MÃ¡laga	Real Betis	0:0	0:0	06.05.1973	00:00	1972	1973	32
+Celta Vigo	Real Oviedo	2:0	4:2	06.05.1973	00:00	1972	1973	32
+Sporting GijÃ³n	Deportivo La CoruÃ±a	0:0	0:0	06.05.1973	00:00	1972	1973	32
+FC Barcelona	Burgos CF	0:0	2:0	06.05.1973	00:00	1972	1973	32
+Real Sociedad	Real Madrid	1:0	1:1	06.05.1973	00:00	1972	1973	32
+AtlÃ©tico Madrid	Granada CF	0:0	2:1	06.05.1973	00:00	1972	1973	32
+CD CastellÃ³n	Valencia CF	0:1	1:3	06.05.1973	00:00	1972	1973	32
+Valencia CF	Sporting GijÃ³n	0:0	1:0	12.05.1973	00:00	1972	1973	33
+Deportivo La CoruÃ±a	UD Las Palmas	0:0	2:2	13.05.1973	00:00	1972	1973	33
+Athletic Bilbao	Burgos CF	1:0	4:0	13.05.1973	00:00	1972	1973	33
+Real Madrid	CD MÃ¡laga	1:0	2:0	13.05.1973	00:00	1972	1973	33
+Real Betis	Celta Vigo	1:0	1:0	13.05.1973	00:00	1972	1973	33
+Espanyol Barcelona	Real Sociedad	1:0	1:1	13.05.1973	00:00	1972	1973	33
+Real Zaragoza	AtlÃ©tico Madrid	0:1	1:1	13.05.1973	00:00	1972	1973	33
+Granada CF	FC Barcelona	0:2	0:2	13.05.1973	00:00	1972	1973	33
+Real Oviedo	CD CastellÃ³n	0:0	0:0	13.05.1973	00:00	1972	1973	33
+CD MÃ¡laga	Espanyol Barcelona	0:1	0:1	19.05.1973	00:00	1972	1973	34
+Burgos CF	Granada CF	2:1	2:1	20.05.1973	00:00	1972	1973	34
+Celta Vigo	Real Madrid	0:0	3:0	20.05.1973	00:00	1972	1973	34
+Real Sociedad	Athletic Bilbao	1:0	1:0	20.05.1973	00:00	1972	1973	34
+UD Las Palmas	Valencia CF	0:0	1:0	20.05.1973	00:00	1972	1973	34
+FC Barcelona	Real Zaragoza	0:0	1:1	20.05.1973	00:00	1972	1973	34
+CD CastellÃ³n	Real Betis	0:0	3:1	20.05.1973	00:00	1972	1973	34
+Sporting GijÃ³n	Real Oviedo	0:0	1:0	20.05.1973	00:00	1972	1973	34
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	3:1	20.05.1973	00:00	1972	1973	34

@@ -1,0 +1,306 @@
+Eintracht Frankfurt	Borussia Dortmund	1:0	2:2	12.08.1983	20:00	1983	1984	1
+Hamburger SV	1. FC Kaiserslautern	2:0	3:2	13.08.1983	15:30	1983	1984	1
+1. FC NÃ¼rnberg	Bayer 05 Uerdingen	1:1	2:4	13.08.1983	15:30	1983	1984	1
+Bayern MÃ¼nchen	Bayer Leverkusen	0:0	2:1	13.08.1983	15:30	1983	1984	1
+1. FC KÃ¶ln	Arminia Bielefeld	1:1	2:3	13.08.1983	15:30	1983	1984	1
+Bor. MÃ¶nchengladbach	Fortuna DÃ¼sseldorf	0:1	1:1	13.08.1983	15:30	1983	1984	1
+VfL Bochum	Kickers Offenbach	0:0	1:0	13.08.1983	15:30	1983	1984	1
+Waldhof Mannheim	Werder Bremen	2:0	2:0	13.08.1983	15:30	1983	1984	1
+VfB Stuttgart	Eintracht Braunschweig	1:0	3:0	13.08.1983	15:30	1983	1984	1
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	1:0	2:0	17.08.1983	20:00	1983	1984	2
+Bayer 05 Uerdingen	Eintracht Frankfurt	2:1	5:2	19.08.1983	20:00	1983	1984	2
+1. FC Kaiserslautern	VfB Stuttgart	1:1	2:2	19.08.1983	20:00	1983	1984	2
+Eintracht Braunschweig	Waldhof Mannheim	3:1	3:2	20.08.1983	15:30	1983	1984	2
+Kickers Offenbach	Bor. MÃ¶nchengladbach	4:1	4:3	20.08.1983	15:30	1983	1984	2
+Arminia Bielefeld	Bayern MÃ¼nchen	1:2	1:3	20.08.1983	15:30	1983	1984	2
+Bayer Leverkusen	1. FC NÃ¼rnberg	2:0	3:0	20.08.1983	15:30	1983	1984	2
+Borussia Dortmund	Hamburger SV	0:0	1:2	20.08.1983	15:30	1983	1984	2
+Werder Bremen	VfL Bochum	1:1	5:2	20.08.1983	15:30	1983	1984	2
+1. FC Kaiserslautern	Borussia Dortmund	1:0	2:2	16.08.1983	20:00	1983	1984	3
+1. FC NÃ¼rnberg	Arminia Bielefeld	0:0	2:0	23.08.1983	20:00	1983	1984	3
+Bayern MÃ¼nchen	Fortuna DÃ¼sseldorf	0:1	1:1	23.08.1983	20:00	1983	1984	3
+VfL Bochum	Eintracht Braunschweig	2:1	3:1	23.08.1983	20:00	1983	1984	3
+VfB Stuttgart	Waldhof Mannheim	0:0	0:0	23.08.1983	20:00	1983	1984	3
+Hamburger SV	Bayer 05 Uerdingen	2:1	2:2	24.08.1983	20:00	1983	1984	3
+Eintracht Frankfurt	Bayer Leverkusen	1:0	2:2	24.08.1983	20:00	1983	1984	3
+1. FC KÃ¶ln	Kickers Offenbach	0:0	1:0	24.08.1983	20:00	1983	1984	3
+Bor. MÃ¶nchengladbach	Werder Bremen	1:0	3:1	24.08.1983	20:00	1983	1984	3
+Bayer 05 Uerdingen	1. FC Kaiserslautern	0:0	3:1	30.08.1983	20:00	1983	1984	4
+Werder Bremen	1. FC KÃ¶ln	1:0	1:0	30.08.1983	20:00	1983	1984	4
+Waldhof Mannheim	VfL Bochum	2:1	3:3	31.08.1983	18:30	1983	1984	4
+Arminia Bielefeld	Eintracht Frankfurt	2:0	2:1	31.08.1983	19:30	1983	1984	4
+Eintracht Braunschweig	Bor. MÃ¶nchengladbach	1:1	3:1	31.08.1983	20:00	1983	1984	4
+Kickers Offenbach	Bayern MÃ¼nchen	1:2	2:3	31.08.1983	20:00	1983	1984	4
+Fortuna DÃ¼sseldorf	1. FC NÃ¼rnberg	1:1	2:1	31.08.1983	20:00	1983	1984	4
+Borussia Dortmund	VfB Stuttgart	0:1	0:3	31.08.1983	20:00	1983	1984	4
+Bayer Leverkusen	Hamburger SV	1:0	2:0	13.09.1983	20:00	1983	1984	4
+1. FC Kaiserslautern	Bayer Leverkusen	3:0	3:0	02.09.1983	20:00	1983	1984	5
+Hamburger SV	Arminia Bielefeld	1:0	2:0	03.09.1983	15:30	1983	1984	5
+Eintracht Frankfurt	Fortuna DÃ¼sseldorf	1:0	3:0	03.09.1983	15:30	1983	1984	5
+1. FC NÃ¼rnberg	Kickers Offenbach	2:0	4:0	03.09.1983	15:30	1983	1984	5
+Bayern MÃ¼nchen	Werder Bremen	0:0	0:0	03.09.1983	15:30	1983	1984	5
+1. FC KÃ¶ln	Eintracht Braunschweig	1:0	2:1	03.09.1983	15:30	1983	1984	5
+Borussia Dortmund	Bayer 05 Uerdingen	2:0	2:1	03.09.1983	15:30	1983	1984	5
+VfB Stuttgart	VfL Bochum	0:1	4:2	03.09.1983	15:30	1983	1984	5
+Bor. MÃ¶nchengladbach	Waldhof Mannheim	1:0	3:0	03.09.1983	20:00	1983	1984	5
+Bayer Leverkusen	Borussia Dortmund	1:1	4:2	09.09.1983	20:00	1983	1984	6
+Eintracht Braunschweig	Bayern MÃ¼nchen	0:1	1:2	10.09.1983	15:30	1983	1984	6
+Kickers Offenbach	Eintracht Frankfurt	1:0	2:1	10.09.1983	15:30	1983	1984	6
+Fortuna DÃ¼sseldorf	Hamburger SV	1:2	2:3	10.09.1983	15:30	1983	1984	6
+Arminia Bielefeld	1. FC Kaiserslautern	3:1	3:2	10.09.1983	15:30	1983	1984	6
+Bayer 05 Uerdingen	VfB Stuttgart	2:1	3:2	10.09.1983	15:30	1983	1984	6
+VfL Bochum	Bor. MÃ¶nchengladbach	0:0	0:4	10.09.1983	15:30	1983	1984	6
+Waldhof Mannheim	1. FC KÃ¶ln	1:2	2:2	10.09.1983	15:30	1983	1984	6
+Werder Bremen	1. FC NÃ¼rnberg	0:0	2:0	10.09.1983	15:30	1983	1984	6
+1. FC NÃ¼rnberg	Eintracht Braunschweig	2:1	4:2	16.09.1983	20:00	1983	1984	7
+Hamburger SV	Kickers Offenbach	2:0	6:0	17.09.1983	15:30	1983	1984	7
+Eintracht Frankfurt	Werder Bremen	0:0	0:0	17.09.1983	15:30	1983	1984	7
+Bayern MÃ¼nchen	Waldhof Mannheim	2:0	6:0	17.09.1983	15:30	1983	1984	7
+1. FC KÃ¶ln	VfL Bochum	2:0	3:0	17.09.1983	15:30	1983	1984	7
+Bayer 05 Uerdingen	Bayer Leverkusen	0:1	2:1	17.09.1983	15:30	1983	1984	7
+Borussia Dortmund	Arminia Bielefeld	1:0	1:0	17.09.1983	15:30	1983	1984	7
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	3:1	5:2	17.09.1983	15:30	1983	1984	7
+VfB Stuttgart	Bor. MÃ¶nchengladbach	0:0	0:0	17.09.1983	15:30	1983	1984	7
+Kickers Offenbach	1. FC Kaiserslautern	1:1	3:2	23.09.1983	20:00	1983	1984	8
+Fortuna DÃ¼sseldorf	Borussia Dortmund	3:0	7:0	23.09.1983	20:00	1983	1984	8
+Werder Bremen	Hamburger SV	0:0	0:0	23.09.1983	20:00	1983	1984	8
+Eintracht Braunschweig	Eintracht Frankfurt	2:2	4:3	24.09.1983	15:30	1983	1984	8
+Arminia Bielefeld	Bayer 05 Uerdingen	2:1	3:1	24.09.1983	15:30	1983	1984	8
+Bayer Leverkusen	VfB Stuttgart	0:0	1:1	24.09.1983	15:30	1983	1984	8
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	3:1	4:2	24.09.1983	15:30	1983	1984	8
+VfL Bochum	Bayern MÃ¼nchen	1:0	3:1	24.09.1983	15:30	1983	1984	8
+Waldhof Mannheim	1. FC NÃ¼rnberg	0:0	1:0	24.09.1983	15:30	1983	1984	8
+1. FC NÃ¼rnberg	VfL Bochum	0:1	3:1	30.09.1983	20:00	1983	1984	9
+Hamburger SV	Eintracht Braunschweig	1:0	3:0	01.10.1983	15:30	1983	1984	9
+Eintracht Frankfurt	Waldhof Mannheim	0:0	1:3	01.10.1983	15:30	1983	1984	9
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	2:0	4:0	01.10.1983	15:30	1983	1984	9
+Bayer Leverkusen	Arminia Bielefeld	0:0	0:0	01.10.1983	15:30	1983	1984	9
+Bayer 05 Uerdingen	Fortuna DÃ¼sseldorf	0:1	1:3	01.10.1983	15:30	1983	1984	9
+Borussia Dortmund	Kickers Offenbach	1:0	4:1	01.10.1983	15:30	1983	1984	9
+1. FC Kaiserslautern	Werder Bremen	1:2	3:3	01.10.1983	15:30	1983	1984	9
+VfB Stuttgart	1. FC KÃ¶ln	1:0	3:2	01.10.1983	15:30	1983	1984	9
+Kickers Offenbach	Bayer 05 Uerdingen	1:2	3:2	14.10.1983	20:00	1983	1984	10
+Werder Bremen	Borussia Dortmund	1:0	2:1	14.10.1983	20:00	1983	1984	10
+Eintracht Braunschweig	1. FC Kaiserslautern	0:0	4:0	15.10.1983	15:30	1983	1984	10
+Fortuna DÃ¼sseldorf	Bayer Leverkusen	0:2	2:2	15.10.1983	15:30	1983	1984	10
+Arminia Bielefeld	VfB Stuttgart	0:0	0:0	15.10.1983	15:30	1983	1984	10
+1. FC KÃ¶ln	Bayern MÃ¼nchen	0:0	2:0	15.10.1983	15:30	1983	1984	10
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	2:0	2:0	15.10.1983	15:30	1983	1984	10
+VfL Bochum	Eintracht Frankfurt	1:0	4:1	15.10.1983	15:30	1983	1984	10
+Waldhof Mannheim	Hamburger SV	0:0	0:1	15.10.1983	15:30	1983	1984	10
+Hamburger SV	VfL Bochum	0:1	2:1	22.10.1983	15:30	1983	1984	11
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	1:0	1:1	22.10.1983	15:30	1983	1984	11
+1. FC NÃ¼rnberg	1. FC KÃ¶ln	1:1	1:3	22.10.1983	15:30	1983	1984	11
+Arminia Bielefeld	Fortuna DÃ¼sseldorf	1:3	1:3	22.10.1983	15:30	1983	1984	11
+Bayer Leverkusen	Kickers Offenbach	1:1	3:1	22.10.1983	15:30	1983	1984	11
+Bayer 05 Uerdingen	Werder Bremen	0:1	0:3	22.10.1983	15:30	1983	1984	11
+Borussia Dortmund	Eintracht Braunschweig	0:0	0:2	22.10.1983	15:30	1983	1984	11
+1. FC Kaiserslautern	Waldhof Mannheim	0:0	2:0	22.10.1983	15:30	1983	1984	11
+VfB Stuttgart	Bayern MÃ¼nchen	0:0	1:0	22.10.1983	17:00	1983	1984	11
+Waldhof Mannheim	Borussia Dortmund	2:0	4:1	29.10.1983	15:00	1983	1984	12
+Eintracht Braunschweig	Bayer 05 Uerdingen	0:2	1:2	29.10.1983	15:30	1983	1984	12
+Kickers Offenbach	Arminia Bielefeld	2:1	2:2	29.10.1983	15:30	1983	1984	12
+Fortuna DÃ¼sseldorf	VfB Stuttgart	3:0	3:0	29.10.1983	15:30	1983	1984	12
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	1:2	4:2	29.10.1983	15:30	1983	1984	12
+1. FC KÃ¶ln	Eintracht Frankfurt	3:0	7:0	29.10.1983	15:30	1983	1984	12
+Bor. MÃ¶nchengladbach	Hamburger SV	1:0	4:0	29.10.1983	15:30	1983	1984	12
+VfL Bochum	1. FC Kaiserslautern	3:1	4:1	29.10.1983	15:30	1983	1984	12
+Werder Bremen	Bayer Leverkusen	1:0	3:0	29.10.1983	15:30	1983	1984	12
+Bayer 05 Uerdingen	Waldhof Mannheim	1:1	1:1	04.11.1983	20:00	1983	1984	13
+Borussia Dortmund	VfL Bochum	1:1	1:1	04.11.1983	20:00	1983	1984	13
+Hamburger SV	1. FC KÃ¶ln	1:1	2:2	05.11.1983	15:30	1983	1984	13
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:0	0:0	05.11.1983	15:30	1983	1984	13
+Fortuna DÃ¼sseldorf	Kickers Offenbach	2:0	5:0	05.11.1983	15:30	1983	1984	13
+Arminia Bielefeld	Werder Bremen	1:0	2:0	05.11.1983	15:30	1983	1984	13
+Bayer Leverkusen	Eintracht Braunschweig	2:0	3:0	05.11.1983	15:30	1983	1984	13
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	0:0	0:2	05.11.1983	15:30	1983	1984	13
+VfB Stuttgart	1. FC NÃ¼rnberg	0:0	7:0	05.11.1983	15:30	1983	1984	13
+Werder Bremen	Fortuna DÃ¼sseldorf	1:0	2:0	11.11.1983	20:00	1983	1984	14
+Waldhof Mannheim	Bayer Leverkusen	0:2	0:3	12.11.1983	14:30	1983	1984	14
+Eintracht Braunschweig	Arminia Bielefeld	1:0	2:0	12.11.1983	15:30	1983	1984	14
+Kickers Offenbach	VfB Stuttgart	1:0	1:2	12.11.1983	15:30	1983	1984	14
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:0	0:0	12.11.1983	15:30	1983	1984	14
+Bayern MÃ¼nchen	Hamburger SV	0:0	1:0	12.11.1983	15:30	1983	1984	14
+1. FC KÃ¶ln	1. FC Kaiserslautern	0:2	1:4	12.11.1983	15:30	1983	1984	14
+Bor. MÃ¶nchengladbach	Borussia Dortmund	2:0	2:1	12.11.1983	15:30	1983	1984	14
+VfL Bochum	Bayer 05 Uerdingen	0:1	2:2	12.11.1983	15:30	1983	1984	14
+Bayer 05 Uerdingen	Bor. MÃ¶nchengladbach	1:0	1:1	25.11.1983	20:00	1983	1984	15
+Hamburger SV	1. FC NÃ¼rnberg	2:0	4:0	26.11.1983	15:30	1983	1984	15
+Eintracht Frankfurt	VfB Stuttgart	1:1	1:3	26.11.1983	15:30	1983	1984	15
+Fortuna DÃ¼sseldorf	Eintracht Braunschweig	1:0	4:0	26.11.1983	15:30	1983	1984	15
+Bayer Leverkusen	VfL Bochum	0:0	3:0	26.11.1983	15:30	1983	1984	15
+Borussia Dortmund	1. FC KÃ¶ln	0:0	0:0	26.11.1983	15:30	1983	1984	15
+1. FC Kaiserslautern	Bayern MÃ¼nchen	0:0	0:1	26.11.1983	15:30	1983	1984	15
+Werder Bremen	Kickers Offenbach	4:1	8:1	26.11.1983	15:30	1983	1984	15
+Arminia Bielefeld	Waldhof Mannheim	1:1	1:1	17.12.1983	15:30	1983	1984	15
+1. FC KÃ¶ln	Bayer 05 Uerdingen	0:0	3:0	02.12.1983	20:00	1983	1984	16
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	1:0	3:1	02.12.1983	20:00	1983	1984	16
+VfL Bochum	Arminia Bielefeld	2:1	2:3	02.12.1983	20:00	1983	1984	16
+Waldhof Mannheim	Fortuna DÃ¼sseldorf	1:1	1:1	03.12.1983	14:00	1983	1984	16
+Eintracht Braunschweig	Kickers Offenbach	3:2	4:4	03.12.1983	15:30	1983	1984	16
+Eintracht Frankfurt	Hamburger SV	0:0	0:0	03.12.1983	15:30	1983	1984	16
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	0:2	3:4	03.12.1983	15:30	1983	1984	16
+Bayern MÃ¼nchen	Borussia Dortmund	0:0	1:0	03.12.1983	15:30	1983	1984	16
+VfB Stuttgart	Werder Bremen	0:0	3:0	03.12.1983	15:30	1983	1984	16
+Hamburger SV	VfB Stuttgart	0:0	0:2	07.12.1983	20:00	1983	1984	17
+Bayer Leverkusen	1. FC KÃ¶ln	1:1	2:1	09.12.1983	20:00	1983	1984	17
+Kickers Offenbach	Waldhof Mannheim	0:1	0:2	10.12.1983	15:30	1983	1984	17
+Fortuna DÃ¼sseldorf	VfL Bochum	0:0	1:1	10.12.1983	15:30	1983	1984	17
+Arminia Bielefeld	Bor. MÃ¶nchengladbach	1:0	2:2	10.12.1983	15:30	1983	1984	17
+Bayer 05 Uerdingen	Bayern MÃ¼nchen	1:0	1:1	10.12.1983	15:30	1983	1984	17
+Borussia Dortmund	1. FC NÃ¼rnberg	0:0	3:1	10.12.1983	15:30	1983	1984	17
+1. FC Kaiserslautern	Eintracht Frankfurt	1:0	1:0	10.12.1983	15:30	1983	1984	17
+Werder Bremen	Eintracht Braunschweig	3:0	4:0	10.12.1983	15:30	1983	1984	17
+Fortuna DÃ¼sseldorf	Bor. MÃ¶nchengladbach	4:0	4:1	20.01.1984	20:00	1983	1984	18
+1. FC Kaiserslautern	Hamburger SV	0:1	0:2	21.01.1984	15:30	1983	1984	18
+Borussia Dortmund	Eintracht Frankfurt	0:0	2:0	21.01.1984	15:30	1983	1984	18
+Bayer 05 Uerdingen	1. FC NÃ¼rnberg	1:0	1:0	21.01.1984	15:30	1983	1984	18
+Bayer Leverkusen	Bayern MÃ¼nchen	0:1	1:5	21.01.1984	15:30	1983	1984	18
+Arminia Bielefeld	1. FC KÃ¶ln	0:1	1:2	21.01.1984	15:30	1983	1984	18
+Kickers Offenbach	VfL Bochum	1:2	2:2	21.01.1984	15:30	1983	1984	18
+Werder Bremen	Waldhof Mannheim	1:0	5:0	21.01.1984	15:30	1983	1984	18
+Eintracht Braunschweig	VfB Stuttgart	0:0	1:0	21.01.1984	15:30	1983	1984	18
+Waldhof Mannheim	Eintracht Braunschweig	1:0	2:2	28.01.1984	14:00	1983	1984	19
+Bor. MÃ¶nchengladbach	Kickers Offenbach	2:0	3:2	28.01.1984	15:30	1983	1984	19
+Bayern MÃ¼nchen	Arminia Bielefeld	2:0	3:1	28.01.1984	15:30	1983	1984	19
+1. FC NÃ¼rnberg	Bayer Leverkusen	0:1	2:3	28.01.1984	15:30	1983	1984	19
+Eintracht Frankfurt	Bayer 05 Uerdingen	2:0	2:2	28.01.1984	15:30	1983	1984	19
+Hamburger SV	Borussia Dortmund	2:1	7:2	28.01.1984	15:30	1983	1984	19
+VfB Stuttgart	1. FC Kaiserslautern	2:0	5:1	28.01.1984	15:30	1983	1984	19
+VfL Bochum	Werder Bremen	2:0	3:3	28.01.1984	15:30	1983	1984	19
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	0:0	1:0	07.02.1984	20:00	1983	1984	19
+Fortuna DÃ¼sseldorf	Bayern MÃ¼nchen	3:0	4:1	03.02.1984	20:00	1983	1984	20
+Waldhof Mannheim	VfB Stuttgart	2:0	2:2	04.02.1984	14:00	1983	1984	20
+Bayer 05 Uerdingen	Hamburger SV	1:0	3:1	04.02.1984	15:30	1983	1984	20
+Bayer Leverkusen	Eintracht Frankfurt	2:0	2:2	04.02.1984	15:30	1983	1984	20
+Arminia Bielefeld	1. FC NÃ¼rnberg	1:0	1:0	04.02.1984	15:30	1983	1984	20
+Kickers Offenbach	1. FC KÃ¶ln	0:0	2:0	04.02.1984	15:30	1983	1984	20
+Werder Bremen	Bor. MÃ¶nchengladbach	0:0	2:0	04.02.1984	15:30	1983	1984	20
+Eintracht Braunschweig	VfL Bochum	1:0	3:1	04.02.1984	15:30	1983	1984	20
+Borussia Dortmund	1. FC Kaiserslautern	1:0	1:0	04.02.1984	15:30	1983	1984	20
+Bor. MÃ¶nchengladbach	Eintracht Braunschweig	1:1	6:2	11.02.1984	15:30	1983	1984	21
+1. FC NÃ¼rnberg	Fortuna DÃ¼sseldorf	1:1	2:1	11.02.1984	15:30	1983	1984	21
+Eintracht Frankfurt	Arminia Bielefeld	0:1	1:1	11.02.1984	15:30	1983	1984	21
+Hamburger SV	Bayer Leverkusen	2:0	3:0	11.02.1984	15:30	1983	1984	21
+1. FC Kaiserslautern	Bayer 05 Uerdingen	3:1	5:2	11.02.1984	15:30	1983	1984	21
+VfB Stuttgart	Borussia Dortmund	2:0	3:1	11.02.1984	15:30	1983	1984	21
+VfL Bochum	Waldhof Mannheim	0:0	1:0	11.02.1984	15:30	1983	1984	21
+1. FC KÃ¶ln	Werder Bremen	0:1	1:4	11.02.1984	15:30	1983	1984	21
+Bayern MÃ¼nchen	Kickers Offenbach	5:0	9:0	13.03.1984	20:00	1983	1984	21
+Kickers Offenbach	1. FC NÃ¼rnberg	1:0	3:1	19.04.1984	20:00	1983	1984	22
+Arminia Bielefeld	Hamburger SV	0:0	0:1	21.04.1984	15:30	1983	1984	22
+Fortuna DÃ¼sseldorf	Eintracht Frankfurt	2:0	4:2	21.04.1984	15:30	1983	1984	22
+Werder Bremen	Bayern MÃ¼nchen	2:0	3:2	21.04.1984	15:30	1983	1984	22
+Eintracht Braunschweig	1. FC KÃ¶ln	2:0	2:2	21.04.1984	15:30	1983	1984	22
+Waldhof Mannheim	Bor. MÃ¶nchengladbach	1:1	2:3	21.04.1984	15:30	1983	1984	22
+Bayer 05 Uerdingen	Borussia Dortmund	1:0	2:1	21.04.1984	15:30	1983	1984	22
+Bayer Leverkusen	1. FC Kaiserslautern	1:0	2:0	21.04.1984	15:30	1983	1984	22
+VfL Bochum	VfB Stuttgart	0:1	0:1	21.04.1984	15:30	1983	1984	22
+Bayern MÃ¼nchen	Eintracht Braunschweig	1:0	6:0	25.02.1984	15:30	1983	1984	23
+Eintracht Frankfurt	Kickers Offenbach	1:0	3:0	25.02.1984	15:30	1983	1984	23
+Hamburger SV	Fortuna DÃ¼sseldorf	3:1	5:2	25.02.1984	15:30	1983	1984	23
+1. FC Kaiserslautern	Arminia Bielefeld	1:0	6:0	25.02.1984	15:30	1983	1984	23
+Borussia Dortmund	Bayer Leverkusen	3:0	3:0	25.02.1984	15:30	1983	1984	23
+Bor. MÃ¶nchengladbach	VfL Bochum	1:2	4:2	25.02.1984	15:30	1983	1984	23
+1. FC KÃ¶ln	Waldhof Mannheim	1:0	2:0	25.02.1984	15:30	1983	1984	23
+1. FC NÃ¼rnberg	Werder Bremen	1:0	2:0	25.02.1984	15:30	1983	1984	23
+VfB Stuttgart	Bayer 05 Uerdingen	2:0	4:0	20.03.1984	20:00	1983	1984	23
+Kickers Offenbach	Hamburger SV	0:2	0:4	09.03.1984	20:00	1983	1984	24
+Werder Bremen	Eintracht Frankfurt	1:2	2:3	09.03.1984	20:00	1983	1984	24
+Eintracht Braunschweig	1. FC NÃ¼rnberg	0:0	1:0	10.03.1984	15:30	1983	1984	24
+Waldhof Mannheim	Bayern MÃ¼nchen	0:0	0:0	10.03.1984	15:30	1983	1984	24
+VfL Bochum	1. FC KÃ¶ln	0:0	2:3	10.03.1984	15:30	1983	1984	24
+Bayer Leverkusen	Bayer 05 Uerdingen	2:1	3:1	10.03.1984	15:30	1983	1984	24
+Arminia Bielefeld	Borussia Dortmund	0:0	0:0	10.03.1984	15:30	1983	1984	24
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	0:2	1:5	10.03.1984	15:30	1983	1984	24
+Bor. MÃ¶nchengladbach	VfB Stuttgart	0:0	2:0	10.03.1984	15:30	1983	1984	24
+1. FC Kaiserslautern	Kickers Offenbach	0:0	1:1	16.03.1984	20:00	1983	1984	25
+Bayer 05 Uerdingen	Arminia Bielefeld	0:1	1:3	16.03.1984	20:00	1983	1984	25
+VfB Stuttgart	Bayer Leverkusen	1:0	2:2	16.03.1984	20:00	1983	1984	25
+Eintracht Frankfurt	Eintracht Braunschweig	0:1	1:2	17.03.1984	15:30	1983	1984	25
+Borussia Dortmund	Fortuna DÃ¼sseldorf	0:0	6:0	17.03.1984	15:30	1983	1984	25
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	1:0	1:2	17.03.1984	15:30	1983	1984	25
+Bayern MÃ¼nchen	VfL Bochum	4:0	5:1	17.03.1984	15:30	1983	1984	25
+1. FC NÃ¼rnberg	Waldhof Mannheim	0:0	0:0	17.03.1984	15:30	1983	1984	25
+Hamburger SV	Werder Bremen	2:0	4:0	17.03.1984	15:30	1983	1984	25
+Fortuna DÃ¼sseldorf	Bayer 05 Uerdingen	1:0	1:1	23.03.1984	20:00	1983	1984	26
+Kickers Offenbach	Borussia Dortmund	0:0	0:0	23.03.1984	20:00	1983	1984	26
+Werder Bremen	1. FC Kaiserslautern	1:1	1:1	23.03.1984	20:00	1983	1984	26
+Eintracht Braunschweig	Hamburger SV	0:0	0:0	24.03.1984	15:30	1983	1984	26
+Waldhof Mannheim	Eintracht Frankfurt	0:0	1:1	24.03.1984	15:30	1983	1984	26
+VfL Bochum	1. FC NÃ¼rnberg	0:0	2:0	24.03.1984	15:30	1983	1984	26
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:0	3:0	24.03.1984	15:30	1983	1984	26
+Arminia Bielefeld	Bayer Leverkusen	0:0	3:0	24.03.1984	15:30	1983	1984	26
+1. FC KÃ¶ln	VfB Stuttgart	2:1	2:2	24.03.1984	15:30	1983	1984	26
+Bayer 05 Uerdingen	Kickers Offenbach	2:1	4:2	30.03.1984	20:00	1983	1984	27
+Bayer Leverkusen	Fortuna DÃ¼sseldorf	1:0	2:0	31.03.1984	15:00	1983	1984	27
+1. FC Kaiserslautern	Eintracht Braunschweig	2:0	3:1	31.03.1984	15:30	1983	1984	27
+VfB Stuttgart	Arminia Bielefeld	0:0	1:0	31.03.1984	15:30	1983	1984	27
+Bayern MÃ¼nchen	1. FC KÃ¶ln	0:2	4:2	31.03.1984	15:30	1983	1984	27
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	0:1	1:3	31.03.1984	15:30	1983	1984	27
+Eintracht Frankfurt	VfL Bochum	0:0	1:0	31.03.1984	15:30	1983	1984	27
+Hamburger SV	Waldhof Mannheim	0:1	2:3	31.03.1984	15:30	1983	1984	27
+Borussia Dortmund	Werder Bremen	2:1	2:3	31.03.1984	15:30	1983	1984	27
+VfL Bochum	Hamburger SV	1:0	1:1	06.04.1984	20:00	1983	1984	28
+Fortuna DÃ¼sseldorf	Arminia Bielefeld	0:0	0:0	06.04.1984	20:00	1983	1984	28
+Eintracht Braunschweig	Borussia Dortmund	1:0	5:0	06.04.1984	20:00	1983	1984	28
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:0	1:1	07.04.1984	15:30	1983	1984	28
+1. FC KÃ¶ln	1. FC NÃ¼rnberg	0:0	3:1	07.04.1984	15:30	1983	1984	28
+Kickers Offenbach	Bayer Leverkusen	0:2	0:2	07.04.1984	15:30	1983	1984	28
+Werder Bremen	Bayer 05 Uerdingen	0:2	5:2	07.04.1984	15:30	1983	1984	28
+Waldhof Mannheim	1. FC Kaiserslautern	1:0	2:0	07.04.1984	15:30	1983	1984	28
+Bayern MÃ¼nchen	VfB Stuttgart	1:1	2:2	07.04.1984	15:30	1983	1984	28
+Bayer 05 Uerdingen	Eintracht Braunschweig	3:0	4:0	13.04.1984	20:00	1983	1984	29
+VfB Stuttgart	Fortuna DÃ¼sseldorf	3:0	6:0	13.04.1984	20:00	1983	1984	29
+1. FC Kaiserslautern	VfL Bochum	0:0	2:0	13.04.1984	20:00	1983	1984	29
+Arminia Bielefeld	Kickers Offenbach	0:1	3:1	14.04.1984	15:30	1983	1984	29
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	2:1	2:4	14.04.1984	15:30	1983	1984	29
+Eintracht Frankfurt	1. FC KÃ¶ln	0:0	0:2	14.04.1984	15:30	1983	1984	29
+Hamburger SV	Bor. MÃ¶nchengladbach	0:1	2:1	14.04.1984	15:30	1983	1984	29
+Borussia Dortmund	Waldhof Mannheim	1:0	4:1	14.04.1984	15:30	1983	1984	29
+Bayer Leverkusen	Werder Bremen	0:0	0:0	14.04.1984	15:30	1983	1984	29
+Kickers Offenbach	Fortuna DÃ¼sseldorf	2:0	5:1	27.04.1984	20:00	1983	1984	30
+Werder Bremen	Arminia Bielefeld	1:0	3:0	27.04.1984	20:00	1983	1984	30
+1. FC NÃ¼rnberg	VfB Stuttgart	0:3	0:6	27.04.1984	20:00	1983	1984	30
+1. FC KÃ¶ln	Hamburger SV	0:2	1:4	28.04.1984	15:30	1983	1984	30
+Bayern MÃ¼nchen	Eintracht Frankfurt	2:0	3:0	28.04.1984	15:30	1983	1984	30
+Eintracht Braunschweig	Bayer Leverkusen	0:0	0:0	28.04.1984	15:30	1983	1984	30
+Waldhof Mannheim	Bayer 05 Uerdingen	0:1	1:4	28.04.1984	15:30	1983	1984	30
+VfL Bochum	Borussia Dortmund	2:0	2:2	28.04.1984	15:30	1983	1984	30
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	1:0	3:2	28.04.1984	15:30	1983	1984	30
+VfB Stuttgart	Kickers Offenbach	3:0	5:1	04.05.1984	20:00	1983	1984	31
+1. FC Kaiserslautern	1. FC KÃ¶ln	0:0	2:2	04.05.1984	20:00	1983	1984	31
+Bayer 05 Uerdingen	VfL Bochum	0:1	1:2	04.05.1984	20:00	1983	1984	31
+Arminia Bielefeld	Eintracht Braunschweig	0:0	0:0	05.05.1984	15:30	1983	1984	31
+Eintracht Frankfurt	1. FC NÃ¼rnberg	1:0	3:1	05.05.1984	15:30	1983	1984	31
+Hamburger SV	Bayern MÃ¼nchen	2:0	2:1	05.05.1984	15:30	1983	1984	31
+Borussia Dortmund	Bor. MÃ¶nchengladbach	1:1	4:1	05.05.1984	15:30	1983	1984	31
+Bayer Leverkusen	Waldhof Mannheim	0:1	0:1	05.05.1984	15:30	1983	1984	31
+Fortuna DÃ¼sseldorf	Werder Bremen	1:1	3:4	05.05.1984	15:30	1983	1984	31
+Kickers Offenbach	Werder Bremen	1:2	3:7	11.05.1984	20:00	1983	1984	32
+1. FC NÃ¼rnberg	Hamburger SV	1:3	1:6	12.05.1984	15:30	1983	1984	32
+VfB Stuttgart	Eintracht Frankfurt	2:0	2:2	12.05.1984	15:30	1983	1984	32
+Eintracht Braunschweig	Fortuna DÃ¼sseldorf	3:0	4:1	12.05.1984	15:30	1983	1984	32
+Waldhof Mannheim	Arminia Bielefeld	0:0	0:2	12.05.1984	15:30	1983	1984	32
+VfL Bochum	Bayer Leverkusen	1:0	2:1	12.05.1984	15:30	1983	1984	32
+Bor. MÃ¶nchengladbach	Bayer 05 Uerdingen	2:0	7:1	12.05.1984	15:30	1983	1984	32
+1. FC KÃ¶ln	Borussia Dortmund	0:2	5:2	12.05.1984	15:30	1983	1984	32
+Bayern MÃ¼nchen	1. FC Kaiserslautern	2:2	5:2	12.05.1984	15:30	1983	1984	32
+Kickers Offenbach	Eintracht Braunschweig	0:1	1:2	19.05.1984	15:30	1983	1984	33
+Hamburger SV	Eintracht Frankfurt	0:1	0:2	19.05.1984	15:30	1983	1984	33
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	2:1	4:2	19.05.1984	15:30	1983	1984	33
+Borussia Dortmund	Bayern MÃ¼nchen	0:0	1:1	19.05.1984	15:30	1983	1984	33
+Bayer 05 Uerdingen	1. FC KÃ¶ln	0:3	4:6	19.05.1984	15:30	1983	1984	33
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	0:1	1:2	19.05.1984	15:30	1983	1984	33
+Arminia Bielefeld	VfL Bochum	0:0	2:1	19.05.1984	15:30	1983	1984	33
+Fortuna DÃ¼sseldorf	Waldhof Mannheim	1:0	1:2	19.05.1984	15:30	1983	1984	33
+Werder Bremen	VfB Stuttgart	0:0	1:2	19.05.1984	15:30	1983	1984	33
+VfB Stuttgart	Hamburger SV	0:0	0:1	26.05.1984	15:30	1983	1984	34
+Waldhof Mannheim	Kickers Offenbach	2:0	6:1	26.05.1984	15:30	1983	1984	34
+VfL Bochum	Fortuna DÃ¼sseldorf	1:0	6:1	26.05.1984	15:30	1983	1984	34
+Bor. MÃ¶nchengladbach	Arminia Bielefeld	2:0	3:0	26.05.1984	15:30	1983	1984	34
+1. FC KÃ¶ln	Bayer Leverkusen	0:0	2:0	26.05.1984	15:30	1983	1984	34
+Bayern MÃ¼nchen	Bayer 05 Uerdingen	1:1	3:2	26.05.1984	15:30	1983	1984	34
+1. FC NÃ¼rnberg	Borussia Dortmund	0:0	0:2	26.05.1984	15:30	1983	1984	34
+Eintracht Frankfurt	1. FC Kaiserslautern	0:0	3:0	26.05.1984	15:30	1983	1984	34
+Eintracht Braunschweig	Werder Bremen	1:1	1:2	26.05.1984	15:30	1983	1984	34

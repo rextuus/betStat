@@ -1,0 +1,462 @@
+Birmingham City	West Ham United	0:0	1:0	17.08.1985	00:00	1985	1986	1
+Tottenham Hotspur	Watford FC	1:0	4:0	17.08.1985	00:00	1985	1986	1
+Southampton FC	Newcastle United	1:0	1:1	17.08.1985	00:00	1985	1986	1
+Sheffield Wednesday	Chelsea FC	1:1	1:1	17.08.1985	00:00	1985	1986	1
+Queens Park Rangers	Ipswich Town	0:0	1:0	17.08.1985	00:00	1985	1986	1
+Manchester United	Aston Villa	0:0	4:0	17.08.1985	00:00	1985	1986	1
+Luton Town	Nottingham Forest	1:0	1:1	17.08.1985	00:00	1985	1986	1
+Liverpool FC	Arsenal FC	1:0	2:0	17.08.1985	00:00	1985	1986	1
+Leicester City	Everton FC	1:1	3:1	17.08.1985	00:00	1985	1986	1
+Coventry City	Manchester City	1:1	1:1	17.08.1985	00:00	1985	1986	1
+West Bromwich Albion	Oxford United	0:0	1:1	17.08.1985	00:00	1985	1986	1
+Arsenal FC	Southampton FC	1:0	3:2	20.08.1985	00:00	1985	1986	2
+West Ham United	Queens Park Rangers	2:0	3:1	20.08.1985	00:00	1985	1986	2
+Watford FC	Birmingham City	2:0	3:0	20.08.1985	00:00	1985	1986	2
+Ipswich Town	Manchester United	0:0	0:1	20.08.1985	00:00	1985	1986	2
+Everton FC	West Bromwich Albion	0:0	2:0	20.08.1985	00:00	1985	1986	2
+Chelsea FC	Coventry City	0:0	1:0	20.08.1985	00:00	1985	1986	2
+Aston Villa	Liverpool FC	1:1	2:2	21.08.1985	00:00	1985	1986	2
+Manchester City	Leicester City	1:1	1:1	21.08.1985	00:00	1985	1986	2
+Newcastle United	Luton Town	0:1	2:2	21.08.1985	00:00	1985	1986	2
+Nottingham Forest	Sheffield Wednesday	0:1	0:1	21.08.1985	00:00	1985	1986	2
+Oxford United	Tottenham Hotspur	0:1	1:1	21.08.1985	00:00	1985	1986	2
+Arsenal FC	Manchester United	0:1	1:2	24.08.1985	00:00	1985	1986	3
+Watford FC	West Bromwich Albion	3:0	5:1	24.08.1985	00:00	1985	1986	3
+Oxford United	Leicester City	2:0	5:0	24.08.1985	00:00	1985	1986	3
+Nottingham Forest	Southampton FC	2:0	2:1	24.08.1985	00:00	1985	1986	3
+Newcastle United	Liverpool FC	0:0	1:0	24.08.1985	00:00	1985	1986	3
+Manchester City	Sheffield Wednesday	0:1	1:3	24.08.1985	00:00	1985	1986	3
+Ipswich Town	Tottenham Hotspur	0:0	1:0	24.08.1985	00:00	1985	1986	3
+Everton FC	Coventry City	0:1	1:1	24.08.1985	00:00	1985	1986	3
+Chelsea FC	Birmingham City	1:0	2:0	24.08.1985	00:00	1985	1986	3
+Aston Villa	Queens Park Rangers	0:1	1:2	24.08.1985	00:00	1985	1986	3
+West Ham United	Luton Town	0:0	0:1	24.08.1985	00:00	1985	1986	3
+Birmingham City	Oxford United	2:1	3:1	26.08.1985	00:00	1985	1986	4
+West Bromwich Albion	Manchester City	1:2	2:3	26.08.1985	00:00	1985	1986	4
+Tottenham Hotspur	Everton FC	0:0	0:1	26.08.1985	00:00	1985	1986	4
+Sheffield Wednesday	Watford FC	1:0	2:1	26.08.1985	00:00	1985	1986	4
+Manchester United	West Ham United	0:0	2:0	26.08.1985	00:00	1985	1986	4
+Liverpool FC	Ipswich Town	3:0	5:0	26.08.1985	00:00	1985	1986	4
+Coventry City	Newcastle United	0:0	1:2	26.08.1985	00:00	1985	1986	4
+Luton Town	Arsenal FC	1:0	2:2	27.08.1985	00:00	1985	1986	4
+Queens Park Rangers	Nottingham Forest	2:1	2:1	27.08.1985	00:00	1985	1986	4
+Southampton FC	Aston Villa	0:0	0:0	27.08.1985	00:00	1985	1986	4
+Leicester City	Chelsea FC	0:0	0:0	28.08.1985	00:00	1985	1986	4
+Arsenal FC	Leicester City	1:0	1:0	31.08.1985	00:00	1985	1986	5
+Watford FC	Coventry City	2:0	3:0	31.08.1985	00:00	1985	1986	5
+Oxford United	Sheffield Wednesday	0:0	0:1	31.08.1985	00:00	1985	1986	5
+Nottingham Forest	Manchester United	0:3	1:3	31.08.1985	00:00	1985	1986	5
+Newcastle United	Queens Park Rangers	1:0	3:1	31.08.1985	00:00	1985	1986	5
+Manchester City	Tottenham Hotspur	1:0	2:1	31.08.1985	00:00	1985	1986	5
+Ipswich Town	Southampton FC	1:0	1:1	31.08.1985	00:00	1985	1986	5
+Everton FC	Birmingham City	2:1	4:1	31.08.1985	00:00	1985	1986	5
+Chelsea FC	West Bromwich Albion	2:0	3:0	31.08.1985	00:00	1985	1986	5
+Aston Villa	Luton Town	3:0	3:1	31.08.1985	00:00	1985	1986	5
+West Ham United	Liverpool FC	1:0	2:2	31.08.1985	00:00	1985	1986	5
+Birmingham City	Manchester City	0:0	1:0	03.09.1985	00:00	1985	1986	6
+Southampton FC	West Ham United	0:0	1:1	03.09.1985	00:00	1985	1986	6
+Sheffield Wednesday	Everton FC	1:1	1:5	03.09.1985	00:00	1985	1986	6
+Queens Park Rangers	Arsenal FC	0:0	0:1	03.09.1985	00:00	1985	1986	6
+Liverpool FC	Nottingham Forest	0:0	2:0	03.09.1985	00:00	1985	1986	6
+Coventry City	Oxford United	2:2	5:2	03.09.1985	00:00	1985	1986	6
+Leicester City	Watford FC	0:1	2:2	04.09.1985	00:00	1985	1986	6
+Manchester United	Newcastle United	2:0	3:0	04.09.1985	00:00	1985	1986	6
+Tottenham Hotspur	Chelsea FC	3:0	4:1	04.09.1985	00:00	1985	1986	6
+West Bromwich Albion	Aston Villa	0:2	0:3	04.09.1985	00:00	1985	1986	6
+Luton Town	Ipswich Town	0:0	1:0	01.10.1985	00:00	1985	1986	6
+Luton Town	Chelsea FC	1:0	1:1	07.09.1985	00:00	1985	1986	7
+Birmingham City	Aston Villa	0:0	0:0	07.09.1985	00:00	1985	1986	7
+West Bromwich Albion	Ipswich Town	0:2	1:2	07.09.1985	00:00	1985	1986	7
+Tottenham Hotspur	Newcastle United	2:1	5:1	07.09.1985	00:00	1985	1986	7
+Southampton FC	Manchester City	1:0	3:0	07.09.1985	00:00	1985	1986	7
+Sheffield Wednesday	West Ham United	1:1	2:2	07.09.1985	00:00	1985	1986	7
+Queens Park Rangers	Everton FC	2:0	3:0	07.09.1985	00:00	1985	1986	7
+Manchester United	Oxford United	2:0	3:0	07.09.1985	00:00	1985	1986	7
+Liverpool FC	Watford FC	1:1	3:1	07.09.1985	00:00	1985	1986	7
+Coventry City	Arsenal FC	0:1	0:2	07.09.1985	00:00	1985	1986	7
+Leicester City	Nottingham Forest	0:1	0:3	08.09.1985	00:00	1985	1986	7
+Everton FC	Luton Town	1:0	2:0	14.09.1985	00:00	1985	1986	8
+Arsenal FC	Sheffield Wednesday	1:0	1:0	14.09.1985	00:00	1985	1986	8
+West Ham United	Leicester City	1:0	3:0	14.09.1985	00:00	1985	1986	8
+Watford FC	Queens Park Rangers	2:0	2:0	14.09.1985	00:00	1985	1986	8
+Oxford United	Liverpool FC	1:0	2:2	14.09.1985	00:00	1985	1986	8
+Nottingham Forest	Tottenham Hotspur	0:0	0:1	14.09.1985	00:00	1985	1986	8
+Newcastle United	West Bromwich Albion	2:0	4:1	14.09.1985	00:00	1985	1986	8
+Manchester City	Manchester United	0:2	0:3	14.09.1985	00:00	1985	1986	8
+Ipswich Town	Birmingham City	0:0	0:1	14.09.1985	00:00	1985	1986	8
+Chelsea FC	Southampton FC	1:0	2:0	14.09.1985	00:00	1985	1986	8
+Aston Villa	Coventry City	1:1	1:1	14.09.1985	00:00	1985	1986	8
+Ipswich Town	Aston Villa	0:2	0:3	21.09.1985	00:00	1985	1986	9
+Luton Town	Queens Park Rangers	2:0	2:0	21.09.1985	00:00	1985	1986	9
+Birmingham City	Leicester City	0:1	2:1	21.09.1985	00:00	1985	1986	9
+West Bromwich Albion	Manchester United	0:2	1:5	21.09.1985	00:00	1985	1986	9
+Tottenham Hotspur	Sheffield Wednesday	1:1	5:1	21.09.1985	00:00	1985	1986	9
+Southampton FC	Coventry City	0:0	1:1	21.09.1985	00:00	1985	1986	9
+Nottingham Forest	Watford FC	1:1	3:2	21.09.1985	00:00	1985	1986	9
+Newcastle United	Oxford United	0:0	3:0	21.09.1985	00:00	1985	1986	9
+Manchester City	West Ham United	1:2	2:2	21.09.1985	00:00	1985	1986	9
+Everton FC	Liverpool FC	0:3	2:3	21.09.1985	00:00	1985	1986	9
+Chelsea FC	Arsenal FC	0:0	2:1	21.09.1985	00:00	1985	1986	9
+Sheffield Wednesday	Luton Town	2:1	3:2	28.09.1985	00:00	1985	1986	10
+Arsenal FC	Newcastle United	0:0	0:0	28.09.1985	00:00	1985	1986	10
+West Ham United	Nottingham Forest	3:0	4:2	28.09.1985	00:00	1985	1986	10
+Watford FC	Chelsea FC	1:0	3:1	28.09.1985	00:00	1985	1986	10
+Queens Park Rangers	Birmingham City	2:1	3:1	28.09.1985	00:00	1985	1986	10
+Oxford United	Manchester City	1:0	1:0	28.09.1985	00:00	1985	1986	10
+Manchester United	Southampton FC	0:0	1:0	28.09.1985	00:00	1985	1986	10
+Liverpool FC	Tottenham Hotspur	1:0	4:1	28.09.1985	00:00	1985	1986	10
+Leicester City	Ipswich Town	0:0	1:0	28.09.1985	00:00	1985	1986	10
+Coventry City	West Bromwich Albion	1:0	3:0	28.09.1985	00:00	1985	1986	10
+Aston Villa	Everton FC	0:0	0:0	28.09.1985	00:00	1985	1986	10
+West Bromwich Albion	Tottenham Hotspur	1:1	1:1	05.10.1985	00:00	1985	1986	11
+Southampton FC	Watford FC	2:0	3:1	05.10.1985	00:00	1985	1986	11
+Queens Park Rangers	Liverpool FC	1:1	2:1	05.10.1985	00:00	1985	1986	11
+Nottingham Forest	Ipswich Town	3:0	3:1	05.10.1985	00:00	1985	1986	11
+Newcastle United	West Ham United	0:2	1:2	05.10.1985	00:00	1985	1986	11
+Manchester City	Chelsea FC	0:1	0:1	05.10.1985	00:00	1985	1986	11
+Luton Town	Manchester United	0:0	1:1	05.10.1985	00:00	1985	1986	11
+Everton FC	Oxford United	1:0	2:0	05.10.1985	00:00	1985	1986	11
+Birmingham City	Sheffield Wednesday	0:1	0:2	05.10.1985	00:00	1985	1986	11
+Arsenal FC	Aston Villa	2:1	3:2	05.10.1985	00:00	1985	1986	11
+Coventry City	Leicester City	1:0	3:0	06.10.1985	00:00	1985	1986	11
+Aston Villa	Nottingham Forest	0:0	1:2	12.10.1985	00:00	1985	1986	12
+West Ham United	Arsenal FC	0:0	0:0	12.10.1985	00:00	1985	1986	12
+Watford FC	Manchester City	2:0	3:2	12.10.1985	00:00	1985	1986	12
+Sheffield Wednesday	Coventry City	2:0	2:2	12.10.1985	00:00	1985	1986	12
+Oxford United	Luton Town	0:1	1:1	12.10.1985	00:00	1985	1986	12
+Manchester United	Queens Park Rangers	1:0	2:0	12.10.1985	00:00	1985	1986	12
+Liverpool FC	Southampton FC	0:0	1:0	12.10.1985	00:00	1985	1986	12
+Ipswich Town	Newcastle United	2:1	2:2	12.10.1985	00:00	1985	1986	12
+Chelsea FC	Everton FC	2:1	2:1	12.10.1985	00:00	1985	1986	12
+Leicester City	West Bromwich Albion	1:2	2:2	12.10.1985	00:00	1985	1986	12
+Tottenham Hotspur	Birmingham City	1:0	2:0	16.04.1986	00:00	1985	1986	12
+West Bromwich Albion	Birmingham City	2:1	2:1	19.10.1985	00:00	1985	1986	13
+West Ham United	Aston Villa	2:1	4:1	19.10.1985	00:00	1985	1986	13
+Queens Park Rangers	Manchester City	0:0	0:0	19.10.1985	00:00	1985	1986	13
+Oxford United	Chelsea FC	2:0	2:1	19.10.1985	00:00	1985	1986	13
+Newcastle United	Nottingham Forest	0:1	0:3	19.10.1985	00:00	1985	1986	13
+Manchester United	Liverpool FC	0:0	1:1	19.10.1985	00:00	1985	1986	13
+Luton Town	Southampton FC	3:0	7:0	19.10.1985	00:00	1985	1986	13
+Everton FC	Watford FC	1:0	4:1	19.10.1985	00:00	1985	1986	13
+Arsenal FC	Ipswich Town	1:0	1:0	19.10.1985	00:00	1985	1986	13
+Leicester City	Sheffield Wednesday	0:1	2:3	19.10.1985	00:00	1985	1986	13
+Coventry City	Tottenham Hotspur	2:1	2:3	20.10.1985	00:00	1985	1986	13
+Birmingham City	Coventry City	0:1	0:1	26.10.1985	00:00	1985	1986	14
+Watford FC	Oxford United	1:0	2:2	26.10.1985	00:00	1985	1986	14
+Southampton FC	Queens Park Rangers	1:0	3:0	26.10.1985	00:00	1985	1986	14
+Sheffield Wednesday	West Bromwich Albion	1:0	1:0	26.10.1985	00:00	1985	1986	14
+Nottingham Forest	Arsenal FC	1:0	3:2	26.10.1985	00:00	1985	1986	14
+Manchester City	Everton FC	0:1	1:1	26.10.1985	00:00	1985	1986	14
+Liverpool FC	Luton Town	2:0	3:2	26.10.1985	00:00	1985	1986	14
+Ipswich Town	West Ham United	0:1	0:1	26.10.1985	00:00	1985	1986	14
+Chelsea FC	Manchester United	0:1	1:2	26.10.1985	00:00	1985	1986	14
+Aston Villa	Newcastle United	1:1	1:2	26.10.1985	00:00	1985	1986	14
+Tottenham Hotspur	Leicester City	1:3	1:3	26.10.1985	00:00	1985	1986	14
+Luton Town	Birmingham City	0:0	2:0	02.11.1985	00:00	1985	1986	15
+West Ham United	Everton FC	0:0	2:1	02.11.1985	00:00	1985	1986	15
+Southampton FC	Tottenham Hotspur	0:0	1:0	02.11.1985	00:00	1985	1986	15
+Queens Park Rangers	Sheffield Wednesday	0:0	1:1	02.11.1985	00:00	1985	1986	15
+Newcastle United	Watford FC	0:1	1:1	02.11.1985	00:00	1985	1986	15
+Manchester United	Coventry City	2:0	2:0	02.11.1985	00:00	1985	1986	15
+Ipswich Town	Chelsea FC	0:1	0:2	02.11.1985	00:00	1985	1986	15
+Aston Villa	Oxford United	1:0	2:0	02.11.1985	00:00	1985	1986	15
+Arsenal FC	Manchester City	0:0	1:0	02.11.1985	00:00	1985	1986	15
+Liverpool FC	Leicester City	0:0	1:0	02.11.1985	00:00	1985	1986	15
+Nottingham Forest	West Bromwich Albion	1:1	2:1	03.11.1985	00:00	1985	1986	15
+Birmingham City	Newcastle United	0:1	0:1	09.11.1985	00:00	1985	1986	16
+West Bromwich Albion	Queens Park Rangers	0:1	0:1	09.11.1985	00:00	1985	1986	16
+Watford FC	Aston Villa	0:1	1:1	09.11.1985	00:00	1985	1986	16
+Tottenham Hotspur	Luton Town	0:1	1:3	09.11.1985	00:00	1985	1986	16
+Sheffield Wednesday	Manchester United	0:0	1:0	09.11.1985	00:00	1985	1986	16
+Oxford United	West Ham United	1:1	1:2	09.11.1985	00:00	1985	1986	16
+Manchester City	Ipswich Town	1:1	1:1	09.11.1985	00:00	1985	1986	16
+Everton FC	Arsenal FC	2:0	6:1	09.11.1985	00:00	1985	1986	16
+Coventry City	Liverpool FC	0:1	0:3	09.11.1985	00:00	1985	1986	16
+Chelsea FC	Nottingham Forest	3:1	4:2	09.11.1985	00:00	1985	1986	16
+Leicester City	Southampton FC	1:1	2:2	09.11.1985	00:00	1985	1986	16
+Southampton FC	Birmingham City	0:0	1:0	16.11.1985	00:00	1985	1986	17
+West Ham United	Watford FC	1:0	2:1	16.11.1985	00:00	1985	1986	17
+Nottingham Forest	Manchester City	0:1	0:2	16.11.1985	00:00	1985	1986	17
+Newcastle United	Chelsea FC	1:1	1:3	16.11.1985	00:00	1985	1986	17
+Manchester United	Tottenham Hotspur	0:0	0:0	16.11.1985	00:00	1985	1986	17
+Luton Town	Coventry City	0:1	0:1	16.11.1985	00:00	1985	1986	17
+Liverpool FC	West Bromwich Albion	1:1	4:1	16.11.1985	00:00	1985	1986	17
+Ipswich Town	Everton FC	2:1	3:4	16.11.1985	00:00	1985	1986	17
+Aston Villa	Sheffield Wednesday	1:1	1:1	16.11.1985	00:00	1985	1986	17
+Arsenal FC	Oxford United	2:0	2:1	16.11.1985	00:00	1985	1986	17
+Queens Park Rangers	Leicester City	0:0	2:0	16.11.1985	00:00	1985	1986	17
+Birmingham City	Liverpool FC	0:2	0:2	23.11.1985	00:00	1985	1986	18
+West Bromwich Albion	Arsenal FC	0:0	0:0	23.11.1985	00:00	1985	1986	18
+Watford FC	Luton Town	0:1	1:2	23.11.1985	00:00	1985	1986	18
+Tottenham Hotspur	Queens Park Rangers	1:0	1:1	23.11.1985	00:00	1985	1986	18
+Sheffield Wednesday	Southampton FC	1:0	2:1	23.11.1985	00:00	1985	1986	18
+Oxford United	Ipswich Town	0:2	4:3	23.11.1985	00:00	1985	1986	18
+Manchester City	Newcastle United	1:0	1:0	23.11.1985	00:00	1985	1986	18
+Everton FC	Nottingham Forest	0:0	1:1	23.11.1985	00:00	1985	1986	18
+Coventry City	West Ham United	0:0	0:1	23.11.1985	00:00	1985	1986	18
+Chelsea FC	Aston Villa	1:1	2:1	23.11.1985	00:00	1985	1986	18
+Leicester City	Manchester United	3:0	3:0	23.11.1985	00:00	1985	1986	18
+Arsenal FC	Birmingham City	0:0	0:0	30.11.1985	00:00	1985	1986	19
+Aston Villa	Tottenham Hotspur	0:0	1:2	30.11.1985	00:00	1985	1986	19
+West Ham United	West Bromwich Albion	2:0	4:0	30.11.1985	00:00	1985	1986	19
+Southampton FC	Everton FC	1:1	2:3	30.11.1985	00:00	1985	1986	19
+Queens Park Rangers	Coventry City	0:0	0:2	30.11.1985	00:00	1985	1986	19
+Manchester United	Watford FC	0:0	1:1	30.11.1985	00:00	1985	1986	19
+Luton Town	Manchester City	1:0	2:1	30.11.1985	00:00	1985	1986	19
+Liverpool FC	Chelsea FC	0:0	1:1	30.11.1985	00:00	1985	1986	19
+Ipswich Town	Sheffield Wednesday	1:1	2:1	30.11.1985	00:00	1985	1986	19
+Newcastle United	Leicester City	2:0	2:1	30.11.1985	00:00	1985	1986	19
+Nottingham Forest	Oxford United	0:1	1:1	01.12.1985	00:00	1985	1986	19
+Birmingham City	Watford FC	1:0	1:2	07.12.1985	00:00	1985	1986	20
+Tottenham Hotspur	Oxford United	4:1	5:1	07.12.1985	00:00	1985	1986	20
+West Bromwich Albion	Everton FC	0:2	0:3	07.12.1985	00:00	1985	1986	20
+Southampton FC	Arsenal FC	1:0	3:0	07.12.1985	00:00	1985	1986	20
+Sheffield Wednesday	Nottingham Forest	0:0	2:1	07.12.1985	00:00	1985	1986	20
+Queens Park Rangers	West Ham United	0:0	0:1	07.12.1985	00:00	1985	1986	20
+Manchester United	Ipswich Town	1:0	1:0	07.12.1985	00:00	1985	1986	20
+Luton Town	Newcastle United	1:0	2:0	07.12.1985	00:00	1985	1986	20
+Liverpool FC	Aston Villa	1:0	3:0	07.12.1985	00:00	1985	1986	20
+Coventry City	Chelsea FC	1:1	1:1	07.12.1985	00:00	1985	1986	20
+Leicester City	Manchester City	1:0	1:1	07.12.1985	00:00	1985	1986	20
+Watford FC	Tottenham Hotspur	1:0	1:0	14.12.1985	00:00	1985	1986	21
+West Ham United	Birmingham City	2:0	2:0	14.12.1985	00:00	1985	1986	21
+Oxford United	West Bromwich Albion	1:0	2:2	14.12.1985	00:00	1985	1986	21
+Nottingham Forest	Luton Town	1:0	2:0	14.12.1985	00:00	1985	1986	21
+Newcastle United	Southampton FC	1:0	2:1	14.12.1985	00:00	1985	1986	21
+Manchester City	Coventry City	2:0	5:1	14.12.1985	00:00	1985	1986	21
+Ipswich Town	Queens Park Rangers	1:0	1:0	14.12.1985	00:00	1985	1986	21
+Chelsea FC	Sheffield Wednesday	1:0	2:1	14.12.1985	00:00	1985	1986	21
+Aston Villa	Manchester United	1:1	1:3	14.12.1985	00:00	1985	1986	21
+Arsenal FC	Liverpool FC	2:0	2:0	14.12.1985	00:00	1985	1986	21
+Everton FC	Leicester City	1:0	1:2	14.12.1985	00:00	1985	1986	21
+Leicester City	Oxford United	2:2	4:4	02.10.1985	00:00	1985	1986	22
+Queens Park Rangers	Aston Villa	0:1	0:1	17.12.1985	00:00	1985	1986	22
+Southampton FC	Nottingham Forest	2:1	3:1	20.12.1985	00:00	1985	1986	22
+Birmingham City	Chelsea FC	0:1	1:2	21.12.1985	00:00	1985	1986	22
+Tottenham Hotspur	Ipswich Town	1:0	2:0	21.12.1985	00:00	1985	1986	22
+Sheffield Wednesday	Manchester City	3:1	3:2	21.12.1985	00:00	1985	1986	22
+Manchester United	Arsenal FC	0:0	0:1	21.12.1985	00:00	1985	1986	22
+Luton Town	West Ham United	0:0	0:0	21.12.1985	00:00	1985	1986	22
+Liverpool FC	Newcastle United	1:1	1:1	21.12.1985	00:00	1985	1986	22
+Coventry City	Everton FC	0:0	1:3	21.12.1985	00:00	1985	1986	22
+West Bromwich Albion	Watford FC	1:0	3:1	22.12.1985	00:00	1985	1986	22
+Birmingham City	Nottingham Forest	0:1	0:1	26.12.1985	00:00	1985	1986	23
+Tottenham Hotspur	West Ham United	0:0	1:0	26.12.1985	00:00	1985	1986	23
+Coventry City	Ipswich Town	0:0	0:1	26.12.1985	00:00	1985	1986	23
+West Bromwich Albion	Luton Town	1:2	1:2	26.12.1985	00:00	1985	1986	23
+Sheffield Wednesday	Newcastle United	1:0	2:2	26.12.1985	00:00	1985	1986	23
+Oxford United	Southampton FC	2:0	3:0	26.12.1985	00:00	1985	1986	23
+Manchester City	Liverpool FC	0:0	1:0	26.12.1985	00:00	1985	1986	23
+Leicester City	Aston Villa	2:1	3:1	26.12.1985	00:00	1985	1986	23
+Everton FC	Manchester United	2:1	3:1	26.12.1985	00:00	1985	1986	23
+Chelsea FC	Queens Park Rangers	1:0	1:1	19.03.1986	00:00	1985	1986	23
+Watford FC	Arsenal FC	2:0	3:0	01.04.1986	00:00	1985	1986	23
+Arsenal FC	Queens Park Rangers	1:0	3:1	28.12.1985	00:00	1985	1986	24
+Chelsea FC	Tottenham Hotspur	1:0	2:0	28.12.1985	00:00	1985	1986	24
+Manchester City	Birmingham City	0:1	1:1	28.12.1985	00:00	1985	1986	24
+Aston Villa	West Bromwich Albion	1:0	1:1	28.12.1985	00:00	1985	1986	24
+Everton FC	Sheffield Wednesday	2:0	3:1	28.12.1985	00:00	1985	1986	24
+Ipswich Town	Luton Town	1:0	1:1	28.12.1985	00:00	1985	1986	24
+Nottingham Forest	Liverpool FC	1:0	1:1	28.12.1985	00:00	1985	1986	24
+Watford FC	Leicester City	0:1	2:1	28.12.1985	00:00	1985	1986	24
+Oxford United	Coventry City	0:0	0:1	25.01.1986	00:00	1985	1986	24
+West Ham United	Southampton FC	1:0	1:0	08.04.1986	00:00	1985	1986	24
+Newcastle United	Manchester United	1:3	2:4	16.04.1986	00:00	1985	1986	24
+Queens Park Rangers	Oxford United	2:0	3:1	01.01.1986	00:00	1985	1986	25
+Nottingham Forest	Coventry City	1:2	5:2	01.01.1986	00:00	1985	1986	25
+Manchester United	Birmingham City	0:0	1:0	01.01.1986	00:00	1985	1986	25
+Arsenal FC	Tottenham Hotspur	0:0	0:0	01.01.1986	00:00	1985	1986	25
+Southampton FC	West Bromwich Albion	0:0	3:1	01.01.1986	00:00	1985	1986	25
+Aston Villa	Manchester City	0:0	0:1	01.01.1986	00:00	1985	1986	25
+Ipswich Town	Watford FC	0:0	0:0	01.01.1986	00:00	1985	1986	25
+Liverpool FC	Sheffield Wednesday	0:1	2:2	01.01.1986	00:00	1985	1986	25
+Luton Town	Leicester City	1:0	3:1	01.01.1986	00:00	1985	1986	25
+Newcastle United	Everton FC	0:1	2:2	01.01.1986	00:00	1985	1986	25
+West Ham United	Chelsea FC	0:0	1:2	15.04.1986	00:00	1985	1986	25
+Coventry City	Aston Villa	3:1	3:3	11.01.1986	00:00	1985	1986	26
+Birmingham City	Ipswich Town	0:1	0:1	11.01.1986	00:00	1985	1986	26
+Tottenham Hotspur	Nottingham Forest	0:0	0:3	11.01.1986	00:00	1985	1986	26
+Leicester City	West Ham United	0:0	0:1	11.01.1986	00:00	1985	1986	26
+West Bromwich Albion	Newcastle United	0:1	1:1	11.01.1986	00:00	1985	1986	26
+Southampton FC	Chelsea FC	0:0	0:1	22.03.1986	00:00	1985	1986	26
+Manchester United	Manchester City	1:0	2:2	22.03.1986	00:00	1985	1986	26
+Liverpool FC	Oxford United	3:0	6:0	22.03.1986	00:00	1985	1986	26
+Luton Town	Everton FC	0:0	2:1	22.03.1986	00:00	1985	1986	26
+Queens Park Rangers	Watford FC	1:0	2:1	22.03.1986	00:00	1985	1986	26
+Sheffield Wednesday	Arsenal FC	1:0	2:0	16.04.1986	00:00	1985	1986	26
+Southampton FC	Ipswich Town	0:0	1:0	18.01.1986	00:00	1985	1986	27
+Sheffield Wednesday	Oxford United	1:0	2:1	18.01.1986	00:00	1985	1986	27
+Queens Park Rangers	Newcastle United	2:0	3:1	18.01.1986	00:00	1985	1986	27
+Manchester United	Nottingham Forest	0:1	2:3	18.01.1986	00:00	1985	1986	27
+Coventry City	Watford FC	0:1	0:2	18.01.1986	00:00	1985	1986	27
+Birmingham City	Everton FC	0:1	0:2	18.01.1986	00:00	1985	1986	27
+Tottenham Hotspur	Manchester City	0:1	0:2	18.01.1986	00:00	1985	1986	27
+Leicester City	Arsenal FC	0:1	2:2	18.01.1986	00:00	1985	1986	27
+Liverpool FC	West Ham United	0:0	3:1	18.01.1986	00:00	1985	1986	27
+Luton Town	Aston Villa	1:0	2:0	18.01.1986	00:00	1985	1986	27
+West Bromwich Albion	Chelsea FC	0:1	0:3	18.01.1986	00:00	1985	1986	27
+Watford FC	Sheffield Wednesday	1:0	2:1	01.02.1986	00:00	1985	1986	28
+Oxford United	Birmingham City	0:0	0:1	01.02.1986	00:00	1985	1986	28
+Nottingham Forest	Queens Park Rangers	2:0	4:0	01.02.1986	00:00	1985	1986	28
+Everton FC	Tottenham Hotspur	0:0	1:0	01.02.1986	00:00	1985	1986	28
+Aston Villa	Southampton FC	0:0	0:0	01.02.1986	00:00	1985	1986	28
+Arsenal FC	Luton Town	1:1	2:1	01.02.1986	00:00	1985	1986	28
+Chelsea FC	Leicester City	1:1	2:2	01.02.1986	00:00	1985	1986	28
+Ipswich Town	Liverpool FC	0:1	2:1	01.02.1986	00:00	1985	1986	28
+Manchester City	West Bromwich Albion	1:0	2:1	01.02.1986	00:00	1985	1986	28
+Newcastle United	Coventry City	2:1	3:2	01.02.1986	00:00	1985	1986	28
+West Ham United	Manchester United	0:1	2:1	02.02.1986	00:00	1985	1986	28
+Chelsea FC	Oxford United	0:2	1:4	08.02.1986	00:00	1985	1986	29
+Nottingham Forest	Newcastle United	0:0	1:2	08.02.1986	00:00	1985	1986	29
+Manchester City	Queens Park Rangers	2:0	2:0	08.02.1986	00:00	1985	1986	29
+Birmingham City	West Bromwich Albion	0:0	0:1	08.02.1986	00:00	1985	1986	29
+Southampton FC	Luton Town	0:1	1:2	08.02.1986	00:00	1985	1986	29
+Tottenham Hotspur	Coventry City	0:0	0:1	08.02.1986	00:00	1985	1986	29
+Liverpool FC	Manchester United	1:1	1:1	09.02.1986	00:00	1985	1986	29
+Ipswich Town	Arsenal FC	1:1	1:2	11.03.1986	00:00	1985	1986	29
+Sheffield Wednesday	Leicester City	1:0	1:0	18.03.1986	00:00	1985	1986	29
+Aston Villa	West Ham United	1:1	2:1	19.03.1986	00:00	1985	1986	29
+Watford FC	Everton FC	0:1	0:2	15.04.1986	00:00	1985	1986	29
+Sheffield Wednesday	Tottenham Hotspur	1:0	1:2	22.02.1986	00:00	1985	1986	30
+Manchester United	West Bromwich Albion	2:0	3:0	22.02.1986	00:00	1985	1986	30
+Liverpool FC	Everton FC	0:0	0:2	22.02.1986	00:00	1985	1986	30
+Queens Park Rangers	Luton Town	1:0	1:1	22.02.1986	00:00	1985	1986	30
+Coventry City	Southampton FC	0:2	3:2	22.02.1986	00:00	1985	1986	30
+Leicester City	Birmingham City	3:2	4:2	12.03.1986	00:00	1985	1986	30
+Oxford United	Newcastle United	0:1	1:2	19.03.1986	00:00	1985	1986	30
+Aston Villa	Ipswich Town	0:0	1:0	16.04.1986	00:00	1985	1986	30
+Watford FC	Nottingham Forest	1:1	1:1	21.04.1986	00:00	1985	1986	30
+West Ham United	Manchester City	1:0	1:0	28.04.1986	00:00	1985	1986	30
+Arsenal FC	Chelsea FC	0:0	2:0	29.04.1986	00:00	1985	1986	30
+Newcastle United	Arsenal FC	0:0	1:0	01.03.1986	00:00	1985	1986	31
+Birmingham City	Queens Park Rangers	0:0	2:0	01.03.1986	00:00	1985	1986	31
+Southampton FC	Manchester United	0:0	1:0	01.03.1986	00:00	1985	1986	31
+Everton FC	Aston Villa	0:0	2:0	01.03.1986	00:00	1985	1986	31
+Luton Town	Sheffield Wednesday	1:0	1:0	01.03.1986	00:00	1985	1986	31
+Manchester City	Oxford United	0:2	0:3	01.03.1986	00:00	1985	1986	31
+Tottenham Hotspur	Liverpool FC	1:0	1:2	02.03.1986	00:00	1985	1986	31
+West Bromwich Albion	Coventry City	0:0	0:0	19.03.1986	00:00	1985	1986	31
+Nottingham Forest	West Ham United	1:0	2:1	02.04.1986	00:00	1985	1986	31
+Ipswich Town	Leicester City	0:2	0:2	08.04.1986	00:00	1985	1986	31
+Chelsea FC	Watford FC	0:2	1:5	05.05.1986	00:00	1985	1986	31
+Aston Villa	Arsenal FC	0:0	1:4	08.03.1986	00:00	1985	1986	32
+Chelsea FC	Manchester City	0:0	1:0	08.03.1986	00:00	1985	1986	32
+Ipswich Town	Nottingham Forest	0:0	1:0	08.03.1986	00:00	1985	1986	32
+Tottenham Hotspur	West Bromwich Albion	4:0	5:0	08.03.1986	00:00	1985	1986	32
+Sheffield Wednesday	Birmingham City	3:0	5:1	08.03.1986	00:00	1985	1986	32
+Leicester City	Coventry City	0:1	2:1	08.03.1986	00:00	1985	1986	32
+Liverpool FC	Queens Park Rangers	3:1	4:1	08.03.1986	00:00	1985	1986	32
+Manchester United	Luton Town	1:0	2:0	19.03.1986	00:00	1985	1986	32
+West Ham United	Newcastle United	4:0	8:1	21.04.1986	00:00	1985	1986	32
+Watford FC	Southampton FC	1:1	1:1	29.04.1986	00:00	1985	1986	32
+Oxford United	Everton FC	0:0	1:0	30.04.1986	00:00	1985	1986	32
+Manchester City	Watford FC	0:0	0:1	15.03.1986	00:00	1985	1986	33
+Arsenal FC	West Ham United	0:0	1:0	15.03.1986	00:00	1985	1986	33
+Newcastle United	Ipswich Town	0:1	3:1	15.03.1986	00:00	1985	1986	33
+Nottingham Forest	Aston Villa	0:0	1:1	15.03.1986	00:00	1985	1986	33
+Queens Park Rangers	Manchester United	0:0	1:0	15.03.1986	00:00	1985	1986	33
+West Bromwich Albion	Leicester City	1:1	2:2	15.03.1986	00:00	1985	1986	33
+Luton Town	Oxford United	1:0	1:2	15.03.1986	00:00	1985	1986	33
+Birmingham City	Tottenham Hotspur	0:2	1:2	15.03.1986	00:00	1985	1986	33
+Coventry City	Sheffield Wednesday	0:0	0:1	15.03.1986	00:00	1985	1986	33
+Southampton FC	Liverpool FC	0:0	1:2	15.03.1986	00:00	1985	1986	33
+Everton FC	Chelsea FC	0:1	1:1	16.03.1986	00:00	1985	1986	33
+Oxford United	Manchester United	0:1	1:3	11.01.1986	00:00	1985	1986	34
+Manchester City	Southampton FC	0:0	1:0	11.01.1986	00:00	1985	1986	34
+Everton FC	Queens Park Rangers	1:2	4:3	11.01.1986	00:00	1985	1986	34
+Chelsea FC	Luton Town	0:0	1:0	11.01.1986	00:00	1985	1986	34
+Watford FC	Liverpool FC	1:2	2:3	12.01.1986	00:00	1985	1986	34
+West Ham United	Sheffield Wednesday	1:0	1:0	22.03.1986	00:00	1985	1986	34
+Nottingham Forest	Leicester City	2:1	4:3	22.03.1986	00:00	1985	1986	34
+Newcastle United	Tottenham Hotspur	1:1	2:2	22.03.1986	00:00	1985	1986	34
+Aston Villa	Birmingham City	0:2	0:3	22.03.1986	00:00	1985	1986	34
+Ipswich Town	West Bromwich Albion	0:0	1:0	22.03.1986	00:00	1985	1986	34
+Arsenal FC	Coventry City	1:0	3:0	22.03.1986	00:00	1985	1986	34
+Chelsea FC	West Ham United	0:1	0:4	29.03.1986	00:00	1985	1986	35
+Watford FC	Ipswich Town	0:0	0:0	29.03.1986	00:00	1985	1986	35
+West Bromwich Albion	Southampton FC	0:0	1:0	29.03.1986	00:00	1985	1986	35
+Tottenham Hotspur	Arsenal FC	1:0	1:0	29.03.1986	00:00	1985	1986	35
+Manchester City	Aston Villa	0:1	2:2	29.03.1986	00:00	1985	1986	35
+Leicester City	Luton Town	0:0	0:0	29.03.1986	00:00	1985	1986	35
+Everton FC	Newcastle United	1:0	1:0	29.03.1986	00:00	1985	1986	35
+Birmingham City	Manchester United	0:0	1:1	29.03.1986	00:00	1985	1986	35
+Sheffield Wednesday	Liverpool FC	0:0	0:0	29.03.1986	00:00	1985	1986	35
+Coventry City	Nottingham Forest	0:0	0:0	29.03.1986	00:00	1985	1986	35
+Oxford United	Queens Park Rangers	2:3	3:3	29.03.1986	00:00	1985	1986	35
+Arsenal FC	Watford FC	0:1	0:2	31.03.1986	00:00	1985	1986	36
+West Ham United	Tottenham Hotspur	2:1	2:1	31.03.1986	00:00	1985	1986	36
+Newcastle United	Sheffield Wednesday	3:0	4:1	31.03.1986	00:00	1985	1986	36
+Manchester United	Everton FC	0:0	0:0	31.03.1986	00:00	1985	1986	36
+Aston Villa	Leicester City	0:0	1:0	31.03.1986	00:00	1985	1986	36
+Liverpool FC	Manchester City	1:0	2:0	31.03.1986	00:00	1985	1986	36
+Nottingham Forest	Birmingham City	1:0	3:0	31.03.1986	00:00	1985	1986	36
+Ipswich Town	Coventry City	0:0	1:0	31.03.1986	00:00	1985	1986	36
+Queens Park Rangers	Chelsea FC	3:0	6:0	31.03.1986	00:00	1985	1986	36
+Southampton FC	Oxford United	1:1	1:1	01.04.1986	00:00	1985	1986	36
+Luton Town	West Bromwich Albion	2:0	3:0	01.04.1986	00:00	1985	1986	36
+Watford FC	Newcastle United	2:0	4:1	05.04.1986	00:00	1985	1986	37
+Chelsea FC	Ipswich Town	1:1	1:1	05.04.1986	00:00	1985	1986	37
+Manchester City	Arsenal FC	0:0	0:1	05.04.1986	00:00	1985	1986	37
+Oxford United	Aston Villa	0:0	1:1	05.04.1986	00:00	1985	1986	37
+West Bromwich Albion	Nottingham Forest	0:1	1:1	05.04.1986	00:00	1985	1986	37
+Coventry City	Manchester United	0:2	1:3	05.04.1986	00:00	1985	1986	37
+Birmingham City	Luton Town	0:0	0:2	06.04.1986	00:00	1985	1986	37
+Sheffield Wednesday	Queens Park Rangers	0:0	0:0	08.04.1986	00:00	1985	1986	37
+Leicester City	Liverpool FC	0:2	0:2	30.04.1986	00:00	1985	1986	37
+Everton FC	West Ham United	1:0	3:1	05.05.1986	00:00	1985	1986	37
+Tottenham Hotspur	Southampton FC	3:2	5:3	05.05.1986	00:00	1985	1986	37
+Everton FC	Manchester City	1:0	4:0	11.02.1986	00:00	1985	1986	38
+Coventry City	Birmingham City	0:2	4:4	16.02.1986	00:00	1985	1986	38
+Queens Park Rangers	Southampton FC	0:2	0:2	11.03.1986	00:00	1985	1986	38
+Leicester City	Tottenham Hotspur	1:1	1:4	05.04.1986	00:00	1985	1986	38
+Arsenal FC	Nottingham Forest	1:0	1:1	08.04.1986	00:00	1985	1986	38
+Oxford United	Watford FC	0:1	1:1	09.04.1986	00:00	1985	1986	38
+Newcastle United	Aston Villa	1:1	2:2	09.04.1986	00:00	1985	1986	38
+Manchester United	Chelsea FC	0:1	1:2	09.04.1986	00:00	1985	1986	38
+Luton Town	Liverpool FC	0:1	0:1	16.04.1986	00:00	1985	1986	38
+West Bromwich Albion	Sheffield Wednesday	0:1	1:1	22.04.1986	00:00	1985	1986	38
+West Ham United	Ipswich Town	0:0	2:1	30.04.1986	00:00	1985	1986	38
+West Ham United	Oxford United	0:1	3:1	12.04.1986	00:00	1985	1986	39
+Aston Villa	Watford FC	0:1	4:1	12.04.1986	00:00	1985	1986	39
+Nottingham Forest	Chelsea FC	0:0	0:0	12.04.1986	00:00	1985	1986	39
+Arsenal FC	Everton FC	0:0	0:1	12.04.1986	00:00	1985	1986	39
+Ipswich Town	Manchester City	0:0	0:0	12.04.1986	00:00	1985	1986	39
+Luton Town	Tottenham Hotspur	0:1	1:1	12.04.1986	00:00	1985	1986	39
+Newcastle United	Birmingham City	1:0	4:1	12.04.1986	00:00	1985	1986	39
+Southampton FC	Leicester City	0:0	0:0	12.04.1986	00:00	1985	1986	39
+Liverpool FC	Coventry City	2:0	5:0	12.04.1986	00:00	1985	1986	39
+Queens Park Rangers	West Bromwich Albion	0:0	1:0	12.04.1986	00:00	1985	1986	39
+Manchester United	Sheffield Wednesday	0:0	0:2	13.04.1986	00:00	1985	1986	39
+Leicester City	Queens Park Rangers	0:2	1:4	14.04.1986	00:00	1985	1986	40
+Watford FC	West Ham United	0:0	0:2	19.04.1986	00:00	1985	1986	40
+Chelsea FC	Newcastle United	1:1	1:1	19.04.1986	00:00	1985	1986	40
+Everton FC	Ipswich Town	0:0	1:0	19.04.1986	00:00	1985	1986	40
+West Bromwich Albion	Liverpool FC	1:1	1:2	19.04.1986	00:00	1985	1986	40
+Sheffield Wednesday	Aston Villa	1:0	2:0	19.04.1986	00:00	1985	1986	40
+Manchester City	Nottingham Forest	0:0	1:2	19.04.1986	00:00	1985	1986	40
+Birmingham City	Southampton FC	0:1	0:2	19.04.1986	00:00	1985	1986	40
+Coventry City	Luton Town	0:0	1:0	19.04.1986	00:00	1985	1986	40
+Tottenham Hotspur	Manchester United	0:0	0:0	19.04.1986	00:00	1985	1986	40
+Oxford United	Arsenal FC	1:0	3:0	05.05.1986	00:00	1985	1986	40
+Aston Villa	Chelsea FC	1:0	3:1	26.04.1986	00:00	1985	1986	41
+Nottingham Forest	Everton FC	0:0	0:0	26.04.1986	00:00	1985	1986	41
+Newcastle United	Manchester City	0:1	3:1	26.04.1986	00:00	1985	1986	41
+Manchester United	Leicester City	1:0	4:0	26.04.1986	00:00	1985	1986	41
+Ipswich Town	Oxford United	0:1	3:2	26.04.1986	00:00	1985	1986	41
+Arsenal FC	West Bromwich Albion	2:0	2:2	26.04.1986	00:00	1985	1986	41
+West Ham United	Coventry City	0:0	1:0	26.04.1986	00:00	1985	1986	41
+Southampton FC	Sheffield Wednesday	0:1	2:3	26.04.1986	00:00	1985	1986	41
+Queens Park Rangers	Tottenham Hotspur	0:3	2:5	26.04.1986	00:00	1985	1986	41
+Luton Town	Watford FC	2:0	3:2	26.04.1986	00:00	1985	1986	41
+Liverpool FC	Birmingham City	1:0	5:0	26.04.1986	00:00	1985	1986	41
+Everton FC	Southampton FC	4:0	6:1	03.05.1986	00:00	1985	1986	42
+Tottenham Hotspur	Aston Villa	1:1	4:2	03.05.1986	00:00	1985	1986	42
+Birmingham City	Arsenal FC	0:0	0:1	03.05.1986	00:00	1985	1986	42
+West Bromwich Albion	West Ham United	1:2	2:3	03.05.1986	00:00	1985	1986	42
+Watford FC	Manchester United	0:1	1:1	03.05.1986	00:00	1985	1986	42
+Sheffield Wednesday	Ipswich Town	0:0	1:0	03.05.1986	00:00	1985	1986	42
+Oxford United	Nottingham Forest	1:1	1:2	03.05.1986	00:00	1985	1986	42
+Manchester City	Luton Town	1:0	1:1	03.05.1986	00:00	1985	1986	42
+Leicester City	Newcastle United	1:0	2:0	03.05.1986	00:00	1985	1986	42
+Coventry City	Queens Park Rangers	2:1	2:1	03.05.1986	00:00	1985	1986	42
+Chelsea FC	Liverpool FC	0:1	0:1	03.05.1986	00:00	1985	1986	42

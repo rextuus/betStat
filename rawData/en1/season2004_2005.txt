@@ -1,0 +1,380 @@
+Tottenham Hotspur	Liverpool FC	0:1	1:1	14.08.2004	13:45	2004	2005	1
+Aston Villa	Southampton FC	2:0	2:0	14.08.2004	16:00	2004	2005	1
+Blackburn Rovers	West Bromwich Albion	0:1	1:1	14.08.2004	16:00	2004	2005	1
+Bolton Wanderers	Charlton Athletic	2:0	4:1	14.08.2004	16:00	2004	2005	1
+Manchester City	Fulham FC	1:0	1:1	14.08.2004	16:00	2004	2005	1
+Norwich City	Crystal Palace	1:0	1:1	14.08.2004	16:00	2004	2005	1
+Portsmouth FC	Birmingham City	1:1	1:1	14.08.2004	16:00	2004	2005	1
+Middlesbrough FC	Newcastle United	0:1	2:2	14.08.2004	18:15	2004	2005	1
+Everton FC	Arsenal FC	0:2	1:4	15.08.2004	15:00	2004	2005	1
+Chelsea FC	Manchester United	1:0	1:0	15.08.2004	17:05	2004	2005	1
+Southampton FC	Blackburn Rovers	1:0	3:2	21.08.2004	13:45	2004	2005	2
+Birmingham City	Chelsea FC	0:0	0:1	21.08.2004	16:00	2004	2005	2
+Charlton Athletic	Portsmouth FC	1:0	2:1	21.08.2004	16:00	2004	2005	2
+Crystal Palace	Everton FC	1:1	1:3	21.08.2004	16:00	2004	2005	2
+Fulham FC	Bolton Wanderers	1:0	2:0	21.08.2004	16:00	2004	2005	2
+Liverpool FC	Manchester City	0:1	2:1	21.08.2004	16:00	2004	2005	2
+Newcastle United	Tottenham Hotspur	0:0	0:1	21.08.2004	16:00	2004	2005	2
+Manchester United	Norwich City	1:0	2:1	21.08.2004	18:15	2004	2005	2
+West Bromwich Albion	Aston Villa	1:1	1:1	22.08.2004	14:00	2004	2005	2
+Arsenal FC	Middlesbrough FC	1:1	5:3	22.08.2004	17:05	2004	2005	2
+Birmingham City	Manchester City	1:0	1:0	24.08.2004	20:45	2004	2005	3
+Crystal Palace	Chelsea FC	0:1	0:2	24.08.2004	21:00	2004	2005	3
+Arsenal FC	Blackburn Rovers	0:0	3:0	25.08.2004	20:45	2004	2005	3
+West Bromwich Albion	Tottenham Hotspur	1:1	1:1	25.08.2004	20:45	2004	2005	3
+Fulham FC	Middlesbrough FC	0:0	0:2	25.08.2004	20:45	2004	2005	3
+Southampton FC	Bolton Wanderers	0:2	1:2	25.08.2004	20:45	2004	2005	3
+Charlton Athletic	Aston Villa	2:0	3:0	25.08.2004	21:00	2004	2005	3
+Newcastle United	Norwich City	1:0	2:2	25.08.2004	21:00	2004	2005	3
+Manchester United	Everton FC	0:0	0:0	30.08.2004	13:00	2004	2005	3
+Liverpool FC	Portsmouth FC	0:0	1:1	14.12.2004	20:45	2004	2005	3
+Blackburn Rovers	Manchester United	1:0	1:1	28.08.2004	13:45	2004	2005	4
+Aston Villa	Newcastle United	1:2	4:2	28.08.2004	16:00	2004	2005	4
+Chelsea FC	Southampton FC	2:1	2:1	28.08.2004	16:00	2004	2005	4
+Everton FC	West Bromwich Albion	1:1	2:1	28.08.2004	16:00	2004	2005	4
+Manchester City	Charlton Athletic	2:0	4:0	28.08.2004	16:00	2004	2005	4
+Middlesbrough FC	Crystal Palace	0:0	2:1	28.08.2004	16:00	2004	2005	4
+Tottenham Hotspur	Birmingham City	1:0	1:0	28.08.2004	16:00	2004	2005	4
+Norwich City	Arsenal FC	0:3	1:4	28.08.2004	18:15	2004	2005	4
+Bolton Wanderers	Liverpool FC	1:0	1:0	29.08.2004	17:05	2004	2005	4
+Portsmouth FC	Fulham FC	3:2	4:3	30.08.2004	21:00	2004	2005	4
+Aston Villa	Chelsea FC	0:0	0:0	11.09.2004	13:45	2004	2005	5
+Bolton Wanderers	Manchester United	0:1	2:2	11.09.2004	16:00	2004	2005	5
+Fulham FC	Arsenal FC	0:0	0:3	11.09.2004	16:00	2004	2005	5
+Liverpool FC	West Bromwich Albion	2:0	3:0	11.09.2004	16:00	2004	2005	5
+Manchester City	Everton FC	0:0	0:1	11.09.2004	16:00	2004	2005	5
+Middlesbrough FC	Birmingham City	1:1	2:1	11.09.2004	16:00	2004	2005	5
+Newcastle United	Blackburn Rovers	2:0	3:0	11.09.2004	16:00	2004	2005	5
+Portsmouth FC	Crystal Palace	1:1	3:1	11.09.2004	18:15	2004	2005	5
+Tottenham Hotspur	Norwich City	0:0	0:0	12.09.2004	17:05	2004	2005	5
+Charlton Athletic	Southampton FC	0:0	0:0	13.09.2004	21:00	2004	2005	5
+Arsenal FC	Bolton Wanderers	1:0	2:2	18.09.2004	13:45	2004	2005	6
+Birmingham City	Charlton Athletic	0:0	1:1	18.09.2004	16:00	2004	2005	6
+Blackburn Rovers	Portsmouth FC	0:0	1:0	18.09.2004	16:00	2004	2005	6
+Crystal Palace	Manchester City	0:0	1:2	18.09.2004	16:00	2004	2005	6
+Norwich City	Aston Villa	0:0	0:0	18.09.2004	16:00	2004	2005	6
+West Bromwich Albion	Fulham FC	0:0	1:1	18.09.2004	16:00	2004	2005	6
+Southampton FC	Newcastle United	0:1	1:2	19.09.2004	15:00	2004	2005	6
+Everton FC	Middlesbrough FC	0:0	1:0	19.09.2004	16:00	2004	2005	6
+Chelsea FC	Tottenham Hotspur	0:0	0:0	19.09.2004	17:05	2004	2005	6
+Manchester United	Liverpool FC	1:0	2:1	20.09.2004	21:00	2004	2005	6
+Middlesbrough FC	Chelsea FC	0:0	0:1	25.09.2004	13:45	2004	2005	7
+Aston Villa	Crystal Palace	1:1	1:1	25.09.2004	16:00	2004	2005	7
+Fulham FC	Southampton FC	1:0	1:0	25.09.2004	16:00	2004	2005	7
+Liverpool FC	Norwich City	2:0	3:0	25.09.2004	16:00	2004	2005	7
+Manchester City	Arsenal FC	0:1	0:1	25.09.2004	16:00	2004	2005	7
+Newcastle United	West Bromwich Albion	0:0	3:1	25.09.2004	16:00	2004	2005	7
+Tottenham Hotspur	Manchester United	0:1	0:1	25.09.2004	16:00	2004	2005	7
+Bolton Wanderers	Birmingham City	1:0	1:1	25.09.2004	18:15	2004	2005	7
+Portsmouth FC	Everton FC	0:0	0:1	26.09.2004	17:05	2004	2005	7
+Charlton Athletic	Blackburn Rovers	0:0	1:0	27.09.2004	21:00	2004	2005	7
+Southampton FC	Manchester City	0:0	0:0	02.10.2004	13:45	2004	2005	8
+Arsenal FC	Charlton Athletic	1:0	4:0	02.10.2004	16:00	2004	2005	8
+Blackburn Rovers	Aston Villa	1:1	2:2	02.10.2004	16:00	2004	2005	8
+Everton FC	Tottenham Hotspur	0:0	0:1	02.10.2004	16:00	2004	2005	8
+Norwich City	Portsmouth FC	0:1	2:2	02.10.2004	16:00	2004	2005	8
+West Bromwich Albion	Bolton Wanderers	0:0	2:1	02.10.2004	18:15	2004	2005	8
+Birmingham City	Newcastle United	1:1	2:2	03.10.2004	16:00	2004	2005	8
+Manchester United	Middlesbrough FC	0:1	1:1	03.10.2004	16:00	2004	2005	8
+Chelsea FC	Liverpool FC	0:0	1:0	03.10.2004	17:05	2004	2005	8
+Crystal Palace	Fulham FC	0:0	2:0	04.10.2004	21:00	2004	2005	8
+Birmingham City	Manchester United	0:0	0:0	16.10.2004	13:45	2004	2005	9
+Arsenal FC	Aston Villa	2:1	3:1	16.10.2004	16:00	2004	2005	9
+Blackburn Rovers	Middlesbrough FC	0:0	0:4	16.10.2004	16:00	2004	2005	9
+Bolton Wanderers	Crystal Palace	1:0	1:0	16.10.2004	16:00	2004	2005	9
+Everton FC	Southampton FC	0:0	1:0	16.10.2004	16:00	2004	2005	9
+Fulham FC	Liverpool FC	2:0	2:4	16.10.2004	16:00	2004	2005	9
+West Bromwich Albion	Norwich City	0:0	0:0	16.10.2004	16:00	2004	2005	9
+Manchester City	Chelsea FC	1:0	1:0	16.10.2004	18:15	2004	2005	9
+Charlton Athletic	Newcastle United	0:1	1:1	17.10.2004	17:05	2004	2005	9
+Portsmouth FC	Tottenham Hotspur	0:0	1:0	18.10.2004	21:00	2004	2005	9
+Norwich City	Everton FC	0:2	2:3	23.10.2004	13:45	2004	2005	10
+Aston Villa	Fulham FC	1:0	2:0	23.10.2004	16:00	2004	2005	10
+Chelsea FC	Blackburn Rovers	2:0	4:0	23.10.2004	16:00	2004	2005	10
+Crystal Palace	West Bromwich Albion	2:0	3:0	23.10.2004	16:00	2004	2005	10
+Tottenham Hotspur	Bolton Wanderers	1:1	1:2	23.10.2004	16:00	2004	2005	10
+Liverpool FC	Charlton Athletic	0:0	2:0	23.10.2004	18:15	2004	2005	10
+Southampton FC	Birmingham City	0:0	0:0	24.10.2004	15:00	2004	2005	10
+Middlesbrough FC	Portsmouth FC	0:1	1:1	24.10.2004	16:00	2004	2005	10
+Newcastle United	Manchester City	0:0	4:3	24.10.2004	16:00	2004	2005	10
+Manchester United	Arsenal FC	0:0	2:0	24.10.2004	17:05	2004	2005	10
+Birmingham City	Crystal Palace	0:1	0:1	30.10.2004	13:45	2004	2005	11
+Arsenal FC	Southampton FC	0:0	2:2	30.10.2004	16:00	2004	2005	11
+Charlton Athletic	Middlesbrough FC	0:1	1:2	30.10.2004	16:00	2004	2005	11
+Everton FC	Aston Villa	1:1	1:1	30.10.2004	16:00	2004	2005	11
+Fulham FC	Tottenham Hotspur	1:0	2:0	30.10.2004	16:00	2004	2005	11
+Portsmouth FC	Manchester United	0:0	2:0	30.10.2004	16:00	2004	2005	11
+West Bromwich Albion	Chelsea FC	0:1	1:4	30.10.2004	16:00	2004	2005	11
+Blackburn Rovers	Liverpool FC	2:1	2:2	30.10.2004	18:15	2004	2005	11
+Bolton Wanderers	Newcastle United	0:0	2:1	31.10.2004	17:05	2004	2005	11
+Manchester City	Norwich City	1:0	1:1	01.11.2004	21:00	2004	2005	11
+Aston Villa	Portsmouth FC	3:0	3:0	06.11.2004	13:45	2004	2005	12
+Chelsea FC	Everton FC	0:0	1:0	06.11.2004	16:00	2004	2005	12
+Liverpool FC	Birmingham City	0:0	0:1	06.11.2004	16:00	2004	2005	12
+Norwich City	Blackburn Rovers	0:0	1:1	06.11.2004	16:00	2004	2005	12
+Southampton FC	West Bromwich Albion	1:2	2:2	06.11.2004	16:00	2004	2005	12
+Tottenham Hotspur	Charlton Athletic	0:2	2:3	06.11.2004	16:00	2004	2005	12
+Crystal Palace	Arsenal FC	0:0	1:1	06.11.2004	18:15	2004	2005	12
+Middlesbrough FC	Bolton Wanderers	0:0	1:1	07.11.2004	15:00	2004	2005	12
+Newcastle United	Fulham FC	0:1	1:4	07.11.2004	16:00	2004	2005	12
+Manchester United	Manchester City	0:0	0:0	07.11.2004	17:05	2004	2005	12
+Southampton FC	Portsmouth FC	1:1	2:1	13.11.2004	13:00	2004	2005	13
+Tottenham Hotspur	Arsenal FC	1:1	4:5	13.11.2004	13:00	2004	2005	13
+Bolton Wanderers	Aston Villa	1:1	1:2	13.11.2004	16:00	2004	2005	13
+Charlton Athletic	Norwich City	2:0	4:0	13.11.2004	16:00	2004	2005	13
+Fulham FC	Chelsea FC	0:1	1:4	13.11.2004	16:00	2004	2005	13
+Liverpool FC	Crystal Palace	2:1	3:2	13.11.2004	16:00	2004	2005	13
+Manchester City	Blackburn Rovers	1:0	1:1	13.11.2004	16:00	2004	2005	13
+Birmingham City	Everton FC	0:0	0:1	13.11.2004	18:15	2004	2005	13
+West Bromwich Albion	Middlesbrough FC	1:1	1:2	14.11.2004	15:00	2004	2005	13
+Newcastle United	Manchester United	0:1	1:3	14.11.2004	17:05	2004	2005	13
+Manchester United	Charlton Athletic	1:0	2:0	20.11.2004	13:45	2004	2005	14
+Arsenal FC	West Bromwich Albion	0:0	1:1	20.11.2004	16:00	2004	2005	14
+Chelsea FC	Bolton Wanderers	1:0	2:2	20.11.2004	16:00	2004	2005	14
+Crystal Palace	Newcastle United	0:0	0:2	20.11.2004	16:00	2004	2005	14
+Everton FC	Fulham FC	0:0	1:0	20.11.2004	16:00	2004	2005	14
+Middlesbrough FC	Liverpool FC	1:0	2:0	20.11.2004	16:00	2004	2005	14
+Norwich City	Southampton FC	1:1	2:1	20.11.2004	16:00	2004	2005	14
+Portsmouth FC	Manchester City	1:1	1:3	20.11.2004	18:15	2004	2005	14
+Blackburn Rovers	Birmingham City	1:3	3:3	21.11.2004	17:05	2004	2005	14
+Aston Villa	Tottenham Hotspur	0:0	1:0	22.11.2004	21:00	2004	2005	14
+Fulham FC	Blackburn Rovers	0:1	0:2	27.11.2004	13:45	2004	2005	15
+Birmingham City	Norwich City	1:0	1:1	27.11.2004	16:00	2004	2005	15
+Bolton Wanderers	Portsmouth FC	0:1	0:1	27.11.2004	16:00	2004	2005	15
+Charlton Athletic	Chelsea FC	0:1	0:4	27.11.2004	16:00	2004	2005	15
+Southampton FC	Crystal Palace	0:0	2:2	27.11.2004	16:00	2004	2005	15
+West Bromwich Albion	Manchester United	0:0	0:3	27.11.2004	16:00	2004	2005	15
+Manchester City	Aston Villa	2:0	2:0	27.11.2004	18:15	2004	2005	15
+Newcastle United	Everton FC	1:0	1:1	28.11.2004	15:00	2004	2005	15
+Tottenham Hotspur	Middlesbrough FC	0:0	2:0	28.11.2004	16:00	2004	2005	15
+Liverpool FC	Arsenal FC	1:0	2:1	28.11.2004	17:05	2004	2005	15
+Chelsea FC	Newcastle United	0:0	4:0	04.12.2004	13:45	2004	2005	16
+Arsenal FC	Birmingham City	1:0	3:0	04.12.2004	16:00	2004	2005	16
+Aston Villa	Liverpool FC	1:1	1:1	04.12.2004	16:00	2004	2005	16
+Everton FC	Bolton Wanderers	1:1	3:2	04.12.2004	16:00	2004	2005	16
+Manchester United	Southampton FC	0:0	3:0	04.12.2004	16:00	2004	2005	16
+Norwich City	Fulham FC	0:1	0:1	04.12.2004	16:00	2004	2005	16
+Portsmouth FC	West Bromwich Albion	1:2	3:2	04.12.2004	16:00	2004	2005	16
+Blackburn Rovers	Tottenham Hotspur	0:0	0:1	04.12.2004	18:15	2004	2005	16
+Crystal Palace	Charlton Athletic	0:0	0:1	05.12.2004	17:05	2004	2005	16
+Middlesbrough FC	Manchester City	1:1	3:2	06.12.2004	21:00	2004	2005	16
+Everton FC	Liverpool FC	0:0	1:0	11.12.2004	13:45	2004	2005	17
+Crystal Palace	Blackburn Rovers	0:0	0:0	11.12.2004	16:00	2004	2005	17
+Manchester City	Tottenham Hotspur	0:0	0:1	11.12.2004	16:00	2004	2005	17
+Newcastle United	Portsmouth FC	1:1	1:1	11.12.2004	16:00	2004	2005	17
+Norwich City	Bolton Wanderers	1:2	3:2	11.12.2004	16:00	2004	2005	17
+Southampton FC	Middlesbrough FC	1:0	2:2	11.12.2004	16:00	2004	2005	17
+West Bromwich Albion	Charlton Athletic	0:1	0:1	11.12.2004	16:00	2004	2005	17
+Aston Villa	Birmingham City	0:2	1:2	12.12.2004	14:00	2004	2005	17
+Arsenal FC	Chelsea FC	2:2	2:2	12.12.2004	17:05	2004	2005	17
+Fulham FC	Manchester United	0:1	1:1	13.12.2004	21:00	2004	2005	17
+Birmingham City	West Bromwich Albion	3:0	4:0	18.12.2004	13:00	2004	2005	18
+Blackburn Rovers	Everton FC	0:0	0:0	18.12.2004	16:00	2004	2005	18
+Bolton Wanderers	Manchester City	0:0	0:1	18.12.2004	16:00	2004	2005	18
+Chelsea FC	Norwich City	3:0	4:0	18.12.2004	16:00	2004	2005	18
+Middlesbrough FC	Aston Villa	1:0	3:0	18.12.2004	16:00	2004	2005	18
+Tottenham Hotspur	Southampton FC	3:0	5:1	18.12.2004	16:00	2004	2005	18
+Manchester United	Crystal Palace	2:2	5:2	18.12.2004	18:15	2004	2005	18
+Liverpool FC	Newcastle United	2:1	3:1	19.12.2004	14:30	2004	2005	18
+Portsmouth FC	Arsenal FC	0:0	0:1	19.12.2004	17:05	2004	2005	18
+Charlton Athletic	Fulham FC	1:0	2:1	20.12.2004	21:00	2004	2005	18
+Southampton FC	Charlton Athletic	0:0	0:0	26.12.2004	13:30	2004	2005	19
+Arsenal FC	Fulham FC	1:0	2:0	26.12.2004	14:00	2004	2005	19
+Chelsea FC	Aston Villa	1:0	1:0	26.12.2004	14:00	2004	2005	19
+Crystal Palace	Portsmouth FC	0:0	0:1	26.12.2004	14:00	2004	2005	19
+Blackburn Rovers	Newcastle United	1:2	2:2	26.12.2004	16:00	2004	2005	19
+Everton FC	Manchester City	1:1	2:1	26.12.2004	16:00	2004	2005	19
+Manchester United	Bolton Wanderers	1:0	2:0	26.12.2004	16:00	2004	2005	19
+Norwich City	Tottenham Hotspur	0:0	0:2	26.12.2004	16:00	2004	2005	19
+Birmingham City	Middlesbrough FC	2:0	2:0	26.12.2004	16:30	2004	2005	19
+West Bromwich Albion	Liverpool FC	0:1	0:5	26.12.2004	19:00	2004	2005	19
+Bolton Wanderers	Blackburn Rovers	0:1	0:1	28.12.2004	16:00	2004	2005	20
+Charlton Athletic	Everton FC	0:0	2:0	28.12.2004	16:00	2004	2005	20
+Fulham FC	Birmingham City	1:2	2:3	28.12.2004	16:00	2004	2005	20
+Manchester City	West Bromwich Albion	1:0	1:1	28.12.2004	16:00	2004	2005	20
+Middlesbrough FC	Norwich City	0:0	2:0	28.12.2004	16:00	2004	2005	20
+Portsmouth FC	Chelsea FC	0:0	0:2	28.12.2004	16:00	2004	2005	20
+Tottenham Hotspur	Crystal Palace	0:0	1:1	28.12.2004	16:00	2004	2005	20
+Liverpool FC	Southampton FC	1:0	1:0	28.12.2004	17:30	2004	2005	20
+Aston Villa	Manchester United	0:1	0:1	28.12.2004	21:00	2004	2005	20
+Newcastle United	Arsenal FC	0:1	0:1	29.12.2004	21:00	2004	2005	20
+Liverpool FC	Chelsea FC	0:0	0:1	01.01.2005	13:45	2004	2005	21
+Fulham FC	Crystal Palace	1:1	3:1	01.01.2005	15:00	2004	2005	21
+Aston Villa	Blackburn Rovers	0:0	1:0	01.01.2005	16:00	2004	2005	21
+Bolton Wanderers	West Bromwich Albion	0:1	1:1	01.01.2005	16:00	2004	2005	21
+Charlton Athletic	Arsenal FC	1:1	1:3	01.01.2005	16:00	2004	2005	21
+Manchester City	Southampton FC	2:0	2:1	01.01.2005	16:00	2004	2005	21
+Newcastle United	Birmingham City	2:0	2:1	01.01.2005	16:00	2004	2005	21
+Portsmouth FC	Norwich City	0:1	1:1	01.01.2005	16:00	2004	2005	21
+Tottenham Hotspur	Everton FC	2:1	5:2	01.01.2005	16:00	2004	2005	21
+Middlesbrough FC	Manchester United	0:1	0:2	01.01.2005	18:30	2004	2005	21
+Norwich City	Liverpool FC	0:0	1:2	03.01.2005	13:45	2004	2005	22
+Blackburn Rovers	Charlton Athletic	1:0	1:0	03.01.2005	16:00	2004	2005	22
+Crystal Palace	Aston Villa	1:0	2:0	03.01.2005	16:00	2004	2005	22
+West Bromwich Albion	Newcastle United	0:0	0:0	03.01.2005	21:00	2004	2005	22
+Arsenal FC	Manchester City	0:1	1:1	04.01.2005	20:45	2004	2005	22
+Birmingham City	Bolton Wanderers	0:1	1:2	04.01.2005	20:45	2004	2005	22
+Chelsea FC	Middlesbrough FC	2:0	2:0	04.01.2005	20:45	2004	2005	22
+Everton FC	Portsmouth FC	1:1	2:1	04.01.2005	21:00	2004	2005	22
+Manchester United	Tottenham Hotspur	0:0	0:0	04.01.2005	21:00	2004	2005	22
+Southampton FC	Fulham FC	2:2	3:3	05.01.2005	21:00	2004	2005	22
+Liverpool FC	Manchester United	0:1	0:1	15.01.2005	13:30	2004	2005	23
+Aston Villa	Norwich City	2:0	3:0	15.01.2005	16:00	2004	2005	23
+Charlton Athletic	Birmingham City	1:0	3:1	15.01.2005	16:00	2004	2005	23
+Manchester City	Crystal Palace	2:1	3:1	15.01.2005	16:00	2004	2005	23
+Newcastle United	Southampton FC	2:1	2:1	15.01.2005	16:00	2004	2005	23
+Portsmouth FC	Blackburn Rovers	0:0	0:1	15.01.2005	16:00	2004	2005	23
+Tottenham Hotspur	Chelsea FC	0:1	0:2	15.01.2005	16:00	2004	2005	23
+Bolton Wanderers	Arsenal FC	1:0	1:0	15.01.2005	18:15	2004	2005	23
+Middlesbrough FC	Everton FC	1:0	1:1	16.01.2005	15:00	2004	2005	23
+Fulham FC	West Bromwich Albion	0:0	1:0	16.01.2005	17:05	2004	2005	23
+Southampton FC	Liverpool FC	2:0	2:0	22.01.2005	13:45	2004	2005	24
+Birmingham City	Fulham FC	0:0	1:2	22.01.2005	16:00	2004	2005	24
+Chelsea FC	Portsmouth FC	3:0	3:0	22.01.2005	16:00	2004	2005	24
+Crystal Palace	Tottenham Hotspur	0:0	3:0	22.01.2005	16:00	2004	2005	24
+Everton FC	Charlton Athletic	0:1	0:1	22.01.2005	16:00	2004	2005	24
+Manchester United	Aston Villa	1:0	3:1	22.01.2005	16:00	2004	2005	24
+Norwich City	Middlesbrough FC	1:1	4:4	22.01.2005	16:00	2004	2005	24
+West Bromwich Albion	Manchester City	1:0	2:0	22.01.2005	18:15	2004	2005	24
+Arsenal FC	Newcastle United	1:0	1:0	23.01.2005	17:05	2004	2005	24
+Blackburn Rovers	Bolton Wanderers	0:0	0:1	24.01.2005	21:00	2004	2005	24
+Portsmouth FC	Middlesbrough FC	1:1	2:1	01.02.2005	20:45	2004	2005	25
+West Bromwich Albion	Crystal Palace	0:0	2:2	01.02.2005	20:45	2004	2005	25
+Arsenal FC	Manchester United	2:1	2:4	01.02.2005	21:00	2004	2005	25
+Bolton Wanderers	Tottenham Hotspur	0:0	3:1	01.02.2005	21:00	2004	2005	25
+Charlton Athletic	Liverpool FC	1:0	1:2	01.02.2005	21:00	2004	2005	25
+Birmingham City	Southampton FC	2:0	2:1	02.02.2005	20:45	2004	2005	25
+Fulham FC	Aston Villa	0:0	1:1	02.02.2005	20:45	2004	2005	25
+Manchester City	Newcastle United	0:1	1:1	02.02.2005	20:45	2004	2005	25
+Blackburn Rovers	Chelsea FC	0:1	0:1	02.02.2005	21:00	2004	2005	25
+Everton FC	Norwich City	0:0	1:0	02.02.2005	21:00	2004	2005	25
+Crystal Palace	Bolton Wanderers	0:1	0:1	05.02.2005	13:45	2004	2005	26
+Liverpool FC	Fulham FC	1:1	3:1	05.02.2005	16:00	2004	2005	26
+Manchester United	Birmingham City	0:0	2:0	05.02.2005	16:00	2004	2005	26
+Middlesbrough FC	Blackburn Rovers	1:0	1:0	05.02.2005	16:00	2004	2005	26
+Newcastle United	Charlton Athletic	0:0	1:1	05.02.2005	16:00	2004	2005	26
+Norwich City	West Bromwich Albion	1:1	3:2	05.02.2005	16:00	2004	2005	26
+Tottenham Hotspur	Portsmouth FC	1:1	3:1	05.02.2005	16:00	2004	2005	26
+Aston Villa	Arsenal FC	0:3	1:3	05.02.2005	18:15	2004	2005	26
+Southampton FC	Everton FC	1:1	2:2	06.02.2005	15:00	2004	2005	26
+Chelsea FC	Manchester City	0:0	0:0	06.02.2005	17:05	2004	2005	26
+Everton FC	Chelsea FC	0:0	0:1	12.02.2005	13:45	2004	2005	27
+Birmingham City	Liverpool FC	2:0	2:0	12.02.2005	16:00	2004	2005	27
+Blackburn Rovers	Norwich City	2:0	3:0	12.02.2005	16:00	2004	2005	27
+Portsmouth FC	Aston Villa	1:1	1:2	12.02.2005	16:00	2004	2005	27
+Bolton Wanderers	Middlesbrough FC	0:0	0:0	12.02.2005	18:15	2004	2005	27
+Manchester City	Manchester United	0:0	0:2	13.02.2005	14:00	2004	2005	27
+Arsenal FC	Crystal Palace	3:0	5:1	14.02.2005	21:00	2004	2005	27
+West Bromwich Albion	Southampton FC	0:0	0:0	22.02.2005	20:45	2004	2005	27
+Charlton Athletic	Tottenham Hotspur	1:0	2:0	16.03.2005	21:00	2004	2005	27
+Fulham FC	Newcastle United	0:1	1:3	04.05.2005	20:45	2004	2005	27
+Southampton FC	Arsenal FC	0:1	1:1	26.02.2005	13:45	2004	2005	28
+Aston Villa	Everton FC	0:1	1:3	26.02.2005	16:00	2004	2005	28
+Crystal Palace	Birmingham City	1:0	2:0	26.02.2005	16:00	2004	2005	28
+Tottenham Hotspur	Fulham FC	0:0	2:0	26.02.2005	16:00	2004	2005	28
+Manchester United	Portsmouth FC	1:0	2:1	26.02.2005	18:15	2004	2005	28
+Newcastle United	Bolton Wanderers	1:1	2:1	27.02.2005	14:00	2004	2005	28
+Middlesbrough FC	Charlton Athletic	0:1	2:2	27.02.2005	16:00	2004	2005	28
+Norwich City	Manchester City	2:2	2:3	28.02.2005	21:00	2004	2005	28
+Chelsea FC	West Bromwich Albion	1:0	1:0	15.03.2005	20:45	2004	2005	28
+Liverpool FC	Blackburn Rovers	0:0	0:0	16.03.2005	21:00	2004	2005	28
+Aston Villa	Middlesbrough FC	0:0	2:0	05.03.2005	13:45	2004	2005	29
+Arsenal FC	Portsmouth FC	1:0	3:0	05.03.2005	16:00	2004	2005	29
+Crystal Palace	Manchester United	0:0	0:0	05.03.2005	16:00	2004	2005	29
+Fulham FC	Charlton Athletic	0:0	0:0	05.03.2005	16:00	2004	2005	29
+Newcastle United	Liverpool FC	0:0	1:0	05.03.2005	16:00	2004	2005	29
+Southampton FC	Tottenham Hotspur	0:0	1:0	05.03.2005	16:00	2004	2005	29
+Norwich City	Chelsea FC	0:1	1:3	05.03.2005	18:15	2004	2005	29
+West Bromwich Albion	Birmingham City	0:0	2:0	06.03.2005	13:00	2004	2005	29
+Everton FC	Blackburn Rovers	0:0	0:1	06.03.2005	17:05	2004	2005	29
+Manchester City	Bolton Wanderers	0:1	0:1	07.03.2005	21:00	2004	2005	29
+Blackburn Rovers	Arsenal FC	0:1	0:1	19.03.2005	13:45	2004	2005	30
+Charlton Athletic	West Bromwich Albion	1:1	1:4	19.03.2005	16:00	2004	2005	30
+Chelsea FC	Crystal Palace	1:1	4:1	19.03.2005	16:00	2004	2005	30
+Manchester United	Fulham FC	1:0	1:0	19.03.2005	16:00	2004	2005	30
+Portsmouth FC	Newcastle United	1:1	1:1	19.03.2005	16:00	2004	2005	30
+Tottenham Hotspur	Manchester City	1:1	2:1	19.03.2005	16:00	2004	2005	30
+Bolton Wanderers	Norwich City	1:0	1:0	19.03.2005	18:15	2004	2005	30
+Birmingham City	Aston Villa	0:0	2:0	20.03.2005	13:00	2004	2005	30
+Middlesbrough FC	Southampton FC	1:1	1:3	20.03.2005	16:00	2004	2005	30
+Liverpool FC	Everton FC	2:0	2:1	20.03.2005	17:05	2004	2005	30
+Charlton Athletic	Manchester City	1:2	2:2	02.04.2005	13:45	2004	2005	31
+Arsenal FC	Norwich City	2:1	4:1	02.04.2005	16:00	2004	2005	31
+Birmingham City	Tottenham Hotspur	0:0	1:1	02.04.2005	16:00	2004	2005	31
+Crystal Palace	Middlesbrough FC	0:1	0:1	02.04.2005	16:00	2004	2005	31
+Liverpool FC	Bolton Wanderers	0:0	1:0	02.04.2005	16:00	2004	2005	31
+Manchester United	Blackburn Rovers	0:0	0:0	02.04.2005	16:00	2004	2005	31
+Newcastle United	Aston Villa	0:1	0:3	02.04.2005	16:00	2004	2005	31
+Southampton FC	Chelsea FC	0:2	1:3	02.04.2005	18:15	2004	2005	31
+Fulham FC	Portsmouth FC	0:1	3:1	03.04.2005	14:30	2004	2005	31
+West Bromwich Albion	Everton FC	0:0	1:0	03.04.2005	17:05	2004	2005	31
+Blackburn Rovers	Southampton FC	1:0	3:0	09.04.2005	16:00	2004	2005	32
+Bolton Wanderers	Fulham FC	2:0	3:1	09.04.2005	16:00	2004	2005	32
+Chelsea FC	Birmingham City	0:0	1:1	09.04.2005	16:00	2004	2005	32
+Manchester City	Liverpool FC	0:0	1:0	09.04.2005	16:00	2004	2005	32
+Middlesbrough FC	Arsenal FC	0:0	0:1	09.04.2005	16:00	2004	2005	32
+Portsmouth FC	Charlton Athletic	2:2	4:2	09.04.2005	16:00	2004	2005	32
+Norwich City	Manchester United	0:0	2:0	09.04.2005	18:15	2004	2005	32
+Aston Villa	West Bromwich Albion	1:0	1:1	10.04.2005	13:00	2004	2005	32
+Everton FC	Crystal Palace	1:0	4:0	10.04.2005	16:00	2004	2005	32
+Tottenham Hotspur	Newcastle United	1:0	1:0	10.04.2005	17:05	2004	2005	32
+Charlton Athletic	Bolton Wanderers	1:1	1:2	16.04.2005	16:00	2004	2005	33
+Crystal Palace	Norwich City	1:1	3:3	16.04.2005	16:00	2004	2005	33
+Fulham FC	Manchester City	0:1	1:1	16.04.2005	16:00	2004	2005	33
+Liverpool FC	Tottenham Hotspur	1:1	2:2	16.04.2005	16:00	2004	2005	33
+Southampton FC	Aston Villa	2:0	2:3	16.04.2005	16:00	2004	2005	33
+Birmingham City	Portsmouth FC	0:0	0:0	16.04.2005	18:15	2004	2005	33
+West Bromwich Albion	Blackburn Rovers	1:0	1:1	26.04.2005	20:45	2004	2005	33
+Newcastle United	Middlesbrough FC	0:0	0:0	27.04.2005	20:45	2004	2005	33
+Manchester United	Chelsea FC	1:1	1:3	10.05.2005	21:00	2004	2005	33
+Arsenal FC	Everton FC	3:0	7:0	11.05.2005	21:00	2004	2005	33
+Bolton Wanderers	Southampton FC	1:0	1:1	19.04.2005	21:00	2004	2005	34
+Middlesbrough FC	Fulham FC	0:0	1:1	19.04.2005	21:00	2004	2005	34
+Norwich City	Newcastle United	0:0	2:1	20.04.2005	20:45	2004	2005	34
+Portsmouth FC	Liverpool FC	1:2	1:2	20.04.2005	20:45	2004	2005	34
+Aston Villa	Charlton Athletic	0:0	0:0	20.04.2005	20:45	2004	2005	34
+Manchester City	Birmingham City	0:0	3:0	20.04.2005	20:45	2004	2005	34
+Tottenham Hotspur	West Bromwich Albion	0:1	1:1	20.04.2005	20:45	2004	2005	34
+Blackburn Rovers	Crystal Palace	1:0	1:0	20.04.2005	21:00	2004	2005	34
+Chelsea FC	Arsenal FC	0:0	0:0	20.04.2005	21:00	2004	2005	34
+Everton FC	Manchester United	0:0	1:0	20.04.2005	21:00	2004	2005	34
+Everton FC	Birmingham City	0:1	1:1	23.04.2005	13:30	2004	2005	35
+Chelsea FC	Fulham FC	1:1	3:1	23.04.2005	13:45	2004	2005	35
+Aston Villa	Bolton Wanderers	1:0	1:1	23.04.2005	16:00	2004	2005	35
+Blackburn Rovers	Manchester City	0:0	0:0	23.04.2005	16:00	2004	2005	35
+Crystal Palace	Liverpool FC	1:0	1:0	23.04.2005	16:00	2004	2005	35
+Middlesbrough FC	West Bromwich Albion	3:0	4:0	23.04.2005	16:00	2004	2005	35
+Norwich City	Charlton Athletic	0:0	1:0	23.04.2005	16:00	2004	2005	35
+Portsmouth FC	Southampton FC	4:1	4:1	24.04.2005	13:00	2004	2005	35
+Manchester United	Newcastle United	0:1	2:1	24.04.2005	17:05	2004	2005	35
+Arsenal FC	Tottenham Hotspur	1:0	1:0	25.04.2005	21:00	2004	2005	35
+Birmingham City	Blackburn Rovers	0:1	2:1	30.04.2005	16:00	2004	2005	36
+Fulham FC	Everton FC	2:0	2:0	30.04.2005	16:00	2004	2005	36
+Liverpool FC	Middlesbrough FC	0:1	1:1	30.04.2005	16:00	2004	2005	36
+Manchester City	Portsmouth FC	2:0	2:0	30.04.2005	16:00	2004	2005	36
+Newcastle United	Crystal Palace	0:0	0:0	30.04.2005	16:00	2004	2005	36
+Southampton FC	Norwich City	3:3	4:3	30.04.2005	16:00	2004	2005	36
+Bolton Wanderers	Chelsea FC	0:0	0:2	30.04.2005	18:15	2004	2005	36
+Tottenham Hotspur	Aston Villa	3:1	5:1	01.05.2005	14:00	2004	2005	36
+Charlton Athletic	Manchester United	0:2	0:4	01.05.2005	17:05	2004	2005	36
+West Bromwich Albion	Arsenal FC	0:0	0:2	02.05.2005	21:00	2004	2005	36
+Chelsea FC	Charlton Athletic	0:0	1:0	07.05.2005	13:30	2004	2005	37
+Aston Villa	Manchester City	0:2	1:2	07.05.2005	16:00	2004	2005	37
+Blackburn Rovers	Fulham FC	1:1	1:3	07.05.2005	16:00	2004	2005	37
+Crystal Palace	Southampton FC	1:1	2:2	07.05.2005	16:00	2004	2005	37
+Everton FC	Newcastle United	1:0	2:0	07.05.2005	16:00	2004	2005	37
+Middlesbrough FC	Tottenham Hotspur	1:0	1:0	07.05.2005	16:00	2004	2005	37
+Norwich City	Birmingham City	1:0	1:0	07.05.2005	16:00	2004	2005	37
+Portsmouth FC	Bolton Wanderers	0:1	1:1	07.05.2005	16:00	2004	2005	37
+Manchester United	West Bromwich Albion	1:0	1:1	07.05.2005	18:15	2004	2005	37
+Arsenal FC	Liverpool FC	2:0	3:1	08.05.2005	17:05	2004	2005	37
+Birmingham City	Arsenal FC	0:0	2:1	15.05.2005	16:00	2004	2005	38
+Bolton Wanderers	Everton FC	0:1	3:2	15.05.2005	16:00	2004	2005	38
+Charlton Athletic	Crystal Palace	1:0	2:2	15.05.2005	16:00	2004	2005	38
+Fulham FC	Norwich City	2:0	6:0	15.05.2005	16:00	2004	2005	38
+Liverpool FC	Aston Villa	2:0	2:1	15.05.2005	16:00	2004	2005	38
+Manchester City	Middlesbrough FC	1:1	1:1	15.05.2005	16:00	2004	2005	38
+Newcastle United	Chelsea FC	1:1	1:1	15.05.2005	16:00	2004	2005	38
+Southampton FC	Manchester United	1:1	1:2	15.05.2005	16:00	2004	2005	38
+Tottenham Hotspur	Blackburn Rovers	0:0	0:0	15.05.2005	16:00	2004	2005	38
+West Bromwich Albion	Portsmouth FC	0:0	2:0	15.05.2005	16:00	2004	2005	38

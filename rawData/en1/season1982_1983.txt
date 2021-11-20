@@ -1,0 +1,462 @@
+Aston Villa	Sunderland AFC	1:0	1:3	28.08.1982	00:00	1982	1983	1
+Watford FC	Everton FC	1:0	2:0	28.08.1982	00:00	1982	1983	1
+Tottenham Hotspur	Luton Town	2:1	2:2	28.08.1982	00:00	1982	1983	1
+Stoke City	Arsenal FC	1:0	2:1	28.08.1982	00:00	1982	1983	1
+Notts County	Swansea City	0:0	0:0	28.08.1982	00:00	1982	1983	1
+Norwich City	Manchester City	0:2	1:2	28.08.1982	00:00	1982	1983	1
+Manchester United	Birmingham City	0:0	3:0	28.08.1982	00:00	1982	1983	1
+Liverpool FC	West Bromwich Albion	0:0	2:0	28.08.1982	00:00	1982	1983	1
+Coventry City	Southampton FC	0:0	1:0	28.08.1982	00:00	1982	1983	1
+Brighton & Hove Albion	Ipswich Town	1:1	1:1	28.08.1982	00:00	1982	1983	1
+West Ham United	Nottingham Forest	1:1	1:2	28.08.1982	00:00	1982	1983	1
+Arsenal FC	Norwich City	0:0	1:1	31.08.1982	00:00	1982	1983	2
+Swansea City	Coventry City	0:1	2:1	31.08.1982	00:00	1982	1983	2
+Southampton FC	Watford FC	1:2	1:4	31.08.1982	00:00	1982	1983	2
+Luton Town	West Ham United	0:0	0:2	31.08.1982	00:00	1982	1983	2
+Ipswich Town	Tottenham Hotspur	1:0	1:2	31.08.1982	00:00	1982	1983	2
+Everton FC	Aston Villa	3:0	5:0	31.08.1982	00:00	1982	1983	2
+Birmingham City	Liverpool FC	0:0	0:0	31.08.1982	00:00	1982	1983	2
+Manchester City	Stoke City	0:0	1:0	01.09.1982	00:00	1982	1983	2
+Nottingham Forest	Manchester United	0:0	0:3	01.09.1982	00:00	1982	1983	2
+Sunderland AFC	Notts County	0:0	1:1	01.09.1982	00:00	1982	1983	2
+West Bromwich Albion	Brighton & Hove Albion	0:0	5:0	01.09.1982	00:00	1982	1983	2
+Arsenal FC	Liverpool FC	0:1	0:2	04.09.1982	00:00	1982	1983	3
+Swansea City	Norwich City	3:0	4:0	04.09.1982	00:00	1982	1983	3
+Sunderland AFC	West Ham United	1:0	1:0	04.09.1982	00:00	1982	1983	3
+Southampton FC	Aston Villa	1:0	1:0	04.09.1982	00:00	1982	1983	3
+Nottingham Forest	Brighton & Hove Albion	2:0	4:0	04.09.1982	00:00	1982	1983	3
+Manchester City	Watford FC	0:0	1:0	04.09.1982	00:00	1982	1983	3
+Luton Town	Notts County	2:2	5:3	04.09.1982	00:00	1982	1983	3
+Ipswich Town	Coventry City	0:0	1:1	04.09.1982	00:00	1982	1983	3
+Everton FC	Tottenham Hotspur	3:1	3:1	04.09.1982	00:00	1982	1983	3
+Birmingham City	Stoke City	0:4	1:4	04.09.1982	00:00	1982	1983	3
+West Bromwich Albion	Manchester United	0:1	3:1	04.09.1982	00:00	1982	1983	3
+Brighton & Hove Albion	Arsenal FC	1:0	1:0	07.09.1982	00:00	1982	1983	4
+West Ham United	Ipswich Town	0:1	1:1	07.09.1982	00:00	1982	1983	4
+Watford FC	Swansea City	1:0	2:1	07.09.1982	00:00	1982	1983	4
+Notts County	Manchester City	1:0	1:0	07.09.1982	00:00	1982	1983	4
+Liverpool FC	Nottingham Forest	2:3	4:3	07.09.1982	00:00	1982	1983	4
+Coventry City	Sunderland AFC	1:0	1:0	07.09.1982	00:00	1982	1983	4
+Aston Villa	Luton Town	3:0	4:1	08.09.1982	00:00	1982	1983	4
+Manchester United	Everton FC	1:1	2:1	08.09.1982	00:00	1982	1983	4
+Norwich City	Birmingham City	3:1	5:1	08.09.1982	00:00	1982	1983	4
+Stoke City	West Bromwich Albion	0:2	0:3	08.09.1982	00:00	1982	1983	4
+Tottenham Hotspur	Southampton FC	2:0	6:0	08.09.1982	00:00	1982	1983	4
+Aston Villa	Nottingham Forest	2:1	4:1	11.09.1982	00:00	1982	1983	5
+Watford FC	West Bromwich Albion	1:0	3:0	11.09.1982	00:00	1982	1983	5
+Tottenham Hotspur	Manchester City	0:1	1:2	11.09.1982	00:00	1982	1983	5
+Stoke City	Swansea City	2:1	4:1	11.09.1982	00:00	1982	1983	5
+Notts County	Everton FC	0:0	1:0	11.09.1982	00:00	1982	1983	5
+Norwich City	Southampton FC	0:0	1:1	11.09.1982	00:00	1982	1983	5
+Manchester United	Ipswich Town	1:1	3:1	11.09.1982	00:00	1982	1983	5
+Liverpool FC	Luton Town	2:1	3:3	11.09.1982	00:00	1982	1983	5
+Coventry City	Arsenal FC	0:1	0:2	11.09.1982	00:00	1982	1983	5
+Brighton & Hove Albion	Sunderland AFC	0:2	3:2	11.09.1982	00:00	1982	1983	5
+West Ham United	Birmingham City	2:0	5:0	11.09.1982	00:00	1982	1983	5
+Arsenal FC	Notts County	1:0	2:0	18.09.1982	00:00	1982	1983	6
+Swansea City	Liverpool FC	0:2	0:3	18.09.1982	00:00	1982	1983	6
+Sunderland AFC	Tottenham Hotspur	0:1	0:1	18.09.1982	00:00	1982	1983	6
+Southampton FC	Manchester United	0:0	0:1	18.09.1982	00:00	1982	1983	6
+Nottingham Forest	Watford FC	1:0	2:0	18.09.1982	00:00	1982	1983	6
+Manchester City	Aston Villa	0:1	0:1	18.09.1982	00:00	1982	1983	6
+Luton Town	Brighton & Hove Albion	1:0	5:0	18.09.1982	00:00	1982	1983	6
+Ipswich Town	Stoke City	2:2	2:3	18.09.1982	00:00	1982	1983	6
+Everton FC	Norwich City	0:0	1:1	18.09.1982	00:00	1982	1983	6
+Birmingham City	Coventry City	1:0	1:0	18.09.1982	00:00	1982	1983	6
+West Bromwich Albion	West Ham United	1:2	1:2	18.09.1982	00:00	1982	1983	6
+Aston Villa	Swansea City	2:0	2:0	25.09.1982	00:00	1982	1983	7
+Watford FC	Sunderland AFC	4:0	8:0	25.09.1982	00:00	1982	1983	7
+Tottenham Hotspur	Nottingham Forest	3:1	4:1	25.09.1982	00:00	1982	1983	7
+Stoke City	Luton Town	2:2	4:4	25.09.1982	00:00	1982	1983	7
+Notts County	Ipswich Town	0:2	0:6	25.09.1982	00:00	1982	1983	7
+Norwich City	West Bromwich Albion	1:1	1:3	25.09.1982	00:00	1982	1983	7
+Manchester United	Arsenal FC	0:0	0:0	25.09.1982	00:00	1982	1983	7
+Liverpool FC	Southampton FC	3:0	5:0	25.09.1982	00:00	1982	1983	7
+Coventry City	Everton FC	1:1	4:2	25.09.1982	00:00	1982	1983	7
+Brighton & Hove Albion	Birmingham City	0:0	1:0	25.09.1982	00:00	1982	1983	7
+West Ham United	Manchester City	2:0	4:1	25.09.1982	00:00	1982	1983	7
+Arsenal FC	West Ham United	1:2	2:3	02.10.1982	00:00	1982	1983	8
+Swansea City	Tottenham Hotspur	0:0	2:0	02.10.1982	00:00	1982	1983	8
+Sunderland AFC	Norwich City	0:0	4:1	02.10.1982	00:00	1982	1983	8
+Southampton FC	Notts County	0:0	1:0	02.10.1982	00:00	1982	1983	8
+Nottingham Forest	Stoke City	0:0	1:0	02.10.1982	00:00	1982	1983	8
+Manchester City	Coventry City	1:1	3:2	02.10.1982	00:00	1982	1983	8
+Luton Town	Manchester United	0:1	1:1	02.10.1982	00:00	1982	1983	8
+Ipswich Town	Liverpool FC	0:0	1:0	02.10.1982	00:00	1982	1983	8
+Everton FC	Brighton & Hove Albion	1:1	2:2	02.10.1982	00:00	1982	1983	8
+Birmingham City	Watford FC	0:1	1:1	02.10.1982	00:00	1982	1983	8
+West Bromwich Albion	Aston Villa	0:0	1:0	02.10.1982	00:00	1982	1983	8
+Birmingham City	Luton Town	0:0	2:3	09.10.1982	00:00	1982	1983	9
+West Bromwich Albion	Nottingham Forest	1:1	2:1	09.10.1982	00:00	1982	1983	9
+Watford FC	Norwich City	2:1	2:2	09.10.1982	00:00	1982	1983	9
+Tottenham Hotspur	Coventry City	1:0	4:0	09.10.1982	00:00	1982	1983	9
+Sunderland AFC	Southampton FC	0:0	1:1	09.10.1982	00:00	1982	1983	9
+Notts County	Aston Villa	2:0	4:1	09.10.1982	00:00	1982	1983	9
+Manchester United	Stoke City	0:0	1:0	09.10.1982	00:00	1982	1983	9
+Ipswich Town	Arsenal FC	0:0	0:1	09.10.1982	00:00	1982	1983	9
+Everton FC	Manchester City	1:1	2:1	09.10.1982	00:00	1982	1983	9
+Brighton & Hove Albion	Swansea City	1:0	1:1	09.10.1982	00:00	1982	1983	9
+West Ham United	Liverpool FC	1:0	3:1	09.10.1982	00:00	1982	1983	9
+Arsenal FC	West Bromwich Albion	2:0	2:0	16.10.1982	00:00	1982	1983	10
+Stoke City	Brighton & Hove Albion	2:0	3:0	16.10.1982	00:00	1982	1983	10
+Southampton FC	West Ham United	1:0	3:0	16.10.1982	00:00	1982	1983	10
+Nottingham Forest	Birmingham City	0:1	1:1	16.10.1982	00:00	1982	1983	10
+Norwich City	Tottenham Hotspur	0:0	0:0	16.10.1982	00:00	1982	1983	10
+Manchester City	Sunderland AFC	0:1	2:2	16.10.1982	00:00	1982	1983	10
+Luton Town	Ipswich Town	0:1	1:1	16.10.1982	00:00	1982	1983	10
+Liverpool FC	Manchester United	0:0	0:0	16.10.1982	00:00	1982	1983	10
+Coventry City	Notts County	0:0	1:0	16.10.1982	00:00	1982	1983	10
+Aston Villa	Watford FC	1:0	3:0	16.10.1982	00:00	1982	1983	10
+Swansea City	Everton FC	0:1	0:3	16.10.1982	00:00	1982	1983	10
+Birmingham City	Ipswich Town	0:0	0:0	23.10.1982	00:00	1982	1983	11
+Watford FC	Coventry City	0:0	0:0	23.10.1982	00:00	1982	1983	11
+Tottenham Hotspur	Notts County	2:0	4:2	23.10.1982	00:00	1982	1983	11
+Swansea City	Southampton FC	0:1	3:2	23.10.1982	00:00	1982	1983	11
+Stoke City	Liverpool FC	1:1	1:1	23.10.1982	00:00	1982	1983	11
+Nottingham Forest	Arsenal FC	1:0	3:0	23.10.1982	00:00	1982	1983	11
+Norwich City	Aston Villa	0:0	1:0	23.10.1982	00:00	1982	1983	11
+Manchester United	Manchester City	0:1	2:2	23.10.1982	00:00	1982	1983	11
+Everton FC	Sunderland AFC	1:0	3:1	23.10.1982	00:00	1982	1983	11
+Brighton & Hove Albion	West Ham United	1:0	3:1	23.10.1982	00:00	1982	1983	11
+West Bromwich Albion	Luton Town	1:0	1:0	23.10.1982	00:00	1982	1983	11
+Arsenal FC	Birmingham City	0:0	0:0	30.10.1982	00:00	1982	1983	12
+Sunderland AFC	Stoke City	2:1	2:2	30.10.1982	00:00	1982	1983	12
+Southampton FC	Everton FC	2:1	3:2	30.10.1982	00:00	1982	1983	12
+Notts County	Watford FC	1:2	3:2	30.10.1982	00:00	1982	1983	12
+Manchester City	Swansea City	1:0	2:1	30.10.1982	00:00	1982	1983	12
+Luton Town	Nottingham Forest	0:1	0:2	30.10.1982	00:00	1982	1983	12
+Liverpool FC	Brighton & Hove Albion	3:1	3:1	30.10.1982	00:00	1982	1983	12
+Ipswich Town	West Bromwich Albion	4:0	6:1	30.10.1982	00:00	1982	1983	12
+Coventry City	Norwich City	0:0	2:0	30.10.1982	00:00	1982	1983	12
+Aston Villa	Tottenham Hotspur	0:0	4:0	30.10.1982	00:00	1982	1983	12
+West Ham United	Manchester United	1:0	3:1	30.10.1982	00:00	1982	1983	12
+Birmingham City	West Bromwich Albion	0:1	2:1	06.11.1982	00:00	1982	1983	13
+Swansea City	Sunderland AFC	2:0	3:0	06.11.1982	00:00	1982	1983	13
+Stoke City	West Ham United	4:1	5:2	06.11.1982	00:00	1982	1983	13
+Nottingham Forest	Ipswich Town	0:1	2:1	06.11.1982	00:00	1982	1983	13
+Norwich City	Notts County	0:0	1:2	06.11.1982	00:00	1982	1983	13
+Manchester City	Southampton FC	1:0	2:0	06.11.1982	00:00	1982	1983	13
+Luton Town	Arsenal FC	0:0	2:2	06.11.1982	00:00	1982	1983	13
+Everton FC	Liverpool FC	0:1	0:5	06.11.1982	00:00	1982	1983	13
+Coventry City	Aston Villa	0:0	0:0	06.11.1982	00:00	1982	1983	13
+Brighton & Hove Albion	Manchester United	0:0	1:0	06.11.1982	00:00	1982	1983	13
+Tottenham Hotspur	Watford FC	0:0	0:1	06.11.1982	00:00	1982	1983	13
+Arsenal FC	Everton FC	0:1	1:1	13.11.1982	00:00	1982	1983	14
+West Bromwich Albion	Swansea City	2:0	3:3	13.11.1982	00:00	1982	1983	14
+Watford FC	Stoke City	1:0	1:0	13.11.1982	00:00	1982	1983	14
+Sunderland AFC	Luton Town	0:0	1:1	13.11.1982	00:00	1982	1983	14
+Southampton FC	Nottingham Forest	0:1	1:1	13.11.1982	00:00	1982	1983	14
+Notts County	Birmingham City	0:0	0:0	13.11.1982	00:00	1982	1983	14
+Manchester United	Tottenham Hotspur	1:0	1:0	13.11.1982	00:00	1982	1983	14
+Liverpool FC	Coventry City	2:0	4:0	13.11.1982	00:00	1982	1983	14
+Ipswich Town	Manchester City	1:0	1:0	13.11.1982	00:00	1982	1983	14
+Aston Villa	Brighton & Hove Albion	0:0	1:0	13.11.1982	00:00	1982	1983	14
+West Ham United	Norwich City	0:0	1:0	13.11.1982	00:00	1982	1983	14
+Aston Villa	Manchester United	1:1	2:1	20.11.1982	00:00	1982	1983	15
+Tottenham Hotspur	West Ham United	0:1	2:1	20.11.1982	00:00	1982	1983	15
+Swansea City	Arsenal FC	0:0	1:2	20.11.1982	00:00	1982	1983	15
+Sunderland AFC	Nottingham Forest	0:0	0:1	20.11.1982	00:00	1982	1983	15
+Southampton FC	Ipswich Town	0:0	0:1	20.11.1982	00:00	1982	1983	15
+Notts County	Liverpool FC	1:0	1:2	20.11.1982	00:00	1982	1983	15
+Norwich City	Stoke City	0:1	4:2	20.11.1982	00:00	1982	1983	15
+Manchester City	Birmingham City	0:0	0:0	20.11.1982	00:00	1982	1983	15
+Everton FC	West Bromwich Albion	0:0	0:0	20.11.1982	00:00	1982	1983	15
+Coventry City	Luton Town	0:0	4:2	20.11.1982	00:00	1982	1983	15
+Watford FC	Brighton & Hove Albion	1:0	4:1	20.11.1982	00:00	1982	1983	15
+Stoke City	Aston Villa	0:1	0:3	27.11.1982	00:00	1982	1983	16
+Nottingham Forest	Manchester City	1:0	3:0	27.11.1982	00:00	1982	1983	16
+Manchester United	Norwich City	2:0	3:0	27.11.1982	00:00	1982	1983	16
+Luton Town	Southampton FC	0:2	3:3	27.11.1982	00:00	1982	1983	16
+Liverpool FC	Tottenham Hotspur	1:0	3:0	27.11.1982	00:00	1982	1983	16
+Brighton & Hove Albion	Notts County	0:1	0:2	27.11.1982	00:00	1982	1983	16
+Birmingham City	Sunderland AFC	1:0	2:1	27.11.1982	00:00	1982	1983	16
+Arsenal FC	Watford FC	1:1	2:4	27.11.1982	00:00	1982	1983	16
+West Ham United	Everton FC	1:0	2:0	27.11.1982	00:00	1982	1983	16
+Ipswich Town	Swansea City	2:0	3:1	27.11.1982	00:00	1982	1983	16
+West Bromwich Albion	Coventry City	1:0	2:0	27.11.1982	00:00	1982	1983	16
+Tottenham Hotspur	West Bromwich Albion	1:0	1:1	04.12.1982	00:00	1982	1983	17
+Swansea City	Luton Town	0:0	2:0	04.12.1982	00:00	1982	1983	17
+Southampton FC	Stoke City	0:0	1:0	04.12.1982	00:00	1982	1983	17
+Notts County	Nottingham Forest	2:2	3:2	04.12.1982	00:00	1982	1983	17
+Norwich City	Liverpool FC	0:0	1:0	04.12.1982	00:00	1982	1983	17
+Manchester City	Arsenal FC	0:0	2:1	04.12.1982	00:00	1982	1983	17
+Everton FC	Birmingham City	0:0	0:0	04.12.1982	00:00	1982	1983	17
+Coventry City	Brighton & Hove Albion	2:0	2:0	04.12.1982	00:00	1982	1983	17
+Aston Villa	West Ham United	0:0	1:0	04.12.1982	00:00	1982	1983	17
+Watford FC	Manchester United	0:0	0:1	04.12.1982	00:00	1982	1983	17
+Sunderland AFC	Ipswich Town	1:2	2:3	04.12.1982	00:00	1982	1983	17
+Arsenal FC	Aston Villa	2:1	2:1	07.12.1982	00:00	1982	1983	18
+Stoke City	Tottenham Hotspur	1:0	2:0	11.12.1982	00:00	1982	1983	18
+Nottingham Forest	Swansea City	1:0	2:1	11.12.1982	00:00	1982	1983	18
+Manchester United	Notts County	1:0	4:0	11.12.1982	00:00	1982	1983	18
+Luton Town	Manchester City	0:0	3:1	11.12.1982	00:00	1982	1983	18
+Liverpool FC	Watford FC	3:0	3:1	11.12.1982	00:00	1982	1983	18
+Ipswich Town	Everton FC	0:0	0:2	11.12.1982	00:00	1982	1983	18
+Brighton & Hove Albion	Norwich City	1:0	3:0	11.12.1982	00:00	1982	1983	18
+Birmingham City	Southampton FC	0:0	0:2	11.12.1982	00:00	1982	1983	18
+West Bromwich Albion	Sunderland AFC	2:0	3:0	11.12.1982	00:00	1982	1983	18
+West Ham United	Coventry City	0:3	0:3	11.12.1982	00:00	1982	1983	18
+Tottenham Hotspur	Birmingham City	0:0	2:1	18.12.1982	00:00	1982	1983	19
+Swansea City	Manchester United	0:0	0:0	18.12.1982	00:00	1982	1983	19
+Sunderland AFC	Arsenal FC	1:0	3:0	18.12.1982	00:00	1982	1983	19
+Southampton FC	West Bromwich Albion	1:1	4:1	18.12.1982	00:00	1982	1983	19
+Notts County	West Ham United	0:2	1:2	18.12.1982	00:00	1982	1983	19
+Norwich City	Nottingham Forest	0:1	0:1	18.12.1982	00:00	1982	1983	19
+Manchester City	Brighton & Hove Albion	1:0	1:1	18.12.1982	00:00	1982	1983	19
+Everton FC	Luton Town	2:0	5:0	18.12.1982	00:00	1982	1983	19
+Aston Villa	Liverpool FC	2:3	2:4	18.12.1982	00:00	1982	1983	19
+Watford FC	Ipswich Town	2:0	2:1	18.12.1982	00:00	1982	1983	19
+Coventry City	Stoke City	1:0	2:0	18.12.1982	00:00	1982	1983	19
+West Bromwich Albion	Notts County	1:0	2:2	27.12.1982	00:00	1982	1983	20
+Stoke City	Everton FC	0:0	1:0	27.12.1982	00:00	1982	1983	20
+Manchester United	Sunderland AFC	0:0	0:0	27.12.1982	00:00	1982	1983	20
+Luton Town	Watford FC	1:0	1:0	27.12.1982	00:00	1982	1983	20
+Liverpool FC	Manchester City	3:1	5:2	27.12.1982	00:00	1982	1983	20
+Ipswich Town	Norwich City	1:1	2:3	27.12.1982	00:00	1982	1983	20
+Brighton & Hove Albion	Southampton FC	0:0	0:1	27.12.1982	00:00	1982	1983	20
+Birmingham City	Aston Villa	1:0	3:0	27.12.1982	00:00	1982	1983	20
+Arsenal FC	Tottenham Hotspur	1:0	2:0	27.12.1982	00:00	1982	1983	20
+West Ham United	Swansea City	0:2	3:2	27.12.1982	00:00	1982	1983	20
+Nottingham Forest	Coventry City	2:2	4:2	27.12.1982	00:00	1982	1983	20
+Tottenham Hotspur	Brighton & Hove Albion	1:0	2:0	28.12.1982	00:00	1982	1983	21
+Sunderland AFC	Liverpool FC	0:0	0:0	28.12.1982	00:00	1982	1983	21
+Southampton FC	Arsenal FC	0:1	2:2	28.12.1982	00:00	1982	1983	21
+Notts County	Stoke City	2:0	4:0	28.12.1982	00:00	1982	1983	21
+Norwich City	Luton Town	1:0	1:0	28.12.1982	00:00	1982	1983	21
+Manchester City	West Bromwich Albion	1:0	2:1	28.12.1982	00:00	1982	1983	21
+Everton FC	Nottingham Forest	2:0	3:1	28.12.1982	00:00	1982	1983	21
+Coventry City	Manchester United	2:0	3:0	28.12.1982	00:00	1982	1983	21
+Aston Villa	Ipswich Town	1:1	1:1	29.12.1982	00:00	1982	1983	21
+Swansea City	Birmingham City	0:0	0:0	29.12.1982	00:00	1982	1983	21
+Watford FC	West Ham United	1:0	2:1	29.12.1982	00:00	1982	1983	21
+West Bromwich Albion	Everton FC	1:1	2:2	01.01.1983	00:00	1982	1983	22
+Stoke City	Norwich City	1:0	1:0	01.01.1983	00:00	1982	1983	22
+Nottingham Forest	Sunderland AFC	0:0	0:0	01.01.1983	00:00	1982	1983	22
+Manchester United	Aston Villa	1:1	3:1	01.01.1983	00:00	1982	1983	22
+Liverpool FC	Notts County	2:1	5:1	01.01.1983	00:00	1982	1983	22
+Brighton & Hove Albion	Watford FC	0:0	1:1	01.01.1983	00:00	1982	1983	22
+Birmingham City	Manchester City	1:1	2:2	01.01.1983	00:00	1982	1983	22
+Arsenal FC	Swansea City	2:0	2:1	01.01.1983	00:00	1982	1983	22
+West Ham United	Tottenham Hotspur	1:0	3:0	01.01.1983	00:00	1982	1983	22
+Ipswich Town	Southampton FC	1:0	2:1	01.01.1983	00:00	1982	1983	22
+Luton Town	Coventry City	0:2	1:2	01.01.1983	00:00	1982	1983	22
+Coventry City	Ipswich Town	0:0	1:1	23.11.1982	00:00	1982	1983	23
+Watford FC	Manchester City	2:0	2:0	03.01.1983	00:00	1982	1983	23
+Tottenham Hotspur	Everton FC	1:0	2:1	03.01.1983	00:00	1982	1983	23
+Stoke City	Birmingham City	0:1	1:1	03.01.1983	00:00	1982	1983	23
+Norwich City	Swansea City	0:0	1:0	03.01.1983	00:00	1982	1983	23
+Manchester United	West Bromwich Albion	0:0	0:0	03.01.1983	00:00	1982	1983	23
+Liverpool FC	Arsenal FC	1:0	3:1	03.01.1983	00:00	1982	1983	23
+Brighton & Hove Albion	Nottingham Forest	0:1	1:1	03.01.1983	00:00	1982	1983	23
+Aston Villa	Southampton FC	1:0	2:0	03.01.1983	00:00	1982	1983	23
+West Ham United	Sunderland AFC	0:0	2:1	09.04.1983	00:00	1982	1983	23
+Notts County	Luton Town	0:0	1:1	16.04.1983	00:00	1982	1983	23
+Arsenal FC	Stoke City	2:0	3:0	15.01.1983	00:00	1982	1983	24
+Swansea City	Notts County	0:0	2:0	15.01.1983	00:00	1982	1983	24
+Sunderland AFC	Aston Villa	1:0	2:0	15.01.1983	00:00	1982	1983	24
+Southampton FC	Coventry City	1:1	1:1	15.01.1983	00:00	1982	1983	24
+Nottingham Forest	West Ham United	0:0	1:0	15.01.1983	00:00	1982	1983	24
+Manchester City	Norwich City	3:1	4:1	15.01.1983	00:00	1982	1983	24
+Luton Town	Tottenham Hotspur	1:0	1:1	15.01.1983	00:00	1982	1983	24
+Ipswich Town	Brighton & Hove Albion	1:0	2:0	15.01.1983	00:00	1982	1983	24
+Everton FC	Watford FC	0:0	1:0	15.01.1983	00:00	1982	1983	24
+Birmingham City	Manchester United	0:0	1:2	15.01.1983	00:00	1982	1983	24
+West Bromwich Albion	Liverpool FC	0:0	0:1	15.01.1983	00:00	1982	1983	24
+Aston Villa	Manchester City	1:1	1:1	22.01.1983	00:00	1982	1983	25
+Tottenham Hotspur	Sunderland AFC	1:0	1:1	22.01.1983	00:00	1982	1983	25
+Stoke City	Ipswich Town	0:0	1:0	22.01.1983	00:00	1982	1983	25
+Notts County	Arsenal FC	0:0	1:0	22.01.1983	00:00	1982	1983	25
+Norwich City	Everton FC	0:1	0:1	22.01.1983	00:00	1982	1983	25
+Brighton & Hove Albion	Luton Town	0:2	2:4	22.01.1983	00:00	1982	1983	25
+West Ham United	West Bromwich Albion	0:1	0:1	22.01.1983	00:00	1982	1983	25
+Manchester United	Southampton FC	1:0	1:1	09.04.1983	00:00	1982	1983	25
+Liverpool FC	Swansea City	0:0	3:0	09.04.1983	00:00	1982	1983	25
+Coventry City	Birmingham City	0:0	0:1	16.04.1983	00:00	1982	1983	25
+Watford FC	Nottingham Forest	1:0	1:3	16.04.1983	00:00	1982	1983	25
+Southampton FC	Norwich City	1:0	4:0	05.02.1983	00:00	1982	1983	26
+Nottingham Forest	Aston Villa	1:1	1:2	05.02.1983	00:00	1982	1983	26
+Manchester City	Tottenham Hotspur	0:0	2:2	05.02.1983	00:00	1982	1983	26
+Luton Town	Liverpool FC	1:2	1:3	05.02.1983	00:00	1982	1983	26
+Ipswich Town	Manchester United	1:0	1:1	05.02.1983	00:00	1982	1983	26
+Everton FC	Notts County	2:0	3:0	05.02.1983	00:00	1982	1983	26
+Birmingham City	West Ham United	1:0	3:0	05.02.1983	00:00	1982	1983	26
+Arsenal FC	Coventry City	2:0	2:1	09.04.1983	00:00	1982	1983	26
+West Bromwich Albion	Watford FC	0:1	1:3	09.04.1983	00:00	1982	1983	26
+Swansea City	Stoke City	1:0	1:1	16.04.1983	00:00	1982	1983	26
+Sunderland AFC	Brighton & Hove Albion	1:1	1:1	19.04.1983	00:00	1982	1983	26
+Coventry City	Manchester City	2:0	4:0	12.02.1983	00:00	1982	1983	27
+Liverpool FC	Ipswich Town	0:0	1:0	12.02.1983	00:00	1982	1983	27
+Tottenham Hotspur	Swansea City	1:0	1:0	12.02.1983	00:00	1982	1983	27
+Notts County	Southampton FC	1:1	1:2	12.02.1983	00:00	1982	1983	27
+Stoke City	Nottingham Forest	0:0	1:0	16.03.1983	00:00	1982	1983	27
+Watford FC	Birmingham City	0:0	2:1	22.03.1983	00:00	1982	1983	27
+Brighton & Hove Albion	Everton FC	0:1	1:2	09.04.1983	00:00	1982	1983	27
+Norwich City	Sunderland AFC	0:0	2:0	16.04.1983	00:00	1982	1983	27
+Aston Villa	West Bromwich Albion	1:0	1:0	19.04.1983	00:00	1982	1983	27
+Manchester United	Luton Town	2:0	3:0	09.05.1983	00:00	1982	1983	27
+West Ham United	Arsenal FC	0:3	1:3	10.05.1983	00:00	1982	1983	27
+Nottingham Forest	West Bromwich Albion	0:0	0:0	19.02.1983	00:00	1982	1983	28
+Southampton FC	Sunderland AFC	1:0	2:0	19.02.1983	00:00	1982	1983	28
+Swansea City	Brighton & Hove Albion	1:1	1:2	01.03.1983	00:00	1982	1983	28
+Norwich City	Watford FC	1:0	3:0	02.03.1983	00:00	1982	1983	28
+Stoke City	Manchester United	0:0	1:0	02.03.1983	00:00	1982	1983	28
+Manchester City	Everton FC	0:0	0:0	02.03.1983	00:00	1982	1983	28
+Aston Villa	Notts County	1:0	2:0	08.03.1983	00:00	1982	1983	28
+Liverpool FC	West Ham United	0:0	3:0	12.03.1983	00:00	1982	1983	28
+Coventry City	Tottenham Hotspur	1:0	1:1	12.03.1983	00:00	1982	1983	28
+Arsenal FC	Ipswich Town	2:0	2:2	22.03.1983	00:00	1982	1983	28
+Luton Town	Birmingham City	3:0	3:1	12.04.1983	00:00	1982	1983	28
+Birmingham City	Nottingham Forest	1:0	1:1	26.02.1983	00:00	1982	1983	29
+Tottenham Hotspur	Norwich City	0:0	0:0	26.02.1983	00:00	1982	1983	29
+West Bromwich Albion	Arsenal FC	0:0	0:0	26.02.1983	00:00	1982	1983	29
+West Ham United	Southampton FC	1:1	1:1	26.02.1983	00:00	1982	1983	29
+Watford FC	Aston Villa	1:1	2:1	26.02.1983	00:00	1982	1983	29
+Notts County	Coventry City	2:0	5:1	26.02.1983	00:00	1982	1983	29
+Manchester United	Liverpool FC	1:1	1:1	26.02.1983	00:00	1982	1983	29
+Ipswich Town	Luton Town	1:0	3:0	26.02.1983	00:00	1982	1983	29
+Everton FC	Swansea City	1:1	2:2	26.02.1983	00:00	1982	1983	29
+Brighton & Hove Albion	Stoke City	1:2	1:2	26.02.1983	00:00	1982	1983	29
+Sunderland AFC	Manchester City	0:0	3:2	26.02.1983	00:00	1982	1983	29
+Arsenal FC	Nottingham Forest	0:0	0:0	05.03.1983	00:00	1982	1983	30
+Ipswich Town	Birmingham City	0:0	3:1	05.03.1983	00:00	1982	1983	30
+Luton Town	West Bromwich Albion	0:0	0:0	05.03.1983	00:00	1982	1983	30
+Aston Villa	Norwich City	1:1	3:2	05.03.1983	00:00	1982	1983	30
+Coventry City	Watford FC	0:1	0:1	05.03.1983	00:00	1982	1983	30
+Liverpool FC	Stoke City	2:0	5:1	05.03.1983	00:00	1982	1983	30
+Manchester City	Manchester United	1:0	1:2	05.03.1983	00:00	1982	1983	30
+Notts County	Tottenham Hotspur	3:0	3:0	05.03.1983	00:00	1982	1983	30
+Southampton FC	Swansea City	0:0	2:1	05.03.1983	00:00	1982	1983	30
+Sunderland AFC	Everton FC	1:1	2:1	05.03.1983	00:00	1982	1983	30
+West Ham United	Brighton & Hove Albion	0:0	2:1	05.03.1983	00:00	1982	1983	30
+Nottingham Forest	Luton Town	0:1	0:1	12.03.1983	00:00	1982	1983	31
+Birmingham City	Arsenal FC	0:0	2:1	12.03.1983	00:00	1982	1983	31
+West Bromwich Albion	Ipswich Town	2:0	4:1	12.03.1983	00:00	1982	1983	31
+Stoke City	Sunderland AFC	0:0	0:1	12.03.1983	00:00	1982	1983	31
+Swansea City	Manchester City	3:0	4:1	12.03.1983	00:00	1982	1983	31
+Watford FC	Notts County	3:1	5:3	12.03.1983	00:00	1982	1983	31
+Everton FC	Southampton FC	0:0	2:0	15.03.1983	00:00	1982	1983	31
+Manchester United	West Ham United	0:0	2:1	22.03.1983	00:00	1982	1983	31
+Brighton & Hove Albion	Liverpool FC	2:0	2:2	22.03.1983	00:00	1982	1983	31
+Norwich City	Coventry City	0:0	1:1	23.03.1983	00:00	1982	1983	31
+Tottenham Hotspur	Aston Villa	1:0	2:0	23.03.1983	00:00	1982	1983	31
+Arsenal FC	Luton Town	3:0	4:1	19.03.1983	00:00	1982	1983	32
+Notts County	Norwich City	1:2	2:2	19.03.1983	00:00	1982	1983	32
+West Bromwich Albion	Birmingham City	1:0	2:0	19.03.1983	00:00	1982	1983	32
+Watford FC	Tottenham Hotspur	0:1	0:1	19.03.1983	00:00	1982	1983	32
+Manchester United	Brighton & Hove Albion	0:1	1:1	19.03.1983	00:00	1982	1983	32
+Liverpool FC	Everton FC	0:0	0:0	19.03.1983	00:00	1982	1983	32
+Ipswich Town	Nottingham Forest	1:0	2:0	19.03.1983	00:00	1982	1983	32
+Aston Villa	Coventry City	3:0	4:0	19.03.1983	00:00	1982	1983	32
+Southampton FC	Manchester City	4:0	4:1	19.03.1983	00:00	1982	1983	32
+Sunderland AFC	Swansea City	0:0	1:1	19.03.1983	00:00	1982	1983	32
+West Ham United	Stoke City	0:0	1:1	19.03.1983	00:00	1982	1983	32
+Luton Town	Sunderland AFC	1:1	1:3	26.03.1983	00:00	1982	1983	33
+Everton FC	Arsenal FC	1:0	2:3	26.03.1983	00:00	1982	1983	33
+Norwich City	West Ham United	0:1	1:1	26.03.1983	00:00	1982	1983	33
+Brighton & Hove Albion	Aston Villa	0:0	0:0	26.03.1983	00:00	1982	1983	33
+Manchester City	Ipswich Town	0:0	0:1	26.03.1983	00:00	1982	1983	33
+Nottingham Forest	Southampton FC	1:0	1:2	26.03.1983	00:00	1982	1983	33
+Stoke City	Watford FC	1:0	4:0	26.03.1983	00:00	1982	1983	33
+Swansea City	West Bromwich Albion	1:0	2:1	26.03.1983	00:00	1982	1983	33
+Birmingham City	Notts County	2:0	3:0	26.03.1983	00:00	1982	1983	33
+Coventry City	Liverpool FC	0:0	0:0	12.04.1983	00:00	1982	1983	33
+Tottenham Hotspur	Manchester United	0:0	2:0	11.05.1983	00:00	1982	1983	33
+Manchester United	Coventry City	2:0	3:0	02.04.1983	00:00	1982	1983	34
+Luton Town	Norwich City	0:1	0:1	02.04.1983	00:00	1982	1983	34
+Liverpool FC	Sunderland AFC	0:0	1:0	02.04.1983	00:00	1982	1983	34
+Birmingham City	Swansea City	0:0	1:1	02.04.1983	00:00	1982	1983	34
+Arsenal FC	Southampton FC	0:0	0:0	02.04.1983	00:00	1982	1983	34
+Brighton & Hove Albion	Tottenham Hotspur	0:1	2:1	02.04.1983	00:00	1982	1983	34
+Ipswich Town	Aston Villa	1:1	1:2	02.04.1983	00:00	1982	1983	34
+Nottingham Forest	Everton FC	2:0	2:0	02.04.1983	00:00	1982	1983	34
+West Ham United	Watford FC	1:1	2:1	02.04.1983	00:00	1982	1983	34
+Stoke City	Notts County	0:0	1:0	02.04.1983	00:00	1982	1983	34
+West Bromwich Albion	Manchester City	0:0	0:2	02.04.1983	00:00	1982	1983	34
+Sunderland AFC	Manchester United	0:0	0:0	04.04.1983	00:00	1982	1983	35
+Tottenham Hotspur	Arsenal FC	3:0	5:0	04.04.1983	00:00	1982	1983	35
+Norwich City	Ipswich Town	0:0	0:0	04.04.1983	00:00	1982	1983	35
+Manchester City	Liverpool FC	0:2	0:4	04.04.1983	00:00	1982	1983	35
+Aston Villa	Birmingham City	0:0	1:0	04.04.1983	00:00	1982	1983	35
+Everton FC	Stoke City	0:0	3:1	04.04.1983	00:00	1982	1983	35
+Watford FC	Luton Town	2:2	5:2	04.04.1983	00:00	1982	1983	35
+Notts County	West Bromwich Albion	1:1	2:1	04.04.1983	00:00	1982	1983	35
+Coventry City	Nottingham Forest	1:0	1:2	05.04.1983	00:00	1982	1983	35
+Swansea City	West Ham United	1:2	1:5	05.04.1983	00:00	1982	1983	35
+Southampton FC	Brighton & Hove Albion	0:0	0:0	05.04.1983	00:00	1982	1983	35
+Arsenal FC	Brighton & Hove Albion	2:1	3:1	05.02.1983	00:00	1982	1983	36
+West Bromwich Albion	Stoke City	0:1	1:1	05.02.1983	00:00	1982	1983	36
+Sunderland AFC	Coventry City	1:0	2:1	05.02.1983	00:00	1982	1983	36
+Swansea City	Watford FC	1:0	1:3	06.02.1983	00:00	1982	1983	36
+Manchester City	Notts County	0:0	0:1	19.02.1983	00:00	1982	1983	36
+Birmingham City	Norwich City	0:2	0:4	09.04.1983	00:00	1982	1983	36
+Luton Town	Aston Villa	1:1	2:1	09.04.1983	00:00	1982	1983	36
+Everton FC	Manchester United	0:0	2:0	19.04.1983	00:00	1982	1983	36
+Nottingham Forest	Liverpool FC	0:0	1:0	02.05.1983	00:00	1982	1983	36
+Ipswich Town	West Ham United	1:1	1:2	03.05.1983	00:00	1982	1983	36
+Southampton FC	Tottenham Hotspur	1:1	1:2	03.05.1983	00:00	1982	1983	36
+Notts County	Sunderland AFC	0:1	0:1	03.01.1983	00:00	1982	1983	37
+West Ham United	Luton Town	1:1	2:3	04.01.1983	00:00	1982	1983	37
+Watford FC	Southampton FC	0:0	2:0	22.01.1983	00:00	1982	1983	37
+Manchester United	Nottingham Forest	0:0	2:0	22.01.1983	00:00	1982	1983	37
+Liverpool FC	Birmingham City	1:0	1:0	22.01.1983	00:00	1982	1983	37
+Coventry City	Swansea City	0:0	0:0	22.01.1983	00:00	1982	1983	37
+Aston Villa	Everton FC	1:0	2:0	12.02.1983	00:00	1982	1983	37
+Brighton & Hove Albion	West Bromwich Albion	0:0	0:0	12.02.1983	00:00	1982	1983	37
+Stoke City	Manchester City	0:0	1:0	09.04.1983	00:00	1982	1983	37
+Tottenham Hotspur	Ipswich Town	2:0	3:1	16.04.1983	00:00	1982	1983	37
+Norwich City	Arsenal FC	1:1	3:1	20.04.1983	00:00	1982	1983	37
+Manchester United	Watford FC	0:0	2:0	23.04.1983	00:00	1982	1983	38
+Arsenal FC	Manchester City	1:0	3:0	23.04.1983	00:00	1982	1983	38
+Luton Town	Swansea City	0:0	3:1	23.04.1983	00:00	1982	1983	38
+West Bromwich Albion	Tottenham Hotspur	0:1	0:1	23.04.1983	00:00	1982	1983	38
+West Ham United	Aston Villa	0:0	2:0	23.04.1983	00:00	1982	1983	38
+Stoke City	Southampton FC	0:0	1:1	23.04.1983	00:00	1982	1983	38
+Liverpool FC	Norwich City	0:0	0:2	23.04.1983	00:00	1982	1983	38
+Ipswich Town	Sunderland AFC	2:0	4:1	23.04.1983	00:00	1982	1983	38
+Brighton & Hove Albion	Coventry City	0:0	1:0	23.04.1983	00:00	1982	1983	38
+Birmingham City	Everton FC	0:0	1:0	23.04.1983	00:00	1982	1983	38
+Nottingham Forest	Notts County	2:1	2:1	23.04.1983	00:00	1982	1983	38
+Norwich City	Manchester United	0:0	1:1	30.04.1983	00:00	1982	1983	39
+Everton FC	West Ham United	1:0	2:0	30.04.1983	00:00	1982	1983	39
+Southampton FC	Luton Town	2:2	2:2	30.04.1983	00:00	1982	1983	39
+Watford FC	Arsenal FC	0:0	2:1	30.04.1983	00:00	1982	1983	39
+Tottenham Hotspur	Liverpool FC	0:0	2:0	30.04.1983	00:00	1982	1983	39
+Swansea City	Ipswich Town	0:0	1:1	30.04.1983	00:00	1982	1983	39
+Sunderland AFC	Birmingham City	1:0	1:2	30.04.1983	00:00	1982	1983	39
+Notts County	Brighton & Hove Albion	0:0	1:0	30.04.1983	00:00	1982	1983	39
+Coventry City	West Bromwich Albion	0:1	0:1	30.04.1983	00:00	1982	1983	39
+Aston Villa	Stoke City	1:0	4:0	30.04.1983	00:00	1982	1983	39
+Manchester City	Nottingham Forest	0:1	1:2	30.04.1983	00:00	1982	1983	39
+Nottingham Forest	Tottenham Hotspur	2:0	2:2	09.04.1983	00:00	1982	1983	40
+Ipswich Town	Notts County	0:0	0:0	09.04.1983	00:00	1982	1983	40
+Manchester City	West Ham United	2:0	2:0	16.04.1983	00:00	1982	1983	40
+Southampton FC	Liverpool FC	3:2	3:2	16.04.1983	00:00	1982	1983	40
+Arsenal FC	Manchester United	1:0	3:0	02.05.1983	00:00	1982	1983	40
+West Bromwich Albion	Norwich City	1:0	1:0	02.05.1983	00:00	1982	1983	40
+Swansea City	Aston Villa	1:1	2:1	02.05.1983	00:00	1982	1983	40
+Sunderland AFC	Watford FC	2:1	2:2	02.05.1983	00:00	1982	1983	40
+Luton Town	Stoke City	0:0	0:0	02.05.1983	00:00	1982	1983	40
+Everton FC	Coventry City	0:0	1:0	02.05.1983	00:00	1982	1983	40
+Birmingham City	Brighton & Hove Albion	1:0	1:1	02.05.1983	00:00	1982	1983	40
+Manchester United	Swansea City	1:0	2:1	07.05.1983	00:00	1982	1983	41
+Arsenal FC	Sunderland AFC	0:0	0:1	07.05.1983	00:00	1982	1983	41
+Birmingham City	Tottenham Hotspur	1:0	2:0	07.05.1983	00:00	1982	1983	41
+Brighton & Hove Albion	Manchester City	0:0	0:1	07.05.1983	00:00	1982	1983	41
+West Ham United	Notts County	1:0	2:0	07.05.1983	00:00	1982	1983	41
+West Bromwich Albion	Southampton FC	1:0	1:0	07.05.1983	00:00	1982	1983	41
+Stoke City	Coventry City	0:1	0:3	07.05.1983	00:00	1982	1983	41
+Nottingham Forest	Norwich City	1:2	2:2	07.05.1983	00:00	1982	1983	41
+Luton Town	Everton FC	1:2	1:5	07.05.1983	00:00	1982	1983	41
+Liverpool FC	Aston Villa	0:1	1:1	07.05.1983	00:00	1982	1983	41
+Ipswich Town	Watford FC	2:0	3:1	07.05.1983	00:00	1982	1983	41
+Aston Villa	Arsenal FC	1:0	2:1	14.05.1983	00:00	1982	1983	42
+Tottenham Hotspur	Stoke City	2:0	4:1	14.05.1983	00:00	1982	1983	42
+Swansea City	Nottingham Forest	0:2	0:3	14.05.1983	00:00	1982	1983	42
+Sunderland AFC	West Bromwich Albion	0:1	1:1	14.05.1983	00:00	1982	1983	42
+Southampton FC	Birmingham City	0:0	0:1	14.05.1983	00:00	1982	1983	42
+Notts County	Manchester United	1:1	3:2	14.05.1983	00:00	1982	1983	42
+Norwich City	Brighton & Hove Albion	1:0	2:1	14.05.1983	00:00	1982	1983	42
+Manchester City	Luton Town	0:0	0:1	14.05.1983	00:00	1982	1983	42
+Everton FC	Ipswich Town	0:0	1:1	14.05.1983	00:00	1982	1983	42
+Coventry City	West Ham United	0:1	2:4	14.05.1983	00:00	1982	1983	42
+Watford FC	Liverpool FC	1:0	2:1	14.05.1983	00:00	1982	1983	42

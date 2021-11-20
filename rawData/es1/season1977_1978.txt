@@ -1,0 +1,306 @@
+UD Las Palmas	Burgos CF	0:0	0:0	03.09.1977	00:00	1977	1978	1
+Sevilla FC	Espanyol Barcelona	2:0	3:1	03.09.1977	00:00	1977	1978	1
+UD Salamanca	Real Madrid	0:1	2:1	04.09.1977	00:00	1977	1978	1
+AtlÃ©tico Madrid	Valencia CF	0:0	3:0	04.09.1977	00:00	1977	1978	1
+FC Barcelona	Real Sociedad	1:0	1:0	04.09.1977	00:00	1977	1978	1
+Athletic Bilbao	Real Betis	0:0	0:0	04.09.1977	00:00	1977	1978	1
+HÃ©rcules CF	Sporting GijÃ³n	1:0	1:0	04.09.1977	00:00	1977	1978	1
+Racing Santander	Elche CF	1:0	2:0	04.09.1977	00:00	1977	1978	1
+CÃ¡diz CF	Rayo Vallecano	0:1	2:1	04.09.1977	00:00	1977	1978	1
+Real Sociedad	AtlÃ©tico Madrid	1:1	4:1	10.09.1977	00:00	1977	1978	2
+Valencia CF	CÃ¡diz CF	2:0	3:0	10.09.1977	00:00	1977	1978	2
+Elche CF	HÃ©rcules CF	1:0	2:0	10.09.1977	00:00	1977	1978	2
+Real Madrid	Sevilla FC	1:0	3:0	10.09.1977	00:00	1977	1978	2
+Real Betis	FC Barcelona	0:0	0:0	10.09.1977	00:00	1977	1978	2
+Sporting GijÃ³n	UD Las Palmas	0:0	0:0	10.09.1977	00:00	1977	1978	2
+Burgos CF	UD Salamanca	0:2	0:2	11.09.1977	00:00	1977	1978	2
+Rayo Vallecano	Racing Santander	1:0	1:0	11.09.1977	00:00	1977	1978	2
+Espanyol Barcelona	Athletic Bilbao	1:0	2:1	11.09.1977	00:00	1977	1978	2
+Sevilla FC	Burgos CF	0:0	1:0	17.09.1977	00:00	1977	1978	3
+AtlÃ©tico Madrid	Real Betis	0:0	1:1	18.09.1977	00:00	1977	1978	3
+Espanyol Barcelona	Real Madrid	0:1	1:4	18.09.1977	00:00	1977	1978	3
+HÃ©rcules CF	Rayo Vallecano	0:0	1:1	18.09.1977	00:00	1977	1978	3
+UD Las Palmas	Elche CF	2:0	4:1	18.09.1977	00:00	1977	1978	3
+UD Salamanca	Sporting GijÃ³n	1:1	2:3	18.09.1977	00:00	1977	1978	3
+Athletic Bilbao	FC Barcelona	0:0	0:0	18.09.1977	00:00	1977	1978	3
+Racing Santander	Valencia CF	0:0	2:2	18.09.1977	00:00	1977	1978	3
+CÃ¡diz CF	Real Sociedad	1:0	2:0	18.09.1977	00:00	1977	1978	3
+Real Betis	CÃ¡diz CF	1:0	3:0	24.09.1977	00:00	1977	1978	4
+Elche CF	UD Salamanca	1:0	2:1	24.09.1977	00:00	1977	1978	4
+Valencia CF	HÃ©rcules CF	1:0	6:1	24.09.1977	00:00	1977	1978	4
+Rayo Vallecano	UD Las Palmas	0:0	1:1	24.09.1977	00:00	1977	1978	4
+Real Madrid	Athletic Bilbao	1:0	1:0	25.09.1977	00:00	1977	1978	4
+Real Sociedad	Racing Santander	0:0	2:0	25.09.1977	00:00	1977	1978	4
+Sporting GijÃ³n	Sevilla FC	1:0	1:0	25.09.1977	00:00	1977	1978	4
+Burgos CF	Espanyol Barcelona	2:0	3:2	25.09.1977	00:00	1977	1978	4
+FC Barcelona	AtlÃ©tico Madrid	0:0	1:0	25.09.1977	00:00	1977	1978	4
+UD Las Palmas	Valencia CF	0:0	1:0	02.10.1977	00:00	1977	1978	5
+Espanyol Barcelona	Sporting GijÃ³n	1:0	2:1	02.10.1977	00:00	1977	1978	5
+UD Salamanca	Rayo Vallecano	1:0	1:0	02.10.1977	00:00	1977	1978	5
+Real Madrid	Burgos CF	0:0	3:0	02.10.1977	00:00	1977	1978	5
+Sevilla FC	Elche CF	0:2	3:3	02.10.1977	00:00	1977	1978	5
+CÃ¡diz CF	FC Barcelona	0:1	0:2	02.10.1977	00:00	1977	1978	5
+Athletic Bilbao	AtlÃ©tico Madrid	1:0	1:0	02.10.1977	00:00	1977	1978	5
+HÃ©rcules CF	Real Sociedad	1:0	1:0	02.10.1977	00:00	1977	1978	5
+Racing Santander	Real Betis	0:1	1:1	02.10.1977	00:00	1977	1978	5
+Valencia CF	UD Salamanca	1:1	3:1	08.10.1977	00:00	1977	1978	6
+Elche CF	Espanyol Barcelona	1:0	2:0	08.10.1977	00:00	1977	1978	6
+Burgos CF	Athletic Bilbao	2:2	2:2	09.10.1977	00:00	1977	1978	6
+AtlÃ©tico Madrid	CÃ¡diz CF	0:0	4:0	09.10.1977	00:00	1977	1978	6
+Real Betis	HÃ©rcules CF	1:0	1:1	09.10.1977	00:00	1977	1978	6
+FC Barcelona	Racing Santander	2:0	3:0	09.10.1977	00:00	1977	1978	6
+Rayo Vallecano	Sevilla FC	4:0	4:1	09.10.1977	00:00	1977	1978	6
+Sporting GijÃ³n	Real Madrid	0:0	0:2	09.10.1977	00:00	1977	1978	6
+Real Sociedad	UD Las Palmas	2:1	4:1	09.10.1977	00:00	1977	1978	6
+Athletic Bilbao	CÃ¡diz CF	4:0	6:1	15.10.1977	00:00	1977	1978	7
+UD Las Palmas	Real Betis	1:1	3:2	15.10.1977	00:00	1977	1978	7
+Sevilla FC	Valencia CF	1:0	1:0	16.10.1977	00:00	1977	1978	7
+Real Madrid	Elche CF	3:1	5:1	16.10.1977	00:00	1977	1978	7
+Burgos CF	Sporting GijÃ³n	0:0	0:0	16.10.1977	00:00	1977	1978	7
+Espanyol Barcelona	Rayo Vallecano	0:0	2:1	16.10.1977	00:00	1977	1978	7
+HÃ©rcules CF	FC Barcelona	2:1	2:1	16.10.1977	00:00	1977	1978	7
+UD Salamanca	Real Sociedad	0:0	0:0	16.10.1977	00:00	1977	1978	7
+Racing Santander	AtlÃ©tico Madrid	1:0	2:0	16.10.1977	00:00	1977	1978	7
+AtlÃ©tico Madrid	HÃ©rcules CF	2:1	3:1	29.10.1977	00:00	1977	1978	8
+Valencia CF	Espanyol Barcelona	3:0	3:0	29.10.1977	00:00	1977	1978	8
+Sporting GijÃ³n	Athletic Bilbao	1:1	2:2	30.10.1977	00:00	1977	1978	8
+Elche CF	Burgos CF	0:0	1:0	30.10.1977	00:00	1977	1978	8
+Real Betis	UD Salamanca	0:1	0:1	30.10.1977	00:00	1977	1978	8
+CÃ¡diz CF	Racing Santander	0:0	0:0	30.10.1977	00:00	1977	1978	8
+Real Sociedad	Sevilla FC	2:0	4:0	30.10.1977	00:00	1977	1978	8
+Rayo Vallecano	Real Madrid	1:0	3:2	30.10.1977	00:00	1977	1978	8
+FC Barcelona	UD Las Palmas	0:0	5:0	30.10.1977	00:00	1977	1978	8
+Espanyol Barcelona	Real Sociedad	2:0	2:0	06.11.1977	00:00	1977	1978	9
+Sporting GijÃ³n	Elche CF	1:0	3:0	06.11.1977	00:00	1977	1978	9
+Burgos CF	Rayo Vallecano	0:0	2:1	06.11.1977	00:00	1977	1978	9
+HÃ©rcules CF	CÃ¡diz CF	0:0	0:0	06.11.1977	00:00	1977	1978	9
+UD Salamanca	FC Barcelona	0:0	1:0	06.11.1977	00:00	1977	1978	9
+Sevilla FC	Real Betis	0:0	1:0	06.11.1977	00:00	1977	1978	9
+UD Las Palmas	AtlÃ©tico Madrid	0:0	3:0	06.11.1977	00:00	1977	1978	9
+Real Madrid	Valencia CF	1:0	1:0	06.11.1977	00:00	1977	1978	9
+Athletic Bilbao	Racing Santander	2:0	3:0	06.11.1977	00:00	1977	1978	9
+Valencia CF	Burgos CF	0:0	1:0	12.11.1977	00:00	1977	1978	10
+Elche CF	Athletic Bilbao	1:0	2:1	12.11.1977	00:00	1977	1978	10
+Real Betis	Espanyol Barcelona	1:1	3:1	13.11.1977	00:00	1977	1978	10
+AtlÃ©tico Madrid	UD Salamanca	0:0	4:2	13.11.1977	00:00	1977	1978	10
+Racing Santander	HÃ©rcules CF	0:0	1:0	13.11.1977	00:00	1977	1978	10
+Rayo Vallecano	Sporting GijÃ³n	0:1	3:1	13.11.1977	00:00	1977	1978	10
+FC Barcelona	Sevilla FC	1:0	3:1	13.11.1977	00:00	1977	1978	10
+Real Sociedad	Real Madrid	0:0	2:3	13.11.1977	00:00	1977	1978	10
+CÃ¡diz CF	UD Las Palmas	2:1	3:2	13.11.1977	00:00	1977	1978	10
+UD Las Palmas	Racing Santander	2:0	3:0	19.11.1977	00:00	1977	1978	11
+Athletic Bilbao	HÃ©rcules CF	2:0	2:1	20.11.1977	00:00	1977	1978	11
+Sevilla FC	AtlÃ©tico Madrid	2:0	3:0	20.11.1977	00:00	1977	1978	11
+Elche CF	Rayo Vallecano	0:0	3:0	20.11.1977	00:00	1977	1978	11
+UD Salamanca	CÃ¡diz CF	1:1	2:1	20.11.1977	00:00	1977	1978	11
+Sporting GijÃ³n	Valencia CF	0:0	0:0	20.11.1977	00:00	1977	1978	11
+Espanyol Barcelona	FC Barcelona	0:0	1:1	20.11.1977	00:00	1977	1978	11
+Real Madrid	Real Betis	0:0	4:0	20.11.1977	00:00	1977	1978	11
+Burgos CF	Real Sociedad	2:1	3:2	20.11.1977	00:00	1977	1978	11
+CÃ¡diz CF	Sevilla FC	0:0	0:0	04.12.1977	00:00	1977	1978	12
+Real Betis	Burgos CF	1:0	2:1	04.12.1977	00:00	1977	1978	12
+Racing Santander	UD Salamanca	0:1	0:3	04.12.1977	00:00	1977	1978	12
+Valencia CF	Elche CF	2:1	4:1	04.12.1977	00:00	1977	1978	12
+HÃ©rcules CF	UD Las Palmas	0:1	1:2	04.12.1977	00:00	1977	1978	12
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	2:1	04.12.1977	00:00	1977	1978	12
+Rayo Vallecano	Athletic Bilbao	0:2	3:2	04.12.1977	00:00	1977	1978	12
+FC Barcelona	Real Madrid	1:2	2:3	04.12.1977	00:00	1977	1978	12
+Real Sociedad	Sporting GijÃ³n	0:1	1:1	04.12.1977	00:00	1977	1978	12
+Athletic Bilbao	UD Las Palmas	2:0	2:1	11.12.1977	00:00	1977	1978	13
+Sporting GijÃ³n	Real Betis	0:2	4:3	11.12.1977	00:00	1977	1978	13
+Sevilla FC	Racing Santander	0:0	1:0	11.12.1977	00:00	1977	1978	13
+Espanyol Barcelona	CÃ¡diz CF	1:1	4:2	11.12.1977	00:00	1977	1978	13
+Real Madrid	AtlÃ©tico Madrid	2:1	4:2	11.12.1977	00:00	1977	1978	13
+Rayo Vallecano	Valencia CF	1:0	3:0	11.12.1977	00:00	1977	1978	13
+Burgos CF	FC Barcelona	1:0	1:1	11.12.1977	00:00	1977	1978	13
+Elche CF	Real Sociedad	0:0	1:2	11.12.1977	00:00	1977	1978	13
+UD Salamanca	HÃ©rcules CF	0:0	2:0	11.12.1977	00:00	1977	1978	13
+UD Las Palmas	UD Salamanca	0:0	0:0	17.12.1977	00:00	1977	1978	14
+Racing Santander	Espanyol Barcelona	1:0	4:0	18.12.1977	00:00	1977	1978	14
+Real Sociedad	Rayo Vallecano	0:1	1:1	18.12.1977	00:00	1977	1978	14
+AtlÃ©tico Madrid	Burgos CF	1:0	2:1	18.12.1977	00:00	1977	1978	14
+Real Betis	Elche CF	2:0	4:0	18.12.1977	00:00	1977	1978	14
+HÃ©rcules CF	Sevilla FC	0:1	2:2	18.12.1977	00:00	1977	1978	14
+Valencia CF	Athletic Bilbao	0:0	3:1	18.12.1977	00:00	1977	1978	14
+CÃ¡diz CF	Real Madrid	1:0	1:0	18.12.1977	00:00	1977	1978	14
+FC Barcelona	Sporting GijÃ³n	0:0	1:0	18.12.1977	00:00	1977	1978	14
+Sevilla FC	UD Las Palmas	0:0	1:0	01.01.1978	00:00	1977	1978	15
+Real Madrid	Racing Santander	0:0	2:0	01.01.1978	00:00	1977	1978	15
+Espanyol Barcelona	HÃ©rcules CF	1:0	2:1	01.01.1978	00:00	1977	1978	15
+Burgos CF	CÃ¡diz CF	1:1	2:1	01.01.1978	00:00	1977	1978	15
+Valencia CF	Real Sociedad	0:1	0:1	01.01.1978	00:00	1977	1978	15
+Sporting GijÃ³n	AtlÃ©tico Madrid	2:0	3:2	01.01.1978	00:00	1977	1978	15
+Elche CF	FC Barcelona	1:0	1:3	01.01.1978	00:00	1977	1978	15
+Athletic Bilbao	UD Salamanca	1:0	3:1	01.01.1978	00:00	1977	1978	15
+Rayo Vallecano	Real Betis	3:1	4:2	01.01.1978	00:00	1977	1978	15
+CÃ¡diz CF	Sporting GijÃ³n	0:0	1:1	08.01.1978	00:00	1977	1978	16
+FC Barcelona	Rayo Vallecano	0:0	1:1	08.01.1978	00:00	1977	1978	16
+AtlÃ©tico Madrid	Elche CF	1:1	3:1	08.01.1978	00:00	1977	1978	16
+Athletic Bilbao	Real Sociedad	1:0	1:0	08.01.1978	00:00	1977	1978	16
+UD Salamanca	Sevilla FC	0:0	1:1	08.01.1978	00:00	1977	1978	16
+Real Betis	Valencia CF	1:0	1:1	08.01.1978	00:00	1977	1978	16
+UD Las Palmas	Espanyol Barcelona	2:1	4:2	08.01.1978	00:00	1977	1978	16
+HÃ©rcules CF	Real Madrid	1:1	2:3	08.01.1978	00:00	1977	1978	16
+Racing Santander	Burgos CF	0:1	1:1	08.01.1978	00:00	1977	1978	16
+Elche CF	CÃ¡diz CF	1:0	1:1	15.01.1978	00:00	1977	1978	17
+Valencia CF	FC Barcelona	0:0	1:0	15.01.1978	00:00	1977	1978	17
+Sevilla FC	Athletic Bilbao	0:0	0:0	15.01.1978	00:00	1977	1978	17
+Rayo Vallecano	AtlÃ©tico Madrid	1:0	2:0	15.01.1978	00:00	1977	1978	17
+Real Sociedad	Real Betis	0:0	3:0	15.01.1978	00:00	1977	1978	17
+Real Madrid	UD Las Palmas	0:0	1:1	15.01.1978	00:00	1977	1978	17
+Sporting GijÃ³n	Racing Santander	0:1	3:1	15.01.1978	00:00	1977	1978	17
+Burgos CF	HÃ©rcules CF	0:0	0:0	15.01.1978	00:00	1977	1978	17
+Espanyol Barcelona	UD Salamanca	1:0	2:1	15.01.1978	00:00	1977	1978	17
+Real Betis	Athletic Bilbao	1:1	2:2	22.01.1978	00:00	1977	1978	18
+Valencia CF	AtlÃ©tico Madrid	0:0	1:1	22.01.1978	00:00	1977	1978	18
+Espanyol Barcelona	Sevilla FC	1:0	2:1	22.01.1978	00:00	1977	1978	18
+Burgos CF	UD Las Palmas	1:1	2:1	22.01.1978	00:00	1977	1978	18
+Elche CF	Racing Santander	1:0	3:1	22.01.1978	00:00	1977	1978	18
+Sporting GijÃ³n	HÃ©rcules CF	2:1	2:1	22.01.1978	00:00	1977	1978	18
+Real Madrid	UD Salamanca	0:0	0:0	22.01.1978	00:00	1977	1978	18
+Rayo Vallecano	CÃ¡diz CF	4:1	6:1	22.01.1978	00:00	1977	1978	18
+Real Sociedad	FC Barcelona	0:1	1:2	22.01.1978	00:00	1977	1978	18
+UD Las Palmas	Sporting GijÃ³n	2:0	2:2	28.01.1978	00:00	1977	1978	19
+Sevilla FC	Real Madrid	1:1	1:1	29.01.1978	00:00	1977	1978	19
+Racing Santander	Rayo Vallecano	1:0	2:1	29.01.1978	00:00	1977	1978	19
+UD Salamanca	Burgos CF	0:0	2:0	29.01.1978	00:00	1977	1978	19
+HÃ©rcules CF	Elche CF	0:0	0:0	29.01.1978	00:00	1977	1978	19
+FC Barcelona	Real Betis	0:0	1:0	29.01.1978	00:00	1977	1978	19
+AtlÃ©tico Madrid	Real Sociedad	1:0	2:1	29.01.1978	00:00	1977	1978	19
+Athletic Bilbao	Espanyol Barcelona	1:0	4:0	29.01.1978	00:00	1977	1978	19
+CÃ¡diz CF	Valencia CF	0:0	1:2	29.01.1978	00:00	1977	1978	19
+Real Sociedad	CÃ¡diz CF	2:0	6:1	04.02.1978	00:00	1977	1978	20
+Elche CF	UD Las Palmas	1:0	2:0	05.02.1978	00:00	1977	1978	20
+FC Barcelona	Athletic Bilbao	2:0	3:1	05.02.1978	00:00	1977	1978	20
+Sporting GijÃ³n	UD Salamanca	2:0	3:0	05.02.1978	00:00	1977	1978	20
+Rayo Vallecano	HÃ©rcules CF	2:0	2:1	05.02.1978	00:00	1977	1978	20
+Valencia CF	Racing Santander	0:0	0:0	05.02.1978	00:00	1977	1978	20
+Real Madrid	Espanyol Barcelona	1:0	2:1	05.02.1978	00:00	1977	1978	20
+Real Betis	AtlÃ©tico Madrid	3:3	4:3	05.02.1978	00:00	1977	1978	20
+Burgos CF	Sevilla FC	1:0	1:0	05.02.1978	00:00	1977	1978	20
+CÃ¡diz CF	Real Betis	0:1	0:5	12.02.1978	00:00	1977	1978	21
+UD Las Palmas	Rayo Vallecano	1:0	1:1	12.02.1978	00:00	1977	1978	21
+Espanyol Barcelona	Burgos CF	1:1	4:1	12.02.1978	00:00	1977	1978	21
+Sevilla FC	Sporting GijÃ³n	1:1	1:2	12.02.1978	00:00	1977	1978	21
+Racing Santander	Real Sociedad	1:2	2:2	12.02.1978	00:00	1977	1978	21
+HÃ©rcules CF	Valencia CF	1:0	1:0	12.02.1978	00:00	1977	1978	21
+AtlÃ©tico Madrid	FC Barcelona	0:0	1:0	12.02.1978	00:00	1977	1978	21
+Athletic Bilbao	Real Madrid	0:0	2:0	12.02.1978	00:00	1977	1978	21
+UD Salamanca	Elche CF	0:0	1:0	12.02.1978	00:00	1977	1978	21
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	0:1	19.02.1978	00:00	1977	1978	22
+FC Barcelona	CÃ¡diz CF	0:0	1:1	19.02.1978	00:00	1977	1978	22
+Rayo Vallecano	UD Salamanca	0:0	3:3	19.02.1978	00:00	1977	1978	22
+Real Sociedad	HÃ©rcules CF	0:0	0:0	19.02.1978	00:00	1977	1978	22
+Real Betis	Racing Santander	2:1	3:1	19.02.1978	00:00	1977	1978	22
+Sporting GijÃ³n	Espanyol Barcelona	0:0	1:0	19.02.1978	00:00	1977	1978	22
+Elche CF	Sevilla FC	0:0	1:2	19.02.1978	00:00	1977	1978	22
+Burgos CF	Real Madrid	2:0	3:2	19.02.1978	00:00	1977	1978	22
+Valencia CF	UD Las Palmas	0:0	0:1	19.02.1978	00:00	1977	1978	22
+UD Las Palmas	Real Sociedad	1:0	1:1	26.02.1978	00:00	1977	1978	23
+Sevilla FC	Rayo Vallecano	0:0	2:0	26.02.1978	00:00	1977	1978	23
+Athletic Bilbao	Burgos CF	0:0	1:1	26.02.1978	00:00	1977	1978	23
+Espanyol Barcelona	Elche CF	1:0	3:1	26.02.1978	00:00	1977	1978	23
+HÃ©rcules CF	Real Betis	1:0	2:0	26.02.1978	00:00	1977	1978	23
+CÃ¡diz CF	AtlÃ©tico Madrid	2:0	2:1	26.02.1978	00:00	1977	1978	23
+UD Salamanca	Valencia CF	0:1	0:1	26.02.1978	00:00	1977	1978	23
+Racing Santander	FC Barcelona	0:0	0:0	26.02.1978	00:00	1977	1978	23
+Real Madrid	Sporting GijÃ³n	1:2	3:2	26.02.1978	00:00	1977	1978	23
+Real Sociedad	UD Salamanca	0:0	2:0	04.03.1978	00:00	1977	1978	24
+Rayo Vallecano	Espanyol Barcelona	1:0	1:1	05.03.1978	00:00	1977	1978	24
+FC Barcelona	HÃ©rcules CF	1:1	2:1	05.03.1978	00:00	1977	1978	24
+AtlÃ©tico Madrid	Racing Santander	0:0	3:0	05.03.1978	00:00	1977	1978	24
+Sporting GijÃ³n	Burgos CF	2:1	3:2	05.03.1978	00:00	1977	1978	24
+CÃ¡diz CF	Athletic Bilbao	1:0	2:1	05.03.1978	00:00	1977	1978	24
+Elche CF	Real Madrid	1:1	3:1	05.03.1978	00:00	1977	1978	24
+Real Betis	UD Las Palmas	1:1	1:2	05.03.1978	00:00	1977	1978	24
+Valencia CF	Sevilla FC	1:0	3:0	05.03.1978	00:00	1977	1978	24
+Sevilla FC	Real Sociedad	0:1	1:1	12.03.1978	00:00	1977	1978	25
+Real Madrid	Rayo Vallecano	3:1	5:2	12.03.1978	00:00	1977	1978	25
+Racing Santander	CÃ¡diz CF	2:0	3:0	12.03.1978	00:00	1977	1978	25
+Burgos CF	Elche CF	1:0	1:0	12.03.1978	00:00	1977	1978	25
+UD Salamanca	Real Betis	0:0	1:0	12.03.1978	00:00	1977	1978	25
+HÃ©rcules CF	AtlÃ©tico Madrid	0:0	1:0	12.03.1978	00:00	1977	1978	25
+Espanyol Barcelona	Valencia CF	1:2	2:2	12.03.1978	00:00	1977	1978	25
+UD Las Palmas	FC Barcelona	0:0	0:0	12.03.1978	00:00	1977	1978	25
+Athletic Bilbao	Sporting GijÃ³n	0:0	1:0	12.03.1978	00:00	1977	1978	25
+Real Sociedad	Espanyol Barcelona	0:0	1:1	18.03.1978	00:00	1977	1978	26
+Real Betis	Sevilla FC	3:2	3:2	19.03.1978	00:00	1977	1978	26
+Rayo Vallecano	Burgos CF	0:0	0:0	19.03.1978	00:00	1977	1978	26
+FC Barcelona	UD Salamanca	2:0	3:1	19.03.1978	00:00	1977	1978	26
+CÃ¡diz CF	HÃ©rcules CF	0:0	0:0	19.03.1978	00:00	1977	1978	26
+AtlÃ©tico Madrid	UD Las Palmas	1:0	2:1	19.03.1978	00:00	1977	1978	26
+Racing Santander	Athletic Bilbao	1:0	1:0	19.03.1978	00:00	1977	1978	26
+Valencia CF	Real Madrid	1:0	2:0	19.03.1978	00:00	1977	1978	26
+Elche CF	Sporting GijÃ³n	1:1	1:2	19.03.1978	00:00	1977	1978	26
+Real Madrid	Real Sociedad	1:0	5:0	26.03.1978	00:00	1977	1978	27
+Sporting GijÃ³n	Rayo Vallecano	0:1	1:1	26.03.1978	00:00	1977	1978	27
+UD Las Palmas	CÃ¡diz CF	1:0	2:1	26.03.1978	00:00	1977	1978	27
+Athletic Bilbao	Elche CF	1:0	4:1	26.03.1978	00:00	1977	1978	27
+Espanyol Barcelona	Real Betis	0:0	2:0	26.03.1978	00:00	1977	1978	27
+UD Salamanca	AtlÃ©tico Madrid	0:0	0:1	26.03.1978	00:00	1977	1978	27
+Burgos CF	Valencia CF	1:0	2:0	26.03.1978	00:00	1977	1978	27
+Sevilla FC	FC Barcelona	0:1	2:1	26.03.1978	00:00	1977	1978	27
+HÃ©rcules CF	Racing Santander	2:0	4:0	26.03.1978	00:00	1977	1978	27
+FC Barcelona	Espanyol Barcelona	1:1	1:1	01.04.1978	00:00	1977	1978	28
+Valencia CF	Sporting GijÃ³n	0:0	1:0	01.04.1978	00:00	1977	1978	28
+Racing Santander	UD Las Palmas	1:0	1:0	01.04.1978	00:00	1977	1978	28
+Rayo Vallecano	Elche CF	0:0	0:1	02.04.1978	00:00	1977	1978	28
+Real Betis	Real Madrid	1:0	4:2	02.04.1978	00:00	1977	1978	28
+Real Sociedad	Burgos CF	0:0	3:1	02.04.1978	00:00	1977	1978	28
+CÃ¡diz CF	UD Salamanca	0:0	0:1	02.04.1978	00:00	1977	1978	28
+AtlÃ©tico Madrid	Sevilla FC	0:0	1:0	02.04.1978	00:00	1977	1978	28
+HÃ©rcules CF	Athletic Bilbao	0:0	1:0	02.04.1978	00:00	1977	1978	28
+Sporting GijÃ³n	Real Sociedad	3:0	6:2	05.04.1978	00:00	1977	1978	29
+Athletic Bilbao	Rayo Vallecano	1:0	6:0	05.04.1978	00:00	1977	1978	29
+Sevilla FC	CÃ¡diz CF	0:0	1:0	05.04.1978	00:00	1977	1978	29
+UD Las Palmas	HÃ©rcules CF	0:0	0:1	05.04.1978	00:00	1977	1978	29
+Burgos CF	Real Betis	0:0	1:0	05.04.1978	00:00	1977	1978	29
+Espanyol Barcelona	AtlÃ©tico Madrid	0:3	1:3	05.04.1978	00:00	1977	1978	29
+Elche CF	Valencia CF	0:2	0:2	05.04.1978	00:00	1977	1978	29
+Real Madrid	FC Barcelona	2:0	4:0	05.04.1978	00:00	1977	1978	29
+UD Salamanca	Racing Santander	2:0	3:0	05.04.1978	00:00	1977	1978	29
+Valencia CF	Rayo Vallecano	2:0	7:0	08.04.1978	00:00	1977	1978	30
+FC Barcelona	Burgos CF	2:0	3:0	08.04.1978	00:00	1977	1978	30
+Racing Santander	Sevilla FC	0:0	1:1	09.04.1978	00:00	1977	1978	30
+CÃ¡diz CF	Espanyol Barcelona	2:2	2:4	09.04.1978	00:00	1977	1978	30
+Real Betis	Sporting GijÃ³n	0:1	1:1	09.04.1978	00:00	1977	1978	30
+HÃ©rcules CF	UD Salamanca	2:0	2:0	09.04.1978	00:00	1977	1978	30
+AtlÃ©tico Madrid	Real Madrid	0:0	1:3	09.04.1978	00:00	1977	1978	30
+UD Las Palmas	Athletic Bilbao	1:1	2:2	09.04.1978	00:00	1977	1978	30
+Real Sociedad	Elche CF	2:0	3:2	09.04.1978	00:00	1977	1978	30
+UD Salamanca	UD Las Palmas	0:0	0:0	15.04.1978	00:00	1977	1978	31
+Athletic Bilbao	Valencia CF	2:0	4:1	15.04.1978	00:00	1977	1978	31
+Burgos CF	AtlÃ©tico Madrid	2:2	2:2	16.04.1978	00:00	1977	1978	31
+Real Madrid	CÃ¡diz CF	2:0	2:0	16.04.1978	00:00	1977	1978	31
+Sevilla FC	HÃ©rcules CF	2:1	2:1	16.04.1978	00:00	1977	1978	31
+Espanyol Barcelona	Racing Santander	0:1	0:1	16.04.1978	00:00	1977	1978	31
+Rayo Vallecano	Real Sociedad	0:0	1:0	16.04.1978	00:00	1977	1978	31
+Sporting GijÃ³n	FC Barcelona	0:0	1:0	16.04.1978	00:00	1977	1978	31
+Elche CF	Real Betis	2:1	2:1	16.04.1978	00:00	1977	1978	31
+UD Las Palmas	Sevilla FC	1:0	2:0	23.04.1978	00:00	1977	1978	32
+AtlÃ©tico Madrid	Sporting GijÃ³n	4:0	5:1	23.04.1978	00:00	1977	1978	32
+FC Barcelona	Elche CF	3:1	5:1	23.04.1978	00:00	1977	1978	32
+Real Betis	Rayo Vallecano	0:0	1:0	23.04.1978	00:00	1977	1978	32
+HÃ©rcules CF	Espanyol Barcelona	0:1	1:1	23.04.1978	00:00	1977	1978	32
+UD Salamanca	Athletic Bilbao	0:2	0:3	23.04.1978	00:00	1977	1978	32
+Racing Santander	Real Madrid	0:0	1:0	23.04.1978	00:00	1977	1978	32
+CÃ¡diz CF	Burgos CF	0:0	4:0	23.04.1978	00:00	1977	1978	32
+Real Sociedad	Valencia CF	0:0	1:1	23.04.1978	00:00	1977	1978	32
+Burgos CF	Racing Santander	0:0	0:0	30.04.1978	00:00	1977	1978	33
+Sporting GijÃ³n	CÃ¡diz CF	0:0	3:0	30.04.1978	00:00	1977	1978	33
+Real Madrid	HÃ©rcules CF	2:0	3:0	30.04.1978	00:00	1977	1978	33
+Espanyol Barcelona	UD Las Palmas	0:0	0:1	30.04.1978	00:00	1977	1978	33
+Valencia CF	Real Betis	1:1	4:2	30.04.1978	00:00	1977	1978	33
+Elche CF	AtlÃ©tico Madrid	1:2	4:4	30.04.1978	00:00	1977	1978	33
+Real Sociedad	Athletic Bilbao	1:0	2:1	30.04.1978	00:00	1977	1978	33
+Rayo Vallecano	FC Barcelona	2:0	2:1	30.04.1978	00:00	1977	1978	33
+Sevilla FC	UD Salamanca	0:0	2:1	30.04.1978	00:00	1977	1978	33
+UD Las Palmas	Real Madrid	1:1	1:2	06.05.1978	00:00	1977	1978	34
+Athletic Bilbao	Sevilla FC	0:1	2:1	06.05.1978	00:00	1977	1978	34
+AtlÃ©tico Madrid	Rayo Vallecano	1:0	4:0	07.05.1978	00:00	1977	1978	34
+UD Salamanca	Espanyol Barcelona	1:0	1:0	07.05.1978	00:00	1977	1978	34
+FC Barcelona	Valencia CF	1:0	1:0	07.05.1978	00:00	1977	1978	34
+Real Betis	Real Sociedad	0:0	1:0	07.05.1978	00:00	1977	1978	34
+Racing Santander	Sporting GijÃ³n	1:0	1:0	07.05.1978	00:00	1977	1978	34
+CÃ¡diz CF	Elche CF	0:0	0:0	07.05.1978	00:00	1977	1978	34
+HÃ©rcules CF	Burgos CF	0:0	0:0	07.05.1978	00:00	1977	1978	34

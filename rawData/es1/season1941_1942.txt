@@ -1,0 +1,182 @@
+Athletic Bilbao	Espanyol Barcelona	0:2	2:4	28.09.1941	00:00	1941	1942	1
+Atletico Madrid	Valencia CF	2:0	3:0	28.09.1941	00:00	1941	1942	1
+Granada CF	Celta Vigo	0:1	1:1	28.09.1941	00:00	1941	1942	1
+Sevilla FC	Real Oviedo	5:0	10:0	28.09.1941	00:00	1941	1942	1
+FC Barcelona	HÃ©rcules CF	0:3	4:4	28.09.1941	00:00	1941	1942	1
+Deportivo La CoruÃ±a	CD CastellÃ³n	1:0	2:1	28.09.1941	00:00	1941	1942	1
+Real Sociedad	Real Madrid	2:1	2:3	28.09.1941	00:00	1941	1942	1
+Valencia CF	Real Sociedad	5:0	6:0	05.10.1941	00:00	1941	1942	2
+HÃ©rcules CF	Deportivo La CoruÃ±a	1:2	4:2	05.10.1941	00:00	1941	1942	2
+CD CastellÃ³n	Sevilla FC	0:1	1:1	05.10.1941	00:00	1941	1942	2
+Real Oviedo	Atletico Madrid	1:2	2:3	05.10.1941	00:00	1941	1942	2
+Celta Vigo	Athletic Bilbao	2:0	3:0	05.10.1941	00:00	1941	1942	2
+Espanyol Barcelona	FC Barcelona	2:0	5:2	05.10.1941	00:00	1941	1942	2
+Real Madrid	Granada CF	3:0	5:2	05.10.1941	00:00	1941	1942	2
+Athletic Bilbao	Real Madrid	1:0	1:0	12.10.1941	00:00	1941	1942	3
+Deportivo La CoruÃ±a	Espanyol Barcelona	1:0	2:0	12.10.1941	00:00	1941	1942	3
+Granada CF	Valencia CF	0:0	1:2	12.10.1941	00:00	1941	1942	3
+Atletico Madrid	Real Sociedad	2:1	4:1	12.10.1941	00:00	1941	1942	3
+FC Barcelona	Celta Vigo	0:0	0:2	12.10.1941	00:00	1941	1942	3
+Sevilla FC	HÃ©rcules CF	3:0	7:2	12.10.1941	00:00	1941	1942	3
+Real Oviedo	CD CastellÃ³n	3:1	4:4	12.10.1941	00:00	1941	1942	3
+Real Madrid	FC Barcelona	2:1	4:3	19.10.1941	00:00	1941	1942	4
+HÃ©rcules CF	Real Oviedo	2:0	4:1	19.10.1941	00:00	1941	1942	4
+Real Sociedad	Granada CF	1:1	1:1	19.10.1941	00:00	1941	1942	4
+Celta Vigo	Deportivo La CoruÃ±a	1:0	2:1	19.10.1941	00:00	1941	1942	4
+Valencia CF	Athletic Bilbao	0:0	1:1	19.10.1941	00:00	1941	1942	4
+Espanyol Barcelona	Sevilla FC	1:0	3:1	19.10.1941	00:00	1941	1942	4
+CD CastellÃ³n	Atletico Madrid	0:2	2:4	19.10.1941	00:00	1941	1942	4
+Atletico Madrid	Granada CF	3:0	3:0	26.10.1941	00:00	1941	1942	5
+Deportivo La CoruÃ±a	Real Madrid	1:0	1:0	26.10.1941	00:00	1941	1942	5
+Real Oviedo	Espanyol Barcelona	1:1	1:3	26.10.1941	00:00	1941	1942	5
+FC Barcelona	Valencia CF	1:3	2:4	26.10.1941	00:00	1941	1942	5
+Athletic Bilbao	Real Sociedad	1:0	4:1	26.10.1941	00:00	1941	1942	5
+Sevilla FC	Celta Vigo	0:2	2:2	26.10.1941	00:00	1941	1942	5
+CD CastellÃ³n	HÃ©rcules CF	2:0	4:0	26.10.1941	00:00	1941	1942	5
+Espanyol Barcelona	CD CastellÃ³n	0:0	2:3	02.11.1941	00:00	1941	1942	6
+Valencia CF	Deportivo La CoruÃ±a	2:0	2:0	02.11.1941	00:00	1941	1942	6
+Celta Vigo	Real Oviedo	2:1	2:1	02.11.1941	00:00	1941	1942	6
+Real Madrid	Sevilla FC	0:2	0:2	02.11.1941	00:00	1941	1942	6
+HÃ©rcules CF	Atletico Madrid	1:2	2:2	02.11.1941	00:00	1941	1942	6
+Real Sociedad	FC Barcelona	0:0	2:0	02.11.1941	00:00	1941	1942	6
+Granada CF	Athletic Bilbao	1:1	1:3	02.11.1941	00:00	1941	1942	6
+CD CastellÃ³n	Celta Vigo	0:2	0:3	09.11.1941	00:00	1941	1942	7
+HÃ©rcules CF	Espanyol Barcelona	1:1	1:1	09.11.1941	00:00	1941	1942	7
+FC Barcelona	Granada CF	2:0	4:0	09.11.1941	00:00	1941	1942	7
+Real Oviedo	Real Madrid	0:2	2:2	09.11.1941	00:00	1941	1942	7
+Deportivo La CoruÃ±a	Real Sociedad	3:0	3:0	09.11.1941	00:00	1941	1942	7
+Atletico Madrid	Athletic Bilbao	2:0	2:2	09.11.1941	00:00	1941	1942	7
+Sevilla FC	Valencia CF	1:0	4:1	09.11.1941	00:00	1941	1942	7
+Celta Vigo	HÃ©rcules CF	3:0	4:1	16.11.1941	00:00	1941	1942	8
+Real Madrid	CD CastellÃ³n	2:0	9:1	16.11.1941	00:00	1941	1942	8
+Granada CF	Deportivo La CoruÃ±a	1:1	4:1	16.11.1941	00:00	1941	1942	8
+Valencia CF	Real Oviedo	3:0	5:2	16.11.1941	00:00	1941	1942	8
+Real Sociedad	Sevilla FC	2:0	2:1	16.11.1941	00:00	1941	1942	8
+Espanyol Barcelona	Atletico Madrid	1:0	5:0	16.11.1941	00:00	1941	1942	8
+Athletic Bilbao	FC Barcelona	4:1	6:3	16.11.1941	00:00	1941	1942	8
+Atletico Madrid	FC Barcelona	1:1	5:4	23.11.1941	00:00	1941	1942	9
+Deportivo La CoruÃ±a	Athletic Bilbao	2:0	2:1	23.11.1941	00:00	1941	1942	9
+CD CastellÃ³n	Valencia CF	1:1	2:2	23.11.1941	00:00	1941	1942	9
+Real Oviedo	Real Sociedad	1:0	3:1	23.11.1941	00:00	1941	1942	9
+Espanyol Barcelona	Celta Vigo	2:0	3:1	23.11.1941	00:00	1941	1942	9
+Sevilla FC	Granada CF	3:0	3:0	23.11.1941	00:00	1941	1942	9
+HÃ©rcules CF	Real Madrid	0:0	1:2	23.11.1941	00:00	1941	1942	9
+FC Barcelona	Deportivo La CoruÃ±a	0:0	2:1	30.11.1941	00:00	1941	1942	10
+Granada CF	Real Oviedo	4:0	8:0	30.11.1941	00:00	1941	1942	10
+Valencia CF	HÃ©rcules CF	2:1	7:1	30.11.1941	00:00	1941	1942	10
+Celta Vigo	Atletico Madrid	0:0	0:2	30.11.1941	00:00	1941	1942	10
+Real Madrid	Espanyol Barcelona	1:0	1:1	30.11.1941	00:00	1941	1942	10
+Athletic Bilbao	Sevilla FC	1:0	1:1	30.11.1941	00:00	1941	1942	10
+Real Sociedad	CD CastellÃ³n	3:0	3:0	30.11.1941	00:00	1941	1942	10
+Celta Vigo	Real Madrid	1:1	2:4	07.12.1941	00:00	1941	1942	11
+Sevilla FC	FC Barcelona	0:0	1:2	07.12.1941	00:00	1941	1942	11
+Real Oviedo	Athletic Bilbao	2:1	2:1	07.12.1941	00:00	1941	1942	11
+Espanyol Barcelona	Valencia CF	0:1	0:1	07.12.1941	00:00	1941	1942	11
+HÃ©rcules CF	Real Sociedad	2:0	3:1	07.12.1941	00:00	1941	1942	11
+Atletico Madrid	Deportivo La CoruÃ±a	0:0	0:0	07.12.1941	00:00	1941	1942	11
+CD CastellÃ³n	Granada CF	0:1	3:2	07.12.1941	00:00	1941	1942	11
+Atletico Madrid	Real Madrid	0:0	2:0	14.12.1941	00:00	1941	1942	12
+Athletic Bilbao	CD CastellÃ³n	2:0	2:2	14.12.1941	00:00	1941	1942	12
+Granada CF	HÃ©rcules CF	4:0	7:2	14.12.1941	00:00	1941	1942	12
+FC Barcelona	Real Oviedo	3:1	6:3	14.12.1941	00:00	1941	1942	12
+Valencia CF	Celta Vigo	4:0	7:3	14.12.1941	00:00	1941	1942	12
+Real Sociedad	Espanyol Barcelona	0:0	1:2	14.12.1941	00:00	1941	1942	12
+Deportivo La CoruÃ±a	Sevilla FC	1:0	2:1	14.12.1941	00:00	1941	1942	12
+Espanyol Barcelona	Granada CF	0:0	1:1	21.12.1941	00:00	1941	1942	13
+CD CastellÃ³n	FC Barcelona	1:1	1:1	21.12.1941	00:00	1941	1942	13
+HÃ©rcules CF	Athletic Bilbao	1:1	3:1	21.12.1941	00:00	1941	1942	13
+Real Madrid	Valencia CF	2:2	5:3	21.12.1941	00:00	1941	1942	13
+Sevilla FC	Atletico Madrid	0:0	1:0	21.12.1941	00:00	1941	1942	13
+Celta Vigo	Real Sociedad	3:1	6:1	21.12.1941	00:00	1941	1942	13
+Real Oviedo	Deportivo La CoruÃ±a	1:0	1:1	21.12.1941	00:00	1941	1942	13
+Espanyol Barcelona	Athletic Bilbao	0:0	1:1	04.01.1942	00:00	1941	1942	14
+Valencia CF	Atletico Madrid	0:0	0:1	04.01.1942	00:00	1941	1942	14
+Real Oviedo	Sevilla FC	1:0	4:0	04.01.1942	00:00	1941	1942	14
+Real Madrid	Real Sociedad	4:1	6:4	04.01.1942	00:00	1941	1942	14
+CD CastellÃ³n	Deportivo La CoruÃ±a	0:0	1:0	04.01.1942	00:00	1941	1942	14
+Celta Vigo	Granada CF	2:2	3:3	04.01.1942	00:00	1941	1942	14
+HÃ©rcules CF	FC Barcelona	1:1	3:1	04.01.1942	00:00	1941	1942	14
+Atletico Madrid	Real Oviedo	0:0	0:2	11.01.1942	00:00	1941	1942	15
+Deportivo La CoruÃ±a	HÃ©rcules CF	2:1	3:1	11.01.1942	00:00	1941	1942	15
+Athletic Bilbao	Celta Vigo	3:0	10:0	11.01.1942	00:00	1941	1942	15
+Real Sociedad	Valencia CF	0:3	0:3	11.01.1942	00:00	1941	1942	15
+FC Barcelona	Espanyol Barcelona	0:1	1:2	11.01.1942	00:00	1941	1942	15
+Granada CF	Real Madrid	2:1	3:1	11.01.1942	00:00	1941	1942	15
+Sevilla FC	CD CastellÃ³n	2:1	4:1	11.01.1942	00:00	1941	1942	15
+Celta Vigo	FC Barcelona	1:0	1:0	18.01.1942	00:00	1941	1942	16
+Real Madrid	Athletic Bilbao	3:1	3:2	18.01.1942	00:00	1941	1942	16
+Real Sociedad	Atletico Madrid	0:0	1:2	18.01.1942	00:00	1941	1942	16
+HÃ©rcules CF	Sevilla FC	0:0	1:0	18.01.1942	00:00	1941	1942	16
+CD CastellÃ³n	Real Oviedo	2:0	4:0	18.01.1942	00:00	1941	1942	16
+Espanyol Barcelona	Deportivo La CoruÃ±a	1:2	1:2	18.01.1942	00:00	1941	1942	16
+Valencia CF	Granada CF	4:0	5:0	18.01.1942	00:00	1941	1942	16
+FC Barcelona	Real Madrid	0:0	0:2	25.01.1942	00:00	1941	1942	17
+Deportivo La CoruÃ±a	Celta Vigo	3:0	4:0	25.01.1942	00:00	1941	1942	17
+Atletico Madrid	CD CastellÃ³n	3:1	4:4	25.01.1942	00:00	1941	1942	17
+Real Oviedo	HÃ©rcules CF	1:0	2:0	25.01.1942	00:00	1941	1942	17
+Sevilla FC	Espanyol Barcelona	1:0	6:0	25.01.1942	00:00	1941	1942	17
+Granada CF	Real Sociedad	3:1	3:1	25.01.1942	00:00	1941	1942	17
+Athletic Bilbao	Valencia CF	1:1	2:3	25.01.1942	00:00	1941	1942	17
+HÃ©rcules CF	CD CastellÃ³n	0:0	0:1	01.02.1942	00:00	1941	1942	18
+Valencia CF	FC Barcelona	2:1	4:2	01.02.1942	00:00	1941	1942	18
+Real Sociedad	Athletic Bilbao	0:1	0:1	01.02.1942	00:00	1941	1942	18
+Granada CF	Atletico Madrid	0:0	0:1	01.02.1942	00:00	1941	1942	18
+Celta Vigo	Sevilla FC	1:0	1:1	01.02.1942	00:00	1941	1942	18
+Espanyol Barcelona	Real Oviedo	0:0	1:1	01.02.1942	00:00	1941	1942	18
+Real Madrid	Deportivo La CoruÃ±a	1:0	3:0	01.02.1942	00:00	1941	1942	18
+Athletic Bilbao	Granada CF	0:0	1:0	08.02.1942	00:00	1941	1942	19
+Atletico Madrid	HÃ©rcules CF	2:1	5:1	08.02.1942	00:00	1941	1942	19
+Real Oviedo	Celta Vigo	1:1	2:1	08.02.1942	00:00	1941	1942	19
+FC Barcelona	Real Sociedad	2:2	4:2	08.02.1942	00:00	1941	1942	19
+Deportivo La CoruÃ±a	Valencia CF	0:2	0:3	08.02.1942	00:00	1941	1942	19
+Sevilla FC	Real Madrid	1:0	2:2	08.02.1942	00:00	1941	1942	19
+CD CastellÃ³n	Espanyol Barcelona	0:0	2:0	08.02.1942	00:00	1941	1942	19
+Valencia CF	Sevilla FC	3:1	8:1	15.02.1942	00:00	1941	1942	20
+Celta Vigo	CD CastellÃ³n	1:1	1:2	15.02.1942	00:00	1941	1942	20
+Espanyol Barcelona	HÃ©rcules CF	2:0	2:0	15.02.1942	00:00	1941	1942	20
+Real Sociedad	Deportivo La CoruÃ±a	1:1	3:2	15.02.1942	00:00	1941	1942	20
+Athletic Bilbao	Atletico Madrid	2:0	6:0	15.02.1942	00:00	1941	1942	20
+Granada CF	FC Barcelona	2:0	6:0	15.02.1942	00:00	1941	1942	20
+Real Madrid	Real Oviedo	0:0	1:1	15.02.1942	00:00	1941	1942	20
+Deportivo La CoruÃ±a	Granada CF	0:3	1:4	22.02.1942	00:00	1941	1942	21
+HÃ©rcules CF	Celta Vigo	1:1	1:3	22.02.1942	00:00	1941	1942	21
+Sevilla FC	Real Sociedad	0:0	1:0	22.02.1942	00:00	1941	1942	21
+Real Oviedo	Valencia CF	1:1	1:1	22.02.1942	00:00	1941	1942	21
+Atletico Madrid	Espanyol Barcelona	1:0	2:0	22.02.1942	00:00	1941	1942	21
+FC Barcelona	Athletic Bilbao	0:2	1:2	22.02.1942	00:00	1941	1942	21
+CD CastellÃ³n	Real Madrid	0:2	0:3	24.02.1942	00:00	1941	1942	21
+FC Barcelona	Atletico Madrid	4:1	5:1	01.03.1942	00:00	1941	1942	22
+Granada CF	Sevilla FC	3:0	3:2	01.03.1942	00:00	1941	1942	22
+Real Sociedad	Real Oviedo	0:2	0:3	01.03.1942	00:00	1941	1942	22
+Athletic Bilbao	Deportivo La CoruÃ±a	0:0	0:0	01.03.1942	00:00	1941	1942	22
+Real Madrid	HÃ©rcules CF	1:1	2:1	01.03.1942	00:00	1941	1942	22
+Valencia CF	CD CastellÃ³n	3:1	6:2	01.03.1942	00:00	1941	1942	22
+Celta Vigo	Espanyol Barcelona	2:2	4:3	01.03.1942	00:00	1941	1942	22
+Atletico Madrid	Celta Vigo	1:0	2:0	08.03.1942	00:00	1941	1942	23
+HÃ©rcules CF	Valencia CF	1:1	1:3	08.03.1942	00:00	1941	1942	23
+Real Oviedo	Granada CF	1:1	3:1	08.03.1942	00:00	1941	1942	23
+Deportivo La CoruÃ±a	FC Barcelona	0:0	1:0	08.03.1942	00:00	1941	1942	23
+Espanyol Barcelona	Real Madrid	0:0	0:0	08.03.1942	00:00	1941	1942	23
+Sevilla FC	Athletic Bilbao	1:1	2:1	08.03.1942	00:00	1941	1942	23
+CD CastellÃ³n	Real Sociedad	2:0	5:0	09.03.1942	00:00	1941	1942	23
+Valencia CF	Espanyol Barcelona	2:0	2:1	22.03.1942	00:00	1941	1942	24
+Deportivo La CoruÃ±a	Atletico Madrid	0:1	2:1	22.03.1942	00:00	1941	1942	24
+FC Barcelona	Sevilla FC	2:2	6:2	22.03.1942	00:00	1941	1942	24
+Real Madrid	Celta Vigo	1:1	2:3	22.03.1942	00:00	1941	1942	24
+Athletic Bilbao	Real Oviedo	2:0	2:0	22.03.1942	00:00	1941	1942	24
+Real Sociedad	HÃ©rcules CF	1:1	2:1	22.03.1942	00:00	1941	1942	24
+Granada CF	CD CastellÃ³n	4:1	7:3	22.03.1942	00:00	1941	1942	24
+Real Oviedo	FC Barcelona	1:0	1:1	29.03.1942	00:00	1941	1942	25
+HÃ©rcules CF	Granada CF	0:1	2:2	29.03.1942	00:00	1941	1942	25
+Sevilla FC	Deportivo La CoruÃ±a	2:1	2:2	29.03.1942	00:00	1941	1942	25
+Espanyol Barcelona	Real Sociedad	4:0	8:0	29.03.1942	00:00	1941	1942	25
+Real Madrid	Atletico Madrid	3:1	4:1	29.03.1942	00:00	1941	1942	25
+CD CastellÃ³n	Athletic Bilbao	0:0	4:0	29.03.1942	00:00	1941	1942	25
+Celta Vigo	Valencia CF	2:2	3:3	29.03.1942	00:00	1941	1942	25
+FC Barcelona	CD CastellÃ³n	0:0	3:1	05.04.1942	00:00	1941	1942	26
+Valencia CF	Real Madrid	2:1	3:1	05.04.1942	00:00	1941	1942	26
+Granada CF	Espanyol Barcelona	1:0	4:0	05.04.1942	00:00	1941	1942	26
+Atletico Madrid	Sevilla FC	0:0	0:0	05.04.1942	00:00	1941	1942	26
+Real Sociedad	Celta Vigo	2:0	2:2	05.04.1942	00:00	1941	1942	26
+Deportivo La CoruÃ±a	Real Oviedo	0:0	1:0	05.04.1942	00:00	1941	1942	26
+Athletic Bilbao	HÃ©rcules CF	1:0	2:2	05.04.1942	00:00	1941	1942	26

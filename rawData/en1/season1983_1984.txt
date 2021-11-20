@@ -1,0 +1,462 @@
+Arsenal FC	Luton Town	1:1	2:1	27.08.1983	00:00	1983	1984	1
+West Ham United	Birmingham City	3:0	4:0	27.08.1983	00:00	1983	1984	1
+Watford FC	Coventry City	0:1	2:3	27.08.1983	00:00	1983	1984	1
+Sunderland AFC	Norwich City	0:0	1:1	27.08.1983	00:00	1983	1984	1
+Nottingham Forest	Southampton FC	0:0	0:1	27.08.1983	00:00	1983	1984	1
+Manchester United	Queens Park Rangers	2:0	3:1	27.08.1983	00:00	1983	1984	1
+Leicester City	Notts County	0:2	0:4	27.08.1983	00:00	1983	1984	1
+Ipswich Town	Tottenham Hotspur	1:0	3:1	27.08.1983	00:00	1983	1984	1
+Everton FC	Stoke City	1:0	1:0	27.08.1983	00:00	1983	1984	1
+Aston Villa	West Bromwich Albion	3:3	4:3	27.08.1983	00:00	1983	1984	1
+Wolverhampton Wanderers	Liverpool FC	1:0	1:1	27.08.1983	00:00	1983	1984	1
+Aston Villa	Sunderland AFC	0:0	1:0	29.08.1983	00:00	1983	1984	2
+Wolverhampton Wanderers	Arsenal FC	1:1	1:2	29.08.1983	00:00	1983	1984	2
+Tottenham Hotspur	Coventry City	1:0	1:1	29.08.1983	00:00	1983	1984	2
+Stoke City	West Bromwich Albion	2:1	3:1	29.08.1983	00:00	1983	1984	2
+Southampton FC	Queens Park Rangers	0:0	0:0	29.08.1983	00:00	1983	1984	2
+Manchester United	Nottingham Forest	1:0	1:2	29.08.1983	00:00	1983	1984	2
+Everton FC	West Ham United	0:0	0:1	29.08.1983	00:00	1983	1984	2
+Notts County	Birmingham City	1:1	2:1	30.08.1983	00:00	1983	1984	2
+Watford FC	Ipswich Town	2:2	2:2	30.08.1983	00:00	1983	1984	2
+Leicester City	Luton Town	0:2	0:3	31.08.1983	00:00	1983	1984	2
+Norwich City	Liverpool FC	0:1	0:1	31.08.1983	00:00	1983	1984	2
+Birmingham City	Watford FC	1:0	2:0	03.09.1983	00:00	1983	1984	3
+Tottenham Hotspur	West Ham United	0:2	0:2	03.09.1983	00:00	1983	1984	3
+Stoke City	Manchester United	0:0	0:1	03.09.1983	00:00	1983	1984	3
+Southampton FC	Arsenal FC	0:0	1:0	03.09.1983	00:00	1983	1984	3
+Queens Park Rangers	Aston Villa	1:0	2:1	03.09.1983	00:00	1983	1984	3
+Notts County	Ipswich Town	0:0	0:2	03.09.1983	00:00	1983	1984	3
+Norwich City	Wolverhampton Wanderers	2:0	3:0	03.09.1983	00:00	1983	1984	3
+Luton Town	Sunderland AFC	0:0	4:1	03.09.1983	00:00	1983	1984	3
+Liverpool FC	Nottingham Forest	0:0	1:0	03.09.1983	00:00	1983	1984	3
+Coventry City	Everton FC	1:1	1:1	03.09.1983	00:00	1983	1984	3
+West Bromwich Albion	Leicester City	1:0	1:0	03.09.1983	00:00	1983	1984	3
+Arsenal FC	Manchester United	1:3	2:3	06.09.1983	00:00	1983	1984	4
+West Ham United	Leicester City	1:1	3:1	06.09.1983	00:00	1983	1984	4
+Queens Park Rangers	Watford FC	1:1	1:1	06.09.1983	00:00	1983	1984	4
+Luton Town	Norwich City	0:2	2:2	06.09.1983	00:00	1983	1984	4
+Liverpool FC	Southampton FC	0:0	1:1	06.09.1983	00:00	1983	1984	4
+Ipswich Town	Everton FC	0:0	3:0	06.09.1983	00:00	1983	1984	4
+Coventry City	Notts County	0:1	2:1	06.09.1983	00:00	1983	1984	4
+Birmingham City	Stoke City	1:0	1:0	06.09.1983	00:00	1983	1984	4
+Nottingham Forest	Aston Villa	1:1	2:2	07.09.1983	00:00	1983	1984	4
+Sunderland AFC	Wolverhampton Wanderers	1:0	3:2	07.09.1983	00:00	1983	1984	4
+West Bromwich Albion	Tottenham Hotspur	0:1	1:1	07.09.1983	00:00	1983	1984	4
+Arsenal FC	Liverpool FC	0:1	0:2	10.09.1983	00:00	1983	1984	5
+West Ham United	Coventry City	3:2	5:2	10.09.1983	00:00	1983	1984	5
+Watford FC	Notts County	2:1	3:1	10.09.1983	00:00	1983	1984	5
+Sunderland AFC	Southampton FC	0:1	0:2	10.09.1983	00:00	1983	1984	5
+Nottingham Forest	Queens Park Rangers	2:1	3:2	10.09.1983	00:00	1983	1984	5
+Manchester United	Luton Town	0:0	2:0	10.09.1983	00:00	1983	1984	5
+Leicester City	Tottenham Hotspur	0:2	0:3	10.09.1983	00:00	1983	1984	5
+Ipswich Town	Stoke City	3:0	5:0	10.09.1983	00:00	1983	1984	5
+Everton FC	West Bromwich Albion	0:0	0:0	10.09.1983	00:00	1983	1984	5
+Aston Villa	Norwich City	1:0	1:0	10.09.1983	00:00	1983	1984	5
+Wolverhampton Wanderers	Birmingham City	1:1	1:1	10.09.1983	00:00	1983	1984	5
+Birmingham City	Ipswich Town	0:0	1:0	17.09.1983	00:00	1983	1984	6
+Tottenham Hotspur	Everton FC	0:2	1:2	17.09.1983	00:00	1983	1984	6
+Stoke City	Watford FC	0:1	0:4	17.09.1983	00:00	1983	1984	6
+Southampton FC	Manchester United	2:0	3:0	17.09.1983	00:00	1983	1984	6
+Queens Park Rangers	Sunderland AFC	1:0	3:0	17.09.1983	00:00	1983	1984	6
+Notts County	Arsenal FC	0:2	0:4	17.09.1983	00:00	1983	1984	6
+Norwich City	Nottingham Forest	2:2	2:3	17.09.1983	00:00	1983	1984	6
+Luton Town	Wolverhampton Wanderers	1:0	4:0	17.09.1983	00:00	1983	1984	6
+Liverpool FC	Aston Villa	0:0	2:1	17.09.1983	00:00	1983	1984	6
+Coventry City	Leicester City	1:0	2:1	17.09.1983	00:00	1983	1984	6
+West Bromwich Albion	West Ham United	0:0	1:0	17.09.1983	00:00	1983	1984	6
+Arsenal FC	Norwich City	1:0	3:0	24.09.1983	00:00	1983	1984	7
+West Ham United	Notts County	1:0	3:0	24.09.1983	00:00	1983	1984	7
+Watford FC	Tottenham Hotspur	1:0	2:3	24.09.1983	00:00	1983	1984	7
+Sunderland AFC	Coventry City	0:0	1:0	24.09.1983	00:00	1983	1984	7
+Nottingham Forest	Luton Town	0:0	1:0	24.09.1983	00:00	1983	1984	7
+Manchester United	Liverpool FC	0:0	1:0	24.09.1983	00:00	1983	1984	7
+Leicester City	Stoke City	2:2	2:2	24.09.1983	00:00	1983	1984	7
+Ipswich Town	West Bromwich Albion	2:2	3:4	24.09.1983	00:00	1983	1984	7
+Everton FC	Birmingham City	0:1	1:1	24.09.1983	00:00	1983	1984	7
+Aston Villa	Southampton FC	1:0	1:0	24.09.1983	00:00	1983	1984	7
+Wolverhampton Wanderers	Queens Park Rangers	0:3	0:4	24.09.1983	00:00	1983	1984	7
+Birmingham City	Leicester City	2:0	2:1	01.10.1983	00:00	1983	1984	8
+West Bromwich Albion	Watford FC	2:0	2:0	01.10.1983	00:00	1983	1984	8
+Stoke City	West Ham United	1:0	3:1	01.10.1983	00:00	1983	1984	8
+Southampton FC	Wolverhampton Wanderers	0:0	1:0	01.10.1983	00:00	1983	1984	8
+Queens Park Rangers	Arsenal FC	1:0	2:0	01.10.1983	00:00	1983	1984	8
+Notts County	Everton FC	0:1	0:1	01.10.1983	00:00	1983	1984	8
+Norwich City	Manchester United	0:1	3:3	01.10.1983	00:00	1983	1984	8
+Luton Town	Aston Villa	0:0	1:0	01.10.1983	00:00	1983	1984	8
+Liverpool FC	Sunderland AFC	0:1	0:1	01.10.1983	00:00	1983	1984	8
+Coventry City	Ipswich Town	0:2	1:2	01.10.1983	00:00	1983	1984	8
+Tottenham Hotspur	Nottingham Forest	0:1	2:1	02.10.1983	00:00	1983	1984	8
+Arsenal FC	Coventry City	0:0	0:1	15.10.1983	00:00	1983	1984	9
+Wolverhampton Wanderers	Tottenham Hotspur	1:2	2:3	15.10.1983	00:00	1983	1984	9
+West Ham United	Liverpool FC	0:2	1:3	15.10.1983	00:00	1983	1984	9
+Watford FC	Norwich City	0:0	1:3	15.10.1983	00:00	1983	1984	9
+Sunderland AFC	Stoke City	1:1	2:2	15.10.1983	00:00	1983	1984	9
+Manchester United	West Bromwich Albion	2:0	3:0	15.10.1983	00:00	1983	1984	9
+Ipswich Town	Queens Park Rangers	0:1	0:2	15.10.1983	00:00	1983	1984	9
+Everton FC	Luton Town	0:0	0:1	15.10.1983	00:00	1983	1984	9
+Aston Villa	Birmingham City	1:0	1:0	15.10.1983	00:00	1983	1984	9
+Nottingham Forest	Notts County	3:1	3:1	16.10.1983	00:00	1983	1984	9
+Leicester City	Southampton FC	1:0	2:1	30.11.1983	00:00	1983	1984	9
+Luton Town	Southampton FC	2:0	3:1	22.10.1983	00:00	1983	1984	10
+Arsenal FC	Nottingham Forest	2:0	4:1	22.10.1983	00:00	1983	1984	10
+West Ham United	Norwich City	0:0	0:0	22.10.1983	00:00	1983	1984	10
+Sunderland AFC	Manchester United	0:1	0:1	22.10.1983	00:00	1983	1984	10
+Queens Park Rangers	Liverpool FC	0:0	0:1	22.10.1983	00:00	1983	1984	10
+Notts County	Stoke City	0:0	1:1	22.10.1983	00:00	1983	1984	10
+Ipswich Town	Leicester City	0:0	0:0	22.10.1983	00:00	1983	1984	10
+Everton FC	Watford FC	1:0	1:0	22.10.1983	00:00	1983	1984	10
+Coventry City	West Bromwich Albion	0:1	1:2	22.10.1983	00:00	1983	1984	10
+Birmingham City	Tottenham Hotspur	0:0	0:1	22.10.1983	00:00	1983	1984	10
+Wolverhampton Wanderers	Aston Villa	0:1	1:1	23.10.1983	00:00	1983	1984	10
+Watford FC	West Ham United	0:0	0:0	28.10.1983	00:00	1983	1984	11
+West Bromwich Albion	Birmingham City	0:1	1:2	29.10.1983	00:00	1983	1984	11
+Tottenham Hotspur	Notts County	0:0	1:0	29.10.1983	00:00	1983	1984	11
+Stoke City	Coventry City	1:2	1:3	29.10.1983	00:00	1983	1984	11
+Southampton FC	Ipswich Town	1:2	3:2	29.10.1983	00:00	1983	1984	11
+Nottingham Forest	Sunderland AFC	1:0	1:1	29.10.1983	00:00	1983	1984	11
+Manchester United	Wolverhampton Wanderers	3:0	3:0	29.10.1983	00:00	1983	1984	11
+Liverpool FC	Luton Town	4:0	6:0	29.10.1983	00:00	1983	1984	11
+Leicester City	Everton FC	2:0	2:0	29.10.1983	00:00	1983	1984	11
+Aston Villa	Arsenal FC	1:4	2:6	29.10.1983	00:00	1983	1984	11
+Norwich City	Queens Park Rangers	0:2	0:3	29.10.1983	00:00	1983	1984	11
+Norwich City	Southampton FC	0:0	1:0	05.11.1983	00:00	1983	1984	12
+West Ham United	Ipswich Town	2:1	2:1	05.11.1983	00:00	1983	1984	12
+West Bromwich Albion	Notts County	1:0	2:0	05.11.1983	00:00	1983	1984	12
+Watford FC	Leicester City	2:1	3:3	05.11.1983	00:00	1983	1984	12
+Stoke City	Tottenham Hotspur	1:1	1:1	05.11.1983	00:00	1983	1984	12
+Queens Park Rangers	Luton Town	0:1	0:1	05.11.1983	00:00	1983	1984	12
+Nottingham Forest	Wolverhampton Wanderers	2:0	5:0	05.11.1983	00:00	1983	1984	12
+Manchester United	Aston Villa	0:1	1:2	05.11.1983	00:00	1983	1984	12
+Birmingham City	Coventry City	1:1	1:2	05.11.1983	00:00	1983	1984	12
+Arsenal FC	Sunderland AFC	0:1	1:2	05.11.1983	00:00	1983	1984	12
+Liverpool FC	Everton FC	1:0	3:0	06.11.1983	00:00	1983	1984	12
+Southampton FC	West Bromwich Albion	1:0	1:0	12.11.1983	00:00	1983	1984	13
+Aston Villa	Stoke City	0:1	1:1	12.11.1983	00:00	1983	1984	13
+Wolverhampton Wanderers	West Ham United	0:1	0:3	12.11.1983	00:00	1983	1984	13
+Tottenham Hotspur	Liverpool FC	1:1	2:2	12.11.1983	00:00	1983	1984	13
+Sunderland AFC	Watford FC	1:0	3:0	12.11.1983	00:00	1983	1984	13
+Notts County	Norwich City	1:1	1:1	12.11.1983	00:00	1983	1984	13
+Luton Town	Birmingham City	1:1	1:1	12.11.1983	00:00	1983	1984	13
+Leicester City	Manchester United	0:1	1:1	12.11.1983	00:00	1983	1984	13
+Ipswich Town	Arsenal FC	0:0	1:0	12.11.1983	00:00	1983	1984	13
+Everton FC	Nottingham Forest	1:0	1:0	12.11.1983	00:00	1983	1984	13
+Coventry City	Queens Park Rangers	1:0	1:0	12.11.1983	00:00	1983	1984	13
+Southampton FC	Notts County	0:1	0:2	19.11.1983	00:00	1983	1984	14
+Arsenal FC	Everton FC	2:1	2:1	19.11.1983	00:00	1983	1984	14
+Wolverhampton Wanderers	Coventry City	0:0	0:0	19.11.1983	00:00	1983	1984	14
+Sunderland AFC	West Ham United	0:0	0:1	19.11.1983	00:00	1983	1984	14
+Queens Park Rangers	Birmingham City	0:0	2:1	19.11.1983	00:00	1983	1984	14
+Nottingham Forest	Ipswich Town	0:0	2:1	19.11.1983	00:00	1983	1984	14
+Manchester United	Watford FC	2:0	4:1	19.11.1983	00:00	1983	1984	14
+Luton Town	Tottenham Hotspur	0:1	2:4	19.11.1983	00:00	1983	1984	14
+Liverpool FC	Stoke City	0:0	1:0	19.11.1983	00:00	1983	1984	14
+Aston Villa	Leicester City	2:1	3:1	19.11.1983	00:00	1983	1984	14
+Norwich City	West Bromwich Albion	0:0	2:0	19.11.1983	00:00	1983	1984	14
+Coventry City	Southampton FC	0:0	0:0	26.11.1983	00:00	1983	1984	15
+West Bromwich Albion	Wolverhampton Wanderers	0:0	1:3	26.11.1983	00:00	1983	1984	15
+Watford FC	Luton Town	1:1	1:2	26.11.1983	00:00	1983	1984	15
+Tottenham Hotspur	Queens Park Rangers	1:1	3:2	26.11.1983	00:00	1983	1984	15
+Stoke City	Nottingham Forest	1:1	1:1	26.11.1983	00:00	1983	1984	15
+Notts County	Aston Villa	2:0	5:2	26.11.1983	00:00	1983	1984	15
+Leicester City	Arsenal FC	2:0	3:0	26.11.1983	00:00	1983	1984	15
+Ipswich Town	Liverpool FC	0:0	1:1	26.11.1983	00:00	1983	1984	15
+Everton FC	Norwich City	0:0	0:2	26.11.1983	00:00	1983	1984	15
+Birmingham City	Sunderland AFC	0:0	0:1	26.11.1983	00:00	1983	1984	15
+West Ham United	Manchester United	0:0	1:1	27.11.1983	00:00	1983	1984	15
+Sunderland AFC	Ipswich Town	1:1	1:1	03.12.1983	00:00	1983	1984	16
+Southampton FC	Stoke City	2:1	3:1	03.12.1983	00:00	1983	1984	16
+Queens Park Rangers	Notts County	1:0	1:0	03.12.1983	00:00	1983	1984	16
+Norwich City	Tottenham Hotspur	1:1	2:1	03.12.1983	00:00	1983	1984	16
+Manchester United	Everton FC	0:0	0:1	03.12.1983	00:00	1983	1984	16
+Luton Town	Coventry City	0:2	2:4	03.12.1983	00:00	1983	1984	16
+Liverpool FC	Birmingham City	0:0	1:0	03.12.1983	00:00	1983	1984	16
+Aston Villa	West Ham United	0:0	1:0	03.12.1983	00:00	1983	1984	16
+Arsenal FC	West Bromwich Albion	0:0	0:1	03.12.1983	00:00	1983	1984	16
+Wolverhampton Wanderers	Watford FC	0:3	0:5	03.12.1983	00:00	1983	1984	16
+Nottingham Forest	Leicester City	2:0	3:2	04.12.1983	00:00	1983	1984	16
+West Bromwich Albion	Queens Park Rangers	0:1	1:2	10.12.1983	00:00	1983	1984	17
+Watford FC	Nottingham Forest	3:1	3:2	10.12.1983	00:00	1983	1984	17
+Tottenham Hotspur	Southampton FC	0:0	0:0	10.12.1983	00:00	1983	1984	17
+Stoke City	Luton Town	1:2	2:4	10.12.1983	00:00	1983	1984	17
+Notts County	Sunderland AFC	3:1	6:1	10.12.1983	00:00	1983	1984	17
+Ipswich Town	Manchester United	0:1	0:2	10.12.1983	00:00	1983	1984	17
+Everton FC	Aston Villa	0:0	1:1	10.12.1983	00:00	1983	1984	17
+Coventry City	Liverpool FC	3:0	4:0	10.12.1983	00:00	1983	1984	17
+West Ham United	Arsenal FC	1:0	3:1	10.12.1983	00:00	1983	1984	17
+Birmingham City	Norwich City	0:1	0:1	10.12.1983	00:00	1983	1984	17
+Leicester City	Wolverhampton Wanderers	4:1	5:1	10.12.1983	00:00	1983	1984	17
+Manchester United	Tottenham Hotspur	1:0	4:2	16.12.1983	00:00	1983	1984	18
+Wolverhampton Wanderers	Stoke City	0:0	0:0	17.12.1983	00:00	1983	1984	18
+Southampton FC	Birmingham City	1:1	2:1	17.12.1983	00:00	1983	1984	18
+Queens Park Rangers	Everton FC	1:0	2:0	17.12.1983	00:00	1983	1984	18
+Nottingham Forest	West Ham United	1:0	3:0	17.12.1983	00:00	1983	1984	18
+Liverpool FC	Notts County	3:0	5:0	17.12.1983	00:00	1983	1984	18
+Aston Villa	Ipswich Town	1:0	4:0	17.12.1983	00:00	1983	1984	18
+Arsenal FC	Watford FC	1:0	3:1	17.12.1983	00:00	1983	1984	18
+Norwich City	Coventry City	0:0	0:0	17.12.1983	00:00	1983	1984	18
+Luton Town	West Bromwich Albion	1:0	2:0	18.12.1983	00:00	1983	1984	18
+Sunderland AFC	Leicester City	0:0	1:1	18.12.1983	00:00	1983	1984	18
+West Bromwich Albion	Liverpool FC	0:1	1:2	26.12.1983	00:00	1983	1984	19
+Watford FC	Aston Villa	2:0	3:2	26.12.1983	00:00	1983	1984	19
+Tottenham Hotspur	Arsenal FC	1:1	2:4	26.12.1983	00:00	1983	1984	19
+Stoke City	Norwich City	1:0	2:0	26.12.1983	00:00	1983	1984	19
+Notts County	Luton Town	0:1	0:3	26.12.1983	00:00	1983	1984	19
+Ipswich Town	Wolverhampton Wanderers	1:0	3:1	26.12.1983	00:00	1983	1984	19
+Everton FC	Sunderland AFC	0:0	0:0	26.12.1983	00:00	1983	1984	19
+Coventry City	Manchester United	1:1	1:1	26.12.1983	00:00	1983	1984	19
+Birmingham City	Nottingham Forest	1:0	1:2	26.12.1983	00:00	1983	1984	19
+West Ham United	Southampton FC	0:0	0:1	26.12.1983	00:00	1983	1984	19
+Leicester City	Queens Park Rangers	1:0	2:1	26.12.1983	00:00	1983	1984	19
+Wolverhampton Wanderers	Everton FC	1:0	3:0	27.12.1983	00:00	1983	1984	20
+Sunderland AFC	West Bromwich Albion	2:0	3:0	27.12.1983	00:00	1983	1984	20
+Southampton FC	Watford FC	1:0	1:0	27.12.1983	00:00	1983	1984	20
+Norwich City	Ipswich Town	0:0	0:0	27.12.1983	00:00	1983	1984	20
+Manchester United	Notts County	0:0	3:3	27.12.1983	00:00	1983	1984	20
+Luton Town	West Ham United	0:0	0:1	27.12.1983	00:00	1983	1984	20
+Aston Villa	Tottenham Hotspur	0:0	0:0	27.12.1983	00:00	1983	1984	20
+Arsenal FC	Birmingham City	0:0	1:1	27.12.1983	00:00	1983	1984	20
+Liverpool FC	Leicester City	0:1	2:2	27.12.1983	00:00	1983	1984	20
+Nottingham Forest	Coventry City	1:0	3:0	28.12.1983	00:00	1983	1984	20
+Queens Park Rangers	Stoke City	3:0	6:0	17.01.1984	00:00	1983	1984	20
+West Ham United	Tottenham Hotspur	1:1	4:1	31.12.1983	00:00	1983	1984	21
+Watford FC	Birmingham City	0:0	1:0	31.12.1983	00:00	1983	1984	21
+Sunderland AFC	Luton Town	0:0	2:0	31.12.1983	00:00	1983	1984	21
+Nottingham Forest	Liverpool FC	0:1	0:1	31.12.1983	00:00	1983	1984	21
+Manchester United	Stoke City	0:0	1:0	31.12.1983	00:00	1983	1984	21
+Ipswich Town	Notts County	1:0	1:0	31.12.1983	00:00	1983	1984	21
+Everton FC	Coventry City	0:0	0:0	31.12.1983	00:00	1983	1984	21
+Aston Villa	Queens Park Rangers	0:0	2:1	31.12.1983	00:00	1983	1984	21
+Arsenal FC	Southampton FC	1:0	2:2	31.12.1983	00:00	1983	1984	21
+Wolverhampton Wanderers	Norwich City	0:0	2:0	31.12.1983	00:00	1983	1984	21
+Leicester City	West Bromwich Albion	0:0	1:1	31.12.1983	00:00	1983	1984	21
+Tottenham Hotspur	Watford FC	0:2	2:3	02.01.1984	00:00	1983	1984	22
+Southampton FC	Aston Villa	0:1	2:2	02.01.1984	00:00	1983	1984	22
+Queens Park Rangers	Wolverhampton Wanderers	0:0	2:1	02.01.1984	00:00	1983	1984	22
+Notts County	West Ham United	1:2	2:2	02.01.1984	00:00	1983	1984	22
+Norwich City	Arsenal FC	0:0	1:1	02.01.1984	00:00	1983	1984	22
+Luton Town	Nottingham Forest	1:3	2:3	02.01.1984	00:00	1983	1984	22
+Liverpool FC	Manchester United	1:0	1:1	02.01.1984	00:00	1983	1984	22
+Coventry City	Sunderland AFC	2:0	2:1	02.01.1984	00:00	1983	1984	22
+Birmingham City	Everton FC	0:0	0:2	02.01.1984	00:00	1983	1984	22
+West Bromwich Albion	Ipswich Town	1:1	2:1	02.01.1984	00:00	1983	1984	22
+Stoke City	Leicester City	0:1	0:1	02.01.1984	00:00	1983	1984	22
+Queens Park Rangers	Manchester United	1:0	1:1	13.01.1984	00:00	1983	1984	23
+West Bromwich Albion	Aston Villa	0:0	3:1	14.01.1984	00:00	1983	1984	23
+Tottenham Hotspur	Ipswich Town	2:0	2:0	14.01.1984	00:00	1983	1984	23
+Stoke City	Everton FC	0:0	1:1	14.01.1984	00:00	1983	1984	23
+Norwich City	Sunderland AFC	3:0	3:0	14.01.1984	00:00	1983	1984	23
+Luton Town	Arsenal FC	0:1	1:2	14.01.1984	00:00	1983	1984	23
+Liverpool FC	Wolverhampton Wanderers	0:1	0:1	14.01.1984	00:00	1983	1984	23
+Coventry City	Watford FC	1:1	1:2	14.01.1984	00:00	1983	1984	23
+Birmingham City	West Ham United	1:0	3:0	14.01.1984	00:00	1983	1984	23
+Notts County	Leicester City	2:1	2:5	14.01.1984	00:00	1983	1984	23
+Southampton FC	Nottingham Forest	0:1	0:1	23.01.1984	00:00	1983	1984	23
+Aston Villa	Liverpool FC	1:0	1:3	20.01.1984	00:00	1983	1984	24
+Nottingham Forest	Norwich City	3:0	3:0	21.01.1984	00:00	1983	1984	24
+Wolverhampton Wanderers	Luton Town	1:1	1:2	21.01.1984	00:00	1983	1984	24
+West Ham United	West Bromwich Albion	0:0	1:0	21.01.1984	00:00	1983	1984	24
+Watford FC	Stoke City	0:0	2:0	21.01.1984	00:00	1983	1984	24
+Manchester United	Southampton FC	2:2	3:2	21.01.1984	00:00	1983	1984	24
+Ipswich Town	Birmingham City	1:1	1:2	21.01.1984	00:00	1983	1984	24
+Everton FC	Tottenham Hotspur	1:0	2:1	21.01.1984	00:00	1983	1984	24
+Arsenal FC	Notts County	1:0	1:1	21.01.1984	00:00	1983	1984	24
+Leicester City	Coventry City	0:1	1:1	21.01.1984	00:00	1983	1984	24
+Sunderland AFC	Queens Park Rangers	0:0	1:0	07.03.1984	00:00	1983	1984	24
+Norwich City	Leicester City	1:1	3:1	19.10.1983	00:00	1983	1984	25
+Stoke City	Arsenal FC	0:0	1:0	28.01.1984	00:00	1983	1984	25
+Liverpool FC	Watford FC	3:0	3:0	01.02.1984	00:00	1983	1984	25
+Birmingham City	Manchester United	1:1	2:2	07.02.1984	00:00	1983	1984	25
+Queens Park Rangers	West Ham United	1:1	1:1	07.02.1984	00:00	1983	1984	25
+Tottenham Hotspur	Sunderland AFC	2:0	3:0	08.02.1984	00:00	1983	1984	25
+West Bromwich Albion	Nottingham Forest	0:1	0:5	08.02.1984	00:00	1983	1984	25
+Coventry City	Aston Villa	2:2	3:3	13.03.1984	00:00	1983	1984	25
+Luton Town	Ipswich Town	1:0	2:1	13.03.1984	00:00	1983	1984	25
+Southampton FC	Everton FC	0:0	3:1	17.04.1984	00:00	1983	1984	25
+Notts County	Wolverhampton Wanderers	2:0	4:0	01.05.1984	00:00	1983	1984	25
+Sunderland AFC	Liverpool FC	0:0	0:0	04.02.1984	00:00	1983	1984	26
+Wolverhampton Wanderers	Southampton FC	0:0	0:1	04.02.1984	00:00	1983	1984	26
+West Ham United	Stoke City	2:0	3:0	04.02.1984	00:00	1983	1984	26
+Nottingham Forest	Tottenham Hotspur	1:1	2:2	04.02.1984	00:00	1983	1984	26
+Manchester United	Norwich City	0:0	0:0	04.02.1984	00:00	1983	1984	26
+Ipswich Town	Coventry City	2:0	3:1	04.02.1984	00:00	1983	1984	26
+Everton FC	Notts County	3:1	4:1	04.02.1984	00:00	1983	1984	26
+Aston Villa	Luton Town	0:0	0:0	04.02.1984	00:00	1983	1984	26
+Arsenal FC	Queens Park Rangers	0:0	0:2	04.02.1984	00:00	1983	1984	26
+Leicester City	Birmingham City	0:2	2:3	04.02.1984	00:00	1983	1984	26
+Watford FC	West Bromwich Albion	0:0	3:1	04.02.1984	00:00	1983	1984	26
+Birmingham City	Wolverhampton Wanderers	0:0	0:0	11.02.1984	00:00	1983	1984	27
+Norwich City	Aston Villa	0:0	3:1	11.02.1984	00:00	1983	1984	27
+Southampton FC	Sunderland AFC	1:0	1:1	11.02.1984	00:00	1983	1984	27
+Stoke City	Ipswich Town	0:0	1:0	11.02.1984	00:00	1983	1984	27
+West Bromwich Albion	Everton FC	0:0	1:1	11.02.1984	00:00	1983	1984	27
+Coventry City	West Ham United	0:1	1:2	11.02.1984	00:00	1983	1984	27
+Liverpool FC	Arsenal FC	1:1	2:1	11.02.1984	00:00	1983	1984	27
+Notts County	Watford FC	2:3	3:5	11.02.1984	00:00	1983	1984	27
+Queens Park Rangers	Nottingham Forest	0:1	0:1	11.02.1984	00:00	1983	1984	27
+Tottenham Hotspur	Leicester City	2:0	3:2	11.02.1984	00:00	1983	1984	27
+Luton Town	Manchester United	0:2	0:5	12.02.1984	00:00	1983	1984	27
+Queens Park Rangers	Norwich City	0:0	2:0	14.02.1984	00:00	1983	1984	28
+Arsenal FC	Aston Villa	1:0	1:1	18.02.1984	00:00	1983	1984	28
+Coventry City	Stoke City	1:1	2:3	18.02.1984	00:00	1983	1984	28
+Luton Town	Liverpool FC	0:0	0:0	18.02.1984	00:00	1983	1984	28
+Sunderland AFC	Nottingham Forest	0:0	1:1	18.02.1984	00:00	1983	1984	28
+Wolverhampton Wanderers	Manchester United	1:0	1:1	18.02.1984	00:00	1983	1984	28
+Ipswich Town	Southampton FC	0:3	0:3	21.02.1984	00:00	1983	1984	28
+West Ham United	Watford FC	1:1	2:4	21.02.1984	00:00	1983	1984	28
+Notts County	Tottenham Hotspur	0:0	0:0	21.02.1984	00:00	1983	1984	28
+Birmingham City	West Bromwich Albion	2:0	2:1	28.02.1984	00:00	1983	1984	28
+Everton FC	Leicester City	1:0	1:1	20.03.1984	00:00	1983	1984	28
+Watford FC	Everton FC	1:0	4:4	25.02.1984	00:00	1983	1984	29
+Aston Villa	Wolverhampton Wanderers	1:0	4:0	25.02.1984	00:00	1983	1984	29
+Leicester City	Ipswich Town	1:0	2:0	25.02.1984	00:00	1983	1984	29
+Southampton FC	Luton Town	2:0	2:1	25.02.1984	00:00	1983	1984	29
+West Bromwich Albion	Coventry City	0:0	1:1	25.02.1984	00:00	1983	1984	29
+Liverpool FC	Queens Park Rangers	1:0	2:0	25.02.1984	00:00	1983	1984	29
+Tottenham Hotspur	Birmingham City	0:0	0:1	25.02.1984	00:00	1983	1984	29
+Stoke City	Notts County	1:0	1:0	25.02.1984	00:00	1983	1984	29
+Nottingham Forest	Arsenal FC	0:0	0:1	25.02.1984	00:00	1983	1984	29
+Norwich City	West Ham United	0:0	1:0	25.02.1984	00:00	1983	1984	29
+Manchester United	Sunderland AFC	1:1	2:1	25.02.1984	00:00	1983	1984	29
+Everton FC	Liverpool FC	0:1	1:1	03.03.1984	00:00	1983	1984	30
+Southampton FC	Norwich City	1:0	2:1	03.03.1984	00:00	1983	1984	30
+Notts County	West Bromwich Albion	0:0	1:1	03.03.1984	00:00	1983	1984	30
+Luton Town	Queens Park Rangers	0:0	0:0	03.03.1984	00:00	1983	1984	30
+Leicester City	Watford FC	1:1	4:1	03.03.1984	00:00	1983	1984	30
+Ipswich Town	West Ham United	0:1	0:3	03.03.1984	00:00	1983	1984	30
+Aston Villa	Manchester United	0:1	0:3	03.03.1984	00:00	1983	1984	30
+Coventry City	Birmingham City	0:1	0:1	03.03.1984	00:00	1983	1984	30
+Sunderland AFC	Arsenal FC	1:1	2:2	03.03.1984	00:00	1983	1984	30
+Tottenham Hotspur	Stoke City	1:0	1:0	03.03.1984	00:00	1983	1984	30
+Wolverhampton Wanderers	Nottingham Forest	0:0	1:0	03.03.1984	00:00	1983	1984	30
+Stoke City	Aston Villa	0:0	1:0	10.03.1984	00:00	1983	1984	31
+Queens Park Rangers	Coventry City	0:1	2:1	10.03.1984	00:00	1983	1984	31
+Manchester United	Leicester City	0:0	2:0	10.03.1984	00:00	1983	1984	31
+Arsenal FC	Ipswich Town	1:0	4:1	10.03.1984	00:00	1983	1984	31
+Liverpool FC	Tottenham Hotspur	2:1	3:1	10.03.1984	00:00	1983	1984	31
+West Ham United	Wolverhampton Wanderers	1:1	1:1	10.03.1984	00:00	1983	1984	31
+Nottingham Forest	Everton FC	0:0	1:0	13.03.1984	00:00	1983	1984	31
+Norwich City	Notts County	0:0	0:1	13.03.1984	00:00	1983	1984	31
+Birmingham City	Luton Town	0:1	1:1	20.03.1984	00:00	1983	1984	31
+Watford FC	Sunderland AFC	0:0	2:1	20.03.1984	00:00	1983	1984	31
+West Bromwich Albion	Southampton FC	0:0	0:2	14.05.1984	00:00	1983	1984	31
+Southampton FC	Liverpool FC	1:0	2:0	16.03.1984	00:00	1983	1984	32
+Everton FC	Ipswich Town	1:0	1:0	17.03.1984	00:00	1983	1984	32
+Wolverhampton Wanderers	Sunderland AFC	0:0	0:0	17.03.1984	00:00	1983	1984	32
+Watford FC	Queens Park Rangers	0:0	1:0	17.03.1984	00:00	1983	1984	32
+Notts County	Coventry City	0:0	2:1	17.03.1984	00:00	1983	1984	32
+Leicester City	West Ham United	1:0	4:1	17.03.1984	00:00	1983	1984	32
+Aston Villa	Nottingham Forest	0:0	1:0	17.03.1984	00:00	1983	1984	32
+Manchester United	Arsenal FC	2:0	4:0	17.03.1984	00:00	1983	1984	32
+Norwich City	Luton Town	0:0	0:0	17.03.1984	00:00	1983	1984	32
+Stoke City	Birmingham City	1:0	2:1	17.03.1984	00:00	1983	1984	32
+Tottenham Hotspur	West Bromwich Albion	0:0	0:1	17.03.1984	00:00	1983	1984	32
+Queens Park Rangers	Southampton FC	2:0	4:0	24.03.1984	00:00	1983	1984	33
+Birmingham City	Notts County	0:0	0:0	24.03.1984	00:00	1983	1984	33
+Arsenal FC	Wolverhampton Wanderers	2:0	4:1	24.03.1984	00:00	1983	1984	33
+West Bromwich Albion	Stoke City	2:0	3:0	24.03.1984	00:00	1983	1984	33
+Sunderland AFC	Aston Villa	0:1	0:1	24.03.1984	00:00	1983	1984	33
+Luton Town	Leicester City	0:0	0:0	24.03.1984	00:00	1983	1984	33
+Ipswich Town	Watford FC	0:0	0:0	24.03.1984	00:00	1983	1984	33
+Coventry City	Tottenham Hotspur	0:2	2:4	24.03.1984	00:00	1983	1984	33
+West Ham United	Everton FC	0:1	0:1	14.05.1984	00:00	1983	1984	33
+Liverpool FC	Norwich City	1:1	1:1	15.05.1984	00:00	1983	1984	33
+Nottingham Forest	Manchester United	1:0	2:0	16.05.1984	00:00	1983	1984	33
+Notts County	Nottingham Forest	0:0	0:0	31.03.1984	00:00	1983	1984	34
+Tottenham Hotspur	Wolverhampton Wanderers	1:0	1:0	31.03.1984	00:00	1983	1984	34
+West Bromwich Albion	Manchester United	1:0	2:0	31.03.1984	00:00	1983	1984	34
+Birmingham City	Aston Villa	1:1	2:1	31.03.1984	00:00	1983	1984	34
+Stoke City	Sunderland AFC	2:1	2:1	31.03.1984	00:00	1983	1984	34
+Coventry City	Arsenal FC	1:1	1:4	31.03.1984	00:00	1983	1984	34
+Luton Town	Everton FC	0:0	0:3	07.04.1984	00:00	1983	1984	34
+Liverpool FC	West Ham United	4:0	6:0	07.04.1984	00:00	1983	1984	34
+Southampton FC	Leicester City	0:0	2:2	07.04.1984	00:00	1983	1984	34
+Queens Park Rangers	Ipswich Town	0:0	1:0	07.04.1984	00:00	1983	1984	34
+Norwich City	Watford FC	3:1	6:1	07.04.1984	00:00	1983	1984	34
+Everton FC	Southampton FC	1:0	1:0	31.03.1984	00:00	1983	1984	35
+West Ham United	Queens Park Rangers	2:0	2:2	31.03.1984	00:00	1983	1984	35
+Watford FC	Liverpool FC	0:0	0:2	31.03.1984	00:00	1983	1984	35
+Leicester City	Norwich City	2:0	2:1	31.03.1984	00:00	1983	1984	35
+Ipswich Town	Luton Town	0:0	3:0	31.03.1984	00:00	1983	1984	35
+Manchester United	Birmingham City	1:0	1:0	07.04.1984	00:00	1983	1984	35
+Nottingham Forest	West Bromwich Albion	2:0	3:1	07.04.1984	00:00	1983	1984	35
+Wolverhampton Wanderers	Notts County	0:1	0:1	07.04.1984	00:00	1983	1984	35
+Arsenal FC	Stoke City	0:0	3:1	07.04.1984	00:00	1983	1984	35
+Sunderland AFC	Tottenham Hotspur	1:1	1:1	07.04.1984	00:00	1983	1984	35
+Aston Villa	Coventry City	1:0	2:0	07.04.1984	00:00	1983	1984	35
+Everton FC	Arsenal FC	0:0	0:0	09.04.1984	00:00	1983	1984	36
+Coventry City	Wolverhampton Wanderers	1:1	2:1	14.04.1984	00:00	1983	1984	36
+West Bromwich Albion	Norwich City	0:0	0:0	14.04.1984	00:00	1983	1984	36
+West Ham United	Sunderland AFC	0:0	0:1	14.04.1984	00:00	1983	1984	36
+Tottenham Hotspur	Luton Town	1:0	2:1	14.04.1984	00:00	1983	1984	36
+Stoke City	Liverpool FC	1:0	2:0	14.04.1984	00:00	1983	1984	36
+Leicester City	Aston Villa	1:0	2:0	14.04.1984	00:00	1983	1984	36
+Ipswich Town	Nottingham Forest	0:1	2:2	14.04.1984	00:00	1983	1984	36
+Birmingham City	Queens Park Rangers	0:1	0:2	14.04.1984	00:00	1983	1984	36
+Watford FC	Manchester United	0:0	0:0	17.04.1984	00:00	1983	1984	36
+Notts County	Southampton FC	1:1	1:3	17.05.1984	00:00	1983	1984	36
+Luton Town	Notts County	0:0	3:2	21.04.1984	00:00	1983	1984	37
+Sunderland AFC	Everton FC	1:1	2:1	21.04.1984	00:00	1983	1984	37
+Wolverhampton Wanderers	Ipswich Town	0:2	0:3	21.04.1984	00:00	1983	1984	37
+Southampton FC	West Ham United	1:0	2:0	21.04.1984	00:00	1983	1984	37
+Nottingham Forest	Birmingham City	2:0	5:1	21.04.1984	00:00	1983	1984	37
+Norwich City	Stoke City	0:1	2:2	21.04.1984	00:00	1983	1984	37
+Manchester United	Coventry City	1:0	4:1	21.04.1984	00:00	1983	1984	37
+Liverpool FC	West Bromwich Albion	3:0	3:0	21.04.1984	00:00	1983	1984	37
+Arsenal FC	Tottenham Hotspur	1:0	3:2	21.04.1984	00:00	1983	1984	37
+Aston Villa	Watford FC	1:1	2:1	21.04.1984	00:00	1983	1984	37
+Queens Park Rangers	Leicester City	1:0	2:0	21.04.1984	00:00	1983	1984	37
+Notts County	Manchester United	0:0	1:0	14.04.1984	00:00	1983	1984	38
+Coventry City	Nottingham Forest	1:0	2:1	17.04.1984	00:00	1983	1984	38
+West Ham United	Luton Town	2:0	3:1	17.04.1984	00:00	1983	1984	38
+Leicester City	Liverpool FC	2:1	3:3	18.04.1984	00:00	1983	1984	38
+Tottenham Hotspur	Aston Villa	2:1	2:1	18.04.1984	00:00	1983	1984	38
+Everton FC	Wolverhampton Wanderers	1:0	2:0	23.04.1984	00:00	1983	1984	38
+Birmingham City	Arsenal FC	0:1	1:1	23.04.1984	00:00	1983	1984	38
+Ipswich Town	Norwich City	1:0	2:0	23.04.1984	00:00	1983	1984	38
+Stoke City	Queens Park Rangers	1:1	1:2	23.04.1984	00:00	1983	1984	38
+West Bromwich Albion	Sunderland AFC	2:1	3:1	23.04.1984	00:00	1983	1984	38
+Watford FC	Southampton FC	1:0	1:1	24.04.1984	00:00	1983	1984	38
+Southampton FC	Coventry City	2:0	8:2	28.04.1984	00:00	1983	1984	39
+Manchester United	West Ham United	0:0	0:0	28.04.1984	00:00	1983	1984	39
+Norwich City	Everton FC	0:1	1:1	28.04.1984	00:00	1983	1984	39
+Nottingham Forest	Stoke City	0:0	0:0	28.04.1984	00:00	1983	1984	39
+Wolverhampton Wanderers	West Bromwich Albion	0:0	0:0	28.04.1984	00:00	1983	1984	39
+Arsenal FC	Leicester City	0:0	2:1	28.04.1984	00:00	1983	1984	39
+Sunderland AFC	Birmingham City	1:0	2:1	28.04.1984	00:00	1983	1984	39
+Queens Park Rangers	Tottenham Hotspur	1:0	2:1	28.04.1984	00:00	1983	1984	39
+Luton Town	Watford FC	0:2	1:2	28.04.1984	00:00	1983	1984	39
+Liverpool FC	Ipswich Town	2:1	2:2	28.04.1984	00:00	1983	1984	39
+Aston Villa	Notts County	1:1	3:1	28.04.1984	00:00	1983	1984	39
+Stoke City	Southampton FC	0:0	1:1	05.05.1984	00:00	1983	1984	40
+Everton FC	Manchester United	0:0	1:1	05.05.1984	00:00	1983	1984	40
+Notts County	Queens Park Rangers	0:2	0:3	05.05.1984	00:00	1983	1984	40
+Birmingham City	Liverpool FC	0:0	0:0	05.05.1984	00:00	1983	1984	40
+West Ham United	Aston Villa	0:1	0:1	05.05.1984	00:00	1983	1984	40
+West Bromwich Albion	Arsenal FC	1:2	1:3	05.05.1984	00:00	1983	1984	40
+Watford FC	Wolverhampton Wanderers	0:0	0:0	05.05.1984	00:00	1983	1984	40
+Tottenham Hotspur	Norwich City	1:0	2:0	05.05.1984	00:00	1983	1984	40
+Leicester City	Nottingham Forest	2:0	2:1	05.05.1984	00:00	1983	1984	40
+Ipswich Town	Sunderland AFC	0:0	1:0	05.05.1984	00:00	1983	1984	40
+Coventry City	Luton Town	1:0	2:2	05.05.1984	00:00	1983	1984	40
+Southampton FC	Tottenham Hotspur	2:0	5:0	07.05.1984	00:00	1983	1984	41
+Norwich City	Birmingham City	0:0	1:1	07.05.1984	00:00	1983	1984	41
+Nottingham Forest	Watford FC	3:0	5:1	07.05.1984	00:00	1983	1984	41
+Arsenal FC	West Ham United	2:3	3:3	07.05.1984	00:00	1983	1984	41
+Wolverhampton Wanderers	Leicester City	1:0	1:0	07.05.1984	00:00	1983	1984	41
+Sunderland AFC	Notts County	0:0	0:0	07.05.1984	00:00	1983	1984	41
+Queens Park Rangers	West Bromwich Albion	0:0	1:1	07.05.1984	00:00	1983	1984	41
+Manchester United	Ipswich Town	1:0	1:2	07.05.1984	00:00	1983	1984	41
+Luton Town	Stoke City	0:1	0:1	07.05.1984	00:00	1983	1984	41
+Liverpool FC	Coventry City	2:0	5:0	07.05.1984	00:00	1983	1984	41
+Aston Villa	Everton FC	0:0	0:2	07.05.1984	00:00	1983	1984	41
+Birmingham City	Southampton FC	0:0	0:0	12.05.1984	00:00	1983	1984	42
+Coventry City	Norwich City	1:1	2:1	12.05.1984	00:00	1983	1984	42
+Everton FC	Queens Park Rangers	1:0	3:1	12.05.1984	00:00	1983	1984	42
+Notts County	Liverpool FC	0:0	0:0	12.05.1984	00:00	1983	1984	42
+Tottenham Hotspur	Manchester United	0:0	1:1	12.05.1984	00:00	1983	1984	42
+West Ham United	Nottingham Forest	1:1	1:2	12.05.1984	00:00	1983	1984	42
+Ipswich Town	Aston Villa	1:1	2:1	12.05.1984	00:00	1983	1984	42
+Leicester City	Sunderland AFC	0:2	0:2	12.05.1984	00:00	1983	1984	42
+Stoke City	Wolverhampton Wanderers	2:0	4:0	12.05.1984	00:00	1983	1984	42
+Watford FC	Arsenal FC	1:1	2:1	12.05.1984	00:00	1983	1984	42
+West Bromwich Albion	Luton Town	0:0	3:0	12.05.1984	00:00	1983	1984	42

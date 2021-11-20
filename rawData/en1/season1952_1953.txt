@@ -1,0 +1,462 @@
+Aston Villa	Arsenal FC	1:1	1:2	23.08.1952	00:00	1952	1953	1
+Tottenham Hotspur	West Bromwich Albion	0:0	3:4	23.08.1952	00:00	1952	1953	1
+Sunderland AFC	Charlton Athletic	0:0	2:1	23.08.1952	00:00	1952	1953	1
+Stoke City	Manchester City	0:0	2:1	23.08.1952	00:00	1952	1953	1
+Sheffield Wednesday	Newcastle United	0:0	2:2	23.08.1952	00:00	1952	1953	1
+Preston North End	Liverpool FC	0:1	1:1	23.08.1952	00:00	1952	1953	1
+Portsmouth FC	Blackpool FC	0:0	0:2	23.08.1952	00:00	1952	1953	1
+Manchester United	Chelsea FC	0:0	2:0	23.08.1952	00:00	1952	1953	1
+Burnley FC	Middlesbrough FC	0:0	0:1	23.08.1952	00:00	1952	1953	1
+Bolton Wanderers	Derby County	0:0	2:0	23.08.1952	00:00	1952	1953	1
+Wolverhampton Wanderers	Cardiff City	0:0	1:0	23.08.1952	00:00	1952	1953	1
+Blackpool FC	Preston North End	0:0	1:1	25.08.1952	00:00	1952	1953	2
+Wolverhampton Wanderers	Bolton Wanderers	0:0	3:1	25.08.1952	00:00	1952	1953	2
+Burnley FC	Stoke City	0:0	3:2	26.08.1952	00:00	1952	1953	2
+West Bromwich Albion	Newcastle United	0:0	1:0	27.08.1952	00:00	1952	1953	2
+Middlesbrough FC	Cardiff City	0:0	3:0	27.08.1952	00:00	1952	1953	2
+Manchester City	Tottenham Hotspur	0:0	0:1	27.08.1952	00:00	1952	1953	2
+Liverpool FC	Sheffield Wednesday	0:0	1:0	27.08.1952	00:00	1952	1953	2
+Chelsea FC	Derby County	0:0	1:1	27.08.1952	00:00	1952	1953	2
+Charlton Athletic	Portsmouth FC	0:0	2:2	27.08.1952	00:00	1952	1953	2
+Arsenal FC	Manchester United	1:0	2:1	27.08.1952	00:00	1952	1953	2
+Sunderland AFC	Aston Villa	0:0	2:2	01.01.1953	00:00	1952	1953	2
+Arsenal FC	Sunderland AFC	0:2	1:2	30.08.1952	00:00	1952	1953	3
+Derby County	Aston Villa	0:0	0:1	30.08.1952	00:00	1952	1953	3
+Blackpool FC	Bolton Wanderers	0:0	3:0	30.08.1952	00:00	1952	1953	3
+West Bromwich Albion	Burnley FC	0:0	1:2	30.08.1952	00:00	1952	1953	3
+Newcastle United	Tottenham Hotspur	0:0	1:1	30.08.1952	00:00	1952	1953	3
+Middlesbrough FC	Preston North End	0:0	1:1	30.08.1952	00:00	1952	1953	3
+Manchester City	Manchester United	0:0	2:1	30.08.1952	00:00	1952	1953	3
+Liverpool FC	Stoke City	2:1	3:2	30.08.1952	00:00	1952	1953	3
+Chelsea FC	Portsmouth FC	0:0	2:0	30.08.1952	00:00	1952	1953	3
+Charlton Athletic	Wolverhampton Wanderers	0:0	2:2	30.08.1952	00:00	1952	1953	3
+Cardiff City	Sheffield Wednesday	0:0	4:0	30.08.1952	00:00	1952	1953	3
+Aston Villa	Sunderland AFC	0:0	3:0	01.09.1952	00:00	1952	1953	4
+Bolton Wanderers	Wolverhampton Wanderers	0:0	2:1	01.09.1952	00:00	1952	1953	4
+Stoke City	Burnley FC	0:0	1:3	01.09.1952	00:00	1952	1953	4
+Tottenham Hotspur	Manchester City	0:0	3:3	01.09.1952	00:00	1952	1953	4
+Sheffield Wednesday	Liverpool FC	0:1	0:2	03.09.1952	00:00	1952	1953	4
+Portsmouth FC	Charlton Athletic	0:0	1:1	03.09.1952	00:00	1952	1953	4
+Manchester United	Arsenal FC	0:0	0:0	03.09.1952	00:00	1952	1953	4
+Derby County	Chelsea FC	0:0	3:2	03.09.1952	00:00	1952	1953	4
+Cardiff City	Middlesbrough FC	0:0	1:1	03.09.1952	00:00	1952	1953	4
+Preston North End	Blackpool FC	0:0	4:2	01.01.1953	00:00	1952	1953	4
+Newcastle United	West Bromwich Albion	0:0	3:5	01.01.1953	00:00	1952	1953	4
+Aston Villa	Blackpool FC	0:0	1:5	06.09.1952	00:00	1952	1953	5
+Preston North End	West Bromwich Albion	0:0	1:0	06.09.1952	00:00	1952	1953	5
+Sunderland AFC	Derby County	0:0	2:1	06.09.1952	00:00	1952	1953	5
+Bolton Wanderers	Chelsea FC	0:0	1:1	06.09.1952	00:00	1952	1953	5
+Wolverhampton Wanderers	Arsenal FC	1:0	1:1	06.09.1952	00:00	1952	1953	5
+Tottenham Hotspur	Cardiff City	0:0	2:1	06.09.1952	00:00	1952	1953	5
+Stoke City	Middlesbrough FC	0:0	1:0	06.09.1952	00:00	1952	1953	5
+Sheffield Wednesday	Charlton Athletic	0:0	0:3	06.09.1952	00:00	1952	1953	5
+Portsmouth FC	Manchester United	0:0	2:0	06.09.1952	00:00	1952	1953	5
+Manchester City	Liverpool FC	0:2	0:2	06.09.1952	00:00	1952	1953	5
+Burnley FC	Newcastle United	0:0	2:1	06.09.1952	00:00	1952	1953	5
+Wolverhampton Wanderers	Aston Villa	0:0	2:1	08.09.1952	00:00	1952	1953	6
+Burnley FC	Manchester City	0:0	2:1	08.09.1952	00:00	1952	1953	6
+Chelsea FC	Blackpool FC	0:0	4:0	10.09.1952	00:00	1952	1953	6
+Newcastle United	Sunderland AFC	0:0	2:2	10.09.1952	00:00	1952	1953	6
+Preston North End	Stoke City	0:0	3:0	10.09.1952	00:00	1952	1953	6
+West Bromwich Albion	Cardiff City	0:0	1:0	10.09.1952	00:00	1952	1953	6
+Arsenal FC	Portsmouth FC	1:0	3:1	10.09.1952	00:00	1952	1953	6
+Charlton Athletic	Bolton Wanderers	0:0	2:0	10.09.1952	00:00	1952	1953	6
+Derby County	Manchester United	0:1	2:3	10.09.1952	00:00	1952	1953	6
+Liverpool FC	Tottenham Hotspur	0:1	2:1	10.09.1952	00:00	1952	1953	6
+Middlesbrough FC	Sheffield Wednesday	0:0	2:2	01.01.1953	00:00	1952	1953	6
+Blackpool FC	Sunderland AFC	0:0	2:0	13.09.1952	00:00	1952	1953	7
+Chelsea FC	Aston Villa	0:0	4:0	13.09.1952	00:00	1952	1953	7
+Newcastle United	Preston North End	0:0	4:3	13.09.1952	00:00	1952	1953	7
+Sheffield Wednesday	Tottenham Hotspur	0:0	2:0	13.09.1952	00:00	1952	1953	7
+Arsenal FC	Charlton Athletic	0:2	3:4	13.09.1952	00:00	1952	1953	7
+West Bromwich Albion	Stoke City	0:0	3:2	13.09.1952	00:00	1952	1953	7
+Middlesbrough FC	Manchester City	0:0	5:4	13.09.1952	00:00	1952	1953	7
+Manchester United	Bolton Wanderers	0:0	1:0	13.09.1952	00:00	1952	1953	7
+Liverpool FC	Portsmouth FC	1:1	1:1	13.09.1952	00:00	1952	1953	7
+Derby County	Wolverhampton Wanderers	0:0	2:3	13.09.1952	00:00	1952	1953	7
+Cardiff City	Burnley FC	0:0	0:0	13.09.1952	00:00	1952	1953	7
+Aston Villa	Wolverhampton Wanderers	0:0	0:1	15.09.1952	00:00	1952	1953	8
+Blackpool FC	Chelsea FC	0:0	3:1	15.09.1952	00:00	1952	1953	8
+Stoke City	Preston North End	0:0	0:0	15.09.1952	00:00	1952	1953	8
+Tottenham Hotspur	Liverpool FC	0:1	3:1	15.09.1952	00:00	1952	1953	8
+Cardiff City	West Bromwich Albion	0:0	1:2	17.09.1952	00:00	1952	1953	8
+Sheffield Wednesday	Middlesbrough FC	0:0	2:0	17.09.1952	00:00	1952	1953	8
+Sunderland AFC	Newcastle United	0:0	0:2	17.09.1952	00:00	1952	1953	8
+Manchester City	Burnley FC	0:0	0:0	17.09.1952	00:00	1952	1953	8
+Portsmouth FC	Arsenal FC	0:2	2:2	17.09.1952	00:00	1952	1953	8
+Bolton Wanderers	Charlton Athletic	0:0	1:2	01.01.1953	00:00	1952	1953	8
+Manchester United	Derby County	1:0	1:0	01.01.1953	00:00	1952	1953	8
+Aston Villa	Manchester United	1:1	3:3	20.09.1952	00:00	1952	1953	9
+Bolton Wanderers	Portsmouth FC	0:0	0:5	20.09.1952	00:00	1952	1953	9
+Charlton Athletic	Derby County	0:0	3:1	20.09.1952	00:00	1952	1953	9
+Preston North End	Cardiff City	0:0	2:3	20.09.1952	00:00	1952	1953	9
+Sunderland AFC	Chelsea FC	0:0	2:1	20.09.1952	00:00	1952	1953	9
+Burnley FC	Sheffield Wednesday	0:0	1:1	20.09.1952	00:00	1952	1953	9
+Wolverhampton Wanderers	Blackpool FC	0:0	2:5	20.09.1952	00:00	1952	1953	9
+Tottenham Hotspur	Arsenal FC	0:1	1:3	20.09.1952	00:00	1952	1953	9
+Stoke City	Newcastle United	0:0	1:0	20.09.1952	00:00	1952	1953	9
+Manchester City	West Bromwich Albion	0:0	0:1	20.09.1952	00:00	1952	1953	9
+Liverpool FC	Middlesbrough FC	3:0	4:1	20.09.1952	00:00	1952	1953	9
+Blackpool FC	Charlton Athletic	0:0	8:4	27.09.1952	00:00	1952	1953	10
+Manchester United	Sunderland AFC	0:1	0:1	27.09.1952	00:00	1952	1953	10
+Middlesbrough FC	Bolton Wanderers	0:0	1:2	27.09.1952	00:00	1952	1953	10
+Portsmouth FC	Aston Villa	0:0	1:1	27.09.1952	00:00	1952	1953	10
+Sheffield Wednesday	Preston North End	0:0	1:1	27.09.1952	00:00	1952	1953	10
+Cardiff City	Stoke City	0:0	2:0	27.09.1952	00:00	1952	1953	10
+Chelsea FC	Wolverhampton Wanderers	0:0	1:2	27.09.1952	00:00	1952	1953	10
+Derby County	Arsenal FC	0:0	2:0	27.09.1952	00:00	1952	1953	10
+Newcastle United	Manchester City	0:0	2:0	27.09.1952	00:00	1952	1953	10
+Tottenham Hotspur	Burnley FC	0:0	2:1	27.09.1952	00:00	1952	1953	10
+West Bromwich Albion	Liverpool FC	1:0	3:0	27.09.1952	00:00	1952	1953	10
+Stoke City	Sheffield Wednesday	0:0	1:3	04.10.1952	00:00	1952	1953	11
+Preston North End	Tottenham Hotspur	0:0	1:0	04.10.1952	00:00	1952	1953	11
+Middlesbrough FC	West Bromwich Albion	0:0	4:2	04.10.1952	00:00	1952	1953	11
+Charlton Athletic	Chelsea FC	0:0	2:2	04.10.1952	00:00	1952	1953	11
+Aston Villa	Bolton Wanderers	0:0	1:1	04.10.1952	00:00	1952	1953	11
+Arsenal FC	Blackpool FC	2:1	3:1	04.10.1952	00:00	1952	1953	11
+Wolverhampton Wanderers	Manchester United	2:2	6:2	04.10.1952	00:00	1952	1953	11
+Burnley FC	Derby County	0:0	1:2	04.10.1952	00:00	1952	1953	11
+Liverpool FC	Newcastle United	2:1	5:3	04.10.1952	00:00	1952	1953	11
+Manchester City	Cardiff City	0:0	2:2	04.10.1952	00:00	1952	1953	11
+Sunderland AFC	Portsmouth FC	0:0	1:1	04.10.1952	00:00	1952	1953	11
+Manchester United	Stoke City	0:0	0:2	11.10.1952	00:00	1952	1953	12
+Chelsea FC	Preston North End	0:0	5:3	11.10.1952	00:00	1952	1953	12
+Charlton Athletic	Cardiff City	0:0	3:1	11.10.1952	00:00	1952	1953	12
+Bolton Wanderers	Liverpool FC	1:2	2:2	11.10.1952	00:00	1952	1953	12
+Aston Villa	Middlesbrough FC	0:0	1:0	11.10.1952	00:00	1952	1953	12
+Arsenal FC	Sheffield Wednesday	0:1	2:2	11.10.1952	00:00	1952	1953	12
+Sunderland AFC	West Bromwich Albion	0:0	1:0	11.10.1952	00:00	1952	1953	12
+Blackpool FC	Burnley FC	0:0	4:2	11.10.1952	00:00	1952	1953	12
+Derby County	Tottenham Hotspur	0:0	0:0	11.10.1952	00:00	1952	1953	12
+Portsmouth FC	Manchester City	0:0	2:1	11.10.1952	00:00	1952	1953	12
+Wolverhampton Wanderers	Newcastle United	0:0	2:0	11.10.1952	00:00	1952	1953	12
+Preston North End	Manchester United	0:5	0:5	18.10.1952	00:00	1952	1953	13
+Newcastle United	Charlton Athletic	0:0	3:2	18.10.1952	00:00	1952	1953	13
+Middlesbrough FC	Sunderland AFC	0:0	1:2	18.10.1952	00:00	1952	1953	13
+Manchester City	Bolton Wanderers	0:0	1:2	18.10.1952	00:00	1952	1953	13
+Liverpool FC	Aston Villa	0:0	0:2	18.10.1952	00:00	1952	1953	13
+Sheffield Wednesday	Derby County	0:0	2:0	18.10.1952	00:00	1952	1953	13
+Burnley FC	Chelsea FC	0:0	1:1	18.10.1952	00:00	1952	1953	13
+Stoke City	Portsmouth FC	0:0	2:4	18.10.1952	00:00	1952	1953	13
+Tottenham Hotspur	Blackpool FC	0:0	4:0	18.10.1952	00:00	1952	1953	13
+West Bromwich Albion	Wolverhampton Wanderers	0:0	1:1	18.10.1952	00:00	1952	1953	13
+Cardiff City	Arsenal FC	0:0	0:0	22.04.1953	00:00	1952	1953	13
+Derby County	Cardiff City	0:0	1:1	25.10.1952	00:00	1952	1953	14
+Charlton Athletic	West Bromwich Albion	0:0	0:0	25.10.1952	00:00	1952	1953	14
+Bolton Wanderers	Stoke City	0:0	2:1	25.10.1952	00:00	1952	1953	14
+Blackpool FC	Sheffield Wednesday	0:0	0:1	25.10.1952	00:00	1952	1953	14
+Aston Villa	Manchester City	0:0	0:0	25.10.1952	00:00	1952	1953	14
+Arsenal FC	Newcastle United	1:0	3:0	25.10.1952	00:00	1952	1953	14
+Sunderland AFC	Liverpool FC	2:0	3:1	25.10.1952	00:00	1952	1953	14
+Chelsea FC	Tottenham Hotspur	0:0	2:1	25.10.1952	00:00	1952	1953	14
+Manchester United	Burnley FC	1:2	1:3	25.10.1952	00:00	1952	1953	14
+Portsmouth FC	Preston North End	0:0	2:5	25.10.1952	00:00	1952	1953	14
+Wolverhampton Wanderers	Middlesbrough FC	0:0	3:3	25.10.1952	00:00	1952	1953	14
+Tottenham Hotspur	Manchester United	1:1	1:2	01.11.1952	00:00	1952	1953	15
+Stoke City	Aston Villa	0:0	1:4	01.11.1952	00:00	1952	1953	15
+Sheffield Wednesday	Chelsea FC	0:0	1:0	01.11.1952	00:00	1952	1953	15
+Preston North End	Bolton Wanderers	0:0	2:2	01.11.1952	00:00	1952	1953	15
+Newcastle United	Derby County	0:0	1:0	01.11.1952	00:00	1952	1953	15
+Middlesbrough FC	Charlton Athletic	0:0	1:0	01.11.1952	00:00	1952	1953	15
+Manchester City	Sunderland AFC	0:0	2:5	01.11.1952	00:00	1952	1953	15
+Cardiff City	Blackpool FC	0:0	2:2	01.11.1952	00:00	1952	1953	15
+West Bromwich Albion	Arsenal FC	1:0	2:0	01.11.1952	00:00	1952	1953	15
+Burnley FC	Portsmouth FC	0:0	3:2	01.11.1952	00:00	1952	1953	15
+Liverpool FC	Wolverhampton Wanderers	1:0	2:1	01.11.1952	00:00	1952	1953	15
+Arsenal FC	Middlesbrough FC	2:1	2:1	08.11.1952	00:00	1952	1953	16
+Aston Villa	Preston North End	0:0	1:0	08.11.1952	00:00	1952	1953	16
+Blackpool FC	Newcastle United	0:0	0:2	08.11.1952	00:00	1952	1953	16
+Bolton Wanderers	Burnley FC	0:0	1:2	08.11.1952	00:00	1952	1953	16
+Charlton Athletic	Liverpool FC	2:0	3:2	08.11.1952	00:00	1952	1953	16
+Derby County	West Bromwich Albion	0:0	1:1	08.11.1952	00:00	1952	1953	16
+Manchester United	Sheffield Wednesday	0:1	1:1	08.11.1952	00:00	1952	1953	16
+Chelsea FC	Cardiff City	0:0	0:2	08.11.1952	00:00	1952	1953	16
+Portsmouth FC	Tottenham Hotspur	0:0	2:1	08.11.1952	00:00	1952	1953	16
+Sunderland AFC	Stoke City	0:0	1:1	08.11.1952	00:00	1952	1953	16
+Wolverhampton Wanderers	Manchester City	0:0	7:3	08.11.1952	00:00	1952	1953	16
+Tottenham Hotspur	Bolton Wanderers	0:0	1:1	15.11.1952	00:00	1952	1953	17
+Preston North End	Sunderland AFC	0:0	3:2	15.11.1952	00:00	1952	1953	17
+Middlesbrough FC	Derby County	0:0	1:0	15.11.1952	00:00	1952	1953	17
+Manchester City	Charlton Athletic	0:0	5:1	15.11.1952	00:00	1952	1953	17
+Liverpool FC	Arsenal FC	1:1	1:5	15.11.1952	00:00	1952	1953	17
+Cardiff City	Manchester United	1:2	1:2	15.11.1952	00:00	1952	1953	17
+Burnley FC	Aston Villa	0:0	1:0	15.11.1952	00:00	1952	1953	17
+West Bromwich Albion	Blackpool FC	0:0	0:1	15.11.1952	00:00	1952	1953	17
+Newcastle United	Chelsea FC	0:0	2:1	15.11.1952	00:00	1952	1953	17
+Sheffield Wednesday	Portsmouth FC	0:0	3:4	15.11.1952	00:00	1952	1953	17
+Stoke City	Wolverhampton Wanderers	0:0	1:2	15.11.1952	00:00	1952	1953	17
+Arsenal FC	Manchester City	1:1	3:1	22.11.1952	00:00	1952	1953	18
+Aston Villa	Tottenham Hotspur	0:0	0:3	22.11.1952	00:00	1952	1953	18
+Blackpool FC	Middlesbrough FC	0:0	1:1	22.11.1952	00:00	1952	1953	18
+Bolton Wanderers	Sheffield Wednesday	0:0	1:1	22.11.1952	00:00	1952	1953	18
+Manchester United	Newcastle United	0:1	2:2	22.11.1952	00:00	1952	1953	18
+Wolverhampton Wanderers	Preston North End	0:0	0:2	22.11.1952	00:00	1952	1953	18
+Charlton Athletic	Stoke City	0:0	5:1	22.11.1952	00:00	1952	1953	18
+Chelsea FC	West Bromwich Albion	0:0	0:2	22.11.1952	00:00	1952	1953	18
+Derby County	Liverpool FC	1:0	3:2	22.11.1952	00:00	1952	1953	18
+Portsmouth FC	Cardiff City	0:0	0:2	22.11.1952	00:00	1952	1953	18
+Sunderland AFC	Burnley FC	0:0	2:1	22.11.1952	00:00	1952	1953	18
+West Bromwich Albion	Manchester United	0:1	3:1	29.11.1952	00:00	1952	1953	19
+Tottenham Hotspur	Sunderland AFC	0:0	2:2	29.11.1952	00:00	1952	1953	19
+Sheffield Wednesday	Aston Villa	0:0	2:2	29.11.1952	00:00	1952	1953	19
+Preston North End	Charlton Athletic	0:0	2:1	29.11.1952	00:00	1952	1953	19
+Liverpool FC	Blackpool FC	2:2	2:2	29.11.1952	00:00	1952	1953	19
+Burnley FC	Wolverhampton Wanderers	0:0	0:0	29.11.1952	00:00	1952	1953	19
+Manchester City	Derby County	0:0	1:0	29.11.1952	00:00	1952	1953	19
+Middlesbrough FC	Chelsea FC	0:0	4:0	29.11.1952	00:00	1952	1953	19
+Newcastle United	Portsmouth FC	0:0	1:0	29.11.1952	00:00	1952	1953	19
+Stoke City	Arsenal FC	1:0	1:1	29.11.1952	00:00	1952	1953	19
+Cardiff City	Bolton Wanderers	0:0	1:0	11.03.1953	00:00	1952	1953	19
+Bolton Wanderers	Newcastle United	0:0	4:2	06.12.1952	00:00	1952	1953	20
+Sunderland AFC	Sheffield Wednesday	0:0	2:1	06.12.1952	00:00	1952	1953	20
+Manchester United	Middlesbrough FC	3:2	3:2	06.12.1952	00:00	1952	1953	20
+Blackpool FC	Manchester City	0:0	4:1	06.12.1952	00:00	1952	1953	20
+Derby County	Stoke City	0:0	4:0	06.12.1952	00:00	1952	1953	20
+Portsmouth FC	West Bromwich Albion	0:0	1:2	06.12.1952	00:00	1952	1953	20
+Wolverhampton Wanderers	Tottenham Hotspur	0:0	0:0	06.12.1952	00:00	1952	1953	20
+Arsenal FC	Preston North End	0:0	1:1	19.03.1953	00:00	1952	1953	20
+Chelsea FC	Liverpool FC	1:0	3:0	23.03.1953	00:00	1952	1953	20
+Charlton Athletic	Burnley FC	0:0	0:0	22.04.1953	00:00	1952	1953	20
+Aston Villa	Cardiff City	0:0	2:0	29.04.1953	00:00	1952	1953	20
+Newcastle United	Aston Villa	0:0	2:1	13.12.1952	00:00	1952	1953	21
+Preston North End	Derby County	0:0	3:0	13.12.1952	00:00	1952	1953	21
+West Bromwich Albion	Bolton Wanderers	0:0	0:1	13.12.1952	00:00	1952	1953	21
+Sheffield Wednesday	Wolverhampton Wanderers	0:0	2:3	13.12.1952	00:00	1952	1953	21
+Manchester City	Chelsea FC	0:0	4:0	13.12.1952	00:00	1952	1953	21
+Liverpool FC	Manchester United	1:0	1:2	13.12.1952	00:00	1952	1953	21
+Cardiff City	Sunderland AFC	0:0	4:1	13.12.1952	00:00	1952	1953	21
+Burnley FC	Arsenal FC	1:1	1:1	13.12.1952	00:00	1952	1953	21
+Middlesbrough FC	Portsmouth FC	0:0	3:2	13.12.1952	00:00	1952	1953	21
+Stoke City	Blackpool FC	0:0	4:0	13.12.1952	00:00	1952	1953	21
+Tottenham Hotspur	Charlton Athletic	0:0	2:0	13.12.1952	00:00	1952	1953	21
+Arsenal FC	Aston Villa	2:0	3:1	20.12.1952	00:00	1952	1953	22
+Derby County	Bolton Wanderers	0:0	4:3	20.12.1952	00:00	1952	1953	22
+Liverpool FC	Preston North End	2:1	2:2	20.12.1952	00:00	1952	1953	22
+Newcastle United	Sheffield Wednesday	0:0	1:5	20.12.1952	00:00	1952	1953	22
+Middlesbrough FC	Burnley FC	0:0	2:2	20.12.1952	00:00	1952	1953	22
+Chelsea FC	Manchester United	0:3	2:3	20.12.1952	00:00	1952	1953	22
+Charlton Athletic	Sunderland AFC	0:0	3:1	20.12.1952	00:00	1952	1953	22
+Blackpool FC	Portsmouth FC	0:0	3:2	20.12.1952	00:00	1952	1953	22
+Cardiff City	Wolverhampton Wanderers	0:0	0:0	20.12.1952	00:00	1952	1953	22
+Manchester City	Stoke City	0:0	2:1	20.12.1952	00:00	1952	1953	22
+West Bromwich Albion	Tottenham Hotspur	0:0	2:1	20.12.1952	00:00	1952	1953	22
+Newcastle United	Cardiff City	0:0	3:0	25.12.1952	00:00	1952	1953	23
+Bolton Wanderers	Arsenal FC	1:2	4:6	25.12.1952	00:00	1952	1953	23
+Burnley FC	Liverpool FC	2:0	2:0	25.12.1952	00:00	1952	1953	23
+Blackpool FC	Manchester United	0:0	0:0	25.12.1952	00:00	1952	1953	23
+Tottenham Hotspur	Middlesbrough FC	0:0	7:1	25.12.1952	00:00	1952	1953	23
+Aston Villa	Charlton Athletic	0:0	1:1	26.12.1952	00:00	1952	1953	23
+Preston North End	Manchester City	0:0	6:2	26.12.1952	00:00	1952	1953	23
+Sheffield Wednesday	West Bromwich Albion	0:0	4:5	26.12.1952	00:00	1952	1953	23
+Wolverhampton Wanderers	Sunderland AFC	0:0	1:1	26.12.1952	00:00	1952	1953	23
+Derby County	Portsmouth FC	0:0	3:0	26.12.1952	00:00	1952	1953	23
+Stoke City	Chelsea FC	0:0	1:1	26.12.1952	00:00	1952	1953	23
+Liverpool FC	Burnley FC	1:0	1:1	26.12.1952	00:00	1952	1953	24
+Manchester United	Blackpool FC	1:1	2:1	26.12.1952	00:00	1952	1953	24
+Cardiff City	Newcastle United	0:0	0:0	27.12.1952	00:00	1952	1953	24
+West Bromwich Albion	Sheffield Wednesday	0:0	0:1	27.12.1952	00:00	1952	1953	24
+Sunderland AFC	Wolverhampton Wanderers	0:0	5:2	27.12.1952	00:00	1952	1953	24
+Chelsea FC	Stoke City	0:0	0:0	27.12.1952	00:00	1952	1953	24
+Middlesbrough FC	Tottenham Hotspur	0:0	0:4	27.12.1952	00:00	1952	1953	24
+Portsmouth FC	Derby County	0:0	2:2	27.12.1952	00:00	1952	1953	24
+Charlton Athletic	Aston Villa	0:0	5:1	18.03.1953	00:00	1952	1953	24
+Arsenal FC	Bolton Wanderers	1:1	4:1	15.04.1953	00:00	1952	1953	24
+Manchester City	Preston North End	0:0	0:2	22.04.1953	00:00	1952	1953	24
+Aston Villa	Derby County	0:0	3:0	03.01.1953	00:00	1952	1953	25
+Bolton Wanderers	Blackpool FC	0:0	4:0	03.01.1953	00:00	1952	1953	25
+Preston North End	Middlesbrough FC	0:0	3:0	03.01.1953	00:00	1952	1953	25
+Burnley FC	West Bromwich Albion	0:0	5:0	03.01.1953	00:00	1952	1953	25
+Manchester United	Manchester City	1:0	1:1	03.01.1953	00:00	1952	1953	25
+Wolverhampton Wanderers	Charlton Athletic	0:0	1:2	03.01.1953	00:00	1952	1953	25
+Tottenham Hotspur	Newcastle United	0:0	3:2	03.01.1953	00:00	1952	1953	25
+Sunderland AFC	Arsenal FC	2:1	3:1	03.01.1953	00:00	1952	1953	25
+Stoke City	Liverpool FC	2:1	3:1	03.01.1953	00:00	1952	1953	25
+Sheffield Wednesday	Cardiff City	0:0	2:0	03.01.1953	00:00	1952	1953	25
+Portsmouth FC	Chelsea FC	0:0	2:0	03.01.1953	00:00	1952	1953	25
+Blackpool FC	Aston Villa	0:0	1:1	17.01.1953	00:00	1952	1953	26
+Chelsea FC	Bolton Wanderers	0:0	1:0	17.01.1953	00:00	1952	1953	26
+West Bromwich Albion	Preston North End	0:0	2:1	17.01.1953	00:00	1952	1953	26
+Liverpool FC	Manchester City	0:0	0:1	17.01.1953	00:00	1952	1953	26
+Newcastle United	Burnley FC	0:0	0:0	17.01.1953	00:00	1952	1953	26
+Arsenal FC	Wolverhampton Wanderers	4:1	5:3	17.01.1953	00:00	1952	1953	26
+Cardiff City	Tottenham Hotspur	0:0	0:0	17.01.1953	00:00	1952	1953	26
+Charlton Athletic	Sheffield Wednesday	0:0	3:0	17.01.1953	00:00	1952	1953	26
+Derby County	Sunderland AFC	0:0	3:1	17.01.1953	00:00	1952	1953	26
+Manchester United	Portsmouth FC	0:0	1:0	17.01.1953	00:00	1952	1953	26
+Middlesbrough FC	Stoke City	0:0	0:0	17.01.1953	00:00	1952	1953	26
+Charlton Athletic	Arsenal FC	1:1	2:2	24.01.1953	00:00	1952	1953	27
+Aston Villa	Chelsea FC	0:0	1:1	24.01.1953	00:00	1952	1953	27
+Bolton Wanderers	Manchester United	0:0	2:1	24.01.1953	00:00	1952	1953	27
+Preston North End	Newcastle United	0:0	2:1	24.01.1953	00:00	1952	1953	27
+Manchester City	Middlesbrough FC	0:0	5:1	24.01.1953	00:00	1952	1953	27
+Burnley FC	Cardiff City	0:0	0:0	24.01.1953	00:00	1952	1953	27
+Portsmouth FC	Liverpool FC	2:0	3:1	24.01.1953	00:00	1952	1953	27
+Stoke City	West Bromwich Albion	0:0	5:1	24.01.1953	00:00	1952	1953	27
+Sunderland AFC	Blackpool FC	0:0	1:1	24.01.1953	00:00	1952	1953	27
+Tottenham Hotspur	Sheffield Wednesday	0:0	2:1	24.01.1953	00:00	1952	1953	27
+Wolverhampton Wanderers	Derby County	0:0	3:1	24.01.1953	00:00	1952	1953	27
+Cardiff City	Preston North End	0:0	0:2	07.02.1953	00:00	1952	1953	28
+Derby County	Charlton Athletic	0:0	1:1	07.02.1953	00:00	1952	1953	28
+Manchester United	Aston Villa	0:0	3:1	07.02.1953	00:00	1952	1953	28
+Portsmouth FC	Bolton Wanderers	0:0	3:1	07.02.1953	00:00	1952	1953	28
+West Bromwich Albion	Manchester City	0:0	2:1	07.02.1953	00:00	1952	1953	28
+Sheffield Wednesday	Burnley FC	0:0	2:4	07.02.1953	00:00	1952	1953	28
+Middlesbrough FC	Liverpool FC	0:2	2:3	07.02.1953	00:00	1952	1953	28
+Arsenal FC	Tottenham Hotspur	1:0	4:0	07.02.1953	00:00	1952	1953	28
+Chelsea FC	Sunderland AFC	0:0	3:2	07.02.1953	00:00	1952	1953	28
+Newcastle United	Stoke City	0:0	1:2	07.02.1953	00:00	1952	1953	28
+Blackpool FC	Wolverhampton Wanderers	0:0	2:0	07.02.1953	00:00	1952	1953	28
+Preston North End	Sheffield Wednesday	0:0	1:0	14.02.1953	00:00	1952	1953	29
+Liverpool FC	West Bromwich Albion	1:0	3:0	14.02.1953	00:00	1952	1953	29
+Manchester City	Newcastle United	0:0	2:1	14.02.1953	00:00	1952	1953	29
+Stoke City	Cardiff City	0:0	0:0	14.02.1953	00:00	1952	1953	29
+Burnley FC	Tottenham Hotspur	0:0	3:2	17.02.1953	00:00	1952	1953	29
+Arsenal FC	Derby County	3:1	6:2	18.02.1953	00:00	1952	1953	29
+Aston Villa	Portsmouth FC	0:0	6:0	18.02.1953	00:00	1952	1953	29
+Bolton Wanderers	Middlesbrough FC	0:0	5:3	18.02.1953	00:00	1952	1953	29
+Sunderland AFC	Manchester United	0:1	2:2	18.02.1953	00:00	1952	1953	29
+Wolverhampton Wanderers	Chelsea FC	0:0	2:2	18.02.1953	00:00	1952	1953	29
+Charlton Athletic	Blackpool FC	0:0	2:0	23.02.1953	00:00	1952	1953	29
+Chelsea FC	Charlton Athletic	0:0	0:1	21.02.1953	00:00	1952	1953	30
+Bolton Wanderers	Aston Villa	0:0	0:0	21.02.1953	00:00	1952	1953	30
+Tottenham Hotspur	Preston North End	0:0	4:4	21.02.1953	00:00	1952	1953	30
+Newcastle United	Liverpool FC	1:2	1:2	21.02.1953	00:00	1952	1953	30
+Derby County	Burnley FC	0:0	1:3	21.02.1953	00:00	1952	1953	30
+Cardiff City	Manchester City	0:0	6:0	21.02.1953	00:00	1952	1953	30
+Blackpool FC	Arsenal FC	2:0	3:2	21.02.1953	00:00	1952	1953	30
+Manchester United	Wolverhampton Wanderers	0:1	0:3	21.02.1953	00:00	1952	1953	30
+Portsmouth FC	Sunderland AFC	0:0	5:2	21.02.1953	00:00	1952	1953	30
+West Bromwich Albion	Middlesbrough FC	0:0	3:0	21.02.1953	00:00	1952	1953	30
+Sheffield Wednesday	Stoke City	0:0	1:0	21.02.1953	00:00	1952	1953	30
+Cardiff City	Charlton Athletic	0:0	0:1	28.02.1953	00:00	1952	1953	31
+Preston North End	Chelsea FC	0:0	2:1	28.02.1953	00:00	1952	1953	31
+Manchester City	Portsmouth FC	0:0	2:1	28.02.1953	00:00	1952	1953	31
+Stoke City	Manchester United	2:1	3:1	28.02.1953	00:00	1952	1953	31
+West Bromwich Albion	Sunderland AFC	0:0	1:1	28.02.1953	00:00	1952	1953	31
+Newcastle United	Wolverhampton Wanderers	0:0	1:1	28.02.1953	00:00	1952	1953	31
+Sheffield Wednesday	Arsenal FC	0:2	1:4	02.03.1953	00:00	1952	1953	31
+Burnley FC	Blackpool FC	0:0	0:1	03.03.1953	00:00	1952	1953	31
+Liverpool FC	Bolton Wanderers	0:0	0:0	04.03.1953	00:00	1952	1953	31
+Middlesbrough FC	Aston Villa	0:0	1:0	04.03.1953	00:00	1952	1953	31
+Tottenham Hotspur	Derby County	0:0	5:2	12.03.1953	00:00	1952	1953	31
+Arsenal FC	Cardiff City	0:1	0:1	07.03.1953	00:00	1952	1953	32
+Aston Villa	Liverpool FC	2:0	4:0	07.03.1953	00:00	1952	1953	32
+Bolton Wanderers	Manchester City	0:0	1:0	07.03.1953	00:00	1952	1953	32
+Charlton Athletic	Newcastle United	0:0	0:0	07.03.1953	00:00	1952	1953	32
+Chelsea FC	Burnley FC	0:0	0:2	07.03.1953	00:00	1952	1953	32
+Blackpool FC	Tottenham Hotspur	0:0	2:0	07.03.1953	00:00	1952	1953	32
+Manchester United	Preston North End	3:1	5:2	07.03.1953	00:00	1952	1953	32
+Portsmouth FC	Stoke City	0:0	1:1	07.03.1953	00:00	1952	1953	32
+Sunderland AFC	Middlesbrough FC	0:0	1:1	07.03.1953	00:00	1952	1953	32
+Derby County	Sheffield Wednesday	0:0	2:1	07.03.1953	00:00	1952	1953	32
+Wolverhampton Wanderers	West Bromwich Albion	0:0	2:0	07.03.1953	00:00	1952	1953	32
+Newcastle United	Arsenal FC	0:1	2:2	14.03.1953	00:00	1952	1953	33
+Cardiff City	Derby County	0:0	2:0	14.03.1953	00:00	1952	1953	33
+Manchester City	Aston Villa	0:0	4:1	14.03.1953	00:00	1952	1953	33
+West Bromwich Albion	Charlton Athletic	0:0	3:1	14.03.1953	00:00	1952	1953	33
+Burnley FC	Manchester United	0:0	2:1	14.03.1953	00:00	1952	1953	33
+Stoke City	Bolton Wanderers	0:0	1:2	14.03.1953	00:00	1952	1953	33
+Liverpool FC	Sunderland AFC	2:0	2:0	14.03.1953	00:00	1952	1953	33
+Preston North End	Portsmouth FC	0:0	4:0	14.03.1953	00:00	1952	1953	33
+Tottenham Hotspur	Chelsea FC	0:0	2:3	14.03.1953	00:00	1952	1953	33
+Middlesbrough FC	Wolverhampton Wanderers	0:0	1:1	14.03.1953	00:00	1952	1953	33
+Sheffield Wednesday	Blackpool FC	0:0	2:0	14.03.1953	00:00	1952	1953	33
+Arsenal FC	West Bromwich Albion	2:1	2:2	21.03.1953	00:00	1952	1953	34
+Portsmouth FC	Burnley FC	0:0	2:1	21.03.1953	00:00	1952	1953	34
+Charlton Athletic	Middlesbrough FC	0:0	2:0	21.03.1953	00:00	1952	1953	34
+Derby County	Newcastle United	0:0	0:2	21.03.1953	00:00	1952	1953	34
+Sunderland AFC	Manchester City	0:0	3:3	21.03.1953	00:00	1952	1953	34
+Chelsea FC	Sheffield Wednesday	0:0	1:0	21.03.1953	00:00	1952	1953	34
+Wolverhampton Wanderers	Liverpool FC	2:0	3:0	21.03.1953	00:00	1952	1953	34
+Aston Villa	Stoke City	0:0	1:1	25.03.1953	00:00	1952	1953	34
+Bolton Wanderers	Preston North End	0:0	0:3	25.03.1953	00:00	1952	1953	34
+Manchester United	Tottenham Hotspur	1:1	3:2	25.03.1953	00:00	1952	1953	34
+Blackpool FC	Cardiff City	0:0	0:1	25.03.1953	00:00	1952	1953	34
+Middlesbrough FC	Arsenal FC	0:0	2:0	28.03.1953	00:00	1952	1953	35
+Burnley FC	Bolton Wanderers	0:0	0:1	28.03.1953	00:00	1952	1953	35
+Liverpool FC	Charlton Athletic	1:2	1:2	28.03.1953	00:00	1952	1953	35
+Preston North End	Aston Villa	0:0	1:3	28.03.1953	00:00	1952	1953	35
+West Bromwich Albion	Derby County	0:0	2:2	28.03.1953	00:00	1952	1953	35
+Tottenham Hotspur	Portsmouth FC	0:0	3:3	28.03.1953	00:00	1952	1953	35
+Stoke City	Sunderland AFC	0:0	3:0	28.03.1953	00:00	1952	1953	35
+Sheffield Wednesday	Manchester United	0:0	0:0	28.03.1953	00:00	1952	1953	35
+Newcastle United	Blackpool FC	0:0	0:1	28.03.1953	00:00	1952	1953	35
+Cardiff City	Chelsea FC	0:0	3:3	28.03.1953	00:00	1952	1953	35
+Manchester City	Wolverhampton Wanderers	0:0	3:1	28.03.1953	00:00	1952	1953	35
+Chelsea FC	Arsenal FC	1:1	1:1	03.04.1953	00:00	1952	1953	36
+Bolton Wanderers	Sunderland AFC	0:0	5:0	03.04.1953	00:00	1952	1953	36
+Burnley FC	Preston North End	0:0	2:2	03.04.1953	00:00	1952	1953	36
+Tottenham Hotspur	Stoke City	0:0	1:0	03.04.1953	00:00	1952	1953	36
+Portsmouth FC	Wolverhampton Wanderers	0:0	2:2	03.04.1953	00:00	1952	1953	36
+Newcastle United	Middlesbrough FC	0:0	1:0	03.04.1953	00:00	1952	1953	36
+Liverpool FC	Cardiff City	2:1	2:1	03.04.1953	00:00	1952	1953	36
+Charlton Athletic	Manchester United	2:1	2:2	03.04.1953	00:00	1952	1953	36
+Blackpool FC	Derby County	0:0	2:1	03.04.1953	00:00	1952	1953	36
+Manchester City	Sheffield Wednesday	0:0	3:1	03.04.1953	00:00	1952	1953	36
+West Bromwich Albion	Aston Villa	0:0	3:2	06.04.1953	00:00	1952	1953	36
+Arsenal FC	Liverpool FC	2:0	5:3	04.04.1953	00:00	1952	1953	37
+Aston Villa	Burnley FC	0:0	2:0	04.04.1953	00:00	1952	1953	37
+Bolton Wanderers	Tottenham Hotspur	0:0	2:3	04.04.1953	00:00	1952	1953	37
+Charlton Athletic	Manchester City	0:0	1:2	04.04.1953	00:00	1952	1953	37
+Sunderland AFC	Preston North End	0:0	2:2	04.04.1953	00:00	1952	1953	37
+Wolverhampton Wanderers	Stoke City	0:0	3:0	04.04.1953	00:00	1952	1953	37
+Portsmouth FC	Sheffield Wednesday	0:0	5:2	04.04.1953	00:00	1952	1953	37
+Manchester United	Cardiff City	0:2	1:4	04.04.1953	00:00	1952	1953	37
+Derby County	Middlesbrough FC	0:0	3:3	04.04.1953	00:00	1952	1953	37
+Chelsea FC	Newcastle United	0:0	1:2	04.04.1953	00:00	1952	1953	37
+Blackpool FC	West Bromwich Albion	0:0	2:0	04.04.1953	00:00	1952	1953	37
+Arsenal FC	Chelsea FC	1:0	2:0	06.04.1953	00:00	1952	1953	38
+Preston North End	Burnley FC	0:0	2:1	06.04.1953	00:00	1952	1953	38
+Sunderland AFC	Bolton Wanderers	0:0	2:0	06.04.1953	00:00	1952	1953	38
+Cardiff City	Liverpool FC	1:0	4:0	06.04.1953	00:00	1952	1953	38
+Wolverhampton Wanderers	Portsmouth FC	0:0	4:1	06.04.1953	00:00	1952	1953	38
+Stoke City	Tottenham Hotspur	0:0	2:0	06.04.1953	00:00	1952	1953	38
+Middlesbrough FC	Newcastle United	0:0	2:1	06.04.1953	00:00	1952	1953	38
+Manchester United	Charlton Athletic	1:1	3:2	06.04.1953	00:00	1952	1953	38
+Derby County	Blackpool FC	0:0	1:1	06.04.1953	00:00	1952	1953	38
+Sheffield Wednesday	Manchester City	0:0	1:1	06.04.1953	00:00	1952	1953	38
+Aston Villa	West Bromwich Albion	0:0	1:1	07.04.1953	00:00	1952	1953	38
+Manchester City	Arsenal FC	1:2	2:4	11.04.1953	00:00	1952	1953	39
+Burnley FC	Sunderland AFC	0:0	5:1	11.04.1953	00:00	1952	1953	39
+Preston North End	Wolverhampton Wanderers	0:0	1:1	11.04.1953	00:00	1952	1953	39
+Sheffield Wednesday	Bolton Wanderers	0:0	1:1	11.04.1953	00:00	1952	1953	39
+Tottenham Hotspur	Aston Villa	0:0	1:1	11.04.1953	00:00	1952	1953	39
+West Bromwich Albion	Chelsea FC	0:0	0:1	11.04.1953	00:00	1952	1953	39
+Stoke City	Charlton Athletic	0:0	1:0	11.04.1953	00:00	1952	1953	39
+Newcastle United	Manchester United	1:1	1:2	11.04.1953	00:00	1952	1953	39
+Middlesbrough FC	Blackpool FC	0:0	5:1	11.04.1953	00:00	1952	1953	39
+Liverpool FC	Derby County	0:1	1:1	11.04.1953	00:00	1952	1953	39
+Cardiff City	Portsmouth FC	0:0	0:1	11.04.1953	00:00	1952	1953	39
+Aston Villa	Sheffield Wednesday	0:0	4:3	18.04.1953	00:00	1952	1953	40
+Charlton Athletic	Preston North End	0:0	2:1	18.04.1953	00:00	1952	1953	40
+Derby County	Manchester City	0:0	5:0	18.04.1953	00:00	1952	1953	40
+Wolverhampton Wanderers	Burnley FC	0:0	5:1	18.04.1953	00:00	1952	1953	40
+Sunderland AFC	Tottenham Hotspur	0:0	1:1	18.04.1953	00:00	1952	1953	40
+Portsmouth FC	Newcastle United	0:0	5:1	18.04.1953	00:00	1952	1953	40
+Manchester United	West Bromwich Albion	2:1	2:2	18.04.1953	00:00	1952	1953	40
+Chelsea FC	Middlesbrough FC	0:0	1:1	18.04.1953	00:00	1952	1953	40
+Bolton Wanderers	Cardiff City	0:0	0:1	18.04.1953	00:00	1952	1953	40
+Arsenal FC	Stoke City	2:0	3:1	18.04.1953	00:00	1952	1953	40
+Blackpool FC	Liverpool FC	0:0	3:1	18.04.1953	00:00	1952	1953	40
+Cardiff City	Aston Villa	0:0	1:2	25.04.1953	00:00	1952	1953	41
+West Bromwich Albion	Portsmouth FC	0:0	2:0	25.04.1953	00:00	1952	1953	41
+Tottenham Hotspur	Wolverhampton Wanderers	0:0	3:2	25.04.1953	00:00	1952	1953	41
+Preston North End	Arsenal FC	1:0	2:0	25.04.1953	00:00	1952	1953	41
+Liverpool FC	Chelsea FC	1:0	2:0	25.04.1953	00:00	1952	1953	41
+Burnley FC	Charlton Athletic	0:0	2:0	25.04.1953	00:00	1952	1953	41
+Manchester City	Blackpool FC	0:0	5:0	25.04.1953	00:00	1952	1953	41
+Middlesbrough FC	Manchester United	2:0	5:0	25.04.1953	00:00	1952	1953	41
+Newcastle United	Bolton Wanderers	0:0	2:3	25.04.1953	00:00	1952	1953	41
+Sheffield Wednesday	Sunderland AFC	0:0	4:0	25.04.1953	00:00	1952	1953	41
+Stoke City	Derby County	0:0	1:2	25.04.1953	00:00	1952	1953	41
+Wolverhampton Wanderers	Sheffield Wednesday	0:0	3:1	31.01.1953	00:00	1952	1953	42
+Blackpool FC	Stoke City	0:0	1:1	15.04.1953	00:00	1952	1953	42
+Manchester United	Liverpool FC	2:0	3:1	20.04.1953	00:00	1952	1953	42
+Bolton Wanderers	West Bromwich Albion	0:0	0:1	22.04.1953	00:00	1952	1953	42
+Sunderland AFC	Cardiff City	0:0	4:2	27.04.1953	00:00	1952	1953	42
+Derby County	Preston North End	0:0	0:1	29.04.1953	00:00	1952	1953	42
+Chelsea FC	Manchester City	0:0	3:1	29.04.1953	00:00	1952	1953	42
+Charlton Athletic	Tottenham Hotspur	0:0	3:2	30.04.1953	00:00	1952	1953	42
+Arsenal FC	Burnley FC	3:1	3:2	01.05.1953	00:00	1952	1953	42
+Aston Villa	Newcastle United	0:0	0:1	01.05.1953	00:00	1952	1953	42
+Portsmouth FC	Middlesbrough FC	0:0	1:4	02.05.1953	00:00	1952	1953	42

@@ -1,0 +1,306 @@
+Bayern MÃ¼nchen	Werder Bremen	2:0	6:0	26.08.2016	20:30	2016	2017	1
+Eintracht Frankfurt	FC Schalke 04	1:0	1:0	27.08.2016	15:30	2016	2017	1
+FC Augsburg	VfL Wolfsburg	0:1	0:2	27.08.2016	15:30	2016	2017	1
+Hamburger SV	FC Ingolstadt 04	1:0	1:1	27.08.2016	15:30	2016	2017	1
+1. FC KÃ¶ln	SV Darmstadt 98	1:0	2:0	27.08.2016	15:30	2016	2017	1
+Borussia Dortmund	1. FSV Mainz 05	1:0	2:1	27.08.2016	15:30	2016	2017	1
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	1:0	2:1	27.08.2016	18:30	2016	2017	1
+Hertha BSC	SC Freiburg	0:0	2:1	28.08.2016	15:30	2016	2017	1
+1899 Hoffenheim	RB Leipzig	0:0	2:2	28.08.2016	17:30	2016	2017	1
+FC Schalke 04	Bayern MÃ¼nchen	0:0	0:2	09.09.2016	20:30	2016	2017	2
+Bayer Leverkusen	Hamburger SV	0:0	3:1	10.09.2016	15:30	2016	2017	2
+VfL Wolfsburg	1. FC KÃ¶ln	0:0	0:0	10.09.2016	15:30	2016	2017	2
+FC Ingolstadt 04	Hertha BSC	0:1	0:2	10.09.2016	15:30	2016	2017	2
+SV Darmstadt 98	Eintracht Frankfurt	0:0	1:0	10.09.2016	15:30	2016	2017	2
+SC Freiburg	Bor. MÃ¶nchengladbach	0:1	3:1	10.09.2016	15:30	2016	2017	2
+RB Leipzig	Borussia Dortmund	0:0	1:0	10.09.2016	18:30	2016	2017	2
+Werder Bremen	FC Augsburg	1:0	1:2	11.09.2016	15:30	2016	2017	2
+1. FSV Mainz 05	1899 Hoffenheim	4:1	4:4	11.09.2016	17:30	2016	2017	2
+1. FC KÃ¶ln	SC Freiburg	3:0	3:0	16.09.2016	20:30	2016	2017	3
+Bayern MÃ¼nchen	FC Ingolstadt 04	1:1	3:1	17.09.2016	15:30	2016	2017	3
+Borussia Dortmund	SV Darmstadt 98	1:0	6:0	17.09.2016	15:30	2016	2017	3
+Hamburger SV	RB Leipzig	0:0	0:4	17.09.2016	15:30	2016	2017	3
+1899 Hoffenheim	VfL Wolfsburg	0:0	0:0	17.09.2016	15:30	2016	2017	3
+Eintracht Frankfurt	Bayer Leverkusen	0:0	2:1	17.09.2016	15:30	2016	2017	3
+Bor. MÃ¶nchengladbach	Werder Bremen	4:0	4:1	17.09.2016	18:30	2016	2017	3
+FC Augsburg	1. FSV Mainz 05	0:1	1:3	18.09.2016	15:30	2016	2017	3
+Hertha BSC	FC Schalke 04	0:0	2:0	18.09.2016	17:30	2016	2017	3
+VfL Wolfsburg	Borussia Dortmund	0:2	1:5	20.09.2016	20:00	2016	2017	4
+FC Ingolstadt 04	Eintracht Frankfurt	0:1	0:2	20.09.2016	20:00	2016	2017	4
+SV Darmstadt 98	1899 Hoffenheim	0:0	1:1	20.09.2016	20:00	2016	2017	4
+SC Freiburg	Hamburger SV	0:0	1:0	20.09.2016	20:00	2016	2017	4
+Bayern MÃ¼nchen	Hertha BSC	1:0	3:0	21.09.2016	20:00	2016	2017	4
+Bayer Leverkusen	FC Augsburg	0:0	0:0	21.09.2016	20:00	2016	2017	4
+FC Schalke 04	1. FC KÃ¶ln	1:1	1:3	21.09.2016	20:00	2016	2017	4
+Werder Bremen	1. FSV Mainz 05	1:0	1:2	21.09.2016	20:00	2016	2017	4
+RB Leipzig	Bor. MÃ¶nchengladbach	1:0	1:1	21.09.2016	20:00	2016	2017	4
+Borussia Dortmund	SC Freiburg	1:0	3:1	23.09.2016	20:30	2016	2017	5
+Bor. MÃ¶nchengladbach	FC Ingolstadt 04	1:0	2:0	24.09.2016	15:30	2016	2017	5
+1. FSV Mainz 05	Bayer Leverkusen	2:1	2:3	24.09.2016	15:30	2016	2017	5
+Hamburger SV	Bayern MÃ¼nchen	0:0	0:1	24.09.2016	15:30	2016	2017	5
+FC Augsburg	SV Darmstadt 98	0:0	1:0	24.09.2016	15:30	2016	2017	5
+Eintracht Frankfurt	Hertha BSC	2:1	3:3	24.09.2016	15:30	2016	2017	5
+Werder Bremen	VfL Wolfsburg	0:0	2:1	24.09.2016	18:30	2016	2017	5
+1899 Hoffenheim	FC Schalke 04	2:1	2:1	25.09.2016	15:30	2016	2017	5
+1. FC KÃ¶ln	RB Leipzig	1:1	1:1	25.09.2016	17:45	2016	2017	5
+RB Leipzig	FC Augsburg	1:1	2:1	30.09.2016	20:30	2016	2017	6
+Bayern MÃ¼nchen	1. FC KÃ¶ln	1:0	1:1	01.10.2016	15:30	2016	2017	6
+Hertha BSC	Hamburger SV	1:0	2:0	01.10.2016	15:30	2016	2017	6
+FC Ingolstadt 04	1899 Hoffenheim	0:2	1:2	01.10.2016	15:30	2016	2017	6
+SV Darmstadt 98	Werder Bremen	1:0	2:2	01.10.2016	15:30	2016	2017	6
+SC Freiburg	Eintracht Frankfurt	1:0	1:0	01.10.2016	15:30	2016	2017	6
+Bayer Leverkusen	Borussia Dortmund	1:0	2:0	01.10.2016	18:30	2016	2017	6
+VfL Wolfsburg	1. FSV Mainz 05	0:0	0:0	02.10.2016	15:30	2016	2017	6
+FC Schalke 04	Bor. MÃ¶nchengladbach	0:0	4:0	02.10.2016	17:30	2016	2017	6
+Borussia Dortmund	Hertha BSC	0:0	1:1	14.10.2016	20:30	2016	2017	7
+Bor. MÃ¶nchengladbach	Hamburger SV	0:0	0:0	15.10.2016	15:30	2016	2017	7
+1. FC KÃ¶ln	FC Ingolstadt 04	2:0	2:1	15.10.2016	15:30	2016	2017	7
+FC Augsburg	FC Schalke 04	0:0	1:1	15.10.2016	15:30	2016	2017	7
+1899 Hoffenheim	SC Freiburg	1:0	2:1	15.10.2016	15:30	2016	2017	7
+Eintracht Frankfurt	Bayern MÃ¼nchen	1:1	2:2	15.10.2016	15:30	2016	2017	7
+Werder Bremen	Bayer Leverkusen	1:1	2:1	15.10.2016	18:30	2016	2017	7
+1. FSV Mainz 05	SV Darmstadt 98	1:0	2:1	16.10.2016	15:30	2016	2017	7
+VfL Wolfsburg	RB Leipzig	0:0	0:1	16.10.2016	17:30	2016	2017	7
+Hamburger SV	Eintracht Frankfurt	0:1	0:3	21.10.2016	20:30	2016	2017	8
+Bayer Leverkusen	1899 Hoffenheim	0:1	0:3	22.10.2016	15:30	2016	2017	8
+Hertha BSC	1. FC KÃ¶ln	1:0	2:1	22.10.2016	15:30	2016	2017	8
+FC Ingolstadt 04	Borussia Dortmund	2:0	3:3	22.10.2016	15:30	2016	2017	8
+SV Darmstadt 98	VfL Wolfsburg	1:0	3:1	22.10.2016	15:30	2016	2017	8
+SC Freiburg	FC Augsburg	0:0	2:1	22.10.2016	15:30	2016	2017	8
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	2:0	2:0	22.10.2016	18:30	2016	2017	8
+RB Leipzig	Werder Bremen	1:0	3:1	23.10.2016	15:30	2016	2017	8
+FC Schalke 04	1. FSV Mainz 05	1:0	3:0	23.10.2016	17:30	2016	2017	8
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:0	0:0	28.10.2016	20:30	2016	2017	9
+1. FSV Mainz 05	FC Ingolstadt 04	0:0	2:0	29.10.2016	15:30	2016	2017	9
+VfL Wolfsburg	Bayer Leverkusen	1:0	1:2	29.10.2016	15:30	2016	2017	9
+FC Augsburg	Bayern MÃ¼nchen	0:2	1:3	29.10.2016	15:30	2016	2017	9
+Werder Bremen	SC Freiburg	0:2	1:3	29.10.2016	15:30	2016	2017	9
+SV Darmstadt 98	RB Leipzig	0:0	0:2	29.10.2016	15:30	2016	2017	9
+Borussia Dortmund	FC Schalke 04	0:0	0:0	29.10.2016	18:30	2016	2017	9
+1899 Hoffenheim	Hertha BSC	1:0	1:0	30.10.2016	15:30	2016	2017	9
+1. FC KÃ¶ln	Hamburger SV	0:0	3:0	30.10.2016	17:30	2016	2017	9
+Hertha BSC	Bor. MÃ¶nchengladbach	2:0	3:0	04.11.2016	20:30	2016	2017	10
+Bayern MÃ¼nchen	1899 Hoffenheim	1:1	1:1	05.11.2016	15:30	2016	2017	10
+Bayer Leverkusen	SV Darmstadt 98	1:0	3:2	05.11.2016	15:30	2016	2017	10
+Hamburger SV	Borussia Dortmund	0:3	2:5	05.11.2016	15:30	2016	2017	10
+FC Ingolstadt 04	FC Augsburg	0:0	0:2	05.11.2016	15:30	2016	2017	10
+SC Freiburg	VfL Wolfsburg	0:1	0:3	05.11.2016	15:30	2016	2017	10
+Eintracht Frankfurt	1. FC KÃ¶ln	1:0	1:0	05.11.2016	18:30	2016	2017	10
+RB Leipzig	1. FSV Mainz 05	3:0	3:1	06.11.2016	15:30	2016	2017	10
+FC Schalke 04	Werder Bremen	2:1	3:1	06.11.2016	17:30	2016	2017	10
+Bayer Leverkusen	RB Leipzig	2:1	2:3	18.11.2016	20:30	2016	2017	11
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	1:0	1:2	19.11.2016	15:30	2016	2017	11
+1. FSV Mainz 05	SC Freiburg	2:0	4:2	19.11.2016	15:30	2016	2017	11
+VfL Wolfsburg	FC Schalke 04	0:0	0:1	19.11.2016	15:30	2016	2017	11
+FC Augsburg	Hertha BSC	0:0	0:0	19.11.2016	15:30	2016	2017	11
+SV Darmstadt 98	FC Ingolstadt 04	0:0	0:1	19.11.2016	15:30	2016	2017	11
+Borussia Dortmund	Bayern MÃ¼nchen	1:0	1:0	19.11.2016	18:30	2016	2017	11
+1899 Hoffenheim	Hamburger SV	1:1	2:2	20.11.2016	15:30	2016	2017	11
+Werder Bremen	Eintracht Frankfurt	1:0	1:2	20.11.2016	17:30	2016	2017	11
+SC Freiburg	RB Leipzig	1:3	1:4	25.11.2016	20:30	2016	2017	12
+Bor. MÃ¶nchengladbach	1899 Hoffenheim	1:0	1:1	26.11.2016	15:30	2016	2017	12
+1. FC KÃ¶ln	FC Augsburg	0:0	0:0	26.11.2016	15:30	2016	2017	12
+Hamburger SV	Werder Bremen	2:2	2:2	26.11.2016	15:30	2016	2017	12
+FC Ingolstadt 04	VfL Wolfsburg	1:0	1:1	26.11.2016	15:30	2016	2017	12
+Eintracht Frankfurt	Borussia Dortmund	0:0	2:1	26.11.2016	15:30	2016	2017	12
+Bayern MÃ¼nchen	Bayer Leverkusen	1:1	2:1	26.11.2016	18:30	2016	2017	12
+FC Schalke 04	SV Darmstadt 98	1:1	3:1	27.11.2016	15:30	2016	2017	12
+Hertha BSC	1. FSV Mainz 05	1:1	2:1	27.11.2016	17:30	2016	2017	12
+1. FSV Mainz 05	Bayern MÃ¼nchen	1:2	1:3	02.12.2016	20:30	2016	2017	13
+Borussia Dortmund	Bor. MÃ¶nchengladbach	2:1	4:1	03.12.2016	15:30	2016	2017	13
+Bayer Leverkusen	SC Freiburg	0:1	1:1	03.12.2016	15:30	2016	2017	13
+VfL Wolfsburg	Hertha BSC	2:1	2:3	03.12.2016	15:30	2016	2017	13
+Werder Bremen	FC Ingolstadt 04	1:0	2:1	03.12.2016	15:30	2016	2017	13
+1899 Hoffenheim	1. FC KÃ¶ln	2:0	4:0	03.12.2016	15:30	2016	2017	13
+RB Leipzig	FC Schalke 04	1:1	2:1	03.12.2016	18:30	2016	2017	13
+SV Darmstadt 98	Hamburger SV	0:1	0:2	04.12.2016	15:30	2016	2017	13
+FC Augsburg	Eintracht Frankfurt	1:1	1:1	04.12.2016	17:30	2016	2017	13
+Eintracht Frankfurt	1899 Hoffenheim	0:0	0:0	09.12.2016	20:30	2016	2017	14
+Bayern MÃ¼nchen	VfL Wolfsburg	2:0	5:0	10.12.2016	15:30	2016	2017	14
+1. FC KÃ¶ln	Borussia Dortmund	1:0	1:1	10.12.2016	15:30	2016	2017	14
+Hamburger SV	FC Augsburg	0:0	1:0	10.12.2016	15:30	2016	2017	14
+FC Ingolstadt 04	RB Leipzig	1:0	1:0	10.12.2016	15:30	2016	2017	14
+SC Freiburg	SV Darmstadt 98	0:0	1:0	10.12.2016	15:30	2016	2017	14
+Hertha BSC	Werder Bremen	0:1	0:1	10.12.2016	18:30	2016	2017	14
+Bor. MÃ¶nchengladbach	1. FSV Mainz 05	0:0	1:0	11.12.2016	15:30	2016	2017	14
+FC Schalke 04	Bayer Leverkusen	0:0	0:1	11.12.2016	17:30	2016	2017	14
+1899 Hoffenheim	Borussia Dortmund	2:1	2:2	16.12.2016	20:30	2016	2017	15
+FC Schalke 04	SC Freiburg	0:0	1:1	17.12.2016	15:30	2016	2017	15
+1. FSV Mainz 05	Hamburger SV	1:1	3:1	17.12.2016	15:30	2016	2017	15
+FC Augsburg	Bor. MÃ¶nchengladbach	0:0	1:0	17.12.2016	15:30	2016	2017	15
+Werder Bremen	1. FC KÃ¶ln	1:1	1:1	17.12.2016	15:30	2016	2017	15
+RB Leipzig	Hertha BSC	1:0	2:0	17.12.2016	15:30	2016	2017	15
+VfL Wolfsburg	Eintracht Frankfurt	1:0	1:0	17.12.2016	18:30	2016	2017	15
+SV Darmstadt 98	Bayern MÃ¼nchen	0:0	0:1	18.12.2016	15:30	2016	2017	15
+Bayer Leverkusen	FC Ingolstadt 04	0:1	1:2	18.12.2016	17:30	2016	2017	15
+Borussia Dortmund	FC Augsburg	0:1	1:1	20.12.2016	20:00	2016	2017	16
+Bor. MÃ¶nchengladbach	VfL Wolfsburg	0:1	1:2	20.12.2016	20:00	2016	2017	16
+Hamburger SV	FC Schalke 04	0:0	2:1	20.12.2016	20:00	2016	2017	16
+Eintracht Frankfurt	1. FSV Mainz 05	1:0	3:0	20.12.2016	20:00	2016	2017	16
+Bayern MÃ¼nchen	RB Leipzig	3:0	3:0	21.12.2016	20:00	2016	2017	16
+Hertha BSC	SV Darmstadt 98	0:0	2:0	21.12.2016	20:00	2016	2017	16
+1. FC KÃ¶ln	Bayer Leverkusen	1:1	1:1	21.12.2016	20:00	2016	2017	16
+FC Ingolstadt 04	SC Freiburg	0:2	1:2	21.12.2016	20:00	2016	2017	16
+1899 Hoffenheim	Werder Bremen	1:0	1:1	21.12.2016	20:00	2016	2017	16
+SC Freiburg	Bayern MÃ¼nchen	1:1	1:2	20.01.2017	20:30	2016	2017	17
+FC Schalke 04	FC Ingolstadt 04	0:0	1:0	21.01.2017	15:30	2016	2017	17
+VfL Wolfsburg	Hamburger SV	0:0	1:0	21.01.2017	15:30	2016	2017	17
+FC Augsburg	1899 Hoffenheim	0:0	0:2	21.01.2017	15:30	2016	2017	17
+Werder Bremen	Borussia Dortmund	0:1	1:2	21.01.2017	15:30	2016	2017	17
+SV Darmstadt 98	Bor. MÃ¶nchengladbach	0:0	0:0	21.01.2017	15:30	2016	2017	17
+RB Leipzig	Eintracht Frankfurt	2:0	3:0	21.01.2017	18:30	2016	2017	17
+Bayer Leverkusen	Hertha BSC	2:1	3:1	22.01.2017	15:30	2016	2017	17
+1. FSV Mainz 05	1. FC KÃ¶ln	0:0	0:0	22.01.2017	17:30	2016	2017	17
+FC Schalke 04	Eintracht Frankfurt	0:1	0:1	27.01.2017	20:30	2016	2017	18
+Werder Bremen	Bayern MÃ¼nchen	0:2	1:2	28.01.2017	15:30	2016	2017	18
+RB Leipzig	1899 Hoffenheim	1:1	2:1	28.01.2017	15:30	2016	2017	18
+VfL Wolfsburg	FC Augsburg	1:1	1:2	28.01.2017	15:30	2016	2017	18
+FC Ingolstadt 04	Hamburger SV	2:0	3:1	28.01.2017	15:30	2016	2017	18
+SV Darmstadt 98	1. FC KÃ¶ln	0:3	1:6	28.01.2017	15:30	2016	2017	18
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	2:0	2:3	28.01.2017	18:30	2016	2017	18
+SC Freiburg	Hertha BSC	1:0	2:1	29.01.2017	15:30	2016	2017	18
+1. FSV Mainz 05	Borussia Dortmund	0:1	1:1	29.01.2017	17:30	2016	2017	18
+Hamburger SV	Bayer Leverkusen	0:0	1:0	03.02.2017	20:30	2016	2017	19
+Bayern MÃ¼nchen	FC Schalke 04	1:1	1:1	04.02.2017	15:30	2016	2017	19
+1899 Hoffenheim	1. FSV Mainz 05	1:0	4:0	04.02.2017	15:30	2016	2017	19
+1. FC KÃ¶ln	VfL Wolfsburg	0:0	1:0	04.02.2017	15:30	2016	2017	19
+Hertha BSC	FC Ingolstadt 04	1:0	1:0	04.02.2017	15:30	2016	2017	19
+Bor. MÃ¶nchengladbach	SC Freiburg	0:0	3:0	04.02.2017	15:30	2016	2017	19
+Borussia Dortmund	RB Leipzig	1:0	1:0	04.02.2017	18:30	2016	2017	19
+FC Augsburg	Werder Bremen	1:1	3:2	05.02.2017	15:30	2016	2017	19
+Eintracht Frankfurt	SV Darmstadt 98	0:0	2:0	05.02.2017	17:30	2016	2017	19
+1. FSV Mainz 05	FC Augsburg	1:0	2:0	10.02.2017	20:30	2016	2017	20
+FC Ingolstadt 04	Bayern MÃ¼nchen	0:0	0:2	11.02.2017	15:30	2016	2017	20
+SV Darmstadt 98	Borussia Dortmund	1:1	2:1	11.02.2017	15:30	2016	2017	20
+Werder Bremen	Bor. MÃ¶nchengladbach	0:1	0:1	11.02.2017	15:30	2016	2017	20
+RB Leipzig	Hamburger SV	0:2	0:3	11.02.2017	15:30	2016	2017	20
+Bayer Leverkusen	Eintracht Frankfurt	1:0	3:0	11.02.2017	15:30	2016	2017	20
+FC Schalke 04	Hertha BSC	1:0	2:0	11.02.2017	18:30	2016	2017	20
+VfL Wolfsburg	1899 Hoffenheim	0:1	2:1	12.02.2017	15:30	2016	2017	20
+SC Freiburg	1. FC KÃ¶ln	1:1	2:1	12.02.2017	17:30	2016	2017	20
+FC Augsburg	Bayer Leverkusen	0:2	1:3	17.02.2017	20:30	2016	2017	21
+Hertha BSC	Bayern MÃ¼nchen	1:0	1:1	18.02.2017	15:30	2016	2017	21
+Borussia Dortmund	VfL Wolfsburg	1:0	3:0	18.02.2017	15:30	2016	2017	21
+Eintracht Frankfurt	FC Ingolstadt 04	0:1	0:2	18.02.2017	15:30	2016	2017	21
+1. FSV Mainz 05	Werder Bremen	0:2	0:2	18.02.2017	15:30	2016	2017	21
+1899 Hoffenheim	SV Darmstadt 98	0:0	2:0	18.02.2017	15:30	2016	2017	21
+Hamburger SV	SC Freiburg	1:1	2:2	18.02.2017	18:30	2016	2017	21
+Bor. MÃ¶nchengladbach	RB Leipzig	0:1	1:2	19.02.2017	15:30	2016	2017	21
+1. FC KÃ¶ln	FC Schalke 04	1:1	1:1	19.02.2017	17:30	2016	2017	21
+VfL Wolfsburg	Werder Bremen	1:2	1:2	24.02.2017	20:30	2016	2017	22
+SC Freiburg	Borussia Dortmund	0:1	0:3	25.02.2017	15:30	2016	2017	22
+Bayer Leverkusen	1. FSV Mainz 05	0:2	0:2	25.02.2017	15:30	2016	2017	22
+RB Leipzig	1. FC KÃ¶ln	2:0	3:1	25.02.2017	15:30	2016	2017	22
+Bayern MÃ¼nchen	Hamburger SV	3:0	8:0	25.02.2017	15:30	2016	2017	22
+SV Darmstadt 98	FC Augsburg	0:0	1:2	25.02.2017	15:30	2016	2017	22
+Hertha BSC	Eintracht Frankfurt	0:0	2:0	25.02.2017	18:30	2016	2017	22
+FC Ingolstadt 04	Bor. MÃ¶nchengladbach	0:0	0:2	26.02.2017	15:30	2016	2017	22
+FC Schalke 04	1899 Hoffenheim	1:0	1:1	26.02.2017	17:30	2016	2017	22
+FC Augsburg	RB Leipzig	1:1	2:2	03.03.2017	20:30	2016	2017	23
+1. FC KÃ¶ln	Bayern MÃ¼nchen	0:1	0:3	04.03.2017	15:30	2016	2017	23
+Borussia Dortmund	Bayer Leverkusen	2:0	6:2	04.03.2017	15:30	2016	2017	23
+1. FSV Mainz 05	VfL Wolfsburg	1:1	1:1	04.03.2017	15:30	2016	2017	23
+1899 Hoffenheim	FC Ingolstadt 04	1:1	5:2	04.03.2017	15:30	2016	2017	23
+Werder Bremen	SV Darmstadt 98	0:0	2:0	04.03.2017	15:30	2016	2017	23
+Bor. MÃ¶nchengladbach	FC Schalke 04	1:1	4:2	04.03.2017	18:30	2016	2017	23
+Eintracht Frankfurt	SC Freiburg	1:1	1:2	05.03.2017	15:30	2016	2017	23
+Hamburger SV	Hertha BSC	0:0	1:0	05.03.2017	17:30	2016	2017	23
+Bayer Leverkusen	Werder Bremen	1:0	1:1	10.03.2017	20:30	2016	2017	24
+Hertha BSC	Borussia Dortmund	1:0	2:1	11.03.2017	15:30	2016	2017	24
+SV Darmstadt 98	1. FSV Mainz 05	2:1	2:1	11.03.2017	15:30	2016	2017	24
+RB Leipzig	VfL Wolfsburg	0:1	0:1	11.03.2017	15:30	2016	2017	24
+SC Freiburg	1899 Hoffenheim	0:0	1:1	11.03.2017	15:30	2016	2017	24
+Bayern MÃ¼nchen	Eintracht Frankfurt	2:0	3:0	11.03.2017	15:30	2016	2017	24
+FC Ingolstadt 04	1. FC KÃ¶ln	1:1	2:2	11.03.2017	18:30	2016	2017	24
+FC Schalke 04	FC Augsburg	3:0	3:0	12.03.2017	15:30	2016	2017	24
+Hamburger SV	Bor. MÃ¶nchengladbach	1:1	2:1	12.03.2017	17:30	2016	2017	24
+Borussia Dortmund	FC Ingolstadt 04	1:0	1:0	17.03.2017	20:30	2016	2017	25
+1899 Hoffenheim	Bayer Leverkusen	0:0	1:0	18.03.2017	15:30	2016	2017	25
+1. FC KÃ¶ln	Hertha BSC	3:0	4:2	18.03.2017	15:30	2016	2017	25
+VfL Wolfsburg	SV Darmstadt 98	1:0	1:0	18.03.2017	15:30	2016	2017	25
+Werder Bremen	RB Leipzig	1:0	3:0	18.03.2017	15:30	2016	2017	25
+FC Augsburg	SC Freiburg	1:1	1:1	18.03.2017	15:30	2016	2017	25
+Eintracht Frankfurt	Hamburger SV	0:0	0:0	18.03.2017	18:30	2016	2017	25
+1. FSV Mainz 05	FC Schalke 04	0:0	0:1	19.03.2017	15:30	2016	2017	25
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:0	0:1	19.03.2017	17:30	2016	2017	25
+Hertha BSC	1899 Hoffenheim	1:1	1:3	31.03.2017	20:30	2016	2017	26
+FC Schalke 04	Borussia Dortmund	0:0	1:1	01.04.2017	15:30	2016	2017	26
+Hamburger SV	1. FC KÃ¶ln	1:1	2:1	01.04.2017	15:30	2016	2017	26
+Bayern MÃ¼nchen	FC Augsburg	2:0	6:0	01.04.2017	15:30	2016	2017	26
+SC Freiburg	Werder Bremen	0:2	2:5	01.04.2017	15:30	2016	2017	26
+RB Leipzig	SV Darmstadt 98	1:0	4:0	01.04.2017	15:30	2016	2017	26
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	0:0	0:0	01.04.2017	18:30	2016	2017	26
+FC Ingolstadt 04	1. FSV Mainz 05	1:0	2:1	02.04.2017	15:30	2016	2017	26
+Bayer Leverkusen	VfL Wolfsburg	1:0	3:3	02.04.2017	17:30	2016	2017	26
+1899 Hoffenheim	Bayern MÃ¼nchen	1:0	1:0	04.04.2017	20:00	2016	2017	27
+Werder Bremen	FC Schalke 04	1:0	3:0	04.04.2017	20:00	2016	2017	27
+Borussia Dortmund	Hamburger SV	1:0	3:0	04.04.2017	20:00	2016	2017	27
+1. FC KÃ¶ln	Eintracht Frankfurt	0:0	1:0	04.04.2017	20:00	2016	2017	27
+SV Darmstadt 98	Bayer Leverkusen	0:1	0:2	05.04.2017	20:00	2016	2017	27
+Bor. MÃ¶nchengladbach	Hertha BSC	1:0	1:0	05.04.2017	20:00	2016	2017	27
+FC Augsburg	FC Ingolstadt 04	0:2	2:3	05.04.2017	20:00	2016	2017	27
+VfL Wolfsburg	SC Freiburg	0:0	0:1	05.04.2017	20:00	2016	2017	27
+1. FSV Mainz 05	RB Leipzig	0:0	2:3	05.04.2017	20:00	2016	2017	27
+Eintracht Frankfurt	Werder Bremen	0:2	2:2	07.04.2017	20:30	2016	2017	28
+RB Leipzig	Bayer Leverkusen	0:0	1:0	08.04.2017	15:30	2016	2017	28
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	1:1	2:3	08.04.2017	15:30	2016	2017	28
+SC Freiburg	1. FSV Mainz 05	0:0	1:0	08.04.2017	15:30	2016	2017	28
+FC Schalke 04	VfL Wolfsburg	2:0	4:1	08.04.2017	15:30	2016	2017	28
+Hamburger SV	1899 Hoffenheim	1:1	2:1	08.04.2017	15:30	2016	2017	28
+Bayern MÃ¼nchen	Borussia Dortmund	2:1	4:1	08.04.2017	18:30	2016	2017	28
+Hertha BSC	FC Augsburg	2:0	2:0	09.04.2017	15:30	2016	2017	28
+FC Ingolstadt 04	SV Darmstadt 98	1:2	3:2	09.04.2017	17:30	2016	2017	28
+1899 Hoffenheim	Bor. MÃ¶nchengladbach	2:2	5:3	15.04.2017	15:30	2016	2017	29
+1. FSV Mainz 05	Hertha BSC	1:0	1:0	15.04.2017	15:30	2016	2017	29
+FC Augsburg	1. FC KÃ¶ln	2:0	2:1	15.04.2017	15:30	2016	2017	29
+VfL Wolfsburg	FC Ingolstadt 04	1:0	3:0	15.04.2017	15:30	2016	2017	29
+Borussia Dortmund	Eintracht Frankfurt	2:1	3:1	15.04.2017	15:30	2016	2017	29
+RB Leipzig	SC Freiburg	2:0	4:0	15.04.2017	15:30	2016	2017	29
+Bayer Leverkusen	Bayern MÃ¼nchen	0:0	0:0	15.04.2017	18:30	2016	2017	29
+Werder Bremen	Hamburger SV	1:1	2:1	16.04.2017	15:30	2016	2017	29
+SV Darmstadt 98	FC Schalke 04	1:0	2:1	16.04.2017	17:30	2016	2017	29
+1. FC KÃ¶ln	1899 Hoffenheim	0:0	1:1	21.04.2017	20:30	2016	2017	30
+Bayern MÃ¼nchen	1. FSV Mainz 05	1:2	2:2	22.04.2017	15:30	2016	2017	30
+Hertha BSC	VfL Wolfsburg	0:0	1:0	22.04.2017	15:30	2016	2017	30
+Eintracht Frankfurt	FC Augsburg	0:1	3:1	22.04.2017	15:30	2016	2017	30
+FC Ingolstadt 04	Werder Bremen	1:1	2:4	22.04.2017	15:30	2016	2017	30
+Hamburger SV	SV Darmstadt 98	0:0	1:2	22.04.2017	15:30	2016	2017	30
+Bor. MÃ¶nchengladbach	Borussia Dortmund	1:1	2:3	22.04.2017	18:30	2016	2017	30
+SC Freiburg	Bayer Leverkusen	1:0	2:1	23.04.2017	15:30	2016	2017	30
+FC Schalke 04	RB Leipzig	0:1	1:1	23.04.2017	17:30	2016	2017	30
+Bayer Leverkusen	FC Schalke 04	0:3	1:4	28.04.2017	20:30	2016	2017	31
+1. FSV Mainz 05	Bor. MÃ¶nchengladbach	0:1	1:2	29.04.2017	15:30	2016	2017	31
+Werder Bremen	Hertha BSC	2:0	2:0	29.04.2017	15:30	2016	2017	31
+Borussia Dortmund	1. FC KÃ¶ln	0:0	0:0	29.04.2017	15:30	2016	2017	31
+RB Leipzig	FC Ingolstadt 04	0:0	0:0	29.04.2017	15:30	2016	2017	31
+SV Darmstadt 98	SC Freiburg	2:0	3:0	29.04.2017	15:30	2016	2017	31
+VfL Wolfsburg	Bayern MÃ¼nchen	0:3	0:6	29.04.2017	18:30	2016	2017	31
+FC Augsburg	Hamburger SV	2:0	4:0	30.04.2017	15:30	2016	2017	31
+1899 Hoffenheim	Eintracht Frankfurt	0:0	1:0	30.04.2017	17:30	2016	2017	31
+1. FC KÃ¶ln	Werder Bremen	3:2	4:3	05.05.2017	20:30	2016	2017	32
+FC Ingolstadt 04	Bayer Leverkusen	0:0	1:1	06.05.2017	15:30	2016	2017	32
+Eintracht Frankfurt	VfL Wolfsburg	0:0	0:2	06.05.2017	15:30	2016	2017	32
+Bor. MÃ¶nchengladbach	FC Augsburg	0:0	1:1	06.05.2017	15:30	2016	2017	32
+Bayern MÃ¼nchen	SV Darmstadt 98	1:0	1:0	06.05.2017	15:30	2016	2017	32
+Borussia Dortmund	1899 Hoffenheim	1:0	2:1	06.05.2017	15:30	2016	2017	32
+Hertha BSC	RB Leipzig	0:1	1:4	06.05.2017	18:30	2016	2017	32
+Hamburger SV	1. FSV Mainz 05	0:0	0:0	07.05.2017	15:30	2016	2017	32
+SC Freiburg	FC Schalke 04	2:0	2:0	07.05.2017	17:30	2016	2017	32
+RB Leipzig	Bayern MÃ¼nchen	2:1	4:5	13.05.2017	15:30	2016	2017	33
+FC Augsburg	Borussia Dortmund	1:1	1:1	13.05.2017	15:30	2016	2017	33
+VfL Wolfsburg	Bor. MÃ¶nchengladbach	0:1	1:1	13.05.2017	15:30	2016	2017	33
+SV Darmstadt 98	Hertha BSC	0:2	0:2	13.05.2017	15:30	2016	2017	33
+Bayer Leverkusen	1. FC KÃ¶ln	0:1	2:2	13.05.2017	15:30	2016	2017	33
+FC Schalke 04	Hamburger SV	1:0	1:1	13.05.2017	15:30	2016	2017	33
+SC Freiburg	FC Ingolstadt 04	1:1	1:1	13.05.2017	15:30	2016	2017	33
+Werder Bremen	1899 Hoffenheim	0:3	3:5	13.05.2017	15:30	2016	2017	33
+1. FSV Mainz 05	Eintracht Frankfurt	0:1	4:2	13.05.2017	15:30	2016	2017	33
+Hertha BSC	Bayer Leverkusen	0:3	2:6	20.05.2017	15:30	2016	2017	34
+FC Ingolstadt 04	FC Schalke 04	1:1	1:1	20.05.2017	15:30	2016	2017	34
+1. FC KÃ¶ln	1. FSV Mainz 05	1:0	2:0	20.05.2017	15:30	2016	2017	34
+Hamburger SV	VfL Wolfsburg	1:1	2:1	20.05.2017	15:30	2016	2017	34
+1899 Hoffenheim	FC Augsburg	0:0	0:0	20.05.2017	15:30	2016	2017	34
+Borussia Dortmund	Werder Bremen	2:1	4:3	20.05.2017	15:30	2016	2017	34
+Bor. MÃ¶nchengladbach	SV Darmstadt 98	0:0	2:2	20.05.2017	15:30	2016	2017	34
+Bayern MÃ¼nchen	SC Freiburg	1:0	4:1	20.05.2017	15:30	2016	2017	34
+Eintracht Frankfurt	RB Leipzig	0:1	2:2	20.05.2017	15:30	2016	2017	34

@@ -1,0 +1,240 @@
+SC Olhanense	GD Estoril	1:1	2:1	17.08.2012	21:15	2012	2013	1
+Rio Ave FC	CS MarÃ­timo	0:0	0:1	18.08.2012	19:15	2012	2013	1
+SL Benfica	Sporting Braga	0:0	2:2	18.08.2012	21:15	2012	2013	1
+CD Nacional	VitÃ³ria SetÃºbal	0:0	2:2	19.08.2012	17:00	2012	2013	1
+PaÃ§os de Ferreira	Moreirense FC	1:0	1:1	19.08.2012	19:00	2012	2013	1
+Gil Vicente	FC Porto	0:0	0:0	19.08.2012	19:15	2012	2013	1
+VitÃ³ria GuimarÃ£es	Sporting CP	0:0	0:0	19.08.2012	21:30	2012	2013	1
+SC Beira-Mar	AcadÃ©mica de Coimbra	2:0	3:3	20.08.2012	21:15	2012	2013	1
+AcadÃ©mica de Coimbra	SC Olhanense	0:0	1:1	24.08.2012	21:15	2012	2013	2
+Sporting Braga	SC Beira-Mar	2:0	3:1	25.08.2012	19:15	2012	2013	2
+FC Porto	VitÃ³ria GuimarÃ£es	1:0	4:0	25.08.2012	21:30	2012	2013	2
+Moreirense FC	CD Nacional	1:0	3:1	26.08.2012	17:00	2012	2013	2
+GD Estoril	PaÃ§os de Ferreira	0:1	1:1	26.08.2012	18:00	2012	2013	2
+CS MarÃ­timo	Gil Vicente	0:0	0:0	26.08.2012	19:00	2012	2013	2
+VitÃ³ria SetÃºbal	SL Benfica	0:3	0:5	26.08.2012	21:15	2012	2013	2
+Sporting CP	Rio Ave FC	0:1	0:1	27.08.2012	21:15	2012	2013	2
+VitÃ³ria GuimarÃ£es	GD Estoril	0:1	2:2	01.09.2012	19:30	2012	2013	3
+SC Olhanense	FC Porto	1:1	2:3	01.09.2012	21:30	2012	2013	3
+SC Beira-Mar	Moreirense FC	0:1	1:1	02.09.2012	17:00	2012	2013	3
+Gil Vicente	VitÃ³ria SetÃºbal	0:0	0:0	02.09.2012	17:00	2012	2013	3
+Rio Ave FC	AcadÃ©mica de Coimbra	0:0	0:0	02.09.2012	19:00	2012	2013	3
+PaÃ§os de Ferreira	Sporting Braga	1:0	2:0	02.09.2012	19:00	2012	2013	3
+SL Benfica	CD Nacional	0:0	3:0	02.09.2012	21:15	2012	2013	3
+CS MarÃ­timo	Sporting CP	0:0	1:1	16.09.2012	21:15	2012	2013	3
+Moreirense FC	VitÃ³ria GuimarÃ£es	0:0	0:1	21.09.2012	21:15	2012	2013	4
+FC Porto	SC Beira-Mar	2:0	4:0	22.09.2012	21:30	2012	2013	4
+VitÃ³ria SetÃºbal	SC Olhanense	0:0	1:0	23.09.2012	17:00	2012	2013	4
+CD Nacional	PaÃ§os de Ferreira	1:1	3:3	23.09.2012	17:00	2012	2013	4
+Sporting Braga	Rio Ave FC	1:0	4:1	23.09.2012	19:00	2012	2013	4
+AcadÃ©mica de Coimbra	SL Benfica	1:0	2:2	23.09.2012	21:15	2012	2013	4
+GD Estoril	CS MarÃ­timo	2:0	3:1	24.09.2012	20:00	2012	2013	4
+Sporting CP	Gil Vicente	0:1	2:1	24.09.2012	21:15	2012	2013	4
+PaÃ§os de Ferreira	SL Benfica	1:1	1:2	28.09.2012	21:15	2012	2013	5
+VitÃ³ria GuimarÃ£es	Sporting Braga	0:0	0:2	28.09.2012	22:30	2012	2013	5
+Sporting CP	GD Estoril	0:1	2:2	29.09.2012	19:15	2012	2013	5
+Rio Ave FC	FC Porto	0:1	2:2	29.09.2012	21:30	2012	2013	5
+Gil Vicente	Moreirense FC	3:3	4:3	30.09.2012	17:00	2012	2013	5
+SC Beira-Mar	VitÃ³ria SetÃºbal	1:0	1:1	30.09.2012	17:00	2012	2013	5
+SC Olhanense	CD Nacional	0:1	1:2	30.09.2012	17:00	2012	2013	5
+CS MarÃ­timo	AcadÃ©mica de Coimbra	0:2	0:2	30.09.2012	19:15	2012	2013	5
+SL Benfica	SC Beira-Mar	0:1	2:1	06.10.2012	21:30	2012	2013	6
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	0:0	0:0	07.10.2012	17:00	2012	2013	6
+CD Nacional	Gil Vicente	0:0	0:1	07.10.2012	17:00	2012	2013	6
+Sporting Braga	SC Olhanense	1:3	4:4	07.10.2012	17:30	2012	2013	6
+GD Estoril	Rio Ave FC	0:2	1:3	07.10.2012	18:00	2012	2013	6
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	1:0	1:2	07.10.2012	19:30	2012	2013	6
+FC Porto	Sporting CP	1:0	2:0	07.10.2012	21:45	2012	2013	6
+Moreirense FC	CS MarÃ­timo	0:0	0:1	08.10.2012	21:15	2012	2013	6
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	0:0	2:1	26.10.2012	21:15	2012	2013	7
+SC Beira-Mar	PaÃ§os de Ferreira	0:0	0:2	27.10.2012	17:00	2012	2013	7
+SC Olhanense	Moreirense FC	1:1	2:2	27.10.2012	17:00	2012	2013	7
+Gil Vicente	SL Benfica	0:3	0:3	27.10.2012	21:30	2012	2013	7
+Rio Ave FC	CD Nacional	0:1	2:1	28.10.2012	17:00	2012	2013	7
+CS MarÃ­timo	Sporting Braga	0:0	0:2	28.10.2012	19:00	2012	2013	7
+GD Estoril	FC Porto	1:0	1:2	28.10.2012	21:15	2012	2013	7
+Sporting CP	AcadÃ©mica de Coimbra	0:0	0:0	29.10.2012	21:15	2012	2013	7
+FC Porto	CS MarÃ­timo	2:0	5:0	02.11.2012	21:15	2012	2013	8
+Sporting Braga	Gil Vicente	1:0	3:1	03.11.2012	19:30	2012	2013	8
+SL Benfica	VitÃ³ria GuimarÃ£es	1:0	3:0	03.11.2012	21:30	2012	2013	8
+PaÃ§os de Ferreira	SC Olhanense	0:0	0:0	04.11.2012	17:00	2012	2013	8
+CD Nacional	SC Beira-Mar	0:2	2:4	04.11.2012	17:00	2012	2013	8
+Moreirense FC	Rio Ave FC	0:0	0:1	04.11.2012	17:00	2012	2013	8
+AcadÃ©mica de Coimbra	GD Estoril	0:0	0:2	04.11.2012	19:00	2012	2013	8
+VitÃ³ria SetÃºbal	Sporting CP	1:1	2:1	04.11.2012	21:15	2012	2013	8
+Gil Vicente	PaÃ§os de Ferreira	0:0	0:1	09.11.2012	21:15	2012	2013	9
+VitÃ³ria GuimarÃ£es	CD Nacional	1:0	1:3	10.11.2012	21:30	2012	2013	9
+GD Estoril	Moreirense FC	1:0	2:0	11.11.2012	17:00	2012	2013	9
+SC Olhanense	SC Beira-Mar	1:0	1:0	11.11.2012	17:00	2012	2013	9
+FC Porto	AcadÃ©mica de Coimbra	0:0	2:1	11.11.2012	19:00	2012	2013	9
+Rio Ave FC	SL Benfica	0:1	0:1	11.11.2012	20:30	2012	2013	9
+Sporting CP	Sporting Braga	1:0	1:0	11.11.2012	21:15	2012	2013	9
+CS MarÃ­timo	VitÃ³ria SetÃºbal	0:1	1:1	12.11.2012	21:15	2012	2013	9
+SC Beira-Mar	VitÃ³ria GuimarÃ£es	1:1	2:2	23.11.2012	21:15	2012	2013	10
+SL Benfica	SC Olhanense	1:0	2:0	24.11.2012	21:30	2012	2013	10
+VitÃ³ria SetÃºbal	Rio Ave FC	1:4	3:5	25.11.2012	17:00	2012	2013	10
+CD Nacional	GD Estoril	0:0	1:0	25.11.2012	17:00	2012	2013	10
+AcadÃ©mica de Coimbra	Gil Vicente	0:0	2:2	25.11.2012	19:00	2012	2013	10
+Sporting Braga	FC Porto	0:0	0:2	25.11.2012	21:15	2012	2013	10
+Moreirense FC	Sporting CP	2:0	2:2	26.11.2012	21:15	2012	2013	10
+PaÃ§os de Ferreira	CS MarÃ­timo	1:1	2:2	27.11.2012	21:15	2012	2013	10
+GD Estoril	VitÃ³ria SetÃºbal	1:0	3:0	07.12.2012	21:15	2012	2013	11
+FC Porto	Moreirense FC	0:0	1:0	08.12.2012	21:30	2012	2013	11
+Gil Vicente	SC Beira-Mar	0:1	1:2	09.12.2012	17:00	2012	2013	11
+Rio Ave FC	PaÃ§os de Ferreira	0:0	0:0	09.12.2012	17:00	2012	2013	11
+CS MarÃ­timo	CD Nacional	0:0	2:0	09.12.2012	17:00	2012	2013	11
+VitÃ³ria GuimarÃ£es	SC Olhanense	1:0	2:0	09.12.2012	21:15	2012	2013	11
+AcadÃ©mica de Coimbra	Sporting Braga	0:2	1:4	10.12.2012	19:15	2012	2013	11
+Sporting CP	SL Benfica	1:0	1:3	10.12.2012	21:15	2012	2013	11
+SC Beira-Mar	Rio Ave FC	2:0	3:1	15.12.2012	17:00	2012	2013	12
+SC Olhanense	Gil Vicente	0:1	2:2	15.12.2012	17:00	2012	2013	12
+CD Nacional	Sporting CP	1:0	1:1	15.12.2012	19:00	2012	2013	12
+SL Benfica	CS MarÃ­timo	1:1	4:1	15.12.2012	21:30	2012	2013	12
+Moreirense FC	AcadÃ©mica de Coimbra	2:1	2:2	16.12.2012	17:00	2012	2013	12
+Sporting Braga	GD Estoril	1:0	3:0	16.12.2012	19:00	2012	2013	12
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	1:0	2:1	16.12.2012	21:15	2012	2013	12
+VitÃ³ria SetÃºbal	FC Porto	0:1	0:3	23.01.2013	21:15	2012	2013	12
+Rio Ave FC	SC Olhanense	0:0	0:1	05.01.2013	17:00	2012	2013	13
+Gil Vicente	VitÃ³ria GuimarÃ£es	0:0	0:0	05.01.2013	17:00	2012	2013	13
+Sporting CP	PaÃ§os de Ferreira	0:1	0:1	05.01.2013	19:00	2012	2013	13
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	3:0	4:2	05.01.2013	19:00	2012	2013	13
+FC Porto	CD Nacional	1:0	1:0	05.01.2013	21:30	2012	2013	13
+CS MarÃ­timo	SC Beira-Mar	0:0	1:1	06.01.2013	17:00	2012	2013	13
+Sporting Braga	Moreirense FC	0:0	1:0	06.01.2013	19:00	2012	2013	13
+GD Estoril	SL Benfica	0:1	1:3	06.01.2013	21:15	2012	2013	13
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	0:1	1:1	12.01.2013	19:00	2012	2013	14
+CD Nacional	Sporting Braga	0:1	3:2	12.01.2013	21:30	2012	2013	14
+VitÃ³ria SetÃºbal	Moreirense FC	2:0	5:0	13.01.2013	17:00	2012	2013	14
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	0:0	1:0	13.01.2013	17:00	2012	2013	14
+Gil Vicente	Rio Ave FC	0:1	0:1	13.01.2013	17:00	2012	2013	14
+SC Olhanense	Sporting CP	0:1	0:2	13.01.2013	19:00	2012	2013	14
+SL Benfica	FC Porto	2:2	2:2	13.01.2013	21:15	2012	2013	14
+SC Beira-Mar	GD Estoril	0:1	0:1	14.01.2013	21:15	2012	2013	14
+Sporting CP	SC Beira-Mar	0:0	1:0	18.01.2013	21:00	2012	2013	15
+FC Porto	PaÃ§os de Ferreira	0:0	2:0	19.01.2013	21:15	2012	2013	15
+CS MarÃ­timo	SC Olhanense	1:0	1:0	20.01.2013	17:00	2012	2013	15
+GD Estoril	Gil Vicente	1:1	1:2	20.01.2013	17:00	2012	2013	15
+Sporting Braga	VitÃ³ria SetÃºbal	2:0	4:1	20.01.2013	19:00	2012	2013	15
+Rio Ave FC	VitÃ³ria GuimarÃ£es	0:0	1:3	20.01.2013	21:15	2012	2013	15
+AcadÃ©mica de Coimbra	CD Nacional	0:1	2:1	21.01.2013	17:00	2012	2013	15
+Moreirense FC	SL Benfica	0:0	0:2	21.01.2013	21:00	2012	2013	15
+AcadÃ©mica de Coimbra	SC Beira-Mar	3:0	3:1	25.01.2013	21:00	2012	2013	16
+Sporting Braga	SL Benfica	0:2	1:2	26.01.2013	21:15	2012	2013	16
+CS MarÃ­timo	Rio Ave FC	1:1	1:1	27.01.2013	17:00	2012	2013	16
+VitÃ³ria SetÃºbal	CD Nacional	0:0	0:2	27.01.2013	17:00	2012	2013	16
+Moreirense FC	PaÃ§os de Ferreira	0:2	0:5	27.01.2013	17:00	2012	2013	16
+Sporting CP	VitÃ³ria GuimarÃ£es	0:0	1:1	27.01.2013	19:00	2012	2013	16
+GD Estoril	SC Olhanense	2:1	3:3	27.01.2013	21:15	2012	2013	16
+FC Porto	Gil Vicente	2:0	5:0	28.01.2013	21:00	2012	2013	16
+Rio Ave FC	Sporting CP	1:1	2:1	02.02.2013	19:00	2012	2013	17
+VitÃ³ria GuimarÃ£es	FC Porto	0:2	0:4	02.02.2013	21:30	2012	2013	17
+Gil Vicente	CS MarÃ­timo	2:0	4:2	03.02.2013	17:00	2012	2013	17
+SC Olhanense	AcadÃ©mica de Coimbra	0:0	0:0	03.02.2013	17:00	2012	2013	17
+CD Nacional	Moreirense FC	0:2	1:2	03.02.2013	17:00	2012	2013	17
+SC Beira-Mar	Sporting Braga	2:2	3:3	03.02.2013	19:00	2012	2013	17
+SL Benfica	VitÃ³ria SetÃºbal	1:0	3:0	03.02.2013	21:15	2012	2013	17
+PaÃ§os de Ferreira	GD Estoril	0:0	1:0	05.02.2013	18:00	2012	2013	17
+GD Estoril	VitÃ³ria GuimarÃ£es	1:0	2:0	09.02.2013	21:15	2012	2013	18
+AcadÃ©mica de Coimbra	Rio Ave FC	0:1	1:2	10.02.2013	17:00	2012	2013	18
+Sporting CP	CS MarÃ­timo	0:1	0:1	10.02.2013	17:00	2012	2013	18
+Moreirense FC	SC Beira-Mar	1:0	3:0	10.02.2013	17:00	2012	2013	18
+VitÃ³ria SetÃºbal	Gil Vicente	1:0	1:0	10.02.2013	17:00	2012	2013	18
+CD Nacional	SL Benfica	1:2	2:2	10.02.2013	19:00	2012	2013	18
+FC Porto	SC Olhanense	0:1	1:1	10.02.2013	21:15	2012	2013	18
+Sporting Braga	PaÃ§os de Ferreira	0:2	2:3	11.02.2013	21:00	2012	2013	18
+SC Beira-Mar	FC Porto	0:1	0:2	15.02.2013	21:30	2012	2013	19
+Gil Vicente	Sporting CP	1:2	2:3	16.02.2013	21:15	2012	2013	19
+SC Olhanense	VitÃ³ria SetÃºbal	0:0	0:1	17.02.2013	17:00	2012	2013	19
+PaÃ§os de Ferreira	CD Nacional	1:0	1:1	17.02.2013	17:00	2012	2013	19
+CS MarÃ­timo	GD Estoril	2:0	2:1	17.02.2013	17:00	2012	2013	19
+VitÃ³ria GuimarÃ£es	Moreirense FC	1:0	1:0	17.02.2013	19:00	2012	2013	19
+SL Benfica	AcadÃ©mica de Coimbra	0:0	1:0	17.02.2013	21:15	2012	2013	19
+Rio Ave FC	Sporting Braga	1:1	1:1	18.02.2013	21:00	2012	2013	19
+GD Estoril	Sporting CP	2:1	3:1	22.02.2013	21:00	2012	2013	20
+VitÃ³ria SetÃºbal	SC Beira-Mar	1:0	1:0	23.02.2013	17:00	2012	2013	20
+Sporting Braga	VitÃ³ria GuimarÃ£es	1:0	3:2	23.02.2013	19:00	2012	2013	20
+FC Porto	Rio Ave FC	1:1	2:1	23.02.2013	21:15	2012	2013	20
+CD Nacional	SC Olhanense	1:0	3:1	24.02.2013	17:00	2012	2013	20
+Moreirense FC	Gil Vicente	0:0	0:0	24.02.2013	17:00	2012	2013	20
+SL Benfica	PaÃ§os de Ferreira	1:0	3:0	24.02.2013	20:15	2012	2013	20
+AcadÃ©mica de Coimbra	CS MarÃ­timo	1:2	2:3	25.02.2013	21:00	2012	2013	20
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	1:0	2:0	02.03.2013	18:00	2012	2013	21
+Sporting CP	FC Porto	0:0	0:0	02.03.2013	20:45	2012	2013	21
+Gil Vicente	CD Nacional	1:0	1:2	03.03.2013	17:00	2012	2013	21
+Rio Ave FC	GD Estoril	0:0	0:2	03.03.2013	17:00	2012	2013	21
+CS MarÃ­timo	Moreirense FC	0:0	1:1	03.03.2013	17:00	2012	2013	21
+SC Beira-Mar	SL Benfica	0:1	0:1	03.03.2013	20:30	2012	2013	21
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	2:0	2:0	04.03.2013	19:15	2012	2013	21
+SC Olhanense	Sporting Braga	0:1	0:1	04.03.2013	21:30	2012	2013	21
+FC Porto	GD Estoril	2:0	2:0	08.03.2013	21:00	2012	2013	22
+Sporting Braga	CS MarÃ­timo	1:0	2:0	09.03.2013	19:00	2012	2013	22
+AcadÃ©mica de Coimbra	Sporting CP	1:0	1:1	09.03.2013	21:15	2012	2013	22
+CD Nacional	Rio Ave FC	1:0	1:1	10.03.2013	17:00	2012	2013	22
+Moreirense FC	SC Olhanense	1:0	1:1	10.03.2013	17:00	2012	2013	22
+PaÃ§os de Ferreira	SC Beira-Mar	0:1	1:1	10.03.2013	19:00	2012	2013	22
+SL Benfica	Gil Vicente	3:0	5:0	10.03.2013	21:15	2012	2013	22
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	0:1	2:3	11.03.2013	21:00	2012	2013	22
+Gil Vicente	Sporting Braga	0:1	1:3	15.03.2013	21:00	2012	2013	23
+SC Olhanense	PaÃ§os de Ferreira	1:2	1:2	16.03.2013	18:00	2012	2013	23
+Sporting CP	VitÃ³ria SetÃºbal	2:1	2:1	16.03.2013	20:15	2012	2013	23
+Rio Ave FC	Moreirense FC	0:0	0:1	17.03.2013	17:00	2012	2013	23
+GD Estoril	AcadÃ©mica de Coimbra	2:0	2:0	17.03.2013	17:00	2012	2013	23
+SC Beira-Mar	CD Nacional	1:0	2:2	17.03.2013	17:00	2012	2013	23
+CS MarÃ­timo	FC Porto	1:1	1:1	17.03.2013	19:00	2012	2013	23
+VitÃ³ria GuimarÃ£es	SL Benfica	0:1	0:4	17.03.2013	21:30	2012	2013	23
+PaÃ§os de Ferreira	Gil Vicente	2:1	3:2	29.03.2013	21:00	2012	2013	24
+SC Beira-Mar	SC Olhanense	0:0	0:1	30.03.2013	17:00	2012	2013	24
+Moreirense FC	GD Estoril	1:0	1:1	30.03.2013	17:00	2012	2013	24
+VitÃ³ria SetÃºbal	CS MarÃ­timo	0:3	2:4	30.03.2013	17:00	2012	2013	24
+AcadÃ©mica de Coimbra	FC Porto	0:1	0:3	30.03.2013	19:15	2012	2013	24
+SL Benfica	Rio Ave FC	3:0	6:1	30.03.2013	21:30	2012	2013	24
+CD Nacional	VitÃ³ria GuimarÃ£es	1:1	2:1	01.04.2013	19:15	2012	2013	24
+Sporting Braga	Sporting CP	2:2	2:3	01.04.2013	21:30	2012	2013	24
+CS MarÃ­timo	PaÃ§os de Ferreira	1:1	1:1	05.04.2013	21:00	2012	2013	25
+Sporting CP	Moreirense FC	1:0	3:2	06.04.2013	21:30	2012	2013	25
+Gil Vicente	AcadÃ©mica de Coimbra	0:1	2:1	07.04.2013	17:00	2012	2013	25
+GD Estoril	CD Nacional	3:0	4:0	07.04.2013	17:00	2012	2013	25
+Rio Ave FC	VitÃ³ria SetÃºbal	2:1	2:1	07.04.2013	18:00	2012	2013	25
+VitÃ³ria GuimarÃ£es	SC Beira-Mar	1:1	2:1	07.04.2013	19:00	2012	2013	25
+SC Olhanense	SL Benfica	0:0	0:2	07.04.2013	21:15	2012	2013	25
+FC Porto	Sporting Braga	1:1	3:1	08.04.2013	21:00	2012	2013	25
+Sporting Braga	AcadÃ©mica de Coimbra	1:0	1:0	19.04.2013	21:00	2012	2013	26
+PaÃ§os de Ferreira	Rio Ave FC	0:0	2:1	20.04.2013	19:15	2012	2013	26
+Moreirense FC	FC Porto	0:1	0:3	20.04.2013	21:30	2012	2013	26
+SC Beira-Mar	Gil Vicente	0:0	1:0	21.04.2013	17:00	2012	2013	26
+VitÃ³ria SetÃºbal	GD Estoril	0:0	1:0	21.04.2013	17:00	2012	2013	26
+CD Nacional	CS MarÃ­timo	0:0	2:1	21.04.2013	17:00	2012	2013	26
+SL Benfica	Sporting CP	1:0	2:0	21.04.2013	21:15	2012	2013	26
+SC Olhanense	VitÃ³ria GuimarÃ£es	0:2	1:2	22.04.2013	21:00	2012	2013	26
+GD Estoril	Sporting Braga	0:1	2:1	26.04.2013	21:00	2012	2013	27
+FC Porto	VitÃ³ria SetÃºbal	0:0	2:0	27.04.2013	21:30	2012	2013	27
+Gil Vicente	SC Olhanense	1:0	2:0	28.04.2013	17:00	2012	2013	27
+Rio Ave FC	SC Beira-Mar	0:1	2:1	28.04.2013	17:00	2012	2013	27
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	0:0	2:2	28.04.2013	17:00	2012	2013	27
+Sporting CP	CD Nacional	1:0	2:1	28.04.2013	19:00	2012	2013	27
+AcadÃ©mica de Coimbra	Moreirense FC	1:0	1:0	28.04.2013	21:15	2012	2013	27
+CS MarÃ­timo	SL Benfica	1:1	1:2	29.04.2013	21:00	2012	2013	27
+Moreirense FC	Sporting Braga	0:2	2:3	03.05.2013	21:00	2012	2013	28
+CD Nacional	FC Porto	1:3	1:3	04.05.2013	21:30	2012	2013	28
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	0:0	0:1	05.05.2013	17:00	2012	2013	28
+SC Beira-Mar	CS MarÃ­timo	2:2	4:2	05.05.2013	17:00	2012	2013	28
+SC Olhanense	Rio Ave FC	1:0	1:0	05.05.2013	17:00	2012	2013	28
+VitÃ³ria GuimarÃ£es	Gil Vicente	1:1	3:1	05.05.2013	19:00	2012	2013	28
+PaÃ§os de Ferreira	Sporting CP	0:0	1:0	05.05.2013	21:15	2012	2013	28
+SL Benfica	GD Estoril	0:0	1:1	06.05.2013	21:00	2012	2013	28
+Rio Ave FC	Gil Vicente	1:0	2:1	11.05.2013	19:15	2012	2013	29
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	1:0	1:0	11.05.2013	19:15	2012	2013	29
+Sporting CP	SC Olhanense	0:0	1:0	11.05.2013	19:15	2012	2013	29
+GD Estoril	SC Beira-Mar	1:1	2:1	11.05.2013	19:15	2012	2013	29
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	0:0	1:1	11.05.2013	19:15	2012	2013	29
+Sporting Braga	CD Nacional	1:0	1:3	11.05.2013	19:15	2012	2013	29
+Moreirense FC	VitÃ³ria SetÃºbal	1:1	2:1	11.05.2013	19:15	2012	2013	29
+FC Porto	SL Benfica	1:1	2:1	11.05.2013	21:30	2012	2013	29
+SL Benfica	Moreirense FC	0:1	3:1	19.05.2013	19:30	2012	2013	30
+VitÃ³ria SetÃºbal	Sporting Braga	0:1	0:1	19.05.2013	19:30	2012	2013	30
+CD Nacional	AcadÃ©mica de Coimbra	1:0	2:1	19.05.2013	19:30	2012	2013	30
+PaÃ§os de Ferreira	FC Porto	0:1	0:2	19.05.2013	19:30	2012	2013	30
+Gil Vicente	GD Estoril	1:0	1:3	19.05.2013	19:30	2012	2013	30
+SC Beira-Mar	Sporting CP	0:3	1:4	19.05.2013	19:30	2012	2013	30
+SC Olhanense	CS MarÃ­timo	0:0	0:0	19.05.2013	19:30	2012	2013	30
+VitÃ³ria GuimarÃ£es	Rio Ave FC	0:0	0:1	19.05.2013	19:30	2012	2013	30

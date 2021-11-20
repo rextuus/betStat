@@ -1,0 +1,182 @@
+FC Barcelona	Athletic Bilbao	2:1	3:3	26.09.1943	00:00	1943	1944	1
+CD CastellÃ³n	Espanyol Barcelona	0:1	2:1	26.09.1943	00:00	1943	1944	1
+Real Sociedad	Valencia CF	1:2	2:4	26.09.1943	00:00	1943	1944	1
+Atletico Madrid	Celta Vigo	1:0	7:0	26.09.1943	00:00	1943	1944	1
+Granada CF	Real Oviedo	3:0	5:2	26.09.1943	00:00	1943	1944	1
+Sevilla FC	CE Sabadell	3:2	5:2	26.09.1943	00:00	1943	1944	1
+Deportivo La CoruÃ±a	Real Madrid	1:1	2:2	26.09.1943	00:00	1943	1944	1
+Athletic Bilbao	Deportivo La CoruÃ±a	2:1	3:1	03.10.1943	00:00	1943	1944	2
+CE Sabadell	Granada CF	0:0	2:0	03.10.1943	00:00	1943	1944	2
+Espanyol Barcelona	Real Sociedad	0:1	2:2	03.10.1943	00:00	1943	1944	2
+Real Madrid	Sevilla FC	3:4	3:5	03.10.1943	00:00	1943	1944	2
+Real Oviedo	Atletico Madrid	2:0	4:1	03.10.1943	00:00	1943	1944	2
+Valencia CF	FC Barcelona	1:3	3:4	03.10.1943	00:00	1943	1944	2
+Celta Vigo	CD CastellÃ³n	2:1	2:2	03.10.1943	00:00	1943	1944	2
+Granada CF	Real Madrid	1:2	2:2	10.10.1943	00:00	1943	1944	3
+Real Sociedad	FC Barcelona	0:1	1:1	10.10.1943	00:00	1943	1944	3
+Sevilla FC	Athletic Bilbao	1:0	3:0	10.10.1943	00:00	1943	1944	3
+Deportivo La CoruÃ±a	Valencia CF	0:1	0:2	10.10.1943	00:00	1943	1944	3
+Espanyol Barcelona	Celta Vigo	0:1	1:1	10.10.1943	00:00	1943	1944	3
+Atletico Madrid	CE Sabadell	1:1	4:3	10.10.1943	00:00	1943	1944	3
+CD CastellÃ³n	Real Oviedo	1:0	2:0	12.10.1943	00:00	1943	1944	3
+Real Oviedo	Espanyol Barcelona	2:0	6:1	17.10.1943	00:00	1943	1944	4
+FC Barcelona	Deportivo La CoruÃ±a	2:2	3:3	17.10.1943	00:00	1943	1944	4
+CE Sabadell	CD CastellÃ³n	0:0	1:0	17.10.1943	00:00	1943	1944	4
+Athletic Bilbao	Granada CF	1:1	2:2	17.10.1943	00:00	1943	1944	4
+Real Madrid	Atletico Madrid	0:2	3:2	17.10.1943	00:00	1943	1944	4
+Celta Vigo	Real Sociedad	0:2	0:2	17.10.1943	00:00	1943	1944	4
+Valencia CF	Sevilla FC	5:0	8:0	17.10.1943	00:00	1943	1944	4
+Espanyol Barcelona	CE Sabadell	3:1	5:1	24.10.1943	00:00	1943	1944	5
+CD CastellÃ³n	Real Madrid	2:1	2:1	24.10.1943	00:00	1943	1944	5
+Sevilla FC	FC Barcelona	1:1	2:2	24.10.1943	00:00	1943	1944	5
+Atletico Madrid	Athletic Bilbao	2:1	2:1	24.10.1943	00:00	1943	1944	5
+Granada CF	Valencia CF	0:2	1:3	24.10.1943	00:00	1943	1944	5
+Celta Vigo	Real Oviedo	0:3	0:5	24.10.1943	00:00	1943	1944	5
+Real Sociedad	Deportivo La CoruÃ±a	1:2	2:3	24.10.1943	00:00	1943	1944	5
+Athletic Bilbao	CD CastellÃ³n	1:3	2:3	07.11.1943	00:00	1943	1944	6
+FC Barcelona	Granada CF	1:1	7:2	07.11.1943	00:00	1943	1944	6
+CE Sabadell	Celta Vigo	2:0	4:0	07.11.1943	00:00	1943	1944	6
+Real Oviedo	Real Sociedad	1:1	3:3	07.11.1943	00:00	1943	1944	6
+Deportivo La CoruÃ±a	Sevilla FC	0:2	0:3	07.11.1943	00:00	1943	1944	6
+Real Madrid	Espanyol Barcelona	3:1	3:1	07.11.1943	00:00	1943	1944	6
+Valencia CF	Atletico Madrid	1:1	2:2	07.11.1943	00:00	1943	1944	6
+Granada CF	Deportivo La CoruÃ±a	2:0	2:2	14.11.1943	00:00	1943	1944	7
+Espanyol Barcelona	Athletic Bilbao	4:0	4:0	14.11.1943	00:00	1943	1944	7
+Real Oviedo	CE Sabadell	5:1	9:2	14.11.1943	00:00	1943	1944	7
+Celta Vigo	Real Madrid	1:0	1:0	14.11.1943	00:00	1943	1944	7
+Real Sociedad	Sevilla FC	0:0	0:0	14.11.1943	00:00	1943	1944	7
+Atletico Madrid	FC Barcelona	2:1	2:1	14.11.1943	00:00	1943	1944	7
+CD CastellÃ³n	Valencia CF	0:1	1:1	14.11.1943	00:00	1943	1944	7
+FC Barcelona	CD CastellÃ³n	0:0	1:0	21.11.1943	00:00	1943	1944	8
+Sevilla FC	Granada CF	2:1	4:1	21.11.1943	00:00	1943	1944	8
+Athletic Bilbao	Celta Vigo	3:0	5:1	21.11.1943	00:00	1943	1944	8
+CE Sabadell	Real Sociedad	1:0	2:0	21.11.1943	00:00	1943	1944	8
+Deportivo La CoruÃ±a	Atletico Madrid	2:1	2:4	21.11.1943	00:00	1943	1944	8
+Valencia CF	Espanyol Barcelona	2:0	4:0	21.11.1943	00:00	1943	1944	8
+Real Madrid	Real Oviedo	1:0	2:1	23.11.1943	00:00	1943	1944	8
+Espanyol Barcelona	FC Barcelona	1:2	1:3	28.11.1943	00:00	1943	1944	9
+Real Oviedo	Athletic Bilbao	1:2	1:2	28.11.1943	00:00	1943	1944	9
+Celta Vigo	Valencia CF	1:1	1:2	28.11.1943	00:00	1943	1944	9
+Atletico Madrid	Sevilla FC	2:2	2:2	28.11.1943	00:00	1943	1944	9
+CD CastellÃ³n	Deportivo La CoruÃ±a	1:0	2:1	28.11.1943	00:00	1943	1944	9
+Real Sociedad	Granada CF	3:0	3:0	28.11.1943	00:00	1943	1944	9
+CE Sabadell	Real Madrid	0:1	1:3	28.11.1943	00:00	1943	1944	9
+Valencia CF	Real Oviedo	3:0	5:3	05.12.1943	00:00	1943	1944	10
+FC Barcelona	Celta Vigo	2:0	3:0	05.12.1943	00:00	1943	1944	10
+Athletic Bilbao	CE Sabadell	2:3	4:3	05.12.1943	00:00	1943	1944	10
+Granada CF	Atletico Madrid	1:2	2:3	05.12.1943	00:00	1943	1944	10
+Deportivo La CoruÃ±a	Espanyol Barcelona	3:1	3:1	05.12.1943	00:00	1943	1944	10
+Real Madrid	Real Sociedad	1:0	4:1	05.12.1943	00:00	1943	1944	10
+Sevilla FC	CD CastellÃ³n	2:0	4:0	05.12.1943	00:00	1943	1944	10
+Real Oviedo	FC Barcelona	0:0	3:3	12.12.1943	00:00	1943	1944	11
+Real Madrid	Athletic Bilbao	1:0	1:3	12.12.1943	00:00	1943	1944	11
+CE Sabadell	Valencia CF	1:1	2:4	12.12.1943	00:00	1943	1944	11
+Real Sociedad	Atletico Madrid	1:0	2:0	12.12.1943	00:00	1943	1944	11
+Espanyol Barcelona	Sevilla FC	2:2	3:2	12.12.1943	00:00	1943	1944	11
+Celta Vigo	Deportivo La CoruÃ±a	0:0	0:0	12.12.1943	00:00	1943	1944	11
+CD CastellÃ³n	Granada CF	0:1	0:2	12.12.1943	00:00	1943	1944	11
+Valencia CF	Real Madrid	0:0	1:0	19.12.1943	00:00	1943	1944	12
+Atletico Madrid	CD CastellÃ³n	1:0	2:0	19.12.1943	00:00	1943	1944	12
+FC Barcelona	CE Sabadell	2:0	5:0	19.12.1943	00:00	1943	1944	12
+Deportivo La CoruÃ±a	Real Oviedo	0:0	1:0	19.12.1943	00:00	1943	1944	12
+Sevilla FC	Celta Vigo	2:1	4:3	19.12.1943	00:00	1943	1944	12
+Real Sociedad	Athletic Bilbao	0:1	1:4	19.12.1943	00:00	1943	1944	12
+Granada CF	Espanyol Barcelona	2:0	4:0	19.12.1943	00:00	1943	1944	12
+Celta Vigo	Granada CF	0:0	0:1	02.01.1944	00:00	1943	1944	13
+Real Madrid	FC Barcelona	0:0	0:1	02.01.1944	00:00	1943	1944	13
+Athletic Bilbao	Valencia CF	2:1	2:1	02.01.1944	00:00	1943	1944	13
+Espanyol Barcelona	Atletico Madrid	0:2	1:2	02.01.1944	00:00	1943	1944	13
+Real Oviedo	Sevilla FC	4:0	5:1	02.01.1944	00:00	1943	1944	13
+CD CastellÃ³n	Real Sociedad	1:0	3:0	02.01.1944	00:00	1943	1944	13
+CE Sabadell	Deportivo La CoruÃ±a	2:1	3:1	02.01.1944	00:00	1943	1944	13
+Celta Vigo	Atletico Madrid	1:0	1:2	09.01.1944	00:00	1943	1944	14
+CE Sabadell	Sevilla FC	0:1	1:1	09.01.1944	00:00	1943	1944	14
+Valencia CF	Real Sociedad	0:0	3:0	09.01.1944	00:00	1943	1944	14
+Real Madrid	Deportivo La CoruÃ±a	1:0	3:0	09.01.1944	00:00	1943	1944	14
+Real Oviedo	Granada CF	0:0	2:0	09.01.1944	00:00	1943	1944	14
+Espanyol Barcelona	CD CastellÃ³n	0:0	0:1	09.01.1944	00:00	1943	1944	14
+Athletic Bilbao	FC Barcelona	1:1	2:1	09.01.1944	00:00	1943	1944	14
+CD CastellÃ³n	Celta Vigo	2:0	2:0	16.01.1944	00:00	1943	1944	15
+Atletico Madrid	Real Oviedo	1:1	1:2	16.01.1944	00:00	1943	1944	15
+FC Barcelona	Valencia CF	1:0	1:1	16.01.1944	00:00	1943	1944	15
+Real Sociedad	Espanyol Barcelona	3:0	6:1	16.01.1944	00:00	1943	1944	15
+Deportivo La CoruÃ±a	Athletic Bilbao	1:0	1:0	16.01.1944	00:00	1943	1944	15
+Sevilla FC	Real Madrid	1:0	1:1	16.01.1944	00:00	1943	1944	15
+Granada CF	CE Sabadell	2:0	2:1	16.01.1944	00:00	1943	1944	15
+Celta Vigo	Espanyol Barcelona	0:0	0:1	23.01.1944	00:00	1943	1944	16
+CE Sabadell	Atletico Madrid	1:0	4:1	23.01.1944	00:00	1943	1944	16
+Athletic Bilbao	Sevilla FC	0:0	0:1	23.01.1944	00:00	1943	1944	16
+FC Barcelona	Real Sociedad	0:0	2:0	23.01.1944	00:00	1943	1944	16
+Valencia CF	Deportivo La CoruÃ±a	1:0	3:0	23.01.1944	00:00	1943	1944	16
+Real Madrid	Granada CF	1:1	2:2	23.01.1944	00:00	1943	1944	16
+Real Oviedo	CD CastellÃ³n	1:0	3:0	23.01.1944	00:00	1943	1944	16
+Atletico Madrid	Real Madrid	2:1	3:1	30.01.1944	00:00	1943	1944	17
+Real Sociedad	Celta Vigo	0:0	1:1	30.01.1944	00:00	1943	1944	17
+CD CastellÃ³n	CE Sabadell	1:0	4:0	30.01.1944	00:00	1943	1944	17
+Espanyol Barcelona	Real Oviedo	2:0	2:0	30.01.1944	00:00	1943	1944	17
+Deportivo La CoruÃ±a	FC Barcelona	0:2	1:4	30.01.1944	00:00	1943	1944	17
+Sevilla FC	Valencia CF	0:0	0:2	30.01.1944	00:00	1943	1944	17
+Granada CF	Athletic Bilbao	0:0	0:0	30.01.1944	00:00	1943	1944	17
+Real Madrid	CD CastellÃ³n	1:0	3:0	06.02.1944	00:00	1943	1944	18
+CE Sabadell	Espanyol Barcelona	0:0	0:0	06.02.1944	00:00	1943	1944	18
+Athletic Bilbao	Atletico Madrid	0:0	0:0	06.02.1944	00:00	1943	1944	18
+FC Barcelona	Sevilla FC	1:0	1:1	06.02.1944	00:00	1943	1944	18
+Deportivo La CoruÃ±a	Real Sociedad	0:0	0:0	06.02.1944	00:00	1943	1944	18
+Real Oviedo	Celta Vigo	5:0	5:1	06.02.1944	00:00	1943	1944	18
+Valencia CF	Granada CF	1:0	3:0	06.02.1944	00:00	1943	1944	18
+Celta Vigo	CE Sabadell	0:3	0:3	13.02.1944	00:00	1943	1944	19
+Sevilla FC	Deportivo La CoruÃ±a	0:0	2:2	13.02.1944	00:00	1943	1944	19
+Real Sociedad	Real Oviedo	0:2	2:2	13.02.1944	00:00	1943	1944	19
+Atletico Madrid	Valencia CF	1:1	4:2	13.02.1944	00:00	1943	1944	19
+CD CastellÃ³n	Athletic Bilbao	3:0	5:0	13.02.1944	00:00	1943	1944	19
+Espanyol Barcelona	Real Madrid	0:1	1:1	13.02.1944	00:00	1943	1944	19
+Granada CF	FC Barcelona	2:0	2:0	13.02.1944	00:00	1943	1944	19
+Sevilla FC	Real Sociedad	1:0	4:0	20.02.1944	00:00	1943	1944	20
+Valencia CF	CD CastellÃ³n	1:0	2:0	20.02.1944	00:00	1943	1944	20
+Deportivo La CoruÃ±a	Granada CF	1:1	2:2	20.02.1944	00:00	1943	1944	20
+CE Sabadell	Real Oviedo	2:0	3:3	20.02.1944	00:00	1943	1944	20
+FC Barcelona	Atletico Madrid	1:2	4:5	20.02.1944	00:00	1943	1944	20
+Athletic Bilbao	Espanyol Barcelona	1:0	1:1	20.02.1944	00:00	1943	1944	20
+Real Madrid	Celta Vigo	2:0	3:0	20.02.1944	00:00	1943	1944	20
+Atletico Madrid	Deportivo La CoruÃ±a	0:1	4:2	05.03.1944	00:00	1943	1944	21
+Real Sociedad	CE Sabadell	0:1	0:1	05.03.1944	00:00	1943	1944	21
+Granada CF	Sevilla FC	2:1	2:1	05.03.1944	00:00	1943	1944	21
+Espanyol Barcelona	Valencia CF	0:2	0:3	05.03.1944	00:00	1943	1944	21
+Celta Vigo	Athletic Bilbao	2:1	3:2	05.03.1944	00:00	1943	1944	21
+CD CastellÃ³n	FC Barcelona	2:0	3:0	05.03.1944	00:00	1943	1944	21
+Real Oviedo	Real Madrid	1:0	2:0	05.03.1944	00:00	1943	1944	21
+Sevilla FC	Atletico Madrid	1:0	4:2	12.03.1944	00:00	1943	1944	22
+Granada CF	Real Sociedad	0:0	1:0	12.03.1944	00:00	1943	1944	22
+Valencia CF	Celta Vigo	2:1	5:1	12.03.1944	00:00	1943	1944	22
+Athletic Bilbao	Real Oviedo	1:1	2:1	12.03.1944	00:00	1943	1944	22
+Real Madrid	CE Sabadell	3:1	4:1	12.03.1944	00:00	1943	1944	22
+Deportivo La CoruÃ±a	CD CastellÃ³n	1:1	3:2	12.03.1944	00:00	1943	1944	22
+FC Barcelona	Espanyol Barcelona	0:1	1:3	12.03.1944	00:00	1943	1944	22
+CD CastellÃ³n	Sevilla FC	0:2	1:2	19.03.1944	00:00	1943	1944	23
+Real Oviedo	Valencia CF	0:0	2:1	19.03.1944	00:00	1943	1944	23
+Espanyol Barcelona	Deportivo La CoruÃ±a	4:0	7:0	19.03.1944	00:00	1943	1944	23
+Celta Vigo	FC Barcelona	1:1	2:2	19.03.1944	00:00	1943	1944	23
+Real Sociedad	Real Madrid	1:1	2:1	19.03.1944	00:00	1943	1944	23
+CE Sabadell	Athletic Bilbao	3:0	5:1	19.03.1944	00:00	1943	1944	23
+Atletico Madrid	Granada CF	0:0	0:0	19.03.1944	00:00	1943	1944	23
+Athletic Bilbao	Real Madrid	0:2	1:2	26.03.1944	00:00	1943	1944	24
+Sevilla FC	Espanyol Barcelona	1:1	1:2	26.03.1944	00:00	1943	1944	24
+Atletico Madrid	Real Sociedad	1:0	6:2	26.03.1944	00:00	1943	1944	24
+Deportivo La CoruÃ±a	Celta Vigo	1:0	3:2	26.03.1944	00:00	1943	1944	24
+FC Barcelona	Real Oviedo	3:1	3:1	26.03.1944	00:00	1943	1944	24
+Valencia CF	CE Sabadell	1:1	2:1	26.03.1944	00:00	1943	1944	24
+Granada CF	CD CastellÃ³n	1:1	1:1	26.03.1944	00:00	1943	1944	24
+CE Sabadell	FC Barcelona	1:1	3:2	02.04.1944	00:00	1943	1944	25
+Espanyol Barcelona	Granada CF	2:0	2:0	02.04.1944	00:00	1943	1944	25
+Real Oviedo	Deportivo La CoruÃ±a	1:0	4:2	02.04.1944	00:00	1943	1944	25
+Athletic Bilbao	Real Sociedad	2:0	3:0	02.04.1944	00:00	1943	1944	25
+Celta Vigo	Sevilla FC	1:2	1:5	02.04.1944	00:00	1943	1944	25
+Real Madrid	Valencia CF	0:1	1:1	02.04.1944	00:00	1943	1944	25
+CD CastellÃ³n	Atletico Madrid	1:0	3:2	02.04.1944	00:00	1943	1944	25
+Real Sociedad	CD CastellÃ³n	1:3	2:3	09.04.1944	00:00	1943	1944	26
+FC Barcelona	Real Madrid	1:0	1:2	09.04.1944	00:00	1943	1944	26
+Valencia CF	Athletic Bilbao	3:4	5:4	09.04.1944	00:00	1943	1944	26
+Atletico Madrid	Espanyol Barcelona	1:1	3:1	09.04.1944	00:00	1943	1944	26
+Granada CF	Celta Vigo	2:2	5:2	09.04.1944	00:00	1943	1944	26
+Sevilla FC	Real Oviedo	1:0	2:2	09.04.1944	00:00	1943	1944	26
+Deportivo La CoruÃ±a	CE Sabadell	0:2	0:4	09.04.1944	00:00	1943	1944	26

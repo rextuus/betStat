@@ -1,0 +1,240 @@
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	1:0	1:1	22.08.2008	21:30	2008	2009	1
+PaÃ§os de Ferreira	Sporting Braga	0:1	0:2	23.08.2008	19:15	2008	2009	1
+Sporting CP	CD Trofense	3:0	3:1	23.08.2008	21:45	2008	2009	1
+Estrela Amadora	AcadÃ©mica de Coimbra	0:0	1:0	24.08.2008	17:00	2008	2009	1
+Naval 1Â° de Maio	CS MarÃ­timo	1:0	1:0	24.08.2008	18:00	2008	2009	1
+LeixÃµes SC	CD Nacional	1:1	1:3	24.08.2008	18:00	2008	2009	1
+FC Porto	Os Belenenses	1:0	2:0	24.08.2008	20:15	2008	2009	1
+Rio Ave FC	SL Benfica	0:0	1:1	24.08.2008	22:15	2008	2009	1
+Os Belenenses	PaÃ§os de Ferreira	1:0	2:2	29.08.2008	21:30	2008	2009	2
+SL Benfica	FC Porto	0:1	1:1	30.08.2008	21:45	2008	2009	2
+CD Trofense	LeixÃµes SC	0:1	1:2	31.08.2008	17:00	2008	2009	2
+CD Nacional	Naval 1Â° de Maio	0:0	2:1	31.08.2008	17:00	2008	2009	2
+AcadÃ©mica de Coimbra	Rio Ave FC	1:0	1:0	31.08.2008	17:00	2008	2009	2
+VitÃ³ria SetÃºbal	Estrela Amadora	1:0	1:0	31.08.2008	19:00	2008	2009	2
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	0:1	0:1	01.09.2008	20:15	2008	2009	2
+Sporting Braga	Sporting CP	0:1	0:1	01.09.2008	22:15	2008	2009	2
+Sporting CP	Os Belenenses	1:0	2:0	20.09.2008	21:30	2008	2009	3
+Estrela Amadora	CS MarÃ­timo	0:0	0:0	21.09.2008	17:00	2008	2009	3
+Naval 1Â° de Maio	CD Trofense	2:1	3:1	21.09.2008	18:00	2008	2009	3
+LeixÃµes SC	Sporting Braga	1:0	2:0	21.09.2008	19:00	2008	2009	3
+Rio Ave FC	FC Porto	0:0	0:0	21.09.2008	21:15	2008	2009	3
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	1:0	1:0	21.09.2008	22:15	2008	2009	3
+VitÃ³ria GuimarÃ£es	CD Nacional	0:1	0:2	22.09.2008	20:00	2008	2009	3
+PaÃ§os de Ferreira	SL Benfica	1:3	3:4	22.09.2008	22:00	2008	2009	3
+FC Porto	PaÃ§os de Ferreira	1:0	2:0	26.09.2008	22:15	2008	2009	4
+Sporting Braga	Naval 1Â° de Maio	1:0	1:1	27.09.2008	18:15	2008	2009	4
+VitÃ³ria SetÃºbal	Rio Ave FC	0:0	1:0	27.09.2008	20:00	2008	2009	4
+SL Benfica	Sporting CP	0:0	2:0	27.09.2008	21:45	2008	2009	4
+CD Nacional	Estrela Amadora	0:1	1:2	28.09.2008	17:00	2008	2009	4
+CS MarÃ­timo	AcadÃ©mica de Coimbra	1:0	2:0	28.09.2008	17:00	2008	2009	4
+CD Trofense	VitÃ³ria GuimarÃ£es	0:2	1:3	28.09.2008	21:15	2008	2009	4
+Os Belenenses	LeixÃµes SC	0:0	0:1	29.09.2008	20:45	2008	2009	4
+Naval 1Â° de Maio	Os Belenenses	0:0	1:1	04.10.2008	20:45	2008	2009	5
+Rio Ave FC	PaÃ§os de Ferreira	1:0	3:2	05.10.2008	17:00	2008	2009	5
+AcadÃ©mica de Coimbra	CD Nacional	0:1	1:1	05.10.2008	17:00	2008	2009	5
+Estrela Amadora	CD Trofense	0:0	1:0	05.10.2008	17:00	2008	2009	5
+Sporting CP	FC Porto	1:2	1:2	05.10.2008	20:45	2008	2009	5
+VitÃ³ria GuimarÃ£es	Sporting Braga	0:0	0:0	06.10.2008	20:30	2008	2009	5
+LeixÃµes SC	SL Benfica	0:1	1:1	06.10.2008	22:00	2008	2009	5
+VitÃ³ria SetÃºbal	CS MarÃ­timo	0:0	0:2	07.10.2008	20:45	2008	2009	5
+CD Trofense	AcadÃ©mica de Coimbra	0:0	0:0	24.10.2008	21:30	2008	2009	6
+Os Belenenses	VitÃ³ria GuimarÃ£es	0:1	1:1	25.10.2008	19:30	2008	2009	6
+FC Porto	LeixÃµes SC	1:2	2:3	25.10.2008	22:00	2008	2009	6
+CS MarÃ­timo	Rio Ave FC	0:0	1:1	26.10.2008	17:00	2008	2009	6
+CD Nacional	VitÃ³ria SetÃºbal	0:0	1:0	26.10.2008	17:00	2008	2009	6
+SL Benfica	Naval 1Â° de Maio	0:0	2:1	26.10.2008	20:00	2008	2009	6
+PaÃ§os de Ferreira	Sporting CP	0:0	0:0	26.10.2008	22:00	2008	2009	6
+Sporting Braga	Estrela Amadora	2:0	5:0	27.10.2008	20:45	2008	2009	6
+VitÃ³ria SetÃºbal	CD Trofense	0:1	0:2	31.10.2008	21:30	2008	2009	7
+Naval 1Â° de Maio	FC Porto	0:0	1:0	01.11.2008	19:45	2008	2009	7
+Rio Ave FC	Sporting CP	0:1	0:1	01.11.2008	22:00	2008	2009	7
+LeixÃµes SC	PaÃ§os de Ferreira	2:0	2:1	02.11.2008	17:00	2008	2009	7
+Estrela Amadora	Os Belenenses	1:1	1:1	02.11.2008	17:00	2008	2009	7
+AcadÃ©mica de Coimbra	Sporting Braga	0:0	1:1	02.11.2008	17:00	2008	2009	7
+VitÃ³ria GuimarÃ£es	SL Benfica	1:2	1:2	02.11.2008	20:45	2008	2009	7
+CS MarÃ­timo	CD Nacional	2:0	4:2	03.11.2008	20:45	2008	2009	7
+CD Trofense	CS MarÃ­timo	0:0	0:2	14.11.2008	21:30	2008	2009	8
+FC Porto	VitÃ³ria GuimarÃ£es	0:0	2:0	15.11.2008	19:15	2008	2009	8
+Sporting CP	LeixÃµes SC	0:0	0:1	15.11.2008	21:30	2008	2009	8
+PaÃ§os de Ferreira	Naval 1Â° de Maio	2:1	2:1	16.11.2008	17:00	2008	2009	8
+CD Nacional	Rio Ave FC	0:0	0:0	16.11.2008	17:00	2008	2009	8
+SL Benfica	Estrela Amadora	0:0	1:0	16.11.2008	19:30	2008	2009	8
+Sporting Braga	VitÃ³ria SetÃºbal	1:0	1:0	16.11.2008	21:45	2008	2009	8
+Os Belenenses	AcadÃ©mica de Coimbra	1:0	1:0	17.11.2008	20:45	2008	2009	8
+Rio Ave FC	LeixÃµes SC	1:1	1:2	21.11.2008	21:30	2008	2009	9
+CS MarÃ­timo	Sporting Braga	0:0	0:0	22.11.2008	19:15	2008	2009	9
+Naval 1Â° de Maio	Sporting CP	0:1	0:1	22.11.2008	21:30	2008	2009	9
+CD Nacional	CD Trofense	1:0	1:0	23.11.2008	17:00	2008	2009	9
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	0:0	0:0	23.11.2008	19:00	2008	2009	9
+AcadÃ©mica de Coimbra	SL Benfica	0:1	0:2	23.11.2008	21:15	2008	2009	9
+VitÃ³ria SetÃºbal	Os Belenenses	1:0	2:0	24.11.2008	20:45	2008	2009	9
+Estrela Amadora	FC Porto	1:2	2:4	17.12.2008	21:45	2008	2009	9
+LeixÃµes SC	Naval 1Â° de Maio	0:0	1:1	28.11.2008	21:30	2008	2009	10
+Os Belenenses	CS MarÃ­timo	0:1	0:2	29.11.2008	19:45	2008	2009	10
+PaÃ§os de Ferreira	Estrela Amadora	0:0	1:0	30.11.2008	17:00	2008	2009	10
+CD Trofense	Rio Ave FC	0:0	2:0	30.11.2008	17:00	2008	2009	10
+Sporting Braga	CD Nacional	1:0	1:0	30.11.2008	19:00	2008	2009	10
+Sporting CP	VitÃ³ria GuimarÃ£es	2:0	2:0	30.11.2008	21:15	2008	2009	10
+FC Porto	AcadÃ©mica de Coimbra	1:1	2:1	01.12.2008	19:15	2008	2009	10
+SL Benfica	VitÃ³ria SetÃºbal	0:1	2:2	01.12.2008	21:30	2008	2009	10
+Estrela Amadora	Sporting CP	1:1	1:3	05.12.2008	21:30	2008	2009	11
+CD Nacional	Os Belenenses	2:0	4:2	06.12.2008	19:00	2008	2009	11
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	1:0	2:1	06.12.2008	19:30	2008	2009	11
+VitÃ³ria SetÃºbal	FC Porto	0:0	0:3	06.12.2008	21:30	2008	2009	11
+Rio Ave FC	Naval 1Â° de Maio	1:0	2:0	07.12.2008	17:00	2008	2009	11
+CS MarÃ­timo	SL Benfica	0:2	0:6	07.12.2008	20:15	2008	2009	11
+VitÃ³ria GuimarÃ£es	LeixÃµes SC	0:0	1:0	08.12.2008	18:30	2008	2009	11
+CD Trofense	Sporting Braga	0:0	0:0	08.12.2008	20:45	2008	2009	11
+Naval 1Â° de Maio	VitÃ³ria GuimarÃ£es	0:0	0:0	19.12.2008	21:30	2008	2009	12
+Sporting Braga	Rio Ave FC	0:0	1:0	20.12.2008	19:15	2008	2009	12
+Sporting CP	AcadÃ©mica de Coimbra	0:0	0:0	20.12.2008	21:30	2008	2009	12
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	2:0	2:0	21.12.2008	17:00	2008	2009	12
+LeixÃµes SC	Estrela Amadora	0:0	1:1	21.12.2008	17:00	2008	2009	12
+Os Belenenses	CD Trofense	0:1	3:2	21.12.2008	17:00	2008	2009	12
+FC Porto	CS MarÃ­timo	0:0	0:0	21.12.2008	20:15	2008	2009	12
+SL Benfica	CD Nacional	0:0	0:0	22.12.2008	20:45	2008	2009	12
+AcadÃ©mica de Coimbra	LeixÃµes SC	0:0	0:0	02.01.2009	21:30	2008	2009	13
+Rio Ave FC	VitÃ³ria GuimarÃ£es	1:2	2:4	03.01.2009	19:15	2008	2009	13
+VitÃ³ria SetÃºbal	Sporting CP	0:2	0:2	03.01.2009	21:45	2008	2009	13
+Estrela Amadora	Naval 1Â° de Maio	1:0	1:0	04.01.2009	17:00	2008	2009	13
+CS MarÃ­timo	PaÃ§os de Ferreira	1:1	4:1	04.01.2009	17:00	2008	2009	13
+CD Nacional	FC Porto	1:0	2:4	04.01.2009	19:30	2008	2009	13
+CD Trofense	SL Benfica	1:0	2:0	04.01.2009	21:30	2008	2009	13
+Sporting Braga	Os Belenenses	0:0	2:0	05.01.2009	20:45	2008	2009	13
+VitÃ³ria GuimarÃ£es	Estrela Amadora	0:0	0:0	10.01.2009	19:30	2008	2009	14
+Sporting CP	CS MarÃ­timo	1:0	2:0	10.01.2009	21:45	2008	2009	14
+LeixÃµes SC	VitÃ³ria SetÃºbal	0:0	0:0	11.01.2009	17:00	2008	2009	14
+Naval 1Â° de Maio	AcadÃ©mica de Coimbra	0:0	2:1	11.01.2009	17:00	2008	2009	14
+PaÃ§os de Ferreira	CD Nacional	0:2	2:3	11.01.2009	17:00	2008	2009	14
+Rio Ave FC	Os Belenenses	0:0	0:1	11.01.2009	17:00	2008	2009	14
+SL Benfica	Sporting Braga	1:0	1:0	11.01.2009	19:30	2008	2009	14
+FC Porto	CD Trofense	0:0	0:0	11.01.2009	21:45	2008	2009	14
+CS MarÃ­timo	LeixÃµes SC	0:0	0:0	23.01.2009	19:30	2008	2009	15
+Os Belenenses	SL Benfica	0:0	0:0	23.01.2009	21:45	2008	2009	15
+Estrela Amadora	Rio Ave FC	1:0	2:0	24.01.2009	17:00	2008	2009	15
+CD Trofense	PaÃ§os de Ferreira	1:1	1:3	24.01.2009	17:00	2008	2009	15
+VitÃ³ria SetÃºbal	Naval 1Â° de Maio	0:1	0:1	24.01.2009	17:00	2008	2009	15
+CD Nacional	Sporting CP	1:1	1:1	24.01.2009	19:30	2008	2009	15
+Sporting Braga	FC Porto	0:2	0:2	24.01.2009	21:45	2008	2009	15
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	1:0	2:1	25.01.2009	19:30	2008	2009	15
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	2:2	2:4	30.01.2009	21:30	2008	2009	16
+CD Trofense	Sporting CP	0:0	0:0	31.01.2009	19:30	2008	2009	16
+SL Benfica	Rio Ave FC	0:0	1:0	31.01.2009	20:45	2008	2009	16
+AcadÃ©mica de Coimbra	Estrela Amadora	0:1	2:2	01.02.2009	17:00	2008	2009	16
+CS MarÃ­timo	Naval 1Â° de Maio	0:0	1:0	01.02.2009	17:00	2008	2009	16
+CD Nacional	LeixÃµes SC	0:0	0:0	01.02.2009	17:00	2008	2009	16
+Os Belenenses	FC Porto	0:2	1:3	01.02.2009	19:00	2008	2009	16
+Sporting Braga	PaÃ§os de Ferreira	2:0	2:0	01.02.2009	21:00	2008	2009	16
+LeixÃµes SC	CD Trofense	1:0	2:0	06.02.2009	21:30	2008	2009	17
+Estrela Amadora	VitÃ³ria SetÃºbal	0:0	0:0	07.02.2009	17:00	2008	2009	17
+Naval 1Â° de Maio	CD Nacional	0:2	0:4	08.02.2009	17:00	2008	2009	17
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	1:0	2:1	08.02.2009	17:00	2008	2009	17
+Rio Ave FC	AcadÃ©mica de Coimbra	1:0	1:0	08.02.2009	17:00	2008	2009	17
+Sporting CP	Sporting Braga	0:0	2:3	08.02.2009	20:00	2008	2009	17
+FC Porto	SL Benfica	0:1	1:1	08.02.2009	20:45	2008	2009	17
+PaÃ§os de Ferreira	Os Belenenses	1:1	1:1	09.02.2009	20:45	2008	2009	17
+CD Nacional	VitÃ³ria GuimarÃ£es	0:0	3:0	13.02.2009	21:30	2008	2009	18
+CS MarÃ­timo	Estrela Amadora	0:0	1:0	14.02.2009	17:00	2008	2009	18
+Sporting Braga	LeixÃµes SC	0:0	0:1	14.02.2009	19:00	2008	2009	18
+Os Belenenses	Sporting CP	0:0	1:2	14.02.2009	21:30	2008	2009	18
+CD Trofense	Naval 1Â° de Maio	1:2	2:2	15.02.2009	17:00	2008	2009	18
+FC Porto	Rio Ave FC	1:0	3:1	15.02.2009	20:00	2008	2009	18
+SL Benfica	PaÃ§os de Ferreira	0:0	3:2	15.02.2009	21:45	2008	2009	18
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	0:0	2:1	16.02.2009	20:45	2008	2009	18
+PaÃ§os de Ferreira	FC Porto	0:1	0:2	20.02.2009	22:00	2008	2009	19
+Rio Ave FC	VitÃ³ria SetÃºbal	0:0	1:0	21.02.2009	19:00	2008	2009	19
+Sporting CP	SL Benfica	1:1	3:2	21.02.2009	21:00	2008	2009	19
+Estrela Amadora	CD Nacional	1:0	1:0	22.02.2009	17:00	2008	2009	19
+AcadÃ©mica de Coimbra	CS MarÃ­timo	2:1	3:1	22.02.2009	17:00	2008	2009	19
+Naval 1Â° de Maio	Sporting Braga	0:0	1:2	22.02.2009	19:00	2008	2009	19
+VitÃ³ria GuimarÃ£es	CD Trofense	0:0	0:1	22.02.2009	21:15	2008	2009	19
+LeixÃµes SC	Os Belenenses	1:2	2:2	23.02.2009	20:45	2008	2009	19
+SL Benfica	LeixÃµes SC	1:0	2:1	27.02.2009	22:00	2008	2009	20
+PaÃ§os de Ferreira	Rio Ave FC	0:0	2:0	28.02.2009	17:00	2008	2009	20
+CD Nacional	AcadÃ©mica de Coimbra	1:1	3:1	28.02.2009	18:30	2008	2009	20
+FC Porto	Sporting CP	0:0	0:0	28.02.2009	21:30	2008	2009	20
+Os Belenenses	Naval 1Â° de Maio	1:1	1:2	01.03.2009	17:00	2008	2009	20
+CD Trofense	Estrela Amadora	0:1	1:1	01.03.2009	17:00	2008	2009	20
+CS MarÃ­timo	VitÃ³ria SetÃºbal	3:0	5:1	01.03.2009	21:00	2008	2009	20
+Sporting Braga	VitÃ³ria GuimarÃ£es	1:0	1:0	02.03.2009	20:45	2008	2009	20
+Rio Ave FC	CS MarÃ­timo	0:0	1:1	06.03.2009	21:30	2008	2009	21
+Sporting CP	PaÃ§os de Ferreira	2:0	2:0	07.03.2009	20:00	2008	2009	21
+LeixÃµes SC	FC Porto	0:1	1:4	07.03.2009	22:00	2008	2009	21
+VitÃ³ria GuimarÃ£es	Os Belenenses	1:0	3:1	08.03.2009	17:00	2008	2009	21
+AcadÃ©mica de Coimbra	CD Trofense	0:0	1:0	08.03.2009	17:00	2008	2009	21
+Estrela Amadora	Sporting Braga	1:0	2:2	08.03.2009	19:00	2008	2009	21
+Naval 1Â° de Maio	SL Benfica	0:1	1:2	08.03.2009	21:15	2008	2009	21
+VitÃ³ria SetÃºbal	CD Nacional	1:0	2:0	09.03.2009	20:45	2008	2009	21
+PaÃ§os de Ferreira	LeixÃµes SC	1:0	4:0	13.03.2009	21:30	2008	2009	22
+SL Benfica	VitÃ³ria GuimarÃ£es	0:0	0:1	14.03.2009	19:45	2008	2009	22
+Sporting CP	Rio Ave FC	2:0	2:0	14.03.2009	22:00	2008	2009	22
+CD Trofense	VitÃ³ria SetÃºbal	0:1	0:1	15.03.2009	17:00	2008	2009	22
+Os Belenenses	Estrela Amadora	1:2	2:2	15.03.2009	17:00	2008	2009	22
+Sporting Braga	AcadÃ©mica de Coimbra	0:1	1:1	15.03.2009	19:00	2008	2009	22
+FC Porto	Naval 1Â° de Maio	1:0	2:0	15.03.2009	21:15	2008	2009	22
+CD Nacional	CS MarÃ­timo	1:0	1:1	16.03.2009	20:45	2008	2009	22
+AcadÃ©mica de Coimbra	Os Belenenses	0:0	1:0	03.04.2009	21:30	2008	2009	23
+VitÃ³ria GuimarÃ£es	FC Porto	1:0	1:3	04.04.2009	20:00	2008	2009	23
+CS MarÃ­timo	CD Trofense	1:1	1:1	05.04.2009	17:00	2008	2009	23
+VitÃ³ria SetÃºbal	Sporting Braga	0:0	0:3	05.04.2009	17:00	2008	2009	23
+Naval 1Â° de Maio	PaÃ§os de Ferreira	0:0	0:0	05.04.2009	17:30	2008	2009	23
+LeixÃµes SC	Sporting CP	0:1	0:1	05.04.2009	19:00	2008	2009	23
+Estrela Amadora	SL Benfica	1:2	1:2	05.04.2009	21:15	2008	2009	23
+Rio Ave FC	CD Nacional	0:1	0:3	06.04.2009	20:45	2008	2009	23
+Sporting Braga	CS MarÃ­timo	1:1	1:1	10.04.2009	19:00	2008	2009	24
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	0:0	1:1	10.04.2009	21:30	2008	2009	24
+LeixÃµes SC	Rio Ave FC	0:0	1:0	11.04.2009	17:00	2008	2009	24
+Sporting CP	Naval 1Â° de Maio	2:1	3:1	11.04.2009	19:00	2008	2009	24
+Os Belenenses	VitÃ³ria SetÃºbal	2:0	2:1	11.04.2009	19:00	2008	2009	24
+SL Benfica	AcadÃ©mica de Coimbra	0:1	0:1	11.04.2009	20:00	2008	2009	24
+FC Porto	Estrela Amadora	1:0	3:0	11.04.2009	22:00	2008	2009	24
+CD Trofense	CD Nacional	0:2	1:2	13.04.2009	20:45	2008	2009	24
+Estrela Amadora	PaÃ§os de Ferreira	0:2	0:2	17.04.2009	21:30	2008	2009	25
+CD Nacional	Sporting Braga	0:1	1:1	18.04.2009	19:45	2008	2009	25
+VitÃ³ria GuimarÃ£es	Sporting CP	0:0	1:2	18.04.2009	22:00	2008	2009	25
+CS MarÃ­timo	Os Belenenses	0:0	1:1	19.04.2009	17:00	2008	2009	25
+Rio Ave FC	CD Trofense	2:0	2:1	19.04.2009	17:00	2008	2009	25
+AcadÃ©mica de Coimbra	FC Porto	0:0	0:3	19.04.2009	19:00	2008	2009	25
+VitÃ³ria SetÃºbal	SL Benfica	0:3	0:4	19.04.2009	21:15	2008	2009	25
+Naval 1Â° de Maio	LeixÃµes SC	1:0	1:0	20.04.2009	20:45	2008	2009	25
+Sporting Braga	CD Trofense	0:0	1:0	24.04.2009	21:30	2008	2009	26
+Sporting CP	Estrela Amadora	1:1	2:1	25.04.2009	21:30	2008	2009	26
+Naval 1Â° de Maio	Rio Ave FC	0:1	0:1	26.04.2009	17:00	2008	2009	26
+Os Belenenses	CD Nacional	1:1	1:2	26.04.2009	17:00	2008	2009	26
+FC Porto	VitÃ³ria SetÃºbal	0:0	2:0	26.04.2009	20:15	2008	2009	26
+SL Benfica	CS MarÃ­timo	3:1	3:2	26.04.2009	21:00	2008	2009	26
+LeixÃµes SC	VitÃ³ria GuimarÃ£es	2:1	2:2	27.04.2009	20:45	2008	2009	26
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	1:0	1:1	27.04.2009	21:00	2008	2009	26
+Rio Ave FC	Sporting Braga	0:0	0:0	01.05.2009	21:30	2008	2009	27
+AcadÃ©mica de Coimbra	Sporting CP	0:0	0:0	02.05.2009	19:45	2008	2009	27
+CD Nacional	SL Benfica	0:0	3:1	02.05.2009	22:00	2008	2009	27
+Estrela Amadora	LeixÃµes SC	1:0	2:1	03.05.2009	17:00	2008	2009	27
+VitÃ³ria GuimarÃ£es	Naval 1Â° de Maio	0:0	1:0	03.05.2009	19:00	2008	2009	27
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	2:1	2:1	03.05.2009	19:00	2008	2009	27
+CS MarÃ­timo	FC Porto	0:1	0:3	03.05.2009	21:15	2008	2009	27
+CD Trofense	Os Belenenses	2:1	2:1	04.05.2009	20:45	2008	2009	27
+VitÃ³ria GuimarÃ£es	Rio Ave FC	0:1	0:1	08.05.2009	21:30	2008	2009	28
+SL Benfica	CD Trofense	2:1	2:2	09.05.2009	20:00	2008	2009	28
+Sporting CP	VitÃ³ria SetÃºbal	1:1	2:1	09.05.2009	22:00	2008	2009	28
+PaÃ§os de Ferreira	CS MarÃ­timo	0:1	2:1	10.05.2009	17:00	2008	2009	28
+Naval 1Â° de Maio	Estrela Amadora	0:0	0:0	10.05.2009	17:00	2008	2009	28
+LeixÃµes SC	AcadÃ©mica de Coimbra	0:1	0:1	10.05.2009	19:00	2008	2009	28
+FC Porto	CD Nacional	0:0	1:0	10.05.2009	21:15	2008	2009	28
+Os Belenenses	Sporting Braga	0:1	0:5	11.05.2009	20:45	2008	2009	28
+VitÃ³ria SetÃºbal	LeixÃµes SC	0:1	0:1	16.05.2009	20:45	2008	2009	29
+Estrela Amadora	VitÃ³ria GuimarÃ£es	0:0	1:0	16.05.2009	20:45	2008	2009	29
+CS MarÃ­timo	Sporting CP	0:1	1:2	16.05.2009	20:45	2008	2009	29
+AcadÃ©mica de Coimbra	Naval 1Â° de Maio	0:1	3:1	16.05.2009	20:45	2008	2009	29
+CD Trofense	FC Porto	0:2	1:4	16.05.2009	20:45	2008	2009	29
+Os Belenenses	Rio Ave FC	0:0	1:0	16.05.2009	20:45	2008	2009	29
+CD Nacional	PaÃ§os de Ferreira	0:0	1:0	17.05.2009	20:00	2008	2009	29
+Sporting Braga	SL Benfica	0:2	1:3	17.05.2009	20:00	2008	2009	29
+LeixÃµes SC	CS MarÃ­timo	0:0	1:0	23.05.2009	18:00	2008	2009	30
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	1:1	3:2	23.05.2009	18:00	2008	2009	30
+Naval 1Â° de Maio	VitÃ³ria SetÃºbal	1:0	2:2	23.05.2009	20:45	2008	2009	30
+Rio Ave FC	Estrela Amadora	1:0	2:1	23.05.2009	20:45	2008	2009	30
+SL Benfica	Os Belenenses	1:1	3:1	23.05.2009	20:45	2008	2009	30
+PaÃ§os de Ferreira	CD Trofense	0:0	1:0	23.05.2009	20:45	2008	2009	30
+Sporting CP	CD Nacional	2:1	3:1	24.05.2009	20:00	2008	2009	30
+FC Porto	Sporting Braga	1:0	1:1	24.05.2009	20:00	2008	2009	30

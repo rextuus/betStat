@@ -1,0 +1,306 @@
+Bologna FC	US Alessandria 1912	0:0	4:1	01.01.2000	00:00	1933	1934	1
+Brescia Calcio	AS Roma	0:0	1:0	01.01.2000	00:00	1933	1934	1
+ACF Fiorentina	AC Milan	0:0	1:0	01.01.2000	00:00	1933	1934	1
+Genova 1893 Circolo del Calcio	Pro Vercelli	0:0	3:0	01.01.2000	00:00	1933	1934	1
+Juventus	US Livorno	0:0	4:1	01.01.2000	00:00	1933	1934	1
+Lazio Roma	Palmero FC	0:0	1:0	01.01.2000	00:00	1933	1934	1
+Calcio Padova	Torino FC	0:0	1:0	01.01.2000	00:00	1933	1934	1
+Unione Triestina	SSC Napoli	0:0	4:1	01.01.2000	00:00	1933	1934	1
+Inter	Casale	0:0	9:0	01.01.2000	00:00	1933	1934	1
+Palmero FC	Bologna FC	0:0	2:1	01.01.2000	00:00	1933	1934	2
+Torino FC	ACF Fiorentina	0:0	4:1	01.01.2000	00:00	1933	1934	2
+Pro Vercelli	Inter	0:0	0:0	01.01.2000	00:00	1933	1934	2
+Calcio Padova	US Livorno	0:0	1:1	01.01.2000	00:00	1933	1934	2
+US Alessandria 1912	Juventus	0:0	2:1	01.01.2000	00:00	1933	1934	2
+AC Milan	Lazio Roma	0:0	4:2	01.01.2000	00:00	1933	1934	2
+Casale	Brescia Calcio	0:0	1:0	01.01.2000	00:00	1933	1934	2
+AS Roma	Unione Triestina	0:0	0:0	01.01.2000	00:00	1933	1934	2
+SSC Napoli	Genova 1893 Circolo del Calcio	0:0	0:0	01.01.2000	00:00	1933	1934	2
+Brescia Calcio	Torino FC	0:0	1:0	01.01.2000	00:00	1933	1934	3
+Palmero FC	US Livorno	0:0	3:2	01.01.2000	00:00	1933	1934	3
+Lazio Roma	Pro Vercelli	0:0	1:1	01.01.2000	00:00	1933	1934	3
+Juventus	Casale	0:0	6:1	01.01.2000	00:00	1933	1934	3
+ACF Fiorentina	AS Roma	0:0	1:3	01.01.2000	00:00	1933	1934	3
+Bologna FC	AC Milan	0:0	2:1	01.01.2000	00:00	1933	1934	3
+Inter	SSC Napoli	0:0	2:1	01.01.2000	00:00	1933	1934	3
+US Alessandria 1912	Calcio Padova	0:0	3:0	01.01.2000	00:00	1933	1934	3
+Genova 1893 Circolo del Calcio	Unione Triestina	0:0	0:1	01.01.2000	00:00	1933	1934	3
+Calcio Padova	Inter	0:0	1:2	01.01.2000	00:00	1933	1934	4
+AS Roma	Juventus	0:0	2:3	01.01.2000	00:00	1933	1934	4
+Torino FC	US Alessandria 1912	0:0	1:1	01.01.2000	00:00	1933	1934	4
+Pro Vercelli	Brescia Calcio	0:0	2:1	01.01.2000	00:00	1933	1934	4
+AC Milan	US Livorno	0:0	3:1	01.01.2000	00:00	1933	1934	4
+Casale	Genova 1893 Circolo del Calcio	0:0	2:1	01.01.2000	00:00	1933	1934	4
+ACF Fiorentina	Palmero FC	0:0	4:1	01.01.2000	00:00	1933	1934	4
+Unione Triestina	Bologna FC	0:0	1:1	01.01.2000	00:00	1933	1934	4
+SSC Napoli	Lazio Roma	0:0	2:1	01.01.2000	00:00	1933	1934	4
+Casale	AS Roma	0:0	0:2	01.01.2000	00:00	1933	1934	5
+Pro Vercelli	Unione Triestina	0:0	1:1	01.01.2000	00:00	1933	1934	5
+US Livorno	ACF Fiorentina	0:0	3:0	01.01.2000	00:00	1933	1934	5
+Lazio Roma	Calcio Padova	0:0	3:2	01.01.2000	00:00	1933	1934	5
+Genova 1893 Circolo del Calcio	AC Milan	0:0	2:2	01.01.2000	00:00	1933	1934	5
+Brescia Calcio	Palmero FC	0:0	1:1	01.01.2000	00:00	1933	1934	5
+Bologna FC	SSC Napoli	0:0	3:0	01.01.2000	00:00	1933	1934	5
+Inter	US Alessandria 1912	0:0	4:1	01.01.2000	00:00	1933	1934	5
+Juventus	Torino FC	0:0	4:0	01.01.2000	00:00	1933	1934	5
+SSC Napoli	US Livorno	0:0	0:0	01.01.2000	00:00	1933	1934	6
+Torino FC	Lazio Roma	0:0	1:1	01.01.2000	00:00	1933	1934	6
+AS Roma	Pro Vercelli	0:0	2:0	01.01.2000	00:00	1933	1934	6
+Unione Triestina	Inter	0:0	0:0	01.01.2000	00:00	1933	1934	6
+AC Milan	Brescia Calcio	0:0	4:0	01.01.2000	00:00	1933	1934	6
+ACF Fiorentina	Bologna FC	0:0	3:0	01.01.2000	00:00	1933	1934	6
+US Alessandria 1912	Genova 1893 Circolo del Calcio	0:0	3:1	01.01.2000	00:00	1933	1934	6
+Palmero FC	Juventus	0:0	0:1	01.01.2000	00:00	1933	1934	6
+Calcio Padova	Casale	0:0	2:0	01.01.2000	00:00	1933	1934	6
+Juventus	Unione Triestina	0:0	1:1	01.01.2000	00:00	1933	1934	7
+Pro Vercelli	ACF Fiorentina	0:0	7:2	01.01.2000	00:00	1933	1934	7
+Palmero FC	US Alessandria 1912	0:0	2:1	01.01.2000	00:00	1933	1934	7
+AC Milan	Calcio Padova	0:0	2:2	01.01.2000	00:00	1933	1934	7
+Lazio Roma	Genova 1893 Circolo del Calcio	0:0	3:2	01.01.2000	00:00	1933	1934	7
+Casale	Torino FC	0:0	3:2	01.01.2000	00:00	1933	1934	7
+Brescia Calcio	SSC Napoli	0:0	1:1	01.01.2000	00:00	1933	1934	7
+Bologna FC	AS Roma	0:0	1:0	01.01.2000	00:00	1933	1934	7
+US Livorno	Inter	0:0	2:2	01.01.2000	00:00	1933	1934	7
+Calcio Padova	Pro Vercelli	0:0	1:1	01.01.2000	00:00	1933	1934	8
+Inter	AC Milan	0:0	3:0	01.01.2000	00:00	1933	1934	8
+Unione Triestina	Palmero FC	0:0	1:0	01.01.2000	00:00	1933	1934	8
+Torino FC	US Livorno	0:0	5:0	01.01.2000	00:00	1933	1934	8
+AS Roma	Lazio Roma	0:0	5:0	01.01.2000	00:00	1933	1934	8
+US Alessandria 1912	Casale	0:0	4:1	01.01.2000	00:00	1933	1934	8
+ACF Fiorentina	Brescia Calcio	0:0	2:0	01.01.2000	00:00	1933	1934	8
+Genova 1893 Circolo del Calcio	Bologna FC	0:0	1:0	01.01.2000	00:00	1933	1934	8
+SSC Napoli	Juventus	0:0	2:0	01.01.2000	00:00	1933	1934	8
+Juventus	ACF Fiorentina	0:0	5:0	01.01.2000	00:00	1933	1934	9
+Pro Vercelli	Torino FC	0:0	1:0	01.01.2000	00:00	1933	1934	9
+SSC Napoli	Palmero FC	0:0	3:0	01.01.2000	00:00	1933	1934	9
+AC Milan	AS Roma	0:0	1:0	01.01.2000	00:00	1933	1934	9
+Lazio Roma	Inter	0:0	1:4	01.01.2000	00:00	1933	1934	9
+Casale	Unione Triestina	0:0	1:1	01.01.2000	00:00	1933	1934	9
+Brescia Calcio	US Alessandria 1912	0:0	2:1	01.01.2000	00:00	1933	1934	9
+Bologna FC	Calcio Padova	0:0	3:0	01.01.2000	00:00	1933	1934	9
+US Livorno	Genova 1893 Circolo del Calcio	0:0	0:0	01.01.2000	00:00	1933	1934	9
+AS Roma	US Livorno	0:0	0:0	01.01.2000	00:00	1933	1934	10
+Genova 1893 Circolo del Calcio	Brescia Calcio	0:0	3:1	01.01.2000	00:00	1933	1934	10
+Unione Triestina	AC Milan	0:0	2:2	01.01.2000	00:00	1933	1934	10
+Torino FC	Bologna FC	0:0	0:1	01.01.2000	00:00	1933	1934	10
+US Alessandria 1912	Pro Vercelli	0:0	0:1	01.01.2000	00:00	1933	1934	10
+ACF Fiorentina	Lazio Roma	0:0	2:0	01.01.2000	00:00	1933	1934	10
+Inter	Juventus	0:0	3:2	01.01.2000	00:00	1933	1934	10
+Palmero FC	Casale	0:0	3:0	01.01.2000	00:00	1933	1934	10
+Calcio Padova	SSC Napoli	0:0	3:1	01.01.2000	00:00	1933	1934	10
+Juventus	Genova 1893 Circolo del Calcio	0:0	8:1	01.01.2000	00:00	1933	1934	11
+SSC Napoli	AS Roma	0:0	1:2	01.01.2000	00:00	1933	1934	11
+AC Milan	Torino FC	0:0	4:0	01.01.2000	00:00	1933	1934	11
+Lazio Roma	US Alessandria 1912	0:0	1:0	01.01.2000	00:00	1933	1934	11
+Casale	ACF Fiorentina	0:0	2:2	01.01.2000	00:00	1933	1934	11
+Brescia Calcio	Calcio Padova	0:0	1:0	01.01.2000	00:00	1933	1934	11
+Bologna FC	Inter	0:0	0:1	01.01.2000	00:00	1933	1934	11
+Palmero FC	Pro Vercelli	0:0	2:1	01.01.2000	00:00	1933	1934	11
+US Livorno	Unione Triestina	0:0	2:1	01.01.2000	00:00	1933	1934	11
+Lazio Roma	US Livorno	0:0	3:0	01.01.2000	00:00	1933	1934	12
+Pro Vercelli	SSC Napoli	0:0	0:0	01.01.2000	00:00	1933	1934	12
+Unione Triestina	Torino FC	0:0	1:1	01.01.2000	00:00	1933	1934	12
+Calcio Padova	Palmero FC	0:0	3:1	01.01.2000	00:00	1933	1934	12
+Genova 1893 Circolo del Calcio	AS Roma	0:0	1:0	01.01.2000	00:00	1933	1934	12
+Bologna FC	Casale	0:0	2:0	01.01.2000	00:00	1933	1934	12
+US Alessandria 1912	AC Milan	0:0	1:1	01.01.2000	00:00	1933	1934	12
+Inter	ACF Fiorentina	0:0	2:4	01.01.2000	00:00	1933	1934	12
+Juventus	Brescia Calcio	0:0	5:1	01.01.2000	00:00	1933	1934	12
+US Livorno	Pro Vercelli	0:0	1:1	01.01.2000	00:00	1933	1934	13
+Torino FC	Palmero FC	0:0	2:1	01.01.2000	00:00	1933	1934	13
+AS Roma	Inter	0:0	0:1	01.01.2000	00:00	1933	1934	13
+AC Milan	Juventus	0:0	3:1	01.01.2000	00:00	1933	1934	13
+Unione Triestina	Calcio Padova	0:0	2:1	01.01.2000	00:00	1933	1934	13
+ACF Fiorentina	Genova 1893 Circolo del Calcio	0:0	2:1	01.01.2000	00:00	1933	1934	13
+Casale	Lazio Roma	0:0	1:1	01.01.2000	00:00	1933	1934	13
+Brescia Calcio	Bologna FC	0:0	1:2	01.01.2000	00:00	1933	1934	13
+SSC Napoli	US Alessandria 1912	0:0	2:1	01.01.2000	00:00	1933	1934	13
+Calcio Padova	AS Roma	0:0	1:0	01.01.2000	00:00	1933	1934	14
+Pro Vercelli	Casale	0:0	4:1	01.01.2000	00:00	1933	1934	14
+Torino FC	SSC Napoli	0:0	0:0	01.01.2000	00:00	1933	1934	14
+Palmero FC	AC Milan	0:0	2:1	01.01.2000	00:00	1933	1934	14
+US Livorno	Brescia Calcio	0:0	0:0	01.01.2000	00:00	1933	1934	14
+Lazio Roma	Unione Triestina	0:0	2:0	01.01.2000	00:00	1933	1934	14
+Bologna FC	Juventus	0:0	2:2	01.01.2000	00:00	1933	1934	14
+US Alessandria 1912	ACF Fiorentina	0:0	3:1	01.01.2000	00:00	1933	1934	14
+Inter	Genova 1893 Circolo del Calcio	0:0	5:0	01.01.2000	00:00	1933	1934	14
+Casale	US Livorno	0:0	4:4	01.01.2000	00:00	1933	1934	15
+SSC Napoli	AC Milan	0:0	1:0	01.01.2000	00:00	1933	1934	15
+Unione Triestina	Brescia Calcio	0:0	0:1	01.01.2000	00:00	1933	1934	15
+AS Roma	US Alessandria 1912	0:0	5:1	01.01.2000	00:00	1933	1934	15
+Pro Vercelli	Bologna FC	0:0	2:0	01.01.2000	00:00	1933	1934	15
+Inter	Torino FC	0:0	0:0	01.01.2000	00:00	1933	1934	15
+ACF Fiorentina	Calcio Padova	0:0	3:0	01.01.2000	00:00	1933	1934	15
+Genova 1893 Circolo del Calcio	Palmero FC	0:0	1:1	01.01.2000	00:00	1933	1934	15
+Juventus	Lazio Roma	0:0	2:2	01.01.2000	00:00	1933	1934	15
+AC Milan	Pro Vercelli	0:0	2:0	01.01.2000	00:00	1933	1934	16
+Unione Triestina	ACF Fiorentina	0:0	2:3	01.01.2000	00:00	1933	1934	16
+Torino FC	Genova 1893 Circolo del Calcio	0:0	3:1	01.01.2000	00:00	1933	1934	16
+Palmero FC	AS Roma	0:0	0:0	01.01.2000	00:00	1933	1934	16
+SSC Napoli	Casale	0:0	2:1	01.01.2000	00:00	1933	1934	16
+US Livorno	US Alessandria 1912	0:0	3:2	01.01.2000	00:00	1933	1934	16
+Lazio Roma	Bologna FC	0:0	3:3	01.01.2000	00:00	1933	1934	16
+Brescia Calcio	Inter	0:0	1:1	01.01.2000	00:00	1933	1934	16
+Calcio Padova	Juventus	0:0	1:2	01.01.2000	00:00	1933	1934	16
+AC Milan	Casale	0:0	6:1	01.01.2000	00:00	1933	1934	17
+ACF Fiorentina	SSC Napoli	0:0	0:1	01.01.2000	00:00	1933	1934	17
+AS Roma	Torino FC	0:0	4:0	01.01.2000	00:00	1933	1934	17
+Palmero FC	Inter	0:0	1:1	01.01.2000	00:00	1933	1934	17
+US Alessandria 1912	Unione Triestina	0:0	1:0	01.01.2000	00:00	1933	1934	17
+Brescia Calcio	Lazio Roma	0:0	0:0	01.01.2000	00:00	1933	1934	17
+Bologna FC	US Livorno	0:0	1:0	01.01.2000	00:00	1933	1934	17
+Juventus	Pro Vercelli	0:0	3:0	01.01.2000	00:00	1933	1934	17
+Genova 1893 Circolo del Calcio	Calcio Padova	0:0	1:0	01.01.2000	00:00	1933	1934	17
+AC Milan	ACF Fiorentina	0:0	2:0	01.01.2000	00:00	1933	1934	18
+AS Roma	Brescia Calcio	0:0	2:1	01.01.2000	00:00	1933	1934	18
+Pro Vercelli	Genova 1893 Circolo del Calcio	0:0	2:0	01.01.2000	00:00	1933	1934	18
+SSC Napoli	Unione Triestina	0:0	2:0	01.01.2000	00:00	1933	1934	18
+US Livorno	Juventus	0:0	0:0	01.01.2000	00:00	1933	1934	18
+Casale	Inter	0:0	0:1	01.01.2000	00:00	1933	1934	18
+US Alessandria 1912	Bologna FC	0:0	2:2	01.01.2000	00:00	1933	1934	18
+Torino FC	Calcio Padova	0:0	4:2	01.01.2000	00:00	1933	1934	18
+Palmero FC	Lazio Roma	0:0	1:0	01.01.2000	00:00	1933	1934	18
+Unione Triestina	AS Roma	0:0	1:1	01.01.2000	00:00	1933	1934	19
+US Livorno	Calcio Padova	0:0	3:1	01.01.2000	00:00	1933	1934	19
+Juventus	US Alessandria 1912	0:0	3:1	01.01.2000	00:00	1933	1934	19
+Lazio Roma	AC Milan	0:0	4:0	01.01.2000	00:00	1933	1934	19
+ACF Fiorentina	Torino FC	0:0	1:1	01.01.2000	00:00	1933	1934	19
+Brescia Calcio	Casale	0:0	3:1	01.01.2000	00:00	1933	1934	19
+Inter	Pro Vercelli	0:0	2:0	01.01.2000	00:00	1933	1934	19
+Bologna FC	Palmero FC	0:0	4:1	01.01.2000	00:00	1933	1934	19
+Genova 1893 Circolo del Calcio	SSC Napoli	0:0	1:1	01.01.2000	00:00	1933	1934	19
+Torino FC	Brescia Calcio	0:0	1:0	01.01.2000	00:00	1933	1934	20
+Unione Triestina	Genova 1893 Circolo del Calcio	0:0	1:0	01.01.2000	00:00	1933	1934	20
+AS Roma	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1933	1934	20
+Pro Vercelli	Lazio Roma	0:0	2:0	01.01.2000	00:00	1933	1934	20
+SSC Napoli	Inter	0:0	2:1	01.01.2000	00:00	1933	1934	20
+AC Milan	Bologna FC	0:0	1:1	01.01.2000	00:00	1933	1934	20
+US Livorno	Palmero FC	0:0	3:1	01.01.2000	00:00	1933	1934	20
+Casale	Juventus	0:0	0:3	01.01.2000	00:00	1933	1934	20
+Calcio Padova	US Alessandria 1912	0:0	1:0	01.01.2000	00:00	1933	1934	20
+Brescia Calcio	Pro Vercelli	0:0	1:0	01.01.2000	00:00	1933	1934	21
+Palmero FC	ACF Fiorentina	0:0	0:0	01.01.2000	00:00	1933	1934	21
+US Livorno	AC Milan	0:0	4:0	01.01.2000	00:00	1933	1934	21
+Lazio Roma	SSC Napoli	0:0	0:2	01.01.2000	00:00	1933	1934	21
+US Alessandria 1912	Torino FC	0:0	3:1	01.01.2000	00:00	1933	1934	21
+Genova 1893 Circolo del Calcio	Casale	0:0	5:0	01.01.2000	00:00	1933	1934	21
+Bologna FC	Unione Triestina	0:0	2:0	01.01.2000	00:00	1933	1934	21
+Inter	Calcio Padova	0:0	1:0	01.01.2000	00:00	1933	1934	21
+Juventus	AS Roma	0:0	3:1	01.01.2000	00:00	1933	1934	21
+SSC Napoli	Bologna FC	0:0	1:0	01.01.2000	00:00	1933	1934	22
+Torino FC	Juventus	0:0	1:2	01.01.2000	00:00	1933	1934	22
+AS Roma	Casale	0:0	1:0	01.01.2000	00:00	1933	1934	22
+Unione Triestina	Pro Vercelli	0:0	2:1	01.01.2000	00:00	1933	1934	22
+AC Milan	Genova 1893 Circolo del Calcio	0:0	1:0	01.01.2000	00:00	1933	1934	22
+ACF Fiorentina	US Livorno	0:0	1:0	01.01.2000	00:00	1933	1934	22
+US Alessandria 1912	Inter	0:0	0:2	01.01.2000	00:00	1933	1934	22
+Palmero FC	Brescia Calcio	0:0	2:2	01.01.2000	00:00	1933	1934	22
+Calcio Padova	Lazio Roma	0:0	2:0	01.01.2000	00:00	1933	1934	22
+US Livorno	SSC Napoli	0:0	0:1	01.01.2000	00:00	1933	1934	23
+Pro Vercelli	AS Roma	0:0	1:2	01.01.2000	00:00	1933	1934	23
+Lazio Roma	Torino FC	0:0	1:0	01.01.2000	00:00	1933	1934	23
+Juventus	Palmero FC	0:0	1:1	01.01.2000	00:00	1933	1934	23
+Casale	Calcio Padova	0:0	0:0	01.01.2000	00:00	1933	1934	23
+Brescia Calcio	AC Milan	0:0	3:0	01.01.2000	00:00	1933	1934	23
+Inter	Unione Triestina	0:0	2:1	01.01.2000	00:00	1933	1934	23
+Bologna FC	ACF Fiorentina	0:0	0:0	01.01.2000	00:00	1933	1934	23
+Genova 1893 Circolo del Calcio	US Alessandria 1912	0:0	1:0	01.01.2000	00:00	1933	1934	23
+Genova 1893 Circolo del Calcio	Lazio Roma	0:0	1:2	01.01.2000	00:00	1933	1934	24
+Unione Triestina	Juventus	0:0	0:1	01.01.2000	00:00	1933	1934	24
+Torino FC	Casale	0:0	5:2	01.01.2000	00:00	1933	1934	24
+AS Roma	Bologna FC	0:0	0:1	01.01.2000	00:00	1933	1934	24
+US Alessandria 1912	Palmero FC	0:0	2:1	01.01.2000	00:00	1933	1934	24
+SSC Napoli	Brescia Calcio	0:0	1:0	01.01.2000	00:00	1933	1934	24
+ACF Fiorentina	Pro Vercelli	0:0	1:1	01.01.2000	00:00	1933	1934	24
+Inter	US Livorno	0:0	1:2	01.01.2000	00:00	1933	1934	24
+Calcio Padova	AC Milan	0:0	0:0	01.01.2000	00:00	1933	1934	24
+US Livorno	Torino FC	0:0	2:0	01.01.2000	00:00	1933	1934	25
+Pro Vercelli	Calcio Padova	0:0	4:0	01.01.2000	00:00	1933	1934	25
+Palmero FC	Unione Triestina	0:0	2:1	01.01.2000	00:00	1933	1934	25
+AC Milan	Inter	0:0	1:2	01.01.2000	00:00	1933	1934	25
+Juventus	SSC Napoli	0:0	2:0	01.01.2000	00:00	1933	1934	25
+Casale	US Alessandria 1912	0:0	2:1	01.01.2000	00:00	1933	1934	25
+Brescia Calcio	ACF Fiorentina	0:0	4:0	01.01.2000	00:00	1933	1934	25
+Bologna FC	Genova 1893 Circolo del Calcio	0:0	3:0	01.01.2000	00:00	1933	1934	25
+Lazio Roma	AS Roma	0:0	3:3	01.01.2000	00:00	1933	1934	25
+Genova 1893 Circolo del Calcio	US Livorno	0:0	2:0	01.01.2000	00:00	1933	1934	26
+US Alessandria 1912	Brescia Calcio	0:0	1:0	01.01.2000	00:00	1933	1934	26
+Unione Triestina	Casale	0:0	2:0	01.01.2000	00:00	1933	1934	26
+Torino FC	Pro Vercelli	0:0	0:0	01.01.2000	00:00	1933	1934	26
+AS Roma	AC Milan	0:0	1:1	01.01.2000	00:00	1933	1934	26
+Calcio Padova	Bologna FC	0:0	0:0	01.01.2000	00:00	1933	1934	26
+ACF Fiorentina	Juventus	0:0	2:2	01.01.2000	00:00	1933	1934	26
+Inter	Lazio Roma	0:0	8:1	01.01.2000	00:00	1933	1934	26
+Palmero FC	SSC Napoli	0:0	1:2	01.01.2000	00:00	1933	1934	26
+Juventus	Inter	0:0	0:0	01.01.2000	00:00	1933	1934	27
+SSC Napoli	Calcio Padova	0:0	1:1	01.01.2000	00:00	1933	1934	27
+AC Milan	Unione Triestina	0:0	0:1	01.01.2000	00:00	1933	1934	27
+Pro Vercelli	US Alessandria 1912	0:0	1:0	01.01.2000	00:00	1933	1934	27
+Casale	Palmero FC	0:0	2:2	01.01.2000	00:00	1933	1934	27
+Brescia Calcio	Genova 1893 Circolo del Calcio	0:0	3:1	01.01.2000	00:00	1933	1934	27
+Bologna FC	Torino FC	0:0	2:2	01.01.2000	00:00	1933	1934	27
+US Livorno	AS Roma	0:0	1:3	01.01.2000	00:00	1933	1934	27
+Lazio Roma	ACF Fiorentina	0:0	2:2	01.01.2000	00:00	1933	1934	27
+Genova 1893 Circolo del Calcio	Juventus	0:0	0:2	01.01.2000	00:00	1933	1934	28
+Unione Triestina	US Livorno	0:0	0:1	01.01.2000	00:00	1933	1934	28
+Torino FC	AC Milan	0:0	3:3	01.01.2000	00:00	1933	1934	28
+AS Roma	SSC Napoli	0:0	1:2	01.01.2000	00:00	1933	1934	28
+Calcio Padova	Brescia Calcio	0:0	2:1	01.01.2000	00:00	1933	1934	28
+ACF Fiorentina	Casale	0:0	2:2	01.01.2000	00:00	1933	1934	28
+Inter	Bologna FC	0:0	2:0	01.01.2000	00:00	1933	1934	28
+US Alessandria 1912	Lazio Roma	0:0	3:2	01.01.2000	00:00	1933	1934	28
+Pro Vercelli	Palmero FC	0:0	3:0	01.01.2000	00:00	1933	1934	28
+US Livorno	Lazio Roma	0:0	4:1	01.01.2000	00:00	1933	1934	29
+Palmero FC	Calcio Padova	0:0	2:1	01.01.2000	00:00	1933	1934	29
+Torino FC	Unione Triestina	0:0	2:1	01.01.2000	00:00	1933	1934	29
+AS Roma	Genova 1893 Circolo del Calcio	0:0	3:0	01.01.2000	00:00	1933	1934	29
+Brescia Calcio	Juventus	0:0	1:2	01.01.2000	00:00	1933	1934	29
+SSC Napoli	Pro Vercelli	0:0	1:0	01.01.2000	00:00	1933	1934	29
+ACF Fiorentina	Inter	0:0	1:0	01.01.2000	00:00	1933	1934	29
+Casale	Bologna FC	0:0	0:3	01.01.2000	00:00	1933	1934	29
+AC Milan	US Alessandria 1912	0:0	3:0	01.01.2000	00:00	1933	1934	29
+Palmero FC	Torino FC	0:0	0:0	01.01.2000	00:00	1933	1934	30
+Pro Vercelli	US Livorno	0:0	0:0	01.01.2000	00:00	1933	1934	30
+Calcio Padova	Unione Triestina	0:0	2:0	01.01.2000	00:00	1933	1934	30
+Lazio Roma	Casale	0:0	2:1	01.01.2000	00:00	1933	1934	30
+Genova 1893 Circolo del Calcio	ACF Fiorentina	0:0	1:2	01.01.2000	00:00	1933	1934	30
+Bologna FC	Brescia Calcio	0:0	4:1	01.01.2000	00:00	1933	1934	30
+US Alessandria 1912	SSC Napoli	0:0	1:0	01.01.2000	00:00	1933	1934	30
+Inter	AS Roma	0:0	0:0	01.01.2000	00:00	1933	1934	30
+Juventus	AC Milan	0:0	4:0	01.01.2000	00:00	1933	1934	30
+Genova 1893 Circolo del Calcio	Inter	0:0	0:0	01.01.2000	00:00	1933	1934	31
+Unione Triestina	Lazio Roma	0:0	4:2	01.01.2000	00:00	1933	1934	31
+AS Roma	Calcio Padova	0:0	2:0	01.01.2000	00:00	1933	1934	31
+SSC Napoli	Torino FC	0:0	5:2	01.01.2000	00:00	1933	1934	31
+Brescia Calcio	US Livorno	0:0	1:1	01.01.2000	00:00	1933	1934	31
+Juventus	Bologna FC	0:0	4:2	01.01.2000	00:00	1933	1934	31
+ACF Fiorentina	US Alessandria 1912	0:0	0:0	01.01.2000	00:00	1933	1934	31
+Casale	Pro Vercelli	0:0	1:1	01.01.2000	00:00	1933	1934	31
+AC Milan	Palmero FC	0:0	1:0	01.01.2000	00:00	1933	1934	31
+AC Milan	SSC Napoli	0:0	0:2	01.01.2000	00:00	1933	1934	32
+Palmero FC	Genova 1893 Circolo del Calcio	0:0	2:0	01.01.2000	00:00	1933	1934	32
+Torino FC	Inter	0:0	1:0	01.01.2000	00:00	1933	1934	32
+Calcio Padova	ACF Fiorentina	0:0	0:0	01.01.2000	00:00	1933	1934	32
+Lazio Roma	Juventus	0:0	0:2	01.01.2000	00:00	1933	1934	32
+Brescia Calcio	Unione Triestina	0:0	3:2	01.01.2000	00:00	1933	1934	32
+US Alessandria 1912	AS Roma	0:0	1:1	01.01.2000	00:00	1933	1934	32
+Bologna FC	Pro Vercelli	0:0	4:1	01.01.2000	00:00	1933	1934	32
+US Livorno	Casale	0:0	5:0	01.01.2000	00:00	1933	1934	32
+Casale	SSC Napoli	0:0	1:4	01.01.2000	00:00	1933	1934	33
+AS Roma	Palmero FC	0:0	2:1	01.01.2000	00:00	1933	1934	33
+Pro Vercelli	AC Milan	0:0	2:1	01.01.2000	00:00	1933	1934	33
+Juventus	Calcio Padova	0:0	5:1	01.01.2000	00:00	1933	1934	33
+US Alessandria 1912	US Livorno	0:0	2:1	01.01.2000	00:00	1933	1934	33
+ACF Fiorentina	Unione Triestina	0:0	1:1	01.01.2000	00:00	1933	1934	33
+Bologna FC	Lazio Roma	0:0	0:0	01.01.2000	00:00	1933	1934	33
+Inter	Brescia Calcio	0:0	1:0	01.01.2000	00:00	1933	1934	33
+Genova 1893 Circolo del Calcio	Torino FC	0:0	2:2	01.01.2000	00:00	1933	1934	33
+Lazio Roma	Brescia Calcio	0:0	3:2	01.01.2000	00:00	1933	1934	34
+Torino FC	AS Roma	0:0	3:1	01.01.2000	00:00	1933	1934	34
+Pro Vercelli	Juventus	0:0	0:2	01.01.2000	00:00	1933	1934	34
+Unione Triestina	US Alessandria 1912	0:0	3:0	01.01.2000	00:00	1933	1934	34
+Calcio Padova	Genova 1893 Circolo del Calcio	0:0	0:0	01.01.2000	00:00	1933	1934	34
+Casale	AC Milan	0:0	0:0	01.01.2000	00:00	1933	1934	34
+Inter	Palmero FC	0:0	3:1	01.01.2000	00:00	1933	1934	34
+SSC Napoli	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1933	1934	34
+US Livorno	Bologna FC	0:0	0:0	01.01.2000	00:00	1933	1934	34

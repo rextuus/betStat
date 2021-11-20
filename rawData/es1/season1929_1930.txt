@@ -1,0 +1,90 @@
+Racing Santander	Espanyol Barcelona	1:1	4:1	01.12.1929	00:00	1929	1930	1
+FC Barcelona	Real Sociedad	2:0	3:0	01.12.1929	00:00	1929	1930	1
+Real UniÃ³n	Arenas de Getxo	1:1	3:2	01.12.1929	00:00	1929	1930	1
+AtlÃ©tico Madrid	CE Europa	3:2	5:3	01.12.1929	00:00	1929	1930	1
+Athletic Bilbao	Real Madrid	2:1	2:1	01.12.1929	00:00	1929	1930	1
+Arenas de Getxo	FC Barcelona	1:1	1:3	08.12.1929	00:00	1929	1930	2
+CE Europa	Athletic Bilbao	0:1	2:2	08.12.1929	00:00	1929	1930	2
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	1:0	08.12.1929	00:00	1929	1930	2
+Real Sociedad	Racing Santander	4:0	7:0	08.12.1929	00:00	1929	1930	2
+Real Madrid	Real UniÃ³n	2:0	2:2	08.12.1929	00:00	1929	1930	2
+AtlÃ©tico Madrid	Real Madrid	2:0	2:1	15.12.1929	00:00	1929	1930	3
+FC Barcelona	CE Europa	2:1	2:1	15.12.1929	00:00	1929	1930	3
+Racing Santander	Arenas de Getxo	1:2	2:5	15.12.1929	00:00	1929	1930	3
+Real UniÃ³n	Espanyol Barcelona	1:2	3:3	15.12.1929	00:00	1929	1930	3
+Athletic Bilbao	Real Sociedad	1:2	2:2	15.12.1929	00:00	1929	1930	3
+Real Sociedad	Real Madrid	2:0	4:0	22.12.1929	00:00	1929	1930	4
+Espanyol Barcelona	Athletic Bilbao	2:0	2:2	22.12.1929	00:00	1929	1930	4
+FC Barcelona	Racing Santander	2:0	5:0	22.12.1929	00:00	1929	1930	4
+AtlÃ©tico Madrid	Real UniÃ³n	3:0	3:3	22.12.1929	00:00	1929	1930	4
+Arenas de Getxo	CE Europa	2:3	2:3	22.12.1929	00:00	1929	1930	4
+CE Europa	Real Sociedad	2:0	3:2	29.12.1929	00:00	1929	1930	5
+Arenas de Getxo	Athletic Bilbao	3:3	3:3	29.12.1929	00:00	1929	1930	5
+Real UniÃ³n	FC Barcelona	0:1	1:3	29.12.1929	00:00	1929	1930	5
+Racing Santander	AtlÃ©tico Madrid	2:2	3:2	29.12.1929	00:00	1929	1930	5
+Real Madrid	Espanyol Barcelona	1:1	2:4	29.12.1929	00:00	1929	1930	5
+FC Barcelona	AtlÃ©tico Madrid	1:1	4:2	05.01.1930	00:00	1929	1930	6
+Real Madrid	Racing Santander	3:0	6:0	05.01.1930	00:00	1929	1930	6
+Real Sociedad	Arenas de Getxo	3:2	4:4	05.01.1930	00:00	1929	1930	6
+Athletic Bilbao	Real UniÃ³n	3:2	5:2	05.01.1930	00:00	1929	1930	6
+Espanyol Barcelona	CE Europa	1:1	1:2	09.01.1930	00:00	1929	1930	6
+Arenas de Getxo	Espanyol Barcelona	2:0	2:0	12.01.1930	00:00	1929	1930	7
+AtlÃ©tico Madrid	Real Sociedad	0:0	1:1	12.01.1930	00:00	1929	1930	7
+FC Barcelona	Athletic Bilbao	1:0	1:1	12.01.1930	00:00	1929	1930	7
+CE Europa	Real Madrid	1:1	1:2	12.01.1930	00:00	1929	1930	7
+Real UniÃ³n	Racing Santander	2:1	6:3	12.01.1930	00:00	1929	1930	7
+Espanyol Barcelona	FC Barcelona	3:0	4:0	19.01.1930	00:00	1929	1930	8
+Athletic Bilbao	AtlÃ©tico Madrid	2:1	6:1	19.01.1930	00:00	1929	1930	8
+Real Madrid	Arenas de Getxo	1:1	5:2	19.01.1930	00:00	1929	1930	8
+Real Sociedad	Real UniÃ³n	1:1	2:3	19.01.1930	00:00	1929	1930	8
+Racing Santander	CE Europa	2:0	6:0	19.01.1930	00:00	1929	1930	8
+CE Europa	Real UniÃ³n	0:1	0:1	26.01.1930	00:00	1929	1930	9
+FC Barcelona	Real Madrid	0:3	1:4	26.01.1930	00:00	1929	1930	9
+Real Sociedad	Espanyol Barcelona	0:0	1:0	26.01.1930	00:00	1929	1930	9
+Athletic Bilbao	Racing Santander	2:0	4:0	26.01.1930	00:00	1929	1930	9
+AtlÃ©tico Madrid	Arenas de Getxo	1:1	1:3	26.01.1930	00:00	1929	1930	9
+Real Madrid	Athletic Bilbao	0:0	2:3	02.02.1930	00:00	1929	1930	10
+CE Europa	AtlÃ©tico Madrid	2:0	2:0	02.02.1930	00:00	1929	1930	10
+Espanyol Barcelona	Racing Santander	1:0	3:0	02.02.1930	00:00	1929	1930	10
+Arenas de Getxo	Real UniÃ³n	3:1	7:2	02.02.1930	00:00	1929	1930	10
+Real Sociedad	FC Barcelona	1:2	1:2	02.02.1930	00:00	1929	1930	10
+Real UniÃ³n	Real Madrid	1:1	2:2	09.02.1930	00:00	1929	1930	11
+Racing Santander	Real Sociedad	0:0	2:0	09.02.1930	00:00	1929	1930	11
+FC Barcelona	Arenas de Getxo	2:1	3:1	09.02.1930	00:00	1929	1930	11
+Athletic Bilbao	CE Europa	1:0	3:0	09.02.1930	00:00	1929	1930	11
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	2:0	12.02.1930	00:00	1929	1930	11
+CE Europa	FC Barcelona	0:2	0:3	16.02.1930	00:00	1929	1930	12
+Espanyol Barcelona	Real UniÃ³n	1:0	3:1	16.02.1930	00:00	1929	1930	12
+Arenas de Getxo	Racing Santander	1:0	5:1	16.02.1930	00:00	1929	1930	12
+Real Sociedad	Athletic Bilbao	1:3	1:7	16.02.1930	00:00	1929	1930	12
+Real Madrid	AtlÃ©tico Madrid	4:0	4:1	16.02.1930	00:00	1929	1930	12
+Racing Santander	FC Barcelona	0:1	2:1	23.02.1930	00:00	1929	1930	13
+Athletic Bilbao	Espanyol Barcelona	2:0	6:0	23.02.1930	00:00	1929	1930	13
+Real UniÃ³n	AtlÃ©tico Madrid	3:1	8:2	23.02.1930	00:00	1929	1930	13
+Real Madrid	Real Sociedad	1:1	1:1	23.02.1930	00:00	1929	1930	13
+CE Europa	Arenas de Getxo	1:0	1:2	23.02.1930	00:00	1929	1930	13
+Athletic Bilbao	Arenas de Getxo	4:0	5:2	02.03.1930	00:00	1929	1930	14
+AtlÃ©tico Madrid	Racing Santander	2:1	3:1	02.03.1930	00:00	1929	1930	14
+Real Sociedad	CE Europa	1:0	2:0	02.03.1930	00:00	1929	1930	14
+FC Barcelona	Real UniÃ³n	1:0	4:2	05.03.1930	00:00	1929	1930	14
+Espanyol Barcelona	Real Madrid	3:1	8:1	05.03.1930	00:00	1929	1930	14
+Racing Santander	Real Madrid	2:0	2:0	09.03.1930	00:00	1929	1930	15
+AtlÃ©tico Madrid	FC Barcelona	2:2	3:2	09.03.1930	00:00	1929	1930	15
+Real UniÃ³n	Athletic Bilbao	1:1	1:1	09.03.1930	00:00	1929	1930	15
+CE Europa	Espanyol Barcelona	0:1	1:2	09.03.1930	00:00	1929	1930	15
+Arenas de Getxo	Real Sociedad	1:1	3:1	09.03.1930	00:00	1929	1930	15
+Espanyol Barcelona	Arenas de Getxo	1:0	1:0	16.03.1930	00:00	1929	1930	16
+Racing Santander	Real UniÃ³n	1:2	4:2	16.03.1930	00:00	1929	1930	16
+Real Sociedad	AtlÃ©tico Madrid	1:0	2:0	16.03.1930	00:00	1929	1930	16
+Athletic Bilbao	FC Barcelona	3:3	4:3	16.03.1930	00:00	1929	1930	16
+Real Madrid	CE Europa	1:0	6:1	16.03.1930	00:00	1929	1930	16
+CE Europa	Racing Santander	2:0	5:0	22.03.1930	00:00	1929	1930	17
+Arenas de Getxo	Real Madrid	2:1	5:1	23.03.1930	00:00	1929	1930	17
+AtlÃ©tico Madrid	Athletic Bilbao	3:1	3:4	23.03.1930	00:00	1929	1930	17
+FC Barcelona	Espanyol Barcelona	3:2	5:4	23.03.1930	00:00	1929	1930	17
+Real UniÃ³n	Real Sociedad	3:0	3:2	23.03.1930	00:00	1929	1930	17
+Real UniÃ³n	CE Europa	2:0	3:4	30.03.1930	00:00	1929	1930	18
+Real Madrid	FC Barcelona	3:0	5:1	30.03.1930	00:00	1929	1930	18
+Racing Santander	Athletic Bilbao	1:2	2:3	30.03.1930	00:00	1929	1930	18
+Arenas de Getxo	AtlÃ©tico Madrid	0:0	2:1	30.03.1930	00:00	1929	1930	18
+Espanyol Barcelona	Real Sociedad	1:0	3:1	30.03.1930	00:00	1929	1930	18

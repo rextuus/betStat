@@ -1,0 +1,306 @@
+Sporting GijÃ³n	Real Betis	0:0	2:0	06.09.1980	00:00	1980	1981	1
+Espanyol Barcelona	HÃ©rcules CF	0:1	2:1	06.09.1980	00:00	1980	1981	1
+Sevilla FC	UD Salamanca	0:0	1:0	06.09.1980	00:00	1980	1981	1
+Valencia CF	Real Sociedad	1:0	3:2	06.09.1980	00:00	1980	1981	1
+AD AlmerÃ­a	Real Madrid	1:2	1:2	07.09.1980	00:00	1980	1981	1
+Real Murcia	FC Barcelona	1:1	1:2	07.09.1980	00:00	1980	1981	1
+Athletic Bilbao	Real Zaragoza	0:0	0:1	07.09.1980	00:00	1980	1981	1
+CA Osasuna	UD Las Palmas	1:0	1:0	07.09.1980	00:00	1980	1981	1
+AtlÃ©tico Madrid	Real Valladolid	4:2	5:2	07.09.1980	00:00	1980	1981	1
+UD Las Palmas	AtlÃ©tico Madrid	0:1	1:1	13.09.1980	00:00	1980	1981	2
+UD Salamanca	Real Murcia	0:1	0:3	13.09.1980	00:00	1980	1981	2
+Valencia CF	Real Betis	1:1	3:1	13.09.1980	00:00	1980	1981	2
+FC Barcelona	Espanyol Barcelona	3:0	3:1	13.09.1980	00:00	1980	1981	2
+Real Sociedad	CA Osasuna	0:0	2:1	13.09.1980	00:00	1980	1981	2
+Real Valladolid	AD AlmerÃ­a	0:0	0:0	14.09.1980	00:00	1980	1981	2
+HÃ©rcules CF	Sporting GijÃ³n	0:1	1:1	14.09.1980	00:00	1980	1981	2
+Real Zaragoza	Sevilla FC	1:0	2:0	14.09.1980	00:00	1980	1981	2
+Real Madrid	Athletic Bilbao	5:1	7:1	14.09.1980	00:00	1980	1981	2
+Espanyol Barcelona	UD Salamanca	1:0	2:1	20.09.1980	00:00	1980	1981	3
+CA Osasuna	Real Betis	0:1	1:2	21.09.1980	00:00	1980	1981	3
+Sevilla FC	Real Madrid	1:0	2:0	21.09.1980	00:00	1980	1981	3
+AtlÃ©tico Madrid	AD AlmerÃ­a	1:0	2:1	21.09.1980	00:00	1980	1981	3
+Valencia CF	HÃ©rcules CF	0:0	0:2	21.09.1980	00:00	1980	1981	3
+Athletic Bilbao	Real Valladolid	1:1	4:1	21.09.1980	00:00	1980	1981	3
+Sporting GijÃ³n	FC Barcelona	2:1	2:1	21.09.1980	00:00	1980	1981	3
+UD Las Palmas	Real Sociedad	0:0	0:3	21.09.1980	00:00	1980	1981	3
+Real Murcia	Real Zaragoza	0:0	0:1	21.09.1980	00:00	1980	1981	3
+Real Sociedad	AtlÃ©tico Madrid	1:2	2:2	27.09.1980	00:00	1980	1981	4
+FC Barcelona	Valencia CF	0:2	0:3	27.09.1980	00:00	1980	1981	4
+Real Valladolid	Sevilla FC	1:1	2:3	28.09.1980	00:00	1980	1981	4
+Real Madrid	Real Murcia	3:0	4:0	28.09.1980	00:00	1980	1981	4
+HÃ©rcules CF	CA Osasuna	0:0	0:0	28.09.1980	00:00	1980	1981	4
+Real Betis	UD Las Palmas	1:1	4:1	28.09.1980	00:00	1980	1981	4
+Real Zaragoza	Espanyol Barcelona	0:1	2:1	28.09.1980	00:00	1980	1981	4
+AD AlmerÃ­a	Athletic Bilbao	0:0	1:1	28.09.1980	00:00	1980	1981	4
+UD Salamanca	Sporting GijÃ³n	2:1	2:2	28.09.1980	00:00	1980	1981	4
+UD Las Palmas	HÃ©rcules CF	0:0	1:1	04.10.1980	00:00	1980	1981	5
+Espanyol Barcelona	Real Madrid	1:0	2:1	05.10.1980	00:00	1980	1981	5
+Real Sociedad	Real Betis	0:1	2:2	05.10.1980	00:00	1980	1981	5
+Sevilla FC	AD AlmerÃ­a	1:0	1:0	05.10.1980	00:00	1980	1981	5
+Valencia CF	UD Salamanca	2:0	3:0	05.10.1980	00:00	1980	1981	5
+Real Murcia	Real Valladolid	0:0	0:0	05.10.1980	00:00	1980	1981	5
+CA Osasuna	FC Barcelona	1:0	1:0	05.10.1980	00:00	1980	1981	5
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	2:1	05.10.1980	00:00	1980	1981	5
+Sporting GijÃ³n	Real Zaragoza	0:1	1:1	05.10.1980	00:00	1980	1981	5
+Athletic Bilbao	Sevilla FC	0:0	3:0	11.10.1980	00:00	1980	1981	6
+Real Betis	AtlÃ©tico Madrid	0:1	0:1	12.10.1980	00:00	1980	1981	6
+AD AlmerÃ­a	Real Murcia	0:0	0:0	12.10.1980	00:00	1980	1981	6
+UD Salamanca	CA Osasuna	0:1	1:2	12.10.1980	00:00	1980	1981	6
+Real Madrid	Sporting GijÃ³n	0:0	1:0	12.10.1980	00:00	1980	1981	6
+HÃ©rcules CF	Real Sociedad	1:0	2:0	12.10.1980	00:00	1980	1981	6
+Real Zaragoza	Valencia CF	0:0	1:1	12.10.1980	00:00	1980	1981	6
+Real Valladolid	Espanyol Barcelona	2:0	3:1	12.10.1980	00:00	1980	1981	6
+FC Barcelona	UD Las Palmas	1:0	1:0	12.10.1980	00:00	1980	1981	6
+UD Las Palmas	UD Salamanca	0:0	1:1	18.10.1980	00:00	1980	1981	7
+Valencia CF	Real Madrid	1:0	2:1	18.10.1980	00:00	1980	1981	7
+Real Murcia	Athletic Bilbao	5:1	5:4	19.10.1980	00:00	1980	1981	7
+Real Betis	HÃ©rcules CF	0:0	2:0	19.10.1980	00:00	1980	1981	7
+Sporting GijÃ³n	Real Valladolid	2:0	4:1	19.10.1980	00:00	1980	1981	7
+Espanyol Barcelona	AD AlmerÃ­a	0:0	1:0	19.10.1980	00:00	1980	1981	7
+Real Sociedad	FC Barcelona	0:0	2:0	19.10.1980	00:00	1980	1981	7
+CA Osasuna	Real Zaragoza	0:0	1:0	19.10.1980	00:00	1980	1981	7
+AtlÃ©tico Madrid	Sevilla FC	0:0	2:0	19.10.1980	00:00	1980	1981	7
+UD Salamanca	Real Sociedad	0:1	0:2	26.10.1980	00:00	1980	1981	8
+Sevilla FC	Real Murcia	1:0	1:0	26.10.1980	00:00	1980	1981	8
+Real Madrid	CA Osasuna	1:1	3:1	26.10.1980	00:00	1980	1981	8
+AD AlmerÃ­a	Sporting GijÃ³n	1:0	1:1	26.10.1980	00:00	1980	1981	8
+FC Barcelona	Real Betis	1:2	1:3	26.10.1980	00:00	1980	1981	8
+HÃ©rcules CF	AtlÃ©tico Madrid	1:2	1:2	26.10.1980	00:00	1980	1981	8
+Real Valladolid	Valencia CF	2:0	2:0	26.10.1980	00:00	1980	1981	8
+Athletic Bilbao	Espanyol Barcelona	1:1	1:2	26.10.1980	00:00	1980	1981	8
+Real Zaragoza	UD Las Palmas	1:1	2:3	26.10.1980	00:00	1980	1981	8
+UD Las Palmas	Real Madrid	1:0	1:0	01.11.1980	00:00	1980	1981	9
+Valencia CF	AD AlmerÃ­a	2:0	3:1	01.11.1980	00:00	1980	1981	9
+Real Sociedad	Real Zaragoza	1:0	1:0	01.11.1980	00:00	1980	1981	9
+HÃ©rcules CF	FC Barcelona	0:1	0:1	02.11.1980	00:00	1980	1981	9
+CA Osasuna	Real Valladolid	2:0	2:0	02.11.1980	00:00	1980	1981	9
+Real Betis	UD Salamanca	2:0	5:0	02.11.1980	00:00	1980	1981	9
+AtlÃ©tico Madrid	Real Murcia	0:0	2:1	02.11.1980	00:00	1980	1981	9
+Sporting GijÃ³n	Athletic Bilbao	0:1	1:1	02.11.1980	00:00	1980	1981	9
+Espanyol Barcelona	Sevilla FC	1:1	2:2	02.11.1980	00:00	1980	1981	9
+Real Madrid	Real Sociedad	0:0	1:0	09.11.1980	00:00	1980	1981	10
+UD Salamanca	HÃ©rcules CF	0:0	0:1	09.11.1980	00:00	1980	1981	10
+AD AlmerÃ­a	CA Osasuna	1:0	1:1	09.11.1980	00:00	1980	1981	10
+Sevilla FC	Sporting GijÃ³n	1:1	3:2	09.11.1980	00:00	1980	1981	10
+Real Zaragoza	Real Betis	0:0	2:0	09.11.1980	00:00	1980	1981	10
+FC Barcelona	AtlÃ©tico Madrid	2:1	4:2	09.11.1980	00:00	1980	1981	10
+Athletic Bilbao	Valencia CF	2:0	4:0	09.11.1980	00:00	1980	1981	10
+Real Murcia	Espanyol Barcelona	0:0	1:1	09.11.1980	00:00	1980	1981	10
+Real Valladolid	UD Las Palmas	0:1	3:1	09.11.1980	00:00	1980	1981	10
+UD Las Palmas	AD AlmerÃ­a	0:0	3:0	15.11.1980	00:00	1980	1981	11
+Real Sociedad	Real Valladolid	1:0	1:0	16.11.1980	00:00	1980	1981	11
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	1:0	16.11.1980	00:00	1980	1981	11
+FC Barcelona	UD Salamanca	3:0	3:0	16.11.1980	00:00	1980	1981	11
+Sporting GijÃ³n	Real Murcia	2:0	2:0	16.11.1980	00:00	1980	1981	11
+CA Osasuna	Athletic Bilbao	2:0	2:0	16.11.1980	00:00	1980	1981	11
+Real Betis	Real Madrid	1:1	1:1	16.11.1980	00:00	1980	1981	11
+HÃ©rcules CF	Real Zaragoza	0:0	1:1	16.11.1980	00:00	1980	1981	11
+Valencia CF	Sevilla FC	1:0	2:0	16.11.1980	00:00	1980	1981	11
+AD AlmerÃ­a	Real Sociedad	2:1	3:2	23.11.1980	00:00	1980	1981	12
+Real Madrid	HÃ©rcules CF	2:0	3:0	23.11.1980	00:00	1980	1981	12
+Sevilla FC	CA Osasuna	1:0	1:0	23.11.1980	00:00	1980	1981	12
+Espanyol Barcelona	Sporting GijÃ³n	1:0	1:0	23.11.1980	00:00	1980	1981	12
+Real Valladolid	Real Betis	0:0	2:1	23.11.1980	00:00	1980	1981	12
+UD Salamanca	AtlÃ©tico Madrid	0:0	1:1	23.11.1980	00:00	1980	1981	12
+Real Murcia	Valencia CF	0:1	0:2	23.11.1980	00:00	1980	1981	12
+Real Zaragoza	FC Barcelona	0:2	1:2	23.11.1980	00:00	1980	1981	12
+Athletic Bilbao	UD Las Palmas	1:2	1:3	23.11.1980	00:00	1980	1981	12
+UD Las Palmas	Sevilla FC	1:0	1:2	29.11.1980	00:00	1980	1981	13
+AtlÃ©tico Madrid	Sporting GijÃ³n	0:0	0:0	30.11.1980	00:00	1980	1981	13
+UD Salamanca	Real Zaragoza	1:1	3:1	30.11.1980	00:00	1980	1981	13
+HÃ©rcules CF	Real Valladolid	1:0	1:1	30.11.1980	00:00	1980	1981	13
+Real Sociedad	Athletic Bilbao	2:0	4:1	30.11.1980	00:00	1980	1981	13
+FC Barcelona	Real Madrid	1:1	2:1	30.11.1980	00:00	1980	1981	13
+Valencia CF	Espanyol Barcelona	0:1	3:1	30.11.1980	00:00	1980	1981	13
+Real Betis	AD AlmerÃ­a	1:0	2:0	30.11.1980	00:00	1980	1981	13
+CA Osasuna	Real Murcia	1:1	3:1	17.12.1980	00:00	1980	1981	13
+Sevilla FC	Real Sociedad	0:0	0:0	07.12.1980	00:00	1980	1981	14
+Real Madrid	UD Salamanca	0:0	2:0	07.12.1980	00:00	1980	1981	14
+AD AlmerÃ­a	HÃ©rcules CF	0:1	0:3	07.12.1980	00:00	1980	1981	14
+Espanyol Barcelona	CA Osasuna	0:0	0:0	07.12.1980	00:00	1980	1981	14
+Athletic Bilbao	Real Betis	1:0	2:0	07.12.1980	00:00	1980	1981	14
+Real Zaragoza	AtlÃ©tico Madrid	0:0	0:1	07.12.1980	00:00	1980	1981	14
+Sporting GijÃ³n	Valencia CF	0:0	0:0	07.12.1980	00:00	1980	1981	14
+Real Valladolid	FC Barcelona	1:1	1:1	07.12.1980	00:00	1980	1981	14
+Real Murcia	UD Las Palmas	0:1	1:2	07.12.1980	00:00	1980	1981	14
+FC Barcelona	AD AlmerÃ­a	3:0	6:0	13.12.1980	00:00	1980	1981	15
+UD Las Palmas	Espanyol Barcelona	1:0	2:0	13.12.1980	00:00	1980	1981	15
+AtlÃ©tico Madrid	Valencia CF	1:1	3:1	14.12.1980	00:00	1980	1981	15
+Real Betis	Sevilla FC	1:0	2:0	14.12.1980	00:00	1980	1981	15
+CA Osasuna	Sporting GijÃ³n	2:0	3:0	14.12.1980	00:00	1980	1981	15
+Real Sociedad	Real Murcia	1:0	1:0	14.12.1980	00:00	1980	1981	15
+Real Zaragoza	Real Madrid	0:0	0:0	14.12.1980	00:00	1980	1981	15
+UD Salamanca	Real Valladolid	1:0	2:1	14.12.1980	00:00	1980	1981	15
+HÃ©rcules CF	Athletic Bilbao	1:1	1:2	14.12.1980	00:00	1980	1981	15
+Sporting GijÃ³n	UD Las Palmas	1:0	2:1	21.12.1980	00:00	1980	1981	16
+AD AlmerÃ­a	UD Salamanca	1:1	3:2	21.12.1980	00:00	1980	1981	16
+Valencia CF	CA Osasuna	1:0	4:1	21.12.1980	00:00	1980	1981	16
+Real Murcia	Real Betis	0:0	2:0	21.12.1980	00:00	1980	1981	16
+Real Valladolid	Real Zaragoza	1:0	1:1	21.12.1980	00:00	1980	1981	16
+Espanyol Barcelona	Real Sociedad	0:0	0:0	21.12.1980	00:00	1980	1981	16
+Athletic Bilbao	FC Barcelona	3:1	4:1	21.12.1980	00:00	1980	1981	16
+AtlÃ©tico Madrid	Real Madrid	1:1	3:1	21.12.1980	00:00	1980	1981	16
+Sevilla FC	HÃ©rcules CF	0:0	0:0	21.12.1980	00:00	1980	1981	16
+UD Las Palmas	Valencia CF	1:2	1:4	27.12.1980	00:00	1980	1981	17
+Real Zaragoza	AD AlmerÃ­a	0:0	1:0	28.12.1980	00:00	1980	1981	17
+UD Salamanca	Athletic Bilbao	1:0	3:2	28.12.1980	00:00	1980	1981	17
+Real Betis	Espanyol Barcelona	0:2	1:2	28.12.1980	00:00	1980	1981	17
+CA Osasuna	AtlÃ©tico Madrid	0:0	0:0	28.12.1980	00:00	1980	1981	17
+FC Barcelona	Sevilla FC	2:0	3:1	28.12.1980	00:00	1980	1981	17
+Real Sociedad	Sporting GijÃ³n	0:1	1:2	28.12.1980	00:00	1980	1981	17
+Real Madrid	Real Valladolid	0:0	1:1	28.12.1980	00:00	1980	1981	17
+HÃ©rcules CF	Real Murcia	0:0	1:0	28.12.1980	00:00	1980	1981	17
+UD Las Palmas	CA Osasuna	2:0	2:0	03.01.1981	00:00	1980	1981	18
+Real Zaragoza	Athletic Bilbao	2:3	2:3	04.01.1981	00:00	1980	1981	18
+HÃ©rcules CF	Espanyol Barcelona	0:0	2:0	04.01.1981	00:00	1980	1981	18
+Real Sociedad	Valencia CF	1:0	2:1	04.01.1981	00:00	1980	1981	18
+Real Valladolid	AtlÃ©tico Madrid	0:0	0:2	04.01.1981	00:00	1980	1981	18
+UD Salamanca	Sevilla FC	0:0	0:0	04.01.1981	00:00	1980	1981	18
+Real Betis	Sporting GijÃ³n	1:0	2:0	04.01.1981	00:00	1980	1981	18
+FC Barcelona	Real Murcia	0:0	1:0	04.01.1981	00:00	1980	1981	18
+Real Madrid	AD AlmerÃ­a	2:0	4:0	04.01.1981	00:00	1980	1981	18
+Espanyol Barcelona	FC Barcelona	1:0	1:0	11.01.1981	00:00	1980	1981	19
+Real Murcia	UD Salamanca	0:0	1:1	11.01.1981	00:00	1980	1981	19
+Sporting GijÃ³n	HÃ©rcules CF	1:0	3:1	11.01.1981	00:00	1980	1981	19
+AD AlmerÃ­a	Real Valladolid	1:1	1:1	11.01.1981	00:00	1980	1981	19
+AtlÃ©tico Madrid	UD Las Palmas	0:0	2:2	11.01.1981	00:00	1980	1981	19
+Sevilla FC	Real Zaragoza	0:0	0:0	11.01.1981	00:00	1980	1981	19
+Real Betis	Valencia CF	0:0	1:1	11.01.1981	00:00	1980	1981	19
+Athletic Bilbao	Real Madrid	1:1	1:1	11.01.1981	00:00	1980	1981	19
+CA Osasuna	Real Sociedad	0:1	0:3	11.01.1981	00:00	1980	1981	19
+Real Sociedad	UD Las Palmas	0:0	2:0	17.01.1981	00:00	1980	1981	20
+Real Madrid	Sevilla FC	1:0	3:2	18.01.1981	00:00	1980	1981	20
+Real Valladolid	Athletic Bilbao	0:0	0:0	18.01.1981	00:00	1980	1981	20
+Real Zaragoza	Real Murcia	0:2	1:6	18.01.1981	00:00	1980	1981	20
+Real Betis	CA Osasuna	0:0	1:1	18.01.1981	00:00	1980	1981	20
+FC Barcelona	Sporting GijÃ³n	1:0	3:1	18.01.1981	00:00	1980	1981	20
+UD Salamanca	Espanyol Barcelona	1:1	3:2	18.01.1981	00:00	1980	1981	20
+HÃ©rcules CF	Valencia CF	1:1	1:1	18.01.1981	00:00	1980	1981	20
+AD AlmerÃ­a	AtlÃ©tico Madrid	0:0	2:1	18.01.1981	00:00	1980	1981	20
+UD Las Palmas	Real Betis	2:2	2:4	24.01.1981	00:00	1980	1981	21
+Espanyol Barcelona	Real Zaragoza	1:0	1:1	25.01.1981	00:00	1980	1981	21
+Athletic Bilbao	AD AlmerÃ­a	2:0	5:1	25.01.1981	00:00	1980	1981	21
+Sporting GijÃ³n	UD Salamanca	2:0	4:0	25.01.1981	00:00	1980	1981	21
+Sevilla FC	Real Valladolid	0:0	1:0	25.01.1981	00:00	1980	1981	21
+AtlÃ©tico Madrid	Real Sociedad	2:0	2:0	25.01.1981	00:00	1980	1981	21
+Valencia CF	FC Barcelona	3:2	3:3	25.01.1981	00:00	1980	1981	21
+Real Murcia	Real Madrid	0:0	1:1	25.01.1981	00:00	1980	1981	21
+CA Osasuna	HÃ©rcules CF	1:0	1:2	25.01.1981	00:00	1980	1981	21
+UD Salamanca	Valencia CF	0:0	0:1	01.02.1981	00:00	1980	1981	22
+Real Valladolid	Real Murcia	1:0	1:0	01.02.1981	00:00	1980	1981	22
+FC Barcelona	CA Osasuna	4:0	6:0	01.02.1981	00:00	1980	1981	22
+Real Zaragoza	Sporting GijÃ³n	0:0	0:0	01.02.1981	00:00	1980	1981	22
+HÃ©rcules CF	UD Las Palmas	1:1	2:3	01.02.1981	00:00	1980	1981	22
+Athletic Bilbao	AtlÃ©tico Madrid	2:0	3:1	01.02.1981	00:00	1980	1981	22
+AD AlmerÃ­a	Sevilla FC	0:0	0:0	01.02.1981	00:00	1980	1981	22
+Real Madrid	Espanyol Barcelona	1:1	1:2	01.02.1981	00:00	1980	1981	22
+Real Betis	Real Sociedad	0:0	1:0	01.02.1981	00:00	1980	1981	22
+UD Las Palmas	FC Barcelona	1:0	1:4	07.02.1981	00:00	1980	1981	23
+Valencia CF	Real Zaragoza	3:0	3:0	08.02.1981	00:00	1980	1981	23
+Real Murcia	AD AlmerÃ­a	1:1	2:1	08.02.1981	00:00	1980	1981	23
+CA Osasuna	UD Salamanca	0:0	1:1	08.02.1981	00:00	1980	1981	23
+Real Sociedad	HÃ©rcules CF	1:0	1:1	08.02.1981	00:00	1980	1981	23
+AtlÃ©tico Madrid	Real Betis	0:1	0:4	08.02.1981	00:00	1980	1981	23
+Sevilla FC	Athletic Bilbao	0:0	2:0	08.02.1981	00:00	1980	1981	23
+Sporting GijÃ³n	Real Madrid	1:0	4:0	08.02.1981	00:00	1980	1981	23
+Espanyol Barcelona	Real Valladolid	0:0	0:0	08.02.1981	00:00	1980	1981	23
+FC Barcelona	Real Sociedad	2:0	2:0	15.02.1981	00:00	1980	1981	24
+Real Zaragoza	CA Osasuna	3:1	3:1	15.02.1981	00:00	1980	1981	24
+Real Valladolid	Sporting GijÃ³n	0:2	1:2	15.02.1981	00:00	1980	1981	24
+Athletic Bilbao	Real Murcia	3:0	3:0	15.02.1981	00:00	1980	1981	24
+Sevilla FC	AtlÃ©tico Madrid	0:0	1:1	15.02.1981	00:00	1980	1981	24
+Real Madrid	Valencia CF	2:1	2:1	15.02.1981	00:00	1980	1981	24
+AD AlmerÃ­a	Espanyol Barcelona	1:0	2:0	15.02.1981	00:00	1980	1981	24
+UD Salamanca	UD Las Palmas	0:2	0:2	15.02.1981	00:00	1980	1981	24
+HÃ©rcules CF	Real Betis	0:0	0:1	15.02.1981	00:00	1980	1981	24
+UD Las Palmas	Real Zaragoza	1:0	3:0	21.02.1981	00:00	1980	1981	25
+Espanyol Barcelona	Athletic Bilbao	1:0	1:0	22.02.1981	00:00	1980	1981	25
+Sporting GijÃ³n	AD AlmerÃ­a	2:1	5:2	22.02.1981	00:00	1980	1981	25
+Real Sociedad	UD Salamanca	0:0	1:0	22.02.1981	00:00	1980	1981	25
+AtlÃ©tico Madrid	HÃ©rcules CF	1:0	1:0	22.02.1981	00:00	1980	1981	25
+Real Murcia	Sevilla FC	0:0	0:0	22.02.1981	00:00	1980	1981	25
+Real Betis	FC Barcelona	0:0	1:1	22.02.1981	00:00	1980	1981	25
+CA Osasuna	Real Madrid	1:1	1:2	22.02.1981	00:00	1980	1981	25
+Valencia CF	Real Valladolid	0:1	2:2	22.02.1981	00:00	1980	1981	25
+Real Madrid	UD Las Palmas	2:0	3:0	28.02.1981	00:00	1980	1981	26
+Real Murcia	AtlÃ©tico Madrid	0:1	0:2	01.03.1981	00:00	1980	1981	26
+FC Barcelona	HÃ©rcules CF	4:0	6:0	01.03.1981	00:00	1980	1981	26
+Real Valladolid	CA Osasuna	2:0	2:1	01.03.1981	00:00	1980	1981	26
+Athletic Bilbao	Sporting GijÃ³n	0:1	1:1	01.03.1981	00:00	1980	1981	26
+Real Zaragoza	Real Sociedad	0:1	0:1	01.03.1981	00:00	1980	1981	26
+AD AlmerÃ­a	Valencia CF	0:0	1:0	01.03.1981	00:00	1980	1981	26
+Sevilla FC	Espanyol Barcelona	1:0	2:0	01.03.1981	00:00	1980	1981	26
+UD Salamanca	Real Betis	1:0	2:0	01.03.1981	00:00	1980	1981	26
+Sporting GijÃ³n	Sevilla FC	2:0	3:0	08.03.1981	00:00	1980	1981	27
+CA Osasuna	AD AlmerÃ­a	1:1	2:1	08.03.1981	00:00	1980	1981	27
+HÃ©rcules CF	UD Salamanca	2:0	3:2	08.03.1981	00:00	1980	1981	27
+Espanyol Barcelona	Real Murcia	0:0	2:1	08.03.1981	00:00	1980	1981	27
+Real Betis	Real Zaragoza	1:0	2:0	08.03.1981	00:00	1980	1981	27
+Valencia CF	Athletic Bilbao	0:0	0:0	08.03.1981	00:00	1980	1981	27
+AtlÃ©tico Madrid	FC Barcelona	1:0	1:0	08.03.1981	00:00	1980	1981	27
+Real Sociedad	Real Madrid	1:1	3:1	08.03.1981	00:00	1980	1981	27
+UD Las Palmas	Real Valladolid	0:2	0:2	08.03.1981	00:00	1980	1981	27
+Real Murcia	Sporting GijÃ³n	1:0	2:1	15.03.1981	00:00	1980	1981	28
+Real Valladolid	Real Sociedad	0:0	0:0	15.03.1981	00:00	1980	1981	28
+Real Zaragoza	HÃ©rcules CF	1:1	1:1	15.03.1981	00:00	1980	1981	28
+Athletic Bilbao	CA Osasuna	1:0	1:1	15.03.1981	00:00	1980	1981	28
+UD Salamanca	FC Barcelona	1:0	2:1	15.03.1981	00:00	1980	1981	28
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	2:0	15.03.1981	00:00	1980	1981	28
+Sevilla FC	Valencia CF	0:0	1:0	15.03.1981	00:00	1980	1981	28
+AD AlmerÃ­a	UD Las Palmas	0:0	0:1	15.03.1981	00:00	1980	1981	28
+Real Madrid	Real Betis	0:2	4:2	15.03.1981	00:00	1980	1981	28
+UD Las Palmas	Athletic Bilbao	0:2	1:3	21.03.1981	00:00	1980	1981	29
+CA Osasuna	Sevilla FC	0:0	2:1	22.03.1981	00:00	1980	1981	29
+Real Sociedad	AD AlmerÃ­a	3:0	3:1	22.03.1981	00:00	1980	1981	29
+AtlÃ©tico Madrid	UD Salamanca	1:0	1:1	22.03.1981	00:00	1980	1981	29
+Valencia CF	Real Murcia	1:2	3:2	22.03.1981	00:00	1980	1981	29
+FC Barcelona	Real Zaragoza	0:0	0:0	22.03.1981	00:00	1980	1981	29
+Sporting GijÃ³n	Espanyol Barcelona	0:1	0:1	22.03.1981	00:00	1980	1981	29
+HÃ©rcules CF	Real Madrid	1:1	1:2	22.03.1981	00:00	1980	1981	29
+Real Betis	Real Valladolid	0:0	2:2	22.03.1981	00:00	1980	1981	29
+Sevilla FC	UD Las Palmas	0:1	3:2	29.03.1981	00:00	1980	1981	30
+AD AlmerÃ­a	Real Betis	0:0	0:2	29.03.1981	00:00	1980	1981	30
+Real Murcia	CA Osasuna	0:0	1:0	29.03.1981	00:00	1980	1981	30
+Real Zaragoza	UD Salamanca	0:0	2:0	29.03.1981	00:00	1980	1981	30
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:0	3:0	29.03.1981	00:00	1980	1981	30
+Espanyol Barcelona	Valencia CF	0:2	1:2	29.03.1981	00:00	1980	1981	30
+Real Madrid	FC Barcelona	0:0	3:0	29.03.1981	00:00	1980	1981	30
+Athletic Bilbao	Real Sociedad	0:0	0:2	29.03.1981	00:00	1980	1981	30
+Real Valladolid	HÃ©rcules CF	1:0	2:1	29.03.1981	00:00	1980	1981	30
+UD Las Palmas	Real Murcia	1:1	1:2	04.04.1981	00:00	1980	1981	31
+UD Salamanca	Real Madrid	1:2	1:3	04.04.1981	00:00	1980	1981	31
+CA Osasuna	Espanyol Barcelona	0:0	1:0	05.04.1981	00:00	1980	1981	31
+HÃ©rcules CF	AD AlmerÃ­a	0:0	1:0	05.04.1981	00:00	1980	1981	31
+FC Barcelona	Real Valladolid	1:0	2:1	05.04.1981	00:00	1980	1981	31
+Valencia CF	Sporting GijÃ³n	1:0	3:1	05.04.1981	00:00	1980	1981	31
+Real Sociedad	Sevilla FC	2:0	3:0	05.04.1981	00:00	1980	1981	31
+Real Betis	Athletic Bilbao	1:0	2:0	05.04.1981	00:00	1980	1981	31
+AtlÃ©tico Madrid	Real Zaragoza	1:0	1:2	05.04.1981	00:00	1980	1981	31
+Sevilla FC	Real Betis	1:0	2:1	12.04.1981	00:00	1980	1981	32
+Espanyol Barcelona	UD Las Palmas	2:0	3:1	12.04.1981	00:00	1980	1981	32
+Sporting GijÃ³n	CA Osasuna	0:1	5:1	12.04.1981	00:00	1980	1981	32
+Real Valladolid	UD Salamanca	2:0	3:0	12.04.1981	00:00	1980	1981	32
+Real Murcia	Real Sociedad	0:1	0:2	12.04.1981	00:00	1980	1981	32
+Valencia CF	AtlÃ©tico Madrid	1:0	1:1	12.04.1981	00:00	1980	1981	32
+AD AlmerÃ­a	FC Barcelona	0:2	2:5	12.04.1981	00:00	1980	1981	32
+Athletic Bilbao	HÃ©rcules CF	2:1	5:3	12.04.1981	00:00	1980	1981	32
+Real Madrid	Real Zaragoza	2:0	2:0	12.04.1981	00:00	1980	1981	32
+UD Las Palmas	Sporting GijÃ³n	1:0	3:1	19.04.1981	00:00	1980	1981	33
+UD Salamanca	AD AlmerÃ­a	2:0	2:1	19.04.1981	00:00	1980	1981	33
+Real Zaragoza	Real Valladolid	0:0	1:1	19.04.1981	00:00	1980	1981	33
+HÃ©rcules CF	Sevilla FC	2:0	5:1	19.04.1981	00:00	1980	1981	33
+Real Madrid	AtlÃ©tico Madrid	1:0	2:0	19.04.1981	00:00	1980	1981	33
+CA Osasuna	Valencia CF	2:0	2:0	19.04.1981	00:00	1980	1981	33
+Real Sociedad	Espanyol Barcelona	0:1	2:1	19.04.1981	00:00	1980	1981	33
+FC Barcelona	Athletic Bilbao	0:0	0:1	19.04.1981	00:00	1980	1981	33
+Real Betis	Real Murcia	1:0	1:0	19.04.1981	00:00	1980	1981	33
+Athletic Bilbao	UD Salamanca	3:0	6:1	25.04.1981	00:00	1980	1981	34
+Real Murcia	HÃ©rcules CF	2:2	2:2	26.04.1981	00:00	1980	1981	34
+Real Valladolid	Real Madrid	0:1	1:3	26.04.1981	00:00	1980	1981	34
+Sevilla FC	FC Barcelona	0:1	1:1	26.04.1981	00:00	1980	1981	34
+Sporting GijÃ³n	Real Sociedad	1:1	2:2	26.04.1981	00:00	1980	1981	34
+AD AlmerÃ­a	Real Zaragoza	0:1	3:1	26.04.1981	00:00	1980	1981	34
+Espanyol Barcelona	Real Betis	0:1	1:2	26.04.1981	00:00	1980	1981	34
+Valencia CF	UD Las Palmas	0:0	3:1	26.04.1981	00:00	1980	1981	34
+AtlÃ©tico Madrid	CA Osasuna	0:0	0:0	26.04.1981	00:00	1980	1981	34

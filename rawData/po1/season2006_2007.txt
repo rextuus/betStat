@@ -1,0 +1,240 @@
+FC Porto	UniÃ£o Leiria	1:0	2:1	25.08.2006	22:30	2006	2007	1
+SC Beira-Mar	CD Aves	1:1	2:2	26.08.2006	20:00	2006	2007	1
+Sporting Braga	PaÃ§os de Ferreira	0:0	2:1	26.08.2006	22:00	2006	2007	1
+Sporting CP	Boavista	0:1	3:2	26.08.2006	22:15	2006	2007	1
+Naval 1Â° de Maio	Estrela Amadora	1:0	2:0	27.08.2006	18:00	2006	2007	1
+CS MarÃ­timo	CD Nacional	1:0	1:0	27.08.2006	22:15	2006	2007	1
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	0:0	1:1	28.08.2006	21:30	2006	2007	1
+SL Benfica	Os Belenenses	2:0	4:0	21.12.2006	20:30	2006	2007	1
+CD Aves	Sporting Braga	0:1	0:1	08.09.2006	21:30	2006	2007	2
+CD Nacional	Sporting CP	0:1	0:1	09.09.2006	20:00	2006	2007	2
+Boavista	SL Benfica	1:0	3:0	09.09.2006	22:15	2006	2007	2
+PaÃ§os de Ferreira	CS MarÃ­timo	1:0	2:1	10.09.2006	17:00	2006	2007	2
+Os Belenenses	VitÃ³ria SetÃºbal	1:0	2:0	10.09.2006	19:00	2006	2007	2
+AcadÃ©mica de Coimbra	Naval 1Â° de Maio	1:0	1:2	10.09.2006	20:00	2006	2007	2
+Estrela Amadora	FC Porto	0:0	0:3	10.09.2006	20:15	2006	2007	2
+UniÃ£o Leiria	SC Beira-Mar	0:1	2:2	11.09.2006	21:30	2006	2007	2
+Sporting CP	PaÃ§os de Ferreira	0:1	0:1	16.09.2006	22:15	2006	2007	3
+AcadÃ©mica de Coimbra	Os Belenenses	1:1	1:1	17.09.2006	17:00	2006	2007	3
+SC Beira-Mar	Estrela Amadora	0:0	2:0	17.09.2006	17:00	2006	2007	3
+CS MarÃ­timo	CD Aves	0:0	0:0	17.09.2006	17:00	2006	2007	3
+SL Benfica	CD Nacional	1:0	1:0	17.09.2006	20:15	2006	2007	3
+Naval 1Â° de Maio	FC Porto	0:2	0:2	17.09.2006	22:15	2006	2007	3
+Sporting Braga	UniÃ£o Leiria	0:1	0:1	18.09.2006	21:30	2006	2007	3
+VitÃ³ria SetÃºbal	Boavista	0:0	1:0	19.09.2006	21:30	2006	2007	3
+FC Porto	SC Beira-Mar	0:0	3:0	22.09.2006	20:15	2006	2007	4
+PaÃ§os de Ferreira	SL Benfica	0:1	1:1	22.09.2006	22:30	2006	2007	4
+Estrela Amadora	Sporting Braga	0:0	0:0	23.09.2006	18:00	2006	2007	4
+CD Aves	Sporting CP	0:1	0:2	23.09.2006	21:30	2006	2007	4
+Os Belenenses	Naval 1Â° de Maio	0:0	0:0	23.09.2006	21:30	2006	2007	4
+CD Nacional	VitÃ³ria SetÃºbal	1:0	1:0	24.09.2006	19:30	2006	2007	4
+Boavista	AcadÃ©mica de Coimbra	1:1	2:2	24.09.2006	21:45	2006	2007	4
+UniÃ£o Leiria	CS MarÃ­timo	0:0	1:0	25.09.2006	21:30	2006	2007	4
+Naval 1Â° de Maio	SC Beira-Mar	0:0	2:1	29.09.2006	21:30	2006	2007	5
+Os Belenenses	Boavista	0:2	0:2	30.09.2006	22:00	2006	2007	5
+AcadÃ©mica de Coimbra	CD Nacional	1:1	1:3	01.10.2006	17:00	2006	2007	5
+CS MarÃ­timo	Estrela Amadora	0:0	2:1	01.10.2006	17:00	2006	2007	5
+SL Benfica	CD Aves	1:1	4:1	01.10.2006	20:45	2006	2007	5
+Sporting CP	UniÃ£o Leiria	1:0	2:0	02.10.2006	20:15	2006	2007	5
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	1:0	1:1	02.10.2006	21:30	2006	2007	5
+Sporting Braga	FC Porto	1:1	2:1	02.10.2006	22:15	2006	2007	5
+SC Beira-Mar	Sporting Braga	0:1	0:3	13.10.2006	21:30	2006	2007	6
+FC Porto	CS MarÃ­timo	1:0	3:0	14.10.2006	20:15	2006	2007	6
+UniÃ£o Leiria	SL Benfica	0:2	0:4	14.10.2006	22:15	2006	2007	6
+CD Aves	VitÃ³ria SetÃºbal	0:0	1:2	15.10.2006	17:00	2006	2007	6
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	0:1	1:1	15.10.2006	17:00	2006	2007	6
+CD Nacional	Os Belenenses	1:1	2:1	15.10.2006	19:00	2006	2007	6
+Estrela Amadora	Sporting CP	0:1	0:1	15.10.2006	21:00	2006	2007	6
+Boavista	Naval 1Â° de Maio	0:0	0:1	16.10.2006	20:45	2006	2007	6
+Os Belenenses	PaÃ§os de Ferreira	2:0	2:0	20.10.2006	21:30	2006	2007	7
+Boavista	CD Nacional	0:2	0:4	21.10.2006	20:30	2006	2007	7
+CS MarÃ­timo	SC Beira-Mar	0:0	2:1	22.10.2006	17:00	2006	2007	7
+VitÃ³ria SetÃºbal	UniÃ£o Leiria	1:1	1:2	22.10.2006	17:00	2006	2007	7
+AcadÃ©mica de Coimbra	CD Aves	1:0	2:0	22.10.2006	17:00	2006	2007	7
+SL Benfica	Estrela Amadora	1:1	3:1	22.10.2006	20:15	2006	2007	7
+Sporting CP	FC Porto	1:0	1:1	22.10.2006	21:30	2006	2007	7
+Naval 1Â° de Maio	Sporting Braga	0:1	1:1	23.10.2006	20:45	2006	2007	7
+SC Beira-Mar	Sporting CP	1:0	3:3	27.10.2006	21:30	2006	2007	8
+UniÃ£o Leiria	AcadÃ©mica de Coimbra	1:0	2:0	28.10.2006	18:00	2006	2007	8
+FC Porto	SL Benfica	2:0	3:2	28.10.2006	20:45	2006	2007	8
+CD Aves	Os Belenenses	0:0	0:1	29.10.2006	16:00	2006	2007	8
+Estrela Amadora	VitÃ³ria SetÃºbal	0:0	1:0	29.10.2006	17:00	2006	2007	8
+CD Nacional	Naval 1Â° de Maio	1:1	1:1	29.10.2006	17:00	2006	2007	8
+Sporting Braga	CS MarÃ­timo	0:2	1:4	29.10.2006	19:30	2006	2007	8
+PaÃ§os de Ferreira	Boavista	1:0	2:0	30.10.2006	20:45	2006	2007	8
+Os Belenenses	UniÃ£o Leiria	0:1	0:1	03.11.2006	21:30	2006	2007	9
+Boavista	CD Aves	0:1	2:1	04.11.2006	20:15	2006	2007	9
+Naval 1Â° de Maio	CS MarÃ­timo	0:0	0:1	05.11.2006	17:00	2006	2007	9
+AcadÃ©mica de Coimbra	Estrela Amadora	0:0	2:0	05.11.2006	17:00	2006	2007	9
+CD Nacional	PaÃ§os de Ferreira	3:0	5:1	05.11.2006	17:00	2006	2007	9
+SL Benfica	SC Beira-Mar	0:0	3:0	05.11.2006	20:45	2006	2007	9
+Sporting CP	Sporting Braga	2:0	3:0	06.11.2006	20:15	2006	2007	9
+VitÃ³ria SetÃºbal	FC Porto	0:2	0:3	06.11.2006	21:30	2006	2007	9
+SC Beira-Mar	VitÃ³ria SetÃºbal	0:0	1:1	17.11.2006	21:30	2006	2007	10
+FC Porto	AcadÃ©mica de Coimbra	0:0	2:1	18.11.2006	20:15	2006	2007	10
+Sporting Braga	SL Benfica	2:1	3:1	18.11.2006	22:30	2006	2007	10
+CD Aves	CD Nacional	1:1	3:1	19.11.2006	16:00	2006	2007	10
+PaÃ§os de Ferreira	Naval 1Â° de Maio	1:0	1:1	19.11.2006	17:00	2006	2007	10
+CS MarÃ­timo	Sporting CP	0:0	0:1	19.11.2006	20:15	2006	2007	10
+UniÃ£o Leiria	Boavista	0:0	0:0	19.11.2006	22:15	2006	2007	10
+Estrela Amadora	Os Belenenses	1:0	1:0	20.11.2006	20:45	2006	2007	10
+Boavista	Estrela Amadora	0:1	1:1	24.11.2006	21:30	2006	2007	11
+SL Benfica	CS MarÃ­timo	1:1	2:1	25.11.2006	20:30	2006	2007	11
+AcadÃ©mica de Coimbra	SC Beira-Mar	1:1	3:1	26.11.2006	17:00	2006	2007	11
+CD Nacional	UniÃ£o Leiria	1:0	2:1	26.11.2006	17:00	2006	2007	11
+PaÃ§os de Ferreira	CD Aves	1:0	2:0	26.11.2006	17:00	2006	2007	11
+Os Belenenses	FC Porto	0:1	0:1	26.11.2006	20:15	2006	2007	11
+Naval 1Â° de Maio	Sporting CP	0:0	0:1	26.11.2006	22:15	2006	2007	11
+VitÃ³ria SetÃºbal	Sporting Braga	0:1	1:2	27.11.2006	20:45	2006	2007	11
+Sporting CP	SL Benfica	0:2	0:2	01.12.2006	21:30	2006	2007	12
+SC Beira-Mar	Os Belenenses	0:2	1:2	02.12.2006	19:30	2006	2007	12
+FC Porto	Boavista	0:0	2:0	02.12.2006	21:30	2006	2007	12
+CD Aves	Naval 1Â° de Maio	0:0	2:0	03.12.2006	16:00	2006	2007	12
+Estrela Amadora	CD Nacional	0:0	2:0	03.12.2006	17:00	2006	2007	12
+UniÃ£o Leiria	PaÃ§os de Ferreira	0:0	0:0	03.12.2006	17:00	2006	2007	12
+Sporting Braga	AcadÃ©mica de Coimbra	2:2	4:2	03.12.2006	20:30	2006	2007	12
+CS MarÃ­timo	VitÃ³ria SetÃºbal	0:0	1:0	04.12.2006	20:45	2006	2007	12
+Os Belenenses	Sporting Braga	1:0	2:0	08.12.2006	21:30	2006	2007	13
+Boavista	SC Beira-Mar	2:0	3:0	09.12.2006	19:15	2006	2007	13
+VitÃ³ria SetÃºbal	Sporting CP	0:2	0:3	09.12.2006	21:30	2006	2007	13
+CD Aves	UniÃ£o Leiria	0:0	0:1	10.12.2006	16:00	2006	2007	13
+AcadÃ©mica de Coimbra	CS MarÃ­timo	0:1	1:2	10.12.2006	17:00	2006	2007	13
+PaÃ§os de Ferreira	Estrela Amadora	1:1	1:1	10.12.2006	17:00	2006	2007	13
+Naval 1Â° de Maio	SL Benfica	0:0	0:0	10.12.2006	20:15	2006	2007	13
+CD Nacional	FC Porto	1:0	1:2	11.12.2006	20:45	2006	2007	13
+CS MarÃ­timo	Os Belenenses	0:2	1:4	15.12.2006	21:30	2006	2007	14
+SL Benfica	VitÃ³ria SetÃºbal	1:0	3:0	16.12.2006	20:00	2006	2007	14
+Sporting CP	AcadÃ©mica de Coimbra	1:0	1:0	16.12.2006	22:15	2006	2007	14
+SC Beira-Mar	CD Nacional	0:0	1:1	17.12.2006	17:00	2006	2007	14
+Naval 1Â° de Maio	UniÃ£o Leiria	0:1	2:1	17.12.2006	17:00	2006	2007	14
+Estrela Amadora	CD Aves	1:0	1:0	17.12.2006	17:00	2006	2007	14
+FC Porto	PaÃ§os de Ferreira	2:0	4:0	17.12.2006	20:15	2006	2007	14
+Sporting Braga	Boavista	2:1	2:2	18.12.2006	20:45	2006	2007	14
+Boavista	CS MarÃ­timo	1:1	1:1	12.01.2007	21:30	2006	2007	15
+CD Nacional	Sporting Braga	0:0	0:0	13.01.2007	20:15	2006	2007	15
+Os Belenenses	Sporting CP	0:0	0:0	13.01.2007	22:15	2006	2007	15
+PaÃ§os de Ferreira	SC Beira-Mar	0:0	1:0	14.01.2007	17:00	2006	2007	15
+UniÃ£o Leiria	Estrela Amadora	0:0	0:0	14.01.2007	17:00	2006	2007	15
+VitÃ³ria SetÃºbal	Naval 1Â° de Maio	0:1	0:3	14.01.2007	17:00	2006	2007	15
+CD Aves	FC Porto	0:1	0:2	14.01.2007	20:45	2006	2007	15
+AcadÃ©mica de Coimbra	SL Benfica	0:1	0:2	15.01.2007	21:45	2006	2007	15
+UniÃ£o Leiria	FC Porto	0:0	1:0	26.01.2007	21:30	2006	2007	16
+PaÃ§os de Ferreira	Sporting Braga	1:0	3:2	27.01.2007	20:15	2006	2007	16
+Os Belenenses	SL Benfica	0:2	1:2	27.01.2007	22:15	2006	2007	16
+CD Aves	SC Beira-Mar	0:0	0:0	28.01.2007	16:00	2006	2007	16
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	0:0	0:1	28.01.2007	17:00	2006	2007	16
+Estrela Amadora	Naval 1Â° de Maio	0:0	0:0	28.01.2007	17:00	2006	2007	16
+Boavista	Sporting CP	0:0	1:1	28.01.2007	21:00	2006	2007	16
+CD Nacional	CS MarÃ­timo	2:0	3:2	29.01.2007	20:45	2006	2007	16
+SL Benfica	Boavista	0:0	0:0	02.02.2007	21:30	2006	2007	17
+FC Porto	Estrela Amadora	0:0	0:1	03.02.2007	20:15	2006	2007	17
+Sporting CP	CD Nacional	0:1	5:1	03.02.2007	22:15	2006	2007	17
+Naval 1Â° de Maio	AcadÃ©mica de Coimbra	0:0	0:1	04.02.2007	17:00	2006	2007	17
+VitÃ³ria SetÃºbal	Os Belenenses	0:1	0:1	04.02.2007	17:00	2006	2007	17
+SC Beira-Mar	UniÃ£o Leiria	1:0	1:0	04.02.2007	17:00	2006	2007	17
+CS MarÃ­timo	PaÃ§os de Ferreira	0:0	1:1	04.02.2007	17:00	2006	2007	17
+Sporting Braga	CD Aves	0:0	1:0	04.02.2007	21:15	2006	2007	17
+FC Porto	Naval 1Â° de Maio	2:0	4:0	16.02.2007	21:30	2006	2007	18
+Boavista	VitÃ³ria SetÃºbal	0:0	1:1	17.02.2007	20:15	2006	2007	18
+PaÃ§os de Ferreira	Sporting CP	0:0	1:1	17.02.2007	22:15	2006	2007	18
+CD Aves	CS MarÃ­timo	1:1	1:1	18.02.2007	16:00	2006	2007	18
+Estrela Amadora	SC Beira-Mar	2:2	2:2	18.02.2007	17:00	2006	2007	18
+CD Nacional	SL Benfica	0:0	0:2	18.02.2007	19:15	2006	2007	18
+UniÃ£o Leiria	Sporting Braga	0:0	1:0	18.02.2007	21:30	2006	2007	18
+Os Belenenses	AcadÃ©mica de Coimbra	0:0	1:2	19.02.2007	20:45	2006	2007	18
+Sporting CP	CD Aves	0:0	0:0	23.02.2007	21:30	2006	2007	19
+AcadÃ©mica de Coimbra	Boavista	0:2	0:2	24.02.2007	18:00	2006	2007	19
+Naval 1Â° de Maio	Os Belenenses	1:2	2:3	24.02.2007	21:00	2006	2007	19
+VitÃ³ria SetÃºbal	CD Nacional	0:0	1:1	25.02.2007	17:00	2006	2007	19
+SC Beira-Mar	FC Porto	0:1	0:5	25.02.2007	21:15	2006	2007	19
+CS MarÃ­timo	UniÃ£o Leiria	0:1	2:1	26.02.2007	20:00	2006	2007	19
+Sporting Braga	Estrela Amadora	1:1	2:1	26.02.2007	21:00	2006	2007	19
+SL Benfica	PaÃ§os de Ferreira	2:1	3:1	26.02.2007	21:30	2006	2007	19
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	1:0	1:0	02.03.2007	21:30	2006	2007	20
+FC Porto	Sporting Braga	1:0	1:0	03.03.2007	20:15	2006	2007	20
+CD Aves	SL Benfica	0:0	0:1	03.03.2007	22:15	2006	2007	20
+Estrela Amadora	CS MarÃ­timo	1:0	1:0	04.03.2007	17:00	2006	2007	20
+CD Nacional	AcadÃ©mica de Coimbra	1:0	4:0	04.03.2007	17:00	2006	2007	20
+SC Beira-Mar	Naval 1Â° de Maio	0:0	1:3	04.03.2007	17:00	2006	2007	20
+UniÃ£o Leiria	Sporting CP	0:0	0:0	04.03.2007	20:15	2006	2007	20
+Boavista	Os Belenenses	0:0	0:0	05.03.2007	20:45	2006	2007	20
+Naval 1Â° de Maio	Boavista	1:1	1:1	09.03.2007	21:30	2006	2007	21
+Os Belenenses	CD Nacional	2:0	2:0	10.03.2007	20:15	2006	2007	21
+Sporting CP	Estrela Amadora	1:0	3:1	10.03.2007	22:15	2006	2007	21
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	0:1	0:2	11.03.2007	17:00	2006	2007	21
+VitÃ³ria SetÃºbal	CD Aves	1:1	1:1	11.03.2007	17:00	2006	2007	21
+Sporting Braga	SC Beira-Mar	0:0	0:0	11.03.2007	20:00	2006	2007	21
+CS MarÃ­timo	FC Porto	0:2	1:2	11.03.2007	20:15	2006	2007	21
+SL Benfica	UniÃ£o Leiria	1:0	2:0	12.03.2007	20:45	2006	2007	21
+CD Nacional	Boavista	2:0	2:0	16.03.2007	21:30	2006	2007	22
+FC Porto	Sporting CP	0:0	0:1	17.03.2007	21:30	2006	2007	22
+CD Aves	AcadÃ©mica de Coimbra	0:1	2:2	18.03.2007	16:00	2006	2007	22
+SC Beira-Mar	CS MarÃ­timo	1:0	2:2	18.03.2007	17:00	2006	2007	22
+UniÃ£o Leiria	VitÃ³ria SetÃºbal	0:0	1:1	18.03.2007	17:00	2006	2007	22
+PaÃ§os de Ferreira	Os Belenenses	0:0	0:2	18.03.2007	19:15	2006	2007	22
+Estrela Amadora	SL Benfica	0:0	0:1	19.03.2007	21:30	2006	2007	22
+Sporting Braga	Naval 1Â° de Maio	1:0	2:1	20.03.2007	21:30	2006	2007	22
+Os Belenenses	CD Aves	1:0	1:0	31.03.2007	20:00	2006	2007	23
+Boavista	PaÃ§os de Ferreira	1:0	3:1	31.03.2007	22:30	2006	2007	23
+Naval 1Â° de Maio	CD Nacional	0:0	0:0	01.04.2007	17:00	2006	2007	23
+AcadÃ©mica de Coimbra	UniÃ£o Leiria	0:0	0:0	01.04.2007	17:00	2006	2007	23
+VitÃ³ria SetÃºbal	Estrela Amadora	1:0	2:0	01.04.2007	17:00	2006	2007	23
+CS MarÃ­timo	Sporting Braga	1:1	1:2	01.04.2007	19:00	2006	2007	23
+SL Benfica	FC Porto	0:1	1:1	01.04.2007	21:15	2006	2007	23
+Sporting CP	SC Beira-Mar	2:0	2:0	02.04.2007	20:45	2006	2007	23
+FC Porto	VitÃ³ria SetÃºbal	4:0	5:1	06.04.2007	21:00	2006	2007	24
+CD Aves	Boavista	0:0	1:0	07.04.2007	17:00	2006	2007	24
+PaÃ§os de Ferreira	CD Nacional	0:1	2:1	07.04.2007	17:00	2006	2007	24
+Estrela Amadora	AcadÃ©mica de Coimbra	2:1	3:3	07.04.2007	17:00	2006	2007	24
+CS MarÃ­timo	Naval 1Â° de Maio	1:0	1:1	07.04.2007	17:00	2006	2007	24
+UniÃ£o Leiria	Os Belenenses	0:0	0:1	07.04.2007	19:30	2006	2007	24
+Sporting Braga	Sporting CP	0:0	0:1	07.04.2007	22:00	2006	2007	24
+SC Beira-Mar	SL Benfica	1:0	2:2	09.04.2007	21:30	2006	2007	24
+Sporting CP	CS MarÃ­timo	2:0	4:0	13.04.2007	21:30	2006	2007	25
+Os Belenenses	Estrela Amadora	3:0	3:0	14.04.2007	20:15	2006	2007	25
+AcadÃ©mica de Coimbra	FC Porto	0:1	1:2	14.04.2007	22:15	2006	2007	25
+VitÃ³ria SetÃºbal	SC Beira-Mar	1:0	1:3	15.04.2007	17:00	2006	2007	25
+Naval 1Â° de Maio	PaÃ§os de Ferreira	1:0	1:1	15.04.2007	17:00	2006	2007	25
+CD Nacional	CD Aves	1:0	3:4	15.04.2007	17:00	2006	2007	25
+Boavista	UniÃ£o Leiria	0:0	1:1	15.04.2007	21:00	2006	2007	25
+SL Benfica	Sporting Braga	0:0	0:0	16.04.2007	20:45	2006	2007	25
+Estrela Amadora	Boavista	0:0	2:1	20.04.2007	21:30	2006	2007	26
+CS MarÃ­timo	SL Benfica	0:0	0:3	21.04.2007	19:45	2006	2007	26
+UniÃ£o Leiria	CD Nacional	0:0	1:0	22.04.2007	17:00	2006	2007	26
+CD Aves	PaÃ§os de Ferreira	0:0	0:1	22.04.2007	17:00	2006	2007	26
+FC Porto	Os Belenenses	2:0	3:1	22.04.2007	20:15	2006	2007	26
+Sporting CP	Naval 1Â° de Maio	2:0	4:0	22.04.2007	22:15	2006	2007	26
+SC Beira-Mar	AcadÃ©mica de Coimbra	0:0	0:1	23.04.2007	20:30	2006	2007	26
+Sporting Braga	VitÃ³ria SetÃºbal	0:0	0:0	23.04.2007	20:45	2006	2007	26
+PaÃ§os de Ferreira	UniÃ£o Leiria	0:0	0:0	27.04.2007	21:30	2006	2007	27
+Os Belenenses	SC Beira-Mar	1:0	2:0	28.04.2007	19:00	2006	2007	27
+Boavista	FC Porto	1:0	2:1	28.04.2007	22:15	2006	2007	27
+VitÃ³ria SetÃºbal	CS MarÃ­timo	0:0	1:1	29.04.2007	17:00	2006	2007	27
+CD Nacional	Estrela Amadora	0:0	1:0	29.04.2007	17:00	2006	2007	27
+Naval 1Â° de Maio	CD Aves	0:0	0:1	29.04.2007	17:00	2006	2007	27
+SL Benfica	Sporting CP	1:1	1:1	29.04.2007	21:00	2006	2007	27
+AcadÃ©mica de Coimbra	Sporting Braga	0:0	0:1	30.04.2007	20:45	2006	2007	27
+SC Beira-Mar	Boavista	0:0	1:0	04.05.2007	21:30	2006	2007	28
+CS MarÃ­timo	AcadÃ©mica de Coimbra	0:0	0:0	05.05.2007	17:00	2006	2007	28
+FC Porto	CD Nacional	0:0	2:0	05.05.2007	20:15	2006	2007	28
+SL Benfica	Naval 1Â° de Maio	1:0	2:1	05.05.2007	22:15	2006	2007	28
+Estrela Amadora	PaÃ§os de Ferreira	0:0	1:0	06.05.2007	17:00	2006	2007	28
+UniÃ£o Leiria	CD Aves	0:0	3:1	06.05.2007	18:00	2006	2007	28
+Sporting Braga	Os Belenenses	1:0	2:1	06.05.2007	19:00	2006	2007	28
+Sporting CP	VitÃ³ria SetÃºbal	2:0	3:1	06.05.2007	21:15	2006	2007	28
+Os Belenenses	CS MarÃ­timo	1:0	2:0	12.05.2007	22:00	2006	2007	29
+Boavista	Sporting Braga	0:1	0:1	12.05.2007	22:00	2006	2007	29
+PaÃ§os de Ferreira	FC Porto	1:0	1:1	13.05.2007	20:15	2006	2007	29
+CD Nacional	SC Beira-Mar	3:0	3:0	13.05.2007	20:15	2006	2007	29
+VitÃ³ria SetÃºbal	SL Benfica	0:0	0:1	13.05.2007	20:15	2006	2007	29
+AcadÃ©mica de Coimbra	Sporting CP	0:1	0:2	13.05.2007	20:15	2006	2007	29
+CD Aves	Estrela Amadora	0:1	0:1	13.05.2007	20:15	2006	2007	29
+UniÃ£o Leiria	Naval 1Â° de Maio	1:2	2:2	13.05.2007	20:15	2006	2007	29
+CS MarÃ­timo	Boavista	0:1	1:2	19.05.2007	20:45	2006	2007	30
+Sporting Braga	CD Nacional	1:1	1:1	20.05.2007	20:15	2006	2007	30
+Naval 1Â° de Maio	VitÃ³ria SetÃºbal	1:2	1:2	20.05.2007	20:15	2006	2007	30
+SL Benfica	AcadÃ©mica de Coimbra	1:0	2:0	20.05.2007	20:15	2006	2007	30
+Sporting CP	Os Belenenses	2:0	4:0	20.05.2007	20:15	2006	2007	30
+Estrela Amadora	UniÃ£o Leiria	0:0	1:1	20.05.2007	20:15	2006	2007	30
+SC Beira-Mar	PaÃ§os de Ferreira	0:1	1:1	20.05.2007	20:15	2006	2007	30
+FC Porto	CD Aves	1:1	4:1	20.05.2007	20:15	2006	2007	30

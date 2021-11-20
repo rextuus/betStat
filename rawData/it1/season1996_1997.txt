@@ -1,0 +1,306 @@
+Udinese Calcio	Inter	0:1	0:1	07.09.1996	00:00	1996	1997	1
+AS Roma	Piacenza Calcio	2:0	3:1	07.09.1996	00:00	1996	1997	1
+Bologna FC	Lazio Roma	1:0	1:0	07.09.1996	00:00	1996	1997	1
+Parma AC	SSC Napoli	2:0	3:0	07.09.1996	00:00	1996	1997	1
+AC Perugia	Sampdoria	1:0	1:0	08.09.1996	00:00	1996	1997	1
+AC Milan	Hellas Verona	0:1	4:1	08.09.1996	00:00	1996	1997	1
+Cagliari Calcio	Atalanta	1:0	2:0	08.09.1996	00:00	1996	1997	1
+ACF Fiorentina	Vicenza Calcio	1:2	2:4	08.09.1996	00:00	1996	1997	1
+AC Reggiana	Juventus	1:1	1:1	08.09.1996	00:00	1996	1997	1
+Lazio Roma	Udinese Calcio	0:0	0:1	15.09.1996	00:00	1996	1997	2
+Vicenza Calcio	AS Roma	0:1	0:2	15.09.1996	00:00	1996	1997	2
+Hellas Verona	Bologna FC	0:1	0:2	15.09.1996	00:00	1996	1997	2
+Sampdoria	AC Milan	1:1	2:1	15.09.1996	00:00	1996	1997	2
+SSC Napoli	AC Reggiana	1:0	1:0	15.09.1996	00:00	1996	1997	2
+Juventus	Cagliari Calcio	1:0	2:1	15.09.1996	00:00	1996	1997	2
+Inter	AC Perugia	0:0	1:0	15.09.1996	00:00	1996	1997	2
+Atalanta	ACF Fiorentina	0:1	2:2	15.09.1996	00:00	1996	1997	2
+Piacenza Calcio	Parma AC	0:0	0:0	15.09.1996	00:00	1996	1997	2
+Inter	Lazio Roma	1:1	1:1	21.09.1996	00:00	1996	1997	3
+AS Roma	Sampdoria	0:0	1:4	21.09.1996	00:00	1996	1997	3
+Parma AC	AC Reggiana	2:1	3:2	21.09.1996	00:00	1996	1997	3
+AC Perugia	Juventus	0:0	1:2	22.09.1996	00:00	1996	1997	3
+Vicenza Calcio	Atalanta	2:1	4:1	22.09.1996	00:00	1996	1997	3
+Bologna FC	AC Milan	0:0	1:2	22.09.1996	00:00	1996	1997	3
+ACF Fiorentina	Hellas Verona	1:0	2:0	22.09.1996	00:00	1996	1997	3
+Cagliari Calcio	Udinese Calcio	1:2	1:2	22.09.1996	00:00	1996	1997	3
+SSC Napoli	Piacenza Calcio	1:0	1:1	22.09.1996	00:00	1996	1997	3
+AC Milan	AC Perugia	1:0	3:0	29.09.1996	00:00	1996	1997	4
+Hellas Verona	Cagliari Calcio	1:2	2:2	29.09.1996	00:00	1996	1997	4
+Udinese Calcio	Bologna FC	2:1	2:2	29.09.1996	00:00	1996	1997	4
+Sampdoria	SSC Napoli	0:0	0:1	29.09.1996	00:00	1996	1997	4
+Piacenza Calcio	Vicenza Calcio	1:0	1:0	29.09.1996	00:00	1996	1997	4
+Lazio Roma	Parma AC	1:0	2:1	29.09.1996	00:00	1996	1997	4
+Juventus	ACF Fiorentina	1:0	1:0	29.09.1996	00:00	1996	1997	4
+Atalanta	Inter	0:1	1:1	29.09.1996	00:00	1996	1997	4
+AC Reggiana	AS Roma	0:1	1:1	29.09.1996	00:00	1996	1997	4
+AS Roma	AC Milan	2:0	3:0	12.10.1996	00:00	1996	1997	5
+Inter	Piacenza Calcio	1:0	2:0	12.10.1996	00:00	1996	1997	5
+ACF Fiorentina	Lazio Roma	0:0	0:0	12.10.1996	00:00	1996	1997	5
+AC Perugia	Atalanta	1:1	3:1	13.10.1996	00:00	1996	1997	5
+Vicenza Calcio	Juventus	1:0	2:1	13.10.1996	00:00	1996	1997	5
+AC Reggiana	Hellas Verona	1:1	2:2	13.10.1996	00:00	1996	1997	5
+Bologna FC	Sampdoria	0:0	2:1	13.10.1996	00:00	1996	1997	5
+Cagliari Calcio	Parma AC	0:1	0:1	13.10.1996	00:00	1996	1997	5
+SSC Napoli	Udinese Calcio	0:0	1:1	13.10.1996	00:00	1996	1997	5
+AC Milan	SSC Napoli	1:0	3:1	20.10.1996	00:00	1996	1997	6
+Hellas Verona	AS Roma	1:0	2:1	20.10.1996	00:00	1996	1997	6
+Udinese Calcio	Vicenza Calcio	0:0	1:1	20.10.1996	00:00	1996	1997	6
+Sampdoria	Atalanta	2:0	2:0	20.10.1996	00:00	1996	1997	6
+Parma AC	AC Perugia	0:2	1:2	20.10.1996	00:00	1996	1997	6
+Lazio Roma	Cagliari Calcio	1:0	2:1	20.10.1996	00:00	1996	1997	6
+Juventus	Inter	1:0	2:0	20.10.1996	00:00	1996	1997	6
+Bologna FC	ACF Fiorentina	0:1	0:2	20.10.1996	00:00	1996	1997	6
+Piacenza Calcio	AC Reggiana	1:0	3:0	20.10.1996	00:00	1996	1997	6
+AS Roma	Juventus	0:0	1:1	26.10.1996	00:00	1996	1997	7
+Atalanta	Lazio Roma	1:0	2:1	26.10.1996	00:00	1996	1997	7
+Piacenza Calcio	Hellas Verona	1:0	2:0	27.10.1996	00:00	1996	1997	7
+Vicenza Calcio	Cagliari Calcio	1:0	2:0	27.10.1996	00:00	1996	1997	7
+AC Reggiana	Sampdoria	1:1	1:1	27.10.1996	00:00	1996	1997	7
+SSC Napoli	Bologna FC	1:1	3:2	27.10.1996	00:00	1996	1997	7
+Inter	Parma AC	2:1	3:1	27.10.1996	00:00	1996	1997	7
+ACF Fiorentina	AC Milan	0:0	1:0	27.10.1996	00:00	1996	1997	7
+AC Perugia	Udinese Calcio	1:1	2:1	27.10.1996	00:00	1996	1997	7
+Udinese Calcio	AC Reggiana	0:0	2:1	03.11.1996	00:00	1996	1997	8
+Bologna FC	AS Roma	1:0	3:2	03.11.1996	00:00	1996	1997	8
+Hellas Verona	Inter	0:0	0:1	03.11.1996	00:00	1996	1997	8
+Sampdoria	Piacenza Calcio	1:0	3:0	03.11.1996	00:00	1996	1997	8
+Parma AC	ACF Fiorentina	0:0	0:0	03.11.1996	00:00	1996	1997	8
+Lazio Roma	Vicenza Calcio	0:1	0:2	03.11.1996	00:00	1996	1997	8
+Juventus	SSC Napoli	1:0	1:1	03.11.1996	00:00	1996	1997	8
+Cagliari Calcio	AC Perugia	1:0	2:1	03.11.1996	00:00	1996	1997	8
+AC Milan	Atalanta	0:1	1:1	03.11.1996	00:00	1996	1997	8
+Inter	ACF Fiorentina	0:1	2:2	16.11.1996	00:00	1996	1997	9
+Juventus	AC Milan	0:0	0:0	17.11.1996	00:00	1996	1997	9
+Sampdoria	Parma AC	1:0	1:1	17.11.1996	00:00	1996	1997	9
+AS Roma	Cagliari Calcio	1:0	3:1	17.11.1996	00:00	1996	1997	9
+AC Reggiana	Bologna FC	1:0	1:3	17.11.1996	00:00	1996	1997	9
+Atalanta	Udinese Calcio	1:0	1:0	17.11.1996	00:00	1996	1997	9
+SSC Napoli	AC Perugia	2:1	4:2	17.11.1996	00:00	1996	1997	9
+Hellas Verona	Vicenza Calcio	2:1	2:2	17.11.1996	00:00	1996	1997	9
+Piacenza Calcio	Lazio Roma	1:2	1:3	17.11.1996	00:00	1996	1997	9
+AC Perugia	Hellas Verona	2:0	3:1	24.11.1996	00:00	1996	1997	10
+Vicenza Calcio	AC Reggiana	1:0	2:0	24.11.1996	00:00	1996	1997	10
+AC Milan	Inter	1:1	1:1	24.11.1996	00:00	1996	1997	10
+Bologna FC	Atalanta	1:0	3:1	24.11.1996	00:00	1996	1997	10
+Lazio Roma	Sampdoria	0:1	1:1	24.11.1996	00:00	1996	1997	10
+ACF Fiorentina	Piacenza Calcio	1:0	1:1	24.11.1996	00:00	1996	1997	10
+Cagliari Calcio	SSC Napoli	0:0	1:1	24.11.1996	00:00	1996	1997	10
+Parma AC	AS Roma	0:0	0:0	24.11.1996	00:00	1996	1997	10
+Udinese Calcio	Juventus	0:3	1:4	11.12.1996	00:00	1996	1997	10
+Inter	Cagliari Calcio	1:1	2:2	30.11.1996	00:00	1996	1997	11
+AC Reggiana	Lazio Roma	0:0	0:2	01.12.1996	00:00	1996	1997	11
+Hellas Verona	Sampdoria	0:0	1:1	01.12.1996	00:00	1996	1997	11
+Udinese Calcio	Parma AC	0:1	3:1	01.12.1996	00:00	1996	1997	11
+Piacenza Calcio	AC Milan	2:0	3:2	01.12.1996	00:00	1996	1997	11
+AC Perugia	Vicenza Calcio	1:1	1:1	01.12.1996	00:00	1996	1997	11
+Juventus	Bologna FC	0:0	1:0	01.12.1996	00:00	1996	1997	11
+Atalanta	SSC Napoli	1:0	2:2	01.12.1996	00:00	1996	1997	11
+AS Roma	ACF Fiorentina	1:2	3:3	01.12.1996	00:00	1996	1997	11
+Lazio Roma	AS Roma	0:0	0:0	08.12.1996	00:00	1996	1997	12
+AC Milan	Udinese Calcio	0:0	2:1	08.12.1996	00:00	1996	1997	12
+Vicenza Calcio	Inter	1:0	1:1	08.12.1996	00:00	1996	1997	12
+Sampdoria	Juventus	0:1	0:1	08.12.1996	00:00	1996	1997	12
+ACF Fiorentina	AC Perugia	0:0	4:1	08.12.1996	00:00	1996	1997	12
+Cagliari Calcio	AC Reggiana	1:0	1:1	08.12.1996	00:00	1996	1997	12
+Bologna FC	Piacenza Calcio	0:0	1:1	08.12.1996	00:00	1996	1997	12
+Parma AC	Atalanta	0:0	0:0	08.12.1996	00:00	1996	1997	12
+SSC Napoli	Hellas Verona	0:0	1:0	08.12.1996	00:00	1996	1997	12
+Juventus	Hellas Verona	1:2	3:2	15.12.1996	00:00	1996	1997	13
+Vicenza Calcio	Parma AC	0:0	1:1	15.12.1996	00:00	1996	1997	13
+Udinese Calcio	ACF Fiorentina	2:0	2:0	15.12.1996	00:00	1996	1997	13
+AS Roma	SSC Napoli	0:0	1:0	15.12.1996	00:00	1996	1997	13
+AC Perugia	Lazio Roma	0:0	1:2	15.12.1996	00:00	1996	1997	13
+Inter	Sampdoria	2:1	3:4	15.12.1996	00:00	1996	1997	13
+Cagliari Calcio	Bologna FC	2:2	2:2	15.12.1996	00:00	1996	1997	13
+Atalanta	Piacenza Calcio	2:0	4:0	15.12.1996	00:00	1996	1997	13
+AC Reggiana	AC Milan	0:1	0:3	15.12.1996	00:00	1996	1997	13
+SSC Napoli	Lazio Roma	0:0	1:0	22.12.1996	00:00	1996	1997	14
+Sampdoria	Vicenza Calcio	2:0	2:1	22.12.1996	00:00	1996	1997	14
+AS Roma	Atalanta	0:2	0:2	22.12.1996	00:00	1996	1997	14
+Hellas Verona	Udinese Calcio	0:1	3:2	22.12.1996	00:00	1996	1997	14
+AC Milan	Parma AC	0:1	0:1	22.12.1996	00:00	1996	1997	14
+ACF Fiorentina	Cagliari Calcio	0:0	2:0	22.12.1996	00:00	1996	1997	14
+Bologna FC	AC Perugia	0:0	0:0	22.12.1996	00:00	1996	1997	14
+AC Reggiana	Inter	1:0	1:1	22.12.1996	00:00	1996	1997	14
+Piacenza Calcio	Juventus	0:0	1:1	22.12.1996	00:00	1996	1997	14
+Inter	AS Roma	2:0	3:1	05.01.1997	00:00	1996	1997	15
+Vicenza Calcio	Bologna FC	0:0	2:0	05.01.1997	00:00	1996	1997	15
+Udinese Calcio	Sampdoria	2:4	4:5	05.01.1997	00:00	1996	1997	15
+AC Perugia	AC Reggiana	0:0	1:3	05.01.1997	00:00	1996	1997	15
+Lazio Roma	AC Milan	2:0	3:0	05.01.1997	00:00	1996	1997	15
+ACF Fiorentina	SSC Napoli	0:0	3:0	05.01.1997	00:00	1996	1997	15
+Cagliari Calcio	Piacenza Calcio	0:0	1:0	05.01.1997	00:00	1996	1997	15
+Atalanta	Hellas Verona	0:0	1:0	05.01.1997	00:00	1996	1997	15
+Parma AC	Juventus	1:0	1:0	05.01.1997	00:00	1996	1997	15
+SSC Napoli	Inter	0:1	1:2	12.01.1997	00:00	1996	1997	16
+Sampdoria	Cagliari Calcio	1:1	4:1	12.01.1997	00:00	1996	1997	16
+AS Roma	AC Perugia	1:1	4:1	12.01.1997	00:00	1996	1997	16
+Hellas Verona	Lazio Roma	0:1	1:1	12.01.1997	00:00	1996	1997	16
+AC Milan	Vicenza Calcio	1:0	1:0	12.01.1997	00:00	1996	1997	16
+Juventus	Atalanta	0:0	0:0	12.01.1997	00:00	1996	1997	16
+Bologna FC	Parma AC	0:1	0:1	12.01.1997	00:00	1996	1997	16
+AC Reggiana	ACF Fiorentina	0:0	0:0	12.01.1997	00:00	1996	1997	16
+Piacenza Calcio	Udinese Calcio	0:0	0:0	12.01.1997	00:00	1996	1997	16
+Inter	Bologna FC	0:1	0:2	19.01.1997	00:00	1996	1997	17
+Vicenza Calcio	SSC Napoli	2:1	2:2	19.01.1997	00:00	1996	1997	17
+Udinese Calcio	AS Roma	0:0	1:0	19.01.1997	00:00	1996	1997	17
+AC Perugia	Piacenza Calcio	1:0	1:1	19.01.1997	00:00	1996	1997	17
+Lazio Roma	Juventus	0:1	0:2	19.01.1997	00:00	1996	1997	17
+ACF Fiorentina	Sampdoria	1:0	1:1	19.01.1997	00:00	1996	1997	17
+Cagliari Calcio	AC Milan	1:0	1:1	19.01.1997	00:00	1996	1997	17
+Atalanta	AC Reggiana	1:0	1:0	19.01.1997	00:00	1996	1997	17
+Parma AC	Hellas Verona	0:0	1:0	19.01.1997	00:00	1996	1997	17
+Piacenza Calcio	AS Roma	0:0	0:0	26.01.1997	00:00	1996	1997	18
+Hellas Verona	AC Milan	2:0	3:1	26.01.1997	00:00	1996	1997	18
+Inter	Udinese Calcio	0:1	1:1	26.01.1997	00:00	1996	1997	18
+Sampdoria	AC Perugia	2:2	5:2	26.01.1997	00:00	1996	1997	18
+Vicenza Calcio	ACF Fiorentina	2:1	3:2	26.01.1997	00:00	1996	1997	18
+Juventus	AC Reggiana	2:0	3:1	26.01.1997	00:00	1996	1997	18
+Atalanta	Cagliari Calcio	1:0	4:1	26.01.1997	00:00	1996	1997	18
+Lazio Roma	Bologna FC	0:1	1:2	26.01.1997	00:00	1996	1997	18
+SSC Napoli	Parma AC	1:1	2:1	26.01.1997	00:00	1996	1997	18
+Parma AC	Piacenza Calcio	0:0	1:0	02.02.1997	00:00	1996	1997	19
+ACF Fiorentina	Atalanta	0:0	0:0	02.02.1997	00:00	1996	1997	19
+Udinese Calcio	Lazio Roma	0:1	2:3	02.02.1997	00:00	1996	1997	19
+AS Roma	Vicenza Calcio	1:0	2:0	02.02.1997	00:00	1996	1997	19
+AC Perugia	Inter	0:0	0:0	02.02.1997	00:00	1996	1997	19
+AC Milan	Sampdoria	1:1	2:3	02.02.1997	00:00	1996	1997	19
+Cagliari Calcio	Juventus	0:0	0:0	02.02.1997	00:00	1996	1997	19
+Bologna FC	Hellas Verona	4:1	6:1	02.02.1997	00:00	1996	1997	19
+AC Reggiana	SSC Napoli	0:1	1:1	02.02.1997	00:00	1996	1997	19
+Sampdoria	AS Roma	0:1	1:2	16.02.1997	00:00	1996	1997	20
+AC Milan	Bologna FC	0:0	2:0	16.02.1997	00:00	1996	1997	20
+Hellas Verona	ACF Fiorentina	1:1	2:1	16.02.1997	00:00	1996	1997	20
+Udinese Calcio	Cagliari Calcio	0:0	1:0	16.02.1997	00:00	1996	1997	20
+Atalanta	Vicenza Calcio	0:0	3:1	16.02.1997	00:00	1996	1997	20
+Lazio Roma	Inter	1:0	2:2	16.02.1997	00:00	1996	1997	20
+Juventus	AC Perugia	1:0	2:1	16.02.1997	00:00	1996	1997	20
+AC Reggiana	Parma AC	0:0	0:0	16.02.1997	00:00	1996	1997	20
+Piacenza Calcio	SSC Napoli	1:0	1:0	16.02.1997	00:00	1996	1997	20
+Inter	Atalanta	0:0	2:0	23.02.1997	00:00	1996	1997	21
+Vicenza Calcio	Piacenza Calcio	1:1	1:1	23.02.1997	00:00	1996	1997	21
+Parma AC	Lazio Roma	2:0	2:0	23.02.1997	00:00	1996	1997	21
+AS Roma	AC Reggiana	2:0	2:2	23.02.1997	00:00	1996	1997	21
+SSC Napoli	Sampdoria	0:0	1:1	23.02.1997	00:00	1996	1997	21
+ACF Fiorentina	Juventus	0:1	1:1	23.02.1997	00:00	1996	1997	21
+Cagliari Calcio	Hellas Verona	2:1	3:2	23.02.1997	00:00	1996	1997	21
+Bologna FC	Udinese Calcio	0:0	0:0	23.02.1997	00:00	1996	1997	21
+AC Perugia	AC Milan	1:0	1:0	23.02.1997	00:00	1996	1997	21
+Piacenza Calcio	Inter	0:2	0:3	01.03.1997	00:00	1996	1997	22
+Lazio Roma	ACF Fiorentina	0:0	1:0	01.03.1997	00:00	1996	1997	22
+Juventus	Vicenza Calcio	1:0	2:0	01.03.1997	00:00	1996	1997	22
+AC Milan	AS Roma	0:0	1:1	02.03.1997	00:00	1996	1997	22
+Sampdoria	Bologna FC	1:0	1:2	02.03.1997	00:00	1996	1997	22
+Hellas Verona	AC Reggiana	1:1	2:4	02.03.1997	00:00	1996	1997	22
+Udinese Calcio	SSC Napoli	1:1	2:2	02.03.1997	00:00	1996	1997	22
+Atalanta	AC Perugia	0:0	2:2	02.03.1997	00:00	1996	1997	22
+Parma AC	Cagliari Calcio	1:0	3:2	02.03.1997	00:00	1996	1997	22
+Inter	Juventus	0:0	0:0	09.03.1997	00:00	1996	1997	23
+Vicenza Calcio	Udinese Calcio	1:0	2:0	09.03.1997	00:00	1996	1997	23
+AS Roma	Hellas Verona	2:2	4:3	09.03.1997	00:00	1996	1997	23
+AC Reggiana	Piacenza Calcio	0:0	0:0	09.03.1997	00:00	1996	1997	23
+SSC Napoli	AC Milan	0:0	0:0	09.03.1997	00:00	1996	1997	23
+ACF Fiorentina	Bologna FC	1:2	3:2	09.03.1997	00:00	1996	1997	23
+Cagliari Calcio	Lazio Roma	0:0	0:0	09.03.1997	00:00	1996	1997	23
+Atalanta	Sampdoria	2:0	4:0	09.03.1997	00:00	1996	1997	23
+AC Perugia	Parma AC	1:2	1:2	09.03.1997	00:00	1996	1997	23
+Juventus	AS Roma	2:0	3:0	15.03.1997	00:00	1996	1997	24
+Parma AC	Inter	1:0	1:0	15.03.1997	00:00	1996	1997	24
+AC Milan	ACF Fiorentina	0:0	2:0	15.03.1997	00:00	1996	1997	24
+Lazio Roma	Atalanta	2:0	3:2	16.03.1997	00:00	1996	1997	24
+Udinese Calcio	AC Perugia	1:1	2:1	16.03.1997	00:00	1996	1997	24
+Sampdoria	AC Reggiana	2:0	3:0	16.03.1997	00:00	1996	1997	24
+Hellas Verona	Piacenza Calcio	0:0	0:0	16.03.1997	00:00	1996	1997	24
+Cagliari Calcio	Vicenza Calcio	1:1	2:1	16.03.1997	00:00	1996	1997	24
+Bologna FC	SSC Napoli	1:1	2:1	16.03.1997	00:00	1996	1997	24
+SSC Napoli	Juventus	0:0	0:0	23.03.1997	00:00	1996	1997	25
+Vicenza Calcio	Lazio Roma	0:1	0:2	23.03.1997	00:00	1996	1997	25
+AS Roma	Bologna FC	0:0	1:1	23.03.1997	00:00	1996	1997	25
+AC Reggiana	Udinese Calcio	0:0	0:0	23.03.1997	00:00	1996	1997	25
+AC Perugia	Cagliari Calcio	2:2	3:2	23.03.1997	00:00	1996	1997	25
+Inter	Hellas Verona	1:1	2:1	23.03.1997	00:00	1996	1997	25
+ACF Fiorentina	Parma AC	1:0	1:0	23.03.1997	00:00	1996	1997	25
+Atalanta	AC Milan	0:1	0:2	23.03.1997	00:00	1996	1997	25
+Piacenza Calcio	Sampdoria	2:1	2:2	23.03.1997	00:00	1996	1997	25
+ACF Fiorentina	Inter	0:0	0:0	05.04.1997	00:00	1996	1997	26
+AC Perugia	SSC Napoli	0:1	1:1	06.04.1997	00:00	1996	1997	26
+Udinese Calcio	Atalanta	0:0	2:0	06.04.1997	00:00	1996	1997	26
+AC Milan	Juventus	0:2	1:6	06.04.1997	00:00	1996	1997	26
+Parma AC	Sampdoria	1:0	3:0	06.04.1997	00:00	1996	1997	26
+Cagliari Calcio	AS Roma	2:1	2:1	06.04.1997	00:00	1996	1997	26
+Bologna FC	AC Reggiana	1:1	3:2	06.04.1997	00:00	1996	1997	26
+Lazio Roma	Piacenza Calcio	1:0	2:0	06.04.1997	00:00	1996	1997	26
+Vicenza Calcio	Hellas Verona	0:0	0:0	06.04.1997	00:00	1996	1997	26
+SSC Napoli	Cagliari Calcio	0:0	1:1	13.04.1997	00:00	1996	1997	27
+Hellas Verona	AC Perugia	0:0	2:0	13.04.1997	00:00	1996	1997	27
+Sampdoria	Lazio Roma	0:0	1:0	13.04.1997	00:00	1996	1997	27
+AS Roma	Parma AC	0:1	0:1	13.04.1997	00:00	1996	1997	27
+Piacenza Calcio	ACF Fiorentina	0:0	1:1	13.04.1997	00:00	1996	1997	27
+Juventus	Udinese Calcio	0:1	0:3	13.04.1997	00:00	1996	1997	27
+Inter	AC Milan	2:0	3:1	13.04.1997	00:00	1996	1997	27
+Atalanta	Bologna FC	0:0	1:1	13.04.1997	00:00	1996	1997	27
+AC Reggiana	Vicenza Calcio	0:0	0:0	13.04.1997	00:00	1996	1997	27
+ACF Fiorentina	AS Roma	2:0	2:1	19.04.1997	00:00	1996	1997	28
+Bologna FC	Juventus	0:1	0:1	19.04.1997	00:00	1996	1997	28
+Cagliari Calcio	Inter	0:1	1:2	19.04.1997	00:00	1996	1997	28
+Vicenza Calcio	AC Perugia	3:0	4:1	20.04.1997	00:00	1996	1997	28
+Sampdoria	Hellas Verona	0:0	0:0	20.04.1997	00:00	1996	1997	28
+Parma AC	Udinese Calcio	0:0	0:2	20.04.1997	00:00	1996	1997	28
+SSC Napoli	Atalanta	0:1	0:1	20.04.1997	00:00	1996	1997	28
+Lazio Roma	AC Reggiana	5:1	6:1	20.04.1997	00:00	1996	1997	28
+AC Milan	Piacenza Calcio	0:0	0:0	20.04.1997	00:00	1996	1997	28
+Inter	Vicenza Calcio	0:1	0:1	03.05.1997	00:00	1996	1997	29
+AS Roma	Lazio Roma	1:0	1:1	04.05.1997	00:00	1996	1997	29
+Juventus	Sampdoria	0:0	0:0	04.05.1997	00:00	1996	1997	29
+Atalanta	Parma AC	1:0	1:2	04.05.1997	00:00	1996	1997	29
+Udinese Calcio	AC Milan	1:0	1:1	04.05.1997	00:00	1996	1997	29
+AC Perugia	ACF Fiorentina	0:0	1:1	04.05.1997	00:00	1996	1997	29
+AC Reggiana	Cagliari Calcio	0:3	0:3	04.05.1997	00:00	1996	1997	29
+Piacenza Calcio	Bologna FC	1:0	1:1	04.05.1997	00:00	1996	1997	29
+Hellas Verona	SSC Napoli	0:0	2:0	04.05.1997	00:00	1996	1997	29
+AC Milan	AC Reggiana	1:0	3:1	11.05.1997	00:00	1996	1997	30
+Lazio Roma	AC Perugia	2:0	4:1	11.05.1997	00:00	1996	1997	30
+SSC Napoli	AS Roma	1:0	1:0	11.05.1997	00:00	1996	1997	30
+Parma AC	Vicenza Calcio	1:0	3:0	11.05.1997	00:00	1996	1997	30
+Sampdoria	Inter	1:1	1:2	11.05.1997	00:00	1996	1997	30
+Bologna FC	Cagliari Calcio	1:0	3:0	11.05.1997	00:00	1996	1997	30
+Piacenza Calcio	Atalanta	1:1	3:1	11.05.1997	00:00	1996	1997	30
+Hellas Verona	Juventus	0:1	0:2	11.05.1997	00:00	1996	1997	30
+ACF Fiorentina	Udinese Calcio	2:1	2:3	11.05.1997	00:00	1996	1997	30
+Lazio Roma	SSC Napoli	2:1	3:2	15.05.1997	00:00	1996	1997	31
+Udinese Calcio	Hellas Verona	1:0	3:0	15.05.1997	00:00	1996	1997	31
+Vicenza Calcio	Sampdoria	1:1	1:1	15.05.1997	00:00	1996	1997	31
+Atalanta	AS Roma	0:2	0:4	15.05.1997	00:00	1996	1997	31
+Juventus	Piacenza Calcio	0:0	4:1	15.05.1997	00:00	1996	1997	31
+Parma AC	AC Milan	1:0	1:1	15.05.1997	00:00	1996	1997	31
+Cagliari Calcio	ACF Fiorentina	4:1	4:1	15.05.1997	00:00	1996	1997	31
+AC Perugia	Bologna FC	1:0	5:1	15.05.1997	00:00	1996	1997	31
+Inter	AC Reggiana	1:0	3:1	15.05.1997	00:00	1996	1997	31
+AC Milan	Lazio Roma	1:0	2:2	18.05.1997	00:00	1996	1997	32
+Juventus	Parma AC	1:1	1:1	18.05.1997	00:00	1996	1997	32
+AC Reggiana	AC Perugia	0:3	1:4	18.05.1997	00:00	1996	1997	32
+Bologna FC	Vicenza Calcio	0:0	0:0	18.05.1997	00:00	1996	1997	32
+SSC Napoli	ACF Fiorentina	0:2	2:2	18.05.1997	00:00	1996	1997	32
+Piacenza Calcio	Cagliari Calcio	1:1	1:1	18.05.1997	00:00	1996	1997	32
+Hellas Verona	Atalanta	1:0	1:1	18.05.1997	00:00	1996	1997	32
+Sampdoria	Udinese Calcio	1:0	4:0	18.05.1997	00:00	1996	1997	32
+AS Roma	Inter	0:0	1:1	18.05.1997	00:00	1996	1997	32
+Atalanta	Juventus	1:0	1:1	23.05.1997	00:00	1996	1997	33
+ACF Fiorentina	AC Reggiana	2:0	3:0	25.05.1997	00:00	1996	1997	33
+Lazio Roma	Hellas Verona	3:1	4:1	25.05.1997	00:00	1996	1997	33
+AC Perugia	AS Roma	1:0	2:0	25.05.1997	00:00	1996	1997	33
+Udinese Calcio	Piacenza Calcio	3:0	4:0	25.05.1997	00:00	1996	1997	33
+Inter	SSC Napoli	0:1	3:2	25.05.1997	00:00	1996	1997	33
+Vicenza Calcio	AC Milan	1:0	2:0	25.05.1997	00:00	1996	1997	33
+Parma AC	Bologna FC	0:0	1:0	25.05.1997	00:00	1996	1997	33
+Cagliari Calcio	Sampdoria	1:2	3:4	25.05.1997	00:00	1996	1997	33
+SSC Napoli	Vicenza Calcio	1:0	1:0	01.06.1997	00:00	1996	1997	34
+AC Reggiana	Atalanta	0:1	0:3	01.06.1997	00:00	1996	1997	34
+AC Milan	Cagliari Calcio	0:1	0:1	01.06.1997	00:00	1996	1997	34
+Sampdoria	ACF Fiorentina	1:1	1:1	01.06.1997	00:00	1996	1997	34
+Bologna FC	Inter	1:0	2:2	01.06.1997	00:00	1996	1997	34
+Juventus	Lazio Roma	1:0	2:2	01.06.1997	00:00	1996	1997	34
+Hellas Verona	Parma AC	1:1	1:2	01.06.1997	00:00	1996	1997	34
+Piacenza Calcio	AC Perugia	1:0	2:1	01.06.1997	00:00	1996	1997	34
+AS Roma	Udinese Calcio	0:2	0:3	01.06.1997	00:00	1996	1997	34

@@ -1,0 +1,182 @@
+Atletico Madrid	FC Barcelona	0:0	1:1	24.09.1944	00:00	1944	1945	1
+Espanyol Barcelona	Sporting GijÃ³n	0:0	0:0	24.09.1944	00:00	1944	1945	1
+Sevilla FC	Granada CF	2:1	4:1	24.09.1944	00:00	1944	1945	1
+Deportivo La CoruÃ±a	Real Murcia	2:0	3:1	24.09.1944	00:00	1944	1945	1
+Valencia CF	CE Sabadell	1:1	1:1	24.09.1944	00:00	1944	1945	1
+Athletic Bilbao	CD CastellÃ³n	1:0	1:3	24.09.1944	00:00	1944	1945	1
+Real Oviedo	Real Madrid	3:0	4:0	24.09.1944	00:00	1944	1945	1
+CD CastellÃ³n	Sevilla FC	0:1	2:2	01.10.1944	00:00	1944	1945	2
+FC Barcelona	Real Oviedo	0:0	0:1	01.10.1944	00:00	1944	1945	2
+Granada CF	Atletico Madrid	0:0	2:1	01.10.1944	00:00	1944	1945	2
+Real Murcia	Valencia CF	0:0	2:1	01.10.1944	00:00	1944	1945	2
+Real Madrid	Espanyol Barcelona	2:0	3:0	01.10.1944	00:00	1944	1945	2
+CE Sabadell	Athletic Bilbao	1:2	1:2	01.10.1944	00:00	1944	1945	2
+Sporting GijÃ³n	Deportivo La CoruÃ±a	2:1	3:3	01.10.1944	00:00	1944	1945	2
+Deportivo La CoruÃ±a	Real Madrid	0:1	2:2	08.10.1944	00:00	1944	1945	3
+Real Oviedo	Espanyol Barcelona	0:0	1:0	08.10.1944	00:00	1944	1945	3
+Valencia CF	Sporting GijÃ³n	2:0	4:1	08.10.1944	00:00	1944	1945	3
+FC Barcelona	Granada CF	3:1	4:2	08.10.1944	00:00	1944	1945	3
+Athletic Bilbao	Real Murcia	2:0	5:1	08.10.1944	00:00	1944	1945	3
+Sevilla FC	CE Sabadell	1:0	4:0	08.10.1944	00:00	1944	1945	3
+Atletico Madrid	CD CastellÃ³n	1:0	4:0	08.10.1944	00:00	1944	1945	3
+CD CastellÃ³n	FC Barcelona	0:1	0:1	15.10.1944	00:00	1944	1945	4
+Real Murcia	Sevilla FC	2:1	3:1	15.10.1944	00:00	1944	1945	4
+Espanyol Barcelona	Deportivo La CoruÃ±a	7:0	7:1	15.10.1944	00:00	1944	1945	4
+Granada CF	Real Oviedo	3:0	5:1	15.10.1944	00:00	1944	1945	4
+Sporting GijÃ³n	Athletic Bilbao	0:0	0:2	15.10.1944	00:00	1944	1945	4
+CE Sabadell	Atletico Madrid	0:1	0:1	15.10.1944	00:00	1944	1945	4
+Real Madrid	Valencia CF	0:0	1:1	15.10.1944	00:00	1944	1945	4
+Granada CF	CD CastellÃ³n	0:0	0:2	22.10.1944	00:00	1944	1945	5
+Athletic Bilbao	Real Madrid	2:0	2:1	22.10.1944	00:00	1944	1945	5
+Valencia CF	Espanyol Barcelona	1:0	2:0	22.10.1944	00:00	1944	1945	5
+Sevilla FC	Sporting GijÃ³n	3:0	6:0	22.10.1944	00:00	1944	1945	5
+Real Oviedo	Deportivo La CoruÃ±a	1:1	2:2	22.10.1944	00:00	1944	1945	5
+Atletico Madrid	Real Murcia	2:2	4:3	22.10.1944	00:00	1944	1945	5
+FC Barcelona	CE Sabadell	0:1	2:1	22.10.1944	00:00	1944	1945	5
+CE Sabadell	Granada CF	1:1	3:2	29.10.1944	00:00	1944	1945	6
+CD CastellÃ³n	Real Oviedo	4:2	5:3	29.10.1944	00:00	1944	1945	6
+Real Madrid	Sevilla FC	5:0	5:0	29.10.1944	00:00	1944	1945	6
+Sporting GijÃ³n	Atletico Madrid	1:0	2:0	29.10.1944	00:00	1944	1945	6
+Deportivo La CoruÃ±a	Valencia CF	1:2	2:3	29.10.1944	00:00	1944	1945	6
+Real Murcia	FC Barcelona	1:1	1:1	29.10.1944	00:00	1944	1945	6
+Espanyol Barcelona	Athletic Bilbao	1:1	2:3	29.10.1944	00:00	1944	1945	6
+Granada CF	Real Murcia	0:0	1:1	05.11.1944	00:00	1944	1945	7
+Real Oviedo	Valencia CF	2:0	2:0	05.11.1944	00:00	1944	1945	7
+CD CastellÃ³n	CE Sabadell	3:0	8:0	05.11.1944	00:00	1944	1945	7
+Atletico Madrid	Real Madrid	0:0	0:1	05.11.1944	00:00	1944	1945	7
+Athletic Bilbao	Deportivo La CoruÃ±a	2:1	5:2	05.11.1944	00:00	1944	1945	7
+Sevilla FC	Espanyol Barcelona	1:0	1:1	05.11.1944	00:00	1944	1945	7
+FC Barcelona	Sporting GijÃ³n	0:0	2:0	05.11.1944	00:00	1944	1945	7
+Sporting GijÃ³n	Granada CF	1:0	3:1	12.11.1944	00:00	1944	1945	8
+Real Murcia	CD CastellÃ³n	1:0	2:0	12.11.1944	00:00	1944	1945	8
+CE Sabadell	Real Oviedo	0:0	0:0	12.11.1944	00:00	1944	1945	8
+Deportivo La CoruÃ±a	Sevilla FC	1:0	1:0	12.11.1944	00:00	1944	1945	8
+Espanyol Barcelona	Atletico Madrid	0:2	0:3	12.11.1944	00:00	1944	1945	8
+Valencia CF	Athletic Bilbao	2:0	3:0	12.11.1944	00:00	1944	1945	8
+Real Madrid	FC Barcelona	1:0	1:0	12.11.1944	00:00	1944	1945	8
+Real Oviedo	Athletic Bilbao	1:0	2:0	19.11.1944	00:00	1944	1945	9
+FC Barcelona	Espanyol Barcelona	0:0	1:0	19.11.1944	00:00	1944	1945	9
+Sevilla FC	Valencia CF	0:0	3:2	19.11.1944	00:00	1944	1945	9
+CD CastellÃ³n	Sporting GijÃ³n	1:0	3:0	19.11.1944	00:00	1944	1945	9
+Atletico Madrid	Deportivo La CoruÃ±a	1:0	1:1	19.11.1944	00:00	1944	1945	9
+CE Sabadell	Real Murcia	2:0	4:0	19.11.1944	00:00	1944	1945	9
+Granada CF	Real Madrid	0:0	0:1	19.11.1944	00:00	1944	1945	9
+Espanyol Barcelona	Granada CF	4:1	7:2	26.11.1944	00:00	1944	1945	10
+Real Murcia	Real Oviedo	2:0	5:1	26.11.1944	00:00	1944	1945	10
+Sporting GijÃ³n	CE Sabadell	1:0	1:0	26.11.1944	00:00	1944	1945	10
+Valencia CF	Atletico Madrid	3:0	5:0	26.11.1944	00:00	1944	1945	10
+Deportivo La CoruÃ±a	FC Barcelona	0:1	1:2	26.11.1944	00:00	1944	1945	10
+Athletic Bilbao	Sevilla FC	2:0	4:0	26.11.1944	00:00	1944	1945	10
+Real Madrid	CD CastellÃ³n	0:0	2:1	26.11.1944	00:00	1944	1945	10
+CE Sabadell	Real Madrid	1:1	3:2	03.12.1944	00:00	1944	1945	11
+Atletico Madrid	Athletic Bilbao	0:0	1:0	03.12.1944	00:00	1944	1945	11
+CD CastellÃ³n	Espanyol Barcelona	2:0	2:0	03.12.1944	00:00	1944	1945	11
+FC Barcelona	Valencia CF	0:0	1:0	03.12.1944	00:00	1944	1945	11
+Real Oviedo	Sevilla FC	2:0	2:0	03.12.1944	00:00	1944	1945	11
+Real Murcia	Sporting GijÃ³n	1:1	2:2	03.12.1944	00:00	1944	1945	11
+Granada CF	Deportivo La CoruÃ±a	2:0	3:0	03.12.1944	00:00	1944	1945	11
+Athletic Bilbao	FC Barcelona	3:0	4:1	10.12.1944	00:00	1944	1945	12
+Deportivo La CoruÃ±a	CD CastellÃ³n	1:1	1:1	10.12.1944	00:00	1944	1945	12
+Espanyol Barcelona	CE Sabadell	0:1	1:3	10.12.1944	00:00	1944	1945	12
+Real Madrid	Real Murcia	1:1	2:1	10.12.1944	00:00	1944	1945	12
+Valencia CF	Granada CF	1:0	4:0	10.12.1944	00:00	1944	1945	12
+Sevilla FC	Atletico Madrid	1:0	4:1	10.12.1944	00:00	1944	1945	12
+Real Oviedo	Sporting GijÃ³n	2:0	2:1	10.12.1944	00:00	1944	1945	12
+CE Sabadell	Deportivo La CoruÃ±a	1:1	2:1	17.12.1944	00:00	1944	1945	13
+Sporting GijÃ³n	Real Madrid	0:1	0:1	17.12.1944	00:00	1944	1945	13
+Granada CF	Athletic Bilbao	2:3	2:3	17.12.1944	00:00	1944	1945	13
+Real Murcia	Espanyol Barcelona	0:1	1:2	17.12.1944	00:00	1944	1945	13
+CD CastellÃ³n	Valencia CF	0:0	0:0	17.12.1944	00:00	1944	1945	13
+FC Barcelona	Sevilla FC	1:1	3:1	17.12.1944	00:00	1944	1945	13
+Atletico Madrid	Real Oviedo	3:2	4:3	17.12.1944	00:00	1944	1945	13
+Sporting GijÃ³n	Espanyol Barcelona	0:1	0:1	07.01.1945	00:00	1944	1945	14
+CE Sabadell	Valencia CF	1:0	1:1	07.01.1945	00:00	1944	1945	14
+FC Barcelona	Atletico Madrid	1:1	2:2	07.01.1945	00:00	1944	1945	14
+Granada CF	Sevilla FC	2:1	3:1	07.01.1945	00:00	1944	1945	14
+Real Madrid	Real Oviedo	3:1	4:1	07.01.1945	00:00	1944	1945	14
+Real Murcia	Deportivo La CoruÃ±a	1:0	1:0	07.01.1945	00:00	1944	1945	14
+CD CastellÃ³n	Athletic Bilbao	0:0	1:0	07.01.1945	00:00	1944	1945	14
+Athletic Bilbao	CE Sabadell	2:1	4:1	14.01.1945	00:00	1944	1945	15
+Sevilla FC	CD CastellÃ³n	4:0	8:1	14.01.1945	00:00	1944	1945	15
+Valencia CF	Real Murcia	4:2	9:3	14.01.1945	00:00	1944	1945	15
+Deportivo La CoruÃ±a	Sporting GijÃ³n	0:1	2:2	14.01.1945	00:00	1944	1945	15
+Real Oviedo	FC Barcelona	2:0	6:0	14.01.1945	00:00	1944	1945	15
+Espanyol Barcelona	Real Madrid	1:0	2:0	14.01.1945	00:00	1944	1945	15
+Atletico Madrid	Granada CF	0:1	1:1	16.01.1945	00:00	1944	1945	15
+Granada CF	FC Barcelona	0:1	1:2	28.01.1945	00:00	1944	1945	16
+Real Murcia	Athletic Bilbao	1:1	2:2	28.01.1945	00:00	1944	1945	16
+Sporting GijÃ³n	Valencia CF	1:1	4:2	28.01.1945	00:00	1944	1945	16
+CD CastellÃ³n	Atletico Madrid	2:1	2:3	28.01.1945	00:00	1944	1945	16
+CE Sabadell	Sevilla FC	0:2	2:3	28.01.1945	00:00	1944	1945	16
+Espanyol Barcelona	Real Oviedo	1:0	3:0	28.01.1945	00:00	1944	1945	16
+Real Madrid	Deportivo La CoruÃ±a	2:0	6:0	28.01.1945	00:00	1944	1945	16
+Valencia CF	Real Madrid	1:0	4:1	04.02.1945	00:00	1944	1945	17
+Sevilla FC	Real Murcia	3:0	4:0	04.02.1945	00:00	1944	1945	17
+FC Barcelona	CD CastellÃ³n	2:0	3:1	04.02.1945	00:00	1944	1945	17
+Atletico Madrid	CE Sabadell	0:1	2:1	04.02.1945	00:00	1944	1945	17
+Deportivo La CoruÃ±a	Espanyol Barcelona	1:1	3:2	04.02.1945	00:00	1944	1945	17
+Real Oviedo	Granada CF	0:0	1:1	04.02.1945	00:00	1944	1945	17
+Athletic Bilbao	Sporting GijÃ³n	0:1	0:1	04.02.1945	00:00	1944	1945	17
+CD CastellÃ³n	Granada CF	2:0	2:0	18.02.1945	00:00	1944	1945	18
+CE Sabadell	FC Barcelona	0:0	0:1	18.02.1945	00:00	1944	1945	18
+Real Madrid	Athletic Bilbao	1:0	4:1	18.02.1945	00:00	1944	1945	18
+Espanyol Barcelona	Valencia CF	0:1	0:2	18.02.1945	00:00	1944	1945	18
+Real Murcia	Atletico Madrid	0:0	0:0	18.02.1945	00:00	1944	1945	18
+Sporting GijÃ³n	Sevilla FC	1:1	3:1	18.02.1945	00:00	1944	1945	18
+Deportivo La CoruÃ±a	Real Oviedo	2:1	4:1	18.02.1945	00:00	1944	1945	18
+Real Oviedo	CD CastellÃ³n	2:0	2:0	25.02.1945	00:00	1944	1945	19
+Granada CF	CE Sabadell	2:0	5:0	25.02.1945	00:00	1944	1945	19
+FC Barcelona	Real Murcia	0:0	1:0	25.02.1945	00:00	1944	1945	19
+Valencia CF	Deportivo La CoruÃ±a	2:0	2:0	25.02.1945	00:00	1944	1945	19
+Atletico Madrid	Sporting GijÃ³n	1:0	2:0	25.02.1945	00:00	1944	1945	19
+Sevilla FC	Real Madrid	1:0	1:2	25.02.1945	00:00	1944	1945	19
+Athletic Bilbao	Espanyol Barcelona	1:0	3:0	25.02.1945	00:00	1944	1945	19
+Real Madrid	Atletico Madrid	1:1	3:1	18.03.1945	00:00	1944	1945	20
+CE Sabadell	CD CastellÃ³n	1:0	1:1	18.03.1945	00:00	1944	1945	20
+Real Murcia	Granada CF	1:0	2:0	18.03.1945	00:00	1944	1945	20
+Valencia CF	Real Oviedo	1:1	1:1	18.03.1945	00:00	1944	1945	20
+Deportivo La CoruÃ±a	Athletic Bilbao	0:1	1:2	18.03.1945	00:00	1944	1945	20
+Sporting GijÃ³n	FC Barcelona	1:1	2:5	18.03.1945	00:00	1944	1945	20
+Espanyol Barcelona	Sevilla FC	0:0	2:1	18.03.1945	00:00	1944	1945	20
+CD CastellÃ³n	Real Murcia	1:0	2:1	25.03.1945	00:00	1944	1945	21
+Real Oviedo	CE Sabadell	2:2	6:2	25.03.1945	00:00	1944	1945	21
+Sevilla FC	Deportivo La CoruÃ±a	0:0	3:0	25.03.1945	00:00	1944	1945	21
+Granada CF	Sporting GijÃ³n	0:0	0:0	25.03.1945	00:00	1944	1945	21
+Athletic Bilbao	Valencia CF	1:1	2:2	25.03.1945	00:00	1944	1945	21
+Atletico Madrid	Espanyol Barcelona	3:1	3:1	25.03.1945	00:00	1944	1945	21
+FC Barcelona	Real Madrid	1:0	5:0	25.03.1945	00:00	1944	1945	21
+Deportivo La CoruÃ±a	Atletico Madrid	3:1	4:1	08.04.1945	00:00	1944	1945	22
+Valencia CF	Sevilla FC	2:0	4:0	08.04.1945	00:00	1944	1945	22
+Athletic Bilbao	Real Oviedo	0:1	0:1	08.04.1945	00:00	1944	1945	22
+Real Madrid	Granada CF	3:1	6:2	08.04.1945	00:00	1944	1945	22
+Real Murcia	CE Sabadell	1:0	2:0	08.04.1945	00:00	1944	1945	22
+Sporting GijÃ³n	CD CastellÃ³n	1:0	4:0	08.04.1945	00:00	1944	1945	22
+Espanyol Barcelona	FC Barcelona	1:0	1:1	08.04.1945	00:00	1944	1945	22
+CE Sabadell	Sporting GijÃ³n	1:2	2:2	15.04.1945	00:00	1944	1945	23
+Atletico Madrid	Valencia CF	3:1	4:1	15.04.1945	00:00	1944	1945	23
+FC Barcelona	Deportivo La CoruÃ±a	2:0	3:0	15.04.1945	00:00	1944	1945	23
+Sevilla FC	Athletic Bilbao	1:2	2:3	15.04.1945	00:00	1944	1945	23
+CD CastellÃ³n	Real Madrid	0:2	0:3	15.04.1945	00:00	1944	1945	23
+Granada CF	Espanyol Barcelona	1:0	2:0	15.04.1945	00:00	1944	1945	23
+Real Oviedo	Real Murcia	1:0	3:2	15.04.1945	00:00	1944	1945	23
+Valencia CF	FC Barcelona	1:2	2:3	22.04.1945	00:00	1944	1945	24
+Athletic Bilbao	Atletico Madrid	0:0	0:1	22.04.1945	00:00	1944	1945	24
+Sevilla FC	Real Oviedo	0:0	1:1	22.04.1945	00:00	1944	1945	24
+Deportivo La CoruÃ±a	Granada CF	1:0	1:1	22.04.1945	00:00	1944	1945	24
+Sporting GijÃ³n	Real Murcia	3:1	4:1	22.04.1945	00:00	1944	1945	24
+Real Madrid	CE Sabadell	5:0	8:0	22.04.1945	00:00	1944	1945	24
+Espanyol Barcelona	CD CastellÃ³n	3:0	5:1	22.04.1945	00:00	1944	1945	24
+Real Murcia	Real Madrid	2:0	3:5	13.05.1945	00:00	1944	1945	25
+CD CastellÃ³n	Deportivo La CoruÃ±a	1:0	4:0	13.05.1945	00:00	1944	1945	25
+Sporting GijÃ³n	Real Oviedo	2:0	6:0	13.05.1945	00:00	1944	1945	25
+Atletico Madrid	Sevilla FC	1:0	3:1	13.05.1945	00:00	1944	1945	25
+Granada CF	Valencia CF	1:0	2:1	13.05.1945	00:00	1944	1945	25
+FC Barcelona	Athletic Bilbao	2:1	5:2	13.05.1945	00:00	1944	1945	25
+CE Sabadell	Espanyol Barcelona	0:2	0:6	13.05.1945	00:00	1944	1945	25
+Valencia CF	CD CastellÃ³n	2:0	4:1	20.05.1945	00:00	1944	1945	26
+Sevilla FC	FC Barcelona	0:0	0:0	20.05.1945	00:00	1944	1945	26
+Real Oviedo	Atletico Madrid	1:1	3:2	20.05.1945	00:00	1944	1945	26
+Real Madrid	Sporting GijÃ³n	2:0	4:1	20.05.1945	00:00	1944	1945	26
+Athletic Bilbao	Granada CF	2:0	4:1	20.05.1945	00:00	1944	1945	26
+Espanyol Barcelona	Real Murcia	1:0	1:0	20.05.1945	00:00	1944	1945	26
+Deportivo La CoruÃ±a	CE Sabadell	1:1	1:2	20.05.1945	00:00	1944	1945	26

@@ -1,0 +1,240 @@
+SSC Napoli	Ascoli Calcio	1:0	3:1	30.09.1974	00:00	1974	1975	1
+AS Varese 1910	Inter	1:0	2:0	30.09.1974	00:00	1974	1975	1
+Torino FC	AS Roma	0:0	1:0	30.09.1974	00:00	1974	1975	1
+Ternana Calcio	ACF Fiorentina	0:1	0:1	30.09.1974	00:00	1974	1975	1
+Lazio Roma	AC Cesena	2:0	2:1	30.09.1974	00:00	1974	1975	1
+AC Milan	Sampdoria	0:0	0:0	30.09.1974	00:00	1974	1975	1
+Bologna FC	Juventus	1:1	2:1	30.09.1974	00:00	1974	1975	1
+Cagliari Calcio	Lanerossi Vicenza	0:0	0:0	30.09.1974	00:00	1974	1975	1
+Inter	Cagliari Calcio	2:0	4:1	06.10.1974	00:00	1974	1975	2
+Sampdoria	AS Varese 1910	0:0	1:0	06.10.1974	00:00	1974	1975	2
+AS Roma	SSC Napoli	0:0	0:0	06.10.1974	00:00	1974	1975	2
+Juventus	AC Milan	1:1	2:1	06.10.1974	00:00	1974	1975	2
+ACF Fiorentina	Bologna FC	0:0	1:0	06.10.1974	00:00	1974	1975	2
+AC Cesena	Ternana Calcio	0:0	2:1	06.10.1974	00:00	1974	1975	2
+Ascoli Calcio	Torino FC	1:0	1:1	06.10.1974	00:00	1974	1975	2
+Lanerossi Vicenza	Lazio Roma	0:1	1:2	06.10.1974	00:00	1974	1975	2
+AC Milan	ACF Fiorentina	0:0	1:1	13.10.1974	00:00	1974	1975	3
+SSC Napoli	Lanerossi Vicenza	2:0	2:0	13.10.1974	00:00	1974	1975	3
+AS Varese 1910	Juventus	0:0	0:0	13.10.1974	00:00	1974	1975	3
+Torino FC	AC Cesena	1:0	2:0	13.10.1974	00:00	1974	1975	3
+Ascoli Calcio	Inter	0:0	0:0	13.10.1974	00:00	1974	1975	3
+Lazio Roma	Sampdoria	1:0	3:0	13.10.1974	00:00	1974	1975	3
+Bologna FC	AS Roma	1:0	1:0	13.10.1974	00:00	1974	1975	3
+Ternana Calcio	Cagliari Calcio	0:0	0:2	13.10.1974	00:00	1974	1975	3
+Juventus	Ascoli Calcio	2:0	4:0	20.10.1974	00:00	1974	1975	4
+Ternana Calcio	Lazio Roma	0:0	1:1	20.10.1974	00:00	1974	1975	4
+Sampdoria	SSC Napoli	1:0	1:1	20.10.1974	00:00	1974	1975	4
+Lanerossi Vicenza	Torino FC	1:0	1:0	20.10.1974	00:00	1974	1975	4
+Inter	Bologna FC	0:1	1:1	20.10.1974	00:00	1974	1975	4
+AC Cesena	ACF Fiorentina	1:1	1:1	20.10.1974	00:00	1974	1975	4
+Cagliari Calcio	AS Varese 1910	0:0	1:1	20.10.1974	00:00	1974	1975	4
+AS Roma	AC Milan	0:0	0:1	20.10.1974	00:00	1974	1975	4
+Lazio Roma	Inter	1:0	1:2	27.10.1974	00:00	1974	1975	5
+AC Milan	Lanerossi Vicenza	0:0	1:0	27.10.1974	00:00	1974	1975	5
+AS Varese 1910	AS Roma	0:0	0:0	27.10.1974	00:00	1974	1975	5
+Torino FC	Ternana Calcio	1:0	1:1	27.10.1974	00:00	1974	1975	5
+Ascoli Calcio	AC Cesena	0:0	0:0	27.10.1974	00:00	1974	1975	5
+ACF Fiorentina	SSC Napoli	1:0	1:1	27.10.1974	00:00	1974	1975	5
+Bologna FC	Cagliari Calcio	0:0	2:0	27.10.1974	00:00	1974	1975	5
+Sampdoria	Juventus	0:0	1:3	27.10.1974	00:00	1974	1975	5
+Lanerossi Vicenza	Bologna FC	0:0	0:1	04.11.1974	00:00	1974	1975	6
+Torino FC	ACF Fiorentina	1:0	2:1	04.11.1974	00:00	1974	1975	6
+Ternana Calcio	AS Varese 1910	1:0	2:0	04.11.1974	00:00	1974	1975	6
+SSC Napoli	Lazio Roma	1:0	1:1	04.11.1974	00:00	1974	1975	6
+Inter	AC Milan	0:0	0:0	04.11.1974	00:00	1974	1975	6
+AC Cesena	Juventus	0:0	0:1	04.11.1974	00:00	1974	1975	6
+Cagliari Calcio	Sampdoria	0:0	1:0	04.11.1974	00:00	1974	1975	6
+AS Roma	Ascoli Calcio	1:0	1:0	04.11.1974	00:00	1974	1975	6
+Juventus	AS Roma	0:0	1:0	10.11.1974	00:00	1974	1975	7
+Lanerossi Vicenza	Ternana Calcio	1:0	1:0	10.11.1974	00:00	1974	1975	7
+Sampdoria	Inter	0:1	1:1	10.11.1974	00:00	1974	1975	7
+AC Milan	Ascoli Calcio	2:0	2:0	10.11.1974	00:00	1974	1975	7
+ACF Fiorentina	AS Varese 1910	2:0	2:0	10.11.1974	00:00	1974	1975	7
+AC Cesena	SSC Napoli	0:0	0:0	10.11.1974	00:00	1974	1975	7
+Bologna FC	Torino FC	0:1	1:3	10.11.1974	00:00	1974	1975	7
+Lazio Roma	Cagliari Calcio	0:0	1:0	10.11.1974	00:00	1974	1975	7
+SSC Napoli	Cagliari Calcio	3:0	5:0	24.11.1974	00:00	1974	1975	8
+Torino FC	AC Milan	1:1	1:1	24.11.1974	00:00	1974	1975	8
+AS Roma	Lazio Roma	1:0	1:0	24.11.1974	00:00	1974	1975	8
+AS Varese 1910	AC Cesena	1:1	1:1	24.11.1974	00:00	1974	1975	8
+Inter	Juventus	0:0	0:1	24.11.1974	00:00	1974	1975	8
+Bologna FC	Ternana Calcio	1:0	1:1	24.11.1974	00:00	1974	1975	8
+Ascoli Calcio	ACF Fiorentina	0:0	0:1	24.11.1974	00:00	1974	1975	8
+Sampdoria	Lanerossi Vicenza	1:1	1:1	24.11.1974	00:00	1974	1975	8
+AS Varese 1910	Ascoli Calcio	2:0	3:1	01.12.1974	00:00	1974	1975	9
+Ternana Calcio	Sampdoria	1:0	1:1	01.12.1974	00:00	1974	1975	9
+Lazio Roma	Bologna FC	0:0	1:0	01.12.1974	00:00	1974	1975	9
+AC Milan	SSC Napoli	0:0	0:0	01.12.1974	00:00	1974	1975	9
+ACF Fiorentina	Lanerossi Vicenza	0:0	0:0	01.12.1974	00:00	1974	1975	9
+Cagliari Calcio	AS Roma	0:1	1:2	01.12.1974	00:00	1974	1975	9
+AC Cesena	Inter	0:0	0:0	01.12.1974	00:00	1974	1975	9
+Juventus	Torino FC	0:0	0:0	01.12.1974	00:00	1974	1975	9
+Inter	Ternana Calcio	0:0	1:0	08.12.1974	00:00	1974	1975	10
+Torino FC	Lazio Roma	0:0	2:2	08.12.1974	00:00	1974	1975	10
+AS Roma	ACF Fiorentina	0:0	1:0	08.12.1974	00:00	1974	1975	10
+Lanerossi Vicenza	AC Cesena	0:0	2:0	08.12.1974	00:00	1974	1975	10
+Cagliari Calcio	AC Milan	0:0	0:0	08.12.1974	00:00	1974	1975	10
+Bologna FC	AS Varese 1910	0:0	1:1	08.12.1974	00:00	1974	1975	10
+Ascoli Calcio	Sampdoria	1:0	1:0	08.12.1974	00:00	1974	1975	10
+SSC Napoli	Juventus	0:3	2:6	08.12.1974	00:00	1974	1975	10
+AC Milan	Bologna FC	1:0	3:0	15.12.1974	00:00	1974	1975	11
+AS Roma	AC Cesena	1:0	2:0	15.12.1974	00:00	1974	1975	11
+AS Varese 1910	Lazio Roma	0:1	0:1	15.12.1974	00:00	1974	1975	11
+Ternana Calcio	SSC Napoli	0:0	0:0	15.12.1974	00:00	1974	1975	11
+Ascoli Calcio	Lanerossi Vicenza	0:0	1:0	15.12.1974	00:00	1974	1975	11
+Juventus	Cagliari Calcio	0:0	1:0	15.12.1974	00:00	1974	1975	11
+ACF Fiorentina	Inter	1:0	1:1	15.12.1974	00:00	1974	1975	11
+Sampdoria	Torino FC	0:0	0:0	15.12.1974	00:00	1974	1975	11
+Inter	SSC Napoli	0:0	0:0	23.12.1974	00:00	1974	1975	12
+Ternana Calcio	Ascoli Calcio	0:0	1:0	23.12.1974	00:00	1974	1975	12
+Lanerossi Vicenza	AS Roma	0:1	0:2	23.12.1974	00:00	1974	1975	12
+Torino FC	AS Varese 1910	2:1	3:1	23.12.1974	00:00	1974	1975	12
+AC Cesena	AC Milan	0:0	1:0	23.12.1974	00:00	1974	1975	12
+Cagliari Calcio	ACF Fiorentina	2:1	2:1	23.12.1974	00:00	1974	1975	12
+Bologna FC	Sampdoria	1:0	2:2	23.12.1974	00:00	1974	1975	12
+Lazio Roma	Juventus	1:0	1:0	23.12.1974	00:00	1974	1975	12
+Lanerossi Vicenza	Inter	0:2	1:3	05.01.1975	00:00	1974	1975	13
+SSC Napoli	Torino FC	0:0	1:0	05.01.1975	00:00	1974	1975	13
+AS Roma	Sampdoria	0:0	1:0	05.01.1975	00:00	1974	1975	13
+AC Milan	AS Varese 1910	3:0	4:0	05.01.1975	00:00	1974	1975	13
+ACF Fiorentina	Lazio Roma	0:1	1:1	05.01.1975	00:00	1974	1975	13
+Ascoli Calcio	Bologna FC	1:2	1:3	05.01.1975	00:00	1974	1975	13
+AC Cesena	Cagliari Calcio	1:1	2:1	05.01.1975	00:00	1974	1975	13
+Juventus	Ternana Calcio	1:0	2:0	05.01.1975	00:00	1974	1975	13
+Juventus	ACF Fiorentina	0:0	0:0	12.01.1975	00:00	1974	1975	14
+Ternana Calcio	AS Roma	1:1	2:2	12.01.1975	00:00	1974	1975	14
+Lazio Roma	AC Milan	0:0	3:0	12.01.1975	00:00	1974	1975	14
+AS Varese 1910	Lanerossi Vicenza	1:0	1:1	12.01.1975	00:00	1974	1975	14
+Inter	Torino FC	0:0	1:0	12.01.1975	00:00	1974	1975	14
+Cagliari Calcio	Ascoli Calcio	1:0	2:0	12.01.1975	00:00	1974	1975	14
+Bologna FC	SSC Napoli	0:0	1:0	12.01.1975	00:00	1974	1975	14
+Sampdoria	AC Cesena	0:0	0:0	12.01.1975	00:00	1974	1975	14
+AC Milan	Ternana Calcio	1:1	3:1	26.01.1975	00:00	1974	1975	15
+AS Roma	Inter	1:0	1:0	26.01.1975	00:00	1974	1975	15
+Torino FC	Cagliari Calcio	0:0	1:0	26.01.1975	00:00	1974	1975	15
+SSC Napoli	AS Varese 1910	2:0	3:0	26.01.1975	00:00	1974	1975	15
+Lanerossi Vicenza	Juventus	0:1	1:2	26.01.1975	00:00	1974	1975	15
+ACF Fiorentina	Sampdoria	0:1	0:2	26.01.1975	00:00	1974	1975	15
+Ascoli Calcio	Lazio Roma	0:0	1:0	26.01.1975	00:00	1974	1975	15
+AC Cesena	Bologna FC	0:1	2:2	26.01.1975	00:00	1974	1975	15
+AC Cesena	Lazio Roma	0:0	0:0	02.02.1975	00:00	1974	1975	16
+AS Roma	Torino FC	0:1	0:1	02.02.1975	00:00	1974	1975	16
+Sampdoria	AC Milan	2:3	2:4	02.02.1975	00:00	1974	1975	16
+Lanerossi Vicenza	Cagliari Calcio	0:0	0:0	02.02.1975	00:00	1974	1975	16
+ACF Fiorentina	Ternana Calcio	0:0	2:0	02.02.1975	00:00	1974	1975	16
+Ascoli Calcio	SSC Napoli	1:0	1:1	02.02.1975	00:00	1974	1975	16
+Inter	AS Varese 1910	1:0	1:0	02.02.1975	00:00	1974	1975	16
+Juventus	Bologna FC	0:0	0:0	02.02.1975	00:00	1974	1975	16
+AC Milan	Juventus	0:0	0:2	09.02.1975	00:00	1974	1975	17
+Torino FC	Ascoli Calcio	0:0	1:0	09.02.1975	00:00	1974	1975	17
+SSC Napoli	AS Roma	1:0	2:0	09.02.1975	00:00	1974	1975	17
+AS Varese 1910	Sampdoria	2:0	4:0	09.02.1975	00:00	1974	1975	17
+Lazio Roma	Lanerossi Vicenza	1:0	1:0	09.02.1975	00:00	1974	1975	17
+Cagliari Calcio	Inter	0:0	0:1	09.02.1975	00:00	1974	1975	17
+Bologna FC	ACF Fiorentina	0:0	1:0	09.02.1975	00:00	1974	1975	17
+Ternana Calcio	AC Cesena	0:0	1:0	09.02.1975	00:00	1974	1975	17
+Juventus	AS Varese 1910	1:0	3:0	16.02.1975	00:00	1974	1975	18
+Sampdoria	Lazio Roma	0:2	0:2	16.02.1975	00:00	1974	1975	18
+AS Roma	Bologna FC	1:0	2:1	16.02.1975	00:00	1974	1975	18
+Lanerossi Vicenza	SSC Napoli	2:1	2:2	16.02.1975	00:00	1974	1975	18
+Inter	Ascoli Calcio	0:1	0:1	16.02.1975	00:00	1974	1975	18
+ACF Fiorentina	AC Milan	1:1	1:1	16.02.1975	00:00	1974	1975	18
+Cagliari Calcio	Ternana Calcio	1:0	2:0	16.02.1975	00:00	1974	1975	18
+AC Cesena	Torino FC	1:1	1:1	16.02.1975	00:00	1974	1975	18
+AC Milan	AS Roma	1:1	1:1	23.02.1975	00:00	1974	1975	19
+Torino FC	Lanerossi Vicenza	0:0	2:1	23.02.1975	00:00	1974	1975	19
+AS Varese 1910	Cagliari Calcio	0:1	0:1	23.02.1975	00:00	1974	1975	19
+SSC Napoli	Sampdoria	2:0	2:0	23.02.1975	00:00	1974	1975	19
+ACF Fiorentina	AC Cesena	2:0	2:2	23.02.1975	00:00	1974	1975	19
+Ascoli Calcio	Juventus	0:0	0:0	23.02.1975	00:00	1974	1975	19
+Bologna FC	Inter	2:1	2:1	23.02.1975	00:00	1974	1975	19
+Lazio Roma	Ternana Calcio	0:0	0:0	23.02.1975	00:00	1974	1975	19
+Juventus	Sampdoria	1:1	1:1	01.03.1975	00:00	1974	1975	20
+Ternana Calcio	Torino FC	1:1	2:1	01.03.1975	00:00	1974	1975	20
+AS Roma	AS Varese 1910	0:0	1:0	01.03.1975	00:00	1974	1975	20
+Cagliari Calcio	Bologna FC	0:1	1:1	01.03.1975	00:00	1974	1975	20
+Lanerossi Vicenza	AC Milan	1:0	2:0	01.03.1975	00:00	1974	1975	20
+Inter	Lazio Roma	1:0	3:1	01.03.1975	00:00	1974	1975	20
+AC Cesena	Ascoli Calcio	0:0	0:0	01.03.1975	00:00	1974	1975	20
+SSC Napoli	ACF Fiorentina	1:0	1:0	01.03.1975	00:00	1974	1975	20
+ACF Fiorentina	Torino FC	0:0	2:2	09.03.1975	00:00	1974	1975	21
+Sampdoria	Cagliari Calcio	0:0	0:0	09.03.1975	00:00	1974	1975	21
+AC Milan	Inter	2:0	3:0	09.03.1975	00:00	1974	1975	21
+AS Varese 1910	Ternana Calcio	0:0	1:1	09.03.1975	00:00	1974	1975	21
+Juventus	AC Cesena	1:0	1:0	09.03.1975	00:00	1974	1975	21
+Bologna FC	Lanerossi Vicenza	0:1	1:1	09.03.1975	00:00	1974	1975	21
+Ascoli Calcio	AS Roma	0:0	0:0	09.03.1975	00:00	1974	1975	21
+Lazio Roma	SSC Napoli	0:0	1:1	09.03.1975	00:00	1974	1975	21
+Ascoli Calcio	AC Milan	0:0	1:1	16.03.1975	00:00	1974	1975	22
+Cagliari Calcio	Lazio Roma	0:1	1:1	16.03.1975	00:00	1974	1975	22
+Inter	Sampdoria	0:0	0:0	16.03.1975	00:00	1974	1975	22
+SSC Napoli	AC Cesena	3:0	4:0	16.03.1975	00:00	1974	1975	22
+AS Roma	Juventus	0:0	1:0	16.03.1975	00:00	1974	1975	22
+Ternana Calcio	Lanerossi Vicenza	0:0	0:0	16.03.1975	00:00	1974	1975	22
+Torino FC	Bologna FC	1:1	3:3	16.03.1975	00:00	1974	1975	22
+AS Varese 1910	ACF Fiorentina	0:1	1:1	16.03.1975	00:00	1974	1975	22
+Lanerossi Vicenza	Sampdoria	1:1	1:1	23.03.1975	00:00	1974	1975	23
+AC Milan	Torino FC	2:0	2:0	23.03.1975	00:00	1974	1975	23
+Lazio Roma	AS Roma	0:0	0:1	23.03.1975	00:00	1974	1975	23
+ACF Fiorentina	Ascoli Calcio	0:0	0:0	23.03.1975	00:00	1974	1975	23
+AC Cesena	AS Varese 1910	1:1	1:1	23.03.1975	00:00	1974	1975	23
+Cagliari Calcio	SSC Napoli	0:0	1:1	23.03.1975	00:00	1974	1975	23
+Ternana Calcio	Bologna FC	0:0	0:0	23.03.1975	00:00	1974	1975	23
+Juventus	Inter	1:0	1:0	23.03.1975	00:00	1974	1975	23
+Inter	AC Cesena	0:0	0:1	31.03.1975	00:00	1974	1975	24
+Torino FC	Juventus	1:1	3:2	31.03.1975	00:00	1974	1975	24
+Sampdoria	Ternana Calcio	1:0	1:0	31.03.1975	00:00	1974	1975	24
+AS Roma	Cagliari Calcio	1:0	1:1	31.03.1975	00:00	1974	1975	24
+Lanerossi Vicenza	ACF Fiorentina	0:1	0:1	31.03.1975	00:00	1974	1975	24
+Bologna FC	Lazio Roma	1:1	1:2	31.03.1975	00:00	1974	1975	24
+Ascoli Calcio	AS Varese 1910	0:0	2:0	31.03.1975	00:00	1974	1975	24
+SSC Napoli	AC Milan	0:0	2:0	31.03.1975	00:00	1974	1975	24
+Sampdoria	Ascoli Calcio	0:0	0:0	06.04.1975	00:00	1974	1975	25
+Juventus	SSC Napoli	1:0	2:1	06.04.1975	00:00	1974	1975	25
+AS Varese 1910	Bologna FC	0:1	1:4	06.04.1975	00:00	1974	1975	25
+Ternana Calcio	Inter	0:0	0:0	06.04.1975	00:00	1974	1975	25
+Lazio Roma	Torino FC	0:2	1:5	06.04.1975	00:00	1974	1975	25
+AC Cesena	Lanerossi Vicenza	1:1	3:1	06.04.1975	00:00	1974	1975	25
+ACF Fiorentina	AS Roma	0:0	0:0	06.04.1975	00:00	1974	1975	25
+AC Milan	Cagliari Calcio	0:0	0:0	06.04.1975	00:00	1974	1975	25
+Inter	ACF Fiorentina	0:0	1:0	13.04.1975	00:00	1974	1975	26
+Torino FC	Sampdoria	1:0	1:1	13.04.1975	00:00	1974	1975	26
+SSC Napoli	Ternana Calcio	4:0	7:1	13.04.1975	00:00	1974	1975	26
+Lanerossi Vicenza	Ascoli Calcio	1:0	1:0	13.04.1975	00:00	1974	1975	26
+AC Cesena	AS Roma	0:0	0:0	13.04.1975	00:00	1974	1975	26
+Cagliari Calcio	Juventus	1:0	1:1	13.04.1975	00:00	1974	1975	26
+Bologna FC	AC Milan	0:0	0:0	13.04.1975	00:00	1974	1975	26
+Lazio Roma	AS Varese 1910	1:0	2:0	13.04.1975	00:00	1974	1975	26
+AS Roma	Lanerossi Vicenza	1:0	1:0	27.04.1975	00:00	1974	1975	27
+Ascoli Calcio	Ternana Calcio	1:0	1:0	27.04.1975	00:00	1974	1975	27
+Sampdoria	Bologna FC	0:0	1:0	27.04.1975	00:00	1974	1975	27
+AS Varese 1910	Torino FC	0:0	0:0	27.04.1975	00:00	1974	1975	27
+AC Milan	AC Cesena	1:0	3:0	27.04.1975	00:00	1974	1975	27
+ACF Fiorentina	Cagliari Calcio	1:0	2:1	27.04.1975	00:00	1974	1975	27
+SSC Napoli	Inter	1:0	3:2	27.04.1975	00:00	1974	1975	27
+Juventus	Lazio Roma	1:0	4:0	27.04.1975	00:00	1974	1975	27
+Lazio Roma	ACF Fiorentina	0:0	1:0	04.05.1975	00:00	1974	1975	28
+AS Varese 1910	AC Milan	0:1	0:1	04.05.1975	00:00	1974	1975	28
+Torino FC	SSC Napoli	0:0	1:1	04.05.1975	00:00	1974	1975	28
+Sampdoria	AS Roma	0:0	0:0	04.05.1975	00:00	1974	1975	28
+Inter	Lanerossi Vicenza	0:0	0:0	04.05.1975	00:00	1974	1975	28
+Cagliari Calcio	AC Cesena	1:1	2:2	04.05.1975	00:00	1974	1975	28
+Bologna FC	Ascoli Calcio	1:1	1:1	04.05.1975	00:00	1974	1975	28
+Ternana Calcio	Juventus	0:1	0:2	04.05.1975	00:00	1974	1975	28
+AC Cesena	Sampdoria	1:0	1:1	11.05.1975	00:00	1974	1975	29
+AS Roma	Ternana Calcio	1:1	4:2	11.05.1975	00:00	1974	1975	29
+Torino FC	Inter	1:1	2:3	11.05.1975	00:00	1974	1975	29
+SSC Napoli	Bologna FC	1:0	1:0	11.05.1975	00:00	1974	1975	29
+AC Milan	Lazio Roma	1:1	1:1	11.05.1975	00:00	1974	1975	29
+ACF Fiorentina	Juventus	2:0	4:1	11.05.1975	00:00	1974	1975	29
+Ascoli Calcio	Cagliari Calcio	0:0	0:0	11.05.1975	00:00	1974	1975	29
+Lanerossi Vicenza	AS Varese 1910	0:0	1:1	11.05.1975	00:00	1974	1975	29
+Ternana Calcio	AC Milan	1:0	1:3	18.05.1975	00:00	1974	1975	30
+Bologna FC	AC Cesena	2:0	3:2	18.05.1975	00:00	1974	1975	30
+Cagliari Calcio	Torino FC	0:0	0:0	18.05.1975	00:00	1974	1975	30
+Inter	AS Roma	0:2	0:2	18.05.1975	00:00	1974	1975	30
+Juventus	Lanerossi Vicenza	4:0	5:0	18.05.1975	00:00	1974	1975	30
+Lazio Roma	Ascoli Calcio	1:0	1:0	18.05.1975	00:00	1974	1975	30
+Sampdoria	ACF Fiorentina	2:2	3:4	18.05.1975	00:00	1974	1975	30
+AS Varese 1910	SSC Napoli	0:1	0:2	18.05.1975	00:00	1974	1975	30

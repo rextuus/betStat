@@ -1,0 +1,380 @@
+Waldhof Mannheim	Fortuna KÃ¶ln	0:1	1:1	27.07.1993	19:00	1993	1994	1
+TeBe Berlin	1. FSV Mainz 05	0:1	0:1	27.07.1993	19:00	1993	1994	1
+Hansa Rostock	TSV 1860 MÃ¼nchen	1:0	4:0	27.07.1993	19:30	1993	1994	1
+FC 08 Homburg	FC St. Pauli	1:0	2:1	27.07.1993	20:00	1993	1994	1
+FC Carl Zeiss Jena	Hertha BSC	0:1	1:1	28.07.1993	18:00	1993	1994	1
+VfL Wolfsburg	Bayer 05 Uerdingen	1:0	3:0	28.07.1993	18:30	1993	1994	1
+Stuttgarter Kickers	Hannover 96	0:0	0:0	28.07.1993	19:00	1993	1994	1
+SV Meppen	VfL Bochum	0:1	0:1	28.07.1993	19:00	1993	1994	1
+Chemnitzer FC	Wuppertaler SV	0:0	0:0	28.07.1993	19:00	1993	1994	1
+Rot-Weiss Essen	1. FC SaarbrÃ¼cken	2:0	3:1	28.07.1993	19:30	1993	1994	1
+Fortuna KÃ¶ln	VfL Wolfsburg	1:0	2:0	31.07.1993	15:30	1993	1994	2
+Bayer 05 Uerdingen	FC 08 Homburg	0:1	0:1	31.07.1993	15:30	1993	1994	2
+1. FSV Mainz 05	FC Carl Zeiss Jena	1:0	2:0	31.07.1993	15:30	1993	1994	2
+Hannover 96	TeBe Berlin	0:0	0:1	31.07.1993	15:30	1993	1994	2
+1. FC SaarbrÃ¼cken	Stuttgarter Kickers	0:0	3:0	31.07.1993	15:30	1993	1994	2
+TSV 1860 MÃ¼nchen	Rot-Weiss Essen	1:0	1:0	31.07.1993	15:30	1993	1994	2
+VfL Bochum	Hansa Rostock	1:0	2:0	31.07.1993	15:30	1993	1994	2
+FC St. Pauli	Chemnitzer FC	2:0	3:0	31.07.1993	15:30	1993	1994	2
+Hertha BSC	Waldhof Mannheim	1:0	1:0	31.07.1993	15:30	1993	1994	2
+Wuppertaler SV	SV Meppen	0:1	0:1	31.07.1993	15:30	1993	1994	2
+FC Carl Zeiss Jena	Waldhof Mannheim	0:1	2:2	06.08.1993	18:00	1993	1994	3
+TeBe Berlin	1. FC SaarbrÃ¼cken	0:0	0:4	06.08.1993	19:00	1993	1994	3
+Chemnitzer FC	Bayer 05 Uerdingen	0:3	1:4	06.08.1993	19:00	1993	1994	3
+FC 08 Homburg	Fortuna KÃ¶ln	0:0	1:2	07.08.1993	15:30	1993	1994	3
+Stuttgarter Kickers	TSV 1860 MÃ¼nchen	0:2	0:2	07.08.1993	15:30	1993	1994	3
+1. FSV Mainz 05	Hannover 96	0:0	1:0	07.08.1993	15:30	1993	1994	3
+Hansa Rostock	Wuppertaler SV	0:0	0:1	07.08.1993	15:30	1993	1994	3
+VfL Wolfsburg	Hertha BSC	1:0	1:0	08.08.1993	15:00	1993	1994	3
+SV Meppen	FC St. Pauli	1:0	1:1	08.08.1993	15:00	1993	1994	3
+Rot-Weiss Essen	VfL Bochum	0:1	0:2	08.08.1993	15:00	1993	1994	3
+VfL Bochum	Stuttgarter Kickers	1:0	3:1	13.08.1993	20:00	1993	1994	4
+TSV 1860 MÃ¼nchen	TeBe Berlin	1:1	2:1	13.08.1993	20:00	1993	1994	4
+Waldhof Mannheim	VfL Wolfsburg	0:0	1:1	14.08.1993	15:30	1993	1994	4
+Hannover 96	FC Carl Zeiss Jena	0:0	1:0	14.08.1993	15:30	1993	1994	4
+Wuppertaler SV	Rot-Weiss Essen	0:0	0:0	14.08.1993	15:30	1993	1994	4
+Fortuna KÃ¶ln	Chemnitzer FC	0:1	0:1	14.08.1993	15:30	1993	1994	4
+Bayer 05 Uerdingen	SV Meppen	0:0	1:0	15.08.1993	15:00	1993	1994	4
+FC St. Pauli	Hansa Rostock	1:2	2:4	15.08.1993	15:00	1993	1994	4
+1. FC SaarbrÃ¼cken	1. FSV Mainz 05	2:0	2:0	15.08.1993	15:00	1993	1994	4
+Hertha BSC	FC 08 Homburg	0:0	1:0	17.08.1993	19:30	1993	1994	4
+Hansa Rostock	Bayer 05 Uerdingen	2:0	2:0	20.08.1993	19:30	1993	1994	5
+Stuttgarter Kickers	Wuppertaler SV	1:0	1:0	21.08.1993	15:30	1993	1994	5
+FC 08 Homburg	Waldhof Mannheim	2:0	3:0	21.08.1993	15:30	1993	1994	5
+FC Carl Zeiss Jena	VfL Wolfsburg	1:0	2:0	21.08.1993	15:30	1993	1994	5
+Hannover 96	1. FC SaarbrÃ¼cken	1:1	4:1	21.08.1993	15:30	1993	1994	5
+SV Meppen	Fortuna KÃ¶ln	3:1	4:2	21.08.1993	15:30	1993	1994	5
+TeBe Berlin	VfL Bochum	0:0	1:1	21.08.1993	15:30	1993	1994	5
+Chemnitzer FC	Hertha BSC	1:1	1:1	21.08.1993	15:30	1993	1994	5
+Rot-Weiss Essen	FC St. Pauli	0:0	0:0	22.08.1993	15:00	1993	1994	5
+1. FSV Mainz 05	TSV 1860 MÃ¼nchen	0:0	1:1	22.08.1993	17:45	1993	1994	5
+Wuppertaler SV	TeBe Berlin	1:0	1:0	27.08.1993	19:30	1993	1994	6
+1. FC SaarbrÃ¼cken	FC Carl Zeiss Jena	0:0	2:1	27.08.1993	19:30	1993	1994	6
+VfL Wolfsburg	FC 08 Homburg	0:0	2:0	28.08.1993	15:30	1993	1994	6
+TSV 1860 MÃ¼nchen	Hannover 96	1:0	2:2	28.08.1993	15:30	1993	1994	6
+FC St. Pauli	Stuttgarter Kickers	2:0	3:0	28.08.1993	15:30	1993	1994	6
+Fortuna KÃ¶ln	Hansa Rostock	0:0	0:0	28.08.1993	15:30	1993	1994	6
+VfL Bochum	1. FSV Mainz 05	1:0	2:0	29.08.1993	15:00	1993	1994	6
+Waldhof Mannheim	Chemnitzer FC	0:0	1:0	29.08.1993	15:00	1993	1994	6
+Hertha BSC	SV Meppen	0:0	1:1	29.08.1993	15:00	1993	1994	6
+Bayer 05 Uerdingen	Rot-Weiss Essen	0:0	2:0	29.08.1993	18:00	1993	1994	6
+TeBe Berlin	FC St. Pauli	0:0	0:0	02.09.1993	20:00	1993	1994	7
+FC Carl Zeiss Jena	FC 08 Homburg	0:0	2:1	03.09.1993	18:00	1993	1994	7
+Chemnitzer FC	VfL Wolfsburg	0:0	1:1	03.09.1993	19:00	1993	1994	7
+Rot-Weiss Essen	Fortuna KÃ¶ln	1:0	3:0	04.09.1993	15:30	1993	1994	7
+1. FC SaarbrÃ¼cken	TSV 1860 MÃ¼nchen	0:1	0:2	04.09.1993	15:30	1993	1994	7
+Hansa Rostock	Hertha BSC	2:0	2:2	04.09.1993	15:30	1993	1994	7
+SV Meppen	Waldhof Mannheim	0:0	1:0	05.09.1993	15:00	1993	1994	7
+Hannover 96	VfL Bochum	0:0	0:0	05.09.1993	15:00	1993	1994	7
+Stuttgarter Kickers	Bayer 05 Uerdingen	0:0	0:2	05.09.1993	15:00	1993	1994	7
+1. FSV Mainz 05	Wuppertaler SV	1:1	1:1	07.09.1993	18:00	1993	1994	7
+Wuppertaler SV	Hannover 96	0:0	0:0	17.09.1993	19:30	1993	1994	8
+FC St. Pauli	1. FSV Mainz 05	0:0	1:0	17.09.1993	20:00	1993	1994	8
+Fortuna KÃ¶ln	Stuttgarter Kickers	1:1	2:1	17.09.1993	20:00	1993	1994	8
+Bayer 05 Uerdingen	TeBe Berlin	1:1	3:1	18.09.1993	15:30	1993	1994	8
+VfL Wolfsburg	SV Meppen	2:1	3:2	18.09.1993	15:30	1993	1994	8
+Hertha BSC	Rot-Weiss Essen	0:3	3:4	18.09.1993	15:30	1993	1994	8
+Waldhof Mannheim	Hansa Rostock	0:1	3:3	19.09.1993	15:00	1993	1994	8
+TSV 1860 MÃ¼nchen	FC Carl Zeiss Jena	1:0	2:0	19.09.1993	15:00	1993	1994	8
+FC 08 Homburg	Chemnitzer FC	2:0	4:0	19.09.1993	15:00	1993	1994	8
+VfL Bochum	1. FC SaarbrÃ¼cken	0:0	4:0	19.09.1993	18:00	1993	1994	8
+1. FC SaarbrÃ¼cken	Wuppertaler SV	0:0	1:0	24.09.1993	19:30	1993	1994	9
+Stuttgarter Kickers	Hertha BSC	1:0	1:1	25.09.1993	15:30	1993	1994	9
+Hannover 96	FC St. Pauli	2:1	4:1	25.09.1993	15:30	1993	1994	9
+Hansa Rostock	VfL Wolfsburg	1:0	2:0	25.09.1993	15:30	1993	1994	9
+TSV 1860 MÃ¼nchen	VfL Bochum	1:0	4:1	25.09.1993	15:30	1993	1994	9
+FC Carl Zeiss Jena	Chemnitzer FC	0:1	0:2	26.09.1993	15:00	1993	1994	9
+SV Meppen	FC 08 Homburg	1:1	2:1	26.09.1993	15:00	1993	1994	9
+TeBe Berlin	Fortuna KÃ¶ln	0:0	0:1	26.09.1993	15:00	1993	1994	9
+Rot-Weiss Essen	Waldhof Mannheim	1:0	2:0	10.11.1993	19:30	1993	1994	9
+1. FSV Mainz 05	Bayer 05 Uerdingen	1:0	1:1	17.11.1993	14:00	1993	1994	9
+Fortuna KÃ¶ln	1. FSV Mainz 05	0:1	1:2	30.09.1993	20:00	1993	1994	10
+Wuppertaler SV	TSV 1860 MÃ¼nchen	2:1	5:2	01.10.1993	19:30	1993	1994	10
+VfL Bochum	FC Carl Zeiss Jena	2:0	3:0	01.10.1993	20:00	1993	1994	10
+FC 08 Homburg	Hansa Rostock	0:1	0:2	01.10.1993	20:00	1993	1994	10
+Waldhof Mannheim	Stuttgarter Kickers	0:0	0:1	02.10.1993	15:00	1993	1994	10
+VfL Wolfsburg	Rot-Weiss Essen	1:1	2:2	02.10.1993	15:00	1993	1994	10
+Bayer 05 Uerdingen	Hannover 96	0:0	3:2	02.10.1993	15:30	1993	1994	10
+Chemnitzer FC	SV Meppen	0:0	2:1	02.10.1993	15:30	1993	1994	10
+FC St. Pauli	1. FC SaarbrÃ¼cken	1:0	1:1	03.10.1993	15:00	1993	1994	10
+Hertha BSC	TeBe Berlin	1:0	3:0	03.10.1993	15:00	1993	1994	10
+Rot-Weiss Essen	FC 08 Homburg	2:1	3:3	08.10.1993	19:30	1993	1994	11
+VfL Bochum	Wuppertaler SV	1:0	1:0	08.10.1993	20:00	1993	1994	11
+TSV 1860 MÃ¼nchen	FC St. Pauli	1:0	1:0	09.10.1993	15:00	1993	1994	11
+Stuttgarter Kickers	VfL Wolfsburg	0:0	0:0	09.10.1993	15:00	1993	1994	11
+Hannover 96	Fortuna KÃ¶ln	0:1	0:2	09.10.1993	15:30	1993	1994	11
+Hansa Rostock	Chemnitzer FC	0:0	2:0	09.10.1993	15:30	1993	1994	11
+TeBe Berlin	Waldhof Mannheim	0:0	0:1	09.10.1993	15:30	1993	1994	11
+FC Carl Zeiss Jena	SV Meppen	0:0	0:0	10.10.1993	15:00	1993	1994	11
+1. FSV Mainz 05	Hertha BSC	0:0	1:1	10.10.1993	15:00	1993	1994	11
+1. FC SaarbrÃ¼cken	Bayer 05 Uerdingen	0:0	2:1	10.10.1993	15:00	1993	1994	11
+Wuppertaler SV	FC Carl Zeiss Jena	0:2	0:5	15.10.1993	19:30	1993	1994	12
+FC 08 Homburg	Stuttgarter Kickers	3:0	3:2	15.10.1993	20:00	1993	1994	12
+Waldhof Mannheim	1. FSV Mainz 05	0:0	1:0	16.10.1993	15:00	1993	1994	12
+Bayer 05 Uerdingen	TSV 1860 MÃ¼nchen	1:0	1:0	16.10.1993	15:30	1993	1994	12
+Chemnitzer FC	Rot-Weiss Essen	1:0	2:1	16.10.1993	15:30	1993	1994	12
+Hertha BSC	Hannover 96	0:0	0:0	16.10.1993	15:30	1993	1994	12
+SV Meppen	Hansa Rostock	1:0	4:1	17.10.1993	15:00	1993	1994	12
+VfL Wolfsburg	TeBe Berlin	0:1	2:1	17.10.1993	15:00	1993	1994	12
+Fortuna KÃ¶ln	1. FC SaarbrÃ¼cken	4:2	7:4	17.10.1993	15:00	1993	1994	12
+FC St. Pauli	VfL Bochum	0:1	1:1	18.10.1993	20:15	1993	1994	12
+Wuppertaler SV	FC St. Pauli	1:0	2:1	22.10.1993	19:30	1993	1994	13
+TeBe Berlin	FC 08 Homburg	0:0	0:1	23.10.1993	14:30	1993	1994	13
+VfL Bochum	Bayer 05 Uerdingen	0:0	0:0	23.10.1993	15:30	1993	1994	13
+FC Carl Zeiss Jena	Hansa Rostock	0:0	0:0	23.10.1993	15:30	1993	1994	13
+TSV 1860 MÃ¼nchen	Fortuna KÃ¶ln	1:1	2:1	23.10.1993	15:30	1993	1994	13
+Rot-Weiss Essen	SV Meppen	4:0	4:1	23.10.1993	15:30	1993	1994	13
+1. FC SaarbrÃ¼cken	Hertha BSC	1:1	4:2	23.10.1993	15:30	1993	1994	13
+1. FSV Mainz 05	VfL Wolfsburg	1:1	1:2	24.10.1993	15:00	1993	1994	13
+Hannover 96	Waldhof Mannheim	0:1	1:1	24.10.1993	15:00	1993	1994	13
+Stuttgarter Kickers	Chemnitzer FC	0:0	2:0	17.11.1993	14:00	1993	1994	13
+FC 08 Homburg	1. FSV Mainz 05	1:0	1:0	29.10.1993	20:00	1993	1994	14
+SV Meppen	Stuttgarter Kickers	0:0	2:2	30.10.1993	14:30	1993	1994	14
+Waldhof Mannheim	1. FC SaarbrÃ¼cken	1:0	3:0	30.10.1993	14:30	1993	1994	14
+VfL Wolfsburg	Hannover 96	0:0	0:0	30.10.1993	14:30	1993	1994	14
+Bayer 05 Uerdingen	Wuppertaler SV	1:1	1:1	30.10.1993	15:30	1993	1994	14
+Fortuna KÃ¶ln	VfL Bochum	1:2	1:2	30.10.1993	15:30	1993	1994	14
+Hertha BSC	TSV 1860 MÃ¼nchen	0:0	0:1	30.10.1993	15:30	1993	1994	14
+Chemnitzer FC	TeBe Berlin	0:0	1:0	31.10.1993	15:00	1993	1994	14
+Hansa Rostock	Rot-Weiss Essen	0:1	0:2	31.10.1993	15:00	1993	1994	14
+FC St. Pauli	FC Carl Zeiss Jena	0:1	2:1	31.10.1993	15:00	1993	1994	14
+FC St. Pauli	Bayer 05 Uerdingen	0:0	0:0	05.11.1993	20:00	1993	1994	15
+1. FSV Mainz 05	Chemnitzer FC	5:0	5:1	06.11.1993	14:30	1993	1994	15
+Hannover 96	FC 08 Homburg	1:1	1:3	06.11.1993	15:30	1993	1994	15
+1. FC SaarbrÃ¼cken	VfL Wolfsburg	0:1	2:1	06.11.1993	15:30	1993	1994	15
+Wuppertaler SV	Fortuna KÃ¶ln	1:2	1:2	06.11.1993	15:30	1993	1994	15
+Stuttgarter Kickers	Hansa Rostock	1:2	3:2	07.11.1993	14:00	1993	1994	15
+FC Carl Zeiss Jena	Rot-Weiss Essen	0:0	2:0	07.11.1993	15:00	1993	1994	15
+TSV 1860 MÃ¼nchen	Waldhof Mannheim	1:1	3:1	07.11.1993	15:00	1993	1994	15
+TeBe Berlin	SV Meppen	0:1	1:1	07.11.1993	15:00	1993	1994	15
+VfL Bochum	Hertha BSC	2:0	3:1	08.11.1993	20:15	1993	1994	15
+Bayer 05 Uerdingen	FC Carl Zeiss Jena	0:0	0:0	12.11.1993	20:00	1993	1994	16
+Fortuna KÃ¶ln	FC St. Pauli	0:1	1:2	12.11.1993	20:00	1993	1994	16
+VfL Wolfsburg	TSV 1860 MÃ¼nchen	0:0	0:0	13.11.1993	14:15	1993	1994	16
+Chemnitzer FC	Hannover 96	1:0	1:0	13.11.1993	15:30	1993	1994	16
+Hansa Rostock	TeBe Berlin	1:0	2:1	13.11.1993	15:30	1993	1994	16
+Hertha BSC	Wuppertaler SV	0:2	0:3	13.11.1993	15:30	1993	1994	16
+SV Meppen	1. FSV Mainz 05	1:0	1:1	14.11.1993	14:15	1993	1994	16
+Waldhof Mannheim	VfL Bochum	0:0	1:0	14.11.1993	14:15	1993	1994	16
+Rot-Weiss Essen	Stuttgarter Kickers	0:0	0:0	14.11.1993	15:00	1993	1994	16
+FC 08 Homburg	1. FC SaarbrÃ¼cken	2:0	2:2	14.11.1993	18:00	1993	1994	16
+VfL Bochum	VfL Wolfsburg	2:0	2:0	19.11.1993	20:00	1993	1994	17
+Stuttgarter Kickers	FC Carl Zeiss Jena	0:0	0:2	20.11.1993	14:15	1993	1994	17
+1. FC SaarbrÃ¼cken	Chemnitzer FC	1:0	1:0	20.11.1993	15:30	1993	1994	17
+Bayer 05 Uerdingen	Fortuna KÃ¶ln	0:0	0:2	20.11.1993	15:30	1993	1994	17
+Hannover 96	SV Meppen	1:0	1:1	20.11.1993	15:30	1993	1994	17
+TSV 1860 MÃ¼nchen	FC 08 Homburg	1:0	1:0	20.11.1993	15:30	1993	1994	17
+1. FSV Mainz 05	Hansa Rostock	1:1	3:1	21.11.1993	14:15	1993	1994	17
+TeBe Berlin	Rot-Weiss Essen	2:1	2:2	21.11.1993	15:00	1993	1994	17
+FC St. Pauli	Hertha BSC	1:0	1:0	21.11.1993	15:00	1993	1994	17
+Wuppertaler SV	Waldhof Mannheim	0:1	1:1	21.11.1993	18:00	1993	1994	17
+Rot-Weiss Essen	1. FSV Mainz 05	0:0	0:0	26.11.1993	19:30	1993	1994	18
+Waldhof Mannheim	FC St. Pauli	0:0	0:0	27.11.1993	14:15	1993	1994	18
+VfL Wolfsburg	Wuppertaler SV	1:1	2:1	27.11.1993	14:15	1993	1994	18
+FC Carl Zeiss Jena	Fortuna KÃ¶ln	2:1	2:2	27.11.1993	15:30	1993	1994	18
+FC 08 Homburg	VfL Bochum	0:0	0:0	27.11.1993	15:30	1993	1994	18
+SV Meppen	1. FC SaarbrÃ¼cken	1:0	3:0	28.11.1993	14:15	1993	1994	18
+Stuttgarter Kickers	TeBe Berlin	2:0	3:1	28.11.1993	14:15	1993	1994	18
+Chemnitzer FC	TSV 1860 MÃ¼nchen	1:0	1:1	28.11.1993	15:00	1993	1994	18
+Hertha BSC	Bayer 05 Uerdingen	1:1	1:1	28.11.1993	15:00	1993	1994	18
+Hansa Rostock	Hannover 96	1:0	3:1	16.02.1994	19:00	1993	1994	18
+Bayer 05 Uerdingen	Waldhof Mannheim	0:1	1:2	03.12.1993	20:00	1993	1994	19
+FC St. Pauli	VfL Wolfsburg	0:0	1:0	03.12.1993	20:00	1993	1994	19
+1. FSV Mainz 05	Stuttgarter Kickers	3:0	4:0	04.12.1993	14:00	1993	1994	19
+TeBe Berlin	FC Carl Zeiss Jena	0:0	0:0	04.12.1993	15:30	1993	1994	19
+VfL Bochum	Chemnitzer FC	1:1	3:2	05.12.1993	15:00	1993	1994	19
+TSV 1860 MÃ¼nchen	SV Meppen	1:1	1:2	05.12.1993	15:00	1993	1994	19
+1. FC SaarbrÃ¼cken	Hansa Rostock	0:0	4:0	05.12.1993	15:00	1993	1994	19
+Wuppertaler SV	FC 08 Homburg	0:1	1:1	05.12.1993	18:00	1993	1994	19
+Hannover 96	Rot-Weiss Essen	1:0	2:0	07.12.1993	20:00	1993	1994	19
+Fortuna KÃ¶ln	Hertha BSC	1:0	1:3	11.12.1993	15:30	1993	1994	19
+1. FC SaarbrÃ¼cken	Rot-Weiss Essen	1:1	3:1	18.02.1994	19:30	1993	1994	20
+FC St. Pauli	FC 08 Homburg	1:0	3:0	18.02.1994	20:00	1993	1994	20
+1. FSV Mainz 05	TeBe Berlin	0:2	1:4	19.02.1994	15:00	1993	1994	20
+VfL Bochum	SV Meppen	2:0	4:0	19.02.1994	15:30	1993	1994	20
+Hertha BSC	FC Carl Zeiss Jena	0:0	0:0	19.02.1994	15:30	1993	1994	20
+Hannover 96	Stuttgarter Kickers	0:0	1:0	19.02.1994	15:30	1993	1994	20
+Fortuna KÃ¶ln	Waldhof Mannheim	0:0	0:0	20.02.1994	15:00	1993	1994	20
+Bayer 05 Uerdingen	VfL Wolfsburg	0:0	0:0	20.02.1994	15:00	1993	1994	20
+Wuppertaler SV	Chemnitzer FC	0:1	2:2	22.03.1994	19:30	1993	1994	20
+TSV 1860 MÃ¼nchen	Hansa Rostock	0:0	1:2	24.03.1994	20:00	1993	1994	20
+Waldhof Mannheim	Hertha BSC	1:0	2:2	25.02.1994	19:30	1993	1994	21
+Stuttgarter Kickers	1. FC SaarbrÃ¼cken	2:1	2:2	26.02.1994	15:00	1993	1994	21
+TeBe Berlin	Hannover 96	1:0	1:2	26.02.1994	15:30	1993	1994	21
+FC 08 Homburg	Bayer 05 Uerdingen	0:1	0:1	27.02.1994	14:30	1993	1994	21
+Hansa Rostock	VfL Bochum	0:1	2:1	27.02.1994	15:00	1993	1994	21
+Chemnitzer FC	FC St. Pauli	0:0	0:0	01.03.1994	20:00	1993	1994	21
+FC Carl Zeiss Jena	1. FSV Mainz 05	1:0	2:0	08.03.1994	18:00	1993	1994	21
+VfL Wolfsburg	Fortuna KÃ¶ln	1:0	2:1	19.04.1994	18:00	1993	1994	21
+Rot-Weiss Essen	TSV 1860 MÃ¼nchen	1:2	1:4	19.04.1994	19:30	1993	1994	21
+SV Meppen	Wuppertaler SV	0:1	2:1	11.05.1994	18:30	1993	1994	21
+Waldhof Mannheim	FC Carl Zeiss Jena	2:0	2:0	04.03.1994	19:30	1993	1994	22
+1. FC SaarbrÃ¼cken	TeBe Berlin	0:0	2:2	04.03.1994	19:30	1993	1994	22
+Fortuna KÃ¶ln	FC 08 Homburg	2:0	2:1	04.03.1994	20:00	1993	1994	22
+Hannover 96	1. FSV Mainz 05	0:0	1:1	05.03.1994	15:30	1993	1994	22
+Hertha BSC	VfL Wolfsburg	2:0	4:0	05.03.1994	15:30	1993	1994	22
+Bayer 05 Uerdingen	Chemnitzer FC	0:0	2:0	05.03.1994	15:30	1993	1994	22
+VfL Bochum	Rot-Weiss Essen	0:0	2:0	05.03.1994	15:30	1993	1994	22
+Wuppertaler SV	Hansa Rostock	2:1	4:1	06.03.1994	15:00	1993	1994	22
+TSV 1860 MÃ¼nchen	Stuttgarter Kickers	1:2	1:3	06.03.1994	15:00	1993	1994	22
+FC St. Pauli	SV Meppen	1:0	1:0	07.03.1994	20:00	1993	1994	22
+FC 08 Homburg	Hertha BSC	1:0	1:1	11.03.1994	20:00	1993	1994	23
+TeBe Berlin	TSV 1860 MÃ¼nchen	0:0	1:0	12.03.1994	15:30	1993	1994	23
+SV Meppen	Bayer 05 Uerdingen	0:1	0:2	12.03.1994	15:30	1993	1994	23
+VfL Wolfsburg	Waldhof Mannheim	1:0	2:2	12.03.1994	15:30	1993	1994	23
+Rot-Weiss Essen	Wuppertaler SV	0:0	0:0	12.03.1994	15:30	1993	1994	23
+Chemnitzer FC	Fortuna KÃ¶ln	0:0	1:0	12.03.1994	15:30	1993	1994	23
+Stuttgarter Kickers	VfL Bochum	0:0	0:0	13.03.1994	15:00	1993	1994	23
+FC Carl Zeiss Jena	Hannover 96	0:0	2:2	13.03.1994	15:00	1993	1994	23
+1. FSV Mainz 05	1. FC SaarbrÃ¼cken	1:0	1:1	13.03.1994	15:00	1993	1994	23
+Hansa Rostock	FC St. Pauli	0:0	0:1	18.04.1994	20:00	1993	1994	23
+FC St. Pauli	Rot-Weiss Essen	1:0	1:0	18.03.1994	20:00	1993	1994	24
+VfL Bochum	TeBe Berlin	3:0	5:1	18.03.1994	20:00	1993	1994	24
+Fortuna KÃ¶ln	SV Meppen	1:1	1:1	19.03.1994	15:30	1993	1994	24
+TSV 1860 MÃ¼nchen	1. FSV Mainz 05	0:1	0:2	19.03.1994	15:30	1993	1994	24
+1. FC SaarbrÃ¼cken	Hannover 96	0:1	0:4	19.03.1994	15:30	1993	1994	24
+Hertha BSC	Chemnitzer FC	1:1	1:2	19.03.1994	15:30	1993	1994	24
+Waldhof Mannheim	FC 08 Homburg	0:1	2:1	19.03.1994	15:30	1993	1994	24
+VfL Wolfsburg	FC Carl Zeiss Jena	1:1	5:1	20.03.1994	15:00	1993	1994	24
+Bayer 05 Uerdingen	Hansa Rostock	1:1	2:1	20.03.1994	15:00	1993	1994	24
+Wuppertaler SV	Stuttgarter Kickers	0:0	0:1	03.05.1994	19:30	1993	1994	24
+Chemnitzer FC	Waldhof Mannheim	0:0	0:0	26.03.1994	15:30	1993	1994	25
+FC 08 Homburg	VfL Wolfsburg	0:0	0:0	26.03.1994	15:30	1993	1994	25
+Stuttgarter Kickers	FC St. Pauli	1:1	1:1	26.03.1994	15:30	1993	1994	25
+FC Carl Zeiss Jena	1. FC SaarbrÃ¼cken	1:1	1:2	26.03.1994	15:30	1993	1994	25
+TeBe Berlin	Wuppertaler SV	1:0	1:1	26.03.1994	15:30	1993	1994	25
+1. FSV Mainz 05	VfL Bochum	2:2	3:2	27.03.1994	15:00	1993	1994	25
+Hannover 96	TSV 1860 MÃ¼nchen	0:2	1:4	27.03.1994	15:00	1993	1994	25
+Hansa Rostock	Fortuna KÃ¶ln	0:1	1:1	27.03.1994	15:00	1993	1994	25
+SV Meppen	Hertha BSC	0:0	1:0	27.03.1994	15:00	1993	1994	25
+Rot-Weiss Essen	Bayer 05 Uerdingen	0:1	0:2	29.03.1994	18:00	1993	1994	25
+TSV 1860 MÃ¼nchen	1. FC SaarbrÃ¼cken	1:0	2:0	31.03.1994	20:00	1993	1994	26
+Waldhof Mannheim	SV Meppen	1:1	2:1	02.04.1994	15:30	1993	1994	26
+FC 08 Homburg	FC Carl Zeiss Jena	0:0	2:1	02.04.1994	15:30	1993	1994	26
+Wuppertaler SV	1. FSV Mainz 05	0:1	1:3	02.04.1994	15:30	1993	1994	26
+VfL Wolfsburg	Chemnitzer FC	2:0	2:0	02.04.1994	15:30	1993	1994	26
+Hertha BSC	Hansa Rostock	0:0	0:1	02.04.1994	15:30	1993	1994	26
+Fortuna KÃ¶ln	Rot-Weiss Essen	0:0	0:1	02.04.1994	15:30	1993	1994	26
+Bayer 05 Uerdingen	Stuttgarter Kickers	1:0	1:1	02.04.1994	15:30	1993	1994	26
+FC St. Pauli	TeBe Berlin	0:1	2:1	02.04.1994	15:30	1993	1994	26
+VfL Bochum	Hannover 96	2:1	2:2	03.04.1994	15:00	1993	1994	26
+SV Meppen	VfL Wolfsburg	1:0	2:1	05.04.1994	17:45	1993	1994	27
+1. FSV Mainz 05	FC St. Pauli	0:0	0:1	05.04.1994	17:45	1993	1994	27
+FC Carl Zeiss Jena	TSV 1860 MÃ¼nchen	0:1	1:1	05.04.1994	19:00	1993	1994	27
+TeBe Berlin	Bayer 05 Uerdingen	0:0	1:1	05.04.1994	19:30	1993	1994	27
+Stuttgarter Kickers	Fortuna KÃ¶ln	0:0	0:0	06.04.1994	17:45	1993	1994	27
+Chemnitzer FC	FC 08 Homburg	0:1	2:1	06.04.1994	19:00	1993	1994	27
+1. FC SaarbrÃ¼cken	VfL Bochum	0:0	0:1	06.04.1994	19:30	1993	1994	27
+Hansa Rostock	Waldhof Mannheim	1:0	1:0	06.04.1994	19:30	1993	1994	27
+Rot-Weiss Essen	Hertha BSC	0:0	2:0	06.04.1994	19:30	1993	1994	27
+Hannover 96	Wuppertaler SV	1:0	2:0	06.04.1994	20:00	1993	1994	27
+Bayer 05 Uerdingen	1. FSV Mainz 05	1:0	3:0	08.04.1994	20:00	1993	1994	28
+Fortuna KÃ¶ln	TeBe Berlin	1:1	3:1	09.04.1994	15:00	1993	1994	28
+FC 08 Homburg	SV Meppen	1:0	5:0	09.04.1994	15:30	1993	1994	28
+Waldhof Mannheim	Rot-Weiss Essen	1:1	2:2	09.04.1994	15:30	1993	1994	28
+Hertha BSC	Stuttgarter Kickers	0:0	0:0	09.04.1994	15:30	1993	1994	28
+Wuppertaler SV	1. FC SaarbrÃ¼cken	1:0	4:0	09.04.1994	15:30	1993	1994	28
+Chemnitzer FC	FC Carl Zeiss Jena	0:0	0:0	10.04.1994	15:00	1993	1994	28
+FC St. Pauli	Hannover 96	1:0	2:1	10.04.1994	15:00	1993	1994	28
+VfL Wolfsburg	Hansa Rostock	1:1	1:1	10.04.1994	15:00	1993	1994	28
+VfL Bochum	TSV 1860 MÃ¼nchen	2:0	2:0	10.04.1994	17:45	1993	1994	28
+Rot-Weiss Essen	VfL Wolfsburg	0:1	0:1	15.04.1994	19:30	1993	1994	29
+1. FC SaarbrÃ¼cken	FC St. Pauli	0:0	1:1	15.04.1994	19:30	1993	1994	29
+Hansa Rostock	FC 08 Homburg	2:0	3:2	15.04.1994	19:30	1993	1994	29
+Hannover 96	Bayer 05 Uerdingen	1:1	2:1	16.04.1994	15:30	1993	1994	29
+1. FSV Mainz 05	Fortuna KÃ¶ln	0:2	0:3	16.04.1994	15:30	1993	1994	29
+TSV 1860 MÃ¼nchen	Wuppertaler SV	1:0	3:1	16.04.1994	15:30	1993	1994	29
+Stuttgarter Kickers	Waldhof Mannheim	2:1	4:2	17.04.1994	15:00	1993	1994	29
+SV Meppen	Chemnitzer FC	2:0	2:1	17.04.1994	15:00	1993	1994	29
+TeBe Berlin	Hertha BSC	0:1	1:2	03.05.1994	19:30	1993	1994	29
+FC Carl Zeiss Jena	VfL Bochum	0:0	0:0	17.05.1994	19:30	1993	1994	29
+Chemnitzer FC	Hansa Rostock	2:0	3:0	22.04.1994	19:00	1993	1994	30
+Bayer 05 Uerdingen	1. FC SaarbrÃ¼cken	0:0	1:3	22.04.1994	20:00	1993	1994	30
+Wuppertaler SV	VfL Bochum	2:0	3:1	23.04.1994	15:30	1993	1994	30
+Fortuna KÃ¶ln	Hannover 96	2:1	4:1	23.04.1994	15:30	1993	1994	30
+FC 08 Homburg	Rot-Weiss Essen	1:0	1:1	23.04.1994	15:30	1993	1994	30
+VfL Wolfsburg	Stuttgarter Kickers	0:0	1:0	23.04.1994	15:30	1993	1994	30
+Waldhof Mannheim	TeBe Berlin	2:0	2:2	23.04.1994	15:30	1993	1994	30
+SV Meppen	FC Carl Zeiss Jena	1:1	1:1	24.04.1994	15:00	1993	1994	30
+Hertha BSC	1. FSV Mainz 05	2:0	5:0	24.04.1994	18:00	1993	1994	30
+FC St. Pauli	TSV 1860 MÃ¼nchen	2:0	2:1	25.04.1994	20:15	1993	1994	30
+Rot-Weiss Essen	Chemnitzer FC	0:0	0:1	29.04.1994	19:30	1993	1994	31
+TSV 1860 MÃ¼nchen	Bayer 05 Uerdingen	0:0	0:0	29.04.1994	20:00	1993	1994	31
+VfL Bochum	FC St. Pauli	1:1	1:1	29.04.1994	20:00	1993	1994	31
+Hansa Rostock	SV Meppen	0:1	1:1	30.04.1994	15:30	1993	1994	31
+TeBe Berlin	VfL Wolfsburg	2:1	3:2	30.04.1994	15:30	1993	1994	31
+1. FC SaarbrÃ¼cken	Fortuna KÃ¶ln	1:1	4:1	30.04.1994	15:30	1993	1994	31
+Hannover 96	Hertha BSC	0:1	0:2	30.04.1994	15:30	1993	1994	31
+Stuttgarter Kickers	FC 08 Homburg	1:2	2:3	30.04.1994	15:30	1993	1994	31
+FC Carl Zeiss Jena	Wuppertaler SV	1:1	2:1	30.04.1994	15:30	1993	1994	31
+1. FSV Mainz 05	Waldhof Mannheim	0:0	2:1	01.05.1994	15:00	1993	1994	31
+Hansa Rostock	FC Carl Zeiss Jena	0:0	0:0	06.05.1994	19:30	1993	1994	32
+Hertha BSC	1. FC SaarbrÃ¼cken	2:0	3:1	06.05.1994	19:30	1993	1994	32
+Fortuna KÃ¶ln	TSV 1860 MÃ¼nchen	0:0	0:0	06.05.1994	20:00	1993	1994	32
+FC St. Pauli	Wuppertaler SV	0:1	1:2	06.05.1994	20:00	1993	1994	32
+FC 08 Homburg	TeBe Berlin	0:1	0:2	07.05.1994	14:30	1993	1994	32
+VfL Wolfsburg	1. FSV Mainz 05	0:0	2:0	07.05.1994	15:30	1993	1994	32
+SV Meppen	Rot-Weiss Essen	1:0	2:1	08.05.1994	15:00	1993	1994	32
+Chemnitzer FC	Stuttgarter Kickers	1:0	1:0	08.05.1994	15:00	1993	1994	32
+Waldhof Mannheim	Hannover 96	0:0	1:1	11.05.1994	18:00	1993	1994	32
+Bayer 05 Uerdingen	VfL Bochum	3:0	3:0	31.05.1994	20:00	1993	1994	32
+FC Carl Zeiss Jena	FC St. Pauli	1:0	1:0	13.05.1994	19:30	1993	1994	33
+TeBe Berlin	Chemnitzer FC	0:0	0:0	13.05.1994	19:30	1993	1994	33
+VfL Bochum	Fortuna KÃ¶ln	1:0	1:0	13.05.1994	20:00	1993	1994	33
+1. FSV Mainz 05	FC 08 Homburg	1:0	1:1	15.05.1994	15:00	1993	1994	33
+1. FC SaarbrÃ¼cken	Waldhof Mannheim	0:1	1:1	15.05.1994	15:00	1993	1994	33
+Hannover 96	VfL Wolfsburg	0:0	2:0	15.05.1994	15:00	1993	1994	33
+Stuttgarter Kickers	SV Meppen	0:0	1:0	15.05.1994	15:00	1993	1994	33
+Wuppertaler SV	Bayer 05 Uerdingen	0:2	1:3	15.05.1994	18:00	1993	1994	33
+TSV 1860 MÃ¼nchen	Hertha BSC	0:0	1:0	16.05.1994	20:00	1993	1994	33
+Rot-Weiss Essen	Hansa Rostock	0:0	2:0	18.05.1994	19:30	1993	1994	33
+FC 08 Homburg	Hannover 96	0:0	2:0	19.05.1994	20:00	1993	1994	34
+SV Meppen	TeBe Berlin	1:1	2:1	20.05.1994	18:30	1993	1994	34
+Waldhof Mannheim	TSV 1860 MÃ¼nchen	0:0	1:1	20.05.1994	19:30	1993	1994	34
+Bayer 05 Uerdingen	FC St. Pauli	1:0	3:0	20.05.1994	20:00	1993	1994	34
+Hertha BSC	VfL Bochum	0:0	1:1	21.05.1994	15:30	1993	1994	34
+Rot-Weiss Essen	FC Carl Zeiss Jena	0:3	0:5	21.05.1994	15:30	1993	1994	34
+Chemnitzer FC	1. FSV Mainz 05	0:0	0:0	21.05.1994	15:30	1993	1994	34
+Fortuna KÃ¶ln	Wuppertaler SV	1:0	3:0	21.05.1994	15:30	1993	1994	34
+Hansa Rostock	Stuttgarter Kickers	0:0	2:0	21.05.1994	15:30	1993	1994	34
+VfL Wolfsburg	1. FC SaarbrÃ¼cken	1:0	3:1	21.05.1994	15:30	1993	1994	34
+FC Carl Zeiss Jena	Bayer 05 Uerdingen	0:1	0:2	24.05.1994	19:00	1993	1994	35
+1. FC SaarbrÃ¼cken	FC 08 Homburg	0:0	0:0	24.05.1994	19:30	1993	1994	35
+Hannover 96	Chemnitzer FC	0:0	0:0	24.05.1994	20:00	1993	1994	35
+VfL Bochum	Waldhof Mannheim	0:1	0:1	24.05.1994	20:00	1993	1994	35
+TSV 1860 MÃ¼nchen	VfL Wolfsburg	2:0	4:0	24.05.1994	20:00	1993	1994	35
+FC St. Pauli	Fortuna KÃ¶ln	3:1	3:2	24.05.1994	20:00	1993	1994	35
+1. FSV Mainz 05	SV Meppen	1:0	3:0	25.05.1994	18:30	1993	1994	35
+Stuttgarter Kickers	Rot-Weiss Essen	1:2	4:2	25.05.1994	18:30	1993	1994	35
+Wuppertaler SV	Hertha BSC	0:1	1:2	25.05.1994	19:30	1993	1994	35
+TeBe Berlin	Hansa Rostock	0:0	0:0	25.05.1994	19:30	1993	1994	35
+Fortuna KÃ¶ln	Bayer 05 Uerdingen	0:0	0:1	27.05.1994	20:00	1993	1994	36
+Rot-Weiss Essen	TeBe Berlin	2:2	4:6	28.05.1994	14:30	1993	1994	36
+VfL Wolfsburg	VfL Bochum	0:0	0:1	28.05.1994	15:30	1993	1994	36
+SV Meppen	Hannover 96	1:0	4:1	28.05.1994	15:30	1993	1994	36
+Waldhof Mannheim	Wuppertaler SV	0:0	2:0	28.05.1994	15:30	1993	1994	36
+Hertha BSC	FC St. Pauli	2:0	2:1	28.05.1994	15:30	1993	1994	36
+FC Carl Zeiss Jena	Stuttgarter Kickers	0:0	0:0	28.05.1994	15:30	1993	1994	36
+Chemnitzer FC	1. FC SaarbrÃ¼cken	1:1	3:1	28.05.1994	15:30	1993	1994	36
+Hansa Rostock	1. FSV Mainz 05	0:0	2:3	29.05.1994	15:00	1993	1994	36
+FC 08 Homburg	TSV 1860 MÃ¼nchen	0:0	0:0	30.05.1994	20:00	1993	1994	36
+1. FSV Mainz 05	Rot-Weiss Essen	0:0	1:1	04.06.1994	15:30	1993	1994	37
+VfL Bochum	FC 08 Homburg	1:2	1:4	04.06.1994	15:30	1993	1994	37
+Fortuna KÃ¶ln	FC Carl Zeiss Jena	1:0	1:1	04.06.1994	15:30	1993	1994	37
+FC St. Pauli	Waldhof Mannheim	1:1	4:1	04.06.1994	15:30	1993	1994	37
+Wuppertaler SV	VfL Wolfsburg	1:0	2:1	04.06.1994	15:30	1993	1994	37
+Bayer 05 Uerdingen	Hertha BSC	0:0	0:0	04.06.1994	15:30	1993	1994	37
+Hannover 96	Hansa Rostock	3:0	5:0	04.06.1994	15:30	1993	1994	37
+TSV 1860 MÃ¼nchen	Chemnitzer FC	1:1	3:1	04.06.1994	15:30	1993	1994	37
+TeBe Berlin	Stuttgarter Kickers	1:2	2:2	04.06.1994	15:30	1993	1994	37
+1. FC SaarbrÃ¼cken	SV Meppen	1:0	1:1	04.06.1994	15:30	1993	1994	37
+Chemnitzer FC	VfL Bochum	1:0	1:0	11.06.1994	15:30	1993	1994	38
+Waldhof Mannheim	Bayer 05 Uerdingen	1:0	2:0	11.06.1994	15:30	1993	1994	38
+Stuttgarter Kickers	1. FSV Mainz 05	1:0	4:1	11.06.1994	15:30	1993	1994	38
+Rot-Weiss Essen	Hannover 96	0:1	0:2	11.06.1994	15:30	1993	1994	38
+SV Meppen	TSV 1860 MÃ¼nchen	0:1	0:1	11.06.1994	15:30	1993	1994	38
+FC 08 Homburg	Wuppertaler SV	1:0	2:2	11.06.1994	15:30	1993	1994	38
+VfL Wolfsburg	FC St. Pauli	2:0	4:1	11.06.1994	15:30	1993	1994	38
+Hertha BSC	Fortuna KÃ¶ln	1:0	1:1	11.06.1994	15:30	1993	1994	38
+FC Carl Zeiss Jena	TeBe Berlin	0:1	0:2	11.06.1994	15:30	1993	1994	38
+Hansa Rostock	1. FC SaarbrÃ¼cken	2:0	3:1	11.06.1994	15:30	1993	1994	38

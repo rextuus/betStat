@@ -1,0 +1,380 @@
+FC Schalke 04	1. FC SaarbrÃ¼cken	0:0	3:1	27.07.1990	19:00	1990	1991	1
+MSV Duisburg	Eintracht Braunschweig	2:2	3:3	27.07.1990	19:00	1990	1991	1
+Hannover 96	SC Freiburg	0:2	0:2	27.07.1990	19:00	1990	1991	1
+1. FC Schweinfurt 05	VfL OsnabrÃ¼ck	0:1	0:3	28.07.1990	15:00	1990	1991	1
+Waldhof Mannheim	Blau-WeiÃ 90 Berlin	0:0	2:0	28.07.1990	15:00	1990	1991	1
+FC 08 Homburg	Rot-Weiss Essen	1:0	2:1	28.07.1990	15:00	1990	1991	1
+VfB Oldenburg	1. FSV Mainz 05	0:1	1:2	28.07.1990	15:00	1990	1991	1
+Stuttgarter Kickers	SV Darmstadt 98	1:0	3:0	29.07.1990	15:00	1990	1991	1
+PreuÃen MÃ¼nster	Fortuna KÃ¶ln	1:0	2:0	29.07.1990	15:00	1990	1991	1
+SV Meppen	TSV Havelse	1:0	2:0	29.07.1990	15:00	1990	1991	1
+SC Freiburg	SV Meppen	1:0	2:1	07.08.1990	19:30	1990	1991	2
+SV Darmstadt 98	FC 08 Homburg	0:0	0:0	07.08.1990	19:30	1990	1991	2
+1. FC SaarbrÃ¼cken	Stuttgarter Kickers	0:0	0:0	07.08.1990	19:30	1990	1991	2
+VfL OsnabrÃ¼ck	MSV Duisburg	0:0	0:2	07.08.1990	19:30	1990	1991	2
+Fortuna KÃ¶ln	VfB Oldenburg	0:1	1:1	08.08.1990	19:30	1990	1991	2
+Blau-WeiÃ 90 Berlin	FC Schalke 04	0:0	1:1	08.08.1990	19:30	1990	1991	2
+Eintracht Braunschweig	Waldhof Mannheim	1:0	1:1	08.08.1990	19:30	1990	1991	2
+1. FSV Mainz 05	Hannover 96	1:0	2:1	08.08.1990	19:30	1990	1991	2
+TSV Havelse	1. FC Schweinfurt 05	2:1	4:1	08.08.1990	19:30	1990	1991	2
+Rot-Weiss Essen	PreuÃen MÃ¼nster	0:0	1:0	08.08.1990	19:30	1990	1991	2
+Stuttgarter Kickers	Blau-WeiÃ 90 Berlin	2:0	4:0	10.08.1990	19:00	1990	1991	3
+FC 08 Homburg	1. FC SaarbrÃ¼cken	0:0	0:0	10.08.1990	19:00	1990	1991	3
+SC Freiburg	1. FSV Mainz 05	1:0	2:1	11.08.1990	15:00	1990	1991	3
+FC Schalke 04	Eintracht Braunschweig	1:0	2:1	11.08.1990	15:00	1990	1991	3
+VfB Oldenburg	Rot-Weiss Essen	0:0	2:0	11.08.1990	15:00	1990	1991	3
+Waldhof Mannheim	VfL OsnabrÃ¼ck	1:0	1:0	11.08.1990	15:00	1990	1991	3
+SV Meppen	1. FC Schweinfurt 05	0:0	2:1	12.08.1990	15:00	1990	1991	3
+MSV Duisburg	TSV Havelse	0:0	3:0	12.08.1990	15:00	1990	1991	3
+PreuÃen MÃ¼nster	SV Darmstadt 98	1:0	1:0	12.08.1990	15:00	1990	1991	3
+Hannover 96	Fortuna KÃ¶ln	0:2	3:3	12.08.1990	15:00	1990	1991	3
+Blau-WeiÃ 90 Berlin	FC 08 Homburg	1:1	4:1	14.08.1990	19:30	1990	1991	4
+Eintracht Braunschweig	Stuttgarter Kickers	1:1	2:1	17.08.1990	19:00	1990	1991	4
+Fortuna KÃ¶ln	SC Freiburg	0:0	0:1	17.08.1990	19:00	1990	1991	4
+Rot-Weiss Essen	Hannover 96	2:0	4:2	18.08.1990	15:00	1990	1991	4
+1. FC Schweinfurt 05	MSV Duisburg	0:3	0:6	18.08.1990	15:00	1990	1991	4
+1. FSV Mainz 05	SV Meppen	0:0	2:1	18.08.1990	15:00	1990	1991	4
+SV Darmstadt 98	VfB Oldenburg	0:0	0:0	18.08.1990	15:00	1990	1991	4
+1. FC SaarbrÃ¼cken	PreuÃen MÃ¼nster	0:1	4:1	19.08.1990	15:00	1990	1991	4
+VfL OsnabrÃ¼ck	FC Schalke 04	0:1	0:3	19.08.1990	15:00	1990	1991	4
+TSV Havelse	Waldhof Mannheim	1:1	1:1	19.08.1990	15:00	1990	1991	4
+FC 08 Homburg	Eintracht Braunschweig	1:0	1:0	22.08.1990	19:30	1990	1991	5
+SC Freiburg	Rot-Weiss Essen	2:0	4:0	22.08.1990	19:30	1990	1991	5
+1. FSV Mainz 05	Fortuna KÃ¶ln	1:2	1:3	22.08.1990	19:30	1990	1991	5
+Waldhof Mannheim	1. FC Schweinfurt 05	2:0	3:0	22.08.1990	19:30	1990	1991	5
+Stuttgarter Kickers	VfL OsnabrÃ¼ck	2:1	3:1	22.08.1990	19:30	1990	1991	5
+SV Meppen	MSV Duisburg	0:1	0:1	22.08.1990	19:30	1990	1991	5
+PreuÃen MÃ¼nster	Blau-WeiÃ 90 Berlin	0:1	0:2	22.08.1990	19:30	1990	1991	5
+VfB Oldenburg	1. FC SaarbrÃ¼cken	0:0	0:1	22.08.1990	19:30	1990	1991	5
+Hannover 96	SV Darmstadt 98	1:0	2:2	22.08.1990	19:30	1990	1991	5
+FC Schalke 04	TSV Havelse	1:0	3:0	22.08.1990	19:30	1990	1991	5
+1. FC Schweinfurt 05	FC Schalke 04	0:0	0:1	25.08.1990	15:00	1990	1991	6
+SV Darmstadt 98	SC Freiburg	0:1	2:1	25.08.1990	15:00	1990	1991	6
+1. FC SaarbrÃ¼cken	Hannover 96	0:0	1:0	25.08.1990	15:00	1990	1991	6
+Eintracht Braunschweig	PreuÃen MÃ¼nster	1:0	5:0	25.08.1990	15:00	1990	1991	6
+Rot-Weiss Essen	1. FSV Mainz 05	1:0	2:0	26.08.1990	15:00	1990	1991	6
+MSV Duisburg	Waldhof Mannheim	1:1	1:1	26.08.1990	15:00	1990	1991	6
+Fortuna KÃ¶ln	SV Meppen	0:1	1:1	26.08.1990	15:00	1990	1991	6
+TSV Havelse	Stuttgarter Kickers	2:0	2:1	26.08.1990	15:00	1990	1991	6
+VfL OsnabrÃ¼ck	FC 08 Homburg	0:0	1:0	26.08.1990	15:00	1990	1991	6
+Blau-WeiÃ 90 Berlin	VfB Oldenburg	0:0	1:1	28.08.1990	19:30	1990	1991	6
+SV Meppen	Waldhof Mannheim	0:0	0:0	31.08.1990	19:00	1990	1991	7
+PreuÃen MÃ¼nster	VfL OsnabrÃ¼ck	2:1	2:2	31.08.1990	19:00	1990	1991	7
+Stuttgarter Kickers	1. FC Schweinfurt 05	1:0	1:0	31.08.1990	19:00	1990	1991	7
+FC Schalke 04	MSV Duisburg	1:0	1:0	01.09.1990	15:00	1990	1991	7
+SC Freiburg	1. FC SaarbrÃ¼cken	0:0	0:0	01.09.1990	15:00	1990	1991	7
+Fortuna KÃ¶ln	Rot-Weiss Essen	2:1	2:1	01.09.1990	15:00	1990	1991	7
+FC 08 Homburg	TSV Havelse	1:1	2:1	01.09.1990	15:00	1990	1991	7
+1. FSV Mainz 05	SV Darmstadt 98	0:1	1:1	02.09.1990	15:00	1990	1991	7
+Hannover 96	Blau-WeiÃ 90 Berlin	1:1	3:1	02.09.1990	15:00	1990	1991	7
+VfB Oldenburg	Eintracht Braunschweig	0:2	2:3	02.09.1990	15:00	1990	1991	7
+1. FC Schweinfurt 05	FC 08 Homburg	0:0	0:1	04.09.1990	19:30	1990	1991	8
+MSV Duisburg	Stuttgarter Kickers	1:0	2:0	04.09.1990	19:30	1990	1991	8
+Rot-Weiss Essen	SV Meppen	3:0	3:2	04.09.1990	19:30	1990	1991	8
+SV Darmstadt 98	Fortuna KÃ¶ln	1:1	1:2	05.09.1990	19:30	1990	1991	8
+Eintracht Braunschweig	Hannover 96	0:0	0:1	05.09.1990	19:30	1990	1991	8
+1. FC SaarbrÃ¼cken	1. FSV Mainz 05	0:0	0:0	05.09.1990	19:30	1990	1991	8
+Blau-WeiÃ 90 Berlin	SC Freiburg	0:1	2:1	05.09.1990	19:30	1990	1991	8
+VfL OsnabrÃ¼ck	VfB Oldenburg	0:1	3:3	05.09.1990	19:30	1990	1991	8
+TSV Havelse	PreuÃen MÃ¼nster	2:1	4:1	05.09.1990	19:30	1990	1991	8
+Waldhof Mannheim	FC Schalke 04	1:1	1:3	05.09.1990	19:30	1990	1991	8
+FC 08 Homburg	MSV Duisburg	1:1	2:1	07.09.1990	19:00	1990	1991	9
+Fortuna KÃ¶ln	1. FC SaarbrÃ¼cken	2:0	3:4	08.09.1990	15:00	1990	1991	9
+Rot-Weiss Essen	SV Darmstadt 98	1:0	3:0	08.09.1990	15:00	1990	1991	9
+1. FSV Mainz 05	Blau-WeiÃ 90 Berlin	2:1	2:2	08.09.1990	15:00	1990	1991	9
+SC Freiburg	Eintracht Braunschweig	2:1	3:2	08.09.1990	15:00	1990	1991	9
+Hannover 96	VfL OsnabrÃ¼ck	0:0	0:1	09.09.1990	15:00	1990	1991	9
+VfB Oldenburg	TSV Havelse	1:1	2:2	09.09.1990	15:00	1990	1991	9
+PreuÃen MÃ¼nster	1. FC Schweinfurt 05	4:0	5:0	09.09.1990	15:00	1990	1991	9
+SV Meppen	FC Schalke 04	1:0	2:0	09.09.1990	15:00	1990	1991	9
+Stuttgarter Kickers	Waldhof Mannheim	1:0	3:0	09.09.1990	15:00	1990	1991	9
+MSV Duisburg	PreuÃen MÃ¼nster	2:0	5:0	14.09.1990	19:00	1990	1991	10
+VfL OsnabrÃ¼ck	SC Freiburg	1:2	1:4	14.09.1990	19:00	1990	1991	10
+TSV Havelse	Hannover 96	0:1	1:2	14.09.1990	19:00	1990	1991	10
+SV Darmstadt 98	SV Meppen	1:0	1:0	15.09.1990	15:00	1990	1991	10
+FC Schalke 04	Stuttgarter Kickers	0:1	2:1	15.09.1990	15:00	1990	1991	10
+Eintracht Braunschweig	1. FSV Mainz 05	1:0	5:1	15.09.1990	15:00	1990	1991	10
+1. FC SaarbrÃ¼cken	Rot-Weiss Essen	1:0	2:0	15.09.1990	15:00	1990	1991	10
+Waldhof Mannheim	FC 08 Homburg	0:1	1:1	15.09.1990	15:00	1990	1991	10
+1. FC Schweinfurt 05	VfB Oldenburg	0:1	2:3	16.09.1990	15:00	1990	1991	10
+Blau-WeiÃ 90 Berlin	Fortuna KÃ¶ln	0:0	0:0	16.09.1990	15:00	1990	1991	10
+Fortuna KÃ¶ln	Eintracht Braunschweig	1:1	2:3	21.09.1990	19:00	1990	1991	11
+PreuÃen MÃ¼nster	Waldhof Mannheim	0:0	0:0	21.09.1990	19:00	1990	1991	11
+Hannover 96	1. FC Schweinfurt 05	1:0	1:1	21.09.1990	19:00	1990	1991	11
+SV Meppen	Stuttgarter Kickers	0:2	1:2	22.09.1990	15:00	1990	1991	11
+SC Freiburg	TSV Havelse	0:0	1:0	22.09.1990	15:00	1990	1991	11
+VfB Oldenburg	MSV Duisburg	0:0	1:1	22.09.1990	15:00	1990	1991	11
+Rot-Weiss Essen	Blau-WeiÃ 90 Berlin	0:2	0:3	23.09.1990	15:00	1990	1991	11
+1. FSV Mainz 05	VfL OsnabrÃ¼ck	2:1	3:2	23.09.1990	15:00	1990	1991	11
+SV Darmstadt 98	1. FC SaarbrÃ¼cken	1:0	1:0	23.09.1990	15:00	1990	1991	11
+FC 08 Homburg	FC Schalke 04	2:0	2:1	25.09.1990	19:30	1990	1991	11
+Eintracht Braunschweig	Rot-Weiss Essen	0:0	0:0	28.09.1990	19:00	1990	1991	12
+VfL OsnabrÃ¼ck	Fortuna KÃ¶ln	0:0	0:1	28.09.1990	19:00	1990	1991	12
+MSV Duisburg	Hannover 96	1:1	4:2	28.09.1990	19:00	1990	1991	12
+Waldhof Mannheim	VfB Oldenburg	2:1	2:1	29.09.1990	15:00	1990	1991	12
+FC Schalke 04	PreuÃen MÃ¼nster	2:0	3:1	29.09.1990	15:00	1990	1991	12
+Blau-WeiÃ 90 Berlin	SV Darmstadt 98	0:0	2:0	29.09.1990	15:00	1990	1991	12
+1. FC Schweinfurt 05	SC Freiburg	2:2	2:2	29.09.1990	15:00	1990	1991	12
+1. FC SaarbrÃ¼cken	SV Meppen	1:0	2:0	29.09.1990	15:00	1990	1991	12
+TSV Havelse	1. FSV Mainz 05	1:0	1:2	30.09.1990	15:00	1990	1991	12
+Stuttgarter Kickers	FC 08 Homburg	2:1	4:1	30.09.1990	15:00	1990	1991	12
+1. FC SaarbrÃ¼cken	Blau-WeiÃ 90 Berlin	0:0	0:0	05.10.1990	19:00	1990	1991	13
+PreuÃen MÃ¼nster	Stuttgarter Kickers	0:0	0:0	05.10.1990	19:00	1990	1991	13
+Hannover 96	Waldhof Mannheim	0:2	0:5	05.10.1990	19:00	1990	1991	13
+1. FSV Mainz 05	1. FC Schweinfurt 05	1:0	2:0	06.10.1990	15:00	1990	1991	13
+SV Darmstadt 98	Eintracht Braunschweig	1:0	2:1	06.10.1990	15:00	1990	1991	13
+VfB Oldenburg	FC Schalke 04	0:0	0:0	06.10.1990	15:00	1990	1991	13
+Rot-Weiss Essen	VfL OsnabrÃ¼ck	0:0	0:0	06.10.1990	15:00	1990	1991	13
+SC Freiburg	MSV Duisburg	0:0	0:2	07.10.1990	15:00	1990	1991	13
+Fortuna KÃ¶ln	TSV Havelse	2:1	3:1	07.10.1990	15:00	1990	1991	13
+SV Meppen	FC 08 Homburg	1:0	3:0	07.10.1990	15:00	1990	1991	13
+MSV Duisburg	1. FSV Mainz 05	1:0	2:0	12.10.1990	19:00	1990	1991	14
+Eintracht Braunschweig	1. FC SaarbrÃ¼cken	0:1	0:1	12.10.1990	19:00	1990	1991	14
+VfL OsnabrÃ¼ck	SV Darmstadt 98	0:3	1:4	12.10.1990	19:00	1990	1991	14
+1. FC Schweinfurt 05	Fortuna KÃ¶ln	1:1	1:1	13.10.1990	15:00	1990	1991	14
+Waldhof Mannheim	SC Freiburg	1:1	3:1	13.10.1990	15:00	1990	1991	14
+Stuttgarter Kickers	VfB Oldenburg	0:0	1:1	13.10.1990	15:00	1990	1991	14
+Blau-WeiÃ 90 Berlin	SV Meppen	1:0	2:0	13.10.1990	15:00	1990	1991	14
+FC Schalke 04	Hannover 96	0:0	2:0	14.10.1990	15:00	1990	1991	14
+FC 08 Homburg	PreuÃen MÃ¼nster	1:1	2:1	14.10.1990	15:00	1990	1991	14
+TSV Havelse	Rot-Weiss Essen	0:2	1:4	14.10.1990	15:00	1990	1991	14
+Fortuna KÃ¶ln	MSV Duisburg	2:1	2:2	19.10.1990	19:00	1990	1991	15
+1. FC SaarbrÃ¼cken	VfL OsnabrÃ¼ck	1:0	2:1	19.10.1990	19:00	1990	1991	15
+Hannover 96	Stuttgarter Kickers	1:1	1:2	19.10.1990	19:00	1990	1991	15
+Rot-Weiss Essen	1. FC Schweinfurt 05	1:0	4:0	20.10.1990	15:00	1990	1991	15
+SC Freiburg	FC Schalke 04	2:0	3:0	20.10.1990	15:00	1990	1991	15
+VfB Oldenburg	FC 08 Homburg	1:0	1:0	20.10.1990	15:00	1990	1991	15
+SV Darmstadt 98	TSV Havelse	1:0	5:2	20.10.1990	15:00	1990	1991	15
+SV Meppen	PreuÃen MÃ¼nster	1:0	1:1	21.10.1990	15:00	1990	1991	15
+1. FSV Mainz 05	Waldhof Mannheim	1:1	3:1	21.10.1990	15:00	1990	1991	15
+Blau-WeiÃ 90 Berlin	Eintracht Braunschweig	0:0	0:0	21.10.1990	15:00	1990	1991	15
+MSV Duisburg	Rot-Weiss Essen	2:0	4:2	26.10.1990	19:00	1990	1991	16
+PreuÃen MÃ¼nster	VfB Oldenburg	1:0	3:1	26.10.1990	19:00	1990	1991	16
+VfL OsnabrÃ¼ck	Blau-WeiÃ 90 Berlin	0:1	1:1	26.10.1990	19:00	1990	1991	16
+1. FC Schweinfurt 05	SV Darmstadt 98	0:3	0:5	27.10.1990	15:00	1990	1991	16
+Waldhof Mannheim	Fortuna KÃ¶ln	0:0	2:0	27.10.1990	15:00	1990	1991	16
+Stuttgarter Kickers	SC Freiburg	2:1	3:2	27.10.1990	15:00	1990	1991	16
+Eintracht Braunschweig	SV Meppen	0:0	0:0	27.10.1990	15:00	1990	1991	16
+FC 08 Homburg	Hannover 96	0:0	1:1	28.10.1990	15:00	1990	1991	16
+TSV Havelse	1. FC SaarbrÃ¼cken	0:0	0:2	28.10.1990	15:00	1990	1991	16
+FC Schalke 04	1. FSV Mainz 05	1:0	3:0	28.10.1990	15:00	1990	1991	16
+Rot-Weiss Essen	Waldhof Mannheim	0:1	1:1	09.11.1990	19:00	1990	1991	17
+Hannover 96	PreuÃen MÃ¼nster	2:1	3:1	09.11.1990	19:00	1990	1991	17
+Eintracht Braunschweig	VfL OsnabrÃ¼ck	0:0	1:0	09.11.1990	19:00	1990	1991	17
+SC Freiburg	FC 08 Homburg	0:0	0:0	10.11.1990	15:00	1990	1991	17
+1. FSV Mainz 05	Stuttgarter Kickers	2:2	3:3	10.11.1990	15:00	1990	1991	17
+SV Darmstadt 98	MSV Duisburg	1:1	2:2	10.11.1990	15:00	1990	1991	17
+Blau-WeiÃ 90 Berlin	TSV Havelse	1:0	3:1	10.11.1990	15:00	1990	1991	17
+Fortuna KÃ¶ln	FC Schalke 04	0:1	1:1	11.11.1990	15:00	1990	1991	17
+1. FC SaarbrÃ¼cken	1. FC Schweinfurt 05	3:1	5:2	11.11.1990	15:00	1990	1991	17
+VfB Oldenburg	SV Meppen	2:2	2:2	11.11.1990	15:00	1990	1991	17
+MSV Duisburg	1. FC SaarbrÃ¼cken	1:0	1:0	16.11.1990	19:00	1990	1991	18
+FC 08 Homburg	1. FSV Mainz 05	0:0	0:0	16.11.1990	19:00	1990	1991	18
+TSV Havelse	Eintracht Braunschweig	0:0	1:0	16.11.1990	19:00	1990	1991	18
+FC Schalke 04	Rot-Weiss Essen	1:0	3:1	17.11.1990	15:00	1990	1991	18
+1. FC Schweinfurt 05	Blau-WeiÃ 90 Berlin	0:1	1:1	17.11.1990	15:00	1990	1991	18
+Waldhof Mannheim	SV Darmstadt 98	1:0	4:1	17.11.1990	15:00	1990	1991	18
+Stuttgarter Kickers	Fortuna KÃ¶ln	0:0	1:1	17.11.1990	15:00	1990	1991	18
+VfB Oldenburg	Hannover 96	0:0	1:1	18.11.1990	15:00	1990	1991	18
+SV Meppen	VfL OsnabrÃ¼ck	1:0	1:1	21.11.1990	19:30	1990	1991	18
+PreuÃen MÃ¼nster	SC Freiburg	0:1	1:1	04.12.1990	19:30	1990	1991	18
+Eintracht Braunschweig	1. FC Schweinfurt 05	1:0	3:0	23.11.1990	19:00	1990	1991	19
+1. FC SaarbrÃ¼cken	Waldhof Mannheim	0:0	0:0	23.11.1990	19:00	1990	1991	19
+Fortuna KÃ¶ln	FC 08 Homburg	1:0	1:1	23.11.1990	19:00	1990	1991	19
+SC Freiburg	VfB Oldenburg	1:0	1:1	24.11.1990	15:00	1990	1991	19
+1. FSV Mainz 05	PreuÃen MÃ¼nster	0:0	0:0	24.11.1990	15:00	1990	1991	19
+Rot-Weiss Essen	Stuttgarter Kickers	0:0	0:2	24.11.1990	15:00	1990	1991	19
+Blau-WeiÃ 90 Berlin	MSV Duisburg	0:0	2:2	24.11.1990	15:00	1990	1991	19
+SV Darmstadt 98	FC Schalke 04	1:1	2:2	25.11.1990	15:00	1990	1991	19
+VfL OsnabrÃ¼ck	TSV Havelse	3:0	3:2	25.11.1990	15:00	1990	1991	19
+Hannover 96	SV Meppen	1:0	2:0	25.11.1990	15:00	1990	1991	19
+1. FC SaarbrÃ¼cken	FC Schalke 04	1:0	1:1	07.12.1990	19:00	1990	1991	20
+Eintracht Braunschweig	MSV Duisburg	0:0	1:1	07.12.1990	19:00	1990	1991	20
+Blau-WeiÃ 90 Berlin	Waldhof Mannheim	2:0	2:1	07.12.1990	19:00	1990	1991	20
+Rot-Weiss Essen	FC 08 Homburg	0:0	0:0	08.12.1990	15:00	1990	1991	20
+Fortuna KÃ¶ln	PreuÃen MÃ¼nster	1:0	1:1	08.12.1990	15:00	1990	1991	20
+SV Darmstadt 98	Stuttgarter Kickers	0:1	0:2	08.12.1990	15:00	1990	1991	20
+TSV Havelse	SV Meppen	1:0	1:0	09.12.1990	15:00	1990	1991	20
+VfL OsnabrÃ¼ck	1. FC Schweinfurt 05	0:0	2:0	09.12.1990	15:00	1990	1991	20
+1. FSV Mainz 05	VfB Oldenburg	1:0	2:0	09.12.1990	15:00	1990	1991	20
+SC Freiburg	Hannover 96	0:1	1:1	09.12.1990	15:00	1990	1991	20
+SV Meppen	SC Freiburg	2:1	4:1	16.12.1990	15:00	1990	1991	21
+Hannover 96	1. FSV Mainz 05	1:1	3:1	16.12.1990	15:00	1990	1991	21
+PreuÃen MÃ¼nster	Rot-Weiss Essen	0:0	0:0	16.12.1990	15:00	1990	1991	21
+FC Schalke 04	Blau-WeiÃ 90 Berlin	1:0	1:1	16.12.1990	15:00	1990	1991	21
+MSV Duisburg	VfL OsnabrÃ¼ck	0:1	2:1	16.12.1990	15:00	1990	1991	21
+1. FC Schweinfurt 05	TSV Havelse	0:1	1:1	16.12.1990	15:00	1990	1991	21
+VfB Oldenburg	Fortuna KÃ¶ln	2:0	2:0	16.12.1990	15:00	1990	1991	21
+FC 08 Homburg	SV Darmstadt 98	0:0	1:0	05.03.1991	19:30	1990	1991	21
+Waldhof Mannheim	Eintracht Braunschweig	2:0	5:2	27.04.1991	15:00	1990	1991	21
+Stuttgarter Kickers	1. FC SaarbrÃ¼cken	2:0	2:0	27.04.1991	15:00	1990	1991	21
+Eintracht Braunschweig	FC Schalke 04	0:0	0:1	23.02.1991	15:00	1990	1991	22
+1. FSV Mainz 05	SC Freiburg	0:0	0:0	23.02.1991	15:00	1990	1991	22
+TSV Havelse	MSV Duisburg	0:0	1:1	23.02.1991	15:00	1990	1991	22
+Fortuna KÃ¶ln	Hannover 96	0:0	1:1	27.02.1991	19:30	1990	1991	22
+VfL OsnabrÃ¼ck	Waldhof Mannheim	1:0	1:0	05.03.1991	19:30	1990	1991	22
+Blau-WeiÃ 90 Berlin	Stuttgarter Kickers	1:0	1:1	05.03.1991	19:30	1990	1991	22
+Rot-Weiss Essen	VfB Oldenburg	0:0	1:3	05.03.1991	19:30	1990	1991	22
+SV Darmstadt 98	PreuÃen MÃ¼nster	0:0	0:0	19.03.1991	19:30	1990	1991	22
+1. FC SaarbrÃ¼cken	FC 08 Homburg	0:0	0:0	28.03.1991	20:15	1990	1991	22
+1. FC Schweinfurt 05	SV Meppen	0:0	0:1	27.04.1991	15:00	1990	1991	22
+PreuÃen MÃ¼nster	1. FC SaarbrÃ¼cken	1:0	1:0	01.03.1991	19:00	1990	1991	23
+SC Freiburg	Fortuna KÃ¶ln	1:0	2:0	02.03.1991	15:00	1990	1991	23
+FC 08 Homburg	Blau-WeiÃ 90 Berlin	2:0	2:0	02.03.1991	15:00	1990	1991	23
+Stuttgarter Kickers	Eintracht Braunschweig	0:0	1:0	02.03.1991	15:00	1990	1991	23
+VfB Oldenburg	SV Darmstadt 98	1:0	3:0	02.03.1991	15:00	1990	1991	23
+Waldhof Mannheim	TSV Havelse	2:2	4:3	02.03.1991	15:00	1990	1991	23
+FC Schalke 04	VfL OsnabrÃ¼ck	0:0	1:0	02.03.1991	15:00	1990	1991	23
+Hannover 96	Rot-Weiss Essen	0:0	2:0	02.03.1991	15:00	1990	1991	23
+MSV Duisburg	1. FC Schweinfurt 05	1:0	2:1	03.03.1991	15:00	1990	1991	23
+SV Meppen	1. FSV Mainz 05	1:0	1:1	03.03.1991	15:00	1990	1991	23
+Fortuna KÃ¶ln	1. FSV Mainz 05	2:1	3:1	08.03.1991	19:00	1990	1991	24
+MSV Duisburg	SV Meppen	0:0	4:0	09.03.1991	15:00	1990	1991	24
+Rot-Weiss Essen	SC Freiburg	1:0	3:0	09.03.1991	15:00	1990	1991	24
+TSV Havelse	FC Schalke 04	1:1	1:2	09.03.1991	15:00	1990	1991	24
+Blau-WeiÃ 90 Berlin	PreuÃen MÃ¼nster	1:1	1:1	09.03.1991	15:00	1990	1991	24
+SV Darmstadt 98	Hannover 96	0:0	1:0	09.03.1991	15:00	1990	1991	24
+1. FC Schweinfurt 05	Waldhof Mannheim	3:0	3:1	09.03.1991	15:00	1990	1991	24
+VfL OsnabrÃ¼ck	Stuttgarter Kickers	0:1	2:3	10.03.1991	15:00	1990	1991	24
+Eintracht Braunschweig	FC 08 Homburg	1:0	1:0	10.03.1991	15:00	1990	1991	24
+1. FC SaarbrÃ¼cken	VfB Oldenburg	1:0	4:1	10.03.1991	15:00	1990	1991	24
+PreuÃen MÃ¼nster	Eintracht Braunschweig	1:1	1:1	15.03.1991	19:00	1990	1991	25
+SC Freiburg	SV Darmstadt 98	1:0	1:2	16.03.1991	15:00	1990	1991	25
+FC Schalke 04	1. FC Schweinfurt 05	1:0	2:0	16.03.1991	15:00	1990	1991	25
+Waldhof Mannheim	MSV Duisburg	0:0	4:0	16.03.1991	15:00	1990	1991	25
+VfB Oldenburg	Blau-WeiÃ 90 Berlin	0:4	3:5	16.03.1991	15:00	1990	1991	25
+FC 08 Homburg	VfL OsnabrÃ¼ck	1:1	2:3	16.03.1991	15:00	1990	1991	25
+Stuttgarter Kickers	TSV Havelse	1:0	3:0	16.03.1991	15:00	1990	1991	25
+Hannover 96	1. FC SaarbrÃ¼cken	0:1	1:1	16.03.1991	15:00	1990	1991	25
+1. FSV Mainz 05	Rot-Weiss Essen	0:0	1:0	17.03.1991	15:00	1990	1991	25
+SV Meppen	Fortuna KÃ¶ln	0:1	1:1	17.03.1991	15:00	1990	1991	25
+1. FC SaarbrÃ¼cken	SC Freiburg	1:0	2:3	22.03.1991	19:00	1990	1991	26
+MSV Duisburg	FC Schalke 04	1:1	1:1	22.03.1991	19:00	1990	1991	26
+Rot-Weiss Essen	Fortuna KÃ¶ln	0:1	0:2	23.03.1991	15:00	1990	1991	26
+1. FC Schweinfurt 05	Stuttgarter Kickers	0:1	1:4	23.03.1991	15:00	1990	1991	26
+Waldhof Mannheim	SV Meppen	1:0	1:1	23.03.1991	15:00	1990	1991	26
+Eintracht Braunschweig	VfB Oldenburg	0:0	1:1	23.03.1991	15:00	1990	1991	26
+Blau-WeiÃ 90 Berlin	Hannover 96	0:0	1:1	23.03.1991	15:00	1990	1991	26
+TSV Havelse	FC 08 Homburg	0:0	1:1	24.03.1991	15:00	1990	1991	26
+SV Darmstadt 98	1. FSV Mainz 05	0:0	0:1	24.03.1991	15:00	1990	1991	26
+VfL OsnabrÃ¼ck	PreuÃen MÃ¼nster	1:0	3:1	24.03.1991	15:00	1990	1991	26
+Hannover 96	Eintracht Braunschweig	1:0	3:0	28.03.1991	20:15	1990	1991	27
+SV Meppen	Rot-Weiss Essen	1:0	1:0	30.03.1991	15:00	1990	1991	27
+SC Freiburg	Blau-WeiÃ 90 Berlin	0:0	0:0	30.03.1991	15:00	1990	1991	27
+VfB Oldenburg	VfL OsnabrÃ¼ck	0:1	3:2	30.03.1991	15:00	1990	1991	27
+FC 08 Homburg	1. FC Schweinfurt 05	4:1	6:1	02.04.1991	19:30	1990	1991	27
+Stuttgarter Kickers	MSV Duisburg	0:0	1:0	02.04.1991	19:30	1990	1991	27
+Fortuna KÃ¶ln	SV Darmstadt 98	0:0	1:1	02.04.1991	19:30	1990	1991	27
+1. FSV Mainz 05	1. FC SaarbrÃ¼cken	1:0	1:0	02.04.1991	19:30	1990	1991	27
+PreuÃen MÃ¼nster	TSV Havelse	1:0	2:1	02.04.1991	19:30	1990	1991	27
+FC Schalke 04	Waldhof Mannheim	0:1	1:2	04.04.1991	20:15	1990	1991	27
+VfL OsnabrÃ¼ck	Hannover 96	1:0	1:1	05.04.1991	19:00	1990	1991	28
+SV Darmstadt 98	Rot-Weiss Essen	0:0	3:2	06.04.1991	15:00	1990	1991	28
+Eintracht Braunschweig	SC Freiburg	2:1	2:2	06.04.1991	15:00	1990	1991	28
+Blau-WeiÃ 90 Berlin	1. FSV Mainz 05	0:0	2:1	06.04.1991	15:00	1990	1991	28
+1. FC SaarbrÃ¼cken	Fortuna KÃ¶ln	0:1	1:1	06.04.1991	15:00	1990	1991	28
+MSV Duisburg	FC 08 Homburg	1:0	4:0	06.04.1991	15:00	1990	1991	28
+1. FC Schweinfurt 05	PreuÃen MÃ¼nster	0:0	0:0	06.04.1991	15:00	1990	1991	28
+FC Schalke 04	SV Meppen	2:0	2:0	07.04.1991	15:00	1990	1991	28
+TSV Havelse	VfB Oldenburg	2:0	3:2	07.04.1991	15:00	1990	1991	28
+Waldhof Mannheim	Stuttgarter Kickers	0:0	2:0	07.04.1991	15:00	1990	1991	28
+PreuÃen MÃ¼nster	MSV Duisburg	0:0	2:0	12.04.1991	19:00	1990	1991	29
+Rot-Weiss Essen	1. FC SaarbrÃ¼cken	1:0	1:1	12.04.1991	19:00	1990	1991	29
+Hannover 96	TSV Havelse	1:0	2:1	12.04.1991	19:00	1990	1991	29
+SV Meppen	SV Darmstadt 98	2:0	2:1	13.04.1991	15:00	1990	1991	29
+1. FSV Mainz 05	Eintracht Braunschweig	1:2	1:4	13.04.1991	15:00	1990	1991	29
+VfB Oldenburg	1. FC Schweinfurt 05	0:0	3:0	13.04.1991	15:00	1990	1991	29
+Stuttgarter Kickers	FC Schalke 04	0:0	0:0	13.04.1991	15:00	1990	1991	29
+Fortuna KÃ¶ln	Blau-WeiÃ 90 Berlin	0:0	2:1	13.04.1991	15:00	1990	1991	29
+SC Freiburg	VfL OsnabrÃ¼ck	0:0	0:1	13.04.1991	15:00	1990	1991	29
+FC 08 Homburg	Waldhof Mannheim	1:1	1:1	13.04.1991	15:00	1990	1991	29
+1. FC SaarbrÃ¼cken	SV Darmstadt 98	1:0	1:0	16.04.1991	19:30	1990	1991	30
+1. FC Schweinfurt 05	Hannover 96	0:1	1:3	16.04.1991	19:30	1990	1991	30
+MSV Duisburg	VfB Oldenburg	0:0	1:0	16.04.1991	19:30	1990	1991	30
+Blau-WeiÃ 90 Berlin	Rot-Weiss Essen	2:1	2:2	17.04.1991	19:30	1990	1991	30
+Stuttgarter Kickers	SV Meppen	3:0	3:0	17.04.1991	19:30	1990	1991	30
+VfL OsnabrÃ¼ck	1. FSV Mainz 05	0:0	0:0	17.04.1991	19:30	1990	1991	30
+FC Schalke 04	FC 08 Homburg	1:1	3:1	17.04.1991	19:30	1990	1991	30
+Waldhof Mannheim	PreuÃen MÃ¼nster	0:0	3:0	17.04.1991	19:30	1990	1991	30
+Eintracht Braunschweig	Fortuna KÃ¶ln	1:1	3:2	17.04.1991	19:30	1990	1991	30
+TSV Havelse	SC Freiburg	0:2	0:3	28.04.1991	15:00	1990	1991	30
+SV Darmstadt 98	Blau-WeiÃ 90 Berlin	1:0	1:1	20.04.1991	15:00	1990	1991	31
+SC Freiburg	1. FC Schweinfurt 05	1:0	3:1	20.04.1991	15:00	1990	1991	31
+FC 08 Homburg	Stuttgarter Kickers	1:0	2:0	20.04.1991	15:00	1990	1991	31
+Fortuna KÃ¶ln	VfL OsnabrÃ¼ck	1:1	2:2	20.04.1991	15:00	1990	1991	31
+Hannover 96	MSV Duisburg	2:0	2:0	20.04.1991	15:00	1990	1991	31
+PreuÃen MÃ¼nster	FC Schalke 04	0:1	0:3	21.04.1991	15:00	1990	1991	31
+Rot-Weiss Essen	Eintracht Braunschweig	2:1	3:1	21.04.1991	15:00	1990	1991	31
+VfB Oldenburg	Waldhof Mannheim	2:0	5:0	21.04.1991	15:00	1990	1991	31
+SV Meppen	1. FC SaarbrÃ¼cken	0:0	0:0	21.04.1991	15:00	1990	1991	31
+1. FSV Mainz 05	TSV Havelse	1:0	2:1	21.04.1991	15:00	1990	1991	31
+MSV Duisburg	SC Freiburg	1:0	1:0	03.05.1991	19:00	1990	1991	32
+VfL OsnabrÃ¼ck	Rot-Weiss Essen	0:1	1:1	03.05.1991	19:00	1990	1991	32
+Blau-WeiÃ 90 Berlin	1. FC SaarbrÃ¼cken	1:1	1:1	03.05.1991	19:00	1990	1991	32
+FC 08 Homburg	SV Meppen	0:0	0:0	04.05.1991	15:00	1990	1991	32
+1. FC Schweinfurt 05	1. FSV Mainz 05	0:0	0:0	04.05.1991	15:00	1990	1991	32
+TSV Havelse	Fortuna KÃ¶ln	0:1	0:2	04.05.1991	15:00	1990	1991	32
+Waldhof Mannheim	Hannover 96	1:0	1:1	04.05.1991	15:00	1990	1991	32
+Eintracht Braunschweig	SV Darmstadt 98	0:0	1:0	04.05.1991	15:00	1990	1991	32
+Stuttgarter Kickers	PreuÃen MÃ¼nster	0:2	0:2	05.05.1991	15:00	1990	1991	32
+FC Schalke 04	VfB Oldenburg	0:0	4:1	05.05.1991	15:00	1990	1991	32
+Fortuna KÃ¶ln	1. FC Schweinfurt 05	0:0	2:0	10.05.1991	19:00	1990	1991	33
+Rot-Weiss Essen	TSV Havelse	1:0	3:0	10.05.1991	19:00	1990	1991	33
+1. FC SaarbrÃ¼cken	Eintracht Braunschweig	2:1	4:1	10.05.1991	19:00	1990	1991	33
+1. FSV Mainz 05	MSV Duisburg	1:1	1:1	11.05.1991	15:00	1990	1991	33
+SC Freiburg	Waldhof Mannheim	0:0	0:2	11.05.1991	15:00	1990	1991	33
+VfB Oldenburg	Stuttgarter Kickers	0:1	1:1	11.05.1991	15:00	1990	1991	33
+SV Darmstadt 98	VfL OsnabrÃ¼ck	1:1	1:1	11.05.1991	15:00	1990	1991	33
+Hannover 96	FC Schalke 04	1:0	1:1	11.05.1991	15:00	1990	1991	33
+PreuÃen MÃ¼nster	FC 08 Homburg	0:0	0:0	12.05.1991	15:00	1990	1991	33
+SV Meppen	Blau-WeiÃ 90 Berlin	0:0	0:0	12.05.1991	15:00	1990	1991	33
+VfL OsnabrÃ¼ck	1. FC SaarbrÃ¼cken	0:0	0:2	17.05.1991	19:00	1990	1991	34
+MSV Duisburg	Fortuna KÃ¶ln	2:0	3:0	17.05.1991	19:00	1990	1991	34
+Eintracht Braunschweig	Blau-WeiÃ 90 Berlin	1:0	2:2	17.05.1991	19:00	1990	1991	34
+FC Schalke 04	SC Freiburg	2:1	3:1	18.05.1991	15:00	1990	1991	34
+Waldhof Mannheim	1. FSV Mainz 05	0:1	1:2	18.05.1991	15:00	1990	1991	34
+Stuttgarter Kickers	Hannover 96	0:0	1:0	18.05.1991	15:00	1990	1991	34
+1. FC Schweinfurt 05	Rot-Weiss Essen	0:0	0:2	18.05.1991	15:00	1990	1991	34
+PreuÃen MÃ¼nster	SV Meppen	0:0	0:1	19.05.1991	15:00	1990	1991	34
+TSV Havelse	SV Darmstadt 98	1:2	3:3	19.05.1991	15:00	1990	1991	34
+FC 08 Homburg	VfB Oldenburg	0:0	1:0	19.05.1991	15:00	1990	1991	34
+Blau-WeiÃ 90 Berlin	VfL OsnabrÃ¼ck	0:0	0:0	24.05.1991	00:00	1990	1991	35
+Fortuna KÃ¶ln	Waldhof Mannheim	0:0	1:0	25.05.1991	15:00	1990	1991	35
+1. FSV Mainz 05	FC Schalke 04	0:0	1:1	25.05.1991	15:00	1990	1991	35
+SV Meppen	Eintracht Braunschweig	0:0	1:0	25.05.1991	15:00	1990	1991	35
+SV Darmstadt 98	1. FC Schweinfurt 05	0:1	3:3	25.05.1991	15:00	1990	1991	35
+1. FC SaarbrÃ¼cken	TSV Havelse	0:0	0:0	25.05.1991	15:00	1990	1991	35
+Hannover 96	FC 08 Homburg	0:1	0:2	25.05.1991	15:00	1990	1991	35
+Rot-Weiss Essen	MSV Duisburg	1:1	1:1	25.05.1991	15:00	1990	1991	35
+VfB Oldenburg	PreuÃen MÃ¼nster	1:0	4:0	25.05.1991	15:00	1990	1991	35
+SC Freiburg	Stuttgarter Kickers	0:0	1:0	25.05.1991	15:00	1990	1991	35
+FC 08 Homburg	SC Freiburg	0:0	1:0	31.05.1991	19:00	1990	1991	36
+1. FC Schweinfurt 05	1. FC SaarbrÃ¼cken	0:0	2:1	31.05.1991	19:00	1990	1991	36
+MSV Duisburg	SV Darmstadt 98	1:0	2:0	31.05.1991	19:00	1990	1991	36
+Stuttgarter Kickers	1. FSV Mainz 05	0:0	1:1	01.06.1991	15:00	1990	1991	36
+VfL OsnabrÃ¼ck	Eintracht Braunschweig	0:0	2:0	02.06.1991	15:00	1990	1991	36
+FC Schalke 04	Fortuna KÃ¶ln	0:1	2:1	02.06.1991	15:00	1990	1991	36
+Waldhof Mannheim	Rot-Weiss Essen	0:2	1:3	02.06.1991	15:00	1990	1991	36
+TSV Havelse	Blau-WeiÃ 90 Berlin	1:0	1:2	02.06.1991	15:00	1990	1991	36
+PreuÃen MÃ¼nster	Hannover 96	0:0	0:1	02.06.1991	15:00	1990	1991	36
+SV Meppen	VfB Oldenburg	0:0	0:0	02.06.1991	15:00	1990	1991	36
+Fortuna KÃ¶ln	Stuttgarter Kickers	0:0	0:2	09.06.1991	15:00	1990	1991	37
+Blau-WeiÃ 90 Berlin	1. FC Schweinfurt 05	2:0	6:1	09.06.1991	15:00	1990	1991	37
+1. FC SaarbrÃ¼cken	MSV Duisburg	0:0	0:1	09.06.1991	15:00	1990	1991	37
+Eintracht Braunschweig	TSV Havelse	1:0	3:1	09.06.1991	15:00	1990	1991	37
+Rot-Weiss Essen	FC Schalke 04	0:0	0:0	09.06.1991	15:00	1990	1991	37
+1. FSV Mainz 05	FC 08 Homburg	0:1	0:2	09.06.1991	15:00	1990	1991	37
+SC Freiburg	PreuÃen MÃ¼nster	2:1	3:2	09.06.1991	15:00	1990	1991	37
+Hannover 96	VfB Oldenburg	0:0	0:0	09.06.1991	15:00	1990	1991	37
+VfL OsnabrÃ¼ck	SV Meppen	1:2	3:2	09.06.1991	15:00	1990	1991	37
+SV Darmstadt 98	Waldhof Mannheim	1:1	1:1	09.06.1991	15:00	1990	1991	37
+Stuttgarter Kickers	Rot-Weiss Essen	2:0	3:0	16.06.1991	15:00	1990	1991	38
+VfB Oldenburg	SC Freiburg	1:0	2:2	16.06.1991	15:00	1990	1991	38
+1. FC Schweinfurt 05	Eintracht Braunschweig	0:0	0:0	16.06.1991	15:00	1990	1991	38
+PreuÃen MÃ¼nster	1. FSV Mainz 05	2:3	2:3	16.06.1991	15:00	1990	1991	38
+FC 08 Homburg	Fortuna KÃ¶ln	2:1	3:2	16.06.1991	15:00	1990	1991	38
+Waldhof Mannheim	1. FC SaarbrÃ¼cken	0:1	1:3	16.06.1991	15:00	1990	1991	38
+MSV Duisburg	Blau-WeiÃ 90 Berlin	0:0	1:0	16.06.1991	15:00	1990	1991	38
+SV Meppen	Hannover 96	0:0	1:1	16.06.1991	15:00	1990	1991	38
+TSV Havelse	VfL OsnabrÃ¼ck	0:4	1:5	16.06.1991	15:00	1990	1991	38
+FC Schalke 04	SV Darmstadt 98	0:0	1:0	16.06.1991	15:00	1990	1991	38

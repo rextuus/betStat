@@ -1,0 +1,306 @@
+SV Sandhausen	VfR Aalen	0:0	0:0	19.07.2013	18:30	2013	2014	1
+FC Ingolstadt 04	Erzgebirge Aue	0:1	1:2	19.07.2013	18:30	2013	2014	1
+FC St. Pauli	TSV 1860 MÃ¼nchen	0:0	1:0	19.07.2013	20:30	2013	2014	1
+SC Paderborn 07	1. FC Kaiserslautern	0:0	0:1	20.07.2013	13:00	2013	2014	1
+Dynamo Dresden	1. FC KÃ¶ln	0:0	1:1	20.07.2013	15:30	2013	2014	1
+SpVgg Greuther FÃ¼rth	Arminia Bielefeld	2:0	2:0	21.07.2013	13:30	2013	2014	1
+FSV Frankfurt	Karlsruher SC	0:0	0:1	21.07.2013	13:30	2013	2014	1
+1. FC Union Berlin	VfL Bochum	0:0	1:2	21.07.2013	15:30	2013	2014	1
+Fortuna DÃ¼sseldorf	Energie Cottbus	0:0	1:0	22.07.2013	20:15	2013	2014	1
+VfR Aalen	SpVgg Greuther FÃ¼rth	0:1	0:2	26.07.2013	18:30	2013	2014	2
+Arminia Bielefeld	1. FC Union Berlin	0:1	1:1	26.07.2013	18:30	2013	2014	2
+1. FC Kaiserslautern	FC Ingolstadt 04	1:0	3:1	26.07.2013	20:30	2013	2014	2
+Erzgebirge Aue	SV Sandhausen	0:0	1:0	27.07.2013	13:00	2013	2014	2
+Karlsruher SC	FC St. Pauli	0:0	0:0	27.07.2013	15:30	2013	2014	2
+TSV 1860 MÃ¼nchen	FSV Frankfurt	0:0	2:1	28.07.2013	13:30	2013	2014	2
+Energie Cottbus	SC Paderborn 07	4:0	4:0	28.07.2013	13:30	2013	2014	2
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	0:1	1:1	28.07.2013	15:30	2013	2014	2
+VfL Bochum	Dynamo Dresden	1:0	1:1	29.07.2013	20:15	2013	2014	2
+Fortuna DÃ¼sseldorf	TSV 1860 MÃ¼nchen	1:1	1:2	09.08.2013	18:30	2013	2014	3
+FSV Frankfurt	VfL Bochum	1:0	1:0	09.08.2013	18:30	2013	2014	3
+Dynamo Dresden	1. FC Union Berlin	0:3	1:3	09.08.2013	18:30	2013	2014	3
+SC Paderborn 07	1. FC KÃ¶ln	1:0	1:1	10.08.2013	13:00	2013	2014	3
+FC Ingolstadt 04	Karlsruher SC	0:0	0:2	10.08.2013	13:00	2013	2014	3
+FC St. Pauli	Arminia Bielefeld	0:0	0:1	11.08.2013	13:30	2013	2014	3
+SV Sandhausen	Energie Cottbus	2:1	2:2	11.08.2013	13:30	2013	2014	3
+Erzgebirge Aue	VfR Aalen	0:1	0:1	11.08.2013	13:30	2013	2014	3
+SpVgg Greuther FÃ¼rth	1. FC Kaiserslautern	1:1	2:1	12.08.2013	20:15	2013	2014	3
+Karlsruher SC	SpVgg Greuther FÃ¼rth	1:0	1:2	16.08.2013	18:30	2013	2014	4
+Arminia Bielefeld	SC Paderborn 07	0:1	3:3	16.08.2013	18:30	2013	2014	4
+VfL Bochum	FC St. Pauli	1:2	2:2	16.08.2013	20:30	2013	2014	4
+1. FC Kaiserslautern	Erzgebirge Aue	1:0	2:1	17.08.2013	13:00	2013	2014	4
+1. FC KÃ¶ln	SV Sandhausen	0:0	2:0	17.08.2013	13:00	2013	2014	4
+TSV 1860 MÃ¼nchen	FC Ingolstadt 04	0:0	1:0	18.08.2013	13:30	2013	2014	4
+Energie Cottbus	VfR Aalen	3:1	5:1	18.08.2013	13:30	2013	2014	4
+Dynamo Dresden	FSV Frankfurt	0:1	0:3	18.08.2013	13:30	2013	2014	4
+1. FC Union Berlin	Fortuna DÃ¼sseldorf	1:0	2:1	19.08.2013	20:15	2013	2014	4
+SV Sandhausen	Karlsruher SC	0:0	1:1	23.08.2013	18:30	2013	2014	5
+FC Ingolstadt 04	Arminia Bielefeld	1:1	3:2	23.08.2013	18:30	2013	2014	5
+Erzgebirge Aue	Energie Cottbus	0:1	2:1	23.08.2013	18:30	2013	2014	5
+SpVgg Greuther FÃ¼rth	1. FC KÃ¶ln	0:0	0:0	24.08.2013	13:00	2013	2014	5
+VfR Aalen	1. FC Kaiserslautern	1:0	4:0	24.08.2013	13:00	2013	2014	5
+Fortuna DÃ¼sseldorf	VfL Bochum	1:0	1:0	25.08.2013	13:30	2013	2014	5
+FSV Frankfurt	1. FC Union Berlin	1:0	1:1	25.08.2013	13:30	2013	2014	5
+SC Paderborn 07	TSV 1860 MÃ¼nchen	0:0	1:0	25.08.2013	13:30	2013	2014	5
+FC St. Pauli	Dynamo Dresden	0:0	2:1	26.08.2013	20:15	2013	2014	5
+FSV Frankfurt	SpVgg Greuther FÃ¼rth	1:0	1:1	30.08.2013	18:30	2013	2014	6
+TSV 1860 MÃ¼nchen	SV Sandhausen	0:2	0:2	30.08.2013	18:30	2013	2014	6
+Arminia Bielefeld	Fortuna DÃ¼sseldorf	1:2	4:2	30.08.2013	18:30	2013	2014	6
+1. FC Union Berlin	FC St. Pauli	1:2	3:2	31.08.2013	13:00	2013	2014	6
+VfL Bochum	SC Paderborn 07	0:2	4:2	31.08.2013	13:00	2013	2014	6
+1. FC KÃ¶ln	Erzgebirge Aue	3:1	4:1	01.09.2013	13:30	2013	2014	6
+Dynamo Dresden	FC Ingolstadt 04	1:1	1:1	01.09.2013	13:30	2013	2014	6
+Karlsruher SC	VfR Aalen	1:1	1:1	01.09.2013	13:30	2013	2014	6
+1. FC Kaiserslautern	Energie Cottbus	1:2	2:2	02.09.2013	20:15	2013	2014	6
+VfR Aalen	TSV 1860 MÃ¼nchen	0:0	0:0	13.09.2013	18:30	2013	2014	7
+SC Paderborn 07	Karlsruher SC	0:0	1:0	13.09.2013	18:30	2013	2014	7
+Erzgebirge Aue	Arminia Bielefeld	0:0	0:2	13.09.2013	18:30	2013	2014	7
+FC St. Pauli	FSV Frankfurt	1:0	2:1	14.09.2013	13:00	2013	2014	7
+SV Sandhausen	1. FC Kaiserslautern	0:0	1:0	14.09.2013	13:00	2013	2014	7
+Fortuna DÃ¼sseldorf	Dynamo Dresden	1:0	1:1	15.09.2013	13:30	2013	2014	7
+SpVgg Greuther FÃ¼rth	VfL Bochum	0:2	0:2	15.09.2013	13:30	2013	2014	7
+FC Ingolstadt 04	1. FC Union Berlin	0:0	0:1	15.09.2013	13:30	2013	2014	7
+Energie Cottbus	1. FC KÃ¶ln	0:3	0:4	16.09.2013	20:15	2013	2014	7
+1. FC Union Berlin	SpVgg Greuther FÃ¼rth	1:0	2:4	20.09.2013	18:30	2013	2014	8
+Karlsruher SC	Energie Cottbus	2:0	2:0	20.09.2013	18:30	2013	2014	8
+1. FC KÃ¶ln	1. FC Kaiserslautern	0:0	0:0	20.09.2013	18:40	2013	2014	8
+TSV 1860 MÃ¼nchen	Erzgebirge Aue	2:0	3:1	21.09.2013	13:00	2013	2014	8
+VfL Bochum	VfR Aalen	1:1	1:2	21.09.2013	13:00	2013	2014	8
+Arminia Bielefeld	SV Sandhausen	0:0	2:1	21.09.2013	13:00	2013	2014	8
+FSV Frankfurt	FC Ingolstadt 04	2:0	4:1	22.09.2013	13:30	2013	2014	8
+Dynamo Dresden	SC Paderborn 07	0:0	2:2	22.09.2013	13:30	2013	2014	8
+FC St. Pauli	Fortuna DÃ¼sseldorf	0:0	1:1	23.09.2013	20:15	2013	2014	8
+Energie Cottbus	Arminia Bielefeld	2:0	4:2	27.09.2013	18:30	2013	2014	9
+Erzgebirge Aue	Karlsruher SC	2:0	3:0	27.09.2013	18:30	2013	2014	9
+VfR Aalen	1. FC KÃ¶ln	0:1	0:1	27.09.2013	18:40	2013	2014	9
+Fortuna DÃ¼sseldorf	FSV Frankfurt	0:0	0:0	28.09.2013	13:00	2013	2014	9
+SC Paderborn 07	1. FC Union Berlin	0:1	0:3	28.09.2013	13:00	2013	2014	9
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	0:0	3:0	29.09.2013	13:30	2013	2014	9
+SV Sandhausen	VfL Bochum	0:0	1:0	29.09.2013	13:30	2013	2014	9
+FC Ingolstadt 04	FC St. Pauli	0:1	1:2	29.09.2013	13:30	2013	2014	9
+SpVgg Greuther FÃ¼rth	Dynamo Dresden	1:0	4:0	30.09.2013	20:15	2013	2014	9
+1. FC Union Berlin	SV Sandhausen	1:0	3:0	04.10.2013	18:30	2013	2014	10
+FC St. Pauli	SC Paderborn 07	0:0	1:2	04.10.2013	18:30	2013	2014	10
+Arminia Bielefeld	1. FC Kaiserslautern	0:2	0:3	04.10.2013	18:30	2013	2014	10
+Dynamo Dresden	VfR Aalen	2:0	2:0	05.10.2013	13:00	2013	2014	10
+Karlsruher SC	1. FC KÃ¶ln	0:0	1:2	05.10.2013	13:00	2013	2014	10
+FSV Frankfurt	Erzgebirge Aue	3:0	3:1	06.10.2013	13:30	2013	2014	10
+TSV 1860 MÃ¼nchen	Energie Cottbus	0:0	0:0	06.10.2013	13:30	2013	2014	10
+VfL Bochum	FC Ingolstadt 04	0:0	0:1	06.10.2013	13:30	2013	2014	10
+Fortuna DÃ¼sseldorf	SpVgg Greuther FÃ¼rth	0:1	2:1	07.10.2013	20:15	2013	2014	10
+Energie Cottbus	1. FC Union Berlin	0:0	0:0	18.10.2013	18:30	2013	2014	11
+VfR Aalen	Arminia Bielefeld	0:0	3:0	18.10.2013	18:30	2013	2014	11
+SC Paderborn 07	FSV Frankfurt	1:1	4:2	18.10.2013	18:30	2013	2014	11
+SV Sandhausen	Dynamo Dresden	0:0	0:0	19.10.2013	13:00	2013	2014	11
+Erzgebirge Aue	VfL Bochum	0:1	2:1	19.10.2013	13:00	2013	2014	11
+SpVgg Greuther FÃ¼rth	FC St. Pauli	1:1	2:4	20.10.2013	13:30	2013	2014	11
+1. FC Kaiserslautern	Karlsruher SC	1:1	2:2	20.10.2013	13:30	2013	2014	11
+FC Ingolstadt 04	Fortuna DÃ¼sseldorf	0:0	1:2	20.10.2013	13:30	2013	2014	11
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	0:0	0:0	21.10.2013	20:15	2013	2014	11
+SpVgg Greuther FÃ¼rth	FC Ingolstadt 04	0:1	0:1	25.10.2013	18:30	2013	2014	12
+FC St. Pauli	SV Sandhausen	0:0	0:0	25.10.2013	18:30	2013	2014	12
+Arminia Bielefeld	1. FC KÃ¶ln	0:0	0:1	25.10.2013	18:30	2013	2014	12
+Fortuna DÃ¼sseldorf	SC Paderborn 07	1:2	1:6	26.10.2013	13:00	2013	2014	12
+FSV Frankfurt	VfR Aalen	0:0	0:0	26.10.2013	13:00	2013	2014	12
+1. FC Union Berlin	Erzgebirge Aue	0:0	1:0	27.10.2013	13:30	2013	2014	12
+Dynamo Dresden	Energie Cottbus	0:0	1:0	27.10.2013	13:30	2013	2014	12
+Karlsruher SC	TSV 1860 MÃ¼nchen	2:0	2:1	27.10.2013	13:30	2013	2014	12
+VfL Bochum	1. FC Kaiserslautern	0:0	0:0	28.10.2013	20:15	2013	2014	12
+Energie Cottbus	VfL Bochum	0:1	0:1	01.11.2013	18:30	2013	2014	13
+VfR Aalen	Fortuna DÃ¼sseldorf	1:0	1:0	01.11.2013	18:30	2013	2014	13
+SC Paderborn 07	FC Ingolstadt 04	0:1	1:1	01.11.2013	18:30	2013	2014	13
+1. FC Kaiserslautern	FC St. Pauli	1:1	4:1	02.11.2013	13:00	2013	2014	13
+Erzgebirge Aue	SpVgg Greuther FÃ¼rth	1:3	2:6	02.11.2013	13:00	2013	2014	13
+TSV 1860 MÃ¼nchen	Dynamo Dresden	1:2	1:3	03.11.2013	13:30	2013	2014	13
+SV Sandhausen	FSV Frankfurt	1:0	2:0	03.11.2013	13:30	2013	2014	13
+Karlsruher SC	Arminia Bielefeld	0:0	3:1	03.11.2013	13:30	2013	2014	13
+1. FC KÃ¶ln	1. FC Union Berlin	2:0	4:0	04.11.2013	20:15	2013	2014	13
+SpVgg Greuther FÃ¼rth	SC Paderborn 07	2:0	3:0	08.11.2013	18:30	2013	2014	14
+FSV Frankfurt	1. FC Kaiserslautern	0:3	0:4	08.11.2013	18:30	2013	2014	14
+FC Ingolstadt 04	VfR Aalen	1:0	2:0	08.11.2013	18:30	2013	2014	14
+1. FC Union Berlin	Karlsruher SC	0:0	0:0	09.11.2013	13:00	2013	2014	14
+Arminia Bielefeld	TSV 1860 MÃ¼nchen	0:0	0:1	09.11.2013	13:00	2013	2014	14
+Fortuna DÃ¼sseldorf	SV Sandhausen	0:0	1:0	10.11.2013	13:30	2013	2014	14
+VfL Bochum	1. FC KÃ¶ln	0:0	1:0	10.11.2013	13:30	2013	2014	14
+Dynamo Dresden	Erzgebirge Aue	0:0	1:1	10.11.2013	13:30	2013	2014	14
+FC St. Pauli	Energie Cottbus	1:0	3:0	11.11.2013	20:15	2013	2014	14
+Energie Cottbus	FSV Frankfurt	0:1	1:4	22.11.2013	18:30	2013	2014	15
+SV Sandhausen	SC Paderborn 07	1:1	3:2	22.11.2013	18:30	2013	2014	15
+Arminia Bielefeld	VfL Bochum	0:1	0:2	22.11.2013	18:30	2013	2014	15
+1. FC Kaiserslautern	1. FC Union Berlin	0:0	3:0	23.11.2013	13:00	2013	2014	15
+1. FC KÃ¶ln	FC Ingolstadt 04	0:0	0:1	23.11.2013	13:00	2013	2014	15
+VfR Aalen	FC St. Pauli	0:1	0:1	24.11.2013	13:30	2013	2014	15
+Erzgebirge Aue	Fortuna DÃ¼sseldorf	2:0	3:0	24.11.2013	13:30	2013	2014	15
+Karlsruher SC	Dynamo Dresden	2:0	3:0	24.11.2013	13:30	2013	2014	15
+TSV 1860 MÃ¼nchen	SpVgg Greuther FÃ¼rth	0:0	1:0	25.11.2013	20:15	2013	2014	15
+Fortuna DÃ¼sseldorf	Karlsruher SC	0:1	0:2	29.11.2013	18:30	2013	2014	16
+1. FC Union Berlin	VfR Aalen	0:0	1:3	29.11.2013	18:30	2013	2014	16
+FC St. Pauli	1. FC KÃ¶ln	0:2	0:3	29.11.2013	18:30	2013	2014	16
+FC Ingolstadt 04	SV Sandhausen	0:2	0:2	30.11.2013	13:00	2013	2014	16
+Dynamo Dresden	1. FC Kaiserslautern	1:1	3:2	30.11.2013	13:00	2013	2014	16
+SpVgg Greuther FÃ¼rth	Energie Cottbus	1:0	1:0	01.12.2013	13:30	2013	2014	16
+SC Paderborn 07	Erzgebirge Aue	1:0	1:1	01.12.2013	13:30	2013	2014	16
+VfL Bochum	TSV 1860 MÃ¼nchen	1:1	1:2	01.12.2013	13:30	2013	2014	16
+FSV Frankfurt	Arminia Bielefeld	1:2	1:2	02.12.2013	20:15	2013	2014	16
+Erzgebirge Aue	FC St. Pauli	0:2	0:2	06.12.2013	18:30	2013	2014	17
+Karlsruher SC	VfL Bochum	0:0	0:0	06.12.2013	18:30	2013	2014	17
+Arminia Bielefeld	Dynamo Dresden	0:0	1:1	06.12.2013	18:30	2013	2014	17
+1. FC KÃ¶ln	FSV Frankfurt	0:0	2:0	07.12.2013	13:00	2013	2014	17
+TSV 1860 MÃ¼nchen	1. FC Union Berlin	0:0	2:1	07.12.2013	13:00	2013	2014	17
+Energie Cottbus	FC Ingolstadt 04	1:1	1:2	08.12.2013	13:30	2013	2014	17
+VfR Aalen	SC Paderborn 07	2:2	2:4	08.12.2013	13:30	2013	2014	17
+SV Sandhausen	SpVgg Greuther FÃ¼rth	1:1	1:3	08.12.2013	13:30	2013	2014	17
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	0:1	0:1	09.12.2013	20:15	2013	2014	17
+VfR Aalen	SV Sandhausen	0:0	0:0	13.12.2013	18:30	2013	2014	18
+1. FC Kaiserslautern	SC Paderborn 07	0:0	0:1	13.12.2013	18:30	2013	2014	18
+1. FC KÃ¶ln	Dynamo Dresden	2:0	3:1	13.12.2013	18:30	2013	2014	18
+Energie Cottbus	Fortuna DÃ¼sseldorf	1:1	1:3	14.12.2013	13:00	2013	2014	18
+VfL Bochum	1. FC Union Berlin	0:2	0:4	14.12.2013	13:00	2013	2014	18
+Arminia Bielefeld	SpVgg Greuther FÃ¼rth	1:1	4:1	15.12.2013	13:30	2013	2014	18
+Karlsruher SC	FSV Frankfurt	3:0	3:3	15.12.2013	13:30	2013	2014	18
+Erzgebirge Aue	FC Ingolstadt 04	0:0	0:0	15.12.2013	13:30	2013	2014	18
+TSV 1860 MÃ¼nchen	FC St. Pauli	0:1	0:2	16.12.2013	20:15	2013	2014	18
+Dynamo Dresden	VfL Bochum	0:0	0:0	20.12.2013	18:30	2013	2014	19
+SV Sandhausen	Erzgebirge Aue	1:0	1:0	20.12.2013	18:30	2013	2014	19
+FC St. Pauli	Karlsruher SC	0:0	0:2	20.12.2013	18:30	2013	2014	19
+FSV Frankfurt	TSV 1860 MÃ¼nchen	1:1	2:2	21.12.2013	13:00	2013	2014	19
+1. FC Union Berlin	Arminia Bielefeld	3:1	4:2	21.12.2013	13:00	2013	2014	19
+SC Paderborn 07	Energie Cottbus	0:0	1:0	22.12.2013	13:30	2013	2014	19
+SpVgg Greuther FÃ¼rth	VfR Aalen	0:0	1:0	22.12.2013	13:30	2013	2014	19
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	0:2	2:3	22.12.2013	14:00	2013	2014	19
+FC Ingolstadt 04	1. FC Kaiserslautern	1:1	1:2	23.12.2013	20:15	2013	2014	19
+VfL Bochum	FSV Frankfurt	0:0	1:2	07.02.2014	18:30	2013	2014	20
+Energie Cottbus	SV Sandhausen	0:0	0:1	07.02.2014	18:30	2013	2014	20
+VfR Aalen	Erzgebirge Aue	1:1	2:2	07.02.2014	18:30	2013	2014	20
+1. FC Kaiserslautern	SpVgg Greuther FÃ¼rth	1:0	2:1	08.02.2014	13:00	2013	2014	20
+1. FC Union Berlin	Dynamo Dresden	0:0	0:0	08.02.2014	13:00	2013	2014	20
+Arminia Bielefeld	FC St. Pauli	0:1	2:2	09.02.2014	13:30	2013	2014	20
+1. FC KÃ¶ln	SC Paderborn 07	0:0	0:1	09.02.2014	13:30	2013	2014	20
+Karlsruher SC	FC Ingolstadt 04	1:1	1:1	09.02.2014	13:30	2013	2014	20
+TSV 1860 MÃ¼nchen	Fortuna DÃ¼sseldorf	0:0	1:1	10.02.2014	20:15	2013	2014	20
+FC Ingolstadt 04	TSV 1860 MÃ¼nchen	1:0	2:0	14.02.2014	18:30	2013	2014	21
+Fortuna DÃ¼sseldorf	1. FC Union Berlin	1:0	1:1	14.02.2014	18:30	2013	2014	21
+SpVgg Greuther FÃ¼rth	Karlsruher SC	0:1	1:1	14.02.2014	18:30	2013	2014	21
+FC St. Pauli	VfL Bochum	0:1	0:1	15.02.2014	13:00	2013	2014	21
+FSV Frankfurt	Dynamo Dresden	0:1	3:2	15.02.2014	13:00	2013	2014	21
+SV Sandhausen	1. FC KÃ¶ln	0:0	0:1	16.02.2014	13:30	2013	2014	21
+VfR Aalen	Energie Cottbus	1:1	2:2	16.02.2014	13:30	2013	2014	21
+SC Paderborn 07	Arminia Bielefeld	1:0	4:0	16.02.2014	13:30	2013	2014	21
+Erzgebirge Aue	1. FC Kaiserslautern	1:0	1:0	17.02.2014	20:15	2013	2014	21
+1. FC Union Berlin	FSV Frankfurt	1:0	2:0	21.02.2014	18:30	2013	2014	22
+Arminia Bielefeld	FC Ingolstadt 04	0:0	0:2	21.02.2014	18:30	2013	2014	22
+Energie Cottbus	Erzgebirge Aue	0:3	2:3	21.02.2014	18:30	2013	2014	22
+Karlsruher SC	SV Sandhausen	0:0	2:1	22.02.2014	13:00	2013	2014	22
+TSV 1860 MÃ¼nchen	SC Paderborn 07	0:2	2:2	22.02.2014	13:00	2013	2014	22
+VfL Bochum	Fortuna DÃ¼sseldorf	0:0	0:0	23.02.2014	13:30	2013	2014	22
+1. FC Kaiserslautern	VfR Aalen	0:1	1:2	23.02.2014	13:30	2013	2014	22
+Dynamo Dresden	FC St. Pauli	1:1	1:2	23.02.2014	13:30	2013	2014	22
+1. FC KÃ¶ln	SpVgg Greuther FÃ¼rth	1:0	1:1	24.02.2014	20:15	2013	2014	22
+Energie Cottbus	1. FC Kaiserslautern	1:0	1:0	28.02.2014	18:30	2013	2014	23
+SC Paderborn 07	VfL Bochum	0:1	4:1	28.02.2014	18:30	2013	2014	23
+Fortuna DÃ¼sseldorf	Arminia Bielefeld	1:0	2:0	28.02.2014	18:30	2013	2014	23
+Erzgebirge Aue	1. FC KÃ¶ln	1:0	2:2	01.03.2014	13:00	2013	2014	23
+SV Sandhausen	TSV 1860 MÃ¼nchen	0:0	0:0	01.03.2014	13:00	2013	2014	23
+SpVgg Greuther FÃ¼rth	FSV Frankfurt	1:2	3:2	02.03.2014	13:30	2013	2014	23
+FC Ingolstadt 04	Dynamo Dresden	1:1	1:1	02.03.2014	13:30	2013	2014	23
+VfR Aalen	Karlsruher SC	0:0	1:0	02.03.2014	13:30	2013	2014	23
+FC St. Pauli	1. FC Union Berlin	0:0	2:1	03.03.2014	20:15	2013	2014	23
+TSV 1860 MÃ¼nchen	VfR Aalen	3:0	4:0	07.03.2014	18:30	2013	2014	24
+1. FC Kaiserslautern	SV Sandhausen	0:1	2:1	07.03.2014	18:30	2013	2014	24
+1. FC KÃ¶ln	Energie Cottbus	0:0	2:1	07.03.2014	20:30	2013	2014	24
+1. FC Union Berlin	FC Ingolstadt 04	0:1	1:1	08.03.2014	13:00	2013	2014	24
+Arminia Bielefeld	Erzgebirge Aue	1:0	1:0	08.03.2014	13:00	2013	2014	24
+Dynamo Dresden	Fortuna DÃ¼sseldorf	0:0	1:1	09.03.2014	13:30	2013	2014	24
+FSV Frankfurt	FC St. Pauli	1:0	1:0	09.03.2014	13:30	2013	2014	24
+Karlsruher SC	SC Paderborn 07	1:0	4:0	09.03.2014	13:30	2013	2014	24
+VfL Bochum	SpVgg Greuther FÃ¼rth	0:1	0:2	10.03.2014	20:15	2013	2014	24
+FC Ingolstadt 04	FSV Frankfurt	0:1	0:1	14.03.2014	18:30	2013	2014	25
+VfR Aalen	VfL Bochum	0:1	0:2	14.03.2014	18:30	2013	2014	25
+SC Paderborn 07	Dynamo Dresden	2:0	2:1	14.03.2014	18:30	2013	2014	25
+Erzgebirge Aue	TSV 1860 MÃ¼nchen	0:1	2:2	15.03.2014	13:00	2013	2014	25
+Energie Cottbus	Karlsruher SC	0:0	1:0	15.03.2014	13:00	2013	2014	25
+SpVgg Greuther FÃ¼rth	1. FC Union Berlin	0:1	1:1	16.03.2014	13:30	2013	2014	25
+Fortuna DÃ¼sseldorf	FC St. Pauli	0:1	0:2	16.03.2014	13:30	2013	2014	25
+SV Sandhausen	Arminia Bielefeld	1:0	1:0	16.03.2014	13:30	2013	2014	25
+1. FC Kaiserslautern	1. FC KÃ¶ln	0:0	0:0	17.03.2014	20:15	2013	2014	25
+Dynamo Dresden	SpVgg Greuther FÃ¼rth	0:0	1:1	21.03.2014	18:30	2013	2014	26
+VfL Bochum	SV Sandhausen	0:1	0:1	21.03.2014	18:30	2013	2014	26
+1. FC Union Berlin	SC Paderborn 07	0:0	1:1	21.03.2014	18:30	2013	2014	26
+FSV Frankfurt	Fortuna DÃ¼sseldorf	0:0	0:0	22.03.2014	13:00	2013	2014	26
+1. FC KÃ¶ln	VfR Aalen	0:0	0:0	22.03.2014	13:00	2013	2014	26
+FC St. Pauli	FC Ingolstadt 04	0:0	0:0	22.03.2014	13:00	2013	2014	26
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	0:0	0:1	23.03.2014	13:30	2013	2014	26
+Arminia Bielefeld	Energie Cottbus	0:1	1:3	23.03.2014	13:30	2013	2014	26
+Karlsruher SC	Erzgebirge Aue	1:0	1:1	23.03.2014	13:30	2013	2014	26
+SpVgg Greuther FÃ¼rth	Fortuna DÃ¼sseldorf	1:0	4:1	25.03.2014	17:30	2013	2014	27
+SV Sandhausen	1. FC Union Berlin	1:1	2:1	25.03.2014	17:30	2013	2014	27
+SC Paderborn 07	FC St. Pauli	1:0	3:0	25.03.2014	17:30	2013	2014	27
+FC Ingolstadt 04	VfL Bochum	1:0	3:0	25.03.2014	17:30	2013	2014	27
+VfR Aalen	Dynamo Dresden	0:0	1:1	25.03.2014	17:30	2013	2014	27
+Erzgebirge Aue	FSV Frankfurt	0:1	2:1	26.03.2014	17:30	2013	2014	27
+Energie Cottbus	TSV 1860 MÃ¼nchen	1:0	1:2	26.03.2014	17:30	2013	2014	27
+1. FC KÃ¶ln	Karlsruher SC	1:0	2:0	26.03.2014	17:30	2013	2014	27
+1. FC Kaiserslautern	Arminia Bielefeld	1:1	1:1	26.03.2014	17:30	2013	2014	27
+FC St. Pauli	SpVgg Greuther FÃ¼rth	0:0	2:2	28.03.2014	18:30	2013	2014	28
+Dynamo Dresden	SV Sandhausen	0:0	0:0	28.03.2014	18:30	2013	2014	28
+Fortuna DÃ¼sseldorf	FC Ingolstadt 04	0:0	0:0	28.03.2014	18:30	2013	2014	28
+Karlsruher SC	1. FC Kaiserslautern	1:0	2:2	29.03.2014	13:00	2013	2014	28
+VfL Bochum	Erzgebirge Aue	0:0	1:0	29.03.2014	13:00	2013	2014	28
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	0:0	0:1	30.03.2014	13:30	2013	2014	28
+Arminia Bielefeld	VfR Aalen	0:0	0:0	30.03.2014	13:30	2013	2014	28
+FSV Frankfurt	SC Paderborn 07	0:1	1:3	30.03.2014	13:30	2013	2014	28
+1. FC Union Berlin	Energie Cottbus	1:0	2:0	31.03.2014	20:15	2013	2014	28
+SC Paderborn 07	Fortuna DÃ¼sseldorf	0:1	1:2	04.04.2014	18:30	2013	2014	29
+VfR Aalen	FSV Frankfurt	1:0	2:1	04.04.2014	18:30	2013	2014	29
+Energie Cottbus	Dynamo Dresden	0:0	0:0	04.04.2014	18:30	2013	2014	29
+SV Sandhausen	FC St. Pauli	0:0	2:3	05.04.2014	13:00	2013	2014	29
+1. FC KÃ¶ln	Arminia Bielefeld	1:0	2:0	05.04.2014	13:00	2013	2014	29
+Erzgebirge Aue	1. FC Union Berlin	2:2	3:2	06.04.2014	13:30	2013	2014	29
+1. FC Kaiserslautern	VfL Bochum	1:1	1:1	06.04.2014	13:30	2013	2014	29
+TSV 1860 MÃ¼nchen	Karlsruher SC	0:2	0:3	06.04.2014	13:30	2013	2014	29
+FC Ingolstadt 04	SpVgg Greuther FÃ¼rth	0:0	0:0	07.04.2014	20:15	2013	2014	29
+FC St. Pauli	1. FC Kaiserslautern	1:1	2:3	11.04.2014	18:30	2013	2014	30
+1. FC Union Berlin	1. FC KÃ¶ln	1:1	1:2	11.04.2014	18:30	2013	2014	30
+FC Ingolstadt 04	SC Paderborn 07	1:1	1:2	11.04.2014	18:30	2013	2014	30
+SpVgg Greuther FÃ¼rth	Erzgebirge Aue	1:1	2:1	12.04.2014	13:00	2013	2014	30
+Arminia Bielefeld	Karlsruher SC	0:0	0:0	12.04.2014	13:00	2013	2014	30
+VfL Bochum	Energie Cottbus	0:1	2:1	13.04.2014	13:30	2013	2014	30
+Fortuna DÃ¼sseldorf	VfR Aalen	1:0	3:1	13.04.2014	13:30	2013	2014	30
+FSV Frankfurt	SV Sandhausen	0:2	0:3	13.04.2014	13:30	2013	2014	30
+Dynamo Dresden	TSV 1860 MÃ¼nchen	4:1	4:2	14.04.2014	20:15	2013	2014	30
+SV Sandhausen	Fortuna DÃ¼sseldorf	0:2	0:3	17.04.2014	18:30	2013	2014	31
+Energie Cottbus	FC St. Pauli	0:0	1:1	17.04.2014	18:30	2013	2014	31
+Erzgebirge Aue	Dynamo Dresden	2:0	2:0	17.04.2014	18:30	2013	2014	31
+Karlsruher SC	1. FC Union Berlin	0:0	3:2	19.04.2014	13:00	2013	2014	31
+TSV 1860 MÃ¼nchen	Arminia Bielefeld	1:1	2:1	19.04.2014	13:00	2013	2014	31
+SC Paderborn 07	SpVgg Greuther FÃ¼rth	1:0	2:2	20.04.2014	13:30	2013	2014	31
+1. FC Kaiserslautern	FSV Frankfurt	3:2	3:2	20.04.2014	13:30	2013	2014	31
+VfR Aalen	FC Ingolstadt 04	0:0	0:0	20.04.2014	13:30	2013	2014	31
+1. FC KÃ¶ln	VfL Bochum	0:1	3:1	21.04.2014	20:15	2013	2014	31
+FC Ingolstadt 04	1. FC KÃ¶ln	1:0	1:1	25.04.2014	18:30	2013	2014	32
+SpVgg Greuther FÃ¼rth	TSV 1860 MÃ¼nchen	1:1	1:2	25.04.2014	18:30	2013	2014	32
+VfL Bochum	Arminia Bielefeld	0:3	1:4	25.04.2014	18:30	2013	2014	32
+FSV Frankfurt	Energie Cottbus	2:0	3:1	26.04.2014	13:00	2013	2014	32
+Fortuna DÃ¼sseldorf	Erzgebirge Aue	2:0	4:0	26.04.2014	13:00	2013	2014	32
+FC St. Pauli	VfR Aalen	0:1	0:3	27.04.2014	13:30	2013	2014	32
+SC Paderborn 07	SV Sandhausen	0:0	2:0	27.04.2014	13:30	2013	2014	32
+Dynamo Dresden	Karlsruher SC	1:1	2:2	27.04.2014	13:30	2013	2014	32
+1. FC Union Berlin	1. FC Kaiserslautern	1:1	1:1	28.04.2014	20:15	2013	2014	32
+Karlsruher SC	Fortuna DÃ¼sseldorf	1:2	2:2	04.05.2014	15:30	2013	2014	33
+Energie Cottbus	SpVgg Greuther FÃ¼rth	0:2	0:6	04.05.2014	15:30	2013	2014	33
+Arminia Bielefeld	FSV Frankfurt	0:0	0:0	04.05.2014	15:30	2013	2014	33
+VfR Aalen	1. FC Union Berlin	1:0	3:0	04.05.2014	15:30	2013	2014	33
+1. FC KÃ¶ln	FC St. Pauli	3:0	4:0	04.05.2014	15:30	2013	2014	33
+Erzgebirge Aue	SC Paderborn 07	0:1	0:2	04.05.2014	15:30	2013	2014	33
+SV Sandhausen	FC Ingolstadt 04	0:2	0:2	04.05.2014	15:30	2013	2014	33
+TSV 1860 MÃ¼nchen	VfL Bochum	1:0	2:0	04.05.2014	15:30	2013	2014	33
+1. FC Kaiserslautern	Dynamo Dresden	1:0	4:0	04.05.2014	15:30	2013	2014	33
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	2:2	4:2	11.05.2014	15:30	2013	2014	34
+FSV Frankfurt	1. FC KÃ¶ln	0:0	2:0	11.05.2014	15:30	2013	2014	34
+1. FC Union Berlin	TSV 1860 MÃ¼nchen	0:1	1:1	11.05.2014	15:30	2013	2014	34
+FC Ingolstadt 04	Energie Cottbus	1:0	2:0	11.05.2014	15:30	2013	2014	34
+SC Paderborn 07	VfR Aalen	2:1	2:1	11.05.2014	15:30	2013	2014	34
+SpVgg Greuther FÃ¼rth	SV Sandhausen	0:0	2:0	11.05.2014	15:30	2013	2014	34
+FC St. Pauli	Erzgebirge Aue	2:1	2:2	11.05.2014	15:30	2013	2014	34
+VfL Bochum	Karlsruher SC	0:0	1:0	11.05.2014	15:30	2013	2014	34
+Dynamo Dresden	Arminia Bielefeld	0:1	2:3	11.05.2014	15:30	2013	2014	34

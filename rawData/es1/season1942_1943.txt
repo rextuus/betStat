@@ -1,0 +1,182 @@
+Valencia CF	Atletico Madrid	2:0	3:0	27.09.1942	00:00	1942	1943	1
+Sevilla FC	Real Zaragoza	2:0	6:0	27.09.1942	00:00	1942	1943	1
+Athletic Bilbao	Real Betis	2:0	5:0	27.09.1942	00:00	1942	1943	1
+Espanyol Barcelona	Celta Vigo	0:0	1:0	27.09.1942	00:00	1942	1943	1
+Real Oviedo	CD CastellÃ³n	2:0	4:1	27.09.1942	00:00	1942	1943	1
+Real Madrid	FC Barcelona	1:0	3:0	27.09.1942	00:00	1942	1943	1
+Granada CF	Deportivo La CoruÃ±a	1:2	1:2	27.09.1942	00:00	1942	1943	1
+Real Betis	Sevilla FC	2:3	2:5	04.10.1942	00:00	1942	1943	2
+Celta Vigo	Real Oviedo	0:0	2:0	04.10.1942	00:00	1942	1943	2
+FC Barcelona	Valencia CF	1:1	1:2	04.10.1942	00:00	1942	1943	2
+Atletico Madrid	Espanyol Barcelona	2:0	2:3	04.10.1942	00:00	1942	1943	2
+CD CastellÃ³n	Athletic Bilbao	1:2	2:2	04.10.1942	00:00	1942	1943	2
+Deportivo La CoruÃ±a	Real Madrid	1:2	1:2	04.10.1942	00:00	1942	1943	2
+Real Zaragoza	Granada CF	2:2	2:3	04.10.1942	00:00	1942	1943	2
+Valencia CF	Espanyol Barcelona	2:0	3:0	11.10.1942	00:00	1942	1943	3
+Real Oviedo	Atletico Madrid	2:0	2:1	11.10.1942	00:00	1942	1943	3
+Real Madrid	Real Zaragoza	1:1	2:1	11.10.1942	00:00	1942	1943	3
+Granada CF	Real Betis	3:1	6:2	11.10.1942	00:00	1942	1943	3
+Athletic Bilbao	Celta Vigo	2:0	4:0	11.10.1942	00:00	1942	1943	3
+FC Barcelona	Deportivo La CoruÃ±a	0:1	1:1	11.10.1942	00:00	1942	1943	3
+Sevilla FC	CD CastellÃ³n	0:1	4:1	11.10.1942	00:00	1942	1943	3
+Real Betis	Real Madrid	2:1	3:1	18.10.1942	00:00	1942	1943	4
+Celta Vigo	Sevilla FC	0:0	1:0	18.10.1942	00:00	1942	1943	4
+CD CastellÃ³n	Granada CF	3:0	3:2	18.10.1942	00:00	1942	1943	4
+Espanyol Barcelona	Real Oviedo	3:0	5:0	18.10.1942	00:00	1942	1943	4
+Real Zaragoza	FC Barcelona	0:0	1:1	18.10.1942	00:00	1942	1943	4
+Deportivo La CoruÃ±a	Valencia CF	0:0	2:2	18.10.1942	00:00	1942	1943	4
+Atletico Madrid	Athletic Bilbao	2:1	2:3	18.10.1942	00:00	1942	1943	4
+Real Madrid	CD CastellÃ³n	0:0	0:0	25.10.1942	00:00	1942	1943	5
+Athletic Bilbao	Espanyol Barcelona	0:0	2:1	25.10.1942	00:00	1942	1943	5
+Sevilla FC	Atletico Madrid	1:1	2:1	25.10.1942	00:00	1942	1943	5
+Deportivo La CoruÃ±a	Real Zaragoza	2:1	3:1	25.10.1942	00:00	1942	1943	5
+FC Barcelona	Real Betis	3:0	4:1	25.10.1942	00:00	1942	1943	5
+Granada CF	Celta Vigo	0:1	3:1	25.10.1942	00:00	1942	1943	5
+Valencia CF	Real Oviedo	2:0	7:0	25.10.1942	00:00	1942	1943	5
+Atletico Madrid	Granada CF	4:0	7:1	01.11.1942	00:00	1942	1943	6
+Real Betis	Deportivo La CoruÃ±a	1:0	1:1	01.11.1942	00:00	1942	1943	6
+Espanyol Barcelona	Sevilla FC	1:0	1:2	01.11.1942	00:00	1942	1943	6
+Real Zaragoza	Valencia CF	0:0	0:0	01.11.1942	00:00	1942	1943	6
+Real Oviedo	Athletic Bilbao	1:2	3:3	01.11.1942	00:00	1942	1943	6
+Celta Vigo	Real Madrid	1:1	2:1	01.11.1942	00:00	1942	1943	6
+CD CastellÃ³n	FC Barcelona	0:1	0:2	01.11.1942	00:00	1942	1943	6
+Sevilla FC	Real Oviedo	0:2	0:5	08.11.1942	00:00	1942	1943	7
+Real Madrid	Atletico Madrid	1:2	1:3	08.11.1942	00:00	1942	1943	7
+Deportivo La CoruÃ±a	CD CastellÃ³n	0:1	0:1	08.11.1942	00:00	1942	1943	7
+Valencia CF	Athletic Bilbao	2:2	2:2	08.11.1942	00:00	1942	1943	7
+FC Barcelona	Celta Vigo	5:0	8:0	08.11.1942	00:00	1942	1943	7
+Granada CF	Espanyol Barcelona	2:2	2:2	08.11.1942	00:00	1942	1943	7
+Real Zaragoza	Real Betis	1:0	1:0	08.11.1942	00:00	1942	1943	7
+Real Oviedo	Granada CF	2:2	4:2	15.11.1942	00:00	1942	1943	8
+Celta Vigo	Deportivo La CoruÃ±a	0:0	0:1	15.11.1942	00:00	1942	1943	8
+Athletic Bilbao	Sevilla FC	4:0	5:0	15.11.1942	00:00	1942	1943	8
+Real Betis	Valencia CF	1:1	2:2	15.11.1942	00:00	1942	1943	8
+Atletico Madrid	FC Barcelona	1:0	4:0	15.11.1942	00:00	1942	1943	8
+Espanyol Barcelona	Real Madrid	2:1	4:2	15.11.1942	00:00	1942	1943	8
+CD CastellÃ³n	Real Zaragoza	2:0	3:0	17.11.1942	00:00	1942	1943	8
+FC Barcelona	Espanyol Barcelona	1:0	2:0	22.11.1942	00:00	1942	1943	9
+Deportivo La CoruÃ±a	Atletico Madrid	0:0	0:0	22.11.1942	00:00	1942	1943	9
+Valencia CF	Sevilla FC	4:1	4:2	22.11.1942	00:00	1942	1943	9
+Real Zaragoza	Celta Vigo	0:1	1:2	22.11.1942	00:00	1942	1943	9
+Real Madrid	Real Oviedo	1:1	2:1	22.11.1942	00:00	1942	1943	9
+Real Betis	CD CastellÃ³n	0:0	1:1	22.11.1942	00:00	1942	1943	9
+Granada CF	Athletic Bilbao	0:2	1:3	22.11.1942	00:00	1942	1943	9
+Celta Vigo	Real Betis	2:1	4:2	29.11.1942	00:00	1942	1943	10
+Atletico Madrid	Real Zaragoza	1:1	3:1	29.11.1942	00:00	1942	1943	10
+Espanyol Barcelona	Deportivo La CoruÃ±a	0:0	1:1	29.11.1942	00:00	1942	1943	10
+Real Oviedo	FC Barcelona	1:0	3:2	29.11.1942	00:00	1942	1943	10
+Athletic Bilbao	Real Madrid	1:2	3:2	29.11.1942	00:00	1942	1943	10
+CD CastellÃ³n	Valencia CF	1:0	1:0	29.11.1942	00:00	1942	1943	10
+Sevilla FC	Granada CF	0:1	3:2	29.11.1942	00:00	1942	1943	10
+FC Barcelona	Athletic Bilbao	0:2	1:3	06.12.1942	00:00	1942	1943	11
+Real Zaragoza	Espanyol Barcelona	1:0	4:2	06.12.1942	00:00	1942	1943	11
+Real Betis	Atletico Madrid	1:1	1:2	06.12.1942	00:00	1942	1943	11
+Real Madrid	Sevilla FC	0:1	1:1	06.12.1942	00:00	1942	1943	11
+CD CastellÃ³n	Celta Vigo	3:0	5:0	06.12.1942	00:00	1942	1943	11
+Deportivo La CoruÃ±a	Real Oviedo	0:0	0:1	06.12.1942	00:00	1942	1943	11
+Valencia CF	Granada CF	1:1	3:2	06.12.1942	00:00	1942	1943	11
+Granada CF	Real Madrid	1:0	1:0	13.12.1942	00:00	1942	1943	12
+Atletico Madrid	CD CastellÃ³n	4:0	5:1	13.12.1942	00:00	1942	1943	12
+Athletic Bilbao	Deportivo La CoruÃ±a	0:2	0:2	13.12.1942	00:00	1942	1943	12
+Valencia CF	Celta Vigo	1:1	1:1	13.12.1942	00:00	1942	1943	12
+Espanyol Barcelona	Real Betis	1:0	3:0	13.12.1942	00:00	1942	1943	12
+Sevilla FC	FC Barcelona	4:1	4:2	13.12.1942	00:00	1942	1943	12
+Real Oviedo	Real Zaragoza	1:1	1:1	13.12.1942	00:00	1942	1943	12
+FC Barcelona	Granada CF	1:0	5:2	27.12.1942	00:00	1942	1943	13
+Real Zaragoza	Athletic Bilbao	0:1	0:1	27.12.1942	00:00	1942	1943	13
+CD CastellÃ³n	Espanyol Barcelona	1:0	2:1	27.12.1942	00:00	1942	1943	13
+Real Madrid	Valencia CF	0:0	0:1	27.12.1942	00:00	1942	1943	13
+Celta Vigo	Atletico Madrid	1:0	1:1	27.12.1942	00:00	1942	1943	13
+Deportivo La CoruÃ±a	Sevilla FC	1:0	1:1	27.12.1942	00:00	1942	1943	13
+Real Betis	Real Oviedo	0:1	1:2	27.12.1942	00:00	1942	1943	13
+Real Betis	Athletic Bilbao	2:0	3:1	10.01.1943	00:00	1942	1943	14
+Celta Vigo	Espanyol Barcelona	1:1	3:2	10.01.1943	00:00	1942	1943	14
+Atletico Madrid	Valencia CF	0:0	1:1	10.01.1943	00:00	1942	1943	14
+Real Zaragoza	Sevilla FC	3:3	3:4	10.01.1943	00:00	1942	1943	14
+CD CastellÃ³n	Real Oviedo	2:0	3:0	10.01.1943	00:00	1942	1943	14
+Deportivo La CoruÃ±a	Granada CF	1:0	2:2	10.01.1943	00:00	1942	1943	14
+FC Barcelona	Real Madrid	4:2	5:5	10.01.1943	00:00	1942	1943	14
+Real Oviedo	Celta Vigo	0:0	1:0	17.01.1943	00:00	1942	1943	15
+Real Madrid	Deportivo La CoruÃ±a	2:1	4:3	17.01.1943	00:00	1942	1943	15
+Sevilla FC	Real Betis	4:0	5:0	17.01.1943	00:00	1942	1943	15
+Granada CF	Real Zaragoza	1:0	1:1	17.01.1943	00:00	1942	1943	15
+Espanyol Barcelona	Atletico Madrid	1:0	4:2	17.01.1943	00:00	1942	1943	15
+Valencia CF	FC Barcelona	1:0	2:4	17.01.1943	00:00	1942	1943	15
+Athletic Bilbao	CD CastellÃ³n	1:0	4:0	17.01.1943	00:00	1942	1943	15
+Real Zaragoza	Real Madrid	0:1	0:2	24.01.1943	00:00	1942	1943	16
+Deportivo La CoruÃ±a	FC Barcelona	0:1	2:2	24.01.1943	00:00	1942	1943	16
+Celta Vigo	Athletic Bilbao	2:0	4:1	24.01.1943	00:00	1942	1943	16
+Espanyol Barcelona	Valencia CF	1:0	1:0	24.01.1943	00:00	1942	1943	16
+CD CastellÃ³n	Sevilla FC	1:0	2:0	24.01.1943	00:00	1942	1943	16
+Atletico Madrid	Real Oviedo	0:0	3:0	24.01.1943	00:00	1942	1943	16
+Real Betis	Granada CF	0:0	0:1	24.01.1943	00:00	1942	1943	16
+Real Oviedo	Espanyol Barcelona	2:1	3:1	31.01.1943	00:00	1942	1943	17
+Sevilla FC	Celta Vigo	1:0	2:0	31.01.1943	00:00	1942	1943	17
+Granada CF	CD CastellÃ³n	1:2	1:2	31.01.1943	00:00	1942	1943	17
+Valencia CF	Deportivo La CoruÃ±a	0:0	1:0	31.01.1943	00:00	1942	1943	17
+Athletic Bilbao	Atletico Madrid	1:1	5:2	31.01.1943	00:00	1942	1943	17
+Real Madrid	Real Betis	2:1	3:1	31.01.1943	00:00	1942	1943	17
+FC Barcelona	Real Zaragoza	0:1	4:1	31.01.1943	00:00	1942	1943	17
+Celta Vigo	Granada CF	2:1	8:3	07.02.1943	00:00	1942	1943	18
+CD CastellÃ³n	Real Madrid	3:0	3:0	07.02.1943	00:00	1942	1943	18
+Real Betis	FC Barcelona	0:1	0:2	07.02.1943	00:00	1942	1943	18
+Espanyol Barcelona	Athletic Bilbao	1:1	2:2	07.02.1943	00:00	1942	1943	18
+Real Oviedo	Valencia CF	0:1	4:1	07.02.1943	00:00	1942	1943	18
+Atletico Madrid	Sevilla FC	0:0	1:0	07.02.1943	00:00	1942	1943	18
+Real Zaragoza	Deportivo La CoruÃ±a	1:0	1:1	07.02.1943	00:00	1942	1943	18
+FC Barcelona	CD CastellÃ³n	5:1	7:1	14.02.1943	00:00	1942	1943	19
+Athletic Bilbao	Real Oviedo	3:1	8:1	14.02.1943	00:00	1942	1943	19
+Real Madrid	Celta Vigo	2:1	2:4	14.02.1943	00:00	1942	1943	19
+Deportivo La CoruÃ±a	Real Betis	0:0	0:0	14.02.1943	00:00	1942	1943	19
+Valencia CF	Real Zaragoza	2:0	7:0	14.02.1943	00:00	1942	1943	19
+Sevilla FC	Espanyol Barcelona	3:0	4:2	14.02.1943	00:00	1942	1943	19
+Granada CF	Atletico Madrid	0:0	3:1	14.02.1943	00:00	1942	1943	19
+Athletic Bilbao	Valencia CF	1:1	5:1	21.02.1943	00:00	1942	1943	20
+Espanyol Barcelona	Granada CF	1:1	2:1	21.02.1943	00:00	1942	1943	20
+CD CastellÃ³n	Deportivo La CoruÃ±a	2:1	3:1	21.02.1943	00:00	1942	1943	20
+Real Betis	Real Zaragoza	0:1	1:1	21.02.1943	00:00	1942	1943	20
+Celta Vigo	FC Barcelona	2:0	4:2	21.02.1943	00:00	1942	1943	20
+Atletico Madrid	Real Madrid	1:0	2:1	21.02.1943	00:00	1942	1943	20
+Real Oviedo	Sevilla FC	2:2	4:4	21.02.1943	00:00	1942	1943	20
+Granada CF	Real Oviedo	1:1	3:1	28.02.1943	00:00	1942	1943	21
+Real Zaragoza	CD CastellÃ³n	0:0	0:0	28.02.1943	00:00	1942	1943	21
+Deportivo La CoruÃ±a	Celta Vigo	1:0	3:1	28.02.1943	00:00	1942	1943	21
+Valencia CF	Real Betis	2:1	8:3	28.02.1943	00:00	1942	1943	21
+FC Barcelona	Atletico Madrid	3:0	5:0	28.02.1943	00:00	1942	1943	21
+Real Madrid	Espanyol Barcelona	2:0	7:0	28.02.1943	00:00	1942	1943	21
+Sevilla FC	Athletic Bilbao	0:0	2:0	28.02.1943	00:00	1942	1943	21
+Espanyol Barcelona	FC Barcelona	0:1	1:3	07.03.1943	00:00	1942	1943	22
+Sevilla FC	Valencia CF	1:1	3:1	07.03.1943	00:00	1942	1943	22
+Celta Vigo	Real Zaragoza	2:1	3:2	07.03.1943	00:00	1942	1943	22
+CD CastellÃ³n	Real Betis	1:0	3:0	07.03.1943	00:00	1942	1943	22
+Atletico Madrid	Deportivo La CoruÃ±a	1:1	1:2	07.03.1943	00:00	1942	1943	22
+Athletic Bilbao	Granada CF	1:0	4:1	07.03.1943	00:00	1942	1943	22
+Real Oviedo	Real Madrid	1:1	3:4	07.03.1943	00:00	1942	1943	22
+Real Betis	Celta Vigo	0:2	1:3	14.03.1943	00:00	1942	1943	23
+Granada CF	Sevilla FC	3:2	4:3	14.03.1943	00:00	1942	1943	23
+FC Barcelona	Real Oviedo	2:0	6:2	14.03.1943	00:00	1942	1943	23
+Deportivo La CoruÃ±a	Espanyol Barcelona	1:0	2:2	14.03.1943	00:00	1942	1943	23
+Real Madrid	Athletic Bilbao	1:0	2:0	14.03.1943	00:00	1942	1943	23
+Real Zaragoza	Atletico Madrid	2:1	2:2	14.03.1943	00:00	1942	1943	23
+Valencia CF	CD CastellÃ³n	0:1	1:2	14.03.1943	00:00	1942	1943	23
+Sevilla FC	Real Madrid	1:0	3:0	21.03.1943	00:00	1942	1943	24
+Athletic Bilbao	FC Barcelona	2:1	5:2	21.03.1943	00:00	1942	1943	24
+Granada CF	Valencia CF	2:1	4:2	21.03.1943	00:00	1942	1943	24
+Espanyol Barcelona	Real Zaragoza	0:0	0:0	21.03.1943	00:00	1942	1943	24
+Atletico Madrid	Real Betis	2:1	5:1	21.03.1943	00:00	1942	1943	24
+Real Oviedo	Deportivo La CoruÃ±a	0:0	1:1	21.03.1943	00:00	1942	1943	24
+Celta Vigo	CD CastellÃ³n	2:0	5:0	21.03.1943	00:00	1942	1943	24
+CD CastellÃ³n	Atletico Madrid	0:0	0:0	27.03.1943	00:00	1942	1943	25
+Real Madrid	Granada CF	2:2	2:2	28.03.1943	00:00	1942	1943	25
+Real Zaragoza	Real Oviedo	0:2	1:3	28.03.1943	00:00	1942	1943	25
+FC Barcelona	Sevilla FC	2:0	3:1	28.03.1943	00:00	1942	1943	25
+Celta Vigo	Valencia CF	0:0	2:0	28.03.1943	00:00	1942	1943	25
+Deportivo La CoruÃ±a	Athletic Bilbao	1:0	2:0	28.03.1943	00:00	1942	1943	25
+Real Betis	Espanyol Barcelona	1:1	1:1	28.03.1943	00:00	1942	1943	25
+Espanyol Barcelona	CD CastellÃ³n	3:0	3:1	04.04.1943	00:00	1942	1943	26
+Valencia CF	Real Madrid	3:1	3:3	04.04.1943	00:00	1942	1943	26
+Granada CF	FC Barcelona	2:2	2:3	04.04.1943	00:00	1942	1943	26
+Athletic Bilbao	Real Zaragoza	1:0	2:0	04.04.1943	00:00	1942	1943	26
+Real Oviedo	Real Betis	1:1	4:1	04.04.1943	00:00	1942	1943	26
+Atletico Madrid	Celta Vigo	3:1	3:1	04.04.1943	00:00	1942	1943	26
+Sevilla FC	Deportivo La CoruÃ±a	0:1	2:1	04.04.1943	00:00	1942	1943	26

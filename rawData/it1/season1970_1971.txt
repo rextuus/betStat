@@ -1,0 +1,240 @@
+SSC Napoli	AS Varese 1910	1:0	1:0	27.09.1970	00:00	1970	1971	1
+Hellas Verona	Inter	0:0	1:2	27.09.1970	00:00	1970	1971	1
+Torino FC	US Foggia	0:0	1:1	27.09.1970	00:00	1970	1971	1
+AS Roma	ACF Fiorentina	0:1	0:1	27.09.1970	00:00	1970	1971	1
+Calcio Catania	Juventus	0:0	0:1	27.09.1970	00:00	1970	1971	1
+AC Milan	Lazio Roma	1:0	1:1	27.09.1970	00:00	1970	1971	1
+Bologna FC	Lanerossi Vicenza	0:0	3:0	27.09.1970	00:00	1970	1971	1
+Cagliari Calcio	Sampdoria	0:0	2:1	27.09.1970	00:00	1970	1971	1
+Juventus	Bologna FC	0:0	0:0	07.10.1970	00:00	1970	1971	2
+AS Varese 1910	Torino FC	0:0	0:0	07.10.1970	00:00	1970	1971	2
+Sampdoria	SSC Napoli	0:0	0:1	07.10.1970	00:00	1970	1971	2
+Lanerossi Vicenza	Calcio Catania	0:0	0:0	07.10.1970	00:00	1970	1971	2
+Inter	AS Roma	0:0	0:0	07.10.1970	00:00	1970	1971	2
+US Foggia	AC Milan	0:1	1:1	07.10.1970	00:00	1970	1971	2
+ACF Fiorentina	Hellas Verona	0:1	1:1	07.10.1970	00:00	1970	1971	2
+Lazio Roma	Cagliari Calcio	1:2	2:4	07.10.1970	00:00	1970	1971	2
+AC Milan	Sampdoria	2:0	3:1	11.10.1970	00:00	1970	1971	3
+SSC Napoli	US Foggia	0:0	0:0	11.10.1970	00:00	1970	1971	3
+Hellas Verona	Juventus	0:0	0:0	11.10.1970	00:00	1970	1971	3
+Torino FC	Lazio Roma	0:1	1:1	11.10.1970	00:00	1970	1971	3
+Bologna FC	Inter	1:0	2:2	11.10.1970	00:00	1970	1971	3
+Calcio Catania	ACF Fiorentina	0:0	0:0	11.10.1970	00:00	1970	1971	3
+Cagliari Calcio	AS Varese 1910	1:1	1:1	11.10.1970	00:00	1970	1971	3
+AS Roma	Lanerossi Vicenza	3:0	4:1	11.10.1970	00:00	1970	1971	3
+Juventus	AC Milan	0:1	0:2	25.10.1970	00:00	1970	1971	4
+AS Varese 1910	AS Roma	0:0	0:0	25.10.1970	00:00	1970	1971	4
+Sampdoria	Calcio Catania	0:0	2:0	25.10.1970	00:00	1970	1971	4
+Lanerossi Vicenza	Torino FC	0:0	1:1	25.10.1970	00:00	1970	1971	4
+Inter	Cagliari Calcio	0:2	1:3	25.10.1970	00:00	1970	1971	4
+US Foggia	Bologna FC	0:1	1:1	25.10.1970	00:00	1970	1971	4
+ACF Fiorentina	SSC Napoli	0:1	0:1	25.10.1970	00:00	1970	1971	4
+Lazio Roma	Hellas Verona	0:0	1:1	25.10.1970	00:00	1970	1971	4
+AC Milan	Inter	0:0	3:0	08.11.1970	00:00	1970	1971	5
+SSC Napoli	Juventus	1:0	1:0	08.11.1970	00:00	1970	1971	5
+Hellas Verona	Lanerossi Vicenza	0:0	1:0	08.11.1970	00:00	1970	1971	5
+Torino FC	ACF Fiorentina	0:1	1:1	08.11.1970	00:00	1970	1971	5
+Bologna FC	Lazio Roma	2:0	2:0	08.11.1970	00:00	1970	1971	5
+Calcio Catania	AS Varese 1910	0:0	0:0	08.11.1970	00:00	1970	1971	5
+Cagliari Calcio	US Foggia	1:1	1:1	08.11.1970	00:00	1970	1971	5
+AS Roma	Sampdoria	0:0	0:0	08.11.1970	00:00	1970	1971	5
+Juventus	Cagliari Calcio	1:0	2:1	15.11.1970	00:00	1970	1971	6
+AS Varese 1910	Bologna FC	0:0	0:0	15.11.1970	00:00	1970	1971	6
+Sampdoria	Hellas Verona	0:0	3:0	15.11.1970	00:00	1970	1971	6
+Lanerossi Vicenza	SSC Napoli	0:1	0:1	15.11.1970	00:00	1970	1971	6
+Inter	Torino FC	0:0	2:0	15.11.1970	00:00	1970	1971	6
+US Foggia	Calcio Catania	0:0	1:0	15.11.1970	00:00	1970	1971	6
+ACF Fiorentina	AC Milan	0:3	2:5	15.11.1970	00:00	1970	1971	6
+Lazio Roma	AS Roma	0:0	1:1	15.11.1970	00:00	1970	1971	6
+AC Milan	Lanerossi Vicenza	2:1	3:1	22.11.1970	00:00	1970	1971	7
+SSC Napoli	Inter	0:0	2:1	22.11.1970	00:00	1970	1971	7
+Hellas Verona	AS Varese 1910	1:0	1:1	22.11.1970	00:00	1970	1971	7
+Torino FC	Juventus	0:0	2:1	22.11.1970	00:00	1970	1971	7
+Calcio Catania	Lazio Roma	1:1	3:1	22.11.1970	00:00	1970	1971	7
+Cagliari Calcio	ACF Fiorentina	2:0	2:0	22.11.1970	00:00	1970	1971	7
+Bologna FC	Sampdoria	0:1	1:1	22.11.1970	00:00	1970	1971	7
+AS Roma	US Foggia	0:0	3:1	22.11.1970	00:00	1970	1971	7
+Juventus	AS Roma	0:0	2:0	29.11.1970	00:00	1970	1971	8
+Sampdoria	Torino FC	0:0	0:0	29.11.1970	00:00	1970	1971	8
+Lanerossi Vicenza	Cagliari Calcio	0:1	1:1	29.11.1970	00:00	1970	1971	8
+AS Varese 1910	AC Milan	1:1	1:1	29.11.1970	00:00	1970	1971	8
+Inter	Calcio Catania	1:1	3:2	29.11.1970	00:00	1970	1971	8
+US Foggia	Hellas Verona	3:0	3:0	29.11.1970	00:00	1970	1971	8
+ACF Fiorentina	Bologna FC	1:1	1:2	29.11.1970	00:00	1970	1971	8
+Lazio Roma	SSC Napoli	0:0	0:0	29.11.1970	00:00	1970	1971	8
+AS Varese 1910	Juventus	0:0	0:0	13.12.1970	00:00	1970	1971	9
+Torino FC	SSC Napoli	0:0	1:1	13.12.1970	00:00	1970	1971	9
+AS Roma	Cagliari Calcio	0:0	0:0	13.12.1970	00:00	1970	1971	9
+Sampdoria	ACF Fiorentina	0:2	2:2	13.12.1970	00:00	1970	1971	9
+Lanerossi Vicenza	Inter	0:0	1:2	13.12.1970	00:00	1970	1971	9
+Bologna FC	Calcio Catania	1:0	2:0	13.12.1970	00:00	1970	1971	9
+US Foggia	Lazio Roma	0:0	5:2	13.12.1970	00:00	1970	1971	9
+AC Milan	Hellas Verona	1:0	1:1	13.12.1970	00:00	1970	1971	9
+Inter	AS Varese 1910	2:0	3:2	20.12.1970	00:00	1970	1971	10
+Hellas Verona	Torino FC	1:0	1:0	20.12.1970	00:00	1970	1971	10
+SSC Napoli	AC Milan	0:0	0:2	20.12.1970	00:00	1970	1971	10
+Juventus	Lanerossi Vicenza	1:1	2:1	20.12.1970	00:00	1970	1971	10
+ACF Fiorentina	US Foggia	2:0	3:0	20.12.1970	00:00	1970	1971	10
+Calcio Catania	AS Roma	1:1	1:2	20.12.1970	00:00	1970	1971	10
+Cagliari Calcio	Bologna FC	1:0	2:1	20.12.1970	00:00	1970	1971	10
+Lazio Roma	Sampdoria	0:0	1:0	20.12.1970	00:00	1970	1971	10
+Inter	Juventus	1:0	2:0	27.12.1970	00:00	1970	1971	11
+Lanerossi Vicenza	AS Varese 1910	3:1	3:1	27.12.1970	00:00	1970	1971	11
+Torino FC	AC Milan	0:1	1:1	27.12.1970	00:00	1970	1971	11
+AS Roma	Bologna FC	0:1	1:1	27.12.1970	00:00	1970	1971	11
+Calcio Catania	Cagliari Calcio	1:0	1:1	27.12.1970	00:00	1970	1971	11
+US Foggia	Sampdoria	1:0	2:2	27.12.1970	00:00	1970	1971	11
+ACF Fiorentina	Lazio Roma	1:0	1:1	27.12.1970	00:00	1970	1971	11
+SSC Napoli	Hellas Verona	1:0	2:0	27.12.1970	00:00	1970	1971	11
+Lanerossi Vicenza	US Foggia	1:0	1:0	03.01.1971	00:00	1970	1971	12
+Sampdoria	Inter	0:0	0:2	03.01.1971	00:00	1970	1971	12
+AC Milan	Calcio Catania	4:0	4:0	03.01.1971	00:00	1970	1971	12
+AS Varese 1910	ACF Fiorentina	0:0	0:0	03.01.1971	00:00	1970	1971	12
+Juventus	Lazio Roma	2:0	3:1	03.01.1971	00:00	1970	1971	12
+Cagliari Calcio	Torino FC	0:0	0:0	03.01.1971	00:00	1970	1971	12
+Bologna FC	Hellas Verona	1:2	2:2	03.01.1971	00:00	1970	1971	12
+AS Roma	SSC Napoli	0:2	2:2	03.01.1971	00:00	1970	1971	12
+SSC Napoli	Cagliari Calcio	0:0	1:0	10.01.1971	00:00	1970	1971	13
+Torino FC	AS Roma	1:0	4:0	10.01.1971	00:00	1970	1971	13
+Hellas Verona	Calcio Catania	0:0	1:1	10.01.1971	00:00	1970	1971	13
+Sampdoria	Juventus	1:0	2:0	10.01.1971	00:00	1970	1971	13
+Lazio Roma	AS Varese 1910	0:0	0:0	10.01.1971	00:00	1970	1971	13
+ACF Fiorentina	Lanerossi Vicenza	0:0	0:0	10.01.1971	00:00	1970	1971	13
+US Foggia	Inter	1:1	1:1	10.01.1971	00:00	1970	1971	13
+AC Milan	Bologna FC	1:0	2:1	10.01.1971	00:00	1970	1971	13
+Inter	ACF Fiorentina	1:0	2:1	17.01.1971	00:00	1970	1971	14
+AS Roma	Hellas Verona	0:0	0:0	17.01.1971	00:00	1970	1971	14
+Juventus	US Foggia	2:0	2:1	17.01.1971	00:00	1970	1971	14
+AS Varese 1910	Sampdoria	0:0	1:1	17.01.1971	00:00	1970	1971	14
+Calcio Catania	Torino FC	0:0	1:0	17.01.1971	00:00	1970	1971	14
+Cagliari Calcio	AC Milan	0:3	0:4	17.01.1971	00:00	1970	1971	14
+Bologna FC	SSC Napoli	1:0	1:0	17.01.1971	00:00	1970	1971	14
+Lanerossi Vicenza	Lazio Roma	0:0	1:0	17.01.1971	00:00	1970	1971	14
+SSC Napoli	Calcio Catania	0:0	1:0	24.01.1971	00:00	1970	1971	15
+Torino FC	Bologna FC	1:0	1:0	24.01.1971	00:00	1970	1971	15
+Hellas Verona	Cagliari Calcio	1:0	2:0	24.01.1971	00:00	1970	1971	15
+Sampdoria	Lanerossi Vicenza	1:1	1:2	24.01.1971	00:00	1970	1971	15
+AC Milan	AS Roma	1:1	2:2	24.01.1971	00:00	1970	1971	15
+Lazio Roma	Inter	0:1	0:1	24.01.1971	00:00	1970	1971	15
+ACF Fiorentina	Juventus	1:1	1:2	24.01.1971	00:00	1970	1971	15
+US Foggia	AS Varese 1910	0:1	2:2	24.01.1971	00:00	1970	1971	15
+US Foggia	Torino FC	0:0	1:0	31.01.1971	00:00	1970	1971	16
+Sampdoria	Cagliari Calcio	0:0	0:0	31.01.1971	00:00	1970	1971	16
+AS Varese 1910	SSC Napoli	1:0	1:1	31.01.1971	00:00	1970	1971	16
+Lazio Roma	AC Milan	0:1	0:1	31.01.1971	00:00	1970	1971	16
+Inter	Hellas Verona	0:0	1:0	31.01.1971	00:00	1970	1971	16
+ACF Fiorentina	AS Roma	1:1	2:2	31.01.1971	00:00	1970	1971	16
+Juventus	Calcio Catania	2:0	5:0	31.01.1971	00:00	1970	1971	16
+Lanerossi Vicenza	Bologna FC	0:0	0:0	31.01.1971	00:00	1970	1971	16
+AC Milan	US Foggia	0:0	2:0	07.02.1971	00:00	1970	1971	17
+Torino FC	AS Varese 1910	2:1	3:1	07.02.1971	00:00	1970	1971	17
+SSC Napoli	Sampdoria	0:0	0:0	07.02.1971	00:00	1970	1971	17
+Hellas Verona	ACF Fiorentina	1:1	1:1	07.02.1971	00:00	1970	1971	17
+Calcio Catania	Lanerossi Vicenza	1:1	1:1	07.02.1971	00:00	1970	1971	17
+Cagliari Calcio	Lazio Roma	0:0	2:1	07.02.1971	00:00	1970	1971	17
+Bologna FC	Juventus	0:0	1:0	07.02.1971	00:00	1970	1971	17
+AS Roma	Inter	0:0	0:0	07.02.1971	00:00	1970	1971	17
+Lanerossi Vicenza	AS Roma	0:0	0:0	14.02.1971	00:00	1970	1971	18
+AS Varese 1910	Cagliari Calcio	2:0	4:1	14.02.1971	00:00	1970	1971	18
+Sampdoria	AC Milan	1:1	1:1	14.02.1971	00:00	1970	1971	18
+Lazio Roma	Torino FC	0:0	1:0	14.02.1971	00:00	1970	1971	18
+Juventus	Hellas Verona	1:1	2:1	14.02.1971	00:00	1970	1971	18
+Inter	Bologna FC	0:0	1:0	14.02.1971	00:00	1970	1971	18
+ACF Fiorentina	Calcio Catania	1:1	1:1	14.02.1971	00:00	1970	1971	18
+US Foggia	SSC Napoli	0:1	0:3	14.02.1971	00:00	1970	1971	18
+SSC Napoli	ACF Fiorentina	0:0	0:0	28.02.1971	00:00	1970	1971	19
+Torino FC	Lanerossi Vicenza	1:0	2:3	28.02.1971	00:00	1970	1971	19
+Hellas Verona	Lazio Roma	1:0	1:0	28.02.1971	00:00	1970	1971	19
+AS Roma	AS Varese 1910	1:0	3:0	28.02.1971	00:00	1970	1971	19
+Calcio Catania	Sampdoria	1:2	1:3	28.02.1971	00:00	1970	1971	19
+Bologna FC	US Foggia	1:2	1:2	28.02.1971	00:00	1970	1971	19
+Cagliari Calcio	Inter	0:0	0:0	28.02.1971	00:00	1970	1971	19
+AC Milan	Juventus	0:1	1:1	28.02.1971	00:00	1970	1971	19
+Juventus	SSC Napoli	3:0	4:1	07.03.1971	00:00	1970	1971	20
+AS Varese 1910	Calcio Catania	0:0	0:1	07.03.1971	00:00	1970	1971	20
+Sampdoria	AS Roma	0:0	0:0	07.03.1971	00:00	1970	1971	20
+ACF Fiorentina	Torino FC	0:0	1:1	07.03.1971	00:00	1970	1971	20
+Lanerossi Vicenza	Hellas Verona	0:0	0:0	07.03.1971	00:00	1970	1971	20
+Inter	AC Milan	2:0	2:0	07.03.1971	00:00	1970	1971	20
+US Foggia	Cagliari Calcio	0:0	0:0	07.03.1971	00:00	1970	1971	20
+Lazio Roma	Bologna FC	0:0	2:2	07.03.1971	00:00	1970	1971	20
+Calcio Catania	US Foggia	0:0	2:0	14.03.1971	00:00	1970	1971	21
+Torino FC	Inter	0:1	0:2	14.03.1971	00:00	1970	1971	21
+AS Roma	Lazio Roma	1:1	2:2	14.03.1971	00:00	1970	1971	21
+Hellas Verona	Sampdoria	1:0	3:1	14.03.1971	00:00	1970	1971	21
+AC Milan	ACF Fiorentina	0:0	1:0	14.03.1971	00:00	1970	1971	21
+Cagliari Calcio	Juventus	1:0	1:1	14.03.1971	00:00	1970	1971	21
+Bologna FC	AS Varese 1910	1:0	1:0	14.03.1971	00:00	1970	1971	21
+SSC Napoli	Lanerossi Vicenza	1:0	1:0	14.03.1971	00:00	1970	1971	21
+ACF Fiorentina	Cagliari Calcio	1:1	1:2	21.03.1971	00:00	1970	1971	22
+US Foggia	AS Roma	1:0	1:0	21.03.1971	00:00	1970	1971	22
+Inter	SSC Napoli	0:1	2:1	21.03.1971	00:00	1970	1971	22
+Juventus	Torino FC	1:2	3:3	21.03.1971	00:00	1970	1971	22
+Lanerossi Vicenza	AC Milan	1:0	1:1	21.03.1971	00:00	1970	1971	22
+Lazio Roma	Calcio Catania	1:0	1:0	21.03.1971	00:00	1970	1971	22
+Sampdoria	Bologna FC	0:1	1:2	21.03.1971	00:00	1970	1971	22
+AS Varese 1910	Hellas Verona	1:0	2:0	21.03.1971	00:00	1970	1971	22
+SSC Napoli	Lazio Roma	2:0	2:0	28.03.1971	00:00	1970	1971	23
+Torino FC	Sampdoria	0:0	0:0	28.03.1971	00:00	1970	1971	23
+AS Roma	Juventus	0:0	0:0	28.03.1971	00:00	1970	1971	23
+Calcio Catania	Inter	0:0	0:1	28.03.1971	00:00	1970	1971	23
+Cagliari Calcio	Lanerossi Vicenza	0:0	1:1	28.03.1971	00:00	1970	1971	23
+Bologna FC	ACF Fiorentina	0:0	0:0	28.03.1971	00:00	1970	1971	23
+Hellas Verona	US Foggia	0:1	1:1	28.03.1971	00:00	1970	1971	23
+AC Milan	AS Varese 1910	1:1	1:2	28.03.1971	00:00	1970	1971	23
+ACF Fiorentina	Sampdoria	0:0	0:0	04.04.1971	00:00	1970	1971	24
+Hellas Verona	AC Milan	0:1	1:3	04.04.1971	00:00	1970	1971	24
+SSC Napoli	Torino FC	1:0	2:0	04.04.1971	00:00	1970	1971	24
+Lazio Roma	US Foggia	1:1	2:1	04.04.1971	00:00	1970	1971	24
+Inter	Lanerossi Vicenza	0:0	2:1	04.04.1971	00:00	1970	1971	24
+Calcio Catania	Bologna FC	0:0	0:0	04.04.1971	00:00	1970	1971	24
+Cagliari Calcio	AS Roma	0:0	0:1	04.04.1971	00:00	1970	1971	24
+Juventus	AS Varese 1910	1:0	2:2	04.04.1971	00:00	1970	1971	24
+Sampdoria	Lazio Roma	1:2	2:3	11.04.1971	00:00	1970	1971	25
+Lanerossi Vicenza	Juventus	0:1	1:1	11.04.1971	00:00	1970	1971	25
+AS Varese 1910	Inter	0:2	1:3	11.04.1971	00:00	1970	1971	25
+Torino FC	Hellas Verona	0:0	1:0	11.04.1971	00:00	1970	1971	25
+AC Milan	SSC Napoli	1:1	1:1	11.04.1971	00:00	1970	1971	25
+Bologna FC	Cagliari Calcio	0:0	0:0	11.04.1971	00:00	1970	1971	25
+US Foggia	ACF Fiorentina	1:0	1:1	11.04.1971	00:00	1970	1971	25
+AS Roma	Calcio Catania	2:0	5:0	11.04.1971	00:00	1970	1971	25
+Lazio Roma	ACF Fiorentina	0:0	0:0	18.04.1971	00:00	1970	1971	26
+Hellas Verona	SSC Napoli	0:1	0:2	18.04.1971	00:00	1970	1971	26
+AS Varese 1910	Lanerossi Vicenza	0:0	0:0	18.04.1971	00:00	1970	1971	26
+AC Milan	Torino FC	0:0	1:0	18.04.1971	00:00	1970	1971	26
+Juventus	Inter	1:0	1:1	18.04.1971	00:00	1970	1971	26
+Cagliari Calcio	Calcio Catania	0:1	1:1	18.04.1971	00:00	1970	1971	26
+Bologna FC	AS Roma	0:0	0:0	18.04.1971	00:00	1970	1971	26
+Sampdoria	US Foggia	1:0	2:0	18.04.1971	00:00	1970	1971	26
+SSC Napoli	AS Roma	1:1	1:2	25.04.1971	00:00	1970	1971	27
+Calcio Catania	AC Milan	0:0	0:0	25.04.1971	00:00	1970	1971	27
+Torino FC	Cagliari Calcio	1:1	2:1	25.04.1971	00:00	1970	1971	27
+Hellas Verona	Bologna FC	0:0	0:0	25.04.1971	00:00	1970	1971	27
+Inter	Sampdoria	0:0	3:1	25.04.1971	00:00	1970	1971	27
+ACF Fiorentina	AS Varese 1910	0:0	1:1	25.04.1971	00:00	1970	1971	27
+Lazio Roma	Juventus	1:1	2:2	25.04.1971	00:00	1970	1971	27
+US Foggia	Lanerossi Vicenza	0:1	1:1	25.04.1971	00:00	1970	1971	27
+Inter	US Foggia	1:0	5:0	02.05.1971	00:00	1970	1971	28
+AS Varese 1910	Lazio Roma	1:0	2:1	02.05.1971	00:00	1970	1971	28
+AS Roma	Torino FC	1:0	1:1	02.05.1971	00:00	1970	1971	28
+Juventus	Sampdoria	2:0	3:1	02.05.1971	00:00	1970	1971	28
+Calcio Catania	Hellas Verona	0:1	0:1	02.05.1971	00:00	1970	1971	28
+Cagliari Calcio	SSC Napoli	0:1	1:1	02.05.1971	00:00	1970	1971	28
+Bologna FC	AC Milan	1:2	3:2	02.05.1971	00:00	1970	1971	28
+Lanerossi Vicenza	ACF Fiorentina	0:1	0:1	02.05.1971	00:00	1970	1971	28
+US Foggia	Juventus	0:0	0:0	16.05.1971	00:00	1970	1971	29
+Torino FC	Calcio Catania	1:1	1:1	16.05.1971	00:00	1970	1971	29
+Hellas Verona	AS Roma	0:0	1:0	16.05.1971	00:00	1970	1971	29
+Sampdoria	AS Varese 1910	1:0	2:1	16.05.1971	00:00	1970	1971	29
+SSC Napoli	Bologna FC	2:0	3:0	16.05.1971	00:00	1970	1971	29
+Lazio Roma	Lanerossi Vicenza	0:1	0:1	16.05.1971	00:00	1970	1971	29
+ACF Fiorentina	Inter	1:0	2:2	16.05.1971	00:00	1970	1971	29
+AC Milan	Cagliari Calcio	0:1	3:1	16.05.1971	00:00	1970	1971	29
+AS Roma	AC Milan	1:1	1:1	23.05.1971	00:00	1970	1971	30
+Bologna FC	Torino FC	0:0	1:0	23.05.1971	00:00	1970	1971	30
+Cagliari Calcio	Hellas Verona	2:0	4:1	23.05.1971	00:00	1970	1971	30
+Calcio Catania	SSC Napoli	0:0	1:0	23.05.1971	00:00	1970	1971	30
+Inter	Lazio Roma	0:1	1:1	23.05.1971	00:00	1970	1971	30
+Juventus	ACF Fiorentina	0:0	1:1	23.05.1971	00:00	1970	1971	30
+Lanerossi Vicenza	Sampdoria	0:0	0:0	23.05.1971	00:00	1970	1971	30
+AS Varese 1910	US Foggia	3:0	3:0	23.05.1971	00:00	1970	1971	30

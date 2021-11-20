@@ -1,0 +1,240 @@
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:2	0:4	09.09.1956	00:00	1956	1957	1
+Real Sociedad	Sevilla FC	1:0	1:1	09.09.1956	00:00	1956	1957	1
+Real Zaragoza	Celta Vigo	1:0	2:0	09.09.1956	00:00	1956	1957	1
+Athletic Bilbao	Real Valladolid	1:0	4:0	09.09.1956	00:00	1956	1957	1
+FC Barcelona	CA Osasuna	1:0	2:0	09.09.1956	00:00	1956	1957	1
+UD Las Palmas	Real JaÃ©n	0:0	2:0	09.09.1956	00:00	1956	1957	1
+Real Madrid	CD Condal	2:0	6:0	09.09.1956	00:00	1956	1957	1
+Valencia CF	Espanyol Barcelona	2:0	3:1	09.09.1956	00:00	1956	1957	1
+CD Condal	Real Zaragoza	0:0	0:0	15.09.1956	00:00	1956	1957	2
+Sevilla FC	Valencia CF	2:0	3:2	16.09.1956	00:00	1956	1957	2
+Real JaÃ©n	Deportivo La CoruÃ±a	2:2	2:3	16.09.1956	00:00	1956	1957	2
+CA Osasuna	Real Sociedad	1:1	1:2	16.09.1956	00:00	1956	1957	2
+Real Valladolid	FC Barcelona	2:0	2:1	16.09.1956	00:00	1956	1957	2
+Espanyol Barcelona	Real Madrid	0:0	0:0	16.09.1956	00:00	1956	1957	2
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	0:0	16.09.1956	00:00	1956	1957	2
+Celta Vigo	UD Las Palmas	1:1	3:3	16.09.1956	00:00	1956	1957	2
+Real Madrid	Sevilla FC	1:0	1:1	23.09.1956	00:00	1956	1957	3
+Celta Vigo	CD Condal	1:1	2:2	23.09.1956	00:00	1956	1957	3
+Athletic Bilbao	Real JaÃ©n	2:1	3:1	23.09.1956	00:00	1956	1957	3
+Valencia CF	CA Osasuna	1:1	4:1	23.09.1956	00:00	1956	1957	3
+Real Sociedad	Real Valladolid	0:0	2:3	23.09.1956	00:00	1956	1957	3
+FC Barcelona	AtlÃ©tico Madrid	3:0	7:3	23.09.1956	00:00	1956	1957	3
+Real Zaragoza	Espanyol Barcelona	0:0	2:0	23.09.1956	00:00	1956	1957	3
+UD Las Palmas	Deportivo La CoruÃ±a	2:0	2:0	23.09.1956	00:00	1956	1957	3
+AtlÃ©tico Madrid	Real Sociedad	1:0	3:0	30.09.1956	00:00	1956	1957	4
+Sevilla FC	Real Zaragoza	1:0	3:0	30.09.1956	00:00	1956	1957	4
+Espanyol Barcelona	Celta Vigo	2:0	2:0	30.09.1956	00:00	1956	1957	4
+Deportivo La CoruÃ±a	Athletic Bilbao	1:2	1:2	30.09.1956	00:00	1956	1957	4
+CA Osasuna	Real Madrid	1:0	2:0	30.09.1956	00:00	1956	1957	4
+Real JaÃ©n	FC Barcelona	1:1	1:2	30.09.1956	00:00	1956	1957	4
+Real Valladolid	Valencia CF	2:0	4:0	30.09.1956	00:00	1956	1957	4
+UD Las Palmas	CD Condal	1:2	3:3	30.09.1956	00:00	1956	1957	4
+CD Condal	Espanyol Barcelona	1:0	3:0	06.10.1956	00:00	1956	1957	5
+Celta Vigo	Sevilla FC	2:1	3:3	07.10.1956	00:00	1956	1957	5
+Real Sociedad	Real JaÃ©n	1:0	2:0	07.10.1956	00:00	1956	1957	5
+Real Zaragoza	CA Osasuna	0:1	0:2	07.10.1956	00:00	1956	1957	5
+FC Barcelona	Deportivo La CoruÃ±a	0:0	3:1	07.10.1956	00:00	1956	1957	5
+Athletic Bilbao	UD Las Palmas	3:0	3:0	07.10.1956	00:00	1956	1957	5
+Valencia CF	AtlÃ©tico Madrid	2:0	2:2	07.10.1956	00:00	1956	1957	5
+Real Madrid	Real Valladolid	2:0	3:1	07.10.1956	00:00	1956	1957	5
+Real JaÃ©n	Valencia CF	1:1	2:2	14.10.1956	00:00	1956	1957	6
+Espanyol Barcelona	UD Las Palmas	1:0	2:0	14.10.1956	00:00	1956	1957	6
+CA Osasuna	Celta Vigo	0:1	2:1	14.10.1956	00:00	1956	1957	6
+Sevilla FC	CD Condal	2:0	2:1	14.10.1956	00:00	1956	1957	6
+Athletic Bilbao	FC Barcelona	0:0	1:1	14.10.1956	00:00	1956	1957	6
+AtlÃ©tico Madrid	Real Madrid	0:2	2:4	14.10.1956	00:00	1956	1957	6
+Real Valladolid	Real Zaragoza	3:0	4:1	14.10.1956	00:00	1956	1957	6
+Deportivo La CoruÃ±a	Real Sociedad	3:0	4:0	14.10.1956	00:00	1956	1957	6
+CD Condal	CA Osasuna	0:0	0:0	20.10.1956	00:00	1956	1957	7
+Real Zaragoza	AtlÃ©tico Madrid	2:1	2:1	21.10.1956	00:00	1956	1957	7
+Real Madrid	Real JaÃ©n	5:0	7:1	21.10.1956	00:00	1956	1957	7
+Valencia CF	Deportivo La CoruÃ±a	0:0	3:0	21.10.1956	00:00	1956	1957	7
+Espanyol Barcelona	Sevilla FC	1:1	2:2	21.10.1956	00:00	1956	1957	7
+Real Sociedad	Athletic Bilbao	2:4	3:4	21.10.1956	00:00	1956	1957	7
+UD Las Palmas	FC Barcelona	1:0	1:0	21.10.1956	00:00	1956	1957	7
+Celta Vigo	Real Valladolid	1:1	1:1	21.10.1956	00:00	1956	1957	7
+FC Barcelona	Real Sociedad	0:0	1:0	28.10.1956	00:00	1956	1957	8
+UD Las Palmas	Sevilla FC	1:1	2:1	28.10.1956	00:00	1956	1957	8
+Real Valladolid	CD Condal	1:0	3:0	28.10.1956	00:00	1956	1957	8
+AtlÃ©tico Madrid	Celta Vigo	1:0	1:0	28.10.1956	00:00	1956	1957	8
+Deportivo La CoruÃ±a	Real Madrid	1:1	1:2	28.10.1956	00:00	1956	1957	8
+Athletic Bilbao	Valencia CF	2:0	3:1	28.10.1956	00:00	1956	1957	8
+CA Osasuna	Espanyol Barcelona	3:0	5:0	28.10.1956	00:00	1956	1957	8
+Real JaÃ©n	Real Zaragoza	0:1	0:1	28.10.1956	00:00	1956	1957	8
+CD Condal	AtlÃ©tico Madrid	1:2	1:2	03.11.1956	00:00	1956	1957	9
+Real Sociedad	UD Las Palmas	1:1	2:2	04.11.1956	00:00	1956	1957	9
+Celta Vigo	Real JaÃ©n	2:0	4:0	04.11.1956	00:00	1956	1957	9
+Sevilla FC	CA Osasuna	1:1	3:1	04.11.1956	00:00	1956	1957	9
+Espanyol Barcelona	Real Valladolid	2:0	4:0	04.11.1956	00:00	1956	1957	9
+Real Madrid	Athletic Bilbao	2:0	3:0	04.11.1956	00:00	1956	1957	9
+Valencia CF	FC Barcelona	1:1	3:3	04.11.1956	00:00	1956	1957	9
+Real Zaragoza	Deportivo La CoruÃ±a	1:1	2:2	04.11.1956	00:00	1956	1957	9
+Real Valladolid	Sevilla FC	0:2	1:2	11.11.1956	00:00	1956	1957	10
+Athletic Bilbao	Real Zaragoza	3:0	5:0	11.11.1956	00:00	1956	1957	10
+Real JaÃ©n	CD Condal	2:0	2:0	11.11.1956	00:00	1956	1957	10
+UD Las Palmas	CA Osasuna	1:0	1:1	11.11.1956	00:00	1956	1957	10
+Real Sociedad	Valencia CF	1:0	1:2	11.11.1956	00:00	1956	1957	10
+AtlÃ©tico Madrid	Espanyol Barcelona	7:1	8:1	11.11.1956	00:00	1956	1957	10
+FC Barcelona	Real Madrid	0:0	1:0	11.11.1956	00:00	1956	1957	10
+Deportivo La CoruÃ±a	Celta Vigo	0:1	0:3	11.11.1956	00:00	1956	1957	10
+CD Condal	Deportivo La CoruÃ±a	0:1	2:1	17.11.1956	00:00	1956	1957	11
+UD Las Palmas	Valencia CF	0:0	1:0	18.11.1956	00:00	1956	1957	11
+Espanyol Barcelona	Real JaÃ©n	2:0	3:0	18.11.1956	00:00	1956	1957	11
+CA Osasuna	Real Valladolid	0:0	1:0	18.11.1956	00:00	1956	1957	11
+Sevilla FC	AtlÃ©tico Madrid	2:0	5:1	18.11.1956	00:00	1956	1957	11
+Celta Vigo	Athletic Bilbao	2:0	3:0	18.11.1956	00:00	1956	1957	11
+Real Zaragoza	FC Barcelona	2:0	2:0	18.11.1956	00:00	1956	1957	11
+Real Madrid	Real Sociedad	3:0	3:0	18.11.1956	00:00	1956	1957	11
+Deportivo La CoruÃ±a	Espanyol Barcelona	2:1	2:1	25.11.1956	00:00	1956	1957	12
+Athletic Bilbao	CD Condal	2:0	3:0	25.11.1956	00:00	1956	1957	12
+AtlÃ©tico Madrid	CA Osasuna	1:0	2:0	25.11.1956	00:00	1956	1957	12
+Real Valladolid	UD Las Palmas	3:0	6:2	25.11.1956	00:00	1956	1957	12
+Real JaÃ©n	Sevilla FC	1:1	3:1	25.11.1956	00:00	1956	1957	12
+FC Barcelona	Celta Vigo	4:1	4:1	25.11.1956	00:00	1956	1957	12
+Valencia CF	Real Madrid	0:0	1:2	25.11.1956	00:00	1956	1957	12
+Real Sociedad	Real Zaragoza	0:0	1:1	25.11.1956	00:00	1956	1957	12
+CD Condal	FC Barcelona	0:1	1:1	01.12.1956	00:00	1956	1957	13
+Real Valladolid	AtlÃ©tico Madrid	3:1	4:3	02.12.1956	00:00	1956	1957	13
+CA Osasuna	Real JaÃ©n	0:0	1:1	02.12.1956	00:00	1956	1957	13
+Sevilla FC	Deportivo La CoruÃ±a	3:0	5:1	02.12.1956	00:00	1956	1957	13
+Celta Vigo	Real Sociedad	0:1	2:3	02.12.1956	00:00	1956	1957	13
+Real Zaragoza	Valencia CF	0:0	0:0	02.12.1956	00:00	1956	1957	13
+Espanyol Barcelona	Athletic Bilbao	2:0	3:0	02.12.1956	00:00	1956	1957	13
+Real Madrid	UD Las Palmas	2:0	3:0	02.12.1956	00:00	1956	1957	13
+UD Las Palmas	AtlÃ©tico Madrid	1:1	1:1	16.12.1956	00:00	1956	1957	14
+Deportivo La CoruÃ±a	CA Osasuna	1:1	3:1	16.12.1956	00:00	1956	1957	14
+Real Sociedad	CD Condal	0:0	1:0	16.12.1956	00:00	1956	1957	14
+Real JaÃ©n	Real Valladolid	0:0	2:0	16.12.1956	00:00	1956	1957	14
+Valencia CF	Celta Vigo	2:0	3:1	16.12.1956	00:00	1956	1957	14
+Athletic Bilbao	Sevilla FC	2:0	5:0	16.12.1956	00:00	1956	1957	14
+FC Barcelona	Espanyol Barcelona	1:1	1:1	16.12.1956	00:00	1956	1957	14
+Real Madrid	Real Zaragoza	0:1	3:3	16.12.1956	00:00	1956	1957	14
+CD Condal	Valencia CF	1:1	1:1	22.12.1956	00:00	1956	1957	15
+AtlÃ©tico Madrid	Real JaÃ©n	0:1	1:1	23.12.1956	00:00	1956	1957	15
+Celta Vigo	Real Madrid	0:1	0:3	23.12.1956	00:00	1956	1957	15
+Sevilla FC	FC Barcelona	2:0	2:1	23.12.1956	00:00	1956	1957	15
+CA Osasuna	Athletic Bilbao	1:1	1:2	23.12.1956	00:00	1956	1957	15
+Espanyol Barcelona	Real Sociedad	0:0	1:0	23.12.1956	00:00	1956	1957	15
+Real Zaragoza	UD Las Palmas	1:1	3:2	23.12.1956	00:00	1956	1957	15
+Real Valladolid	Deportivo La CoruÃ±a	1:1	3:2	23.12.1956	00:00	1956	1957	15
+CD Condal	Real Madrid	0:0	0:1	29.12.1956	00:00	1956	1957	16
+CA Osasuna	FC Barcelona	0:1	2:2	30.12.1956	00:00	1956	1957	16
+Real Valladolid	Athletic Bilbao	2:0	2:0	30.12.1956	00:00	1956	1957	16
+Espanyol Barcelona	Valencia CF	1:0	3:0	30.12.1956	00:00	1956	1957	16
+Sevilla FC	Real Sociedad	1:1	3:2	30.12.1956	00:00	1956	1957	16
+Celta Vigo	Real Zaragoza	5:0	5:0	30.12.1956	00:00	1956	1957	16
+Real JaÃ©n	UD Las Palmas	0:0	0:0	30.12.1956	00:00	1956	1957	16
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	2:0	6:0	30.12.1956	00:00	1956	1957	16
+FC Barcelona	Real Valladolid	0:0	4:0	06.01.1957	00:00	1956	1957	17
+Real Zaragoza	CD Condal	1:2	2:3	06.01.1957	00:00	1956	1957	17
+Real Sociedad	CA Osasuna	0:0	0:0	06.01.1957	00:00	1956	1957	17
+Real Madrid	Espanyol Barcelona	3:0	7:2	06.01.1957	00:00	1956	1957	17
+Valencia CF	Sevilla FC	0:0	2:0	06.01.1957	00:00	1956	1957	17
+Athletic Bilbao	AtlÃ©tico Madrid	1:2	1:4	06.01.1957	00:00	1956	1957	17
+UD Las Palmas	Celta Vigo	0:0	1:0	06.01.1957	00:00	1956	1957	17
+Deportivo La CoruÃ±a	Real JaÃ©n	2:1	3:1	06.01.1957	00:00	1956	1957	17
+CD Condal	Celta Vigo	0:2	0:3	12.01.1957	00:00	1956	1957	18
+AtlÃ©tico Madrid	FC Barcelona	1:0	2:1	13.01.1957	00:00	1956	1957	18
+Deportivo La CoruÃ±a	UD Las Palmas	1:0	1:2	13.01.1957	00:00	1956	1957	18
+Espanyol Barcelona	Real Zaragoza	2:0	2:0	13.01.1957	00:00	1956	1957	18
+Real Valladolid	Real Sociedad	1:0	2:2	13.01.1957	00:00	1956	1957	18
+Real JaÃ©n	Athletic Bilbao	2:0	4:2	13.01.1957	00:00	1956	1957	18
+Sevilla FC	Real Madrid	1:0	2:0	13.01.1957	00:00	1956	1957	18
+CA Osasuna	Valencia CF	0:0	2:0	13.01.1957	00:00	1956	1957	18
+CD Condal	UD Las Palmas	2:0	2:0	19.01.1957	00:00	1956	1957	19
+Valencia CF	Real Valladolid	0:0	0:0	20.01.1957	00:00	1956	1957	19
+Athletic Bilbao	Deportivo La CoruÃ±a	2:0	2:0	20.01.1957	00:00	1956	1957	19
+Real Madrid	CA Osasuna	0:0	2:1	20.01.1957	00:00	1956	1957	19
+Real Sociedad	AtlÃ©tico Madrid	2:1	2:1	20.01.1957	00:00	1956	1957	19
+Celta Vigo	Espanyol Barcelona	0:0	0:0	20.01.1957	00:00	1956	1957	19
+Real Zaragoza	Sevilla FC	1:0	3:1	20.01.1957	00:00	1956	1957	19
+FC Barcelona	Real JaÃ©n	3:1	4:2	20.01.1957	00:00	1956	1957	19
+UD Las Palmas	Athletic Bilbao	2:0	4:0	27.01.1957	00:00	1956	1957	20
+Espanyol Barcelona	CD Condal	0:0	2:1	27.01.1957	00:00	1956	1957	20
+Sevilla FC	Celta Vigo	1:0	2:0	27.01.1957	00:00	1956	1957	20
+CA Osasuna	Real Zaragoza	2:0	2:0	27.01.1957	00:00	1956	1957	20
+AtlÃ©tico Madrid	Valencia CF	0:0	1:0	27.01.1957	00:00	1956	1957	20
+Deportivo La CoruÃ±a	FC Barcelona	0:3	1:6	27.01.1957	00:00	1956	1957	20
+Real Valladolid	Real Madrid	2:1	3:3	27.01.1957	00:00	1956	1957	20
+Real JaÃ©n	Real Sociedad	1:0	3:0	27.01.1957	00:00	1956	1957	20
+CD Condal	Sevilla FC	2:1	5:1	02.02.1957	00:00	1956	1957	21
+UD Las Palmas	Espanyol Barcelona	0:2	2:2	03.02.1957	00:00	1956	1957	21
+Celta Vigo	CA Osasuna	0:0	1:0	03.02.1957	00:00	1956	1957	21
+Real Sociedad	Deportivo La CoruÃ±a	0:0	2:0	03.02.1957	00:00	1956	1957	21
+Valencia CF	Real JaÃ©n	1:1	3:1	03.02.1957	00:00	1956	1957	21
+FC Barcelona	Athletic Bilbao	2:0	2:0	03.02.1957	00:00	1956	1957	21
+Real Zaragoza	Real Valladolid	2:0	3:1	03.02.1957	00:00	1956	1957	21
+Real Madrid	AtlÃ©tico Madrid	0:2	0:2	03.02.1957	00:00	1956	1957	21
+Athletic Bilbao	Real Sociedad	1:0	2:0	10.02.1957	00:00	1956	1957	22
+CA Osasuna	CD Condal	2:0	2:1	10.02.1957	00:00	1956	1957	22
+FC Barcelona	UD Las Palmas	1:1	6:1	10.02.1957	00:00	1956	1957	22
+AtlÃ©tico Madrid	Real Zaragoza	2:0	2:1	10.02.1957	00:00	1956	1957	22
+Deportivo La CoruÃ±a	Valencia CF	0:0	1:0	10.02.1957	00:00	1956	1957	22
+Sevilla FC	Espanyol Barcelona	0:0	3:0	10.02.1957	00:00	1956	1957	22
+Real JaÃ©n	Real Madrid	1:3	2:4	10.02.1957	00:00	1956	1957	22
+Real Valladolid	Celta Vigo	1:0	1:1	10.02.1957	00:00	1956	1957	22
+CD Condal	Real Valladolid	1:0	4:0	16.02.1957	00:00	1956	1957	23
+Sevilla FC	UD Las Palmas	3:1	3:1	17.02.1957	00:00	1956	1957	23
+Real Zaragoza	Real JaÃ©n	2:0	2:0	17.02.1957	00:00	1956	1957	23
+Espanyol Barcelona	CA Osasuna	1:0	1:1	17.02.1957	00:00	1956	1957	23
+Celta Vigo	AtlÃ©tico Madrid	1:0	1:0	17.02.1957	00:00	1956	1957	23
+Valencia CF	Athletic Bilbao	0:1	1:2	17.02.1957	00:00	1956	1957	23
+Real Sociedad	FC Barcelona	1:0	2:2	17.02.1957	00:00	1956	1957	23
+Real Madrid	Deportivo La CoruÃ±a	1:0	1:0	17.02.1957	00:00	1956	1957	23
+CA Osasuna	Sevilla FC	3:1	5:2	24.02.1957	00:00	1956	1957	24
+AtlÃ©tico Madrid	CD Condal	5:2	6:2	24.02.1957	00:00	1956	1957	24
+Real JaÃ©n	Celta Vigo	2:0	2:0	24.02.1957	00:00	1956	1957	24
+UD Las Palmas	Real Sociedad	1:0	1:1	24.02.1957	00:00	1956	1957	24
+FC Barcelona	Valencia CF	2:0	3:2	24.02.1957	00:00	1956	1957	24
+Real Valladolid	Espanyol Barcelona	0:0	2:2	24.02.1957	00:00	1956	1957	24
+Athletic Bilbao	Real Madrid	2:1	4:2	24.02.1957	00:00	1956	1957	24
+Deportivo La CoruÃ±a	Real Zaragoza	3:1	4:1	24.02.1957	00:00	1956	1957	24
+CD Condal	Real JaÃ©n	1:0	1:0	02.03.1957	00:00	1956	1957	25
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	0:1	03.03.1957	00:00	1956	1957	25
+Valencia CF	Real Sociedad	2:1	3:2	03.03.1957	00:00	1956	1957	25
+Celta Vigo	Deportivo La CoruÃ±a	1:0	1:1	03.03.1957	00:00	1956	1957	25
+Sevilla FC	Real Valladolid	0:0	2:0	03.03.1957	00:00	1956	1957	25
+Real Zaragoza	Athletic Bilbao	1:1	1:1	03.03.1957	00:00	1956	1957	25
+Real Madrid	FC Barcelona	1:0	1:0	03.03.1957	00:00	1956	1957	25
+CA Osasuna	UD Las Palmas	1:0	2:1	03.03.1957	00:00	1956	1957	25
+FC Barcelona	Real Zaragoza	2:1	4:2	17.03.1957	00:00	1956	1957	26
+Deportivo La CoruÃ±a	CD Condal	2:0	3:0	17.03.1957	00:00	1956	1957	26
+Real Valladolid	CA Osasuna	1:0	3:0	17.03.1957	00:00	1956	1957	26
+Athletic Bilbao	Celta Vigo	1:0	1:0	17.03.1957	00:00	1956	1957	26
+AtlÃ©tico Madrid	Sevilla FC	1:2	1:2	17.03.1957	00:00	1956	1957	26
+Real JaÃ©n	Espanyol Barcelona	0:0	0:0	17.03.1957	00:00	1956	1957	26
+Real Sociedad	Real Madrid	1:0	3:0	17.03.1957	00:00	1956	1957	26
+Valencia CF	UD Las Palmas	0:2	2:2	17.03.1957	00:00	1956	1957	26
+CD Condal	Athletic Bilbao	2:2	3:3	23.03.1957	00:00	1956	1957	27
+Celta Vigo	FC Barcelona	0:1	0:2	24.03.1957	00:00	1956	1957	27
+Sevilla FC	Real JaÃ©n	2:0	3:0	24.03.1957	00:00	1956	1957	27
+Espanyol Barcelona	Deportivo La CoruÃ±a	2:0	2:0	24.03.1957	00:00	1956	1957	27
+UD Las Palmas	Real Valladolid	2:0	3:2	24.03.1957	00:00	1956	1957	27
+Real Madrid	Valencia CF	1:0	2:0	24.03.1957	00:00	1956	1957	27
+Real Zaragoza	Real Sociedad	0:0	1:0	24.03.1957	00:00	1956	1957	27
+CA Osasuna	AtlÃ©tico Madrid	0:0	2:1	24.03.1957	00:00	1956	1957	27
+Valencia CF	Real Zaragoza	1:0	1:0	07.04.1957	00:00	1956	1957	28
+FC Barcelona	CD Condal	2:0	5:0	07.04.1957	00:00	1956	1957	28
+Real JaÃ©n	CA Osasuna	2:0	2:0	07.04.1957	00:00	1956	1957	28
+Real Sociedad	Celta Vigo	2:0	3:0	07.04.1957	00:00	1956	1957	28
+Deportivo La CoruÃ±a	Sevilla FC	1:1	3:1	07.04.1957	00:00	1956	1957	28
+Athletic Bilbao	Espanyol Barcelona	2:0	4:0	07.04.1957	00:00	1956	1957	28
+UD Las Palmas	Real Madrid	1:2	1:5	07.04.1957	00:00	1956	1957	28
+AtlÃ©tico Madrid	Real Valladolid	1:2	1:3	07.04.1957	00:00	1956	1957	28
+CD Condal	Real Sociedad	1:0	1:1	13.04.1957	00:00	1956	1957	29
+Real Zaragoza	Real Madrid	1:1	1:2	14.04.1957	00:00	1956	1957	29
+CA Osasuna	Deportivo La CoruÃ±a	0:0	1:0	14.04.1957	00:00	1956	1957	29
+Real Valladolid	Real JaÃ©n	1:0	1:2	14.04.1957	00:00	1956	1957	29
+AtlÃ©tico Madrid	UD Las Palmas	3:0	3:0	14.04.1957	00:00	1956	1957	29
+Celta Vigo	Valencia CF	2:1	2:1	14.04.1957	00:00	1956	1957	29
+Espanyol Barcelona	FC Barcelona	0:0	2:0	14.04.1957	00:00	1956	1957	29
+Sevilla FC	Athletic Bilbao	4:0	4:1	14.04.1957	00:00	1956	1957	29
+Valencia CF	CD Condal	1:0	1:0	21.04.1957	00:00	1956	1957	30
+Real Sociedad	Espanyol Barcelona	1:0	1:0	21.04.1957	00:00	1956	1957	30
+Real JaÃ©n	AtlÃ©tico Madrid	0:0	2:0	21.04.1957	00:00	1956	1957	30
+FC Barcelona	Sevilla FC	0:1	1:1	21.04.1957	00:00	1956	1957	30
+UD Las Palmas	Real Zaragoza	0:0	0:1	21.04.1957	00:00	1956	1957	30
+Real Madrid	Celta Vigo	2:0	4:1	21.04.1957	00:00	1956	1957	30
+Deportivo La CoruÃ±a	Real Valladolid	3:0	3:0	21.04.1957	00:00	1956	1957	30
+Athletic Bilbao	CA Osasuna	1:1	1:1	21.04.1957	00:00	1956	1957	30

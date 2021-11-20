@@ -1,0 +1,462 @@
+Arsenal FC	Chelsea FC	1:1	1:1	25.08.1984	00:00	1984	1985	1
+Sunderland AFC	Southampton FC	2:0	3:1	25.08.1984	00:00	1984	1985	1
+Sheffield Wednesday	Nottingham Forest	1:1	3:1	25.08.1984	00:00	1984	1985	1
+Queens Park Rangers	West Bromwich Albion	2:0	3:1	25.08.1984	00:00	1984	1985	1
+Norwich City	Liverpool FC	1:2	3:3	25.08.1984	00:00	1984	1985	1
+Manchester United	Watford FC	1:0	1:1	25.08.1984	00:00	1984	1985	1
+Luton Town	Stoke City	1:0	2:0	25.08.1984	00:00	1984	1985	1
+Leicester City	Newcastle United	1:1	2:3	25.08.1984	00:00	1984	1985	1
+Everton FC	Tottenham Hotspur	1:2	1:4	25.08.1984	00:00	1984	1985	1
+Aston Villa	Coventry City	0:0	1:0	25.08.1984	00:00	1984	1985	1
+West Ham United	Ipswich Town	0:0	0:0	25.08.1984	00:00	1984	1985	1
+Chelsea FC	Sunderland AFC	1:0	1:0	27.08.1984	00:00	1984	1985	2
+West Bromwich Albion	Everton FC	0:0	2:1	27.08.1984	00:00	1984	1985	2
+Tottenham Hotspur	Leicester City	1:1	2:2	27.08.1984	00:00	1984	1985	2
+Stoke City	Aston Villa	1:2	1:3	27.08.1984	00:00	1984	1985	2
+Newcastle United	Sheffield Wednesday	1:1	2:1	27.08.1984	00:00	1984	1985	2
+Liverpool FC	West Ham United	1:0	3:0	27.08.1984	00:00	1984	1985	2
+Coventry City	Norwich City	0:0	0:0	28.08.1984	00:00	1984	1985	2
+Ipswich Town	Luton Town	1:0	1:1	28.08.1984	00:00	1984	1985	2
+Southampton FC	Manchester United	0:0	0:0	28.08.1984	00:00	1984	1985	2
+Watford FC	Queens Park Rangers	0:0	1:1	28.08.1984	00:00	1984	1985	2
+Nottingham Forest	Arsenal FC	0:0	2:0	29.08.1984	00:00	1984	1985	2
+Chelsea FC	Everton FC	0:0	0:1	31.08.1984	00:00	1984	1985	3
+Watford FC	Arsenal FC	0:2	3:4	01.09.1984	00:00	1984	1985	3
+Tottenham Hotspur	Norwich City	1:0	3:1	01.09.1984	00:00	1984	1985	3
+Stoke City	Sheffield Wednesday	2:0	2:1	01.09.1984	00:00	1984	1985	3
+Southampton FC	West Ham United	0:2	2:3	01.09.1984	00:00	1984	1985	3
+Nottingham Forest	Sunderland AFC	1:1	3:1	01.09.1984	00:00	1984	1985	3
+Newcastle United	Aston Villa	0:0	3:0	01.09.1984	00:00	1984	1985	3
+Liverpool FC	Queens Park Rangers	0:0	1:1	01.09.1984	00:00	1984	1985	3
+Ipswich Town	Manchester United	0:1	1:1	01.09.1984	00:00	1984	1985	3
+Coventry City	Leicester City	0:0	2:0	01.09.1984	00:00	1984	1985	3
+West Bromwich Albion	Luton Town	2:0	4:0	01.09.1984	00:00	1984	1985	3
+Arsenal FC	Newcastle United	0:0	2:0	04.09.1984	00:00	1984	1985	4
+West Ham United	Coventry City	2:0	3:1	04.09.1984	00:00	1984	1985	4
+Sunderland AFC	Tottenham Hotspur	0:0	1:0	04.09.1984	00:00	1984	1985	4
+Sheffield Wednesday	Southampton FC	1:0	2:1	04.09.1984	00:00	1984	1985	4
+Luton Town	Liverpool FC	0:0	1:2	04.09.1984	00:00	1984	1985	4
+Everton FC	Ipswich Town	0:0	1:1	04.09.1984	00:00	1984	1985	4
+Aston Villa	Nottingham Forest	0:1	0:5	05.09.1984	00:00	1984	1985	4
+Leicester City	Watford FC	0:0	1:1	05.09.1984	00:00	1984	1985	4
+Manchester United	Chelsea FC	1:0	1:1	05.09.1984	00:00	1984	1985	4
+Norwich City	West Bromwich Albion	0:0	2:1	05.09.1984	00:00	1984	1985	4
+Queens Park Rangers	Stoke City	1:0	2:0	04.12.1984	00:00	1984	1985	4
+Queens Park Rangers	Nottingham Forest	2:0	3:0	08.09.1984	00:00	1984	1985	5
+Arsenal FC	Liverpool FC	1:0	3:1	08.09.1984	00:00	1984	1985	5
+West Ham United	Watford FC	0:0	2:0	08.09.1984	00:00	1984	1985	5
+Sunderland AFC	West Bromwich Albion	0:0	1:1	08.09.1984	00:00	1984	1985	5
+Sheffield Wednesday	Tottenham Hotspur	2:1	2:1	08.09.1984	00:00	1984	1985	5
+Manchester United	Newcastle United	1:0	5:0	08.09.1984	00:00	1984	1985	5
+Luton Town	Southampton FC	0:0	1:1	08.09.1984	00:00	1984	1985	5
+Leicester City	Ipswich Town	0:0	2:1	08.09.1984	00:00	1984	1985	5
+Everton FC	Coventry City	0:1	2:1	08.09.1984	00:00	1984	1985	5
+Aston Villa	Chelsea FC	3:0	4:2	08.09.1984	00:00	1984	1985	5
+Norwich City	Stoke City	0:0	0:0	19.09.1984	00:00	1984	1985	5
+Southampton FC	Norwich City	1:0	2:1	15.09.1984	00:00	1984	1985	6
+Tottenham Hotspur	Queens Park Rangers	1:0	5:0	15.09.1984	00:00	1984	1985	6
+Chelsea FC	West Ham United	1:0	3:0	15.09.1984	00:00	1984	1985	6
+West Bromwich Albion	Sheffield Wednesday	1:0	2:2	15.09.1984	00:00	1984	1985	6
+Watford FC	Aston Villa	2:1	3:3	15.09.1984	00:00	1984	1985	6
+Stoke City	Leicester City	0:0	2:2	15.09.1984	00:00	1984	1985	6
+Newcastle United	Everton FC	1:1	2:3	15.09.1984	00:00	1984	1985	6
+Liverpool FC	Sunderland AFC	1:1	1:1	15.09.1984	00:00	1984	1985	6
+Ipswich Town	Arsenal FC	2:0	2:1	15.09.1984	00:00	1984	1985	6
+Coventry City	Manchester United	0:2	0:3	15.09.1984	00:00	1984	1985	6
+Nottingham Forest	Luton Town	0:0	3:1	16.09.1984	00:00	1984	1985	6
+Queens Park Rangers	Newcastle United	0:4	5:5	22.09.1984	00:00	1984	1985	7
+Arsenal FC	Stoke City	2:0	4:0	22.09.1984	00:00	1984	1985	7
+West Ham United	Nottingham Forest	0:0	0:0	22.09.1984	00:00	1984	1985	7
+Sunderland AFC	Coventry City	0:0	0:0	22.09.1984	00:00	1984	1985	7
+Sheffield Wednesday	Ipswich Town	0:1	2:2	22.09.1984	00:00	1984	1985	7
+Norwich City	Watford FC	1:1	3:2	22.09.1984	00:00	1984	1985	7
+Manchester United	Liverpool FC	1:0	1:1	22.09.1984	00:00	1984	1985	7
+Luton Town	Chelsea FC	0:0	0:0	22.09.1984	00:00	1984	1985	7
+Leicester City	West Bromwich Albion	0:0	2:1	22.09.1984	00:00	1984	1985	7
+Everton FC	Southampton FC	2:1	2:2	22.09.1984	00:00	1984	1985	7
+Aston Villa	Tottenham Hotspur	0:0	0:1	22.09.1984	00:00	1984	1985	7
+Southampton FC	Queens Park Rangers	0:1	1:1	29.09.1984	00:00	1984	1985	8
+Chelsea FC	Leicester City	1:0	3:0	29.09.1984	00:00	1984	1985	8
+West Bromwich Albion	Manchester United	1:1	1:2	29.09.1984	00:00	1984	1985	8
+Watford FC	Everton FC	1:3	4:5	29.09.1984	00:00	1984	1985	8
+Tottenham Hotspur	Luton Town	2:2	4:2	29.09.1984	00:00	1984	1985	8
+Stoke City	Sunderland AFC	0:1	2:2	29.09.1984	00:00	1984	1985	8
+Nottingham Forest	Norwich City	1:0	3:1	29.09.1984	00:00	1984	1985	8
+Newcastle United	West Ham United	1:0	1:1	29.09.1984	00:00	1984	1985	8
+Liverpool FC	Sheffield Wednesday	0:1	0:2	29.09.1984	00:00	1984	1985	8
+Ipswich Town	Aston Villa	1:0	3:0	29.09.1984	00:00	1984	1985	8
+Coventry City	Arsenal FC	0:0	1:2	29.09.1984	00:00	1984	1985	8
+Nottingham Forest	Stoke City	0:1	1:1	06.10.1984	00:00	1984	1985	9
+Arsenal FC	Everton FC	1:0	1:0	06.10.1984	00:00	1984	1985	9
+West Ham United	Leicester City	0:1	3:1	06.10.1984	00:00	1984	1985	9
+Watford FC	Coventry City	0:0	0:1	06.10.1984	00:00	1984	1985	9
+Southampton FC	Tottenham Hotspur	1:0	1:0	06.10.1984	00:00	1984	1985	9
+Sheffield Wednesday	Sunderland AFC	2:0	2:2	06.10.1984	00:00	1984	1985	9
+Queens Park Rangers	Luton Town	1:1	2:3	06.10.1984	00:00	1984	1985	9
+Norwich City	Chelsea FC	0:0	0:0	06.10.1984	00:00	1984	1985	9
+Newcastle United	Ipswich Town	2:0	3:0	06.10.1984	00:00	1984	1985	9
+Liverpool FC	West Bromwich Albion	0:0	0:0	06.10.1984	00:00	1984	1985	9
+Aston Villa	Manchester United	2:0	3:0	06.10.1984	00:00	1984	1985	9
+Tottenham Hotspur	Liverpool FC	1:0	1:0	12.10.1984	00:00	1984	1985	10
+Ipswich Town	Queens Park Rangers	1:0	1:1	13.10.1984	00:00	1984	1985	10
+Stoke City	Southampton FC	1:2	1:3	13.10.1984	00:00	1984	1985	10
+West Bromwich Albion	Nottingham Forest	2:0	4:1	13.10.1984	00:00	1984	1985	10
+Sunderland AFC	Norwich City	1:0	2:1	13.10.1984	00:00	1984	1985	10
+Manchester United	West Ham United	2:0	5:1	13.10.1984	00:00	1984	1985	10
+Luton Town	Sheffield Wednesday	0:1	1:2	13.10.1984	00:00	1984	1985	10
+Leicester City	Arsenal FC	1:2	1:4	13.10.1984	00:00	1984	1985	10
+Everton FC	Aston Villa	1:1	2:1	13.10.1984	00:00	1984	1985	10
+Coventry City	Newcastle United	0:0	1:1	13.10.1984	00:00	1984	1985	10
+Chelsea FC	Watford FC	1:2	2:3	13.10.1984	00:00	1984	1985	10
+Queens Park Rangers	Coventry City	0:1	2:1	20.10.1984	00:00	1984	1985	11
+Arsenal FC	Sunderland AFC	1:0	3:2	20.10.1984	00:00	1984	1985	11
+Stoke City	West Ham United	0:1	2:4	20.10.1984	00:00	1984	1985	11
+Southampton FC	Chelsea FC	1:0	1:0	20.10.1984	00:00	1984	1985	11
+Sheffield Wednesday	Leicester City	2:0	5:0	20.10.1984	00:00	1984	1985	11
+Newcastle United	Nottingham Forest	0:1	1:1	20.10.1984	00:00	1984	1985	11
+Manchester United	Tottenham Hotspur	0:0	1:0	20.10.1984	00:00	1984	1985	11
+Luton Town	Watford FC	2:2	3:2	20.10.1984	00:00	1984	1985	11
+Liverpool FC	Everton FC	0:0	0:1	20.10.1984	00:00	1984	1985	11
+Ipswich Town	West Bromwich Albion	1:0	2:0	20.10.1984	00:00	1984	1985	11
+Aston Villa	Norwich City	1:2	2:2	20.10.1984	00:00	1984	1985	11
+Tottenham Hotspur	Stoke City	2:0	4:0	27.10.1984	00:00	1984	1985	12
+Chelsea FC	Ipswich Town	0:0	2:0	27.10.1984	00:00	1984	1985	12
+West Ham United	Arsenal FC	2:1	3:1	27.10.1984	00:00	1984	1985	12
+West Bromwich Albion	Southampton FC	0:0	0:0	27.10.1984	00:00	1984	1985	12
+Watford FC	Newcastle United	0:1	3:3	27.10.1984	00:00	1984	1985	12
+Sunderland AFC	Luton Town	1:0	3:0	27.10.1984	00:00	1984	1985	12
+Norwich City	Queens Park Rangers	1:0	2:0	27.10.1984	00:00	1984	1985	12
+Leicester City	Aston Villa	4:0	5:0	27.10.1984	00:00	1984	1985	12
+Everton FC	Manchester United	3:0	5:0	27.10.1984	00:00	1984	1985	12
+Coventry City	Sheffield Wednesday	1:0	1:0	27.10.1984	00:00	1984	1985	12
+Nottingham Forest	Liverpool FC	0:1	0:2	28.10.1984	00:00	1984	1985	12
+Manchester United	Arsenal FC	1:2	4:2	02.11.1984	00:00	1984	1985	13
+Sunderland AFC	Queens Park Rangers	1:0	3:0	03.11.1984	00:00	1984	1985	13
+Tottenham Hotspur	West Bromwich Albion	1:1	2:3	03.11.1984	00:00	1984	1985	13
+Stoke City	Liverpool FC	0:0	0:1	03.11.1984	00:00	1984	1985	13
+Southampton FC	Nottingham Forest	1:0	1:0	03.11.1984	00:00	1984	1985	13
+Sheffield Wednesday	Norwich City	0:1	1:2	03.11.1984	00:00	1984	1985	13
+Luton Town	Newcastle United	1:1	2:2	03.11.1984	00:00	1984	1985	13
+Ipswich Town	Watford FC	1:2	3:3	03.11.1984	00:00	1984	1985	13
+Everton FC	Leicester City	0:0	3:0	03.11.1984	00:00	1984	1985	13
+Chelsea FC	Coventry City	2:2	6:2	03.11.1984	00:00	1984	1985	13
+Aston Villa	West Ham United	0:0	0:0	03.11.1984	00:00	1984	1985	13
+Queens Park Rangers	Sheffield Wednesday	0:0	0:0	10.11.1984	00:00	1984	1985	14
+West Bromwich Albion	Stoke City	1:0	2:0	10.11.1984	00:00	1984	1985	14
+Arsenal FC	Aston Villa	1:1	1:1	10.11.1984	00:00	1984	1985	14
+Coventry City	Ipswich Town	0:0	1:0	10.11.1984	00:00	1984	1985	14
+Leicester City	Manchester United	1:1	2:3	10.11.1984	00:00	1984	1985	14
+Liverpool FC	Southampton FC	0:0	1:1	10.11.1984	00:00	1984	1985	14
+Newcastle United	Chelsea FC	2:0	2:1	10.11.1984	00:00	1984	1985	14
+Norwich City	Luton Town	2:0	3:0	10.11.1984	00:00	1984	1985	14
+Nottingham Forest	Tottenham Hotspur	0:0	1:2	10.11.1984	00:00	1984	1985	14
+Watford FC	Sunderland AFC	1:0	3:1	10.11.1984	00:00	1984	1985	14
+West Ham United	Everton FC	0:0	0:1	10.11.1984	00:00	1984	1985	14
+Arsenal FC	Queens Park Rangers	0:0	1:0	17.11.1984	00:00	1984	1985	15
+West Ham United	Sunderland AFC	0:0	1:0	17.11.1984	00:00	1984	1985	15
+Watford FC	Sheffield Wednesday	1:0	1:0	17.11.1984	00:00	1984	1985	15
+Manchester United	Luton Town	0:0	2:0	17.11.1984	00:00	1984	1985	15
+Leicester City	Norwich City	1:0	2:0	17.11.1984	00:00	1984	1985	15
+Ipswich Town	Tottenham Hotspur	0:0	0:3	17.11.1984	00:00	1984	1985	15
+Everton FC	Stoke City	2:0	4:0	17.11.1984	00:00	1984	1985	15
+Coventry City	Nottingham Forest	0:1	1:3	17.11.1984	00:00	1984	1985	15
+Chelsea FC	West Bromwich Albion	1:0	3:1	17.11.1984	00:00	1984	1985	15
+Aston Villa	Southampton FC	2:0	2:2	17.11.1984	00:00	1984	1985	15
+Newcastle United	Liverpool FC	0:1	0:2	18.11.1984	00:00	1984	1985	15
+Stoke City	Watford FC	0:2	1:3	24.11.1984	00:00	1984	1985	16
+Liverpool FC	Ipswich Town	1:0	2:0	24.11.1984	00:00	1984	1985	16
+West Bromwich Albion	Coventry City	2:1	5:2	24.11.1984	00:00	1984	1985	16
+Tottenham Hotspur	Chelsea FC	0:1	1:1	24.11.1984	00:00	1984	1985	16
+Sunderland AFC	Manchester United	3:2	3:2	24.11.1984	00:00	1984	1985	16
+Southampton FC	Newcastle United	0:0	1:0	24.11.1984	00:00	1984	1985	16
+Queens Park Rangers	Aston Villa	1:0	2:0	24.11.1984	00:00	1984	1985	16
+Norwich City	Everton FC	3:1	4:2	24.11.1984	00:00	1984	1985	16
+Luton Town	West Ham United	1:1	2:2	24.11.1984	00:00	1984	1985	16
+Nottingham Forest	Leicester City	2:1	2:1	25.11.1984	00:00	1984	1985	16
+Sheffield Wednesday	Arsenal FC	1:0	2:1	25.11.1984	00:00	1984	1985	16
+Arsenal FC	Luton Town	1:0	3:1	01.12.1984	00:00	1984	1985	17
+West Ham United	West Bromwich Albion	0:0	0:2	01.12.1984	00:00	1984	1985	17
+Watford FC	Nottingham Forest	2:0	2:0	01.12.1984	00:00	1984	1985	17
+Newcastle United	Stoke City	1:0	2:1	01.12.1984	00:00	1984	1985	17
+Manchester United	Norwich City	2:0	2:0	01.12.1984	00:00	1984	1985	17
+Leicester City	Queens Park Rangers	2:0	4:0	01.12.1984	00:00	1984	1985	17
+Ipswich Town	Southampton FC	0:0	0:1	01.12.1984	00:00	1984	1985	17
+Everton FC	Sheffield Wednesday	1:1	1:1	01.12.1984	00:00	1984	1985	17
+Coventry City	Tottenham Hotspur	0:1	1:1	01.12.1984	00:00	1984	1985	17
+Chelsea FC	Liverpool FC	1:1	3:1	01.12.1984	00:00	1984	1985	17
+Aston Villa	Sunderland AFC	0:0	1:0	01.12.1984	00:00	1984	1985	17
+Liverpool FC	Coventry City	2:0	3:1	04.12.1984	00:00	1984	1985	18
+Tottenham Hotspur	Newcastle United	0:0	3:1	08.12.1984	00:00	1984	1985	18
+Sunderland AFC	Leicester City	0:3	0:4	08.12.1984	00:00	1984	1985	18
+Stoke City	Ipswich Town	0:0	0:2	08.12.1984	00:00	1984	1985	18
+Southampton FC	Arsenal FC	1:0	1:0	08.12.1984	00:00	1984	1985	18
+Sheffield Wednesday	Chelsea FC	0:0	1:1	08.12.1984	00:00	1984	1985	18
+Queens Park Rangers	Everton FC	0:0	0:0	08.12.1984	00:00	1984	1985	18
+Nottingham Forest	Manchester United	0:2	3:2	08.12.1984	00:00	1984	1985	18
+Norwich City	West Ham United	1:0	1:0	08.12.1984	00:00	1984	1985	18
+Luton Town	Aston Villa	1:0	1:0	08.12.1984	00:00	1984	1985	18
+West Bromwich Albion	Watford FC	1:1	2:1	08.12.1984	00:00	1984	1985	18
+Arsenal FC	West Bromwich Albion	1:0	4:0	15.12.1984	00:00	1984	1985	19
+Watford FC	Tottenham Hotspur	0:1	1:2	15.12.1984	00:00	1984	1985	19
+Newcastle United	Norwich City	0:1	1:1	15.12.1984	00:00	1984	1985	19
+Manchester United	Queens Park Rangers	2:0	3:0	15.12.1984	00:00	1984	1985	19
+Leicester City	Luton Town	0:1	2:2	15.12.1984	00:00	1984	1985	19
+Ipswich Town	Sunderland AFC	0:0	0:2	15.12.1984	00:00	1984	1985	19
+Everton FC	Nottingham Forest	3:0	5:0	15.12.1984	00:00	1984	1985	19
+Chelsea FC	Stoke City	0:0	1:1	15.12.1984	00:00	1984	1985	19
+Aston Villa	Liverpool FC	0:0	0:0	15.12.1984	00:00	1984	1985	19
+West Ham United	Sheffield Wednesday	0:0	0:0	15.12.1984	00:00	1984	1985	19
+Coventry City	Southampton FC	0:0	2:1	16.12.1984	00:00	1984	1985	19
+Luton Town	West Bromwich Albion	1:1	1:2	18.12.1984	00:00	1984	1985	20
+Queens Park Rangers	Liverpool FC	0:1	0:2	21.12.1984	00:00	1984	1985	20
+West Ham United	Southampton FC	1:1	2:3	22.12.1984	00:00	1984	1985	20
+Sheffield Wednesday	Stoke City	1:1	2:1	22.12.1984	00:00	1984	1985	20
+Norwich City	Tottenham Hotspur	0:1	1:2	22.12.1984	00:00	1984	1985	20
+Manchester United	Ipswich Town	1:0	3:0	22.12.1984	00:00	1984	1985	20
+Everton FC	Chelsea FC	1:2	3:4	22.12.1984	00:00	1984	1985	20
+Aston Villa	Newcastle United	2:0	4:0	22.12.1984	00:00	1984	1985	20
+Arsenal FC	Watford FC	1:0	1:1	22.12.1984	00:00	1984	1985	20
+Leicester City	Coventry City	3:1	5:1	23.12.1984	00:00	1984	1985	20
+Sunderland AFC	Nottingham Forest	0:1	0:2	23.12.1984	00:00	1984	1985	20
+Liverpool FC	Leicester City	0:2	1:2	26.12.1984	00:00	1984	1985	21
+Tottenham Hotspur	West Ham United	2:1	2:2	26.12.1984	00:00	1984	1985	21
+Sunderland AFC	Everton FC	0:2	1:2	26.12.1984	00:00	1984	1985	21
+Stoke City	Manchester United	0:1	2:1	26.12.1984	00:00	1984	1985	21
+Southampton FC	Watford FC	0:1	1:2	26.12.1984	00:00	1984	1985	21
+Sheffield Wednesday	Aston Villa	0:1	1:1	26.12.1984	00:00	1984	1985	21
+Queens Park Rangers	Chelsea FC	1:1	2:2	26.12.1984	00:00	1984	1985	21
+Nottingham Forest	Ipswich Town	0:0	2:0	26.12.1984	00:00	1984	1985	21
+Norwich City	Arsenal FC	1:0	1:0	26.12.1984	00:00	1984	1985	21
+Luton Town	Coventry City	1:0	2:0	26.12.1984	00:00	1984	1985	21
+West Bromwich Albion	Newcastle United	1:0	2:1	26.12.1984	00:00	1984	1985	21
+Chelsea FC	Manchester United	1:2	1:3	29.12.1984	00:00	1984	1985	22
+Watford FC	Leicester City	1:1	4:1	29.12.1984	00:00	1984	1985	22
+Tottenham Hotspur	Sunderland AFC	1:0	2:0	29.12.1984	00:00	1984	1985	22
+Stoke City	Queens Park Rangers	0:2	0:2	29.12.1984	00:00	1984	1985	22
+Southampton FC	Sheffield Wednesday	0:1	0:3	29.12.1984	00:00	1984	1985	22
+Nottingham Forest	Aston Villa	1:2	3:2	29.12.1984	00:00	1984	1985	22
+Newcastle United	Arsenal FC	0:1	1:3	29.12.1984	00:00	1984	1985	22
+Liverpool FC	Luton Town	1:0	1:0	29.12.1984	00:00	1984	1985	22
+Ipswich Town	Everton FC	0:0	0:2	29.12.1984	00:00	1984	1985	22
+Coventry City	West Ham United	0:0	1:2	29.12.1984	00:00	1984	1985	22
+West Bromwich Albion	Norwich City	0:1	0:1	29.12.1984	00:00	1984	1985	22
+Arsenal FC	Tottenham Hotspur	1:0	1:2	01.01.1985	00:00	1984	1985	23
+Watford FC	Liverpool FC	1:1	1:1	01.01.1985	00:00	1984	1985	23
+Newcastle United	Sunderland AFC	1:0	3:1	01.01.1985	00:00	1984	1985	23
+Manchester United	Sheffield Wednesday	0:1	1:2	01.01.1985	00:00	1984	1985	23
+Leicester City	Southampton FC	1:1	1:2	01.01.1985	00:00	1984	1985	23
+Ipswich Town	Norwich City	1:0	2:0	01.01.1985	00:00	1984	1985	23
+Everton FC	Luton Town	1:0	2:1	01.01.1985	00:00	1984	1985	23
+Coventry City	Stoke City	3:0	4:0	01.01.1985	00:00	1984	1985	23
+Chelsea FC	Nottingham Forest	0:0	1:0	01.01.1985	00:00	1984	1985	23
+Aston Villa	West Bromwich Albion	1:1	3:1	01.01.1985	00:00	1984	1985	23
+West Ham United	Queens Park Rangers	1:0	1:3	01.01.1985	00:00	1984	1985	23
+Everton FC	Newcastle United	2:0	4:0	12.01.1985	00:00	1984	1985	24
+Sheffield Wednesday	West Bromwich Albion	1:0	2:0	12.01.1985	00:00	1984	1985	24
+Queens Park Rangers	Tottenham Hotspur	1:1	2:2	12.01.1985	00:00	1984	1985	24
+Norwich City	Southampton FC	0:0	1:0	12.01.1985	00:00	1984	1985	24
+Manchester United	Coventry City	0:0	0:1	12.01.1985	00:00	1984	1985	24
+Leicester City	Stoke City	0:0	0:0	12.01.1985	00:00	1984	1985	24
+Arsenal FC	Ipswich Town	0:0	1:1	19.03.1985	00:00	1984	1985	24
+Sunderland AFC	Liverpool FC	0:2	0:3	03.04.1985	00:00	1984	1985	24
+West Ham United	Chelsea FC	1:1	1:1	13.04.1985	00:00	1984	1985	24
+Luton Town	Nottingham Forest	1:1	1:2	24.04.1985	00:00	1984	1985	24
+Aston Villa	Watford FC	1:1	1:1	24.04.1985	00:00	1984	1985	24
+Chelsea FC	Arsenal FC	0:0	1:1	19.01.1985	00:00	1984	1985	25
+Coventry City	Aston Villa	0:1	0:3	19.01.1985	00:00	1984	1985	25
+Liverpool FC	Norwich City	1:0	4:0	19.01.1985	00:00	1984	1985	25
+West Bromwich Albion	Queens Park Rangers	0:0	0:0	26.01.1985	00:00	1984	1985	25
+Southampton FC	Sunderland AFC	1:0	1:0	29.01.1985	00:00	1984	1985	25
+Nottingham Forest	Sheffield Wednesday	0:0	0:0	20.03.1985	00:00	1984	1985	25
+Newcastle United	Leicester City	0:2	1:4	20.03.1985	00:00	1984	1985	25
+Tottenham Hotspur	Everton FC	0:1	1:2	03.04.1985	00:00	1984	1985	25
+Stoke City	Luton Town	0:1	0:4	08.04.1985	00:00	1984	1985	25
+Watford FC	Manchester United	3:0	5:1	13.05.1985	00:00	1984	1985	25
+Ipswich Town	West Ham United	0:1	0:1	17.05.1985	00:00	1984	1985	25
+Luton Town	Tottenham Hotspur	0:0	2:2	02.02.1985	00:00	1984	1985	26
+West Ham United	Newcastle United	1:0	1:1	02.02.1985	00:00	1984	1985	26
+Sunderland AFC	Stoke City	0:0	1:0	02.02.1985	00:00	1984	1985	26
+Sheffield Wednesday	Liverpool FC	0:0	1:1	02.02.1985	00:00	1984	1985	26
+Manchester United	West Bromwich Albion	2:0	2:0	02.02.1985	00:00	1984	1985	26
+Leicester City	Chelsea FC	1:1	1:1	02.02.1985	00:00	1984	1985	26
+Everton FC	Watford FC	0:0	4:0	02.02.1985	00:00	1984	1985	26
+Aston Villa	Ipswich Town	1:0	2:1	02.02.1985	00:00	1984	1985	26
+Arsenal FC	Coventry City	1:0	2:1	02.02.1985	00:00	1984	1985	26
+Norwich City	Nottingham Forest	0:0	0:1	02.02.1985	00:00	1984	1985	26
+Queens Park Rangers	Southampton FC	0:1	0:4	02.02.1985	00:00	1984	1985	26
+Newcastle United	Manchester United	0:1	1:1	09.02.1985	00:00	1984	1985	27
+Nottingham Forest	Queens Park Rangers	0:0	2:0	09.02.1985	00:00	1984	1985	27
+Liverpool FC	Arsenal FC	1:0	3:0	12.02.1985	00:00	1984	1985	27
+Watford FC	West Ham United	3:0	5:0	02.04.1985	00:00	1984	1985	27
+Southampton FC	Luton Town	0:0	1:0	02.04.1985	00:00	1984	1985	27
+Chelsea FC	Aston Villa	2:0	3:1	16.04.1985	00:00	1984	1985	27
+Ipswich Town	Leicester City	2:0	2:0	23.04.1985	00:00	1984	1985	27
+Stoke City	Norwich City	1:2	2:3	24.04.1985	00:00	1984	1985	27
+West Bromwich Albion	Sunderland AFC	0:0	1:0	24.04.1985	00:00	1984	1985	27
+Tottenham Hotspur	Sheffield Wednesday	1:0	2:0	14.05.1985	00:00	1984	1985	27
+Coventry City	Everton FC	2:1	4:1	26.05.1985	00:00	1984	1985	27
+Chelsea FC	Newcastle United	1:0	1:0	16.02.1985	00:00	1984	1985	28
+Stoke City	West Bromwich Albion	0:0	0:0	12.03.1985	00:00	1984	1985	28
+Sunderland AFC	Watford FC	1:0	1:1	12.03.1985	00:00	1984	1985	28
+Aston Villa	Arsenal FC	0:0	0:0	13.03.1985	00:00	1984	1985	28
+Manchester United	Leicester City	0:1	2:1	03.04.1985	00:00	1984	1985	28
+Luton Town	Norwich City	0:1	3:1	16.04.1985	00:00	1984	1985	28
+Sheffield Wednesday	Queens Park Rangers	1:0	3:1	23.04.1985	00:00	1984	1985	28
+Everton FC	West Ham United	2:0	3:0	08.05.1985	00:00	1984	1985	28
+Ipswich Town	Coventry City	0:0	0:0	14.05.1985	00:00	1984	1985	28
+Southampton FC	Liverpool FC	0:1	1:1	14.05.1985	00:00	1984	1985	28
+Tottenham Hotspur	Nottingham Forest	1:0	1:0	17.05.1985	00:00	1984	1985	28
+Newcastle United	Luton Town	0:0	1:0	23.02.1985	00:00	1984	1985	29
+West Ham United	Aston Villa	0:0	1:2	23.02.1985	00:00	1984	1985	29
+West Bromwich Albion	Tottenham Hotspur	0:0	0:1	23.02.1985	00:00	1984	1985	29
+Leicester City	Everton FC	0:0	1:2	23.02.1985	00:00	1984	1985	29
+Arsenal FC	Manchester United	0:1	0:1	23.02.1985	00:00	1984	1985	29
+Coventry City	Chelsea FC	1:0	1:0	23.02.1985	00:00	1984	1985	29
+Liverpool FC	Stoke City	2:0	2:0	23.02.1985	00:00	1984	1985	29
+Nottingham Forest	Southampton FC	2:0	2:0	23.02.1985	00:00	1984	1985	29
+Queens Park Rangers	Sunderland AFC	0:0	1:0	23.02.1985	00:00	1984	1985	29
+Norwich City	Sheffield Wednesday	1:1	1:1	03.04.1985	00:00	1984	1985	29
+Watford FC	Ipswich Town	1:0	3:1	16.04.1985	00:00	1984	1985	29
+Luton Town	Sunderland AFC	2:0	2:1	02.03.1985	00:00	1984	1985	30
+Stoke City	Tottenham Hotspur	0:0	0:1	02.03.1985	00:00	1984	1985	30
+Sheffield Wednesday	Coventry City	1:0	1:0	02.03.1985	00:00	1984	1985	30
+Queens Park Rangers	Norwich City	2:0	2:2	02.03.1985	00:00	1984	1985	30
+Manchester United	Everton FC	1:1	1:1	02.03.1985	00:00	1984	1985	30
+Aston Villa	Leicester City	0:0	0:1	02.03.1985	00:00	1984	1985	30
+Arsenal FC	West Ham United	0:1	2:1	02.03.1985	00:00	1984	1985	30
+Ipswich Town	Chelsea FC	1:0	2:0	02.03.1985	00:00	1984	1985	30
+Liverpool FC	Nottingham Forest	0:0	1:0	02.03.1985	00:00	1984	1985	30
+Southampton FC	West Bromwich Albion	2:1	4:3	02.03.1985	00:00	1984	1985	30
+Newcastle United	Watford FC	1:0	3:1	02.03.1985	00:00	1984	1985	30
+Leicester City	Sheffield Wednesday	0:1	3:1	09.03.1985	00:00	1984	1985	31
+Norwich City	Aston Villa	0:0	2:2	09.03.1985	00:00	1984	1985	31
+Chelsea FC	Southampton FC	0:0	0:2	09.03.1985	00:00	1984	1985	31
+Sunderland AFC	Arsenal FC	0:0	0:0	09.03.1985	00:00	1984	1985	31
+Coventry City	Queens Park Rangers	2:0	3:0	09.03.1985	00:00	1984	1985	31
+Nottingham Forest	Newcastle United	0:0	0:0	09.03.1985	00:00	1984	1985	31
+Tottenham Hotspur	Manchester United	0:1	1:2	12.03.1985	00:00	1984	1985	31
+Watford FC	Luton Town	1:0	3:0	19.03.1985	00:00	1984	1985	31
+West Bromwich Albion	Ipswich Town	0:2	1:2	03.04.1985	00:00	1984	1985	31
+West Ham United	Stoke City	3:0	5:1	14.05.1985	00:00	1984	1985	31
+Everton FC	Liverpool FC	0:0	1:0	23.05.1985	00:00	1984	1985	31
+West Ham United	Manchester United	1:1	2:2	15.03.1985	00:00	1984	1985	32
+Sheffield Wednesday	Luton Town	1:0	1:1	16.03.1985	00:00	1984	1985	32
+Southampton FC	Stoke City	0:0	0:0	16.03.1985	00:00	1984	1985	32
+Norwich City	Sunderland AFC	1:2	1:3	16.03.1985	00:00	1984	1985	32
+Liverpool FC	Tottenham Hotspur	0:0	0:1	16.03.1985	00:00	1984	1985	32
+Aston Villa	Everton FC	0:1	1:1	16.03.1985	00:00	1984	1985	32
+Nottingham Forest	West Bromwich Albion	0:0	1:2	16.03.1985	00:00	1984	1985	32
+Watford FC	Chelsea FC	1:1	1:3	16.03.1985	00:00	1984	1985	32
+Arsenal FC	Leicester City	1:0	2:0	16.03.1985	00:00	1984	1985	32
+Queens Park Rangers	Ipswich Town	2:0	3:0	16.03.1985	00:00	1984	1985	32
+Newcastle United	Coventry City	0:1	0:1	17.04.1985	00:00	1984	1985	32
+Luton Town	Queens Park Rangers	1:0	2:0	23.03.1985	00:00	1984	1985	33
+Coventry City	Watford FC	3:0	3:1	23.03.1985	00:00	1984	1985	33
+Stoke City	Nottingham Forest	1:2	1:4	23.03.1985	00:00	1984	1985	33
+Tottenham Hotspur	Southampton FC	1:0	5:1	23.03.1985	00:00	1984	1985	33
+West Bromwich Albion	Liverpool FC	0:1	0:5	23.03.1985	00:00	1984	1985	33
+Leicester City	West Ham United	0:0	1:0	23.03.1985	00:00	1984	1985	33
+Manchester United	Aston Villa	3:0	4:0	23.03.1985	00:00	1984	1985	33
+Ipswich Town	Newcastle United	0:0	1:1	23.03.1985	00:00	1984	1985	33
+Everton FC	Arsenal FC	1:0	2:0	23.03.1985	00:00	1984	1985	33
+Sunderland AFC	Sheffield Wednesday	0:0	0:0	16.04.1985	00:00	1984	1985	33
+Chelsea FC	Norwich City	1:1	1:2	14.05.1985	00:00	1984	1985	33
+Aston Villa	Stoke City	0:0	2:0	27.03.1985	00:00	1984	1985	34
+Luton Town	Ipswich Town	2:1	3:1	30.03.1985	00:00	1984	1985	34
+Norwich City	Coventry City	2:1	2:1	30.03.1985	00:00	1984	1985	34
+Sunderland AFC	Chelsea FC	0:0	0:2	30.03.1985	00:00	1984	1985	34
+Sheffield Wednesday	Newcastle United	2:1	4:2	30.03.1985	00:00	1984	1985	34
+Queens Park Rangers	Watford FC	2:0	2:0	30.03.1985	00:00	1984	1985	34
+Arsenal FC	Nottingham Forest	0:1	1:1	13.04.1985	00:00	1984	1985	34
+Leicester City	Tottenham Hotspur	0:0	1:2	13.04.1985	00:00	1984	1985	34
+Everton FC	West Bromwich Albion	2:0	4:1	16.04.1985	00:00	1984	1985	34
+Manchester United	Southampton FC	0:0	0:0	24.04.1985	00:00	1984	1985	34
+West Ham United	Liverpool FC	0:2	0:3	20.05.1985	00:00	1984	1985	34
+Ipswich Town	Nottingham Forest	1:0	1:0	06.04.1985	00:00	1984	1985	35
+West Ham United	Tottenham Hotspur	0:1	1:1	06.04.1985	00:00	1984	1985	35
+Everton FC	Sunderland AFC	2:1	4:1	06.04.1985	00:00	1984	1985	35
+Aston Villa	Sheffield Wednesday	1:0	3:0	06.04.1985	00:00	1984	1985	35
+Chelsea FC	Queens Park Rangers	0:0	1:0	06.04.1985	00:00	1984	1985	35
+Leicester City	Liverpool FC	0:0	0:1	06.04.1985	00:00	1984	1985	35
+Manchester United	Stoke City	2:0	5:0	06.04.1985	00:00	1984	1985	35
+Newcastle United	West Bromwich Albion	0:0	1:0	06.04.1985	00:00	1984	1985	35
+Watford FC	Southampton FC	1:0	1:1	06.04.1985	00:00	1984	1985	35
+Arsenal FC	Norwich City	0:0	2:0	06.04.1985	00:00	1984	1985	35
+Coventry City	Luton Town	0:0	1:0	23.05.1985	00:00	1984	1985	35
+Norwich City	Ipswich Town	0:1	0:2	08.04.1985	00:00	1984	1985	36
+Sunderland AFC	Newcastle United	0:0	0:0	08.04.1985	00:00	1984	1985	36
+Queens Park Rangers	West Ham United	1:1	4:2	08.04.1985	00:00	1984	1985	36
+West Bromwich Albion	Aston Villa	1:0	1:0	08.04.1985	00:00	1984	1985	36
+Sheffield Wednesday	Manchester United	1:0	1:0	09.04.1985	00:00	1984	1985	36
+Southampton FC	Leicester City	1:0	3:1	09.04.1985	00:00	1984	1985	36
+Nottingham Forest	Chelsea FC	0:0	2:0	10.04.1985	00:00	1984	1985	36
+Tottenham Hotspur	Arsenal FC	0:1	0:2	17.04.1985	00:00	1984	1985	36
+Liverpool FC	Watford FC	0:2	4:3	17.05.1985	00:00	1984	1985	36
+Stoke City	Coventry City	0:0	0:1	17.05.1985	00:00	1984	1985	36
+Luton Town	Everton FC	2:0	2:0	28.05.1985	00:00	1984	1985	36
+Nottingham Forest	West Ham United	0:1	1:2	30.03.1985	00:00	1984	1985	37
+Southampton FC	Everton FC	0:0	1:2	30.03.1985	00:00	1984	1985	37
+West Bromwich Albion	Leicester City	0:0	2:0	30.03.1985	00:00	1984	1985	37
+Tottenham Hotspur	Aston Villa	0:1	0:2	30.03.1985	00:00	1984	1985	37
+Stoke City	Arsenal FC	0:0	2:0	30.03.1985	00:00	1984	1985	37
+Liverpool FC	Manchester United	0:0	0:1	31.03.1985	00:00	1984	1985	37
+Watford FC	Norwich City	0:0	2:0	13.04.1985	00:00	1984	1985	37
+Ipswich Town	Sheffield Wednesday	0:1	1:2	13.04.1985	00:00	1984	1985	37
+Coventry City	Sunderland AFC	0:1	0:1	13.04.1985	00:00	1984	1985	37
+Newcastle United	Queens Park Rangers	0:0	1:0	13.04.1985	00:00	1984	1985	37
+Chelsea FC	Luton Town	1:0	2:0	08.05.1985	00:00	1984	1985	37
+Sheffield Wednesday	Watford FC	0:1	1:1	24.02.1985	00:00	1984	1985	38
+Liverpool FC	Newcastle United	0:0	3:1	20.04.1985	00:00	1984	1985	38
+Nottingham Forest	Coventry City	2:0	2:0	20.04.1985	00:00	1984	1985	38
+Stoke City	Everton FC	0:1	0:2	20.04.1985	00:00	1984	1985	38
+West Bromwich Albion	Chelsea FC	0:1	0:1	20.04.1985	00:00	1984	1985	38
+Tottenham Hotspur	Ipswich Town	0:1	2:3	20.04.1985	00:00	1984	1985	38
+Norwich City	Leicester City	1:1	1:3	20.04.1985	00:00	1984	1985	38
+Southampton FC	Aston Villa	1:0	2:0	20.04.1985	00:00	1984	1985	38
+Sunderland AFC	West Ham United	0:1	0:1	20.04.1985	00:00	1984	1985	38
+Queens Park Rangers	Arsenal FC	1:0	1:0	20.04.1985	00:00	1984	1985	38
+Luton Town	Manchester United	0:0	2:1	21.04.1985	00:00	1984	1985	38
+Everton FC	Norwich City	1:0	3:0	27.04.1985	00:00	1984	1985	39
+Ipswich Town	Liverpool FC	0:0	0:0	27.04.1985	00:00	1984	1985	39
+West Ham United	Luton Town	0:0	0:0	27.04.1985	00:00	1984	1985	39
+Chelsea FC	Tottenham Hotspur	0:1	1:1	27.04.1985	00:00	1984	1985	39
+Watford FC	Stoke City	1:0	2:0	27.04.1985	00:00	1984	1985	39
+Manchester United	Sunderland AFC	1:1	2:2	27.04.1985	00:00	1984	1985	39
+Arsenal FC	Sheffield Wednesday	0:0	1:0	27.04.1985	00:00	1984	1985	39
+Aston Villa	Queens Park Rangers	3:1	5:2	27.04.1985	00:00	1984	1985	39
+Coventry City	West Bromwich Albion	1:1	2:1	27.04.1985	00:00	1984	1985	39
+Leicester City	Nottingham Forest	1:0	1:0	27.04.1985	00:00	1984	1985	39
+Newcastle United	Southampton FC	0:1	2:1	27.04.1985	00:00	1984	1985	39
+Sheffield Wednesday	Everton FC	0:1	0:1	04.05.1985	00:00	1984	1985	40
+West Bromwich Albion	West Ham United	1:0	5:1	04.05.1985	00:00	1984	1985	40
+Tottenham Hotspur	Coventry City	1:0	4:2	04.05.1985	00:00	1984	1985	40
+Southampton FC	Ipswich Town	0:0	3:0	04.05.1985	00:00	1984	1985	40
+Nottingham Forest	Watford FC	0:1	1:1	04.05.1985	00:00	1984	1985	40
+Liverpool FC	Chelsea FC	3:1	4:3	04.05.1985	00:00	1984	1985	40
+Norwich City	Manchester United	0:1	0:1	04.05.1985	00:00	1984	1985	40
+Luton Town	Arsenal FC	2:0	3:1	04.05.1985	00:00	1984	1985	40
+Queens Park Rangers	Leicester City	2:1	4:3	04.05.1985	00:00	1984	1985	40
+Stoke City	Newcastle United	0:1	0:1	04.05.1985	00:00	1984	1985	40
+Sunderland AFC	Aston Villa	0:2	0:4	04.05.1985	00:00	1984	1985	40
+Coventry City	Liverpool FC	0:1	0:2	06.05.1985	00:00	1984	1985	41
+Everton FC	Queens Park Rangers	1:0	2:0	06.05.1985	00:00	1984	1985	41
+Ipswich Town	Stoke City	3:0	5:1	06.05.1985	00:00	1984	1985	41
+West Ham United	Norwich City	0:0	1:0	06.05.1985	00:00	1984	1985	41
+Manchester United	Nottingham Forest	1:0	2:0	06.05.1985	00:00	1984	1985	41
+Chelsea FC	Sheffield Wednesday	1:1	2:1	06.05.1985	00:00	1984	1985	41
+Arsenal FC	Southampton FC	1:0	1:0	06.05.1985	00:00	1984	1985	41
+Aston Villa	Luton Town	0:1	0:1	06.05.1985	00:00	1984	1985	41
+Leicester City	Sunderland AFC	2:0	2:0	06.05.1985	00:00	1984	1985	41
+Newcastle United	Tottenham Hotspur	1:1	2:3	06.05.1985	00:00	1984	1985	41
+Watford FC	West Bromwich Albion	0:1	0:2	07.05.1985	00:00	1984	1985	41
+Southampton FC	Coventry City	1:1	2:1	11.05.1985	00:00	1984	1985	42
+Nottingham Forest	Everton FC	1:0	1:0	11.05.1985	00:00	1984	1985	42
+Tottenham Hotspur	Watford FC	0:3	1:5	11.05.1985	00:00	1984	1985	42
+Stoke City	Chelsea FC	0:0	0:1	11.05.1985	00:00	1984	1985	42
+Sheffield Wednesday	West Ham United	2:0	2:1	11.05.1985	00:00	1984	1985	42
+Queens Park Rangers	Manchester United	0:1	1:3	11.05.1985	00:00	1984	1985	42
+Norwich City	Newcastle United	0:0	0:0	11.05.1985	00:00	1984	1985	42
+Liverpool FC	Aston Villa	0:0	2:1	11.05.1985	00:00	1984	1985	42
+Luton Town	Leicester City	2:0	4:0	11.05.1985	00:00	1984	1985	42
+Sunderland AFC	Ipswich Town	1:1	1:2	11.05.1985	00:00	1984	1985	42
+West Bromwich Albion	Arsenal FC	0:0	2:2	11.05.1985	00:00	1984	1985	42

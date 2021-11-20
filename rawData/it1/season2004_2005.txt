@@ -1,0 +1,380 @@
+Chievo Verona	Inter	2:1	2:2	11.09.2004	18:00	2004	2005	1
+AC Milan	AS Livorno	1:1	2:2	11.09.2004	20:30	2004	2005	1
+Parma FC	FC Messina	0:0	0:0	12.09.2004	15:00	2004	2005	1
+Reggina Calcio	Udinese Calcio	0:0	0:0	12.09.2004	15:00	2004	2005	1
+AS Roma	ACF Fiorentina	0:0	1:0	12.09.2004	15:00	2004	2005	1
+US Palermo	AC Siena	1:0	1:0	12.09.2004	15:00	2004	2005	1
+Atalanta	US Lecce	1:1	2:2	12.09.2004	15:00	2004	2005	1
+Brescia Calcio	Juventus	0:2	0:3	12.09.2004	15:00	2004	2005	1
+Cagliari Calcio	Bologna FC	1:0	1:0	12.09.2004	15:00	2004	2005	1
+Sampdoria	Lazio Roma	0:1	0:1	12.09.2004	20:30	2004	2005	1
+US Lecce	Brescia Calcio	1:1	4:1	18.09.2004	18:00	2004	2005	2
+Inter	US Palermo	0:0	1:1	18.09.2004	20:30	2004	2005	2
+AS Livorno	Chievo Verona	1:0	1:2	19.09.2004	15:00	2004	2005	2
+FC Messina	AS Roma	1:1	4:3	19.09.2004	15:00	2004	2005	2
+AC Siena	Sampdoria	1:1	2:1	19.09.2004	15:00	2004	2005	2
+Juventus	Atalanta	1:0	2:0	19.09.2004	15:00	2004	2005	2
+Lazio Roma	Reggina Calcio	1:1	1:1	19.09.2004	15:00	2004	2005	2
+Bologna FC	AC Milan	0:0	0:2	19.09.2004	15:00	2004	2005	2
+ACF Fiorentina	Cagliari Calcio	1:0	2:1	19.09.2004	15:00	2004	2005	2
+Udinese Calcio	Parma FC	1:0	4:0	19.09.2004	20:30	2004	2005	2
+Chievo Verona	Udinese Calcio	0:0	0:0	22.09.2004	20:30	2004	2005	3
+Sampdoria	Juventus	0:1	0:3	22.09.2004	20:30	2004	2005	3
+Parma FC	Bologna FC	0:2	1:2	22.09.2004	20:30	2004	2005	3
+Reggina Calcio	AS Livorno	1:1	2:1	22.09.2004	20:30	2004	2005	3
+AS Roma	US Lecce	0:1	2:2	22.09.2004	20:30	2004	2005	3
+AC Milan	FC Messina	0:0	1:2	22.09.2004	20:30	2004	2005	3
+US Palermo	ACF Fiorentina	0:0	0:0	22.09.2004	20:30	2004	2005	3
+Atalanta	Inter	1:0	2:3	22.09.2004	20:30	2004	2005	3
+Brescia Calcio	Lazio Roma	0:2	0:2	22.09.2004	20:30	2004	2005	3
+Cagliari Calcio	AC Siena	1:0	2:0	22.09.2004	20:30	2004	2005	3
+Bologna FC	AS Roma	3:0	3:1	25.09.2004	19:00	2004	2005	4
+Juventus	US Palermo	0:1	1:1	25.09.2004	20:30	2004	2005	4
+Udinese Calcio	Brescia Calcio	0:1	1:2	26.09.2004	15:00	2004	2005	4
+AS Livorno	Atalanta	0:0	1:1	26.09.2004	15:00	2004	2005	4
+FC Messina	Chievo Verona	0:0	0:0	26.09.2004	15:00	2004	2005	4
+AC Siena	Reggina Calcio	0:0	0:0	26.09.2004	15:00	2004	2005	4
+US Lecce	Cagliari Calcio	0:0	3:1	26.09.2004	15:00	2004	2005	4
+ACF Fiorentina	Sampdoria	0:1	0:2	26.09.2004	15:00	2004	2005	4
+Inter	Parma FC	0:1	2:2	26.09.2004	15:00	2004	2005	4
+Lazio Roma	AC Milan	1:0	1:2	26.09.2004	20:30	2004	2005	4
+Cagliari Calcio	Brescia Calcio	1:1	2:1	02.10.2004	18:00	2004	2005	5
+Chievo Verona	US Lecce	0:0	2:1	02.10.2004	20:30	2004	2005	5
+Udinese Calcio	Juventus	0:0	0:1	03.10.2004	15:00	2004	2005	5
+Parma FC	ACF Fiorentina	0:0	0:0	03.10.2004	15:00	2004	2005	5
+Sampdoria	AS Livorno	0:0	2:0	03.10.2004	15:00	2004	2005	5
+FC Messina	AC Siena	2:1	4:1	03.10.2004	15:00	2004	2005	5
+AC Milan	Reggina Calcio	1:0	3:1	03.10.2004	15:00	2004	2005	5
+US Palermo	Bologna FC	1:0	1:0	03.10.2004	15:00	2004	2005	5
+Atalanta	Lazio Roma	1:0	1:1	03.10.2004	15:00	2004	2005	5
+AS Roma	Inter	1:0	3:3	03.10.2004	20:30	2004	2005	5
+AS Livorno	AS Roma	0:1	0:2	16.10.2004	18:00	2004	2005	6
+Juventus	FC Messina	1:0	2:1	16.10.2004	20:30	2004	2005	6
+Lazio Roma	Chievo Verona	0:0	0:1	17.10.2004	15:00	2004	2005	6
+US Lecce	US Palermo	0:0	2:0	17.10.2004	15:00	2004	2005	6
+ACF Fiorentina	AC Siena	0:0	0:0	17.10.2004	15:00	2004	2005	6
+Inter	Udinese Calcio	2:0	3:1	17.10.2004	15:00	2004	2005	6
+Bologna FC	Atalanta	1:1	2:1	17.10.2004	15:00	2004	2005	6
+Brescia Calcio	Parma FC	2:1	3:1	17.10.2004	15:00	2004	2005	6
+Cagliari Calcio	AC Milan	0:1	0:1	17.10.2004	15:00	2004	2005	6
+Reggina Calcio	Sampdoria	0:1	0:1	17.10.2004	20:30	2004	2005	6
+Atalanta	Cagliari Calcio	2:2	2:2	23.10.2004	18:00	2004	2005	7
+AC Siena	Juventus	0:0	0:3	23.10.2004	20:30	2004	2005	7
+Udinese Calcio	ACF Fiorentina	1:1	2:2	24.10.2004	15:00	2004	2005	7
+AS Roma	US Palermo	0:1	1:1	24.10.2004	15:00	2004	2005	7
+Sampdoria	Brescia Calcio	0:0	0:1	24.10.2004	15:00	2004	2005	7
+FC Messina	US Lecce	1:3	1:4	24.10.2004	15:00	2004	2005	7
+Parma FC	Lazio Roma	2:1	3:1	24.10.2004	15:00	2004	2005	7
+Chievo Verona	Reggina Calcio	0:0	0:0	24.10.2004	15:00	2004	2005	7
+AS Livorno	Bologna FC	0:0	1:0	24.10.2004	15:00	2004	2005	7
+AC Milan	Inter	0:0	0:0	24.10.2004	20:30	2004	2005	7
+Reggina Calcio	ACF Fiorentina	0:0	1:2	27.10.2004	20:30	2004	2005	8
+US Lecce	Inter	1:2	2:2	27.10.2004	20:30	2004	2005	8
+AC Milan	Atalanta	0:0	3:0	27.10.2004	20:30	2004	2005	8
+US Palermo	AS Livorno	1:1	1:2	27.10.2004	20:30	2004	2005	8
+Chievo Verona	Sampdoria	0:2	0:2	27.10.2004	20:30	2004	2005	8
+Lazio Roma	FC Messina	1:0	2:0	27.10.2004	20:30	2004	2005	8
+Bologna FC	Udinese Calcio	0:0	0:1	27.10.2004	20:30	2004	2005	8
+Brescia Calcio	AC Siena	0:1	0:1	27.10.2004	20:30	2004	2005	8
+Cagliari Calcio	Parma FC	1:0	2:1	27.10.2004	20:30	2004	2005	8
+Juventus	AS Roma	1:0	2:0	28.10.2004	20:30	2004	2005	8
+Sampdoria	AC Milan	0:0	0:1	30.10.2004	18:00	2004	2005	9
+Inter	Lazio Roma	0:0	1:1	30.10.2004	20:30	2004	2005	9
+AS Roma	Cagliari Calcio	2:1	5:1	31.10.2004	15:00	2004	2005	9
+AC Siena	Bologna FC	0:1	1:1	31.10.2004	15:00	2004	2005	9
+AS Livorno	Brescia Calcio	1:1	2:1	31.10.2004	15:00	2004	2005	9
+FC Messina	Reggina Calcio	0:1	2:1	31.10.2004	15:00	2004	2005	9
+Parma FC	Atalanta	1:1	2:2	31.10.2004	15:00	2004	2005	9
+ACF Fiorentina	US Lecce	1:0	4:0	31.10.2004	15:00	2004	2005	9
+Juventus	Chievo Verona	1:0	3:0	31.10.2004	15:00	2004	2005	9
+Udinese Calcio	US Palermo	0:0	1:0	31.10.2004	20:30	2004	2005	9
+Brescia Calcio	Chievo Verona	0:0	1:0	06.11.2004	18:00	2004	2005	10
+Reggina Calcio	Juventus	2:1	2:1	06.11.2004	20:30	2004	2005	10
+US Lecce	Udinese Calcio	1:1	3:4	07.11.2004	15:00	2004	2005	10
+US Palermo	Parma FC	0:1	1:1	07.11.2004	15:00	2004	2005	10
+Cagliari Calcio	AS Livorno	0:0	0:0	07.11.2004	15:00	2004	2005	10
+ACF Fiorentina	Inter	1:0	1:1	07.11.2004	15:00	2004	2005	10
+Lazio Roma	AC Siena	0:0	1:1	07.11.2004	15:00	2004	2005	10
+Atalanta	Sampdoria	0:0	0:0	07.11.2004	15:00	2004	2005	10
+Bologna FC	FC Messina	1:2	2:2	07.11.2004	15:00	2004	2005	10
+AC Milan	AS Roma	1:0	1:1	07.11.2004	20:30	2004	2005	10
+AC Siena	US Lecce	1:0	1:1	10.11.2004	20:30	2004	2005	11
+Parma FC	Reggina Calcio	0:0	1:0	10.11.2004	20:30	2004	2005	11
+AS Roma	Udinese Calcio	0:1	0:3	10.11.2004	20:30	2004	2005	11
+Sampdoria	Cagliari Calcio	0:0	0:0	10.11.2004	20:30	2004	2005	11
+Juventus	ACF Fiorentina	0:0	1:0	10.11.2004	20:30	2004	2005	11
+AS Livorno	Lazio Roma	1:0	1:0	10.11.2004	20:30	2004	2005	11
+Brescia Calcio	AC Milan	0:0	0:0	10.11.2004	20:30	2004	2005	11
+Chievo Verona	Atalanta	0:0	1:0	10.11.2004	20:30	2004	2005	11
+Inter	Bologna FC	1:0	2:2	10.11.2004	20:30	2004	2005	11
+FC Messina	US Palermo	0:0	0:0	11.11.2004	20:30	2004	2005	11
+Udinese Calcio	FC Messina	0:1	1:1	14.11.2004	15:00	2004	2005	12
+US Palermo	Sampdoria	1:0	2:0	14.11.2004	15:00	2004	2005	12
+Parma FC	Chievo Verona	0:0	2:2	14.11.2004	15:00	2004	2005	12
+Reggina Calcio	AS Roma	1:0	1:0	14.11.2004	15:00	2004	2005	12
+Lazio Roma	Bologna FC	1:0	2:1	14.11.2004	15:00	2004	2005	12
+US Lecce	Juventus	0:1	0:1	14.11.2004	15:00	2004	2005	12
+AC Milan	AC Siena	2:1	2:1	14.11.2004	15:00	2004	2005	12
+Atalanta	Brescia Calcio	0:0	0:0	14.11.2004	15:00	2004	2005	12
+Cagliari Calcio	Inter	2:1	3:3	14.11.2004	15:00	2004	2005	12
+ACF Fiorentina	AS Livorno	0:0	1:1	14.11.2004	15:00	2004	2005	12
+AS Livorno	Udinese Calcio	0:1	1:2	27.11.2004	18:00	2004	2005	13
+AC Siena	AS Roma	0:0	0:4	27.11.2004	20:30	2004	2005	13
+FC Messina	ACF Fiorentina	0:0	1:1	28.11.2004	15:00	2004	2005	13
+Sampdoria	Parma FC	0:0	1:0	28.11.2004	15:00	2004	2005	13
+Chievo Verona	AC Milan	0:0	0:1	28.11.2004	15:00	2004	2005	13
+Lazio Roma	Cagliari Calcio	1:1	2:3	28.11.2004	15:00	2004	2005	13
+Atalanta	Reggina Calcio	0:1	0:1	28.11.2004	15:00	2004	2005	13
+Bologna FC	US Lecce	0:0	0:0	28.11.2004	15:00	2004	2005	13
+Brescia Calcio	US Palermo	0:2	0:2	28.11.2004	15:00	2004	2005	13
+Inter	Juventus	0:0	2:2	28.11.2004	20:30	2004	2005	13
+Parma FC	AC Milan	0:0	1:2	04.12.2004	18:00	2004	2005	14
+Inter	FC Messina	3:0	5:0	04.12.2004	20:30	2004	2005	14
+Udinese Calcio	AC Siena	1:0	1:0	05.12.2004	15:00	2004	2005	14
+Reggina Calcio	Brescia Calcio	0:2	1:3	05.12.2004	15:00	2004	2005	14
+Juventus	Lazio Roma	1:1	2:1	05.12.2004	15:00	2004	2005	14
+US Lecce	AS Livorno	1:2	3:2	05.12.2004	15:00	2004	2005	14
+US Palermo	Atalanta	1:0	1:0	05.12.2004	15:00	2004	2005	14
+Cagliari Calcio	Chievo Verona	3:0	4:2	05.12.2004	15:00	2004	2005	14
+ACF Fiorentina	Bologna FC	0:0	1:0	05.12.2004	15:00	2004	2005	14
+AS Roma	Sampdoria	0:0	1:1	05.12.2004	20:30	2004	2005	14
+Atalanta	Udinese Calcio	0:1	0:1	11.12.2004	18:00	2004	2005	15
+Lazio Roma	US Lecce	0:2	3:3	11.12.2004	20:30	2004	2005	15
+AC Siena	Inter	1:1	2:2	12.12.2004	15:00	2004	2005	15
+AC Milan	ACF Fiorentina	2:0	6:0	12.12.2004	15:00	2004	2005	15
+Reggina Calcio	Cagliari Calcio	1:1	3:2	12.12.2004	15:00	2004	2005	15
+Sampdoria	FC Messina	1:0	1:0	12.12.2004	15:00	2004	2005	15
+Chievo Verona	US Palermo	2:0	2:1	12.12.2004	15:00	2004	2005	15
+AS Livorno	Parma FC	1:0	2:0	12.12.2004	15:00	2004	2005	15
+Brescia Calcio	AS Roma	0:0	0:1	12.12.2004	15:00	2004	2005	15
+Bologna FC	Juventus	0:0	0:1	12.12.2004	20:30	2004	2005	15
+Juventus	AC Milan	0:0	0:0	18.12.2004	20:30	2004	2005	16
+Udinese Calcio	Lazio Roma	3:0	3:0	19.12.2004	15:00	2004	2005	16
+AS Roma	Parma FC	2:1	5:1	19.12.2004	15:00	2004	2005	16
+AC Siena	AS Livorno	1:0	1:1	19.12.2004	15:00	2004	2005	16
+US Lecce	Sampdoria	0:1	1:4	19.12.2004	15:00	2004	2005	16
+Bologna FC	Reggina Calcio	1:0	2:0	19.12.2004	15:00	2004	2005	16
+ACF Fiorentina	Chievo Verona	1:0	2:0	19.12.2004	15:00	2004	2005	16
+Inter	Brescia Calcio	1:0	1:0	19.12.2004	15:00	2004	2005	16
+US Palermo	Cagliari Calcio	3:0	3:0	19.12.2004	20:30	2004	2005	16
+FC Messina	Atalanta	1:0	1:0	19.01.2005	20:30	2004	2005	16
+Sampdoria	Udinese Calcio	0:0	2:0	06.01.2005	15:00	2004	2005	17
+AC Milan	US Lecce	2:0	5:2	06.01.2005	15:00	2004	2005	17
+Parma FC	Juventus	0:0	1:1	06.01.2005	15:00	2004	2005	17
+Reggina Calcio	US Palermo	1:0	1:0	06.01.2005	15:00	2004	2005	17
+Chievo Verona	AC Siena	0:1	1:3	06.01.2005	15:00	2004	2005	17
+AS Livorno	Inter	0:1	0:2	06.01.2005	15:00	2004	2005	17
+Atalanta	ACF Fiorentina	0:0	1:0	06.01.2005	15:00	2004	2005	17
+Brescia Calcio	Bologna FC	0:1	1:1	06.01.2005	15:00	2004	2005	17
+Cagliari Calcio	FC Messina	0:1	2:1	06.01.2005	15:00	2004	2005	17
+Lazio Roma	AS Roma	1:0	3:1	06.01.2005	20:30	2004	2005	17
+Udinese Calcio	Cagliari Calcio	1:0	2:0	09.01.2005	15:00	2004	2005	18
+AS Roma	Atalanta	1:0	2:1	09.01.2005	15:00	2004	2005	18
+AC Siena	Parma FC	0:1	0:1	09.01.2005	15:00	2004	2005	18
+Juventus	AS Livorno	2:1	4:2	09.01.2005	15:00	2004	2005	18
+US Lecce	Reggina Calcio	1:1	1:1	09.01.2005	15:00	2004	2005	18
+FC Messina	Brescia Calcio	1:0	2:0	09.01.2005	15:00	2004	2005	18
+Bologna FC	Chievo Verona	1:0	3:1	09.01.2005	15:00	2004	2005	18
+ACF Fiorentina	Lazio Roma	1:1	2:3	09.01.2005	15:00	2004	2005	18
+Inter	Sampdoria	0:1	3:2	09.01.2005	15:00	2004	2005	18
+US Palermo	AC Milan	0:0	0:0	09.01.2005	20:30	2004	2005	18
+Brescia Calcio	ACF Fiorentina	0:0	1:1	15.01.2005	18:00	2004	2005	19
+Reggina Calcio	Inter	0:0	0:0	15.01.2005	20:30	2004	2005	19
+Sampdoria	Bologna FC	0:0	0:0	16.01.2005	15:00	2004	2005	19
+AC Milan	Udinese Calcio	1:1	3:1	16.01.2005	15:00	2004	2005	19
+Parma FC	US Lecce	0:0	2:1	16.01.2005	15:00	2004	2005	19
+Chievo Verona	AS Roma	2:1	2:2	16.01.2005	15:00	2004	2005	19
+Lazio Roma	US Palermo	1:1	1:3	16.01.2005	15:00	2004	2005	19
+AS Livorno	FC Messina	0:0	3:1	16.01.2005	15:00	2004	2005	19
+Atalanta	AC Siena	1:1	1:1	16.01.2005	15:00	2004	2005	19
+Cagliari Calcio	Juventus	0:0	1:1	16.01.2005	20:30	2004	2005	19
+Bologna FC	Cagliari Calcio	0:0	1:0	22.01.2005	18:00	2004	2005	20
+Inter	Chievo Verona	0:0	1:1	22.01.2005	20:30	2004	2005	20
+Lazio Roma	Sampdoria	0:2	1:2	23.01.2005	15:00	2004	2005	20
+FC Messina	Parma FC	0:0	1:0	23.01.2005	15:00	2004	2005	20
+Udinese Calcio	Reggina Calcio	0:1	0:2	23.01.2005	15:00	2004	2005	20
+AS Livorno	AC Milan	1:0	1:0	23.01.2005	15:00	2004	2005	20
+AC Siena	US Palermo	0:0	0:0	23.01.2005	15:00	2004	2005	20
+US Lecce	Atalanta	1:0	1:0	23.01.2005	15:00	2004	2005	20
+Juventus	Brescia Calcio	2:0	2:0	23.01.2005	15:00	2004	2005	20
+ACF Fiorentina	AS Roma	1:1	1:2	23.01.2005	20:30	2004	2005	20
+Chievo Verona	AS Livorno	1:0	1:0	29.01.2005	18:00	2004	2005	21
+Parma FC	Udinese Calcio	1:0	1:0	29.01.2005	20:30	2004	2005	21
+AS Roma	FC Messina	0:2	3:2	30.01.2005	15:00	2004	2005	21
+Sampdoria	AC Siena	0:0	1:1	30.01.2005	15:00	2004	2005	21
+Atalanta	Juventus	0:1	1:2	30.01.2005	15:00	2004	2005	21
+Reggina Calcio	Lazio Roma	0:1	2:1	30.01.2005	15:00	2004	2005	21
+Brescia Calcio	US Lecce	0:1	0:1	30.01.2005	15:00	2004	2005	21
+AC Milan	Bologna FC	0:1	0:1	30.01.2005	15:00	2004	2005	21
+Cagliari Calcio	ACF Fiorentina	1:0	1:0	30.01.2005	15:00	2004	2005	21
+US Palermo	Inter	0:1	0:2	30.01.2005	20:30	2004	2005	21
+Udinese Calcio	Chievo Verona	0:0	3:0	02.02.2005	20:30	2004	2005	22
+Juventus	Sampdoria	0:1	0:1	02.02.2005	20:30	2004	2005	22
+AS Livorno	Reggina Calcio	0:1	1:1	02.02.2005	20:30	2004	2005	22
+US Lecce	AS Roma	0:0	1:1	02.02.2005	20:30	2004	2005	22
+FC Messina	AC Milan	1:2	1:4	02.02.2005	20:30	2004	2005	22
+ACF Fiorentina	US Palermo	0:0	1:2	02.02.2005	20:30	2004	2005	22
+Inter	Atalanta	1:0	1:0	02.02.2005	20:30	2004	2005	22
+Lazio Roma	Brescia Calcio	0:0	0:0	02.02.2005	20:30	2004	2005	22
+AC Siena	Cagliari Calcio	2:0	2:2	02.02.2005	20:30	2004	2005	22
+Bologna FC	Parma FC	0:0	3:1	03.02.2005	20:30	2004	2005	22
+Sampdoria	ACF Fiorentina	2:0	3:0	05.02.2005	18:00	2004	2005	23
+US Palermo	Juventus	1:0	1:0	05.02.2005	20:30	2004	2005	23
+Brescia Calcio	Udinese Calcio	0:0	0:1	06.02.2005	15:00	2004	2005	23
+Atalanta	AS Livorno	1:0	1:0	06.02.2005	15:00	2004	2005	23
+Chievo Verona	FC Messina	1:0	1:0	06.02.2005	15:00	2004	2005	23
+Reggina Calcio	AC Siena	1:2	3:3	06.02.2005	15:00	2004	2005	23
+Cagliari Calcio	US Lecce	1:1	3:1	06.02.2005	15:00	2004	2005	23
+AS Roma	Bologna FC	1:0	1:1	06.02.2005	15:00	2004	2005	23
+Parma FC	Inter	1:0	2:2	06.02.2005	15:00	2004	2005	23
+AC Milan	Lazio Roma	0:0	2:1	06.02.2005	20:30	2004	2005	23
+Lazio Roma	Atalanta	1:1	2:1	12.02.2005	18:00	2004	2005	24
+Inter	AS Roma	1:0	2:0	12.02.2005	20:30	2004	2005	24
+Juventus	Udinese Calcio	1:0	2:1	13.02.2005	15:00	2004	2005	24
+ACF Fiorentina	Parma FC	0:0	2:1	13.02.2005	15:00	2004	2005	24
+AS Livorno	Sampdoria	0:0	1:0	13.02.2005	15:00	2004	2005	24
+AC Siena	FC Messina	0:1	2:2	13.02.2005	15:00	2004	2005	24
+Bologna FC	US Palermo	0:1	1:1	13.02.2005	15:00	2004	2005	24
+Brescia Calcio	Cagliari Calcio	1:0	2:0	13.02.2005	15:00	2004	2005	24
+US Lecce	Chievo Verona	1:0	3:0	13.02.2005	15:00	2004	2005	24
+Reggina Calcio	AC Milan	0:1	0:1	13.02.2005	20:30	2004	2005	24
+FC Messina	Juventus	0:0	0:0	19.02.2005	18:00	2004	2005	25
+Udinese Calcio	Inter	0:0	1:1	19.02.2005	20:30	2004	2005	25
+AC Milan	Cagliari Calcio	0:0	1:0	19.02.2005	20:30	2004	2005	25
+Sampdoria	Reggina Calcio	2:0	3:2	20.02.2005	15:00	2004	2005	25
+Chievo Verona	Lazio Roma	0:0	0:1	20.02.2005	15:00	2004	2005	25
+US Palermo	US Lecce	2:1	3:2	20.02.2005	15:00	2004	2005	25
+AS Roma	AS Livorno	1:0	3:0	20.02.2005	15:00	2004	2005	25
+AC Siena	ACF Fiorentina	1:0	1:0	20.02.2005	15:00	2004	2005	25
+Atalanta	Bologna FC	1:0	2:0	20.02.2005	15:00	2004	2005	25
+Parma FC	Brescia Calcio	1:0	2:1	20.02.2005	15:00	2004	2005	25
+Brescia Calcio	Sampdoria	0:0	0:1	26.02.2005	18:00	2004	2005	26
+ACF Fiorentina	Udinese Calcio	2:1	2:2	26.02.2005	20:30	2004	2005	26
+US Palermo	AS Roma	0:0	2:0	27.02.2005	15:00	2004	2005	26
+Juventus	AC Siena	1:0	3:0	27.02.2005	15:00	2004	2005	26
+US Lecce	FC Messina	0:0	1:0	27.02.2005	15:00	2004	2005	26
+Lazio Roma	Parma FC	1:0	2:0	27.02.2005	15:00	2004	2005	26
+Cagliari Calcio	Atalanta	2:1	3:3	27.02.2005	15:00	2004	2005	26
+Reggina Calcio	Chievo Verona	1:0	1:0	27.02.2005	15:00	2004	2005	26
+Bologna FC	AS Livorno	0:0	0:0	27.02.2005	15:00	2004	2005	26
+Inter	AC Milan	0:0	0:1	27.02.2005	20:30	2004	2005	26
+Atalanta	AC Milan	0:0	1:2	05.03.2005	18:00	2004	2005	27
+AS Roma	Juventus	1:2	1:2	05.03.2005	20:30	2004	2005	27
+ACF Fiorentina	Reggina Calcio	0:0	2:1	06.03.2005	15:00	2004	2005	27
+Inter	US Lecce	1:1	2:1	06.03.2005	15:00	2004	2005	27
+Sampdoria	Chievo Verona	0:0	1:0	06.03.2005	15:00	2004	2005	27
+FC Messina	Lazio Roma	1:0	1:0	06.03.2005	15:00	2004	2005	27
+Udinese Calcio	Bologna FC	0:1	0:1	06.03.2005	15:00	2004	2005	27
+AC Siena	Brescia Calcio	0:2	2:3	06.03.2005	15:00	2004	2005	27
+Parma FC	Cagliari Calcio	2:1	3:2	06.03.2005	15:00	2004	2005	27
+AS Livorno	US Palermo	0:1	2:2	06.03.2005	20:30	2004	2005	27
+US Lecce	ACF Fiorentina	2:0	2:2	12.03.2005	18:00	2004	2005	28
+Lazio Roma	Inter	1:0	1:1	12.03.2005	20:30	2004	2005	28
+US Palermo	Udinese Calcio	0:2	1:5	13.03.2005	15:00	2004	2005	28
+Cagliari Calcio	AS Roma	2:0	3:0	13.03.2005	15:00	2004	2005	28
+AC Milan	Sampdoria	0:0	1:0	13.03.2005	15:00	2004	2005	28
+Bologna FC	AC Siena	0:0	1:1	13.03.2005	15:00	2004	2005	28
+Brescia Calcio	AS Livorno	1:0	2:3	13.03.2005	15:00	2004	2005	28
+Reggina Calcio	FC Messina	0:2	0:2	13.03.2005	15:00	2004	2005	28
+Atalanta	Parma FC	0:0	1:0	13.03.2005	15:00	2004	2005	28
+Chievo Verona	Juventus	0:0	0:1	13.03.2005	20:30	2004	2005	28
+AC Siena	Lazio Roma	0:0	1:0	19.03.2005	18:00	2004	2005	29
+Juventus	Reggina Calcio	1:0	1:0	19.03.2005	20:30	2004	2005	29
+Udinese Calcio	US Lecce	1:1	2:1	20.03.2005	15:00	2004	2005	29
+Parma FC	US Palermo	1:2	3:3	20.03.2005	15:00	2004	2005	29
+AS Livorno	Cagliari Calcio	2:2	3:3	20.03.2005	15:00	2004	2005	29
+Inter	ACF Fiorentina	1:1	3:2	20.03.2005	15:00	2004	2005	29
+Sampdoria	Atalanta	1:1	1:2	20.03.2005	15:00	2004	2005	29
+FC Messina	Bologna FC	0:0	0:0	20.03.2005	15:00	2004	2005	29
+Chievo Verona	Brescia Calcio	0:1	3:1	20.03.2005	15:00	2004	2005	29
+AS Roma	AC Milan	0:0	0:2	20.03.2005	20:30	2004	2005	29
+AC Milan	Brescia Calcio	1:0	1:1	09.04.2005	18:00	2004	2005	30
+Bologna FC	Inter	0:1	0:1	09.04.2005	18:00	2004	2005	30
+ACF Fiorentina	Juventus	2:1	3:3	09.04.2005	20:30	2004	2005	30
+US Lecce	AC Siena	1:1	2:2	10.04.2005	15:00	2004	2005	30
+Reggina Calcio	Parma FC	0:1	1:3	10.04.2005	15:00	2004	2005	30
+Udinese Calcio	AS Roma	2:3	3:3	10.04.2005	15:00	2004	2005	30
+Cagliari Calcio	Sampdoria	0:0	0:0	10.04.2005	15:00	2004	2005	30
+Lazio Roma	AS Livorno	2:0	3:1	10.04.2005	15:00	2004	2005	30
+US Palermo	FC Messina	0:0	2:1	10.04.2005	15:00	2004	2005	30
+Atalanta	Chievo Verona	2:0	3:0	10.04.2005	15:00	2004	2005	30
+FC Messina	Udinese Calcio	0:0	1:0	16.04.2005	18:00	2004	2005	31
+Sampdoria	US Palermo	0:0	1:0	16.04.2005	20:30	2004	2005	31
+AS Roma	Reggina Calcio	1:0	1:2	16.04.2005	20:30	2004	2005	31
+Chievo Verona	Parma FC	0:0	2:0	17.04.2005	15:00	2004	2005	31
+Bologna FC	Lazio Roma	1:0	1:2	17.04.2005	15:00	2004	2005	31
+Juventus	US Lecce	3:1	5:2	17.04.2005	15:00	2004	2005	31
+AC Siena	AC Milan	0:0	2:1	17.04.2005	15:00	2004	2005	31
+Brescia Calcio	Atalanta	0:0	1:0	17.04.2005	15:00	2004	2005	31
+Inter	Cagliari Calcio	1:0	2:0	17.04.2005	15:00	2004	2005	31
+AS Livorno	ACF Fiorentina	2:0	2:0	17.04.2005	15:00	2004	2005	31
+AS Roma	AC Siena	0:0	0:2	20.04.2005	20:30	2004	2005	32
+Udinese Calcio	AS Livorno	1:0	1:1	20.04.2005	20:30	2004	2005	32
+ACF Fiorentina	FC Messina	0:0	1:1	20.04.2005	20:30	2004	2005	32
+Parma FC	Sampdoria	1:1	1:1	20.04.2005	20:30	2004	2005	32
+AC Milan	Chievo Verona	0:0	1:0	20.04.2005	20:30	2004	2005	32
+Juventus	Inter	0:1	0:1	20.04.2005	20:30	2004	2005	32
+Cagliari Calcio	Lazio Roma	0:0	1:1	20.04.2005	20:30	2004	2005	32
+Reggina Calcio	Atalanta	0:0	0:0	20.04.2005	20:30	2004	2005	32
+US Lecce	Bologna FC	1:1	1:1	20.04.2005	20:30	2004	2005	32
+US Palermo	Brescia Calcio	2:2	3:3	20.04.2005	20:30	2004	2005	32
+AC Siena	Udinese Calcio	1:1	2:3	23.04.2005	18:00	2004	2005	33
+AC Milan	Parma FC	1:0	3:0	23.04.2005	20:30	2004	2005	33
+Brescia Calcio	Reggina Calcio	0:0	2:0	24.04.2005	15:00	2004	2005	33
+Sampdoria	AS Roma	1:0	2:1	24.04.2005	15:00	2004	2005	33
+AS Livorno	US Lecce	0:0	1:0	24.04.2005	15:00	2004	2005	33
+Atalanta	US Palermo	0:0	1:0	24.04.2005	15:00	2004	2005	33
+Chievo Verona	Cagliari Calcio	1:0	1:1	24.04.2005	15:00	2004	2005	33
+Bologna FC	ACF Fiorentina	0:0	0:0	24.04.2005	15:00	2004	2005	33
+FC Messina	Inter	0:0	2:1	24.04.2005	15:00	2004	2005	33
+Lazio Roma	Juventus	0:0	0:1	24.04.2005	20:30	2004	2005	33
+Cagliari Calcio	Reggina Calcio	0:1	1:1	30.04.2005	18:00	2004	2005	34
+ACF Fiorentina	AC Milan	1:0	1:2	30.04.2005	20:30	2004	2005	34
+Inter	AC Siena	2:0	2:0	01.05.2005	15:00	2004	2005	34
+FC Messina	Sampdoria	1:1	2:2	01.05.2005	15:00	2004	2005	34
+US Lecce	Lazio Roma	2:1	5:3	01.05.2005	15:00	2004	2005	34
+Parma FC	AS Livorno	3:2	6:4	01.05.2005	15:00	2004	2005	34
+Udinese Calcio	Atalanta	2:1	2:1	01.05.2005	15:00	2004	2005	34
+Juventus	Bologna FC	2:1	2:1	01.05.2005	15:00	2004	2005	34
+AS Roma	Brescia Calcio	1:0	2:2	01.05.2005	15:00	2004	2005	34
+US Palermo	Chievo Verona	2:1	2:2	01.05.2005	20:30	2004	2005	34
+Lazio Roma	Udinese Calcio	0:0	0:1	08.05.2005	15:00	2004	2005	35
+Cagliari Calcio	US Palermo	0:0	0:0	08.05.2005	15:00	2004	2005	35
+Parma FC	AS Roma	0:1	2:1	08.05.2005	15:00	2004	2005	35
+AS Livorno	AC Siena	1:2	3:6	08.05.2005	15:00	2004	2005	35
+AC Milan	Juventus	0:1	0:1	08.05.2005	15:00	2004	2005	35
+Sampdoria	US Lecce	2:0	3:0	08.05.2005	15:00	2004	2005	35
+Atalanta	FC Messina	0:1	2:1	08.05.2005	15:00	2004	2005	35
+Reggina Calcio	Bologna FC	1:1	1:1	08.05.2005	15:00	2004	2005	35
+Chievo Verona	ACF Fiorentina	0:1	1:2	08.05.2005	15:00	2004	2005	35
+Brescia Calcio	Inter	0:0	0:3	08.05.2005	15:00	2004	2005	35
+Udinese Calcio	Sampdoria	1:1	1:1	15.05.2005	15:00	2004	2005	36
+US Lecce	AC Milan	0:1	2:2	15.05.2005	15:00	2004	2005	36
+Juventus	Parma FC	2:0	2:0	15.05.2005	15:00	2004	2005	36
+US Palermo	Reggina Calcio	0:1	1:1	15.05.2005	15:00	2004	2005	36
+AC Siena	Chievo Verona	0:0	0:1	15.05.2005	15:00	2004	2005	36
+AS Roma	Lazio Roma	0:0	0:0	15.05.2005	15:00	2004	2005	36
+Inter	AS Livorno	1:0	1:0	15.05.2005	15:00	2004	2005	36
+ACF Fiorentina	Atalanta	0:0	0:0	15.05.2005	15:00	2004	2005	36
+Bologna FC	Brescia Calcio	0:0	1:2	15.05.2005	15:00	2004	2005	36
+FC Messina	Cagliari Calcio	1:0	2:1	15.05.2005	15:00	2004	2005	36
+AC Milan	US Palermo	3:1	3:3	20.05.2005	20:30	2004	2005	37
+Cagliari Calcio	Udinese Calcio	0:0	1:1	22.05.2005	15:00	2004	2005	37
+Atalanta	AS Roma	0:0	0:1	22.05.2005	15:00	2004	2005	37
+Parma FC	AC Siena	0:0	0:0	22.05.2005	15:00	2004	2005	37
+AS Livorno	Juventus	0:1	2:2	22.05.2005	15:00	2004	2005	37
+Reggina Calcio	US Lecce	2:2	2:2	22.05.2005	15:00	2004	2005	37
+Brescia Calcio	FC Messina	0:0	2:1	22.05.2005	15:00	2004	2005	37
+Chievo Verona	Bologna FC	0:0	1:0	22.05.2005	15:00	2004	2005	37
+Lazio Roma	ACF Fiorentina	1:1	1:1	22.05.2005	15:00	2004	2005	37
+Sampdoria	Inter	0:1	0:1	22.05.2005	15:00	2004	2005	37
+Bologna FC	Sampdoria	0:0	0:0	29.05.2005	15:00	2004	2005	38
+Udinese Calcio	AC Milan	0:0	1:1	29.05.2005	15:00	2004	2005	38
+US Lecce	Parma FC	2:2	3:3	29.05.2005	15:00	2004	2005	38
+Inter	Reggina Calcio	0:0	0:0	29.05.2005	15:00	2004	2005	38
+AS Roma	Chievo Verona	0:0	0:0	29.05.2005	15:00	2004	2005	38
+US Palermo	Lazio Roma	1:1	3:3	29.05.2005	15:00	2004	2005	38
+FC Messina	AS Livorno	0:0	1:1	29.05.2005	15:00	2004	2005	38
+AC Siena	Atalanta	1:0	2:1	29.05.2005	15:00	2004	2005	38
+ACF Fiorentina	Brescia Calcio	1:0	3:0	29.05.2005	15:00	2004	2005	38
+Juventus	Cagliari Calcio	1:0	4:2	29.05.2005	15:00	2004	2005	38

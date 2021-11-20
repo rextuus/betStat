@@ -1,0 +1,380 @@
+MÃ¡laga CF	Sevilla FC	0:0	0:0	21.08.2015	20:30	2015	2016	1
+Espanyol Barcelona	Getafe CF	1:0	1:0	22.08.2015	20:30	2015	2016	1
+Deportivo La CoruÃ±a	Real Sociedad	0:0	0:0	22.08.2015	18:30	2015	2016	1
+AtlÃ©tico Madrid	UD Las Palmas	1:0	1:0	22.08.2015	18:30	2015	2016	1
+Rayo Vallecano	Valencia CF	0:0	0:0	22.08.2015	22:30	2015	2016	1
+Athletic Bilbao	FC Barcelona	0:0	0:1	23.08.2015	22:30	2015	2016	1
+Sporting GijÃ³n	Real Madrid	0:0	0:0	23.08.2015	20:30	2015	2016	1
+Levante UD	Celta Vigo	0:1	1:2	23.08.2015	20:30	2015	2016	1
+Real Betis	Villarreal CF	0:1	1:1	23.08.2015	22:30	2015	2016	1
+Granada CF	SD Eibar	0:2	1:3	24.08.2015	22:30	2015	2016	1
+Villarreal CF	Espanyol Barcelona	0:1	3:1	28.08.2015	20:30	2015	2016	2
+Real Sociedad	Sporting GijÃ³n	0:0	0:0	29.08.2015	20:30	2015	2016	2
+FC Barcelona	MÃ¡laga CF	0:0	1:0	29.08.2015	20:30	2015	2016	2
+Celta Vigo	Rayo Vallecano	1:0	3:0	29.08.2015	20:30	2015	2016	2
+Real Madrid	Real Betis	2:0	5:0	29.08.2015	22:30	2015	2016	2
+SD Eibar	Athletic Bilbao	1:0	2:0	30.08.2015	22:30	2015	2016	2
+Sevilla FC	AtlÃ©tico Madrid	0:1	0:3	30.08.2015	20:30	2015	2016	2
+Valencia CF	Deportivo La CoruÃ±a	1:1	1:1	30.08.2015	20:30	2015	2016	2
+UD Las Palmas	Levante UD	0:0	0:0	30.08.2015	22:30	2015	2016	2
+Getafe CF	Granada CF	0:2	1:2	30.08.2015	22:30	2015	2016	2
+Levante UD	Sevilla FC	0:1	1:1	11.09.2015	20:30	2015	2016	3
+Espanyol Barcelona	Real Madrid	0:4	0:6	12.09.2015	20:30	2015	2016	3
+Sporting GijÃ³n	Valencia CF	0:0	0:1	12.09.2015	18:15	2015	2016	3
+AtlÃ©tico Madrid	FC Barcelona	0:0	1:2	12.09.2015	18:15	2015	2016	3
+Real Betis	Real Sociedad	1:0	1:0	12.09.2015	22:00	2015	2016	3
+Granada CF	Villarreal CF	0:0	1:3	13.09.2015	22:00	2015	2016	3
+Athletic Bilbao	Getafe CF	2:0	3:1	13.09.2015	16:00	2015	2016	3
+Celta Vigo	UD Las Palmas	2:1	3:3	13.09.2015	16:00	2015	2016	3
+MÃ¡laga CF	SD Eibar	0:0	0:0	13.09.2015	20:30	2015	2016	3
+Rayo Vallecano	Deportivo La CoruÃ±a	1:2	1:3	14.09.2015	20:30	2015	2016	3
+Getafe CF	MÃ¡laga CF	1:0	1:0	18.09.2015	20:30	2015	2016	4
+Real Madrid	Granada CF	0:0	1:0	19.09.2015	20:30	2015	2016	4
+Valencia CF	Real Betis	0:0	0:0	19.09.2015	18:15	2015	2016	4
+SD Eibar	AtlÃ©tico Madrid	0:0	0:2	19.09.2015	18:15	2015	2016	4
+Real Sociedad	Espanyol Barcelona	1:1	2:3	19.09.2015	22:00	2015	2016	4
+Sevilla FC	Celta Vigo	0:2	1:2	20.09.2015	22:00	2015	2016	4
+Deportivo La CoruÃ±a	Sporting GijÃ³n	2:3	2:3	20.09.2015	16:00	2015	2016	4
+Villarreal CF	Athletic Bilbao	1:0	3:1	20.09.2015	16:00	2015	2016	4
+UD Las Palmas	Rayo Vallecano	0:1	0:1	20.09.2015	20:30	2015	2016	4
+FC Barcelona	Levante UD	0:0	4:1	20.09.2015	20:30	2015	2016	4
+AtlÃ©tico Madrid	Getafe CF	1:0	2:0	22.09.2015	20:00	2015	2016	5
+Espanyol Barcelona	Valencia CF	1:0	1:0	22.09.2015	20:00	2015	2016	5
+Granada CF	Real Sociedad	0:2	0:3	22.09.2015	22:00	2015	2016	5
+Celta Vigo	FC Barcelona	2:0	4:1	23.09.2015	22:00	2015	2016	5
+Levante UD	SD Eibar	0:1	2:2	23.09.2015	20:00	2015	2016	5
+Rayo Vallecano	Sporting GijÃ³n	1:0	2:1	23.09.2015	20:00	2015	2016	5
+Athletic Bilbao	Real Madrid	0:1	1:2	23.09.2015	21:00	2015	2016	5
+UD Las Palmas	Sevilla FC	1:0	2:0	23.09.2015	21:00	2015	2016	5
+MÃ¡laga CF	Villarreal CF	0:0	0:1	23.09.2015	22:00	2015	2016	5
+Real Betis	Deportivo La CoruÃ±a	0:0	1:2	24.09.2015	22:00	2015	2016	5
+Valencia CF	Granada CF	1:0	1:0	25.09.2015	20:30	2015	2016	6
+FC Barcelona	UD Las Palmas	1:0	2:1	26.09.2015	20:30	2015	2016	6
+Real Madrid	MÃ¡laga CF	0:0	0:0	26.09.2015	18:15	2015	2016	6
+Sevilla FC	Rayo Vallecano	2:0	3:2	26.09.2015	18:15	2015	2016	6
+Villarreal CF	AtlÃ©tico Madrid	1:0	1:0	26.09.2015	20:30	2015	2016	6
+SD Eibar	Celta Vigo	1:0	1:1	26.09.2015	20:30	2015	2016	6
+Sporting GijÃ³n	Real Betis	1:0	1:2	27.09.2015	12:00	2015	2016	6
+Deportivo La CoruÃ±a	Espanyol Barcelona	2:0	3:0	27.09.2015	12:00	2015	2016	6
+Getafe CF	Levante UD	0:0	3:0	27.09.2015	18:15	2015	2016	6
+Real Sociedad	Athletic Bilbao	0:0	0:0	27.09.2015	18:15	2015	2016	6
+Celta Vigo	Getafe CF	0:0	0:0	02.10.2015	20:30	2015	2016	7
+Sevilla FC	FC Barcelona	0:0	2:1	03.10.2015	20:30	2015	2016	7
+Granada CF	Deportivo La CoruÃ±a	0:1	1:1	03.10.2015	18:15	2015	2016	7
+Espanyol Barcelona	Sporting GijÃ³n	0:1	1:2	03.10.2015	18:15	2015	2016	7
+UD Las Palmas	SD Eibar	0:1	0:2	03.10.2015	22:00	2015	2016	7
+MÃ¡laga CF	Real Sociedad	2:1	3:1	03.10.2015	22:00	2015	2016	7
+Rayo Vallecano	Real Betis	0:1	0:2	04.10.2015	12:00	2015	2016	7
+Athletic Bilbao	Valencia CF	1:1	3:1	04.10.2015	12:00	2015	2016	7
+Levante UD	Villarreal CF	0:0	1:0	04.10.2015	18:15	2015	2016	7
+AtlÃ©tico Madrid	Real Madrid	0:1	1:1	04.10.2015	18:15	2015	2016	7
+Real Madrid	Levante UD	2:0	3:0	17.10.2015	16:00	2015	2016	8
+SD Eibar	Sevilla FC	1:0	1:1	17.10.2015	16:00	2015	2016	8
+FC Barcelona	Rayo Vallecano	2:1	5:2	17.10.2015	20:30	2015	2016	8
+Valencia CF	MÃ¡laga CF	2:0	3:0	17.10.2015	20:30	2015	2016	8
+Real Betis	Espanyol Barcelona	0:1	1:3	17.10.2015	22:00	2015	2016	8
+Villarreal CF	Celta Vigo	0:1	1:2	18.10.2015	22:00	2015	2016	8
+Real Sociedad	AtlÃ©tico Madrid	0:1	0:2	18.10.2015	16:00	2015	2016	8
+Getafe CF	UD Las Palmas	2:0	4:0	18.10.2015	16:00	2015	2016	8
+Deportivo La CoruÃ±a	Athletic Bilbao	0:1	2:2	18.10.2015	20:30	2015	2016	8
+Sporting GijÃ³n	Granada CF	1:2	3:3	19.10.2015	20:30	2015	2016	8
+Rayo Vallecano	Espanyol Barcelona	1:0	3:0	23.10.2015	20:30	2015	2016	9
+Celta Vigo	Real Madrid	0:2	1:3	24.10.2015	20:30	2015	2016	9
+Granada CF	Real Betis	1:1	1:1	24.10.2015	18:15	2015	2016	9
+Sevilla FC	Getafe CF	2:0	5:0	24.10.2015	18:15	2015	2016	9
+MÃ¡laga CF	Deportivo La CoruÃ±a	0:0	2:0	24.10.2015	22:05	2015	2016	9
+Levante UD	Real Sociedad	0:2	0:4	25.10.2015	22:05	2015	2016	9
+UD Las Palmas	Villarreal CF	0:0	0:0	25.10.2015	16:00	2015	2016	9
+FC Barcelona	SD Eibar	1:1	3:1	25.10.2015	16:00	2015	2016	9
+AtlÃ©tico Madrid	Valencia CF	2:0	2:1	25.10.2015	20:30	2015	2016	9
+Athletic Bilbao	Sporting GijÃ³n	2:0	3:0	26.10.2015	20:30	2015	2016	9
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:1	1:1	30.10.2015	20:30	2015	2016	10
+Real Madrid	UD Las Palmas	3:1	3:1	31.10.2015	20:30	2015	2016	10
+Villarreal CF	Sevilla FC	1:0	2:1	31.10.2015	18:15	2015	2016	10
+Valencia CF	Levante UD	0:0	3:0	31.10.2015	18:15	2015	2016	10
+Getafe CF	FC Barcelona	0:1	0:2	31.10.2015	20:30	2015	2016	10
+Real Sociedad	Celta Vigo	2:1	2:3	31.10.2015	20:30	2015	2016	10
+SD Eibar	Rayo Vallecano	1:0	1:0	01.11.2015	12:00	2015	2016	10
+Espanyol Barcelona	Granada CF	0:0	1:1	01.11.2015	12:00	2015	2016	10
+Sporting GijÃ³n	MÃ¡laga CF	1:0	1:0	01.11.2015	18:15	2015	2016	10
+Real Betis	Athletic Bilbao	0:2	1:3	01.11.2015	18:15	2015	2016	10
+UD Las Palmas	Real Sociedad	1:0	2:0	06.11.2015	20:30	2015	2016	11
+Celta Vigo	Valencia CF	1:2	1:5	07.11.2015	20:30	2015	2016	11
+Levante UD	Deportivo La CoruÃ±a	0:1	1:1	07.11.2015	18:15	2015	2016	11
+SD Eibar	Getafe CF	2:1	3:1	07.11.2015	18:15	2015	2016	11
+Rayo Vallecano	Granada CF	2:0	2:1	07.11.2015	20:30	2015	2016	11
+MÃ¡laga CF	Real Betis	0:0	0:1	07.11.2015	20:30	2015	2016	11
+Athletic Bilbao	Espanyol Barcelona	1:0	2:1	08.11.2015	12:00	2015	2016	11
+FC Barcelona	Villarreal CF	0:0	3:0	08.11.2015	12:00	2015	2016	11
+AtlÃ©tico Madrid	Sporting GijÃ³n	0:0	1:0	08.11.2015	18:15	2015	2016	11
+Sevilla FC	Real Madrid	1:1	3:2	08.11.2015	18:15	2015	2016	11
+Real Sociedad	Sevilla FC	0:0	2:0	21.11.2015	16:00	2015	2016	12
+Real Madrid	FC Barcelona	0:2	0:4	21.11.2015	16:00	2015	2016	12
+Espanyol Barcelona	MÃ¡laga CF	2:0	2:0	21.11.2015	20:30	2015	2016	12
+Valencia CF	UD Las Palmas	1:0	1:1	21.11.2015	20:30	2015	2016	12
+Deportivo La CoruÃ±a	Celta Vigo	1:0	2:0	21.11.2015	22:05	2015	2016	12
+Sporting GijÃ³n	Levante UD	0:3	0:3	22.11.2015	22:05	2015	2016	12
+Villarreal CF	SD Eibar	0:1	1:1	22.11.2015	16:00	2015	2016	12
+Granada CF	Athletic Bilbao	1:0	2:0	22.11.2015	16:00	2015	2016	12
+Real Betis	AtlÃ©tico Madrid	0:1	0:1	22.11.2015	20:30	2015	2016	12
+Getafe CF	Rayo Vallecano	0:0	1:1	23.11.2015	20:30	2015	2016	12
+Levante UD	Real Betis	0:1	0:1	27.11.2015	20:30	2015	2016	13
+FC Barcelona	Real Sociedad	2:0	4:0	28.11.2015	20:30	2015	2016	13
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	1:0	28.11.2015	18:15	2015	2016	13
+MÃ¡laga CF	Granada CF	1:0	2:2	28.11.2015	18:15	2015	2016	13
+UD Las Palmas	Deportivo La CoruÃ±a	0:1	0:2	28.11.2015	22:00	2015	2016	13
+Celta Vigo	Sporting GijÃ³n	1:0	2:1	28.11.2015	22:00	2015	2016	13
+Getafe CF	Villarreal CF	1:0	2:0	29.11.2015	12:00	2015	2016	13
+SD Eibar	Real Madrid	0:1	0:2	29.11.2015	12:00	2015	2016	13
+Rayo Vallecano	Athletic Bilbao	0:2	0:3	29.11.2015	18:15	2015	2016	13
+Sevilla FC	Valencia CF	0:0	1:0	29.11.2015	18:15	2015	2016	13
+Real Madrid	Getafe CF	4:0	4:1	05.12.2015	16:00	2015	2016	14
+Granada CF	AtlÃ©tico Madrid	0:1	0:2	05.12.2015	16:00	2015	2016	14
+Valencia CF	FC Barcelona	0:0	1:1	05.12.2015	20:30	2015	2016	14
+Deportivo La CoruÃ±a	Sevilla FC	1:0	1:1	05.12.2015	20:30	2015	2016	14
+Real Betis	Celta Vigo	0:1	1:1	05.12.2015	22:05	2015	2016	14
+Real Sociedad	SD Eibar	1:1	2:1	06.12.2015	22:05	2015	2016	14
+Villarreal CF	Rayo Vallecano	0:1	2:1	06.12.2015	16:00	2015	2016	14
+Sporting GijÃ³n	UD Las Palmas	1:1	3:1	06.12.2015	16:00	2015	2016	14
+Athletic Bilbao	MÃ¡laga CF	0:0	0:0	06.12.2015	20:30	2015	2016	14
+Espanyol Barcelona	Levante UD	0:1	1:1	07.12.2015	20:30	2015	2016	14
+Getafe CF	Real Sociedad	0:0	1:1	11.12.2015	20:30	2015	2016	15
+FC Barcelona	Deportivo La CoruÃ±a	1:0	2:2	12.12.2015	20:30	2015	2016	15
+Celta Vigo	Espanyol Barcelona	1:0	1:0	12.12.2015	18:15	2015	2016	15
+Levante UD	Granada CF	0:0	1:2	12.12.2015	18:15	2015	2016	15
+Sevilla FC	Sporting GijÃ³n	0:0	2:0	12.12.2015	20:30	2015	2016	15
+UD Las Palmas	Real Betis	0:0	1:0	12.12.2015	20:30	2015	2016	15
+Rayo Vallecano	MÃ¡laga CF	1:0	1:2	13.12.2015	12:00	2015	2016	15
+SD Eibar	Valencia CF	1:0	1:1	13.12.2015	12:00	2015	2016	15
+AtlÃ©tico Madrid	Athletic Bilbao	1:1	2:1	13.12.2015	18:15	2015	2016	15
+Villarreal CF	Real Madrid	1:0	1:0	13.12.2015	18:15	2015	2016	15
+Valencia CF	Getafe CF	2:2	2:2	19.12.2015	16:00	2015	2016	16
+Espanyol Barcelona	UD Las Palmas	0:0	1:0	19.12.2015	16:00	2015	2016	16
+Real Betis	Sevilla FC	0:0	0:0	19.12.2015	20:30	2015	2016	16
+Deportivo La CoruÃ±a	SD Eibar	1:0	2:0	19.12.2015	20:30	2015	2016	16
+Real Madrid	Rayo Vallecano	4:2	10:2	20.12.2015	16:00	2015	2016	16
+Real Sociedad	Villarreal CF	0:1	0:2	20.12.2015	16:00	2015	2016	16
+Granada CF	Celta Vigo	0:2	0:2	20.12.2015	18:15	2015	2016	16
+Athletic Bilbao	Levante UD	0:0	2:0	20.12.2015	18:15	2015	2016	16
+MÃ¡laga CF	AtlÃ©tico Madrid	0:0	1:0	20.12.2015	20:30	2015	2016	16
+Sporting GijÃ³n	FC Barcelona	1:2	1:3	17.02.2016	20:30	2015	2016	16
+Real Madrid	Real Sociedad	1:0	3:1	30.12.2015	16:00	2015	2016	17
+Levante UD	MÃ¡laga CF	0:0	0:1	30.12.2015	16:00	2015	2016	17
+Sevilla FC	Espanyol Barcelona	2:0	2:0	30.12.2015	18:15	2015	2016	17
+Rayo Vallecano	AtlÃ©tico Madrid	0:0	0:2	30.12.2015	18:15	2015	2016	17
+SD Eibar	Sporting GijÃ³n	0:0	2:0	30.12.2015	18:30	2015	2016	17
+Getafe CF	Deportivo La CoruÃ±a	0:0	0:0	30.12.2015	18:30	2015	2016	17
+FC Barcelona	Real Betis	2:0	4:0	30.12.2015	20:30	2015	2016	17
+Celta Vigo	Athletic Bilbao	0:0	0:1	30.12.2015	20:30	2015	2016	17
+UD Las Palmas	Granada CF	1:0	4:1	30.12.2015	21:00	2015	2016	17
+Villarreal CF	Valencia CF	0:0	1:0	31.12.2015	21:00	2015	2016	17
+Espanyol Barcelona	FC Barcelona	0:0	0:0	02.01.2016	16:00	2015	2016	18
+AtlÃ©tico Madrid	Levante UD	0:0	1:0	02.01.2016	16:00	2015	2016	18
+MÃ¡laga CF	Celta Vigo	2:0	2:0	02.01.2016	22:05	2015	2016	18
+Rayo Vallecano	Real Sociedad	1:1	2:2	03.01.2016	22:05	2015	2016	18
+Real Betis	SD Eibar	0:2	0:4	03.01.2016	16:00	2015	2016	18
+Granada CF	Sevilla FC	2:1	2:1	03.01.2016	16:00	2015	2016	18
+Deportivo La CoruÃ±a	Villarreal CF	0:1	1:2	03.01.2016	18:15	2015	2016	18
+Athletic Bilbao	UD Las Palmas	1:0	2:2	03.01.2016	18:15	2015	2016	18
+Valencia CF	Real Madrid	1:1	2:2	03.01.2016	20:30	2015	2016	18
+Sporting GijÃ³n	Getafe CF	1:0	1:2	04.01.2016	20:30	2015	2016	18
+FC Barcelona	Granada CF	2:0	4:0	09.01.2016	16:00	2015	2016	19
+Getafe CF	Real Betis	0:0	1:0	09.01.2016	16:00	2015	2016	19
+Sevilla FC	Athletic Bilbao	1:0	2:0	09.01.2016	18:15	2015	2016	19
+Real Madrid	Deportivo La CoruÃ±a	2:0	5:0	09.01.2016	18:15	2015	2016	19
+Levante UD	Rayo Vallecano	0:0	2:1	09.01.2016	22:05	2015	2016	19
+Villarreal CF	Sporting GijÃ³n	1:0	2:0	10.01.2016	22:05	2015	2016	19
+Real Sociedad	Valencia CF	0:0	2:0	10.01.2016	16:00	2015	2016	19
+SD Eibar	Espanyol Barcelona	1:1	2:1	10.01.2016	16:00	2015	2016	19
+UD Las Palmas	MÃ¡laga CF	0:0	1:1	10.01.2016	18:15	2015	2016	19
+Celta Vigo	AtlÃ©tico Madrid	0:0	0:2	10.01.2016	18:15	2015	2016	19
+Sevilla FC	MÃ¡laga CF	2:0	2:1	16.01.2016	16:00	2015	2016	20
+Celta Vigo	Levante UD	2:0	4:3	16.01.2016	16:00	2015	2016	20
+Villarreal CF	Real Betis	0:0	0:0	16.01.2016	20:30	2015	2016	20
+Real Sociedad	Deportivo La CoruÃ±a	0:1	1:1	16.01.2016	20:30	2015	2016	20
+Valencia CF	Rayo Vallecano	0:1	2:2	17.01.2016	12:00	2015	2016	20
+Real Madrid	Sporting GijÃ³n	5:0	5:1	17.01.2016	12:00	2015	2016	20
+Getafe CF	Espanyol Barcelona	2:1	3:1	17.01.2016	18:15	2015	2016	20
+UD Las Palmas	AtlÃ©tico Madrid	0:1	0:3	17.01.2016	18:15	2015	2016	20
+FC Barcelona	Athletic Bilbao	2:0	6:0	17.01.2016	20:30	2015	2016	20
+SD Eibar	Granada CF	2:0	5:1	18.01.2016	20:30	2015	2016	20
+Sporting GijÃ³n	Real Sociedad	3:1	5:1	22.01.2016	20:30	2015	2016	21
+MÃ¡laga CF	FC Barcelona	1:1	1:2	23.01.2016	20:30	2015	2016	21
+Espanyol Barcelona	Villarreal CF	2:1	2:2	23.01.2016	18:15	2015	2016	21
+Granada CF	Getafe CF	2:0	3:2	23.01.2016	18:15	2015	2016	21
+Rayo Vallecano	Celta Vigo	3:0	3:0	23.01.2016	22:05	2015	2016	21
+Athletic Bilbao	SD Eibar	3:1	5:2	24.01.2016	22:05	2015	2016	21
+AtlÃ©tico Madrid	Sevilla FC	0:0	0:0	24.01.2016	16:00	2015	2016	21
+Deportivo La CoruÃ±a	Valencia CF	1:0	1:1	24.01.2016	16:00	2015	2016	21
+Real Betis	Real Madrid	1:0	1:1	24.01.2016	20:30	2015	2016	21
+Levante UD	UD Las Palmas	1:0	3:2	25.01.2016	20:30	2015	2016	21
+FC Barcelona	AtlÃ©tico Madrid	2:1	2:1	30.01.2016	16:00	2015	2016	22
+SD Eibar	MÃ¡laga CF	0:1	1:2	30.01.2016	16:00	2015	2016	22
+Getafe CF	Athletic Bilbao	0:1	0:1	30.01.2016	18:15	2015	2016	22
+Villarreal CF	Granada CF	0:0	1:0	30.01.2016	18:15	2015	2016	22
+Real Sociedad	Real Betis	2:0	2:1	30.01.2016	22:05	2015	2016	22
+Sevilla FC	Levante UD	1:0	3:1	31.01.2016	22:05	2015	2016	22
+Valencia CF	Sporting GijÃ³n	0:0	0:1	31.01.2016	16:00	2015	2016	22
+UD Las Palmas	Celta Vigo	1:1	2:1	31.01.2016	16:00	2015	2016	22
+Real Madrid	Espanyol Barcelona	4:0	6:0	31.01.2016	20:30	2015	2016	22
+Deportivo La CoruÃ±a	Rayo Vallecano	1:2	2:2	01.02.2016	20:30	2015	2016	22
+MÃ¡laga CF	Getafe CF	3:0	3:0	05.02.2016	20:30	2015	2016	23
+AtlÃ©tico Madrid	SD Eibar	0:0	3:1	06.02.2016	20:30	2015	2016	23
+Rayo Vallecano	UD Las Palmas	1:0	2:0	06.02.2016	18:15	2015	2016	23
+Athletic Bilbao	Villarreal CF	0:0	0:0	06.02.2016	18:15	2015	2016	23
+Sporting GijÃ³n	Deportivo La CoruÃ±a	1:1	1:1	06.02.2016	22:05	2015	2016	23
+Levante UD	FC Barcelona	0:1	0:2	07.02.2016	22:05	2015	2016	23
+Real Betis	Valencia CF	0:0	1:0	07.02.2016	16:00	2015	2016	23
+Celta Vigo	Sevilla FC	0:1	1:1	07.02.2016	16:00	2015	2016	23
+Granada CF	Real Madrid	0:1	1:2	07.02.2016	20:30	2015	2016	23
+Espanyol Barcelona	Real Sociedad	0:2	0:5	08.02.2016	20:30	2015	2016	23
+Sporting GijÃ³n	Rayo Vallecano	2:1	2:2	12.02.2016	20:30	2015	2016	24
+Real Madrid	Athletic Bilbao	3:1	4:2	13.02.2016	20:30	2015	2016	24
+Villarreal CF	MÃ¡laga CF	1:0	1:0	13.02.2016	18:15	2015	2016	24
+Valencia CF	Espanyol Barcelona	0:0	2:1	13.02.2016	18:15	2015	2016	24
+Deportivo La CoruÃ±a	Real Betis	1:2	2:2	13.02.2016	22:05	2015	2016	24
+Real Sociedad	Granada CF	2:0	3:0	14.02.2016	22:05	2015	2016	24
+Sevilla FC	UD Las Palmas	0:0	2:0	14.02.2016	16:00	2015	2016	24
+SD Eibar	Levante UD	1:0	2:0	14.02.2016	16:00	2015	2016	24
+Getafe CF	AtlÃ©tico Madrid	0:1	0:1	14.02.2016	18:15	2015	2016	24
+FC Barcelona	Celta Vigo	1:1	6:1	14.02.2016	18:15	2015	2016	24
+Levante UD	Getafe CF	2:0	3:0	19.02.2016	20:30	2015	2016	25
+UD Las Palmas	FC Barcelona	1:2	1:2	20.02.2016	20:30	2015	2016	25
+Espanyol Barcelona	Deportivo La CoruÃ±a	0:0	1:0	20.02.2016	18:15	2015	2016	25
+Real Betis	Sporting GijÃ³n	0:0	1:1	20.02.2016	18:15	2015	2016	25
+Celta Vigo	SD Eibar	2:0	3:2	20.02.2016	22:05	2015	2016	25
+Rayo Vallecano	Sevilla FC	1:2	2:2	21.02.2016	22:05	2015	2016	25
+MÃ¡laga CF	Real Madrid	0:1	1:1	21.02.2016	16:00	2015	2016	25
+Athletic Bilbao	Real Sociedad	0:1	0:1	21.02.2016	16:00	2015	2016	25
+Granada CF	Valencia CF	0:0	1:2	21.02.2016	18:15	2015	2016	25
+AtlÃ©tico Madrid	Villarreal CF	0:0	0:0	21.02.2016	18:15	2015	2016	25
+SD Eibar	UD Las Palmas	0:1	0:1	26.02.2016	20:30	2015	2016	26
+Real Madrid	AtlÃ©tico Madrid	0:0	0:1	27.02.2016	20:30	2015	2016	26
+Getafe CF	Celta Vigo	0:0	0:1	27.02.2016	18:15	2015	2016	26
+Sporting GijÃ³n	Espanyol Barcelona	1:1	2:4	27.02.2016	18:15	2015	2016	26
+Real Betis	Rayo Vallecano	2:0	2:2	27.02.2016	20:30	2015	2016	26
+Real Sociedad	MÃ¡laga CF	0:0	1:1	27.02.2016	20:30	2015	2016	26
+Villarreal CF	Levante UD	2:0	3:0	28.02.2016	12:00	2015	2016	26
+Valencia CF	Athletic Bilbao	0:0	0:3	28.02.2016	12:00	2015	2016	26
+Deportivo La CoruÃ±a	Granada CF	0:1	0:1	28.02.2016	18:15	2015	2016	26
+FC Barcelona	Sevilla FC	1:1	2:1	28.02.2016	18:15	2015	2016	26
+AtlÃ©tico Madrid	Real Sociedad	1:0	3:0	01.03.2016	21:00	2015	2016	27
+UD Las Palmas	Getafe CF	2:0	4:0	01.03.2016	21:00	2015	2016	27
+Sevilla FC	SD Eibar	1:0	1:0	02.03.2016	20:00	2015	2016	27
+Celta Vigo	Villarreal CF	0:0	0:0	02.03.2016	20:00	2015	2016	27
+MÃ¡laga CF	Valencia CF	1:1	1:2	02.03.2016	20:00	2015	2016	27
+Athletic Bilbao	Deportivo La CoruÃ±a	2:0	4:1	02.03.2016	20:00	2015	2016	27
+Levante UD	Real Madrid	1:2	1:3	02.03.2016	21:00	2015	2016	27
+Granada CF	Sporting GijÃ³n	0:0	2:0	03.03.2016	21:00	2015	2016	27
+Espanyol Barcelona	Real Betis	0:2	0:3	03.03.2016	20:30	2015	2016	27
+Rayo Vallecano	FC Barcelona	0:2	1:5	03.03.2016	20:30	2015	2016	27
+Real Madrid	Celta Vigo	1:0	7:1	05.03.2016	16:00	2015	2016	28
+Villarreal CF	UD Las Palmas	0:1	0:1	05.03.2016	16:00	2015	2016	28
+Getafe CF	Sevilla FC	0:0	1:1	05.03.2016	20:30	2015	2016	28
+Deportivo La CoruÃ±a	MÃ¡laga CF	1:1	3:3	05.03.2016	20:30	2015	2016	28
+Real Betis	Granada CF	0:0	2:0	06.03.2016	12:00	2015	2016	28
+SD Eibar	FC Barcelona	0:2	0:4	06.03.2016	12:00	2015	2016	28
+Real Sociedad	Levante UD	1:1	1:1	06.03.2016	18:15	2015	2016	28
+Sporting GijÃ³n	Athletic Bilbao	0:1	0:2	06.03.2016	18:15	2015	2016	28
+Valencia CF	AtlÃ©tico Madrid	1:1	1:3	06.03.2016	20:30	2015	2016	28
+Espanyol Barcelona	Rayo Vallecano	1:0	2:1	07.03.2016	20:30	2015	2016	28
+MÃ¡laga CF	Sporting GijÃ³n	1:0	1:0	11.03.2016	20:30	2015	2016	29
+FC Barcelona	Getafe CF	4:0	6:0	12.03.2016	20:30	2015	2016	29
+Celta Vigo	Real Sociedad	1:0	1:0	12.03.2016	18:15	2015	2016	29
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	3:0	12.03.2016	18:15	2015	2016	29
+Rayo Vallecano	SD Eibar	1:1	1:1	12.03.2016	22:05	2015	2016	29
+Levante UD	Valencia CF	0:0	1:0	13.03.2016	22:05	2015	2016	29
+Sevilla FC	Villarreal CF	1:2	4:2	13.03.2016	16:00	2015	2016	29
+Athletic Bilbao	Real Betis	2:0	3:1	13.03.2016	16:00	2015	2016	29
+UD Las Palmas	Real Madrid	0:1	1:2	13.03.2016	20:30	2015	2016	29
+Granada CF	Espanyol Barcelona	1:0	1:1	14.03.2016	20:30	2015	2016	29
+Getafe CF	SD Eibar	1:0	1:1	18.03.2016	20:30	2015	2016	30
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:1	2:1	19.03.2016	20:30	2015	2016	30
+Real Sociedad	UD Las Palmas	0:1	0:1	19.03.2016	18:15	2015	2016	30
+Granada CF	Rayo Vallecano	1:1	2:2	19.03.2016	18:15	2015	2016	30
+Deportivo La CoruÃ±a	Levante UD	1:0	2:1	19.03.2016	20:30	2015	2016	30
+Real Betis	MÃ¡laga CF	0:0	0:1	19.03.2016	20:30	2015	2016	30
+Espanyol Barcelona	Athletic Bilbao	0:1	2:1	20.03.2016	12:00	2015	2016	30
+Villarreal CF	FC Barcelona	0:2	2:2	20.03.2016	12:00	2015	2016	30
+Valencia CF	Celta Vigo	0:0	0:2	20.03.2016	18:15	2015	2016	30
+Real Madrid	Sevilla FC	1:0	4:0	20.03.2016	18:15	2015	2016	30
+Rayo Vallecano	Getafe CF	1:0	2:0	01.04.2016	20:30	2015	2016	31
+AtlÃ©tico Madrid	Real Betis	2:0	5:1	02.04.2016	20:30	2015	2016	31
+UD Las Palmas	Valencia CF	0:1	2:1	02.04.2016	18:15	2015	2016	31
+FC Barcelona	Real Madrid	0:0	1:2	02.04.2016	18:15	2015	2016	31
+Celta Vigo	Deportivo La CoruÃ±a	1:1	1:1	02.04.2016	22:05	2015	2016	31
+Athletic Bilbao	Granada CF	1:0	1:1	03.04.2016	22:05	2015	2016	31
+MÃ¡laga CF	Espanyol Barcelona	1:1	1:1	03.04.2016	16:00	2015	2016	31
+SD Eibar	Villarreal CF	1:1	1:2	03.04.2016	16:00	2015	2016	31
+Sevilla FC	Real Sociedad	0:2	1:2	03.04.2016	20:30	2015	2016	31
+Levante UD	Sporting GijÃ³n	0:0	0:0	04.04.2016	20:30	2015	2016	31
+Granada CF	MÃ¡laga CF	0:0	0:0	08.04.2016	20:30	2015	2016	32
+Real Madrid	SD Eibar	4:0	4:0	09.04.2016	20:30	2015	2016	32
+Espanyol Barcelona	AtlÃ©tico Madrid	1:1	1:3	09.04.2016	18:15	2015	2016	32
+Real Sociedad	FC Barcelona	1:0	1:0	09.04.2016	18:15	2015	2016	32
+Real Betis	Levante UD	0:0	1:0	09.04.2016	22:05	2015	2016	32
+Sporting GijÃ³n	Celta Vigo	0:0	0:1	10.04.2016	22:05	2015	2016	32
+Valencia CF	Sevilla FC	1:0	2:1	10.04.2016	16:00	2015	2016	32
+Villarreal CF	Getafe CF	1:0	2:0	10.04.2016	16:00	2015	2016	32
+Athletic Bilbao	Rayo Vallecano	0:0	1:0	10.04.2016	20:30	2015	2016	32
+Deportivo La CoruÃ±a	UD Las Palmas	0:0	1:3	11.04.2016	20:30	2015	2016	32
+Levante UD	Espanyol Barcelona	1:1	2:1	15.04.2016	20:30	2015	2016	33
+Getafe CF	Real Madrid	0:2	1:5	16.04.2016	20:30	2015	2016	33
+UD Las Palmas	Sporting GijÃ³n	1:0	1:1	16.04.2016	18:15	2015	2016	33
+SD Eibar	Real Sociedad	1:1	2:1	16.04.2016	18:15	2015	2016	33
+Celta Vigo	Real Betis	0:1	1:1	16.04.2016	22:05	2015	2016	33
+MÃ¡laga CF	Athletic Bilbao	0:0	0:1	17.04.2016	22:05	2015	2016	33
+Sevilla FC	Deportivo La CoruÃ±a	1:0	1:1	17.04.2016	16:00	2015	2016	33
+Rayo Vallecano	Villarreal CF	1:1	2:1	17.04.2016	16:00	2015	2016	33
+AtlÃ©tico Madrid	Granada CF	1:0	3:0	17.04.2016	18:15	2015	2016	33
+FC Barcelona	Valencia CF	0:2	1:2	17.04.2016	18:15	2015	2016	33
+Espanyol Barcelona	Celta Vigo	1:1	1:1	19.04.2016	20:00	2015	2016	34
+Real Betis	UD Las Palmas	0:0	1:0	19.04.2016	20:00	2015	2016	34
+Deportivo La CoruÃ±a	FC Barcelona	0:2	0:8	20.04.2016	20:00	2015	2016	34
+Valencia CF	SD Eibar	3:0	4:0	20.04.2016	20:00	2015	2016	34
+Sporting GijÃ³n	Sevilla FC	1:1	2:1	20.04.2016	20:45	2015	2016	34
+Athletic Bilbao	AtlÃ©tico Madrid	0:1	0:1	20.04.2016	20:45	2015	2016	34
+MÃ¡laga CF	Rayo Vallecano	0:0	1:1	20.04.2016	20:45	2015	2016	34
+Real Madrid	Villarreal CF	1:0	3:0	20.04.2016	20:45	2015	2016	34
+Real Sociedad	Getafe CF	1:1	1:2	21.04.2016	20:30	2015	2016	34
+Granada CF	Levante UD	3:0	5:1	21.04.2016	20:30	2015	2016	34
+UD Las Palmas	Espanyol Barcelona	1:0	4:0	22.04.2016	21:00	2015	2016	35
+Rayo Vallecano	Real Madrid	2:1	2:3	23.04.2016	21:00	2015	2016	35
+AtlÃ©tico Madrid	MÃ¡laga CF	0:0	1:0	23.04.2016	18:15	2015	2016	35
+FC Barcelona	Sporting GijÃ³n	1:0	6:0	23.04.2016	18:15	2015	2016	35
+SD Eibar	Deportivo La CoruÃ±a	1:0	1:1	23.04.2016	22:05	2015	2016	35
+Levante UD	Athletic Bilbao	1:0	2:2	24.04.2016	22:05	2015	2016	35
+Sevilla FC	Real Betis	0:0	2:0	24.04.2016	16:00	2015	2016	35
+Getafe CF	Valencia CF	0:0	2:2	24.04.2016	16:00	2015	2016	35
+Villarreal CF	Real Sociedad	0:0	0:0	24.04.2016	20:30	2015	2016	35
+Celta Vigo	Granada CF	1:0	2:1	25.04.2016	20:30	2015	2016	35
+Sporting GijÃ³n	SD Eibar	1:0	2:0	29.04.2016	20:30	2015	2016	36
+Real Sociedad	Real Madrid	0:0	0:1	30.04.2016	20:30	2015	2016	36
+AtlÃ©tico Madrid	Rayo Vallecano	0:0	1:0	30.04.2016	18:15	2015	2016	36
+Real Betis	FC Barcelona	0:0	0:2	30.04.2016	18:15	2015	2016	36
+Granada CF	UD Las Palmas	2:2	3:2	30.04.2016	22:05	2015	2016	36
+Athletic Bilbao	Celta Vigo	1:1	2:1	01.05.2016	22:05	2015	2016	36
+Espanyol Barcelona	Sevilla FC	0:0	1:0	01.05.2016	16:00	2015	2016	36
+Deportivo La CoruÃ±a	Getafe CF	0:1	0:2	01.05.2016	16:00	2015	2016	36
+Valencia CF	Villarreal CF	0:2	0:2	01.05.2016	20:30	2015	2016	36
+MÃ¡laga CF	Levante UD	1:1	3:1	02.05.2016	20:30	2015	2016	36
+Real Sociedad	Rayo Vallecano	1:0	2:1	08.05.2016	17:00	2015	2016	37
+Real Madrid	Valencia CF	2:0	3:2	08.05.2016	17:00	2015	2016	37
+Villarreal CF	Deportivo La CoruÃ±a	0:1	0:2	08.05.2016	17:00	2015	2016	37
+Getafe CF	Sporting GijÃ³n	0:0	1:1	08.05.2016	17:00	2015	2016	37
+SD Eibar	Real Betis	0:1	1:1	08.05.2016	17:00	2015	2016	37
+FC Barcelona	Espanyol Barcelona	1:0	5:0	08.05.2016	17:00	2015	2016	37
+Sevilla FC	Granada CF	0:1	1:4	08.05.2016	17:00	2015	2016	37
+UD Las Palmas	Athletic Bilbao	0:0	0:0	08.05.2016	17:00	2015	2016	37
+Celta Vigo	MÃ¡laga CF	1:0	1:0	08.05.2016	17:00	2015	2016	37
+Levante UD	AtlÃ©tico Madrid	1:1	2:1	08.05.2016	17:00	2015	2016	37
+Valencia CF	Real Sociedad	0:0	0:1	13.05.2016	20:30	2015	2016	38
+Deportivo La CoruÃ±a	Real Madrid	0:2	0:2	14.05.2016	20:30	2015	2016	38
+Granada CF	FC Barcelona	0:2	0:3	14.05.2016	17:00	2015	2016	38
+Athletic Bilbao	Sevilla FC	2:0	3:1	14.05.2016	17:00	2015	2016	38
+AtlÃ©tico Madrid	Celta Vigo	0:0	2:0	14.05.2016	19:30	2015	2016	38
+MÃ¡laga CF	UD Las Palmas	2:1	4:1	15.05.2016	19:30	2015	2016	38
+Espanyol Barcelona	SD Eibar	2:0	4:2	15.05.2016	19:00	2015	2016	38
+Sporting GijÃ³n	Villarreal CF	1:0	2:0	15.05.2016	19:00	2015	2016	38
+Real Betis	Getafe CF	0:0	2:1	15.05.2016	19:30	2015	2016	38
+Rayo Vallecano	Levante UD	2:0	3:1	15.05.2016	19:30	2015	2016	38

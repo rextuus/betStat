@@ -1,0 +1,90 @@
+Donostia FC	FC Barcelona	0:0	2:2	27.11.1932	00:00	1932	1933	1
+Athletic Bilbao	Real Betis	3:0	9:1	27.11.1932	00:00	1932	1933	1
+CD AlavÃ©s	Racing Santander	4:1	8:2	27.11.1932	00:00	1932	1933	1
+Valencia CF	Arenas de Getxo	2:2	3:2	27.11.1932	00:00	1932	1933	1
+Espanyol Barcelona	Real Madrid	1:0	2:1	27.11.1932	00:00	1932	1933	1
+Racing Santander	Athletic Bilbao	0:0	0:1	04.12.1932	00:00	1932	1933	2
+Arenas de Getxo	Espanyol Barcelona	0:1	0:2	04.12.1932	00:00	1932	1933	2
+Real Betis	Valencia CF	3:2	3:2	04.12.1932	00:00	1932	1933	2
+Real Madrid	Donostia FC	1:2	6:2	04.12.1932	00:00	1932	1933	2
+FC Barcelona	CD AlavÃ©s	0:0	2:0	04.12.1932	00:00	1932	1933	2
+CD AlavÃ©s	Real Madrid	0:1	0:1	11.12.1932	00:00	1932	1933	3
+Athletic Bilbao	Arenas de Getxo	1:0	3:1	11.12.1932	00:00	1932	1933	3
+Valencia CF	FC Barcelona	1:2	2:2	11.12.1932	00:00	1932	1933	3
+Espanyol Barcelona	Racing Santander	2:0	2:1	11.12.1932	00:00	1932	1933	3
+Real Betis	Donostia FC	2:2	4:2	12.12.1932	00:00	1932	1933	3
+Athletic Bilbao	Espanyol Barcelona	0:1	0:2	18.12.1932	00:00	1932	1933	4
+Racing Santander	Valencia CF	1:0	2:0	18.12.1932	00:00	1932	1933	4
+Real Madrid	Real Betis	1:1	4:1	18.12.1932	00:00	1932	1933	4
+FC Barcelona	Arenas de Getxo	3:1	5:2	18.12.1932	00:00	1932	1933	4
+Donostia FC	CD AlavÃ©s	0:0	3:1	18.12.1932	00:00	1932	1933	4
+Arenas de Getxo	Racing Santander	1:1	2:1	25.12.1932	00:00	1932	1933	5
+CD AlavÃ©s	Athletic Bilbao	0:0	0:2	25.12.1932	00:00	1932	1933	5
+Real Betis	FC Barcelona	2:0	2:1	25.12.1932	00:00	1932	1933	5
+Espanyol Barcelona	Donostia FC	2:0	3:0	25.12.1932	00:00	1932	1933	5
+Real Madrid	Valencia CF	4:0	6:0	25.12.1932	00:00	1932	1933	5
+FC Barcelona	Real Madrid	0:0	1:1	01.01.1933	00:00	1932	1933	6
+Donostia FC	Athletic Bilbao	2:1	2:4	01.01.1933	00:00	1932	1933	6
+Valencia CF	Espanyol Barcelona	1:0	1:1	01.01.1933	00:00	1932	1933	6
+Racing Santander	Real Betis	2:0	2:2	01.01.1933	00:00	1932	1933	6
+Arenas de Getxo	CD AlavÃ©s	0:0	3:0	01.01.1933	00:00	1932	1933	6
+Real Madrid	Racing Santander	0:1	4:1	08.01.1933	00:00	1932	1933	7
+Real Betis	Arenas de Getxo	1:1	1:1	08.01.1933	00:00	1932	1933	7
+Donostia FC	Valencia CF	2:0	4:1	08.01.1933	00:00	1932	1933	7
+Athletic Bilbao	FC Barcelona	0:2	1:3	08.01.1933	00:00	1932	1933	7
+Espanyol Barcelona	CD AlavÃ©s	3:1	3:1	08.01.1933	00:00	1932	1933	7
+Valencia CF	Athletic Bilbao	0:2	1:5	15.01.1933	00:00	1932	1933	8
+Arenas de Getxo	Real Madrid	0:1	1:5	17.01.1933	00:00	1932	1933	8
+FC Barcelona	Espanyol Barcelona	0:0	1:1	17.01.1933	00:00	1932	1933	8
+Racing Santander	Donostia FC	5:0	7:1	17.01.1933	00:00	1932	1933	8
+CD AlavÃ©s	Real Betis	1:0	2:0	17.01.1933	00:00	1932	1933	8
+Valencia CF	CD AlavÃ©s	2:1	5:2	22.01.1933	00:00	1932	1933	9
+Athletic Bilbao	Real Madrid	0:1	0:2	22.01.1933	00:00	1932	1933	9
+Real Betis	Espanyol Barcelona	1:1	1:2	22.01.1933	00:00	1932	1933	9
+FC Barcelona	Racing Santander	3:0	4:0	22.01.1933	00:00	1932	1933	9
+Donostia FC	Arenas de Getxo	0:0	2:1	22.01.1933	00:00	1932	1933	9
+Real Madrid	Espanyol Barcelona	1:0	2:0	29.01.1933	00:00	1932	1933	10
+Arenas de Getxo	Valencia CF	1:1	2:2	29.01.1933	00:00	1932	1933	10
+FC Barcelona	Donostia FC	2:1	3:2	29.01.1933	00:00	1932	1933	10
+Racing Santander	CD AlavÃ©s	5:0	9:0	29.01.1933	00:00	1932	1933	10
+Real Betis	Athletic Bilbao	0:4	1:5	29.01.1933	00:00	1932	1933	10
+Donostia FC	Real Madrid	0:1	1:2	05.02.1933	00:00	1932	1933	11
+CD AlavÃ©s	FC Barcelona	2:1	2:1	05.02.1933	00:00	1932	1933	11
+Valencia CF	Real Betis	0:1	2:1	05.02.1933	00:00	1932	1933	11
+Athletic Bilbao	Racing Santander	5:3	9:5	05.02.1933	00:00	1932	1933	11
+Espanyol Barcelona	Arenas de Getxo	1:1	3:2	05.02.1933	00:00	1932	1933	11
+Arenas de Getxo	Athletic Bilbao	2:0	4:2	12.02.1933	00:00	1932	1933	12
+Real Madrid	CD AlavÃ©s	1:0	2:0	12.02.1933	00:00	1932	1933	12
+Donostia FC	Real Betis	2:1	2:2	12.02.1933	00:00	1932	1933	12
+Racing Santander	Espanyol Barcelona	2:1	3:1	12.02.1933	00:00	1932	1933	12
+FC Barcelona	Valencia CF	3:0	4:2	12.02.1933	00:00	1932	1933	12
+Real Betis	Real Madrid	0:0	0:0	19.02.1933	00:00	1932	1933	13
+Arenas de Getxo	FC Barcelona	4:1	5:1	19.02.1933	00:00	1932	1933	13
+Espanyol Barcelona	Athletic Bilbao	1:2	2:5	19.02.1933	00:00	1932	1933	13
+Valencia CF	Racing Santander	5:1	6:2	19.02.1933	00:00	1932	1933	13
+CD AlavÃ©s	Donostia FC	0:0	1:0	28.02.1933	00:00	1932	1933	13
+Donostia FC	Espanyol Barcelona	3:1	6:1	26.02.1933	00:00	1932	1933	14
+Athletic Bilbao	CD AlavÃ©s	2:0	4:0	26.02.1933	00:00	1932	1933	14
+Racing Santander	Arenas de Getxo	1:0	2:1	26.02.1933	00:00	1932	1933	14
+Valencia CF	Real Madrid	0:1	0:1	26.02.1933	00:00	1932	1933	14
+FC Barcelona	Real Betis	2:1	4:1	26.02.1933	00:00	1932	1933	14
+Real Madrid	FC Barcelona	1:0	2:1	05.03.1933	00:00	1932	1933	15
+Espanyol Barcelona	Valencia CF	1:1	5:2	05.03.1933	00:00	1932	1933	15
+Athletic Bilbao	Donostia FC	1:1	1:2	05.03.1933	00:00	1932	1933	15
+Real Betis	Racing Santander	0:2	3:2	05.03.1933	00:00	1932	1933	15
+CD AlavÃ©s	Arenas de Getxo	0:1	1:1	05.03.1933	00:00	1932	1933	15
+CD AlavÃ©s	Espanyol Barcelona	0:0	1:0	12.03.1933	00:00	1932	1933	16
+Valencia CF	Donostia FC	1:2	2:2	12.03.1933	00:00	1932	1933	16
+FC Barcelona	Athletic Bilbao	0:1	2:3	12.03.1933	00:00	1932	1933	16
+Racing Santander	Real Madrid	3:0	4:2	12.03.1933	00:00	1932	1933	16
+Arenas de Getxo	Real Betis	2:2	3:3	12.03.1933	00:00	1932	1933	16
+Espanyol Barcelona	FC Barcelona	0:1	2:1	19.03.1933	00:00	1932	1933	17
+Athletic Bilbao	Valencia CF	3:0	8:2	19.03.1933	00:00	1932	1933	17
+Donostia FC	Racing Santander	3:0	8:0	19.03.1933	00:00	1932	1933	17
+Real Madrid	Arenas de Getxo	2:1	8:2	19.03.1933	00:00	1932	1933	17
+Real Betis	CD AlavÃ©s	1:1	3:1	19.03.1933	00:00	1932	1933	17
+Racing Santander	FC Barcelona	2:1	4:4	26.03.1933	00:00	1932	1933	18
+Real Madrid	Athletic Bilbao	0:1	0:1	26.03.1933	00:00	1932	1933	18
+CD AlavÃ©s	Valencia CF	1:1	1:1	26.03.1933	00:00	1932	1933	18
+Arenas de Getxo	Donostia FC	3:0	6:0	26.03.1933	00:00	1932	1933	18
+Espanyol Barcelona	Real Betis	0:0	1:2	28.03.1933	00:00	1932	1933	18

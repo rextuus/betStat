@@ -1,0 +1,380 @@
+AS Roma	AS Livorno	1:0	2:0	09.09.2006	18:00	2006	2007	1
+ACF Fiorentina	Inter	0:2	2:3	09.09.2006	20:30	2006	2007	1
+US Palermo	Reggina Calcio	3:1	4:3	10.09.2006	15:00	2006	2007	1
+AC Milan	Lazio Roma	1:0	2:1	10.09.2006	15:00	2006	2007	1
+FC Messina	Udinese Calcio	0:0	1:0	10.09.2006	15:00	2006	2007	1
+Chievo Verona	AC Siena	1:0	1:2	10.09.2006	15:00	2006	2007	1
+Cagliari Calcio	Calcio Catania	0:1	0:1	10.09.2006	15:00	2006	2007	1
+Atalanta	Ascoli Calcio	3:0	3:1	10.09.2006	15:00	2006	2007	1
+Sampdoria	Empoli FC	1:1	1:2	10.09.2006	15:00	2006	2007	1
+Torino FC	Parma FC	0:0	1:1	10.09.2006	20:30	2006	2007	1
+Reggina Calcio	Cagliari Calcio	0:0	2:1	16.09.2006	18:00	2006	2007	2
+Inter	Sampdoria	0:0	1:1	16.09.2006	20:30	2006	2007	2
+Empoli FC	Chievo Verona	0:1	1:1	17.09.2006	15:00	2006	2007	2
+Lazio Roma	US Palermo	0:2	1:2	17.09.2006	15:00	2006	2007	2
+AS Livorno	ACF Fiorentina	1:0	1:0	17.09.2006	15:00	2006	2007	2
+AC Siena	AS Roma	0:0	1:3	17.09.2006	15:00	2006	2007	2
+Ascoli Calcio	FC Messina	0:0	1:1	17.09.2006	15:00	2006	2007	2
+Calcio Catania	Atalanta	0:0	0:0	17.09.2006	15:00	2006	2007	2
+Udinese Calcio	Torino FC	1:0	2:0	17.09.2006	15:00	2006	2007	2
+Parma FC	AC Milan	0:1	0:2	17.09.2006	20:30	2006	2007	2
+AS Roma	Inter	0:1	0:1	20.09.2006	20:30	2006	2007	3
+Atalanta	Empoli FC	0:0	0:0	20.09.2006	20:30	2006	2007	3
+Sampdoria	Udinese Calcio	1:3	3:3	20.09.2006	20:30	2006	2007	3
+FC Messina	Reggina Calcio	1:0	2:0	20.09.2006	20:30	2006	2007	3
+US Palermo	Calcio Catania	1:1	5:3	20.09.2006	20:30	2006	2007	3
+ACF Fiorentina	Parma FC	1:0	1:0	20.09.2006	20:30	2006	2007	3
+Torino FC	AC Siena	1:2	1:2	20.09.2006	20:30	2006	2007	3
+Chievo Verona	Lazio Roma	0:0	0:1	20.09.2006	20:30	2006	2007	3
+Cagliari Calcio	AS Livorno	1:1	2:2	20.09.2006	20:30	2006	2007	3
+AC Milan	Ascoli Calcio	0:0	1:0	20.09.2006	20:30	2006	2007	3
+AS Livorno	AC Milan	0:0	0:0	23.09.2006	18:00	2006	2007	4
+Calcio Catania	FC Messina	0:1	2:2	23.09.2006	20:30	2006	2007	4
+Parma FC	AS Roma	0:1	0:4	24.09.2006	15:00	2006	2007	4
+Ascoli Calcio	Sampdoria	1:0	1:1	24.09.2006	15:00	2006	2007	4
+AC Siena	Cagliari Calcio	0:0	0:0	24.09.2006	15:00	2006	2007	4
+Empoli FC	US Palermo	1:0	2:0	24.09.2006	15:00	2006	2007	4
+Inter	Chievo Verona	1:0	4:3	24.09.2006	15:00	2006	2007	4
+Lazio Roma	Atalanta	0:0	1:0	24.09.2006	15:00	2006	2007	4
+Reggina Calcio	Torino FC	0:0	1:1	24.09.2006	15:00	2006	2007	4
+Udinese Calcio	ACF Fiorentina	1:0	1:0	24.09.2006	20:30	2006	2007	4
+Atalanta	Reggina Calcio	1:1	1:1	30.09.2006	18:00	2006	2007	5
+Torino FC	Lazio Roma	0:0	0:4	30.09.2006	20:30	2006	2007	5
+FC Messina	AS Livorno	0:0	0:1	01.10.2006	15:00	2006	2007	5
+Cagliari Calcio	Inter	1:1	1:1	01.10.2006	15:00	2006	2007	5
+Udinese Calcio	Ascoli Calcio	0:0	0:0	01.10.2006	15:00	2006	2007	5
+Sampdoria	Parma FC	1:1	3:2	01.10.2006	15:00	2006	2007	5
+AS Roma	Empoli FC	1:0	1:0	01.10.2006	15:00	2006	2007	5
+ACF Fiorentina	Calcio Catania	0:0	3:0	01.10.2006	15:00	2006	2007	5
+AC Milan	AC Siena	0:0	0:0	01.10.2006	15:00	2006	2007	5
+Chievo Verona	US Palermo	0:1	0:1	01.10.2006	20:30	2006	2007	5
+Sampdoria	AC Milan	0:0	1:1	14.10.2006	18:00	2006	2007	6
+AC Siena	FC Messina	1:1	3:1	14.10.2006	20:30	2006	2007	6
+Inter	Calcio Catania	1:1	2:1	15.10.2006	15:00	2006	2007	6
+Parma FC	Udinese Calcio	0:2	0:3	15.10.2006	15:00	2006	2007	6
+US Palermo	Atalanta	2:2	2:3	15.10.2006	15:00	2006	2007	6
+Reggina Calcio	AS Roma	0:0	1:0	15.10.2006	15:00	2006	2007	6
+Empoli FC	ACF Fiorentina	1:0	1:2	15.10.2006	15:00	2006	2007	6
+Ascoli Calcio	AS Livorno	0:1	0:2	15.10.2006	15:00	2006	2007	6
+Torino FC	Chievo Verona	0:0	1:0	15.10.2006	15:00	2006	2007	6
+Lazio Roma	Cagliari Calcio	0:0	0:0	15.10.2006	20:30	2006	2007	6
+FC Messina	Empoli FC	1:1	2:2	21.10.2006	18:00	2006	2007	7
+Cagliari Calcio	Torino FC	0:0	0:0	21.10.2006	20:30	2006	2007	7
+AS Livorno	AC Siena	0:0	0:0	22.10.2006	15:00	2006	2007	7
+Parma FC	Ascoli Calcio	1:0	1:0	22.10.2006	15:00	2006	2007	7
+ACF Fiorentina	Reggina Calcio	2:0	3:0	22.10.2006	15:00	2006	2007	7
+Calcio Catania	Lazio Roma	2:0	3:1	22.10.2006	15:00	2006	2007	7
+Atalanta	Sampdoria	1:2	3:2	22.10.2006	15:00	2006	2007	7
+AS Roma	Chievo Verona	0:1	1:1	22.10.2006	15:00	2006	2007	7
+Udinese Calcio	Inter	0:0	0:0	22.10.2006	15:00	2006	2007	7
+AC Milan	US Palermo	0:0	0:2	22.10.2006	20:30	2006	2007	7
+Atalanta	Cagliari Calcio	1:2	3:3	25.10.2006	20:30	2006	2007	8
+Inter	AS Livorno	2:0	4:1	25.10.2006	20:30	2006	2007	8
+AC Siena	Calcio Catania	0:0	1:1	25.10.2006	20:30	2006	2007	8
+Empoli FC	Udinese Calcio	0:0	1:1	25.10.2006	20:30	2006	2007	8
+Sampdoria	Lazio Roma	0:0	2:0	25.10.2006	20:30	2006	2007	8
+Reggina Calcio	Parma FC	1:1	3:2	25.10.2006	20:30	2006	2007	8
+US Palermo	FC Messina	2:1	2:1	25.10.2006	20:30	2006	2007	8
+Torino FC	ACF Fiorentina	0:1	0:1	25.10.2006	20:30	2006	2007	8
+Chievo Verona	AC Milan	0:1	0:1	25.10.2006	20:30	2006	2007	8
+AS Roma	Ascoli Calcio	0:1	2:2	25.10.2006	20:30	2006	2007	8
+Udinese Calcio	AS Roma	0:0	0:1	28.10.2006	18:00	2006	2007	9
+AC Milan	Inter	0:2	3:4	28.10.2006	20:30	2006	2007	9
+Ascoli Calcio	AC Siena	0:0	0:1	29.10.2006	15:00	2006	2007	9
+Calcio Catania	Torino FC	1:0	1:1	29.10.2006	15:00	2006	2007	9
+Parma FC	Atalanta	1:0	3:1	29.10.2006	15:00	2006	2007	9
+Cagliari Calcio	Sampdoria	1:0	1:0	29.10.2006	15:00	2006	2007	9
+FC Messina	Chievo Verona	1:1	2:1	29.10.2006	15:00	2006	2007	9
+ACF Fiorentina	US Palermo	1:1	2:3	29.10.2006	15:00	2006	2007	9
+Lazio Roma	Reggina Calcio	0:0	0:0	29.10.2006	15:00	2006	2007	9
+AS Livorno	Empoli FC	0:0	0:0	29.10.2006	20:30	2006	2007	9
+AC Siena	Parma FC	1:2	2:2	04.11.2006	18:00	2006	2007	10
+Reggina Calcio	Calcio Catania	0:1	0:1	04.11.2006	20:30	2006	2007	10
+Atalanta	AC Milan	0:0	2:0	05.11.2006	15:00	2006	2007	10
+US Palermo	Sampdoria	1:0	2:0	05.11.2006	15:00	2006	2007	10
+Inter	Ascoli Calcio	1:0	2:0	05.11.2006	15:00	2006	2007	10
+AS Livorno	Udinese Calcio	0:0	1:0	05.11.2006	15:00	2006	2007	10
+Chievo Verona	Cagliari Calcio	0:0	0:0	05.11.2006	15:00	2006	2007	10
+Torino FC	FC Messina	0:1	1:1	05.11.2006	15:00	2006	2007	10
+Empoli FC	Lazio Roma	0:1	1:1	05.11.2006	15:00	2006	2007	10
+AS Roma	ACF Fiorentina	1:1	3:1	05.11.2006	20:30	2006	2007	10
+ACF Fiorentina	Atalanta	1:1	3:1	11.11.2006	18:00	2006	2007	11
+AC Milan	AS Roma	0:1	1:2	11.11.2006	20:30	2006	2007	11
+Ascoli Calcio	Empoli FC	0:1	0:1	12.11.2006	15:00	2006	2007	11
+US Palermo	Torino FC	1:0	3:0	12.11.2006	15:00	2006	2007	11
+Calcio Catania	AS Livorno	1:1	3:2	12.11.2006	15:00	2006	2007	11
+Sampdoria	Chievo Verona	3:0	3:0	12.11.2006	15:00	2006	2007	11
+FC Messina	Cagliari Calcio	1:0	2:2	12.11.2006	15:00	2006	2007	11
+Lazio Roma	Udinese Calcio	2:0	5:0	12.11.2006	15:00	2006	2007	11
+AC Siena	Reggina Calcio	0:0	0:1	12.11.2006	15:00	2006	2007	11
+Parma FC	Inter	1:1	1:2	12.11.2006	20:30	2006	2007	11
+Empoli FC	AC Milan	0:0	0:0	18.11.2006	18:00	2006	2007	12
+Cagliari Calcio	US Palermo	0:0	1:0	18.11.2006	20:30	2006	2007	12
+AS Roma	Calcio Catania	4:0	7:0	19.11.2006	15:00	2006	2007	12
+FC Messina	Lazio Roma	0:1	1:4	19.11.2006	15:00	2006	2007	12
+Udinese Calcio	AC Siena	1:0	3:0	19.11.2006	15:00	2006	2007	12
+Ascoli Calcio	ACF Fiorentina	0:0	1:1	19.11.2006	15:00	2006	2007	12
+Chievo Verona	Atalanta	1:0	2:2	19.11.2006	15:00	2006	2007	12
+Inter	Reggina Calcio	1:0	1:0	19.11.2006	15:00	2006	2007	12
+AS Livorno	Parma FC	1:0	3:0	19.11.2006	15:00	2006	2007	12
+Torino FC	Sampdoria	1:0	1:0	19.11.2006	20:30	2006	2007	12
+Chievo Verona	Udinese Calcio	1:0	2:0	25.11.2006	18:00	2006	2007	13
+AC Milan	FC Messina	1:0	1:0	25.11.2006	20:30	2006	2007	13
+Empoli FC	Cagliari Calcio	1:0	1:0	26.11.2006	15:00	2006	2007	13
+AC Siena	ACF Fiorentina	1:1	1:1	26.11.2006	15:00	2006	2007	13
+Calcio Catania	Parma FC	0:0	2:0	26.11.2006	15:00	2006	2007	13
+Sampdoria	AS Roma	1:3	2:4	26.11.2006	15:00	2006	2007	13
+Reggina Calcio	AS Livorno	0:2	2:2	26.11.2006	15:00	2006	2007	13
+Atalanta	Torino FC	0:0	1:2	26.11.2006	15:00	2006	2007	13
+Lazio Roma	Ascoli Calcio	2:1	3:1	26.11.2006	15:00	2006	2007	13
+US Palermo	Inter	1:1	1:2	26.11.2006	20:30	2006	2007	13
+Inter	AC Siena	1:0	2:0	02.12.2006	18:00	2006	2007	14
+AS Roma	Atalanta	0:1	2:1	02.12.2006	20:30	2006	2007	14
+Udinese Calcio	Reggina Calcio	0:1	1:1	03.12.2006	15:00	2006	2007	14
+Cagliari Calcio	AC Milan	0:0	2:2	03.12.2006	15:00	2006	2007	14
+Torino FC	Empoli FC	0:0	1:0	03.12.2006	15:00	2006	2007	14
+ACF Fiorentina	Lazio Roma	1:0	1:0	03.12.2006	15:00	2006	2007	14
+FC Messina	Sampdoria	0:1	0:2	03.12.2006	15:00	2006	2007	14
+AS Livorno	Chievo Verona	0:0	0:2	03.12.2006	15:00	2006	2007	14
+Parma FC	US Palermo	0:0	0:0	03.12.2006	15:00	2006	2007	14
+Ascoli Calcio	Calcio Catania	2:0	2:2	03.12.2006	20:30	2006	2007	14
+Reggina Calcio	Ascoli Calcio	1:0	2:1	09.12.2006	18:00	2006	2007	15
+US Palermo	AS Livorno	2:0	3:0	09.12.2006	20:30	2006	2007	15
+Calcio Catania	Udinese Calcio	0:0	1:0	10.12.2006	15:00	2006	2007	15
+Empoli FC	Inter	0:0	0:3	10.12.2006	15:00	2006	2007	15
+Chievo Verona	ACF Fiorentina	0:0	0:1	10.12.2006	15:00	2006	2007	15
+Atalanta	FC Messina	1:0	3:2	10.12.2006	15:00	2006	2007	15
+Cagliari Calcio	Parma FC	0:0	0:0	10.12.2006	15:00	2006	2007	15
+Sampdoria	AC Siena	0:0	0:0	10.12.2006	15:00	2006	2007	15
+AC Milan	Torino FC	0:0	0:0	10.12.2006	15:00	2006	2007	15
+Lazio Roma	AS Roma	1:0	3:0	10.12.2006	20:30	2006	2007	15
+ACF Fiorentina	AC Milan	1:1	2:2	16.12.2006	18:00	2006	2007	16
+Udinese Calcio	Cagliari Calcio	2:0	3:1	16.12.2006	20:30	2006	2007	16
+Parma FC	Chievo Verona	1:1	2:2	17.12.2006	15:00	2006	2007	16
+AS Livorno	Lazio Roma	0:1	1:1	17.12.2006	15:00	2006	2007	16
+Reggina Calcio	Sampdoria	0:0	0:1	17.12.2006	15:00	2006	2007	16
+Ascoli Calcio	Torino FC	0:0	0:2	17.12.2006	15:00	2006	2007	16
+AC Siena	Atalanta	0:1	1:1	17.12.2006	15:00	2006	2007	16
+Inter	FC Messina	1:0	2:0	17.12.2006	15:00	2006	2007	16
+AS Roma	US Palermo	1:0	4:0	17.12.2006	20:30	2006	2007	16
+Calcio Catania	Empoli FC	0:0	2:1	24.01.2007	20:30	2006	2007	16
+Sampdoria	AS Livorno	2:1	4:1	20.12.2006	20:30	2006	2007	17
+US Palermo	Ascoli Calcio	1:0	4:0	20.12.2006	20:30	2006	2007	17
+Atalanta	Udinese Calcio	0:0	1:2	20.12.2006	20:30	2006	2007	17
+FC Messina	Parma FC	0:0	1:1	20.12.2006	20:30	2006	2007	17
+AC Milan	Calcio Catania	1:0	3:0	20.12.2006	20:30	2006	2007	17
+Empoli FC	AC Siena	0:0	1:0	20.12.2006	20:30	2006	2007	17
+Lazio Roma	Inter	0:1	0:2	20.12.2006	20:30	2006	2007	17
+Chievo Verona	Reggina Calcio	2:1	3:2	20.12.2006	20:30	2006	2007	17
+Torino FC	AS Roma	0:1	1:2	20.12.2006	20:30	2006	2007	17
+Cagliari Calcio	ACF Fiorentina	0:1	0:2	20.12.2006	20:30	2006	2007	17
+Ascoli Calcio	Chievo Verona	3:0	3:0	23.12.2006	15:00	2006	2007	18
+ACF Fiorentina	FC Messina	3:0	4:0	23.12.2006	15:00	2006	2007	18
+AS Roma	Cagliari Calcio	1:0	2:0	23.12.2006	15:00	2006	2007	18
+AC Siena	US Palermo	1:1	1:1	23.12.2006	15:00	2006	2007	18
+Udinese Calcio	AC Milan	0:2	0:3	23.12.2006	15:00	2006	2007	18
+Calcio Catania	Sampdoria	3:2	4:2	23.12.2006	15:00	2006	2007	18
+AS Livorno	Torino FC	0:1	1:1	23.12.2006	15:00	2006	2007	18
+Inter	Atalanta	0:1	2:1	23.12.2006	15:00	2006	2007	18
+Reggina Calcio	Empoli FC	4:0	4:1	23.12.2006	15:00	2006	2007	18
+Parma FC	Lazio Roma	1:3	1:3	23.12.2006	15:00	2006	2007	18
+Empoli FC	Parma FC	1:0	2:0	13.01.2007	18:00	2006	2007	19
+Torino FC	Inter	0:1	1:3	13.01.2007	20:30	2006	2007	19
+AC Milan	Reggina Calcio	2:0	3:1	14.01.2007	15:00	2006	2007	19
+FC Messina	AS Roma	0:1	1:1	14.01.2007	15:00	2006	2007	19
+Cagliari Calcio	Ascoli Calcio	1:0	1:0	14.01.2007	15:00	2006	2007	19
+Sampdoria	ACF Fiorentina	0:0	0:0	14.01.2007	15:00	2006	2007	19
+US Palermo	Udinese Calcio	1:0	2:0	14.01.2007	15:00	2006	2007	19
+Atalanta	AS Livorno	2:0	5:1	14.01.2007	15:00	2006	2007	19
+Chievo Verona	Calcio Catania	0:1	2:1	14.01.2007	15:00	2006	2007	19
+Lazio Roma	AC Siena	0:0	1:1	14.01.2007	20:30	2006	2007	19
+Ascoli Calcio	Atalanta	0:0	1:3	20.01.2007	18:00	2006	2007	20
+Reggina Calcio	US Palermo	0:0	0:0	20.01.2007	20:30	2006	2007	20
+AS Livorno	AS Roma	1:0	1:1	21.01.2007	15:00	2006	2007	20
+Calcio Catania	Cagliari Calcio	0:1	0:1	21.01.2007	15:00	2006	2007	20
+Parma FC	Torino FC	0:0	1:0	21.01.2007	15:00	2006	2007	20
+Empoli FC	Sampdoria	0:0	2:0	21.01.2007	15:00	2006	2007	20
+Inter	ACF Fiorentina	2:1	3:1	21.01.2007	15:00	2006	2007	20
+Udinese Calcio	FC Messina	0:0	1:0	21.01.2007	15:00	2006	2007	20
+AC Siena	Chievo Verona	0:1	2:1	21.01.2007	15:00	2006	2007	20
+Lazio Roma	AC Milan	0:0	0:0	21.01.2007	20:30	2006	2007	20
+Torino FC	Udinese Calcio	0:2	2:3	27.01.2007	18:00	2006	2007	21
+US Palermo	Lazio Roma	0:1	0:3	27.01.2007	20:30	2006	2007	21
+Cagliari Calcio	Reggina Calcio	0:0	0:2	28.01.2007	15:00	2006	2007	21
+AS Roma	AC Siena	0:0	1:0	28.01.2007	15:00	2006	2007	21
+FC Messina	Ascoli Calcio	0:0	1:2	28.01.2007	15:00	2006	2007	21
+Atalanta	Calcio Catania	1:0	1:1	28.01.2007	15:00	2006	2007	21
+Chievo Verona	Empoli FC	0:0	0:0	28.01.2007	15:00	2006	2007	21
+ACF Fiorentina	AS Livorno	0:1	2:1	28.01.2007	15:00	2006	2007	21
+AC Milan	Parma FC	0:0	1:0	28.01.2007	15:00	2006	2007	21
+Sampdoria	Inter	0:1	0:2	28.01.2007	20:30	2006	2007	21
+Calcio Catania	US Palermo	0:0	1:2	02.02.2007	18:00	2006	2007	22
+Ascoli Calcio	AC Milan	2:4	2:5	18.04.2007	17:30	2006	2007	22
+Inter	AS Roma	0:1	1:3	18.04.2007	17:30	2006	2007	22
+Udinese Calcio	Sampdoria	0:0	1:0	18.04.2007	17:30	2006	2007	22
+Empoli FC	Atalanta	1:0	2:0	18.04.2007	17:30	2006	2007	22
+AS Livorno	Cagliari Calcio	1:0	2:1	18.04.2007	17:30	2006	2007	22
+Lazio Roma	Chievo Verona	0:0	0:0	18.04.2007	17:30	2006	2007	22
+Reggina Calcio	FC Messina	1:1	3:1	18.04.2007	17:30	2006	2007	22
+AC Siena	Torino FC	0:0	1:0	18.04.2007	20:30	2006	2007	22
+Parma FC	ACF Fiorentina	1:0	2:0	18.04.2007	20:30	2006	2007	22
+ACF Fiorentina	Udinese Calcio	2:0	2:0	11.02.2007	15:00	2006	2007	23
+US Palermo	Empoli FC	0:0	0:1	11.02.2007	15:00	2006	2007	23
+Cagliari Calcio	AC Siena	1:1	2:2	11.02.2007	15:00	2006	2007	23
+Torino FC	Reggina Calcio	0:0	1:2	11.02.2007	15:00	2006	2007	23
+Sampdoria	Ascoli Calcio	0:0	2:0	11.02.2007	15:00	2006	2007	23
+AS Roma	Parma FC	0:0	3:0	11.02.2007	15:00	2006	2007	23
+AC Milan	AS Livorno	1:1	2:1	11.02.2007	15:00	2006	2007	23
+Atalanta	Lazio Roma	0:0	0:0	11.02.2007	15:00	2006	2007	23
+Chievo Verona	Inter	0:1	0:2	11.02.2007	15:00	2006	2007	23
+FC Messina	Calcio Catania	1:0	1:1	11.02.2007	16:05	2006	2007	23
+Inter	Cagliari Calcio	1:0	1:0	17.02.2007	15:00	2006	2007	24
+AC Siena	AC Milan	2:2	3:4	17.02.2007	15:00	2006	2007	24
+Empoli FC	AS Roma	1:0	1:0	17.02.2007	15:00	2006	2007	24
+Reggina Calcio	Atalanta	0:0	1:1	18.02.2007	15:00	2006	2007	24
+Lazio Roma	Torino FC	1:0	2:0	18.02.2007	15:00	2006	2007	24
+US Palermo	Chievo Verona	1:1	1:1	18.02.2007	15:00	2006	2007	24
+Ascoli Calcio	Udinese Calcio	0:2	2:2	18.02.2007	15:00	2006	2007	24
+AS Livorno	FC Messina	1:0	2:1	18.02.2007	15:00	2006	2007	24
+Calcio Catania	ACF Fiorentina	0:0	0:1	18.02.2007	15:00	2006	2007	24
+Parma FC	Sampdoria	0:0	0:1	18.02.2007	15:00	2006	2007	24
+Chievo Verona	Torino FC	2:0	3:0	24.02.2007	18:00	2006	2007	25
+Atalanta	US Palermo	1:0	1:1	24.02.2007	20:30	2006	2007	25
+Udinese Calcio	Parma FC	1:1	3:3	25.02.2007	15:00	2006	2007	25
+Cagliari Calcio	Lazio Roma	0:2	0:2	25.02.2007	15:00	2006	2007	25
+Calcio Catania	Inter	0:1	2:5	25.02.2007	15:00	2006	2007	25
+AS Livorno	Ascoli Calcio	0:0	0:0	25.02.2007	15:00	2006	2007	25
+FC Messina	AC Siena	0:0	1:0	25.02.2007	15:00	2006	2007	25
+ACF Fiorentina	Empoli FC	1:0	2:0	25.02.2007	15:00	2006	2007	25
+AS Roma	Reggina Calcio	0:0	3:0	25.02.2007	15:00	2006	2007	25
+AC Milan	Sampdoria	0:0	1:0	25.02.2007	20:30	2006	2007	25
+AC Siena	AS Livorno	0:0	0:0	28.02.2007	15:00	2006	2007	26
+Empoli FC	FC Messina	2:0	3:1	28.02.2007	15:00	2006	2007	26
+US Palermo	AC Milan	0:0	0:0	28.02.2007	15:00	2006	2007	26
+Ascoli Calcio	Parma FC	0:0	0:0	28.02.2007	15:00	2006	2007	26
+Chievo Verona	AS Roma	2:1	2:2	28.02.2007	15:00	2006	2007	26
+Sampdoria	Atalanta	0:1	2:1	28.02.2007	15:00	2006	2007	26
+Torino FC	Cagliari Calcio	1:0	1:0	28.02.2007	15:00	2006	2007	26
+Reggina Calcio	ACF Fiorentina	0:0	1:1	28.02.2007	15:00	2006	2007	26
+Lazio Roma	Calcio Catania	0:1	3:1	28.02.2007	15:00	2006	2007	26
+Inter	Udinese Calcio	0:0	1:1	28.02.2007	20:30	2006	2007	26
+AS Livorno	Inter	1:1	1:2	03.03.2007	15:00	2006	2007	27
+Ascoli Calcio	AS Roma	1:0	1:1	03.03.2007	15:00	2006	2007	27
+AC Milan	Chievo Verona	1:1	3:1	03.03.2007	20:30	2006	2007	27
+Cagliari Calcio	Atalanta	1:0	2:0	04.03.2007	15:00	2006	2007	27
+Calcio Catania	AC Siena	0:0	1:1	04.03.2007	15:00	2006	2007	27
+Udinese Calcio	Empoli FC	0:1	0:1	04.03.2007	15:00	2006	2007	27
+Lazio Roma	Sampdoria	1:0	1:0	04.03.2007	15:00	2006	2007	27
+Parma FC	Reggina Calcio	1:2	2:2	04.03.2007	15:00	2006	2007	27
+FC Messina	US Palermo	1:0	2:0	04.03.2007	15:00	2006	2007	27
+ACF Fiorentina	Torino FC	2:1	5:1	04.03.2007	15:00	2006	2007	27
+Sampdoria	Cagliari Calcio	1:0	1:1	10.03.2007	20:30	2006	2007	28
+Torino FC	Calcio Catania	0:0	1:0	11.03.2007	15:00	2006	2007	28
+US Palermo	ACF Fiorentina	0:1	1:1	11.03.2007	15:00	2006	2007	28
+Reggina Calcio	Lazio Roma	1:1	2:3	11.03.2007	15:00	2006	2007	28
+Empoli FC	AS Livorno	1:0	2:2	11.03.2007	15:00	2006	2007	28
+Chievo Verona	FC Messina	0:0	1:1	11.03.2007	15:00	2006	2007	28
+Inter	AC Milan	0:1	2:1	11.03.2007	15:00	2006	2007	28
+Atalanta	Parma FC	0:0	1:1	11.03.2007	15:00	2006	2007	28
+AC Siena	Ascoli Calcio	0:1	0:1	11.03.2007	15:00	2006	2007	28
+AS Roma	Udinese Calcio	2:0	3:1	11.03.2007	20:30	2006	2007	28
+Sampdoria	US Palermo	0:0	1:1	17.03.2007	20:30	2006	2007	29
+ACF Fiorentina	AS Roma	0:0	0:0	18.03.2007	15:00	2006	2007	29
+Calcio Catania	Reggina Calcio	0:0	1:4	18.03.2007	15:00	2006	2007	29
+Udinese Calcio	AS Livorno	2:0	4:0	18.03.2007	15:00	2006	2007	29
+Ascoli Calcio	Inter	0:0	1:2	18.03.2007	15:00	2006	2007	29
+Cagliari Calcio	Chievo Verona	0:0	0:2	18.03.2007	15:00	2006	2007	29
+FC Messina	Torino FC	0:1	0:3	18.03.2007	15:00	2006	2007	29
+Parma FC	AC Siena	1:0	1:0	18.03.2007	15:00	2006	2007	29
+AC Milan	Atalanta	1:0	1:0	18.03.2007	15:00	2006	2007	29
+Lazio Roma	Empoli FC	2:0	3:1	18.03.2007	20:30	2006	2007	29
+Reggina Calcio	AC Siena	0:1	0:1	31.03.2007	18:00	2006	2007	30
+AS Roma	AC Milan	1:0	1:1	31.03.2007	20:30	2006	2007	30
+Cagliari Calcio	FC Messina	2:0	2:0	01.04.2007	15:00	2006	2007	30
+Chievo Verona	Sampdoria	1:1	1:1	01.04.2007	15:00	2006	2007	30
+Torino FC	US Palermo	0:0	0:0	01.04.2007	15:00	2006	2007	30
+Inter	Parma FC	0:0	2:0	01.04.2007	15:00	2006	2007	30
+Empoli FC	Ascoli Calcio	1:0	4:1	01.04.2007	15:00	2006	2007	30
+AS Livorno	Calcio Catania	2:1	4:1	01.04.2007	15:00	2006	2007	30
+Atalanta	ACF Fiorentina	1:2	2:2	01.04.2007	15:00	2006	2007	30
+Udinese Calcio	Lazio Roma	0:1	2:4	01.04.2007	20:30	2006	2007	30
+Reggina Calcio	Inter	0:0	0:0	07.04.2007	15:00	2006	2007	31
+Atalanta	Chievo Verona	0:0	1:0	07.04.2007	15:00	2006	2007	31
+AC Siena	Udinese Calcio	0:1	2:2	07.04.2007	15:00	2006	2007	31
+US Palermo	Cagliari Calcio	1:1	1:3	07.04.2007	15:00	2006	2007	31
+Parma FC	AS Livorno	0:0	1:0	07.04.2007	15:00	2006	2007	31
+Calcio Catania	AS Roma	0:1	0:2	07.04.2007	15:00	2006	2007	31
+Lazio Roma	FC Messina	1:0	1:0	07.04.2007	15:00	2006	2007	31
+ACF Fiorentina	Ascoli Calcio	1:0	4:0	07.04.2007	15:00	2006	2007	31
+Sampdoria	Torino FC	1:0	1:0	07.04.2007	15:00	2006	2007	31
+AC Milan	Empoli FC	2:1	3:1	07.04.2007	20:30	2006	2007	31
+Cagliari Calcio	Empoli FC	0:0	0:0	14.04.2007	18:00	2006	2007	32
+Udinese Calcio	Chievo Verona	1:1	2:1	14.04.2007	20:30	2006	2007	32
+FC Messina	AC Milan	0:2	1:3	15.04.2007	15:00	2006	2007	32
+Ascoli Calcio	Lazio Roma	0:0	2:2	15.04.2007	15:00	2006	2007	32
+ACF Fiorentina	AC Siena	1:0	1:0	15.04.2007	15:00	2006	2007	32
+Parma FC	Calcio Catania	1:1	1:1	15.04.2007	15:00	2006	2007	32
+AS Livorno	Reggina Calcio	1:1	1:1	15.04.2007	15:00	2006	2007	32
+AS Roma	Sampdoria	1:0	4:0	15.04.2007	15:00	2006	2007	32
+Torino FC	Atalanta	0:2	1:2	15.04.2007	15:00	2006	2007	32
+Inter	US Palermo	0:2	2:2	15.04.2007	20:30	2006	2007	32
+Sampdoria	FC Messina	1:0	3:1	21.04.2007	18:00	2006	2007	33
+AC Milan	Cagliari Calcio	1:0	3:1	21.04.2007	20:30	2006	2007	33
+Empoli FC	Torino FC	0:0	0:0	22.04.2007	15:00	2006	2007	33
+Atalanta	AS Roma	2:0	2:1	22.04.2007	15:00	2006	2007	33
+Lazio Roma	ACF Fiorentina	0:0	0:1	22.04.2007	15:00	2006	2007	33
+Reggina Calcio	Udinese Calcio	0:1	1:1	22.04.2007	15:00	2006	2007	33
+AC Siena	Inter	1:1	1:2	22.04.2007	15:00	2006	2007	33
+Chievo Verona	AS Livorno	0:1	2:1	22.04.2007	15:00	2006	2007	33
+US Palermo	Parma FC	1:1	3:4	22.04.2007	20:30	2006	2007	33
+Calcio Catania	Ascoli Calcio	1:1	3:3	02.05.2007	15:00	2006	2007	33
+Torino FC	AC Milan	0:1	0:1	28.04.2007	18:00	2006	2007	34
+ACF Fiorentina	Chievo Verona	0:0	1:0	28.04.2007	20:30	2006	2007	34
+Parma FC	Cagliari Calcio	1:0	2:1	29.04.2007	15:00	2006	2007	34
+AC Siena	Sampdoria	0:1	0:2	29.04.2007	15:00	2006	2007	34
+FC Messina	Atalanta	0:0	0:0	29.04.2007	15:00	2006	2007	34
+AS Livorno	US Palermo	0:0	1:2	29.04.2007	15:00	2006	2007	34
+Ascoli Calcio	Reggina Calcio	1:2	2:3	29.04.2007	15:00	2006	2007	34
+AS Roma	Lazio Roma	0:0	0:0	29.04.2007	15:00	2006	2007	34
+Udinese Calcio	Calcio Catania	0:0	0:1	29.04.2007	15:00	2006	2007	34
+Inter	Empoli FC	1:0	3:1	29.04.2007	20:30	2006	2007	34
+US Palermo	AS Roma	0:2	1:2	06.05.2007	15:00	2006	2007	35
+Chievo Verona	Parma FC	1:0	1:0	06.05.2007	15:00	2006	2007	35
+Lazio Roma	AS Livorno	1:0	1:0	06.05.2007	15:00	2006	2007	35
+Sampdoria	Reggina Calcio	0:0	0:0	06.05.2007	15:00	2006	2007	35
+FC Messina	Inter	0:0	0:1	06.05.2007	15:00	2006	2007	35
+AC Milan	ACF Fiorentina	0:0	0:0	06.05.2007	15:00	2006	2007	35
+Cagliari Calcio	Udinese Calcio	0:1	2:1	06.05.2007	15:00	2006	2007	35
+Empoli FC	Calcio Catania	2:1	2:1	06.05.2007	15:00	2006	2007	35
+Torino FC	Ascoli Calcio	1:0	1:0	06.05.2007	15:00	2006	2007	35
+Atalanta	AC Siena	1:0	3:1	06.05.2007	15:00	2006	2007	35
+AC Siena	Empoli FC	1:0	2:0	13.05.2007	15:00	2006	2007	36
+Calcio Catania	AC Milan	0:1	1:1	13.05.2007	15:00	2006	2007	36
+Parma FC	FC Messina	4:0	4:1	13.05.2007	15:00	2006	2007	36
+AS Livorno	Sampdoria	0:0	1:0	13.05.2007	15:00	2006	2007	36
+ACF Fiorentina	Cagliari Calcio	1:0	1:0	13.05.2007	15:00	2006	2007	36
+Ascoli Calcio	US Palermo	1:2	3:2	13.05.2007	15:00	2006	2007	36
+Udinese Calcio	Atalanta	1:0	2:3	13.05.2007	15:00	2006	2007	36
+Reggina Calcio	Chievo Verona	0:0	1:1	13.05.2007	15:00	2006	2007	36
+AS Roma	Torino FC	0:1	0:1	13.05.2007	15:00	2006	2007	36
+Inter	Lazio Roma	2:3	4:3	13.05.2007	15:00	2006	2007	36
+AC Milan	Udinese Calcio	1:1	2:3	19.05.2007	18:00	2006	2007	37
+Chievo Verona	Ascoli Calcio	1:0	1:0	20.05.2007	15:00	2006	2007	37
+US Palermo	AC Siena	2:0	2:1	20.05.2007	15:00	2006	2007	37
+Cagliari Calcio	AS Roma	2:1	3:2	20.05.2007	15:00	2006	2007	37
+Empoli FC	Reggina Calcio	3:0	3:3	20.05.2007	15:00	2006	2007	37
+Lazio Roma	Parma FC	0:0	0:0	20.05.2007	15:00	2006	2007	37
+Atalanta	Inter	1:0	1:1	20.05.2007	15:00	2006	2007	37
+Torino FC	AS Livorno	0:0	0:0	20.05.2007	15:00	2006	2007	37
+Sampdoria	Calcio Catania	0:0	1:0	20.05.2007	15:00	2006	2007	37
+FC Messina	ACF Fiorentina	0:1	2:2	20.05.2007	15:00	2006	2007	37
+Ascoli Calcio	Cagliari Calcio	1:1	2:1	27.05.2007	15:00	2006	2007	38
+Inter	Torino FC	1:0	3:0	27.05.2007	15:00	2006	2007	38
+Parma FC	Empoli FC	2:1	3:1	27.05.2007	15:00	2006	2007	38
+Calcio Catania	Chievo Verona	0:0	2:0	27.05.2007	15:00	2006	2007	38
+AS Livorno	Atalanta	1:0	4:2	27.05.2007	15:00	2006	2007	38
+AC Siena	Lazio Roma	1:0	2:1	27.05.2007	15:00	2006	2007	38
+AS Roma	FC Messina	2:1	4:3	27.05.2007	15:00	2006	2007	38
+Reggina Calcio	AC Milan	1:0	2:0	27.05.2007	15:00	2006	2007	38
+Udinese Calcio	US Palermo	1:1	1:2	27.05.2007	15:00	2006	2007	38
+ACF Fiorentina	Sampdoria	1:1	5:1	27.05.2007	15:00	2006	2007	38

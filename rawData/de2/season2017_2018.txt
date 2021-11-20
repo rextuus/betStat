@@ -1,0 +1,306 @@
+VfL Bochum	FC St. Pauli	0:0	0:1	28.07.2017	20:30	2017	2018	1
+FC Ingolstadt 04	1. FC Union Berlin	0:0	0:1	29.07.2017	13:00	2017	2018	1
+SV Darmstadt 98	SpVgg Greuther FÃ¼rth	0:0	1:0	29.07.2017	15:30	2017	2018	1
+Arminia Bielefeld	Jahn Regensburg	1:1	2:1	29.07.2017	15:30	2017	2018	1
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	2:0	3:0	30.07.2017	13:30	2017	2018	1
+Dynamo Dresden	MSV Duisburg	0:0	1:0	30.07.2017	15:30	2017	2018	1
+Holstein Kiel	SV Sandhausen	0:2	2:2	30.07.2017	15:30	2017	2018	1
+Fortuna DÃ¼sseldorf	Eintracht Braunschweig	1:1	2:2	31.07.2017	20:30	2017	2018	1
+1. FC Heidenheim 1846	Erzgebirge Aue	1:1	2:1	09.08.2017	20:00	2017	2018	1
+1. FC Union Berlin	Holstein Kiel	3:3	4:3	04.08.2017	18:30	2017	2018	2
+SV Sandhausen	FC Ingolstadt 04	0:0	1:0	04.08.2017	18:30	2017	2018	2
+1. FC Kaiserslautern	SV Darmstadt 98	1:0	1:1	04.08.2017	20:30	2017	2018	2
+MSV Duisburg	VfL Bochum	1:0	1:1	05.08.2017	13:00	2017	2018	2
+Eintracht Braunschweig	1. FC Heidenheim 1846	1:0	2:0	05.08.2017	15:30	2017	2018	2
+Jahn Regensburg	1. FC NÃ¼rnberg	0:0	0:1	06.08.2017	13:30	2017	2018	2
+SpVgg Greuther FÃ¼rth	Arminia Bielefeld	0:2	1:2	06.08.2017	15:30	2017	2018	2
+Erzgebirge Aue	Fortuna DÃ¼sseldorf	0:1	0:2	06.08.2017	15:30	2017	2018	2
+FC St. Pauli	Dynamo Dresden	1:1	2:2	07.08.2017	20:30	2017	2018	2
+SV Darmstadt 98	FC St. Pauli	1:0	3:0	18.08.2017	18:30	2017	2018	3
+Eintracht Braunschweig	Erzgebirge Aue	1:1	1:1	18.08.2017	18:30	2017	2018	3
+Dynamo Dresden	SV Sandhausen	0:1	0:4	19.08.2017	13:00	2017	2018	3
+1. FC Heidenheim 1846	MSV Duisburg	0:0	1:2	19.08.2017	13:00	2017	2018	3
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	1:0	2:0	19.08.2017	13:00	2017	2018	3
+FC Ingolstadt 04	Jahn Regensburg	0:1	2:4	20.08.2017	13:30	2017	2018	3
+1. FC NÃ¼rnberg	1. FC Union Berlin	0:0	2:2	20.08.2017	13:30	2017	2018	3
+Holstein Kiel	SpVgg Greuther FÃ¼rth	2:1	3:1	20.08.2017	13:30	2017	2018	3
+Arminia Bielefeld	VfL Bochum	2:0	2:0	21.08.2017	20:30	2017	2018	3
+SpVgg Greuther FÃ¼rth	FC Ingolstadt 04	0:0	0:1	25.08.2017	18:30	2017	2018	4
+MSV Duisburg	SV Darmstadt 98	1:1	1:2	25.08.2017	18:30	2017	2018	4
+FC St. Pauli	1. FC Heidenheim 1846	0:0	1:0	26.08.2017	13:00	2017	2018	4
+Erzgebirge Aue	1. FC NÃ¼rnberg	0:0	3:1	26.08.2017	13:00	2017	2018	4
+Jahn Regensburg	Holstein Kiel	1:2	1:2	26.08.2017	13:00	2017	2018	4
+1. FC Union Berlin	Arminia Bielefeld	0:0	1:1	27.08.2017	13:30	2017	2018	4
+VfL Bochum	Dynamo Dresden	2:1	3:2	27.08.2017	13:30	2017	2018	4
+SV Sandhausen	Fortuna DÃ¼sseldorf	1:0	1:2	27.08.2017	13:30	2017	2018	4
+1. FC Kaiserslautern	Eintracht Braunschweig	0:1	1:1	28.08.2017	20:30	2017	2018	4
+Dynamo Dresden	SpVgg Greuther FÃ¼rth	1:0	1:1	08.09.2017	18:30	2017	2018	5
+1. FC Heidenheim 1846	Jahn Regensburg	0:0	1:3	08.09.2017	18:30	2017	2018	5
+FC Ingolstadt 04	Erzgebirge Aue	0:1	1:2	09.09.2017	13:00	2017	2018	5
+Arminia Bielefeld	MSV Duisburg	0:1	0:4	09.09.2017	13:00	2017	2018	5
+Holstein Kiel	1. FC Kaiserslautern	1:0	2:1	09.09.2017	13:00	2017	2018	5
+SV Darmstadt 98	VfL Bochum	1:0	1:2	10.09.2017	13:30	2017	2018	5
+Eintracht Braunschweig	SV Sandhausen	0:0	1:1	10.09.2017	13:30	2017	2018	5
+Fortuna DÃ¼sseldorf	1. FC Union Berlin	1:0	3:2	10.09.2017	13:30	2017	2018	5
+1. FC NÃ¼rnberg	FC St. Pauli	0:0	0:1	11.09.2017	20:30	2017	2018	5
+Erzgebirge Aue	Holstein Kiel	0:2	0:3	15.09.2017	18:30	2017	2018	6
+1. FC Union Berlin	Eintracht Braunschweig	0:0	1:1	15.09.2017	19:00	2017	2018	6
+FC St. Pauli	FC Ingolstadt 04	0:4	0:4	16.09.2017	13:00	2017	2018	6
+SV Sandhausen	1. FC Kaiserslautern	0:0	1:0	16.09.2017	13:00	2017	2018	6
+MSV Duisburg	1. FC NÃ¼rnberg	0:2	1:6	16.09.2017	13:00	2017	2018	6
+SV Darmstadt 98	Arminia Bielefeld	1:2	4:3	17.09.2017	13:30	2017	2018	6
+SpVgg Greuther FÃ¼rth	Fortuna DÃ¼sseldorf	2:0	3:1	17.09.2017	13:30	2017	2018	6
+VfL Bochum	1. FC Heidenheim 1846	1:1	1:2	17.09.2017	13:30	2017	2018	6
+Jahn Regensburg	Dynamo Dresden	0:0	0:2	17.09.2017	13:30	2017	2018	6
+FC Ingolstadt 04	MSV Duisburg	1:1	2:2	19.09.2017	18:30	2017	2018	7
+SV Sandhausen	1. FC Union Berlin	0:0	1:0	19.09.2017	18:30	2017	2018	7
+1. FC Kaiserslautern	Erzgebirge Aue	0:1	0:2	19.09.2017	18:30	2017	2018	7
+Holstein Kiel	FC St. Pauli	0:1	0:1	19.09.2017	18:40	2017	2018	7
+Eintracht Braunschweig	SpVgg Greuther FÃ¼rth	2:0	3:0	20.09.2017	18:30	2017	2018	7
+Dynamo Dresden	Arminia Bielefeld	0:0	0:2	20.09.2017	18:30	2017	2018	7
+1. FC Heidenheim 1846	SV Darmstadt 98	1:1	2:2	20.09.2017	18:30	2017	2018	7
+Fortuna DÃ¼sseldorf	Jahn Regensburg	0:0	1:0	20.09.2017	18:30	2017	2018	7
+1. FC NÃ¼rnberg	VfL Bochum	1:1	3:1	21.09.2017	20:30	2017	2018	7
+Erzgebirge Aue	SV Sandhausen	1:0	1:0	22.09.2017	18:30	2017	2018	8
+MSV Duisburg	Holstein Kiel	0:1	1:3	22.09.2017	18:30	2017	2018	8
+FC St. Pauli	Fortuna DÃ¼sseldorf	1:2	1:2	23.09.2017	13:00	2017	2018	8
+Arminia Bielefeld	1. FC Heidenheim 1846	0:0	1:1	23.09.2017	13:00	2017	2018	8
+Jahn Regensburg	Eintracht Braunschweig	0:1	2:1	23.09.2017	13:00	2017	2018	8
+SV Darmstadt 98	Dynamo Dresden	1:2	3:3	24.09.2017	13:30	2017	2018	8
+SpVgg Greuther FÃ¼rth	1. FC NÃ¼rnberg	0:1	1:3	24.09.2017	13:30	2017	2018	8
+VfL Bochum	FC Ingolstadt 04	2:0	2:0	24.09.2017	13:30	2017	2018	8
+1. FC Union Berlin	1. FC Kaiserslautern	4:0	5:0	25.09.2017	20:30	2017	2018	8
+FC Ingolstadt 04	SV Darmstadt 98	1:0	3:0	29.09.2017	18:30	2017	2018	9
+1. FC Kaiserslautern	SpVgg Greuther FÃ¼rth	0:0	3:0	29.09.2017	18:30	2017	2018	9
+1. FC NÃ¼rnberg	Arminia Bielefeld	0:0	1:2	30.09.2017	13:00	2017	2018	9
+Erzgebirge Aue	1. FC Union Berlin	0:0	1:2	30.09.2017	13:00	2017	2018	9
+Holstein Kiel	VfL Bochum	2:0	3:0	30.09.2017	13:00	2017	2018	9
+Eintracht Braunschweig	FC St. Pauli	0:0	0:2	01.10.2017	13:30	2017	2018	9
+1. FC Heidenheim 1846	Dynamo Dresden	0:1	0:2	01.10.2017	13:30	2017	2018	9
+SV Sandhausen	Jahn Regensburg	0:0	2:0	01.10.2017	13:30	2017	2018	9
+Fortuna DÃ¼sseldorf	MSV Duisburg	2:0	3:1	02.10.2017	20:30	2017	2018	9
+FC St. Pauli	1. FC Kaiserslautern	0:0	1:1	13.10.2017	18:30	2017	2018	10
+MSV Duisburg	Eintracht Braunschweig	0:0	0:0	13.10.2017	18:30	2017	2018	10
+Dynamo Dresden	FC Ingolstadt 04	1:2	2:2	14.10.2017	13:00	2017	2018	10
+VfL Bochum	SV Sandhausen	1:0	2:0	14.10.2017	13:00	2017	2018	10
+Arminia Bielefeld	Fortuna DÃ¼sseldorf	0:1	0:2	14.10.2017	13:00	2017	2018	10
+1. FC Heidenheim 1846	Holstein Kiel	1:2	3:5	15.10.2017	13:30	2017	2018	10
+SpVgg Greuther FÃ¼rth	Erzgebirge Aue	1:0	2:1	15.10.2017	13:30	2017	2018	10
+Jahn Regensburg	1. FC Union Berlin	0:1	0:2	15.10.2017	13:30	2017	2018	10
+SV Darmstadt 98	1. FC NÃ¼rnberg	1:1	3:4	16.10.2017	20:30	2017	2018	10
+FC Ingolstadt 04	1. FC Heidenheim 1846	1:0	3:0	20.10.2017	18:30	2017	2018	11
+Fortuna DÃ¼sseldorf	SV Darmstadt 98	1:0	1:0	20.10.2017	18:30	2017	2018	11
+Eintracht Braunschweig	VfL Bochum	1:0	1:0	21.10.2017	13:00	2017	2018	11
+1. FC Union Berlin	SpVgg Greuther FÃ¼rth	2:0	3:1	21.10.2017	13:00	2017	2018	11
+Holstein Kiel	Arminia Bielefeld	0:0	2:1	21.10.2017	13:00	2017	2018	11
+1. FC NÃ¼rnberg	Dynamo Dresden	1:0	2:1	22.10.2017	13:30	2017	2018	11
+1. FC Kaiserslautern	MSV Duisburg	0:0	0:1	22.10.2017	13:30	2017	2018	11
+Erzgebirge Aue	Jahn Regensburg	0:0	1:0	22.10.2017	13:30	2017	2018	11
+SV Sandhausen	FC St. Pauli	0:0	1:1	23.10.2017	20:30	2017	2018	11
+FC St. Pauli	Erzgebirge Aue	1:0	1:1	27.10.2017	18:30	2017	2018	12
+Arminia Bielefeld	FC Ingolstadt 04	1:2	1:3	27.10.2017	18:30	2017	2018	12
+SV Darmstadt 98	Holstein Kiel	1:1	1:1	28.10.2017	13:00	2017	2018	12
+SpVgg Greuther FÃ¼rth	SV Sandhausen	1:0	2:1	28.10.2017	13:00	2017	2018	12
+Jahn Regensburg	1. FC Kaiserslautern	2:1	3:1	28.10.2017	13:00	2017	2018	12
+1. FC Heidenheim 1846	1. FC NÃ¼rnberg	0:0	1:0	29.10.2017	13:30	2017	2018	12
+MSV Duisburg	1. FC Union Berlin	0:0	1:1	29.10.2017	13:30	2017	2018	12
+Dynamo Dresden	Eintracht Braunschweig	1:0	1:1	29.10.2017	16:00	2017	2018	12
+VfL Bochum	Fortuna DÃ¼sseldorf	0:0	0:0	30.10.2017	20:30	2017	2018	12
+SV Sandhausen	MSV Duisburg	0:1	0:1	03.11.2017	18:30	2017	2018	13
+1. FC Kaiserslautern	VfL Bochum	0:0	0:0	03.11.2017	18:30	2017	2018	13
+Eintracht Braunschweig	SV Darmstadt 98	1:1	2:2	04.11.2017	13:00	2017	2018	13
+1. FC Union Berlin	FC St. Pauli	0:0	1:0	04.11.2017	13:00	2017	2018	13
+Jahn Regensburg	SpVgg Greuther FÃ¼rth	2:1	3:2	04.11.2017	13:00	2017	2018	13
+Fortuna DÃ¼sseldorf	1. FC Heidenheim 1846	0:0	2:2	05.11.2017	13:30	2017	2018	13
+Erzgebirge Aue	Arminia Bielefeld	1:0	1:1	05.11.2017	13:30	2017	2018	13
+Holstein Kiel	Dynamo Dresden	1:0	3:0	05.11.2017	13:30	2017	2018	13
+1. FC NÃ¼rnberg	FC Ingolstadt 04	1:1	1:2	06.11.2017	20:30	2017	2018	13
+SV Darmstadt 98	SV Sandhausen	0:1	1:2	17.11.2017	18:30	2017	2018	14
+Arminia Bielefeld	Eintracht Braunschweig	1:0	2:2	17.11.2017	18:30	2017	2018	14
+1. FC Heidenheim 1846	1. FC Union Berlin	1:0	4:3	18.11.2017	13:00	2017	2018	14
+VfL Bochum	SpVgg Greuther FÃ¼rth	1:1	1:1	18.11.2017	13:00	2017	2018	14
+1. FC NÃ¼rnberg	Holstein Kiel	0:0	2:2	18.11.2017	13:00	2017	2018	14
+FC Ingolstadt 04	Fortuna DÃ¼sseldorf	1:0	1:0	19.11.2017	13:30	2017	2018	14
+FC St. Pauli	Jahn Regensburg	2:2	2:2	19.11.2017	13:30	2017	2018	14
+MSV Duisburg	Erzgebirge Aue	0:0	3:0	19.11.2017	13:30	2017	2018	14
+Dynamo Dresden	1. FC Kaiserslautern	1:0	1:2	20.11.2017	20:30	2017	2018	14
+1. FC Union Berlin	SV Darmstadt 98	1:0	3:3	24.11.2017	18:30	2017	2018	15
+SV Sandhausen	1. FC Heidenheim 1846	1:0	1:2	24.11.2017	18:30	2017	2018	15
+Eintracht Braunschweig	1. FC NÃ¼rnberg	1:1	2:3	25.11.2017	13:00	2017	2018	15
+Holstein Kiel	FC Ingolstadt 04	0:0	0:0	25.11.2017	13:00	2017	2018	15
+Jahn Regensburg	MSV Duisburg	3:0	4:0	25.11.2017	13:00	2017	2018	15
+SpVgg Greuther FÃ¼rth	FC St. Pauli	2:0	4:0	26.11.2017	13:30	2017	2018	15
+1. FC Kaiserslautern	Arminia Bielefeld	0:1	0:2	26.11.2017	13:30	2017	2018	15
+Erzgebirge Aue	VfL Bochum	1:1	1:1	26.11.2017	13:30	2017	2018	15
+Fortuna DÃ¼sseldorf	Dynamo Dresden	1:3	1:3	27.11.2017	20:30	2017	2018	15
+1. FC Heidenheim 1846	1. FC Kaiserslautern	0:0	3:2	01.12.2017	18:30	2017	2018	16
+Arminia Bielefeld	FC St. Pauli	1:0	5:0	01.12.2017	18:30	2017	2018	16
+1. FC NÃ¼rnberg	SV Sandhausen	0:0	1:0	02.12.2017	13:00	2017	2018	16
+MSV Duisburg	SpVgg Greuther FÃ¼rth	2:0	2:0	02.12.2017	13:00	2017	2018	16
+Holstein Kiel	Fortuna DÃ¼sseldorf	0:1	2:2	02.12.2017	13:00	2017	2018	16
+SV Darmstadt 98	Jahn Regensburg	0:0	0:1	03.12.2017	13:30	2017	2018	16
+Dynamo Dresden	Erzgebirge Aue	2:0	4:0	03.12.2017	13:30	2017	2018	16
+VfL Bochum	1. FC Union Berlin	1:1	2:1	03.12.2017	13:30	2017	2018	16
+FC Ingolstadt 04	Eintracht Braunschweig	0:0	0:2	04.12.2017	20:30	2017	2018	16
+Eintracht Braunschweig	Holstein Kiel	0:0	0:0	08.12.2017	18:30	2017	2018	17
+Erzgebirge Aue	SV Darmstadt 98	1:0	1:0	08.12.2017	18:30	2017	2018	17
+1. FC Union Berlin	Dynamo Dresden	0:0	0:1	09.12.2017	13:00	2017	2018	17
+SpVgg Greuther FÃ¼rth	1. FC Heidenheim 1846	1:0	1:0	09.12.2017	13:00	2017	2018	17
+Jahn Regensburg	VfL Bochum	0:1	0:1	09.12.2017	13:00	2017	2018	17
+FC St. Pauli	MSV Duisburg	0:1	2:2	10.12.2017	13:30	2017	2018	17
+SV Sandhausen	Arminia Bielefeld	1:0	3:1	10.12.2017	13:30	2017	2018	17
+1. FC Kaiserslautern	FC Ingolstadt 04	1:0	1:1	10.12.2017	13:45	2017	2018	17
+Fortuna DÃ¼sseldorf	1. FC NÃ¼rnberg	0:0	0:2	11.12.2017	20:30	2017	2018	17
+1. FC Union Berlin	FC Ingolstadt 04	0:0	1:2	15.12.2017	18:30	2017	2018	18
+Eintracht Braunschweig	Fortuna DÃ¼sseldorf	0:1	0:1	15.12.2017	18:30	2017	2018	18
+Erzgebirge Aue	1. FC Heidenheim 1846	1:0	1:1	16.12.2017	13:00	2017	2018	18
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	0:1	1:1	16.12.2017	13:00	2017	2018	18
+Jahn Regensburg	Arminia Bielefeld	2:1	3:2	16.12.2017	13:00	2017	2018	18
+SpVgg Greuther FÃ¼rth	SV Darmstadt 98	1:0	1:1	17.12.2017	13:30	2017	2018	18
+MSV Duisburg	Dynamo Dresden	1:0	2:0	17.12.2017	13:30	2017	2018	18
+SV Sandhausen	Holstein Kiel	0:0	3:1	17.12.2017	13:30	2017	2018	18
+FC St. Pauli	VfL Bochum	1:0	2:1	18.12.2017	20:30	2017	2018	18
+VfL Bochum	MSV Duisburg	0:2	0:2	23.01.2018	18:30	2017	2018	19
+Holstein Kiel	1. FC Union Berlin	2:1	2:2	23.01.2018	20:30	2017	2018	19
+FC Ingolstadt 04	SV Sandhausen	0:0	0:0	23.01.2018	20:30	2017	2018	19
+1. FC NÃ¼rnberg	Jahn Regensburg	1:2	2:2	23.01.2018	20:30	2017	2018	19
+1. FC Heidenheim 1846	Eintracht Braunschweig	0:0	2:0	24.01.2018	20:30	2017	2018	19
+Arminia Bielefeld	SpVgg Greuther FÃ¼rth	0:0	0:0	24.01.2018	20:30	2017	2018	19
+Fortuna DÃ¼sseldorf	Erzgebirge Aue	1:0	2:1	24.01.2018	20:30	2017	2018	19
+Dynamo Dresden	FC St. Pauli	0:1	1:3	25.01.2018	20:30	2017	2018	19
+SV Darmstadt 98	1. FC Kaiserslautern	0:1	1:2	21.02.2018	18:30	2017	2018	19
+Jahn Regensburg	FC Ingolstadt 04	0:2	3:2	26.01.2018	18:30	2017	2018	20
+1. FC Union Berlin	1. FC NÃ¼rnberg	0:1	0:1	26.01.2018	18:30	2017	2018	20
+MSV Duisburg	1. FC Heidenheim 1846	1:3	3:3	27.01.2018	13:00	2017	2018	20
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	0:0	1:3	27.01.2018	13:00	2017	2018	20
+SpVgg Greuther FÃ¼rth	Holstein Kiel	0:0	0:0	27.01.2018	13:00	2017	2018	20
+FC St. Pauli	SV Darmstadt 98	0:1	0:1	28.01.2018	13:30	2017	2018	20
+Erzgebirge Aue	Eintracht Braunschweig	1:2	1:3	28.01.2018	13:30	2017	2018	20
+SV Sandhausen	Dynamo Dresden	0:0	1:0	28.01.2018	13:30	2017	2018	20
+VfL Bochum	Arminia Bielefeld	0:0	0:1	29.01.2018	20:30	2017	2018	20
+Fortuna DÃ¼sseldorf	SV Sandhausen	1:0	1:0	02.02.2018	18:30	2017	2018	21
+1. FC NÃ¼rnberg	Erzgebirge Aue	1:0	4:1	02.02.2018	18:30	2017	2018	21
+1. FC Heidenheim 1846	FC St. Pauli	2:1	3:1	03.02.2018	13:00	2017	2018	21
+FC Ingolstadt 04	SpVgg Greuther FÃ¼rth	1:0	3:0	03.02.2018	13:00	2017	2018	21
+Holstein Kiel	Jahn Regensburg	1:1	1:1	03.02.2018	13:00	2017	2018	21
+Dynamo Dresden	VfL Bochum	1:0	2:0	04.02.2018	13:30	2017	2018	21
+Eintracht Braunschweig	1. FC Kaiserslautern	0:2	1:2	04.02.2018	13:30	2017	2018	21
+SV Darmstadt 98	MSV Duisburg	1:1	1:2	04.02.2018	13:30	2017	2018	21
+Arminia Bielefeld	1. FC Union Berlin	0:1	1:1	05.02.2018	20:30	2017	2018	21
+VfL Bochum	SV Darmstadt 98	0:0	2:1	09.02.2018	18:30	2017	2018	22
+1. FC Kaiserslautern	Holstein Kiel	2:1	3:1	09.02.2018	18:30	2017	2018	22
+Jahn Regensburg	1. FC Heidenheim 1846	1:0	2:0	10.02.2018	13:00	2017	2018	22
+1. FC Union Berlin	Fortuna DÃ¼sseldorf	0:1	3:1	10.02.2018	13:00	2017	2018	22
+MSV Duisburg	Arminia Bielefeld	0:1	2:2	10.02.2018	13:00	2017	2018	22
+Erzgebirge Aue	FC Ingolstadt 04	0:0	0:0	11.02.2018	13:30	2017	2018	22
+SV Sandhausen	Eintracht Braunschweig	0:0	0:0	11.02.2018	13:30	2017	2018	22
+SpVgg Greuther FÃ¼rth	Dynamo Dresden	1:0	1:0	11.02.2018	13:30	2017	2018	22
+FC St. Pauli	1. FC NÃ¼rnberg	0:0	0:0	12.02.2018	20:30	2017	2018	22
+1. FC Heidenheim 1846	VfL Bochum	1:0	1:0	16.02.2018	18:30	2017	2018	23
+1. FC Kaiserslautern	SV Sandhausen	0:0	0:1	16.02.2018	18:30	2017	2018	23
+Arminia Bielefeld	SV Darmstadt 98	1:0	2:0	17.02.2018	13:00	2017	2018	23
+FC Ingolstadt 04	FC St. Pauli	0:1	0:1	17.02.2018	13:00	2017	2018	23
+Fortuna DÃ¼sseldorf	SpVgg Greuther FÃ¼rth	0:1	1:1	17.02.2018	13:00	2017	2018	23
+Holstein Kiel	Erzgebirge Aue	2:2	2:2	17.02.2018	13:00	2017	2018	23
+Eintracht Braunschweig	1. FC Union Berlin	1:0	1:0	18.02.2018	13:30	2017	2018	23
+1. FC NÃ¼rnberg	MSV Duisburg	2:1	3:1	18.02.2018	13:30	2017	2018	23
+Dynamo Dresden	Jahn Regensburg	0:0	1:0	18.02.2018	13:30	2017	2018	23
+Arminia Bielefeld	Dynamo Dresden	1:0	2:3	23.02.2018	18:30	2017	2018	24
+Jahn Regensburg	Fortuna DÃ¼sseldorf	2:3	4:3	23.02.2018	18:30	2017	2018	24
+MSV Duisburg	FC Ingolstadt 04	1:1	2:1	24.02.2018	13:00	2017	2018	24
+SpVgg Greuther FÃ¼rth	Eintracht Braunschweig	1:1	2:1	24.02.2018	13:00	2017	2018	24
+1. FC Union Berlin	SV Sandhausen	2:0	2:1	24.02.2018	13:00	2017	2018	24
+Erzgebirge Aue	1. FC Kaiserslautern	1:0	2:1	24.02.2018	13:00	2017	2018	24
+SV Darmstadt 98	1. FC Heidenheim 1846	0:1	1:1	25.02.2018	13:30	2017	2018	24
+VfL Bochum	1. FC NÃ¼rnberg	0:0	0:0	25.02.2018	13:30	2017	2018	24
+FC St. Pauli	Holstein Kiel	1:2	3:2	25.02.2018	13:30	2017	2018	24
+Dynamo Dresden	SV Darmstadt 98	0:1	0:2	02.03.2018	18:30	2017	2018	25
+1. FC Kaiserslautern	1. FC Union Berlin	2:1	4:3	02.03.2018	18:30	2017	2018	25
+1. FC NÃ¼rnberg	SpVgg Greuther FÃ¼rth	0:0	0:2	03.03.2018	13:00	2017	2018	25
+SV Sandhausen	Erzgebirge Aue	0:0	1:1	03.03.2018	13:00	2017	2018	25
+Holstein Kiel	MSV Duisburg	2:0	5:0	03.03.2018	13:00	2017	2018	25
+Fortuna DÃ¼sseldorf	FC St. Pauli	1:0	2:1	04.03.2018	13:30	2017	2018	25
+1. FC Heidenheim 1846	Arminia Bielefeld	1:0	2:2	04.03.2018	13:30	2017	2018	25
+Eintracht Braunschweig	Jahn Regensburg	1:0	2:1	04.03.2018	13:30	2017	2018	25
+FC Ingolstadt 04	VfL Bochum	0:1	0:1	05.03.2018	20:30	2017	2018	25
+Dynamo Dresden	1. FC Heidenheim 1846	2:1	3:2	09.03.2018	18:30	2017	2018	26
+Arminia Bielefeld	1. FC NÃ¼rnberg	0:0	1:0	09.03.2018	18:30	2017	2018	26
+SV Darmstadt 98	FC Ingolstadt 04	0:1	1:1	10.03.2018	13:00	2017	2018	26
+FC St. Pauli	Eintracht Braunschweig	0:0	0:0	10.03.2018	13:00	2017	2018	26
+SpVgg Greuther FÃ¼rth	1. FC Kaiserslautern	1:1	2:1	10.03.2018	13:00	2017	2018	26
+VfL Bochum	Holstein Kiel	1:0	1:1	10.03.2018	13:00	2017	2018	26
+Jahn Regensburg	SV Sandhausen	1:0	2:1	11.03.2018	13:30	2017	2018	26
+MSV Duisburg	Fortuna DÃ¼sseldorf	0:1	1:2	11.03.2018	13:30	2017	2018	26
+1. FC Union Berlin	Erzgebirge Aue	0:0	0:0	11.03.2018	13:30	2017	2018	26
+Holstein Kiel	1. FC Heidenheim 1846	2:0	2:1	16.03.2018	18:30	2017	2018	27
+Fortuna DÃ¼sseldorf	Arminia Bielefeld	1:1	4:2	16.03.2018	18:30	2017	2018	27
+1. FC Kaiserslautern	FC St. Pauli	0:0	1:1	17.03.2018	13:00	2017	2018	27
+SV Sandhausen	VfL Bochum	2:1	2:3	17.03.2018	13:00	2017	2018	27
+1. FC Union Berlin	Jahn Regensburg	1:0	2:2	17.03.2018	13:00	2017	2018	27
+1. FC NÃ¼rnberg	SV Darmstadt 98	0:1	1:1	18.03.2018	13:30	2017	2018	27
+FC Ingolstadt 04	Dynamo Dresden	2:0	4:2	18.03.2018	13:30	2017	2018	27
+Eintracht Braunschweig	MSV Duisburg	3:0	3:2	18.03.2018	13:30	2017	2018	27
+Erzgebirge Aue	SpVgg Greuther FÃ¼rth	2:0	2:1	19.03.2018	20:30	2017	2018	27
+1. FC Heidenheim 1846	FC Ingolstadt 04	0:0	1:2	31.03.2018	13:00	2017	2018	28
+Dynamo Dresden	1. FC NÃ¼rnberg	1:0	1:1	31.03.2018	13:00	2017	2018	28
+MSV Duisburg	1. FC Kaiserslautern	0:1	1:4	31.03.2018	13:00	2017	2018	28
+VfL Bochum	Eintracht Braunschweig	1:0	2:0	01.04.2018	13:30	2017	2018	28
+SpVgg Greuther FÃ¼rth	1. FC Union Berlin	1:0	2:1	01.04.2018	13:30	2017	2018	28
+FC St. Pauli	SV Sandhausen	1:0	1:1	01.04.2018	13:30	2017	2018	28
+Jahn Regensburg	Erzgebirge Aue	0:2	1:3	01.04.2018	13:30	2017	2018	28
+Arminia Bielefeld	Holstein Kiel	1:1	1:1	01.04.2018	13:30	2017	2018	28
+SV Darmstadt 98	Fortuna DÃ¼sseldorf	1:0	1:0	02.04.2018	20:30	2017	2018	28
+SV Sandhausen	SpVgg Greuther FÃ¼rth	0:0	0:0	06.04.2018	18:30	2017	2018	29
+Fortuna DÃ¼sseldorf	VfL Bochum	0:0	1:2	06.04.2018	18:30	2017	2018	29
+Holstein Kiel	SV Darmstadt 98	0:0	0:0	07.04.2018	13:00	2017	2018	29
+1. FC NÃ¼rnberg	1. FC Heidenheim 1846	3:1	3:2	07.04.2018	13:00	2017	2018	29
+Erzgebirge Aue	FC St. Pauli	1:1	2:1	07.04.2018	13:00	2017	2018	29
+1. FC Union Berlin	MSV Duisburg	0:0	0:0	07.04.2018	13:00	2017	2018	29
+Eintracht Braunschweig	Dynamo Dresden	1:1	1:1	08.04.2018	13:30	2017	2018	29
+FC Ingolstadt 04	Arminia Bielefeld	0:0	2:2	08.04.2018	13:30	2017	2018	29
+1. FC Kaiserslautern	Jahn Regensburg	0:1	1:1	08.04.2018	13:30	2017	2018	29
+VfL Bochum	1. FC Kaiserslautern	2:1	3:2	13.04.2018	18:30	2017	2018	30
+SpVgg Greuther FÃ¼rth	Jahn Regensburg	0:0	1:2	13.04.2018	18:30	2017	2018	30
+FC St. Pauli	1. FC Union Berlin	0:0	0:1	14.04.2018	13:00	2017	2018	30
+MSV Duisburg	SV Sandhausen	0:1	0:2	14.04.2018	13:00	2017	2018	30
+Arminia Bielefeld	Erzgebirge Aue	1:0	2:0	14.04.2018	13:00	2017	2018	30
+Dynamo Dresden	Holstein Kiel	0:1	0:4	14.04.2018	13:00	2017	2018	30
+SV Darmstadt 98	Eintracht Braunschweig	0:1	1:1	15.04.2018	13:30	2017	2018	30
+1. FC Heidenheim 1846	Fortuna DÃ¼sseldorf	1:0	3:1	15.04.2018	13:30	2017	2018	30
+FC Ingolstadt 04	1. FC NÃ¼rnberg	0:0	1:1	15.04.2018	13:30	2017	2018	30
+SpVgg Greuther FÃ¼rth	VfL Bochum	1:0	1:1	20.04.2018	18:30	2017	2018	31
+Eintracht Braunschweig	Arminia Bielefeld	0:0	0:0	20.04.2018	18:30	2017	2018	31
+SV Sandhausen	SV Darmstadt 98	1:0	1:1	21.04.2018	13:00	2017	2018	31
+1. FC Union Berlin	1. FC Heidenheim 1846	0:0	1:1	21.04.2018	13:00	2017	2018	31
+Jahn Regensburg	FC St. Pauli	2:0	3:1	21.04.2018	13:00	2017	2018	31
+Fortuna DÃ¼sseldorf	FC Ingolstadt 04	2:0	3:0	22.04.2018	13:30	2017	2018	31
+1. FC Kaiserslautern	Dynamo Dresden	0:0	0:1	22.04.2018	13:30	2017	2018	31
+Erzgebirge Aue	MSV Duisburg	0:0	1:3	22.04.2018	13:30	2017	2018	31
+Holstein Kiel	1. FC NÃ¼rnberg	1:2	1:3	23.04.2018	20:30	2017	2018	31
+Arminia Bielefeld	1. FC Kaiserslautern	0:1	3:2	27.04.2018	18:30	2017	2018	32
+VfL Bochum	Erzgebirge Aue	1:1	2:1	27.04.2018	18:30	2017	2018	32
+SV Darmstadt 98	1. FC Union Berlin	3:0	3:1	28.04.2018	13:00	2017	2018	32
+FC St. Pauli	SpVgg Greuther FÃ¼rth	2:0	3:0	28.04.2018	13:00	2017	2018	32
+Dynamo Dresden	Fortuna DÃ¼sseldorf	0:1	1:2	28.04.2018	13:00	2017	2018	32
+1. FC Heidenheim 1846	SV Sandhausen	2:0	2:0	29.04.2018	13:30	2017	2018	32
+FC Ingolstadt 04	Holstein Kiel	1:1	1:5	29.04.2018	13:30	2017	2018	32
+MSV Duisburg	Jahn Regensburg	0:0	4:1	29.04.2018	13:30	2017	2018	32
+1. FC NÃ¼rnberg	Eintracht Braunschweig	1:0	2:0	30.04.2018	20:30	2017	2018	32
+Eintracht Braunschweig	FC Ingolstadt 04	0:0	0:2	06.05.2018	15:30	2017	2018	33
+Jahn Regensburg	SV Darmstadt 98	0:1	0:3	06.05.2018	15:30	2017	2018	33
+Erzgebirge Aue	Dynamo Dresden	0:0	0:0	06.05.2018	15:30	2017	2018	33
+1. FC Kaiserslautern	1. FC Heidenheim 1846	0:0	1:0	06.05.2018	15:30	2017	2018	33
+1. FC Union Berlin	VfL Bochum	1:0	3:1	06.05.2018	15:30	2017	2018	33
+SV Sandhausen	1. FC NÃ¼rnberg	0:1	0:2	06.05.2018	15:30	2017	2018	33
+FC St. Pauli	Arminia Bielefeld	1:0	1:0	06.05.2018	15:30	2017	2018	33
+SpVgg Greuther FÃ¼rth	MSV Duisburg	1:0	2:2	06.05.2018	15:30	2017	2018	33
+Fortuna DÃ¼sseldorf	Holstein Kiel	0:0	1:1	06.05.2018	15:30	2017	2018	33
+Holstein Kiel	Eintracht Braunschweig	4:2	6:2	13.05.2018	15:30	2017	2018	34
+Dynamo Dresden	1. FC Union Berlin	0:0	0:1	13.05.2018	15:30	2017	2018	34
+MSV Duisburg	FC St. Pauli	1:0	2:0	13.05.2018	15:30	2017	2018	34
+1. FC Heidenheim 1846	SpVgg Greuther FÃ¼rth	0:0	1:1	13.05.2018	15:30	2017	2018	34
+Arminia Bielefeld	SV Sandhausen	0:0	0:0	13.05.2018	15:30	2017	2018	34
+1. FC NÃ¼rnberg	Fortuna DÃ¼sseldorf	2:1	2:3	13.05.2018	15:30	2017	2018	34
+FC Ingolstadt 04	1. FC Kaiserslautern	0:2	1:3	13.05.2018	15:30	2017	2018	34
+SV Darmstadt 98	Erzgebirge Aue	0:0	1:0	13.05.2018	15:30	2017	2018	34
+VfL Bochum	Jahn Regensburg	0:0	1:1	13.05.2018	15:30	2017	2018	34

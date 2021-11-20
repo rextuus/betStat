@@ -1,0 +1,240 @@
+Gil Vicente	SL Benfica	1:2	2:2	12.08.2011	21:45	2011	2012	1
+Rio Ave FC	Sporting Braga	0:0	0:0	13.08.2011	19:00	2011	2012	1
+Sporting CP	SC Olhanense	0:1	1:1	13.08.2011	21:15	2011	2012	1
+CS MarÃ­timo	SC Beira-Mar	0:0	0:0	14.08.2011	17:00	2011	2012	1
+CD Feirense	CD Nacional	0:0	0:0	14.08.2011	18:00	2011	2012	1
+VitÃ³ria SetÃºbal	PaÃ§os de Ferreira	0:1	2:1	14.08.2011	19:00	2011	2012	1
+VitÃ³ria GuimarÃ£es	FC Porto	0:1	0:1	14.08.2011	20:00	2011	2012	1
+UniÃ£o Leiria	AcadÃ©mica de Coimbra	1:0	1:2	15.08.2011	21:15	2011	2012	1
+FC Porto	Gil Vicente	2:1	3:1	19.08.2011	21:15	2011	2012	2
+SL Benfica	CD Feirense	1:0	3:1	20.08.2011	20:45	2011	2012	2
+PaÃ§os de Ferreira	UniÃ£o Leiria	0:0	2:1	21.08.2011	19:00	2011	2012	2
+AcadÃ©mica de Coimbra	Rio Ave FC	1:0	1:0	21.08.2011	19:00	2011	2012	2
+SC Beira-Mar	Sporting CP	0:0	0:0	21.08.2011	19:25	2011	2012	2
+Sporting Braga	CS MarÃ­timo	0:0	2:0	21.08.2011	21:15	2011	2012	2
+SC Olhanense	VitÃ³ria SetÃºbal	0:2	2:2	22.08.2011	21:15	2011	2012	2
+CD Nacional	VitÃ³ria GuimarÃ£es	0:2	1:4	04.09.2011	20:00	2011	2012	2
+Gil Vicente	AcadÃ©mica de Coimbra	0:0	2:0	27.08.2011	20:30	2011	2012	3
+Rio Ave FC	SC Olhanense	0:1	0:1	28.08.2011	17:00	2011	2012	3
+VitÃ³ria GuimarÃ£es	SC Beira-Mar	0:1	0:3	28.08.2011	19:00	2011	2012	3
+CD Feirense	PaÃ§os de Ferreira	0:0	0:0	28.08.2011	19:00	2011	2012	3
+Sporting CP	CS MarÃ­timo	1:0	2:3	28.08.2011	21:30	2011	2012	3
+VitÃ³ria SetÃºbal	Sporting Braga	0:0	0:1	29.08.2011	19:45	2011	2012	3
+CD Nacional	SL Benfica	0:1	0:2	29.08.2011	21:45	2011	2012	3
+UniÃ£o Leiria	FC Porto	0:2	2:5	06.09.2011	21:15	2011	2012	3
+FC Porto	VitÃ³ria SetÃºbal	0:0	3:0	09.09.2011	21:15	2011	2012	4
+SL Benfica	VitÃ³ria GuimarÃ£es	2:0	2:1	10.09.2011	19:30	2011	2012	4
+PaÃ§os de Ferreira	Sporting CP	1:0	2:3	10.09.2011	21:30	2011	2012	4
+SC Beira-Mar	UniÃ£o Leiria	0:0	0:1	11.09.2011	17:00	2011	2012	4
+SC Olhanense	CD Feirense	0:1	1:2	11.09.2011	18:00	2011	2012	4
+Sporting Braga	Gil Vicente	0:0	3:1	11.09.2011	18:00	2011	2012	4
+CS MarÃ­timo	Rio Ave FC	1:1	2:1	11.09.2011	20:15	2011	2012	4
+AcadÃ©mica de Coimbra	CD Nacional	0:0	4:0	12.09.2011	21:15	2011	2012	4
+Gil Vicente	SC Olhanense	0:1	1:1	16.09.2011	21:15	2011	2012	5
+CD Nacional	PaÃ§os de Ferreira	1:0	1:0	17.09.2011	20:15	2011	2012	5
+UniÃ£o Leiria	CS MarÃ­timo	0:2	1:3	18.09.2011	17:00	2011	2012	5
+VitÃ³ria SetÃºbal	SC Beira-Mar	0:0	1:0	18.09.2011	19:00	2011	2012	5
+CD Feirense	FC Porto	0:0	0:0	18.09.2011	19:15	2011	2012	5
+SL Benfica	AcadÃ©mica de Coimbra	2:1	4:1	18.09.2011	21:15	2011	2012	5
+VitÃ³ria GuimarÃ£es	Sporting Braga	1:0	1:1	19.09.2011	20:15	2011	2012	5
+Rio Ave FC	Sporting CP	0:2	2:3	19.09.2011	22:15	2011	2012	5
+FC Porto	SL Benfica	1:0	2:2	23.09.2011	21:15	2011	2012	6
+Sporting Braga	CD Nacional	1:0	2:0	24.09.2011	19:30	2011	2012	6
+Sporting CP	VitÃ³ria SetÃºbal	3:0	3:0	24.09.2011	21:30	2011	2012	6
+PaÃ§os de Ferreira	Gil Vicente	1:1	1:2	25.09.2011	17:00	2011	2012	6
+SC Olhanense	UniÃ£o Leiria	1:0	2:1	25.09.2011	17:00	2011	2012	6
+SC Beira-Mar	Rio Ave FC	0:0	0:0	25.09.2011	17:00	2011	2012	6
+CS MarÃ­timo	VitÃ³ria GuimarÃ£es	1:0	2:1	25.09.2011	20:15	2011	2012	6
+AcadÃ©mica de Coimbra	CD Feirense	4:0	4:0	26.09.2011	21:15	2011	2012	6
+VitÃ³ria SetÃºbal	Rio Ave FC	1:1	2:1	30.09.2011	21:15	2011	2012	7
+SL Benfica	PaÃ§os de Ferreira	2:0	4:1	01.10.2011	21:30	2011	2012	7
+UniÃ£o Leiria	Sporting Braga	1:0	1:0	02.10.2011	17:00	2011	2012	7
+CD Nacional	SC Olhanense	1:0	1:0	02.10.2011	17:00	2011	2012	7
+CD Feirense	CS MarÃ­timo	1:1	2:2	02.10.2011	17:00	2011	2012	7
+VitÃ³ria GuimarÃ£es	Sporting CP	0:1	0:1	02.10.2011	19:00	2011	2012	7
+AcadÃ©mica de Coimbra	FC Porto	0:2	0:3	02.10.2011	21:15	2011	2012	7
+Gil Vicente	SC Beira-Mar	0:0	0:0	03.10.2011	21:15	2011	2012	7
+PaÃ§os de Ferreira	AcadÃ©mica de Coimbra	2:0	2:0	21.10.2011	21:15	2011	2012	8
+SC Olhanense	VitÃ³ria GuimarÃ£es	0:0	1:0	22.10.2011	19:00	2011	2012	8
+SC Beira-Mar	SL Benfica	0:1	0:1	22.10.2011	21:15	2011	2012	8
+CS MarÃ­timo	VitÃ³ria SetÃºbal	1:0	1:0	23.10.2011	17:00	2011	2012	8
+Rio Ave FC	UniÃ£o Leiria	1:0	2:0	23.10.2011	17:00	2011	2012	8
+FC Porto	CD Nacional	2:0	5:0	23.10.2011	19:15	2011	2012	8
+Sporting Braga	CD Feirense	1:0	3:0	23.10.2011	21:15	2011	2012	8
+Sporting CP	Gil Vicente	1:0	6:1	24.10.2011	21:15	2011	2012	8
+FC Porto	PaÃ§os de Ferreira	1:0	3:0	28.10.2011	21:15	2011	2012	9
+AcadÃ©mica de Coimbra	Sporting Braga	0:0	0:0	29.10.2011	19:15	2011	2012	9
+SL Benfica	SC Olhanense	2:0	2:1	29.10.2011	21:30	2011	2012	9
+UniÃ£o Leiria	VitÃ³ria SetÃºbal	2:0	2:0	30.10.2011	17:00	2011	2012	9
+CD Nacional	SC Beira-Mar	2:1	2:1	30.10.2011	17:00	2011	2012	9
+VitÃ³ria GuimarÃ£es	Rio Ave FC	1:1	2:1	30.10.2011	19:00	2011	2012	9
+CD Feirense	Sporting CP	0:0	0:2	30.10.2011	21:15	2011	2012	9
+Gil Vicente	CS MarÃ­timo	0:0	0:0	01.11.2011	17:00	2011	2012	9
+PaÃ§os de Ferreira	VitÃ³ria GuimarÃ£es	1:1	1:5	04.11.2011	21:15	2011	2012	10
+CS MarÃ­timo	AcadÃ©mica de Coimbra	2:1	3:2	05.11.2011	19:15	2011	2012	10
+SC Olhanense	FC Porto	0:0	0:0	05.11.2011	21:30	2011	2012	10
+VitÃ³ria SetÃºbal	Gil Vicente	0:0	0:0	06.11.2011	17:00	2011	2012	10
+Rio Ave FC	CD Nacional	0:1	2:1	06.11.2011	17:00	2011	2012	10
+SC Beira-Mar	CD Feirense	2:0	2:1	06.11.2011	17:00	2011	2012	10
+Sporting Braga	SL Benfica	1:0	1:1	06.11.2011	19:00	2011	2012	10
+Sporting CP	UniÃ£o Leiria	1:1	3:1	06.11.2011	21:15	2011	2012	10
+AcadÃ©mica de Coimbra	SC Beira-Mar	0:1	0:1	25.11.2011	21:15	2011	2012	11
+CD Nacional	CS MarÃ­timo	0:1	2:2	26.11.2011	18:00	2011	2012	11
+SL Benfica	Sporting CP	1:0	1:0	26.11.2011	21:15	2011	2012	11
+Gil Vicente	UniÃ£o Leiria	1:0	2:1	27.11.2011	17:00	2011	2012	11
+CD Feirense	Rio Ave FC	2:0	2:0	27.11.2011	17:00	2011	2012	11
+FC Porto	Sporting Braga	1:0	3:2	27.11.2011	19:15	2011	2012	11
+PaÃ§os de Ferreira	SC Olhanense	0:0	1:1	27.11.2011	21:15	2011	2012	11
+VitÃ³ria GuimarÃ£es	VitÃ³ria SetÃºbal	0:0	3:0	28.11.2011	21:15	2011	2012	11
+Sporting Braga	PaÃ§os de Ferreira	2:1	5:2	09.12.2011	21:15	2011	2012	12
+SC Beira-Mar	FC Porto	1:1	1:2	10.12.2011	19:30	2011	2012	12
+Sporting CP	CD Nacional	1:0	1:0	10.12.2011	21:30	2011	2012	12
+VitÃ³ria SetÃºbal	CD Feirense	1:1	1:1	11.12.2011	17:00	2011	2012	12
+Rio Ave FC	Gil Vicente	1:0	2:0	11.12.2011	17:00	2011	2012	12
+UniÃ£o Leiria	VitÃ³ria GuimarÃ£es	1:0	1:0	11.12.2011	19:15	2011	2012	12
+CS MarÃ­timo	SL Benfica	0:0	0:1	11.12.2011	21:15	2011	2012	12
+SC Olhanense	AcadÃ©mica de Coimbra	0:1	0:2	12.12.2011	21:15	2011	2012	12
+SL Benfica	Rio Ave FC	3:1	5:1	16.12.2011	21:15	2011	2012	13
+VitÃ³ria GuimarÃ£es	Gil Vicente	1:1	1:1	17.12.2011	19:15	2011	2012	13
+FC Porto	CS MarÃ­timo	0:0	2:0	17.12.2011	21:30	2011	2012	13
+PaÃ§os de Ferreira	SC Beira-Mar	0:2	0:3	18.12.2011	17:00	2011	2012	13
+CD Feirense	UniÃ£o Leiria	1:0	2:1	18.12.2011	17:00	2011	2012	13
+CD Nacional	VitÃ³ria SetÃºbal	0:1	1:1	18.12.2011	17:00	2011	2012	13
+AcadÃ©mica de Coimbra	Sporting CP	1:0	1:1	18.12.2011	20:15	2011	2012	13
+SC Olhanense	Sporting Braga	2:0	3:4	19.12.2011	21:15	2011	2012	13
+VitÃ³ria SetÃºbal	AcadÃ©mica de Coimbra	0:0	1:1	06.01.2012	21:15	2011	2012	14
+Sporting CP	FC Porto	0:0	0:0	07.01.2012	21:15	2011	2012	14
+Gil Vicente	CD Nacional	0:2	0:3	08.01.2012	17:00	2011	2012	14
+Rio Ave FC	PaÃ§os de Ferreira	1:0	1:0	08.01.2012	17:00	2011	2012	14
+CS MarÃ­timo	SC Olhanense	2:1	2:1	08.01.2012	17:00	2011	2012	14
+UniÃ£o Leiria	SL Benfica	0:1	0:4	08.01.2012	19:15	2011	2012	14
+VitÃ³ria GuimarÃ£es	CD Feirense	0:0	1:0	08.01.2012	21:15	2011	2012	14
+SC Beira-Mar	Sporting Braga	1:1	1:2	09.01.2012	21:15	2011	2012	14
+PaÃ§os de Ferreira	CS MarÃ­timo	0:0	1:1	13.01.2012	21:15	2011	2012	15
+CD Feirense	Gil Vicente	0:0	0:0	14.01.2012	17:00	2011	2012	15
+SL Benfica	VitÃ³ria SetÃºbal	3:1	4:1	14.01.2012	19:30	2011	2012	15
+FC Porto	Rio Ave FC	1:0	2:0	14.01.2012	21:30	2011	2012	15
+SC Olhanense	SC Beira-Mar	0:0	2:1	15.01.2012	17:00	2011	2012	15
+CD Nacional	UniÃ£o Leiria	0:1	2:2	15.01.2012	17:00	2011	2012	15
+AcadÃ©mica de Coimbra	VitÃ³ria GuimarÃ£es	0:1	0:2	15.01.2012	19:00	2011	2012	15
+Sporting Braga	Sporting CP	0:0	2:1	15.01.2012	21:15	2011	2012	15
+AcadÃ©mica de Coimbra	UniÃ£o Leiria	0:0	0:0	20.01.2012	21:15	2011	2012	16
+SC Beira-Mar	CS MarÃ­timo	0:1	1:2	21.01.2012	21:30	2011	2012	16
+CD Nacional	CD Feirense	1:0	2:0	22.01.2012	17:00	2011	2012	16
+PaÃ§os de Ferreira	VitÃ³ria SetÃºbal	0:0	2:1	22.01.2012	17:00	2011	2012	16
+Sporting Braga	Rio Ave FC	2:0	2:1	22.01.2012	17:15	2011	2012	16
+FC Porto	VitÃ³ria GuimarÃ£es	1:0	3:1	22.01.2012	19:15	2011	2012	16
+SL Benfica	Gil Vicente	1:1	3:1	22.01.2012	21:15	2011	2012	16
+SC Olhanense	Sporting CP	0:0	0:0	23.01.2012	21:15	2011	2012	16
+VitÃ³ria GuimarÃ£es	CD Nacional	0:0	1:0	27.01.2012	21:15	2011	2012	17
+Rio Ave FC	AcadÃ©mica de Coimbra	0:0	0:0	28.01.2012	19:30	2011	2012	17
+CD Feirense	SL Benfica	0:0	1:2	28.01.2012	21:30	2011	2012	17
+UniÃ£o Leiria	PaÃ§os de Ferreira	2:2	2:4	29.01.2012	17:00	2011	2012	17
+VitÃ³ria SetÃºbal	SC Olhanense	2:2	2:3	29.01.2012	17:00	2011	2012	17
+Sporting CP	SC Beira-Mar	2:0	2:0	29.01.2012	18:00	2011	2012	17
+Gil Vicente	FC Porto	2:0	3:1	29.01.2012	20:15	2011	2012	17
+CS MarÃ­timo	Sporting Braga	1:0	1:2	30.01.2012	21:15	2011	2012	17
+Sporting Braga	VitÃ³ria SetÃºbal	1:0	3:0	10.02.2012	21:15	2011	2012	18
+CS MarÃ­timo	Sporting CP	1:0	2:0	11.02.2012	19:30	2011	2012	18
+SL Benfica	CD Nacional	3:1	4:1	11.02.2012	21:30	2011	2012	18
+PaÃ§os de Ferreira	CD Feirense	2:1	3:1	12.02.2012	17:00	2011	2012	18
+SC Olhanense	Rio Ave FC	0:2	0:2	12.02.2012	17:00	2011	2012	18
+SC Beira-Mar	VitÃ³ria GuimarÃ£es	0:1	0:1	12.02.2012	19:00	2011	2012	18
+FC Porto	UniÃ£o Leiria	0:0	4:0	12.02.2012	21:15	2011	2012	18
+AcadÃ©mica de Coimbra	Gil Vicente	0:1	0:2	13.02.2012	21:15	2011	2012	18
+Rio Ave FC	CS MarÃ­timo	1:2	1:3	17.02.2012	21:15	2011	2012	19
+Gil Vicente	Sporting Braga	0:1	0:3	18.02.2012	21:15	2011	2012	19
+CD Feirense	SC Olhanense	1:0	1:1	19.02.2012	17:00	2011	2012	19
+CD Nacional	AcadÃ©mica de Coimbra	2:0	4:1	19.02.2012	17:00	2011	2012	19
+UniÃ£o Leiria	SC Beira-Mar	0:0	0:0	19.02.2012	17:00	2011	2012	19
+VitÃ³ria SetÃºbal	FC Porto	0:2	1:3	19.02.2012	19:15	2011	2012	19
+Sporting CP	PaÃ§os de Ferreira	1:0	1:0	19.02.2012	21:15	2011	2012	19
+VitÃ³ria GuimarÃ£es	SL Benfica	1:0	1:0	20.02.2012	21:15	2011	2012	19
+CS MarÃ­timo	UniÃ£o Leiria	0:0	1:0	24.02.2012	21:15	2011	2012	20
+AcadÃ©mica de Coimbra	SL Benfica	0:0	0:0	25.02.2012	21:15	2011	2012	20
+SC Olhanense	Gil Vicente	0:0	0:0	26.02.2012	17:00	2011	2012	20
+SC Beira-Mar	VitÃ³ria SetÃºbal	0:2	2:3	26.02.2012	17:00	2011	2012	20
+PaÃ§os de Ferreira	CD Nacional	0:0	0:2	26.02.2012	17:00	2011	2012	20
+Sporting CP	Rio Ave FC	1:0	1:0	26.02.2012	19:15	2011	2012	20
+FC Porto	CD Feirense	0:0	2:0	26.02.2012	21:15	2011	2012	20
+Sporting Braga	VitÃ³ria GuimarÃ£es	2:0	4:0	27.02.2012	21:15	2011	2012	20
+SL Benfica	FC Porto	1:1	2:3	02.03.2012	21:15	2011	2012	21
+CD Nacional	Sporting Braga	1:1	1:3	03.03.2012	19:30	2011	2012	21
+VitÃ³ria SetÃºbal	Sporting CP	1:0	1:0	03.03.2012	21:30	2011	2012	21
+Gil Vicente	PaÃ§os de Ferreira	1:1	1:2	04.03.2012	17:00	2011	2012	21
+Rio Ave FC	SC Beira-Mar	1:0	4:0	04.03.2012	17:00	2011	2012	21
+CD Feirense	AcadÃ©mica de Coimbra	0:0	1:1	04.03.2012	17:00	2011	2012	21
+VitÃ³ria GuimarÃ£es	CS MarÃ­timo	0:0	1:0	04.03.2012	20:15	2011	2012	21
+UniÃ£o Leiria	SC Olhanense	0:1	1:3	05.03.2012	21:15	2011	2012	21
+CS MarÃ­timo	CD Feirense	1:1	2:1	09.03.2012	21:15	2011	2012	22
+Sporting Braga	UniÃ£o Leiria	1:0	2:1	10.03.2012	19:00	2011	2012	22
+FC Porto	AcadÃ©mica de Coimbra	0:1	1:1	10.03.2012	21:15	2011	2012	22
+SC Beira-Mar	Gil Vicente	0:0	1:0	11.03.2012	17:00	2011	2012	22
+Rio Ave FC	VitÃ³ria SetÃºbal	2:0	3:0	11.03.2012	17:00	2011	2012	22
+SC Olhanense	CD Nacional	3:2	4:4	11.03.2012	17:00	2011	2012	22
+PaÃ§os de Ferreira	SL Benfica	1:0	1:2	11.03.2012	19:15	2011	2012	22
+Sporting CP	VitÃ³ria GuimarÃ£es	1:0	5:0	11.03.2012	21:15	2011	2012	22
+CD Nacional	FC Porto	0:1	0:2	16.03.2012	20:00	2011	2012	23
+SL Benfica	SC Beira-Mar	2:0	3:1	16.03.2012	22:15	2011	2012	23
+UniÃ£o Leiria	Rio Ave FC	0:0	1:0	17.03.2012	17:00	2011	2012	23
+CD Feirense	Sporting Braga	0:1	1:4	17.03.2012	21:15	2011	2012	23
+AcadÃ©mica de Coimbra	PaÃ§os de Ferreira	0:1	0:1	18.03.2012	17:00	2011	2012	23
+VitÃ³ria SetÃºbal	CS MarÃ­timo	0:1	1:1	18.03.2012	19:00	2011	2012	23
+VitÃ³ria GuimarÃ£es	SC Olhanense	2:0	2:2	18.03.2012	21:15	2011	2012	23
+Gil Vicente	Sporting CP	1:0	2:0	19.03.2012	21:45	2011	2012	23
+SC Olhanense	SL Benfica	0:0	0:0	23.03.2012	21:45	2011	2012	24
+Sporting CP	CD Feirense	1:0	1:0	24.03.2012	21:15	2011	2012	24
+VitÃ³ria SetÃºbal	UniÃ£o Leiria	1:0	1:0	25.03.2012	17:00	2011	2012	24
+SC Beira-Mar	CD Nacional	0:1	0:3	25.03.2012	17:00	2011	2012	24
+Rio Ave FC	VitÃ³ria GuimarÃ£es	0:0	0:1	25.03.2012	19:00	2011	2012	24
+PaÃ§os de Ferreira	FC Porto	0:0	1:1	25.03.2012	21:15	2011	2012	24
+CS MarÃ­timo	Gil Vicente	1:2	3:2	26.03.2012	19:00	2011	2012	24
+Sporting Braga	AcadÃ©mica de Coimbra	2:0	2:1	26.03.2012	21:15	2011	2012	24
+AcadÃ©mica de Coimbra	CS MarÃ­timo	0:0	0:1	30.03.2012	21:15	2011	2012	25
+FC Porto	SC Olhanense	1:0	2:0	31.03.2012	20:00	2011	2012	25
+SL Benfica	Sporting Braga	0:0	2:1	31.03.2012	22:15	2011	2012	25
+Gil Vicente	VitÃ³ria SetÃºbal	0:0	0:1	01.04.2012	17:00	2011	2012	25
+CD Feirense	SC Beira-Mar	0:2	1:3	01.04.2012	17:00	2011	2012	25
+CD Nacional	Rio Ave FC	1:0	2:1	01.04.2012	17:00	2011	2012	25
+UniÃ£o Leiria	Sporting CP	0:0	0:1	01.04.2012	19:15	2011	2012	25
+VitÃ³ria GuimarÃ£es	PaÃ§os de Ferreira	1:0	3:1	01.04.2012	21:15	2011	2012	25
+UniÃ£o Leiria	Gil Vicente	0:0	0:0	06.04.2012	18:00	2011	2012	26
+SC Beira-Mar	AcadÃ©mica de Coimbra	0:1	2:1	06.04.2012	19:00	2011	2012	26
+VitÃ³ria SetÃºbal	VitÃ³ria GuimarÃ£es	0:0	1:0	06.04.2012	21:15	2011	2012	26
+SC Olhanense	PaÃ§os de Ferreira	1:1	1:2	07.04.2012	17:00	2011	2012	26
+Rio Ave FC	CD Feirense	1:1	2:2	07.04.2012	17:00	2011	2012	26
+CS MarÃ­timo	CD Nacional	1:2	2:4	07.04.2012	19:30	2011	2012	26
+Sporting Braga	FC Porto	0:0	0:1	07.04.2012	21:30	2011	2012	26
+Sporting CP	SL Benfica	1:0	1:0	09.04.2012	21:15	2011	2012	26
+PaÃ§os de Ferreira	Sporting Braga	1:0	1:1	20.04.2012	21:15	2011	2012	27
+SL Benfica	CS MarÃ­timo	2:0	4:1	21.04.2012	18:00	2011	2012	27
+VitÃ³ria GuimarÃ£es	UniÃ£o Leiria	0:0	3:2	21.04.2012	20:15	2011	2012	27
+FC Porto	SC Beira-Mar	1:0	3:0	21.04.2012	22:15	2011	2012	27
+CD Feirense	VitÃ³ria SetÃºbal	1:0	1:0	22.04.2012	17:00	2011	2012	27
+Gil Vicente	Rio Ave FC	0:0	0:0	22.04.2012	17:00	2011	2012	27
+CD Nacional	Sporting CP	1:2	2:3	22.04.2012	20:15	2011	2012	27
+AcadÃ©mica de Coimbra	SC Olhanense	0:0	0:1	23.04.2012	21:15	2011	2012	27
+Sporting Braga	SC Olhanense	1:0	1:2	27.04.2012	21:15	2011	2012	28
+Gil Vicente	VitÃ³ria GuimarÃ£es	1:1	3:1	28.04.2012	19:00	2011	2012	28
+CS MarÃ­timo	FC Porto	0:1	0:2	28.04.2012	21:15	2011	2012	28
+SC Beira-Mar	PaÃ§os de Ferreira	1:0	2:0	29.04.2012	17:00	2011	2012	28
+UniÃ£o Leiria	CD Feirense	0:1	0:4	29.04.2012	17:00	2011	2012	28
+VitÃ³ria SetÃºbal	CD Nacional	0:3	0:3	29.04.2012	17:00	2011	2012	28
+Rio Ave FC	SL Benfica	1:2	2:2	29.04.2012	20:15	2011	2012	28
+Sporting CP	AcadÃ©mica de Coimbra	1:1	2:1	30.04.2012	21:45	2011	2012	28
+SL Benfica	UniÃ£o Leiria	1:0	1:0	05.05.2012	21:30	2011	2012	29
+CD Nacional	Gil Vicente	1:1	3:1	05.05.2012	21:30	2011	2012	29
+CD Feirense	VitÃ³ria GuimarÃ£es	1:1	1:3	05.05.2012	21:30	2011	2012	29
+AcadÃ©mica de Coimbra	VitÃ³ria SetÃºbal	1:0	1:0	05.05.2012	21:30	2011	2012	29
+FC Porto	Sporting CP	0:0	2:0	05.05.2012	21:30	2011	2012	29
+Sporting Braga	SC Beira-Mar	0:0	1:0	05.05.2012	21:30	2011	2012	29
+SC Olhanense	CS MarÃ­timo	0:0	0:0	05.05.2012	21:30	2011	2012	29
+PaÃ§os de Ferreira	Rio Ave FC	1:1	2:2	05.05.2012	21:30	2011	2012	29
+CS MarÃ­timo	PaÃ§os de Ferreira	0:0	1:1	12.05.2012	19:30	2011	2012	30
+Rio Ave FC	FC Porto	1:2	2:5	12.05.2012	19:30	2011	2012	30
+SC Beira-Mar	SC Olhanense	0:1	1:2	12.05.2012	19:30	2011	2012	30
+VitÃ³ria SetÃºbal	SL Benfica	1:1	1:3	12.05.2012	19:30	2011	2012	30
+Gil Vicente	CD Feirense	1:0	3:1	12.05.2012	19:30	2011	2012	30
+UniÃ£o Leiria	CD Nacional	0:2	2:3	12.05.2012	19:30	2011	2012	30
+VitÃ³ria GuimarÃ£es	AcadÃ©mica de Coimbra	0:1	1:2	12.05.2012	19:30	2011	2012	30
+Sporting CP	Sporting Braga	1:0	3:2	12.05.2012	22:15	2011	2012	30

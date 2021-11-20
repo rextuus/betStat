@@ -1,0 +1,306 @@
+Energie Cottbus	Eintracht Braunschweig	0:1	2:1	06.08.2005	13:00	2005	2006	1
+1. FC SaarbrÃ¼cken	VfL Bochum	0:0	0:4	06.08.2005	13:00	2005	2006	1
+SpVgg Greuther FÃ¼rth	Dynamo Dresden	1:0	3:1	06.08.2005	13:00	2005	2006	1
+SC Freiburg	Wacker Burghausen	1:0	2:1	07.08.2005	15:00	2005	2006	1
+Hansa Rostock	Kickers Offenbach	1:0	1:2	07.08.2005	15:00	2005	2006	1
+LR Ahlen	TSV 1860 MÃ¼nchen	1:0	1:2	07.08.2005	15:00	2005	2006	1
+SpVgg Unterhaching	SC Paderborn 07	1:0	3:0	07.08.2005	15:00	2005	2006	1
+Karlsruher SC	Sportfreunde Siegen	1:0	2:0	07.08.2005	15:00	2005	2006	1
+Erzgebirge Aue	Alemannia Aachen	1:0	2:1	08.08.2005	20:15	2005	2006	1
+Alemannia Aachen	Karlsruher SC	0:0	2:1	12.08.2005	19:00	2005	2006	2
+TSV 1860 MÃ¼nchen	Hansa Rostock	2:0	4:1	12.08.2005	19:00	2005	2006	2
+Dynamo Dresden	SC Freiburg	0:0	2:0	12.08.2005	19:00	2005	2006	2
+Sportfreunde Siegen	SpVgg Unterhaching	1:0	4:0	14.08.2005	15:00	2005	2006	2
+SC Paderborn 07	1. FC SaarbrÃ¼cken	3:0	5:0	14.08.2005	15:00	2005	2006	2
+Eintracht Braunschweig	LR Ahlen	3:0	3:1	14.08.2005	15:00	2005	2006	2
+Kickers Offenbach	SpVgg Greuther FÃ¼rth	1:0	2:1	14.08.2005	15:00	2005	2006	2
+Wacker Burghausen	Erzgebirge Aue	0:1	1:1	14.08.2005	15:00	2005	2006	2
+VfL Bochum	Energie Cottbus	1:1	2:2	15.08.2005	20:15	2005	2006	2
+Hansa Rostock	Eintracht Braunschweig	1:0	2:3	26.08.2005	19:00	2005	2006	3
+LR Ahlen	VfL Bochum	2:1	2:2	26.08.2005	19:00	2005	2006	3
+Dynamo Dresden	Kickers Offenbach	2:0	4:1	26.08.2005	19:00	2005	2006	3
+SC Freiburg	Erzgebirge Aue	0:0	2:0	28.08.2005	15:00	2005	2006	3
+Energie Cottbus	SC Paderborn 07	0:1	1:2	28.08.2005	15:00	2005	2006	3
+1. FC SaarbrÃ¼cken	Sportfreunde Siegen	0:0	0:3	28.08.2005	15:00	2005	2006	3
+SpVgg Unterhaching	Alemannia Aachen	1:0	1:2	28.08.2005	15:00	2005	2006	3
+Karlsruher SC	Wacker Burghausen	0:0	0:1	28.08.2005	15:00	2005	2006	3
+SpVgg Greuther FÃ¼rth	TSV 1860 MÃ¼nchen	1:1	2:2	29.08.2005	20:15	2005	2006	3
+Alemannia Aachen	1. FC SaarbrÃ¼cken	1:0	4:0	09.09.2005	19:00	2005	2006	4
+TSV 1860 MÃ¼nchen	Dynamo Dresden	0:2	1:2	09.09.2005	19:00	2005	2006	4
+Wacker Burghausen	SpVgg Unterhaching	0:1	1:1	09.09.2005	19:00	2005	2006	4
+Sportfreunde Siegen	Energie Cottbus	1:1	2:4	11.09.2005	15:00	2005	2006	4
+SC Paderborn 07	LR Ahlen	0:0	1:0	11.09.2005	15:00	2005	2006	4
+Eintracht Braunschweig	SpVgg Greuther FÃ¼rth	1:0	3:0	11.09.2005	15:00	2005	2006	4
+Kickers Offenbach	SC Freiburg	0:0	2:1	11.09.2005	15:00	2005	2006	4
+Erzgebirge Aue	Karlsruher SC	0:0	0:0	11.09.2005	15:00	2005	2006	4
+VfL Bochum	Hansa Rostock	0:0	1:0	12.09.2005	20:15	2005	2006	4
+SC Freiburg	Karlsruher SC	0:0	0:0	16.09.2005	19:00	2005	2006	5
+SpVgg Unterhaching	Erzgebirge Aue	0:1	1:1	16.09.2005	19:00	2005	2006	5
+Kickers Offenbach	TSV 1860 MÃ¼nchen	0:3	2:5	16.09.2005	19:00	2005	2006	5
+Dynamo Dresden	Eintracht Braunschweig	0:1	1:1	16.09.2005	19:00	2005	2006	5
+SpVgg Greuther FÃ¼rth	VfL Bochum	1:2	1:3	16.09.2005	19:00	2005	2006	5
+Hansa Rostock	SC Paderborn 07	1:0	2:0	18.09.2005	15:00	2005	2006	5
+LR Ahlen	Sportfreunde Siegen	0:1	0:1	18.09.2005	15:00	2005	2006	5
+Energie Cottbus	Alemannia Aachen	2:0	5:1	18.09.2005	15:00	2005	2006	5
+1. FC SaarbrÃ¼cken	Wacker Burghausen	0:0	1:1	18.09.2005	15:00	2005	2006	5
+VfL Bochum	Dynamo Dresden	0:0	1:0	20.09.2005	17:30	2005	2006	6
+Eintracht Braunschweig	Kickers Offenbach	0:0	2:0	20.09.2005	17:30	2005	2006	6
+TSV 1860 MÃ¼nchen	SC Freiburg	0:0	0:1	20.09.2005	17:30	2005	2006	6
+Karlsruher SC	SpVgg Unterhaching	1:0	1:0	20.09.2005	17:30	2005	2006	6
+Alemannia Aachen	LR Ahlen	3:0	6:2	21.09.2005	17:30	2005	2006	6
+SC Paderborn 07	SpVgg Greuther FÃ¼rth	1:0	1:2	21.09.2005	17:30	2005	2006	6
+Erzgebirge Aue	1. FC SaarbrÃ¼cken	1:0	2:0	21.09.2005	17:30	2005	2006	6
+Wacker Burghausen	Energie Cottbus	0:0	0:1	21.09.2005	17:30	2005	2006	6
+Sportfreunde Siegen	Hansa Rostock	0:1	1:1	22.09.2005	20:15	2005	2006	6
+SC Freiburg	SpVgg Unterhaching	1:2	3:2	23.09.2005	19:00	2005	2006	7
+TSV 1860 MÃ¼nchen	Eintracht Braunschweig	0:0	1:0	23.09.2005	19:00	2005	2006	7
+Kickers Offenbach	VfL Bochum	0:0	0:0	23.09.2005	19:00	2005	2006	7
+LR Ahlen	Wacker Burghausen	1:1	2:2	25.09.2005	15:00	2005	2006	7
+Energie Cottbus	Erzgebirge Aue	0:0	1:0	25.09.2005	15:00	2005	2006	7
+1. FC SaarbrÃ¼cken	Karlsruher SC	1:0	1:2	25.09.2005	15:00	2005	2006	7
+Dynamo Dresden	SC Paderborn 07	0:1	0:2	25.09.2005	15:00	2005	2006	7
+SpVgg Greuther FÃ¼rth	Sportfreunde Siegen	1:0	1:0	25.09.2005	15:00	2005	2006	7
+Hansa Rostock	Alemannia Aachen	1:0	1:0	26.09.2005	20:15	2005	2006	7
+Alemannia Aachen	SpVgg Greuther FÃ¼rth	0:1	0:1	30.09.2005	19:00	2005	2006	8
+SpVgg Unterhaching	1. FC SaarbrÃ¼cken	0:1	0:1	30.09.2005	19:00	2005	2006	8
+Erzgebirge Aue	LR Ahlen	0:0	0:0	30.09.2005	19:00	2005	2006	8
+Sportfreunde Siegen	Dynamo Dresden	1:1	2:2	02.10.2005	15:00	2005	2006	8
+SC Paderborn 07	Kickers Offenbach	1:1	4:1	02.10.2005	15:00	2005	2006	8
+Eintracht Braunschweig	SC Freiburg	0:0	0:0	02.10.2005	15:00	2005	2006	8
+Karlsruher SC	Energie Cottbus	0:1	3:2	02.10.2005	15:00	2005	2006	8
+Wacker Burghausen	Hansa Rostock	1:1	1:1	02.10.2005	15:00	2005	2006	8
+VfL Bochum	TSV 1860 MÃ¼nchen	0:0	1:0	03.10.2005	20:15	2005	2006	8
+Hansa Rostock	Erzgebirge Aue	1:0	1:0	14.10.2005	19:00	2005	2006	9
+LR Ahlen	Karlsruher SC	2:1	2:2	14.10.2005	19:00	2005	2006	9
+TSV 1860 MÃ¼nchen	SC Paderborn 07	1:0	1:0	14.10.2005	19:00	2005	2006	9
+SC Freiburg	1. FC SaarbrÃ¼cken	1:0	3:1	16.10.2005	15:00	2005	2006	9
+Energie Cottbus	SpVgg Unterhaching	1:0	2:0	16.10.2005	15:00	2005	2006	9
+Eintracht Braunschweig	VfL Bochum	0:0	0:0	16.10.2005	15:00	2005	2006	9
+Kickers Offenbach	Sportfreunde Siegen	0:1	1:1	16.10.2005	15:00	2005	2006	9
+SpVgg Greuther FÃ¼rth	Wacker Burghausen	4:2	6:2	16.10.2005	15:00	2005	2006	9
+Dynamo Dresden	Alemannia Aachen	1:1	1:3	17.10.2005	20:15	2005	2006	9
+Alemannia Aachen	Kickers Offenbach	0:0	0:1	21.10.2005	19:00	2005	2006	10
+SC Paderborn 07	Eintracht Braunschweig	3:0	3:0	21.10.2005	19:00	2005	2006	10
+VfL Bochum	SC Freiburg	2:0	4:0	21.10.2005	19:00	2005	2006	10
+Wacker Burghausen	Dynamo Dresden	0:0	1:0	21.10.2005	19:00	2005	2006	10
+1. FC SaarbrÃ¼cken	Energie Cottbus	0:1	1:3	23.10.2005	15:00	2005	2006	10
+SpVgg Unterhaching	LR Ahlen	2:0	2:0	23.10.2005	15:00	2005	2006	10
+Karlsruher SC	Hansa Rostock	1:0	1:0	23.10.2005	15:00	2005	2006	10
+Erzgebirge Aue	SpVgg Greuther FÃ¼rth	0:1	1:1	23.10.2005	15:00	2005	2006	10
+Sportfreunde Siegen	TSV 1860 MÃ¼nchen	0:2	1:2	23.10.2005	20:15	2005	2006	10
+LR Ahlen	1. FC SaarbrÃ¼cken	1:1	3:1	28.10.2005	19:00	2005	2006	11
+VfL Bochum	SC Paderborn 07	1:0	1:1	28.10.2005	19:00	2005	2006	11
+Eintracht Braunschweig	Sportfreunde Siegen	1:0	1:0	28.10.2005	19:00	2005	2006	11
+SC Freiburg	Energie Cottbus	1:0	4:1	30.10.2005	15:00	2005	2006	11
+Hansa Rostock	SpVgg Unterhaching	1:1	4:2	30.10.2005	15:00	2005	2006	11
+Kickers Offenbach	Wacker Burghausen	0:3	1:3	30.10.2005	15:00	2005	2006	11
+SpVgg Greuther FÃ¼rth	Karlsruher SC	1:0	3:1	30.10.2005	15:00	2005	2006	11
+TSV 1860 MÃ¼nchen	Alemannia Aachen	0:0	0:0	31.10.2005	20:15	2005	2006	11
+Dynamo Dresden	Erzgebirge Aue	0:2	1:4	01.11.2005	18:15	2005	2006	11
+Energie Cottbus	LR Ahlen	0:0	0:0	04.11.2005	19:00	2005	2006	12
+Karlsruher SC	Dynamo Dresden	1:1	2:1	04.11.2005	19:00	2005	2006	12
+Sportfreunde Siegen	VfL Bochum	1:0	3:0	06.11.2005	15:00	2005	2006	12
+SC Paderborn 07	SC Freiburg	1:1	1:1	06.11.2005	15:00	2005	2006	12
+1. FC SaarbrÃ¼cken	Hansa Rostock	0:2	1:2	06.11.2005	15:00	2005	2006	12
+SpVgg Unterhaching	SpVgg Greuther FÃ¼rth	0:0	4:1	06.11.2005	15:00	2005	2006	12
+Erzgebirge Aue	Kickers Offenbach	1:0	1:0	06.11.2005	15:00	2005	2006	12
+Alemannia Aachen	Eintracht Braunschweig	0:0	2:1	07.11.2005	20:15	2005	2006	12
+Wacker Burghausen	TSV 1860 MÃ¼nchen	0:0	1:0	29.03.2006	18:00	2005	2006	12
+SC Paderborn 07	Sportfreunde Siegen	3:0	4:0	18.11.2005	19:00	2005	2006	13
+VfL Bochum	Alemannia Aachen	0:2	1:4	18.11.2005	19:00	2005	2006	13
+Eintracht Braunschweig	Wacker Burghausen	1:1	1:2	18.11.2005	19:00	2005	2006	13
+Kickers Offenbach	Karlsruher SC	0:2	1:3	18.11.2005	19:00	2005	2006	13
+SC Freiburg	LR Ahlen	1:0	3:0	20.11.2005	15:00	2005	2006	13
+TSV 1860 MÃ¼nchen	Erzgebirge Aue	0:1	1:1	20.11.2005	15:00	2005	2006	13
+Dynamo Dresden	SpVgg Unterhaching	2:2	2:3	20.11.2005	15:00	2005	2006	13
+SpVgg Greuther FÃ¼rth	1. FC SaarbrÃ¼cken	0:0	0:0	20.11.2005	15:00	2005	2006	13
+Hansa Rostock	Energie Cottbus	0:0	0:0	21.11.2005	20:15	2005	2006	13
+Erzgebirge Aue	Eintracht Braunschweig	0:0	0:2	25.11.2005	19:00	2005	2006	14
+Wacker Burghausen	VfL Bochum	0:3	0:4	25.11.2005	19:00	2005	2006	14
+Alemannia Aachen	SC Paderborn 07	1:0	2:1	27.11.2005	15:00	2005	2006	14
+SpVgg Unterhaching	Kickers Offenbach	1:0	2:0	27.11.2005	15:00	2005	2006	14
+Karlsruher SC	TSV 1860 MÃ¼nchen	0:2	1:2	27.11.2005	15:00	2005	2006	14
+Energie Cottbus	SpVgg Greuther FÃ¼rth	1:1	1:2	28.11.2005	20:15	2005	2006	14
+Sportfreunde Siegen	SC Freiburg	0:0	1:0	07.12.2005	18:00	2005	2006	14
+LR Ahlen	Hansa Rostock	0:1	1:3	14.12.2005	18:00	2005	2006	14
+1. FC SaarbrÃ¼cken	Dynamo Dresden	3:1	5:1	14.12.2005	18:00	2005	2006	14
+Sportfreunde Siegen	Alemannia Aachen	1:1	2:2	02.12.2005	19:00	2005	2006	15
+Eintracht Braunschweig	Karlsruher SC	0:0	1:0	02.12.2005	19:00	2005	2006	15
+SpVgg Greuther FÃ¼rth	LR Ahlen	0:0	2:0	02.12.2005	19:00	2005	2006	15
+SC Freiburg	Hansa Rostock	1:1	2:2	04.12.2005	15:00	2005	2006	15
+SC Paderborn 07	Wacker Burghausen	1:1	1:3	04.12.2005	15:00	2005	2006	15
+VfL Bochum	Erzgebirge Aue	0:0	1:0	04.12.2005	15:00	2005	2006	15
+TSV 1860 MÃ¼nchen	SpVgg Unterhaching	0:2	1:4	04.12.2005	15:00	2005	2006	15
+Kickers Offenbach	1. FC SaarbrÃ¼cken	2:1	2:3	04.12.2005	15:00	2005	2006	15
+Dynamo Dresden	Energie Cottbus	1:1	1:1	05.12.2005	20:15	2005	2006	15
+Hansa Rostock	SpVgg Greuther FÃ¼rth	0:1	1:2	09.12.2005	18:00	2005	2006	16
+LR Ahlen	Dynamo Dresden	0:0	0:0	09.12.2005	18:00	2005	2006	16
+Erzgebirge Aue	SC Paderborn 07	1:0	1:0	09.12.2005	18:00	2005	2006	16
+Energie Cottbus	Kickers Offenbach	0:1	1:2	11.12.2005	15:00	2005	2006	16
+1. FC SaarbrÃ¼cken	TSV 1860 MÃ¼nchen	0:0	0:0	11.12.2005	15:00	2005	2006	16
+SpVgg Unterhaching	Eintracht Braunschweig	1:0	1:0	11.12.2005	15:00	2005	2006	16
+Karlsruher SC	VfL Bochum	1:1	4:2	11.12.2005	15:00	2005	2006	16
+Wacker Burghausen	Sportfreunde Siegen	1:0	1:0	11.12.2005	15:00	2005	2006	16
+SC Freiburg	Alemannia Aachen	0:2	0:2	12.12.2005	20:15	2005	2006	16
+VfL Bochum	SpVgg Unterhaching	0:0	1:0	16.12.2005	19:00	2005	2006	17
+TSV 1860 MÃ¼nchen	Energie Cottbus	1:1	2:3	16.12.2005	19:00	2005	2006	17
+SpVgg Greuther FÃ¼rth	SC Freiburg	0:2	1:2	16.12.2005	19:00	2005	2006	17
+Alemannia Aachen	Wacker Burghausen	2:0	2:0	18.12.2005	15:00	2005	2006	17
+Eintracht Braunschweig	1. FC SaarbrÃ¼cken	0:0	1:2	18.12.2005	15:00	2005	2006	17
+Kickers Offenbach	LR Ahlen	0:1	0:3	18.12.2005	15:00	2005	2006	17
+SC Paderborn 07	Karlsruher SC	0:0	2:0	19.12.2005	20:15	2005	2006	17
+Sportfreunde Siegen	Erzgebirge Aue	0:0	0:1	22.12.2005	19:00	2005	2006	17
+Dynamo Dresden	Hansa Rostock	0:0	1:0	22.02.2006	18:00	2005	2006	17
+Wacker Burghausen	SC Freiburg	1:0	2:1	20.01.2006	19:00	2005	2006	18
+TSV 1860 MÃ¼nchen	LR Ahlen	0:0	0:0	20.01.2006	19:00	2005	2006	18
+Alemannia Aachen	Erzgebirge Aue	1:0	3:1	20.01.2006	19:00	2005	2006	18
+Kickers Offenbach	Hansa Rostock	1:1	1:3	22.01.2006	15:00	2005	2006	18
+VfL Bochum	1. FC SaarbrÃ¼cken	1:0	3:0	22.01.2006	15:00	2005	2006	18
+SC Paderborn 07	SpVgg Unterhaching	0:0	1:1	22.01.2006	15:00	2005	2006	18
+Sportfreunde Siegen	Karlsruher SC	0:0	0:0	24.01.2006	18:00	2005	2006	18
+Eintracht Braunschweig	Energie Cottbus	0:0	0:1	08.03.2006	18:15	2005	2006	18
+Dynamo Dresden	SpVgg Greuther FÃ¼rth	0:1	1:2	08.03.2006	18:15	2005	2006	18
+1. FC SaarbrÃ¼cken	SC Paderborn 07	0:0	0:0	28.01.2006	13:00	2005	2006	19
+SC Freiburg	Dynamo Dresden	0:0	1:0	28.01.2006	13:00	2005	2006	19
+Erzgebirge Aue	Wacker Burghausen	0:0	1:1	28.01.2006	13:00	2005	2006	19
+SpVgg Unterhaching	Sportfreunde Siegen	1:1	2:1	29.01.2006	15:00	2005	2006	19
+Energie Cottbus	VfL Bochum	0:0	0:1	29.01.2006	15:00	2005	2006	19
+LR Ahlen	Eintracht Braunschweig	3:0	3:0	29.01.2006	15:00	2005	2006	19
+Hansa Rostock	TSV 1860 MÃ¼nchen	1:0	3:1	29.01.2006	15:00	2005	2006	19
+SpVgg Greuther FÃ¼rth	Kickers Offenbach	2:0	2:0	29.01.2006	15:00	2005	2006	19
+Karlsruher SC	Alemannia Aachen	2:0	2:1	30.01.2006	20:15	2005	2006	19
+VfL Bochum	LR Ahlen	1:0	3:0	03.02.2006	19:00	2005	2006	20
+Sportfreunde Siegen	1. FC SaarbrÃ¼cken	0:1	0:4	03.02.2006	19:00	2005	2006	20
+Wacker Burghausen	Karlsruher SC	0:1	1:1	03.02.2006	19:00	2005	2006	20
+Erzgebirge Aue	SC Freiburg	1:0	1:0	05.02.2006	15:00	2005	2006	20
+SC Paderborn 07	Energie Cottbus	0:0	0:0	05.02.2006	15:00	2005	2006	20
+Alemannia Aachen	SpVgg Unterhaching	0:0	1:0	05.02.2006	15:00	2005	2006	20
+TSV 1860 MÃ¼nchen	SpVgg Greuther FÃ¼rth	2:1	2:2	06.02.2006	20:15	2005	2006	20
+Eintracht Braunschweig	Hansa Rostock	3:0	4:1	29.03.2006	18:00	2005	2006	20
+Kickers Offenbach	Dynamo Dresden	0:0	0:0	29.03.2006	18:00	2005	2006	20
+Dynamo Dresden	TSV 1860 MÃ¼nchen	1:0	2:0	10.02.2006	19:00	2005	2006	21
+Karlsruher SC	Erzgebirge Aue	2:0	5:2	10.02.2006	19:00	2005	2006	21
+Energie Cottbus	Sportfreunde Siegen	0:0	1:0	12.02.2006	15:00	2005	2006	21
+LR Ahlen	SC Paderborn 07	0:2	0:2	12.02.2006	15:00	2005	2006	21
+SpVgg Greuther FÃ¼rth	Eintracht Braunschweig	0:0	0:1	12.02.2006	15:00	2005	2006	21
+SC Freiburg	Kickers Offenbach	0:0	2:0	12.02.2006	15:00	2005	2006	21
+SpVgg Unterhaching	Wacker Burghausen	1:1	1:1	12.02.2006	15:00	2005	2006	21
+Hansa Rostock	VfL Bochum	0:2	0:2	13.02.2006	20:15	2005	2006	21
+1. FC SaarbrÃ¼cken	Alemannia Aachen	2:2	2:5	29.03.2006	18:15	2005	2006	21
+Karlsruher SC	SC Freiburg	0:0	1:1	17.02.2006	19:00	2005	2006	22
+TSV 1860 MÃ¼nchen	Kickers Offenbach	0:0	1:1	17.02.2006	19:00	2005	2006	22
+Eintracht Braunschweig	Dynamo Dresden	0:0	1:0	17.02.2006	19:00	2005	2006	22
+SC Paderborn 07	Hansa Rostock	3:0	3:0	19.02.2006	15:00	2005	2006	22
+Wacker Burghausen	1. FC SaarbrÃ¼cken	2:0	2:0	19.02.2006	15:00	2005	2006	22
+Erzgebirge Aue	SpVgg Unterhaching	0:1	0:1	19.02.2006	15:00	2005	2006	22
+VfL Bochum	SpVgg Greuther FÃ¼rth	1:0	1:1	19.02.2006	15:00	2005	2006	22
+Alemannia Aachen	Energie Cottbus	0:0	0:0	20.02.2006	20:15	2005	2006	22
+Sportfreunde Siegen	LR Ahlen	0:2	0:3	29.03.2006	18:00	2005	2006	22
+SpVgg Greuther FÃ¼rth	SC Paderborn 07	0:0	1:1	24.02.2006	19:00	2005	2006	23
+1. FC SaarbrÃ¼cken	Erzgebirge Aue	1:1	1:1	24.02.2006	19:00	2005	2006	23
+Energie Cottbus	Wacker Burghausen	0:1	4:1	24.02.2006	19:00	2005	2006	23
+LR Ahlen	Alemannia Aachen	0:1	0:2	26.02.2006	15:00	2005	2006	23
+Hansa Rostock	Sportfreunde Siegen	0:0	2:0	26.02.2006	15:00	2005	2006	23
+Dynamo Dresden	VfL Bochum	0:0	0:0	26.02.2006	15:00	2005	2006	23
+Kickers Offenbach	Eintracht Braunschweig	1:0	2:0	26.02.2006	15:00	2005	2006	23
+SpVgg Unterhaching	Karlsruher SC	3:0	4:1	26.02.2006	15:00	2005	2006	23
+SC Freiburg	TSV 1860 MÃ¼nchen	1:1	2:1	27.02.2006	20:15	2005	2006	23
+Wacker Burghausen	LR Ahlen	1:1	1:3	03.03.2006	19:00	2005	2006	24
+Erzgebirge Aue	Energie Cottbus	2:0	2:2	03.03.2006	19:00	2005	2006	24
+VfL Bochum	Kickers Offenbach	0:0	0:1	03.03.2006	19:00	2005	2006	24
+Eintracht Braunschweig	TSV 1860 MÃ¼nchen	2:2	3:3	05.03.2006	15:00	2005	2006	24
+SC Paderborn 07	Dynamo Dresden	0:1	0:2	05.03.2006	15:00	2005	2006	24
+Alemannia Aachen	Hansa Rostock	3:1	3:2	06.03.2006	20:15	2005	2006	24
+SpVgg Unterhaching	SC Freiburg	0:0	1:0	16.03.2006	18:00	2005	2006	24
+Karlsruher SC	1. FC SaarbrÃ¼cken	2:0	2:1	16.03.2006	18:00	2005	2006	24
+Sportfreunde Siegen	SpVgg Greuther FÃ¼rth	1:1	1:3	22.03.2006	17:30	2005	2006	24
+Kickers Offenbach	SC Paderborn 07	0:0	1:1	10.03.2006	19:00	2005	2006	25
+1. FC SaarbrÃ¼cken	SpVgg Unterhaching	3:1	5:3	10.03.2006	19:00	2005	2006	25
+LR Ahlen	Erzgebirge Aue	1:1	3:1	10.03.2006	19:00	2005	2006	25
+Dynamo Dresden	Sportfreunde Siegen	1:0	1:0	12.03.2006	15:00	2005	2006	25
+SC Freiburg	Eintracht Braunschweig	1:0	1:0	12.03.2006	15:00	2005	2006	25
+Energie Cottbus	Karlsruher SC	0:0	0:0	12.03.2006	15:00	2005	2006	25
+Hansa Rostock	Wacker Burghausen	1:0	1:0	12.03.2006	15:00	2005	2006	25
+TSV 1860 MÃ¼nchen	VfL Bochum	0:0	0:1	13.03.2006	20:15	2005	2006	25
+SpVgg Greuther FÃ¼rth	Alemannia Aachen	0:0	0:0	14.03.2006	18:00	2005	2006	25
+Sportfreunde Siegen	Kickers Offenbach	1:0	1:1	17.03.2006	19:00	2005	2006	26
+Alemannia Aachen	Dynamo Dresden	0:0	2:0	17.03.2006	19:00	2005	2006	26
+Wacker Burghausen	SpVgg Greuther FÃ¼rth	1:1	2:2	17.03.2006	19:00	2005	2006	26
+1. FC SaarbrÃ¼cken	SC Freiburg	1:0	2:1	19.03.2006	15:00	2005	2006	26
+Karlsruher SC	LR Ahlen	1:0	3:1	19.03.2006	15:00	2005	2006	26
+SpVgg Unterhaching	Energie Cottbus	0:1	0:2	19.03.2006	15:00	2005	2006	26
+VfL Bochum	Eintracht Braunschweig	2:0	4:0	19.03.2006	15:00	2005	2006	26
+SC Paderborn 07	TSV 1860 MÃ¼nchen	0:1	0:1	19.03.2006	15:00	2005	2006	26
+Erzgebirge Aue	Hansa Rostock	0:1	2:1	20.03.2006	20:15	2005	2006	26
+Kickers Offenbach	Alemannia Aachen	0:0	2:4	24.03.2006	19:00	2005	2006	27
+Eintracht Braunschweig	SC Paderborn 07	2:0	2:0	24.03.2006	19:00	2005	2006	27
+Dynamo Dresden	Wacker Burghausen	1:2	1:2	24.03.2006	19:00	2005	2006	27
+TSV 1860 MÃ¼nchen	Sportfreunde Siegen	1:0	3:0	26.03.2006	15:00	2005	2006	27
+Energie Cottbus	1. FC SaarbrÃ¼cken	0:1	0:1	26.03.2006	15:00	2005	2006	27
+LR Ahlen	SpVgg Unterhaching	0:0	1:0	26.03.2006	15:00	2005	2006	27
+Hansa Rostock	Karlsruher SC	0:0	2:0	26.03.2006	15:00	2005	2006	27
+SpVgg Greuther FÃ¼rth	Erzgebirge Aue	0:3	1:3	26.03.2006	15:00	2005	2006	27
+SC Freiburg	VfL Bochum	0:0	0:0	27.03.2006	20:15	2005	2006	27
+Energie Cottbus	SC Freiburg	2:0	2:1	31.03.2006	19:00	2005	2006	28
+SC Paderborn 07	VfL Bochum	1:0	1:3	31.03.2006	19:00	2005	2006	28
+Karlsruher SC	SpVgg Greuther FÃ¼rth	1:1	2:1	31.03.2006	19:00	2005	2006	28
+SpVgg Unterhaching	Hansa Rostock	0:1	0:1	02.04.2006	15:00	2005	2006	28
+1. FC SaarbrÃ¼cken	LR Ahlen	0:0	1:0	02.04.2006	15:00	2005	2006	28
+Sportfreunde Siegen	Eintracht Braunschweig	3:0	4:1	02.04.2006	15:00	2005	2006	28
+Wacker Burghausen	Kickers Offenbach	0:2	0:2	02.04.2006	15:00	2005	2006	28
+Erzgebirge Aue	Dynamo Dresden	2:0	2:0	02.04.2006	15:00	2005	2006	28
+Alemannia Aachen	TSV 1860 MÃ¼nchen	1:0	1:0	03.04.2006	20:15	2005	2006	28
+Eintracht Braunschweig	Alemannia Aachen	0:1	0:1	07.04.2006	19:00	2005	2006	29
+VfL Bochum	Sportfreunde Siegen	2:0	3:1	07.04.2006	19:00	2005	2006	29
+Kickers Offenbach	Erzgebirge Aue	0:0	2:1	07.04.2006	19:00	2005	2006	29
+SC Freiburg	SC Paderborn 07	1:0	1:0	09.04.2006	15:00	2005	2006	29
+LR Ahlen	Energie Cottbus	0:0	0:1	09.04.2006	15:00	2005	2006	29
+Hansa Rostock	1. FC SaarbrÃ¼cken	3:0	3:0	09.04.2006	15:00	2005	2006	29
+SpVgg Greuther FÃ¼rth	SpVgg Unterhaching	2:0	2:0	09.04.2006	15:00	2005	2006	29
+TSV 1860 MÃ¼nchen	Wacker Burghausen	0:0	1:1	09.04.2006	15:00	2005	2006	29
+Dynamo Dresden	Karlsruher SC	2:1	3:2	10.04.2006	20:15	2005	2006	29
+Energie Cottbus	Hansa Rostock	1:0	2:0	13.04.2006	19:00	2005	2006	30
+Sportfreunde Siegen	SC Paderborn 07	0:1	0:2	13.04.2006	19:00	2005	2006	30
+Karlsruher SC	Kickers Offenbach	0:1	1:1	13.04.2006	19:00	2005	2006	30
+LR Ahlen	SC Freiburg	0:0	0:0	16.04.2006	15:00	2005	2006	30
+Wacker Burghausen	Eintracht Braunschweig	0:2	1:2	16.04.2006	15:00	2005	2006	30
+Erzgebirge Aue	TSV 1860 MÃ¼nchen	2:0	3:0	16.04.2006	15:00	2005	2006	30
+SpVgg Unterhaching	Dynamo Dresden	0:1	1:1	16.04.2006	15:00	2005	2006	30
+1. FC SaarbrÃ¼cken	SpVgg Greuther FÃ¼rth	1:0	1:0	16.04.2006	15:00	2005	2006	30
+Alemannia Aachen	VfL Bochum	0:1	0:2	17.04.2006	20:15	2005	2006	30
+SC Paderborn 07	Alemannia Aachen	3:1	3:1	21.04.2006	19:00	2005	2006	31
+TSV 1860 MÃ¼nchen	Karlsruher SC	2:0	2:0	21.04.2006	19:00	2005	2006	31
+VfL Bochum	Wacker Burghausen	0:1	1:2	21.04.2006	19:00	2005	2006	31
+SC Freiburg	Sportfreunde Siegen	0:1	2:2	23.04.2006	15:00	2005	2006	31
+Hansa Rostock	LR Ahlen	0:0	1:2	23.04.2006	15:00	2005	2006	31
+Dynamo Dresden	1. FC SaarbrÃ¼cken	1:0	2:0	23.04.2006	15:00	2005	2006	31
+Kickers Offenbach	SpVgg Unterhaching	2:1	4:1	23.04.2006	15:00	2005	2006	31
+Eintracht Braunschweig	Erzgebirge Aue	0:0	0:1	23.04.2006	15:00	2005	2006	31
+SpVgg Greuther FÃ¼rth	Energie Cottbus	1:0	1:1	24.04.2006	20:15	2005	2006	31
+Erzgebirge Aue	VfL Bochum	0:0	0:1	01.05.2006	20:15	2005	2006	32
+Alemannia Aachen	Sportfreunde Siegen	2:0	3:0	02.05.2006	17:30	2005	2006	32
+Wacker Burghausen	SC Paderborn 07	2:1	5:1	02.05.2006	17:30	2005	2006	32
+SpVgg Unterhaching	TSV 1860 MÃ¼nchen	0:0	1:0	02.05.2006	17:30	2005	2006	32
+1. FC SaarbrÃ¼cken	Kickers Offenbach	0:2	0:4	02.05.2006	17:30	2005	2006	32
+Hansa Rostock	SC Freiburg	1:2	1:2	03.05.2006	17:30	2005	2006	32
+Karlsruher SC	Eintracht Braunschweig	3:0	7:0	03.05.2006	17:30	2005	2006	32
+Energie Cottbus	Dynamo Dresden	0:0	0:0	03.05.2006	17:30	2005	2006	32
+LR Ahlen	SpVgg Greuther FÃ¼rth	1:1	1:2	03.05.2006	17:30	2005	2006	32
+Alemannia Aachen	SC Freiburg	0:1	0:1	07.05.2006	15:00	2005	2006	33
+SpVgg Greuther FÃ¼rth	Hansa Rostock	2:0	2:0	07.05.2006	15:00	2005	2006	33
+Dynamo Dresden	LR Ahlen	2:0	3:1	07.05.2006	15:00	2005	2006	33
+Kickers Offenbach	Energie Cottbus	1:0	2:0	07.05.2006	15:00	2005	2006	33
+TSV 1860 MÃ¼nchen	1. FC SaarbrÃ¼cken	1:0	1:0	07.05.2006	15:00	2005	2006	33
+Eintracht Braunschweig	SpVgg Unterhaching	1:0	3:0	07.05.2006	15:00	2005	2006	33
+VfL Bochum	Karlsruher SC	1:1	2:3	07.05.2006	15:00	2005	2006	33
+SC Paderborn 07	Erzgebirge Aue	0:1	0:2	07.05.2006	15:00	2005	2006	33
+Sportfreunde Siegen	Wacker Burghausen	0:0	2:1	07.05.2006	15:00	2005	2006	33
+Wacker Burghausen	Alemannia Aachen	1:0	1:1	14.05.2006	15:00	2005	2006	34
+Erzgebirge Aue	Sportfreunde Siegen	0:0	0:2	14.05.2006	15:00	2005	2006	34
+Karlsruher SC	SC Paderborn 07	2:1	2:3	14.05.2006	15:00	2005	2006	34
+SpVgg Unterhaching	VfL Bochum	0:0	0:0	14.05.2006	15:00	2005	2006	34
+1. FC SaarbrÃ¼cken	Eintracht Braunschweig	1:0	2:0	14.05.2006	15:00	2005	2006	34
+Energie Cottbus	TSV 1860 MÃ¼nchen	1:1	3:1	14.05.2006	15:00	2005	2006	34
+LR Ahlen	Kickers Offenbach	0:0	1:0	14.05.2006	15:00	2005	2006	34
+Hansa Rostock	Dynamo Dresden	1:1	1:3	14.05.2006	15:00	2005	2006	34
+SC Freiburg	SpVgg Greuther FÃ¼rth	1:0	1:0	14.05.2006	15:00	2005	2006	34

@@ -1,0 +1,380 @@
+HÃ©rcules CF	Athletic Bilbao	0:0	0:1	28.08.2010	18:00	2010	2011	1
+MÃ¡laga CF	Valencia CF	1:1	1:3	28.08.2010	18:00	2010	2011	1
+Levante UD	Sevilla FC	1:2	1:4	28.08.2010	22:00	2010	2011	1
+Espanyol Barcelona	Getafe CF	1:0	3:1	29.08.2010	22:00	2010	2011	1
+Real Sociedad	Villarreal CF	0:0	1:0	29.08.2010	17:00	2010	2011	1
+Deportivo La CoruÃ±a	Real Zaragoza	0:0	0:0	29.08.2010	17:00	2010	2011	1
+CA Osasuna	UD AlmerÃ­a	0:0	0:0	29.08.2010	17:00	2010	2011	1
+Racing Santander	FC Barcelona	0:2	0:3	29.08.2010	17:00	2010	2011	1
+RCD Mallorca	Real Madrid	0:0	0:0	29.08.2010	21:00	2010	2011	1
+AtlÃ©tico Madrid	Sporting GijÃ³n	2:0	4:0	30.08.2010	21:00	2010	2011	1
+FC Barcelona	HÃ©rcules CF	0:1	0:2	11.09.2010	18:00	2010	2011	2
+Valencia CF	Racing Santander	1:0	1:0	11.09.2010	18:00	2010	2011	2
+Real Madrid	CA Osasuna	0:0	1:0	11.09.2010	20:00	2010	2011	2
+Athletic Bilbao	AtlÃ©tico Madrid	0:1	1:2	11.09.2010	20:00	2010	2011	2
+Getafe CF	Levante UD	2:1	4:1	12.09.2010	17:00	2010	2011	2
+Sporting GijÃ³n	RCD Mallorca	0:0	2:0	12.09.2010	17:00	2010	2011	2
+Real Zaragoza	MÃ¡laga CF	1:5	3:5	12.09.2010	17:00	2010	2011	2
+Villarreal CF	Espanyol Barcelona	2:0	4:0	12.09.2010	17:00	2010	2011	2
+Sevilla FC	Deportivo La CoruÃ±a	0:0	0:0	12.09.2010	21:00	2010	2011	2
+UD AlmerÃ­a	Real Sociedad	1:2	2:2	13.09.2010	21:00	2010	2011	2
+Espanyol Barcelona	UD AlmerÃ­a	0:0	1:0	18.09.2010	18:00	2010	2011	3
+RCD Mallorca	CA Osasuna	1:0	2:0	18.09.2010	18:00	2010	2011	3
+Sporting GijÃ³n	Athletic Bilbao	2:1	2:2	18.09.2010	20:00	2010	2011	3
+Real Sociedad	Real Madrid	0:0	1:2	18.09.2010	20:00	2010	2011	3
+HÃ©rcules CF	Valencia CF	1:2	1:2	19.09.2010	17:00	2010	2011	3
+Racing Santander	Real Zaragoza	0:0	2:0	19.09.2010	17:00	2010	2011	3
+Levante UD	Villarreal CF	0:2	1:2	19.09.2010	17:00	2010	2011	3
+AtlÃ©tico Madrid	FC Barcelona	1:2	1:2	19.09.2010	17:00	2010	2011	3
+MÃ¡laga CF	Sevilla FC	1:2	1:2	19.09.2010	21:00	2010	2011	3
+Deportivo La CoruÃ±a	Getafe CF	0:1	2:2	20.09.2010	21:00	2010	2011	3
+CA Osasuna	Real Sociedad	2:1	3:1	21.09.2010	20:00	2010	2011	4
+Athletic Bilbao	RCD Mallorca	1:0	3:0	21.09.2010	20:00	2010	2011	4
+Real Madrid	Espanyol Barcelona	1:0	3:0	21.09.2010	22:00	2010	2011	4
+FC Barcelona	Sporting GijÃ³n	0:0	1:0	22.09.2010	22:00	2010	2011	4
+Real Zaragoza	HÃ©rcules CF	0:0	0:0	22.09.2010	20:00	2010	2011	4
+UD AlmerÃ­a	Levante UD	0:1	0:1	22.09.2010	20:00	2010	2011	4
+Valencia CF	AtlÃ©tico Madrid	0:1	1:1	22.09.2010	22:00	2010	2011	4
+Getafe CF	MÃ¡laga CF	0:0	0:2	23.09.2010	22:00	2010	2011	4
+Villarreal CF	Deportivo La CoruÃ±a	1:0	1:0	23.09.2010	20:00	2010	2011	4
+Sevilla FC	Racing Santander	1:0	1:1	23.09.2010	20:00	2010	2011	4
+Sporting GijÃ³n	Valencia CF	0:2	0:2	25.09.2010	18:00	2010	2011	5
+Levante UD	Real Madrid	0:0	0:0	25.09.2010	18:00	2010	2011	5
+Athletic Bilbao	FC Barcelona	0:0	1:3	25.09.2010	22:00	2010	2011	5
+Racing Santander	Getafe CF	0:1	0:1	26.09.2010	22:00	2010	2011	5
+Deportivo La CoruÃ±a	UD AlmerÃ­a	0:2	0:2	26.09.2010	17:00	2010	2011	5
+Espanyol Barcelona	CA Osasuna	1:0	1:0	26.09.2010	17:00	2010	2011	5
+RCD Mallorca	Real Sociedad	1:0	2:0	26.09.2010	17:00	2010	2011	5
+HÃ©rcules CF	Sevilla FC	2:0	2:0	26.09.2010	17:00	2010	2011	5
+AtlÃ©tico Madrid	Real Zaragoza	1:0	1:0	26.09.2010	21:00	2010	2011	5
+MÃ¡laga CF	Villarreal CF	2:3	2:3	27.09.2010	21:00	2010	2011	5
+Real Zaragoza	Sporting GijÃ³n	0:1	2:2	02.10.2010	18:00	2010	2011	6
+Real Sociedad	Espanyol Barcelona	0:0	1:0	02.10.2010	18:00	2010	2011	6
+Valencia CF	Athletic Bilbao	1:0	2:1	02.10.2010	22:00	2010	2011	6
+Sevilla FC	AtlÃ©tico Madrid	2:0	3:1	03.10.2010	22:00	2010	2011	6
+Getafe CF	HÃ©rcules CF	2:0	3:0	03.10.2010	17:00	2010	2011	6
+Villarreal CF	Racing Santander	2:0	2:0	03.10.2010	17:00	2010	2011	6
+UD AlmerÃ­a	MÃ¡laga CF	0:0	1:1	03.10.2010	17:00	2010	2011	6
+CA Osasuna	Levante UD	0:0	1:1	03.10.2010	17:00	2010	2011	6
+FC Barcelona	RCD Mallorca	1:1	1:1	03.10.2010	19:00	2010	2011	6
+Real Madrid	Deportivo La CoruÃ±a	3:0	6:1	03.10.2010	19:00	2010	2011	6
+AtlÃ©tico Madrid	Getafe CF	1:0	2:0	16.10.2010	18:00	2010	2011	7
+FC Barcelona	Valencia CF	0:1	2:1	16.10.2010	18:00	2010	2011	7
+MÃ¡laga CF	Real Madrid	0:2	1:4	16.10.2010	22:00	2010	2011	7
+Racing Santander	UD AlmerÃ­a	1:0	1:0	17.10.2010	22:00	2010	2011	7
+Deportivo La CoruÃ±a	CA Osasuna	0:0	0:0	17.10.2010	17:00	2010	2011	7
+Levante UD	Real Sociedad	0:0	2:1	17.10.2010	17:00	2010	2011	7
+RCD Mallorca	Espanyol Barcelona	0:1	0:1	17.10.2010	17:00	2010	2011	7
+Athletic Bilbao	Real Zaragoza	2:0	2:1	17.10.2010	17:00	2010	2011	7
+Sporting GijÃ³n	Sevilla FC	1:0	2:0	17.10.2010	21:00	2010	2011	7
+HÃ©rcules CF	Villarreal CF	2:1	2:2	18.10.2010	21:00	2010	2011	7
+Real Zaragoza	FC Barcelona	0:1	0:2	23.10.2010	18:00	2010	2011	8
+Real Madrid	Racing Santander	3:0	6:1	23.10.2010	18:00	2010	2011	8
+Valencia CF	RCD Mallorca	1:2	1:2	23.10.2010	22:00	2010	2011	8
+Getafe CF	Sporting GijÃ³n	1:0	3:0	24.10.2010	22:00	2010	2011	8
+UD AlmerÃ­a	HÃ©rcules CF	0:1	1:1	24.10.2010	17:00	2010	2011	8
+CA Osasuna	MÃ¡laga CF	2:0	3:0	24.10.2010	17:00	2010	2011	8
+Espanyol Barcelona	Levante UD	1:0	2:1	24.10.2010	17:00	2010	2011	8
+Sevilla FC	Athletic Bilbao	2:0	4:3	24.10.2010	17:00	2010	2011	8
+Villarreal CF	AtlÃ©tico Madrid	1:0	2:0	24.10.2010	21:00	2010	2011	8
+Real Sociedad	Deportivo La CoruÃ±a	1:0	3:0	25.10.2010	21:00	2010	2011	8
+Valencia CF	Real Zaragoza	1:1	1:1	30.10.2010	18:00	2010	2011	9
+HÃ©rcules CF	Real Madrid	1:0	1:3	30.10.2010	18:00	2010	2011	9
+FC Barcelona	Sevilla FC	2:0	5:0	30.10.2010	22:00	2010	2011	9
+Sporting GijÃ³n	Villarreal CF	0:0	1:1	31.10.2010	22:00	2010	2011	9
+Racing Santander	CA Osasuna	2:0	4:1	31.10.2010	17:00	2010	2011	9
+MÃ¡laga CF	Real Sociedad	0:1	1:2	31.10.2010	17:00	2010	2011	9
+Deportivo La CoruÃ±a	Espanyol Barcelona	1:0	3:0	31.10.2010	17:00	2010	2011	9
+AtlÃ©tico Madrid	UD AlmerÃ­a	1:1	1:1	31.10.2010	17:00	2010	2011	9
+Athletic Bilbao	Getafe CF	2:0	3:0	31.10.2010	21:00	2010	2011	9
+RCD Mallorca	Levante UD	0:1	2:1	01.11.2010	21:00	2010	2011	9
+Real Sociedad	Racing Santander	1:0	1:0	06.11.2010	20:00	2010	2011	10
+Espanyol Barcelona	MÃ¡laga CF	1:0	1:0	06.11.2010	20:00	2010	2011	10
+Real Zaragoza	RCD Mallorca	0:1	3:2	07.11.2010	17:00	2010	2011	10
+Villarreal CF	Athletic Bilbao	2:1	4:1	07.11.2010	17:00	2010	2011	10
+UD AlmerÃ­a	Sporting GijÃ³n	1:0	1:1	07.11.2010	17:00	2010	2011	10
+CA Osasuna	HÃ©rcules CF	1:0	3:0	07.11.2010	17:00	2010	2011	10
+Levante UD	Deportivo La CoruÃ±a	0:1	1:2	07.11.2010	17:00	2010	2011	10
+Getafe CF	FC Barcelona	0:2	1:3	07.11.2010	17:00	2010	2011	10
+Real Madrid	AtlÃ©tico Madrid	2:0	2:0	07.11.2010	21:00	2010	2011	10
+Sevilla FC	Valencia CF	0:0	2:0	08.11.2010	21:00	2010	2011	10
+Athletic Bilbao	UD AlmerÃ­a	1:0	1:0	13.11.2010	18:00	2010	2011	11
+AtlÃ©tico Madrid	CA Osasuna	2:0	3:0	13.11.2010	18:00	2010	2011	11
+FC Barcelona	Villarreal CF	1:1	3:1	13.11.2010	22:00	2010	2011	11
+HÃ©rcules CF	Real Sociedad	0:1	2:1	14.11.2010	22:00	2010	2011	11
+Racing Santander	Espanyol Barcelona	0:0	0:0	14.11.2010	17:00	2010	2011	11
+MÃ¡laga CF	Levante UD	0:0	1:0	14.11.2010	17:00	2010	2011	11
+RCD Mallorca	Deportivo La CoruÃ±a	0:0	0:0	14.11.2010	17:00	2010	2011	11
+Real Zaragoza	Sevilla FC	0:1	1:2	14.11.2010	17:00	2010	2011	11
+Sporting GijÃ³n	Real Madrid	0:0	0:1	14.11.2010	19:00	2010	2011	11
+Valencia CF	Getafe CF	1:0	2:0	14.11.2010	19:00	2010	2011	11
+Villarreal CF	Valencia CF	0:1	1:1	20.11.2010	18:00	2010	2011	12
+UD AlmerÃ­a	FC Barcelona	0:5	0:8	20.11.2010	18:00	2010	2011	12
+Real Madrid	Athletic Bilbao	2:1	5:1	20.11.2010	22:00	2010	2011	12
+CA Osasuna	Sporting GijÃ³n	0:0	1:0	21.11.2010	22:00	2010	2011	12
+Espanyol Barcelona	HÃ©rcules CF	1:0	3:0	21.11.2010	17:00	2010	2011	12
+Levante UD	Racing Santander	3:0	3:1	21.11.2010	17:00	2010	2011	12
+Deportivo La CoruÃ±a	MÃ¡laga CF	2:0	3:0	21.11.2010	17:00	2010	2011	12
+Sevilla FC	RCD Mallorca	0:1	1:2	21.11.2010	17:00	2010	2011	12
+Real Sociedad	AtlÃ©tico Madrid	1:0	2:4	21.11.2010	21:00	2010	2011	12
+Getafe CF	Real Zaragoza	0:1	1:1	22.11.2010	21:00	2010	2011	12
+Real Zaragoza	Villarreal CF	0:2	0:3	27.11.2010	18:00	2010	2011	13
+Sevilla FC	Getafe CF	1:0	1:3	27.11.2010	18:00	2010	2011	13
+AtlÃ©tico Madrid	Espanyol Barcelona	1:1	2:3	27.11.2010	22:00	2010	2011	13
+Sporting GijÃ³n	Real Sociedad	1:2	1:3	28.11.2010	22:00	2010	2011	13
+HÃ©rcules CF	Levante UD	1:1	3:1	28.11.2010	17:00	2010	2011	13
+Racing Santander	Deportivo La CoruÃ±a	0:0	1:0	28.11.2010	17:00	2010	2011	13
+RCD Mallorca	MÃ¡laga CF	0:0	2:0	28.11.2010	17:00	2010	2011	13
+Athletic Bilbao	CA Osasuna	0:0	1:0	28.11.2010	17:00	2010	2011	13
+Valencia CF	UD AlmerÃ­a	1:0	2:1	28.11.2010	21:00	2010	2011	13
+FC Barcelona	Real Madrid	2:0	5:0	29.11.2010	21:00	2010	2011	13
+Levante UD	AtlÃ©tico Madrid	1:0	2:0	04.12.2010	18:00	2010	2011	14
+CA Osasuna	FC Barcelona	0:1	0:3	04.12.2010	18:00	2010	2011	14
+Real Madrid	Valencia CF	0:0	2:0	04.12.2010	22:00	2010	2011	14
+Getafe CF	RCD Mallorca	2:0	3:0	05.12.2010	22:00	2010	2011	14
+UD AlmerÃ­a	Real Zaragoza	0:0	1:1	05.12.2010	17:00	2010	2011	14
+Espanyol Barcelona	Sporting GijÃ³n	0:0	1:0	05.12.2010	17:00	2010	2011	14
+MÃ¡laga CF	Racing Santander	2:1	4:1	05.12.2010	17:00	2010	2011	14
+Villarreal CF	Sevilla FC	1:0	1:0	05.12.2010	17:00	2010	2011	14
+Real Sociedad	Athletic Bilbao	1:0	2:0	05.12.2010	21:00	2010	2011	14
+Deportivo La CoruÃ±a	HÃ©rcules CF	0:0	1:0	06.12.2010	21:00	2010	2011	14
+Getafe CF	Villarreal CF	0:0	1:0	11.12.2010	18:00	2010	2011	15
+Sevilla FC	UD AlmerÃ­a	0:0	1:3	11.12.2010	18:00	2010	2011	15
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	2:0	2:0	11.12.2010	22:00	2010	2011	15
+Athletic Bilbao	Espanyol Barcelona	0:1	2:1	12.12.2010	22:00	2010	2011	15
+Sporting GijÃ³n	Levante UD	0:0	1:1	12.12.2010	17:00	2010	2011	15
+HÃ©rcules CF	MÃ¡laga CF	0:1	4:1	12.12.2010	17:00	2010	2011	15
+RCD Mallorca	Racing Santander	0:0	0:1	12.12.2010	17:00	2010	2011	15
+Real Zaragoza	Real Madrid	0:2	1:3	12.12.2010	17:00	2010	2011	15
+FC Barcelona	Real Sociedad	2:0	5:0	12.12.2010	21:00	2010	2011	15
+Valencia CF	CA Osasuna	3:1	3:3	13.12.2010	21:00	2010	2011	15
+Villarreal CF	RCD Mallorca	2:1	3:1	18.12.2010	18:00	2010	2011	16
+Levante UD	Athletic Bilbao	1:1	1:2	18.12.2010	18:00	2010	2011	16
+Deportivo La CoruÃ±a	Sporting GijÃ³n	1:0	1:1	18.12.2010	18:00	2010	2011	16
+Espanyol Barcelona	FC Barcelona	0:2	1:5	18.12.2010	18:00	2010	2011	16
+Real Sociedad	Valencia CF	1:1	1:2	18.12.2010	22:00	2010	2011	16
+UD AlmerÃ­a	Getafe CF	2:1	2:3	19.12.2010	22:00	2010	2011	16
+CA Osasuna	Real Zaragoza	0:0	0:0	19.12.2010	17:00	2010	2011	16
+MÃ¡laga CF	AtlÃ©tico Madrid	0:1	0:3	19.12.2010	17:00	2010	2011	16
+Real Madrid	Sevilla FC	0:0	1:0	19.12.2010	21:00	2010	2011	16
+Racing Santander	HÃ©rcules CF	0:0	0:0	20.12.2010	21:00	2010	2011	16
+Athletic Bilbao	Deportivo La CoruÃ±a	0:1	1:2	02.01.2011	16:00	2010	2011	17
+FC Barcelona	Levante UD	0:0	2:1	02.01.2011	16:00	2010	2011	17
+Sporting GijÃ³n	MÃ¡laga CF	1:1	1:2	02.01.2011	18:00	2010	2011	17
+Sevilla FC	CA Osasuna	1:0	1:0	02.01.2011	18:00	2010	2011	17
+Valencia CF	Espanyol Barcelona	1:1	2:1	02.01.2011	22:00	2010	2011	17
+Villarreal CF	UD AlmerÃ­a	1:0	2:0	03.01.2011	22:00	2010	2011	17
+Real Zaragoza	Real Sociedad	1:1	2:1	03.01.2011	20:00	2010	2011	17
+AtlÃ©tico Madrid	Racing Santander	0:0	0:0	03.01.2011	20:00	2010	2011	17
+RCD Mallorca	HÃ©rcules CF	2:0	3:0	03.01.2011	20:00	2010	2011	17
+Getafe CF	Real Madrid	1:2	2:3	03.01.2011	20:00	2010	2011	17
+MÃ¡laga CF	Athletic Bilbao	0:0	1:1	08.01.2011	18:00	2010	2011	18
+Real Sociedad	Sevilla FC	2:1	2:3	08.01.2011	18:00	2010	2011	18
+Deportivo La CoruÃ±a	FC Barcelona	0:1	0:4	08.01.2011	22:00	2010	2011	18
+RCD Mallorca	UD AlmerÃ­a	2:0	4:1	09.01.2011	22:00	2010	2011	18
+CA Osasuna	Getafe CF	0:0	0:0	09.01.2011	17:00	2010	2011	18
+Espanyol Barcelona	Real Zaragoza	3:0	4:0	09.01.2011	17:00	2010	2011	18
+Racing Santander	Sporting GijÃ³n	1:0	1:1	09.01.2011	17:00	2010	2011	18
+Real Madrid	Villarreal CF	2:2	4:2	09.01.2011	17:00	2010	2011	18
+Levante UD	Valencia CF	0:0	0:1	09.01.2011	21:00	2010	2011	18
+HÃ©rcules CF	AtlÃ©tico Madrid	4:0	4:1	10.01.2011	21:00	2010	2011	18
+Sporting GijÃ³n	HÃ©rcules CF	2:0	2:0	15.01.2011	18:00	2010	2011	19
+Villarreal CF	CA Osasuna	1:0	4:2	15.01.2011	18:00	2010	2011	19
+Getafe CF	Real Sociedad	0:2	0:4	15.01.2011	18:00	2010	2011	19
+Real Zaragoza	Levante UD	1:0	1:0	15.01.2011	18:00	2010	2011	19
+Athletic Bilbao	Racing Santander	2:0	2:1	15.01.2011	20:00	2010	2011	19
+Sevilla FC	Espanyol Barcelona	0:1	1:2	15.01.2011	20:00	2010	2011	19
+Valencia CF	Deportivo La CoruÃ±a	0:0	2:0	16.01.2011	17:00	2010	2011	19
+UD AlmerÃ­a	Real Madrid	0:0	1:1	16.01.2011	17:00	2010	2011	19
+FC Barcelona	MÃ¡laga CF	3:0	4:1	16.01.2011	21:00	2010	2011	19
+AtlÃ©tico Madrid	RCD Mallorca	2:0	3:0	17.01.2011	21:00	2010	2011	19
+Sevilla FC	Levante UD	3:0	4:1	22.01.2011	18:00	2010	2011	20
+FC Barcelona	Racing Santander	2:0	3:0	22.01.2011	18:00	2010	2011	20
+Valencia CF	MÃ¡laga CF	1:2	4:3	22.01.2011	22:00	2010	2011	20
+Getafe CF	Espanyol Barcelona	1:0	1:3	23.01.2011	22:00	2010	2011	20
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:0	1:0	23.01.2011	17:00	2010	2011	20
+Real Zaragoza	Deportivo La CoruÃ±a	1:0	1:0	23.01.2011	17:00	2010	2011	20
+UD AlmerÃ­a	CA Osasuna	2:1	3:2	23.01.2011	17:00	2010	2011	20
+Real Madrid	RCD Mallorca	0:0	1:0	23.01.2011	17:00	2010	2011	20
+Villarreal CF	Real Sociedad	1:1	2:1	23.01.2011	21:00	2010	2011	20
+Athletic Bilbao	HÃ©rcules CF	1:0	3:0	24.01.2011	21:00	2010	2011	20
+Levante UD	Getafe CF	0:0	2:0	29.01.2011	18:00	2010	2011	21
+Real Sociedad	UD AlmerÃ­a	1:0	2:0	29.01.2011	18:00	2010	2011	21
+RCD Mallorca	Sporting GijÃ³n	0:1	0:4	29.01.2011	18:00	2010	2011	21
+MÃ¡laga CF	Real Zaragoza	1:1	1:2	29.01.2011	18:00	2010	2011	21
+HÃ©rcules CF	FC Barcelona	0:1	0:3	29.01.2011	20:00	2010	2011	21
+Deportivo La CoruÃ±a	Sevilla FC	1:0	3:3	29.01.2011	20:00	2010	2011	21
+AtlÃ©tico Madrid	Athletic Bilbao	0:1	0:2	30.01.2011	17:00	2010	2011	21
+CA Osasuna	Real Madrid	0:0	1:0	30.01.2011	17:00	2010	2011	21
+Espanyol Barcelona	Villarreal CF	0:1	0:1	30.01.2011	21:00	2010	2011	21
+Racing Santander	Valencia CF	1:0	1:1	31.01.2011	21:00	2010	2011	21
+Athletic Bilbao	Sporting GijÃ³n	2:0	3:0	05.02.2011	18:00	2010	2011	22
+Real Zaragoza	Racing Santander	1:1	1:1	05.02.2011	18:00	2010	2011	22
+Getafe CF	Deportivo La CoruÃ±a	3:0	4:1	05.02.2011	18:00	2010	2011	22
+UD AlmerÃ­a	Espanyol Barcelona	3:1	3:2	05.02.2011	18:00	2010	2011	22
+CA Osasuna	RCD Mallorca	1:1	1:1	05.02.2011	18:00	2010	2011	22
+Villarreal CF	Levante UD	0:0	0:1	05.02.2011	18:00	2010	2011	22
+FC Barcelona	AtlÃ©tico Madrid	2:0	3:0	05.02.2011	22:00	2010	2011	22
+Sevilla FC	MÃ¡laga CF	0:0	0:0	06.02.2011	22:00	2010	2011	22
+Real Madrid	Real Sociedad	3:0	4:1	06.02.2011	19:00	2010	2011	22
+Valencia CF	HÃ©rcules CF	1:0	2:0	06.02.2011	19:00	2010	2011	22
+AtlÃ©tico Madrid	Valencia CF	1:1	1:2	12.02.2011	18:00	2010	2011	23
+Sporting GijÃ³n	FC Barcelona	1:0	1:1	12.02.2011	18:00	2010	2011	23
+Racing Santander	Sevilla FC	2:1	3:2	12.02.2011	22:00	2010	2011	23
+Real Sociedad	CA Osasuna	0:0	1:0	13.02.2011	22:00	2010	2011	23
+HÃ©rcules CF	Real Zaragoza	0:1	2:1	13.02.2011	17:00	2010	2011	23
+MÃ¡laga CF	Getafe CF	0:2	2:2	13.02.2011	17:00	2010	2011	23
+Levante UD	UD AlmerÃ­a	0:0	1:0	13.02.2011	17:00	2010	2011	23
+Deportivo La CoruÃ±a	Villarreal CF	0:0	1:0	13.02.2011	17:00	2010	2011	23
+Espanyol Barcelona	Real Madrid	0:1	0:1	13.02.2011	21:00	2010	2011	23
+RCD Mallorca	Athletic Bilbao	1:0	1:0	14.02.2011	21:00	2010	2011	23
+Valencia CF	Sporting GijÃ³n	0:0	0:0	19.02.2011	18:00	2010	2011	24
+Real Madrid	Levante UD	2:0	2:0	19.02.2011	18:00	2010	2011	24
+Real Zaragoza	AtlÃ©tico Madrid	0:0	0:1	19.02.2011	22:00	2010	2011	24
+Getafe CF	Racing Santander	0:0	0:1	20.02.2011	22:00	2010	2011	24
+Villarreal CF	MÃ¡laga CF	1:0	1:1	20.02.2011	17:00	2010	2011	24
+UD AlmerÃ­a	Deportivo La CoruÃ±a	0:0	1:1	20.02.2011	17:00	2010	2011	24
+CA Osasuna	Espanyol Barcelona	1:0	4:0	20.02.2011	17:00	2010	2011	24
+Sevilla FC	HÃ©rcules CF	1:0	1:0	20.02.2011	17:00	2010	2011	24
+FC Barcelona	Athletic Bilbao	1:0	2:1	20.02.2011	21:00	2010	2011	24
+Real Sociedad	RCD Mallorca	0:0	1:0	21.02.2011	21:00	2010	2011	24
+Sporting GijÃ³n	Real Zaragoza	0:0	0:0	26.02.2011	18:00	2010	2011	25
+Espanyol Barcelona	Real Sociedad	1:1	4:1	26.02.2011	18:00	2010	2011	25
+AtlÃ©tico Madrid	Sevilla FC	0:1	2:2	26.02.2011	18:00	2010	2011	25
+RCD Mallorca	FC Barcelona	0:1	0:3	26.02.2011	18:00	2010	2011	25
+Deportivo La CoruÃ±a	Real Madrid	0:0	0:0	26.02.2011	22:00	2010	2011	25
+HÃ©rcules CF	Getafe CF	0:0	0:0	27.02.2011	22:00	2010	2011	25
+Levante UD	CA Osasuna	1:1	2:1	27.02.2011	17:00	2010	2011	25
+Racing Santander	Villarreal CF	1:0	2:2	27.02.2011	17:00	2010	2011	25
+Athletic Bilbao	Valencia CF	1:0	1:2	27.02.2011	21:00	2010	2011	25
+MÃ¡laga CF	UD AlmerÃ­a	0:1	3:1	28.02.2011	21:00	2010	2011	25
+Espanyol Barcelona	RCD Mallorca	1:0	1:2	01.03.2011	20:00	2010	2011	26
+Sevilla FC	Sporting GijÃ³n	2:0	3:0	01.03.2011	20:00	2010	2011	26
+Real Zaragoza	Athletic Bilbao	0:1	2:1	02.03.2011	20:00	2010	2011	26
+Getafe CF	AtlÃ©tico Madrid	1:0	1:1	02.03.2011	20:00	2010	2011	26
+Villarreal CF	HÃ©rcules CF	1:0	1:0	02.03.2011	20:00	2010	2011	26
+CA Osasuna	Deportivo La CoruÃ±a	0:0	0:0	02.03.2011	20:00	2010	2011	26
+Real Sociedad	Levante UD	0:0	1:1	02.03.2011	20:00	2010	2011	26
+Valencia CF	FC Barcelona	0:0	0:1	02.03.2011	20:00	2010	2011	26
+UD AlmerÃ­a	Racing Santander	0:1	1:1	03.03.2011	20:00	2010	2011	26
+Real Madrid	MÃ¡laga CF	3:0	7:0	03.03.2011	20:00	2010	2011	26
+RCD Mallorca	Valencia CF	1:1	1:2	05.03.2011	18:00	2010	2011	27
+FC Barcelona	Real Zaragoza	1:0	1:0	05.03.2011	18:00	2010	2011	27
+AtlÃ©tico Madrid	Villarreal CF	1:1	3:1	05.03.2011	22:00	2010	2011	27
+Sporting GijÃ³n	Getafe CF	2:0	2:0	06.03.2011	22:00	2010	2011	27
+HÃ©rcules CF	UD AlmerÃ­a	0:0	1:2	06.03.2011	17:00	2010	2011	27
+MÃ¡laga CF	CA Osasuna	0:0	0:1	06.03.2011	17:00	2010	2011	27
+Levante UD	Espanyol Barcelona	1:0	1:0	06.03.2011	17:00	2010	2011	27
+Athletic Bilbao	Sevilla FC	0:0	2:0	06.03.2011	17:00	2010	2011	27
+Racing Santander	Real Madrid	0:2	1:3	06.03.2011	21:00	2010	2011	27
+Deportivo La CoruÃ±a	Real Sociedad	1:0	2:1	07.03.2011	21:00	2010	2011	27
+UD AlmerÃ­a	AtlÃ©tico Madrid	0:1	2:2	12.03.2011	18:00	2010	2011	28
+Real Madrid	HÃ©rcules CF	1:0	2:0	12.03.2011	18:00	2010	2011	28
+Real Zaragoza	Valencia CF	2:0	4:0	12.03.2011	22:00	2010	2011	28
+CA Osasuna	Racing Santander	2:0	3:1	13.03.2011	22:00	2010	2011	28
+Real Sociedad	MÃ¡laga CF	0:1	0:2	13.03.2011	17:00	2010	2011	28
+Espanyol Barcelona	Deportivo La CoruÃ±a	0:0	2:0	13.03.2011	17:00	2010	2011	28
+Levante UD	RCD Mallorca	1:0	1:1	13.03.2011	17:00	2010	2011	28
+Villarreal CF	Sporting GijÃ³n	1:0	1:1	13.03.2011	17:00	2010	2011	28
+Sevilla FC	FC Barcelona	0:1	1:1	13.03.2011	21:00	2010	2011	28
+Getafe CF	Athletic Bilbao	0:0	2:2	14.03.2011	21:00	2010	2011	28
+RCD Mallorca	Real Zaragoza	0:0	1:0	19.03.2011	18:00	2010	2011	29
+FC Barcelona	Getafe CF	1:0	2:1	19.03.2011	18:00	2010	2011	29
+AtlÃ©tico Madrid	Real Madrid	0:2	1:2	19.03.2011	22:00	2010	2011	29
+Sporting GijÃ³n	UD AlmerÃ­a	1:0	1:0	20.03.2011	22:00	2010	2011	29
+HÃ©rcules CF	CA Osasuna	0:2	0:4	20.03.2011	17:00	2010	2011	29
+Racing Santander	Real Sociedad	1:0	2:1	20.03.2011	17:00	2010	2011	29
+MÃ¡laga CF	Espanyol Barcelona	2:0	2:0	20.03.2011	17:00	2010	2011	29
+Deportivo La CoruÃ±a	Levante UD	0:0	0:1	20.03.2011	17:00	2010	2011	29
+Athletic Bilbao	Villarreal CF	0:0	0:1	20.03.2011	19:00	2010	2011	29
+Valencia CF	Sevilla FC	0:0	0:1	20.03.2011	19:00	2010	2011	29
+Real Madrid	Sporting GijÃ³n	0:0	0:1	02.04.2011	18:00	2010	2011	30
+Getafe CF	Valencia CF	1:0	2:4	02.04.2011	18:00	2010	2011	30
+Villarreal CF	FC Barcelona	0:0	0:1	02.04.2011	22:00	2010	2011	30
+Real Sociedad	HÃ©rcules CF	0:0	1:3	03.04.2011	22:00	2010	2011	30
+Espanyol Barcelona	Racing Santander	1:0	1:2	03.04.2011	17:00	2010	2011	30
+Levante UD	MÃ¡laga CF	2:0	3:1	03.04.2011	17:00	2010	2011	30
+Deportivo La CoruÃ±a	RCD Mallorca	0:1	2:1	03.04.2011	17:00	2010	2011	30
+Sevilla FC	Real Zaragoza	1:0	3:1	03.04.2011	17:00	2010	2011	30
+CA Osasuna	AtlÃ©tico Madrid	1:1	2:3	03.04.2011	21:00	2010	2011	30
+UD AlmerÃ­a	Athletic Bilbao	1:1	1:3	04.04.2011	21:00	2010	2011	30
+Athletic Bilbao	Real Madrid	0:1	0:3	09.04.2011	18:00	2010	2011	31
+FC Barcelona	UD AlmerÃ­a	0:0	3:1	09.04.2011	18:00	2010	2011	31
+RCD Mallorca	Sevilla FC	2:1	2:2	09.04.2011	22:00	2010	2011	31
+Sporting GijÃ³n	CA Osasuna	0:0	1:0	10.04.2011	22:00	2010	2011	31
+HÃ©rcules CF	Espanyol Barcelona	0:0	0:0	10.04.2011	17:00	2010	2011	31
+Racing Santander	Levante UD	1:0	1:1	10.04.2011	17:00	2010	2011	31
+MÃ¡laga CF	Deportivo La CoruÃ±a	0:0	0:0	10.04.2011	17:00	2010	2011	31
+AtlÃ©tico Madrid	Real Sociedad	2:0	3:0	10.04.2011	17:00	2010	2011	31
+Valencia CF	Villarreal CF	1:0	5:0	10.04.2011	21:00	2010	2011	31
+Real Zaragoza	Getafe CF	2:1	2:1	11.04.2011	21:00	2010	2011	31
+Getafe CF	Sevilla FC	0:0	1:0	16.04.2011	18:00	2010	2011	32
+MÃ¡laga CF	RCD Mallorca	2:0	3:0	16.04.2011	18:00	2010	2011	32
+UD AlmerÃ­a	Valencia CF	0:0	0:3	16.04.2011	20:00	2010	2011	32
+Real Madrid	FC Barcelona	0:0	1:1	16.04.2011	20:00	2010	2011	32
+Real Sociedad	Sporting GijÃ³n	1:0	2:1	17.04.2011	17:00	2010	2011	32
+Levante UD	HÃ©rcules CF	2:0	2:1	17.04.2011	17:00	2010	2011	32
+Deportivo La CoruÃ±a	Racing Santander	1:0	2:0	17.04.2011	17:00	2010	2011	32
+CA Osasuna	Athletic Bilbao	0:0	1:2	17.04.2011	17:00	2010	2011	32
+Espanyol Barcelona	AtlÃ©tico Madrid	1:1	2:2	17.04.2011	21:00	2010	2011	32
+Villarreal CF	Real Zaragoza	0:0	1:0	18.04.2011	21:00	2010	2011	32
+Valencia CF	Real Madrid	0:4	3:6	23.04.2011	18:00	2010	2011	33
+FC Barcelona	CA Osasuna	1:0	2:0	23.04.2011	18:00	2010	2011	33
+Athletic Bilbao	Real Sociedad	2:1	2:1	23.04.2011	22:00	2010	2011	33
+RCD Mallorca	Getafe CF	1:0	2:0	24.04.2011	22:00	2010	2011	33
+Sporting GijÃ³n	Espanyol Barcelona	0:0	1:0	24.04.2011	17:00	2010	2011	33
+HÃ©rcules CF	Deportivo La CoruÃ±a	0:0	1:0	24.04.2011	17:00	2010	2011	33
+Racing Santander	MÃ¡laga CF	0:2	1:2	24.04.2011	17:00	2010	2011	33
+AtlÃ©tico Madrid	Levante UD	1:1	4:1	24.04.2011	17:00	2010	2011	33
+Sevilla FC	Villarreal CF	2:0	3:2	24.04.2011	21:00	2010	2011	33
+Real Zaragoza	UD AlmerÃ­a	0:0	1:0	25.04.2011	21:00	2010	2011	33
+Real Madrid	Real Zaragoza	0:1	2:3	30.04.2011	18:00	2010	2011	34
+Real Sociedad	FC Barcelona	0:1	2:1	30.04.2011	18:00	2010	2011	34
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:0	0:1	30.04.2011	22:00	2010	2011	34
+Levante UD	Sporting GijÃ³n	0:0	0:0	01.05.2011	22:00	2010	2011	34
+MÃ¡laga CF	HÃ©rcules CF	1:1	3:1	01.05.2011	17:00	2010	2011	34
+Racing Santander	RCD Mallorca	2:0	2:0	01.05.2011	17:00	2010	2011	34
+UD AlmerÃ­a	Sevilla FC	0:0	0:1	01.05.2011	17:00	2010	2011	34
+Villarreal CF	Getafe CF	0:1	2:1	01.05.2011	17:00	2010	2011	34
+CA Osasuna	Valencia CF	0:0	1:0	01.05.2011	21:00	2010	2011	34
+Espanyol Barcelona	Athletic Bilbao	1:1	2:1	02.05.2011	21:00	2010	2011	34
+Getafe CF	UD AlmerÃ­a	1:0	2:0	07.05.2011	18:00	2010	2011	35
+Valencia CF	Real Sociedad	3:0	3:0	07.05.2011	18:00	2010	2011	35
+Athletic Bilbao	Levante UD	1:0	3:2	07.05.2011	18:00	2010	2011	35
+Sporting GijÃ³n	Deportivo La CoruÃ±a	1:2	2:2	07.05.2011	18:00	2010	2011	35
+HÃ©rcules CF	Racing Santander	2:3	2:3	07.05.2011	18:00	2010	2011	35
+AtlÃ©tico Madrid	MÃ¡laga CF	0:2	0:3	07.05.2011	18:00	2010	2011	35
+Sevilla FC	Real Madrid	0:3	2:6	07.05.2011	22:00	2010	2011	35
+RCD Mallorca	Villarreal CF	0:0	0:0	08.05.2011	22:00	2010	2011	35
+FC Barcelona	Espanyol Barcelona	1:0	2:0	08.05.2011	19:00	2010	2011	35
+Real Zaragoza	CA Osasuna	1:0	1:3	08.05.2011	19:00	2010	2011	35
+Deportivo La CoruÃ±a	Athletic Bilbao	1:1	2:1	10.05.2011	20:00	2010	2011	36
+MÃ¡laga CF	Sporting GijÃ³n	1:0	2:0	10.05.2011	20:00	2010	2011	36
+Racing Santander	AtlÃ©tico Madrid	1:1	2:1	10.05.2011	21:00	2010	2011	36
+Real Madrid	Getafe CF	1:0	4:0	10.05.2011	21:00	2010	2011	36
+UD AlmerÃ­a	Villarreal CF	0:0	0:0	11.05.2011	20:00	2010	2011	36
+Real Sociedad	Real Zaragoza	1:0	2:1	11.05.2011	20:00	2010	2011	36
+Levante UD	FC Barcelona	1:1	1:1	11.05.2011	20:00	2010	2011	36
+Espanyol Barcelona	Valencia CF	1:2	2:2	11.05.2011	20:00	2010	2011	36
+HÃ©rcules CF	RCD Mallorca	2:0	2:2	11.05.2011	21:00	2010	2011	36
+CA Osasuna	Sevilla FC	0:2	3:2	11.05.2011	21:00	2010	2011	36
+UD AlmerÃ­a	RCD Mallorca	3:1	3:1	15.05.2011	21:00	2010	2011	37
+Villarreal CF	Real Madrid	0:2	1:3	15.05.2011	21:00	2010	2011	37
+Getafe CF	CA Osasuna	0:0	2:0	15.05.2011	21:00	2010	2011	37
+Sevilla FC	Real Sociedad	0:0	3:1	15.05.2011	21:00	2010	2011	37
+Real Zaragoza	Espanyol Barcelona	0:0	1:0	15.05.2011	21:00	2010	2011	37
+Valencia CF	Levante UD	0:0	0:0	15.05.2011	21:00	2010	2011	37
+FC Barcelona	Deportivo La CoruÃ±a	0:0	0:0	15.05.2011	21:00	2010	2011	37
+Athletic Bilbao	MÃ¡laga CF	0:1	1:1	15.05.2011	21:00	2010	2011	37
+Sporting GijÃ³n	Racing Santander	1:1	2:1	15.05.2011	21:00	2010	2011	37
+AtlÃ©tico Madrid	HÃ©rcules CF	1:0	2:1	15.05.2011	21:00	2010	2011	37
+MÃ¡laga CF	FC Barcelona	1:1	1:3	21.05.2011	18:00	2010	2011	38
+HÃ©rcules CF	Sporting GijÃ³n	0:0	0:0	21.05.2011	18:00	2010	2011	38
+Real Madrid	UD AlmerÃ­a	2:1	8:1	21.05.2011	20:00	2010	2011	38
+CA Osasuna	Villarreal CF	1:0	1:0	21.05.2011	20:00	2010	2011	38
+Real Sociedad	Getafe CF	0:1	1:1	21.05.2011	22:00	2010	2011	38
+Espanyol Barcelona	Sevilla FC	0:2	2:3	21.05.2011	22:00	2010	2011	38
+Levante UD	Real Zaragoza	0:1	1:2	21.05.2011	22:00	2010	2011	38
+RCD Mallorca	AtlÃ©tico Madrid	0:2	3:4	21.05.2011	22:00	2010	2011	38
+Deportivo La CoruÃ±a	Valencia CF	0:1	0:2	21.05.2011	22:00	2010	2011	38
+Racing Santander	Athletic Bilbao	0:2	1:2	21.05.2011	22:00	2010	2011	38

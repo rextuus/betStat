@@ -1,0 +1,456 @@
+SpVgg Unterhaching	FC Carl Zeiss Jena	0:0	1:2	10.07.1992	19:30	1992	1993	1
+Fortuna KÃ¶ln	Waldhof Mannheim	0:0	0:1	10.07.1992	20:00	1992	1993	1
+VfL OsnabrÃ¼ck	VfL Wolfsburg	1:3	3:5	10.07.1992	20:00	1992	1993	1
+Wuppertaler SV	1. FSV Mainz 05	3:0	3:1	11.07.1992	15:30	1992	1993	1
+Hertha BSC	FC St. Pauli	2:1	2:2	11.07.1992	15:30	1992	1993	1
+VfB Leipzig	MSV Duisburg	0:0	0:0	11.07.1992	15:30	1992	1993	1
+Fortuna DÃ¼sseldorf	Chemnitzer FC	0:0	1:1	11.07.1992	15:30	1992	1993	1
+VfB Oldenburg	SC Freiburg	1:1	2:2	11.07.1992	15:30	1992	1993	1
+Eintracht Braunschweig	SV Meppen	1:0	1:0	11.07.1992	15:30	1992	1993	1
+SV Darmstadt 98	FC 08 Homburg	0:1	1:1	12.07.1992	15:00	1992	1993	1
+Hansa Rostock	FC Remscheid	0:0	1:0	12.07.1992	15:00	1992	1993	1
+Stuttgarter Kickers	Hannover 96	0:2	0:2	12.07.1992	15:00	1992	1993	1
+VfL Wolfsburg	VfB Oldenburg	1:0	2:1	14.07.1992	20:00	1992	1993	2
+Waldhof Mannheim	SpVgg Unterhaching	0:0	1:0	14.07.1992	20:00	1992	1993	2
+1. FSV Mainz 05	Fortuna KÃ¶ln	0:0	0:0	14.07.1992	20:00	1992	1993	2
+MSV Duisburg	Wuppertaler SV	0:1	2:1	14.07.1992	20:00	1992	1993	2
+SV Meppen	VfB Leipzig	0:0	0:2	15.07.1992	20:00	1992	1993	2
+SC Freiburg	Stuttgarter Kickers	0:0	2:0	15.07.1992	20:00	1992	1993	2
+FC Carl Zeiss Jena	Hansa Rostock	1:0	2:1	15.07.1992	20:00	1992	1993	2
+FC Remscheid	Fortuna DÃ¼sseldorf	3:0	3:2	15.07.1992	20:00	1992	1993	2
+FC St. Pauli	SV Darmstadt 98	0:0	3:1	15.07.1992	20:00	1992	1993	2
+Chemnitzer FC	VfL OsnabrÃ¼ck	0:1	0:2	15.07.1992	20:00	1992	1993	2
+FC 08 Homburg	Eintracht Braunschweig	1:1	3:2	15.07.1992	20:00	1992	1993	2
+Hannover 96	Hertha BSC	2:1	2:2	16.07.1992	20:00	1992	1993	2
+SpVgg Unterhaching	1. FSV Mainz 05	0:0	0:1	17.07.1992	19:30	1992	1993	3
+Fortuna KÃ¶ln	MSV Duisburg	0:0	0:0	17.07.1992	20:00	1992	1993	3
+Fortuna DÃ¼sseldorf	FC Carl Zeiss Jena	1:1	2:2	18.07.1992	15:30	1992	1993	3
+Eintracht Braunschweig	FC St. Pauli	0:1	0:2	18.07.1992	15:30	1992	1993	3
+VfB Leipzig	FC 08 Homburg	0:0	2:0	18.07.1992	15:30	1992	1993	3
+Hansa Rostock	Waldhof Mannheim	1:1	1:1	18.07.1992	15:30	1992	1993	3
+VfB Oldenburg	Chemnitzer FC	1:0	1:0	18.07.1992	15:30	1992	1993	3
+Stuttgarter Kickers	VfL Wolfsburg	0:0	0:0	18.07.1992	15:30	1992	1993	3
+Wuppertaler SV	SV Meppen	0:0	0:1	18.07.1992	15:30	1992	1993	3
+SC Freiburg	Hannover 96	1:0	4:0	19.07.1992	15:00	1992	1993	3
+SV Darmstadt 98	Hertha BSC	2:0	3:0	19.07.1992	15:00	1992	1993	3
+VfL OsnabrÃ¼ck	FC Remscheid	1:1	1:1	19.07.1992	15:00	1992	1993	3
+FC St. Pauli	VfB Leipzig	0:0	0:0	21.07.1992	20:00	1992	1993	4
+1. FSV Mainz 05	Hansa Rostock	0:0	1:0	21.07.1992	20:00	1992	1993	4
+MSV Duisburg	SpVgg Unterhaching	3:0	4:0	21.07.1992	20:00	1992	1993	4
+SV Meppen	Fortuna KÃ¶ln	1:0	1:1	21.07.1992	20:00	1992	1993	4
+FC Carl Zeiss Jena	VfL OsnabrÃ¼ck	2:0	2:0	22.07.1992	20:00	1992	1993	4
+Hertha BSC	Eintracht Braunschweig	0:0	0:0	22.07.1992	20:00	1992	1993	4
+Hannover 96	SV Darmstadt 98	2:0	5:0	22.07.1992	20:00	1992	1993	4
+VfL Wolfsburg	SC Freiburg	2:1	3:3	22.07.1992	20:00	1992	1993	4
+Chemnitzer FC	Stuttgarter Kickers	0:0	2:0	22.07.1992	20:00	1992	1993	4
+FC Remscheid	VfB Oldenburg	1:0	1:1	22.07.1992	20:00	1992	1993	4
+FC 08 Homburg	Wuppertaler SV	1:0	2:1	22.07.1992	20:00	1992	1993	4
+Waldhof Mannheim	Fortuna DÃ¼sseldorf	0:0	1:0	22.07.1992	20:00	1992	1993	4
+SpVgg Unterhaching	SV Meppen	0:2	1:3	24.07.1992	19:30	1992	1993	5
+VfB Leipzig	Hertha BSC	0:0	2:0	25.07.1992	15:30	1992	1993	5
+Hannover 96	VfL Wolfsburg	1:1	3:1	25.07.1992	15:30	1992	1993	5
+Eintracht Braunschweig	SV Darmstadt 98	0:0	0:0	25.07.1992	15:30	1992	1993	5
+Wuppertaler SV	FC St. Pauli	2:0	3:0	25.07.1992	15:30	1992	1993	5
+Fortuna KÃ¶ln	FC 08 Homburg	0:0	1:0	25.07.1992	15:30	1992	1993	5
+Hansa Rostock	MSV Duisburg	2:0	2:0	25.07.1992	15:30	1992	1993	5
+Stuttgarter Kickers	FC Remscheid	1:1	1:1	25.07.1992	15:30	1992	1993	5
+SC Freiburg	Chemnitzer FC	1:0	2:0	25.07.1992	15:30	1992	1993	5
+Fortuna DÃ¼sseldorf	1. FSV Mainz 05	0:1	1:2	26.07.1992	15:00	1992	1993	5
+VfL OsnabrÃ¼ck	Waldhof Mannheim	2:0	6:0	26.07.1992	15:00	1992	1993	5
+VfB Oldenburg	FC Carl Zeiss Jena	0:2	0:2	26.07.1992	15:00	1992	1993	5
+MSV Duisburg	Fortuna DÃ¼sseldorf	2:0	3:1	31.07.1992	19:30	1992	1993	6
+SV Darmstadt 98	VfB Leipzig	0:2	2:3	31.07.1992	19:30	1992	1993	6
+FC Carl Zeiss Jena	Stuttgarter Kickers	1:1	2:1	31.07.1992	20:00	1992	1993	6
+FC St. Pauli	Fortuna KÃ¶ln	1:0	1:0	31.07.1992	20:00	1992	1993	6
+1. FSV Mainz 05	VfL OsnabrÃ¼ck	0:1	2:3	01.08.1992	15:30	1992	1993	6
+Chemnitzer FC	VfL Wolfsburg	1:0	1:0	01.08.1992	15:30	1992	1993	6
+Eintracht Braunschweig	Hannover 96	2:1	3:2	01.08.1992	15:30	1992	1993	6
+FC 08 Homburg	SpVgg Unterhaching	0:0	2:1	01.08.1992	15:30	1992	1993	6
+FC Remscheid	SC Freiburg	0:2	1:5	02.08.1992	15:00	1992	1993	6
+SV Meppen	Hansa Rostock	0:0	1:1	02.08.1992	15:00	1992	1993	6
+Waldhof Mannheim	VfB Oldenburg	1:0	3:0	02.08.1992	15:00	1992	1993	6
+Hertha BSC	Wuppertaler SV	0:0	1:0	02.08.1992	18:00	1992	1993	6
+VfB Oldenburg	1. FSV Mainz 05	0:1	0:3	07.08.1992	18:30	1992	1993	7
+Wuppertaler SV	SV Darmstadt 98	2:0	3:0	07.08.1992	19:30	1992	1993	7
+VfL OsnabrÃ¼ck	MSV Duisburg	1:0	1:1	07.08.1992	20:00	1992	1993	7
+Hansa Rostock	FC 08 Homburg	0:0	0:0	08.08.1992	15:30	1992	1993	7
+Hannover 96	Chemnitzer FC	0:1	0:1	08.08.1992	15:30	1992	1993	7
+VfB Leipzig	Eintracht Braunschweig	0:1	2:1	08.08.1992	15:30	1992	1993	7
+Fortuna DÃ¼sseldorf	SV Meppen	0:0	0:0	08.08.1992	15:30	1992	1993	7
+Stuttgarter Kickers	Waldhof Mannheim	0:0	1:0	08.08.1992	15:30	1992	1993	7
+SC Freiburg	FC Carl Zeiss Jena	1:0	3:1	08.08.1992	15:30	1992	1993	7
+VfL Wolfsburg	FC Remscheid	1:0	3:0	09.08.1992	15:00	1992	1993	7
+Fortuna KÃ¶ln	Hertha BSC	0:0	2:0	09.08.1992	15:00	1992	1993	7
+SpVgg Unterhaching	FC St. Pauli	1:1	1:1	09.08.1992	15:00	1992	1993	7
+MSV Duisburg	VfB Oldenburg	0:0	1:1	11.08.1992	19:30	1992	1993	8
+SV Meppen	VfL OsnabrÃ¼ck	1:0	1:0	12.08.1992	18:30	1992	1993	8
+Waldhof Mannheim	SC Freiburg	1:1	1:2	12.08.1992	18:30	1992	1993	8
+FC Remscheid	Chemnitzer FC	0:0	1:0	12.08.1992	18:30	1992	1993	8
+1. FSV Mainz 05	Stuttgarter Kickers	2:0	2:1	12.08.1992	18:30	1992	1993	8
+SV Darmstadt 98	Fortuna KÃ¶ln	0:1	1:4	12.08.1992	19:30	1992	1993	8
+FC Carl Zeiss Jena	VfL Wolfsburg	1:0	1:2	12.08.1992	20:00	1992	1993	8
+FC 08 Homburg	Fortuna DÃ¼sseldorf	2:0	5:0	12.08.1992	20:00	1992	1993	8
+FC St. Pauli	Hansa Rostock	0:0	0:2	12.08.1992	20:00	1992	1993	8
+Eintracht Braunschweig	Wuppertaler SV	1:2	3:2	12.08.1992	20:00	1992	1993	8
+VfB Leipzig	Hannover 96	0:0	3:0	08.09.1992	20:00	1992	1993	8
+Hertha BSC	SpVgg Unterhaching	2:0	4:1	10.09.1992	20:00	1992	1993	8
+Fortuna KÃ¶ln	Eintracht Braunschweig	2:0	2:1	15.08.1992	15:30	1992	1993	9
+Stuttgarter Kickers	MSV Duisburg	0:1	0:2	15.08.1992	15:30	1992	1993	9
+VfL Wolfsburg	Waldhof Mannheim	1:1	2:1	15.08.1992	15:30	1992	1993	9
+Hannover 96	FC Remscheid	0:1	0:2	15.08.1992	15:30	1992	1993	9
+SC Freiburg	1. FSV Mainz 05	0:0	0:0	15.08.1992	15:30	1992	1993	9
+Wuppertaler SV	VfB Leipzig	0:0	1:0	15.08.1992	15:30	1992	1993	9
+Hansa Rostock	Hertha BSC	2:0	2:1	15.08.1992	15:30	1992	1993	9
+VfB Oldenburg	SV Meppen	1:0	4:1	15.08.1992	15:30	1992	1993	9
+Chemnitzer FC	FC Carl Zeiss Jena	0:0	1:0	15.08.1992	15:30	1992	1993	9
+SpVgg Unterhaching	SV Darmstadt 98	3:1	4:1	16.08.1992	15:00	1992	1993	9
+Fortuna DÃ¼sseldorf	FC St. Pauli	2:0	2:0	16.08.1992	15:00	1992	1993	9
+VfL OsnabrÃ¼ck	FC 08 Homburg	1:1	2:1	16.08.1992	15:00	1992	1993	9
+SV Meppen	Stuttgarter Kickers	0:0	1:0	21.08.1992	18:30	1992	1993	10
+Wuppertaler SV	Hannover 96	0:0	0:0	21.08.1992	19:30	1992	1993	10
+FC 08 Homburg	VfB Oldenburg	1:1	3:4	21.08.1992	20:00	1992	1993	10
+SV Darmstadt 98	Hansa Rostock	0:0	0:0	22.08.1992	15:30	1992	1993	10
+Waldhof Mannheim	Chemnitzer FC	2:0	2:1	22.08.1992	15:30	1992	1993	10
+1. FSV Mainz 05	VfL Wolfsburg	1:0	2:1	22.08.1992	15:30	1992	1993	10
+FC St. Pauli	VfL OsnabrÃ¼ck	1:0	3:0	22.08.1992	15:30	1992	1993	10
+Eintracht Braunschweig	SpVgg Unterhaching	2:1	4:2	22.08.1992	15:30	1992	1993	10
+VfB Leipzig	Fortuna KÃ¶ln	0:0	0:1	22.08.1992	15:30	1992	1993	10
+FC Carl Zeiss Jena	FC Remscheid	2:0	4:0	23.08.1992	15:00	1992	1993	10
+MSV Duisburg	SC Freiburg	0:0	1:0	23.08.1992	15:00	1992	1993	10
+Hertha BSC	Fortuna DÃ¼sseldorf	0:0	0:0	23.08.1992	15:00	1992	1993	10
+Chemnitzer FC	1. FSV Mainz 05	1:1	2:1	25.08.1992	18:00	1992	1993	11
+SpVgg Unterhaching	VfB Leipzig	1:1	4:1	25.08.1992	19:30	1992	1993	11
+Fortuna KÃ¶ln	Wuppertaler SV	1:0	1:0	25.08.1992	20:00	1992	1993	11
+Hansa Rostock	Eintracht Braunschweig	2:0	4:0	25.08.1992	20:00	1992	1993	11
+FC Remscheid	Waldhof Mannheim	1:2	2:2	26.08.1992	18:30	1992	1993	11
+VfL Wolfsburg	MSV Duisburg	0:1	1:3	26.08.1992	18:30	1992	1993	11
+Stuttgarter Kickers	FC 08 Homburg	0:1	1:1	26.08.1992	18:30	1992	1993	11
+SC Freiburg	SV Meppen	1:0	1:1	26.08.1992	18:30	1992	1993	11
+VfB Oldenburg	FC St. Pauli	0:0	2:0	26.08.1992	18:30	1992	1993	11
+Hannover 96	FC Carl Zeiss Jena	0:0	3:0	26.08.1992	20:00	1992	1993	11
+VfL OsnabrÃ¼ck	Hertha BSC	1:0	1:1	26.08.1992	20:00	1992	1993	11
+Fortuna DÃ¼sseldorf	SV Darmstadt 98	0:0	4:1	26.08.1992	20:00	1992	1993	11
+VfB Leipzig	Hansa Rostock	1:1	1:2	28.08.1992	19:30	1992	1993	12
+Wuppertaler SV	SpVgg Unterhaching	0:0	0:0	28.08.1992	19:30	1992	1993	12
+SV Darmstadt 98	VfL OsnabrÃ¼ck	1:1	1:1	29.08.1992	15:30	1992	1993	12
+Waldhof Mannheim	FC Carl Zeiss Jena	1:0	3:1	29.08.1992	15:30	1992	1993	12
+1. FSV Mainz 05	FC Remscheid	0:0	1:0	29.08.1992	15:30	1992	1993	12
+Hertha BSC	VfB Oldenburg	2:2	4:2	29.08.1992	15:30	1992	1993	12
+Eintracht Braunschweig	Fortuna DÃ¼sseldorf	1:0	2:0	29.08.1992	15:30	1992	1993	12
+Fortuna KÃ¶ln	Hannover 96	2:0	5:0	29.08.1992	15:30	1992	1993	12
+MSV Duisburg	Chemnitzer FC	0:0	1:0	29.08.1992	15:30	1992	1993	12
+SV Meppen	VfL Wolfsburg	1:0	1:0	30.08.1992	15:00	1992	1993	12
+FC 08 Homburg	SC Freiburg	1:1	1:5	30.08.1992	15:00	1992	1993	12
+FC St. Pauli	Stuttgarter Kickers	2:2	2:2	30.08.1992	15:00	1992	1993	12
+VfB Oldenburg	SV Darmstadt 98	0:0	1:0	01.09.1992	18:00	1992	1993	13
+SpVgg Unterhaching	Fortuna KÃ¶ln	0:0	1:0	01.09.1992	19:30	1992	1993	13
+Hannover 96	Waldhof Mannheim	1:0	3:1	01.09.1992	20:00	1992	1993	13
+VfL OsnabrÃ¼ck	Eintracht Braunschweig	0:0	2:0	01.09.1992	20:00	1992	1993	13
+Stuttgarter Kickers	Hertha BSC	1:1	1:1	02.09.1992	18:00	1992	1993	13
+SC Freiburg	FC St. Pauli	2:0	2:1	02.09.1992	18:00	1992	1993	13
+VfL Wolfsburg	FC 08 Homburg	0:1	0:2	02.09.1992	18:00	1992	1993	13
+Chemnitzer FC	SV Meppen	0:0	0:0	02.09.1992	18:00	1992	1993	13
+FC Remscheid	MSV Duisburg	2:1	2:3	02.09.1992	18:00	1992	1993	13
+FC Carl Zeiss Jena	1. FSV Mainz 05	1:1	3:1	02.09.1992	19:30	1992	1993	13
+Fortuna DÃ¼sseldorf	VfB Leipzig	0:1	0:1	02.09.1992	20:00	1992	1993	13
+Hansa Rostock	Wuppertaler SV	1:0	1:1	02.09.1992	20:00	1992	1993	13
+SpVgg Unterhaching	Hannover 96	0:2	0:2	04.09.1992	19:30	1992	1993	14
+Eintracht Braunschweig	VfB Oldenburg	0:0	2:3	04.09.1992	20:00	1992	1993	14
+SV Darmstadt 98	Stuttgarter Kickers	0:1	0:1	05.09.1992	15:30	1992	1993	14
+MSV Duisburg	FC Carl Zeiss Jena	0:1	1:1	05.09.1992	15:30	1992	1993	14
+VfB Leipzig	VfL OsnabrÃ¼ck	0:0	0:0	05.09.1992	15:30	1992	1993	14
+Fortuna KÃ¶ln	Hansa Rostock	0:0	0:0	05.09.1992	15:30	1992	1993	14
+1. FSV Mainz 05	Waldhof Mannheim	0:0	1:2	05.09.1992	15:30	1992	1993	14
+FC 08 Homburg	Chemnitzer FC	2:1	4:2	06.09.1992	15:00	1992	1993	14
+FC St. Pauli	VfL Wolfsburg	0:0	0:0	06.09.1992	15:00	1992	1993	14
+Hertha BSC	SC Freiburg	0:1	1:2	06.09.1992	15:00	1992	1993	14
+SV Meppen	FC Remscheid	0:0	0:0	06.09.1992	18:00	1992	1993	14
+Wuppertaler SV	Fortuna DÃ¼sseldorf	1:0	2:0	08.09.1992	19:30	1992	1993	14
+FC Carl Zeiss Jena	SV Meppen	0:0	0:1	08.09.1992	19:30	1992	1993	15
+VfL OsnabrÃ¼ck	Wuppertaler SV	1:0	1:0	18.09.1992	20:00	1992	1993	15
+Fortuna DÃ¼sseldorf	Fortuna KÃ¶ln	0:0	0:0	18.09.1992	20:00	1992	1993	15
+VfL Wolfsburg	Hertha BSC	0:1	2:2	19.09.1992	15:30	1992	1993	15
+Hannover 96	1. FSV Mainz 05	0:3	1:3	19.09.1992	15:30	1992	1993	15
+SC Freiburg	SV Darmstadt 98	1:1	1:1	19.09.1992	15:30	1992	1993	15
+Waldhof Mannheim	MSV Duisburg	1:0	2:1	19.09.1992	15:30	1992	1993	15
+Stuttgarter Kickers	Eintracht Braunschweig	2:0	2:1	19.09.1992	15:30	1992	1993	15
+Chemnitzer FC	FC St. Pauli	1:1	3:1	19.09.1992	15:30	1992	1993	15
+VfB Oldenburg	VfB Leipzig	1:1	3:3	20.09.1992	15:00	1992	1993	15
+FC Remscheid	FC 08 Homburg	0:0	0:0	20.09.1992	15:00	1992	1993	15
+Hansa Rostock	SpVgg Unterhaching	2:1	4:1	20.09.1992	15:00	1992	1993	15
+VfB Leipzig	Stuttgarter Kickers	2:1	3:2	25.09.1992	19:30	1992	1993	16
+MSV Duisburg	1. FSV Mainz 05	2:0	2:1	25.09.1992	19:30	1992	1993	16
+FC St. Pauli	FC Remscheid	0:1	4:1	25.09.1992	20:00	1992	1993	16
+SpVgg Unterhaching	Fortuna DÃ¼sseldorf	1:0	2:0	26.09.1992	15:30	1992	1993	16
+Wuppertaler SV	VfB Oldenburg	1:0	2:0	26.09.1992	15:30	1992	1993	16
+FC 08 Homburg	FC Carl Zeiss Jena	0:0	1:0	26.09.1992	15:30	1992	1993	16
+SV Darmstadt 98	VfL Wolfsburg	3:0	4:0	26.09.1992	15:30	1992	1993	16
+Fortuna KÃ¶ln	VfL OsnabrÃ¼ck	0:0	1:0	26.09.1992	15:30	1992	1993	16
+Hansa Rostock	Hannover 96	1:2	2:2	26.09.1992	15:30	1992	1993	16
+Eintracht Braunschweig	SC Freiburg	1:1	1:3	26.09.1992	15:30	1992	1993	16
+SV Meppen	Waldhof Mannheim	0:0	0:0	27.09.1992	15:00	1992	1993	16
+Hertha BSC	Chemnitzer FC	1:0	1:2	27.09.1992	15:00	1992	1993	16
+Chemnitzer FC	SV Darmstadt 98	0:1	0:1	02.10.1992	18:00	1992	1993	17
+FC Carl Zeiss Jena	FC St. Pauli	0:0	1:0	02.10.1992	19:30	1992	1993	17
+VfL OsnabrÃ¼ck	SpVgg Unterhaching	1:1	1:1	02.10.1992	20:00	1992	1993	17
+VfB Oldenburg	Fortuna KÃ¶ln	0:0	0:1	03.10.1992	12:00	1992	1993	17
+SC Freiburg	VfB Leipzig	1:0	1:0	03.10.1992	15:00	1992	1993	17
+Stuttgarter Kickers	Wuppertaler SV	1:1	4:1	03.10.1992	15:00	1992	1993	17
+Fortuna DÃ¼sseldorf	Hansa Rostock	0:0	1:1	03.10.1992	15:30	1992	1993	17
+VfL Wolfsburg	Eintracht Braunschweig	1:0	4:1	04.10.1992	15:00	1992	1993	17
+Waldhof Mannheim	FC 08 Homburg	1:0	2:0	04.10.1992	15:00	1992	1993	17
+1. FSV Mainz 05	SV Meppen	2:0	3:0	04.10.1992	15:00	1992	1993	17
+FC Remscheid	Hertha BSC	0:0	2:1	04.10.1992	15:00	1992	1993	17
+Hannover 96	MSV Duisburg	1:0	2:1	07.10.1992	20:00	1992	1993	17
+Wuppertaler SV	SC Freiburg	1:1	4:1	16.10.1992	19:30	1992	1993	18
+FC 08 Homburg	1. FSV Mainz 05	0:0	0:0	16.10.1992	20:00	1992	1993	18
+VfB Leipzig	VfL Wolfsburg	1:1	3:2	16.10.1992	20:00	1992	1993	18
+SV Meppen	MSV Duisburg	0:0	1:0	17.10.1992	15:00	1992	1993	18
+Eintracht Braunschweig	Chemnitzer FC	2:2	4:4	17.10.1992	15:30	1992	1993	18
+Hertha BSC	FC Carl Zeiss Jena	2:1	2:3	17.10.1992	15:30	1992	1993	18
+SV Darmstadt 98	FC Remscheid	0:0	2:2	17.10.1992	15:30	1992	1993	18
+SpVgg Unterhaching	VfB Oldenburg	1:0	3:0	17.10.1992	15:30	1992	1993	18
+Hansa Rostock	VfL OsnabrÃ¼ck	1:0	2:0	17.10.1992	15:30	1992	1993	18
+Fortuna KÃ¶ln	Stuttgarter Kickers	1:0	3:0	17.10.1992	15:30	1992	1993	18
+Fortuna DÃ¼sseldorf	Hannover 96	0:1	0:1	18.10.1992	15:00	1992	1993	18
+FC St. Pauli	Waldhof Mannheim	0:0	0:0	18.10.1992	15:00	1992	1993	18
+FC Carl Zeiss Jena	SV Darmstadt 98	0:0	0:0	23.10.1992	19:30	1992	1993	19
+MSV Duisburg	FC 08 Homburg	2:0	3:0	23.10.1992	19:30	1992	1993	19
+VfL OsnabrÃ¼ck	Fortuna DÃ¼sseldorf	2:1	4:1	23.10.1992	20:00	1992	1993	19
+FC Remscheid	Eintracht Braunschweig	1:2	3:4	24.10.1992	15:00	1992	1993	19
+Waldhof Mannheim	Hertha BSC	2:1	2:2	24.10.1992	15:00	1992	1993	19
+VfB Oldenburg	Hansa Rostock	0:1	2:1	24.10.1992	15:00	1992	1993	19
+SC Freiburg	Fortuna KÃ¶ln	1:0	3:1	24.10.1992	15:00	1992	1993	19
+Hannover 96	SV Meppen	1:2	2:2	24.10.1992	15:30	1992	1993	19
+Chemnitzer FC	VfB Leipzig	0:1	2:2	24.10.1992	15:30	1992	1993	19
+VfL Wolfsburg	Wuppertaler SV	2:0	2:2	25.10.1992	15:00	1992	1993	19
+1. FSV Mainz 05	FC St. Pauli	1:0	2:2	25.10.1992	15:00	1992	1993	19
+Stuttgarter Kickers	SpVgg Unterhaching	0:1	3:1	25.10.1992	15:00	1992	1993	19
+VfL OsnabrÃ¼ck	Hannover 96	1:3	1:3	30.10.1992	20:00	1992	1993	20
+FC 08 Homburg	SV Meppen	0:1	1:1	30.10.1992	20:00	1992	1993	20
+Fortuna KÃ¶ln	VfL Wolfsburg	3:0	5:1	30.10.1992	20:00	1992	1993	20
+VfB Leipzig	FC Remscheid	2:0	2:1	31.10.1992	15:30	1992	1993	20
+Hansa Rostock	Stuttgarter Kickers	1:1	3:2	31.10.1992	15:30	1992	1993	20
+FC St. Pauli	MSV Duisburg	0:0	0:1	31.10.1992	15:30	1992	1993	20
+Hertha BSC	1. FSV Mainz 05	1:0	3:0	31.10.1992	15:30	1992	1993	20
+SV Darmstadt 98	Waldhof Mannheim	1:0	1:1	31.10.1992	15:30	1992	1993	20
+SpVgg Unterhaching	SC Freiburg	0:0	2:2	31.10.1992	15:30	1992	1993	20
+Fortuna DÃ¼sseldorf	VfB Oldenburg	1:0	3:0	31.10.1992	15:30	1992	1993	20
+Wuppertaler SV	Chemnitzer FC	1:0	2:0	31.10.1992	15:30	1992	1993	20
+Eintracht Braunschweig	FC Carl Zeiss Jena	0:2	3:3	01.11.1992	15:00	1992	1993	20
+FC Carl Zeiss Jena	VfB Leipzig	0:1	0:1	13.11.1992	19:30	1992	1993	21
+MSV Duisburg	Hertha BSC	1:1	2:1	13.11.1992	19:30	1992	1993	21
+SC Freiburg	Hansa Rostock	1:1	2:1	14.11.1992	14:00	1992	1993	21
+1. FSV Mainz 05	SV Darmstadt 98	0:1	0:1	14.11.1992	14:30	1992	1993	21
+VfL Wolfsburg	SpVgg Unterhaching	0:1	4:1	14.11.1992	14:30	1992	1993	21
+Waldhof Mannheim	Eintracht Braunschweig	0:0	3:1	14.11.1992	14:30	1992	1993	21
+SV Meppen	FC St. Pauli	0:0	2:0	14.11.1992	14:30	1992	1993	21
+Stuttgarter Kickers	Fortuna DÃ¼sseldorf	0:0	2:0	14.11.1992	14:30	1992	1993	21
+FC Remscheid	Wuppertaler SV	0:1	1:1	14.11.1992	14:30	1992	1993	21
+VfB Oldenburg	VfL OsnabrÃ¼ck	0:0	2:3	15.11.1992	14:30	1992	1993	21
+Chemnitzer FC	Fortuna KÃ¶ln	0:0	1:0	15.11.1992	15:00	1992	1993	21
+Hannover 96	FC 08 Homburg	0:0	1:1	15.11.1992	15:00	1992	1993	21
+SpVgg Unterhaching	Chemnitzer FC	0:0	0:2	20.11.1992	19:30	1992	1993	22
+Fortuna DÃ¼sseldorf	SC Freiburg	1:2	1:3	20.11.1992	20:00	1992	1993	22
+SV Darmstadt 98	MSV Duisburg	0:0	0:0	21.11.1992	15:30	1992	1993	22
+FC St. Pauli	FC 08 Homburg	0:0	0:0	21.11.1992	15:30	1992	1993	22
+Hertha BSC	SV Meppen	2:0	4:0	21.11.1992	15:30	1992	1993	22
+Eintracht Braunschweig	1. FSV Mainz 05	2:0	6:0	21.11.1992	15:30	1992	1993	22
+Fortuna KÃ¶ln	FC Remscheid	1:0	3:1	21.11.1992	15:30	1992	1993	22
+Hansa Rostock	VfL Wolfsburg	1:0	1:0	21.11.1992	15:30	1992	1993	22
+VfB Oldenburg	Hannover 96	0:1	1:1	22.11.1992	14:15	1992	1993	22
+VfL OsnabrÃ¼ck	Stuttgarter Kickers	1:1	1:1	22.11.1992	15:00	1992	1993	22
+VfB Leipzig	Waldhof Mannheim	0:0	3:0	22.11.1992	15:00	1992	1993	22
+Wuppertaler SV	FC Carl Zeiss Jena	2:1	2:2	22.11.1992	18:00	1992	1993	22
+MSV Duisburg	Eintracht Braunschweig	1:0	2:2	27.11.1992	19:30	1992	1993	23
+FC Carl Zeiss Jena	Fortuna KÃ¶ln	1:2	1:2	27.11.1992	19:30	1992	1993	23
+SC Freiburg	VfL OsnabrÃ¼ck	1:0	2:0	28.11.1992	14:15	1992	1993	23
+Stuttgarter Kickers	VfB Oldenburg	0:1	3:1	28.11.1992	14:15	1992	1993	23
+FC Remscheid	SpVgg Unterhaching	0:1	0:3	28.11.1992	14:15	1992	1993	23
+Waldhof Mannheim	Wuppertaler SV	0:1	1:2	28.11.1992	14:15	1992	1993	23
+VfL Wolfsburg	Fortuna DÃ¼sseldorf	1:0	1:1	28.11.1992	14:15	1992	1993	23
+Hannover 96	FC St. Pauli	1:0	1:1	28.11.1992	15:30	1992	1993	23
+Chemnitzer FC	Hansa Rostock	0:0	1:0	28.11.1992	15:30	1992	1993	23
+1. FSV Mainz 05	VfB Leipzig	0:0	1:3	29.11.1992	14:15	1992	1993	23
+SV Meppen	SV Darmstadt 98	1:0	1:1	29.11.1992	14:15	1992	1993	23
+FC 08 Homburg	Hertha BSC	0:1	0:3	08.12.1992	18:00	1992	1993	23
+FC 08 Homburg	SV Darmstadt 98	1:1	2:3	04.12.1992	20:00	1992	1993	24
+Hannover 96	Stuttgarter Kickers	1:1	1:1	04.12.1992	20:00	1992	1993	24
+SC Freiburg	VfB Oldenburg	3:0	6:1	05.12.1992	14:00	1992	1993	24
+VfL Wolfsburg	VfL OsnabrÃ¼ck	1:0	2:0	05.12.1992	14:00	1992	1993	24
+SV Meppen	Eintracht Braunschweig	0:0	1:0	05.12.1992	14:00	1992	1993	24
+FC St. Pauli	Hertha BSC	0:1	1:1	05.12.1992	15:30	1992	1993	24
+Chemnitzer FC	Fortuna DÃ¼sseldorf	1:2	1:2	05.12.1992	15:30	1992	1993	24
+1. FSV Mainz 05	Wuppertaler SV	0:0	0:1	06.12.1992	14:00	1992	1993	24
+FC Remscheid	Hansa Rostock	1:1	3:1	06.12.1992	14:00	1992	1993	24
+Waldhof Mannheim	Fortuna KÃ¶ln	0:0	0:0	06.12.1992	14:00	1992	1993	24
+MSV Duisburg	VfB Leipzig	0:0	1:1	06.12.1992	15:00	1992	1993	24
+FC Carl Zeiss Jena	SpVgg Unterhaching	0:1	1:1	06.12.1992	15:00	1992	1993	24
+Fortuna KÃ¶ln	1. FSV Mainz 05	0:0	0:2	11.12.1992	19:00	1992	1993	25
+SV Darmstadt 98	FC St. Pauli	1:0	1:1	11.12.1992	19:30	1992	1993	25
+Eintracht Braunschweig	FC 08 Homburg	0:0	2:0	11.12.1992	20:00	1992	1993	25
+Hertha BSC	Hannover 96	0:0	3:0	12.12.1992	15:30	1992	1993	25
+VfB Leipzig	SV Meppen	1:0	1:0	12.12.1992	15:30	1992	1993	25
+Fortuna DÃ¼sseldorf	FC Remscheid	0:0	1:1	12.12.1992	15:30	1992	1993	25
+Hansa Rostock	FC Carl Zeiss Jena	0:1	0:1	12.12.1992	15:30	1992	1993	25
+Wuppertaler SV	MSV Duisburg	0:0	1:1	12.12.1992	15:30	1992	1993	25
+Stuttgarter Kickers	SC Freiburg	2:1	3:1	13.12.1992	14:00	1992	1993	25
+VfB Oldenburg	VfL Wolfsburg	0:0	4:1	13.12.1992	14:00	1992	1993	25
+VfL OsnabrÃ¼ck	Chemnitzer FC	2:1	3:3	13.12.1992	15:00	1992	1993	25
+SpVgg Unterhaching	Waldhof Mannheim	0:1	2:2	13.12.1992	15:00	1992	1993	25
+Waldhof Mannheim	Hansa Rostock	1:0	3:0	06.02.1993	14:30	1992	1993	26
+VfL Wolfsburg	Stuttgarter Kickers	1:2	1:2	06.02.1993	14:30	1992	1993	26
+1. FSV Mainz 05	SpVgg Unterhaching	0:0	0:0	06.02.1993	14:30	1992	1993	26
+Hannover 96	SC Freiburg	0:1	0:2	06.02.1993	15:30	1992	1993	26
+Hertha BSC	SV Darmstadt 98	0:0	1:0	06.02.1993	15:30	1992	1993	26
+FC St. Pauli	Eintracht Braunschweig	0:1	1:1	06.02.1993	15:30	1992	1993	26
+Chemnitzer FC	VfB Oldenburg	1:0	4:0	06.02.1993	15:30	1992	1993	26
+MSV Duisburg	Fortuna KÃ¶ln	0:0	2:0	06.02.1993	15:30	1992	1993	26
+FC 08 Homburg	VfB Leipzig	0:0	0:0	06.02.1993	15:30	1992	1993	26
+FC Remscheid	VfL OsnabrÃ¼ck	0:0	1:0	07.02.1993	14:30	1992	1993	26
+SV Meppen	Wuppertaler SV	0:0	1:1	07.02.1993	14:30	1992	1993	26
+FC Carl Zeiss Jena	Fortuna DÃ¼sseldorf	0:0	1:0	23.02.1993	18:00	1992	1993	26
+Stuttgarter Kickers	Chemnitzer FC	1:1	1:1	13.02.1993	14:30	1992	1993	27
+VfB Oldenburg	FC Remscheid	0:1	2:1	13.02.1993	14:30	1992	1993	27
+SC Freiburg	VfL Wolfsburg	1:1	1:3	13.02.1993	15:00	1992	1993	27
+Fortuna DÃ¼sseldorf	Waldhof Mannheim	2:1	2:3	13.02.1993	15:30	1992	1993	27
+SpVgg Unterhaching	MSV Duisburg	2:0	2:1	13.02.1993	15:30	1992	1993	27
+Fortuna KÃ¶ln	SV Meppen	0:1	1:1	13.02.1993	15:30	1992	1993	27
+VfB Leipzig	FC St. Pauli	0:0	0:0	13.02.1993	15:30	1992	1993	27
+Eintracht Braunschweig	Hertha BSC	1:1	1:3	13.02.1993	15:30	1992	1993	27
+SV Darmstadt 98	Hannover 96	0:0	0:0	14.02.1993	15:00	1992	1993	27
+Hansa Rostock	1. FSV Mainz 05	2:1	4:1	14.02.1993	15:00	1992	1993	27
+VfL OsnabrÃ¼ck	FC Carl Zeiss Jena	0:2	1:3	14.02.1993	15:00	1992	1993	27
+Wuppertaler SV	FC 08 Homburg	0:0	0:1	23.02.1993	19:30	1992	1993	27
+FC St. Pauli	Wuppertaler SV	1:0	2:0	19.02.1993	20:00	1992	1993	28
+FC 08 Homburg	Fortuna KÃ¶ln	2:0	2:0	19.02.1993	20:00	1992	1993	28
+1. FSV Mainz 05	Fortuna DÃ¼sseldorf	0:0	0:0	20.02.1993	15:00	1992	1993	28
+Waldhof Mannheim	VfL OsnabrÃ¼ck	2:0	3:0	20.02.1993	15:00	1992	1993	28
+VfL Wolfsburg	Hannover 96	1:0	3:1	20.02.1993	15:00	1992	1993	28
+FC Remscheid	Stuttgarter Kickers	0:0	0:0	20.02.1993	15:00	1992	1993	28
+Hertha BSC	VfB Leipzig	2:0	4:1	20.02.1993	15:30	1992	1993	28
+FC Carl Zeiss Jena	VfB Oldenburg	1:1	6:2	20.02.1993	15:30	1992	1993	28
+SV Darmstadt 98	Eintracht Braunschweig	1:0	1:1	20.02.1993	15:30	1992	1993	28
+MSV Duisburg	Hansa Rostock	1:0	2:1	20.02.1993	15:30	1992	1993	28
+Chemnitzer FC	SC Freiburg	1:1	2:2	20.02.1993	15:30	1992	1993	28
+SV Meppen	SpVgg Unterhaching	0:1	0:1	21.02.1993	15:00	1992	1993	28
+Fortuna KÃ¶ln	FC St. Pauli	1:0	2:2	26.02.1993	19:00	1992	1993	29
+VfB Oldenburg	Waldhof Mannheim	0:0	2:2	27.02.1993	15:00	1992	1993	29
+SC Freiburg	FC Remscheid	0:0	1:1	27.02.1993	15:00	1992	1993	29
+Stuttgarter Kickers	FC Carl Zeiss Jena	0:1	1:1	27.02.1993	15:00	1992	1993	29
+Hansa Rostock	SV Meppen	1:1	2:1	27.02.1993	15:30	1992	1993	29
+Wuppertaler SV	Hertha BSC	1:0	1:2	27.02.1993	15:30	1992	1993	29
+Fortuna DÃ¼sseldorf	MSV Duisburg	0:0	1:0	27.02.1993	15:30	1992	1993	29
+VfB Leipzig	SV Darmstadt 98	0:0	2:0	27.02.1993	15:30	1992	1993	29
+VfL Wolfsburg	Chemnitzer FC	0:0	0:0	28.02.1993	15:00	1992	1993	29
+Hannover 96	Eintracht Braunschweig	0:0	0:1	28.02.1993	15:00	1992	1993	29
+VfL OsnabrÃ¼ck	1. FSV Mainz 05	0:0	1:1	28.02.1993	15:00	1992	1993	29
+SpVgg Unterhaching	FC 08 Homburg	0:0	1:0	23.03.1993	19:30	1992	1993	29
+MSV Duisburg	VfL OsnabrÃ¼ck	0:0	2:0	05.03.1993	19:30	1992	1993	30
+FC 08 Homburg	Hansa Rostock	0:0	0:0	05.03.1993	20:00	1992	1993	30
+Hertha BSC	Fortuna KÃ¶ln	1:0	2:1	06.03.1993	15:30	1992	1993	30
+FC St. Pauli	SpVgg Unterhaching	3:1	3:1	06.03.1993	15:30	1992	1993	30
+Chemnitzer FC	Hannover 96	1:1	2:3	06.03.1993	15:30	1992	1993	30
+Waldhof Mannheim	Stuttgarter Kickers	0:0	3:0	06.03.1993	15:30	1992	1993	30
+SV Darmstadt 98	Wuppertaler SV	0:0	0:0	06.03.1993	15:30	1992	1993	30
+1. FSV Mainz 05	VfB Oldenburg	0:0	3:0	06.03.1993	15:30	1992	1993	30
+Eintracht Braunschweig	VfB Leipzig	1:0	1:1	06.03.1993	15:30	1992	1993	30
+SV Meppen	Fortuna DÃ¼sseldorf	0:0	0:2	07.03.1993	15:00	1992	1993	30
+FC Remscheid	VfL Wolfsburg	1:1	2:2	07.03.1993	15:00	1992	1993	30
+FC Carl Zeiss Jena	SC Freiburg	1:1	1:1	10.03.1993	18:00	1992	1993	30
+Fortuna KÃ¶ln	SV Darmstadt 98	1:0	4:0	12.03.1993	19:00	1992	1993	31
+SC Freiburg	Waldhof Mannheim	1:1	1:2	13.03.1993	15:30	1992	1993	31
+Hannover 96	VfB Leipzig	1:1	1:1	13.03.1993	15:30	1992	1993	31
+Chemnitzer FC	FC Remscheid	1:0	2:0	13.03.1993	15:30	1992	1993	31
+VfL Wolfsburg	FC Carl Zeiss Jena	1:1	2:1	13.03.1993	15:30	1992	1993	31
+Stuttgarter Kickers	1. FSV Mainz 05	0:0	1:2	13.03.1993	15:30	1992	1993	31
+Fortuna DÃ¼sseldorf	FC 08 Homburg	0:0	0:1	13.03.1993	15:30	1992	1993	31
+Hansa Rostock	FC St. Pauli	1:0	2:0	13.03.1993	15:30	1992	1993	31
+Wuppertaler SV	Eintracht Braunschweig	0:0	0:1	13.03.1993	15:30	1992	1993	31
+VfL OsnabrÃ¼ck	SV Meppen	3:0	3:0	14.03.1993	15:00	1992	1993	31
+VfB Oldenburg	MSV Duisburg	0:1	0:1	14.03.1993	15:00	1992	1993	31
+SpVgg Unterhaching	Hertha BSC	2:0	2:1	14.03.1993	15:00	1992	1993	31
+Eintracht Braunschweig	Fortuna KÃ¶ln	1:0	3:0	19.03.1993	19:30	1992	1993	32
+FC St. Pauli	Fortuna DÃ¼sseldorf	0:0	2:1	19.03.1993	20:00	1992	1993	32
+FC Carl Zeiss Jena	Chemnitzer FC	0:0	0:0	20.03.1993	15:30	1992	1993	32
+Waldhof Mannheim	VfL Wolfsburg	1:1	2:1	20.03.1993	15:30	1992	1993	32
+SV Darmstadt 98	SpVgg Unterhaching	1:0	1:3	20.03.1993	15:30	1992	1993	32
+FC Remscheid	Hannover 96	0:2	0:3	20.03.1993	15:30	1992	1993	32
+1. FSV Mainz 05	SC Freiburg	0:1	0:2	20.03.1993	15:30	1992	1993	32
+Hertha BSC	Hansa Rostock	2:1	5:1	20.03.1993	15:30	1992	1993	32
+FC 08 Homburg	VfL OsnabrÃ¼ck	2:0	3:1	20.03.1993	15:30	1992	1993	32
+MSV Duisburg	Stuttgarter Kickers	1:0	1:1	21.03.1993	15:00	1992	1993	32
+SV Meppen	VfB Oldenburg	0:0	2:0	21.03.1993	15:00	1992	1993	32
+VfB Leipzig	Wuppertaler SV	2:0	3:0	21.03.1993	15:00	1992	1993	32
+Chemnitzer FC	Waldhof Mannheim	0:1	1:1	26.03.1993	18:00	1992	1993	33
+Fortuna KÃ¶ln	VfB Leipzig	0:0	0:1	26.03.1993	19:00	1992	1993	33
+Hannover 96	Wuppertaler SV	1:1	2:1	26.03.1993	20:00	1992	1993	33
+FC Remscheid	FC Carl Zeiss Jena	0:0	2:0	27.03.1993	15:30	1992	1993	33
+Fortuna DÃ¼sseldorf	Hertha BSC	0:1	1:3	27.03.1993	15:30	1992	1993	33
+VfB Oldenburg	FC 08 Homburg	1:0	2:2	27.03.1993	15:30	1992	1993	33
+Hansa Rostock	SV Darmstadt 98	1:0	2:0	27.03.1993	15:30	1992	1993	33
+Stuttgarter Kickers	SV Meppen	0:0	0:0	27.03.1993	15:30	1992	1993	33
+VfL OsnabrÃ¼ck	FC St. Pauli	1:1	2:2	28.03.1993	15:00	1992	1993	33
+SC Freiburg	MSV Duisburg	1:0	3:1	28.03.1993	15:00	1992	1993	33
+SpVgg Unterhaching	Eintracht Braunschweig	0:0	0:0	28.03.1993	15:00	1992	1993	33
+VfL Wolfsburg	1. FSV Mainz 05	0:1	1:1	28.03.1993	15:00	1992	1993	33
+FC Carl Zeiss Jena	Hannover 96	1:0	1:1	02.04.1993	19:30	1992	1993	34
+MSV Duisburg	VfL Wolfsburg	2:0	3:0	02.04.1993	19:30	1992	1993	34
+Eintracht Braunschweig	Hansa Rostock	1:0	1:1	02.04.1993	19:30	1992	1993	34
+Hertha BSC	VfL OsnabrÃ¼ck	1:0	4:0	03.04.1993	15:30	1992	1993	34
+SV Darmstadt 98	Fortuna DÃ¼sseldorf	0:1	0:1	03.04.1993	15:30	1992	1993	34
+FC 08 Homburg	Stuttgarter Kickers	0:0	3:0	03.04.1993	15:30	1992	1993	34
+Wuppertaler SV	Fortuna KÃ¶ln	1:2	1:2	03.04.1993	15:30	1992	1993	34
+FC St. Pauli	VfB Oldenburg	1:0	1:0	03.04.1993	15:30	1992	1993	34
+SV Meppen	SC Freiburg	2:0	3:1	04.04.1993	15:00	1992	1993	34
+Waldhof Mannheim	FC Remscheid	1:0	2:0	04.04.1993	15:00	1992	1993	34
+1. FSV Mainz 05	Chemnitzer FC	1:1	1:2	04.04.1993	15:00	1992	1993	34
+VfB Leipzig	SpVgg Unterhaching	0:0	2:1	04.04.1993	15:00	1992	1993	34
+Stuttgarter Kickers	FC St. Pauli	3:0	4:0	08.04.1993	18:00	1992	1993	35
+VfL OsnabrÃ¼ck	SV Darmstadt 98	1:0	3:1	08.04.1993	20:00	1992	1993	35
+Hansa Rostock	VfB Leipzig	0:0	2:0	08.04.1993	20:00	1992	1993	35
+VfB Oldenburg	Hertha BSC	0:1	1:1	10.04.1993	15:30	1992	1993	35
+VfL Wolfsburg	SV Meppen	0:0	0:0	10.04.1993	15:30	1992	1993	35
+SC Freiburg	FC 08 Homburg	2:1	2:2	10.04.1993	15:30	1992	1993	35
+Chemnitzer FC	MSV Duisburg	3:0	4:1	10.04.1993	15:30	1992	1993	35
+Fortuna DÃ¼sseldorf	Eintracht Braunschweig	1:0	2:0	10.04.1993	15:30	1992	1993	35
+Hannover 96	Fortuna KÃ¶ln	0:0	0:0	10.04.1993	15:30	1992	1993	35
+FC Remscheid	1. FSV Mainz 05	0:1	0:1	10.04.1993	15:30	1992	1993	35
+FC Carl Zeiss Jena	Waldhof Mannheim	1:0	1:0	11.04.1993	15:00	1992	1993	35
+SpVgg Unterhaching	Wuppertaler SV	0:0	0:0	12.04.1993	15:00	1992	1993	35
+MSV Duisburg	FC Remscheid	2:0	5:0	16.04.1993	19:30	1992	1993	36
+Wuppertaler SV	Hansa Rostock	1:0	2:0	16.04.1993	19:30	1992	1993	36
+FC 08 Homburg	VfL Wolfsburg	0:0	1:0	16.04.1993	20:00	1992	1993	36
+VfB Leipzig	Fortuna DÃ¼sseldorf	0:0	0:0	17.04.1993	15:30	1992	1993	36
+Waldhof Mannheim	Hannover 96	0:0	1:0	17.04.1993	15:30	1992	1993	36
+Fortuna KÃ¶ln	SpVgg Unterhaching	1:0	2:0	17.04.1993	15:30	1992	1993	36
+Eintracht Braunschweig	VfL OsnabrÃ¼ck	0:0	1:0	17.04.1993	15:30	1992	1993	36
+SV Darmstadt 98	VfB Oldenburg	1:0	2:0	17.04.1993	15:30	1992	1993	36
+1. FSV Mainz 05	FC Carl Zeiss Jena	1:0	2:0	17.04.1993	15:30	1992	1993	36
+SV Meppen	Chemnitzer FC	1:0	2:0	18.04.1993	15:00	1992	1993	36
+FC St. Pauli	SC Freiburg	0:1	0:1	18.04.1993	15:00	1992	1993	36
+Hertha BSC	Stuttgarter Kickers	0:1	1:1	18.04.1993	15:00	1992	1993	36
+Hannover 96	SpVgg Unterhaching	1:0	1:1	22.04.1993	20:00	1992	1993	37
+Stuttgarter Kickers	SV Darmstadt 98	3:0	3:0	23.04.1993	18:15	1992	1993	37
+VfL OsnabrÃ¼ck	VfB Leipzig	1:0	1:1	23.04.1993	20:00	1992	1993	37
+FC Remscheid	SV Meppen	1:0	2:1	24.04.1993	15:30	1992	1993	37
+Chemnitzer FC	FC 08 Homburg	1:1	2:1	24.04.1993	15:30	1992	1993	37
+VfL Wolfsburg	FC St. Pauli	0:0	2:2	24.04.1993	15:30	1992	1993	37
+SC Freiburg	Hertha BSC	1:2	4:2	24.04.1993	15:30	1992	1993	37
+FC Carl Zeiss Jena	MSV Duisburg	1:1	2:2	24.04.1993	15:30	1992	1993	37
+Fortuna DÃ¼sseldorf	Wuppertaler SV	0:0	0:0	24.04.1993	15:30	1992	1993	37
+Hansa Rostock	Fortuna KÃ¶ln	1:1	1:2	24.04.1993	15:30	1992	1993	37
+VfB Oldenburg	Eintracht Braunschweig	0:0	1:0	24.04.1993	15:30	1992	1993	37
+Waldhof Mannheim	1. FSV Mainz 05	1:0	1:0	24.04.1993	15:30	1992	1993	37
+Fortuna KÃ¶ln	Fortuna DÃ¼sseldorf	0:0	0:2	27.04.1993	19:00	1992	1993	38
+SpVgg Unterhaching	Hansa Rostock	0:0	2:0	27.04.1993	19:30	1992	1993	38
+Eintracht Braunschweig	Stuttgarter Kickers	1:0	1:0	27.04.1993	19:30	1992	1993	38
+Wuppertaler SV	VfL OsnabrÃ¼ck	0:0	1:1	27.04.1993	19:30	1992	1993	38
+Hertha BSC	VfL Wolfsburg	0:0	2:0	27.04.1993	20:00	1992	1993	38
+SV Meppen	FC Carl Zeiss Jena	1:2	1:2	28.04.1993	18:30	1992	1993	38
+1. FSV Mainz 05	Hannover 96	0:1	1:1	28.04.1993	18:30	1992	1993	38
+SV Darmstadt 98	SC Freiburg	0:1	0:3	28.04.1993	19:30	1992	1993	38
+VfB Leipzig	VfB Oldenburg	1:1	1:1	28.04.1993	19:30	1992	1993	38
+MSV Duisburg	Waldhof Mannheim	0:0	2:1	28.04.1993	19:30	1992	1993	38
+FC 08 Homburg	FC Remscheid	0:1	1:1	28.04.1993	20:00	1992	1993	38
+FC St. Pauli	Chemnitzer FC	0:0	0:1	28.04.1993	20:00	1992	1993	38

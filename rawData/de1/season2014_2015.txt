@@ -1,0 +1,306 @@
+Bayern MÃ¼nchen	VfL Wolfsburg	1:0	2:1	22.08.2014	20:30	2014	2015	1
+1899 Hoffenheim	FC Augsburg	2:0	2:0	23.08.2014	15:30	2014	2015	1
+Hannover 96	FC Schalke 04	0:0	2:1	23.08.2014	15:30	2014	2015	1
+Hertha BSC	Werder Bremen	1:0	2:2	23.08.2014	15:30	2014	2015	1
+Eintracht Frankfurt	SC Freiburg	1:0	1:0	23.08.2014	15:30	2014	2015	1
+1. FC KÃ¶ln	Hamburger SV	0:0	0:0	23.08.2014	15:30	2014	2015	1
+Borussia Dortmund	Bayer Leverkusen	0:1	0:2	23.08.2014	18:30	2014	2015	1
+SC Paderborn 07	1. FSV Mainz 05	1:1	2:2	24.08.2014	15:30	2014	2015	1
+Bor. MÃ¶nchengladbach	VfB Stuttgart	0:0	1:1	24.08.2014	17:30	2014	2015	1
+FC Augsburg	Borussia Dortmund	0:2	2:3	29.08.2014	20:30	2014	2015	2
+Bayer Leverkusen	Hertha BSC	0:1	4:2	30.08.2014	15:30	2014	2015	2
+VfL Wolfsburg	Eintracht Frankfurt	1:1	2:2	30.08.2014	15:30	2014	2015	2
+Werder Bremen	1899 Hoffenheim	0:1	1:1	30.08.2014	15:30	2014	2015	2
+VfB Stuttgart	1. FC KÃ¶ln	0:2	0:2	30.08.2014	15:30	2014	2015	2
+Hamburger SV	SC Paderborn 07	0:1	0:3	30.08.2014	15:30	2014	2015	2
+FC Schalke 04	Bayern MÃ¼nchen	0:1	1:1	30.08.2014	18:30	2014	2015	2
+1. FSV Mainz 05	Hannover 96	0:0	0:0	31.08.2014	15:30	2014	2015	2
+SC Freiburg	Bor. MÃ¶nchengladbach	0:0	0:0	31.08.2014	17:30	2014	2015	2
+Bayer Leverkusen	Werder Bremen	1:1	3:3	12.09.2014	20:30	2014	2015	3
+Bayern MÃ¼nchen	VfB Stuttgart	1:0	2:0	13.09.2014	15:30	2014	2015	3
+Borussia Dortmund	SC Freiburg	2:0	3:1	13.09.2014	15:30	2014	2015	3
+1899 Hoffenheim	VfL Wolfsburg	0:0	1:1	13.09.2014	15:30	2014	2015	3
+Hertha BSC	1. FSV Mainz 05	0:1	1:3	13.09.2014	15:30	2014	2015	3
+SC Paderborn 07	1. FC KÃ¶ln	0:0	0:0	13.09.2014	15:30	2014	2015	3
+Bor. MÃ¶nchengladbach	FC Schalke 04	1:0	4:1	13.09.2014	18:30	2014	2015	3
+Eintracht Frankfurt	FC Augsburg	0:0	0:1	14.09.2014	15:30	2014	2015	3
+Hannover 96	Hamburger SV	2:0	2:0	14.09.2014	17:30	2014	2015	3
+SC Freiburg	Hertha BSC	1:1	2:2	19.09.2014	20:30	2014	2015	4
+FC Schalke 04	Eintracht Frankfurt	1:2	2:2	20.09.2014	15:30	2014	2015	4
+FC Augsburg	Werder Bremen	2:1	4:2	20.09.2014	15:30	2014	2015	4
+VfB Stuttgart	1899 Hoffenheim	0:1	0:2	20.09.2014	15:30	2014	2015	4
+Hamburger SV	Bayern MÃ¼nchen	0:0	0:0	20.09.2014	15:30	2014	2015	4
+SC Paderborn 07	Hannover 96	0:0	2:0	20.09.2014	15:30	2014	2015	4
+1. FSV Mainz 05	Borussia Dortmund	0:0	2:0	20.09.2014	18:30	2014	2015	4
+VfL Wolfsburg	Bayer Leverkusen	2:1	4:1	21.09.2014	15:30	2014	2015	4
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:0	0:0	21.09.2014	17:30	2014	2015	4
+Bayern MÃ¼nchen	SC Paderborn 07	2:0	4:0	23.09.2014	20:00	2014	2015	5
+1899 Hoffenheim	SC Freiburg	1:2	3:3	23.09.2014	20:00	2014	2015	5
+Werder Bremen	FC Schalke 04	0:0	0:3	23.09.2014	20:00	2014	2015	5
+Eintracht Frankfurt	1. FSV Mainz 05	1:2	2:2	23.09.2014	20:00	2014	2015	5
+Borussia Dortmund	VfB Stuttgart	0:0	2:2	24.09.2014	20:00	2014	2015	5
+Bayer Leverkusen	FC Augsburg	1:0	1:0	24.09.2014	20:00	2014	2015	5
+Bor. MÃ¶nchengladbach	Hamburger SV	1:0	1:0	24.09.2014	20:00	2014	2015	5
+Hannover 96	1. FC KÃ¶ln	1:0	1:0	24.09.2014	20:00	2014	2015	5
+Hertha BSC	VfL Wolfsburg	1:0	1:0	24.09.2014	20:00	2014	2015	5
+1. FSV Mainz 05	1899 Hoffenheim	0:0	0:0	26.09.2014	20:30	2014	2015	6
+FC Schalke 04	Borussia Dortmund	2:1	2:1	27.09.2014	15:30	2014	2015	6
+SC Freiburg	Bayer Leverkusen	0:0	0:0	27.09.2014	15:30	2014	2015	6
+VfB Stuttgart	Hannover 96	0:0	1:0	27.09.2014	15:30	2014	2015	6
+1. FC KÃ¶ln	Bayern MÃ¼nchen	0:1	0:2	27.09.2014	15:30	2014	2015	6
+SC Paderborn 07	Bor. MÃ¶nchengladbach	0:2	1:2	27.09.2014	15:30	2014	2015	6
+VfL Wolfsburg	Werder Bremen	1:1	2:1	27.09.2014	18:30	2014	2015	6
+FC Augsburg	Hertha BSC	1:0	1:0	28.09.2014	15:30	2014	2015	6
+Hamburger SV	Eintracht Frankfurt	0:1	1:2	28.09.2014	17:30	2014	2015	6
+Hertha BSC	VfB Stuttgart	1:1	3:2	03.10.2014	20:30	2014	2015	7
+Bayern MÃ¼nchen	Hannover 96	3:0	4:0	04.10.2014	15:30	2014	2015	7
+Borussia Dortmund	Hamburger SV	0:1	0:1	04.10.2014	15:30	2014	2015	7
+Bayer Leverkusen	SC Paderborn 07	1:1	2:2	04.10.2014	15:30	2014	2015	7
+1899 Hoffenheim	FC Schalke 04	2:0	2:1	04.10.2014	15:30	2014	2015	7
+Werder Bremen	SC Freiburg	1:1	1:1	04.10.2014	15:30	2014	2015	7
+Eintracht Frankfurt	1. FC KÃ¶ln	1:1	3:2	04.10.2014	18:30	2014	2015	7
+VfL Wolfsburg	FC Augsburg	0:0	1:0	05.10.2014	15:30	2014	2015	7
+Bor. MÃ¶nchengladbach	1. FSV Mainz 05	1:1	1:1	05.10.2014	17:30	2014	2015	7
+Bayern MÃ¼nchen	Werder Bremen	4:0	6:0	18.10.2014	15:30	2014	2015	8
+1. FSV Mainz 05	FC Augsburg	2:0	2:1	18.10.2014	15:30	2014	2015	8
+Hannover 96	Bor. MÃ¶nchengladbach	0:1	0:3	18.10.2014	15:30	2014	2015	8
+SC Freiburg	VfL Wolfsburg	0:1	1:2	18.10.2014	15:30	2014	2015	8
+VfB Stuttgart	Bayer Leverkusen	0:3	3:3	18.10.2014	15:30	2014	2015	8
+1. FC KÃ¶ln	Borussia Dortmund	1:0	2:1	18.10.2014	15:30	2014	2015	8
+FC Schalke 04	Hertha BSC	1:0	2:0	18.10.2014	18:30	2014	2015	8
+Hamburger SV	1899 Hoffenheim	1:1	1:1	19.10.2014	15:30	2014	2015	8
+SC Paderborn 07	Eintracht Frankfurt	0:0	3:1	19.10.2014	17:30	2014	2015	8
+Werder Bremen	1. FC KÃ¶ln	0:0	0:1	24.10.2014	20:30	2014	2015	9
+Borussia Dortmund	Hannover 96	0:0	0:1	25.10.2014	15:30	2014	2015	9
+FC Augsburg	SC Freiburg	1:0	2:0	25.10.2014	15:30	2014	2015	9
+1899 Hoffenheim	SC Paderborn 07	0:0	1:0	25.10.2014	15:30	2014	2015	9
+Hertha BSC	Hamburger SV	0:0	3:0	25.10.2014	15:30	2014	2015	9
+Eintracht Frankfurt	VfB Stuttgart	1:2	4:5	25.10.2014	15:30	2014	2015	9
+Bayer Leverkusen	FC Schalke 04	0:0	1:0	25.10.2014	18:30	2014	2015	9
+VfL Wolfsburg	1. FSV Mainz 05	1:0	3:0	26.10.2014	15:30	2014	2015	9
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:0	0:0	26.10.2014	17:30	2014	2015	9
+FC Schalke 04	FC Augsburg	1:0	1:0	31.10.2014	20:30	2014	2015	10
+1. FSV Mainz 05	Werder Bremen	1:1	1:2	01.11.2014	15:30	2014	2015	10
+Hannover 96	Eintracht Frankfurt	0:0	1:0	01.11.2014	15:30	2014	2015	10
+VfB Stuttgart	VfL Wolfsburg	0:2	0:4	01.11.2014	15:30	2014	2015	10
+Hamburger SV	Bayer Leverkusen	1:0	1:0	01.11.2014	15:30	2014	2015	10
+Bayern MÃ¼nchen	Borussia Dortmund	0:1	2:1	01.11.2014	18:30	2014	2015	10
+Bor. MÃ¶nchengladbach	1899 Hoffenheim	2:1	3:1	02.11.2014	15:30	2014	2015	10
+1. FC KÃ¶ln	SC Freiburg	0:0	0:1	02.11.2014	17:30	2014	2015	10
+SC Paderborn 07	Hertha BSC	1:1	3:1	02.11.2014	17:30	2014	2015	10
+Hertha BSC	Hannover 96	0:1	0:2	07.11.2014	20:30	2014	2015	11
+Bayer Leverkusen	1. FSV Mainz 05	0:0	0:0	08.11.2014	15:30	2014	2015	11
+FC Augsburg	SC Paderborn 07	1:0	3:0	08.11.2014	15:30	2014	2015	11
+1899 Hoffenheim	1. FC KÃ¶ln	3:3	3:4	08.11.2014	15:30	2014	2015	11
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:1	0:4	08.11.2014	15:30	2014	2015	11
+SC Freiburg	FC Schalke 04	1:0	2:0	08.11.2014	15:30	2014	2015	11
+Werder Bremen	VfB Stuttgart	1:0	2:0	08.11.2014	18:30	2014	2015	11
+VfL Wolfsburg	Hamburger SV	1:0	2:0	09.11.2014	15:30	2014	2015	11
+Borussia Dortmund	Bor. MÃ¶nchengladbach	0:0	1:0	09.11.2014	17:30	2014	2015	11
+Bayern MÃ¼nchen	1899 Hoffenheim	2:0	4:0	22.11.2014	15:30	2014	2015	12
+FC Schalke 04	VfL Wolfsburg	3:1	3:2	22.11.2014	15:30	2014	2015	12
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	1:0	1:3	22.11.2014	15:30	2014	2015	12
+1. FSV Mainz 05	SC Freiburg	1:1	2:2	22.11.2014	15:30	2014	2015	12
+Hannover 96	Bayer Leverkusen	0:0	1:3	22.11.2014	15:30	2014	2015	12
+SC Paderborn 07	Borussia Dortmund	0:2	2:2	22.11.2014	15:30	2014	2015	12
+1. FC KÃ¶ln	Hertha BSC	0:1	1:2	22.11.2014	18:30	2014	2015	12
+Hamburger SV	Werder Bremen	0:0	2:0	23.11.2014	15:30	2014	2015	12
+VfB Stuttgart	FC Augsburg	0:0	0:1	23.11.2014	17:30	2014	2015	12
+SC Freiburg	VfB Stuttgart	1:1	1:4	28.11.2014	20:30	2014	2015	13
+FC Schalke 04	1. FSV Mainz 05	2:1	4:1	29.11.2014	15:30	2014	2015	13
+Bayer Leverkusen	1. FC KÃ¶ln	1:1	5:1	29.11.2014	15:30	2014	2015	13
+FC Augsburg	Hamburger SV	0:1	3:1	29.11.2014	15:30	2014	2015	13
+Hertha BSC	Bayern MÃ¼nchen	0:1	0:1	29.11.2014	15:30	2014	2015	13
+Werder Bremen	SC Paderborn 07	1:0	4:0	29.11.2014	15:30	2014	2015	13
+1899 Hoffenheim	Hannover 96	2:1	4:3	29.11.2014	18:30	2014	2015	13
+VfL Wolfsburg	Bor. MÃ¶nchengladbach	1:0	1:0	30.11.2014	15:30	2014	2015	13
+Eintracht Frankfurt	Borussia Dortmund	1:0	2:0	30.11.2014	17:30	2014	2015	13
+Borussia Dortmund	1899 Hoffenheim	1:0	1:0	05.12.2014	20:30	2014	2015	14
+Bor. MÃ¶nchengladbach	Hertha BSC	1:1	3:2	06.12.2014	15:30	2014	2015	14
+Hannover 96	VfL Wolfsburg	1:1	1:3	06.12.2014	15:30	2014	2015	14
+VfB Stuttgart	FC Schalke 04	0:3	0:4	06.12.2014	15:30	2014	2015	14
+1. FC KÃ¶ln	FC Augsburg	1:0	1:2	06.12.2014	15:30	2014	2015	14
+SC Paderborn 07	SC Freiburg	0:1	1:1	06.12.2014	15:30	2014	2015	14
+Bayern MÃ¼nchen	Bayer Leverkusen	0:0	1:0	06.12.2014	18:30	2014	2015	14
+Hamburger SV	1. FSV Mainz 05	1:0	2:1	07.12.2014	15:30	2014	2015	14
+Eintracht Frankfurt	Werder Bremen	1:1	5:2	07.12.2014	17:30	2014	2015	14
+1899 Hoffenheim	Eintracht Frankfurt	1:0	3:2	12.12.2014	20:30	2014	2015	15
+FC Schalke 04	1. FC KÃ¶ln	0:0	1:2	13.12.2014	15:30	2014	2015	15
+FC Augsburg	Bayern MÃ¼nchen	0:0	0:4	13.12.2014	15:30	2014	2015	15
+Hertha BSC	Borussia Dortmund	1:0	1:0	13.12.2014	15:30	2014	2015	15
+Werder Bremen	Hannover 96	1:1	3:3	13.12.2014	15:30	2014	2015	15
+SC Freiburg	Hamburger SV	0:0	0:0	13.12.2014	15:30	2014	2015	15
+1. FSV Mainz 05	VfB Stuttgart	1:0	1:1	13.12.2014	18:30	2014	2015	15
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	1:1	1:1	14.12.2014	15:30	2014	2015	15
+VfL Wolfsburg	SC Paderborn 07	1:0	1:1	14.12.2014	17:30	2014	2015	15
+Bayern MÃ¼nchen	SC Freiburg	1:0	2:0	16.12.2014	20:00	2014	2015	16
+Hannover 96	FC Augsburg	1:0	2:0	16.12.2014	20:00	2014	2015	16
+Hamburger SV	VfB Stuttgart	0:1	0:1	16.12.2014	20:00	2014	2015	16
+1. FC KÃ¶ln	1. FSV Mainz 05	0:0	0:0	16.12.2014	20:00	2014	2015	16
+Borussia Dortmund	VfL Wolfsburg	1:1	2:2	17.12.2014	20:00	2014	2015	16
+Bor. MÃ¶nchengladbach	Werder Bremen	2:0	4:1	17.12.2014	20:00	2014	2015	16
+1899 Hoffenheim	Bayer Leverkusen	0:0	0:1	17.12.2014	20:00	2014	2015	16
+Eintracht Frankfurt	Hertha BSC	1:3	4:4	17.12.2014	20:00	2014	2015	16
+SC Paderborn 07	FC Schalke 04	1:1	1:2	17.12.2014	20:00	2014	2015	16
+1. FSV Mainz 05	Bayern MÃ¼nchen	1:1	1:2	19.12.2014	20:30	2014	2015	17
+FC Schalke 04	Hamburger SV	0:0	0:0	20.12.2014	15:30	2014	2015	17
+Bayer Leverkusen	Eintracht Frankfurt	0:1	1:1	20.12.2014	15:30	2014	2015	17
+FC Augsburg	Bor. MÃ¶nchengladbach	1:1	2:1	20.12.2014	15:30	2014	2015	17
+Werder Bremen	Borussia Dortmund	1:0	2:1	20.12.2014	15:30	2014	2015	17
+VfB Stuttgart	SC Paderborn 07	0:0	0:0	20.12.2014	15:30	2014	2015	17
+VfL Wolfsburg	1. FC KÃ¶ln	1:1	2:1	20.12.2014	18:30	2014	2015	17
+Hertha BSC	1899 Hoffenheim	0:3	0:5	21.12.2014	15:30	2014	2015	17
+SC Freiburg	Hannover 96	1:0	2:2	21.12.2014	17:30	2014	2015	17
+VfL Wolfsburg	Bayern MÃ¼nchen	2:0	4:1	30.01.2015	20:30	2014	2015	18
+VfB Stuttgart	Bor. MÃ¶nchengladbach	0:0	0:1	31.01.2015	15:30	2014	2015	18
+FC Schalke 04	Hannover 96	1:0	1:0	31.01.2015	15:30	2014	2015	18
+SC Freiburg	Eintracht Frankfurt	0:1	4:1	31.01.2015	15:30	2014	2015	18
+Hamburger SV	1. FC KÃ¶ln	0:0	0:2	31.01.2015	15:30	2014	2015	18
+1. FSV Mainz 05	SC Paderborn 07	1:0	5:0	31.01.2015	15:30	2014	2015	18
+Bayer Leverkusen	Borussia Dortmund	0:0	0:0	31.01.2015	18:30	2014	2015	18
+Werder Bremen	Hertha BSC	1:0	2:0	01.02.2015	15:30	2014	2015	18
+FC Augsburg	1899 Hoffenheim	2:1	3:1	01.02.2015	17:30	2014	2015	18
+Bayern MÃ¼nchen	FC Schalke 04	0:0	1:1	03.02.2015	20:00	2014	2015	19
+Eintracht Frankfurt	VfL Wolfsburg	0:0	1:1	03.02.2015	20:00	2014	2015	19
+Hannover 96	1. FSV Mainz 05	1:0	1:1	03.02.2015	20:00	2014	2015	19
+Bor. MÃ¶nchengladbach	SC Freiburg	1:0	1:0	03.02.2015	20:00	2014	2015	19
+Hertha BSC	Bayer Leverkusen	0:0	0:1	04.02.2015	20:00	2014	2015	19
+Borussia Dortmund	FC Augsburg	0:0	0:1	04.02.2015	20:00	2014	2015	19
+1899 Hoffenheim	Werder Bremen	1:1	1:2	04.02.2015	20:00	2014	2015	19
+1. FC KÃ¶ln	VfB Stuttgart	0:0	0:0	04.02.2015	20:00	2014	2015	19
+SC Paderborn 07	Hamburger SV	0:1	0:3	04.02.2015	20:00	2014	2015	19
+FC Schalke 04	Bor. MÃ¶nchengladbach	1:0	1:0	06.02.2015	20:40	2014	2015	20
+VfB Stuttgart	Bayern MÃ¼nchen	0:1	0:2	07.02.2015	15:30	2014	2015	20
+SC Freiburg	Borussia Dortmund	0:1	0:3	07.02.2015	15:30	2014	2015	20
+VfL Wolfsburg	1899 Hoffenheim	2:0	3:0	07.02.2015	15:30	2014	2015	20
+1. FSV Mainz 05	Hertha BSC	0:2	0:2	07.02.2015	15:30	2014	2015	20
+1. FC KÃ¶ln	SC Paderborn 07	0:0	0:0	07.02.2015	15:30	2014	2015	20
+Hamburger SV	Hannover 96	1:0	2:1	07.02.2015	18:30	2014	2015	20
+Werder Bremen	Bayer Leverkusen	2:1	2:1	08.02.2015	15:30	2014	2015	20
+FC Augsburg	Eintracht Frankfurt	2:1	2:2	08.02.2015	17:30	2014	2015	20
+Borussia Dortmund	1. FSV Mainz 05	0:1	4:2	13.02.2015	20:30	2014	2015	21
+Bayer Leverkusen	VfL Wolfsburg	0:3	4:5	14.02.2015	15:30	2014	2015	21
+Werder Bremen	FC Augsburg	3:1	3:2	14.02.2015	15:30	2014	2015	21
+1899 Hoffenheim	VfB Stuttgart	1:1	2:1	14.02.2015	15:30	2014	2015	21
+Bayern MÃ¼nchen	Hamburger SV	3:0	8:0	14.02.2015	15:30	2014	2015	21
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	0:0	1:0	14.02.2015	15:30	2014	2015	21
+Eintracht Frankfurt	FC Schalke 04	0:0	1:0	14.02.2015	18:30	2014	2015	21
+Hertha BSC	SC Freiburg	0:1	0:2	15.02.2015	15:30	2014	2015	21
+Hannover 96	SC Paderborn 07	0:0	1:2	15.02.2015	17:30	2014	2015	21
+VfB Stuttgart	Borussia Dortmund	1:2	2:3	20.02.2015	20:30	2014	2015	22
+SC Paderborn 07	Bayern MÃ¼nchen	0:2	0:6	21.02.2015	15:30	2014	2015	22
+FC Augsburg	Bayer Leverkusen	0:1	2:2	21.02.2015	15:30	2014	2015	22
+SC Freiburg	1899 Hoffenheim	1:1	1:1	21.02.2015	15:30	2014	2015	22
+FC Schalke 04	Werder Bremen	0:0	1:1	21.02.2015	15:30	2014	2015	22
+1. FSV Mainz 05	Eintracht Frankfurt	1:1	3:1	21.02.2015	15:30	2014	2015	22
+1. FC KÃ¶ln	Hannover 96	1:1	1:1	21.02.2015	18:30	2014	2015	22
+Hamburger SV	Bor. MÃ¶nchengladbach	0:0	1:1	22.02.2015	15:30	2014	2015	22
+VfL Wolfsburg	Hertha BSC	1:1	2:1	22.02.2015	17:30	2014	2015	22
+Bayern MÃ¼nchen	1. FC KÃ¶ln	2:1	4:1	27.02.2015	20:30	2014	2015	23
+Borussia Dortmund	FC Schalke 04	0:0	3:0	28.02.2015	15:30	2014	2015	23
+1899 Hoffenheim	1. FSV Mainz 05	0:0	2:0	28.02.2015	15:30	2014	2015	23
+Hertha BSC	FC Augsburg	0:0	1:0	28.02.2015	15:30	2014	2015	23
+Bayer Leverkusen	SC Freiburg	1:0	1:0	28.02.2015	15:30	2014	2015	23
+Hannover 96	VfB Stuttgart	0:0	1:1	28.02.2015	15:30	2014	2015	23
+Eintracht Frankfurt	Hamburger SV	1:1	2:1	28.02.2015	18:30	2014	2015	23
+Bor. MÃ¶nchengladbach	SC Paderborn 07	1:0	2:0	01.03.2015	15:30	2014	2015	23
+Werder Bremen	VfL Wolfsburg	3:2	3:5	01.03.2015	17:30	2014	2015	23
+VfB Stuttgart	Hertha BSC	0:0	0:0	06.03.2015	20:30	2014	2015	24
+Hannover 96	Bayern MÃ¼nchen	1:1	1:3	07.03.2015	15:30	2014	2015	24
+Hamburger SV	Borussia Dortmund	0:0	0:0	07.03.2015	15:30	2014	2015	24
+FC Augsburg	VfL Wolfsburg	0:0	1:0	07.03.2015	15:30	2014	2015	24
+FC Schalke 04	1899 Hoffenheim	2:0	3:1	07.03.2015	15:30	2014	2015	24
+SC Freiburg	Werder Bremen	0:1	0:1	07.03.2015	15:30	2014	2015	24
+1. FSV Mainz 05	Bor. MÃ¶nchengladbach	0:1	2:2	07.03.2015	18:30	2014	2015	24
+1. FC KÃ¶ln	Eintracht Frankfurt	1:0	4:2	08.03.2015	15:30	2014	2015	24
+SC Paderborn 07	Bayer Leverkusen	0:0	0:3	08.03.2015	17:30	2014	2015	24
+Bayer Leverkusen	VfB Stuttgart	2:0	4:0	13.03.2015	20:30	2014	2015	25
+Werder Bremen	Bayern MÃ¼nchen	0:2	0:4	14.03.2015	15:30	2014	2015	25
+Hertha BSC	FC Schalke 04	1:1	2:2	14.03.2015	15:30	2014	2015	25
+FC Augsburg	1. FSV Mainz 05	0:1	0:2	14.03.2015	15:30	2014	2015	25
+1899 Hoffenheim	Hamburger SV	1:0	3:0	14.03.2015	15:30	2014	2015	25
+Eintracht Frankfurt	SC Paderborn 07	2:0	4:0	14.03.2015	15:30	2014	2015	25
+Borussia Dortmund	1. FC KÃ¶ln	0:0	0:0	14.03.2015	18:30	2014	2015	25
+VfL Wolfsburg	SC Freiburg	1:0	3:0	15.03.2015	15:30	2014	2015	25
+Bor. MÃ¶nchengladbach	Hannover 96	1:0	2:0	15.03.2015	17:30	2014	2015	25
+Hamburger SV	Hertha BSC	0:0	0:1	20.03.2015	20:30	2014	2015	26
+Hannover 96	Borussia Dortmund	1:1	2:3	21.03.2015	15:30	2014	2015	26
+SC Freiburg	FC Augsburg	0:0	2:0	21.03.2015	15:30	2014	2015	26
+SC Paderborn 07	1899 Hoffenheim	0:0	0:0	21.03.2015	15:30	2014	2015	26
+1. FC KÃ¶ln	Werder Bremen	0:1	1:1	21.03.2015	15:30	2014	2015	26
+VfB Stuttgart	Eintracht Frankfurt	0:0	3:1	21.03.2015	15:30	2014	2015	26
+FC Schalke 04	Bayer Leverkusen	0:1	0:1	21.03.2015	18:30	2014	2015	26
+1. FSV Mainz 05	VfL Wolfsburg	1:0	1:1	22.03.2015	15:30	2014	2015	26
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	0:1	0:2	22.03.2015	17:30	2014	2015	26
+1899 Hoffenheim	Bor. MÃ¶nchengladbach	1:3	1:4	04.04.2015	15:30	2014	2015	27
+Werder Bremen	1. FSV Mainz 05	0:0	0:0	04.04.2015	15:30	2014	2015	27
+Eintracht Frankfurt	Hannover 96	1:0	2:2	04.04.2015	15:30	2014	2015	27
+VfL Wolfsburg	VfB Stuttgart	1:1	3:1	04.04.2015	15:30	2014	2015	27
+Bayer Leverkusen	Hamburger SV	2:0	4:0	04.04.2015	15:30	2014	2015	27
+SC Freiburg	1. FC KÃ¶ln	1:0	1:0	04.04.2015	15:30	2014	2015	27
+Borussia Dortmund	Bayern MÃ¼nchen	0:1	0:1	04.04.2015	18:30	2014	2015	27
+FC Augsburg	FC Schalke 04	0:0	0:0	05.04.2015	15:30	2014	2015	27
+Hertha BSC	SC Paderborn 07	0:0	2:0	05.04.2015	17:30	2014	2015	27
+Hannover 96	Hertha BSC	0:0	1:1	10.04.2015	20:30	2014	2015	28
+Bor. MÃ¶nchengladbach	Borussia Dortmund	2:0	3:1	11.04.2015	15:30	2014	2015	28
+1. FSV Mainz 05	Bayer Leverkusen	0:1	2:3	11.04.2015	15:30	2014	2015	28
+SC Paderborn 07	FC Augsburg	0:0	2:1	11.04.2015	15:30	2014	2015	28
+Bayern MÃ¼nchen	Eintracht Frankfurt	1:0	3:0	11.04.2015	15:30	2014	2015	28
+FC Schalke 04	SC Freiburg	0:0	0:0	11.04.2015	15:30	2014	2015	28
+Hamburger SV	VfL Wolfsburg	0:1	0:2	11.04.2015	18:30	2014	2015	28
+1. FC KÃ¶ln	1899 Hoffenheim	1:0	3:2	12.04.2015	15:30	2014	2015	28
+VfB Stuttgart	Werder Bremen	1:0	3:2	12.04.2015	17:30	2014	2015	28
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	0:0	0:0	17.04.2015	20:30	2014	2015	29
+1899 Hoffenheim	Bayern MÃ¼nchen	0:1	0:2	18.04.2015	15:30	2014	2015	29
+SC Freiburg	1. FSV Mainz 05	0:2	2:3	18.04.2015	15:30	2014	2015	29
+Bayer Leverkusen	Hannover 96	2:0	4:0	18.04.2015	15:30	2014	2015	29
+Hertha BSC	1. FC KÃ¶ln	0:0	0:0	18.04.2015	15:30	2014	2015	29
+Borussia Dortmund	SC Paderborn 07	0:0	3:0	18.04.2015	15:30	2014	2015	29
+FC Augsburg	VfB Stuttgart	1:1	2:1	18.04.2015	18:30	2014	2015	29
+Werder Bremen	Hamburger SV	0:0	1:0	19.04.2015	15:30	2014	2015	29
+VfL Wolfsburg	FC Schalke 04	0:0	1:1	19.04.2015	17:30	2014	2015	29
+1. FSV Mainz 05	FC Schalke 04	2:0	2:0	24.04.2015	20:30	2014	2015	30
+1. FC KÃ¶ln	Bayer Leverkusen	0:0	1:1	25.04.2015	15:30	2014	2015	30
+Hamburger SV	FC Augsburg	2:1	3:2	25.04.2015	15:30	2014	2015	30
+Hannover 96	1899 Hoffenheim	1:1	1:2	25.04.2015	15:30	2014	2015	30
+Borussia Dortmund	Eintracht Frankfurt	2:0	2:0	25.04.2015	15:30	2014	2015	30
+VfB Stuttgart	SC Freiburg	2:0	2:2	25.04.2015	15:30	2014	2015	30
+Bayern MÃ¼nchen	Hertha BSC	0:0	1:0	25.04.2015	18:30	2014	2015	30
+SC Paderborn 07	Werder Bremen	2:1	2:2	26.04.2015	15:30	2014	2015	30
+Bor. MÃ¶nchengladbach	VfL Wolfsburg	0:0	1:0	26.04.2015	17:30	2014	2015	30
+1899 Hoffenheim	Borussia Dortmund	1:1	1:1	02.05.2015	15:30	2014	2015	31
+VfL Wolfsburg	Hannover 96	2:0	2:2	02.05.2015	15:30	2014	2015	31
+Werder Bremen	Eintracht Frankfurt	0:0	1:0	02.05.2015	15:30	2014	2015	31
+FC Schalke 04	VfB Stuttgart	1:1	3:2	02.05.2015	15:30	2014	2015	31
+FC Augsburg	1. FC KÃ¶ln	0:0	0:0	02.05.2015	15:30	2014	2015	31
+SC Freiburg	SC Paderborn 07	1:0	1:2	02.05.2015	15:30	2014	2015	31
+Bayer Leverkusen	Bayern MÃ¼nchen	0:0	2:0	02.05.2015	18:30	2014	2015	31
+1. FSV Mainz 05	Hamburger SV	0:1	1:2	03.05.2015	15:30	2014	2015	31
+Hertha BSC	Bor. MÃ¶nchengladbach	1:1	1:2	03.05.2015	17:30	2014	2015	31
+Hamburger SV	SC Freiburg	0:1	1:1	08.05.2015	20:30	2014	2015	32
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	0:0	3:0	09.05.2015	15:30	2014	2015	32
+Bayern MÃ¼nchen	FC Augsburg	0:0	0:1	09.05.2015	15:30	2014	2015	32
+Eintracht Frankfurt	1899 Hoffenheim	3:0	3:1	09.05.2015	15:30	2014	2015	32
+Borussia Dortmund	Hertha BSC	1:0	2:0	09.05.2015	15:30	2014	2015	32
+Hannover 96	Werder Bremen	1:0	1:1	09.05.2015	15:30	2014	2015	32
+VfB Stuttgart	1. FSV Mainz 05	0:0	2:0	09.05.2015	18:30	2014	2015	32
+SC Paderborn 07	VfL Wolfsburg	0:2	1:3	10.05.2015	15:30	2014	2015	32
+1. FC KÃ¶ln	FC Schalke 04	1:0	2:0	10.05.2015	17:30	2014	2015	32
+SC Freiburg	Bayern MÃ¼nchen	1:1	2:1	16.05.2015	15:30	2014	2015	33
+VfL Wolfsburg	Borussia Dortmund	1:1	2:1	16.05.2015	15:30	2014	2015	33
+Bayer Leverkusen	1899 Hoffenheim	1:0	2:0	16.05.2015	15:30	2014	2015	33
+FC Augsburg	Hannover 96	1:1	1:2	16.05.2015	15:30	2014	2015	33
+Hertha BSC	Eintracht Frankfurt	0:0	0:0	16.05.2015	15:30	2014	2015	33
+VfB Stuttgart	Hamburger SV	2:1	2:1	16.05.2015	15:30	2014	2015	33
+1. FSV Mainz 05	1. FC KÃ¶ln	0:0	2:0	16.05.2015	15:30	2014	2015	33
+FC Schalke 04	SC Paderborn 07	0:0	1:0	16.05.2015	15:30	2014	2015	33
+Werder Bremen	Bor. MÃ¶nchengladbach	0:0	0:2	16.05.2015	15:35	2014	2015	33
+Hamburger SV	FC Schalke 04	0:0	2:0	23.05.2015	15:30	2014	2015	34
+Eintracht Frankfurt	Bayer Leverkusen	2:1	2:1	23.05.2015	15:30	2014	2015	34
+1. FC KÃ¶ln	VfL Wolfsburg	1:2	2:2	23.05.2015	15:30	2014	2015	34
+Bayern MÃ¼nchen	1. FSV Mainz 05	1:0	2:0	23.05.2015	15:30	2014	2015	34
+Bor. MÃ¶nchengladbach	FC Augsburg	1:0	1:3	23.05.2015	15:30	2014	2015	34
+1899 Hoffenheim	Hertha BSC	1:0	2:1	23.05.2015	15:30	2014	2015	34
+Borussia Dortmund	Werder Bremen	3:1	3:2	23.05.2015	15:30	2014	2015	34
+Hannover 96	SC Freiburg	1:0	2:1	23.05.2015	15:30	2014	2015	34
+SC Paderborn 07	VfB Stuttgart	1:1	1:2	23.05.2015	15:30	2014	2015	34

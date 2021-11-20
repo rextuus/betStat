@@ -1,0 +1,380 @@
+Arsenal FC	Leicester City	2:2	4:3	11.08.2017	20:45	2017	2018	1
+Watford FC	Liverpool FC	2:1	3:3	12.08.2017	13:30	2017	2018	1
+Chelsea FC	Burnley FC	0:3	2:3	12.08.2017	16:00	2017	2018	1
+Crystal Palace	Huddersfield Town	0:2	0:3	12.08.2017	16:00	2017	2018	1
+Everton FC	Stoke City	1:0	1:0	12.08.2017	16:00	2017	2018	1
+Southampton FC	Swansea City	0:0	0:0	12.08.2017	16:00	2017	2018	1
+West Bromwich Albion	AFC Bournemouth	1:0	1:0	12.08.2017	16:00	2017	2018	1
+Brighton & Hove Albion	Manchester City	0:0	0:2	12.08.2017	18:30	2017	2018	1
+Newcastle United	Tottenham Hotspur	0:0	0:2	13.08.2017	14:30	2017	2018	1
+Manchester United	West Ham United	1:0	4:0	13.08.2017	17:00	2017	2018	1
+Swansea City	Manchester United	0:1	0:4	19.08.2017	13:30	2017	2018	2
+AFC Bournemouth	Watford FC	0:0	0:2	19.08.2017	16:00	2017	2018	2
+Burnley FC	West Bromwich Albion	0:0	0:1	19.08.2017	16:00	2017	2018	2
+Leicester City	Brighton & Hove Albion	1:0	2:0	19.08.2017	16:00	2017	2018	2
+Liverpool FC	Crystal Palace	0:0	1:0	19.08.2017	16:00	2017	2018	2
+Southampton FC	West Ham United	2:1	3:2	19.08.2017	16:00	2017	2018	2
+Stoke City	Arsenal FC	0:0	1:0	19.08.2017	18:30	2017	2018	2
+Huddersfield Town	Newcastle United	0:0	1:0	20.08.2017	14:30	2017	2018	2
+Tottenham Hotspur	Chelsea FC	0:1	1:2	20.08.2017	17:00	2017	2018	2
+Manchester City	Everton FC	0:1	1:1	21.08.2017	21:00	2017	2018	2
+AFC Bournemouth	Manchester City	1:1	1:2	26.08.2017	13:30	2017	2018	3
+Crystal Palace	Swansea City	0:1	0:2	26.08.2017	16:00	2017	2018	3
+Huddersfield Town	Southampton FC	0:0	0:0	26.08.2017	16:00	2017	2018	3
+Newcastle United	West Ham United	1:0	3:0	26.08.2017	16:00	2017	2018	3
+Watford FC	Brighton & Hove Albion	0:0	0:0	26.08.2017	16:00	2017	2018	3
+Manchester United	Leicester City	0:0	2:0	26.08.2017	18:30	2017	2018	3
+Chelsea FC	Everton FC	2:0	2:0	27.08.2017	14:30	2017	2018	3
+West Bromwich Albion	Stoke City	0:0	1:1	27.08.2017	14:30	2017	2018	3
+Liverpool FC	Arsenal FC	2:0	4:0	27.08.2017	17:00	2017	2018	3
+Tottenham Hotspur	Burnley FC	0:0	1:1	27.08.2017	17:00	2017	2018	3
+Manchester City	Liverpool FC	2:0	5:0	09.09.2017	13:30	2017	2018	4
+Arsenal FC	AFC Bournemouth	2:0	3:0	09.09.2017	16:00	2017	2018	4
+Brighton & Hove Albion	West Bromwich Albion	1:0	3:1	09.09.2017	16:00	2017	2018	4
+Everton FC	Tottenham Hotspur	0:2	0:3	09.09.2017	16:00	2017	2018	4
+Leicester City	Chelsea FC	0:1	1:2	09.09.2017	16:00	2017	2018	4
+Southampton FC	Watford FC	0:1	0:2	09.09.2017	16:00	2017	2018	4
+Stoke City	Manchester United	1:1	2:2	09.09.2017	18:30	2017	2018	4
+Burnley FC	Crystal Palace	1:0	1:0	10.09.2017	14:30	2017	2018	4
+Swansea City	Newcastle United	0:0	0:1	10.09.2017	17:00	2017	2018	4
+West Ham United	Huddersfield Town	0:0	2:0	11.09.2017	21:00	2017	2018	4
+AFC Bournemouth	Brighton & Hove Albion	0:0	2:1	15.09.2017	21:00	2017	2018	5
+Crystal Palace	Southampton FC	0:1	0:1	16.09.2017	13:30	2017	2018	5
+Huddersfield Town	Leicester City	0:0	1:1	16.09.2017	16:00	2017	2018	5
+Liverpool FC	Burnley FC	1:1	1:1	16.09.2017	16:00	2017	2018	5
+Newcastle United	Stoke City	1:0	2:1	16.09.2017	16:00	2017	2018	5
+Watford FC	Manchester City	0:3	0:6	16.09.2017	16:00	2017	2018	5
+West Bromwich Albion	West Ham United	0:0	0:0	16.09.2017	16:00	2017	2018	5
+Tottenham Hotspur	Swansea City	0:0	0:0	16.09.2017	18:30	2017	2018	5
+Chelsea FC	Arsenal FC	0:0	0:0	17.09.2017	14:30	2017	2018	5
+Manchester United	Everton FC	1:0	4:0	17.09.2017	17:00	2017	2018	5
+West Ham United	Tottenham Hotspur	0:2	2:3	23.09.2017	13:30	2017	2018	6
+Burnley FC	Huddersfield Town	0:0	0:0	23.09.2017	16:00	2017	2018	6
+Everton FC	AFC Bournemouth	0:0	2:1	23.09.2017	16:00	2017	2018	6
+Manchester City	Crystal Palace	1:0	5:0	23.09.2017	16:00	2017	2018	6
+Southampton FC	Manchester United	0:1	0:1	23.09.2017	16:00	2017	2018	6
+Stoke City	Chelsea FC	0:2	0:4	23.09.2017	16:00	2017	2018	6
+Swansea City	Watford FC	0:1	1:2	23.09.2017	16:00	2017	2018	6
+Leicester City	Liverpool FC	1:2	2:3	23.09.2017	18:30	2017	2018	6
+Brighton & Hove Albion	Newcastle United	0:0	1:0	24.09.2017	17:00	2017	2018	6
+Arsenal FC	West Bromwich Albion	1:0	2:0	25.09.2017	21:00	2017	2018	6
+Huddersfield Town	Tottenham Hotspur	0:3	0:4	30.09.2017	13:30	2017	2018	7
+AFC Bournemouth	Leicester City	0:0	0:0	30.09.2017	16:00	2017	2018	7
+Manchester United	Crystal Palace	2:0	4:0	30.09.2017	16:00	2017	2018	7
+Stoke City	Southampton FC	1:0	2:1	30.09.2017	16:00	2017	2018	7
+West Bromwich Albion	Watford FC	2:1	2:2	30.09.2017	16:00	2017	2018	7
+West Ham United	Swansea City	0:0	1:0	30.09.2017	16:00	2017	2018	7
+Chelsea FC	Manchester City	0:0	0:1	30.09.2017	18:30	2017	2018	7
+Arsenal FC	Brighton & Hove Albion	1:0	2:0	01.10.2017	13:00	2017	2018	7
+Everton FC	Burnley FC	0:1	0:1	01.10.2017	15:15	2017	2018	7
+Newcastle United	Liverpool FC	1:1	1:1	01.10.2017	17:30	2017	2018	7
+Liverpool FC	Manchester United	0:0	0:0	14.10.2017	13:30	2017	2018	8
+Burnley FC	West Ham United	0:1	1:1	14.10.2017	16:00	2017	2018	8
+Crystal Palace	Chelsea FC	2:1	2:1	14.10.2017	16:00	2017	2018	8
+Manchester City	Stoke City	3:1	7:2	14.10.2017	16:00	2017	2018	8
+Swansea City	Huddersfield Town	1:0	2:0	14.10.2017	16:00	2017	2018	8
+Tottenham Hotspur	AFC Bournemouth	0:0	1:0	14.10.2017	16:00	2017	2018	8
+Watford FC	Arsenal FC	0:1	2:1	14.10.2017	18:30	2017	2018	8
+Brighton & Hove Albion	Everton FC	0:0	1:1	15.10.2017	14:30	2017	2018	8
+Southampton FC	Newcastle United	0:1	2:2	15.10.2017	17:00	2017	2018	8
+Leicester City	West Bromwich Albion	0:0	1:1	16.10.2017	21:00	2017	2018	8
+West Ham United	Brighton & Hove Albion	0:2	0:3	20.10.2017	21:00	2017	2018	9
+Chelsea FC	Watford FC	1:1	4:2	21.10.2017	13:30	2017	2018	9
+Huddersfield Town	Manchester United	2:0	2:1	21.10.2017	16:00	2017	2018	9
+Manchester City	Burnley FC	1:0	3:0	21.10.2017	16:00	2017	2018	9
+Newcastle United	Crystal Palace	0:0	1:0	21.10.2017	16:00	2017	2018	9
+Stoke City	AFC Bournemouth	0:2	1:2	21.10.2017	16:00	2017	2018	9
+Swansea City	Leicester City	0:1	1:2	21.10.2017	16:00	2017	2018	9
+Southampton FC	West Bromwich Albion	0:0	1:0	21.10.2017	18:30	2017	2018	9
+Everton FC	Arsenal FC	1:1	2:5	22.10.2017	14:30	2017	2018	9
+Tottenham Hotspur	Liverpool FC	3:1	4:1	22.10.2017	17:00	2017	2018	9
+Manchester United	Tottenham Hotspur	0:0	1:0	28.10.2017	13:30	2017	2018	10
+Arsenal FC	Swansea City	0:1	2:1	28.10.2017	16:00	2017	2018	10
+Crystal Palace	West Ham United	0:2	2:2	28.10.2017	16:00	2017	2018	10
+Liverpool FC	Huddersfield Town	0:0	3:0	28.10.2017	16:00	2017	2018	10
+Watford FC	Stoke City	0:1	0:1	28.10.2017	16:00	2017	2018	10
+West Bromwich Albion	Manchester City	1:2	2:3	28.10.2017	16:00	2017	2018	10
+AFC Bournemouth	Chelsea FC	0:0	0:1	28.10.2017	18:30	2017	2018	10
+Brighton & Hove Albion	Southampton FC	0:1	1:1	29.10.2017	14:30	2017	2018	10
+Leicester City	Everton FC	2:0	2:0	29.10.2017	17:00	2017	2018	10
+Burnley FC	Newcastle United	0:0	1:0	30.10.2017	21:00	2017	2018	10
+Stoke City	Leicester City	1:1	2:2	04.11.2017	13:30	2017	2018	11
+Huddersfield Town	West Bromwich Albion	1:0	1:0	04.11.2017	16:00	2017	2018	11
+Newcastle United	AFC Bournemouth	0:0	0:1	04.11.2017	16:00	2017	2018	11
+Southampton FC	Burnley FC	0:0	0:1	04.11.2017	16:00	2017	2018	11
+Swansea City	Brighton & Hove Albion	0:1	0:1	04.11.2017	16:00	2017	2018	11
+West Ham United	Liverpool FC	0:2	1:4	04.11.2017	18:30	2017	2018	11
+Tottenham Hotspur	Crystal Palace	0:0	1:0	05.11.2017	13:00	2017	2018	11
+Manchester City	Arsenal FC	1:0	3:1	05.11.2017	15:15	2017	2018	11
+Chelsea FC	Manchester United	0:0	1:0	05.11.2017	17:30	2017	2018	11
+Everton FC	Watford FC	0:0	3:2	05.11.2017	17:30	2017	2018	11
+Arsenal FC	Tottenham Hotspur	2:0	2:0	18.11.2017	13:30	2017	2018	12
+AFC Bournemouth	Huddersfield Town	2:0	4:0	18.11.2017	16:00	2017	2018	12
+Burnley FC	Swansea City	2:0	2:0	18.11.2017	16:00	2017	2018	12
+Crystal Palace	Everton FC	2:2	2:2	18.11.2017	16:00	2017	2018	12
+Leicester City	Manchester City	0:1	0:2	18.11.2017	16:00	2017	2018	12
+Liverpool FC	Southampton FC	2:0	3:0	18.11.2017	16:00	2017	2018	12
+West Bromwich Albion	Chelsea FC	0:3	0:4	18.11.2017	16:00	2017	2018	12
+Manchester United	Newcastle United	2:1	4:1	18.11.2017	18:30	2017	2018	12
+Watford FC	West Ham United	1:0	2:0	19.11.2017	17:00	2017	2018	12
+Brighton & Hove Albion	Stoke City	1:2	2:2	20.11.2017	21:00	2017	2018	12
+West Ham United	Leicester City	1:1	1:1	24.11.2017	21:00	2017	2018	13
+Crystal Palace	Stoke City	0:0	2:1	25.11.2017	16:00	2017	2018	13
+Manchester United	Brighton & Hove Albion	0:0	1:0	25.11.2017	16:00	2017	2018	13
+Newcastle United	Watford FC	0:2	0:3	25.11.2017	16:00	2017	2018	13
+Swansea City	AFC Bournemouth	0:0	0:0	25.11.2017	16:00	2017	2018	13
+Tottenham Hotspur	West Bromwich Albion	0:1	1:1	25.11.2017	16:00	2017	2018	13
+Liverpool FC	Chelsea FC	0:0	1:1	25.11.2017	18:30	2017	2018	13
+Southampton FC	Everton FC	1:1	4:1	26.11.2017	14:30	2017	2018	13
+Burnley FC	Arsenal FC	0:0	0:1	26.11.2017	15:00	2017	2018	13
+Huddersfield Town	Manchester City	1:0	1:2	26.11.2017	17:00	2017	2018	13
+Brighton & Hove Albion	Crystal Palace	0:0	0:0	28.11.2017	20:45	2017	2018	14
+Leicester City	Tottenham Hotspur	2:0	2:1	28.11.2017	20:45	2017	2018	14
+Watford FC	Manchester United	0:3	2:4	28.11.2017	21:00	2017	2018	14
+West Bromwich Albion	Newcastle United	1:0	2:2	28.11.2017	21:00	2017	2018	14
+AFC Bournemouth	Burnley FC	0:1	1:2	29.11.2017	20:45	2017	2018	14
+Arsenal FC	Huddersfield Town	1:0	5:0	29.11.2017	20:45	2017	2018	14
+Chelsea FC	Swansea City	0:0	1:0	29.11.2017	20:45	2017	2018	14
+Everton FC	West Ham United	2:0	4:0	29.11.2017	21:00	2017	2018	14
+Manchester City	Southampton FC	0:0	2:1	29.11.2017	21:00	2017	2018	14
+Stoke City	Liverpool FC	0:1	0:3	29.11.2017	21:00	2017	2018	14
+Chelsea FC	Newcastle United	2:1	3:1	02.12.2017	13:30	2017	2018	15
+Brighton & Hove Albion	Liverpool FC	0:2	1:5	02.12.2017	16:00	2017	2018	15
+Everton FC	Huddersfield Town	0:0	2:0	02.12.2017	16:00	2017	2018	15
+Leicester City	Burnley FC	1:0	1:0	02.12.2017	16:00	2017	2018	15
+Stoke City	Swansea City	2:1	2:1	02.12.2017	16:00	2017	2018	15
+Watford FC	Tottenham Hotspur	1:1	1:1	02.12.2017	16:00	2017	2018	15
+West Bromwich Albion	Crystal Palace	0:0	0:0	02.12.2017	16:00	2017	2018	15
+Arsenal FC	Manchester United	0:2	1:3	02.12.2017	18:30	2017	2018	15
+AFC Bournemouth	Southampton FC	1:0	1:1	03.12.2017	14:30	2017	2018	15
+Manchester City	West Ham United	0:1	2:1	03.12.2017	17:00	2017	2018	15
+West Ham United	Chelsea FC	1:0	1:0	09.12.2017	13:30	2017	2018	16
+Burnley FC	Watford FC	1:0	1:0	09.12.2017	16:00	2017	2018	16
+Crystal Palace	AFC Bournemouth	2:2	2:2	09.12.2017	16:00	2017	2018	16
+Huddersfield Town	Brighton & Hove Albion	2:0	2:0	09.12.2017	16:00	2017	2018	16
+Swansea City	West Bromwich Albion	0:0	1:0	09.12.2017	16:00	2017	2018	16
+Tottenham Hotspur	Stoke City	1:0	5:1	09.12.2017	16:00	2017	2018	16
+Newcastle United	Leicester City	1:1	2:3	09.12.2017	18:30	2017	2018	16
+Southampton FC	Arsenal FC	1:0	1:1	10.12.2017	13:00	2017	2018	16
+Liverpool FC	Everton FC	1:0	1:1	10.12.2017	15:15	2017	2018	16
+Manchester United	Manchester City	1:1	1:2	10.12.2017	17:30	2017	2018	16
+Burnley FC	Stoke City	0:0	1:0	12.12.2017	20:45	2017	2018	17
+Crystal Palace	Watford FC	0:1	2:1	12.12.2017	21:00	2017	2018	17
+Huddersfield Town	Chelsea FC	0:2	1:3	12.12.2017	21:00	2017	2018	17
+Swansea City	Manchester City	0:2	0:4	13.12.2017	20:45	2017	2018	17
+Newcastle United	Everton FC	0:1	0:1	13.12.2017	20:45	2017	2018	17
+Southampton FC	Leicester City	0:3	1:4	13.12.2017	20:45	2017	2018	17
+Manchester United	AFC Bournemouth	1:0	1:0	13.12.2017	21:00	2017	2018	17
+West Ham United	Arsenal FC	0:0	0:0	13.12.2017	21:00	2017	2018	17
+Liverpool FC	West Bromwich Albion	0:0	0:0	13.12.2017	21:00	2017	2018	17
+Tottenham Hotspur	Brighton & Hove Albion	1:0	2:0	13.12.2017	21:00	2017	2018	17
+Leicester City	Crystal Palace	0:2	0:3	16.12.2017	13:30	2017	2018	18
+Arsenal FC	Newcastle United	1:0	1:0	16.12.2017	16:00	2017	2018	18
+Brighton & Hove Albion	Burnley FC	0:0	0:0	16.12.2017	16:00	2017	2018	18
+Chelsea FC	Southampton FC	1:0	1:0	16.12.2017	16:00	2017	2018	18
+Watford FC	Huddersfield Town	0:2	1:4	16.12.2017	16:00	2017	2018	18
+Stoke City	West Ham United	0:1	0:3	16.12.2017	17:00	2017	2018	18
+Manchester City	Tottenham Hotspur	1:0	4:1	16.12.2017	18:30	2017	2018	18
+West Bromwich Albion	Manchester United	0:2	1:2	17.12.2017	15:15	2017	2018	18
+AFC Bournemouth	Liverpool FC	0:3	0:4	17.12.2017	17:30	2017	2018	18
+Everton FC	Swansea City	1:1	3:1	18.12.2017	21:00	2017	2018	18
+Arsenal FC	Liverpool FC	0:1	3:3	22.12.2017	20:45	2017	2018	19
+Everton FC	Chelsea FC	0:0	0:0	23.12.2017	13:30	2017	2018	19
+Brighton & Hove Albion	Watford FC	0:0	1:0	23.12.2017	16:00	2017	2018	19
+Manchester City	AFC Bournemouth	1:0	4:0	23.12.2017	16:00	2017	2018	19
+Southampton FC	Huddersfield Town	1:0	1:1	23.12.2017	16:00	2017	2018	19
+Stoke City	West Bromwich Albion	2:0	3:1	23.12.2017	16:00	2017	2018	19
+Swansea City	Crystal Palace	0:0	1:1	23.12.2017	16:00	2017	2018	19
+West Ham United	Newcastle United	1:1	2:3	23.12.2017	16:00	2017	2018	19
+Burnley FC	Tottenham Hotspur	0:1	0:3	23.12.2017	18:30	2017	2018	19
+Leicester City	Manchester United	1:1	2:2	23.12.2017	20:45	2017	2018	19
+Tottenham Hotspur	Southampton FC	2:0	5:2	26.12.2017	13:30	2017	2018	20
+AFC Bournemouth	West Ham United	1:1	3:3	26.12.2017	16:00	2017	2018	20
+Chelsea FC	Brighton & Hove Albion	0:0	2:0	26.12.2017	16:00	2017	2018	20
+Huddersfield Town	Stoke City	1:0	1:1	26.12.2017	16:00	2017	2018	20
+Manchester United	Burnley FC	0:2	2:2	26.12.2017	16:00	2017	2018	20
+Watford FC	Leicester City	1:1	2:1	26.12.2017	16:00	2017	2018	20
+West Bromwich Albion	Everton FC	0:0	0:0	26.12.2017	16:00	2017	2018	20
+Liverpool FC	Swansea City	1:0	5:0	26.12.2017	18:30	2017	2018	20
+Newcastle United	Manchester City	0:1	0:1	27.12.2017	20:45	2017	2018	20
+Crystal Palace	Arsenal FC	0:1	2:3	28.12.2017	21:00	2017	2018	20
+AFC Bournemouth	Everton FC	1:0	2:1	30.12.2017	16:00	2017	2018	21
+Chelsea FC	Stoke City	3:0	5:0	30.12.2017	16:00	2017	2018	21
+Huddersfield Town	Burnley FC	0:0	0:0	30.12.2017	16:00	2017	2018	21
+Liverpool FC	Leicester City	0:1	2:1	30.12.2017	16:00	2017	2018	21
+Newcastle United	Brighton & Hove Albion	0:0	0:0	30.12.2017	16:00	2017	2018	21
+Watford FC	Swansea City	1:0	1:2	30.12.2017	16:00	2017	2018	21
+Manchester United	Southampton FC	0:0	0:0	30.12.2017	18:30	2017	2018	21
+Crystal Palace	Manchester City	0:0	0:0	31.12.2017	13:00	2017	2018	21
+West Bromwich Albion	Arsenal FC	0:0	1:1	31.12.2017	17:30	2017	2018	21
+Tottenham Hotspur	West Ham United	0:0	1:1	04.01.2018	21:00	2017	2018	21
+Brighton & Hove Albion	AFC Bournemouth	1:1	2:2	01.01.2018	13:30	2017	2018	22
+Burnley FC	Liverpool FC	0:0	1:2	01.01.2018	16:00	2017	2018	22
+Leicester City	Huddersfield Town	0:0	3:0	01.01.2018	16:00	2017	2018	22
+Stoke City	Newcastle United	0:0	0:1	01.01.2018	16:00	2017	2018	22
+Everton FC	Manchester United	0:0	0:2	01.01.2018	18:30	2017	2018	22
+Southampton FC	Crystal Palace	1:0	1:2	02.01.2018	20:45	2017	2018	22
+Swansea City	Tottenham Hotspur	0:1	0:2	02.01.2018	20:45	2017	2018	22
+West Ham United	West Bromwich Albion	0:1	2:1	02.01.2018	20:45	2017	2018	22
+Manchester City	Watford FC	2:0	3:1	02.01.2018	21:00	2017	2018	22
+Arsenal FC	Chelsea FC	0:0	2:2	03.01.2018	20:45	2017	2018	22
+Chelsea FC	Leicester City	0:0	0:0	13.01.2018	16:00	2017	2018	23
+Crystal Palace	Burnley FC	1:0	1:0	13.01.2018	16:00	2017	2018	23
+Huddersfield Town	West Ham United	1:1	1:4	13.01.2018	16:00	2017	2018	23
+Newcastle United	Swansea City	0:0	1:1	13.01.2018	16:00	2017	2018	23
+Watford FC	Southampton FC	0:2	2:2	13.01.2018	16:00	2017	2018	23
+West Bromwich Albion	Brighton & Hove Albion	1:0	2:0	13.01.2018	16:00	2017	2018	23
+Tottenham Hotspur	Everton FC	1:0	4:0	13.01.2018	18:30	2017	2018	23
+AFC Bournemouth	Arsenal FC	0:0	2:1	14.01.2018	14:30	2017	2018	23
+Liverpool FC	Manchester City	1:1	4:3	14.01.2018	17:00	2017	2018	23
+Manchester United	Stoke City	2:0	3:0	15.01.2018	21:00	2017	2018	23
+Brighton & Hove Albion	Chelsea FC	0:2	0:4	20.01.2018	13:30	2017	2018	24
+Arsenal FC	Crystal Palace	4:0	4:1	20.01.2018	16:00	2017	2018	24
+Burnley FC	Manchester United	0:0	0:1	20.01.2018	16:00	2017	2018	24
+Everton FC	West Bromwich Albion	0:1	1:1	20.01.2018	16:00	2017	2018	24
+Leicester City	Watford FC	1:0	2:0	20.01.2018	16:00	2017	2018	24
+Stoke City	Huddersfield Town	0:0	2:0	20.01.2018	16:00	2017	2018	24
+West Ham United	AFC Bournemouth	0:0	1:1	20.01.2018	16:00	2017	2018	24
+Manchester City	Newcastle United	1:0	3:1	20.01.2018	18:30	2017	2018	24
+Southampton FC	Tottenham Hotspur	1:1	1:1	21.01.2018	17:00	2017	2018	24
+Swansea City	Liverpool FC	1:0	1:0	22.01.2018	21:00	2017	2018	24
+Swansea City	Arsenal FC	1:1	3:1	30.01.2018	20:45	2017	2018	25
+West Ham United	Crystal Palace	1:1	1:1	30.01.2018	20:45	2017	2018	25
+Huddersfield Town	Liverpool FC	0:2	0:3	30.01.2018	21:00	2017	2018	25
+Chelsea FC	AFC Bournemouth	0:0	0:3	31.01.2018	20:45	2017	2018	25
+Everton FC	Leicester City	2:0	2:1	31.01.2018	20:45	2017	2018	25
+Newcastle United	Burnley FC	0:0	1:1	31.01.2018	20:45	2017	2018	25
+Southampton FC	Brighton & Hove Albion	0:1	1:1	31.01.2018	20:45	2017	2018	25
+Manchester City	West Bromwich Albion	1:0	3:0	31.01.2018	21:00	2017	2018	25
+Stoke City	Watford FC	0:0	0:0	31.01.2018	21:00	2017	2018	25
+Tottenham Hotspur	Manchester United	2:0	2:0	31.01.2018	21:00	2017	2018	25
+Burnley FC	Manchester City	0:1	1:1	03.02.2018	13:30	2017	2018	26
+AFC Bournemouth	Stoke City	0:1	2:1	03.02.2018	16:00	2017	2018	26
+Brighton & Hove Albion	West Ham United	1:1	3:1	03.02.2018	16:00	2017	2018	26
+Leicester City	Swansea City	1:0	1:1	03.02.2018	16:00	2017	2018	26
+Manchester United	Huddersfield Town	0:0	2:0	03.02.2018	16:00	2017	2018	26
+West Bromwich Albion	Southampton FC	1:2	2:3	03.02.2018	16:00	2017	2018	26
+Arsenal FC	Everton FC	4:0	5:1	03.02.2018	18:30	2017	2018	26
+Crystal Palace	Newcastle United	0:1	1:1	04.02.2018	15:15	2017	2018	26
+Liverpool FC	Tottenham Hotspur	1:0	2:2	04.02.2018	17:30	2017	2018	26
+Watford FC	Chelsea FC	1:0	4:1	05.02.2018	21:00	2017	2018	26
+Tottenham Hotspur	Arsenal FC	0:0	1:0	10.02.2018	13:30	2017	2018	27
+Everton FC	Crystal Palace	0:0	3:1	10.02.2018	16:00	2017	2018	27
+Stoke City	Brighton & Hove Albion	0:1	1:1	10.02.2018	16:00	2017	2018	27
+Swansea City	Burnley FC	0:0	1:0	10.02.2018	16:00	2017	2018	27
+West Ham United	Watford FC	1:0	2:0	10.02.2018	16:00	2017	2018	27
+Manchester City	Leicester City	1:1	5:1	10.02.2018	18:30	2017	2018	27
+Huddersfield Town	AFC Bournemouth	2:1	4:1	11.02.2018	13:00	2017	2018	27
+Newcastle United	Manchester United	0:0	1:0	11.02.2018	15:15	2017	2018	27
+Southampton FC	Liverpool FC	0:2	0:2	11.02.2018	17:30	2017	2018	27
+Chelsea FC	West Bromwich Albion	1:0	3:0	12.02.2018	21:00	2017	2018	27
+Leicester City	Stoke City	0:1	1:1	24.02.2018	13:30	2017	2018	28
+AFC Bournemouth	Newcastle United	0:2	2:2	24.02.2018	16:00	2017	2018	28
+Brighton & Hove Albion	Swansea City	1:0	4:1	24.02.2018	16:00	2017	2018	28
+Burnley FC	Southampton FC	0:0	1:1	24.02.2018	16:00	2017	2018	28
+Liverpool FC	West Ham United	1:0	4:1	24.02.2018	16:00	2017	2018	28
+West Bromwich Albion	Huddersfield Town	0:0	1:2	24.02.2018	16:00	2017	2018	28
+Watford FC	Everton FC	0:0	1:0	24.02.2018	18:30	2017	2018	28
+Crystal Palace	Tottenham Hotspur	0:0	0:1	25.02.2018	13:00	2017	2018	28
+Manchester United	Chelsea FC	1:1	2:1	25.02.2018	15:05	2017	2018	28
+Arsenal FC	Manchester City	0:3	0:3	01.03.2018	20:45	2017	2018	28
+Burnley FC	Everton FC	0:1	2:1	03.03.2018	13:30	2017	2018	29
+Leicester City	AFC Bournemouth	0:1	1:1	03.03.2018	16:00	2017	2018	29
+Southampton FC	Stoke City	0:0	0:0	03.03.2018	16:00	2017	2018	29
+Swansea City	West Ham United	2:0	4:1	03.03.2018	16:00	2017	2018	29
+Tottenham Hotspur	Huddersfield Town	1:0	2:0	03.03.2018	16:00	2017	2018	29
+Watford FC	West Bromwich Albion	0:0	1:0	03.03.2018	16:00	2017	2018	29
+Liverpool FC	Newcastle United	1:0	2:0	03.03.2018	18:30	2017	2018	29
+Brighton & Hove Albion	Arsenal FC	2:1	2:1	04.03.2018	14:30	2017	2018	29
+Manchester City	Chelsea FC	0:0	1:0	04.03.2018	17:00	2017	2018	29
+Crystal Palace	Manchester United	1:0	2:3	05.03.2018	21:00	2017	2018	29
+Manchester United	Liverpool FC	2:0	2:1	10.03.2018	13:30	2017	2018	30
+Everton FC	Brighton & Hove Albion	0:0	2:0	10.03.2018	16:00	2017	2018	30
+Huddersfield Town	Swansea City	0:0	0:0	10.03.2018	16:00	2017	2018	30
+Newcastle United	Southampton FC	2:0	3:0	10.03.2018	16:00	2017	2018	30
+West Bromwich Albion	Leicester City	1:1	1:4	10.03.2018	16:00	2017	2018	30
+West Ham United	Burnley FC	0:0	0:3	10.03.2018	16:00	2017	2018	30
+Chelsea FC	Crystal Palace	2:0	2:1	10.03.2018	18:30	2017	2018	30
+Arsenal FC	Watford FC	1:0	3:0	11.03.2018	14:30	2017	2018	30
+AFC Bournemouth	Tottenham Hotspur	1:1	1:4	11.03.2018	17:00	2017	2018	30
+Stoke City	Manchester City	0:1	0:2	12.03.2018	21:00	2017	2018	30
+AFC Bournemouth	West Bromwich Albion	0:0	2:1	17.03.2018	16:00	2017	2018	31
+Huddersfield Town	Crystal Palace	0:1	0:2	17.03.2018	16:00	2017	2018	31
+Stoke City	Everton FC	0:0	1:2	17.03.2018	16:00	2017	2018	31
+Liverpool FC	Watford FC	2:0	5:0	17.03.2018	18:30	2017	2018	31
+Burnley FC	Chelsea FC	0:1	1:2	19.04.2018	20:45	2017	2018	31
+Swansea City	Southampton FC	0:0	0:1	08.05.2018	20:45	2017	2018	31
+Leicester City	Arsenal FC	1:0	3:1	09.05.2018	20:45	2017	2018	31
+Manchester City	Brighton & Hove Albion	2:1	3:1	09.05.2018	21:00	2017	2018	31
+Tottenham Hotspur	Newcastle United	0:0	1:0	09.05.2018	21:00	2017	2018	31
+West Ham United	Manchester United	0:0	0:0	10.05.2018	20:45	2017	2018	31
+Crystal Palace	Liverpool FC	1:0	1:2	31.03.2018	13:30	2017	2018	32
+Brighton & Hove Albion	Leicester City	0:0	0:2	31.03.2018	16:00	2017	2018	32
+Manchester United	Swansea City	2:0	2:0	31.03.2018	16:00	2017	2018	32
+Newcastle United	Huddersfield Town	0:0	1:0	31.03.2018	16:00	2017	2018	32
+West Ham United	Southampton FC	3:0	3:0	31.03.2018	16:00	2017	2018	32
+Watford FC	AFC Bournemouth	1:1	2:2	31.03.2018	16:00	2017	2018	32
+West Bromwich Albion	Burnley FC	0:1	1:2	31.03.2018	16:00	2017	2018	32
+Everton FC	Manchester City	0:3	1:3	31.03.2018	18:30	2017	2018	32
+Arsenal FC	Stoke City	0:0	3:0	01.04.2018	14:30	2017	2018	32
+Chelsea FC	Tottenham Hotspur	1:1	1:3	01.04.2018	17:00	2017	2018	32
+Everton FC	Liverpool FC	0:0	0:0	07.04.2018	13:30	2017	2018	33
+AFC Bournemouth	Crystal Palace	0:0	2:2	07.04.2018	16:00	2017	2018	33
+Brighton & Hove Albion	Huddersfield Town	1:1	1:1	07.04.2018	16:00	2017	2018	33
+Leicester City	Newcastle United	0:1	1:2	07.04.2018	16:00	2017	2018	33
+Stoke City	Tottenham Hotspur	0:0	1:2	07.04.2018	16:00	2017	2018	33
+Watford FC	Burnley FC	0:0	1:2	07.04.2018	16:00	2017	2018	33
+West Bromwich Albion	Swansea City	0:0	1:1	07.04.2018	16:00	2017	2018	33
+Manchester City	Manchester United	2:0	2:3	07.04.2018	18:30	2017	2018	33
+Arsenal FC	Southampton FC	2:1	3:2	08.04.2018	15:15	2017	2018	33
+Chelsea FC	West Ham United	1:0	1:1	08.04.2018	17:30	2017	2018	33
+Southampton FC	Chelsea FC	1:0	2:3	14.04.2018	13:30	2017	2018	34
+Burnley FC	Leicester City	2:0	2:1	14.04.2018	16:00	2017	2018	34
+Crystal Palace	Brighton & Hove Albion	3:2	3:2	14.04.2018	16:00	2017	2018	34
+Huddersfield Town	Watford FC	0:0	1:0	14.04.2018	16:00	2017	2018	34
+Swansea City	Everton FC	0:1	1:1	14.04.2018	16:00	2017	2018	34
+Liverpool FC	AFC Bournemouth	1:0	3:0	14.04.2018	18:30	2017	2018	34
+Tottenham Hotspur	Manchester City	1:2	1:3	14.04.2018	20:45	2017	2018	34
+Newcastle United	Arsenal FC	1:1	2:1	15.04.2018	14:30	2017	2018	34
+Manchester United	West Bromwich Albion	0:0	0:1	15.04.2018	17:00	2017	2018	34
+West Ham United	Stoke City	0:0	1:1	16.04.2018	21:00	2017	2018	34
+Brighton & Hove Albion	Tottenham Hotspur	0:0	1:1	17.04.2018	20:45	2017	2018	35
+AFC Bournemouth	Manchester United	0:1	0:2	18.04.2018	20:45	2017	2018	35
+Leicester City	Southampton FC	0:0	0:0	19.04.2018	20:45	2017	2018	35
+West Bromwich Albion	Liverpool FC	0:1	2:2	21.04.2018	13:30	2017	2018	35
+Watford FC	Crystal Palace	0:0	0:0	21.04.2018	16:00	2017	2018	35
+Arsenal FC	West Ham United	0:0	4:1	22.04.2018	14:30	2017	2018	35
+Stoke City	Burnley FC	1:0	1:1	22.04.2018	14:30	2017	2018	35
+Manchester City	Swansea City	2:0	5:0	22.04.2018	17:30	2017	2018	35
+Everton FC	Newcastle United	0:0	1:0	23.04.2018	21:00	2017	2018	35
+Chelsea FC	Huddersfield Town	0:0	1:1	09.05.2018	20:45	2017	2018	35
+Liverpool FC	Stoke City	0:0	0:0	28.04.2018	13:30	2017	2018	36
+Burnley FC	Brighton & Hove Albion	0:0	0:0	28.04.2018	16:00	2017	2018	36
+Crystal Palace	Leicester City	2:0	5:0	28.04.2018	16:00	2017	2018	36
+Huddersfield Town	Everton FC	0:1	0:2	28.04.2018	16:00	2017	2018	36
+Newcastle United	West Bromwich Albion	0:1	0:1	28.04.2018	16:00	2017	2018	36
+Southampton FC	AFC Bournemouth	1:1	2:1	28.04.2018	16:00	2017	2018	36
+Swansea City	Chelsea FC	0:1	0:1	28.04.2018	18:30	2017	2018	36
+West Ham United	Manchester City	1:2	1:4	29.04.2018	15:15	2017	2018	36
+Manchester United	Arsenal FC	1:0	2:1	29.04.2018	17:30	2017	2018	36
+Tottenham Hotspur	Watford FC	1:0	2:0	30.04.2018	21:00	2017	2018	36
+Brighton & Hove Albion	Manchester United	0:0	1:0	04.05.2018	21:00	2017	2018	37
+Stoke City	Crystal Palace	1:0	1:2	05.05.2018	13:30	2017	2018	37
+AFC Bournemouth	Swansea City	1:0	1:0	05.05.2018	16:00	2017	2018	37
+Leicester City	West Ham United	0:1	0:2	05.05.2018	16:00	2017	2018	37
+Watford FC	Newcastle United	2:0	2:1	05.05.2018	16:00	2017	2018	37
+West Bromwich Albion	Tottenham Hotspur	0:0	1:0	05.05.2018	16:00	2017	2018	37
+Everton FC	Southampton FC	0:0	1:1	05.05.2018	18:30	2017	2018	37
+Manchester City	Huddersfield Town	0:0	0:0	06.05.2018	14:30	2017	2018	37
+Arsenal FC	Burnley FC	2:0	5:0	06.05.2018	17:30	2017	2018	37
+Chelsea FC	Liverpool FC	1:0	1:0	06.05.2018	17:30	2017	2018	37
+Burnley FC	AFC Bournemouth	1:0	1:2	13.05.2018	16:00	2017	2018	38
+Crystal Palace	West Bromwich Albion	0:0	2:0	13.05.2018	16:00	2017	2018	38
+Huddersfield Town	Arsenal FC	0:1	0:1	13.05.2018	16:00	2017	2018	38
+Liverpool FC	Brighton & Hove Albion	2:0	4:0	13.05.2018	16:00	2017	2018	38
+Manchester United	Watford FC	1:0	1:0	13.05.2018	16:00	2017	2018	38
+Newcastle United	Chelsea FC	1:0	3:0	13.05.2018	16:00	2017	2018	38
+Southampton FC	Manchester City	0:0	0:1	13.05.2018	16:00	2017	2018	38
+Swansea City	Stoke City	1:2	1:2	13.05.2018	16:00	2017	2018	38
+Tottenham Hotspur	Leicester City	1:2	5:4	13.05.2018	16:00	2017	2018	38
+West Ham United	Everton FC	1:0	3:1	13.05.2018	16:00	2017	2018	38

@@ -1,0 +1,306 @@
+Bayer Leverkusen	1. FC Kaiserslautern	0:1	0:1	15.08.1980	20:00	1980	1981	1
+Borussia Dortmund	Bayer 05 Uerdingen	2:0	2:1	15.08.1980	20:00	1980	1981	1
+TSV 1860 MÃ¼nchen	VfL Bochum	0:0	2:2	16.08.1980	15:30	1980	1981	1
+Hamburger SV	MSV Duisburg	0:0	0:0	16.08.1980	15:30	1980	1981	1
+VfB Stuttgart	1. FC NÃ¼rnberg	2:0	2:1	16.08.1980	15:30	1980	1981	1
+Arminia Bielefeld	1. FC KÃ¶ln	1:1	2:5	16.08.1980	15:30	1980	1981	1
+FC Schalke 04	Eintracht Frankfurt	1:3	1:4	16.08.1980	15:30	1980	1981	1
+Fortuna DÃ¼sseldorf	Bor. MÃ¶nchengladbach	0:0	2:1	16.08.1980	15:30	1980	1981	1
+Karlsruher SC	Bayern MÃ¼nchen	0:1	0:3	16.08.1980	15:30	1980	1981	1
+Bor. MÃ¶nchengladbach	FC Schalke 04	1:0	3:1	19.08.1980	19:30	1980	1981	2
+MSV Duisburg	TSV 1860 MÃ¼nchen	0:0	1:0	19.08.1980	19:30	1980	1981	2
+Bayern MÃ¼nchen	Borussia Dortmund	1:0	5:3	19.08.1980	20:00	1980	1981	2
+Eintracht Frankfurt	Arminia Bielefeld	2:0	2:0	19.08.1980	20:00	1980	1981	2
+Bayer 05 Uerdingen	Fortuna DÃ¼sseldorf	0:1	0:1	19.08.1980	20:00	1980	1981	2
+VfL Bochum	Karlsruher SC	0:0	0:0	20.08.1980	19:30	1980	1981	2
+1. FC KÃ¶ln	Bayer Leverkusen	0:0	1:1	20.08.1980	20:00	1980	1981	2
+1. FC Kaiserslautern	VfB Stuttgart	1:0	1:0	20.08.1980	20:00	1980	1981	2
+1. FC NÃ¼rnberg	Hamburger SV	1:1	2:3	20.08.1980	20:00	1980	1981	2
+TSV 1860 MÃ¼nchen	1. FC NÃ¼rnberg	1:2	2:4	23.08.1980	15:30	1980	1981	3
+Hamburger SV	1. FC Kaiserslautern	0:0	3:2	23.08.1980	15:30	1980	1981	3
+VfB Stuttgart	1. FC KÃ¶ln	1:0	3:0	23.08.1980	15:30	1980	1981	3
+Bayer Leverkusen	Eintracht Frankfurt	1:0	3:2	23.08.1980	15:30	1980	1981	3
+Arminia Bielefeld	Bor. MÃ¶nchengladbach	1:1	2:3	23.08.1980	15:30	1980	1981	3
+FC Schalke 04	Bayer 05 Uerdingen	1:1	3:1	23.08.1980	15:30	1980	1981	3
+Fortuna DÃ¼sseldorf	Bayern MÃ¼nchen	0:0	3:0	23.08.1980	15:30	1980	1981	3
+VfL Bochum	MSV Duisburg	0:0	1:1	23.08.1980	15:30	1980	1981	3
+Karlsruher SC	Borussia Dortmund	1:0	1:1	23.08.1980	15:30	1980	1981	3
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	0:0	1:0	02.09.1980	19:30	1980	1981	4
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	0:0	3:2	02.09.1980	19:30	1980	1981	4
+MSV Duisburg	Karlsruher SC	0:1	2:2	02.09.1980	19:30	1980	1981	4
+Borussia Dortmund	Fortuna DÃ¼sseldorf	1:0	2:1	02.09.1980	19:30	1980	1981	4
+Bayern MÃ¼nchen	FC Schalke 04	1:1	5:1	03.09.1980	20:00	1980	1981	4
+Eintracht Frankfurt	VfB Stuttgart	1:0	2:1	03.09.1980	20:00	1980	1981	4
+1. FC KÃ¶ln	Hamburger SV	0:1	0:3	03.09.1980	20:00	1980	1981	4
+1. FC NÃ¼rnberg	VfL Bochum	0:1	0:2	03.09.1980	20:00	1980	1981	4
+Bayer 05 Uerdingen	Arminia Bielefeld	0:0	2:2	03.09.1980	20:00	1980	1981	4
+VfL Bochum	1. FC Kaiserslautern	0:0	0:0	05.09.1980	19:30	1980	1981	5
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	1:1	2:1	06.09.1980	15:30	1980	1981	5
+Hamburger SV	Eintracht Frankfurt	2:1	3:1	06.09.1980	15:30	1980	1981	5
+VfB Stuttgart	Bor. MÃ¶nchengladbach	2:2	4:2	06.09.1980	15:30	1980	1981	5
+Bayer Leverkusen	Bayer 05 Uerdingen	1:0	4:1	06.09.1980	15:30	1980	1981	5
+Arminia Bielefeld	Bayern MÃ¼nchen	1:1	1:2	06.09.1980	15:30	1980	1981	5
+FC Schalke 04	Borussia Dortmund	1:0	1:2	06.09.1980	15:30	1980	1981	5
+MSV Duisburg	1. FC NÃ¼rnberg	2:0	2:0	06.09.1980	15:30	1980	1981	5
+Karlsruher SC	Fortuna DÃ¼sseldorf	1:0	3:0	06.09.1980	15:30	1980	1981	5
+1. FC Kaiserslautern	MSV Duisburg	1:1	1:1	12.09.1980	20:00	1980	1981	6
+Fortuna DÃ¼sseldorf	FC Schalke 04	2:1	3:3	12.09.1980	20:00	1980	1981	6
+Bayern MÃ¼nchen	Bayer Leverkusen	1:0	3:0	13.09.1980	15:30	1980	1981	6
+Bor. MÃ¶nchengladbach	Hamburger SV	1:0	2:2	13.09.1980	15:30	1980	1981	6
+Eintracht Frankfurt	TSV 1860 MÃ¼nchen	0:0	2:1	13.09.1980	15:30	1980	1981	6
+1. FC KÃ¶ln	VfL Bochum	1:1	2:2	13.09.1980	15:30	1980	1981	6
+1. FC NÃ¼rnberg	Karlsruher SC	2:0	5:0	13.09.1980	15:30	1980	1981	6
+Borussia Dortmund	Arminia Bielefeld	3:0	5:0	13.09.1980	15:30	1980	1981	6
+Bayer 05 Uerdingen	VfB Stuttgart	1:2	3:3	13.09.1980	15:30	1980	1981	6
+TSV 1860 MÃ¼nchen	Bor. MÃ¶nchengladbach	0:0	0:0	20.09.1980	15:30	1980	1981	7
+Hamburger SV	Bayer 05 Uerdingen	2:0	2:1	20.09.1980	15:30	1980	1981	7
+VfB Stuttgart	Bayern MÃ¼nchen	0:1	1:2	20.09.1980	15:30	1980	1981	7
+Bayer Leverkusen	Borussia Dortmund	2:0	4:1	20.09.1980	15:30	1980	1981	7
+Arminia Bielefeld	Fortuna DÃ¼sseldorf	1:0	3:0	20.09.1980	15:30	1980	1981	7
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	0:0	0:4	20.09.1980	15:30	1980	1981	7
+MSV Duisburg	1. FC KÃ¶ln	1:0	3:4	20.09.1980	15:30	1980	1981	7
+VfL Bochum	Eintracht Frankfurt	0:0	2:0	20.09.1980	15:30	1980	1981	7
+Karlsruher SC	FC Schalke 04	0:2	3:2	20.09.1980	15:30	1980	1981	7
+Bor. MÃ¶nchengladbach	VfL Bochum	1:0	2:1	26.09.1980	20:00	1980	1981	8
+FC Schalke 04	Arminia Bielefeld	1:1	2:2	26.09.1980	20:00	1980	1981	8
+Bayern MÃ¼nchen	Hamburger SV	0:0	2:1	27.09.1980	15:30	1980	1981	8
+Eintracht Frankfurt	MSV Duisburg	1:1	2:1	27.09.1980	15:30	1980	1981	8
+1. FC KÃ¶ln	1. FC NÃ¼rnberg	1:2	2:2	27.09.1980	15:30	1980	1981	8
+1. FC Kaiserslautern	Karlsruher SC	1:0	1:0	27.09.1980	15:30	1980	1981	8
+Fortuna DÃ¼sseldorf	Bayer Leverkusen	1:0	4:3	27.09.1980	15:30	1980	1981	8
+Borussia Dortmund	VfB Stuttgart	1:0	3:3	27.09.1980	15:30	1980	1981	8
+Bayer 05 Uerdingen	TSV 1860 MÃ¼nchen	0:0	0:3	27.09.1980	15:30	1980	1981	8
+TSV 1860 MÃ¼nchen	Bayern MÃ¼nchen	0:2	1:3	14.10.1980	20:00	1980	1981	9
+Hamburger SV	Borussia Dortmund	2:1	2:1	14.10.1980	20:00	1980	1981	9
+Karlsruher SC	Arminia Bielefeld	1:1	2:1	14.10.1980	20:00	1980	1981	9
+VfB Stuttgart	Fortuna DÃ¼sseldorf	2:2	4:2	15.10.1980	20:00	1980	1981	9
+Bayer Leverkusen	FC Schalke 04	2:0	4:0	15.10.1980	20:00	1980	1981	9
+1. FC Kaiserslautern	1. FC KÃ¶ln	2:0	5:1	15.10.1980	20:00	1980	1981	9
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:1	1:4	15.10.1980	20:00	1980	1981	9
+MSV Duisburg	Bor. MÃ¶nchengladbach	1:0	4:0	15.10.1980	20:00	1980	1981	9
+VfL Bochum	Bayer 05 Uerdingen	1:1	2:2	15.10.1980	20:00	1980	1981	9
+Bayern MÃ¼nchen	VfL Bochum	3:0	3:1	18.10.1980	15:30	1980	1981	10
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	0:1	1:4	18.10.1980	15:30	1980	1981	10
+Eintracht Frankfurt	1. FC Kaiserslautern	0:1	3:2	18.10.1980	15:30	1980	1981	10
+1. FC KÃ¶ln	Karlsruher SC	2:0	4:0	18.10.1980	15:30	1980	1981	10
+Arminia Bielefeld	Bayer Leverkusen	0:0	1:1	18.10.1980	15:30	1980	1981	10
+FC Schalke 04	VfB Stuttgart	1:0	3:2	18.10.1980	15:30	1980	1981	10
+Fortuna DÃ¼sseldorf	Hamburger SV	1:3	2:3	18.10.1980	15:30	1980	1981	10
+Borussia Dortmund	TSV 1860 MÃ¼nchen	1:1	4:1	18.10.1980	15:30	1980	1981	10
+Bayer 05 Uerdingen	MSV Duisburg	1:0	4:1	18.10.1980	15:30	1980	1981	10
+1. FC NÃ¼rnberg	Bayer 05 Uerdingen	0:0	0:0	24.10.1980	20:00	1980	1981	11
+TSV 1860 MÃ¼nchen	Fortuna DÃ¼sseldorf	0:3	4:3	25.10.1980	15:30	1980	1981	11
+Hamburger SV	FC Schalke 04	3:0	7:1	25.10.1980	15:30	1980	1981	11
+VfB Stuttgart	Arminia Bielefeld	0:1	2:1	25.10.1980	15:30	1980	1981	11
+1. FC KÃ¶ln	Eintracht Frankfurt	3:0	5:0	25.10.1980	15:30	1980	1981	11
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	1:1	3:2	25.10.1980	15:30	1980	1981	11
+MSV Duisburg	Bayern MÃ¼nchen	0:0	0:1	25.10.1980	15:30	1980	1981	11
+VfL Bochum	Borussia Dortmund	0:2	0:2	25.10.1980	15:30	1980	1981	11
+Karlsruher SC	Bayer Leverkusen	1:1	1:1	25.10.1980	15:30	1980	1981	11
+Fortuna DÃ¼sseldorf	VfL Bochum	1:1	1:1	29.10.1980	20:00	1980	1981	12
+Bayer Leverkusen	VfB Stuttgart	1:1	1:1	31.10.1980	19:30	1980	1981	12
+Arminia Bielefeld	Hamburger SV	0:0	0:2	31.10.1980	19:30	1980	1981	12
+FC Schalke 04	TSV 1860 MÃ¼nchen	1:0	1:0	31.10.1980	19:30	1980	1981	12
+Borussia Dortmund	MSV Duisburg	5:1	5:1	31.10.1980	19:30	1980	1981	12
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	3:0	4:2	31.10.1980	20:00	1980	1981	12
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	2:0	2:0	31.10.1980	20:00	1980	1981	12
+Bayer 05 Uerdingen	1. FC Kaiserslautern	0:0	1:0	31.10.1980	20:00	1980	1981	12
+Eintracht Frankfurt	Karlsruher SC	0:1	3:3	01.11.1980	15:30	1980	1981	12
+TSV 1860 MÃ¼nchen	Arminia Bielefeld	1:1	2:1	08.11.1980	15:30	1980	1981	13
+Hamburger SV	Bayer Leverkusen	0:0	2:0	08.11.1980	15:30	1980	1981	13
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	1:0	2:1	08.11.1980	15:30	1980	1981	13
+1. FC KÃ¶ln	Bayer 05 Uerdingen	2:0	3:0	08.11.1980	15:30	1980	1981	13
+1. FC Kaiserslautern	Bayern MÃ¼nchen	1:2	4:2	08.11.1980	15:30	1980	1981	13
+1. FC NÃ¼rnberg	Borussia Dortmund	0:0	2:0	08.11.1980	15:30	1980	1981	13
+Karlsruher SC	VfB Stuttgart	0:0	0:0	08.11.1980	15:30	1980	1981	13
+VfL Bochum	FC Schalke 04	3:1	5:1	11.11.1980	20:00	1980	1981	13
+MSV Duisburg	Fortuna DÃ¼sseldorf	1:0	2:1	25.11.1980	20:00	1980	1981	13
+Bayern MÃ¼nchen	1. FC KÃ¶ln	1:1	1:1	15.11.1980	15:30	1980	1981	14
+Bor. MÃ¶nchengladbach	Karlsruher SC	1:0	3:3	15.11.1980	15:30	1980	1981	14
+VfB Stuttgart	Hamburger SV	1:1	3:2	15.11.1980	15:30	1980	1981	14
+Bayer Leverkusen	TSV 1860 MÃ¼nchen	0:0	1:1	15.11.1980	15:30	1980	1981	14
+Arminia Bielefeld	VfL Bochum	0:1	3:3	15.11.1980	15:30	1980	1981	14
+FC Schalke 04	MSV Duisburg	2:1	2:2	15.11.1980	15:30	1980	1981	14
+Fortuna DÃ¼sseldorf	1. FC NÃ¼rnberg	1:1	2:2	15.11.1980	15:30	1980	1981	14
+Borussia Dortmund	1. FC Kaiserslautern	1:1	2:2	15.11.1980	15:30	1980	1981	14
+Bayer 05 Uerdingen	Eintracht Frankfurt	2:1	4:1	15.11.1980	15:30	1980	1981	14
+VfL Bochum	Bayer Leverkusen	0:1	1:1	28.11.1980	20:00	1980	1981	15
+TSV 1860 MÃ¼nchen	VfB Stuttgart	0:0	0:0	29.11.1980	15:30	1980	1981	15
+Hamburger SV	Karlsruher SC	2:1	3:1	29.11.1980	15:30	1980	1981	15
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:0	0:0	29.11.1980	15:30	1980	1981	15
+1. FC KÃ¶ln	Borussia Dortmund	1:0	2:1	29.11.1980	15:30	1980	1981	15
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	1:0	3:0	29.11.1980	15:30	1980	1981	15
+1. FC NÃ¼rnberg	FC Schalke 04	0:0	2:0	29.11.1980	15:30	1980	1981	15
+MSV Duisburg	Arminia Bielefeld	0:0	1:1	29.11.1980	15:30	1980	1981	15
+Bayer 05 Uerdingen	Bor. MÃ¶nchengladbach	1:0	2:0	29.11.1980	15:30	1980	1981	15
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	0:0	4:0	06.12.1980	15:30	1980	1981	16
+VfB Stuttgart	VfL Bochum	2:1	4:1	06.12.1980	15:30	1980	1981	16
+Bayer Leverkusen	MSV Duisburg	0:0	1:1	06.12.1980	15:30	1980	1981	16
+Arminia Bielefeld	1. FC NÃ¼rnberg	0:0	0:2	06.12.1980	15:30	1980	1981	16
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	0:0	0:0	06.12.1980	15:30	1980	1981	16
+Borussia Dortmund	Eintracht Frankfurt	1:0	2:1	06.12.1980	15:30	1980	1981	16
+FC Schalke 04	1. FC Kaiserslautern	0:1	0:2	09.12.1980	20:00	1980	1981	16
+Hamburger SV	TSV 1860 MÃ¼nchen	1:0	4:1	16.12.1980	20:00	1980	1981	16
+Karlsruher SC	Bayer 05 Uerdingen	1:0	3:1	16.12.1980	20:00	1980	1981	16
+Bor. MÃ¶nchengladbach	Borussia Dortmund	0:0	1:0	12.12.1980	20:00	1980	1981	17
+TSV 1860 MÃ¼nchen	Karlsruher SC	3:0	4:2	13.12.1980	15:30	1980	1981	17
+Eintracht Frankfurt	Fortuna DÃ¼sseldorf	0:0	2:2	13.12.1980	15:30	1980	1981	17
+1. FC KÃ¶ln	FC Schalke 04	0:0	0:2	13.12.1980	15:30	1980	1981	17
+1. FC Kaiserslautern	Arminia Bielefeld	0:3	1:3	13.12.1980	15:30	1980	1981	17
+1. FC NÃ¼rnberg	Bayer Leverkusen	1:0	1:1	13.12.1980	15:30	1980	1981	17
+MSV Duisburg	VfB Stuttgart	0:1	0:3	13.12.1980	15:30	1980	1981	17
+VfL Bochum	Hamburger SV	0:0	0:3	13.12.1980	15:30	1980	1981	17
+Bayer 05 Uerdingen	Bayern MÃ¼nchen	2:0	2:2	13.12.1980	15:30	1980	1981	17
+1. FC NÃ¼rnberg	VfB Stuttgart	0:2	1:2	17.01.1981	15:30	1980	1981	18
+Bayern MÃ¼nchen	Karlsruher SC	0:1	1:1	17.01.1981	15:30	1980	1981	18
+VfL Bochum	TSV 1860 MÃ¼nchen	0:1	4:1	27.01.1981	20:00	1980	1981	18
+MSV Duisburg	Hamburger SV	0:0	2:0	27.01.1981	20:00	1980	1981	18
+Eintracht Frankfurt	FC Schalke 04	2:0	5:0	27.01.1981	20:00	1980	1981	18
+Bor. MÃ¶nchengladbach	Fortuna DÃ¼sseldorf	1:2	2:2	27.01.1981	20:00	1980	1981	18
+Bayer 05 Uerdingen	Borussia Dortmund	1:1	2:1	28.01.1981	20:00	1980	1981	18
+1. FC KÃ¶ln	Arminia Bielefeld	1:0	1:0	31.01.1981	15:30	1980	1981	18
+1. FC Kaiserslautern	Bayer Leverkusen	1:1	3:1	17.03.1981	20:00	1980	1981	18
+FC Schalke 04	Bor. MÃ¶nchengladbach	1:2	2:2	24.01.1981	15:30	1980	1981	19
+Arminia Bielefeld	Eintracht Frankfurt	0:1	1:1	24.01.1981	15:30	1980	1981	19
+Bayer Leverkusen	1. FC KÃ¶ln	0:0	1:1	24.01.1981	15:30	1980	1981	19
+VfB Stuttgart	1. FC Kaiserslautern	0:0	1:0	24.01.1981	15:30	1980	1981	19
+Hamburger SV	1. FC NÃ¼rnberg	1:0	1:0	24.01.1981	15:30	1980	1981	19
+TSV 1860 MÃ¼nchen	MSV Duisburg	0:0	1:3	24.01.1981	15:30	1980	1981	19
+Karlsruher SC	VfL Bochum	0:0	0:0	24.01.1981	15:30	1980	1981	19
+Fortuna DÃ¼sseldorf	Bayer 05 Uerdingen	2:0	4:2	24.01.1981	15:30	1980	1981	19
+Borussia Dortmund	Bayern MÃ¼nchen	1:1	2:2	03.02.1981	20:00	1980	1981	19
+1. FC Kaiserslautern	Hamburger SV	2:1	2:2	07.02.1981	15:30	1980	1981	20
+1. FC KÃ¶ln	VfB Stuttgart	2:1	3:1	07.02.1981	15:30	1980	1981	20
+Eintracht Frankfurt	Bayer Leverkusen	2:0	2:0	07.02.1981	15:30	1980	1981	20
+Bor. MÃ¶nchengladbach	Arminia Bielefeld	1:1	4:2	07.02.1981	15:30	1980	1981	20
+Bayer 05 Uerdingen	FC Schalke 04	1:1	1:3	07.02.1981	15:30	1980	1981	20
+Bayern MÃ¼nchen	Fortuna DÃ¼sseldorf	2:0	3:2	07.02.1981	15:30	1980	1981	20
+MSV Duisburg	VfL Bochum	0:1	0:3	07.02.1981	15:30	1980	1981	20
+Borussia Dortmund	Karlsruher SC	3:3	3:3	07.02.1981	15:30	1980	1981	20
+1. FC NÃ¼rnberg	TSV 1860 MÃ¼nchen	0:1	1:2	28.02.1981	15:30	1980	1981	20
+FC Schalke 04	Bayern MÃ¼nchen	1:0	2:2	14.02.1981	15:30	1980	1981	21
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	0:1	1:5	14.02.1981	15:30	1980	1981	21
+VfB Stuttgart	Eintracht Frankfurt	1:0	1:1	14.02.1981	15:30	1980	1981	21
+Hamburger SV	1. FC KÃ¶ln	1:0	2:0	14.02.1981	15:30	1980	1981	21
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	0:1	1:1	14.02.1981	15:30	1980	1981	21
+VfL Bochum	1. FC NÃ¼rnberg	1:0	4:0	14.02.1981	15:30	1980	1981	21
+Karlsruher SC	MSV Duisburg	2:0	2:0	14.02.1981	15:30	1980	1981	21
+Fortuna DÃ¼sseldorf	Borussia Dortmund	1:0	2:2	14.02.1981	15:30	1980	1981	21
+Arminia Bielefeld	Bayer 05 Uerdingen	1:1	3:1	14.02.1981	15:30	1980	1981	21
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	4:1	4:1	21.02.1981	15:30	1980	1981	22
+Eintracht Frankfurt	Hamburger SV	0:0	1:1	21.02.1981	15:30	1980	1981	22
+Bayer 05 Uerdingen	Bayer Leverkusen	2:0	3:0	21.02.1981	15:30	1980	1981	22
+Bayern MÃ¼nchen	Arminia Bielefeld	4:0	5:1	21.02.1981	15:30	1980	1981	22
+Borussia Dortmund	FC Schalke 04	1:0	2:2	21.02.1981	15:30	1980	1981	22
+1. FC NÃ¼rnberg	MSV Duisburg	0:0	1:0	21.02.1981	15:30	1980	1981	22
+Fortuna DÃ¼sseldorf	Karlsruher SC	0:2	1:2	21.02.1981	15:30	1980	1981	22
+1. FC Kaiserslautern	VfL Bochum	0:0	0:0	24.03.1981	20:00	1980	1981	22
+Bor. MÃ¶nchengladbach	VfB Stuttgart	0:1	1:3	24.04.1981	20:00	1980	1981	22
+Bayer Leverkusen	Bayern MÃ¼nchen	3:0	3:0	07.03.1981	15:30	1980	1981	23
+Hamburger SV	Bor. MÃ¶nchengladbach	2:0	2:1	07.03.1981	15:30	1980	1981	23
+TSV 1860 MÃ¼nchen	Eintracht Frankfurt	0:1	0:2	07.03.1981	15:30	1980	1981	23
+VfL Bochum	1. FC KÃ¶ln	0:0	1:1	07.03.1981	15:30	1980	1981	23
+MSV Duisburg	1. FC Kaiserslautern	0:0	1:1	07.03.1981	15:30	1980	1981	23
+Karlsruher SC	1. FC NÃ¼rnberg	1:1	4:1	07.03.1981	15:30	1980	1981	23
+Arminia Bielefeld	Borussia Dortmund	0:0	1:0	07.03.1981	15:30	1980	1981	23
+VfB Stuttgart	Bayer 05 Uerdingen	1:0	3:2	07.03.1981	15:30	1980	1981	23
+FC Schalke 04	Fortuna DÃ¼sseldorf	0:2	0:4	09.05.1981	15:30	1980	1981	23
+Bor. MÃ¶nchengladbach	TSV 1860 MÃ¼nchen	2:1	3:2	14.03.1981	15:30	1980	1981	24
+Bayer 05 Uerdingen	Hamburger SV	0:0	0:3	14.03.1981	15:30	1980	1981	24
+Bayern MÃ¼nchen	VfB Stuttgart	1:1	1:1	14.03.1981	15:30	1980	1981	24
+Borussia Dortmund	Bayer Leverkusen	3:1	5:3	14.03.1981	15:30	1980	1981	24
+Fortuna DÃ¼sseldorf	Arminia Bielefeld	2:1	3:1	14.03.1981	15:30	1980	1981	24
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	3:1	3:1	14.03.1981	15:30	1980	1981	24
+1. FC KÃ¶ln	MSV Duisburg	1:0	1:0	14.03.1981	15:30	1980	1981	24
+Eintracht Frankfurt	VfL Bochum	2:1	2:2	14.03.1981	15:30	1980	1981	24
+FC Schalke 04	Karlsruher SC	0:0	1:0	14.03.1981	15:30	1980	1981	24
+Hamburger SV	Bayern MÃ¼nchen	0:0	2:2	21.03.1981	15:30	1980	1981	25
+VfL Bochum	Bor. MÃ¶nchengladbach	1:0	1:1	21.03.1981	15:30	1980	1981	25
+MSV Duisburg	Eintracht Frankfurt	0:0	0:0	21.03.1981	15:30	1980	1981	25
+1. FC NÃ¼rnberg	1. FC KÃ¶ln	0:1	2:1	21.03.1981	15:30	1980	1981	25
+Karlsruher SC	1. FC Kaiserslautern	0:1	1:1	21.03.1981	15:30	1980	1981	25
+Arminia Bielefeld	FC Schalke 04	0:0	1:0	21.03.1981	15:30	1980	1981	25
+Bayer Leverkusen	Fortuna DÃ¼sseldorf	1:0	2:0	21.03.1981	15:30	1980	1981	25
+VfB Stuttgart	Borussia Dortmund	2:0	3:1	21.03.1981	15:30	1980	1981	25
+TSV 1860 MÃ¼nchen	Bayer 05 Uerdingen	3:0	4:0	21.03.1981	15:30	1980	1981	25
+FC Schalke 04	Bayer Leverkusen	1:1	3:1	27.03.1981	20:00	1980	1981	26
+Bayer 05 Uerdingen	VfL Bochum	0:0	1:0	27.03.1981	20:00	1980	1981	26
+Bayern MÃ¼nchen	TSV 1860 MÃ¼nchen	0:0	1:1	28.03.1981	15:30	1980	1981	26
+Borussia Dortmund	Hamburger SV	2:2	6:2	28.03.1981	15:30	1980	1981	26
+Fortuna DÃ¼sseldorf	VfB Stuttgart	1:1	3:1	28.03.1981	15:30	1980	1981	26
+1. FC KÃ¶ln	1. FC Kaiserslautern	1:1	2:2	28.03.1981	15:30	1980	1981	26
+Eintracht Frankfurt	1. FC NÃ¼rnberg	2:0	3:0	28.03.1981	15:30	1980	1981	26
+Bor. MÃ¶nchengladbach	MSV Duisburg	1:1	4:1	28.03.1981	15:30	1980	1981	26
+Arminia Bielefeld	Karlsruher SC	1:0	4:1	28.03.1981	15:30	1980	1981	26
+MSV Duisburg	Bayer 05 Uerdingen	2:0	3:2	03.04.1981	20:00	1980	1981	27
+VfL Bochum	Bayern MÃ¼nchen	1:1	1:3	04.04.1981	15:30	1980	1981	27
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	0:0	2:0	04.04.1981	15:30	1980	1981	27
+Karlsruher SC	1. FC KÃ¶ln	0:1	1:1	04.04.1981	15:30	1980	1981	27
+Bayer Leverkusen	Arminia Bielefeld	1:0	2:0	04.04.1981	15:30	1980	1981	27
+VfB Stuttgart	FC Schalke 04	1:0	3:0	04.04.1981	15:30	1980	1981	27
+Hamburger SV	Fortuna DÃ¼sseldorf	0:0	2:1	04.04.1981	15:30	1980	1981	27
+TSV 1860 MÃ¼nchen	Borussia Dortmund	0:0	0:1	04.04.1981	15:30	1980	1981	27
+1. FC Kaiserslautern	Eintracht Frankfurt	0:0	2:0	14.04.1981	20:00	1980	1981	27
+Borussia Dortmund	VfL Bochum	0:2	1:3	10.04.1981	20:00	1980	1981	28
+Fortuna DÃ¼sseldorf	TSV 1860 MÃ¼nchen	1:1	2:1	11.04.1981	15:30	1980	1981	28
+FC Schalke 04	Hamburger SV	1:0	2:1	11.04.1981	15:30	1980	1981	28
+Arminia Bielefeld	VfB Stuttgart	0:0	1:0	11.04.1981	15:30	1980	1981	28
+Eintracht Frankfurt	1. FC KÃ¶ln	2:0	4:0	11.04.1981	15:30	1980	1981	28
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	0:0	1:0	11.04.1981	15:30	1980	1981	28
+Bayer 05 Uerdingen	1. FC NÃ¼rnberg	2:1	3:2	11.04.1981	15:30	1980	1981	28
+Bayern MÃ¼nchen	MSV Duisburg	2:1	5:1	11.04.1981	15:30	1980	1981	28
+Bayer Leverkusen	Karlsruher SC	2:0	3:0	11.04.1981	15:30	1980	1981	28
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	0:0	0:1	16.04.1981	20:00	1980	1981	29
+Hamburger SV	Arminia Bielefeld	2:0	4:1	16.04.1981	20:00	1980	1981	29
+VfL Bochum	Fortuna DÃ¼sseldorf	1:1	2:1	16.04.1981	20:00	1980	1981	29
+MSV Duisburg	Borussia Dortmund	0:1	2:1	16.04.1981	20:00	1980	1981	29
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:1	2:3	18.04.1981	15:30	1980	1981	29
+Karlsruher SC	Eintracht Frankfurt	0:1	1:1	18.04.1981	15:30	1980	1981	29
+VfB Stuttgart	Bayer Leverkusen	1:1	2:1	18.04.1981	15:30	1980	1981	29
+TSV 1860 MÃ¼nchen	FC Schalke 04	2:0	3:1	18.04.1981	15:30	1980	1981	29
+1. FC Kaiserslautern	Bayer 05 Uerdingen	2:1	4:2	18.04.1981	15:30	1980	1981	29
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:2	2:2	08.05.1981	20:00	1980	1981	30
+Fortuna DÃ¼sseldorf	MSV Duisburg	0:1	0:1	08.05.1981	20:00	1980	1981	30
+Arminia Bielefeld	TSV 1860 MÃ¼nchen	1:1	3:2	09.05.1981	15:30	1980	1981	30
+Bayer Leverkusen	Hamburger SV	1:1	1:2	09.05.1981	15:30	1980	1981	30
+Bayer 05 Uerdingen	1. FC KÃ¶ln	0:0	0:1	09.05.1981	15:30	1980	1981	30
+Bayern MÃ¼nchen	1. FC Kaiserslautern	1:0	3:0	09.05.1981	15:30	1980	1981	30
+Borussia Dortmund	1. FC NÃ¼rnberg	0:0	1:0	09.05.1981	15:30	1980	1981	30
+FC Schalke 04	VfL Bochum	0:2	0:6	09.05.1981	15:30	1980	1981	30
+VfB Stuttgart	Karlsruher SC	4:1	5:2	09.05.1981	15:30	1980	1981	30
+Karlsruher SC	Bor. MÃ¶nchengladbach	1:1	3:4	15.05.1981	20:00	1980	1981	31
+MSV Duisburg	FC Schalke 04	1:1	5:1	15.05.1981	20:00	1980	1981	31
+1. FC Kaiserslautern	Borussia Dortmund	0:1	1:1	15.05.1981	20:00	1980	1981	31
+1. FC KÃ¶ln	Bayern MÃ¼nchen	0:2	0:3	16.05.1981	15:30	1980	1981	31
+Hamburger SV	VfB Stuttgart	0:2	1:3	16.05.1981	15:30	1980	1981	31
+TSV 1860 MÃ¼nchen	Bayer Leverkusen	0:0	1:0	16.05.1981	15:30	1980	1981	31
+VfL Bochum	Arminia Bielefeld	0:1	0:2	16.05.1981	15:30	1980	1981	31
+1. FC NÃ¼rnberg	Fortuna DÃ¼sseldorf	0:0	2:1	16.05.1981	15:30	1980	1981	31
+Eintracht Frankfurt	Bayer 05 Uerdingen	1:1	2:2	16.05.1981	20:00	1980	1981	31
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	0:0	0:2	29.05.1981	20:00	1980	1981	32
+Bayer Leverkusen	VfL Bochum	1:0	2:0	29.05.1981	20:00	1980	1981	32
+VfB Stuttgart	TSV 1860 MÃ¼nchen	0:1	2:1	30.05.1981	15:30	1980	1981	32
+Karlsruher SC	Hamburger SV	0:0	1:1	30.05.1981	15:30	1980	1981	32
+Bayern MÃ¼nchen	Eintracht Frankfurt	0:0	7:2	30.05.1981	15:30	1980	1981	32
+Borussia Dortmund	1. FC KÃ¶ln	1:1	2:2	30.05.1981	15:30	1980	1981	32
+FC Schalke 04	1. FC NÃ¼rnberg	1:1	1:1	30.05.1981	15:30	1980	1981	32
+Arminia Bielefeld	MSV Duisburg	1:1	2:1	30.05.1981	15:30	1980	1981	32
+Bor. MÃ¶nchengladbach	Bayer 05 Uerdingen	4:0	7:1	30.05.1981	15:30	1980	1981	32
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:1	1:4	06.06.1981	15:30	1980	1981	33
+TSV 1860 MÃ¼nchen	Hamburger SV	0:0	0:0	06.06.1981	15:30	1980	1981	33
+VfL Bochum	VfB Stuttgart	0:1	1:1	06.06.1981	15:30	1980	1981	33
+MSV Duisburg	Bayer Leverkusen	0:2	2:4	06.06.1981	15:30	1980	1981	33
+1. FC NÃ¼rnberg	Arminia Bielefeld	1:0	2:0	06.06.1981	15:30	1980	1981	33
+1. FC Kaiserslautern	FC Schalke 04	1:0	2:0	06.06.1981	15:30	1980	1981	33
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	0:1	1:2	06.06.1981	15:30	1980	1981	33
+Eintracht Frankfurt	Borussia Dortmund	0:4	0:4	06.06.1981	15:30	1980	1981	33
+Bayer 05 Uerdingen	Karlsruher SC	0:1	0:3	06.06.1981	15:30	1980	1981	33
+Karlsruher SC	TSV 1860 MÃ¼nchen	1:1	7:2	13.06.1981	15:30	1980	1981	34
+Borussia Dortmund	Bor. MÃ¶nchengladbach	0:1	0:3	13.06.1981	15:30	1980	1981	34
+Fortuna DÃ¼sseldorf	Eintracht Frankfurt	1:1	2:2	13.06.1981	15:30	1980	1981	34
+FC Schalke 04	1. FC KÃ¶ln	0:2	1:2	13.06.1981	15:30	1980	1981	34
+Arminia Bielefeld	1. FC Kaiserslautern	0:0	0:1	13.06.1981	15:30	1980	1981	34
+Bayer Leverkusen	1. FC NÃ¼rnberg	0:0	1:1	13.06.1981	15:30	1980	1981	34
+VfB Stuttgart	MSV Duisburg	0:0	2:0	13.06.1981	15:30	1980	1981	34
+Hamburger SV	VfL Bochum	0:1	2:1	13.06.1981	15:30	1980	1981	34
+Bayern MÃ¼nchen	Bayer 05 Uerdingen	0:0	4:0	13.06.1981	15:30	1980	1981	34

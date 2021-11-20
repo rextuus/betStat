@@ -1,0 +1,462 @@
+West Ham United	Leeds United	0:0	0:0	20.08.1994	00:00	1994	1995	1
+Southampton FC	Blackburn Rovers	1:0	1:1	20.08.1994	00:00	1994	1995	1
+Sheffield Wednesday	Tottenham Hotspur	0:2	3:4	20.08.1994	00:00	1994	1995	1
+Manchester United	Queens Park Rangers	0:0	2:0	20.08.1994	00:00	1994	1995	1
+Everton FC	Aston Villa	1:0	2:2	20.08.1994	00:00	1994	1995	1
+Crystal Palace	Liverpool FC	0:3	1:6	20.08.1994	00:00	1994	1995	1
+Coventry City	Wimbledon FC	0:0	1:1	20.08.1994	00:00	1994	1995	1
+Chelsea FC	Norwich City	1:0	2:0	20.08.1994	00:00	1994	1995	1
+Arsenal FC	Manchester City	2:0	3:0	20.08.1994	00:00	1994	1995	1
+Ipswich Town	Nottingham Forest	0:1	0:1	20.08.1994	00:00	1994	1995	1
+Leicester City	Newcastle United	0:0	1:3	21.08.1994	00:00	1994	1995	1
+Nottingham Forest	Manchester United	1:1	1:1	22.08.1994	00:00	1994	1995	2
+Wimbledon FC	Ipswich Town	1:0	1:1	23.08.1994	00:00	1994	1995	2
+Leeds United	Arsenal FC	0:0	1:0	23.08.1994	00:00	1994	1995	2
+Blackburn Rovers	Leicester City	1:0	3:0	23.08.1994	00:00	1994	1995	2
+Aston Villa	Southampton FC	1:0	1:1	24.08.1994	00:00	1994	1995	2
+Tottenham Hotspur	Everton FC	2:0	2:1	24.08.1994	00:00	1994	1995	2
+Queens Park Rangers	Sheffield Wednesday	1:1	3:2	24.08.1994	00:00	1994	1995	2
+Norwich City	Crystal Palace	0:0	0:0	24.08.1994	00:00	1994	1995	2
+Manchester City	West Ham United	2:0	3:0	24.08.1994	00:00	1994	1995	2
+Newcastle United	Coventry City	3:0	4:0	24.08.1994	00:00	1994	1995	2
+Liverpool FC	Chelsea FC	3:1	3:1	09.11.1994	00:00	1994	1995	2
+Norwich City	West Ham United	0:0	1:0	27.08.1994	00:00	1994	1995	3
+Wimbledon FC	Sheffield Wednesday	0:0	0:1	27.08.1994	00:00	1994	1995	3
+Tottenham Hotspur	Manchester United	0:0	0:1	27.08.1994	00:00	1994	1995	3
+Queens Park Rangers	Ipswich Town	0:1	1:2	27.08.1994	00:00	1994	1995	3
+Newcastle United	Southampton FC	3:0	5:1	27.08.1994	00:00	1994	1995	3
+Manchester City	Everton FC	0:0	4:0	27.08.1994	00:00	1994	1995	3
+Leeds United	Chelsea FC	2:1	2:3	27.08.1994	00:00	1994	1995	3
+Blackburn Rovers	Coventry City	0:0	4:0	27.08.1994	00:00	1994	1995	3
+Aston Villa	Crystal Palace	0:0	1:1	27.08.1994	00:00	1994	1995	3
+Nottingham Forest	Leicester City	1:0	1:0	27.08.1994	00:00	1994	1995	3
+Liverpool FC	Arsenal FC	3:0	3:0	28.08.1994	00:00	1994	1995	3
+Coventry City	Aston Villa	0:1	0:1	29.08.1994	00:00	1994	1995	4
+Ipswich Town	Tottenham Hotspur	0:3	1:3	30.08.1994	00:00	1994	1995	4
+Everton FC	Nottingham Forest	0:1	1:2	30.08.1994	00:00	1994	1995	4
+Crystal Palace	Leeds United	0:1	1:2	30.08.1994	00:00	1994	1995	4
+Chelsea FC	Manchester City	1:0	3:0	31.08.1994	00:00	1994	1995	4
+West Ham United	Newcastle United	0:2	1:3	31.08.1994	00:00	1994	1995	4
+Southampton FC	Liverpool FC	0:1	0:2	31.08.1994	00:00	1994	1995	4
+Sheffield Wednesday	Norwich City	0:0	0:0	31.08.1994	00:00	1994	1995	4
+Leicester City	Queens Park Rangers	0:1	1:1	31.08.1994	00:00	1994	1995	4
+Arsenal FC	Blackburn Rovers	0:0	0:0	31.08.1994	00:00	1994	1995	4
+Manchester United	Wimbledon FC	1:0	3:0	31.08.1994	00:00	1994	1995	4
+Newcastle United	Chelsea FC	2:2	4:2	10.09.1994	00:00	1994	1995	5
+Wimbledon FC	Leicester City	2:1	2:1	10.09.1994	00:00	1994	1995	5
+Norwich City	Arsenal FC	0:0	0:0	10.09.1994	00:00	1994	1995	5
+Blackburn Rovers	Everton FC	2:0	3:0	10.09.1994	00:00	1994	1995	5
+Aston Villa	Ipswich Town	1:0	2:0	10.09.1994	00:00	1994	1995	5
+Manchester City	Crystal Palace	1:1	1:1	10.09.1994	00:00	1994	1995	5
+Liverpool FC	West Ham United	0:0	0:0	10.09.1994	00:00	1994	1995	5
+Queens Park Rangers	Coventry City	2:1	2:2	10.09.1994	00:00	1994	1995	5
+Nottingham Forest	Sheffield Wednesday	1:0	4:1	10.09.1994	00:00	1994	1995	5
+Leeds United	Manchester United	1:0	2:1	11.09.1994	00:00	1994	1995	5
+Tottenham Hotspur	Southampton FC	1:0	1:2	12.09.1994	00:00	1994	1995	5
+Sheffield Wednesday	Manchester City	0:1	1:1	17.09.1994	00:00	1994	1995	6
+Southampton FC	Nottingham Forest	0:1	1:1	17.09.1994	00:00	1994	1995	6
+Manchester United	Liverpool FC	0:0	2:0	17.09.1994	00:00	1994	1995	6
+Leicester City	Tottenham Hotspur	1:0	3:1	17.09.1994	00:00	1994	1995	6
+Everton FC	Queens Park Rangers	2:1	2:2	17.09.1994	00:00	1994	1995	6
+Crystal Palace	Wimbledon FC	0:0	0:0	17.09.1994	00:00	1994	1995	6
+Coventry City	Leeds United	0:0	2:1	17.09.1994	00:00	1994	1995	6
+West Ham United	Aston Villa	0:0	1:0	17.09.1994	00:00	1994	1995	6
+Chelsea FC	Blackburn Rovers	0:1	1:2	18.09.1994	00:00	1994	1995	6
+Arsenal FC	Newcastle United	1:2	2:3	18.09.1994	00:00	1994	1995	6
+Ipswich Town	Norwich City	1:1	1:2	19.09.1994	00:00	1994	1995	6
+Manchester City	Norwich City	0:0	2:0	24.09.1994	00:00	1994	1995	7
+Tottenham Hotspur	Nottingham Forest	1:1	1:4	24.09.1994	00:00	1994	1995	7
+Queens Park Rangers	Wimbledon FC	0:0	0:1	24.09.1994	00:00	1994	1995	7
+Ipswich Town	Manchester United	2:0	3:2	24.09.1994	00:00	1994	1995	7
+Everton FC	Leicester City	0:0	1:1	24.09.1994	00:00	1994	1995	7
+Crystal Palace	Chelsea FC	0:0	0:1	24.09.1994	00:00	1994	1995	7
+Coventry City	Southampton FC	1:1	1:3	24.09.1994	00:00	1994	1995	7
+Blackburn Rovers	Aston Villa	1:0	3:1	24.09.1994	00:00	1994	1995	7
+Newcastle United	Liverpool FC	0:0	1:1	24.09.1994	00:00	1994	1995	7
+West Ham United	Arsenal FC	0:1	0:2	25.09.1994	00:00	1994	1995	7
+Sheffield Wednesday	Leeds United	1:1	1:1	26.09.1994	00:00	1994	1995	7
+Arsenal FC	Crystal Palace	0:2	1:2	01.10.1994	00:00	1994	1995	8
+Norwich City	Blackburn Rovers	1:1	2:1	01.10.1994	00:00	1994	1995	8
+Southampton FC	Ipswich Town	0:0	3:1	01.10.1994	00:00	1994	1995	8
+Manchester United	Everton FC	1:0	2:0	01.10.1994	00:00	1994	1995	8
+Liverpool FC	Sheffield Wednesday	0:1	4:1	01.10.1994	00:00	1994	1995	8
+Leeds United	Manchester City	1:0	2:0	01.10.1994	00:00	1994	1995	8
+Aston Villa	Newcastle United	0:0	0:2	01.10.1994	00:00	1994	1995	8
+Wimbledon FC	Tottenham Hotspur	1:1	1:2	01.10.1994	00:00	1994	1995	8
+Nottingham Forest	Queens Park Rangers	0:0	3:2	02.10.1994	00:00	1994	1995	8
+Chelsea FC	West Ham United	0:0	1:2	02.10.1994	00:00	1994	1995	8
+Leicester City	Coventry City	1:1	2:2	03.10.1994	00:00	1994	1995	8
+Southampton FC	Everton FC	1:0	2:0	08.10.1994	00:00	1994	1995	9
+Wimbledon FC	Arsenal FC	0:1	1:3	08.10.1994	00:00	1994	1995	9
+West Ham United	Crystal Palace	0:0	1:0	08.10.1994	00:00	1994	1995	9
+Tottenham Hotspur	Queens Park Rangers	0:1	1:1	08.10.1994	00:00	1994	1995	9
+Sheffield Wednesday	Manchester United	1:0	1:0	08.10.1994	00:00	1994	1995	9
+Norwich City	Leeds United	0:0	2:1	08.10.1994	00:00	1994	1995	9
+Manchester City	Nottingham Forest	1:1	3:3	08.10.1994	00:00	1994	1995	9
+Chelsea FC	Leicester City	2:0	4:0	08.10.1994	00:00	1994	1995	9
+Liverpool FC	Aston Villa	2:1	3:2	08.10.1994	00:00	1994	1995	9
+Newcastle United	Blackburn Rovers	0:0	1:1	09.10.1994	00:00	1994	1995	9
+Coventry City	Ipswich Town	1:0	2:0	10.10.1994	00:00	1994	1995	9
+Leeds United	Tottenham Hotspur	0:1	1:1	15.10.1994	00:00	1994	1995	10
+Queens Park Rangers	Manchester City	0:0	1:2	15.10.1994	00:00	1994	1995	10
+Manchester United	West Ham United	1:0	1:0	15.10.1994	00:00	1994	1995	10
+Leicester City	Southampton FC	2:0	4:3	15.10.1994	00:00	1994	1995	10
+Everton FC	Coventry City	0:2	0:2	15.10.1994	00:00	1994	1995	10
+Crystal Palace	Newcastle United	0:0	0:1	15.10.1994	00:00	1994	1995	10
+Blackburn Rovers	Liverpool FC	0:1	3:2	15.10.1994	00:00	1994	1995	10
+Aston Villa	Norwich City	0:0	1:1	15.10.1994	00:00	1994	1995	10
+Arsenal FC	Chelsea FC	1:1	3:1	15.10.1994	00:00	1994	1995	10
+Ipswich Town	Sheffield Wednesday	0:1	1:2	16.10.1994	00:00	1994	1995	10
+Nottingham Forest	Wimbledon FC	1:0	3:1	17.10.1994	00:00	1994	1995	10
+Norwich City	Queens Park Rangers	0:1	4:2	22.10.1994	00:00	1994	1995	11
+Aston Villa	Nottingham Forest	0:1	0:2	22.10.1994	00:00	1994	1995	11
+West Ham United	Southampton FC	0:0	2:0	22.10.1994	00:00	1994	1995	11
+Newcastle United	Sheffield Wednesday	2:0	2:1	22.10.1994	00:00	1994	1995	11
+Manchester City	Tottenham Hotspur	3:1	5:2	22.10.1994	00:00	1994	1995	11
+Liverpool FC	Wimbledon FC	2:0	3:0	22.10.1994	00:00	1994	1995	11
+Crystal Palace	Everton FC	0:0	1:0	22.10.1994	00:00	1994	1995	11
+Chelsea FC	Ipswich Town	0:0	2:0	23.10.1994	00:00	1994	1995	11
+Blackburn Rovers	Manchester United	1:1	2:4	23.10.1994	00:00	1994	1995	11
+Arsenal FC	Coventry City	2:0	2:1	23.10.1994	00:00	1994	1995	11
+Leeds United	Leicester City	1:0	2:1	24.10.1994	00:00	1994	1995	11
+Nottingham Forest	Blackburn Rovers	0:1	0:2	29.10.1994	00:00	1994	1995	12
+Queens Park Rangers	Aston Villa	1:0	2:0	29.10.1994	00:00	1994	1995	12
+Tottenham Hotspur	West Ham United	1:1	3:1	29.10.1994	00:00	1994	1995	12
+Southampton FC	Leeds United	1:0	1:3	29.10.1994	00:00	1994	1995	12
+Manchester United	Newcastle United	1:0	2:0	29.10.1994	00:00	1994	1995	12
+Leicester City	Crystal Palace	0:1	0:1	29.10.1994	00:00	1994	1995	12
+Ipswich Town	Liverpool FC	0:1	1:3	29.10.1994	00:00	1994	1995	12
+Everton FC	Arsenal FC	1:1	1:1	29.10.1994	00:00	1994	1995	12
+Coventry City	Manchester City	0:0	1:0	29.10.1994	00:00	1994	1995	12
+Sheffield Wednesday	Chelsea FC	0:1	1:1	29.10.1994	00:00	1994	1995	12
+Wimbledon FC	Norwich City	0:0	1:0	30.10.1994	00:00	1994	1995	12
+Queens Park Rangers	Liverpool FC	1:0	2:1	31.10.1994	00:00	1994	1995	13
+Ipswich Town	Leeds United	1:0	2:0	01.11.1994	00:00	1994	1995	13
+Everton FC	West Ham United	0:0	1:0	01.11.1994	00:00	1994	1995	13
+Southampton FC	Norwich City	0:0	1:1	02.11.1994	00:00	1994	1995	13
+Sheffield Wednesday	Blackburn Rovers	0:0	0:1	02.11.1994	00:00	1994	1995	13
+Coventry City	Crystal Palace	1:2	1:4	02.11.1994	00:00	1994	1995	13
+Nottingham Forest	Newcastle United	0:0	0:0	07.11.1994	00:00	1994	1995	13
+Wimbledon FC	Aston Villa	1:2	4:3	09.11.1994	00:00	1994	1995	13
+Manchester United	Manchester City	2:0	5:0	10.11.1994	00:00	1994	1995	13
+Leicester City	Arsenal FC	2:1	2:1	23.11.1994	00:00	1994	1995	13
+Tottenham Hotspur	Chelsea FC	0:0	0:0	23.11.1994	00:00	1994	1995	13
+West Ham United	Leicester City	0:0	1:0	05.11.1994	00:00	1994	1995	14
+Norwich City	Everton FC	0:0	0:0	05.11.1994	00:00	1994	1995	14
+Newcastle United	Queens Park Rangers	2:0	2:1	05.11.1994	00:00	1994	1995	14
+Liverpool FC	Nottingham Forest	1:0	1:0	05.11.1994	00:00	1994	1995	14
+Leeds United	Wimbledon FC	3:1	3:1	05.11.1994	00:00	1994	1995	14
+Crystal Palace	Ipswich Town	1:0	3:0	05.11.1994	00:00	1994	1995	14
+Manchester City	Southampton FC	0:1	3:3	05.11.1994	00:00	1994	1995	14
+Blackburn Rovers	Tottenham Hotspur	1:0	2:0	05.11.1994	00:00	1994	1995	14
+Aston Villa	Manchester United	1:1	1:2	06.11.1994	00:00	1994	1995	14
+Arsenal FC	Sheffield Wednesday	0:0	0:0	06.11.1994	00:00	1994	1995	14
+Chelsea FC	Coventry City	0:1	2:2	06.11.1994	00:00	1994	1995	14
+Tottenham Hotspur	Aston Villa	1:3	3:4	19.11.1994	00:00	1994	1995	15
+Ipswich Town	Blackburn Rovers	1:2	1:3	19.11.1994	00:00	1994	1995	15
+Wimbledon FC	Newcastle United	3:2	3:2	19.11.1994	00:00	1994	1995	15
+Sheffield Wednesday	West Ham United	1:0	1:0	19.11.1994	00:00	1994	1995	15
+Queens Park Rangers	Leeds United	2:0	3:2	19.11.1994	00:00	1994	1995	15
+Nottingham Forest	Chelsea FC	0:1	0:1	19.11.1994	00:00	1994	1995	15
+Manchester United	Crystal Palace	2:0	3:0	19.11.1994	00:00	1994	1995	15
+Coventry City	Norwich City	0:0	1:0	19.11.1994	00:00	1994	1995	15
+Southampton FC	Arsenal FC	0:0	1:0	19.11.1994	00:00	1994	1995	15
+Leicester City	Manchester City	0:1	0:1	20.11.1994	00:00	1994	1995	15
+Everton FC	Liverpool FC	0:0	2:0	21.11.1994	00:00	1994	1995	15
+Crystal Palace	Southampton FC	0:0	0:0	26.11.1994	00:00	1994	1995	16
+West Ham United	Coventry City	0:0	0:1	26.11.1994	00:00	1994	1995	16
+Norwich City	Leicester City	0:1	2:1	26.11.1994	00:00	1994	1995	16
+Newcastle United	Ipswich Town	0:0	1:1	26.11.1994	00:00	1994	1995	16
+Manchester City	Wimbledon FC	1:0	2:0	26.11.1994	00:00	1994	1995	16
+Chelsea FC	Everton FC	0:1	0:1	26.11.1994	00:00	1994	1995	16
+Blackburn Rovers	Queens Park Rangers	1:0	4:0	26.11.1994	00:00	1994	1995	16
+Arsenal FC	Manchester United	0:0	0:0	26.11.1994	00:00	1994	1995	16
+Leeds United	Nottingham Forest	0:0	1:0	26.11.1994	00:00	1994	1995	16
+Liverpool FC	Tottenham Hotspur	1:0	1:1	26.11.1994	00:00	1994	1995	16
+Aston Villa	Sheffield Wednesday	1:0	1:1	27.11.1994	00:00	1994	1995	16
+Manchester United	Norwich City	1:0	1:0	03.12.1994	00:00	1994	1995	17
+Wimbledon FC	Blackburn Rovers	0:0	0:3	03.12.1994	00:00	1994	1995	17
+Tottenham Hotspur	Newcastle United	2:2	4:2	03.12.1994	00:00	1994	1995	17
+Southampton FC	Chelsea FC	0:0	0:1	03.12.1994	00:00	1994	1995	17
+Nottingham Forest	Arsenal FC	1:0	2:2	03.12.1994	00:00	1994	1995	17
+Leicester City	Aston Villa	1:0	1:1	03.12.1994	00:00	1994	1995	17
+Ipswich Town	Manchester City	0:2	1:2	03.12.1994	00:00	1994	1995	17
+Coventry City	Liverpool FC	0:1	1:1	03.12.1994	00:00	1994	1995	17
+Sheffield Wednesday	Crystal Palace	1:0	1:0	03.12.1994	00:00	1994	1995	17
+Queens Park Rangers	West Ham United	2:0	2:1	04.12.1994	00:00	1994	1995	17
+Everton FC	Leeds United	1:0	3:0	05.12.1994	00:00	1994	1995	17
+Newcastle United	Leicester City	1:0	3:1	10.12.1994	00:00	1994	1995	18
+Aston Villa	Everton FC	0:0	0:0	10.12.1994	00:00	1994	1995	18
+Leeds United	West Ham United	2:1	2:2	10.12.1994	00:00	1994	1995	18
+Norwich City	Chelsea FC	2:0	3:0	10.12.1994	00:00	1994	1995	18
+Nottingham Forest	Ipswich Town	4:1	4:1	10.12.1994	00:00	1994	1995	18
+Queens Park Rangers	Manchester United	1:2	2:3	10.12.1994	00:00	1994	1995	18
+Tottenham Hotspur	Sheffield Wednesday	0:1	3:1	10.12.1994	00:00	1994	1995	18
+Wimbledon FC	Coventry City	2:0	2:0	10.12.1994	00:00	1994	1995	18
+Blackburn Rovers	Southampton FC	2:0	3:2	10.12.1994	00:00	1994	1995	18
+Liverpool FC	Crystal Palace	0:0	0:0	11.12.1994	00:00	1994	1995	18
+Manchester City	Arsenal FC	0:2	1:2	12.12.1994	00:00	1994	1995	18
+Ipswich Town	Wimbledon FC	1:1	2:2	16.12.1994	00:00	1994	1995	19
+West Ham United	Manchester City	2:0	3:0	17.12.1994	00:00	1994	1995	19
+Sheffield Wednesday	Queens Park Rangers	0:0	0:2	17.12.1994	00:00	1994	1995	19
+Manchester United	Nottingham Forest	0:1	1:2	17.12.1994	00:00	1994	1995	19
+Leicester City	Blackburn Rovers	0:0	0:0	17.12.1994	00:00	1994	1995	19
+Crystal Palace	Norwich City	0:0	0:1	17.12.1994	00:00	1994	1995	19
+Coventry City	Newcastle United	0:0	0:0	17.12.1994	00:00	1994	1995	19
+Arsenal FC	Leeds United	0:1	1:3	17.12.1994	00:00	1994	1995	19
+Everton FC	Tottenham Hotspur	0:0	0:0	17.12.1994	00:00	1994	1995	19
+Chelsea FC	Liverpool FC	0:0	0:0	18.12.1994	00:00	1994	1995	19
+Southampton FC	Aston Villa	1:0	2:1	19.12.1994	00:00	1994	1995	19
+Everton FC	Sheffield Wednesday	1:2	1:4	26.12.1994	00:00	1994	1995	20
+West Ham United	Ipswich Town	1:0	1:1	26.12.1994	00:00	1994	1995	20
+Southampton FC	Wimbledon FC	2:2	2:3	26.12.1994	00:00	1994	1995	20
+Norwich City	Tottenham Hotspur	0:1	0:2	26.12.1994	00:00	1994	1995	20
+Manchester City	Blackburn Rovers	1:2	1:3	26.12.1994	00:00	1994	1995	20
+Leeds United	Newcastle United	0:0	0:0	26.12.1994	00:00	1994	1995	20
+Crystal Palace	Queens Park Rangers	0:0	0:0	26.12.1994	00:00	1994	1995	20
+Coventry City	Nottingham Forest	0:0	0:0	26.12.1994	00:00	1994	1995	20
+Chelsea FC	Manchester United	0:1	2:3	26.12.1994	00:00	1994	1995	20
+Arsenal FC	Aston Villa	0:0	0:0	26.12.1994	00:00	1994	1995	20
+Leicester City	Liverpool FC	0:0	1:2	26.12.1994	00:00	1994	1995	20
+Nottingham Forest	Norwich City	0:0	1:0	27.12.1994	00:00	1994	1995	21
+Tottenham Hotspur	Crystal Palace	0:0	0:0	27.12.1994	00:00	1994	1995	21
+Queens Park Rangers	Southampton FC	1:1	2:2	28.12.1994	00:00	1994	1995	21
+Wimbledon FC	West Ham United	0:0	1:0	28.12.1994	00:00	1994	1995	21
+Sheffield Wednesday	Coventry City	3:1	5:1	28.12.1994	00:00	1994	1995	21
+Liverpool FC	Manchester City	0:0	2:0	28.12.1994	00:00	1994	1995	21
+Ipswich Town	Arsenal FC	0:1	0:2	28.12.1994	00:00	1994	1995	21
+Aston Villa	Chelsea FC	2:0	3:0	28.12.1994	00:00	1994	1995	21
+Manchester United	Leicester City	0:0	1:1	28.12.1994	00:00	1994	1995	21
+Blackburn Rovers	Leeds United	1:0	1:1	01.02.1995	00:00	1994	1995	21
+Newcastle United	Everton FC	0:0	2:0	01.02.1995	00:00	1994	1995	21
+Coventry City	Tottenham Hotspur	0:1	0:4	31.12.1994	00:00	1994	1995	22
+Chelsea FC	Wimbledon FC	0:0	1:1	31.12.1994	00:00	1994	1995	22
+Leicester City	Sheffield Wednesday	0:1	0:1	31.12.1994	00:00	1994	1995	22
+Arsenal FC	Queens Park Rangers	0:1	1:3	31.12.1994	00:00	1994	1995	22
+West Ham United	Nottingham Forest	3:0	3:1	31.12.1994	00:00	1994	1995	22
+Southampton FC	Manchester United	1:0	2:2	31.12.1994	00:00	1994	1995	22
+Manchester City	Aston Villa	1:0	2:2	31.12.1994	00:00	1994	1995	22
+Leeds United	Liverpool FC	0:1	0:2	31.12.1994	00:00	1994	1995	22
+Everton FC	Ipswich Town	1:1	4:1	31.12.1994	00:00	1994	1995	22
+Crystal Palace	Blackburn Rovers	0:0	0:1	31.12.1994	00:00	1994	1995	22
+Norwich City	Newcastle United	2:1	2:1	31.12.1994	00:00	1994	1995	22
+Blackburn Rovers	West Ham United	1:1	4:2	02.01.1995	00:00	1994	1995	23
+Wimbledon FC	Everton FC	2:1	2:1	02.01.1995	00:00	1994	1995	23
+Sheffield Wednesday	Southampton FC	1:0	1:1	02.01.1995	00:00	1994	1995	23
+Newcastle United	Manchester City	0:0	0:0	02.01.1995	00:00	1994	1995	23
+Liverpool FC	Norwich City	2:0	4:0	02.01.1995	00:00	1994	1995	23
+Tottenham Hotspur	Arsenal FC	1:0	1:0	02.01.1995	00:00	1994	1995	23
+Ipswich Town	Leicester City	1:0	4:1	02.01.1995	00:00	1994	1995	23
+Aston Villa	Leeds United	0:0	0:0	02.01.1995	00:00	1994	1995	23
+Nottingham Forest	Crystal Palace	0:0	1:0	02.01.1995	00:00	1994	1995	23
+Manchester United	Coventry City	1:0	2:0	03.01.1995	00:00	1994	1995	23
+Manchester City	Newcastle United	0:0	0:0	29.04.1995	00:00	1994	1995	23
+Liverpool FC	Ipswich Town	0:1	0:1	14.01.1995	00:00	1994	1995	24
+Leeds United	Southampton FC	0:0	0:0	14.01.1995	00:00	1994	1995	24
+West Ham United	Tottenham Hotspur	1:0	1:2	14.01.1995	00:00	1994	1995	24
+Manchester City	Coventry City	0:0	0:0	14.01.1995	00:00	1994	1995	24
+Norwich City	Wimbledon FC	1:1	1:2	14.01.1995	00:00	1994	1995	24
+Crystal Palace	Leicester City	2:0	2:0	14.01.1995	00:00	1994	1995	24
+Chelsea FC	Sheffield Wednesday	1:0	1:1	14.01.1995	00:00	1994	1995	24
+Blackburn Rovers	Nottingham Forest	0:0	3:0	14.01.1995	00:00	1994	1995	24
+Aston Villa	Queens Park Rangers	1:0	2:1	14.01.1995	00:00	1994	1995	24
+Arsenal FC	Everton FC	1:1	1:1	14.01.1995	00:00	1994	1995	24
+Newcastle United	Manchester United	0:1	1:1	15.01.1995	00:00	1994	1995	24
+Ipswich Town	Chelsea FC	0:0	2:2	21.01.1995	00:00	1994	1995	25
+Everton FC	Crystal Palace	1:0	3:1	21.01.1995	00:00	1994	1995	25
+Coventry City	Arsenal FC	0:0	0:1	21.01.1995	00:00	1994	1995	25
+Nottingham Forest	Aston Villa	0:1	1:2	21.01.1995	00:00	1994	1995	25
+Sheffield Wednesday	Newcastle United	0:0	0:0	21.01.1995	00:00	1994	1995	25
+Manchester United	Blackburn Rovers	0:0	1:0	22.01.1995	00:00	1994	1995	25
+Queens Park Rangers	Norwich City	0:0	2:0	15.03.1995	00:00	1994	1995	25
+Leicester City	Leeds United	1:1	1:3	15.03.1995	00:00	1994	1995	25
+Southampton FC	West Ham United	0:1	1:1	15.03.1995	00:00	1994	1995	25
+Tottenham Hotspur	Manchester City	0:0	2:1	11.04.1995	00:00	1994	1995	25
+Wimbledon FC	Liverpool FC	0:0	0:0	02.05.1995	00:00	1994	1995	25
+West Ham United	Sheffield Wednesday	0:1	0:2	23.01.1995	00:00	1994	1995	26
+Leeds United	Queens Park Rangers	2:0	4:0	24.01.1995	00:00	1994	1995	26
+Arsenal FC	Southampton FC	1:0	1:1	24.01.1995	00:00	1994	1995	26
+Liverpool FC	Everton FC	0:0	0:0	24.01.1995	00:00	1994	1995	26
+Chelsea FC	Nottingham Forest	0:1	0:2	25.01.1995	00:00	1994	1995	26
+Manchester City	Leicester City	0:0	0:1	25.01.1995	00:00	1994	1995	26
+Crystal Palace	Manchester United	0:0	1:1	25.01.1995	00:00	1994	1995	26
+Aston Villa	Tottenham Hotspur	1:0	1:0	25.01.1995	00:00	1994	1995	26
+Norwich City	Coventry City	1:1	2:2	25.01.1995	00:00	1994	1995	26
+Newcastle United	Wimbledon FC	1:0	2:1	25.01.1995	00:00	1994	1995	26
+Blackburn Rovers	Ipswich Town	2:0	4:1	28.01.1995	00:00	1994	1995	26
+Queens Park Rangers	Newcastle United	3:0	3:0	04.02.1995	00:00	1994	1995	27
+Nottingham Forest	Liverpool FC	1:0	1:1	04.02.1995	00:00	1994	1995	27
+Southampton FC	Manchester City	1:1	2:2	04.02.1995	00:00	1994	1995	27
+Leicester City	West Ham United	1:2	1:2	04.02.1995	00:00	1994	1995	27
+Ipswich Town	Crystal Palace	0:0	0:2	04.02.1995	00:00	1994	1995	27
+Sheffield Wednesday	Arsenal FC	2:1	3:1	04.02.1995	00:00	1994	1995	27
+Wimbledon FC	Leeds United	0:0	0:0	04.02.1995	00:00	1994	1995	27
+Manchester United	Aston Villa	1:0	1:0	04.02.1995	00:00	1994	1995	27
+Everton FC	Norwich City	1:0	2:1	04.02.1995	00:00	1994	1995	27
+Coventry City	Chelsea FC	2:2	2:2	04.02.1995	00:00	1994	1995	27
+Tottenham Hotspur	Blackburn Rovers	2:0	3:1	05.02.1995	00:00	1994	1995	27
+Liverpool FC	Queens Park Rangers	0:1	1:1	11.02.1995	00:00	1994	1995	28
+Chelsea FC	Tottenham Hotspur	0:1	1:1	11.02.1995	00:00	1994	1995	28
+Manchester City	Manchester United	0:0	0:3	11.02.1995	00:00	1994	1995	28
+Norwich City	Southampton FC	1:2	2:2	11.02.1995	00:00	1994	1995	28
+Newcastle United	Nottingham Forest	0:0	2:1	11.02.1995	00:00	1994	1995	28
+Aston Villa	Wimbledon FC	4:1	7:1	11.02.1995	00:00	1994	1995	28
+Arsenal FC	Leicester City	0:0	1:1	11.02.1995	00:00	1994	1995	28
+Crystal Palace	Coventry City	0:0	0:2	11.02.1995	00:00	1994	1995	28
+Blackburn Rovers	Sheffield Wednesday	2:1	3:1	12.02.1995	00:00	1994	1995	28
+West Ham United	Everton FC	1:1	2:2	13.02.1995	00:00	1994	1995	28
+Leeds United	Ipswich Town	4:0	4:0	05.04.1995	00:00	1994	1995	28
+Coventry City	West Ham United	1:0	2:0	18.02.1995	00:00	1994	1995	29
+Sheffield Wednesday	Aston Villa	0:2	1:2	18.02.1995	00:00	1994	1995	29
+Ipswich Town	Newcastle United	0:2	0:2	28.02.1995	00:00	1994	1995	29
+Wimbledon FC	Manchester City	0:0	2:0	21.03.1995	00:00	1994	1995	29
+Nottingham Forest	Leeds United	3:0	3:0	22.03.1995	00:00	1994	1995	29
+Tottenham Hotspur	Liverpool FC	0:0	0:0	22.03.1995	00:00	1994	1995	29
+Manchester United	Arsenal FC	2:0	3:0	22.03.1995	00:00	1994	1995	29
+Queens Park Rangers	Blackburn Rovers	0:0	0:1	04.04.1995	00:00	1994	1995	29
+Leicester City	Norwich City	0:0	1:0	05.04.1995	00:00	1994	1995	29
+Southampton FC	Crystal Palace	2:1	3:1	03.05.1995	00:00	1994	1995	29
+Everton FC	Chelsea FC	1:1	3:3	03.05.1995	00:00	1994	1995	29
+Arsenal FC	Nottingham Forest	0:0	1:0	21.02.1995	00:00	1994	1995	30
+Norwich City	Manchester United	0:2	0:2	22.02.1995	00:00	1994	1995	30
+Manchester City	Ipswich Town	0:0	2:0	22.02.1995	00:00	1994	1995	30
+Leeds United	Everton FC	0:0	1:0	22.02.1995	00:00	1994	1995	30
+Aston Villa	Leicester City	2:0	4:4	22.02.1995	00:00	1994	1995	30
+Blackburn Rovers	Wimbledon FC	2:1	2:1	22.02.1995	00:00	1994	1995	30
+Crystal Palace	Sheffield Wednesday	0:1	2:1	14.03.1995	00:00	1994	1995	30
+Liverpool FC	Coventry City	0:2	2:3	14.03.1995	00:00	1994	1995	30
+Chelsea FC	Southampton FC	0:1	0:2	12.04.1995	00:00	1994	1995	30
+West Ham United	Queens Park Rangers	0:0	0:0	03.05.1995	00:00	1994	1995	30
+Newcastle United	Tottenham Hotspur	2:3	3:3	03.05.1995	00:00	1994	1995	30
+Tottenham Hotspur	Wimbledon FC	0:1	1:2	25.02.1995	00:00	1994	1995	31
+Everton FC	Manchester United	0:0	1:0	25.02.1995	00:00	1994	1995	31
+Sheffield Wednesday	Liverpool FC	1:1	1:2	25.02.1995	00:00	1994	1995	31
+Newcastle United	Aston Villa	1:1	3:1	25.02.1995	00:00	1994	1995	31
+West Ham United	Chelsea FC	1:0	1:2	25.02.1995	00:00	1994	1995	31
+Crystal Palace	Arsenal FC	0:2	0:3	25.02.1995	00:00	1994	1995	31
+Coventry City	Leicester City	2:0	4:2	25.02.1995	00:00	1994	1995	31
+Blackburn Rovers	Norwich City	0:0	0:0	25.02.1995	00:00	1994	1995	31
+Manchester City	Leeds United	0:0	0:0	25.02.1995	00:00	1994	1995	31
+Ipswich Town	Southampton FC	0:1	2:1	25.02.1995	00:00	1994	1995	31
+Queens Park Rangers	Nottingham Forest	0:0	1:1	26.02.1995	00:00	1994	1995	31
+Leicester City	Everton FC	0:2	2:2	04.03.1995	00:00	1994	1995	32
+Wimbledon FC	Queens Park Rangers	1:1	1:3	04.03.1995	00:00	1994	1995	32
+Southampton FC	Coventry City	0:0	0:0	04.03.1995	00:00	1994	1995	32
+Nottingham Forest	Tottenham Hotspur	0:0	2:2	04.03.1995	00:00	1994	1995	32
+Norwich City	Manchester City	0:0	1:1	04.03.1995	00:00	1994	1995	32
+Liverpool FC	Newcastle United	0:0	2:0	04.03.1995	00:00	1994	1995	32
+Leeds United	Sheffield Wednesday	0:1	0:1	04.03.1995	00:00	1994	1995	32
+Aston Villa	Blackburn Rovers	0:1	0:1	04.03.1995	00:00	1994	1995	32
+Manchester United	Ipswich Town	3:0	9:0	04.03.1995	00:00	1994	1995	32
+Chelsea FC	Crystal Palace	0:0	0:0	05.03.1995	00:00	1994	1995	32
+Arsenal FC	West Ham United	0:1	0:1	05.03.1995	00:00	1994	1995	32
+Aston Villa	Coventry City	0:0	0:0	06.03.1995	00:00	1994	1995	33
+Wimbledon FC	Manchester United	0:0	0:1	07.03.1995	00:00	1994	1995	33
+Blackburn Rovers	Arsenal FC	2:0	3:1	08.03.1995	00:00	1994	1995	33
+Queens Park Rangers	Leicester City	0:0	2:0	08.03.1995	00:00	1994	1995	33
+Nottingham Forest	Everton FC	1:1	2:1	08.03.1995	00:00	1994	1995	33
+Norwich City	Sheffield Wednesday	0:0	0:0	08.03.1995	00:00	1994	1995	33
+Tottenham Hotspur	Ipswich Town	2:0	3:0	08.03.1995	00:00	1994	1995	33
+Newcastle United	West Ham United	1:0	2:0	08.03.1995	00:00	1994	1995	33
+Manchester City	Chelsea FC	1:1	1:2	08.03.1995	00:00	1994	1995	33
+Liverpool FC	Southampton FC	1:1	3:1	05.04.1995	00:00	1994	1995	33
+Leeds United	Crystal Palace	2:0	3:1	09.05.1995	00:00	1994	1995	33
+Sheffield Wednesday	Wimbledon FC	0:0	0:1	11.03.1995	00:00	1994	1995	34
+West Ham United	Norwich City	0:1	2:2	11.03.1995	00:00	1994	1995	34
+Leicester City	Nottingham Forest	1:1	2:4	11.03.1995	00:00	1994	1995	34
+Coventry City	Blackburn Rovers	1:0	1:1	11.03.1995	00:00	1994	1995	34
+Chelsea FC	Leeds United	0:2	0:3	11.03.1995	00:00	1994	1995	34
+Manchester United	Tottenham Hotspur	0:0	0:0	15.03.1995	00:00	1994	1995	34
+Everton FC	Manchester City	0:1	1:1	15.03.1995	00:00	1994	1995	34
+Southampton FC	Newcastle United	0:1	3:1	22.03.1995	00:00	1994	1995	34
+Crystal Palace	Aston Villa	0:0	0:0	04.04.1995	00:00	1994	1995	34
+Ipswich Town	Queens Park Rangers	0:0	0:1	11.04.1995	00:00	1994	1995	34
+Arsenal FC	Liverpool FC	0:0	0:1	12.04.1995	00:00	1994	1995	34
+Queens Park Rangers	Everton FC	1:0	2:3	18.03.1995	00:00	1994	1995	35
+Wimbledon FC	Crystal Palace	1:0	2:0	18.03.1995	00:00	1994	1995	35
+Tottenham Hotspur	Leicester City	0:0	1:0	18.03.1995	00:00	1994	1995	35
+Manchester City	Sheffield Wednesday	1:2	3:2	18.03.1995	00:00	1994	1995	35
+Leeds United	Coventry City	1:0	3:0	18.03.1995	00:00	1994	1995	35
+Aston Villa	West Ham United	0:1	0:2	18.03.1995	00:00	1994	1995	35
+Nottingham Forest	Southampton FC	1:0	3:0	18.03.1995	00:00	1994	1995	35
+Blackburn Rovers	Chelsea FC	2:1	2:1	18.03.1995	00:00	1994	1995	35
+Newcastle United	Arsenal FC	0:0	1:0	19.03.1995	00:00	1994	1995	35
+Liverpool FC	Manchester United	1:0	2:0	19.03.1995	00:00	1994	1995	35
+Norwich City	Ipswich Town	0:0	3:0	20.03.1995	00:00	1994	1995	35
+Sheffield Wednesday	Nottingham Forest	0:2	1:7	01.04.1995	00:00	1994	1995	36
+Leicester City	Wimbledon FC	1:0	3:4	01.04.1995	00:00	1994	1995	36
+Everton FC	Blackburn Rovers	1:2	1:2	01.04.1995	00:00	1994	1995	36
+Crystal Palace	Manchester City	1:0	2:1	01.04.1995	00:00	1994	1995	36
+Arsenal FC	Norwich City	3:1	5:1	01.04.1995	00:00	1994	1995	36
+Ipswich Town	Aston Villa	0:0	0:1	01.04.1995	00:00	1994	1995	36
+Coventry City	Queens Park Rangers	0:0	0:1	01.04.1995	00:00	1994	1995	36
+Chelsea FC	Newcastle United	1:0	1:1	01.04.1995	00:00	1994	1995	36
+Manchester United	Leeds United	0:0	0:0	02.04.1995	00:00	1994	1995	36
+Southampton FC	Tottenham Hotspur	2:2	4:3	02.04.1995	00:00	1994	1995	36
+West Ham United	Liverpool FC	1:0	3:0	10.05.1995	00:00	1994	1995	36
+Sheffield Wednesday	Leicester City	1:0	1:0	08.04.1995	00:00	1994	1995	37
+Queens Park Rangers	Arsenal FC	1:0	3:1	08.04.1995	00:00	1994	1995	37
+Nottingham Forest	West Ham United	0:0	1:1	08.04.1995	00:00	1994	1995	37
+Newcastle United	Norwich City	2:0	3:0	08.04.1995	00:00	1994	1995	37
+Liverpool FC	Leeds United	0:1	0:1	09.04.1995	00:00	1994	1995	37
+Wimbledon FC	Chelsea FC	0:1	1:1	10.04.1995	00:00	1994	1995	37
+Blackburn Rovers	Crystal Palace	0:0	2:1	20.04.1995	00:00	1994	1995	37
+Aston Villa	Manchester City	1:0	1:1	03.05.1995	00:00	1994	1995	37
+Tottenham Hotspur	Coventry City	0:1	1:3	09.05.1995	00:00	1994	1995	37
+Ipswich Town	Everton FC	0:0	0:1	09.05.1995	00:00	1994	1995	37
+Manchester United	Southampton FC	1:1	2:1	10.05.1995	00:00	1994	1995	37
+Norwich City	Nottingham Forest	0:0	0:1	12.04.1995	00:00	1994	1995	38
+West Ham United	Wimbledon FC	1:0	3:0	14.04.1995	00:00	1994	1995	38
+Manchester City	Liverpool FC	1:1	2:1	14.04.1995	00:00	1994	1995	38
+Everton FC	Newcastle United	1:0	2:0	14.04.1995	00:00	1994	1995	38
+Crystal Palace	Tottenham Hotspur	1:0	1:1	14.04.1995	00:00	1994	1995	38
+Coventry City	Sheffield Wednesday	1:0	2:0	15.04.1995	00:00	1994	1995	38
+Southampton FC	Queens Park Rangers	0:0	2:1	15.04.1995	00:00	1994	1995	38
+Leicester City	Manchester United	0:2	0:4	15.04.1995	00:00	1994	1995	38
+Leeds United	Blackburn Rovers	0:1	1:1	15.04.1995	00:00	1994	1995	38
+Arsenal FC	Ipswich Town	1:0	4:1	15.04.1995	00:00	1994	1995	38
+Chelsea FC	Aston Villa	1:0	1:0	15.04.1995	00:00	1994	1995	38
+Wimbledon FC	Southampton FC	0:2	0:2	17.04.1995	00:00	1994	1995	39
+Tottenham Hotspur	Norwich City	1:0	1:0	17.04.1995	00:00	1994	1995	39
+Sheffield Wednesday	Everton FC	0:0	0:0	17.04.1995	00:00	1994	1995	39
+Queens Park Rangers	Crystal Palace	0:0	0:1	17.04.1995	00:00	1994	1995	39
+Nottingham Forest	Coventry City	2:0	2:0	17.04.1995	00:00	1994	1995	39
+Manchester United	Chelsea FC	0:0	0:0	17.04.1995	00:00	1994	1995	39
+Liverpool FC	Leicester City	0:0	2:0	17.04.1995	00:00	1994	1995	39
+Ipswich Town	West Ham United	1:0	1:1	17.04.1995	00:00	1994	1995	39
+Blackburn Rovers	Manchester City	2:1	2:3	17.04.1995	00:00	1994	1995	39
+Aston Villa	Arsenal FC	0:2	0:4	17.04.1995	00:00	1994	1995	39
+Newcastle United	Leeds United	1:2	1:2	17.04.1995	00:00	1994	1995	39
+Chelsea FC	Queens Park Rangers	0:0	1:0	29.04.1995	00:00	1994	1995	39
+Queens Park Rangers	Chelsea FC	0:0	1:0	22.03.1995	00:00	1994	1995	40
+Leeds United	Aston Villa	0:0	1:0	29.04.1995	00:00	1994	1995	40
+Southampton FC	Sheffield Wednesday	0:0	0:0	29.04.1995	00:00	1994	1995	40
+Norwich City	Liverpool FC	1:1	1:2	29.04.1995	00:00	1994	1995	40
+Arsenal FC	Tottenham Hotspur	0:0	1:1	29.04.1995	00:00	1994	1995	40
+Leicester City	Ipswich Town	0:0	2:0	29.04.1995	00:00	1994	1995	40
+Everton FC	Wimbledon FC	0:0	0:0	29.04.1995	00:00	1994	1995	40
+Crystal Palace	Nottingham Forest	0:1	1:2	29.04.1995	00:00	1994	1995	40
+West Ham United	Blackburn Rovers	0:0	2:0	30.04.1995	00:00	1994	1995	40
+Coventry City	Manchester United	1:1	2:3	01.05.1995	00:00	1994	1995	40
+Arsenal FC	Wimbledon FC	0:0	0:0	04.05.1995	00:00	1994	1995	41
+Aston Villa	Liverpool FC	2:0	2:0	06.05.1995	00:00	1994	1995	41
+Crystal Palace	West Ham United	0:0	1:0	06.05.1995	00:00	1994	1995	41
+Ipswich Town	Coventry City	0:0	2:0	06.05.1995	00:00	1994	1995	41
+Everton FC	Southampton FC	0:0	0:0	06.05.1995	00:00	1994	1995	41
+Queens Park Rangers	Tottenham Hotspur	0:1	2:1	06.05.1995	00:00	1994	1995	41
+Nottingham Forest	Manchester City	1:0	1:0	06.05.1995	00:00	1994	1995	41
+Leicester City	Chelsea FC	1:1	1:1	06.05.1995	00:00	1994	1995	41
+Leeds United	Norwich City	0:1	2:1	06.05.1995	00:00	1994	1995	41
+Manchester United	Sheffield Wednesday	1:0	1:0	07.05.1995	00:00	1994	1995	41
+Blackburn Rovers	Newcastle United	1:0	1:0	08.05.1995	00:00	1994	1995	41
+Wimbledon FC	Nottingham Forest	2:1	2:2	13.05.1995	00:00	1994	1995	42
+Liverpool FC	Blackburn Rovers	0:1	2:1	14.05.1995	00:00	1994	1995	42
+West Ham United	Manchester United	1:0	1:1	14.05.1995	00:00	1994	1995	42
+Tottenham Hotspur	Leeds United	1:0	1:1	14.05.1995	00:00	1994	1995	42
+Southampton FC	Leicester City	1:0	2:2	14.05.1995	00:00	1994	1995	42
+Sheffield Wednesday	Ipswich Town	1:0	4:1	14.05.1995	00:00	1994	1995	42
+Norwich City	Aston Villa	0:1	1:1	14.05.1995	00:00	1994	1995	42
+Coventry City	Everton FC	0:0	0:0	14.05.1995	00:00	1994	1995	42
+Chelsea FC	Arsenal FC	1:1	2:1	14.05.1995	00:00	1994	1995	42
+Newcastle United	Crystal Palace	3:0	3:2	14.05.1995	00:00	1994	1995	42
+Manchester City	Queens Park Rangers	1:1	2:3	14.05.1995	00:00	1994	1995	42

@@ -1,0 +1,240 @@
+UD Las Palmas	FC Barcelona	2:0	2:1	13.09.1964	00:00	1964	1965	1
+Real Murcia	Valencia CF	1:1	1:1	13.09.1964	00:00	1964	1965	1
+Deportivo La CoruÃ±a	Real Zaragoza	0:2	0:2	13.09.1964	00:00	1964	1965	1
+AtlÃ©tico Madrid	Real Betis	0:0	2:1	13.09.1964	00:00	1964	1965	1
+Levante UD	Real Oviedo	0:0	0:0	13.09.1964	00:00	1964	1965	1
+Athletic Bilbao	Elche CF	1:1	2:1	13.09.1964	00:00	1964	1965	1
+Sevilla FC	CÃ³rdoba CF	1:3	2:4	13.09.1964	00:00	1964	1965	1
+Espanyol Barcelona	Real Madrid	1:1	1:2	13.09.1964	00:00	1964	1965	1
+Real Madrid	UD Las Palmas	3:0	6:0	19.09.1964	00:00	1964	1965	2
+Valencia CF	Levante UD	1:0	2:0	19.09.1964	00:00	1964	1965	2
+FC Barcelona	AtlÃ©tico Madrid	1:0	2:3	20.09.1964	00:00	1964	1965	2
+Real Zaragoza	Real Murcia	2:1	5:1	20.09.1964	00:00	1964	1965	2
+Elche CF	Sevilla FC	0:0	0:1	20.09.1964	00:00	1964	1965	2
+Real Oviedo	Athletic Bilbao	0:0	1:0	20.09.1964	00:00	1964	1965	2
+CÃ³rdoba CF	Espanyol Barcelona	1:0	2:1	20.09.1964	00:00	1964	1965	2
+Real Betis	Deportivo La CoruÃ±a	1:0	4:0	20.09.1964	00:00	1964	1965	2
+UD Las Palmas	AtlÃ©tico Madrid	0:2	2:3	27.09.1964	00:00	1964	1965	3
+Real Madrid	CÃ³rdoba CF	3:0	6:1	27.09.1964	00:00	1964	1965	3
+Espanyol Barcelona	Elche CF	1:0	1:0	27.09.1964	00:00	1964	1965	3
+Sevilla FC	Real Oviedo	1:0	1:0	27.09.1964	00:00	1964	1965	3
+Levante UD	Real Zaragoza	0:0	0:1	27.09.1964	00:00	1964	1965	3
+Athletic Bilbao	Valencia CF	2:1	3:2	27.09.1964	00:00	1964	1965	3
+Deportivo La CoruÃ±a	FC Barcelona	1:2	1:2	27.09.1964	00:00	1964	1965	3
+Real Murcia	Real Betis	1:0	1:1	27.09.1964	00:00	1964	1965	3
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	0:0	1:0	04.10.1964	00:00	1964	1965	4
+FC Barcelona	Real Murcia	4:0	8:1	04.10.1964	00:00	1964	1965	4
+UD Las Palmas	CÃ³rdoba CF	0:0	1:0	04.10.1964	00:00	1964	1965	4
+Real Oviedo	Espanyol Barcelona	1:0	3:1	04.10.1964	00:00	1964	1965	4
+Elche CF	Real Madrid	1:0	1:1	04.10.1964	00:00	1964	1965	4
+Real Zaragoza	Athletic Bilbao	0:0	4:1	04.10.1964	00:00	1964	1965	4
+Valencia CF	Sevilla FC	2:1	3:1	04.10.1964	00:00	1964	1965	4
+Real Betis	Levante UD	1:0	1:0	04.10.1964	00:00	1964	1965	4
+Real Murcia	AtlÃ©tico Madrid	0:1	1:5	11.10.1964	00:00	1964	1965	5
+CÃ³rdoba CF	Elche CF	0:0	2:0	11.10.1964	00:00	1964	1965	5
+Real Madrid	Real Oviedo	1:0	3:0	11.10.1964	00:00	1964	1965	5
+Deportivo La CoruÃ±a	UD Las Palmas	1:0	1:0	11.10.1964	00:00	1964	1965	5
+Sevilla FC	Real Zaragoza	1:1	2:1	11.10.1964	00:00	1964	1965	5
+Espanyol Barcelona	Valencia CF	1:2	1:2	11.10.1964	00:00	1964	1965	5
+Levante UD	FC Barcelona	3:0	5:1	11.10.1964	00:00	1964	1965	5
+Athletic Bilbao	Real Betis	1:0	1:0	11.10.1964	00:00	1964	1965	5
+Real Zaragoza	Espanyol Barcelona	0:0	1:0	18.10.1964	00:00	1964	1965	6
+Real Oviedo	CÃ³rdoba CF	0:0	1:0	18.10.1964	00:00	1964	1965	6
+Deportivo La CoruÃ±a	Real Murcia	1:0	2:0	18.10.1964	00:00	1964	1965	6
+AtlÃ©tico Madrid	Levante UD	0:0	3:0	18.10.1964	00:00	1964	1965	6
+FC Barcelona	Athletic Bilbao	1:0	4:0	18.10.1964	00:00	1964	1965	6
+Valencia CF	Real Madrid	0:0	0:0	18.10.1964	00:00	1964	1965	6
+Elche CF	UD Las Palmas	1:0	2:0	18.10.1964	00:00	1964	1965	6
+Real Betis	Sevilla FC	1:0	2:0	18.10.1964	00:00	1964	1965	6
+Real Madrid	Real Zaragoza	0:1	1:1	25.10.1964	00:00	1964	1965	7
+UD Las Palmas	Real Murcia	0:0	0:0	25.10.1964	00:00	1964	1965	7
+Levante UD	Deportivo La CoruÃ±a	1:0	2:0	25.10.1964	00:00	1964	1965	7
+Espanyol Barcelona	Real Betis	1:0	3:0	25.10.1964	00:00	1964	1965	7
+Athletic Bilbao	AtlÃ©tico Madrid	2:0	2:1	25.10.1964	00:00	1964	1965	7
+CÃ³rdoba CF	Valencia CF	0:0	1:0	25.10.1964	00:00	1964	1965	7
+Sevilla FC	FC Barcelona	1:1	2:1	25.10.1964	00:00	1964	1965	7
+Elche CF	Real Oviedo	1:0	2:0	25.10.1964	00:00	1964	1965	7
+UD Las Palmas	Real Oviedo	1:0	3:0	01.11.1964	00:00	1964	1965	8
+AtlÃ©tico Madrid	Sevilla FC	3:1	3:1	01.11.1964	00:00	1964	1965	8
+Real Murcia	Levante UD	0:0	1:1	01.11.1964	00:00	1964	1965	8
+Real Zaragoza	CÃ³rdoba CF	3:0	4:0	01.11.1964	00:00	1964	1965	8
+Real Betis	Real Madrid	1:0	3:1	01.11.1964	00:00	1964	1965	8
+FC Barcelona	Espanyol Barcelona	1:0	1:0	01.11.1964	00:00	1964	1965	8
+Deportivo La CoruÃ±a	Athletic Bilbao	0:1	1:2	01.11.1964	00:00	1964	1965	8
+Valencia CF	Elche CF	2:0	5:0	01.11.1964	00:00	1964	1965	8
+Elche CF	Real Zaragoza	1:1	3:1	08.11.1964	00:00	1964	1965	9
+Athletic Bilbao	Real Murcia	1:1	1:2	08.11.1964	00:00	1964	1965	9
+Sevilla FC	Deportivo La CoruÃ±a	2:0	2:1	08.11.1964	00:00	1964	1965	9
+CÃ³rdoba CF	Real Betis	0:0	1:0	08.11.1964	00:00	1964	1965	9
+Espanyol Barcelona	AtlÃ©tico Madrid	1:0	1:0	08.11.1964	00:00	1964	1965	9
+Real Oviedo	Valencia CF	0:1	0:1	08.11.1964	00:00	1964	1965	9
+Real Madrid	FC Barcelona	2:0	4:1	08.11.1964	00:00	1964	1965	9
+Levante UD	UD Las Palmas	1:1	2:2	08.11.1964	00:00	1964	1965	9
+UD Las Palmas	Valencia CF	1:0	3:2	22.11.1964	00:00	1964	1965	10
+Real Murcia	Sevilla FC	1:1	1:1	22.11.1964	00:00	1964	1965	10
+FC Barcelona	CÃ³rdoba CF	3:1	4:1	22.11.1964	00:00	1964	1965	10
+Real Betis	Elche CF	2:1	2:2	22.11.1964	00:00	1964	1965	10
+Deportivo La CoruÃ±a	Espanyol Barcelona	0:1	1:4	22.11.1964	00:00	1964	1965	10
+Levante UD	Athletic Bilbao	1:2	2:2	22.11.1964	00:00	1964	1965	10
+AtlÃ©tico Madrid	Real Madrid	0:0	0:1	22.11.1964	00:00	1964	1965	10
+Real Zaragoza	Real Oviedo	1:0	2:0	22.11.1964	00:00	1964	1965	10
+Real Madrid	Deportivo La CoruÃ±a	1:0	2:0	28.11.1964	00:00	1964	1965	11
+CÃ³rdoba CF	AtlÃ©tico Madrid	0:0	0:0	29.11.1964	00:00	1964	1965	11
+Sevilla FC	Levante UD	3:1	5:2	29.11.1964	00:00	1964	1965	11
+Espanyol Barcelona	Real Murcia	0:0	1:0	29.11.1964	00:00	1964	1965	11
+Valencia CF	Real Zaragoza	1:0	3:0	29.11.1964	00:00	1964	1965	11
+UD Las Palmas	Athletic Bilbao	1:0	3:1	29.11.1964	00:00	1964	1965	11
+Elche CF	FC Barcelona	2:0	2:0	29.11.1964	00:00	1964	1965	11
+Real Oviedo	Real Betis	0:1	1:2	29.11.1964	00:00	1964	1965	11
+Real Zaragoza	UD Las Palmas	0:0	0:0	05.12.1964	00:00	1964	1965	12
+Real Murcia	Real Madrid	0:2	1:2	06.12.1964	00:00	1964	1965	12
+Deportivo La CoruÃ±a	CÃ³rdoba CF	2:0	2:0	06.12.1964	00:00	1964	1965	12
+AtlÃ©tico Madrid	Elche CF	1:0	2:0	06.12.1964	00:00	1964	1965	12
+FC Barcelona	Real Oviedo	2:0	5:0	06.12.1964	00:00	1964	1965	12
+Levante UD	Espanyol Barcelona	0:0	2:0	06.12.1964	00:00	1964	1965	12
+Athletic Bilbao	Sevilla FC	1:0	1:0	06.12.1964	00:00	1964	1965	12
+Real Betis	Valencia CF	0:1	0:1	06.12.1964	00:00	1964	1965	12
+Real Zaragoza	Real Betis	0:0	2:1	13.12.1964	00:00	1964	1965	13
+Real Madrid	Levante UD	3:0	4:1	13.12.1964	00:00	1964	1965	13
+CÃ³rdoba CF	Real Murcia	0:0	0:0	13.12.1964	00:00	1964	1965	13
+Sevilla FC	UD Las Palmas	0:0	1:2	13.12.1964	00:00	1964	1965	13
+Real Oviedo	AtlÃ©tico Madrid	0:0	0:3	13.12.1964	00:00	1964	1965	13
+Espanyol Barcelona	Athletic Bilbao	2:1	3:1	13.12.1964	00:00	1964	1965	13
+Valencia CF	FC Barcelona	1:2	2:4	13.12.1964	00:00	1964	1965	13
+Elche CF	Deportivo La CoruÃ±a	1:0	3:0	13.12.1964	00:00	1964	1965	13
+Sevilla FC	Espanyol Barcelona	1:0	1:0	20.12.1964	00:00	1964	1965	14
+Real Murcia	Elche CF	2:0	4:0	20.12.1964	00:00	1964	1965	14
+Levante UD	CÃ³rdoba CF	1:0	2:0	20.12.1964	00:00	1964	1965	14
+Deportivo La CoruÃ±a	Real Oviedo	1:0	1:1	20.12.1964	00:00	1964	1965	14
+UD Las Palmas	Real Betis	0:1	2:2	20.12.1964	00:00	1964	1965	14
+AtlÃ©tico Madrid	Valencia CF	0:0	2:1	20.12.1964	00:00	1964	1965	14
+Athletic Bilbao	Real Madrid	0:0	1:1	20.12.1964	00:00	1964	1965	14
+FC Barcelona	Real Zaragoza	0:0	2:0	20.12.1964	00:00	1964	1965	14
+Elche CF	Levante UD	2:1	4:2	27.12.1964	00:00	1964	1965	15
+Real Betis	FC Barcelona	1:1	2:1	27.12.1964	00:00	1964	1965	15
+CÃ³rdoba CF	Athletic Bilbao	1:0	1:0	27.12.1964	00:00	1964	1965	15
+Real Zaragoza	AtlÃ©tico Madrid	2:1	3:1	27.12.1964	00:00	1964	1965	15
+Real Madrid	Sevilla FC	1:0	4:0	27.12.1964	00:00	1964	1965	15
+Espanyol Barcelona	UD Las Palmas	0:0	1:0	27.12.1964	00:00	1964	1965	15
+Valencia CF	Deportivo La CoruÃ±a	0:0	1:0	27.12.1964	00:00	1964	1965	15
+Real Oviedo	Real Murcia	0:0	1:1	27.12.1964	00:00	1964	1965	15
+Real Madrid	Espanyol Barcelona	1:0	1:0	03.01.1965	00:00	1964	1965	16
+Real Betis	AtlÃ©tico Madrid	1:0	1:1	03.01.1965	00:00	1964	1965	16
+CÃ³rdoba CF	Sevilla FC	0:0	1:0	03.01.1965	00:00	1964	1965	16
+FC Barcelona	UD Las Palmas	2:0	4:0	03.01.1965	00:00	1964	1965	16
+Real Zaragoza	Deportivo La CoruÃ±a	2:0	4:1	03.01.1965	00:00	1964	1965	16
+Valencia CF	Real Murcia	1:1	2:2	03.01.1965	00:00	1964	1965	16
+Real Oviedo	Levante UD	1:0	2:0	03.01.1965	00:00	1964	1965	16
+Elche CF	Athletic Bilbao	0:0	1:0	03.01.1965	00:00	1964	1965	16
+Deportivo La CoruÃ±a	Real Betis	1:0	1:0	10.01.1965	00:00	1964	1965	17
+Espanyol Barcelona	CÃ³rdoba CF	0:1	2:4	10.01.1965	00:00	1964	1965	17
+Athletic Bilbao	Real Oviedo	2:0	3:0	10.01.1965	00:00	1964	1965	17
+UD Las Palmas	Real Madrid	1:1	1:1	10.01.1965	00:00	1964	1965	17
+Levante UD	Valencia CF	2:0	2:1	10.01.1965	00:00	1964	1965	17
+AtlÃ©tico Madrid	FC Barcelona	2:1	3:2	10.01.1965	00:00	1964	1965	17
+Real Murcia	Real Zaragoza	0:2	1:2	10.01.1965	00:00	1964	1965	17
+Sevilla FC	Elche CF	0:0	1:0	10.01.1965	00:00	1964	1965	17
+Elche CF	Espanyol Barcelona	0:0	2:1	17.01.1965	00:00	1964	1965	18
+Real Zaragoza	Levante UD	2:1	3:1	17.01.1965	00:00	1964	1965	18
+Real Betis	Real Murcia	1:1	2:2	17.01.1965	00:00	1964	1965	18
+FC Barcelona	Deportivo La CoruÃ±a	2:0	2:0	17.01.1965	00:00	1964	1965	18
+Real Oviedo	Sevilla FC	1:1	2:3	17.01.1965	00:00	1964	1965	18
+Valencia CF	Athletic Bilbao	0:0	2:0	17.01.1965	00:00	1964	1965	18
+CÃ³rdoba CF	Real Madrid	1:0	1:0	17.01.1965	00:00	1964	1965	18
+AtlÃ©tico Madrid	UD Las Palmas	1:1	2:1	17.01.1965	00:00	1964	1965	18
+Levante UD	Real Betis	1:1	3:1	24.01.1965	00:00	1964	1965	19
+CÃ³rdoba CF	UD Las Palmas	0:0	0:0	24.01.1965	00:00	1964	1965	19
+Espanyol Barcelona	Real Oviedo	3:1	5:1	24.01.1965	00:00	1964	1965	19
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:0	0:1	24.01.1965	00:00	1964	1965	19
+Real Murcia	FC Barcelona	0:2	0:2	24.01.1965	00:00	1964	1965	19
+Sevilla FC	Valencia CF	0:1	1:1	24.01.1965	00:00	1964	1965	19
+Athletic Bilbao	Real Zaragoza	1:1	3:1	24.01.1965	00:00	1964	1965	19
+Real Madrid	Elche CF	2:0	3:0	24.01.1965	00:00	1964	1965	19
+Valencia CF	Espanyol Barcelona	1:0	3:1	31.01.1965	00:00	1964	1965	20
+FC Barcelona	Levante UD	2:1	4:2	31.01.1965	00:00	1964	1965	20
+Elche CF	CÃ³rdoba CF	1:0	2:1	31.01.1965	00:00	1964	1965	20
+AtlÃ©tico Madrid	Real Murcia	1:0	2:0	31.01.1965	00:00	1964	1965	20
+Real Zaragoza	Sevilla FC	1:0	1:0	31.01.1965	00:00	1964	1965	20
+Real Betis	Athletic Bilbao	0:1	1:2	31.01.1965	00:00	1964	1965	20
+Real Oviedo	Real Madrid	0:0	0:1	31.01.1965	00:00	1964	1965	20
+UD Las Palmas	Deportivo La CoruÃ±a	1:0	2:0	31.01.1965	00:00	1964	1965	20
+Levante UD	AtlÃ©tico Madrid	0:0	0:1	07.02.1965	00:00	1964	1965	21
+Real Murcia	Deportivo La CoruÃ±a	0:0	2:0	07.02.1965	00:00	1964	1965	21
+CÃ³rdoba CF	Real Oviedo	0:0	1:0	07.02.1965	00:00	1964	1965	21
+UD Las Palmas	Elche CF	1:0	2:0	07.02.1965	00:00	1964	1965	21
+Real Madrid	Valencia CF	2:0	3:0	07.02.1965	00:00	1964	1965	21
+Athletic Bilbao	FC Barcelona	0:0	0:0	07.02.1965	00:00	1964	1965	21
+Sevilla FC	Real Betis	2:1	4:2	07.02.1965	00:00	1964	1965	21
+Espanyol Barcelona	Real Zaragoza	2:0	4:2	07.02.1965	00:00	1964	1965	21
+FC Barcelona	Sevilla FC	2:3	4:3	14.02.1965	00:00	1964	1965	22
+Deportivo La CoruÃ±a	Levante UD	1:0	1:0	14.02.1965	00:00	1964	1965	22
+Valencia CF	CÃ³rdoba CF	1:0	2:1	14.02.1965	00:00	1964	1965	22
+Real Murcia	UD Las Palmas	1:0	1:1	14.02.1965	00:00	1964	1965	22
+Real Betis	Espanyol Barcelona	0:1	0:1	14.02.1965	00:00	1964	1965	22
+AtlÃ©tico Madrid	Athletic Bilbao	3:0	4:0	14.02.1965	00:00	1964	1965	22
+Real Zaragoza	Real Madrid	1:0	1:0	14.02.1965	00:00	1964	1965	22
+Real Oviedo	Elche CF	1:2	1:3	14.02.1965	00:00	1964	1965	22
+Real Madrid	Real Betis	4:0	6:1	20.02.1965	00:00	1964	1965	23
+CÃ³rdoba CF	Real Zaragoza	1:0	2:1	21.02.1965	00:00	1964	1965	23
+Levante UD	Real Murcia	0:2	1:2	21.02.1965	00:00	1964	1965	23
+Athletic Bilbao	Deportivo La CoruÃ±a	0:0	0:0	21.02.1965	00:00	1964	1965	23
+Sevilla FC	AtlÃ©tico Madrid	0:0	0:0	21.02.1965	00:00	1964	1965	23
+Elche CF	Valencia CF	0:1	1:3	21.02.1965	00:00	1964	1965	23
+Espanyol Barcelona	FC Barcelona	0:0	0:0	21.02.1965	00:00	1964	1965	23
+Real Oviedo	UD Las Palmas	1:0	2:0	21.02.1965	00:00	1964	1965	23
+Deportivo La CoruÃ±a	Sevilla FC	1:0	4:0	28.02.1965	00:00	1964	1965	24
+UD Las Palmas	Levante UD	1:0	1:0	28.02.1965	00:00	1964	1965	24
+Real Betis	CÃ³rdoba CF	0:0	0:1	28.02.1965	00:00	1964	1965	24
+Valencia CF	Real Oviedo	2:0	8:1	28.02.1965	00:00	1964	1965	24
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	3:0	28.02.1965	00:00	1964	1965	24
+Real Murcia	Athletic Bilbao	1:1	1:1	28.02.1965	00:00	1964	1965	24
+FC Barcelona	Real Madrid	1:0	1:2	28.02.1965	00:00	1964	1965	24
+Real Zaragoza	Elche CF	1:0	5:1	28.02.1965	00:00	1964	1965	24
+Elche CF	Real Betis	1:0	3:0	07.03.1965	00:00	1964	1965	25
+Valencia CF	UD Las Palmas	1:0	2:1	07.03.1965	00:00	1964	1965	25
+Athletic Bilbao	Levante UD	0:0	1:1	07.03.1965	00:00	1964	1965	25
+Sevilla FC	Real Murcia	0:0	0:0	07.03.1965	00:00	1964	1965	25
+Real Oviedo	Real Zaragoza	2:0	2:0	07.03.1965	00:00	1964	1965	25
+Real Madrid	AtlÃ©tico Madrid	0:0	0:1	07.03.1965	00:00	1964	1965	25
+CÃ³rdoba CF	FC Barcelona	1:0	1:0	07.03.1965	00:00	1964	1965	25
+Espanyol Barcelona	Deportivo La CoruÃ±a	2:0	2:0	07.03.1965	00:00	1964	1965	25
+Levante UD	Sevilla FC	1:1	3:2	21.03.1965	00:00	1964	1965	26
+AtlÃ©tico Madrid	CÃ³rdoba CF	2:0	3:0	21.03.1965	00:00	1964	1965	26
+FC Barcelona	Elche CF	1:1	1:1	21.03.1965	00:00	1964	1965	26
+Athletic Bilbao	UD Las Palmas	2:1	3:1	21.03.1965	00:00	1964	1965	26
+Real Zaragoza	Valencia CF	1:1	4:2	21.03.1965	00:00	1964	1965	26
+Real Murcia	Espanyol Barcelona	1:0	1:0	21.03.1965	00:00	1964	1965	26
+Deportivo La CoruÃ±a	Real Madrid	0:1	0:2	21.03.1965	00:00	1964	1965	26
+Real Betis	Real Oviedo	0:0	0:0	21.03.1965	00:00	1964	1965	26
+Sevilla FC	Athletic Bilbao	0:0	1:2	28.03.1965	00:00	1964	1965	27
+Espanyol Barcelona	Levante UD	1:1	2:1	28.03.1965	00:00	1964	1965	27
+Real Madrid	Real Murcia	2:1	4:1	28.03.1965	00:00	1964	1965	27
+CÃ³rdoba CF	Deportivo La CoruÃ±a	0:0	6:0	28.03.1965	00:00	1964	1965	27
+Elche CF	AtlÃ©tico Madrid	1:0	1:0	28.03.1965	00:00	1964	1965	27
+Valencia CF	Real Betis	0:0	2:0	28.03.1965	00:00	1964	1965	27
+Real Oviedo	FC Barcelona	1:0	2:0	28.03.1965	00:00	1964	1965	27
+UD Las Palmas	Real Zaragoza	1:3	1:3	28.03.1965	00:00	1964	1965	27
+Athletic Bilbao	Espanyol Barcelona	1:1	2:1	03.04.1965	00:00	1964	1965	28
+UD Las Palmas	Sevilla FC	2:0	4:1	04.04.1965	00:00	1964	1965	28
+Real Murcia	CÃ³rdoba CF	0:1	0:1	04.04.1965	00:00	1964	1965	28
+Deportivo La CoruÃ±a	Elche CF	0:0	0:1	04.04.1965	00:00	1964	1965	28
+Real Betis	Real Zaragoza	1:0	2:1	04.04.1965	00:00	1964	1965	28
+FC Barcelona	Valencia CF	2:0	2:0	04.04.1965	00:00	1964	1965	28
+Levante UD	Real Madrid	0:0	0:1	04.04.1965	00:00	1964	1965	28
+AtlÃ©tico Madrid	Real Oviedo	3:0	5:1	04.04.1965	00:00	1964	1965	28
+Real Madrid	Athletic Bilbao	1:0	1:0	11.04.1965	00:00	1964	1965	29
+Elche CF	Real Murcia	0:0	2:0	11.04.1965	00:00	1964	1965	29
+CÃ³rdoba CF	Levante UD	1:0	3:0	11.04.1965	00:00	1964	1965	29
+Real Oviedo	Deportivo La CoruÃ±a	0:0	0:0	11.04.1965	00:00	1964	1965	29
+Real Betis	UD Las Palmas	1:0	2:0	11.04.1965	00:00	1964	1965	29
+Valencia CF	AtlÃ©tico Madrid	1:1	3:1	11.04.1965	00:00	1964	1965	29
+Real Zaragoza	FC Barcelona	0:0	2:0	11.04.1965	00:00	1964	1965	29
+Espanyol Barcelona	Sevilla FC	0:1	0:2	11.04.1965	00:00	1964	1965	29
+Athletic Bilbao	CÃ³rdoba CF	0:0	1:0	18.04.1965	00:00	1964	1965	30
+Sevilla FC	Real Madrid	0:0	0:1	18.04.1965	00:00	1964	1965	30
+UD Las Palmas	Espanyol Barcelona	1:0	1:0	18.04.1965	00:00	1964	1965	30
+Deportivo La CoruÃ±a	Valencia CF	1:2	1:2	18.04.1965	00:00	1964	1965	30
+AtlÃ©tico Madrid	Real Zaragoza	1:2	2:3	18.04.1965	00:00	1964	1965	30
+FC Barcelona	Real Betis	0:0	0:0	18.04.1965	00:00	1964	1965	30
+Real Murcia	Real Oviedo	0:0	0:0	18.04.1965	00:00	1964	1965	30
+Levante UD	Elche CF	0:0	2:0	18.04.1965	00:00	1964	1965	30

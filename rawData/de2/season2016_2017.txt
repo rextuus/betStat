@@ -1,0 +1,306 @@
+1. FC Kaiserslautern	Hannover 96	0:1	0:4	05.08.2016	20:30	2016	2017	1
+VfL Bochum	1. FC Union Berlin	0:0	2:1	06.08.2016	13:00	2016	2017	1
+SV Sandhausen	Fortuna DÃ¼sseldorf	2:1	2:2	06.08.2016	15:30	2016	2017	1
+Dynamo Dresden	1. FC NÃ¼rnberg	0:1	1:1	06.08.2016	15:30	2016	2017	1
+SpVgg Greuther FÃ¼rth	TSV 1860 MÃ¼nchen	1:0	1:0	07.08.2016	13:30	2016	2017	1
+Eintracht Braunschweig	WÃ¼rzburger Kickers	1:0	2:1	07.08.2016	15:30	2016	2017	1
+1. FC Heidenheim 1846	Erzgebirge Aue	1:0	1:0	07.08.2016	15:30	2016	2017	1
+Arminia Bielefeld	Karlsruher SC	0:0	0:0	07.08.2016	15:30	2016	2017	1
+VfB Stuttgart	FC St. Pauli	0:1	2:1	08.08.2016	20:15	2016	2017	1
+1. FC NÃ¼rnberg	1. FC Heidenheim 1846	1:0	1:1	12.08.2016	18:30	2016	2017	2
+Erzgebirge Aue	SV Sandhausen	2:0	2:0	12.08.2016	18:30	2016	2017	2
+Fortuna DÃ¼sseldorf	VfB Stuttgart	0:0	1:0	12.08.2016	20:30	2016	2017	2
+Karlsruher SC	VfL Bochum	0:1	1:1	13.08.2016	13:00	2016	2017	2
+FC St. Pauli	Eintracht Braunschweig	0:1	0:2	13.08.2016	15:30	2016	2017	2
+Hannover 96	SpVgg Greuther FÃ¼rth	1:0	3:1	14.08.2016	13:30	2016	2017	2
+TSV 1860 MÃ¼nchen	Arminia Bielefeld	0:0	1:0	14.08.2016	15:30	2016	2017	2
+WÃ¼rzburger Kickers	1. FC Kaiserslautern	1:1	1:1	14.08.2016	15:30	2016	2017	2
+1. FC Union Berlin	Dynamo Dresden	0:1	2:2	15.08.2016	20:15	2016	2017	2
+VfL Bochum	Hannover 96	0:0	1:1	26.08.2016	18:30	2016	2017	3
+1. FC Heidenheim 1846	WÃ¼rzburger Kickers	0:1	1:2	26.08.2016	18:30	2016	2017	3
+SV Sandhausen	VfB Stuttgart	0:1	1:2	26.08.2016	18:30	2016	2017	3
+Karlsruher SC	TSV 1860 MÃ¼nchen	0:0	0:0	27.08.2016	13:00	2016	2017	3
+SpVgg Greuther FÃ¼rth	Erzgebirge Aue	1:0	3:2	27.08.2016	13:00	2016	2017	3
+Eintracht Braunschweig	1. FC NÃ¼rnberg	2:1	6:1	28.08.2016	13:30	2016	2017	3
+Arminia Bielefeld	1. FC Union Berlin	2:1	4:4	28.08.2016	13:30	2016	2017	3
+Dynamo Dresden	FC St. Pauli	1:0	1:0	28.08.2016	13:30	2016	2017	3
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	0:0	0:0	29.08.2016	20:15	2016	2017	3
+VfB Stuttgart	1. FC Heidenheim 1846	0:0	1:2	09.09.2016	18:30	2016	2017	4
+Erzgebirge Aue	Eintracht Braunschweig	0:1	0:2	09.09.2016	18:30	2016	2017	4
+WÃ¼rzburger Kickers	VfL Bochum	0:0	2:0	09.09.2016	18:30	2016	2017	4
+FC St. Pauli	Arminia Bielefeld	1:0	2:1	10.09.2016	13:00	2016	2017	4
+1. FC Union Berlin	Karlsruher SC	2:0	4:0	10.09.2016	13:00	2016	2017	4
+Hannover 96	Dynamo Dresden	0:1	0:2	11.09.2016	13:30	2016	2017	4
+SV Sandhausen	1. FC Kaiserslautern	1:0	2:0	11.09.2016	13:30	2016	2017	4
+Fortuna DÃ¼sseldorf	SpVgg Greuther FÃ¼rth	0:1	1:1	11.09.2016	13:30	2016	2017	4
+1. FC NÃ¼rnberg	TSV 1860 MÃ¼nchen	1:1	1:2	12.09.2016	20:15	2016	2017	4
+VfL Bochum	1. FC NÃ¼rnberg	3:3	5:4	16.09.2016	18:30	2016	2017	5
+SpVgg Greuther FÃ¼rth	WÃ¼rzburger Kickers	0:1	0:3	16.09.2016	18:30	2016	2017	5
+TSV 1860 MÃ¼nchen	1. FC Union Berlin	1:2	1:2	16.09.2016	18:30	2016	2017	5
+Eintracht Braunschweig	SV Sandhausen	0:0	2:1	17.09.2016	13:00	2016	2017	5
+1. FC Kaiserslautern	VfB Stuttgart	0:0	0:1	17.09.2016	13:00	2016	2017	5
+1. FC Heidenheim 1846	Fortuna DÃ¼sseldorf	0:0	2:0	17.09.2016	13:00	2016	2017	5
+Karlsruher SC	FC St. Pauli	0:1	1:1	18.09.2016	13:30	2016	2017	5
+Arminia Bielefeld	Hannover 96	2:1	3:3	18.09.2016	13:30	2016	2017	5
+Dynamo Dresden	Erzgebirge Aue	0:1	0:3	18.09.2016	13:30	2016	2017	5
+VfB Stuttgart	Eintracht Braunschweig	1:0	2:0	20.09.2016	17:30	2016	2017	6
+1. FC NÃ¼rnberg	SpVgg Greuther FÃ¼rth	0:1	1:2	20.09.2016	17:30	2016	2017	6
+SV Sandhausen	1. FC Heidenheim 1846	0:0	0:0	20.09.2016	17:30	2016	2017	6
+Fortuna DÃ¼sseldorf	VfL Bochum	2:0	3:0	20.09.2016	17:30	2016	2017	6
+Hannover 96	Karlsruher SC	1:0	1:0	21.09.2016	17:30	2016	2017	6
+1. FC Kaiserslautern	Dynamo Dresden	1:0	3:0	21.09.2016	17:30	2016	2017	6
+Erzgebirge Aue	Arminia Bielefeld	1:0	1:1	21.09.2016	17:30	2016	2017	6
+WÃ¼rzburger Kickers	1. FC Union Berlin	0:0	0:1	21.09.2016	17:30	2016	2017	6
+FC St. Pauli	TSV 1860 MÃ¼nchen	1:0	2:2	22.09.2016	20:15	2016	2017	6
+VfL Bochum	VfB Stuttgart	0:0	1:1	23.09.2016	18:30	2016	2017	7
+Eintracht Braunschweig	Fortuna DÃ¼sseldorf	2:0	2:1	23.09.2016	18:30	2016	2017	7
+SpVgg Greuther FÃ¼rth	SV Sandhausen	0:0	1:1	23.09.2016	18:30	2016	2017	7
+Karlsruher SC	Erzgebirge Aue	0:0	2:0	24.09.2016	13:00	2016	2017	7
+1. FC Heidenheim 1846	1. FC Kaiserslautern	2:0	3:0	24.09.2016	13:00	2016	2017	7
+Arminia Bielefeld	1. FC NÃ¼rnberg	1:0	1:3	25.09.2016	13:30	2016	2017	7
+TSV 1860 MÃ¼nchen	Hannover 96	0:0	0:2	25.09.2016	13:30	2016	2017	7
+Dynamo Dresden	WÃ¼rzburger Kickers	1:0	2:2	25.09.2016	13:30	2016	2017	7
+1. FC Union Berlin	FC St. Pauli	2:0	2:0	26.09.2016	20:15	2016	2017	7
+1. FC NÃ¼rnberg	1. FC Union Berlin	1:0	2:0	30.09.2016	18:30	2016	2017	8
+SV Sandhausen	Dynamo Dresden	2:0	2:0	30.09.2016	18:30	2016	2017	8
+Erzgebirge Aue	VfL Bochum	2:2	2:4	30.09.2016	18:30	2016	2017	8
+Hannover 96	FC St. Pauli	0:0	2:0	01.10.2016	13:00	2016	2017	8
+Fortuna DÃ¼sseldorf	Karlsruher SC	1:0	1:1	01.10.2016	13:00	2016	2017	8
+1. FC Kaiserslautern	Arminia Bielefeld	0:0	0:0	02.10.2016	13:30	2016	2017	8
+1. FC Heidenheim 1846	Eintracht Braunschweig	1:0	1:1	02.10.2016	13:30	2016	2017	8
+WÃ¼rzburger Kickers	TSV 1860 MÃ¼nchen	1:0	2:0	02.10.2016	13:30	2016	2017	8
+VfB Stuttgart	SpVgg Greuther FÃ¼rth	3:0	4:0	03.10.2016	20:15	2016	2017	8
+FC St. Pauli	Erzgebirge Aue	1:1	1:2	14.10.2016	18:30	2016	2017	9
+VfL Bochum	SV Sandhausen	0:1	2:2	14.10.2016	18:30	2016	2017	9
+Arminia Bielefeld	WÃ¼rzburger Kickers	0:0	0:1	14.10.2016	18:30	2016	2017	9
+SpVgg Greuther FÃ¼rth	1. FC Heidenheim 1846	0:2	0:2	15.10.2016	13:00	2016	2017	9
+Dynamo Dresden	VfB Stuttgart	3:0	5:0	15.10.2016	13:00	2016	2017	9
+1. FC Union Berlin	Hannover 96	0:0	2:1	16.10.2016	13:30	2016	2017	9
+Karlsruher SC	1. FC NÃ¼rnberg	0:0	0:3	16.10.2016	13:30	2016	2017	9
+TSV 1860 MÃ¼nchen	Fortuna DÃ¼sseldorf	0:3	1:3	16.10.2016	13:30	2016	2017	9
+Eintracht Braunschweig	1. FC Kaiserslautern	1:0	1:0	17.10.2016	20:15	2016	2017	9
+VfB Stuttgart	TSV 1860 MÃ¼nchen	2:1	2:1	21.10.2016	18:30	2016	2017	10
+Fortuna DÃ¼sseldorf	Arminia Bielefeld	2:0	4:0	21.10.2016	18:30	2016	2017	10
+WÃ¼rzburger Kickers	Karlsruher SC	0:1	0:2	21.10.2016	18:30	2016	2017	10
+1. FC Heidenheim 1846	Dynamo Dresden	0:0	0:0	22.10.2016	13:00	2016	2017	10
+SV Sandhausen	FC St. Pauli	2:0	3:0	22.10.2016	13:00	2016	2017	10
+1. FC NÃ¼rnberg	Hannover 96	2:0	2:0	23.10.2016	13:30	2016	2017	10
+Eintracht Braunschweig	SpVgg Greuther FÃ¼rth	0:0	1:0	23.10.2016	13:30	2016	2017	10
+Erzgebirge Aue	1. FC Union Berlin	1:1	1:3	23.10.2016	13:30	2016	2017	10
+1. FC Kaiserslautern	VfL Bochum	1:0	3:0	24.10.2016	20:15	2016	2017	10
+Arminia Bielefeld	SV Sandhausen	0:0	1:0	28.10.2016	18:30	2016	2017	11
+TSV 1860 MÃ¼nchen	Erzgebirge Aue	3:1	6:2	28.10.2016	18:30	2016	2017	11
+Dynamo Dresden	Eintracht Braunschweig	0:1	3:2	28.10.2016	18:45	2016	2017	11
+1. FC Union Berlin	Fortuna DÃ¼sseldorf	0:0	0:1	29.10.2016	13:00	2016	2017	11
+SpVgg Greuther FÃ¼rth	1. FC Kaiserslautern	0:0	0:1	29.10.2016	13:00	2016	2017	11
+Hannover 96	WÃ¼rzburger Kickers	0:1	3:1	30.10.2016	13:30	2016	2017	11
+VfL Bochum	1. FC Heidenheim 1846	2:0	2:1	30.10.2016	13:30	2016	2017	11
+Karlsruher SC	VfB Stuttgart	0:1	1:3	30.10.2016	13:30	2016	2017	11
+FC St. Pauli	1. FC NÃ¼rnberg	1:1	1:1	31.10.2016	20:15	2016	2017	11
+1. FC Heidenheim 1846	Karlsruher SC	1:1	2:1	04.11.2016	18:30	2016	2017	12
+Fortuna DÃ¼sseldorf	Dynamo Dresden	0:2	0:3	04.11.2016	18:30	2016	2017	12
+Erzgebirge Aue	1. FC NÃ¼rnberg	0:1	1:2	04.11.2016	18:30	2016	2017	12
+SpVgg Greuther FÃ¼rth	VfL Bochum	0:0	2:1	05.11.2016	13:00	2016	2017	12
+1. FC Kaiserslautern	1. FC Union Berlin	0:0	1:0	05.11.2016	13:00	2016	2017	12
+VfB Stuttgart	Arminia Bielefeld	1:0	3:1	06.11.2016	13:30	2016	2017	12
+Eintracht Braunschweig	Hannover 96	2:1	2:2	06.11.2016	13:30	2016	2017	12
+SV Sandhausen	TSV 1860 MÃ¼nchen	1:2	3:2	06.11.2016	13:30	2016	2017	12
+WÃ¼rzburger Kickers	FC St. Pauli	0:0	1:0	07.11.2016	20:15	2016	2017	12
+1. FC NÃ¼rnberg	WÃ¼rzburger Kickers	1:0	2:2	18.11.2016	18:30	2016	2017	13
+VfL Bochum	Eintracht Braunschweig	0:0	1:1	18.11.2016	18:30	2016	2017	13
+Arminia Bielefeld	1. FC Heidenheim 1846	1:1	2:1	18.11.2016	18:30	2016	2017	13
+Hannover 96	Erzgebirge Aue	1:0	2:0	19.11.2016	13:00	2016	2017	13
+Karlsruher SC	SV Sandhausen	0:0	1:3	19.11.2016	13:00	2016	2017	13
+FC St. Pauli	Fortuna DÃ¼sseldorf	0:1	0:1	20.11.2016	13:30	2016	2017	13
+1. FC Union Berlin	VfB Stuttgart	0:1	1:1	20.11.2016	13:30	2016	2017	13
+Dynamo Dresden	SpVgg Greuther FÃ¼rth	1:0	2:1	20.11.2016	13:30	2016	2017	13
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	1:1	1:1	21.11.2016	20:15	2016	2017	13
+SpVgg Greuther FÃ¼rth	Arminia Bielefeld	1:0	2:1	25.11.2016	18:30	2016	2017	14
+Fortuna DÃ¼sseldorf	Hannover 96	0:1	2:2	25.11.2016	18:30	2016	2017	14
+WÃ¼rzburger Kickers	Erzgebirge Aue	1:1	1:1	25.11.2016	18:30	2016	2017	14
+1. FC Heidenheim 1846	FC St. Pauli	1:0	2:0	26.11.2016	13:00	2016	2017	14
+Dynamo Dresden	VfL Bochum	2:1	2:2	26.11.2016	13:00	2016	2017	14
+Eintracht Braunschweig	TSV 1860 MÃ¼nchen	1:0	2:1	27.11.2016	13:30	2016	2017	14
+1. FC Kaiserslautern	Karlsruher SC	0:0	0:0	27.11.2016	13:30	2016	2017	14
+SV Sandhausen	1. FC Union Berlin	0:1	0:1	27.11.2016	13:30	2016	2017	14
+VfB Stuttgart	1. FC NÃ¼rnberg	2:0	3:1	28.11.2016	20:15	2016	2017	14
+Hannover 96	1. FC Heidenheim 1846	1:1	3:2	02.12.2016	18:30	2016	2017	15
+FC St. Pauli	1. FC Kaiserslautern	0:0	0:0	02.12.2016	18:30	2016	2017	15
+Karlsruher SC	SpVgg Greuther FÃ¼rth	0:2	1:2	02.12.2016	18:30	2016	2017	15
+1. FC NÃ¼rnberg	SV Sandhausen	0:1	1:3	03.12.2016	13:00	2016	2017	15
+TSV 1860 MÃ¼nchen	Dynamo Dresden	0:0	1:0	03.12.2016	13:00	2016	2017	15
+Arminia Bielefeld	VfL Bochum	1:0	1:0	04.12.2016	13:30	2016	2017	15
+Erzgebirge Aue	VfB Stuttgart	0:2	0:4	04.12.2016	13:30	2016	2017	15
+WÃ¼rzburger Kickers	Fortuna DÃ¼sseldorf	0:0	0:0	04.12.2016	13:30	2016	2017	15
+1. FC Union Berlin	Eintracht Braunschweig	0:0	2:0	05.12.2016	20:15	2016	2017	15
+1. FC Heidenheim 1846	1. FC Union Berlin	1:0	3:0	09.12.2016	18:30	2016	2017	16
+Fortuna DÃ¼sseldorf	1. FC NÃ¼rnberg	0:1	0:2	09.12.2016	18:30	2016	2017	16
+Dynamo Dresden	Karlsruher SC	0:0	0:0	09.12.2016	18:30	2016	2017	16
+VfL Bochum	TSV 1860 MÃ¼nchen	0:0	1:0	10.12.2016	13:00	2016	2017	16
+1. FC Kaiserslautern	Erzgebirge Aue	0:0	0:0	10.12.2016	13:00	2016	2017	16
+Eintracht Braunschweig	Arminia Bielefeld	1:1	3:2	11.12.2016	13:30	2016	2017	16
+SpVgg Greuther FÃ¼rth	FC St. Pauli	0:0	0:2	11.12.2016	13:30	2016	2017	16
+SV Sandhausen	WÃ¼rzburger Kickers	0:0	0:0	11.12.2016	13:30	2016	2017	16
+VfB Stuttgart	Hannover 96	1:1	1:2	12.12.2016	20:15	2016	2017	16
+1. FC Union Berlin	SpVgg Greuther FÃ¼rth	0:0	1:1	16.12.2016	18:30	2016	2017	17
+TSV 1860 MÃ¼nchen	1. FC Heidenheim 1846	1:0	1:1	16.12.2016	18:30	2016	2017	17
+Erzgebirge Aue	Fortuna DÃ¼sseldorf	0:0	0:0	16.12.2016	18:30	2016	2017	17
+FC St. Pauli	VfL Bochum	0:1	1:1	17.12.2016	13:00	2016	2017	17
+Karlsruher SC	Eintracht Braunschweig	0:0	0:0	17.12.2016	13:00	2016	2017	17
+Hannover 96	SV Sandhausen	0:0	0:0	18.12.2016	13:30	2016	2017	17
+Arminia Bielefeld	Dynamo Dresden	0:1	1:2	18.12.2016	13:30	2016	2017	17
+WÃ¼rzburger Kickers	VfB Stuttgart	2:0	3:0	18.12.2016	13:30	2016	2017	17
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	0:0	2:1	19.12.2016	20:15	2016	2017	17
+1. FC Union Berlin	VfL Bochum	0:1	2:1	27.01.2017	18:30	2016	2017	18
+TSV 1860 MÃ¼nchen	SpVgg Greuther FÃ¼rth	1:1	2:1	27.01.2017	18:30	2016	2017	18
+Fortuna DÃ¼sseldorf	SV Sandhausen	0:1	0:3	27.01.2017	18:30	2016	2017	18
+WÃ¼rzburger Kickers	Eintracht Braunschweig	1:0	1:1	28.01.2017	13:00	2016	2017	18
+Erzgebirge Aue	1. FC Heidenheim 1846	0:0	2:1	28.01.2017	13:00	2016	2017	18
+FC St. Pauli	VfB Stuttgart	0:0	0:1	29.01.2017	13:30	2016	2017	18
+Karlsruher SC	Arminia Bielefeld	0:0	3:2	29.01.2017	13:30	2016	2017	18
+1. FC NÃ¼rnberg	Dynamo Dresden	0:1	1:2	29.01.2017	13:30	2016	2017	18
+Hannover 96	1. FC Kaiserslautern	0:0	1:0	30.01.2017	20:15	2016	2017	18
+SpVgg Greuther FÃ¼rth	Hannover 96	2:0	4:1	03.02.2017	18:30	2016	2017	19
+Arminia Bielefeld	TSV 1860 MÃ¼nchen	2:1	2:1	03.02.2017	18:30	2016	2017	19
+1. FC Kaiserslautern	WÃ¼rzburger Kickers	0:0	1:0	03.02.2017	18:30	2016	2017	19
+1. FC Heidenheim 1846	1. FC NÃ¼rnberg	1:1	2:3	04.02.2017	13:00	2016	2017	19
+SV Sandhausen	Erzgebirge Aue	0:0	2:0	04.02.2017	13:00	2016	2017	19
+Eintracht Braunschweig	FC St. Pauli	0:1	1:2	05.02.2017	13:30	2016	2017	19
+Dynamo Dresden	1. FC Union Berlin	0:0	0:0	05.02.2017	13:30	2016	2017	19
+VfL Bochum	Karlsruher SC	0:0	1:1	05.02.2017	13:30	2016	2017	19
+VfB Stuttgart	Fortuna DÃ¼sseldorf	2:0	2:0	06.02.2017	20:15	2016	2017	19
+1. FC NÃ¼rnberg	Eintracht Braunschweig	0:1	1:1	10.02.2017	18:30	2016	2017	20
+Erzgebirge Aue	SpVgg Greuther FÃ¼rth	0:0	0:0	10.02.2017	18:30	2016	2017	20
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	0:0	1:1	10.02.2017	18:30	2016	2017	20
+TSV 1860 MÃ¼nchen	Karlsruher SC	0:0	2:1	11.02.2017	13:00	2016	2017	20
+WÃ¼rzburger Kickers	1. FC Heidenheim 1846	0:0	0:2	11.02.2017	13:00	2016	2017	20
+1. FC Union Berlin	Arminia Bielefeld	1:1	3:1	12.02.2017	13:30	2016	2017	20
+VfB Stuttgart	SV Sandhausen	1:0	2:1	12.02.2017	13:30	2016	2017	20
+FC St. Pauli	Dynamo Dresden	1:0	2:0	12.02.2017	13:30	2016	2017	20
+Hannover 96	VfL Bochum	1:1	2:1	13.02.2017	20:15	2016	2017	20
+1. FC Heidenheim 1846	VfB Stuttgart	1:1	1:2	17.02.2017	18:30	2016	2017	21
+1. FC Kaiserslautern	SV Sandhausen	2:0	3:0	17.02.2017	18:30	2016	2017	21
+Eintracht Braunschweig	Erzgebirge Aue	1:0	1:1	17.02.2017	18:30	2016	2017	21
+SpVgg Greuther FÃ¼rth	Fortuna DÃ¼sseldorf	1:0	1:0	18.02.2017	13:00	2016	2017	21
+VfL Bochum	WÃ¼rzburger Kickers	0:1	2:1	18.02.2017	13:00	2016	2017	21
+Dynamo Dresden	Hannover 96	0:0	1:2	19.02.2017	13:30	2016	2017	21
+Arminia Bielefeld	FC St. Pauli	0:0	1:1	19.02.2017	13:30	2016	2017	21
+Karlsruher SC	1. FC Union Berlin	0:2	1:2	19.02.2017	13:30	2016	2017	21
+TSV 1860 MÃ¼nchen	1. FC NÃ¼rnberg	2:0	2:0	20.02.2017	20:15	2016	2017	21
+SV Sandhausen	Eintracht Braunschweig	0:0	0:1	24.02.2017	18:30	2016	2017	22
+WÃ¼rzburger Kickers	SpVgg Greuther FÃ¼rth	0:0	1:1	24.02.2017	18:30	2016	2017	22
+1. FC Union Berlin	TSV 1860 MÃ¼nchen	1:0	2:0	24.02.2017	18:30	2016	2017	22
+Fortuna DÃ¼sseldorf	1. FC Heidenheim 1846	0:0	0:0	25.02.2017	13:00	2016	2017	22
+Hannover 96	Arminia Bielefeld	1:2	2:2	25.02.2017	13:00	2016	2017	22
+1. FC NÃ¼rnberg	VfL Bochum	0:1	0:1	26.02.2017	13:30	2016	2017	22
+VfB Stuttgart	1. FC Kaiserslautern	0:0	2:0	26.02.2017	13:30	2016	2017	22
+Erzgebirge Aue	Dynamo Dresden	0:4	1:4	26.02.2017	13:30	2016	2017	22
+FC St. Pauli	Karlsruher SC	1:0	5:0	27.02.2017	20:15	2016	2017	22
+Dynamo Dresden	1. FC Kaiserslautern	2:2	3:3	03.03.2017	18:30	2016	2017	23
+VfL Bochum	Fortuna DÃ¼sseldorf	1:0	1:2	03.03.2017	18:30	2016	2017	23
+1. FC Union Berlin	WÃ¼rzburger Kickers	1:0	2:0	03.03.2017	18:30	2016	2017	23
+Karlsruher SC	Hannover 96	1:0	2:0	04.03.2017	13:00	2016	2017	23
+TSV 1860 MÃ¼nchen	FC St. Pauli	1:2	1:2	04.03.2017	13:00	2016	2017	23
+SpVgg Greuther FÃ¼rth	1. FC NÃ¼rnberg	0:0	1:0	05.03.2017	13:30	2016	2017	23
+1. FC Heidenheim 1846	SV Sandhausen	1:2	2:2	05.03.2017	13:30	2016	2017	23
+Arminia Bielefeld	Erzgebirge Aue	2:0	2:2	05.03.2017	13:30	2016	2017	23
+Eintracht Braunschweig	VfB Stuttgart	1:1	1:1	06.03.2017	20:15	2016	2017	23
+VfB Stuttgart	VfL Bochum	0:1	1:1	10.03.2017	18:30	2016	2017	24
+FC St. Pauli	1. FC Union Berlin	0:1	1:2	10.03.2017	18:30	2016	2017	24
+Erzgebirge Aue	Karlsruher SC	1:0	1:0	10.03.2017	18:30	2016	2017	24
+Hannover 96	TSV 1860 MÃ¼nchen	0:0	1:0	11.03.2017	13:00	2016	2017	24
+WÃ¼rzburger Kickers	Dynamo Dresden	0:0	0:2	11.03.2017	13:00	2016	2017	24
+SV Sandhausen	SpVgg Greuther FÃ¼rth	1:0	1:1	12.03.2017	13:30	2016	2017	24
+1. FC Kaiserslautern	1. FC Heidenheim 1846	0:0	1:1	12.03.2017	13:30	2016	2017	24
+1. FC NÃ¼rnberg	Arminia Bielefeld	1:0	1:0	12.03.2017	13:30	2016	2017	24
+Fortuna DÃ¼sseldorf	Eintracht Braunschweig	1:0	1:2	13.03.2017	20:15	2016	2017	24
+Arminia Bielefeld	1. FC Kaiserslautern	0:0	2:0	17.03.2017	18:30	2016	2017	25
+Eintracht Braunschweig	1. FC Heidenheim 1846	1:1	3:2	17.03.2017	18:30	2016	2017	25
+TSV 1860 MÃ¼nchen	WÃ¼rzburger Kickers	0:0	2:1	17.03.2017	18:30	2016	2017	25
+SpVgg Greuther FÃ¼rth	VfB Stuttgart	1:0	1:0	18.03.2017	13:00	2016	2017	25
+FC St. Pauli	Hannover 96	0:0	0:0	18.03.2017	13:00	2016	2017	25
+Dynamo Dresden	SV Sandhausen	1:0	2:0	19.03.2017	13:30	2016	2017	25
+Karlsruher SC	Fortuna DÃ¼sseldorf	0:2	0:3	19.03.2017	13:30	2016	2017	25
+VfL Bochum	Erzgebirge Aue	0:1	1:1	19.03.2017	13:30	2016	2017	25
+1. FC Union Berlin	1. FC NÃ¼rnberg	0:0	1:0	20.03.2017	20:15	2016	2017	25
+Erzgebirge Aue	FC St. Pauli	1:0	1:0	31.03.2017	18:30	2016	2017	26
+1. FC NÃ¼rnberg	Karlsruher SC	0:1	2:1	31.03.2017	18:30	2016	2017	26
+Fortuna DÃ¼sseldorf	TSV 1860 MÃ¼nchen	0:0	0:1	31.03.2017	18:30	2016	2017	26
+SV Sandhausen	VfL Bochum	0:0	0:0	01.04.2017	13:00	2016	2017	26
+Hannover 96	1. FC Union Berlin	0:0	2:0	01.04.2017	13:00	2016	2017	26
+WÃ¼rzburger Kickers	Arminia Bielefeld	1:0	1:1	01.04.2017	13:00	2016	2017	26
+1. FC Kaiserslautern	Eintracht Braunschweig	0:0	0:1	02.04.2017	13:30	2016	2017	26
+1. FC Heidenheim 1846	SpVgg Greuther FÃ¼rth	0:1	0:2	02.04.2017	13:30	2016	2017	26
+VfB Stuttgart	Dynamo Dresden	1:3	3:3	02.04.2017	13:30	2016	2017	26
+Hannover 96	1. FC NÃ¼rnberg	0:0	1:0	04.04.2017	17:30	2016	2017	27
+FC St. Pauli	SV Sandhausen	0:0	0:0	04.04.2017	17:30	2016	2017	27
+Arminia Bielefeld	Fortuna DÃ¼sseldorf	1:1	2:1	04.04.2017	17:30	2016	2017	27
+Karlsruher SC	WÃ¼rzburger Kickers	1:0	1:1	04.04.2017	17:30	2016	2017	27
+TSV 1860 MÃ¼nchen	VfB Stuttgart	1:0	1:1	05.04.2017	17:30	2016	2017	27
+SpVgg Greuther FÃ¼rth	Eintracht Braunschweig	0:0	0:0	05.04.2017	17:30	2016	2017	27
+VfL Bochum	1. FC Kaiserslautern	0:0	0:0	05.04.2017	17:30	2016	2017	27
+Dynamo Dresden	1. FC Heidenheim 1846	0:0	2:1	05.04.2017	17:30	2016	2017	27
+1. FC Union Berlin	Erzgebirge Aue	0:0	0:1	05.04.2017	17:30	2016	2017	27
+WÃ¼rzburger Kickers	Hannover 96	0:0	0:0	07.04.2017	18:30	2016	2017	28
+1. FC NÃ¼rnberg	FC St. Pauli	0:0	0:2	07.04.2017	18:30	2016	2017	28
+SV Sandhausen	Arminia Bielefeld	0:1	1:3	07.04.2017	18:30	2016	2017	28
+1. FC Heidenheim 1846	VfL Bochum	0:0	0:0	08.04.2017	13:00	2016	2017	28
+1. FC Kaiserslautern	SpVgg Greuther FÃ¼rth	2:0	2:0	08.04.2017	13:00	2016	2017	28
+Fortuna DÃ¼sseldorf	1. FC Union Berlin	0:1	2:2	09.04.2017	13:30	2016	2017	28
+VfB Stuttgart	Karlsruher SC	1:0	2:0	09.04.2017	13:30	2016	2017	28
+Erzgebirge Aue	TSV 1860 MÃ¼nchen	1:0	3:0	09.04.2017	13:30	2016	2017	28
+Eintracht Braunschweig	Dynamo Dresden	0:0	1:0	10.04.2017	20:15	2016	2017	28
+Hannover 96	Eintracht Braunschweig	1:0	1:0	15.04.2017	13:00	2016	2017	29
+1. FC NÃ¼rnberg	Erzgebirge Aue	1:0	2:1	15.04.2017	13:00	2016	2017	29
+VfL Bochum	SpVgg Greuther FÃ¼rth	1:0	1:0	16.04.2017	13:30	2016	2017	29
+1. FC Union Berlin	1. FC Kaiserslautern	1:0	3:1	16.04.2017	13:30	2016	2017	29
+Karlsruher SC	1. FC Heidenheim 1846	0:0	0:1	16.04.2017	13:30	2016	2017	29
+TSV 1860 MÃ¼nchen	SV Sandhausen	1:0	1:1	16.04.2017	13:30	2016	2017	29
+Dynamo Dresden	Fortuna DÃ¼sseldorf	0:1	1:1	16.04.2017	13:30	2016	2017	29
+FC St. Pauli	WÃ¼rzburger Kickers	0:0	1:0	16.04.2017	13:30	2016	2017	29
+Arminia Bielefeld	VfB Stuttgart	1:0	2:3	17.04.2017	20:15	2016	2017	29
+Fortuna DÃ¼sseldorf	FC St. Pauli	0:0	1:3	21.04.2017	18:30	2016	2017	30
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	0:0	1:0	21.04.2017	18:30	2016	2017	30
+SpVgg Greuther FÃ¼rth	Dynamo Dresden	0:0	1:0	21.04.2017	18:30	2016	2017	30
+Erzgebirge Aue	Hannover 96	1:1	2:2	22.04.2017	13:00	2016	2017	30
+1. FC Heidenheim 1846	Arminia Bielefeld	0:0	2:2	22.04.2017	13:00	2016	2017	30
+WÃ¼rzburger Kickers	1. FC NÃ¼rnberg	1:0	1:1	23.04.2017	13:30	2016	2017	30
+Eintracht Braunschweig	VfL Bochum	0:0	2:0	23.04.2017	13:30	2016	2017	30
+SV Sandhausen	Karlsruher SC	2:0	4:0	23.04.2017	13:30	2016	2017	30
+VfB Stuttgart	1. FC Union Berlin	2:0	3:1	24.04.2017	20:15	2016	2017	30
+FC St. Pauli	1. FC Heidenheim 1846	0:0	3:0	28.04.2017	18:30	2016	2017	31
+1. FC Union Berlin	SV Sandhausen	1:0	2:1	28.04.2017	18:30	2016	2017	31
+VfL Bochum	Dynamo Dresden	0:2	4:2	28.04.2017	18:30	2016	2017	31
+1. FC NÃ¼rnberg	VfB Stuttgart	2:0	2:3	29.04.2017	13:00	2016	2017	31
+Arminia Bielefeld	SpVgg Greuther FÃ¼rth	0:0	1:1	29.04.2017	13:00	2016	2017	31
+Karlsruher SC	1. FC Kaiserslautern	1:1	1:3	29.04.2017	13:00	2016	2017	31
+TSV 1860 MÃ¼nchen	Eintracht Braunschweig	0:0	0:1	30.04.2017	13:30	2016	2017	31
+Hannover 96	Fortuna DÃ¼sseldorf	1:0	1:0	30.04.2017	13:30	2016	2017	31
+Erzgebirge Aue	WÃ¼rzburger Kickers	3:0	3:1	30.04.2017	13:30	2016	2017	31
+1. FC Heidenheim 1846	Hannover 96	0:2	0:2	05.05.2017	18:30	2016	2017	32
+1. FC Kaiserslautern	FC St. Pauli	0:0	1:2	05.05.2017	18:30	2016	2017	32
+Dynamo Dresden	TSV 1860 MÃ¼nchen	0:1	1:2	05.05.2017	18:30	2016	2017	32
+SV Sandhausen	1. FC NÃ¼rnberg	0:0	0:1	06.05.2017	13:00	2016	2017	32
+Fortuna DÃ¼sseldorf	WÃ¼rzburger Kickers	0:0	1:1	06.05.2017	13:00	2016	2017	32
+SpVgg Greuther FÃ¼rth	Karlsruher SC	0:0	0:1	07.05.2017	13:30	2016	2017	32
+VfL Bochum	Arminia Bielefeld	0:1	1:1	07.05.2017	13:30	2016	2017	32
+VfB Stuttgart	Erzgebirge Aue	1:0	3:0	07.05.2017	13:30	2016	2017	32
+Eintracht Braunschweig	1. FC Union Berlin	1:0	3:1	08.05.2017	20:15	2016	2017	32
+Hannover 96	VfB Stuttgart	1:0	1:0	14.05.2017	15:30	2016	2017	33
+TSV 1860 MÃ¼nchen	VfL Bochum	1:1	1:2	14.05.2017	15:30	2016	2017	33
+Arminia Bielefeld	Eintracht Braunschweig	2:0	6:0	14.05.2017	15:30	2016	2017	33
+FC St. Pauli	SpVgg Greuther FÃ¼rth	0:1	1:1	14.05.2017	15:30	2016	2017	33
+Erzgebirge Aue	1. FC Kaiserslautern	0:0	1:0	14.05.2017	15:30	2016	2017	33
+1. FC Union Berlin	1. FC Heidenheim 1846	0:0	0:1	14.05.2017	15:30	2016	2017	33
+WÃ¼rzburger Kickers	SV Sandhausen	0:1	0:1	14.05.2017	15:30	2016	2017	33
+1. FC NÃ¼rnberg	Fortuna DÃ¼sseldorf	1:1	2:3	14.05.2017	15:30	2016	2017	33
+Karlsruher SC	Dynamo Dresden	1:3	3:4	14.05.2017	15:30	2016	2017	33
+SV Sandhausen	Hannover 96	0:0	1:1	21.05.2017	15:30	2016	2017	34
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	1:0	1:0	21.05.2017	15:30	2016	2017	34
+VfL Bochum	FC St. Pauli	1:1	1:3	21.05.2017	15:30	2016	2017	34
+SpVgg Greuther FÃ¼rth	1. FC Union Berlin	0:1	1:2	21.05.2017	15:30	2016	2017	34
+Eintracht Braunschweig	Karlsruher SC	2:1	2:1	21.05.2017	15:30	2016	2017	34
+Dynamo Dresden	Arminia Bielefeld	0:0	1:1	21.05.2017	15:30	2016	2017	34
+1. FC Heidenheim 1846	TSV 1860 MÃ¼nchen	0:0	2:1	21.05.2017	15:30	2016	2017	34
+Fortuna DÃ¼sseldorf	Erzgebirge Aue	1:0	1:0	21.05.2017	15:30	2016	2017	34
+VfB Stuttgart	WÃ¼rzburger Kickers	1:0	4:1	21.05.2017	15:30	2016	2017	34

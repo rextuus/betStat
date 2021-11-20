@@ -1,0 +1,380 @@
+Chelsea FC	Hull City	1:1	2:1	15.08.2009	13:45	2009	2010	1
+Aston Villa	Wigan Athletic	0:1	0:2	15.08.2009	16:00	2009	2010	1
+Blackburn Rovers	Manchester City	0:1	0:2	15.08.2009	16:00	2009	2010	1
+Bolton Wanderers	Sunderland AFC	0:1	0:1	15.08.2009	16:00	2009	2010	1
+Portsmouth FC	Fulham FC	0:1	0:1	15.08.2009	16:00	2009	2010	1
+Stoke City	Burnley FC	2:0	2:0	15.08.2009	16:00	2009	2010	1
+Wolverhampton Wanderers	West Ham United	0:1	0:2	15.08.2009	16:00	2009	2010	1
+Everton FC	Arsenal FC	0:3	1:6	15.08.2009	18:30	2009	2010	1
+Manchester United	Birmingham City	1:0	1:0	16.08.2009	14:30	2009	2010	1
+Tottenham Hotspur	Liverpool FC	1:0	2:1	16.08.2009	17:00	2009	2010	1
+Sunderland AFC	Chelsea FC	1:0	1:3	18.08.2009	20:45	2009	2010	2
+Wigan Athletic	Wolverhampton Wanderers	0:1	0:1	18.08.2009	20:45	2009	2010	2
+Birmingham City	Portsmouth FC	0:0	1:0	19.08.2009	20:45	2009	2010	2
+Burnley FC	Manchester United	1:0	1:0	19.08.2009	20:45	2009	2010	2
+Hull City	Tottenham Hotspur	1:3	1:5	19.08.2009	20:45	2009	2010	2
+Liverpool FC	Stoke City	2:0	4:0	19.08.2009	21:00	2009	2010	2
+West Ham United	Aston Villa	1:0	2:1	04.11.2009	20:45	2009	2010	2
+Fulham FC	Blackburn Rovers	1:0	3:0	25.11.2009	21:00	2009	2010	2
+Arsenal FC	Bolton Wanderers	1:2	4:2	20.01.2010	20:45	2009	2010	2
+Manchester City	Everton FC	0:1	0:2	24.03.2010	20:45	2009	2010	2
+Arsenal FC	Portsmouth FC	2:1	4:1	22.08.2009	16:00	2009	2010	3
+Birmingham City	Stoke City	0:0	0:0	22.08.2009	16:00	2009	2010	3
+Hull City	Bolton Wanderers	0:0	1:0	22.08.2009	16:00	2009	2010	3
+Manchester City	Wolverhampton Wanderers	1:0	1:0	22.08.2009	16:00	2009	2010	3
+Sunderland AFC	Blackburn Rovers	1:1	2:1	22.08.2009	16:00	2009	2010	3
+Wigan Athletic	Manchester United	0:0	0:5	22.08.2009	16:00	2009	2010	3
+West Ham United	Tottenham Hotspur	0:0	1:2	23.08.2009	14:30	2009	2010	3
+Burnley FC	Everton FC	1:0	1:0	23.08.2009	16:00	2009	2010	3
+Fulham FC	Chelsea FC	0:1	0:2	23.08.2009	17:00	2009	2010	3
+Liverpool FC	Aston Villa	0:2	1:3	24.08.2009	21:00	2009	2010	3
+Chelsea FC	Burnley FC	1:0	3:0	29.08.2009	13:45	2009	2010	4
+Blackburn Rovers	West Ham United	0:0	0:0	29.08.2009	16:00	2009	2010	4
+Bolton Wanderers	Liverpool FC	1:1	2:3	29.08.2009	16:00	2009	2010	4
+Stoke City	Sunderland AFC	1:0	1:0	29.08.2009	16:00	2009	2010	4
+Tottenham Hotspur	Birmingham City	0:0	2:1	29.08.2009	16:00	2009	2010	4
+Wolverhampton Wanderers	Hull City	0:1	1:1	29.08.2009	16:00	2009	2010	4
+Manchester United	Arsenal FC	0:1	2:1	29.08.2009	18:15	2009	2010	4
+Portsmouth FC	Manchester City	0:1	0:1	30.08.2009	14:30	2009	2010	4
+Everton FC	Wigan Athletic	0:0	2:1	30.08.2009	16:00	2009	2010	4
+Aston Villa	Fulham FC	1:0	2:0	30.08.2009	17:00	2009	2010	4
+Blackburn Rovers	Wolverhampton Wanderers	1:0	3:1	12.09.2009	16:00	2009	2010	5
+Liverpool FC	Burnley FC	2:0	4:0	12.09.2009	16:00	2009	2010	5
+Manchester City	Arsenal FC	1:0	4:2	12.09.2009	16:00	2009	2010	5
+Portsmouth FC	Bolton Wanderers	1:2	2:3	12.09.2009	16:00	2009	2010	5
+Stoke City	Chelsea FC	1:1	1:2	12.09.2009	16:00	2009	2010	5
+Sunderland AFC	Hull City	1:1	4:1	12.09.2009	16:00	2009	2010	5
+Wigan Athletic	West Ham United	0:0	1:0	12.09.2009	16:00	2009	2010	5
+Tottenham Hotspur	Manchester United	1:2	1:3	12.09.2009	18:30	2009	2010	5
+Birmingham City	Aston Villa	0:0	0:1	13.09.2009	13:00	2009	2010	5
+Fulham FC	Everton FC	0:1	2:1	13.09.2009	17:15	2009	2010	5
+Burnley FC	Sunderland AFC	1:1	3:1	19.09.2009	13:45	2009	2010	6
+Arsenal FC	Wigan Athletic	1:0	4:0	19.09.2009	16:00	2009	2010	6
+Aston Villa	Portsmouth FC	2:0	2:0	19.09.2009	16:00	2009	2010	6
+Bolton Wanderers	Stoke City	0:0	1:1	19.09.2009	16:00	2009	2010	6
+Hull City	Birmingham City	0:0	0:1	19.09.2009	16:00	2009	2010	6
+West Ham United	Liverpool FC	2:2	2:3	19.09.2009	18:30	2009	2010	6
+Manchester United	Manchester City	1:1	4:3	20.09.2009	14:30	2009	2010	6
+Wolverhampton Wanderers	Fulham FC	1:0	2:1	20.09.2009	15:00	2009	2010	6
+Everton FC	Blackburn Rovers	1:0	3:0	20.09.2009	16:00	2009	2010	6
+Chelsea FC	Tottenham Hotspur	1:0	3:0	20.09.2009	17:00	2009	2010	6
+Portsmouth FC	Everton FC	0:1	0:1	26.09.2009	13:45	2009	2010	7
+Birmingham City	Bolton Wanderers	0:1	1:2	26.09.2009	16:00	2009	2010	7
+Blackburn Rovers	Aston Villa	1:1	2:1	26.09.2009	16:00	2009	2010	7
+Liverpool FC	Hull City	2:1	6:1	26.09.2009	16:00	2009	2010	7
+Stoke City	Manchester United	0:0	0:2	26.09.2009	16:00	2009	2010	7
+Tottenham Hotspur	Burnley FC	2:0	5:0	26.09.2009	16:00	2009	2010	7
+Wigan Athletic	Chelsea FC	1:0	3:1	26.09.2009	16:00	2009	2010	7
+Fulham FC	Arsenal FC	0:0	0:1	26.09.2009	18:30	2009	2010	7
+Sunderland AFC	Wolverhampton Wanderers	1:0	5:2	27.09.2009	17:00	2009	2010	7
+Manchester City	West Ham United	2:1	3:1	28.09.2009	21:00	2009	2010	7
+Bolton Wanderers	Tottenham Hotspur	1:1	2:2	03.10.2009	16:00	2009	2010	8
+Burnley FC	Birmingham City	0:0	2:1	03.10.2009	16:00	2009	2010	8
+Hull City	Wigan Athletic	0:0	2:1	03.10.2009	16:00	2009	2010	8
+Wolverhampton Wanderers	Portsmouth FC	0:1	0:1	03.10.2009	16:00	2009	2010	8
+Manchester United	Sunderland AFC	0:1	2:2	03.10.2009	18:30	2009	2010	8
+Arsenal FC	Blackburn Rovers	3:2	6:2	04.10.2009	14:30	2009	2010	8
+Everton FC	Stoke City	0:0	1:1	04.10.2009	16:00	2009	2010	8
+West Ham United	Fulham FC	1:0	2:2	04.10.2009	16:00	2009	2010	8
+Chelsea FC	Liverpool FC	0:0	2:0	04.10.2009	17:00	2009	2010	8
+Aston Villa	Manchester City	1:0	1:1	05.10.2009	21:00	2009	2010	8
+Aston Villa	Chelsea FC	1:1	2:1	17.10.2009	13:50	2009	2010	9
+Arsenal FC	Birmingham City	2:1	3:1	17.10.2009	16:00	2009	2010	9
+Everton FC	Wolverhampton Wanderers	0:0	1:1	17.10.2009	16:00	2009	2010	9
+Manchester United	Bolton Wanderers	2:0	2:1	17.10.2009	16:00	2009	2010	9
+Portsmouth FC	Tottenham Hotspur	0:2	1:2	17.10.2009	16:00	2009	2010	9
+Stoke City	West Ham United	1:1	2:1	17.10.2009	16:00	2009	2010	9
+Sunderland AFC	Liverpool FC	1:0	1:0	17.10.2009	16:00	2009	2010	9
+Blackburn Rovers	Burnley FC	3:1	3:2	18.10.2009	14:00	2009	2010	9
+Wigan Athletic	Manchester City	1:0	1:1	18.10.2009	17:00	2009	2010	9
+Fulham FC	Hull City	1:0	2:0	19.10.2009	21:00	2009	2010	9
+Wolverhampton Wanderers	Aston Villa	0:0	1:1	24.10.2009	13:45	2009	2010	10
+Birmingham City	Sunderland AFC	1:0	2:1	24.10.2009	16:00	2009	2010	10
+Burnley FC	Wigan Athletic	1:1	1:3	24.10.2009	16:00	2009	2010	10
+Hull City	Portsmouth FC	0:0	0:0	24.10.2009	16:00	2009	2010	10
+Tottenham Hotspur	Stoke City	0:0	0:1	24.10.2009	16:00	2009	2010	10
+Chelsea FC	Blackburn Rovers	1:0	5:0	24.10.2009	18:30	2009	2010	10
+Bolton Wanderers	Everton FC	2:1	3:2	25.10.2009	14:30	2009	2010	10
+Liverpool FC	Manchester United	0:0	2:0	25.10.2009	15:00	2009	2010	10
+Manchester City	Fulham FC	0:0	2:2	25.10.2009	16:00	2009	2010	10
+West Ham United	Arsenal FC	0:2	2:2	25.10.2009	17:15	2009	2010	10
+Arsenal FC	Tottenham Hotspur	2:0	3:0	31.10.2009	13:45	2009	2010	11
+Bolton Wanderers	Chelsea FC	0:1	0:4	31.10.2009	16:00	2009	2010	11
+Burnley FC	Hull City	1:0	2:0	31.10.2009	16:00	2009	2010	11
+Everton FC	Aston Villa	1:0	1:1	31.10.2009	16:00	2009	2010	11
+Fulham FC	Liverpool FC	1:1	3:1	31.10.2009	16:00	2009	2010	11
+Portsmouth FC	Wigan Athletic	2:0	4:0	31.10.2009	16:00	2009	2010	11
+Stoke City	Wolverhampton Wanderers	2:0	2:2	31.10.2009	16:00	2009	2010	11
+Sunderland AFC	West Ham United	1:2	2:2	31.10.2009	16:00	2009	2010	11
+Manchester United	Blackburn Rovers	0:0	2:0	31.10.2009	18:30	2009	2010	11
+Birmingham City	Manchester City	0:0	0:0	01.11.2009	17:00	2009	2010	11
+Aston Villa	Bolton Wanderers	2:1	5:1	07.11.2009	16:00	2009	2010	12
+Blackburn Rovers	Portsmouth FC	0:1	3:1	07.11.2009	16:00	2009	2010	12
+Manchester City	Burnley FC	1:2	3:3	07.11.2009	16:00	2009	2010	12
+Tottenham Hotspur	Sunderland AFC	1:0	2:0	07.11.2009	16:00	2009	2010	12
+Wolverhampton Wanderers	Arsenal FC	0:3	1:4	07.11.2009	18:30	2009	2010	12
+Hull City	Stoke City	0:1	2:1	08.11.2009	14:30	2009	2010	12
+West Ham United	Everton FC	0:1	1:2	08.11.2009	16:00	2009	2010	12
+Wigan Athletic	Fulham FC	1:1	1:1	08.11.2009	16:00	2009	2010	12
+Chelsea FC	Manchester United	0:0	1:0	08.11.2009	17:00	2009	2010	12
+Liverpool FC	Birmingham City	1:2	2:2	09.11.2009	21:00	2009	2010	12
+Liverpool FC	Manchester City	0:0	2:2	21.11.2009	13:45	2009	2010	13
+Birmingham City	Fulham FC	1:0	1:0	21.11.2009	16:00	2009	2010	13
+Burnley FC	Aston Villa	1:0	1:1	21.11.2009	16:00	2009	2010	13
+Chelsea FC	Wolverhampton Wanderers	3:0	4:0	21.11.2009	16:00	2009	2010	13
+Hull City	West Ham United	3:2	3:3	21.11.2009	16:00	2009	2010	13
+Sunderland AFC	Arsenal FC	0:0	1:0	21.11.2009	16:00	2009	2010	13
+Manchester United	Everton FC	1:0	3:0	21.11.2009	18:30	2009	2010	13
+Bolton Wanderers	Blackburn Rovers	0:1	0:2	22.11.2009	14:30	2009	2010	13
+Tottenham Hotspur	Wigan Athletic	1:0	9:1	22.11.2009	16:00	2009	2010	13
+Stoke City	Portsmouth FC	0:0	1:0	22.11.2009	17:00	2009	2010	13
+Blackburn Rovers	Stoke City	0:0	0:0	28.11.2009	16:00	2009	2010	14
+Fulham FC	Bolton Wanderers	0:1	1:1	28.11.2009	16:00	2009	2010	14
+Manchester City	Hull City	1:0	1:1	28.11.2009	16:00	2009	2010	14
+Portsmouth FC	Manchester United	1:1	1:4	28.11.2009	16:00	2009	2010	14
+West Ham United	Burnley FC	3:0	5:3	28.11.2009	16:00	2009	2010	14
+Wigan Athletic	Sunderland AFC	0:0	1:0	28.11.2009	16:00	2009	2010	14
+Aston Villa	Tottenham Hotspur	1:0	1:1	28.11.2009	18:30	2009	2010	14
+Wolverhampton Wanderers	Birmingham City	0:1	0:1	29.11.2009	13:00	2009	2010	14
+Everton FC	Liverpool FC	0:1	0:2	29.11.2009	14:30	2009	2010	14
+Arsenal FC	Chelsea FC	0:2	0:3	29.11.2009	17:00	2009	2010	14
+Portsmouth FC	Burnley FC	0:0	2:0	05.12.2009	13:45	2009	2010	15
+Arsenal FC	Stoke City	1:0	2:0	05.12.2009	16:00	2009	2010	15
+Aston Villa	Hull City	2:0	3:0	05.12.2009	16:00	2009	2010	15
+Blackburn Rovers	Liverpool FC	0:0	0:0	05.12.2009	16:00	2009	2010	15
+West Ham United	Manchester United	0:1	0:4	05.12.2009	16:00	2009	2010	15
+Wigan Athletic	Birmingham City	1:0	2:3	05.12.2009	16:00	2009	2010	15
+Wolverhampton Wanderers	Bolton Wanderers	1:0	2:1	05.12.2009	16:00	2009	2010	15
+Manchester City	Chelsea FC	1:1	2:1	05.12.2009	18:30	2009	2010	15
+Fulham FC	Sunderland AFC	1:0	1:0	06.12.2009	16:00	2009	2010	15
+Everton FC	Tottenham Hotspur	0:0	2:2	06.12.2009	17:00	2009	2010	15
+Stoke City	Wigan Athletic	1:1	2:2	12.12.2009	13:45	2009	2010	16
+Birmingham City	West Ham United	0:0	1:0	12.12.2009	16:00	2009	2010	16
+Bolton Wanderers	Manchester City	2:2	3:3	12.12.2009	16:00	2009	2010	16
+Burnley FC	Fulham FC	0:0	1:1	12.12.2009	16:00	2009	2010	16
+Chelsea FC	Everton FC	2:2	3:3	12.12.2009	16:00	2009	2010	16
+Hull City	Blackburn Rovers	0:0	0:0	12.12.2009	16:00	2009	2010	16
+Sunderland AFC	Portsmouth FC	1:0	1:1	12.12.2009	16:00	2009	2010	16
+Tottenham Hotspur	Wolverhampton Wanderers	0:1	0:1	12.12.2009	16:00	2009	2010	16
+Manchester United	Aston Villa	0:1	0:1	12.12.2009	18:30	2009	2010	16
+Liverpool FC	Arsenal FC	1:0	1:2	13.12.2009	17:00	2009	2010	16
+Hull City	Everton FC	3:0	3:2	25.11.2009	20:45	2009	2010	17
+Sunderland AFC	Aston Villa	0:1	0:2	15.12.2009	20:45	2009	2010	17
+Birmingham City	Blackburn Rovers	1:0	2:1	15.12.2009	21:00	2009	2010	17
+Bolton Wanderers	West Ham United	0:0	3:1	15.12.2009	21:00	2009	2010	17
+Manchester United	Wolverhampton Wanderers	2:0	3:0	15.12.2009	21:00	2009	2010	17
+Burnley FC	Arsenal FC	1:1	1:1	16.12.2009	20:45	2009	2010	17
+Chelsea FC	Portsmouth FC	1:0	2:1	16.12.2009	20:45	2009	2010	17
+Tottenham Hotspur	Manchester City	1:0	3:0	16.12.2009	21:00	2009	2010	17
+Liverpool FC	Wigan Athletic	1:0	2:1	16.12.2009	21:00	2009	2010	17
+Stoke City	Fulham FC	3:0	3:2	05.01.2010	20:45	2009	2010	17
+Portsmouth FC	Liverpool FC	1:0	2:0	19.12.2009	13:45	2009	2010	18
+Aston Villa	Stoke City	0:0	1:0	19.12.2009	16:00	2009	2010	18
+Blackburn Rovers	Tottenham Hotspur	0:1	0:2	19.12.2009	16:00	2009	2010	18
+Fulham FC	Manchester United	1:0	3:0	19.12.2009	16:00	2009	2010	18
+Manchester City	Sunderland AFC	3:2	4:3	19.12.2009	16:00	2009	2010	18
+Arsenal FC	Hull City	1:0	3:0	19.12.2009	18:30	2009	2010	18
+Wolverhampton Wanderers	Burnley FC	1:0	2:0	20.12.2009	14:30	2009	2010	18
+Everton FC	Birmingham City	1:1	1:1	20.12.2009	16:00	2009	2010	18
+West Ham United	Chelsea FC	1:0	1:1	20.12.2009	17:00	2009	2010	18
+Wigan Athletic	Bolton Wanderers	0:0	0:0	17.02.2010	21:00	2009	2010	18
+Birmingham City	Chelsea FC	0:0	0:0	26.12.2009	13:45	2009	2010	19
+Fulham FC	Tottenham Hotspur	0:0	0:0	26.12.2009	14:00	2009	2010	19
+West Ham United	Portsmouth FC	1:0	2:0	26.12.2009	14:00	2009	2010	19
+Burnley FC	Bolton Wanderers	0:1	1:1	26.12.2009	15:00	2009	2010	19
+Manchester City	Stoke City	2:0	2:0	26.12.2009	16:00	2009	2010	19
+Sunderland AFC	Everton FC	1:0	1:1	26.12.2009	16:00	2009	2010	19
+Wigan Athletic	Blackburn Rovers	0:1	1:1	26.12.2009	16:00	2009	2010	19
+Liverpool FC	Wolverhampton Wanderers	0:0	2:0	26.12.2009	18:30	2009	2010	19
+Arsenal FC	Aston Villa	0:0	3:0	27.12.2009	14:30	2009	2010	19
+Hull City	Manchester United	0:1	1:3	27.12.2009	17:00	2009	2010	19
+Tottenham Hotspur	West Ham United	1:0	2:0	28.12.2009	13:45	2009	2010	20
+Blackburn Rovers	Sunderland AFC	0:0	2:2	28.12.2009	16:00	2009	2010	20
+Chelsea FC	Fulham FC	0:1	2:1	28.12.2009	16:00	2009	2010	20
+Everton FC	Burnley FC	0:0	2:0	28.12.2009	16:00	2009	2010	20
+Stoke City	Birmingham City	0:0	0:1	28.12.2009	16:00	2009	2010	20
+Wolverhampton Wanderers	Manchester City	0:1	0:3	28.12.2009	20:45	2009	2010	20
+Aston Villa	Liverpool FC	0:0	0:1	29.12.2009	20:45	2009	2010	20
+Bolton Wanderers	Hull City	1:0	2:2	29.12.2009	21:00	2009	2010	20
+Portsmouth FC	Arsenal FC	0:2	1:4	30.12.2009	20:45	2009	2010	20
+Manchester United	Wigan Athletic	3:0	5:0	30.12.2009	21:00	2009	2010	20
+Arsenal FC	Everton FC	1:1	2:2	09.01.2010	16:00	2009	2010	21
+Birmingham City	Manchester United	1:0	1:1	09.01.2010	18:30	2009	2010	21
+Manchester City	Blackburn Rovers	2:0	4:1	11.01.2010	21:00	2009	2010	21
+Liverpool FC	Tottenham Hotspur	1:0	2:0	20.01.2010	21:00	2009	2010	21
+Hull City	Chelsea FC	1:1	1:1	02.02.2010	20:45	2009	2010	21
+Fulham FC	Portsmouth FC	0:0	1:0	03.02.2010	21:00	2009	2010	21
+Sunderland AFC	Bolton Wanderers	1:0	4:0	09.03.2010	20:45	2009	2010	21
+Burnley FC	Stoke City	0:1	1:1	10.03.2010	20:45	2009	2010	21
+Wigan Athletic	Aston Villa	1:1	1:2	16.03.2010	20:45	2009	2010	21
+West Ham United	Wolverhampton Wanderers	0:1	1:3	23.03.2010	21:00	2009	2010	21
+Stoke City	Liverpool FC	0:0	1:1	16.01.2010	13:45	2009	2010	22
+Chelsea FC	Sunderland AFC	4:0	7:2	16.01.2010	16:00	2009	2010	22
+Manchester United	Burnley FC	0:0	3:0	16.01.2010	16:00	2009	2010	22
+Tottenham Hotspur	Hull City	0:0	0:0	16.01.2010	16:00	2009	2010	22
+Wolverhampton Wanderers	Wigan Athletic	0:0	0:2	16.01.2010	16:00	2009	2010	22
+Everton FC	Manchester City	2:0	2:0	16.01.2010	18:30	2009	2010	22
+Aston Villa	West Ham United	0:0	0:0	17.01.2010	14:30	2009	2010	22
+Blackburn Rovers	Fulham FC	1:0	2:0	17.01.2010	16:00	2009	2010	22
+Bolton Wanderers	Arsenal FC	0:1	0:2	17.01.2010	17:00	2009	2010	22
+Portsmouth FC	Birmingham City	0:2	1:2	09.03.2010	20:45	2009	2010	22
+Manchester United	Hull City	1:0	4:0	23.01.2010	16:00	2009	2010	23
+Portsmouth FC	West Ham United	0:0	1:1	26.01.2010	20:45	2009	2010	23
+Wolverhampton Wanderers	Liverpool FC	0:0	0:0	26.01.2010	20:45	2009	2010	23
+Bolton Wanderers	Burnley FC	1:0	1:0	26.01.2010	21:00	2009	2010	23
+Tottenham Hotspur	Fulham FC	1:0	2:0	26.01.2010	21:00	2009	2010	23
+Aston Villa	Arsenal FC	0:0	0:0	27.01.2010	20:45	2009	2010	23
+Chelsea FC	Birmingham City	2:0	3:0	27.01.2010	20:45	2009	2010	23
+Blackburn Rovers	Wigan Athletic	1:0	2:1	27.01.2010	21:00	2009	2010	23
+Everton FC	Sunderland AFC	2:0	2:0	27.01.2010	21:00	2009	2010	23
+Stoke City	Manchester City	0:0	1:1	16.02.2010	20:45	2009	2010	23
+Birmingham City	Tottenham Hotspur	0:0	1:1	30.01.2010	16:00	2009	2010	24
+Fulham FC	Aston Villa	0:2	0:2	30.01.2010	16:00	2009	2010	24
+Hull City	Wolverhampton Wanderers	1:0	2:2	30.01.2010	16:00	2009	2010	24
+Liverpool FC	Bolton Wanderers	1:0	2:0	30.01.2010	16:00	2009	2010	24
+West Ham United	Blackburn Rovers	0:0	0:0	30.01.2010	16:00	2009	2010	24
+Wigan Athletic	Everton FC	0:0	0:1	30.01.2010	16:00	2009	2010	24
+Burnley FC	Chelsea FC	0:1	1:2	30.01.2010	18:30	2009	2010	24
+Manchester City	Portsmouth FC	2:0	2:0	31.01.2010	14:30	2009	2010	24
+Arsenal FC	Manchester United	0:2	1:3	31.01.2010	17:00	2009	2010	24
+Sunderland AFC	Stoke City	0:0	0:0	01.02.2010	21:00	2009	2010	24
+Liverpool FC	Everton FC	0:0	1:0	06.02.2010	13:45	2009	2010	25
+Bolton Wanderers	Fulham FC	0:0	0:0	06.02.2010	16:00	2009	2010	25
+Burnley FC	West Ham United	1:0	2:1	06.02.2010	16:00	2009	2010	25
+Hull City	Manchester City	1:0	2:1	06.02.2010	16:00	2009	2010	25
+Manchester United	Portsmouth FC	2:0	5:0	06.02.2010	16:00	2009	2010	25
+Stoke City	Blackburn Rovers	2:0	3:0	06.02.2010	16:00	2009	2010	25
+Sunderland AFC	Wigan Athletic	0:1	1:1	06.02.2010	16:00	2009	2010	25
+Tottenham Hotspur	Aston Villa	0:0	0:0	06.02.2010	18:30	2009	2010	25
+Birmingham City	Wolverhampton Wanderers	0:1	2:1	07.02.2010	14:30	2009	2010	25
+Chelsea FC	Arsenal FC	2:0	2:0	07.02.2010	17:00	2009	2010	25
+Portsmouth FC	Sunderland AFC	0:1	1:1	09.02.2010	20:45	2009	2010	26
+Wigan Athletic	Stoke City	1:0	1:1	09.02.2010	20:45	2009	2010	26
+Manchester City	Bolton Wanderers	1:0	2:0	09.02.2010	20:45	2009	2010	26
+Fulham FC	Burnley FC	2:0	3:0	09.02.2010	21:00	2009	2010	26
+Arsenal FC	Liverpool FC	0:0	1:0	10.02.2010	20:45	2009	2010	26
+West Ham United	Birmingham City	1:0	2:0	10.02.2010	20:45	2009	2010	26
+Wolverhampton Wanderers	Tottenham Hotspur	1:0	1:0	10.02.2010	20:45	2009	2010	26
+Aston Villa	Manchester United	1:1	1:1	10.02.2010	20:45	2009	2010	26
+Blackburn Rovers	Hull City	1:0	1:0	10.02.2010	21:00	2009	2010	26
+Everton FC	Chelsea FC	1:1	2:1	10.02.2010	21:00	2009	2010	26
+Everton FC	Manchester United	1:1	3:1	20.02.2010	13:45	2009	2010	27
+Arsenal FC	Sunderland AFC	1:0	2:0	20.02.2010	16:00	2009	2010	27
+West Ham United	Hull City	1:0	3:0	20.02.2010	16:00	2009	2010	27
+Wolverhampton Wanderers	Chelsea FC	0:1	0:2	20.02.2010	16:00	2009	2010	27
+Portsmouth FC	Stoke City	1:0	1:2	20.02.2010	18:30	2009	2010	27
+Blackburn Rovers	Bolton Wanderers	1:0	3:0	21.02.2010	13:00	2009	2010	27
+Aston Villa	Burnley FC	1:1	5:2	21.02.2010	15:00	2009	2010	27
+Fulham FC	Birmingham City	0:1	2:1	21.02.2010	16:00	2009	2010	27
+Manchester City	Liverpool FC	0:0	0:0	21.02.2010	16:00	2009	2010	27
+Wigan Athletic	Tottenham Hotspur	0:1	0:3	21.02.2010	17:15	2009	2010	27
+Manchester United	West Ham United	1:0	3:0	23.02.2010	21:00	2009	2010	28
+Chelsea FC	Manchester City	1:1	2:4	27.02.2010	13:45	2009	2010	28
+Birmingham City	Wigan Athletic	1:0	1:0	27.02.2010	16:00	2009	2010	28
+Bolton Wanderers	Wolverhampton Wanderers	1:0	1:0	27.02.2010	16:00	2009	2010	28
+Burnley FC	Portsmouth FC	1:1	1:2	27.02.2010	16:00	2009	2010	28
+Stoke City	Arsenal FC	1:1	1:3	27.02.2010	18:30	2009	2010	28
+Tottenham Hotspur	Everton FC	2:0	2:1	28.02.2010	14:00	2009	2010	28
+Liverpool FC	Blackburn Rovers	2:1	2:1	28.02.2010	16:00	2009	2010	28
+Sunderland AFC	Fulham FC	0:0	0:0	28.02.2010	16:00	2009	2010	28
+Hull City	Aston Villa	0:1	0:2	21.04.2010	20:45	2009	2010	28
+Arsenal FC	Burnley FC	1:0	3:1	06.03.2010	16:00	2009	2010	29
+West Ham United	Bolton Wanderers	0:2	1:2	06.03.2010	16:00	2009	2010	29
+Wolverhampton Wanderers	Manchester United	0:0	0:1	06.03.2010	18:30	2009	2010	29
+Everton FC	Hull City	2:1	5:1	07.03.2010	17:00	2009	2010	29
+Wigan Athletic	Liverpool FC	1:0	1:0	08.03.2010	21:00	2009	2010	29
+Aston Villa	Sunderland AFC	1:1	1:1	24.03.2010	20:45	2009	2010	29
+Portsmouth FC	Chelsea FC	0:1	0:5	24.03.2010	20:45	2009	2010	29
+Blackburn Rovers	Birmingham City	1:0	2:1	24.03.2010	21:00	2009	2010	29
+Fulham FC	Stoke City	0:0	0:1	05.05.2010	21:00	2009	2010	29
+Manchester City	Tottenham Hotspur	0:0	0:1	05.05.2010	21:00	2009	2010	29
+Tottenham Hotspur	Blackburn Rovers	1:0	3:1	13.03.2010	13:45	2009	2010	30
+Birmingham City	Everton FC	1:2	2:2	13.03.2010	16:00	2009	2010	30
+Bolton Wanderers	Wigan Athletic	1:0	4:0	13.03.2010	16:00	2009	2010	30
+Burnley FC	Wolverhampton Wanderers	0:1	1:2	13.03.2010	16:00	2009	2010	30
+Chelsea FC	West Ham United	1:1	4:1	13.03.2010	16:00	2009	2010	30
+Stoke City	Aston Villa	0:0	0:0	13.03.2010	16:00	2009	2010	30
+Hull City	Arsenal FC	1:1	1:2	13.03.2010	18:30	2009	2010	30
+Manchester United	Fulham FC	0:0	3:0	14.03.2010	14:30	2009	2010	30
+Sunderland AFC	Manchester City	1:0	1:1	14.03.2010	17:00	2009	2010	30
+Liverpool FC	Portsmouth FC	3:0	4:1	15.03.2010	21:00	2009	2010	30
+Aston Villa	Wolverhampton Wanderers	1:2	2:2	20.03.2010	13:45	2009	2010	31
+Everton FC	Bolton Wanderers	0:0	2:0	20.03.2010	16:00	2009	2010	31
+Portsmouth FC	Hull City	1:1	3:2	20.03.2010	16:00	2009	2010	31
+Stoke City	Tottenham Hotspur	0:0	1:2	20.03.2010	16:00	2009	2010	31
+Sunderland AFC	Birmingham City	2:0	3:1	20.03.2010	16:00	2009	2010	31
+Wigan Athletic	Burnley FC	0:0	1:0	20.03.2010	16:00	2009	2010	31
+Arsenal FC	West Ham United	1:0	2:0	20.03.2010	18:30	2009	2010	31
+Manchester United	Liverpool FC	1:1	2:1	21.03.2010	14:30	2009	2010	31
+Fulham FC	Manchester City	0:2	1:2	21.03.2010	16:00	2009	2010	31
+Blackburn Rovers	Chelsea FC	0:1	1:1	21.03.2010	17:00	2009	2010	31
+Birmingham City	Arsenal FC	0:0	1:1	27.03.2010	16:00	2009	2010	32
+Chelsea FC	Aston Villa	2:1	7:1	27.03.2010	16:00	2009	2010	32
+Hull City	Fulham FC	1:0	2:0	27.03.2010	16:00	2009	2010	32
+Tottenham Hotspur	Portsmouth FC	2:0	2:0	27.03.2010	16:00	2009	2010	32
+West Ham United	Stoke City	0:0	0:1	27.03.2010	16:00	2009	2010	32
+Wolverhampton Wanderers	Everton FC	0:0	0:0	27.03.2010	16:00	2009	2010	32
+Bolton Wanderers	Manchester United	0:1	0:4	27.03.2010	18:30	2009	2010	32
+Burnley FC	Blackburn Rovers	0:1	0:1	28.03.2010	13:00	2009	2010	32
+Liverpool FC	Sunderland AFC	2:0	3:0	28.03.2010	17:00	2009	2010	32
+Manchester City	Wigan Athletic	0:0	3:0	29.03.2010	21:00	2009	2010	32
+Manchester United	Chelsea FC	0:1	1:2	03.04.2010	13:45	2009	2010	33
+Arsenal FC	Wolverhampton Wanderers	0:0	1:0	03.04.2010	16:00	2009	2010	33
+Bolton Wanderers	Aston Villa	0:1	0:1	03.04.2010	16:00	2009	2010	33
+Portsmouth FC	Blackburn Rovers	0:0	0:0	03.04.2010	16:00	2009	2010	33
+Stoke City	Hull City	1:0	2:0	03.04.2010	16:00	2009	2010	33
+Sunderland AFC	Tottenham Hotspur	2:0	3:1	03.04.2010	16:00	2009	2010	33
+Burnley FC	Manchester City	0:5	1:6	03.04.2010	18:30	2009	2010	33
+Birmingham City	Liverpool FC	0:0	1:1	04.04.2010	16:00	2009	2010	33
+Fulham FC	Wigan Athletic	0:1	2:1	04.04.2010	16:00	2009	2010	33
+Everton FC	West Ham United	1:0	2:2	04.04.2010	17:00	2009	2010	33
+Hull City	Burnley FC	1:1	1:4	10.04.2010	16:00	2009	2010	34
+West Ham United	Sunderland AFC	0:0	1:0	10.04.2010	16:00	2009	2010	34
+Wolverhampton Wanderers	Stoke City	0:0	0:0	11.04.2010	13:00	2009	2010	34
+Blackburn Rovers	Manchester United	0:0	0:0	11.04.2010	14:30	2009	2010	34
+Liverpool FC	Fulham FC	0:0	0:0	11.04.2010	16:00	2009	2010	34
+Manchester City	Birmingham City	3:1	5:1	11.04.2010	17:00	2009	2010	34
+Chelsea FC	Bolton Wanderers	1:0	1:0	13.04.2010	21:00	2009	2010	34
+Aston Villa	Everton FC	0:1	2:2	14.04.2010	20:45	2009	2010	34
+Wigan Athletic	Portsmouth FC	0:0	0:0	14.04.2010	20:45	2009	2010	34
+Tottenham Hotspur	Arsenal FC	1:0	2:1	14.04.2010	21:00	2009	2010	34
+Manchester City	Manchester United	0:0	0:1	17.04.2010	13:45	2009	2010	35
+Birmingham City	Hull City	0:0	0:0	17.04.2010	16:00	2009	2010	35
+Blackburn Rovers	Everton FC	0:1	2:3	17.04.2010	16:00	2009	2010	35
+Fulham FC	Wolverhampton Wanderers	0:0	0:0	17.04.2010	16:00	2009	2010	35
+Stoke City	Bolton Wanderers	1:0	1:2	17.04.2010	16:00	2009	2010	35
+Sunderland AFC	Burnley FC	2:0	2:1	17.04.2010	16:00	2009	2010	35
+Tottenham Hotspur	Chelsea FC	2:0	2:1	17.04.2010	18:30	2009	2010	35
+Wigan Athletic	Arsenal FC	0:1	3:2	18.04.2010	14:30	2009	2010	35
+Portsmouth FC	Aston Villa	1:1	1:2	18.04.2010	17:00	2009	2010	35
+Liverpool FC	West Ham United	2:0	3:0	19.04.2010	21:00	2009	2010	35
+Manchester United	Tottenham Hotspur	0:0	3:1	24.04.2010	13:45	2009	2010	36
+Bolton Wanderers	Portsmouth FC	2:0	2:2	24.04.2010	16:00	2009	2010	36
+Hull City	Sunderland AFC	0:1	0:1	24.04.2010	16:00	2009	2010	36
+West Ham United	Wigan Athletic	2:1	3:2	24.04.2010	16:00	2009	2010	36
+Wolverhampton Wanderers	Blackburn Rovers	0:1	1:1	24.04.2010	16:00	2009	2010	36
+Arsenal FC	Manchester City	0:0	0:0	24.04.2010	18:30	2009	2010	36
+Aston Villa	Birmingham City	0:0	1:0	25.04.2010	13:00	2009	2010	36
+Burnley FC	Liverpool FC	0:0	0:4	25.04.2010	16:00	2009	2010	36
+Everton FC	Fulham FC	0:1	2:1	25.04.2010	16:00	2009	2010	36
+Chelsea FC	Stoke City	3:0	7:0	25.04.2010	17:00	2009	2010	36
+Birmingham City	Burnley FC	2:0	2:1	01.05.2010	13:45	2009	2010	37
+Manchester City	Aston Villa	2:1	3:1	01.05.2010	16:00	2009	2010	37
+Portsmouth FC	Wolverhampton Wanderers	2:1	3:1	01.05.2010	16:00	2009	2010	37
+Stoke City	Everton FC	0:0	0:0	01.05.2010	16:00	2009	2010	37
+Tottenham Hotspur	Bolton Wanderers	1:0	1:0	01.05.2010	16:00	2009	2010	37
+Liverpool FC	Chelsea FC	0:1	0:2	02.05.2010	14:30	2009	2010	37
+Fulham FC	West Ham United	1:0	3:2	02.05.2010	16:00	2009	2010	37
+Sunderland AFC	Manchester United	0:1	0:1	02.05.2010	17:00	2009	2010	37
+Wigan Athletic	Hull City	1:1	2:2	03.05.2010	14:30	2009	2010	37
+Blackburn Rovers	Arsenal FC	1:1	2:1	03.05.2010	18:00	2009	2010	37
+Arsenal FC	Fulham FC	3:0	4:0	09.05.2010	17:00	2009	2010	38
+Aston Villa	Blackburn Rovers	0:0	0:1	09.05.2010	17:00	2009	2010	38
+Bolton Wanderers	Birmingham City	1:0	2:1	09.05.2010	17:00	2009	2010	38
+Burnley FC	Tottenham Hotspur	1:2	4:2	09.05.2010	17:00	2009	2010	38
+Chelsea FC	Wigan Athletic	2:0	8:0	09.05.2010	17:00	2009	2010	38
+Everton FC	Portsmouth FC	0:0	1:0	09.05.2010	17:00	2009	2010	38
+Hull City	Liverpool FC	0:0	0:0	09.05.2010	17:00	2009	2010	38
+Manchester United	Stoke City	2:0	4:0	09.05.2010	17:00	2009	2010	38
+West Ham United	Manchester City	1:1	1:1	09.05.2010	17:00	2009	2010	38
+Wolverhampton Wanderers	Sunderland AFC	1:1	2:1	09.05.2010	17:00	2009	2010	38

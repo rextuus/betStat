@@ -1,0 +1,132 @@
+Sevilla FC	AtlÃ©tico Madrid	1:0	4:0	02.12.1934	00:00	1934	1935	1
+Racing Santander	Donostia FC	1:1	2:1	02.12.1934	00:00	1934	1935	1
+Real Madrid	Real Betis	0:1	0:1	02.12.1934	00:00	1934	1935	1
+Athletic Bilbao	Real Oviedo	2:0	4:0	02.12.1934	00:00	1934	1935	1
+FC Barcelona	Arenas de Getxo	2:0	4:0	02.12.1934	00:00	1934	1935	1
+Valencia CF	Espanyol Barcelona	0:2	1:3	02.12.1934	00:00	1934	1935	1
+Donostia FC	Real Madrid	1:1	1:2	09.12.1934	00:00	1934	1935	2
+Real Betis	FC Barcelona	1:1	2:1	09.12.1934	00:00	1934	1935	2
+Espanyol Barcelona	Athletic Bilbao	1:2	1:3	09.12.1934	00:00	1934	1935	2
+Arenas de Getxo	Valencia CF	0:1	2:1	09.12.1934	00:00	1934	1935	2
+Real Oviedo	Sevilla FC	3:2	4:2	09.12.1934	00:00	1934	1935	2
+AtlÃ©tico Madrid	Racing Santander	1:0	3:1	09.12.1934	00:00	1934	1935	2
+FC Barcelona	Donostia FC	2:0	4:0	16.12.1934	00:00	1934	1935	3
+Arenas de Getxo	Real Betis	0:1	0:3	16.12.1934	00:00	1934	1935	3
+Valencia CF	Athletic Bilbao	1:0	1:0	16.12.1934	00:00	1934	1935	3
+Sevilla FC	Espanyol Barcelona	3:0	5:1	16.12.1934	00:00	1934	1935	3
+Racing Santander	Real Oviedo	1:2	1:3	16.12.1934	00:00	1934	1935	3
+Real Madrid	AtlÃ©tico Madrid	1:0	2:0	16.12.1934	00:00	1934	1935	3
+Espanyol Barcelona	Racing Santander	2:1	4:2	23.12.1934	00:00	1934	1935	4
+Donostia FC	Arenas de Getxo	2:1	3:2	23.12.1934	00:00	1934	1935	4
+Athletic Bilbao	Sevilla FC	3:0	4:0	23.12.1934	00:00	1934	1935	4
+Real Betis	Valencia CF	1:0	3:0	23.12.1934	00:00	1934	1935	4
+AtlÃ©tico Madrid	FC Barcelona	1:1	1:3	23.12.1934	00:00	1934	1935	4
+Real Oviedo	Real Madrid	0:1	0:3	23.12.1934	00:00	1934	1935	4
+Real Madrid	Espanyol Barcelona	5:1	7:2	30.12.1934	00:00	1934	1935	5
+Arenas de Getxo	AtlÃ©tico Madrid	1:1	3:1	30.12.1934	00:00	1934	1935	5
+Valencia CF	Sevilla FC	1:1	2:1	30.12.1934	00:00	1934	1935	5
+Real Betis	Donostia FC	1:0	1:0	30.12.1934	00:00	1934	1935	5
+FC Barcelona	Real Oviedo	1:1	5:2	30.12.1934	00:00	1934	1935	5
+Racing Santander	Athletic Bilbao	1:0	6:0	30.12.1934	00:00	1934	1935	5
+AtlÃ©tico Madrid	Real Betis	2:1	4:2	06.01.1935	00:00	1934	1935	6
+Donostia FC	Valencia CF	1:1	3:1	06.01.1935	00:00	1934	1935	6
+Real Oviedo	Arenas de Getxo	3:0	4:1	06.01.1935	00:00	1934	1935	6
+Athletic Bilbao	Real Madrid	3:0	4:1	06.01.1935	00:00	1934	1935	6
+Espanyol Barcelona	FC Barcelona	2:0	4:1	06.01.1935	00:00	1934	1935	6
+Sevilla FC	Racing Santander	2:0	2:0	06.01.1935	00:00	1934	1935	6
+Valencia CF	Racing Santander	2:0	2:0	13.01.1935	00:00	1934	1935	7
+FC Barcelona	Athletic Bilbao	1:1	2:2	13.01.1935	00:00	1934	1935	7
+Arenas de Getxo	Espanyol Barcelona	0:1	0:4	13.01.1935	00:00	1934	1935	7
+Donostia FC	AtlÃ©tico Madrid	3:0	4:0	13.01.1935	00:00	1934	1935	7
+Real Madrid	Sevilla FC	2:0	3:1	13.01.1935	00:00	1934	1935	7
+Real Betis	Real Oviedo	1:0	2:1	13.01.1935	00:00	1934	1935	7
+Athletic Bilbao	Arenas de Getxo	3:0	8:0	20.01.1935	00:00	1934	1935	8
+Espanyol Barcelona	Real Betis	1:0	1:1	20.01.1935	00:00	1934	1935	8
+Real Oviedo	Donostia FC	1:0	4:0	20.01.1935	00:00	1934	1935	8
+AtlÃ©tico Madrid	Valencia CF	2:0	5:2	20.01.1935	00:00	1934	1935	8
+Racing Santander	Real Madrid	0:1	1:2	20.01.1935	00:00	1934	1935	8
+Sevilla FC	FC Barcelona	2:0	3:1	20.01.1935	00:00	1934	1935	8
+Valencia CF	Real Madrid	2:0	4:1	27.01.1935	00:00	1934	1935	9
+FC Barcelona	Racing Santander	1:0	1:1	27.01.1935	00:00	1934	1935	9
+AtlÃ©tico Madrid	Real Oviedo	2:1	3:3	27.01.1935	00:00	1934	1935	9
+Arenas de Getxo	Sevilla FC	2:1	3:2	27.01.1935	00:00	1934	1935	9
+Real Betis	Athletic Bilbao	0:0	1:0	27.01.1935	00:00	1934	1935	9
+Donostia FC	Espanyol Barcelona	1:1	1:4	27.01.1935	00:00	1934	1935	9
+Real Madrid	FC Barcelona	5:1	8:2	03.02.1935	00:00	1934	1935	10
+Espanyol Barcelona	AtlÃ©tico Madrid	0:2	0:2	03.02.1935	00:00	1934	1935	10
+Athletic Bilbao	Donostia FC	3:0	7:0	03.02.1935	00:00	1934	1935	10
+Sevilla FC	Real Betis	0:2	0:3	03.02.1935	00:00	1934	1935	10
+Valencia CF	Real Oviedo	0:3	0:4	03.02.1935	00:00	1934	1935	10
+Racing Santander	Arenas de Getxo	0:0	0:0	03.02.1935	00:00	1934	1935	10
+Real Betis	Racing Santander	1:0	3:1	10.02.1935	00:00	1934	1935	11
+Arenas de Getxo	Real Madrid	0:2	1:2	10.02.1935	00:00	1934	1935	11
+AtlÃ©tico Madrid	Athletic Bilbao	0:1	2:2	10.02.1935	00:00	1934	1935	11
+Real Oviedo	Espanyol Barcelona	4:2	8:3	10.02.1935	00:00	1934	1935	11
+FC Barcelona	Valencia CF	1:0	3:2	10.02.1935	00:00	1934	1935	11
+Donostia FC	Sevilla FC	0:0	0:0	10.02.1935	00:00	1934	1935	11
+Arenas de Getxo	FC Barcelona	0:1	2:2	17.02.1935	00:00	1934	1935	12
+Real Oviedo	Athletic Bilbao	1:1	3:2	17.02.1935	00:00	1934	1935	12
+Espanyol Barcelona	Valencia CF	0:1	1:2	17.02.1935	00:00	1934	1935	12
+AtlÃ©tico Madrid	Sevilla FC	0:0	1:0	17.02.1935	00:00	1934	1935	12
+Donostia FC	Racing Santander	2:2	2:3	17.02.1935	00:00	1934	1935	12
+Real Betis	Real Madrid	0:0	1:0	17.02.1935	00:00	1934	1935	12
+Athletic Bilbao	Espanyol Barcelona	0:1	1:2	24.02.1935	00:00	1934	1935	13
+Racing Santander	AtlÃ©tico Madrid	2:2	2:2	24.02.1935	00:00	1934	1935	13
+Real Madrid	Donostia FC	0:0	2:0	24.02.1935	00:00	1934	1935	13
+FC Barcelona	Real Betis	1:0	4:0	24.02.1935	00:00	1934	1935	13
+Sevilla FC	Real Oviedo	2:0	3:1	24.02.1935	00:00	1934	1935	13
+Valencia CF	Arenas de Getxo	1:0	2:0	24.02.1935	00:00	1934	1935	13
+Espanyol Barcelona	Sevilla FC	0:1	1:4	03.03.1935	00:00	1934	1935	14
+Real Oviedo	Racing Santander	2:0	3:0	03.03.1935	00:00	1934	1935	14
+AtlÃ©tico Madrid	Real Madrid	1:1	2:2	03.03.1935	00:00	1934	1935	14
+Donostia FC	FC Barcelona	1:0	2:1	03.03.1935	00:00	1934	1935	14
+Real Betis	Arenas de Getxo	0:0	0:0	03.03.1935	00:00	1934	1935	14
+Athletic Bilbao	Valencia CF	1:0	4:1	03.03.1935	00:00	1934	1935	14
+Valencia CF	Real Betis	3:1	3:1	10.03.1935	00:00	1934	1935	15
+Real Madrid	Real Oviedo	0:1	2:1	10.03.1935	00:00	1934	1935	15
+Arenas de Getxo	Donostia FC	0:0	0:1	10.03.1935	00:00	1934	1935	15
+FC Barcelona	AtlÃ©tico Madrid	0:0	0:0	10.03.1935	00:00	1934	1935	15
+Racing Santander	Espanyol Barcelona	1:1	2:1	10.03.1935	00:00	1934	1935	15
+Sevilla FC	Athletic Bilbao	3:0	3:0	10.03.1935	00:00	1934	1935	15
+Real Oviedo	FC Barcelona	1:1	4:3	17.03.1935	00:00	1934	1935	16
+Sevilla FC	Valencia CF	3:1	4:2	17.03.1935	00:00	1934	1935	16
+Donostia FC	Real Betis	0:0	2:4	17.03.1935	00:00	1934	1935	16
+Athletic Bilbao	Racing Santander	3:1	4:2	17.03.1935	00:00	1934	1935	16
+AtlÃ©tico Madrid	Arenas de Getxo	2:1	3:1	17.03.1935	00:00	1934	1935	16
+Espanyol Barcelona	Real Madrid	2:2	2:4	17.03.1935	00:00	1934	1935	16
+Racing Santander	Sevilla FC	2:1	3:2	24.03.1935	00:00	1934	1935	17
+Arenas de Getxo	Real Oviedo	1:1	1:2	24.03.1935	00:00	1934	1935	17
+Real Betis	AtlÃ©tico Madrid	1:0	2:0	24.03.1935	00:00	1934	1935	17
+FC Barcelona	Espanyol Barcelona	1:1	2:2	24.03.1935	00:00	1934	1935	17
+Real Madrid	Athletic Bilbao	4:1	5:2	24.03.1935	00:00	1934	1935	17
+Valencia CF	Donostia FC	3:0	7:1	24.03.1935	00:00	1934	1935	17
+Espanyol Barcelona	Arenas de Getxo	1:0	2:0	31.03.1935	00:00	1934	1935	18
+Sevilla FC	Real Madrid	1:3	1:3	31.03.1935	00:00	1934	1935	18
+Athletic Bilbao	FC Barcelona	2:3	3:5	31.03.1935	00:00	1934	1935	18
+Racing Santander	Valencia CF	4:0	5:0	31.03.1935	00:00	1934	1935	18
+AtlÃ©tico Madrid	Donostia FC	1:1	3:1	31.03.1935	00:00	1934	1935	18
+Real Oviedo	Real Betis	0:0	0:1	31.03.1935	00:00	1934	1935	18
+Real Madrid	Racing Santander	2:0	3:2	07.04.1935	00:00	1934	1935	19
+Donostia FC	Real Oviedo	3:1	3:5	07.04.1935	00:00	1934	1935	19
+FC Barcelona	Sevilla FC	2:1	2:3	07.04.1935	00:00	1934	1935	19
+Valencia CF	AtlÃ©tico Madrid	1:0	2:0	07.04.1935	00:00	1934	1935	19
+Arenas de Getxo	Athletic Bilbao	0:1	0:1	07.04.1935	00:00	1934	1935	19
+Real Betis	Espanyol Barcelona	1:0	5:0	07.04.1935	00:00	1934	1935	19
+Racing Santander	FC Barcelona	1:2	2:3	14.04.1935	00:00	1934	1935	20
+Sevilla FC	Arenas de Getxo	4:0	4:0	14.04.1935	00:00	1934	1935	20
+Athletic Bilbao	Real Betis	0:0	0:0	14.04.1935	00:00	1934	1935	20
+Espanyol Barcelona	Donostia FC	3:0	4:1	14.04.1935	00:00	1934	1935	20
+Real Madrid	Valencia CF	1:0	3:0	14.04.1935	00:00	1934	1935	20
+Real Oviedo	AtlÃ©tico Madrid	1:0	2:1	14.04.1935	00:00	1934	1935	20
+FC Barcelona	Real Madrid	1:0	5:0	21.04.1935	00:00	1934	1935	21
+AtlÃ©tico Madrid	Espanyol Barcelona	2:1	5:2	21.04.1935	00:00	1934	1935	21
+Real Oviedo	Valencia CF	4:1	4:4	21.04.1935	00:00	1934	1935	21
+Real Betis	Sevilla FC	2:2	2:2	21.04.1935	00:00	1934	1935	21
+Arenas de Getxo	Racing Santander	0:1	0:1	21.04.1935	00:00	1934	1935	21
+Donostia FC	Athletic Bilbao	0:1	0:4	22.04.1935	00:00	1934	1935	21
+Real Madrid	Arenas de Getxo	3:0	6:1	28.04.1935	00:00	1934	1935	22
+Valencia CF	FC Barcelona	0:1	1:1	28.04.1935	00:00	1934	1935	22
+Athletic Bilbao	AtlÃ©tico Madrid	3:1	5:2	28.04.1935	00:00	1934	1935	22
+Sevilla FC	Donostia FC	5:1	7:2	28.04.1935	00:00	1934	1935	22
+Racing Santander	Real Betis	0:3	0:5	28.04.1935	00:00	1934	1935	22
+Espanyol Barcelona	Real Oviedo	3:2	3:2	28.04.1935	00:00	1934	1935	22

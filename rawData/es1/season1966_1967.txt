@@ -1,0 +1,240 @@
+FC Barcelona	CÃ³rdoba CF	2:1	4:1	10.09.1966	00:00	1966	1967	1
+Real Zaragoza	Espanyol Barcelona	2:0	2:0	11.09.1966	00:00	1966	1967	1
+Deportivo La CoruÃ±a	Valencia CF	0:1	0:1	11.09.1966	00:00	1966	1967	1
+Athletic Bilbao	AtlÃ©tico Madrid	0:0	1:0	11.09.1966	00:00	1966	1967	1
+Real Madrid	Elche CF	1:1	4:1	11.09.1966	00:00	1966	1967	1
+UD Las Palmas	Granada CF	0:0	1:1	11.09.1966	00:00	1966	1967	1
+HÃ©rcules CF	CE Sabadell	0:0	0:0	11.09.1966	00:00	1966	1967	1
+Sevilla FC	Pontevedra CF	0:0	0:0	11.09.1966	00:00	1966	1967	1
+Valencia CF	UD Las Palmas	0:1	2:1	17.09.1966	00:00	1966	1967	2
+Granada CF	Real Zaragoza	2:1	6:2	18.09.1966	00:00	1966	1967	2
+CÃ³rdoba CF	Deportivo La CoruÃ±a	1:0	1:0	18.09.1966	00:00	1966	1967	2
+CE Sabadell	Athletic Bilbao	0:0	1:0	18.09.1966	00:00	1966	1967	2
+Pontevedra CF	Real Madrid	0:0	0:1	18.09.1966	00:00	1966	1967	2
+Espanyol Barcelona	Sevilla FC	1:1	3:1	18.09.1966	00:00	1966	1967	2
+Elche CF	HÃ©rcules CF	2:0	4:0	18.09.1966	00:00	1966	1967	2
+AtlÃ©tico Madrid	FC Barcelona	0:1	0:1	01.11.1966	00:00	1966	1967	2
+UD Las Palmas	Real Zaragoza	0:2	2:3	25.09.1966	00:00	1966	1967	3
+HÃ©rcules CF	Pontevedra CF	1:0	1:0	25.09.1966	00:00	1966	1967	3
+Valencia CF	CÃ³rdoba CF	2:1	3:1	25.09.1966	00:00	1966	1967	3
+FC Barcelona	CE Sabadell	1:0	2:0	25.09.1966	00:00	1966	1967	3
+Athletic Bilbao	Elche CF	0:1	2:1	25.09.1966	00:00	1966	1967	3
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:1	0:1	25.09.1966	00:00	1966	1967	3
+Real Madrid	Espanyol Barcelona	0:1	1:1	25.09.1966	00:00	1966	1967	3
+Sevilla FC	Granada CF	0:0	3:1	25.09.1966	00:00	1966	1967	3
+Real Zaragoza	Sevilla FC	1:0	2:1	02.10.1966	00:00	1966	1967	4
+CE Sabadell	Deportivo La CoruÃ±a	1:0	3:0	02.10.1966	00:00	1966	1967	4
+Espanyol Barcelona	HÃ©rcules CF	2:1	4:1	02.10.1966	00:00	1966	1967	4
+Pontevedra CF	Athletic Bilbao	1:0	1:1	02.10.1966	00:00	1966	1967	4
+Granada CF	Real Madrid	0:0	1:1	02.10.1966	00:00	1966	1967	4
+Elche CF	FC Barcelona	2:3	4:3	02.10.1966	00:00	1966	1967	4
+AtlÃ©tico Madrid	Valencia CF	1:0	1:1	02.10.1966	00:00	1966	1967	4
+UD Las Palmas	CÃ³rdoba CF	1:0	2:1	02.10.1966	00:00	1966	1967	4
+Real Madrid	Real Zaragoza	2:0	3:1	08.10.1966	00:00	1966	1967	5
+CÃ³rdoba CF	AtlÃ©tico Madrid	0:0	1:0	09.10.1966	00:00	1966	1967	5
+FC Barcelona	Pontevedra CF	0:1	0:1	09.10.1966	00:00	1966	1967	5
+Valencia CF	CE Sabadell	4:1	6:1	09.10.1966	00:00	1966	1967	5
+HÃ©rcules CF	Granada CF	2:0	2:1	09.10.1966	00:00	1966	1967	5
+Sevilla FC	UD Las Palmas	0:0	2:0	09.10.1966	00:00	1966	1967	5
+Athletic Bilbao	Espanyol Barcelona	0:3	1:3	09.10.1966	00:00	1966	1967	5
+Deportivo La CoruÃ±a	Elche CF	1:1	1:1	09.10.1966	00:00	1966	1967	5
+Granada CF	Athletic Bilbao	0:0	1:1	16.10.1966	00:00	1966	1967	6
+Real Zaragoza	HÃ©rcules CF	2:0	2:0	16.10.1966	00:00	1966	1967	6
+Pontevedra CF	Deportivo La CoruÃ±a	1:0	1:0	16.10.1966	00:00	1966	1967	6
+CE Sabadell	CÃ³rdoba CF	1:0	3:0	16.10.1966	00:00	1966	1967	6
+Espanyol Barcelona	FC Barcelona	2:0	2:0	16.10.1966	00:00	1966	1967	6
+Sevilla FC	Real Madrid	0:1	0:1	16.10.1966	00:00	1966	1967	6
+AtlÃ©tico Madrid	UD Las Palmas	0:0	2:1	16.10.1966	00:00	1966	1967	6
+Elche CF	Valencia CF	0:0	0:0	16.10.1966	00:00	1966	1967	6
+FC Barcelona	Granada CF	0:0	3:0	29.10.1966	00:00	1966	1967	7
+HÃ©rcules CF	Sevilla FC	0:0	2:1	30.10.1966	00:00	1966	1967	7
+Valencia CF	Pontevedra CF	2:0	3:0	30.10.1966	00:00	1966	1967	7
+AtlÃ©tico Madrid	CE Sabadell	1:0	3:0	30.10.1966	00:00	1966	1967	7
+Athletic Bilbao	Real Zaragoza	2:3	2:3	30.10.1966	00:00	1966	1967	7
+Deportivo La CoruÃ±a	Espanyol Barcelona	0:0	1:1	30.10.1966	00:00	1966	1967	7
+UD Las Palmas	Real Madrid	0:1	1:1	30.10.1966	00:00	1966	1967	7
+CÃ³rdoba CF	Elche CF	0:0	0:0	30.10.1966	00:00	1966	1967	7
+Granada CF	Deportivo La CoruÃ±a	0:0	1:0	06.11.1966	00:00	1966	1967	8
+Elche CF	AtlÃ©tico Madrid	1:1	2:1	06.11.1966	00:00	1966	1967	8
+Pontevedra CF	CÃ³rdoba CF	1:1	2:1	06.11.1966	00:00	1966	1967	8
+UD Las Palmas	CE Sabadell	0:0	1:0	06.11.1966	00:00	1966	1967	8
+Real Zaragoza	FC Barcelona	0:0	0:1	06.11.1966	00:00	1966	1967	8
+Espanyol Barcelona	Valencia CF	1:1	2:1	06.11.1966	00:00	1966	1967	8
+Sevilla FC	Athletic Bilbao	0:1	1:1	06.11.1966	00:00	1966	1967	8
+Real Madrid	HÃ©rcules CF	1:0	2:1	06.11.1966	00:00	1966	1967	8
+Deportivo La CoruÃ±a	Real Zaragoza	2:1	4:1	13.11.1966	00:00	1966	1967	9
+AtlÃ©tico Madrid	Pontevedra CF	2:0	3:1	13.11.1966	00:00	1966	1967	9
+Valencia CF	Granada CF	1:0	3:0	13.11.1966	00:00	1966	1967	9
+HÃ©rcules CF	UD Las Palmas	1:0	2:1	13.11.1966	00:00	1966	1967	9
+FC Barcelona	Sevilla FC	2:0	5:0	13.11.1966	00:00	1966	1967	9
+CÃ³rdoba CF	Espanyol Barcelona	0:0	2:0	13.11.1966	00:00	1966	1967	9
+Athletic Bilbao	Real Madrid	0:0	0:0	13.11.1966	00:00	1966	1967	9
+CE Sabadell	Elche CF	0:0	0:0	13.11.1966	00:00	1966	1967	9
+Real Zaragoza	Valencia CF	1:0	3:1	19.11.1966	00:00	1966	1967	10
+Espanyol Barcelona	AtlÃ©tico Madrid	1:0	1:0	20.11.1966	00:00	1966	1967	10
+Sevilla FC	Deportivo La CoruÃ±a	3:0	3:0	20.11.1966	00:00	1966	1967	10
+Granada CF	CÃ³rdoba CF	0:1	1:1	20.11.1966	00:00	1966	1967	10
+Pontevedra CF	CE Sabadell	0:0	0:0	20.11.1966	00:00	1966	1967	10
+HÃ©rcules CF	Athletic Bilbao	0:0	1:2	20.11.1966	00:00	1966	1967	10
+Real Madrid	FC Barcelona	0:0	1:0	20.11.1966	00:00	1966	1967	10
+UD Las Palmas	Elche CF	0:0	3:0	20.11.1966	00:00	1966	1967	10
+Valencia CF	Sevilla FC	2:0	3:0	27.11.1966	00:00	1966	1967	11
+Elche CF	Pontevedra CF	0:1	3:1	27.11.1966	00:00	1966	1967	11
+AtlÃ©tico Madrid	Granada CF	1:0	2:0	27.11.1966	00:00	1966	1967	11
+CÃ³rdoba CF	Real Zaragoza	1:0	1:1	27.11.1966	00:00	1966	1967	11
+CE Sabadell	Espanyol Barcelona	0:0	0:1	27.11.1966	00:00	1966	1967	11
+UD Las Palmas	Athletic Bilbao	0:2	2:4	27.11.1966	00:00	1966	1967	11
+Deportivo La CoruÃ±a	Real Madrid	1:3	2:3	27.11.1966	00:00	1966	1967	11
+FC Barcelona	HÃ©rcules CF	2:1	4:1	27.11.1966	00:00	1966	1967	11
+Real Madrid	Valencia CF	4:1	4:2	04.12.1966	00:00	1966	1967	12
+Sevilla FC	CÃ³rdoba CF	0:0	4:0	04.12.1966	00:00	1966	1967	12
+Granada CF	CE Sabadell	0:0	2:0	04.12.1966	00:00	1966	1967	12
+Espanyol Barcelona	Elche CF	2:0	3:0	04.12.1966	00:00	1966	1967	12
+Real Zaragoza	AtlÃ©tico Madrid	0:1	2:2	04.12.1966	00:00	1966	1967	12
+HÃ©rcules CF	Deportivo La CoruÃ±a	0:1	0:1	04.12.1966	00:00	1966	1967	12
+Athletic Bilbao	FC Barcelona	0:0	0:0	04.12.1966	00:00	1966	1967	12
+Pontevedra CF	UD Las Palmas	1:1	2:3	04.12.1966	00:00	1966	1967	12
+AtlÃ©tico Madrid	Sevilla FC	1:0	3:0	11.12.1966	00:00	1966	1967	13
+Elche CF	Granada CF	0:1	0:1	11.12.1966	00:00	1966	1967	13
+Valencia CF	HÃ©rcules CF	2:0	4:0	11.12.1966	00:00	1966	1967	13
+CE Sabadell	Real Zaragoza	1:1	3:2	11.12.1966	00:00	1966	1967	13
+Pontevedra CF	Espanyol Barcelona	1:0	3:0	11.12.1966	00:00	1966	1967	13
+Deportivo La CoruÃ±a	Athletic Bilbao	0:0	1:0	11.12.1966	00:00	1966	1967	13
+CÃ³rdoba CF	Real Madrid	0:0	0:1	11.12.1966	00:00	1966	1967	13
+FC Barcelona	UD Las Palmas	0:1	2:1	11.12.1966	00:00	1966	1967	13
+Athletic Bilbao	Valencia CF	1:0	2:1	18.12.1966	00:00	1966	1967	14
+HÃ©rcules CF	CÃ³rdoba CF	1:1	1:1	18.12.1966	00:00	1966	1967	14
+Granada CF	Pontevedra CF	0:1	1:1	18.12.1966	00:00	1966	1967	14
+Sevilla FC	CE Sabadell	0:0	0:0	18.12.1966	00:00	1966	1967	14
+Real Zaragoza	Elche CF	1:0	1:0	18.12.1966	00:00	1966	1967	14
+Real Madrid	AtlÃ©tico Madrid	2:0	2:1	18.12.1966	00:00	1966	1967	14
+UD Las Palmas	Espanyol Barcelona	0:0	0:0	18.12.1966	00:00	1966	1967	14
+FC Barcelona	Deportivo La CoruÃ±a	1:0	5:0	18.12.1966	00:00	1966	1967	14
+Elche CF	Sevilla FC	0:0	3:0	29.12.1966	00:00	1966	1967	15
+Espanyol Barcelona	Granada CF	0:0	1:0	01.01.1967	00:00	1966	1967	15
+CE Sabadell	Real Madrid	0:1	1:1	01.01.1967	00:00	1966	1967	15
+Valencia CF	FC Barcelona	0:0	3:0	01.01.1967	00:00	1966	1967	15
+CÃ³rdoba CF	Athletic Bilbao	1:0	2:0	01.01.1967	00:00	1966	1967	15
+Pontevedra CF	Real Zaragoza	0:0	0:0	01.01.1967	00:00	1966	1967	15
+Deportivo La CoruÃ±a	UD Las Palmas	1:0	1:1	01.01.1967	00:00	1966	1967	15
+AtlÃ©tico Madrid	HÃ©rcules CF	3:1	7:2	01.01.1967	00:00	1966	1967	15
+CÃ³rdoba CF	FC Barcelona	1:1	2:1	08.01.1967	00:00	1966	1967	16
+AtlÃ©tico Madrid	Athletic Bilbao	1:1	3:1	08.01.1967	00:00	1966	1967	16
+Pontevedra CF	Sevilla FC	1:0	3:0	08.01.1967	00:00	1966	1967	16
+Espanyol Barcelona	Real Zaragoza	1:1	2:1	08.01.1967	00:00	1966	1967	16
+Granada CF	UD Las Palmas	0:0	0:1	08.01.1967	00:00	1966	1967	16
+Valencia CF	Deportivo La CoruÃ±a	2:1	5:1	08.01.1967	00:00	1966	1967	16
+CE Sabadell	HÃ©rcules CF	2:0	5:2	08.01.1967	00:00	1966	1967	16
+Elche CF	Real Madrid	0:0	1:1	08.01.1967	00:00	1966	1967	16
+Real Zaragoza	Granada CF	2:0	4:1	15.01.1967	00:00	1966	1967	17
+Real Madrid	Pontevedra CF	0:0	2:0	15.01.1967	00:00	1966	1967	17
+Athletic Bilbao	CE Sabadell	0:0	1:1	15.01.1967	00:00	1966	1967	17
+Sevilla FC	Espanyol Barcelona	0:0	1:0	15.01.1967	00:00	1966	1967	17
+FC Barcelona	AtlÃ©tico Madrid	2:1	3:2	15.01.1967	00:00	1966	1967	17
+UD Las Palmas	Valencia CF	0:0	0:0	15.01.1967	00:00	1966	1967	17
+HÃ©rcules CF	Elche CF	1:1	1:3	15.01.1967	00:00	1966	1967	17
+Deportivo La CoruÃ±a	CÃ³rdoba CF	1:0	2:0	15.01.1967	00:00	1966	1967	17
+Elche CF	Athletic Bilbao	1:1	1:1	22.01.1967	00:00	1966	1967	18
+Pontevedra CF	HÃ©rcules CF	1:0	2:1	22.01.1967	00:00	1966	1967	18
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	2:0	4:0	22.01.1967	00:00	1966	1967	18
+Real Zaragoza	UD Las Palmas	3:0	4:1	22.01.1967	00:00	1966	1967	18
+CÃ³rdoba CF	Valencia CF	1:1	2:1	22.01.1967	00:00	1966	1967	18
+CE Sabadell	FC Barcelona	2:0	2:0	22.01.1967	00:00	1966	1967	18
+Espanyol Barcelona	Real Madrid	1:1	2:3	22.01.1967	00:00	1966	1967	18
+Granada CF	Sevilla FC	0:0	0:0	22.01.1967	00:00	1966	1967	18
+FC Barcelona	Elche CF	1:0	3:0	05.02.1967	00:00	1966	1967	19
+Real Madrid	Granada CF	1:0	2:0	05.02.1967	00:00	1966	1967	19
+Deportivo La CoruÃ±a	CE Sabadell	0:0	0:1	05.02.1967	00:00	1966	1967	19
+Sevilla FC	Real Zaragoza	2:0	3:1	05.02.1967	00:00	1966	1967	19
+HÃ©rcules CF	Espanyol Barcelona	1:2	3:3	05.02.1967	00:00	1966	1967	19
+Valencia CF	AtlÃ©tico Madrid	0:0	0:2	05.02.1967	00:00	1966	1967	19
+CÃ³rdoba CF	UD Las Palmas	0:0	0:0	05.02.1967	00:00	1966	1967	19
+Athletic Bilbao	Pontevedra CF	1:1	2:1	05.02.1967	00:00	1966	1967	19
+Espanyol Barcelona	Athletic Bilbao	1:0	2:1	12.02.1967	00:00	1966	1967	20
+AtlÃ©tico Madrid	CÃ³rdoba CF	1:0	2:0	12.02.1967	00:00	1966	1967	20
+Granada CF	HÃ©rcules CF	1:0	2:1	12.02.1967	00:00	1966	1967	20
+Elche CF	Deportivo La CoruÃ±a	0:2	1:3	12.02.1967	00:00	1966	1967	20
+CE Sabadell	Valencia CF	1:0	3:0	12.02.1967	00:00	1966	1967	20
+Pontevedra CF	FC Barcelona	0:1	0:1	12.02.1967	00:00	1966	1967	20
+Real Zaragoza	Real Madrid	1:0	2:1	12.02.1967	00:00	1966	1967	20
+UD Las Palmas	Sevilla FC	0:1	1:2	12.02.1967	00:00	1966	1967	20
+Real Madrid	Sevilla FC	3:0	3:0	19.02.1967	00:00	1966	1967	21
+CÃ³rdoba CF	CE Sabadell	0:0	3:2	19.02.1967	00:00	1966	1967	21
+Athletic Bilbao	Granada CF	1:0	2:1	19.02.1967	00:00	1966	1967	21
+Deportivo La CoruÃ±a	Pontevedra CF	0:2	1:2	19.02.1967	00:00	1966	1967	21
+UD Las Palmas	AtlÃ©tico Madrid	0:0	1:0	19.02.1967	00:00	1966	1967	21
+FC Barcelona	Espanyol Barcelona	1:0	3:1	19.02.1967	00:00	1966	1967	21
+Valencia CF	Elche CF	2:0	5:0	19.02.1967	00:00	1966	1967	21
+HÃ©rcules CF	Real Zaragoza	0:0	1:1	19.02.1967	00:00	1966	1967	21
+Real Madrid	UD Las Palmas	1:1	1:1	25.02.1967	00:00	1966	1967	22
+Pontevedra CF	Valencia CF	0:0	3:0	26.02.1967	00:00	1966	1967	22
+Elche CF	CÃ³rdoba CF	0:0	0:0	26.02.1967	00:00	1966	1967	22
+Sevilla FC	HÃ©rcules CF	0:0	0:0	26.02.1967	00:00	1966	1967	22
+CE Sabadell	AtlÃ©tico Madrid	0:0	0:0	26.02.1967	00:00	1966	1967	22
+Real Zaragoza	Athletic Bilbao	0:0	1:1	26.02.1967	00:00	1966	1967	22
+Granada CF	FC Barcelona	1:0	1:2	26.02.1967	00:00	1966	1967	22
+Espanyol Barcelona	Deportivo La CoruÃ±a	1:1	3:2	26.02.1967	00:00	1966	1967	22
+CE Sabadell	UD Las Palmas	1:0	1:1	05.03.1967	00:00	1966	1967	23
+CÃ³rdoba CF	Pontevedra CF	1:0	1:0	05.03.1967	00:00	1966	1967	23
+Deportivo La CoruÃ±a	Granada CF	2:0	2:1	05.03.1967	00:00	1966	1967	23
+FC Barcelona	Real Zaragoza	1:0	2:1	05.03.1967	00:00	1966	1967	23
+Athletic Bilbao	Sevilla FC	2:0	6:0	05.03.1967	00:00	1966	1967	23
+Valencia CF	Espanyol Barcelona	2:1	2:1	05.03.1967	00:00	1966	1967	23
+HÃ©rcules CF	Real Madrid	0:0	0:2	05.03.1967	00:00	1966	1967	23
+AtlÃ©tico Madrid	Elche CF	2:0	5:2	05.03.1967	00:00	1966	1967	23
+Pontevedra CF	AtlÃ©tico Madrid	0:0	0:0	12.03.1967	00:00	1966	1967	24
+Espanyol Barcelona	CÃ³rdoba CF	0:0	2:1	12.03.1967	00:00	1966	1967	24
+Elche CF	CE Sabadell	0:1	3:2	12.03.1967	00:00	1966	1967	24
+Real Zaragoza	Deportivo La CoruÃ±a	3:0	5:1	12.03.1967	00:00	1966	1967	24
+Granada CF	Valencia CF	0:0	3:2	12.03.1967	00:00	1966	1967	24
+Real Madrid	Athletic Bilbao	2:0	4:0	12.03.1967	00:00	1966	1967	24
+Sevilla FC	FC Barcelona	0:0	0:2	12.03.1967	00:00	1966	1967	24
+UD Las Palmas	HÃ©rcules CF	0:1	0:1	12.03.1967	00:00	1966	1967	24
+Valencia CF	Real Zaragoza	3:0	6:0	19.03.1967	00:00	1966	1967	25
+Elche CF	UD Las Palmas	1:0	2:1	19.03.1967	00:00	1966	1967	25
+CE Sabadell	Pontevedra CF	1:0	3:0	19.03.1967	00:00	1966	1967	25
+CÃ³rdoba CF	Granada CF	2:1	2:2	19.03.1967	00:00	1966	1967	25
+Deportivo La CoruÃ±a	Sevilla FC	0:1	1:1	19.03.1967	00:00	1966	1967	25
+AtlÃ©tico Madrid	Espanyol Barcelona	2:0	5:1	19.03.1967	00:00	1966	1967	25
+FC Barcelona	Real Madrid	1:1	2:1	19.03.1967	00:00	1966	1967	25
+Athletic Bilbao	HÃ©rcules CF	0:0	0:0	19.03.1967	00:00	1966	1967	25
+Athletic Bilbao	UD Las Palmas	1:0	3:0	26.03.1967	00:00	1966	1967	26
+Real Zaragoza	CÃ³rdoba CF	1:0	3:0	26.03.1967	00:00	1966	1967	26
+Real Madrid	Deportivo La CoruÃ±a	1:0	2:0	26.03.1967	00:00	1966	1967	26
+Granada CF	AtlÃ©tico Madrid	1:1	2:1	26.03.1967	00:00	1966	1967	26
+Sevilla FC	Valencia CF	1:0	1:0	26.03.1967	00:00	1966	1967	26
+HÃ©rcules CF	FC Barcelona	0:0	1:1	26.03.1967	00:00	1966	1967	26
+Pontevedra CF	Elche CF	0:0	1:1	26.03.1967	00:00	1966	1967	26
+Espanyol Barcelona	CE Sabadell	3:1	4:1	27.03.1967	00:00	1966	1967	26
+Valencia CF	Real Madrid	0:0	0:0	01.04.1967	00:00	1966	1967	27
+FC Barcelona	Athletic Bilbao	1:1	3:1	02.04.1967	00:00	1966	1967	27
+UD Las Palmas	Pontevedra CF	0:0	0:0	02.04.1967	00:00	1966	1967	27
+CE Sabadell	Granada CF	0:0	1:0	02.04.1967	00:00	1966	1967	27
+Deportivo La CoruÃ±a	HÃ©rcules CF	1:0	1:0	02.04.1967	00:00	1966	1967	27
+Elche CF	Espanyol Barcelona	0:1	1:1	02.04.1967	00:00	1966	1967	27
+AtlÃ©tico Madrid	Real Zaragoza	0:0	0:0	02.04.1967	00:00	1966	1967	27
+CÃ³rdoba CF	Sevilla FC	1:0	3:0	02.04.1967	00:00	1966	1967	27
+Athletic Bilbao	Deportivo La CoruÃ±a	1:0	4:0	08.04.1967	00:00	1966	1967	28
+Sevilla FC	AtlÃ©tico Madrid	1:0	1:1	09.04.1967	00:00	1966	1967	28
+Espanyol Barcelona	Pontevedra CF	0:0	2:2	09.04.1967	00:00	1966	1967	28
+Real Madrid	CÃ³rdoba CF	0:0	3:0	09.04.1967	00:00	1966	1967	28
+Granada CF	Elche CF	1:0	2:1	09.04.1967	00:00	1966	1967	28
+HÃ©rcules CF	Valencia CF	2:1	4:1	09.04.1967	00:00	1966	1967	28
+UD Las Palmas	FC Barcelona	1:0	2:0	09.04.1967	00:00	1966	1967	28
+Real Zaragoza	CE Sabadell	0:0	1:0	09.04.1967	00:00	1966	1967	28
+Valencia CF	Athletic Bilbao	1:0	1:0	15.04.1967	00:00	1966	1967	29
+AtlÃ©tico Madrid	Real Madrid	1:0	2:2	16.04.1967	00:00	1966	1967	29
+CÃ³rdoba CF	HÃ©rcules CF	1:0	1:1	16.04.1967	00:00	1966	1967	29
+Pontevedra CF	Granada CF	0:0	1:0	16.04.1967	00:00	1966	1967	29
+Espanyol Barcelona	UD Las Palmas	1:1	1:1	16.04.1967	00:00	1966	1967	29
+Elche CF	Real Zaragoza	1:0	5:1	16.04.1967	00:00	1966	1967	29
+Deportivo La CoruÃ±a	FC Barcelona	0:3	0:3	16.04.1967	00:00	1966	1967	29
+CE Sabadell	Sevilla FC	1:0	1:0	16.04.1967	00:00	1966	1967	29
+Real Zaragoza	Pontevedra CF	1:0	1:0	23.04.1967	00:00	1966	1967	30
+Granada CF	Espanyol Barcelona	0:1	0:3	23.04.1967	00:00	1966	1967	30
+FC Barcelona	Valencia CF	2:0	2:1	23.04.1967	00:00	1966	1967	30
+HÃ©rcules CF	AtlÃ©tico Madrid	1:2	2:4	23.04.1967	00:00	1966	1967	30
+UD Las Palmas	Deportivo La CoruÃ±a	1:0	2:0	23.04.1967	00:00	1966	1967	30
+Sevilla FC	Elche CF	3:1	3:1	23.04.1967	00:00	1966	1967	30
+Real Madrid	CE Sabadell	3:0	5:0	23.04.1967	00:00	1966	1967	30
+Athletic Bilbao	CÃ³rdoba CF	1:0	3:0	23.04.1967	00:00	1966	1967	30

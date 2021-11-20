@@ -1,0 +1,306 @@
+Bologna FC	Atalanta	1:0	1:0	25.08.2001	20:30	2001	2002	1
+Lazio Roma	Piacenza Calcio	0:0	1:1	26.08.2001	15:00	2001	2002	1
+Inter	AC Perugia	2:0	4:1	26.08.2001	15:00	2001	2002	1
+ACF Fiorentina	Chievo Verona	0:1	0:2	26.08.2001	15:00	2001	2002	1
+Juventus	AC Venezia	3:0	4:0	26.08.2001	15:00	2001	2002	1
+Brescia Calcio	AC Milan	2:0	2:2	26.08.2001	15:00	2001	2002	1
+US Lecce	Parma AC	1:0	1:1	26.08.2001	15:00	2001	2002	1
+Udinese Calcio	Torino FC	0:2	2:2	26.08.2001	15:00	2001	2002	1
+Hellas Verona	AS Roma	0:1	1:1	26.08.2001	20:30	2001	2002	1
+AC Perugia	Lazio Roma	0:0	0:0	08.09.2001	15:00	2001	2002	2
+AS Roma	Udinese Calcio	0:0	1:1	08.09.2001	20:30	2001	2002	2
+Atalanta	Juventus	0:1	0:2	09.09.2001	15:00	2001	2002	2
+Piacenza Calcio	US Lecce	1:0	1:2	09.09.2001	15:00	2001	2002	2
+Parma AC	Inter	1:2	2:2	09.09.2001	15:00	2001	2002	2
+AC Venezia	Hellas Verona	0:0	0:1	09.09.2001	15:00	2001	2002	2
+Torino FC	Brescia Calcio	1:1	1:3	09.09.2001	15:00	2001	2002	2
+Chievo Verona	Bologna FC	1:0	2:0	09.09.2001	15:00	2001	2002	2
+AC Milan	ACF Fiorentina	3:1	5:2	09.09.2001	20:30	2001	2002	2
+Juventus	Chievo Verona	2:2	3:2	15.09.2001	20:30	2001	2002	3
+Bologna FC	Parma AC	0:0	1:0	16.09.2001	15:00	2001	2002	3
+Lazio Roma	Torino FC	0:0	0:0	16.09.2001	15:00	2001	2002	3
+Inter	AC Venezia	0:0	2:1	16.09.2001	15:00	2001	2002	3
+ACF Fiorentina	Atalanta	2:1	3:1	16.09.2001	15:00	2001	2002	3
+Piacenza Calcio	AS Roma	1:0	2:0	16.09.2001	15:00	2001	2002	3
+Hellas Verona	AC Perugia	0:1	1:1	16.09.2001	15:00	2001	2002	3
+Udinese Calcio	AC Milan	0:1	1:2	16.09.2001	20:30	2001	2002	3
+Brescia Calcio	US Lecce	0:1	1:1	22.09.2001	15:00	2001	2002	3
+US Lecce	Juventus	0:0	0:0	22.09.2001	20:30	2001	2002	4
+Atalanta	Hellas Verona	1:0	1:0	23.09.2001	15:00	2001	2002	4
+Parma AC	Brescia Calcio	0:0	1:0	23.09.2001	15:00	2001	2002	4
+AS Roma	ACF Fiorentina	1:1	2:1	23.09.2001	15:00	2001	2002	4
+AC Venezia	Bologna FC	0:0	0:1	23.09.2001	15:00	2001	2002	4
+AC Perugia	Udinese Calcio	1:1	1:2	23.09.2001	15:00	2001	2002	4
+Chievo Verona	Piacenza Calcio	2:1	4:2	23.09.2001	15:00	2001	2002	4
+AC Milan	Lazio Roma	1:0	2:0	23.09.2001	20:30	2001	2002	4
+Torino FC	Inter	0:0	0:1	29.09.2001	15:00	2001	2002	4
+Juventus	AS Roma	0:1	0:2	29.09.2001	20:30	2001	2002	5
+Inter	Bologna FC	1:0	1:0	30.09.2001	15:00	2001	2002	5
+ACF Fiorentina	AC Venezia	1:0	3:1	30.09.2001	15:00	2001	2002	5
+Brescia Calcio	Atalanta	1:3	3:3	30.09.2001	15:00	2001	2002	5
+Piacenza Calcio	Torino FC	2:0	3:1	30.09.2001	15:00	2001	2002	5
+Udinese Calcio	Chievo Verona	1:2	1:2	30.09.2001	15:00	2001	2002	5
+AC Perugia	AC Milan	0:0	3:1	30.09.2001	15:00	2001	2002	5
+Hellas Verona	US Lecce	1:1	2:1	30.09.2001	15:00	2001	2002	5
+Lazio Roma	Parma AC	0:0	0:0	30.09.2001	20:30	2001	2002	5
+Atalanta	AC Milan	1:0	1:1	19.12.2001	15:00	2001	2002	6
+Bologna FC	Udinese Calcio	0:0	0:1	19.12.2001	15:00	2001	2002	6
+Inter	Hellas Verona	1:0	3:0	19.12.2001	15:00	2001	2002	6
+ACF Fiorentina	Juventus	0:0	1:1	19.12.2001	15:00	2001	2002	6
+AS Roma	Brescia Calcio	0:0	0:0	19.12.2001	15:00	2001	2002	6
+US Lecce	AC Perugia	2:2	2:3	19.12.2001	15:00	2001	2002	6
+AC Venezia	Piacenza Calcio	1:0	2:3	19.12.2001	15:00	2001	2002	6
+Torino FC	Parma AC	1:0	1:0	19.12.2001	15:00	2001	2002	6
+Chievo Verona	Lazio Roma	0:1	3:1	30.01.2002	20:30	2001	2002	6
+Lazio Roma	Atalanta	1:0	2:0	13.10.2001	15:00	2001	2002	7
+AC Perugia	AS Roma	0:0	0:0	13.10.2001	20:30	2001	2002	7
+Juventus	Torino FC	3:0	3:3	14.10.2001	15:00	2001	2002	7
+Brescia Calcio	Chievo Verona	0:1	2:2	14.10.2001	15:00	2001	2002	7
+Parma AC	Piacenza Calcio	1:0	2:2	14.10.2001	15:00	2001	2002	7
+US Lecce	ACF Fiorentina	2:1	4:1	14.10.2001	15:00	2001	2002	7
+AC Milan	AC Venezia	1:0	1:1	14.10.2001	15:00	2001	2002	7
+Hellas Verona	Bologna FC	0:1	0:1	14.10.2001	15:00	2001	2002	7
+Udinese Calcio	Inter	0:0	1:1	14.10.2001	20:30	2001	2002	7
+Bologna FC	Juventus	0:0	0:0	20.10.2001	20:30	2001	2002	8
+Atalanta	Udinese Calcio	0:1	1:5	21.10.2001	15:00	2001	2002	8
+ACF Fiorentina	Hellas Verona	0:1	0:2	21.10.2001	15:00	2001	2002	8
+Piacenza Calcio	Brescia Calcio	0:1	0:1	21.10.2001	15:00	2001	2002	8
+AS Roma	US Lecce	2:0	5:1	21.10.2001	15:00	2001	2002	8
+AC Venezia	Lazio Roma	0:0	0:0	21.10.2001	15:00	2001	2002	8
+Torino FC	AC Perugia	1:0	1:0	21.10.2001	15:00	2001	2002	8
+Chievo Verona	Parma AC	1:0	1:0	21.10.2001	15:00	2001	2002	8
+Inter	AC Milan	1:0	2:4	21.10.2001	20:30	2001	2002	8
+Juventus	Inter	0:0	0:0	27.10.2001	20:30	2001	2002	9
+AS Roma	Lazio Roma	0:0	2:0	27.10.2001	20:30	2001	2002	9
+Brescia Calcio	AC Venezia	0:0	3:2	28.10.2001	15:00	2001	2002	9
+Parma AC	Hellas Verona	0:2	2:2	28.10.2001	15:00	2001	2002	9
+US Lecce	Atalanta	0:1	0:2	28.10.2001	15:00	2001	2002	9
+Udinese Calcio	ACF Fiorentina	1:0	1:2	28.10.2001	15:00	2001	2002	9
+AC Milan	Bologna FC	0:0	0:0	28.10.2001	15:00	2001	2002	9
+AC Perugia	Piacenza Calcio	0:0	1:0	28.10.2001	15:00	2001	2002	9
+Chievo Verona	Torino FC	1:0	3:0	28.10.2001	15:00	2001	2002	9
+AC Venezia	Chievo Verona	0:0	0:0	03.11.2001	20:30	2001	2002	10
+Atalanta	AS Roma	0:0	1:1	04.11.2001	15:00	2001	2002	10
+Bologna FC	ACF Fiorentina	3:2	3:2	04.11.2001	15:00	2001	2002	10
+Lazio Roma	Brescia Calcio	3:0	5:0	04.11.2001	15:00	2001	2002	10
+Inter	US Lecce	2:0	2:0	04.11.2001	15:00	2001	2002	10
+Piacenza Calcio	Udinese Calcio	0:1	1:2	04.11.2001	15:00	2001	2002	10
+Parma AC	AC Perugia	1:0	2:1	04.11.2001	15:00	2001	2002	10
+Hellas Verona	Juventus	1:0	2:2	04.11.2001	15:00	2001	2002	10
+Torino FC	AC Milan	1:0	1:0	04.11.2001	20:30	2001	2002	10
+AS Roma	Inter	0:0	0:0	17.11.2001	20:30	2001	2002	11
+Atalanta	AC Venezia	1:0	1:0	18.11.2001	15:00	2001	2002	11
+ACF Fiorentina	Torino FC	0:0	0:0	18.11.2001	15:00	2001	2002	11
+Juventus	Parma AC	1:1	3:1	18.11.2001	15:00	2001	2002	11
+US Lecce	Bologna FC	1:0	1:0	18.11.2001	15:00	2001	2002	11
+Udinese Calcio	Lazio Roma	0:0	1:4	18.11.2001	15:00	2001	2002	11
+AC Milan	Piacenza Calcio	0:0	0:0	18.11.2001	15:00	2001	2002	11
+AC Perugia	Brescia Calcio	1:1	1:1	18.11.2001	15:00	2001	2002	11
+Hellas Verona	Chievo Verona	1:2	3:2	18.11.2001	20:30	2001	2002	11
+Lazio Roma	Juventus	0:0	1:0	24.11.2001	20:30	2001	2002	12
+Bologna FC	AS Roma	1:3	1:3	25.11.2001	15:00	2001	2002	12
+Brescia Calcio	Udinese Calcio	2:0	2:0	25.11.2001	15:00	2001	2002	12
+Piacenza Calcio	Atalanta	1:0	1:2	25.11.2001	15:00	2001	2002	12
+Parma AC	AC Milan	0:1	0:1	25.11.2001	15:00	2001	2002	12
+AC Venezia	US Lecce	0:0	1:1	25.11.2001	15:00	2001	2002	12
+Torino FC	Hellas Verona	0:1	5:1	25.11.2001	15:00	2001	2002	12
+Chievo Verona	AC Perugia	1:0	2:0	25.11.2001	15:00	2001	2002	12
+Inter	ACF Fiorentina	1:0	2:0	25.11.2001	20:30	2001	2002	12
+Juventus	AC Perugia	0:0	2:0	01.12.2001	20:30	2001	2002	13
+Atalanta	Inter	2:1	2:4	02.12.2001	15:00	2001	2002	13
+ACF Fiorentina	Piacenza Calcio	0:1	1:3	02.12.2001	15:00	2001	2002	13
+AS Roma	AC Venezia	0:0	1:0	02.12.2001	15:00	2001	2002	13
+US Lecce	Lazio Roma	0:0	1:2	02.12.2001	15:00	2001	2002	13
+Udinese Calcio	Parma AC	2:2	3:2	02.12.2001	15:00	2001	2002	13
+AC Milan	Chievo Verona	1:2	3:2	02.12.2001	15:00	2001	2002	13
+Hellas Verona	Brescia Calcio	1:0	2:0	02.12.2001	15:00	2001	2002	13
+Bologna FC	Torino FC	1:0	1:0	02.12.2001	20:30	2001	2002	13
+Piacenza Calcio	Bologna FC	0:0	2:0	08.12.2001	20:30	2001	2002	14
+Lazio Roma	ACF Fiorentina	1:0	3:0	09.12.2001	15:00	2001	2002	14
+Brescia Calcio	Inter	1:1	1:3	09.12.2001	15:00	2001	2002	14
+Parma AC	AS Roma	1:0	1:2	09.12.2001	15:00	2001	2002	14
+Udinese Calcio	Hellas Verona	0:0	2:1	09.12.2001	15:00	2001	2002	14
+AC Perugia	AC Venezia	1:0	2:0	09.12.2001	15:00	2001	2002	14
+Torino FC	Atalanta	1:1	1:2	09.12.2001	15:00	2001	2002	14
+Chievo Verona	US Lecce	1:0	2:1	09.12.2001	15:00	2001	2002	14
+AC Milan	Juventus	1:0	1:1	09.12.2001	20:30	2001	2002	14
+Inter	Chievo Verona	1:1	1:2	15.12.2001	20:30	2001	2002	15
+Atalanta	Parma AC	2:0	4:1	16.12.2001	15:00	2001	2002	15
+Bologna FC	AC Perugia	2:1	2:1	16.12.2001	15:00	2001	2002	15
+ACF Fiorentina	Brescia Calcio	0:0	1:0	16.12.2001	15:00	2001	2002	15
+Juventus	Piacenza Calcio	1:0	2:0	16.12.2001	15:00	2001	2002	15
+US Lecce	Torino FC	0:0	1:1	16.12.2001	15:00	2001	2002	15
+AC Venezia	Udinese Calcio	1:0	2:1	16.12.2001	15:00	2001	2002	15
+Hellas Verona	Lazio Roma	2:0	3:1	16.12.2001	15:00	2001	2002	15
+AS Roma	AC Milan	1:0	1:0	16.12.2001	20:30	2001	2002	15
+Lazio Roma	Bologna FC	2:1	2:2	22.12.2001	20:30	2001	2002	16
+Chievo Verona	AS Roma	0:1	0:3	22.12.2001	20:30	2001	2002	16
+Brescia Calcio	Juventus	0:2	0:4	23.12.2001	15:00	2001	2002	16
+Piacenza Calcio	Inter	0:1	2:3	23.12.2001	15:00	2001	2002	16
+Udinese Calcio	US Lecce	0:1	0:1	23.12.2001	15:00	2001	2002	16
+AC Milan	Hellas Verona	0:0	2:1	23.12.2001	15:00	2001	2002	16
+AC Perugia	Atalanta	0:0	2:0	23.12.2001	15:00	2001	2002	16
+Torino FC	AC Venezia	0:1	1:2	23.12.2001	15:00	2001	2002	16
+Parma AC	ACF Fiorentina	0:0	2:0	23.12.2001	15:00	2001	2002	16
+US Lecce	AC Milan	0:0	0:1	05.01.2002	20:30	2001	2002	17
+Atalanta	Chievo Verona	1:0	1:2	06.01.2002	15:00	2001	2002	17
+Bologna FC	Brescia Calcio	2:1	2:1	06.01.2002	15:00	2001	2002	17
+ACF Fiorentina	AC Perugia	1:1	1:3	06.01.2002	15:00	2001	2002	17
+Juventus	Udinese Calcio	3:0	3:0	06.01.2002	15:00	2001	2002	17
+AS Roma	Torino FC	1:0	1:0	06.01.2002	15:00	2001	2002	17
+AC Venezia	Parma AC	2:3	3:4	06.01.2002	15:00	2001	2002	17
+Hellas Verona	Piacenza Calcio	0:0	1:0	06.01.2002	15:00	2001	2002	17
+Inter	Lazio Roma	0:0	0:0	06.01.2002	20:30	2001	2002	17
+Atalanta	Bologna FC	2:1	2:2	13.01.2002	15:00	2001	2002	18
+Piacenza Calcio	Lazio Roma	0:0	1:0	13.01.2002	15:00	2001	2002	18
+Chievo Verona	ACF Fiorentina	0:1	2:2	13.01.2002	15:00	2001	2002	18
+AC Venezia	Juventus	0:1	1:2	13.01.2002	15:00	2001	2002	18
+AC Milan	Brescia Calcio	0:0	0:0	13.01.2002	15:00	2001	2002	18
+Parma AC	US Lecce	0:0	1:1	13.01.2002	15:00	2001	2002	18
+Torino FC	Udinese Calcio	1:1	3:1	13.01.2002	15:00	2001	2002	18
+AS Roma	Hellas Verona	0:1	3:2	13.01.2002	15:00	2001	2002	18
+AC Perugia	Inter	0:0	0:2	13.01.2002	20:30	2001	2002	18
+Brescia Calcio	Torino FC	0:0	1:2	19.01.2002	20:30	2001	2002	19
+Juventus	Atalanta	2:0	3:0	20.01.2002	15:00	2001	2002	19
+US Lecce	Piacenza Calcio	0:0	0:0	20.01.2002	15:00	2001	2002	19
+Inter	Parma AC	1:0	2:0	20.01.2002	15:00	2001	2002	19
+Udinese Calcio	AS Roma	0:0	1:1	20.01.2002	15:00	2001	2002	19
+Hellas Verona	AC Venezia	1:0	1:0	20.01.2002	15:00	2001	2002	19
+Lazio Roma	AC Perugia	2:0	5:0	20.01.2002	15:00	2001	2002	19
+Bologna FC	Chievo Verona	1:0	3:1	20.01.2002	15:00	2001	2002	19
+ACF Fiorentina	AC Milan	0:0	1:1	20.01.2002	20:30	2001	2002	19
+Parma AC	Bologna FC	2:0	2:1	26.01.2002	20:30	2001	2002	20
+Torino FC	Lazio Roma	0:0	1:0	27.01.2002	15:00	2001	2002	20
+AC Venezia	Inter	0:1	1:1	27.01.2002	15:00	2001	2002	20
+Atalanta	ACF Fiorentina	1:0	2:0	27.01.2002	15:00	2001	2002	20
+US Lecce	Brescia Calcio	1:1	1:3	27.01.2002	15:00	2001	2002	20
+AS Roma	Piacenza Calcio	1:0	2:0	27.01.2002	15:00	2001	2002	20
+AC Milan	Udinese Calcio	2:1	2:3	27.01.2002	15:00	2001	2002	20
+AC Perugia	Hellas Verona	0:1	3:1	27.01.2002	15:00	2001	2002	20
+Chievo Verona	Juventus	0:1	1:3	27.01.2002	20:30	2001	2002	20
+Inter	Torino FC	0:0	0:0	02.02.2002	20:30	2001	2002	21
+Hellas Verona	Atalanta	2:0	3:1	03.02.2002	15:00	2001	2002	21
+Brescia Calcio	Parma AC	1:3	1:4	03.02.2002	15:00	2001	2002	21
+ACF Fiorentina	AS Roma	2:0	2:2	03.02.2002	15:00	2001	2002	21
+Juventus	US Lecce	1:0	3:0	03.02.2002	15:00	2001	2002	21
+Bologna FC	AC Venezia	0:1	1:1	03.02.2002	15:00	2001	2002	21
+Udinese Calcio	AC Perugia	0:0	0:0	03.02.2002	15:00	2001	2002	21
+Piacenza Calcio	Chievo Verona	1:1	2:2	03.02.2002	15:00	2001	2002	21
+Lazio Roma	AC Milan	1:0	1:1	03.02.2002	20:30	2001	2002	21
+Chievo Verona	Udinese Calcio	0:2	1:2	09.02.2002	20:30	2001	2002	22
+Parma AC	Lazio Roma	0:0	1:0	10.02.2002	15:00	2001	2002	22
+Bologna FC	Inter	0:0	2:1	10.02.2002	15:00	2001	2002	22
+AC Venezia	ACF Fiorentina	1:0	2:0	10.02.2002	15:00	2001	2002	22
+Atalanta	Brescia Calcio	0:0	0:0	10.02.2002	15:00	2001	2002	22
+Torino FC	Piacenza Calcio	0:0	1:1	10.02.2002	15:00	2001	2002	22
+AC Milan	AC Perugia	1:0	1:1	10.02.2002	15:00	2001	2002	22
+US Lecce	Hellas Verona	1:0	1:1	10.02.2002	15:00	2001	2002	22
+AS Roma	Juventus	0:0	0:0	10.02.2002	20:30	2001	2002	22
+Juventus	ACF Fiorentina	2:1	2:1	16.02.2002	15:00	2001	2002	23
+AC Milan	Atalanta	0:0	0:0	16.02.2002	20:30	2001	2002	23
+Udinese Calcio	Bologna FC	0:1	0:1	17.02.2002	15:00	2001	2002	23
+Hellas Verona	Inter	0:1	0:3	17.02.2002	15:00	2001	2002	23
+Brescia Calcio	AS Roma	0:0	0:0	17.02.2002	15:00	2001	2002	23
+AC Perugia	US Lecce	1:1	2:1	17.02.2002	15:00	2001	2002	23
+Piacenza Calcio	AC Venezia	3:0	5:0	17.02.2002	15:00	2001	2002	23
+Parma AC	Torino FC	0:0	0:1	17.02.2002	15:00	2001	2002	23
+Lazio Roma	Chievo Verona	0:0	1:1	17.02.2002	20:30	2001	2002	23
+AS Roma	AC Perugia	0:0	1:0	23.02.2002	20:30	2001	2002	24
+Atalanta	Lazio Roma	0:0	0:1	24.02.2002	15:00	2001	2002	24
+Chievo Verona	Brescia Calcio	1:0	1:1	24.02.2002	15:00	2001	2002	24
+Piacenza Calcio	Parma AC	0:2	2:3	24.02.2002	15:00	2001	2002	24
+ACF Fiorentina	US Lecce	1:1	1:2	24.02.2002	15:00	2001	2002	24
+Inter	Udinese Calcio	1:0	3:2	24.02.2002	15:00	2001	2002	24
+AC Venezia	AC Milan	1:1	1:4	24.02.2002	15:00	2001	2002	24
+Bologna FC	Hellas Verona	0:0	2:1	24.02.2002	15:00	2001	2002	24
+Torino FC	Juventus	0:1	2:2	24.02.2002	20:30	2001	2002	24
+Juventus	Bologna FC	1:1	2:1	03.03.2002	15:00	2001	2002	25
+Udinese Calcio	Atalanta	1:0	1:2	03.03.2002	15:00	2001	2002	25
+Hellas Verona	ACF Fiorentina	0:1	1:2	03.03.2002	15:00	2001	2002	25
+Brescia Calcio	Piacenza Calcio	0:0	2:2	03.03.2002	15:00	2001	2002	25
+US Lecce	AS Roma	0:1	1:1	03.03.2002	15:00	2001	2002	25
+Lazio Roma	AC Venezia	3:0	4:2	03.03.2002	15:00	2001	2002	25
+AC Perugia	Torino FC	1:0	2:0	03.03.2002	15:00	2001	2002	25
+AC Milan	Inter	0:0	0:1	03.03.2002	20:30	2001	2002	25
+Parma AC	Chievo Verona	0:0	0:0	13.03.2002	18:00	2001	2002	25
+Inter	Juventus	1:1	2:2	09.03.2002	20:30	2001	2002	26
+AC Venezia	Brescia Calcio	1:0	1:2	10.03.2002	15:00	2001	2002	26
+Hellas Verona	Parma AC	0:0	1:0	10.03.2002	15:00	2001	2002	26
+Atalanta	US Lecce	2:0	2:1	10.03.2002	15:00	2001	2002	26
+ACF Fiorentina	Udinese Calcio	0:0	0:0	10.03.2002	15:00	2001	2002	26
+Bologna FC	AC Milan	2:0	2:0	10.03.2002	15:00	2001	2002	26
+Piacenza Calcio	AC Perugia	1:0	2:0	10.03.2002	15:00	2001	2002	26
+Torino FC	Chievo Verona	1:1	2:2	10.03.2002	15:00	2001	2002	26
+Lazio Roma	AS Roma	0:3	1:5	10.03.2002	20:30	2001	2002	26
+AS Roma	Atalanta	2:0	3:1	16.03.2002	20:30	2001	2002	27
+ACF Fiorentina	Bologna FC	1:0	1:1	17.03.2002	15:00	2001	2002	27
+Brescia Calcio	Lazio Roma	0:0	1:1	17.03.2002	15:00	2001	2002	27
+US Lecce	Inter	0:1	1:2	17.03.2002	15:00	2001	2002	27
+Udinese Calcio	Piacenza Calcio	0:1	1:1	17.03.2002	15:00	2001	2002	27
+AC Perugia	Parma AC	2:0	2:1	17.03.2002	15:00	2001	2002	27
+Chievo Verona	AC Venezia	0:1	1:1	17.03.2002	15:00	2001	2002	27
+Juventus	Hellas Verona	1:0	1:0	17.03.2002	15:00	2001	2002	27
+AC Milan	Torino FC	0:0	2:1	17.03.2002	20:30	2001	2002	27
+Parma AC	Juventus	0:0	1:0	23.03.2002	20:30	2001	2002	28
+AC Venezia	Atalanta	0:0	0:1	24.03.2002	15:00	2001	2002	28
+Torino FC	ACF Fiorentina	1:0	1:0	24.03.2002	15:00	2001	2002	28
+Bologna FC	US Lecce	1:2	4:3	24.03.2002	15:00	2001	2002	28
+Lazio Roma	Udinese Calcio	1:0	2:0	24.03.2002	15:00	2001	2002	28
+Piacenza Calcio	AC Milan	0:1	0:1	24.03.2002	15:00	2001	2002	28
+Brescia Calcio	AC Perugia	3:0	3:0	24.03.2002	15:00	2001	2002	28
+Chievo Verona	Hellas Verona	1:1	2:1	24.03.2002	15:00	2001	2002	28
+Inter	AS Roma	2:0	3:1	24.03.2002	20:30	2001	2002	28
+AS Roma	Bologna FC	2:0	3:1	30.03.2002	15:00	2001	2002	29
+ACF Fiorentina	Inter	0:0	0:1	30.03.2002	15:00	2001	2002	29
+Udinese Calcio	Brescia Calcio	3:1	3:2	30.03.2002	15:00	2001	2002	29
+Atalanta	Piacenza Calcio	1:0	1:1	30.03.2002	15:00	2001	2002	29
+AC Milan	Parma AC	0:1	3:1	30.03.2002	15:00	2001	2002	29
+US Lecce	AC Venezia	1:0	2:1	30.03.2002	15:00	2001	2002	29
+Hellas Verona	Torino FC	0:1	0:1	30.03.2002	15:00	2001	2002	29
+AC Perugia	Chievo Verona	1:1	2:2	30.03.2002	15:00	2001	2002	29
+Juventus	Lazio Roma	1:1	1:1	30.03.2002	20:30	2001	2002	29
+Torino FC	Bologna FC	1:0	1:1	06.04.2002	20:30	2001	2002	30
+Inter	Atalanta	0:1	1:2	07.04.2002	15:00	2001	2002	30
+Piacenza Calcio	ACF Fiorentina	3:0	3:0	07.04.2002	15:00	2001	2002	30
+AC Perugia	Juventus	0:2	0:4	07.04.2002	15:00	2001	2002	30
+AC Venezia	AS Roma	0:0	2:2	07.04.2002	15:00	2001	2002	30
+Parma AC	Udinese Calcio	1:0	2:0	07.04.2002	15:00	2001	2002	30
+Chievo Verona	AC Milan	1:1	1:1	07.04.2002	15:00	2001	2002	30
+Brescia Calcio	Hellas Verona	0:0	0:0	07.04.2002	15:00	2001	2002	30
+Lazio Roma	US Lecce	0:0	1:0	07.04.2002	20:30	2001	2002	30
+ACF Fiorentina	Lazio Roma	0:1	0:1	14.04.2002	15:00	2001	2002	31
+Inter	Brescia Calcio	0:1	2:1	14.04.2002	15:00	2001	2002	31
+Bologna FC	Piacenza Calcio	0:1	1:2	14.04.2002	15:00	2001	2002	31
+AS Roma	Parma AC	2:1	3:1	14.04.2002	15:00	2001	2002	31
+Hellas Verona	Udinese Calcio	1:0	1:0	14.04.2002	15:00	2001	2002	31
+Juventus	AC Milan	0:0	1:0	14.04.2002	15:00	2001	2002	31
+AC Venezia	AC Perugia	0:2	0:2	14.04.2002	15:00	2001	2002	31
+Atalanta	Torino FC	1:0	1:1	14.04.2002	15:00	2001	2002	31
+US Lecce	Chievo Verona	2:1	2:3	14.04.2002	15:00	2001	2002	31
+Parma AC	Atalanta	0:1	1:1	21.04.2002	15:00	2001	2002	32
+AC Perugia	Bologna FC	0:0	1:0	21.04.2002	15:00	2001	2002	32
+Chievo Verona	Inter	1:0	2:2	21.04.2002	15:00	2001	2002	32
+Brescia Calcio	ACF Fiorentina	1:0	3:0	21.04.2002	15:00	2001	2002	32
+Piacenza Calcio	Juventus	0:0	0:1	21.04.2002	15:00	2001	2002	32
+AC Milan	AS Roma	0:0	0:0	21.04.2002	15:00	2001	2002	32
+Torino FC	US Lecce	0:1	1:1	21.04.2002	15:00	2001	2002	32
+Udinese Calcio	AC Venezia	1:0	1:0	21.04.2002	15:00	2001	2002	32
+Lazio Roma	Hellas Verona	3:1	5:4	21.04.2002	15:00	2001	2002	32
+Bologna FC	Lazio Roma	0:0	2:0	28.04.2002	15:00	2001	2002	33
+Juventus	Brescia Calcio	1:0	5:0	28.04.2002	15:00	2001	2002	33
+Inter	Piacenza Calcio	1:1	3:1	28.04.2002	15:00	2001	2002	33
+US Lecce	Udinese Calcio	0:1	1:2	28.04.2002	15:00	2001	2002	33
+Hellas Verona	AC Milan	1:0	1:2	28.04.2002	15:00	2001	2002	33
+Atalanta	AC Perugia	1:1	2:1	28.04.2002	15:00	2001	2002	33
+AC Venezia	Torino FC	1:0	1:1	28.04.2002	15:00	2001	2002	33
+AS Roma	Chievo Verona	2:0	5:0	28.04.2002	15:00	2001	2002	33
+ACF Fiorentina	Parma AC	1:0	1:2	28.04.2002	15:00	2001	2002	33
+Chievo Verona	Atalanta	0:0	2:1	05.05.2002	15:00	2001	2002	34
+Brescia Calcio	Bologna FC	1:0	3:0	05.05.2002	15:00	2001	2002	34
+Lazio Roma	Inter	2:2	4:2	05.05.2002	15:00	2001	2002	34
+AC Perugia	ACF Fiorentina	2:0	2:0	05.05.2002	15:00	2001	2002	34
+Udinese Calcio	Juventus	0:2	0:2	05.05.2002	15:00	2001	2002	34
+Torino FC	AS Roma	0:0	0:1	05.05.2002	15:00	2001	2002	34
+AC Milan	US Lecce	2:0	3:0	05.05.2002	15:00	2001	2002	34
+Parma AC	AC Venezia	1:1	2:1	05.05.2002	15:00	2001	2002	34
+Piacenza Calcio	Hellas Verona	1:0	3:0	05.05.2002	15:00	2001	2002	34

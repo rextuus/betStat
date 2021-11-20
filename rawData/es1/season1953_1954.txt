@@ -1,0 +1,240 @@
+Valencia CF	Athletic Bilbao	3:0	3:0	13.09.1953	00:00	1953	1954	1
+Espanyol Barcelona	AtlÃ©tico Madrid	1:1	3:1	13.09.1953	00:00	1953	1954	1
+Real JaÃ©n	Sevilla FC	1:1	3:1	13.09.1953	00:00	1953	1954	1
+Sporting GijÃ³n	Real Oviedo	0:0	0:0	13.09.1953	00:00	1953	1954	1
+Celta Vigo	Racing Santander	0:2	1:2	13.09.1953	00:00	1953	1954	1
+Real Valladolid	Deportivo La CoruÃ±a	1:1	2:1	13.09.1953	00:00	1953	1954	1
+Real Madrid	CA Osasuna	1:0	2:0	13.09.1953	00:00	1953	1954	1
+Real Sociedad	FC Barcelona	0:1	0:3	13.09.1953	00:00	1953	1954	1
+Real Oviedo	Celta Vigo	0:1	0:1	20.09.1953	00:00	1953	1954	2
+FC Barcelona	Real JaÃ©n	1:1	6:2	20.09.1953	00:00	1953	1954	2
+Deportivo La CoruÃ±a	Sporting GijÃ³n	2:1	2:1	20.09.1953	00:00	1953	1954	2
+Athletic Bilbao	Real Madrid	1:2	2:3	20.09.1953	00:00	1953	1954	2
+Racing Santander	Valencia CF	1:0	3:1	20.09.1953	00:00	1953	1954	2
+CA Osasuna	Espanyol Barcelona	1:1	2:3	20.09.1953	00:00	1953	1954	2
+AtlÃ©tico Madrid	Real Sociedad	1:0	1:1	20.09.1953	00:00	1953	1954	2
+Sevilla FC	Real Valladolid	2:0	3:1	20.09.1953	00:00	1953	1954	2
+Real JaÃ©n	AtlÃ©tico Madrid	0:0	1:0	27.09.1953	00:00	1953	1954	3
+Celta Vigo	Deportivo La CoruÃ±a	3:0	3:1	27.09.1953	00:00	1953	1954	3
+Real Madrid	Racing Santander	2:0	4:2	27.09.1953	00:00	1953	1954	3
+Valencia CF	Real Oviedo	1:0	3:0	27.09.1953	00:00	1953	1954	3
+Sporting GijÃ³n	Sevilla FC	2:0	3:1	27.09.1953	00:00	1953	1954	3
+CA Osasuna	Athletic Bilbao	1:2	3:2	27.09.1953	00:00	1953	1954	3
+Real Valladolid	FC Barcelona	2:1	2:2	27.09.1953	00:00	1953	1954	3
+Espanyol Barcelona	Real Sociedad	0:1	1:1	27.09.1953	00:00	1953	1954	3
+FC Barcelona	Sporting GijÃ³n	0:0	3:1	04.10.1953	00:00	1953	1954	4
+AtlÃ©tico Madrid	Real Valladolid	0:0	1:2	04.10.1953	00:00	1953	1954	4
+Racing Santander	CA Osasuna	1:0	3:0	04.10.1953	00:00	1953	1954	4
+Deportivo La CoruÃ±a	Valencia CF	0:0	1:1	04.10.1953	00:00	1953	1954	4
+Real Oviedo	Real Madrid	0:2	0:4	04.10.1953	00:00	1953	1954	4
+Athletic Bilbao	Espanyol Barcelona	0:0	0:0	04.10.1953	00:00	1953	1954	4
+Sevilla FC	Celta Vigo	0:0	1:0	04.10.1953	00:00	1953	1954	4
+Real Sociedad	Real JaÃ©n	1:0	2:1	04.10.1953	00:00	1953	1954	4
+Valencia CF	Sevilla FC	1:1	2:3	11.10.1953	00:00	1953	1954	5
+Espanyol Barcelona	Real JaÃ©n	1:2	1:2	11.10.1953	00:00	1953	1954	5
+Real Madrid	Deportivo La CoruÃ±a	1:0	2:1	11.10.1953	00:00	1953	1954	5
+Athletic Bilbao	Racing Santander	3:0	5:1	11.10.1953	00:00	1953	1954	5
+Real Valladolid	Real Sociedad	1:0	2:0	11.10.1953	00:00	1953	1954	5
+Sporting GijÃ³n	AtlÃ©tico Madrid	2:1	4:2	11.10.1953	00:00	1953	1954	5
+Celta Vigo	FC Barcelona	0:0	0:0	11.10.1953	00:00	1953	1954	5
+CA Osasuna	Real Oviedo	1:1	1:2	11.10.1953	00:00	1953	1954	5
+Racing Santander	Espanyol Barcelona	2:0	2:1	18.10.1953	00:00	1953	1954	6
+Real JaÃ©n	Real Valladolid	2:0	4:2	18.10.1953	00:00	1953	1954	6
+Real Sociedad	Sporting GijÃ³n	0:2	1:2	18.10.1953	00:00	1953	1954	6
+Deportivo La CoruÃ±a	CA Osasuna	0:0	1:0	18.10.1953	00:00	1953	1954	6
+Real Oviedo	Athletic Bilbao	0:1	0:1	18.10.1953	00:00	1953	1954	6
+Sevilla FC	Real Madrid	2:1	2:1	18.10.1953	00:00	1953	1954	6
+AtlÃ©tico Madrid	Celta Vigo	1:0	5:0	18.10.1953	00:00	1953	1954	6
+FC Barcelona	Valencia CF	2:0	2:0	18.10.1953	00:00	1953	1954	6
+Celta Vigo	Real Sociedad	0:0	0:1	25.10.1953	00:00	1953	1954	7
+Sporting GijÃ³n	Real JaÃ©n	1:1	2:1	25.10.1953	00:00	1953	1954	7
+Athletic Bilbao	Deportivo La CoruÃ±a	1:0	3:0	25.10.1953	00:00	1953	1954	7
+Racing Santander	Real Oviedo	1:1	1:1	25.10.1953	00:00	1953	1954	7
+CA Osasuna	Sevilla FC	0:0	1:0	25.10.1953	00:00	1953	1954	7
+Valencia CF	AtlÃ©tico Madrid	1:0	4:1	25.10.1953	00:00	1953	1954	7
+Real Madrid	FC Barcelona	4:0	5:0	25.10.1953	00:00	1953	1954	7
+Espanyol Barcelona	Real Valladolid	2:1	4:1	25.10.1953	00:00	1953	1954	7
+Real JaÃ©n	Celta Vigo	1:2	3:2	01.11.1953	00:00	1953	1954	8
+Real Sociedad	Valencia CF	0:1	0:3	01.11.1953	00:00	1953	1954	8
+FC Barcelona	CA Osasuna	0:0	1:0	01.11.1953	00:00	1953	1954	8
+Deportivo La CoruÃ±a	Racing Santander	3:0	4:2	01.11.1953	00:00	1953	1954	8
+AtlÃ©tico Madrid	Real Madrid	2:2	3:4	01.11.1953	00:00	1953	1954	8
+Real Oviedo	Espanyol Barcelona	1:0	1:1	01.11.1953	00:00	1953	1954	8
+Sevilla FC	Athletic Bilbao	1:0	3:1	01.11.1953	00:00	1953	1954	8
+Real Valladolid	Sporting GijÃ³n	1:1	4:1	01.11.1953	00:00	1953	1954	8
+Real Madrid	Real Sociedad	0:1	1:1	15.11.1953	00:00	1953	1954	9
+Valencia CF	Real JaÃ©n	2:0	4:0	15.11.1953	00:00	1953	1954	9
+Real Oviedo	Deportivo La CoruÃ±a	0:0	0:1	15.11.1953	00:00	1953	1954	9
+Espanyol Barcelona	Sporting GijÃ³n	1:0	3:0	15.11.1953	00:00	1953	1954	9
+Racing Santander	Sevilla FC	1:1	2:1	15.11.1953	00:00	1953	1954	9
+CA Osasuna	AtlÃ©tico Madrid	2:1	3:1	15.11.1953	00:00	1953	1954	9
+Athletic Bilbao	FC Barcelona	2:0	2:1	15.11.1953	00:00	1953	1954	9
+Celta Vigo	Real Valladolid	1:0	2:1	15.11.1953	00:00	1953	1954	9
+Real Valladolid	Valencia CF	3:1	3:2	22.11.1953	00:00	1953	1954	10
+Sporting GijÃ³n	Celta Vigo	0:0	1:0	22.11.1953	00:00	1953	1954	10
+Real Sociedad	CA Osasuna	1:0	2:0	22.11.1953	00:00	1953	1954	10
+FC Barcelona	Racing Santander	2:0	6:0	22.11.1953	00:00	1953	1954	10
+Deportivo La CoruÃ±a	Espanyol Barcelona	1:0	1:0	22.11.1953	00:00	1953	1954	10
+AtlÃ©tico Madrid	Athletic Bilbao	2:2	2:5	22.11.1953	00:00	1953	1954	10
+Real JaÃ©n	Real Madrid	0:2	1:2	22.11.1953	00:00	1953	1954	10
+Sevilla FC	Real Oviedo	0:0	2:1	22.11.1953	00:00	1953	1954	10
+Athletic Bilbao	Real Sociedad	1:0	1:3	29.11.1953	00:00	1953	1954	11
+CA Osasuna	Real JaÃ©n	0:0	2:0	29.11.1953	00:00	1953	1954	11
+Real Madrid	Real Valladolid	0:2	1:2	29.11.1953	00:00	1953	1954	11
+Espanyol Barcelona	Celta Vigo	2:0	4:0	29.11.1953	00:00	1953	1954	11
+Deportivo La CoruÃ±a	Sevilla FC	0:0	0:1	29.11.1953	00:00	1953	1954	11
+Racing Santander	AtlÃ©tico Madrid	2:0	2:2	29.11.1953	00:00	1953	1954	11
+Real Oviedo	FC Barcelona	1:0	3:0	29.11.1953	00:00	1953	1954	11
+Valencia CF	Sporting GijÃ³n	6:0	8:0	29.11.1953	00:00	1953	1954	11
+Real JaÃ©n	Athletic Bilbao	1:1	1:3	06.12.1953	00:00	1953	1954	12
+Real Valladolid	CA Osasuna	1:0	2:1	06.12.1953	00:00	1953	1954	12
+FC Barcelona	Deportivo La CoruÃ±a	2:1	6:1	06.12.1953	00:00	1953	1954	12
+Real Sociedad	Racing Santander	0:1	1:2	06.12.1953	00:00	1953	1954	12
+Sevilla FC	Espanyol Barcelona	1:0	3:1	06.12.1953	00:00	1953	1954	12
+AtlÃ©tico Madrid	Real Oviedo	0:0	1:0	06.12.1953	00:00	1953	1954	12
+Sporting GijÃ³n	Real Madrid	0:1	1:1	06.12.1953	00:00	1953	1954	12
+Celta Vigo	Valencia CF	2:2	3:4	06.12.1953	00:00	1953	1954	12
+Real Oviedo	Real Sociedad	1:2	1:3	13.12.1953	00:00	1953	1954	13
+Racing Santander	Real JaÃ©n	2:0	3:1	13.12.1953	00:00	1953	1954	13
+Athletic Bilbao	Real Valladolid	1:1	2:1	13.12.1953	00:00	1953	1954	13
+Real Madrid	Celta Vigo	2:0	3:0	13.12.1953	00:00	1953	1954	13
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:0	1:0	13.12.1953	00:00	1953	1954	13
+Espanyol Barcelona	Valencia CF	1:1	2:1	13.12.1953	00:00	1953	1954	13
+Sevilla FC	FC Barcelona	1:0	3:1	13.12.1953	00:00	1953	1954	13
+CA Osasuna	Sporting GijÃ³n	1:1	3:2	13.12.1953	00:00	1953	1954	13
+Espanyol Barcelona	FC Barcelona	0:0	0:1	20.12.1953	00:00	1953	1954	14
+Real Sociedad	Deportivo La CoruÃ±a	3:0	4:1	20.12.1953	00:00	1953	1954	14
+Celta Vigo	CA Osasuna	3:0	5:2	20.12.1953	00:00	1953	1954	14
+Real Valladolid	Racing Santander	0:1	1:1	20.12.1953	00:00	1953	1954	14
+Real JaÃ©n	Real Oviedo	1:1	2:2	20.12.1953	00:00	1953	1954	14
+Sporting GijÃ³n	Athletic Bilbao	1:0	1:2	20.12.1953	00:00	1953	1954	14
+Valencia CF	Real Madrid	0:0	0:0	20.12.1953	00:00	1953	1954	14
+AtlÃ©tico Madrid	Sevilla FC	1:1	2:1	20.12.1953	00:00	1953	1954	14
+Deportivo La CoruÃ±a	Real JaÃ©n	3:0	6:0	27.12.1953	00:00	1953	1954	15
+Real Madrid	Espanyol Barcelona	1:1	4:3	27.12.1953	00:00	1953	1954	15
+CA Osasuna	Valencia CF	1:1	2:2	27.12.1953	00:00	1953	1954	15
+FC Barcelona	AtlÃ©tico Madrid	0:0	1:1	27.12.1953	00:00	1953	1954	15
+Sevilla FC	Real Sociedad	1:0	5:0	27.12.1953	00:00	1953	1954	15
+Athletic Bilbao	Celta Vigo	3:0	5:1	27.12.1953	00:00	1953	1954	15
+Racing Santander	Sporting GijÃ³n	1:1	3:1	27.12.1953	00:00	1953	1954	15
+Real Oviedo	Real Valladolid	2:0	3:1	27.12.1953	00:00	1953	1954	15
+AtlÃ©tico Madrid	Espanyol Barcelona	1:0	2:2	10.01.1954	00:00	1953	1954	16
+Athletic Bilbao	Valencia CF	1:1	1:2	10.01.1954	00:00	1953	1954	16
+FC Barcelona	Real Sociedad	3:0	6:0	10.01.1954	00:00	1953	1954	16
+Racing Santander	Celta Vigo	0:0	1:0	10.01.1954	00:00	1953	1954	16
+Real Oviedo	Sporting GijÃ³n	0:0	1:0	10.01.1954	00:00	1953	1954	16
+Deportivo La CoruÃ±a	Real Valladolid	0:0	1:1	10.01.1954	00:00	1953	1954	16
+Sevilla FC	Real JaÃ©n	2:1	5:2	10.01.1954	00:00	1953	1954	16
+CA Osasuna	Real Madrid	0:1	1:1	10.01.1954	00:00	1953	1954	16
+Celta Vigo	Real Oviedo	2:1	2:1	17.01.1954	00:00	1953	1954	17
+Espanyol Barcelona	CA Osasuna	0:0	1:0	17.01.1954	00:00	1953	1954	17
+Valencia CF	Racing Santander	2:1	4:1	17.01.1954	00:00	1953	1954	17
+Real JaÃ©n	FC Barcelona	1:2	2:2	17.01.1954	00:00	1953	1954	17
+Real Sociedad	AtlÃ©tico Madrid	0:0	1:1	17.01.1954	00:00	1953	1954	17
+Real Madrid	Athletic Bilbao	1:1	2:3	17.01.1954	00:00	1953	1954	17
+Real Valladolid	Sevilla FC	0:0	1:0	17.01.1954	00:00	1953	1954	17
+Sporting GijÃ³n	Deportivo La CoruÃ±a	1:2	2:3	17.01.1954	00:00	1953	1954	17
+Real Oviedo	Valencia CF	1:1	2:1	24.01.1954	00:00	1953	1954	18
+AtlÃ©tico Madrid	Real JaÃ©n	2:0	6:1	24.01.1954	00:00	1953	1954	18
+Athletic Bilbao	CA Osasuna	0:1	0:1	24.01.1954	00:00	1953	1954	18
+FC Barcelona	Real Valladolid	1:0	4:1	24.01.1954	00:00	1953	1954	18
+Deportivo La CoruÃ±a	Celta Vigo	0:0	0:0	24.01.1954	00:00	1953	1954	18
+Real Sociedad	Espanyol Barcelona	1:0	2:0	24.01.1954	00:00	1953	1954	18
+Racing Santander	Real Madrid	0:0	1:1	24.01.1954	00:00	1953	1954	18
+Sevilla FC	Sporting GijÃ³n	2:2	6:3	24.01.1954	00:00	1953	1954	18
+Real JaÃ©n	Real Sociedad	0:0	1:1	31.01.1954	00:00	1953	1954	19
+Real Madrid	Real Oviedo	0:0	1:0	31.01.1954	00:00	1953	1954	19
+CA Osasuna	Racing Santander	2:1	2:1	31.01.1954	00:00	1953	1954	19
+Real Valladolid	AtlÃ©tico Madrid	1:2	1:3	31.01.1954	00:00	1953	1954	19
+Sporting GijÃ³n	FC Barcelona	0:1	0:1	31.01.1954	00:00	1953	1954	19
+Espanyol Barcelona	Athletic Bilbao	0:0	0:0	31.01.1954	00:00	1953	1954	19
+Celta Vigo	Sevilla FC	0:0	2:0	31.01.1954	00:00	1953	1954	19
+Valencia CF	Deportivo La CoruÃ±a	1:0	2:0	31.01.1954	00:00	1953	1954	19
+Real JaÃ©n	Espanyol Barcelona	1:0	3:0	07.02.1954	00:00	1953	1954	20
+Real Sociedad	Real Valladolid	1:0	1:0	07.02.1954	00:00	1953	1954	20
+AtlÃ©tico Madrid	Sporting GijÃ³n	1:1	4:1	07.02.1954	00:00	1953	1954	20
+Sevilla FC	Valencia CF	1:1	1:1	07.02.1954	00:00	1953	1954	20
+Racing Santander	Athletic Bilbao	0:1	1:1	07.02.1954	00:00	1953	1954	20
+Deportivo La CoruÃ±a	Real Madrid	2:1	2:2	07.02.1954	00:00	1953	1954	20
+FC Barcelona	Celta Vigo	2:1	4:2	07.02.1954	00:00	1953	1954	20
+Real Oviedo	CA Osasuna	2:0	3:0	09.02.1954	00:00	1953	1954	20
+Real Madrid	Sevilla FC	1:0	1:0	14.02.1954	00:00	1953	1954	21
+CA Osasuna	Deportivo La CoruÃ±a	2:2	3:2	14.02.1954	00:00	1953	1954	21
+Espanyol Barcelona	Racing Santander	0:0	0:0	14.02.1954	00:00	1953	1954	21
+Real Valladolid	Real JaÃ©n	2:0	3:0	14.02.1954	00:00	1953	1954	21
+Celta Vigo	AtlÃ©tico Madrid	0:0	1:0	14.02.1954	00:00	1953	1954	21
+Valencia CF	FC Barcelona	0:0	1:0	14.02.1954	00:00	1953	1954	21
+Athletic Bilbao	Real Oviedo	3:0	4:0	14.02.1954	00:00	1953	1954	21
+Sporting GijÃ³n	Real Sociedad	0:1	0:1	14.02.1954	00:00	1953	1954	21
+AtlÃ©tico Madrid	Valencia CF	1:0	3:0	21.02.1954	00:00	1953	1954	22
+Sevilla FC	CA Osasuna	0:0	2:1	21.02.1954	00:00	1953	1954	22
+Real Oviedo	Racing Santander	2:0	2:1	21.02.1954	00:00	1953	1954	22
+Real Sociedad	Celta Vigo	1:2	4:4	21.02.1954	00:00	1953	1954	22
+Real Valladolid	Espanyol Barcelona	0:0	0:2	21.02.1954	00:00	1953	1954	22
+Deportivo La CoruÃ±a	Athletic Bilbao	2:0	2:0	21.02.1954	00:00	1953	1954	22
+FC Barcelona	Real Madrid	1:1	5:1	21.02.1954	00:00	1953	1954	22
+Real JaÃ©n	Sporting GijÃ³n	2:0	6:1	21.02.1954	00:00	1953	1954	22
+Espanyol Barcelona	Real Oviedo	2:0	4:0	28.02.1954	00:00	1953	1954	23
+Celta Vigo	Real JaÃ©n	0:0	0:0	28.02.1954	00:00	1953	1954	23
+Racing Santander	Deportivo La CoruÃ±a	0:0	0:0	28.02.1954	00:00	1953	1954	23
+Valencia CF	Real Sociedad	2:2	4:3	28.02.1954	00:00	1953	1954	23
+Athletic Bilbao	Sevilla FC	1:1	2:2	28.02.1954	00:00	1953	1954	23
+Real Madrid	AtlÃ©tico Madrid	1:1	2:1	28.02.1954	00:00	1953	1954	23
+CA Osasuna	FC Barcelona	0:0	1:0	28.02.1954	00:00	1953	1954	23
+Sporting GijÃ³n	Real Valladolid	1:1	3:1	28.02.1954	00:00	1953	1954	23
+Real JaÃ©n	Valencia CF	1:0	3:1	07.03.1954	00:00	1953	1954	24
+AtlÃ©tico Madrid	CA Osasuna	1:1	4:1	07.03.1954	00:00	1953	1954	24
+Sevilla FC	Racing Santander	1:1	2:1	07.03.1954	00:00	1953	1954	24
+Real Valladolid	Celta Vigo	0:1	0:3	07.03.1954	00:00	1953	1954	24
+Sporting GijÃ³n	Espanyol Barcelona	0:0	0:1	07.03.1954	00:00	1953	1954	24
+FC Barcelona	Athletic Bilbao	1:0	2:0	07.03.1954	00:00	1953	1954	24
+Real Sociedad	Real Madrid	1:4	3:6	07.03.1954	00:00	1953	1954	24
+Deportivo La CoruÃ±a	Real Oviedo	2:0	2:1	07.03.1954	00:00	1953	1954	24
+CA Osasuna	Real Sociedad	1:0	2:1	21.03.1954	00:00	1953	1954	25
+Celta Vigo	Sporting GijÃ³n	1:1	5:2	21.03.1954	00:00	1953	1954	25
+Real Madrid	Real JaÃ©n	5:0	6:0	21.03.1954	00:00	1953	1954	25
+Espanyol Barcelona	Deportivo La CoruÃ±a	1:0	2:0	21.03.1954	00:00	1953	1954	25
+Real Oviedo	Sevilla FC	1:0	3:1	21.03.1954	00:00	1953	1954	25
+Athletic Bilbao	AtlÃ©tico Madrid	0:0	1:1	21.03.1954	00:00	1953	1954	25
+Racing Santander	FC Barcelona	1:3	4:3	21.03.1954	00:00	1953	1954	25
+Valencia CF	Real Valladolid	0:1	3:3	21.03.1954	00:00	1953	1954	25
+Sporting GijÃ³n	Valencia CF	1:1	5:2	28.03.1954	00:00	1953	1954	26
+Real JaÃ©n	CA Osasuna	4:2	5:3	28.03.1954	00:00	1953	1954	26
+Sevilla FC	Deportivo La CoruÃ±a	0:1	1:2	28.03.1954	00:00	1953	1954	26
+FC Barcelona	Real Oviedo	7:0	9:0	28.03.1954	00:00	1953	1954	26
+Celta Vigo	Espanyol Barcelona	1:0	1:0	28.03.1954	00:00	1953	1954	26
+Real Sociedad	Athletic Bilbao	1:0	1:1	28.03.1954	00:00	1953	1954	26
+Real Valladolid	Real Madrid	1:3	4:3	28.03.1954	00:00	1953	1954	26
+AtlÃ©tico Madrid	Racing Santander	0:1	4:1	28.03.1954	00:00	1953	1954	26
+Real Oviedo	AtlÃ©tico Madrid	0:0	0:0	04.04.1954	00:00	1953	1954	27
+Athletic Bilbao	Real JaÃ©n	0:0	0:0	04.04.1954	00:00	1953	1954	27
+CA Osasuna	Real Valladolid	2:0	4:0	04.04.1954	00:00	1953	1954	27
+Real Madrid	Sporting GijÃ³n	2:0	4:0	04.04.1954	00:00	1953	1954	27
+Espanyol Barcelona	Sevilla FC	2:2	3:2	04.04.1954	00:00	1953	1954	27
+Valencia CF	Celta Vigo	2:0	5:2	04.04.1954	00:00	1953	1954	27
+Deportivo La CoruÃ±a	FC Barcelona	0:0	1:0	04.04.1954	00:00	1953	1954	27
+Racing Santander	Real Sociedad	4:2	4:2	04.04.1954	00:00	1953	1954	27
+FC Barcelona	Sevilla FC	1:0	4:1	11.04.1954	00:00	1953	1954	28
+Sporting GijÃ³n	CA Osasuna	1:2	3:4	11.04.1954	00:00	1953	1954	28
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	3:1	3:1	11.04.1954	00:00	1953	1954	28
+Real Sociedad	Real Oviedo	1:0	1:0	11.04.1954	00:00	1953	1954	28
+Valencia CF	Espanyol Barcelona	2:1	4:2	11.04.1954	00:00	1953	1954	28
+Real Valladolid	Athletic Bilbao	2:0	2:2	11.04.1954	00:00	1953	1954	28
+Celta Vigo	Real Madrid	1:0	1:0	11.04.1954	00:00	1953	1954	28
+Real JaÃ©n	Racing Santander	3:0	4:2	11.04.1954	00:00	1953	1954	28
+Real Madrid	Valencia CF	2:0	4:0	18.04.1954	00:00	1953	1954	29
+Racing Santander	Real Valladolid	0:1	1:3	18.04.1954	00:00	1953	1954	29
+Real Oviedo	Real JaÃ©n	2:1	2:2	18.04.1954	00:00	1953	1954	29
+Athletic Bilbao	Sporting GijÃ³n	2:1	3:1	18.04.1954	00:00	1953	1954	29
+CA Osasuna	Celta Vigo	1:1	2:2	18.04.1954	00:00	1953	1954	29
+Sevilla FC	AtlÃ©tico Madrid	0:0	2:1	18.04.1954	00:00	1953	1954	29
+FC Barcelona	Espanyol Barcelona	1:1	1:4	18.04.1954	00:00	1953	1954	29
+Deportivo La CoruÃ±a	Real Sociedad	1:0	3:0	18.04.1954	00:00	1953	1954	29
+Valencia CF	CA Osasuna	0:0	1:1	25.04.1954	00:00	1953	1954	30
+Espanyol Barcelona	Real Madrid	1:1	2:1	25.04.1954	00:00	1953	1954	30
+AtlÃ©tico Madrid	FC Barcelona	1:0	1:0	25.04.1954	00:00	1953	1954	30
+Celta Vigo	Athletic Bilbao	2:1	4:2	25.04.1954	00:00	1953	1954	30
+Real Sociedad	Sevilla FC	1:2	3:2	25.04.1954	00:00	1953	1954	30
+Real Valladolid	Real Oviedo	1:1	3:2	25.04.1954	00:00	1953	1954	30
+Sporting GijÃ³n	Racing Santander	2:1	3:5	25.04.1954	00:00	1953	1954	30
+Real JaÃ©n	Deportivo La CoruÃ±a	1:0	4:0	25.04.1954	00:00	1953	1954	30

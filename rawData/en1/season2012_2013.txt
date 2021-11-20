@@ -1,0 +1,380 @@
+Arsenal FC	Sunderland AFC	0:0	0:0	18.08.2012	16:00	2012	2013	1
+Fulham FC	Norwich City	2:0	5:0	18.08.2012	16:00	2012	2013	1
+Queens Park Rangers	Swansea City	0:1	0:5	18.08.2012	16:00	2012	2013	1
+Reading FC	Stoke City	0:1	1:1	18.08.2012	16:00	2012	2013	1
+West Bromwich Albion	Liverpool FC	1:0	3:0	18.08.2012	16:00	2012	2013	1
+West Ham United	Aston Villa	1:0	1:0	18.08.2012	16:00	2012	2013	1
+Newcastle United	Tottenham Hotspur	0:0	2:1	18.08.2012	18:30	2012	2013	1
+Wigan Athletic	Chelsea FC	0:2	0:2	19.08.2012	14:30	2012	2013	1
+Manchester City	Southampton FC	1:0	3:2	19.08.2012	17:00	2012	2013	1
+Everton FC	Manchester United	0:0	1:0	20.08.2012	21:00	2012	2013	1
+Swansea City	West Ham United	2:0	3:0	25.08.2012	13:45	2012	2013	2
+Aston Villa	Everton FC	0:3	1:3	25.08.2012	16:00	2012	2013	2
+Manchester United	Fulham FC	3:1	3:2	25.08.2012	16:00	2012	2013	2
+Norwich City	Queens Park Rangers	1:1	1:1	25.08.2012	16:00	2012	2013	2
+Southampton FC	Wigan Athletic	0:0	0:2	25.08.2012	16:00	2012	2013	2
+Tottenham Hotspur	West Bromwich Albion	0:0	1:1	25.08.2012	16:00	2012	2013	2
+Chelsea FC	Newcastle United	2:0	2:0	25.08.2012	18:30	2012	2013	2
+Stoke City	Arsenal FC	0:0	0:0	26.08.2012	14:30	2012	2013	2
+Liverpool FC	Manchester City	1:0	2:2	26.08.2012	17:00	2012	2013	2
+Sunderland AFC	Reading FC	2:0	3:0	11.12.2012	20:45	2012	2013	2
+Chelsea FC	Reading FC	1:2	4:2	22.08.2012	20:45	2012	2013	3
+West Ham United	Fulham FC	3:0	3:0	01.09.2012	13:45	2012	2013	3
+Swansea City	Sunderland AFC	1:2	2:2	01.09.2012	16:00	2012	2013	3
+Tottenham Hotspur	Norwich City	0:0	1:1	01.09.2012	16:00	2012	2013	3
+West Bromwich Albion	Everton FC	0:0	2:0	01.09.2012	16:00	2012	2013	3
+Wigan Athletic	Stoke City	1:1	2:2	01.09.2012	16:00	2012	2013	3
+Manchester City	Queens Park Rangers	1:0	3:1	01.09.2012	18:30	2012	2013	3
+Liverpool FC	Arsenal FC	0:1	0:2	02.09.2012	14:30	2012	2013	3
+Newcastle United	Aston Villa	0:1	1:1	02.09.2012	17:00	2012	2013	3
+Southampton FC	Manchester United	1:1	2:3	02.09.2012	17:00	2012	2013	3
+Norwich City	West Ham United	0:0	0:0	15.09.2012	13:45	2012	2013	4
+Arsenal FC	Southampton FC	4:1	6:1	15.09.2012	16:00	2012	2013	4
+Aston Villa	Swansea City	1:0	2:0	15.09.2012	16:00	2012	2013	4
+Fulham FC	West Bromwich Albion	2:0	3:0	15.09.2012	16:00	2012	2013	4
+Manchester United	Wigan Athletic	0:0	4:0	15.09.2012	16:00	2012	2013	4
+Queens Park Rangers	Chelsea FC	0:0	0:0	15.09.2012	16:00	2012	2013	4
+Stoke City	Manchester City	1:1	1:1	15.09.2012	16:00	2012	2013	4
+Sunderland AFC	Liverpool FC	1:0	1:1	15.09.2012	18:30	2012	2013	4
+Reading FC	Tottenham Hotspur	0:1	1:3	16.09.2012	17:00	2012	2013	4
+Everton FC	Newcastle United	1:0	2:2	17.09.2012	21:00	2012	2013	4
+Swansea City	Everton FC	0:2	0:3	22.09.2012	13:45	2012	2013	5
+Chelsea FC	Stoke City	0:0	1:0	22.09.2012	16:00	2012	2013	5
+Southampton FC	Aston Villa	0:1	4:1	22.09.2012	16:00	2012	2013	5
+West Bromwich Albion	Reading FC	0:0	1:0	22.09.2012	16:00	2012	2013	5
+West Ham United	Sunderland AFC	0:1	1:1	22.09.2012	16:00	2012	2013	5
+Wigan Athletic	Fulham FC	0:1	1:2	22.09.2012	16:00	2012	2013	5
+Liverpool FC	Manchester United	0:0	1:2	23.09.2012	14:30	2012	2013	5
+Newcastle United	Norwich City	1:0	1:0	23.09.2012	16:00	2012	2013	5
+Manchester City	Arsenal FC	1:0	1:1	23.09.2012	17:00	2012	2013	5
+Tottenham Hotspur	Queens Park Rangers	0:1	2:1	23.09.2012	17:00	2012	2013	5
+Arsenal FC	Chelsea FC	1:1	1:2	29.09.2012	13:45	2012	2013	6
+Everton FC	Southampton FC	3:1	3:1	29.09.2012	16:00	2012	2013	6
+Fulham FC	Manchester City	1:1	1:2	29.09.2012	16:00	2012	2013	6
+Norwich City	Liverpool FC	0:2	2:5	29.09.2012	16:00	2012	2013	6
+Reading FC	Newcastle United	0:0	2:2	29.09.2012	16:00	2012	2013	6
+Stoke City	Swansea City	2:0	2:0	29.09.2012	16:00	2012	2013	6
+Sunderland AFC	Wigan Athletic	0:0	1:0	29.09.2012	16:00	2012	2013	6
+Manchester United	Tottenham Hotspur	0:2	2:3	29.09.2012	18:30	2012	2013	6
+Aston Villa	West Bromwich Albion	0:0	1:1	30.09.2012	17:00	2012	2013	6
+Queens Park Rangers	West Ham United	0:2	1:2	01.10.2012	21:00	2012	2013	6
+Manchester City	Sunderland AFC	1:0	3:0	06.10.2012	13:45	2012	2013	7
+Chelsea FC	Norwich City	3:1	4:1	06.10.2012	16:00	2012	2013	7
+Swansea City	Reading FC	0:2	2:2	06.10.2012	16:00	2012	2013	7
+West Bromwich Albion	Queens Park Rangers	2:1	3:2	06.10.2012	16:00	2012	2013	7
+Wigan Athletic	Everton FC	2:1	2:2	06.10.2012	16:00	2012	2013	7
+West Ham United	Arsenal FC	1:1	1:3	06.10.2012	18:30	2012	2013	7
+Southampton FC	Fulham FC	1:0	2:2	07.10.2012	14:30	2012	2013	7
+Liverpool FC	Stoke City	0:0	0:0	07.10.2012	16:00	2012	2013	7
+Tottenham Hotspur	Aston Villa	0:0	2:0	07.10.2012	16:00	2012	2013	7
+Newcastle United	Manchester United	0:2	0:3	07.10.2012	17:00	2012	2013	7
+Tottenham Hotspur	Chelsea FC	0:1	2:4	20.10.2012	13:45	2012	2013	8
+Fulham FC	Aston Villa	0:0	1:0	20.10.2012	16:00	2012	2013	8
+Liverpool FC	Reading FC	1:0	1:0	20.10.2012	16:00	2012	2013	8
+Manchester United	Stoke City	2:1	4:2	20.10.2012	16:00	2012	2013	8
+Swansea City	Wigan Athletic	0:0	2:1	20.10.2012	16:00	2012	2013	8
+West Bromwich Albion	Manchester City	0:0	1:2	20.10.2012	16:00	2012	2013	8
+West Ham United	Southampton FC	0:0	4:1	20.10.2012	16:00	2012	2013	8
+Norwich City	Arsenal FC	1:0	1:0	20.10.2012	18:30	2012	2013	8
+Sunderland AFC	Newcastle United	0:1	1:1	21.10.2012	14:30	2012	2013	8
+Queens Park Rangers	Everton FC	1:1	1:1	21.10.2012	17:00	2012	2013	8
+Aston Villa	Norwich City	1:0	1:1	27.10.2012	13:45	2012	2013	9
+Arsenal FC	Queens Park Rangers	0:0	1:0	27.10.2012	16:00	2012	2013	9
+Reading FC	Fulham FC	1:0	3:3	27.10.2012	16:00	2012	2013	9
+Stoke City	Sunderland AFC	0:0	0:0	27.10.2012	16:00	2012	2013	9
+Wigan Athletic	West Ham United	1:0	2:1	27.10.2012	16:00	2012	2013	9
+Manchester City	Swansea City	0:0	1:0	27.10.2012	18:30	2012	2013	9
+Everton FC	Liverpool FC	2:2	2:2	28.10.2012	14:30	2012	2013	9
+Newcastle United	West Bromwich Albion	1:0	2:1	28.10.2012	16:00	2012	2013	9
+Southampton FC	Tottenham Hotspur	0:2	1:2	28.10.2012	16:00	2012	2013	9
+Chelsea FC	Manchester United	1:2	2:3	28.10.2012	17:00	2012	2013	9
+Manchester United	Arsenal FC	1:0	2:1	03.11.2012	13:45	2012	2013	10
+Fulham FC	Everton FC	1:0	2:2	03.11.2012	16:00	2012	2013	10
+Norwich City	Stoke City	1:0	1:0	03.11.2012	16:00	2012	2013	10
+Sunderland AFC	Aston Villa	0:0	0:1	03.11.2012	16:00	2012	2013	10
+Swansea City	Chelsea FC	0:0	1:1	03.11.2012	16:00	2012	2013	10
+Tottenham Hotspur	Wigan Athletic	0:0	0:1	03.11.2012	16:00	2012	2013	10
+West Ham United	Manchester City	0:0	0:0	03.11.2012	18:30	2012	2013	10
+Queens Park Rangers	Reading FC	0:1	1:1	04.11.2012	14:30	2012	2013	10
+Liverpool FC	Newcastle United	0:1	1:1	04.11.2012	17:00	2012	2013	10
+West Bromwich Albion	Southampton FC	1:0	2:0	05.11.2012	21:00	2012	2013	10
+Arsenal FC	Fulham FC	2:2	3:3	10.11.2012	16:00	2012	2013	11
+Everton FC	Sunderland AFC	0:1	2:1	10.11.2012	16:00	2012	2013	11
+Reading FC	Norwich City	0:0	0:0	10.11.2012	16:00	2012	2013	11
+Southampton FC	Swansea City	0:0	1:1	10.11.2012	16:00	2012	2013	11
+Stoke City	Queens Park Rangers	0:0	1:0	10.11.2012	16:00	2012	2013	11
+Wigan Athletic	West Bromwich Albion	1:2	1:2	10.11.2012	16:00	2012	2013	11
+Aston Villa	Manchester United	1:0	2:3	10.11.2012	18:30	2012	2013	11
+Manchester City	Tottenham Hotspur	0:1	2:1	11.11.2012	14:30	2012	2013	11
+Newcastle United	West Ham United	0:1	0:1	11.11.2012	16:00	2012	2013	11
+Chelsea FC	Liverpool FC	1:0	1:1	11.11.2012	17:00	2012	2013	11
+Arsenal FC	Tottenham Hotspur	3:1	5:2	17.11.2012	13:45	2012	2013	12
+Liverpool FC	Wigan Athletic	0:0	3:0	17.11.2012	16:00	2012	2013	12
+Manchester City	Aston Villa	1:0	5:0	17.11.2012	16:00	2012	2013	12
+Newcastle United	Swansea City	0:0	1:2	17.11.2012	16:00	2012	2013	12
+Queens Park Rangers	Southampton FC	0:2	1:3	17.11.2012	16:00	2012	2013	12
+Reading FC	Everton FC	0:1	2:1	17.11.2012	16:00	2012	2013	12
+West Bromwich Albion	Chelsea FC	1:1	2:1	17.11.2012	16:00	2012	2013	12
+Norwich City	Manchester United	0:0	1:0	17.11.2012	18:30	2012	2013	12
+Fulham FC	Sunderland AFC	0:0	1:3	18.11.2012	17:00	2012	2013	12
+West Ham United	Stoke City	0:1	1:1	19.11.2012	21:00	2012	2013	12
+Sunderland AFC	West Bromwich Albion	0:2	2:4	24.11.2012	13:45	2012	2013	13
+Everton FC	Norwich City	1:0	1:1	24.11.2012	16:00	2012	2013	13
+Manchester United	Queens Park Rangers	0:0	3:1	24.11.2012	16:00	2012	2013	13
+Stoke City	Fulham FC	1:0	1:0	24.11.2012	16:00	2012	2013	13
+Wigan Athletic	Reading FC	0:1	3:2	24.11.2012	16:00	2012	2013	13
+Aston Villa	Arsenal FC	0:0	0:0	24.11.2012	18:30	2012	2013	13
+Swansea City	Liverpool FC	0:0	0:0	25.11.2012	14:30	2012	2013	13
+Southampton FC	Newcastle United	1:0	2:0	25.11.2012	16:00	2012	2013	13
+Chelsea FC	Manchester City	0:0	0:0	25.11.2012	17:00	2012	2013	13
+Tottenham Hotspur	West Ham United	1:0	3:1	25.11.2012	17:00	2012	2013	13
+Sunderland AFC	Queens Park Rangers	0:0	0:0	27.11.2012	20:45	2012	2013	14
+Aston Villa	Reading FC	0:0	1:0	27.11.2012	21:00	2012	2013	14
+Southampton FC	Norwich City	1:1	1:1	28.11.2012	20:45	2012	2013	14
+Stoke City	Newcastle United	0:0	2:1	28.11.2012	20:45	2012	2013	14
+Swansea City	West Bromwich Albion	3:1	3:1	28.11.2012	20:45	2012	2013	14
+Tottenham Hotspur	Liverpool FC	2:0	2:1	28.11.2012	20:45	2012	2013	14
+Chelsea FC	Fulham FC	0:0	0:0	28.11.2012	20:45	2012	2013	14
+Everton FC	Arsenal FC	1:1	1:1	28.11.2012	20:45	2012	2013	14
+Manchester United	West Ham United	1:0	1:0	28.11.2012	21:00	2012	2013	14
+Wigan Athletic	Manchester City	0:0	0:2	28.11.2012	21:00	2012	2013	14
+West Ham United	Chelsea FC	0:1	3:1	01.12.2012	13:45	2012	2013	15
+Arsenal FC	Swansea City	0:0	0:2	01.12.2012	16:00	2012	2013	15
+Fulham FC	Tottenham Hotspur	0:0	0:3	01.12.2012	16:00	2012	2013	15
+Liverpool FC	Southampton FC	1:0	1:0	01.12.2012	16:00	2012	2013	15
+Manchester City	Everton FC	1:1	1:1	01.12.2012	16:00	2012	2013	15
+Queens Park Rangers	Aston Villa	1:1	1:1	01.12.2012	16:00	2012	2013	15
+West Bromwich Albion	Stoke City	0:0	0:1	01.12.2012	16:00	2012	2013	15
+Reading FC	Manchester United	3:4	3:4	01.12.2012	18:30	2012	2013	15
+Norwich City	Sunderland AFC	2:1	2:1	02.12.2012	17:00	2012	2013	15
+Newcastle United	Wigan Athletic	2:0	3:0	03.12.2012	21:00	2012	2013	15
+Arsenal FC	West Bromwich Albion	1:0	2:0	08.12.2012	16:00	2012	2013	16
+Aston Villa	Stoke City	0:0	0:0	08.12.2012	16:00	2012	2013	16
+Southampton FC	Reading FC	0:0	1:0	08.12.2012	16:00	2012	2013	16
+Sunderland AFC	Chelsea FC	0:2	1:3	08.12.2012	16:00	2012	2013	16
+Swansea City	Norwich City	0:3	3:4	08.12.2012	16:00	2012	2013	16
+Wigan Athletic	Queens Park Rangers	1:1	2:2	08.12.2012	16:00	2012	2013	16
+Manchester City	Manchester United	0:2	2:3	09.12.2012	14:30	2012	2013	16
+Everton FC	Tottenham Hotspur	0:0	2:1	09.12.2012	16:00	2012	2013	16
+West Ham United	Liverpool FC	2:1	2:3	09.12.2012	17:00	2012	2013	16
+Fulham FC	Newcastle United	1:0	2:1	10.12.2012	21:00	2012	2013	16
+Newcastle United	Manchester City	0:2	1:3	15.12.2012	13:45	2012	2013	17
+Liverpool FC	Aston Villa	0:2	1:3	15.12.2012	16:00	2012	2013	17
+Manchester United	Sunderland AFC	2:0	3:1	15.12.2012	16:00	2012	2013	17
+Norwich City	Wigan Athletic	1:0	2:1	15.12.2012	16:00	2012	2013	17
+Queens Park Rangers	Fulham FC	0:0	2:1	15.12.2012	16:00	2012	2013	17
+Stoke City	Everton FC	0:1	1:1	15.12.2012	16:00	2012	2013	17
+Tottenham Hotspur	Swansea City	0:0	1:0	16.12.2012	14:30	2012	2013	17
+West Bromwich Albion	West Ham United	0:0	0:0	16.12.2012	17:00	2012	2013	17
+Reading FC	Arsenal FC	0:3	2:5	17.12.2012	21:00	2012	2013	17
+Chelsea FC	Southampton FC	2:0	2:2	16.01.2013	20:45	2012	2013	17
+Wigan Athletic	Arsenal FC	0:0	0:1	22.12.2012	13:45	2012	2013	18
+Manchester City	Reading FC	0:0	1:0	22.12.2012	16:00	2012	2013	18
+Newcastle United	Queens Park Rangers	0:0	1:0	22.12.2012	16:00	2012	2013	18
+Southampton FC	Sunderland AFC	0:1	0:1	22.12.2012	16:00	2012	2013	18
+Tottenham Hotspur	Stoke City	0:0	0:0	22.12.2012	16:00	2012	2013	18
+West Bromwich Albion	Norwich City	1:1	2:1	22.12.2012	16:00	2012	2013	18
+West Ham United	Everton FC	1:0	1:2	22.12.2012	16:00	2012	2013	18
+Liverpool FC	Fulham FC	2:0	4:0	22.12.2012	18:30	2012	2013	18
+Swansea City	Manchester United	1:1	1:1	23.12.2012	14:30	2012	2013	18
+Chelsea FC	Aston Villa	3:0	8:0	23.12.2012	17:00	2012	2013	18
+Everton FC	Wigan Athletic	0:0	2:1	26.12.2012	16:00	2012	2013	19
+Fulham FC	Southampton FC	1:0	1:1	26.12.2012	16:00	2012	2013	19
+Manchester United	Newcastle United	1:2	4:3	26.12.2012	16:00	2012	2013	19
+Norwich City	Chelsea FC	0:1	0:1	26.12.2012	16:00	2012	2013	19
+Queens Park Rangers	West Bromwich Albion	0:1	1:2	26.12.2012	16:00	2012	2013	19
+Reading FC	Swansea City	0:0	0:0	26.12.2012	16:00	2012	2013	19
+Sunderland AFC	Manchester City	0:0	1:0	26.12.2012	16:00	2012	2013	19
+Aston Villa	Tottenham Hotspur	0:0	0:4	26.12.2012	18:30	2012	2013	19
+Stoke City	Liverpool FC	2:1	3:1	26.12.2012	20:45	2012	2013	19
+Arsenal FC	West Ham United	1:1	5:1	23.01.2013	20:45	2012	2013	19
+Sunderland AFC	Tottenham Hotspur	1:0	1:2	29.12.2012	13:45	2012	2013	20
+Aston Villa	Wigan Athletic	0:1	0:3	29.12.2012	16:00	2012	2013	20
+Fulham FC	Swansea City	0:1	1:2	29.12.2012	16:00	2012	2013	20
+Manchester United	West Bromwich Albion	1:0	2:0	29.12.2012	16:00	2012	2013	20
+Norwich City	Manchester City	1:2	3:4	29.12.2012	16:00	2012	2013	20
+Reading FC	West Ham United	1:0	1:0	29.12.2012	16:00	2012	2013	20
+Stoke City	Southampton FC	1:3	3:3	29.12.2012	16:00	2012	2013	20
+Arsenal FC	Newcastle United	1:1	7:3	29.12.2012	18:30	2012	2013	20
+Everton FC	Chelsea FC	1:1	1:2	30.12.2012	14:30	2012	2013	20
+Queens Park Rangers	Liverpool FC	0:3	0:3	30.12.2012	17:00	2012	2013	20
+West Bromwich Albion	Fulham FC	0:1	1:2	01.01.2013	13:45	2012	2013	21
+Manchester City	Stoke City	1:0	3:0	01.01.2013	16:00	2012	2013	21
+Swansea City	Aston Villa	1:1	2:2	01.01.2013	16:00	2012	2013	21
+Tottenham Hotspur	Reading FC	1:1	3:1	01.01.2013	16:00	2012	2013	21
+West Ham United	Norwich City	2:0	2:1	01.01.2013	16:00	2012	2013	21
+Wigan Athletic	Manchester United	0:2	0:4	01.01.2013	16:00	2012	2013	21
+Southampton FC	Arsenal FC	1:1	1:1	01.01.2013	18:30	2012	2013	21
+Chelsea FC	Queens Park Rangers	0:0	0:1	02.01.2013	20:45	2012	2013	21
+Liverpool FC	Sunderland AFC	2:0	3:0	02.01.2013	20:45	2012	2013	21
+Newcastle United	Everton FC	1:1	1:2	02.01.2013	21:00	2012	2013	21
+Queens Park Rangers	Tottenham Hotspur	0:0	0:0	12.01.2013	13:45	2012	2013	22
+Aston Villa	Southampton FC	0:1	0:1	12.01.2013	16:00	2012	2013	22
+Everton FC	Swansea City	0:0	0:0	12.01.2013	16:00	2012	2013	22
+Fulham FC	Wigan Athletic	1:0	1:1	12.01.2013	16:00	2012	2013	22
+Norwich City	Newcastle United	0:0	0:0	12.01.2013	16:00	2012	2013	22
+Reading FC	West Bromwich Albion	0:1	3:2	12.01.2013	16:00	2012	2013	22
+Stoke City	Chelsea FC	0:1	0:4	12.01.2013	16:00	2012	2013	22
+Sunderland AFC	West Ham United	1:0	3:0	12.01.2013	16:00	2012	2013	22
+Manchester United	Liverpool FC	1:0	2:1	13.01.2013	14:30	2012	2013	22
+Arsenal FC	Manchester City	0:2	0:2	13.01.2013	17:00	2012	2013	22
+Liverpool FC	Norwich City	2:0	5:0	19.01.2013	16:00	2012	2013	23
+Manchester City	Fulham FC	1:0	2:0	19.01.2013	16:00	2012	2013	23
+Newcastle United	Reading FC	1:0	1:2	19.01.2013	16:00	2012	2013	23
+Swansea City	Stoke City	0:0	3:1	19.01.2013	16:00	2012	2013	23
+West Ham United	Queens Park Rangers	0:1	1:1	19.01.2013	16:00	2012	2013	23
+Wigan Athletic	Sunderland AFC	1:3	2:3	19.01.2013	16:00	2012	2013	23
+West Bromwich Albion	Aston Villa	0:2	2:2	19.01.2013	18:30	2012	2013	23
+Chelsea FC	Arsenal FC	2:0	2:1	20.01.2013	14:30	2012	2013	23
+Tottenham Hotspur	Manchester United	0:1	1:1	20.01.2013	17:00	2012	2013	23
+Southampton FC	Everton FC	0:0	0:0	21.01.2013	21:00	2012	2013	23
+Aston Villa	Newcastle United	0:2	1:2	29.01.2013	20:45	2012	2013	24
+Queens Park Rangers	Manchester City	0:0	0:0	29.01.2013	20:45	2012	2013	24
+Stoke City	Wigan Athletic	1:0	2:2	29.01.2013	20:45	2012	2013	24
+Sunderland AFC	Swansea City	0:0	0:0	29.01.2013	20:45	2012	2013	24
+Arsenal FC	Liverpool FC	0:1	2:2	30.01.2013	20:45	2012	2013	24
+Norwich City	Tottenham Hotspur	1:0	1:1	30.01.2013	20:45	2012	2013	24
+Everton FC	West Bromwich Albion	2:0	2:1	30.01.2013	20:45	2012	2013	24
+Manchester United	Southampton FC	2:1	2:1	30.01.2013	21:00	2012	2013	24
+Reading FC	Chelsea FC	0:1	2:2	30.01.2013	21:00	2012	2013	24
+Fulham FC	West Ham United	1:0	3:1	30.01.2013	21:00	2012	2013	24
+Queens Park Rangers	Norwich City	0:0	0:0	02.02.2013	13:45	2012	2013	25
+Arsenal FC	Stoke City	0:0	1:0	02.02.2013	16:00	2012	2013	25
+Everton FC	Aston Villa	1:2	3:3	02.02.2013	16:00	2012	2013	25
+Newcastle United	Chelsea FC	1:0	3:2	02.02.2013	16:00	2012	2013	25
+Reading FC	Sunderland AFC	1:1	2:1	02.02.2013	16:00	2012	2013	25
+West Ham United	Swansea City	0:0	1:0	02.02.2013	16:00	2012	2013	25
+Wigan Athletic	Southampton FC	1:0	2:2	02.02.2013	16:00	2012	2013	25
+Fulham FC	Manchester United	0:0	0:1	02.02.2013	18:30	2012	2013	25
+West Bromwich Albion	Tottenham Hotspur	0:0	0:1	03.02.2013	14:30	2012	2013	25
+Manchester City	Liverpool FC	1:1	2:2	03.02.2013	17:00	2012	2013	25
+Tottenham Hotspur	Newcastle United	1:1	2:1	09.02.2013	13:45	2012	2013	26
+Chelsea FC	Wigan Athletic	1:0	4:1	09.02.2013	16:00	2012	2013	26
+Norwich City	Fulham FC	0:0	0:0	09.02.2013	16:00	2012	2013	26
+Stoke City	Reading FC	0:0	2:1	09.02.2013	16:00	2012	2013	26
+Sunderland AFC	Arsenal FC	0:1	0:1	09.02.2013	16:00	2012	2013	26
+Swansea City	Queens Park Rangers	2:0	4:1	09.02.2013	16:00	2012	2013	26
+Southampton FC	Manchester City	2:1	3:1	09.02.2013	18:30	2012	2013	26
+Aston Villa	West Ham United	0:0	2:1	10.02.2013	14:30	2012	2013	26
+Manchester United	Everton FC	2:0	2:0	10.02.2013	17:00	2012	2013	26
+Liverpool FC	West Bromwich Albion	0:0	0:2	11.02.2013	21:00	2012	2013	26
+Liverpool FC	Swansea City	1:0	5:0	17.02.2013	16:00	2012	2013	27
+Fulham FC	Stoke City	1:0	1:0	23.02.2013	13:45	2012	2013	27
+Arsenal FC	Aston Villa	1:0	2:1	23.02.2013	16:00	2012	2013	27
+Norwich City	Everton FC	0:1	2:1	23.02.2013	16:00	2012	2013	27
+Queens Park Rangers	Manchester United	0:1	0:2	23.02.2013	16:00	2012	2013	27
+Reading FC	Wigan Athletic	0:2	0:3	23.02.2013	16:00	2012	2013	27
+West Bromwich Albion	Sunderland AFC	1:0	2:1	23.02.2013	16:00	2012	2013	27
+Manchester City	Chelsea FC	0:0	2:0	24.02.2013	14:30	2012	2013	27
+Newcastle United	Southampton FC	2:1	4:2	24.02.2013	14:30	2012	2013	27
+West Ham United	Tottenham Hotspur	1:1	2:3	25.02.2013	21:00	2012	2013	27
+Chelsea FC	West Bromwich Albion	1:0	1:0	02.03.2013	16:00	2012	2013	28
+Everton FC	Reading FC	1:0	3:1	02.03.2013	16:00	2012	2013	28
+Manchester United	Norwich City	1:0	4:0	02.03.2013	16:00	2012	2013	28
+Southampton FC	Queens Park Rangers	1:1	1:2	02.03.2013	16:00	2012	2013	28
+Stoke City	West Ham United	0:1	0:1	02.03.2013	16:00	2012	2013	28
+Sunderland AFC	Fulham FC	1:2	2:2	02.03.2013	16:00	2012	2013	28
+Swansea City	Newcastle United	0:0	1:0	02.03.2013	16:00	2012	2013	28
+Wigan Athletic	Liverpool FC	0:3	0:4	02.03.2013	18:30	2012	2013	28
+Tottenham Hotspur	Arsenal FC	2:0	2:1	03.03.2013	17:00	2012	2013	28
+Aston Villa	Manchester City	0:1	0:1	04.03.2013	21:00	2012	2013	28
+Norwich City	Southampton FC	0:0	0:0	09.03.2013	16:00	2012	2013	29
+Queens Park Rangers	Sunderland AFC	1:1	3:1	09.03.2013	16:00	2012	2013	29
+Reading FC	Aston Villa	1:2	1:2	09.03.2013	16:00	2012	2013	29
+West Bromwich Albion	Swansea City	1:1	2:1	09.03.2013	16:00	2012	2013	29
+Newcastle United	Stoke City	0:0	2:1	10.03.2013	16:00	2012	2013	29
+Liverpool FC	Tottenham Hotspur	1:1	3:2	10.03.2013	17:00	2012	2013	29
+Arsenal FC	Everton FC	0:0	0:0	16.04.2013	20:45	2012	2013	29
+Manchester City	Wigan Athletic	0:0	1:0	17.04.2013	20:45	2012	2013	29
+West Ham United	Manchester United	1:1	2:2	17.04.2013	20:45	2012	2013	29
+Fulham FC	Chelsea FC	0:2	0:3	17.04.2013	21:00	2012	2013	29
+Everton FC	Manchester City	1:0	2:0	16.03.2013	13:45	2012	2013	30
+Aston Villa	Queens Park Rangers	1:1	3:2	16.03.2013	16:00	2012	2013	30
+Southampton FC	Liverpool FC	2:1	3:1	16.03.2013	16:00	2012	2013	30
+Stoke City	West Bromwich Albion	0:0	0:0	16.03.2013	16:00	2012	2013	30
+Swansea City	Arsenal FC	0:0	0:2	16.03.2013	16:00	2012	2013	30
+Manchester United	Reading FC	1:0	1:0	16.03.2013	18:30	2012	2013	30
+Sunderland AFC	Norwich City	1:1	1:1	17.03.2013	14:30	2012	2013	30
+Tottenham Hotspur	Fulham FC	0:0	0:1	17.03.2013	16:00	2012	2013	30
+Chelsea FC	West Ham United	1:0	2:0	17.03.2013	17:00	2012	2013	30
+Wigan Athletic	Newcastle United	1:0	2:1	17.03.2013	17:00	2012	2013	30
+Sunderland AFC	Manchester United	0:1	0:1	30.03.2013	13:45	2012	2013	31
+Arsenal FC	Reading FC	1:0	4:1	30.03.2013	16:00	2012	2013	31
+Manchester City	Newcastle United	2:0	4:0	30.03.2013	16:00	2012	2013	31
+Southampton FC	Chelsea FC	2:1	2:1	30.03.2013	16:00	2012	2013	31
+Swansea City	Tottenham Hotspur	0:2	1:2	30.03.2013	16:00	2012	2013	31
+West Ham United	West Bromwich Albion	2:0	3:1	30.03.2013	16:00	2012	2013	31
+Wigan Athletic	Norwich City	0:0	1:0	30.03.2013	16:00	2012	2013	31
+Everton FC	Stoke City	1:0	1:0	30.03.2013	18:30	2012	2013	31
+Aston Villa	Liverpool FC	1:0	1:2	31.03.2013	14:30	2012	2013	31
+Fulham FC	Queens Park Rangers	3:1	3:2	01.04.2013	21:00	2012	2013	31
+Reading FC	Southampton FC	0:1	0:2	06.04.2013	13:45	2012	2013	32
+Norwich City	Swansea City	1:1	2:2	06.04.2013	16:00	2012	2013	32
+Stoke City	Aston Villa	0:1	1:3	06.04.2013	16:00	2012	2013	32
+West Bromwich Albion	Arsenal FC	0:1	1:2	06.04.2013	16:00	2012	2013	32
+Liverpool FC	West Ham United	0:0	0:0	07.04.2013	14:30	2012	2013	32
+Tottenham Hotspur	Everton FC	1:1	2:2	07.04.2013	15:05	2012	2013	32
+Chelsea FC	Sunderland AFC	0:1	2:1	07.04.2013	16:00	2012	2013	32
+Newcastle United	Fulham FC	0:0	1:0	07.04.2013	16:00	2012	2013	32
+Queens Park Rangers	Wigan Athletic	0:0	1:1	07.04.2013	17:10	2012	2013	32
+Manchester United	Manchester City	0:0	1:2	08.04.2013	21:00	2012	2013	32
+Arsenal FC	Norwich City	0:0	3:1	13.04.2013	16:00	2012	2013	33
+Aston Villa	Fulham FC	0:0	1:1	13.04.2013	16:00	2012	2013	33
+Everton FC	Queens Park Rangers	1:0	2:0	13.04.2013	16:00	2012	2013	33
+Reading FC	Liverpool FC	0:0	0:0	13.04.2013	16:00	2012	2013	33
+Southampton FC	West Ham United	0:0	1:1	13.04.2013	16:00	2012	2013	33
+Newcastle United	Sunderland AFC	0:1	0:3	14.04.2013	13:00	2012	2013	33
+Stoke City	Manchester United	0:1	0:2	14.04.2013	15:05	2012	2013	33
+Manchester City	West Bromwich Albion	1:0	1:0	07.05.2013	20:45	2012	2013	33
+Wigan Athletic	Swansea City	1:0	2:3	07.05.2013	20:45	2012	2013	33
+Chelsea FC	Tottenham Hotspur	2:1	2:2	08.05.2013	20:45	2012	2013	33
+Fulham FC	Arsenal FC	0:1	0:1	20.04.2013	16:00	2012	2013	34
+Norwich City	Reading FC	0:0	2:1	20.04.2013	16:00	2012	2013	34
+Queens Park Rangers	Stoke City	0:1	0:2	20.04.2013	16:00	2012	2013	34
+Sunderland AFC	Everton FC	1:0	1:0	20.04.2013	16:00	2012	2013	34
+Swansea City	Southampton FC	0:0	0:0	20.04.2013	16:00	2012	2013	34
+West Bromwich Albion	Newcastle United	0:1	1:1	20.04.2013	16:00	2012	2013	34
+West Ham United	Wigan Athletic	1:0	2:0	20.04.2013	16:00	2012	2013	34
+Tottenham Hotspur	Manchester City	0:1	3:1	21.04.2013	14:30	2012	2013	34
+Liverpool FC	Chelsea FC	0:1	2:2	21.04.2013	17:00	2012	2013	34
+Manchester United	Aston Villa	3:0	3:0	22.04.2013	21:00	2012	2013	34
+Manchester City	West Ham United	1:0	2:1	27.04.2013	13:45	2012	2013	35
+Everton FC	Fulham FC	1:0	1:0	27.04.2013	16:00	2012	2013	35
+Southampton FC	West Bromwich Albion	0:1	0:3	27.04.2013	16:00	2012	2013	35
+Stoke City	Norwich City	0:0	1:0	27.04.2013	16:00	2012	2013	35
+Wigan Athletic	Tottenham Hotspur	1:1	2:2	27.04.2013	16:00	2012	2013	35
+Newcastle United	Liverpool FC	0:2	0:6	27.04.2013	18:30	2012	2013	35
+Reading FC	Queens Park Rangers	0:0	0:0	28.04.2013	14:30	2012	2013	35
+Chelsea FC	Swansea City	2:0	2:0	28.04.2013	16:00	2012	2013	35
+Arsenal FC	Manchester United	1:1	1:1	28.04.2013	17:00	2012	2013	35
+Aston Villa	Sunderland AFC	2:1	6:1	29.04.2013	21:00	2012	2013	35
+Fulham FC	Reading FC	0:1	2:4	04.05.2013	16:00	2012	2013	36
+Norwich City	Aston Villa	0:0	1:2	04.05.2013	16:00	2012	2013	36
+Swansea City	Manchester City	0:0	0:0	04.05.2013	16:00	2012	2013	36
+West Bromwich Albion	Wigan Athletic	1:1	2:3	04.05.2013	16:00	2012	2013	36
+West Ham United	Newcastle United	0:0	0:0	04.05.2013	16:00	2012	2013	36
+Tottenham Hotspur	Southampton FC	0:0	1:0	04.05.2013	16:30	2012	2013	36
+Queens Park Rangers	Arsenal FC	0:1	0:1	04.05.2013	18:30	2012	2013	36
+Liverpool FC	Everton FC	0:0	0:0	05.05.2013	14:30	2012	2013	36
+Manchester United	Chelsea FC	0:0	0:1	05.05.2013	17:00	2012	2013	36
+Sunderland AFC	Stoke City	0:1	1:1	06.05.2013	21:00	2012	2013	36
+Aston Villa	Chelsea FC	1:0	1:2	11.05.2013	13:45	2012	2013	37
+Stoke City	Tottenham Hotspur	1:1	1:2	12.05.2013	14:30	2012	2013	37
+Everton FC	West Ham United	1:0	2:0	12.05.2013	16:00	2012	2013	37
+Fulham FC	Liverpool FC	1:1	1:3	12.05.2013	16:00	2012	2013	37
+Norwich City	West Bromwich Albion	1:0	4:0	12.05.2013	16:00	2012	2013	37
+Queens Park Rangers	Newcastle United	1:2	1:2	12.05.2013	16:00	2012	2013	37
+Sunderland AFC	Southampton FC	0:0	1:1	12.05.2013	16:00	2012	2013	37
+Manchester United	Swansea City	1:0	2:1	12.05.2013	17:00	2012	2013	37
+Arsenal FC	Wigan Athletic	1:1	4:1	14.05.2013	20:45	2012	2013	37
+Reading FC	Manchester City	0:1	0:2	14.05.2013	21:00	2012	2013	37
+Chelsea FC	Everton FC	1:1	2:1	19.05.2013	17:00	2012	2013	38
+Liverpool FC	Queens Park Rangers	1:0	1:0	19.05.2013	17:00	2012	2013	38
+Manchester City	Norwich City	1:1	2:3	19.05.2013	17:00	2012	2013	38
+Newcastle United	Arsenal FC	0:0	0:1	19.05.2013	17:00	2012	2013	38
+Southampton FC	Stoke City	0:0	1:1	19.05.2013	17:00	2012	2013	38
+Swansea City	Fulham FC	0:1	0:3	19.05.2013	17:00	2012	2013	38
+Tottenham Hotspur	Sunderland AFC	0:0	1:0	19.05.2013	17:00	2012	2013	38
+West Bromwich Albion	Manchester United	1:3	5:5	19.05.2013	17:00	2012	2013	38
+West Ham United	Reading FC	2:0	4:2	19.05.2013	17:00	2012	2013	38
+Wigan Athletic	Aston Villa	2:1	2:2	19.05.2013	17:00	2012	2013	38

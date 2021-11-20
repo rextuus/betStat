@@ -1,0 +1,182 @@
+Valencia CF	Espanyol Barcelona	3:1	4:1	12.09.1948	00:00	1948	1949	1
+AtlÃ©tico Madrid	Sevilla FC	1:1	1:1	12.09.1948	00:00	1948	1949	1
+FC Barcelona	Real Oviedo	4:0	5:2	12.09.1948	00:00	1948	1949	1
+Athletic Bilbao	Real Valladolid	3:2	7:2	12.09.1948	00:00	1948	1949	1
+CD Alcoyano	Deportivo La CoruÃ±a	0:0	1:0	12.09.1948	00:00	1948	1949	1
+Celta Vigo	GimnÃ stic	2:2	6:4	12.09.1948	00:00	1948	1949	1
+CE Sabadell	Real Madrid	0:0	1:2	12.09.1948	00:00	1948	1949	1
+Real Valladolid	Celta Vigo	2:1	4:2	19.09.1948	00:00	1948	1949	2
+Deportivo La CoruÃ±a	CE Sabadell	2:2	5:2	19.09.1948	00:00	1948	1949	2
+Espanyol Barcelona	AtlÃ©tico Madrid	1:1	4:1	19.09.1948	00:00	1948	1949	2
+Real Oviedo	Valencia CF	1:1	2:1	19.09.1948	00:00	1948	1949	2
+Sevilla FC	Athletic Bilbao	3:0	6:0	19.09.1948	00:00	1948	1949	2
+Real Madrid	FC Barcelona	0:1	1:2	19.09.1948	00:00	1948	1949	2
+GimnÃ stic	CD Alcoyano	0:0	3:1	19.09.1948	00:00	1948	1949	2
+Valencia CF	Real Madrid	1:3	4:4	26.09.1948	00:00	1948	1949	3
+Athletic Bilbao	Espanyol Barcelona	2:2	4:3	26.09.1948	00:00	1948	1949	3
+Real Valladolid	Sevilla FC	1:0	2:0	26.09.1948	00:00	1948	1949	3
+AtlÃ©tico Madrid	Real Oviedo	2:0	6:0	26.09.1948	00:00	1948	1949	3
+FC Barcelona	Deportivo La CoruÃ±a	1:1	5:1	26.09.1948	00:00	1948	1949	3
+Celta Vigo	CD Alcoyano	3:0	5:1	26.09.1948	00:00	1948	1949	3
+CE Sabadell	GimnÃ stic	1:1	2:3	26.09.1948	00:00	1948	1949	3
+GimnÃ stic	FC Barcelona	0:1	2:2	03.10.1948	00:00	1948	1949	4
+Sevilla FC	Celta Vigo	1:1	2:1	03.10.1948	00:00	1948	1949	4
+CD Alcoyano	CE Sabadell	2:1	2:1	03.10.1948	00:00	1948	1949	4
+Espanyol Barcelona	Real Valladolid	4:0	5:1	03.10.1948	00:00	1948	1949	4
+Real Oviedo	Athletic Bilbao	3:2	6:3	03.10.1948	00:00	1948	1949	4
+Real Madrid	AtlÃ©tico Madrid	0:0	1:2	03.10.1948	00:00	1948	1949	4
+Deportivo La CoruÃ±a	Valencia CF	1:2	1:2	03.10.1948	00:00	1948	1949	4
+Valencia CF	GimnÃ stic	3:0	7:0	10.10.1948	00:00	1948	1949	5
+Athletic Bilbao	Real Madrid	1:2	2:3	10.10.1948	00:00	1948	1949	5
+Sevilla FC	Espanyol Barcelona	0:1	0:3	10.10.1948	00:00	1948	1949	5
+Real Valladolid	Real Oviedo	1:1	2:1	10.10.1948	00:00	1948	1949	5
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	4:0	10.10.1948	00:00	1948	1949	5
+Celta Vigo	CE Sabadell	1:2	3:2	10.10.1948	00:00	1948	1949	5
+FC Barcelona	CD Alcoyano	0:0	4:0	10.10.1948	00:00	1948	1949	5
+Real Madrid	Real Valladolid	0:1	4:1	17.10.1948	00:00	1948	1949	6
+Espanyol Barcelona	Celta Vigo	1:0	5:0	17.10.1948	00:00	1948	1949	6
+Real Oviedo	Sevilla FC	0:1	0:1	17.10.1948	00:00	1948	1949	6
+GimnÃ stic	AtlÃ©tico Madrid	0:0	2:1	17.10.1948	00:00	1948	1949	6
+CD Alcoyano	Valencia CF	0:1	0:1	17.10.1948	00:00	1948	1949	6
+CE Sabadell	FC Barcelona	0:0	1:0	17.10.1948	00:00	1948	1949	6
+Deportivo La CoruÃ±a	Athletic Bilbao	3:0	3:1	17.10.1948	00:00	1948	1949	6
+AtlÃ©tico Madrid	CD Alcoyano	1:0	4:0	24.10.1948	00:00	1948	1949	7
+Espanyol Barcelona	Real Oviedo	0:0	0:0	24.10.1948	00:00	1948	1949	7
+Athletic Bilbao	GimnÃ stic	1:0	4:1	24.10.1948	00:00	1948	1949	7
+Sevilla FC	Real Madrid	0:5	1:5	24.10.1948	00:00	1948	1949	7
+Valencia CF	CE Sabadell	1:0	3:0	24.10.1948	00:00	1948	1949	7
+Celta Vigo	FC Barcelona	0:1	2:2	24.10.1948	00:00	1948	1949	7
+Real Valladolid	Deportivo La CoruÃ±a	0:0	1:0	24.10.1948	00:00	1948	1949	7
+Real Oviedo	Celta Vigo	3:1	5:2	31.10.1948	00:00	1948	1949	8
+GimnÃ stic	Real Valladolid	1:1	4:2	31.10.1948	00:00	1948	1949	8
+Deportivo La CoruÃ±a	Sevilla FC	0:0	2:0	31.10.1948	00:00	1948	1949	8
+CE Sabadell	AtlÃ©tico Madrid	1:1	1:3	31.10.1948	00:00	1948	1949	8
+FC Barcelona	Valencia CF	4:0	4:3	31.10.1948	00:00	1948	1949	8
+Real Madrid	Espanyol Barcelona	2:0	3:1	31.10.1948	00:00	1948	1949	8
+CD Alcoyano	Athletic Bilbao	1:0	1:0	31.10.1948	00:00	1948	1949	8
+AtlÃ©tico Madrid	FC Barcelona	1:0	2:0	07.11.1948	00:00	1948	1949	9
+Celta Vigo	Valencia CF	0:2	4:2	07.11.1948	00:00	1948	1949	9
+Espanyol Barcelona	Deportivo La CoruÃ±a	1:1	4:1	07.11.1948	00:00	1948	1949	9
+Athletic Bilbao	CE Sabadell	2:0	7:2	07.11.1948	00:00	1948	1949	9
+Real Valladolid	CD Alcoyano	3:2	4:2	07.11.1948	00:00	1948	1949	9
+Sevilla FC	GimnÃ stic	2:0	3:1	07.11.1948	00:00	1948	1949	9
+Real Oviedo	Real Madrid	1:1	1:1	07.11.1948	00:00	1948	1949	9
+Real Madrid	Celta Vigo	4:0	6:0	14.11.1948	00:00	1948	1949	10
+CD Alcoyano	Sevilla FC	1:0	2:0	14.11.1948	00:00	1948	1949	10
+Deportivo La CoruÃ±a	Real Oviedo	0:1	1:2	14.11.1948	00:00	1948	1949	10
+GimnÃ stic	Espanyol Barcelona	1:1	4:1	14.11.1948	00:00	1948	1949	10
+FC Barcelona	Athletic Bilbao	1:0	5:2	14.11.1948	00:00	1948	1949	10
+Valencia CF	AtlÃ©tico Madrid	0:2	4:3	14.11.1948	00:00	1948	1949	10
+CE Sabadell	Real Valladolid	2:1	3:1	14.11.1948	00:00	1948	1949	10
+Real Valladolid	FC Barcelona	1:0	1:1	21.11.1948	00:00	1948	1949	11
+Athletic Bilbao	Valencia CF	2:1	3:2	21.11.1948	00:00	1948	1949	11
+Celta Vigo	AtlÃ©tico Madrid	2:0	2:2	21.11.1948	00:00	1948	1949	11
+Real Madrid	Deportivo La CoruÃ±a	0:1	3:1	21.11.1948	00:00	1948	1949	11
+Sevilla FC	CE Sabadell	2:0	4:1	21.11.1948	00:00	1948	1949	11
+Espanyol Barcelona	CD Alcoyano	0:1	1:1	21.11.1948	00:00	1948	1949	11
+Real Oviedo	GimnÃ stic	0:1	0:2	21.11.1948	00:00	1948	1949	11
+GimnÃ stic	Real Madrid	1:2	3:3	28.11.1948	00:00	1948	1949	12
+Celta Vigo	Deportivo La CoruÃ±a	1:0	1:1	28.11.1948	00:00	1948	1949	12
+Valencia CF	Real Valladolid	2:2	6:2	28.11.1948	00:00	1948	1949	12
+CD Alcoyano	Real Oviedo	0:0	2:1	28.11.1948	00:00	1948	1949	12
+FC Barcelona	Sevilla FC	0:1	2:1	28.11.1948	00:00	1948	1949	12
+AtlÃ©tico Madrid	Athletic Bilbao	1:1	3:2	28.11.1948	00:00	1948	1949	12
+CE Sabadell	Espanyol Barcelona	0:0	2:0	28.11.1948	00:00	1948	1949	12
+Deportivo La CoruÃ±a	GimnÃ stic	1:0	6:2	05.12.1948	00:00	1948	1949	13
+Espanyol Barcelona	FC Barcelona	0:1	1:1	05.12.1948	00:00	1948	1949	13
+Sevilla FC	Valencia CF	0:1	0:2	05.12.1948	00:00	1948	1949	13
+Real Valladolid	AtlÃ©tico Madrid	0:0	0:1	05.12.1948	00:00	1948	1949	13
+Athletic Bilbao	Celta Vigo	0:1	3:2	05.12.1948	00:00	1948	1949	13
+Real Oviedo	CE Sabadell	3:3	5:4	05.12.1948	00:00	1948	1949	13
+Real Madrid	CD Alcoyano	2:0	3:1	05.12.1948	00:00	1948	1949	13
+Real Valladolid	Athletic Bilbao	1:0	1:0	12.12.1948	00:00	1948	1949	14
+Espanyol Barcelona	Valencia CF	2:0	3:0	12.12.1948	00:00	1948	1949	14
+Sevilla FC	AtlÃ©tico Madrid	0:1	0:1	12.12.1948	00:00	1948	1949	14
+GimnÃ stic	Celta Vigo	2:1	3:2	12.12.1948	00:00	1948	1949	14
+Real Madrid	CE Sabadell	3:0	5:1	12.12.1948	00:00	1948	1949	14
+Deportivo La CoruÃ±a	CD Alcoyano	4:0	6:1	12.12.1948	00:00	1948	1949	14
+Real Oviedo	FC Barcelona	1:0	2:0	12.12.1948	00:00	1948	1949	14
+Celta Vigo	Real Valladolid	1:0	2:0	09.01.1949	00:00	1948	1949	15
+CE Sabadell	Deportivo La CoruÃ±a	2:3	4:4	09.01.1949	00:00	1948	1949	15
+Valencia CF	Real Oviedo	2:0	3:1	09.01.1949	00:00	1948	1949	15
+Athletic Bilbao	Sevilla FC	1:0	4:0	09.01.1949	00:00	1948	1949	15
+AtlÃ©tico Madrid	Espanyol Barcelona	2:1	2:1	09.01.1949	00:00	1948	1949	15
+FC Barcelona	Real Madrid	1:1	3:1	09.01.1949	00:00	1948	1949	15
+CD Alcoyano	GimnÃ stic	0:1	2:2	09.01.1949	00:00	1948	1949	15
+Deportivo La CoruÃ±a	FC Barcelona	0:0	2:2	16.01.1949	00:00	1948	1949	16
+Espanyol Barcelona	Athletic Bilbao	1:1	1:1	16.01.1949	00:00	1948	1949	16
+Real Madrid	Valencia CF	2:2	4:3	16.01.1949	00:00	1948	1949	16
+Real Oviedo	AtlÃ©tico Madrid	1:0	2:0	16.01.1949	00:00	1948	1949	16
+CD Alcoyano	Celta Vigo	1:0	1:0	16.01.1949	00:00	1948	1949	16
+Sevilla FC	Real Valladolid	0:1	2:1	16.01.1949	00:00	1948	1949	16
+GimnÃ stic	CE Sabadell	2:1	3:2	16.01.1949	00:00	1948	1949	16
+AtlÃ©tico Madrid	Real Madrid	0:2	0:2	23.01.1949	00:00	1948	1949	17
+Valencia CF	Deportivo La CoruÃ±a	2:0	7:1	23.01.1949	00:00	1948	1949	17
+FC Barcelona	GimnÃ stic	2:1	3:1	23.01.1949	00:00	1948	1949	17
+CE Sabadell	CD Alcoyano	1:0	3:1	23.01.1949	00:00	1948	1949	17
+Real Valladolid	Espanyol Barcelona	0:0	1:0	23.01.1949	00:00	1948	1949	17
+Athletic Bilbao	Real Oviedo	0:0	0:1	23.01.1949	00:00	1948	1949	17
+Celta Vigo	Sevilla FC	1:0	3:1	23.01.1949	00:00	1948	1949	17
+Real Oviedo	Real Valladolid	1:1	2:1	30.01.1949	00:00	1948	1949	18
+CD Alcoyano	FC Barcelona	0:1	1:2	30.01.1949	00:00	1948	1949	18
+Real Madrid	Athletic Bilbao	1:2	4:2	30.01.1949	00:00	1948	1949	18
+GimnÃ stic	Valencia CF	0:0	6:1	30.01.1949	00:00	1948	1949	18
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	1:0	3:1	30.01.1949	00:00	1948	1949	18
+Espanyol Barcelona	Sevilla FC	0:0	1:0	30.01.1949	00:00	1948	1949	18
+CE Sabadell	Celta Vigo	1:0	3:0	30.01.1949	00:00	1948	1949	18
+AtlÃ©tico Madrid	GimnÃ stic	1:0	1:0	06.02.1949	00:00	1948	1949	19
+Valencia CF	CD Alcoyano	1:2	5:3	06.02.1949	00:00	1948	1949	19
+FC Barcelona	CE Sabadell	0:1	4:1	06.02.1949	00:00	1948	1949	19
+Athletic Bilbao	Deportivo La CoruÃ±a	3:0	3:1	06.02.1949	00:00	1948	1949	19
+Sevilla FC	Real Oviedo	0:0	1:0	06.02.1949	00:00	1948	1949	19
+Real Valladolid	Real Madrid	2:0	2:0	06.02.1949	00:00	1948	1949	19
+Celta Vigo	Espanyol Barcelona	1:0	2:1	06.02.1949	00:00	1948	1949	19
+CE Sabadell	Valencia CF	0:2	0:3	13.02.1949	00:00	1948	1949	20
+Deportivo La CoruÃ±a	Real Valladolid	3:0	5:0	13.02.1949	00:00	1948	1949	20
+FC Barcelona	Celta Vigo	3:1	3:1	13.02.1949	00:00	1948	1949	20
+Real Madrid	Sevilla FC	0:0	1:0	13.02.1949	00:00	1948	1949	20
+Real Oviedo	Espanyol Barcelona	1:0	3:0	13.02.1949	00:00	1948	1949	20
+GimnÃ stic	Athletic Bilbao	2:0	3:1	13.02.1949	00:00	1948	1949	20
+CD Alcoyano	AtlÃ©tico Madrid	0:0	0:0	13.02.1949	00:00	1948	1949	20
+Athletic Bilbao	CD Alcoyano	1:0	3:0	20.02.1949	00:00	1948	1949	21
+Real Valladolid	GimnÃ stic	2:1	3:1	20.02.1949	00:00	1948	1949	21
+AtlÃ©tico Madrid	CE Sabadell	5:0	6:0	20.02.1949	00:00	1948	1949	21
+Sevilla FC	Deportivo La CoruÃ±a	0:0	3:1	20.02.1949	00:00	1948	1949	21
+Celta Vigo	Real Oviedo	0:1	2:1	20.02.1949	00:00	1948	1949	21
+Valencia CF	FC Barcelona	2:1	4:2	20.02.1949	00:00	1948	1949	21
+Espanyol Barcelona	Real Madrid	2:2	3:2	20.02.1949	00:00	1948	1949	21
+Deportivo La CoruÃ±a	Espanyol Barcelona	2:0	3:0	27.02.1949	00:00	1948	1949	22
+FC Barcelona	AtlÃ©tico Madrid	1:0	4:0	27.02.1949	00:00	1948	1949	22
+GimnÃ stic	Sevilla FC	1:0	1:3	27.02.1949	00:00	1948	1949	22
+Valencia CF	Celta Vigo	1:0	1:0	27.02.1949	00:00	1948	1949	22
+Real Madrid	Real Oviedo	0:1	0:2	27.02.1949	00:00	1948	1949	22
+CD Alcoyano	Real Valladolid	1:1	2:1	27.02.1949	00:00	1948	1949	22
+CE Sabadell	Athletic Bilbao	0:1	2:2	27.02.1949	00:00	1948	1949	22
+Real Valladolid	CE Sabadell	2:0	4:0	06.03.1949	00:00	1948	1949	23
+Real Oviedo	Deportivo La CoruÃ±a	3:0	4:1	06.03.1949	00:00	1948	1949	23
+Sevilla FC	CD Alcoyano	1:0	2:0	06.03.1949	00:00	1948	1949	23
+Athletic Bilbao	FC Barcelona	2:0	2:0	06.03.1949	00:00	1948	1949	23
+Celta Vigo	Real Madrid	1:1	3:1	06.03.1949	00:00	1948	1949	23
+AtlÃ©tico Madrid	Valencia CF	0:1	2:2	06.03.1949	00:00	1948	1949	23
+Espanyol Barcelona	GimnÃ stic	3:1	5:4	06.03.1949	00:00	1948	1949	23
+Deportivo La CoruÃ±a	Real Madrid	0:1	0:3	03.04.1949	00:00	1948	1949	24
+Valencia CF	Athletic Bilbao	2:0	5:0	03.04.1949	00:00	1948	1949	24
+CD Alcoyano	Espanyol Barcelona	1:0	2:0	03.04.1949	00:00	1948	1949	24
+CE Sabadell	Sevilla FC	1:1	1:3	03.04.1949	00:00	1948	1949	24
+AtlÃ©tico Madrid	Celta Vigo	1:0	3:0	03.04.1949	00:00	1948	1949	24
+GimnÃ stic	Real Oviedo	1:3	2:4	03.04.1949	00:00	1948	1949	24
+FC Barcelona	Real Valladolid	4:0	6:0	03.04.1949	00:00	1948	1949	24
+Sevilla FC	FC Barcelona	0:1	1:2	10.04.1949	00:00	1948	1949	25
+Real Madrid	GimnÃ stic	3:0	3:1	10.04.1949	00:00	1948	1949	25
+Real Oviedo	CD Alcoyano	0:1	1:1	10.04.1949	00:00	1948	1949	25
+Espanyol Barcelona	CE Sabadell	2:0	6:2	10.04.1949	00:00	1948	1949	25
+Deportivo La CoruÃ±a	Celta Vigo	1:1	3:3	10.04.1949	00:00	1948	1949	25
+Real Valladolid	Valencia CF	1:1	1:1	10.04.1949	00:00	1948	1949	25
+Athletic Bilbao	AtlÃ©tico Madrid	1:2	1:3	10.04.1949	00:00	1948	1949	25
+GimnÃ stic	Deportivo La CoruÃ±a	1:3	1:4	17.04.1949	00:00	1948	1949	26
+CD Alcoyano	Real Madrid	0:0	2:2	17.04.1949	00:00	1948	1949	26
+Celta Vigo	Athletic Bilbao	2:2	3:4	17.04.1949	00:00	1948	1949	26
+FC Barcelona	Espanyol Barcelona	0:1	2:1	17.04.1949	00:00	1948	1949	26
+Valencia CF	Sevilla FC	1:0	2:0	17.04.1949	00:00	1948	1949	26
+CE Sabadell	Real Oviedo	1:1	2:2	17.04.1949	00:00	1948	1949	26
+AtlÃ©tico Madrid	Real Valladolid	1:0	2:0	17.04.1949	00:00	1948	1949	26

@@ -1,0 +1,306 @@
+1. FC SaarbrÃ¼cken	Fortuna DÃ¼sseldorf	0:2	1:2	19.08.1994	19:30	1994	1995	1
+Hertha BSC	Hansa Rostock	0:0	0:1	19.08.1994	19:30	1994	1995	1
+FC St. Pauli	VfL Wolfsburg	0:0	0:0	20.08.1994	15:30	1994	1995	1
+Fortuna KÃ¶ln	Chemnitzer FC	2:0	3:0	20.08.1994	15:30	1994	1995	1
+1. FSV Mainz 05	FC 08 Homburg	1:1	4:1	20.08.1994	15:30	1994	1995	1
+SG Wattenscheid 09	VfB Leipzig	1:1	4:2	21.08.1994	15:00	1994	1995	1
+Hannover 96	SV Meppen	1:0	1:0	21.08.1994	15:00	1994	1995	1
+FSV Zwickau	FSV Frankfurt	0:1	2:2	21.08.1994	15:00	1994	1995	1
+1. FC NÃ¼rnberg	Waldhof Mannheim	0:0	0:0	22.08.1994	20:15	1994	1995	1
+VfL Wolfsburg	1. FSV Mainz 05	1:0	2:0	23.08.1994	18:30	1994	1995	2
+Hansa Rostock	FC St. Pauli	0:0	3:0	23.08.1994	19:30	1994	1995	2
+FSV Frankfurt	Fortuna KÃ¶ln	0:1	0:5	24.08.1994	18:30	1994	1995	2
+Chemnitzer FC	1. FC SaarbrÃ¼cken	1:1	1:1	24.08.1994	19:30	1994	1995	2
+Fortuna DÃ¼sseldorf	SG Wattenscheid 09	1:1	1:1	24.08.1994	20:00	1994	1995	2
+FC 08 Homburg	FSV Zwickau	1:0	3:1	24.08.1994	20:00	1994	1995	2
+VfB Leipzig	Hannover 96	2:0	3:1	24.08.1994	20:00	1994	1995	2
+SV Meppen	1. FC NÃ¼rnberg	0:2	1:2	25.08.1994	18:30	1994	1995	2
+Waldhof Mannheim	Hertha BSC	2:0	3:0	25.08.1994	19:30	1994	1995	2
+1. FSV Mainz 05	Hansa Rostock	0:0	2:2	26.08.1994	18:15	1994	1995	3
+Hannover 96	Fortuna DÃ¼sseldorf	0:1	0:3	27.08.1994	15:30	1994	1995	3
+FSV Frankfurt	FC 08 Homburg	1:1	1:2	27.08.1994	15:30	1994	1995	3
+FSV Zwickau	VfL Wolfsburg	0:0	1:3	27.08.1994	15:30	1994	1995	3
+SG Wattenscheid 09	Chemnitzer FC	2:2	2:2	28.08.1994	15:00	1994	1995	3
+1. FC NÃ¼rnberg	VfB Leipzig	2:0	3:1	28.08.1994	15:00	1994	1995	3
+Hertha BSC	SV Meppen	2:1	5:1	28.08.1994	15:00	1994	1995	3
+FC St. Pauli	Waldhof Mannheim	1:0	1:1	29.08.1994	20:15	1994	1995	3
+Fortuna KÃ¶ln	1. FC SaarbrÃ¼cken	1:0	4:0	31.08.1994	20:00	1994	1995	3
+VfL Wolfsburg	FSV Frankfurt	1:0	4:1	02.09.1994	18:15	1994	1995	4
+VfB Leipzig	Hertha BSC	0:0	0:1	02.09.1994	20:00	1994	1995	4
+Waldhof Mannheim	1. FSV Mainz 05	2:0	4:0	03.09.1994	15:30	1994	1995	4
+Fortuna DÃ¼sseldorf	1. FC NÃ¼rnberg	1:1	1:1	03.09.1994	15:30	1994	1995	4
+Hansa Rostock	FSV Zwickau	1:0	2:0	03.09.1994	15:30	1994	1995	4
+FC 08 Homburg	Fortuna KÃ¶ln	0:0	0:0	04.09.1994	15:00	1994	1995	4
+SV Meppen	FC St. Pauli	2:0	3:2	04.09.1994	15:00	1994	1995	4
+Chemnitzer FC	Hannover 96	0:0	1:1	04.09.1994	15:00	1994	1995	4
+1. FC SaarbrÃ¼cken	SG Wattenscheid 09	0:0	2:0	05.09.1994	20:15	1994	1995	4
+FC St. Pauli	VfB Leipzig	0:1	2:2	16.09.1994	20:00	1994	1995	5
+1. FC NÃ¼rnberg	Chemnitzer FC	1:0	2:1	16.09.1994	20:00	1994	1995	5
+FC 08 Homburg	VfL Wolfsburg	1:0	1:1	17.09.1994	15:30	1994	1995	5
+FSV Zwickau	Waldhof Mannheim	1:0	1:1	17.09.1994	15:30	1994	1995	5
+FSV Frankfurt	Hansa Rostock	0:1	1:1	18.09.1994	15:00	1994	1995	5
+1. FSV Mainz 05	SV Meppen	1:1	1:1	18.09.1994	15:00	1994	1995	5
+Hannover 96	1. FC SaarbrÃ¼cken	0:0	0:0	18.09.1994	15:00	1994	1995	5
+Fortuna KÃ¶ln	SG Wattenscheid 09	0:0	0:0	19.09.1994	20:15	1994	1995	5
+Hertha BSC	Fortuna DÃ¼sseldorf	0:0	0:0	04.10.1994	19:30	1994	1995	5
+1. FC SaarbrÃ¼cken	1. FC NÃ¼rnberg	1:1	2:1	23.09.1994	19:30	1994	1995	6
+SG Wattenscheid 09	Hannover 96	2:1	2:1	23.09.1994	19:30	1994	1995	6
+Waldhof Mannheim	FSV Frankfurt	1:0	3:2	24.09.1994	15:30	1994	1995	6
+Hansa Rostock	FC 08 Homburg	2:1	2:3	24.09.1994	15:30	1994	1995	6
+SV Meppen	FSV Zwickau	1:2	2:2	24.09.1994	15:30	1994	1995	6
+Chemnitzer FC	Hertha BSC	2:0	2:0	24.09.1994	15:30	1994	1995	6
+Fortuna DÃ¼sseldorf	FC St. Pauli	0:0	0:1	25.09.1994	15:00	1994	1995	6
+VfB Leipzig	1. FSV Mainz 05	0:0	0:2	25.09.1994	15:00	1994	1995	6
+VfL Wolfsburg	Fortuna KÃ¶ln	1:0	3:0	25.09.1994	15:00	1994	1995	6
+Hertha BSC	1. FC SaarbrÃ¼cken	1:1	2:1	30.09.1994	19:30	1994	1995	7
+FC St. Pauli	Chemnitzer FC	0:0	0:0	30.09.1994	20:00	1994	1995	7
+FSV Frankfurt	SV Meppen	0:2	1:3	01.10.1994	15:30	1994	1995	7
+VfL Wolfsburg	Hansa Rostock	0:1	0:1	01.10.1994	15:30	1994	1995	7
+FC 08 Homburg	Waldhof Mannheim	0:1	1:1	01.10.1994	15:30	1994	1995	7
+1. FSV Mainz 05	Fortuna DÃ¼sseldorf	0:1	0:2	01.10.1994	15:30	1994	1995	7
+Fortuna KÃ¶ln	Hannover 96	0:2	1:3	02.10.1994	15:00	1994	1995	7
+FSV Zwickau	VfB Leipzig	1:0	3:0	02.10.1994	15:00	1994	1995	7
+1. FC NÃ¼rnberg	SG Wattenscheid 09	1:0	1:1	03.10.1994	20:15	1994	1995	7
+Waldhof Mannheim	VfL Wolfsburg	0:1	2:2	06.10.1994	18:00	1994	1995	8
+SG Wattenscheid 09	Hertha BSC	0:0	0:1	07.10.1994	19:30	1994	1995	8
+Fortuna DÃ¼sseldorf	FSV Zwickau	1:1	1:1	08.10.1994	15:30	1994	1995	8
+VfB Leipzig	FSV Frankfurt	1:0	3:0	08.10.1994	15:30	1994	1995	8
+Chemnitzer FC	1. FSV Mainz 05	0:1	1:1	08.10.1994	15:30	1994	1995	8
+Hannover 96	1. FC NÃ¼rnberg	2:1	6:3	08.10.1994	15:30	1994	1995	8
+1. FC SaarbrÃ¼cken	FC St. Pauli	0:1	1:2	09.10.1994	15:00	1994	1995	8
+SV Meppen	FC 08 Homburg	0:0	1:0	09.10.1994	15:00	1994	1995	8
+Hansa Rostock	Fortuna KÃ¶ln	2:0	2:0	10.10.1994	20:15	1994	1995	8
+Hansa Rostock	Waldhof Mannheim	0:1	0:1	14.10.1994	19:30	1994	1995	9
+FC St. Pauli	SG Wattenscheid 09	2:1	4:1	14.10.1994	20:00	1994	1995	9
+1. FSV Mainz 05	1. FC SaarbrÃ¼cken	1:0	1:1	15.10.1994	15:00	1994	1995	9
+FSV Zwickau	Chemnitzer FC	0:0	0:0	15.10.1994	15:00	1994	1995	9
+Fortuna KÃ¶ln	1. FC NÃ¼rnberg	0:0	1:1	15.10.1994	15:30	1994	1995	9
+VfL Wolfsburg	SV Meppen	0:0	0:0	16.10.1994	15:00	1994	1995	9
+FC 08 Homburg	VfB Leipzig	1:1	2:1	16.10.1994	15:00	1994	1995	9
+FSV Frankfurt	Fortuna DÃ¼sseldorf	0:1	1:2	16.10.1994	15:00	1994	1995	9
+Hertha BSC	Hannover 96	1:0	2:0	16.10.1994	15:00	1994	1995	9
+1. FC SaarbrÃ¼cken	FSV Zwickau	1:1	1:1	20.10.1994	18:00	1994	1995	10
+SG Wattenscheid 09	1. FSV Mainz 05	1:0	3:2	21.10.1994	19:30	1994	1995	10
+Hannover 96	FC St. Pauli	0:0	0:1	21.10.1994	20:00	1994	1995	10
+Fortuna DÃ¼sseldorf	FC 08 Homburg	2:0	2:0	22.10.1994	15:30	1994	1995	10
+Chemnitzer FC	FSV Frankfurt	2:0	4:2	22.10.1994	15:30	1994	1995	10
+VfB Leipzig	VfL Wolfsburg	2:0	2:3	22.10.1994	15:30	1994	1995	10
+SV Meppen	Hansa Rostock	1:0	2:1	23.10.1994	15:00	1994	1995	10
+1. FC NÃ¼rnberg	Hertha BSC	1:1	1:1	23.10.1994	15:00	1994	1995	10
+Waldhof Mannheim	Fortuna KÃ¶ln	0:1	0:3	24.10.1994	19:30	1994	1995	10
+Fortuna KÃ¶ln	Hertha BSC	0:0	0:0	28.10.1994	20:00	1994	1995	11
+FC St. Pauli	1. FC NÃ¼rnberg	2:2	3:2	28.10.1994	20:00	1994	1995	11
+FSV Zwickau	SG Wattenscheid 09	0:0	2:1	29.10.1994	14:30	1994	1995	11
+1. FSV Mainz 05	Hannover 96	2:0	3:2	29.10.1994	14:30	1994	1995	11
+VfL Wolfsburg	Fortuna DÃ¼sseldorf	2:0	3:1	29.10.1994	14:30	1994	1995	11
+Waldhof Mannheim	SV Meppen	0:0	0:0	29.10.1994	15:30	1994	1995	11
+FSV Frankfurt	1. FC SaarbrÃ¼cken	0:1	0:3	30.10.1994	14:30	1994	1995	11
+FC 08 Homburg	Chemnitzer FC	1:1	5:1	30.10.1994	15:00	1994	1995	11
+Hansa Rostock	VfB Leipzig	0:0	1:0	30.10.1994	15:00	1994	1995	11
+Fortuna DÃ¼sseldorf	Hansa Rostock	1:0	2:0	04.11.1994	20:00	1994	1995	12
+VfB Leipzig	Waldhof Mannheim	0:0	1:0	04.11.1994	20:00	1994	1995	12
+SV Meppen	Fortuna KÃ¶ln	1:1	3:1	05.11.1994	14:30	1994	1995	12
+Hannover 96	FSV Zwickau	0:0	1:1	05.11.1994	15:30	1994	1995	12
+SG Wattenscheid 09	FSV Frankfurt	2:2	6:2	05.11.1994	15:30	1994	1995	12
+1. FC SaarbrÃ¼cken	FC 08 Homburg	1:0	1:1	06.11.1994	15:00	1994	1995	12
+Hertha BSC	FC St. Pauli	1:1	1:1	06.11.1994	15:00	1994	1995	12
+1. FC NÃ¼rnberg	1. FSV Mainz 05	1:0	1:1	06.11.1994	15:00	1994	1995	12
+Chemnitzer FC	VfL Wolfsburg	0:1	1:1	07.11.1994	20:15	1994	1995	12
+FC 08 Homburg	SG Wattenscheid 09	0:0	0:1	10.11.1994	20:00	1994	1995	13
+Waldhof Mannheim	Fortuna DÃ¼sseldorf	0:0	1:0	11.11.1994	18:00	1994	1995	13
+VfL Wolfsburg	1. FC SaarbrÃ¼cken	1:0	2:1	12.11.1994	14:15	1994	1995	13
+1. FSV Mainz 05	Hertha BSC	0:0	1:1	12.11.1994	14:15	1994	1995	13
+FSV Zwickau	1. FC NÃ¼rnberg	0:0	2:0	12.11.1994	14:15	1994	1995	13
+SV Meppen	VfB Leipzig	0:0	1:0	13.11.1994	14:15	1994	1995	13
+FSV Frankfurt	Hannover 96	0:0	1:1	13.11.1994	14:15	1994	1995	13
+Fortuna KÃ¶ln	FC St. Pauli	1:1	2:2	13.11.1994	15:00	1994	1995	13
+Hansa Rostock	Chemnitzer FC	2:0	5:0	14.11.1994	20:15	1994	1995	13
+1. FC SaarbrÃ¼cken	Hansa Rostock	1:0	2:2	18.11.1994	19:30	1994	1995	14
+Hannover 96	FC 08 Homburg	3:1	4:3	18.11.1994	20:00	1994	1995	14
+SG Wattenscheid 09	VfL Wolfsburg	2:0	2:2	19.11.1994	15:30	1994	1995	14
+Hertha BSC	FSV Zwickau	1:1	2:1	19.11.1994	15:30	1994	1995	14
+Fortuna DÃ¼sseldorf	SV Meppen	1:1	2:1	19.11.1994	15:30	1994	1995	14
+Chemnitzer FC	Waldhof Mannheim	0:1	1:1	19.11.1994	15:30	1994	1995	14
+FC St. Pauli	1. FSV Mainz 05	1:1	3:1	20.11.1994	15:00	1994	1995	14
+VfB Leipzig	Fortuna KÃ¶ln	0:0	2:0	20.11.1994	15:00	1994	1995	14
+1. FC NÃ¼rnberg	FSV Frankfurt	1:0	3:1	20.11.1994	15:00	1994	1995	14
+Waldhof Mannheim	1. FC SaarbrÃ¼cken	1:1	2:2	25.11.1994	18:00	1994	1995	15
+SV Meppen	Chemnitzer FC	0:0	3:0	26.11.1994	14:00	1994	1995	15
+FSV Zwickau	FC St. Pauli	0:0	0:0	26.11.1994	14:00	1994	1995	15
+VfL Wolfsburg	Hannover 96	2:0	2:1	26.11.1994	14:00	1994	1995	15
+FC 08 Homburg	1. FC NÃ¼rnberg	1:0	3:0	26.11.1994	15:30	1994	1995	15
+FSV Frankfurt	Hertha BSC	0:1	1:3	27.11.1994	14:00	1994	1995	15
+1. FSV Mainz 05	Fortuna KÃ¶ln	1:0	4:2	27.11.1994	14:00	1994	1995	15
+Hansa Rostock	SG Wattenscheid 09	1:0	3:0	27.11.1994	15:00	1994	1995	15
+Fortuna DÃ¼sseldorf	VfB Leipzig	3:1	4:2	28.11.1994	20:15	1994	1995	15
+Hannover 96	Hansa Rostock	1:1	2:1	02.12.1994	20:00	1994	1995	16
+1. FSV Mainz 05	FSV Zwickau	1:0	2:2	03.12.1994	14:00	1994	1995	16
+1. FC SaarbrÃ¼cken	SV Meppen	0:0	2:1	03.12.1994	15:30	1994	1995	16
+SG Wattenscheid 09	Waldhof Mannheim	2:1	2:2	03.12.1994	15:30	1994	1995	16
+Hertha BSC	FC 08 Homburg	1:0	2:2	03.12.1994	15:30	1994	1995	16
+Fortuna KÃ¶ln	Fortuna DÃ¼sseldorf	0:1	0:1	04.12.1994	15:00	1994	1995	16
+FC St. Pauli	FSV Frankfurt	2:0	3:0	04.12.1994	15:00	1994	1995	16
+Chemnitzer FC	VfB Leipzig	1:0	2:0	04.12.1994	15:00	1994	1995	16
+1. FC NÃ¼rnberg	VfL Wolfsburg	0:0	0:0	05.12.1994	20:15	1994	1995	16
+FC 08 Homburg	FC St. Pauli	1:2	1:4	09.12.1994	19:30	1994	1995	17
+Fortuna DÃ¼sseldorf	Chemnitzer FC	1:2	1:2	09.12.1994	20:00	1994	1995	17
+VfB Leipzig	1. FC SaarbrÃ¼cken	0:0	2:0	09.12.1994	20:00	1994	1995	17
+FSV Zwickau	Fortuna KÃ¶ln	1:0	1:1	10.12.1994	14:00	1994	1995	17
+VfL Wolfsburg	Hertha BSC	0:0	1:0	10.12.1994	14:00	1994	1995	17
+Waldhof Mannheim	Hannover 96	0:1	2:1	10.12.1994	15:30	1994	1995	17
+FSV Frankfurt	1. FSV Mainz 05	1:3	1:4	11.12.1994	14:00	1994	1995	17
+SV Meppen	SG Wattenscheid 09	2:0	2:2	11.12.1994	14:00	1994	1995	17
+Hansa Rostock	1. FC NÃ¼rnberg	1:0	5:0	11.12.1994	15:00	1994	1995	17
+Waldhof Mannheim	1. FC NÃ¼rnberg	1:0	2:1	17.02.1995	18:00	1994	1995	18
+VfL Wolfsburg	FC St. Pauli	1:0	1:1	18.02.1995	15:00	1994	1995	18
+Chemnitzer FC	Fortuna KÃ¶ln	0:1	0:1	18.02.1995	15:30	1994	1995	18
+VfB Leipzig	SG Wattenscheid 09	0:1	0:2	18.02.1995	15:30	1994	1995	18
+Hansa Rostock	Hertha BSC	0:1	2:1	18.02.1995	15:30	1994	1995	18
+SV Meppen	Hannover 96	1:0	1:0	19.02.1995	15:00	1994	1995	18
+FC 08 Homburg	1. FSV Mainz 05	0:1	1:2	19.02.1995	15:00	1994	1995	18
+FSV Frankfurt	FSV Zwickau	1:0	3:0	19.02.1995	15:00	1994	1995	18
+Fortuna DÃ¼sseldorf	1. FC SaarbrÃ¼cken	0:0	0:0	20.02.1995	20:15	1994	1995	18
+SG Wattenscheid 09	Fortuna DÃ¼sseldorf	0:0	0:0	24.02.1995	19:30	1994	1995	19
+Hertha BSC	Waldhof Mannheim	0:0	0:0	24.02.1995	19:30	1994	1995	19
+FC St. Pauli	Hansa Rostock	1:0	2:0	24.02.1995	20:00	1994	1995	19
+Fortuna KÃ¶ln	FSV Frankfurt	2:2	6:2	25.02.1995	15:30	1994	1995	19
+1. FC NÃ¼rnberg	SV Meppen	1:0	0:2	25.02.1995	15:30	1994	1995	19
+1. FC SaarbrÃ¼cken	Chemnitzer FC	0:0	1:1	26.02.1995	15:00	1994	1995	19
+FSV Zwickau	FC 08 Homburg	0:0	2:0	26.02.1995	15:00	1994	1995	19
+Hannover 96	VfB Leipzig	1:0	1:1	26.02.1995	15:00	1994	1995	19
+1. FSV Mainz 05	VfL Wolfsburg	1:0	2:0	02.05.1995	18:30	1994	1995	19
+1. FC SaarbrÃ¼cken	Fortuna KÃ¶ln	1:0	1:2	03.03.1995	19:30	1994	1995	20
+Hansa Rostock	1. FSV Mainz 05	0:0	1:0	03.03.1995	19:30	1994	1995	20
+VfB Leipzig	1. FC NÃ¼rnberg	0:0	0:0	04.03.1995	15:30	1994	1995	20
+VfL Wolfsburg	FSV Zwickau	0:0	0:1	04.03.1995	15:30	1994	1995	20
+Waldhof Mannheim	FC St. Pauli	0:0	2:1	04.03.1995	15:30	1994	1995	20
+FC 08 Homburg	FSV Frankfurt	2:1	4:1	05.03.1995	15:00	1994	1995	20
+Chemnitzer FC	SG Wattenscheid 09	1:0	3:0	05.03.1995	15:00	1994	1995	20
+Fortuna DÃ¼sseldorf	Hannover 96	1:0	1:1	06.03.1995	20:15	1994	1995	20
+SV Meppen	Hertha BSC	1:0	3:0	04.05.1995	18:30	1994	1995	20
+SG Wattenscheid 09	1. FC SaarbrÃ¼cken	3:1	4:1	10.03.1995	19:30	1994	1995	21
+1. FC NÃ¼rnberg	Fortuna DÃ¼sseldorf	1:0	4:1	10.03.1995	20:00	1994	1995	21
+FSV Zwickau	Hansa Rostock	0:1	1:1	11.03.1995	15:30	1994	1995	21
+FSV Frankfurt	VfL Wolfsburg	1:0	1:2	11.03.1995	15:30	1994	1995	21
+Hannover 96	Chemnitzer FC	0:1	1:4	11.03.1995	15:30	1994	1995	21
+1. FSV Mainz 05	Waldhof Mannheim	1:1	1:1	11.03.1995	15:30	1994	1995	21
+Fortuna KÃ¶ln	FC 08 Homburg	1:0	3:0	12.03.1995	15:00	1994	1995	21
+FC St. Pauli	SV Meppen	0:1	2:1	12.03.1995	15:00	1994	1995	21
+Hertha BSC	VfB Leipzig	0:1	0:3	12.03.1995	15:00	1994	1995	21
+Fortuna DÃ¼sseldorf	Hertha BSC	1:1	1:1	17.03.1995	20:00	1994	1995	22
+VfB Leipzig	FC St. Pauli	0:0	2:0	17.03.1995	20:00	1994	1995	22
+Hansa Rostock	FSV Frankfurt	2:2	4:2	18.03.1995	15:30	1994	1995	22
+SG Wattenscheid 09	Fortuna KÃ¶ln	0:0	0:1	18.03.1995	15:30	1994	1995	22
+Waldhof Mannheim	FSV Zwickau	0:0	2:1	18.03.1995	15:30	1994	1995	22
+Chemnitzer FC	1. FC NÃ¼rnberg	0:1	0:1	18.03.1995	15:30	1994	1995	22
+VfL Wolfsburg	FC 08 Homburg	1:1	2:1	19.03.1995	15:00	1994	1995	22
+1. FC SaarbrÃ¼cken	Hannover 96	2:0	3:0	19.03.1995	15:00	1994	1995	22
+SV Meppen	1. FSV Mainz 05	1:0	3:0	19.03.1995	15:00	1994	1995	22
+Fortuna KÃ¶ln	VfL Wolfsburg	3:0	3:1	24.03.1995	20:00	1994	1995	23
+FSV Frankfurt	Waldhof Mannheim	0:2	0:3	25.03.1995	15:30	1994	1995	23
+1. FC NÃ¼rnberg	1. FC SaarbrÃ¼cken	0:1	0:2	25.03.1995	15:30	1994	1995	23
+Hannover 96	SG Wattenscheid 09	0:0	0:1	25.03.1995	15:30	1994	1995	23
+Hertha BSC	Chemnitzer FC	0:0	0:0	25.03.1995	15:30	1994	1995	23
+FC 08 Homburg	Hansa Rostock	0:0	0:0	26.03.1995	15:00	1994	1995	23
+FSV Zwickau	SV Meppen	0:0	0:1	26.03.1995	15:00	1994	1995	23
+1. FSV Mainz 05	VfB Leipzig	0:0	0:3	26.03.1995	15:00	1994	1995	23
+FC St. Pauli	Fortuna DÃ¼sseldorf	2:1	2:1	27.03.1995	20:15	1994	1995	23
+1. FC SaarbrÃ¼cken	Hertha BSC	1:0	2:0	31.03.1995	19:30	1994	1995	24
+VfB Leipzig	FSV Zwickau	0:0	0:0	31.03.1995	20:00	1994	1995	24
+Waldhof Mannheim	FC 08 Homburg	4:0	4:1	01.04.1995	15:30	1994	1995	24
+Fortuna DÃ¼sseldorf	1. FSV Mainz 05	0:0	1:0	01.04.1995	15:30	1994	1995	24
+SG Wattenscheid 09	1. FC NÃ¼rnberg	0:0	0:0	01.04.1995	15:30	1994	1995	24
+Hannover 96	Fortuna KÃ¶ln	0:0	4:1	02.04.1995	15:00	1994	1995	24
+SV Meppen	FSV Frankfurt	0:2	2:2	02.04.1995	15:00	1994	1995	24
+Chemnitzer FC	FC St. Pauli	0:0	3:2	02.04.1995	15:00	1994	1995	24
+Hansa Rostock	VfL Wolfsburg	3:0	6:0	03.04.1995	20:15	1994	1995	24
+Hertha BSC	SG Wattenscheid 09	2:0	3:1	07.04.1995	19:30	1994	1995	25
+Fortuna KÃ¶ln	Hansa Rostock	0:0	1:0	07.04.1995	20:00	1994	1995	25
+1. FC NÃ¼rnberg	Hannover 96	0:0	0:0	07.04.1995	20:00	1994	1995	25
+VfL Wolfsburg	Waldhof Mannheim	0:0	0:0	08.04.1995	15:30	1994	1995	25
+FC 08 Homburg	SV Meppen	0:0	0:0	08.04.1995	15:30	1994	1995	25
+FSV Frankfurt	VfB Leipzig	0:1	1:1	08.04.1995	15:30	1994	1995	25
+FSV Zwickau	Fortuna DÃ¼sseldorf	1:0	1:1	09.04.1995	15:00	1994	1995	25
+FC St. Pauli	1. FC SaarbrÃ¼cken	0:0	0:0	09.04.1995	15:00	1994	1995	25
+1. FSV Mainz 05	Chemnitzer FC	1:1	2:5	09.04.1995	15:00	1994	1995	25
+Hannover 96	Hertha BSC	2:0	4:1	10.04.1995	20:15	1994	1995	26
+Waldhof Mannheim	Hansa Rostock	0:0	0:2	13.04.1995	18:00	1994	1995	26
+Fortuna DÃ¼sseldorf	FSV Frankfurt	1:2	2:2	13.04.1995	20:00	1994	1995	26
+SV Meppen	VfL Wolfsburg	1:1	3:1	15.04.1995	15:30	1994	1995	26
+Chemnitzer FC	FSV Zwickau	1:1	1:1	15.04.1995	15:30	1994	1995	26
+1. FC NÃ¼rnberg	Fortuna KÃ¶ln	0:1	1:1	15.04.1995	15:30	1994	1995	26
+VfB Leipzig	FC 08 Homburg	1:0	1:0	16.04.1995	15:00	1994	1995	26
+1. FC SaarbrÃ¼cken	1. FSV Mainz 05	1:0	1:0	16.04.1995	15:00	1994	1995	26
+SG Wattenscheid 09	FC St. Pauli	0:0	0:0	16.04.1995	15:00	1994	1995	26
+Hertha BSC	1. FC NÃ¼rnberg	0:0	1:1	21.04.1995	19:30	1994	1995	27
+Hansa Rostock	SV Meppen	0:1	2:2	21.04.1995	19:30	1994	1995	27
+Fortuna KÃ¶ln	Waldhof Mannheim	0:1	0:2	21.04.1995	20:00	1994	1995	27
+VfL Wolfsburg	VfB Leipzig	0:1	1:1	22.04.1995	15:30	1994	1995	27
+FSV Frankfurt	Chemnitzer FC	1:1	2:1	22.04.1995	15:30	1994	1995	27
+FC St. Pauli	Hannover 96	1:0	1:1	22.04.1995	15:30	1994	1995	27
+FSV Zwickau	1. FC SaarbrÃ¼cken	0:0	0:0	23.04.1995	15:00	1994	1995	27
+1. FSV Mainz 05	SG Wattenscheid 09	0:0	2:0	23.04.1995	15:00	1994	1995	27
+FC 08 Homburg	Fortuna DÃ¼sseldorf	0:0	0:2	23.04.1995	15:30	1994	1995	27
+SG Wattenscheid 09	FSV Zwickau	3:0	3:0	28.04.1995	19:30	1994	1995	28
+VfB Leipzig	Hansa Rostock	0:0	0:1	28.04.1995	20:00	1994	1995	28
+Fortuna DÃ¼sseldorf	VfL Wolfsburg	1:1	1:1	29.04.1995	15:30	1994	1995	28
+Hannover 96	1. FSV Mainz 05	2:0	2:0	29.04.1995	15:30	1994	1995	28
+1. FC SaarbrÃ¼cken	FSV Frankfurt	0:0	2:1	29.04.1995	15:30	1994	1995	28
+Chemnitzer FC	FC 08 Homburg	2:0	3:0	30.04.1995	15:00	1994	1995	28
+Hertha BSC	Fortuna KÃ¶ln	1:1	6:2	30.04.1995	15:00	1994	1995	28
+SV Meppen	Waldhof Mannheim	0:0	0:0	30.04.1995	15:00	1994	1995	28
+1. FC NÃ¼rnberg	FC St. Pauli	0:1	1:1	01.05.1995	20:15	1994	1995	28
+Hansa Rostock	Fortuna DÃ¼sseldorf	2:1	3:3	05.05.1995	19:30	1994	1995	29
+FC 08 Homburg	1. FC SaarbrÃ¼cken	0:0	0:1	05.05.1995	19:30	1994	1995	29
+FSV Frankfurt	SG Wattenscheid 09	1:2	1:5	06.05.1995	15:30	1994	1995	29
+1. FSV Mainz 05	1. FC NÃ¼rnberg	0:0	1:0	06.05.1995	15:30	1994	1995	29
+FSV Zwickau	Hannover 96	0:1	1:1	07.05.1995	15:00	1994	1995	29
+Fortuna KÃ¶ln	SV Meppen	1:1	2:2	07.05.1995	15:00	1994	1995	29
+VfL Wolfsburg	Chemnitzer FC	2:1	3:1	07.05.1995	15:00	1994	1995	29
+FC St. Pauli	Hertha BSC	0:0	1:1	08.05.1995	20:30	1994	1995	29
+Waldhof Mannheim	VfB Leipzig	1:2	1:3	10.05.1995	18:00	1994	1995	29
+SG Wattenscheid 09	FC 08 Homburg	2:0	4:2	12.05.1995	19:30	1994	1995	30
+1. FC SaarbrÃ¼cken	VfL Wolfsburg	0:0	0:0	12.05.1995	19:30	1994	1995	30
+Hertha BSC	1. FSV Mainz 05	0:0	1:1	13.05.1995	15:30	1994	1995	30
+VfB Leipzig	SV Meppen	0:0	0:0	13.05.1995	15:30	1994	1995	30
+Chemnitzer FC	Hansa Rostock	0:0	1:1	13.05.1995	15:30	1994	1995	30
+Hannover 96	FSV Frankfurt	2:0	7:0	14.05.1995	15:00	1994	1995	30
+1. FC NÃ¼rnberg	FSV Zwickau	1:1	1:1	14.05.1995	15:00	1994	1995	30
+FC St. Pauli	Fortuna KÃ¶ln	0:0	2:0	14.05.1995	15:00	1994	1995	30
+Fortuna DÃ¼sseldorf	Waldhof Mannheim	1:1	1:1	15.05.1995	20:15	1994	1995	30
+Waldhof Mannheim	Chemnitzer FC	3:0	3:0	19.05.1995	18:00	1994	1995	31
+FSV Zwickau	Hertha BSC	0:0	0:3	19.05.1995	18:30	1994	1995	31
+VfL Wolfsburg	SG Wattenscheid 09	1:0	3:1	19.05.1995	18:30	1994	1995	31
+1. FSV Mainz 05	FC St. Pauli	1:0	1:1	20.05.1995	15:30	1994	1995	31
+FSV Frankfurt	1. FC NÃ¼rnberg	0:1	1:2	20.05.1995	15:30	1994	1995	31
+FC 08 Homburg	Hannover 96	0:0	0:2	20.05.1995	15:30	1994	1995	31
+Fortuna KÃ¶ln	VfB Leipzig	0:1	0:2	21.05.1995	15:00	1994	1995	31
+SV Meppen	Fortuna DÃ¼sseldorf	0:2	2:4	21.05.1995	15:00	1994	1995	31
+Hansa Rostock	1. FC SaarbrÃ¼cken	2:0	3:2	22.05.1995	20:15	1994	1995	31
+1. FC NÃ¼rnberg	FC 08 Homburg	0:0	3:0	26.05.1995	20:00	1994	1995	32
+Hannover 96	VfL Wolfsburg	0:0	1:1	26.05.1995	20:00	1994	1995	32
+FC St. Pauli	FSV Zwickau	3:0	5:0	26.05.1995	20:00	1994	1995	32
+Fortuna KÃ¶ln	1. FSV Mainz 05	1:1	3:1	27.05.1995	15:30	1994	1995	32
+Hertha BSC	FSV Frankfurt	0:0	0:1	27.05.1995	15:30	1994	1995	32
+1. FC SaarbrÃ¼cken	Waldhof Mannheim	1:0	4:0	27.05.1995	15:30	1994	1995	32
+VfB Leipzig	Fortuna DÃ¼sseldorf	0:0	1:2	28.05.1995	15:00	1994	1995	32
+SG Wattenscheid 09	Hansa Rostock	0:4	0:4	28.05.1995	15:00	1994	1995	32
+Chemnitzer FC	SV Meppen	0:0	2:0	29.05.1995	20:15	1994	1995	32
+Hansa Rostock	Hannover 96	1:0	3:0	11.06.1995	15:00	1994	1995	33
+FSV Zwickau	1. FSV Mainz 05	1:1	2:1	11.06.1995	15:00	1994	1995	33
+Fortuna DÃ¼sseldorf	Fortuna KÃ¶ln	2:0	3:1	11.06.1995	15:00	1994	1995	33
+SV Meppen	1. FC SaarbrÃ¼cken	1:1	5:1	11.06.1995	15:00	1994	1995	33
+Waldhof Mannheim	SG Wattenscheid 09	1:0	1:1	11.06.1995	15:00	1994	1995	33
+VfB Leipzig	Chemnitzer FC	1:2	2:3	11.06.1995	15:00	1994	1995	33
+FSV Frankfurt	FC St. Pauli	1:1	1:3	11.06.1995	15:00	1994	1995	33
+FC 08 Homburg	Hertha BSC	1:1	4:1	11.06.1995	15:00	1994	1995	33
+VfL Wolfsburg	1. FC NÃ¼rnberg	2:2	3:2	11.06.1995	15:00	1994	1995	33
+1. FC NÃ¼rnberg	Hansa Rostock	0:0	0:1	18.06.1995	15:00	1994	1995	34
+Chemnitzer FC	Fortuna DÃ¼sseldorf	0:1	0:2	18.06.1995	15:00	1994	1995	34
+1. FSV Mainz 05	FSV Frankfurt	4:0	7:1	18.06.1995	15:00	1994	1995	34
+Hertha BSC	VfL Wolfsburg	0:1	1:3	18.06.1995	15:00	1994	1995	34
+Hannover 96	Waldhof Mannheim	2:0	2:2	18.06.1995	15:00	1994	1995	34
+SG Wattenscheid 09	SV Meppen	0:0	0:2	18.06.1995	15:00	1994	1995	34
+1. FC SaarbrÃ¼cken	VfB Leipzig	1:2	3:3	18.06.1995	15:00	1994	1995	34
+Fortuna KÃ¶ln	FSV Zwickau	0:0	5:0	18.06.1995	15:00	1994	1995	34
+FC St. Pauli	FC 08 Homburg	3:0	5:0	18.06.1995	15:00	1994	1995	34

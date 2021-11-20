@@ -1,0 +1,306 @@
+FC 08 Homburg	Bayer 05 Uerdingen	0:1	0:2	08.08.1986	18:30	1986	1987	1
+Waldhof Mannheim	VfB Stuttgart	2:1	3:2	08.08.1986	20:00	1986	1987	1
+Bayer Leverkusen	FC Schalke 04	1:1	4:2	09.08.1986	15:30	1986	1987	1
+Bayern MÃ¼nchen	Borussia Dortmund	1:1	2:2	09.08.1986	15:30	1986	1987	1
+Eintracht Frankfurt	Fortuna DÃ¼sseldorf	3:0	5:0	09.08.1986	15:30	1986	1987	1
+VfL Bochum	1. FC KÃ¶ln	1:1	3:1	09.08.1986	15:30	1986	1987	1
+Werder Bremen	1. FC NÃ¼rnberg	0:2	5:3	09.08.1986	15:30	1986	1987	1
+Blau-WeiÃ 90 Berlin	1. FC Kaiserslautern	1:2	1:4	09.08.1986	15:30	1986	1987	1
+Bor. MÃ¶nchengladbach	Hamburger SV	0:0	0:3	19.08.1986	20:00	1986	1987	1
+VfB Stuttgart	FC 08 Homburg	3:0	4:0	12.08.1986	20:00	1986	1987	2
+1. FC KÃ¶ln	Eintracht Frankfurt	0:0	0:0	15.08.1986	20:00	1986	1987	2
+Borussia Dortmund	Bayer Leverkusen	0:0	0:0	15.08.1986	20:00	1986	1987	2
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	0:1	1:1	16.08.1986	15:30	1986	1987	2
+1. FC NÃ¼rnberg	VfL Bochum	3:1	3:3	16.08.1986	15:30	1986	1987	2
+Fortuna DÃ¼sseldorf	Bayern MÃ¼nchen	0:0	0:3	16.08.1986	15:30	1986	1987	2
+FC Schalke 04	Waldhof Mannheim	2:0	3:1	16.08.1986	15:30	1986	1987	2
+Bayer 05 Uerdingen	Blau-WeiÃ 90 Berlin	1:0	2:1	16.08.1986	15:30	1986	1987	2
+Hamburger SV	Werder Bremen	2:0	3:0	16.08.1986	15:30	1986	1987	2
+FC 08 Homburg	FC Schalke 04	0:0	1:1	22.08.1986	18:30	1986	1987	3
+Eintracht Frankfurt	1. FC NÃ¼rnberg	0:0	1:0	22.08.1986	20:00	1986	1987	3
+Werder Bremen	1. FC Kaiserslautern	1:0	1:0	22.08.1986	20:00	1986	1987	3
+Waldhof Mannheim	Borussia Dortmund	0:0	2:1	23.08.1986	15:30	1986	1987	3
+Bayer Leverkusen	Fortuna DÃ¼sseldorf	2:0	5:0	23.08.1986	15:30	1986	1987	3
+Bayern MÃ¼nchen	1. FC KÃ¶ln	2:0	3:0	23.08.1986	15:30	1986	1987	3
+VfL Bochum	Hamburger SV	0:1	1:1	23.08.1986	15:30	1986	1987	3
+Bayer 05 Uerdingen	VfB Stuttgart	1:0	2:2	23.08.1986	15:30	1986	1987	3
+Blau-WeiÃ 90 Berlin	Bor. MÃ¶nchengladbach	1:2	3:2	23.08.1986	15:30	1986	1987	3
+1. FC KÃ¶ln	Bayer Leverkusen	0:2	1:4	02.09.1986	20:00	1986	1987	4
+Fortuna DÃ¼sseldorf	Waldhof Mannheim	2:0	2:0	02.09.1986	20:00	1986	1987	4
+Borussia Dortmund	FC 08 Homburg	1:0	3:0	02.09.1986	20:00	1986	1987	4
+FC Schalke 04	Bayer 05 Uerdingen	0:1	2:1	02.09.1986	20:00	1986	1987	4
+Bor. MÃ¶nchengladbach	Werder Bremen	1:1	1:2	02.09.1986	20:00	1986	1987	4
+Hamburger SV	Eintracht Frankfurt	1:0	2:0	02.09.1986	20:00	1986	1987	4
+1. FC Kaiserslautern	VfL Bochum	1:1	4:1	03.09.1986	20:00	1986	1987	4
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	1:0	1:2	03.09.1986	20:00	1986	1987	4
+VfB Stuttgart	Blau-WeiÃ 90 Berlin	1:0	1:1	03.09.1986	20:00	1986	1987	4
+FC 08 Homburg	Fortuna DÃ¼sseldorf	0:0	3:1	06.09.1986	15:30	1986	1987	5
+Waldhof Mannheim	1. FC KÃ¶ln	2:0	2:0	06.09.1986	15:30	1986	1987	5
+Bayer Leverkusen	1. FC NÃ¼rnberg	0:0	2:0	06.09.1986	15:30	1986	1987	5
+Bayern MÃ¼nchen	Hamburger SV	2:1	3:1	06.09.1986	15:30	1986	1987	5
+Eintracht Frankfurt	1. FC Kaiserslautern	1:2	2:2	06.09.1986	15:30	1986	1987	5
+VfL Bochum	Bor. MÃ¶nchengladbach	1:0	1:1	06.09.1986	15:30	1986	1987	5
+VfB Stuttgart	FC Schalke 04	2:0	4:0	06.09.1986	15:30	1986	1987	5
+Bayer 05 Uerdingen	Borussia Dortmund	1:2	2:4	06.09.1986	15:30	1986	1987	5
+Blau-WeiÃ 90 Berlin	Werder Bremen	1:2	1:4	06.09.1986	15:30	1986	1987	5
+1. FC NÃ¼rnberg	Waldhof Mannheim	1:0	1:1	12.09.1986	20:00	1986	1987	6
+FC Schalke 04	Blau-WeiÃ 90 Berlin	0:0	3:0	12.09.1986	20:00	1986	1987	6
+Werder Bremen	VfL Bochum	0:0	0:0	12.09.1986	20:00	1986	1987	6
+1. FC Kaiserslautern	Bayern MÃ¼nchen	0:1	1:1	13.09.1986	15:30	1986	1987	6
+1. FC KÃ¶ln	FC 08 Homburg	0:0	3:0	13.09.1986	15:30	1986	1987	6
+Fortuna DÃ¼sseldorf	Bayer 05 Uerdingen	0:1	1:1	13.09.1986	15:30	1986	1987	6
+Borussia Dortmund	VfB Stuttgart	0:1	1:2	13.09.1986	15:30	1986	1987	6
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:0	1:1	13.09.1986	15:30	1986	1987	6
+Hamburger SV	Bayer Leverkusen	0:1	2:1	13.09.1986	15:30	1986	1987	6
+FC 08 Homburg	1. FC NÃ¼rnberg	1:0	2:0	20.09.1986	15:30	1986	1987	7
+Waldhof Mannheim	Hamburger SV	1:0	2:2	20.09.1986	15:30	1986	1987	7
+Bayer Leverkusen	1. FC Kaiserslautern	0:0	1:0	20.09.1986	15:30	1986	1987	7
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	1:0	3:1	20.09.1986	15:30	1986	1987	7
+Eintracht Frankfurt	Werder Bremen	0:1	2:2	20.09.1986	15:30	1986	1987	7
+FC Schalke 04	Borussia Dortmund	0:0	2:1	20.09.1986	15:30	1986	1987	7
+VfB Stuttgart	Fortuna DÃ¼sseldorf	2:0	3:0	20.09.1986	15:30	1986	1987	7
+Bayer 05 Uerdingen	1. FC KÃ¶ln	3:0	3:1	20.09.1986	15:30	1986	1987	7
+Blau-WeiÃ 90 Berlin	VfL Bochum	0:0	0:0	20.09.1986	15:30	1986	1987	7
+Borussia Dortmund	Blau-WeiÃ 90 Berlin	5:0	7:0	26.09.1986	20:00	1986	1987	8
+1. FC Kaiserslautern	Waldhof Mannheim	1:0	3:2	27.09.1986	15:30	1986	1987	8
+1. FC NÃ¼rnberg	Bayer 05 Uerdingen	0:1	1:1	27.09.1986	15:30	1986	1987	8
+1. FC KÃ¶ln	VfB Stuttgart	0:0	0:0	27.09.1986	15:30	1986	1987	8
+Fortuna DÃ¼sseldorf	FC Schalke 04	1:4	3:4	27.09.1986	15:30	1986	1987	8
+VfL Bochum	Eintracht Frankfurt	0:0	2:0	27.09.1986	15:30	1986	1987	8
+Werder Bremen	Bayern MÃ¼nchen	1:0	1:1	27.09.1986	15:30	1986	1987	8
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	2:0	2:1	27.09.1986	15:30	1986	1987	8
+Hamburger SV	FC 08 Homburg	1:1	3:1	27.09.1986	15:30	1986	1987	8
+Borussia Dortmund	Fortuna DÃ¼sseldorf	2:1	4:1	03.10.1986	20:00	1986	1987	9
+FC 08 Homburg	1. FC Kaiserslautern	0:1	1:1	04.10.1986	15:30	1986	1987	9
+Waldhof Mannheim	Bor. MÃ¶nchengladbach	1:0	1:1	04.10.1986	15:30	1986	1987	9
+Bayern MÃ¼nchen	VfL Bochum	2:1	3:2	04.10.1986	15:30	1986	1987	9
+FC Schalke 04	1. FC KÃ¶ln	2:1	2:4	04.10.1986	15:30	1986	1987	9
+VfB Stuttgart	1. FC NÃ¼rnberg	0:1	1:1	04.10.1986	15:30	1986	1987	9
+Bayer 05 Uerdingen	Hamburger SV	0:0	1:0	04.10.1986	15:30	1986	1987	9
+Blau-WeiÃ 90 Berlin	Eintracht Frankfurt	1:0	2:2	04.10.1986	15:30	1986	1987	9
+Bayer Leverkusen	Werder Bremen	2:1	4:1	04.10.1986	19:30	1986	1987	9
+1. FC Kaiserslautern	Bayer 05 Uerdingen	0:0	1:0	10.10.1986	20:00	1986	1987	10
+Werder Bremen	Waldhof Mannheim	2:2	4:2	10.10.1986	20:00	1986	1987	10
+Hamburger SV	VfB Stuttgart	2:0	2:0	10.10.1986	20:00	1986	1987	10
+1. FC NÃ¼rnberg	FC Schalke 04	2:0	2:1	11.10.1986	15:30	1986	1987	10
+1. FC KÃ¶ln	Borussia Dortmund	2:0	2:0	11.10.1986	15:30	1986	1987	10
+Fortuna DÃ¼sseldorf	Blau-WeiÃ 90 Berlin	2:1	3:1	11.10.1986	15:30	1986	1987	10
+Eintracht Frankfurt	Bayern MÃ¼nchen	0:0	0:0	11.10.1986	15:30	1986	1987	10
+VfL Bochum	Bayer Leverkusen	2:0	2:1	11.10.1986	15:30	1986	1987	10
+Bor. MÃ¶nchengladbach	FC 08 Homburg	0:0	5:0	11.10.1986	15:30	1986	1987	10
+Bayer Leverkusen	Eintracht Frankfurt	0:0	2:0	17.10.1986	19:30	1986	1987	11
+Borussia Dortmund	1. FC NÃ¼rnberg	2:0	2:2	17.10.1986	20:00	1986	1987	11
+FC 08 Homburg	Werder Bremen	0:1	0:1	18.10.1986	15:30	1986	1987	11
+Waldhof Mannheim	VfL Bochum	0:0	0:0	18.10.1986	15:30	1986	1987	11
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	0:2	0:4	18.10.1986	15:30	1986	1987	11
+FC Schalke 04	Hamburger SV	0:1	1:1	18.10.1986	15:30	1986	1987	11
+VfB Stuttgart	1. FC Kaiserslautern	0:0	1:1	18.10.1986	15:30	1986	1987	11
+Bayer 05 Uerdingen	Bor. MÃ¶nchengladbach	0:0	1:1	18.10.1986	15:30	1986	1987	11
+Blau-WeiÃ 90 Berlin	Bayern MÃ¼nchen	0:1	1:1	18.10.1986	15:30	1986	1987	11
+1. FC NÃ¼rnberg	Fortuna DÃ¼sseldorf	2:0	4:3	01.11.1986	15:30	1986	1987	12
+Eintracht Frankfurt	Waldhof Mannheim	2:0	2:1	01.11.1986	15:30	1986	1987	12
+Werder Bremen	Bayer 05 Uerdingen	2:1	5:1	01.11.1986	15:30	1986	1987	12
+Hamburger SV	Borussia Dortmund	2:1	4:2	01.11.1986	15:30	1986	1987	12
+Bayern MÃ¼nchen	Bayer Leverkusen	0:1	0:3	01.11.1986	17:30	1986	1987	12
+1. FC Kaiserslautern	FC Schalke 04	2:1	5:1	01.11.1986	18:00	1986	1987	12
+1. FC KÃ¶ln	Blau-WeiÃ 90 Berlin	1:1	1:1	01.11.1986	18:00	1986	1987	12
+VfL Bochum	FC 08 Homburg	0:0	0:0	01.11.1986	18:00	1986	1987	12
+Bor. MÃ¶nchengladbach	VfB Stuttgart	1:0	4:0	01.11.1986	18:00	1986	1987	12
+Borussia Dortmund	1. FC Kaiserslautern	1:0	2:0	07.11.1986	20:00	1986	1987	13
+FC 08 Homburg	Eintracht Frankfurt	0:0	1:1	08.11.1986	14:30	1986	1987	13
+Waldhof Mannheim	Bayern MÃ¼nchen	2:0	3:3	08.11.1986	15:30	1986	1987	13
+1. FC KÃ¶ln	1. FC NÃ¼rnberg	1:0	3:1	08.11.1986	15:30	1986	1987	13
+Fortuna DÃ¼sseldorf	Hamburger SV	2:1	3:2	08.11.1986	15:30	1986	1987	13
+FC Schalke 04	Bor. MÃ¶nchengladbach	0:0	1:2	08.11.1986	15:30	1986	1987	13
+VfB Stuttgart	Werder Bremen	3:0	4:0	08.11.1986	15:30	1986	1987	13
+Bayer 05 Uerdingen	VfL Bochum	1:0	3:1	08.11.1986	15:30	1986	1987	13
+Blau-WeiÃ 90 Berlin	Bayer Leverkusen	0:1	0:1	08.11.1986	15:30	1986	1987	13
+Bayer Leverkusen	Waldhof Mannheim	0:0	0:0	14.11.1986	19:30	1986	1987	14
+Werder Bremen	FC Schalke 04	0:0	0:0	14.11.1986	20:00	1986	1987	14
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	3:0	3:1	15.11.1986	15:30	1986	1987	14
+1. FC NÃ¼rnberg	Blau-WeiÃ 90 Berlin	2:1	7:2	15.11.1986	15:30	1986	1987	14
+Bayern MÃ¼nchen	FC 08 Homburg	2:0	3:0	15.11.1986	15:30	1986	1987	14
+Eintracht Frankfurt	Bayer 05 Uerdingen	0:0	1:0	15.11.1986	15:30	1986	1987	14
+VfL Bochum	VfB Stuttgart	0:0	0:1	15.11.1986	15:30	1986	1987	14
+Bor. MÃ¶nchengladbach	Borussia Dortmund	1:1	2:2	15.11.1986	15:30	1986	1987	14
+Hamburger SV	1. FC KÃ¶ln	0:0	1:0	15.11.1986	15:30	1986	1987	14
+FC 08 Homburg	Bayer Leverkusen	0:2	1:2	22.11.1986	14:00	1986	1987	15
+Waldhof Mannheim	Blau-WeiÃ 90 Berlin	0:1	1:1	22.11.1986	15:30	1986	1987	15
+1. FC KÃ¶ln	1. FC Kaiserslautern	1:0	2:2	22.11.1986	15:30	1986	1987	15
+Fortuna DÃ¼sseldorf	Bor. MÃ¶nchengladbach	1:0	1:1	22.11.1986	15:30	1986	1987	15
+Borussia Dortmund	Werder Bremen	0:1	2:1	22.11.1986	15:30	1986	1987	15
+FC Schalke 04	VfL Bochum	0:0	0:0	22.11.1986	15:30	1986	1987	15
+VfB Stuttgart	Eintracht Frankfurt	1:0	4:1	22.11.1986	15:30	1986	1987	15
+Bayer 05 Uerdingen	Bayern MÃ¼nchen	0:0	0:0	22.11.1986	15:30	1986	1987	15
+Hamburger SV	1. FC NÃ¼rnberg	0:0	1:1	22.11.1986	15:30	1986	1987	15
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	1:1	2:1	28.11.1986	20:00	1986	1987	16
+VfL Bochum	Borussia Dortmund	0:0	0:0	28.11.1986	20:00	1986	1987	16
+Werder Bremen	Fortuna DÃ¼sseldorf	3:0	5:2	28.11.1986	20:00	1986	1987	16
+Waldhof Mannheim	FC 08 Homburg	3:0	5:1	29.11.1986	15:30	1986	1987	16
+Bayer Leverkusen	Bayer 05 Uerdingen	1:1	1:4	29.11.1986	15:30	1986	1987	16
+Bayern MÃ¼nchen	VfB Stuttgart	1:0	1:0	29.11.1986	15:30	1986	1987	16
+Eintracht Frankfurt	FC Schalke 04	0:0	0:1	29.11.1986	15:30	1986	1987	16
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	3:0	3:1	29.11.1986	15:30	1986	1987	16
+Blau-WeiÃ 90 Berlin	Hamburger SV	0:2	1:3	29.11.1986	15:30	1986	1987	16
+1. FC KÃ¶ln	Werder Bremen	2:0	3:0	05.12.1986	20:00	1986	1987	17
+Borussia Dortmund	Eintracht Frankfurt	0:0	1:0	05.12.1986	20:00	1986	1987	17
+FC 08 Homburg	Blau-WeiÃ 90 Berlin	0:0	2:1	06.12.1986	14:00	1986	1987	17
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	0:0	2:0	06.12.1986	15:30	1986	1987	17
+Fortuna DÃ¼sseldorf	VfL Bochum	0:1	0:4	06.12.1986	15:30	1986	1987	17
+FC Schalke 04	Bayern MÃ¼nchen	1:0	2:2	06.12.1986	15:30	1986	1987	17
+VfB Stuttgart	Bayer Leverkusen	0:0	1:0	06.12.1986	15:30	1986	1987	17
+Bayer 05 Uerdingen	Waldhof Mannheim	2:0	3:2	06.12.1986	15:30	1986	1987	17
+Hamburger SV	1. FC Kaiserslautern	1:0	2:0	06.12.1986	15:30	1986	1987	17
+Borussia Dortmund	Bayern MÃ¼nchen	0:2	2:2	21.02.1987	15:30	1986	1987	18
+Fortuna DÃ¼sseldorf	Eintracht Frankfurt	2:1	3:3	21.02.1987	15:30	1986	1987	18
+1. FC KÃ¶ln	VfL Bochum	1:0	1:0	21.02.1987	15:30	1986	1987	18
+1. FC NÃ¼rnberg	Werder Bremen	0:0	5:1	21.02.1987	15:30	1986	1987	18
+Hamburger SV	Bor. MÃ¶nchengladbach	1:1	3:1	21.02.1987	15:30	1986	1987	18
+1. FC Kaiserslautern	Blau-WeiÃ 90 Berlin	0:0	2:0	21.02.1987	15:30	1986	1987	18
+VfB Stuttgart	Waldhof Mannheim	0:1	2:1	08.03.1987	15:30	1986	1987	18
+Bayer 05 Uerdingen	FC 08 Homburg	1:1	2:1	01.04.1987	20:00	1986	1987	18
+FC Schalke 04	Bayer Leverkusen	0:0	1:2	21.04.1987	20:00	1986	1987	18
+FC 08 Homburg	VfB Stuttgart	0:0	2:1	28.02.1987	14:30	1986	1987	19
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	0:1	0:1	28.02.1987	15:30	1986	1987	19
+VfL Bochum	1. FC NÃ¼rnberg	0:0	0:1	28.02.1987	15:30	1986	1987	19
+Eintracht Frankfurt	1. FC KÃ¶ln	0:0	1:2	28.02.1987	15:30	1986	1987	19
+Bayern MÃ¼nchen	Fortuna DÃ¼sseldorf	0:0	3:0	28.02.1987	15:30	1986	1987	19
+Waldhof Mannheim	FC Schalke 04	1:0	2:0	28.02.1987	15:30	1986	1987	19
+Werder Bremen	Hamburger SV	1:0	2:1	28.02.1987	15:30	1986	1987	19
+Bayer Leverkusen	Borussia Dortmund	0:1	3:2	07.03.1987	20:00	1986	1987	19
+Blau-WeiÃ 90 Berlin	Bayer 05 Uerdingen	1:0	1:1	21.04.1987	20:00	1986	1987	19
+1. FC Kaiserslautern	Werder Bremen	1:1	1:3	13.03.1987	15:30	1986	1987	20
+FC Schalke 04	FC 08 Homburg	0:0	4:0	14.03.1987	15:30	1986	1987	20
+Borussia Dortmund	Waldhof Mannheim	1:0	6:0	14.03.1987	15:30	1986	1987	20
+Fortuna DÃ¼sseldorf	Bayer Leverkusen	1:2	2:3	14.03.1987	15:30	1986	1987	20
+1. FC KÃ¶ln	Bayern MÃ¼nchen	1:0	1:1	14.03.1987	15:30	1986	1987	20
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:0	1:0	14.03.1987	15:30	1986	1987	20
+Hamburger SV	VfL Bochum	0:0	1:1	14.03.1987	15:30	1986	1987	20
+VfB Stuttgart	Bayer 05 Uerdingen	0:0	2:0	14.03.1987	15:30	1986	1987	20
+Bor. MÃ¶nchengladbach	Blau-WeiÃ 90 Berlin	1:0	2:1	14.03.1987	15:30	1986	1987	20
+Eintracht Frankfurt	Hamburger SV	1:2	1:3	20.03.1987	20:00	1986	1987	21
+VfL Bochum	1. FC Kaiserslautern	1:1	3:1	21.03.1987	15:30	1986	1987	21
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	1:0	4:0	21.03.1987	15:30	1986	1987	21
+Bayer Leverkusen	1. FC KÃ¶ln	0:0	0:1	21.03.1987	15:30	1986	1987	21
+Waldhof Mannheim	Fortuna DÃ¼sseldorf	1:1	1:1	21.03.1987	15:30	1986	1987	21
+Bayer 05 Uerdingen	FC Schalke 04	0:0	0:0	21.03.1987	15:30	1986	1987	21
+Werder Bremen	Bor. MÃ¶nchengladbach	0:1	1:7	21.03.1987	15:30	1986	1987	21
+FC 08 Homburg	Borussia Dortmund	1:1	2:2	07.04.1987	20:00	1986	1987	21
+Blau-WeiÃ 90 Berlin	VfB Stuttgart	0:0	0:2	05.05.1987	20:00	1986	1987	21
+Werder Bremen	Blau-WeiÃ 90 Berlin	0:0	2:0	27.03.1987	20:00	1986	1987	22
+Fortuna DÃ¼sseldorf	FC 08 Homburg	0:0	1:0	28.03.1987	15:30	1986	1987	22
+1. FC KÃ¶ln	Waldhof Mannheim	1:0	2:1	28.03.1987	15:30	1986	1987	22
+1. FC NÃ¼rnberg	Bayer Leverkusen	1:1	1:1	28.03.1987	15:30	1986	1987	22
+Hamburger SV	Bayern MÃ¼nchen	0:1	1:2	28.03.1987	15:30	1986	1987	22
+1. FC Kaiserslautern	Eintracht Frankfurt	1:1	2:1	28.03.1987	15:30	1986	1987	22
+Bor. MÃ¶nchengladbach	VfL Bochum	2:1	2:1	28.03.1987	15:30	1986	1987	22
+FC Schalke 04	VfB Stuttgart	1:0	2:1	28.03.1987	15:30	1986	1987	22
+Borussia Dortmund	Bayer 05 Uerdingen	0:0	1:1	28.03.1987	15:30	1986	1987	22
+Waldhof Mannheim	1. FC NÃ¼rnberg	3:0	3:0	03.04.1987	20:00	1986	1987	23
+Bayern MÃ¼nchen	1. FC Kaiserslautern	2:0	3:0	04.04.1987	15:30	1986	1987	23
+FC 08 Homburg	1. FC KÃ¶ln	0:2	1:3	04.04.1987	15:30	1986	1987	23
+Bayer 05 Uerdingen	Fortuna DÃ¼sseldorf	3:1	4:1	04.04.1987	15:30	1986	1987	23
+VfB Stuttgart	Borussia Dortmund	1:0	3:0	04.04.1987	15:30	1986	1987	23
+Blau-WeiÃ 90 Berlin	FC Schalke 04	0:0	0:0	04.04.1987	15:30	1986	1987	23
+VfL Bochum	Werder Bremen	0:0	1:1	04.04.1987	15:30	1986	1987	23
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	0:0	4:0	04.04.1987	15:30	1986	1987	23
+Bayer Leverkusen	Hamburger SV	0:0	0:1	04.04.1987	15:30	1986	1987	23
+1. FC NÃ¼rnberg	FC 08 Homburg	0:1	2:2	10.04.1987	20:00	1986	1987	24
+Werder Bremen	Eintracht Frankfurt	2:1	4:1	10.04.1987	20:00	1986	1987	24
+VfL Bochum	Blau-WeiÃ 90 Berlin	1:0	5:1	10.04.1987	20:00	1986	1987	24
+Hamburger SV	Waldhof Mannheim	1:0	1:0	11.04.1987	15:30	1986	1987	24
+1. FC Kaiserslautern	Bayer Leverkusen	0:1	1:1	11.04.1987	15:30	1986	1987	24
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:1	0:1	11.04.1987	15:30	1986	1987	24
+Borussia Dortmund	FC Schalke 04	1:0	1:0	11.04.1987	15:30	1986	1987	24
+Fortuna DÃ¼sseldorf	VfB Stuttgart	1:0	1:0	11.04.1987	15:30	1986	1987	24
+1. FC KÃ¶ln	Bayer 05 Uerdingen	0:2	1:2	11.04.1987	15:30	1986	1987	24
+FC 08 Homburg	Hamburger SV	0:1	1:1	14.04.1987	18:15	1986	1987	25
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	0:1	0:2	14.04.1987	19:30	1986	1987	25
+FC Schalke 04	Fortuna DÃ¼sseldorf	0:0	4:2	14.04.1987	20:00	1986	1987	25
+Blau-WeiÃ 90 Berlin	Borussia Dortmund	1:1	1:1	14.04.1987	20:00	1986	1987	25
+Waldhof Mannheim	1. FC Kaiserslautern	2:2	4:3	15.04.1987	20:00	1986	1987	25
+Bayer 05 Uerdingen	1. FC NÃ¼rnberg	0:1	3:4	15.04.1987	20:00	1986	1987	25
+VfB Stuttgart	1. FC KÃ¶ln	1:1	5:1	15.04.1987	20:00	1986	1987	25
+Eintracht Frankfurt	VfL Bochum	1:0	1:1	15.04.1987	20:00	1986	1987	25
+Bayern MÃ¼nchen	Werder Bremen	1:2	3:2	15.04.1987	20:00	1986	1987	25
+1. FC Kaiserslautern	FC 08 Homburg	4:0	5:0	24.04.1987	20:00	1986	1987	26
+Fortuna DÃ¼sseldorf	Borussia Dortmund	0:2	0:4	24.04.1987	20:00	1986	1987	26
+Eintracht Frankfurt	Blau-WeiÃ 90 Berlin	0:2	1:3	24.04.1987	20:00	1986	1987	26
+Bor. MÃ¶nchengladbach	Waldhof Mannheim	3:1	7:2	25.04.1987	15:30	1986	1987	26
+Werder Bremen	Bayer Leverkusen	0:0	1:0	25.04.1987	15:30	1986	1987	26
+VfL Bochum	Bayern MÃ¼nchen	1:1	1:2	25.04.1987	15:30	1986	1987	26
+1. FC KÃ¶ln	FC Schalke 04	2:1	3:2	25.04.1987	15:30	1986	1987	26
+1. FC NÃ¼rnberg	VfB Stuttgart	1:1	2:1	25.04.1987	15:30	1986	1987	26
+Hamburger SV	Bayer 05 Uerdingen	2:0	2:1	25.04.1987	15:30	1986	1987	26
+FC Schalke 04	1. FC NÃ¼rnberg	0:2	2:4	07.03.1987	15:30	1986	1987	27
+Borussia Dortmund	1. FC KÃ¶ln	0:0	1:1	01.05.1987	15:30	1986	1987	27
+Blau-WeiÃ 90 Berlin	Fortuna DÃ¼sseldorf	1:2	1:2	01.05.1987	15:30	1986	1987	27
+Bayer 05 Uerdingen	1. FC Kaiserslautern	0:0	1:2	02.05.1987	15:30	1986	1987	27
+Bayer Leverkusen	VfL Bochum	0:0	2:1	02.05.1987	15:30	1986	1987	27
+Waldhof Mannheim	Werder Bremen	1:0	1:0	02.05.1987	15:30	1986	1987	27
+FC 08 Homburg	Bor. MÃ¶nchengladbach	0:2	0:2	02.05.1987	15:30	1986	1987	27
+VfB Stuttgart	Hamburger SV	0:0	1:1	02.05.1987	15:30	1986	1987	27
+Bayern MÃ¼nchen	Eintracht Frankfurt	1:0	2:1	12.05.1987	15:30	1986	1987	27
+Werder Bremen	FC 08 Homburg	2:0	6:0	08.05.1987	20:00	1986	1987	28
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	1:0	1:0	08.05.1987	20:00	1986	1987	28
+Hamburger SV	FC Schalke 04	1:0	4:0	08.05.1987	20:00	1986	1987	28
+VfL Bochum	Waldhof Mannheim	1:1	6:1	09.05.1987	15:30	1986	1987	28
+Eintracht Frankfurt	Bayer Leverkusen	1:0	1:0	09.05.1987	15:30	1986	1987	28
+1. FC NÃ¼rnberg	Borussia Dortmund	1:0	1:2	09.05.1987	15:30	1986	1987	28
+1. FC Kaiserslautern	VfB Stuttgart	1:0	3:0	09.05.1987	15:30	1986	1987	28
+Bor. MÃ¶nchengladbach	Bayer 05 Uerdingen	1:0	2:0	09.05.1987	15:30	1986	1987	28
+Bayern MÃ¼nchen	Blau-WeiÃ 90 Berlin	0:0	2:0	09.05.1987	15:30	1986	1987	28
+Bayer 05 Uerdingen	Werder Bremen	0:1	1:1	15.05.1987	20:00	1986	1987	29
+VfB Stuttgart	Bor. MÃ¶nchengladbach	0:1	2:4	15.05.1987	20:00	1986	1987	29
+Borussia Dortmund	Hamburger SV	1:1	4:3	15.05.1987	20:00	1986	1987	29
+FC Schalke 04	1. FC Kaiserslautern	2:1	3:2	16.05.1987	15:30	1986	1987	29
+Fortuna DÃ¼sseldorf	1. FC NÃ¼rnberg	1:1	1:1	16.05.1987	15:30	1986	1987	29
+Blau-WeiÃ 90 Berlin	1. FC KÃ¶ln	1:0	1:1	16.05.1987	15:30	1986	1987	29
+Bayer Leverkusen	Bayern MÃ¼nchen	0:0	0:0	16.05.1987	15:30	1986	1987	29
+Waldhof Mannheim	Eintracht Frankfurt	1:0	2:1	16.05.1987	15:30	1986	1987	29
+FC 08 Homburg	VfL Bochum	0:0	3:1	16.05.1987	15:30	1986	1987	29
+Bayer Leverkusen	Blau-WeiÃ 90 Berlin	0:1	2:2	22.05.1987	19:30	1986	1987	30
+1. FC Kaiserslautern	Borussia Dortmund	0:0	2:3	22.05.1987	20:00	1986	1987	30
+Werder Bremen	VfB Stuttgart	1:0	1:0	22.05.1987	20:00	1986	1987	30
+Eintracht Frankfurt	FC 08 Homburg	2:0	4:0	23.05.1987	15:30	1986	1987	30
+Bayern MÃ¼nchen	Waldhof Mannheim	1:0	3:0	23.05.1987	15:30	1986	1987	30
+1. FC NÃ¼rnberg	1. FC KÃ¶ln	1:1	1:1	23.05.1987	15:30	1986	1987	30
+Hamburger SV	Fortuna DÃ¼sseldorf	2:1	4:1	23.05.1987	15:30	1986	1987	30
+Bor. MÃ¶nchengladbach	FC Schalke 04	0:0	3:1	23.05.1987	15:30	1986	1987	30
+VfL Bochum	Bayer 05 Uerdingen	2:1	2:1	23.05.1987	15:30	1986	1987	30
+Blau-WeiÃ 90 Berlin	1. FC NÃ¼rnberg	0:0	1:4	28.05.1987	15:00	1986	1987	31
+VfB Stuttgart	VfL Bochum	2:2	2:4	29.05.1987	20:00	1986	1987	31
+FC Schalke 04	Werder Bremen	1:0	1:0	29.05.1987	20:00	1986	1987	31
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	0:2	1:3	30.05.1987	15:30	1986	1987	31
+Waldhof Mannheim	Bayer Leverkusen	1:0	2:1	30.05.1987	15:30	1986	1987	31
+FC 08 Homburg	Bayern MÃ¼nchen	0:2	2:2	30.05.1987	15:30	1986	1987	31
+Bayer 05 Uerdingen	Eintracht Frankfurt	1:0	1:0	30.05.1987	15:30	1986	1987	31
+Borussia Dortmund	Bor. MÃ¶nchengladbach	0:2	0:2	30.05.1987	15:30	1986	1987	31
+1. FC KÃ¶ln	Hamburger SV	0:0	1:1	30.05.1987	15:30	1986	1987	31
+Bayer Leverkusen	FC 08 Homburg	1:0	4:2	04.06.1987	19:30	1986	1987	32
+Eintracht Frankfurt	VfB Stuttgart	1:0	3:1	05.06.1987	19:30	1986	1987	32
+VfL Bochum	FC Schalke 04	0:0	1:1	05.06.1987	20:00	1986	1987	32
+1. FC Kaiserslautern	1. FC KÃ¶ln	1:1	5:1	06.06.1987	15:30	1986	1987	32
+Bor. MÃ¶nchengladbach	Fortuna DÃ¼sseldorf	2:0	4:1	06.06.1987	15:30	1986	1987	32
+Werder Bremen	Borussia Dortmund	2:0	5:0	06.06.1987	15:30	1986	1987	32
+Bayern MÃ¼nchen	Bayer 05 Uerdingen	1:2	2:2	06.06.1987	15:30	1986	1987	32
+1. FC NÃ¼rnberg	Hamburger SV	0:2	3:3	06.06.1987	15:30	1986	1987	32
+Blau-WeiÃ 90 Berlin	Waldhof Mannheim	2:0	4:1	10.06.1987	20:00	1986	1987	32
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	2:1	2:1	13.06.1987	15:30	1986	1987	33
+FC 08 Homburg	Waldhof Mannheim	0:1	2:1	13.06.1987	15:30	1986	1987	33
+Bayer 05 Uerdingen	Bayer Leverkusen	0:1	1:1	13.06.1987	15:30	1986	1987	33
+VfB Stuttgart	Bayern MÃ¼nchen	0:2	1:3	13.06.1987	15:30	1986	1987	33
+FC Schalke 04	Eintracht Frankfurt	0:0	3:1	13.06.1987	15:30	1986	1987	33
+Borussia Dortmund	VfL Bochum	1:1	3:2	13.06.1987	15:30	1986	1987	33
+Fortuna DÃ¼sseldorf	Werder Bremen	2:0	2:1	13.06.1987	15:30	1986	1987	33
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	1:2	2:4	13.06.1987	15:30	1986	1987	33
+Hamburger SV	Blau-WeiÃ 90 Berlin	1:0	2:1	13.06.1987	15:30	1986	1987	33
+Blau-WeiÃ 90 Berlin	FC 08 Homburg	2:1	2:2	17.06.1987	15:30	1986	1987	34
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	2:0	4:0	17.06.1987	15:30	1986	1987	34
+Werder Bremen	1. FC KÃ¶ln	2:1	2:1	17.06.1987	15:30	1986	1987	34
+VfL Bochum	Fortuna DÃ¼sseldorf	0:0	2:2	17.06.1987	15:30	1986	1987	34
+Eintracht Frankfurt	Borussia Dortmund	0:0	0:4	17.06.1987	15:30	1986	1987	34
+Bayern MÃ¼nchen	FC Schalke 04	0:0	1:0	17.06.1987	15:30	1986	1987	34
+Bayer Leverkusen	VfB Stuttgart	1:1	4:1	17.06.1987	15:30	1986	1987	34
+Waldhof Mannheim	Bayer 05 Uerdingen	2:0	2:3	17.06.1987	15:30	1986	1987	34
+1. FC Kaiserslautern	Hamburger SV	0:1	0:4	17.06.1987	15:30	1986	1987	34

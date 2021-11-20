@@ -1,0 +1,380 @@
+Charlton Athletic	Derby County	0:0	0:0	19.08.1989	00:00	1989	1990	1
+Tottenham Hotspur	Luton Town	1:0	2:1	19.08.1989	00:00	1989	1990	1
+Southampton FC	Millwall FC	0:1	1:2	19.08.1989	00:00	1989	1990	1
+Sheffield Wednesday	Norwich City	0:1	0:2	19.08.1989	00:00	1989	1990	1
+Queens Park Rangers	Crystal Palace	0:0	2:0	19.08.1989	00:00	1989	1990	1
+Nottingham Forest	Aston Villa	0:1	1:1	19.08.1989	00:00	1989	1990	1
+Manchester United	Arsenal FC	1:1	4:1	19.08.1989	00:00	1989	1990	1
+Liverpool FC	Manchester City	1:1	3:1	19.08.1989	00:00	1989	1990	1
+Coventry City	Everton FC	0:0	2:0	19.08.1989	00:00	1989	1990	1
+Wimbledon FC	Chelsea FC	0:0	0:1	19.08.1989	00:00	1989	1990	1
+Arsenal FC	Coventry City	0:0	2:0	22.08.1989	00:00	1989	1990	2
+Millwall FC	Charlton Athletic	0:1	2:2	22.08.1989	00:00	1989	1990	2
+Luton Town	Sheffield Wednesday	1:0	2:0	22.08.1989	00:00	1989	1990	2
+Everton FC	Tottenham Hotspur	1:1	2:1	22.08.1989	00:00	1989	1990	2
+Crystal Palace	Manchester United	0:1	1:1	22.08.1989	00:00	1989	1990	2
+Chelsea FC	Queens Park Rangers	1:1	1:1	22.08.1989	00:00	1989	1990	2
+Aston Villa	Liverpool FC	0:1	1:1	23.08.1989	00:00	1989	1990	2
+Derby County	Wimbledon FC	0:1	1:1	23.08.1989	00:00	1989	1990	2
+Manchester City	Southampton FC	0:1	1:2	23.08.1989	00:00	1989	1990	2
+Norwich City	Nottingham Forest	1:0	1:1	23.08.1989	00:00	1989	1990	2
+Arsenal FC	Wimbledon FC	0:0	0:0	26.08.1989	00:00	1989	1990	3
+Millwall FC	Nottingham Forest	0:0	1:0	26.08.1989	00:00	1989	1990	3
+Manchester City	Tottenham Hotspur	1:1	1:1	26.08.1989	00:00	1989	1990	3
+Luton Town	Liverpool FC	0:0	0:0	26.08.1989	00:00	1989	1990	3
+Everton FC	Southampton FC	2:0	3:0	26.08.1989	00:00	1989	1990	3
+Derby County	Manchester United	1:0	2:0	26.08.1989	00:00	1989	1990	3
+Crystal Palace	Coventry City	0:1	0:1	26.08.1989	00:00	1989	1990	3
+Chelsea FC	Sheffield Wednesday	3:0	4:0	26.08.1989	00:00	1989	1990	3
+Aston Villa	Charlton Athletic	0:1	1:1	26.08.1989	00:00	1989	1990	3
+Norwich City	Queens Park Rangers	0:0	0:0	26.08.1989	00:00	1989	1990	3
+Charlton Athletic	Chelsea FC	2:0	3:0	29.08.1989	00:00	1989	1990	4
+Southampton FC	Aston Villa	0:0	2:1	29.08.1989	00:00	1989	1990	4
+Wimbledon FC	Millwall FC	1:1	2:2	29.08.1989	00:00	1989	1990	4
+Sheffield Wednesday	Everton FC	0:1	1:1	30.08.1989	00:00	1989	1990	4
+Queens Park Rangers	Luton Town	0:0	0:0	30.08.1989	00:00	1989	1990	4
+Nottingham Forest	Derby County	0:1	2:1	30.08.1989	00:00	1989	1990	4
+Manchester United	Norwich City	0:1	0:2	30.08.1989	00:00	1989	1990	4
+Coventry City	Manchester City	0:1	2:1	30.08.1989	00:00	1989	1990	4
+Liverpool FC	Crystal Palace	3:0	9:0	12.09.1989	00:00	1989	1990	4
+Tottenham Hotspur	Arsenal FC	2:0	2:1	18.10.1989	00:00	1989	1990	4
+Aston Villa	Tottenham Hotspur	2:0	2:0	09.09.1989	00:00	1989	1990	5
+Derby County	Liverpool FC	0:0	0:3	09.09.1989	00:00	1989	1990	5
+Arsenal FC	Sheffield Wednesday	1:0	5:0	09.09.1989	00:00	1989	1990	5
+Norwich City	Southampton FC	1:2	4:4	09.09.1989	00:00	1989	1990	5
+Millwall FC	Coventry City	3:0	4:1	09.09.1989	00:00	1989	1990	5
+Manchester City	Queens Park Rangers	1:0	1:0	09.09.1989	00:00	1989	1990	5
+Luton Town	Charlton Athletic	0:0	1:0	09.09.1989	00:00	1989	1990	5
+Everton FC	Manchester United	1:0	3:2	09.09.1989	00:00	1989	1990	5
+Crystal Palace	Wimbledon FC	1:0	2:0	09.09.1989	00:00	1989	1990	5
+Chelsea FC	Nottingham Forest	2:1	2:2	09.09.1989	00:00	1989	1990	5
+Tottenham Hotspur	Chelsea FC	0:2	1:4	16.09.1989	00:00	1989	1990	6
+Charlton Athletic	Everton FC	0:0	0:1	16.09.1989	00:00	1989	1990	6
+Wimbledon FC	Manchester City	1:0	1:0	16.09.1989	00:00	1989	1990	6
+Southampton FC	Crystal Palace	1:0	1:1	16.09.1989	00:00	1989	1990	6
+Sheffield Wednesday	Aston Villa	1:0	1:0	16.09.1989	00:00	1989	1990	6
+Queens Park Rangers	Derby County	0:0	0:1	16.09.1989	00:00	1989	1990	6
+Nottingham Forest	Arsenal FC	1:1	1:2	16.09.1989	00:00	1989	1990	6
+Manchester United	Millwall FC	2:1	5:1	16.09.1989	00:00	1989	1990	6
+Liverpool FC	Norwich City	0:0	0:0	16.09.1989	00:00	1989	1990	6
+Coventry City	Luton Town	1:0	1:0	16.09.1989	00:00	1989	1990	6
+Norwich City	Tottenham Hotspur	0:2	2:2	23.09.1989	00:00	1989	1990	7
+Arsenal FC	Charlton Athletic	0:0	1:0	23.09.1989	00:00	1989	1990	7
+Millwall FC	Sheffield Wednesday	0:0	2:0	23.09.1989	00:00	1989	1990	7
+Manchester City	Manchester United	3:0	5:1	23.09.1989	00:00	1989	1990	7
+Luton Town	Wimbledon FC	0:1	1:1	23.09.1989	00:00	1989	1990	7
+Everton FC	Liverpool FC	1:1	1:3	23.09.1989	00:00	1989	1990	7
+Derby County	Southampton FC	0:0	0:1	23.09.1989	00:00	1989	1990	7
+Crystal Palace	Nottingham Forest	0:0	1:0	23.09.1989	00:00	1989	1990	7
+Chelsea FC	Coventry City	1:0	1:0	23.09.1989	00:00	1989	1990	7
+Aston Villa	Queens Park Rangers	1:2	1:3	23.09.1989	00:00	1989	1990	7
+Chelsea FC	Arsenal FC	0:0	0:0	30.09.1989	00:00	1989	1990	8
+Aston Villa	Derby County	1:0	1:0	30.09.1989	00:00	1989	1990	8
+Tottenham Hotspur	Queens Park Rangers	2:0	3:2	30.09.1989	00:00	1989	1990	8
+Southampton FC	Wimbledon FC	0:1	2:2	30.09.1989	00:00	1989	1990	8
+Sheffield Wednesday	Coventry City	0:0	0:0	30.09.1989	00:00	1989	1990	8
+Nottingham Forest	Charlton Athletic	1:0	2:0	30.09.1989	00:00	1989	1990	8
+Millwall FC	Norwich City	0:0	0:1	30.09.1989	00:00	1989	1990	8
+Manchester City	Luton Town	2:1	3:1	30.09.1989	00:00	1989	1990	8
+Crystal Palace	Everton FC	2:0	2:1	30.09.1989	00:00	1989	1990	8
+Liverpool FC	Manchester United	0:0	0:0	23.12.1989	00:00	1989	1990	8
+Arsenal FC	Manchester City	1:0	4:0	14.10.1989	00:00	1989	1990	9
+Manchester United	Sheffield Wednesday	0:0	0:0	14.10.1989	00:00	1989	1990	9
+Wimbledon FC	Liverpool FC	0:1	1:2	14.10.1989	00:00	1989	1990	9
+Charlton Athletic	Tottenham Hotspur	0:0	1:3	14.10.1989	00:00	1989	1990	9
+Coventry City	Nottingham Forest	0:1	0:2	14.10.1989	00:00	1989	1990	9
+Derby County	Crystal Palace	2:1	3:1	14.10.1989	00:00	1989	1990	9
+Everton FC	Millwall FC	0:1	2:1	14.10.1989	00:00	1989	1990	9
+Luton Town	Aston Villa	0:1	0:1	14.10.1989	00:00	1989	1990	9
+Norwich City	Chelsea FC	1:0	2:0	14.10.1989	00:00	1989	1990	9
+Queens Park Rangers	Southampton FC	0:1	1:4	14.10.1989	00:00	1989	1990	9
+Southampton FC	Liverpool FC	2:0	4:1	21.10.1989	00:00	1989	1990	10
+Coventry City	Manchester United	0:2	1:4	21.10.1989	00:00	1989	1990	10
+Wimbledon FC	Nottingham Forest	1:2	1:3	21.10.1989	00:00	1989	1990	10
+Tottenham Hotspur	Sheffield Wednesday	2:0	3:0	21.10.1989	00:00	1989	1990	10
+Queens Park Rangers	Charlton Athletic	0:0	0:1	21.10.1989	00:00	1989	1990	10
+Luton Town	Norwich City	1:0	4:1	21.10.1989	00:00	1989	1990	10
+Everton FC	Arsenal FC	1:0	3:0	21.10.1989	00:00	1989	1990	10
+Derby County	Chelsea FC	0:0	0:1	21.10.1989	00:00	1989	1990	10
+Crystal Palace	Millwall FC	3:1	4:3	21.10.1989	00:00	1989	1990	10
+Manchester City	Aston Villa	0:1	0:2	22.10.1989	00:00	1989	1990	10
+Manchester United	Southampton FC	1:1	2:1	28.10.1989	00:00	1989	1990	11
+Arsenal FC	Derby County	1:0	1:1	28.10.1989	00:00	1989	1990	11
+Aston Villa	Crystal Palace	0:0	2:1	28.10.1989	00:00	1989	1990	11
+Charlton Athletic	Coventry City	1:0	1:1	28.10.1989	00:00	1989	1990	11
+Chelsea FC	Manchester City	0:0	1:1	28.10.1989	00:00	1989	1990	11
+Millwall FC	Luton Town	1:1	1:1	28.10.1989	00:00	1989	1990	11
+Norwich City	Everton FC	1:0	1:1	28.10.1989	00:00	1989	1990	11
+Nottingham Forest	Queens Park Rangers	1:0	2:2	28.10.1989	00:00	1989	1990	11
+Sheffield Wednesday	Wimbledon FC	0:0	0:1	28.10.1989	00:00	1989	1990	11
+Liverpool FC	Tottenham Hotspur	1:0	1:0	29.10.1989	00:00	1989	1990	11
+Arsenal FC	Norwich City	0:2	4:3	04.11.1989	00:00	1989	1990	12
+Wimbledon FC	Queens Park Rangers	0:0	0:0	04.11.1989	00:00	1989	1990	12
+Southampton FC	Tottenham Hotspur	0:1	1:1	04.11.1989	00:00	1989	1990	12
+Nottingham Forest	Sheffield Wednesday	0:0	0:1	04.11.1989	00:00	1989	1990	12
+Manchester City	Crystal Palace	2:0	3:0	04.11.1989	00:00	1989	1990	12
+Luton Town	Derby County	0:0	1:0	04.11.1989	00:00	1989	1990	12
+Liverpool FC	Coventry City	0:0	0:1	04.11.1989	00:00	1989	1990	12
+Chelsea FC	Millwall FC	3:0	4:0	04.11.1989	00:00	1989	1990	12
+Charlton Athletic	Manchester United	0:0	2:0	04.11.1989	00:00	1989	1990	12
+Aston Villa	Everton FC	4:0	6:2	05.11.1989	00:00	1989	1990	12
+Queens Park Rangers	Liverpool FC	2:1	3:2	11.11.1989	00:00	1989	1990	13
+Coventry City	Southampton FC	0:0	1:0	11.11.1989	00:00	1989	1990	13
+Tottenham Hotspur	Wimbledon FC	0:0	0:1	11.11.1989	00:00	1989	1990	13
+Sheffield Wednesday	Charlton Athletic	1:0	3:0	11.11.1989	00:00	1989	1990	13
+Norwich City	Aston Villa	0:0	2:0	11.11.1989	00:00	1989	1990	13
+Millwall FC	Arsenal FC	1:1	1:2	11.11.1989	00:00	1989	1990	13
+Everton FC	Chelsea FC	0:0	0:1	11.11.1989	00:00	1989	1990	13
+Derby County	Manchester City	2:0	6:0	11.11.1989	00:00	1989	1990	13
+Crystal Palace	Luton Town	1:0	1:1	11.11.1989	00:00	1989	1990	13
+Manchester United	Nottingham Forest	1:0	1:0	12.11.1989	00:00	1989	1990	13
+Luton Town	Manchester United	0:2	1:3	18.11.1989	00:00	1989	1990	14
+Arsenal FC	Queens Park Rangers	1:0	3:0	18.11.1989	00:00	1989	1990	14
+Norwich City	Charlton Athletic	0:0	0:0	18.11.1989	00:00	1989	1990	14
+Manchester City	Nottingham Forest	0:2	0:3	18.11.1989	00:00	1989	1990	14
+Everton FC	Wimbledon FC	0:0	1:1	18.11.1989	00:00	1989	1990	14
+Derby County	Sheffield Wednesday	1:0	2:0	18.11.1989	00:00	1989	1990	14
+Crystal Palace	Tottenham Hotspur	1:2	2:3	18.11.1989	00:00	1989	1990	14
+Chelsea FC	Southampton FC	0:1	2:2	18.11.1989	00:00	1989	1990	14
+Aston Villa	Coventry City	2:1	4:1	18.11.1989	00:00	1989	1990	14
+Millwall FC	Liverpool FC	1:1	1:2	19.11.1989	00:00	1989	1990	14
+Manchester United	Chelsea FC	0:0	0:0	25.11.1989	00:00	1989	1990	15
+Charlton Athletic	Manchester City	1:1	1:1	25.11.1989	00:00	1989	1990	15
+Wimbledon FC	Aston Villa	0:1	0:2	25.11.1989	00:00	1989	1990	15
+Tottenham Hotspur	Derby County	1:0	1:2	25.11.1989	00:00	1989	1990	15
+Southampton FC	Luton Town	2:1	6:3	25.11.1989	00:00	1989	1990	15
+Sheffield Wednesday	Crystal Palace	0:1	2:2	25.11.1989	00:00	1989	1990	15
+Queens Park Rangers	Millwall FC	0:0	0:0	25.11.1989	00:00	1989	1990	15
+Nottingham Forest	Everton FC	0:0	1:0	25.11.1989	00:00	1989	1990	15
+Coventry City	Norwich City	0:0	1:0	25.11.1989	00:00	1989	1990	15
+Liverpool FC	Arsenal FC	1:0	2:1	26.11.1989	00:00	1989	1990	15
+Aston Villa	Nottingham Forest	1:1	2:1	02.12.1989	00:00	1989	1990	16
+Chelsea FC	Wimbledon FC	2:3	2:5	02.12.1989	00:00	1989	1990	16
+Crystal Palace	Queens Park Rangers	0:2	0:3	02.12.1989	00:00	1989	1990	16
+Derby County	Charlton Athletic	2:0	2:0	02.12.1989	00:00	1989	1990	16
+Everton FC	Coventry City	1:0	2:0	02.12.1989	00:00	1989	1990	16
+Luton Town	Tottenham Hotspur	0:0	0:0	02.12.1989	00:00	1989	1990	16
+Manchester City	Liverpool FC	0:1	1:4	02.12.1989	00:00	1989	1990	16
+Millwall FC	Southampton FC	1:1	2:2	02.12.1989	00:00	1989	1990	16
+Norwich City	Sheffield Wednesday	2:1	2:1	02.12.1989	00:00	1989	1990	16
+Arsenal FC	Manchester United	1:0	1:0	03.12.1989	00:00	1989	1990	16
+Manchester United	Crystal Palace	1:1	1:2	09.12.1989	00:00	1989	1990	17
+Wimbledon FC	Derby County	0:1	1:1	09.12.1989	00:00	1989	1990	17
+Tottenham Hotspur	Everton FC	1:1	2:1	09.12.1989	00:00	1989	1990	17
+Southampton FC	Manchester City	0:1	2:1	09.12.1989	00:00	1989	1990	17
+Queens Park Rangers	Chelsea FC	2:1	4:2	09.12.1989	00:00	1989	1990	17
+Nottingham Forest	Norwich City	0:1	0:1	09.12.1989	00:00	1989	1990	17
+Liverpool FC	Aston Villa	0:1	1:1	09.12.1989	00:00	1989	1990	17
+Coventry City	Arsenal FC	0:0	0:1	09.12.1989	00:00	1989	1990	17
+Charlton Athletic	Millwall FC	0:0	1:1	09.12.1989	00:00	1989	1990	17
+Sheffield Wednesday	Luton Town	1:0	1:1	09.12.1989	00:00	1989	1990	17
+Manchester United	Tottenham Hotspur	0:0	0:1	16.12.1989	00:00	1989	1990	18
+Sheffield Wednesday	Queens Park Rangers	2:0	2:0	16.12.1989	00:00	1989	1990	18
+Norwich City	Derby County	1:0	1:0	16.12.1989	00:00	1989	1990	18
+Millwall FC	Aston Villa	0:0	2:0	16.12.1989	00:00	1989	1990	18
+Coventry City	Wimbledon FC	1:1	2:1	16.12.1989	00:00	1989	1990	18
+Chelsea FC	Liverpool FC	1:3	2:5	16.12.1989	00:00	1989	1990	18
+Charlton Athletic	Crystal Palace	0:2	1:2	16.12.1989	00:00	1989	1990	18
+Arsenal FC	Luton Town	1:1	3:2	16.12.1989	00:00	1989	1990	18
+Everton FC	Manchester City	0:0	0:0	17.12.1989	00:00	1989	1990	18
+Nottingham Forest	Southampton FC	1:0	2:0	17.12.1989	00:00	1989	1990	18
+Tottenham Hotspur	Millwall FC	3:0	3:1	26.12.1989	00:00	1989	1990	19
+Southampton FC	Arsenal FC	0:0	1:0	26.12.1989	00:00	1989	1990	19
+Queens Park Rangers	Coventry City	1:0	1:1	26.12.1989	00:00	1989	1990	19
+Manchester City	Norwich City	0:0	1:0	26.12.1989	00:00	1989	1990	19
+Luton Town	Nottingham Forest	0:1	1:1	26.12.1989	00:00	1989	1990	19
+Derby County	Everton FC	0:1	0:1	26.12.1989	00:00	1989	1990	19
+Crystal Palace	Chelsea FC	1:1	2:2	26.12.1989	00:00	1989	1990	19
+Aston Villa	Manchester United	0:0	3:0	26.12.1989	00:00	1989	1990	19
+Wimbledon FC	Charlton Athletic	2:0	3:1	26.12.1989	00:00	1989	1990	19
+Liverpool FC	Sheffield Wednesday	1:0	2:1	26.12.1989	00:00	1989	1990	19
+Tottenham Hotspur	Nottingham Forest	1:2	2:3	30.12.1989	00:00	1989	1990	20
+Queens Park Rangers	Everton FC	1:0	1:0	30.12.1989	00:00	1989	1990	20
+Manchester City	Millwall FC	1:0	2:0	30.12.1989	00:00	1989	1990	20
+Luton Town	Chelsea FC	0:1	0:3	30.12.1989	00:00	1989	1990	20
+Liverpool FC	Charlton Athletic	1:0	1:0	30.12.1989	00:00	1989	1990	20
+Derby County	Coventry City	2:0	4:1	30.12.1989	00:00	1989	1990	20
+Crystal Palace	Norwich City	0:0	1:0	30.12.1989	00:00	1989	1990	20
+Aston Villa	Arsenal FC	1:0	2:1	30.12.1989	00:00	1989	1990	20
+Wimbledon FC	Manchester United	1:0	2:2	30.12.1989	00:00	1989	1990	20
+Southampton FC	Sheffield Wednesday	1:1	2:2	30.12.1989	00:00	1989	1990	20
+Arsenal FC	Crystal Palace	4:1	4:1	01.01.1990	00:00	1989	1990	21
+Charlton Athletic	Southampton FC	1:2	2:4	01.01.1990	00:00	1989	1990	21
+Chelsea FC	Aston Villa	0:1	0:3	01.01.1990	00:00	1989	1990	21
+Coventry City	Tottenham Hotspur	0:0	0:0	01.01.1990	00:00	1989	1990	21
+Everton FC	Luton Town	2:0	2:1	01.01.1990	00:00	1989	1990	21
+Manchester United	Queens Park Rangers	0:0	0:0	01.01.1990	00:00	1989	1990	21
+Millwall FC	Derby County	0:1	1:1	01.01.1990	00:00	1989	1990	21
+Norwich City	Wimbledon FC	0:0	0:1	01.01.1990	00:00	1989	1990	21
+Nottingham Forest	Liverpool FC	0:2	2:2	01.01.1990	00:00	1989	1990	21
+Sheffield Wednesday	Manchester City	1:0	2:0	01.01.1990	00:00	1989	1990	21
+Tottenham Hotspur	Manchester City	1:0	1:1	13.01.1990	00:00	1989	1990	22
+Southampton FC	Everton FC	1:1	2:2	13.01.1990	00:00	1989	1990	22
+Queens Park Rangers	Norwich City	0:0	2:1	13.01.1990	00:00	1989	1990	22
+Nottingham Forest	Millwall FC	1:0	3:1	13.01.1990	00:00	1989	1990	22
+Manchester United	Derby County	0:1	1:2	13.01.1990	00:00	1989	1990	22
+Coventry City	Crystal Palace	0:0	1:0	13.01.1990	00:00	1989	1990	22
+Charlton Athletic	Aston Villa	0:1	0:2	13.01.1990	00:00	1989	1990	22
+Wimbledon FC	Arsenal FC	0:0	1:0	13.01.1990	00:00	1989	1990	22
+Liverpool FC	Luton Town	1:0	2:2	13.01.1990	00:00	1989	1990	22
+Sheffield Wednesday	Chelsea FC	0:1	1:1	14.01.1990	00:00	1989	1990	22
+Millwall FC	Wimbledon FC	0:0	0:0	20.01.1990	00:00	1989	1990	23
+Manchester City	Coventry City	0:0	1:0	20.01.1990	00:00	1989	1990	23
+Luton Town	Queens Park Rangers	1:1	1:1	20.01.1990	00:00	1989	1990	23
+Derby County	Nottingham Forest	0:2	0:2	20.01.1990	00:00	1989	1990	23
+Chelsea FC	Charlton Athletic	2:1	3:1	20.01.1990	00:00	1989	1990	23
+Aston Villa	Southampton FC	1:0	2:1	20.01.1990	00:00	1989	1990	23
+Arsenal FC	Tottenham Hotspur	0:0	1:0	20.01.1990	00:00	1989	1990	23
+Norwich City	Manchester United	0:0	2:0	20.01.1990	00:00	1989	1990	23
+Crystal Palace	Liverpool FC	0:1	0:2	20.01.1990	00:00	1989	1990	23
+Everton FC	Sheffield Wednesday	0:0	2:0	20.01.1990	00:00	1989	1990	23
+Coventry City	Chelsea FC	2:1	3:2	03.02.1990	00:00	1989	1990	24
+Manchester United	Manchester City	0:0	1:1	03.02.1990	00:00	1989	1990	24
+Nottingham Forest	Crystal Palace	1:0	3:1	03.02.1990	00:00	1989	1990	24
+Liverpool FC	Everton FC	2:1	2:1	03.02.1990	00:00	1989	1990	24
+Sheffield Wednesday	Millwall FC	1:1	1:1	03.02.1990	00:00	1989	1990	24
+Tottenham Hotspur	Norwich City	2:0	4:0	04.02.1990	00:00	1989	1990	24
+Wimbledon FC	Luton Town	0:0	1:2	14.02.1990	00:00	1989	1990	24
+Charlton Athletic	Arsenal FC	0:0	0:0	27.02.1990	00:00	1989	1990	24
+Southampton FC	Derby County	0:0	2:1	10.03.1990	00:00	1989	1990	24
+Queens Park Rangers	Aston Villa	0:0	1:1	20.03.1990	00:00	1989	1990	24
+Crystal Palace	Southampton FC	1:0	3:1	10.02.1990	00:00	1989	1990	25
+Derby County	Queens Park Rangers	1:0	2:0	10.02.1990	00:00	1989	1990	25
+Everton FC	Charlton Athletic	1:1	2:1	10.02.1990	00:00	1989	1990	25
+Manchester City	Wimbledon FC	0:0	1:1	10.02.1990	00:00	1989	1990	25
+Chelsea FC	Tottenham Hotspur	0:1	1:2	10.02.1990	00:00	1989	1990	25
+Millwall FC	Manchester United	1:0	1:2	10.02.1990	00:00	1989	1990	25
+Aston Villa	Sheffield Wednesday	0:0	1:0	10.02.1990	00:00	1989	1990	25
+Norwich City	Liverpool FC	0:0	0:0	10.02.1990	00:00	1989	1990	25
+Arsenal FC	Nottingham Forest	1:0	3:0	07.03.1990	00:00	1989	1990	25
+Luton Town	Coventry City	1:0	3:2	07.03.1990	00:00	1989	1990	25
+Nottingham Forest	Chelsea FC	0:0	1:1	17.02.1990	00:00	1989	1990	26
+Coventry City	Millwall FC	2:1	3:1	17.02.1990	00:00	1989	1990	26
+Sheffield Wednesday	Arsenal FC	1:0	1:0	17.02.1990	00:00	1989	1990	26
+Charlton Athletic	Luton Town	1:0	2:0	19.02.1990	00:00	1989	1990	26
+Tottenham Hotspur	Aston Villa	0:0	0:2	21.02.1990	00:00	1989	1990	26
+Southampton FC	Norwich City	0:1	4:1	27.02.1990	00:00	1989	1990	26
+Manchester United	Everton FC	0:0	0:0	14.03.1990	00:00	1989	1990	26
+Queens Park Rangers	Manchester City	1:1	1:3	11.04.1990	00:00	1989	1990	26
+Liverpool FC	Derby County	0:0	1:0	01.05.1990	00:00	1989	1990	26
+Wimbledon FC	Crystal Palace	0:0	0:1	02.05.1990	00:00	1989	1990	26
+Luton Town	Southampton FC	1:1	1:1	24.02.1990	00:00	1989	1990	27
+Millwall FC	Queens Park Rangers	0:1	1:2	24.02.1990	00:00	1989	1990	27
+Manchester City	Charlton Athletic	0:0	1:2	24.02.1990	00:00	1989	1990	27
+Chelsea FC	Manchester United	1:0	1:0	24.02.1990	00:00	1989	1990	27
+Aston Villa	Wimbledon FC	0:0	0:3	24.02.1990	00:00	1989	1990	27
+Derby County	Tottenham Hotspur	1:0	2:1	24.02.1990	00:00	1989	1990	27
+Crystal Palace	Sheffield Wednesday	0:1	1:1	24.02.1990	00:00	1989	1990	27
+Norwich City	Coventry City	0:0	0:0	14.03.1990	00:00	1989	1990	27
+Everton FC	Nottingham Forest	3:0	4:0	04.04.1990	00:00	1989	1990	27
+Arsenal FC	Liverpool FC	1:0	1:1	18.04.1990	00:00	1989	1990	27
+Nottingham Forest	Manchester City	0:0	1:0	03.03.1990	00:00	1989	1990	28
+Queens Park Rangers	Arsenal FC	0:0	2:0	03.03.1990	00:00	1989	1990	28
+Wimbledon FC	Everton FC	1:1	3:1	03.03.1990	00:00	1989	1990	28
+Southampton FC	Chelsea FC	2:1	2:3	03.03.1990	00:00	1989	1990	28
+Manchester United	Luton Town	3:0	4:1	03.03.1990	00:00	1989	1990	28
+Liverpool FC	Millwall FC	0:0	1:0	03.03.1990	00:00	1989	1990	28
+Charlton Athletic	Norwich City	0:1	0:1	03.03.1990	00:00	1989	1990	28
+Tottenham Hotspur	Crystal Palace	0:0	0:1	03.03.1990	00:00	1989	1990	28
+Sheffield Wednesday	Derby County	1:0	1:0	03.03.1990	00:00	1989	1990	28
+Coventry City	Aston Villa	0:0	2:0	04.03.1990	00:00	1989	1990	28
+Nottingham Forest	Coventry City	0:2	2:4	10.03.1990	00:00	1989	1990	29
+Manchester City	Arsenal FC	1:0	1:1	10.03.1990	00:00	1989	1990	29
+Aston Villa	Luton Town	1:0	2:0	10.03.1990	00:00	1989	1990	29
+Chelsea FC	Norwich City	0:0	0:0	10.03.1990	00:00	1989	1990	29
+Tottenham Hotspur	Charlton Athletic	1:0	3:0	10.03.1990	00:00	1989	1990	29
+Crystal Palace	Derby County	0:0	1:1	20.03.1990	00:00	1989	1990	29
+Millwall FC	Everton FC	1:1	1:2	21.03.1990	00:00	1989	1990	29
+Sheffield Wednesday	Manchester United	1:0	1:0	21.03.1990	00:00	1989	1990	29
+Liverpool FC	Wimbledon FC	2:0	2:1	03.04.1990	00:00	1989	1990	29
+Southampton FC	Queens Park Rangers	0:0	0:2	03.04.1990	00:00	1989	1990	29
+Queens Park Rangers	Tottenham Hotspur	1:0	3:1	17.03.1990	00:00	1989	1990	30
+Everton FC	Crystal Palace	2:0	4:0	17.03.1990	00:00	1989	1990	30
+Wimbledon FC	Southampton FC	2:1	3:3	17.03.1990	00:00	1989	1990	30
+Norwich City	Millwall FC	0:0	1:1	17.03.1990	00:00	1989	1990	30
+Derby County	Aston Villa	0:0	0:1	17.03.1990	00:00	1989	1990	30
+Arsenal FC	Chelsea FC	0:0	0:1	17.03.1990	00:00	1989	1990	30
+Charlton Athletic	Nottingham Forest	1:0	1:1	17.03.1990	00:00	1989	1990	30
+Coventry City	Sheffield Wednesday	1:1	1:4	17.03.1990	00:00	1989	1990	30
+Luton Town	Manchester City	0:0	1:1	17.03.1990	00:00	1989	1990	30
+Manchester United	Liverpool FC	0:1	1:2	18.03.1990	00:00	1989	1990	30
+Tottenham Hotspur	Liverpool FC	0:0	1:0	21.03.1990	00:00	1989	1990	31
+Manchester City	Chelsea FC	1:1	1:1	21.03.1990	00:00	1989	1990	31
+Crystal Palace	Aston Villa	1:0	1:0	24.03.1990	00:00	1989	1990	31
+Derby County	Arsenal FC	0:3	1:3	24.03.1990	00:00	1989	1990	31
+Everton FC	Norwich City	0:1	3:1	24.03.1990	00:00	1989	1990	31
+Queens Park Rangers	Nottingham Forest	1:0	2:0	24.03.1990	00:00	1989	1990	31
+Coventry City	Charlton Athletic	1:0	1:2	24.03.1990	00:00	1989	1990	31
+Luton Town	Millwall FC	1:0	2:1	24.03.1990	00:00	1989	1990	31
+Southampton FC	Manchester United	0:0	0:2	24.03.1990	00:00	1989	1990	31
+Wimbledon FC	Sheffield Wednesday	0:0	1:1	24.03.1990	00:00	1989	1990	31
+Liverpool FC	Southampton FC	1:2	3:2	31.03.1990	00:00	1989	1990	32
+Arsenal FC	Everton FC	1:0	1:0	31.03.1990	00:00	1989	1990	32
+Millwall FC	Crystal Palace	0:1	1:2	31.03.1990	00:00	1989	1990	32
+Nottingham Forest	Wimbledon FC	0:1	0:1	31.03.1990	00:00	1989	1990	32
+Charlton Athletic	Queens Park Rangers	0:0	1:0	31.03.1990	00:00	1989	1990	32
+Chelsea FC	Derby County	0:0	1:1	31.03.1990	00:00	1989	1990	32
+Manchester United	Coventry City	2:0	3:0	31.03.1990	00:00	1989	1990	32
+Norwich City	Luton Town	1:0	2:0	31.03.1990	00:00	1989	1990	32
+Sheffield Wednesday	Tottenham Hotspur	1:1	2:4	31.03.1990	00:00	1989	1990	32
+Aston Villa	Manchester City	1:1	1:2	01.04.1990	00:00	1989	1990	32
+Norwich City	Crystal Palace	2:0	2:0	04.04.1990	00:00	1989	1990	33
+Everton FC	Queens Park Rangers	0:0	1:0	07.04.1990	00:00	1989	1990	33
+Chelsea FC	Luton Town	0:0	1:0	07.04.1990	00:00	1989	1990	33
+Coventry City	Derby County	0:0	1:0	07.04.1990	00:00	1989	1990	33
+Millwall FC	Manchester City	1:0	1:1	07.04.1990	00:00	1989	1990	33
+Nottingham Forest	Tottenham Hotspur	0:2	1:3	07.04.1990	00:00	1989	1990	33
+Sheffield Wednesday	Southampton FC	0:0	0:1	07.04.1990	00:00	1989	1990	33
+Arsenal FC	Aston Villa	0:0	0:1	11.04.1990	00:00	1989	1990	33
+Charlton Athletic	Liverpool FC	0:1	0:4	11.04.1990	00:00	1989	1990	33
+Manchester United	Wimbledon FC	0:0	0:0	30.04.1990	00:00	1989	1990	33
+Wimbledon FC	Norwich City	0:1	1:1	14.04.1990	00:00	1989	1990	34
+Crystal Palace	Arsenal FC	0:1	1:1	14.04.1990	00:00	1989	1990	34
+Liverpool FC	Nottingham Forest	2:0	2:2	14.04.1990	00:00	1989	1990	34
+Queens Park Rangers	Manchester United	1:0	1:2	14.04.1990	00:00	1989	1990	34
+Aston Villa	Chelsea FC	1:0	1:0	14.04.1990	00:00	1989	1990	34
+Derby County	Millwall FC	0:0	2:0	14.04.1990	00:00	1989	1990	34
+Luton Town	Everton FC	2:0	2:2	14.04.1990	00:00	1989	1990	34
+Southampton FC	Charlton Athletic	3:0	3:2	14.04.1990	00:00	1989	1990	34
+Tottenham Hotspur	Coventry City	1:2	3:2	14.04.1990	00:00	1989	1990	34
+Manchester City	Sheffield Wednesday	1:0	2:1	14.04.1990	00:00	1989	1990	34
+Sheffield Wednesday	Liverpool FC	0:0	2:0	29.11.1989	00:00	1989	1990	35
+Nottingham Forest	Luton Town	0:0	3:0	16.04.1990	00:00	1989	1990	35
+Norwich City	Manchester City	0:1	0:1	16.04.1990	00:00	1989	1990	35
+Millwall FC	Tottenham Hotspur	0:0	0:1	16.04.1990	00:00	1989	1990	35
+Everton FC	Derby County	0:0	2:1	16.04.1990	00:00	1989	1990	35
+Coventry City	Queens Park Rangers	1:1	1:1	16.04.1990	00:00	1989	1990	35
+Chelsea FC	Crystal Palace	1:0	3:0	16.04.1990	00:00	1989	1990	35
+Manchester United	Aston Villa	2:0	2:0	17.04.1990	00:00	1989	1990	35
+Charlton Athletic	Wimbledon FC	0:2	1:2	17.04.1990	00:00	1989	1990	35
+Arsenal FC	Southampton FC	0:0	2:1	02.05.1990	00:00	1989	1990	35
+Derby County	Norwich City	0:1	0:2	21.04.1990	00:00	1989	1990	36
+Liverpool FC	Chelsea FC	2:0	4:1	21.04.1990	00:00	1989	1990	36
+Luton Town	Arsenal FC	1:0	2:0	21.04.1990	00:00	1989	1990	36
+Tottenham Hotspur	Manchester United	2:0	2:1	21.04.1990	00:00	1989	1990	36
+Aston Villa	Millwall FC	0:0	1:0	21.04.1990	00:00	1989	1990	36
+Wimbledon FC	Coventry City	0:0	0:0	21.04.1990	00:00	1989	1990	36
+Southampton FC	Nottingham Forest	1:0	2:0	21.04.1990	00:00	1989	1990	36
+Queens Park Rangers	Sheffield Wednesday	1:0	1:0	21.04.1990	00:00	1989	1990	36
+Manchester City	Everton FC	0:0	1:0	21.04.1990	00:00	1989	1990	36
+Crystal Palace	Charlton Athletic	0:0	2:0	21.04.1990	00:00	1989	1990	36
+Arsenal FC	Millwall FC	2:0	2:0	28.04.1990	00:00	1989	1990	37
+Liverpool FC	Queens Park Rangers	1:1	2:1	28.04.1990	00:00	1989	1990	37
+Luton Town	Crystal Palace	0:0	1:0	28.04.1990	00:00	1989	1990	37
+Manchester City	Derby County	0:0	0:1	28.04.1990	00:00	1989	1990	37
+Aston Villa	Norwich City	0:1	3:3	28.04.1990	00:00	1989	1990	37
+Charlton Athletic	Sheffield Wednesday	0:1	1:2	28.04.1990	00:00	1989	1990	37
+Chelsea FC	Everton FC	0:0	2:1	28.04.1990	00:00	1989	1990	37
+Southampton FC	Coventry City	2:0	3:0	28.04.1990	00:00	1989	1990	37
+Wimbledon FC	Tottenham Hotspur	1:0	1:0	28.04.1990	00:00	1989	1990	37
+Nottingham Forest	Manchester United	4:0	4:0	02.05.1990	00:00	1989	1990	37
+Coventry City	Liverpool FC	1:3	1:6	05.05.1990	00:00	1989	1990	38
+Sheffield Wednesday	Nottingham Forest	0:1	0:3	05.05.1990	00:00	1989	1990	38
+Queens Park Rangers	Wimbledon FC	1:1	2:3	05.05.1990	00:00	1989	1990	38
+Norwich City	Arsenal FC	2:1	2:2	05.05.1990	00:00	1989	1990	38
+Millwall FC	Chelsea FC	0:1	1:3	05.05.1990	00:00	1989	1990	38
+Manchester United	Charlton Athletic	1:0	1:0	05.05.1990	00:00	1989	1990	38
+Everton FC	Aston Villa	1:0	3:3	05.05.1990	00:00	1989	1990	38
+Derby County	Luton Town	2:2	2:3	05.05.1990	00:00	1989	1990	38
+Crystal Palace	Manchester City	2:0	2:2	05.05.1990	00:00	1989	1990	38
+Tottenham Hotspur	Southampton FC	2:0	2:1	05.05.1990	00:00	1989	1990	38

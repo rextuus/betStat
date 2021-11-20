@@ -1,0 +1,462 @@
+Sheffield United	Swindon Town	1:0	3:1	14.08.1993	00:00	1993	1994	1
+Arsenal FC	Coventry City	0:1	0:3	14.08.1993	00:00	1993	1994	1
+Southampton FC	Everton FC	0:2	0:2	14.08.1993	00:00	1993	1994	1
+Oldham Athletic	Ipswich Town	0:2	0:3	14.08.1993	00:00	1993	1994	1
+Newcastle United	Tottenham Hotspur	0:1	0:1	14.08.1993	00:00	1993	1994	1
+Manchester City	Leeds United	0:0	1:1	14.08.1993	00:00	1993	1994	1
+Liverpool FC	Sheffield Wednesday	1:0	2:0	14.08.1993	00:00	1993	1994	1
+Chelsea FC	Blackburn Rovers	0:0	1:2	14.08.1993	00:00	1993	1994	1
+Aston Villa	Queens Park Rangers	1:1	4:1	14.08.1993	00:00	1993	1994	1
+West Ham United	Wimbledon FC	0:0	0:2	14.08.1993	00:00	1993	1994	1
+Norwich City	Manchester United	0:1	0:2	15.08.1993	00:00	1993	1994	1
+Tottenham Hotspur	Arsenal FC	0:0	0:1	16.08.1993	00:00	1993	1994	2
+Leeds United	West Ham United	0:0	1:0	17.08.1993	00:00	1993	1994	2
+Ipswich Town	Southampton FC	0:0	1:0	17.08.1993	00:00	1993	1994	2
+Everton FC	Manchester City	1:0	1:0	17.08.1993	00:00	1993	1994	2
+Wimbledon FC	Chelsea FC	0:0	1:1	17.08.1993	00:00	1993	1994	2
+Manchester United	Sheffield United	2:0	3:0	18.08.1993	00:00	1993	1994	2
+Blackburn Rovers	Norwich City	1:1	2:3	18.08.1993	00:00	1993	1994	2
+Swindon Town	Oldham Athletic	0:0	0:1	18.08.1993	00:00	1993	1994	2
+Queens Park Rangers	Liverpool FC	1:3	1:3	18.08.1993	00:00	1993	1994	2
+Coventry City	Newcastle United	0:1	2:1	18.08.1993	00:00	1993	1994	2
+Sheffield Wednesday	Aston Villa	0:0	0:0	18.08.1993	00:00	1993	1994	2
+Leeds United	Norwich City	0:2	0:4	21.08.1993	00:00	1993	1994	3
+Wimbledon FC	Aston Villa	1:1	2:2	21.08.1993	00:00	1993	1994	3
+Tottenham Hotspur	Manchester City	0:0	1:0	21.08.1993	00:00	1993	1994	3
+Sheffield Wednesday	Arsenal FC	0:1	0:1	21.08.1993	00:00	1993	1994	3
+Manchester United	Newcastle United	1:0	1:1	21.08.1993	00:00	1993	1994	3
+Ipswich Town	Chelsea FC	1:0	1:0	21.08.1993	00:00	1993	1994	3
+Everton FC	Sheffield United	2:1	4:2	21.08.1993	00:00	1993	1994	3
+Coventry City	West Ham United	0:1	1:1	21.08.1993	00:00	1993	1994	3
+Blackburn Rovers	Oldham Athletic	1:0	1:0	21.08.1993	00:00	1993	1994	3
+Queens Park Rangers	Southampton FC	1:0	2:1	21.08.1993	00:00	1993	1994	3
+Swindon Town	Liverpool FC	0:2	0:5	22.08.1993	00:00	1993	1994	3
+Aston Villa	Manchester United	1:1	1:2	23.08.1993	00:00	1993	1994	4
+Oldham Athletic	Coventry City	1:1	3:3	24.08.1993	00:00	1993	1994	4
+Manchester City	Blackburn Rovers	0:1	0:2	24.08.1993	00:00	1993	1994	4
+Arsenal FC	Leeds United	1:0	2:1	24.08.1993	00:00	1993	1994	4
+Sheffield United	Wimbledon FC	1:0	2:1	24.08.1993	00:00	1993	1994	4
+Chelsea FC	Queens Park Rangers	1:0	2:0	25.08.1993	00:00	1993	1994	4
+Newcastle United	Everton FC	1:0	1:0	25.08.1993	00:00	1993	1994	4
+West Ham United	Sheffield Wednesday	0:0	2:0	25.08.1993	00:00	1993	1994	4
+Norwich City	Ipswich Town	1:0	1:0	25.08.1993	00:00	1993	1994	4
+Liverpool FC	Tottenham Hotspur	1:2	1:2	25.08.1993	00:00	1993	1994	4
+Southampton FC	Swindon Town	1:0	5:1	25.08.1993	00:00	1993	1994	4
+Manchester City	Coventry City	1:0	1:1	27.08.1993	00:00	1993	1994	5
+Liverpool FC	Leeds United	2:0	2:0	28.08.1993	00:00	1993	1994	5
+West Ham United	Queens Park Rangers	0:1	0:4	28.08.1993	00:00	1993	1994	5
+Southampton FC	Manchester United	1:2	1:3	28.08.1993	00:00	1993	1994	5
+Sheffield United	Ipswich Town	1:0	1:1	28.08.1993	00:00	1993	1994	5
+Norwich City	Swindon Town	0:0	0:0	28.08.1993	00:00	1993	1994	5
+Chelsea FC	Sheffield Wednesday	1:1	1:1	28.08.1993	00:00	1993	1994	5
+Aston Villa	Tottenham Hotspur	0:0	1:0	28.08.1993	00:00	1993	1994	5
+Arsenal FC	Everton FC	0:0	2:0	28.08.1993	00:00	1993	1994	5
+Oldham Athletic	Wimbledon FC	1:0	1:1	28.08.1993	00:00	1993	1994	5
+Newcastle United	Blackburn Rovers	0:0	1:1	29.08.1993	00:00	1993	1994	5
+Wimbledon FC	Southampton FC	1:0	1:0	31.08.1993	00:00	1993	1994	6
+Ipswich Town	Newcastle United	0:0	1:1	31.08.1993	00:00	1993	1994	6
+Everton FC	Aston Villa	0:1	0:1	31.08.1993	00:00	1993	1994	6
+Leeds United	Oldham Athletic	1:0	1:0	31.08.1993	00:00	1993	1994	6
+Blackburn Rovers	Arsenal FC	1:0	1:1	01.09.1993	00:00	1993	1994	6
+Swindon Town	Manchester City	0:0	1:3	01.09.1993	00:00	1993	1994	6
+Sheffield Wednesday	Norwich City	0:0	3:3	01.09.1993	00:00	1993	1994	6
+Queens Park Rangers	Sheffield United	1:1	2:1	01.09.1993	00:00	1993	1994	6
+Tottenham Hotspur	Chelsea FC	0:1	1:1	01.09.1993	00:00	1993	1994	6
+Manchester United	West Ham United	2:0	3:0	01.09.1993	00:00	1993	1994	6
+Coventry City	Liverpool FC	1:0	1:0	01.09.1993	00:00	1993	1994	6
+Norwich City	Wimbledon FC	0:0	0:1	11.09.1993	00:00	1993	1994	7
+West Ham United	Swindon Town	0:0	0:0	11.09.1993	00:00	1993	1994	7
+Southampton FC	Leeds United	0:0	0:2	11.09.1993	00:00	1993	1994	7
+Oldham Athletic	Everton FC	0:1	0:1	11.09.1993	00:00	1993	1994	7
+Manchester City	Queens Park Rangers	2:0	3:0	11.09.1993	00:00	1993	1994	7
+Chelsea FC	Manchester United	1:0	1:0	11.09.1993	00:00	1993	1994	7
+Aston Villa	Coventry City	0:0	0:0	11.09.1993	00:00	1993	1994	7
+Arsenal FC	Ipswich Town	2:0	4:0	11.09.1993	00:00	1993	1994	7
+Sheffield United	Tottenham Hotspur	0:1	2:2	11.09.1993	00:00	1993	1994	7
+Liverpool FC	Blackburn Rovers	0:0	0:1	12.09.1993	00:00	1993	1994	7
+Newcastle United	Sheffield Wednesday	1:1	4:2	13.09.1993	00:00	1993	1994	7
+Sheffield Wednesday	Southampton FC	0:0	2:0	18.09.1993	00:00	1993	1994	8
+Coventry City	Chelsea FC	0:1	1:1	18.09.1993	00:00	1993	1994	8
+Tottenham Hotspur	Oldham Athletic	3:0	5:0	18.09.1993	00:00	1993	1994	8
+Swindon Town	Newcastle United	0:2	2:2	18.09.1993	00:00	1993	1994	8
+Leeds United	Sheffield United	2:1	2:1	18.09.1993	00:00	1993	1994	8
+Blackburn Rovers	West Ham United	0:1	0:2	18.09.1993	00:00	1993	1994	8
+Everton FC	Liverpool FC	1:0	2:0	18.09.1993	00:00	1993	1994	8
+Ipswich Town	Aston Villa	1:1	1:2	18.09.1993	00:00	1993	1994	8
+Queens Park Rangers	Norwich City	1:2	2:2	18.09.1993	00:00	1993	1994	8
+Manchester United	Arsenal FC	1:0	1:0	19.09.1993	00:00	1993	1994	8
+Wimbledon FC	Manchester City	0:0	1:0	20.09.1993	00:00	1993	1994	8
+Everton FC	Norwich City	1:1	1:5	25.09.1993	00:00	1993	1994	9
+Sheffield United	Manchester City	0:0	0:1	25.09.1993	00:00	1993	1994	9
+Oldham Athletic	Aston Villa	1:0	1:1	25.09.1993	00:00	1993	1994	9
+Manchester United	Swindon Town	2:0	4:2	25.09.1993	00:00	1993	1994	9
+Coventry City	Leeds United	0:1	0:2	25.09.1993	00:00	1993	1994	9
+Chelsea FC	Liverpool FC	0:0	1:0	25.09.1993	00:00	1993	1994	9
+Blackburn Rovers	Sheffield Wednesday	0:0	1:1	25.09.1993	00:00	1993	1994	9
+Arsenal FC	Southampton FC	1:0	1:0	25.09.1993	00:00	1993	1994	9
+Newcastle United	West Ham United	0:0	2:0	25.09.1993	00:00	1993	1994	9
+Ipswich Town	Tottenham Hotspur	0:1	2:2	26.09.1993	00:00	1993	1994	9
+Wimbledon FC	Queens Park Rangers	1:1	1:1	27.09.1993	00:00	1993	1994	9
+Swindon Town	Blackburn Rovers	1:1	1:3	02.10.1993	00:00	1993	1994	10
+Queens Park Rangers	Ipswich Town	0:0	3:0	02.10.1993	00:00	1993	1994	10
+West Ham United	Chelsea FC	1:0	1:0	02.10.1993	00:00	1993	1994	10
+Aston Villa	Newcastle United	0:0	0:2	02.10.1993	00:00	1993	1994	10
+Norwich City	Coventry City	1:0	1:0	02.10.1993	00:00	1993	1994	10
+Liverpool FC	Arsenal FC	0:0	0:0	02.10.1993	00:00	1993	1994	10
+Leeds United	Wimbledon FC	2:0	4:0	02.10.1993	00:00	1993	1994	10
+Southampton FC	Sheffield United	1:0	3:3	02.10.1993	00:00	1993	1994	10
+Sheffield Wednesday	Manchester United	0:0	2:3	02.10.1993	00:00	1993	1994	10
+Tottenham Hotspur	Everton FC	0:1	3:2	03.10.1993	00:00	1993	1994	10
+Manchester City	Oldham Athletic	0:0	1:1	04.10.1993	00:00	1993	1994	10
+Manchester United	Tottenham Hotspur	0:0	2:1	16.10.1993	00:00	1993	1994	11
+West Ham United	Aston Villa	0:0	0:0	16.10.1993	00:00	1993	1994	11
+Swindon Town	Everton FC	0:1	1:1	16.10.1993	00:00	1993	1994	11
+Newcastle United	Queens Park Rangers	0:1	1:2	16.10.1993	00:00	1993	1994	11
+Liverpool FC	Oldham Athletic	0:0	2:1	16.10.1993	00:00	1993	1994	11
+Coventry City	Southampton FC	0:0	1:1	16.10.1993	00:00	1993	1994	11
+Chelsea FC	Norwich City	0:1	1:2	16.10.1993	00:00	1993	1994	11
+Arsenal FC	Manchester City	0:0	0:0	16.10.1993	00:00	1993	1994	11
+Sheffield Wednesday	Wimbledon FC	1:0	2:2	16.10.1993	00:00	1993	1994	11
+Ipswich Town	Leeds United	0:0	0:0	17.10.1993	00:00	1993	1994	11
+Blackburn Rovers	Sheffield United	0:0	0:0	18.10.1993	00:00	1993	1994	11
+Queens Park Rangers	Coventry City	3:0	5:1	23.10.1993	00:00	1993	1994	12
+Tottenham Hotspur	Swindon Town	0:0	1:1	23.10.1993	00:00	1993	1994	12
+Sheffield United	Sheffield Wednesday	1:1	1:1	23.10.1993	00:00	1993	1994	12
+Norwich City	West Ham United	0:0	0:0	23.10.1993	00:00	1993	1994	12
+Manchester City	Liverpool FC	0:0	1:1	23.10.1993	00:00	1993	1994	12
+Leeds United	Blackburn Rovers	0:1	3:3	23.10.1993	00:00	1993	1994	12
+Aston Villa	Chelsea FC	1:0	1:0	23.10.1993	00:00	1993	1994	12
+Everton FC	Manchester United	0:0	0:1	23.10.1993	00:00	1993	1994	12
+Oldham Athletic	Arsenal FC	0:0	0:0	23.10.1993	00:00	1993	1994	12
+Southampton FC	Newcastle United	0:0	2:1	24.10.1993	00:00	1993	1994	12
+Wimbledon FC	Ipswich Town	0:0	0:2	25.10.1993	00:00	1993	1994	12
+Swindon Town	Aston Villa	1:1	1:2	30.10.1993	00:00	1993	1994	13
+Sheffield Wednesday	Leeds United	2:1	3:3	30.10.1993	00:00	1993	1994	13
+Newcastle United	Wimbledon FC	1:0	4:0	30.10.1993	00:00	1993	1994	13
+Liverpool FC	Southampton FC	2:1	4:2	30.10.1993	00:00	1993	1994	13
+Ipswich Town	Everton FC	0:1	0:2	30.10.1993	00:00	1993	1994	13
+Chelsea FC	Oldham Athletic	0:1	0:1	30.10.1993	00:00	1993	1994	13
+Blackburn Rovers	Tottenham Hotspur	1:0	1:0	30.10.1993	00:00	1993	1994	13
+Arsenal FC	Norwich City	0:0	0:0	30.10.1993	00:00	1993	1994	13
+Manchester United	Queens Park Rangers	0:1	2:1	30.10.1993	00:00	1993	1994	13
+Coventry City	Sheffield United	0:0	0:0	31.10.1993	00:00	1993	1994	13
+West Ham United	Manchester City	2:0	3:1	01.11.1993	00:00	1993	1994	13
+Sheffield United	Norwich City	1:1	1:2	06.11.1993	00:00	1993	1994	14
+Queens Park Rangers	Blackburn Rovers	0:0	1:0	06.11.1993	00:00	1993	1994	14
+Liverpool FC	West Ham United	0:0	2:0	06.11.1993	00:00	1993	1994	14
+Arsenal FC	Aston Villa	0:0	1:2	06.11.1993	00:00	1993	1994	14
+Southampton FC	Tottenham Hotspur	0:0	1:0	06.11.1993	00:00	1993	1994	14
+Leeds United	Chelsea FC	0:0	4:1	06.11.1993	00:00	1993	1994	14
+Ipswich Town	Sheffield Wednesday	0:1	1:4	06.11.1993	00:00	1993	1994	14
+Coventry City	Everton FC	1:0	2:1	06.11.1993	00:00	1993	1994	14
+Wimbledon FC	Swindon Town	1:0	3:0	06.11.1993	00:00	1993	1994	14
+Manchester City	Manchester United	2:0	2:3	07.11.1993	00:00	1993	1994	14
+Oldham Athletic	Newcastle United	1:0	1:3	08.11.1993	00:00	1993	1994	14
+West Ham United	Oldham Athletic	1:0	2:0	20.11.1993	00:00	1993	1994	15
+Swindon Town	Ipswich Town	1:1	2:2	20.11.1993	00:00	1993	1994	15
+Chelsea FC	Arsenal FC	0:2	0:2	20.11.1993	00:00	1993	1994	15
+Tottenham Hotspur	Leeds United	0:0	1:1	20.11.1993	00:00	1993	1994	15
+Manchester United	Wimbledon FC	0:0	3:1	20.11.1993	00:00	1993	1994	15
+Aston Villa	Sheffield United	0:0	1:0	20.11.1993	00:00	1993	1994	15
+Everton FC	Queens Park Rangers	0:1	0:3	20.11.1993	00:00	1993	1994	15
+Sheffield Wednesday	Coventry City	0:0	0:0	20.11.1993	00:00	1993	1994	15
+Blackburn Rovers	Southampton FC	1:0	2:0	20.11.1993	00:00	1993	1994	15
+Norwich City	Manchester City	0:0	1:1	20.11.1993	00:00	1993	1994	15
+Newcastle United	Liverpool FC	3:0	3:0	21.11.1993	00:00	1993	1994	15
+Chelsea FC	Manchester City	0:0	0:0	22.11.1993	00:00	1993	1994	16
+Everton FC	Leeds United	0:0	1:1	23.11.1993	00:00	1993	1994	16
+Blackburn Rovers	Coventry City	1:0	2:1	23.11.1993	00:00	1993	1994	16
+Manchester United	Ipswich Town	0:0	0:0	24.11.1993	00:00	1993	1994	16
+West Ham United	Arsenal FC	0:0	0:0	24.11.1993	00:00	1993	1994	16
+Tottenham Hotspur	Wimbledon FC	1:0	1:1	24.11.1993	00:00	1993	1994	16
+Swindon Town	Queens Park Rangers	1:0	1:0	24.11.1993	00:00	1993	1994	16
+Newcastle United	Sheffield United	2:0	4:0	24.11.1993	00:00	1993	1994	16
+Aston Villa	Southampton FC	0:0	0:2	24.11.1993	00:00	1993	1994	16
+Sheffield Wednesday	Oldham Athletic	2:0	3:0	24.11.1993	00:00	1993	1994	16
+Norwich City	Liverpool FC	1:0	2:2	05.02.1994	00:00	1993	1994	16
+Sheffield United	Chelsea FC	1:0	1:0	27.11.1993	00:00	1993	1994	17
+Wimbledon FC	Everton FC	0:1	1:1	27.11.1993	00:00	1993	1994	17
+Queens Park Rangers	Tottenham Hotspur	1:0	1:1	27.11.1993	00:00	1993	1994	17
+Arsenal FC	Newcastle United	1:0	2:1	27.11.1993	00:00	1993	1994	17
+Manchester City	Sheffield Wednesday	0:0	1:3	27.11.1993	00:00	1993	1994	17
+Leeds United	Swindon Town	0:0	3:0	27.11.1993	00:00	1993	1994	17
+Ipswich Town	Blackburn Rovers	1:0	1:0	27.11.1993	00:00	1993	1994	17
+Coventry City	Manchester United	0:0	0:1	27.11.1993	00:00	1993	1994	17
+Oldham Athletic	Norwich City	0:0	2:1	27.11.1993	00:00	1993	1994	17
+Liverpool FC	Aston Villa	1:0	2:1	28.11.1993	00:00	1993	1994	17
+Southampton FC	West Ham United	0:2	0:2	29.11.1993	00:00	1993	1994	17
+Coventry City	Arsenal FC	0:0	1:0	04.12.1993	00:00	1993	1994	18
+Queens Park Rangers	Aston Villa	2:1	2:2	04.12.1993	00:00	1993	1994	18
+Wimbledon FC	West Ham United	0:1	1:2	04.12.1993	00:00	1993	1994	18
+Tottenham Hotspur	Newcastle United	0:0	1:2	04.12.1993	00:00	1993	1994	18
+Sheffield Wednesday	Liverpool FC	1:1	3:1	04.12.1993	00:00	1993	1994	18
+Manchester United	Norwich City	2:1	2:2	04.12.1993	00:00	1993	1994	18
+Leeds United	Manchester City	2:0	3:2	04.12.1993	00:00	1993	1994	18
+Ipswich Town	Oldham Athletic	0:0	0:0	04.12.1993	00:00	1993	1994	18
+Everton FC	Southampton FC	1:0	1:0	04.12.1993	00:00	1993	1994	18
+Swindon Town	Sheffield United	0:0	0:0	04.12.1993	00:00	1993	1994	18
+Blackburn Rovers	Chelsea FC	1:0	2:0	05.12.1993	00:00	1993	1994	18
+Arsenal FC	Tottenham Hotspur	0:1	1:1	06.12.1993	00:00	1993	1994	19
+Oldham Athletic	Swindon Town	1:0	2:1	07.12.1993	00:00	1993	1994	19
+Sheffield United	Manchester United	0:2	0:3	07.12.1993	00:00	1993	1994	19
+Southampton FC	Ipswich Town	0:0	0:1	08.12.1993	00:00	1993	1994	19
+West Ham United	Leeds United	0:0	0:1	08.12.1993	00:00	1993	1994	19
+Manchester City	Everton FC	1:0	1:0	08.12.1993	00:00	1993	1994	19
+Liverpool FC	Queens Park Rangers	2:1	3:2	08.12.1993	00:00	1993	1994	19
+Aston Villa	Sheffield Wednesday	1:1	2:2	08.12.1993	00:00	1993	1994	19
+Norwich City	Blackburn Rovers	1:1	2:2	22.02.1994	00:00	1993	1994	19
+Newcastle United	Coventry City	0:0	4:0	23.02.1994	00:00	1993	1994	19
+Chelsea FC	Wimbledon FC	1:0	2:0	16.03.1994	00:00	1993	1994	19
+Oldham Athletic	Blackburn Rovers	1:1	1:2	11.12.1993	00:00	1993	1994	20
+West Ham United	Coventry City	2:1	3:2	11.12.1993	00:00	1993	1994	20
+Southampton FC	Queens Park Rangers	0:1	0:1	11.12.1993	00:00	1993	1994	20
+Newcastle United	Manchester United	0:0	1:1	11.12.1993	00:00	1993	1994	20
+Sheffield United	Everton FC	0:0	0:0	11.12.1993	00:00	1993	1994	20
+Aston Villa	Wimbledon FC	0:0	0:1	11.12.1993	00:00	1993	1994	20
+Manchester City	Tottenham Hotspur	0:0	0:2	11.12.1993	00:00	1993	1994	20
+Liverpool FC	Swindon Town	0:0	2:2	11.12.1993	00:00	1993	1994	20
+Chelsea FC	Ipswich Town	1:0	1:1	11.12.1993	00:00	1993	1994	20
+Arsenal FC	Sheffield Wednesday	0:0	1:0	12.12.1993	00:00	1993	1994	20
+Norwich City	Leeds United	1:0	2:1	13.12.1993	00:00	1993	1994	20
+Tottenham Hotspur	Liverpool FC	1:0	3:3	18.12.1993	00:00	1993	1994	21
+Sheffield Wednesday	West Ham United	1:0	5:0	18.12.1993	00:00	1993	1994	21
+Blackburn Rovers	Manchester City	1:0	2:0	18.12.1993	00:00	1993	1994	21
+Wimbledon FC	Sheffield United	0:0	2:0	18.12.1993	00:00	1993	1994	21
+Swindon Town	Southampton FC	1:1	2:1	18.12.1993	00:00	1993	1994	21
+Leeds United	Arsenal FC	1:1	2:1	18.12.1993	00:00	1993	1994	21
+Ipswich Town	Norwich City	1:1	2:1	18.12.1993	00:00	1993	1994	21
+Everton FC	Newcastle United	0:1	0:2	18.12.1993	00:00	1993	1994	21
+Coventry City	Oldham Athletic	1:0	1:1	18.12.1993	00:00	1993	1994	21
+Manchester United	Aston Villa	1:0	3:1	19.12.1993	00:00	1993	1994	21
+Queens Park Rangers	Chelsea FC	0:0	1:1	13.04.1994	00:00	1993	1994	21
+Newcastle United	Leeds United	0:0	1:1	22.12.1993	00:00	1993	1994	22
+Manchester United	Blackburn Rovers	0:1	1:1	26.12.1993	00:00	1993	1994	22
+Wimbledon FC	Coventry City	1:1	1:2	26.12.1993	00:00	1993	1994	22
+Sheffield United	Liverpool FC	0:0	0:0	26.12.1993	00:00	1993	1994	22
+Ipswich Town	West Ham United	1:0	1:1	27.12.1993	00:00	1993	1994	22
+Tottenham Hotspur	Norwich City	0:2	1:3	27.12.1993	00:00	1993	1994	22
+Swindon Town	Arsenal FC	0:2	0:4	27.12.1993	00:00	1993	1994	22
+Southampton FC	Chelsea FC	1:1	3:1	27.12.1993	00:00	1993	1994	22
+Queens Park Rangers	Oldham Athletic	0:0	2:0	27.12.1993	00:00	1993	1994	22
+Everton FC	Sheffield Wednesday	0:2	0:2	27.12.1993	00:00	1993	1994	22
+Aston Villa	Manchester City	0:0	0:0	22.02.1994	00:00	1993	1994	22
+Chelsea FC	Newcastle United	1:0	1:0	28.12.1993	00:00	1993	1994	23
+West Ham United	Tottenham Hotspur	1:2	1:3	28.12.1993	00:00	1993	1994	23
+Liverpool FC	Wimbledon FC	1:1	1:1	28.12.1993	00:00	1993	1994	23
+Manchester City	Southampton FC	1:1	1:1	28.12.1993	00:00	1993	1994	23
+Sheffield Wednesday	Swindon Town	1:2	3:3	29.12.1993	00:00	1993	1994	23
+Oldham Athletic	Manchester United	2:3	2:5	29.12.1993	00:00	1993	1994	23
+Blackburn Rovers	Everton FC	2:0	2:0	29.12.1993	00:00	1993	1994	23
+Leeds United	Queens Park Rangers	0:0	1:1	29.12.1993	00:00	1993	1994	23
+Arsenal FC	Sheffield United	2:0	3:0	29.12.1993	00:00	1993	1994	23
+Norwich City	Aston Villa	1:0	1:2	29.12.1993	00:00	1993	1994	23
+Coventry City	Ipswich Town	1:0	1:0	02.02.1994	00:00	1993	1994	23
+Tottenham Hotspur	Coventry City	1:1	1:2	01.01.1994	00:00	1993	1994	24
+Manchester United	Leeds United	0:0	0:0	01.01.1994	00:00	1993	1994	24
+Swindon Town	Chelsea FC	0:2	1:3	01.01.1994	00:00	1993	1994	24
+Wimbledon FC	Arsenal FC	0:2	0:3	01.01.1994	00:00	1993	1994	24
+Southampton FC	Norwich City	0:1	0:1	01.01.1994	00:00	1993	1994	24
+Queens Park Rangers	Sheffield Wednesday	0:0	1:2	01.01.1994	00:00	1993	1994	24
+Aston Villa	Blackburn Rovers	0:1	0:1	01.01.1994	00:00	1993	1994	24
+Newcastle United	Manchester City	2:0	2:0	01.01.1994	00:00	1993	1994	24
+Sheffield United	Oldham Athletic	2:1	2:1	01.01.1994	00:00	1993	1994	24
+Everton FC	West Ham United	0:1	0:1	01.01.1994	00:00	1993	1994	24
+Ipswich Town	Liverpool FC	0:0	1:2	01.01.1994	00:00	1993	1994	24
+Chelsea FC	Everton FC	2:0	4:2	03.01.1994	00:00	1993	1994	25
+West Ham United	Sheffield United	0:0	0:0	03.01.1994	00:00	1993	1994	25
+Coventry City	Swindon Town	0:0	1:1	03.01.1994	00:00	1993	1994	25
+Arsenal FC	Queens Park Rangers	0:0	0:0	03.01.1994	00:00	1993	1994	25
+Sheffield Wednesday	Tottenham Hotspur	1:0	1:0	03.01.1994	00:00	1993	1994	25
+Norwich City	Newcastle United	1:1	1:2	04.01.1994	00:00	1993	1994	25
+Liverpool FC	Manchester United	2:3	3:3	04.01.1994	00:00	1993	1994	25
+Leeds United	Aston Villa	1:0	2:0	16.03.1994	00:00	1993	1994	25
+Ipswich Town	Manchester City	1:1	2:2	29.03.1994	00:00	1993	1994	25
+Wimbledon FC	Blackburn Rovers	0:1	4:1	29.03.1994	00:00	1993	1994	25
+Southampton FC	Oldham Athletic	0:2	1:3	30.03.1994	00:00	1993	1994	25
+Oldham Athletic	Liverpool FC	0:0	0:3	15.01.1994	00:00	1993	1994	26
+Sheffield United	Blackburn Rovers	1:1	1:2	15.01.1994	00:00	1993	1994	26
+Wimbledon FC	Sheffield Wednesday	2:0	2:1	15.01.1994	00:00	1993	1994	26
+Tottenham Hotspur	Manchester United	0:0	0:1	15.01.1994	00:00	1993	1994	26
+Norwich City	Chelsea FC	0:1	1:1	15.01.1994	00:00	1993	1994	26
+Aston Villa	West Ham United	2:1	3:1	15.01.1994	00:00	1993	1994	26
+Manchester City	Arsenal FC	0:0	0:0	15.01.1994	00:00	1993	1994	26
+Leeds United	Ipswich Town	0:0	0:0	15.01.1994	00:00	1993	1994	26
+Everton FC	Swindon Town	2:0	6:2	15.01.1994	00:00	1993	1994	26
+Southampton FC	Coventry City	1:0	1:0	15.01.1994	00:00	1993	1994	26
+Queens Park Rangers	Newcastle United	1:1	1:2	16.01.1994	00:00	1993	1994	26
+Liverpool FC	Manchester City	1:1	2:1	22.01.1994	00:00	1993	1994	27
+Swindon Town	Tottenham Hotspur	1:1	2:1	22.01.1994	00:00	1993	1994	27
+Sheffield Wednesday	Sheffield United	0:0	3:1	22.01.1994	00:00	1993	1994	27
+Manchester United	Everton FC	1:0	1:0	22.01.1994	00:00	1993	1994	27
+Ipswich Town	Wimbledon FC	0:0	0:0	22.01.1994	00:00	1993	1994	27
+Coventry City	Queens Park Rangers	0:1	0:1	22.01.1994	00:00	1993	1994	27
+Chelsea FC	Aston Villa	0:1	1:1	22.01.1994	00:00	1993	1994	27
+Arsenal FC	Oldham Athletic	1:1	1:1	22.01.1994	00:00	1993	1994	27
+Newcastle United	Southampton FC	1:1	1:2	22.01.1994	00:00	1993	1994	27
+Blackburn Rovers	Leeds United	1:0	2:1	23.01.1994	00:00	1993	1994	27
+West Ham United	Norwich City	1:1	3:3	24.01.1994	00:00	1993	1994	27
+Tottenham Hotspur	Sheffield Wednesday	0:1	1:3	05.02.1994	00:00	1993	1994	28
+Swindon Town	Coventry City	2:0	3:1	05.02.1994	00:00	1993	1994	28
+Manchester City	Ipswich Town	1:1	2:1	05.02.1994	00:00	1993	1994	28
+Blackburn Rovers	Wimbledon FC	3:0	3:0	05.02.1994	00:00	1993	1994	28
+Everton FC	Chelsea FC	3:1	4:2	05.02.1994	00:00	1993	1994	28
+Oldham Athletic	Southampton FC	2:1	2:1	05.02.1994	00:00	1993	1994	28
+Aston Villa	Leeds United	0:0	1:0	06.02.1994	00:00	1993	1994	28
+Sheffield United	West Ham United	1:2	3:2	28.03.1994	00:00	1993	1994	28
+Newcastle United	Norwich City	1:0	3:0	29.03.1994	00:00	1993	1994	28
+Manchester United	Liverpool FC	1:0	1:0	30.03.1994	00:00	1993	1994	28
+Queens Park Rangers	Arsenal FC	1:0	1:1	27.04.1994	00:00	1993	1994	28
+Queens Park Rangers	Manchester United	1:2	2:3	05.02.1994	00:00	1993	1994	29
+Aston Villa	Swindon Town	1:0	5:0	12.02.1994	00:00	1993	1994	29
+Wimbledon FC	Newcastle United	2:0	4:2	12.02.1994	00:00	1993	1994	29
+Tottenham Hotspur	Blackburn Rovers	0:0	0:2	12.02.1994	00:00	1993	1994	29
+Oldham Athletic	Chelsea FC	1:0	2:1	12.02.1994	00:00	1993	1994	29
+Manchester City	West Ham United	0:0	0:0	12.02.1994	00:00	1993	1994	29
+Everton FC	Ipswich Town	0:0	0:0	12.02.1994	00:00	1993	1994	29
+Sheffield United	Coventry City	0:0	0:0	12.02.1994	00:00	1993	1994	29
+Norwich City	Arsenal FC	0:1	1:1	13.02.1994	00:00	1993	1994	29
+Southampton FC	Liverpool FC	3:0	4:2	14.02.1994	00:00	1993	1994	29
+Leeds United	Sheffield Wednesday	0:1	2:2	03.05.1994	00:00	1993	1994	29
+Everton FC	Arsenal FC	0:0	1:1	19.02.1994	00:00	1993	1994	30
+Leeds United	Liverpool FC	1:0	2:0	19.02.1994	00:00	1993	1994	30
+Coventry City	Manchester City	0:0	4:0	19.02.1994	00:00	1993	1994	30
+Swindon Town	Norwich City	2:2	3:3	19.02.1994	00:00	1993	1994	30
+Blackburn Rovers	Newcastle United	0:0	1:0	19.02.1994	00:00	1993	1994	30
+Ipswich Town	Sheffield United	3:1	3:2	26.02.1994	00:00	1993	1994	30
+Tottenham Hotspur	Aston Villa	0:1	1:1	02.03.1994	00:00	1993	1994	30
+Sheffield Wednesday	Chelsea FC	2:0	3:1	30.03.1994	00:00	1993	1994	30
+Wimbledon FC	Oldham Athletic	1:0	3:0	26.04.1994	00:00	1993	1994	30
+Queens Park Rangers	West Ham United	0:0	0:0	03.05.1994	00:00	1993	1994	30
+Manchester United	Southampton FC	0:0	2:0	04.05.1994	00:00	1993	1994	30
+West Ham United	Manchester United	0:1	2:2	26.02.1994	00:00	1993	1994	31
+Southampton FC	Wimbledon FC	0:0	1:0	26.02.1994	00:00	1993	1994	31
+Manchester City	Swindon Town	1:1	2:1	26.02.1994	00:00	1993	1994	31
+Liverpool FC	Coventry City	1:0	1:0	26.02.1994	00:00	1993	1994	31
+Arsenal FC	Blackburn Rovers	0:0	1:0	26.02.1994	00:00	1993	1994	31
+Norwich City	Sheffield Wednesday	0:0	1:1	26.02.1994	00:00	1993	1994	31
+Chelsea FC	Tottenham Hotspur	3:2	4:3	27.02.1994	00:00	1993	1994	31
+Oldham Athletic	Leeds United	0:1	1:1	28.02.1994	00:00	1993	1994	31
+Sheffield United	Queens Park Rangers	0:1	1:1	16.03.1994	00:00	1993	1994	31
+Newcastle United	Ipswich Town	1:0	2:0	23.03.1994	00:00	1993	1994	31
+Aston Villa	Everton FC	0:0	0:0	30.03.1994	00:00	1993	1994	31
+Tottenham Hotspur	Sheffield United	0:0	2:2	05.03.1994	00:00	1993	1994	32
+Manchester United	Chelsea FC	0:0	0:1	05.03.1994	00:00	1993	1994	32
+Swindon Town	West Ham United	0:0	1:1	05.03.1994	00:00	1993	1994	32
+Sheffield Wednesday	Newcastle United	0:0	0:1	05.03.1994	00:00	1993	1994	32
+Queens Park Rangers	Manchester City	1:0	1:1	05.03.1994	00:00	1993	1994	32
+Ipswich Town	Arsenal FC	0:3	1:5	05.03.1994	00:00	1993	1994	32
+Everton FC	Oldham Athletic	1:1	2:1	05.03.1994	00:00	1993	1994	32
+Leeds United	Southampton FC	0:0	0:0	05.03.1994	00:00	1993	1994	32
+Wimbledon FC	Norwich City	1:1	3:1	05.03.1994	00:00	1993	1994	32
+Blackburn Rovers	Liverpool FC	1:0	2:0	05.03.1994	00:00	1993	1994	32
+Coventry City	Aston Villa	0:1	0:1	06.03.1994	00:00	1993	1994	32
+Manchester City	Wimbledon FC	0:1	0:1	12.03.1994	00:00	1993	1994	33
+Southampton FC	Sheffield Wednesday	0:0	1:1	12.03.1994	00:00	1993	1994	33
+Newcastle United	Swindon Town	2:0	7:1	12.03.1994	00:00	1993	1994	33
+Aston Villa	Ipswich Town	0:1	0:1	12.03.1994	00:00	1993	1994	33
+Norwich City	Queens Park Rangers	1:0	3:4	12.03.1994	00:00	1993	1994	33
+Liverpool FC	Everton FC	2:1	2:1	13.03.1994	00:00	1993	1994	33
+Sheffield United	Leeds United	0:1	2:2	13.03.1994	00:00	1993	1994	33
+Arsenal FC	Manchester United	1:1	2:2	22.03.1994	00:00	1993	1994	33
+West Ham United	Blackburn Rovers	0:1	1:2	27.04.1994	00:00	1993	1994	33
+Chelsea FC	Coventry City	1:2	1:2	04.05.1994	00:00	1993	1994	33
+Oldham Athletic	Tottenham Hotspur	0:1	0:2	05.05.1994	00:00	1993	1994	33
+Aston Villa	Oldham Athletic	0:0	1:2	19.03.1994	00:00	1993	1994	34
+Manchester City	Sheffield United	0:0	0:0	19.03.1994	00:00	1993	1994	34
+West Ham United	Newcastle United	0:1	2:4	19.03.1994	00:00	1993	1994	34
+Tottenham Hotspur	Ipswich Town	0:1	1:1	19.03.1994	00:00	1993	1994	34
+Swindon Town	Manchester United	1:1	2:2	19.03.1994	00:00	1993	1994	34
+Southampton FC	Arsenal FC	0:2	0:4	19.03.1994	00:00	1993	1994	34
+Leeds United	Coventry City	0:0	1:0	19.03.1994	00:00	1993	1994	34
+Liverpool FC	Chelsea FC	2:0	2:1	19.03.1994	00:00	1993	1994	34
+Queens Park Rangers	Wimbledon FC	0:0	1:0	19.03.1994	00:00	1993	1994	34
+Sheffield Wednesday	Blackburn Rovers	1:1	1:2	20.03.1994	00:00	1993	1994	34
+Norwich City	Everton FC	1:0	3:0	21.03.1994	00:00	1993	1994	34
+Wimbledon FC	Leeds United	1:0	1:0	26.03.1994	00:00	1993	1994	34
+Manchester United	Sheffield Wednesday	4:0	5:0	16.03.1994	00:00	1993	1994	35
+Sheffield United	Southampton FC	0:0	0:0	26.03.1994	00:00	1993	1994	35
+Oldham Athletic	Manchester City	0:0	0:0	26.03.1994	00:00	1993	1994	35
+Ipswich Town	Queens Park Rangers	0:0	1:3	26.03.1994	00:00	1993	1994	35
+Everton FC	Tottenham Hotspur	0:0	0:1	26.03.1994	00:00	1993	1994	35
+Chelsea FC	West Ham United	1:0	2:0	26.03.1994	00:00	1993	1994	35
+Arsenal FC	Liverpool FC	0:0	1:0	26.03.1994	00:00	1993	1994	35
+Coventry City	Norwich City	1:0	2:1	26.03.1994	00:00	1993	1994	35
+Blackburn Rovers	Swindon Town	2:1	3:1	26.03.1994	00:00	1993	1994	35
+Newcastle United	Aston Villa	3:1	5:1	27.04.1994	00:00	1993	1994	35
+Leeds United	Newcastle United	0:1	1:1	01.04.1994	00:00	1993	1994	36
+Chelsea FC	Southampton FC	1:0	2:0	02.04.1994	00:00	1993	1994	36
+West Ham United	Ipswich Town	1:0	2:1	02.04.1994	00:00	1993	1994	36
+Sheffield Wednesday	Everton FC	2:0	5:1	02.04.1994	00:00	1993	1994	36
+Oldham Athletic	Queens Park Rangers	1:1	4:1	02.04.1994	00:00	1993	1994	36
+Norwich City	Tottenham Hotspur	0:0	1:2	02.04.1994	00:00	1993	1994	36
+Coventry City	Wimbledon FC	0:2	1:2	02.04.1994	00:00	1993	1994	36
+Blackburn Rovers	Manchester United	0:0	2:0	02.04.1994	00:00	1993	1994	36
+Arsenal FC	Swindon Town	1:1	1:1	02.04.1994	00:00	1993	1994	36
+Liverpool FC	Sheffield United	1:0	1:2	02.04.1994	00:00	1993	1994	36
+Manchester City	Aston Villa	2:0	3:0	02.04.1994	00:00	1993	1994	36
+Manchester United	Oldham Athletic	1:0	3:2	04.04.1994	00:00	1993	1994	37
+Wimbledon FC	Liverpool FC	0:0	1:1	04.04.1994	00:00	1993	1994	37
+Tottenham Hotspur	West Ham United	0:1	1:4	04.04.1994	00:00	1993	1994	37
+Swindon Town	Sheffield Wednesday	0:0	0:1	04.04.1994	00:00	1993	1994	37
+Southampton FC	Manchester City	0:0	0:1	04.04.1994	00:00	1993	1994	37
+Sheffield United	Arsenal FC	0:0	1:1	04.04.1994	00:00	1993	1994	37
+Ipswich Town	Coventry City	0:0	0:2	04.04.1994	00:00	1993	1994	37
+Everton FC	Blackburn Rovers	0:1	0:3	04.04.1994	00:00	1993	1994	37
+Aston Villa	Norwich City	0:0	0:0	04.04.1994	00:00	1993	1994	37
+Queens Park Rangers	Leeds United	0:2	0:4	04.04.1994	00:00	1993	1994	37
+Newcastle United	Chelsea FC	0:0	0:0	04.04.1994	00:00	1993	1994	37
+Sheffield Wednesday	Queens Park Rangers	3:0	3:1	09.04.1994	00:00	1993	1994	38
+West Ham United	Everton FC	0:0	0:1	09.04.1994	00:00	1993	1994	38
+Norwich City	Southampton FC	1:1	4:5	09.04.1994	00:00	1993	1994	38
+Manchester City	Newcastle United	1:1	2:1	09.04.1994	00:00	1993	1994	38
+Liverpool FC	Ipswich Town	0:0	1:0	09.04.1994	00:00	1993	1994	38
+Coventry City	Tottenham Hotspur	0:0	1:0	09.04.1994	00:00	1993	1994	38
+Blackburn Rovers	Aston Villa	1:0	1:0	11.04.1994	00:00	1993	1994	38
+Arsenal FC	Wimbledon FC	0:1	1:1	19.04.1994	00:00	1993	1994	38
+Chelsea FC	Swindon Town	2:0	2:0	27.04.1994	00:00	1993	1994	38
+Leeds United	Manchester United	0:0	0:2	27.04.1994	00:00	1993	1994	38
+Oldham Athletic	Sheffield United	1:1	1:1	03.05.1994	00:00	1993	1994	38
+Queens Park Rangers	Everton FC	0:0	2:1	16.04.1994	00:00	1993	1994	39
+Arsenal FC	Chelsea FC	0:0	1:0	16.04.1994	00:00	1993	1994	39
+Southampton FC	Blackburn Rovers	2:0	3:1	16.04.1994	00:00	1993	1994	39
+Wimbledon FC	Manchester United	1:0	1:0	16.04.1994	00:00	1993	1994	39
+Coventry City	Sheffield Wednesday	1:0	1:1	16.04.1994	00:00	1993	1994	39
+Liverpool FC	Newcastle United	0:1	0:2	16.04.1994	00:00	1993	1994	39
+Oldham Athletic	West Ham United	1:2	1:2	16.04.1994	00:00	1993	1994	39
+Manchester City	Norwich City	0:1	1:1	16.04.1994	00:00	1993	1994	39
+Ipswich Town	Swindon Town	0:1	1:1	16.04.1994	00:00	1993	1994	39
+Sheffield United	Aston Villa	1:2	1:2	16.04.1994	00:00	1993	1994	39
+Leeds United	Tottenham Hotspur	0:0	2:0	17.04.1994	00:00	1993	1994	39
+Tottenham Hotspur	Southampton FC	1:0	3:0	23.04.1994	00:00	1993	1994	40
+West Ham United	Liverpool FC	1:1	1:2	23.04.1994	00:00	1993	1994	40
+Manchester United	Manchester City	2:0	2:0	23.04.1994	00:00	1993	1994	40
+Sheffield Wednesday	Ipswich Town	2:0	5:0	23.04.1994	00:00	1993	1994	40
+Norwich City	Sheffield United	0:1	0:1	23.04.1994	00:00	1993	1994	40
+Newcastle United	Oldham Athletic	1:1	3:2	23.04.1994	00:00	1993	1994	40
+Everton FC	Coventry City	0:0	0:0	23.04.1994	00:00	1993	1994	40
+Chelsea FC	Leeds United	0:1	1:1	23.04.1994	00:00	1993	1994	40
+Aston Villa	Arsenal FC	0:1	1:2	23.04.1994	00:00	1993	1994	40
+Swindon Town	Wimbledon FC	0:1	2:4	23.04.1994	00:00	1993	1994	40
+Blackburn Rovers	Queens Park Rangers	1:0	1:1	24.04.1994	00:00	1993	1994	40
+Liverpool FC	Norwich City	0:1	0:1	30.04.1994	00:00	1993	1994	41
+Wimbledon FC	Tottenham Hotspur	0:0	2:1	30.04.1994	00:00	1993	1994	41
+Southampton FC	Aston Villa	2:0	4:1	30.04.1994	00:00	1993	1994	41
+Sheffield United	Newcastle United	0:0	2:0	30.04.1994	00:00	1993	1994	41
+Queens Park Rangers	Swindon Town	0:0	1:3	30.04.1994	00:00	1993	1994	41
+Leeds United	Everton FC	0:0	3:0	30.04.1994	00:00	1993	1994	41
+Arsenal FC	West Ham United	0:0	0:2	30.04.1994	00:00	1993	1994	41
+Oldham Athletic	Sheffield Wednesday	0:0	0:0	30.04.1994	00:00	1993	1994	41
+Manchester City	Chelsea FC	2:2	2:2	30.04.1994	00:00	1993	1994	41
+Ipswich Town	Manchester United	1:1	1:2	01.05.1994	00:00	1993	1994	41
+Coventry City	Blackburn Rovers	1:1	2:1	02.05.1994	00:00	1993	1994	41
+Sheffield Wednesday	Manchester City	1:0	1:1	07.05.1994	00:00	1993	1994	42
+West Ham United	Southampton FC	1:1	3:3	07.05.1994	00:00	1993	1994	42
+Tottenham Hotspur	Queens Park Rangers	1:1	1:2	07.05.1994	00:00	1993	1994	42
+Swindon Town	Leeds United	0:2	0:5	07.05.1994	00:00	1993	1994	42
+Newcastle United	Arsenal FC	0:0	2:0	07.05.1994	00:00	1993	1994	42
+Everton FC	Wimbledon FC	1:2	3:2	07.05.1994	00:00	1993	1994	42
+Chelsea FC	Sheffield United	0:1	3:2	07.05.1994	00:00	1993	1994	42
+Aston Villa	Liverpool FC	0:1	2:1	07.05.1994	00:00	1993	1994	42
+Blackburn Rovers	Ipswich Town	0:0	0:0	07.05.1994	00:00	1993	1994	42
+Norwich City	Oldham Athletic	0:1	1:1	07.05.1994	00:00	1993	1994	42
+Manchester United	Coventry City	0:0	0:0	08.05.1994	00:00	1993	1994	42

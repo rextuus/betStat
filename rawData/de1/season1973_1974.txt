@@ -1,0 +1,306 @@
+Bor. MÃ¶nchengladbach	Fortuna KÃ¶ln	2:0	3:1	11.08.1973	15:30	1973	1974	1
+1. FC KÃ¶ln	Eintracht Frankfurt	0:0	1:1	11.08.1973	15:30	1973	1974	1
+Kickers Offenbach	Rot-Weiss Essen	1:0	1:1	11.08.1973	15:30	1973	1974	1
+1. FC Kaiserslautern	Werder Bremen	1:1	2:2	11.08.1973	15:30	1973	1974	1
+Hamburger SV	Hertha BSC	0:1	0:2	11.08.1973	15:30	1973	1974	1
+VfB Stuttgart	FC Schalke 04	2:0	3:0	11.08.1973	15:30	1973	1974	1
+VfL Bochum	Wuppertaler SV	2:0	2:1	11.08.1973	15:30	1973	1974	1
+MSV Duisburg	Hannover 96	0:1	1:1	11.08.1973	15:30	1973	1974	1
+Bayern MÃ¼nchen	Fortuna DÃ¼sseldorf	1:1	3:1	11.08.1973	15:30	1973	1974	1
+Werder Bremen	VfB Stuttgart	0:0	1:1	17.08.1973	20:00	1973	1974	2
+FC Schalke 04	VfL Bochum	2:1	3:1	17.08.1973	20:00	1973	1974	2
+Fortuna KÃ¶ln	Bayern MÃ¼nchen	0:1	0:3	18.08.1973	15:30	1973	1974	2
+Rot-Weiss Essen	Bor. MÃ¶nchengladbach	2:2	2:6	18.08.1973	15:30	1973	1974	2
+Hertha BSC	Kickers Offenbach	1:1	2:2	18.08.1973	15:30	1973	1974	2
+Wuppertaler SV	Hamburger SV	2:0	3:0	18.08.1973	15:30	1973	1974	2
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	1:0	3:0	18.08.1973	15:30	1973	1974	2
+Hannover 96	1. FC Kaiserslautern	3:1	4:2	18.08.1973	15:30	1973	1974	2
+Eintracht Frankfurt	MSV Duisburg	0:0	3:0	18.08.1973	15:30	1973	1974	2
+1. FC Kaiserslautern	Eintracht Frankfurt	1:0	1:4	21.08.1973	20:00	1973	1974	3
+MSV Duisburg	1. FC KÃ¶ln	2:1	5:1	21.08.1973	20:00	1973	1974	3
+Kickers Offenbach	Wuppertaler SV	0:0	0:1	21.08.1973	20:00	1973	1974	3
+VfB Stuttgart	Hannover 96	0:0	5:1	21.08.1973	20:00	1973	1974	3
+Fortuna KÃ¶ln	Fortuna DÃ¼sseldorf	1:0	1:1	21.08.1973	20:00	1973	1974	3
+Hamburger SV	FC Schalke 04	1:0	5:2	21.08.1973	20:00	1973	1974	3
+VfL Bochum	Werder Bremen	0:0	0:0	21.08.1973	20:00	1973	1974	3
+Bayern MÃ¼nchen	Rot-Weiss Essen	0:0	2:0	21.08.1973	20:00	1973	1974	3
+Bor. MÃ¶nchengladbach	Hertha BSC	1:0	1:1	29.08.1973	20:00	1973	1974	3
+Eintracht Frankfurt	VfB Stuttgart	0:0	4:3	25.08.1973	15:30	1973	1974	4
+Hannover 96	VfL Bochum	0:1	1:2	25.08.1973	15:30	1973	1974	4
+FC Schalke 04	Kickers Offenbach	0:0	0:2	25.08.1973	15:30	1973	1974	4
+Hertha BSC	Bayern MÃ¼nchen	1:0	2:2	25.08.1973	15:30	1973	1974	4
+Wuppertaler SV	Bor. MÃ¶nchengladbach	2:3	2:4	25.08.1973	15:30	1973	1974	4
+Rot-Weiss Essen	Fortuna KÃ¶ln	0:1	0:2	25.08.1973	15:30	1973	1974	4
+Werder Bremen	Hamburger SV	0:0	1:1	25.08.1973	15:30	1973	1974	4
+Fortuna DÃ¼sseldorf	MSV Duisburg	1:0	2:1	25.08.1973	15:30	1973	1974	4
+1. FC KÃ¶ln	1. FC Kaiserslautern	1:0	3:1	25.08.1973	15:30	1973	1974	4
+VfL Bochum	Eintracht Frankfurt	0:0	1:1	31.08.1973	20:00	1973	1974	5
+Kickers Offenbach	Werder Bremen	1:0	4:0	31.08.1973	20:00	1973	1974	5
+1. FC Kaiserslautern	MSV Duisburg	1:1	2:1	31.08.1973	20:00	1973	1974	5
+Bor. MÃ¶nchengladbach	FC Schalke 04	4:0	6:0	01.09.1973	15:30	1973	1974	5
+VfB Stuttgart	1. FC KÃ¶ln	0:1	2:1	01.09.1973	15:30	1973	1974	5
+Fortuna KÃ¶ln	Hertha BSC	0:3	3:3	01.09.1973	15:30	1973	1974	5
+Rot-Weiss Essen	Fortuna DÃ¼sseldorf	0:1	1:4	01.09.1973	15:30	1973	1974	5
+Hamburger SV	Hannover 96	1:1	1:4	01.09.1973	15:30	1973	1974	5
+Bayern MÃ¼nchen	Wuppertaler SV	0:0	3:0	01.09.1973	15:30	1973	1974	5
+MSV Duisburg	VfB Stuttgart	0:0	1:0	07.09.1973	20:00	1973	1974	6
+Hannover 96	Kickers Offenbach	1:1	2:3	07.09.1973	20:00	1973	1974	6
+Werder Bremen	Bor. MÃ¶nchengladbach	2:0	2:3	08.09.1973	15:30	1973	1974	6
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	2:2	2:5	08.09.1973	15:30	1973	1974	6
+Eintracht Frankfurt	Hamburger SV	0:0	1:0	08.09.1973	15:30	1973	1974	6
+FC Schalke 04	Bayern MÃ¼nchen	5:2	5:5	08.09.1973	15:30	1973	1974	6
+Hertha BSC	Rot-Weiss Essen	0:0	1:1	08.09.1973	15:30	1973	1974	6
+1. FC KÃ¶ln	VfL Bochum	1:0	2:2	08.09.1973	15:30	1973	1974	6
+Wuppertaler SV	Fortuna KÃ¶ln	0:0	0:0	08.09.1973	15:30	1973	1974	6
+Fortuna KÃ¶ln	FC Schalke 04	0:0	1:1	14.09.1973	20:00	1973	1974	7
+Bor. MÃ¶nchengladbach	Hannover 96	2:1	4:3	14.09.1973	20:00	1973	1974	7
+VfL Bochum	MSV Duisburg	1:0	3:0	15.09.1973	15:30	1973	1974	7
+VfB Stuttgart	1. FC Kaiserslautern	3:2	3:4	15.09.1973	15:30	1973	1974	7
+Hertha BSC	Fortuna DÃ¼sseldorf	0:0	2:0	15.09.1973	15:30	1973	1974	7
+Hamburger SV	1. FC KÃ¶ln	2:1	3:1	15.09.1973	15:30	1973	1974	7
+Bayern MÃ¼nchen	Werder Bremen	1:1	2:2	15.09.1973	15:30	1973	1974	7
+Rot-Weiss Essen	Wuppertaler SV	0:1	2:1	15.09.1973	15:30	1973	1974	7
+Kickers Offenbach	Eintracht Frankfurt	3:1	5:2	23.10.1973	15:30	1973	1974	7
+1. FC Kaiserslautern	VfL Bochum	0:1	0:2	21.09.1973	20:00	1973	1974	8
+MSV Duisburg	Hamburger SV	0:0	0:0	21.09.1973	20:00	1973	1974	8
+FC Schalke 04	Rot-Weiss Essen	1:1	3:1	22.09.1973	15:30	1973	1974	8
+Wuppertaler SV	Hertha BSC	2:1	2:1	22.09.1973	15:30	1973	1974	8
+1. FC KÃ¶ln	Kickers Offenbach	1:0	2:0	22.09.1973	15:30	1973	1974	8
+Hannover 96	Bayern MÃ¼nchen	3:0	3:1	22.09.1973	15:30	1973	1974	8
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	0:0	1:0	22.09.1973	15:30	1973	1974	8
+Werder Bremen	Fortuna KÃ¶ln	1:0	2:0	22.09.1973	15:30	1973	1974	8
+Fortuna DÃ¼sseldorf	VfB Stuttgart	0:0	2:0	22.09.1973	15:30	1973	1974	8
+Rot-Weiss Essen	Werder Bremen	0:0	3:1	28.09.1973	20:00	1973	1974	9
+Wuppertaler SV	Fortuna DÃ¼sseldorf	1:1	2:2	28.09.1973	20:00	1973	1974	9
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	0:1	1:1	29.09.1973	15:30	1973	1974	9
+VfL Bochum	VfB Stuttgart	0:0	0:0	29.09.1973	15:30	1973	1974	9
+Hertha BSC	FC Schalke 04	0:0	1:0	29.09.1973	15:30	1973	1974	9
+Kickers Offenbach	MSV Duisburg	1:0	2:0	29.09.1973	15:30	1973	1974	9
+Fortuna KÃ¶ln	Hannover 96	0:2	2:2	29.09.1973	15:30	1973	1974	9
+Bayern MÃ¼nchen	Eintracht Frankfurt	2:1	2:2	29.09.1973	15:30	1973	1974	9
+Hamburger SV	1. FC Kaiserslautern	0:0	0:2	29.09.1973	15:30	1973	1974	9
+Werder Bremen	Hertha BSC	3:1	4:1	05.10.1973	20:00	1973	1974	10
+1. FC KÃ¶ln	Bayern MÃ¼nchen	3:2	4:3	06.10.1973	15:30	1973	1974	10
+Hannover 96	Rot-Weiss Essen	1:1	1:2	06.10.1973	15:30	1973	1974	10
+1. FC Kaiserslautern	Kickers Offenbach	1:0	3:0	06.10.1973	15:30	1973	1974	10
+FC Schalke 04	Wuppertaler SV	1:0	4:2	06.10.1973	15:30	1973	1974	10
+MSV Duisburg	Bor. MÃ¶nchengladbach	0:1	1:2	06.10.1973	15:30	1973	1974	10
+VfB Stuttgart	Hamburger SV	1:0	3:0	06.10.1973	15:30	1973	1974	10
+Eintracht Frankfurt	Fortuna KÃ¶ln	0:1	4:2	06.10.1973	15:30	1973	1974	10
+Fortuna DÃ¼sseldorf	VfL Bochum	1:1	1:1	12.10.1973	09:30	1973	1974	10
+Rot-Weiss Essen	Eintracht Frankfurt	3:2	6:3	16.10.1973	20:00	1973	1974	11
+Wuppertaler SV	Werder Bremen	1:0	4:1	17.10.1973	15:30	1973	1974	11
+FC Schalke 04	Fortuna DÃ¼sseldorf	4:1	4:2	17.10.1973	15:30	1973	1974	11
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	1:0	2:2	17.10.1973	15:30	1973	1974	11
+Kickers Offenbach	VfB Stuttgart	1:1	2:1	17.10.1973	15:30	1973	1974	11
+Hamburger SV	VfL Bochum	3:0	5:0	17.10.1973	15:30	1973	1974	11
+Fortuna KÃ¶ln	1. FC KÃ¶ln	0:1	0:2	17.10.1973	15:30	1973	1974	11
+Bayern MÃ¼nchen	MSV Duisburg	2:2	4:2	17.10.1973	15:30	1973	1974	11
+Hertha BSC	Hannover 96	2:0	4:2	17.10.1973	15:30	1973	1974	11
+MSV Duisburg	Fortuna KÃ¶ln	1:2	1:3	19.10.1973	20:00	1973	1974	12
+Werder Bremen	FC Schalke 04	0:1	2:1	19.10.1973	20:00	1973	1974	12
+Hannover 96	Wuppertaler SV	0:0	1:1	20.10.1973	15:30	1973	1974	12
+1. FC KÃ¶ln	Rot-Weiss Essen	2:1	3:2	20.10.1973	15:30	1973	1974	12
+VfB Stuttgart	Bor. MÃ¶nchengladbach	1:0	6:1	20.10.1973	15:30	1973	1974	12
+Eintracht Frankfurt	Hertha BSC	1:0	2:0	20.10.1973	15:30	1973	1974	12
+1. FC Kaiserslautern	Bayern MÃ¼nchen	1:3	7:4	20.10.1973	15:30	1973	1974	12
+Fortuna DÃ¼sseldorf	Hamburger SV	2:0	2:0	24.11.1973	20:00	1973	1974	12
+VfL Bochum	Kickers Offenbach	4:0	4:1	24.11.1973	20:00	1973	1974	12
+Wuppertaler SV	Eintracht Frankfurt	1:1	1:1	27.10.1973	15:30	1973	1974	13
+Bayern MÃ¼nchen	VfB Stuttgart	2:0	3:0	27.10.1973	15:30	1973	1974	13
+FC Schalke 04	Hannover 96	1:1	3:1	27.10.1973	15:30	1973	1974	13
+Kickers Offenbach	Hamburger SV	1:3	2:5	27.10.1973	15:30	1973	1974	13
+Werder Bremen	Fortuna DÃ¼sseldorf	0:0	0:0	27.10.1973	15:30	1973	1974	13
+Bor. MÃ¶nchengladbach	VfL Bochum	2:0	2:0	27.10.1973	15:30	1973	1974	13
+Hertha BSC	1. FC KÃ¶ln	2:0	2:2	27.10.1973	15:30	1973	1974	13
+Fortuna KÃ¶ln	1. FC Kaiserslautern	1:2	3:3	27.10.1973	15:30	1973	1974	13
+Rot-Weiss Essen	MSV Duisburg	4:0	4:2	27.10.1973	15:30	1973	1974	13
+1. FC KÃ¶ln	Wuppertaler SV	0:0	0:0	02.11.1973	20:00	1973	1974	14
+MSV Duisburg	Hertha BSC	1:1	1:1	02.11.1973	20:00	1973	1974	14
+VfL Bochum	Bayern MÃ¼nchen	0:1	0:1	03.11.1973	15:30	1973	1974	14
+Hannover 96	Werder Bremen	0:0	0:1	03.11.1973	15:30	1973	1974	14
+Fortuna DÃ¼sseldorf	Kickers Offenbach	1:2	3:3	03.11.1973	15:30	1973	1974	14
+Hamburger SV	Bor. MÃ¶nchengladbach	0:0	1:0	03.11.1973	15:30	1973	1974	14
+Eintracht Frankfurt	FC Schalke 04	0:0	2:1	03.11.1973	15:30	1973	1974	14
+VfB Stuttgart	Fortuna KÃ¶ln	1:1	2:1	03.11.1973	15:30	1973	1974	14
+1. FC Kaiserslautern	Rot-Weiss Essen	0:0	0:0	03.11.1973	15:30	1973	1974	14
+Werder Bremen	Eintracht Frankfurt	0:1	1:2	10.11.1973	15:30	1973	1974	15
+Bayern MÃ¼nchen	Hamburger SV	1:1	4:1	10.11.1973	15:30	1973	1974	15
+Fortuna DÃ¼sseldorf	Hannover 96	0:0	2:0	10.11.1973	15:30	1973	1974	15
+Kickers Offenbach	Bor. MÃ¶nchengladbach	2:1	2:3	10.11.1973	15:30	1973	1974	15
+FC Schalke 04	1. FC KÃ¶ln	1:1	2:2	10.11.1973	15:30	1973	1974	15
+Fortuna KÃ¶ln	VfL Bochum	0:2	2:2	10.11.1973	15:30	1973	1974	15
+Wuppertaler SV	MSV Duisburg	1:0	2:0	10.11.1973	15:30	1973	1974	15
+Rot-Weiss Essen	VfB Stuttgart	1:1	3:3	10.11.1973	15:30	1973	1974	15
+Hertha BSC	1. FC Kaiserslautern	1:0	3:1	10.11.1973	15:30	1973	1974	15
+Eintracht Frankfurt	Hannover 96	1:1	1:1	16.11.1973	20:00	1973	1974	16
+MSV Duisburg	FC Schalke 04	0:0	2:0	16.11.1973	20:00	1973	1974	16
+Kickers Offenbach	Bayern MÃ¼nchen	0:1	2:2	17.11.1973	15:30	1973	1974	16
+1. FC KÃ¶ln	Werder Bremen	1:0	2:0	17.11.1973	15:30	1973	1974	16
+Hamburger SV	Fortuna KÃ¶ln	2:0	4:0	17.11.1973	15:30	1973	1974	16
+VfL Bochum	Rot-Weiss Essen	1:2	1:2	17.11.1973	15:30	1973	1974	16
+1. FC Kaiserslautern	Wuppertaler SV	1:0	4:0	17.11.1973	15:30	1973	1974	16
+VfB Stuttgart	Hertha BSC	0:0	2:0	17.11.1973	15:30	1973	1974	16
+Bor. MÃ¶nchengladbach	Fortuna DÃ¼sseldorf	0:0	1:2	17.11.1973	15:30	1973	1974	16
+Wuppertaler SV	VfB Stuttgart	2:0	3:4	08.12.1973	15:30	1973	1974	17
+FC Schalke 04	1. FC Kaiserslautern	2:0	3:3	08.12.1973	15:30	1973	1974	17
+Rot-Weiss Essen	Hamburger SV	1:1	1:1	08.12.1973	15:30	1973	1974	17
+Hannover 96	1. FC KÃ¶ln	0:0	1:0	08.12.1973	15:30	1973	1974	17
+Fortuna KÃ¶ln	Kickers Offenbach	1:0	2:1	08.12.1973	15:30	1973	1974	17
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	3:2	4:3	08.12.1973	15:30	1973	1974	17
+Fortuna DÃ¼sseldorf	Eintracht Frankfurt	1:0	1:0	08.12.1973	15:30	1973	1974	17
+Hertha BSC	VfL Bochum	3:1	4:2	11.12.1973	20:00	1973	1974	17
+Werder Bremen	MSV Duisburg	0:2	1:2	29.12.1973	15:30	1973	1974	17
+Fortuna KÃ¶ln	Bor. MÃ¶nchengladbach	1:2	3:5	05.01.1974	15:30	1973	1974	18
+Eintracht Frankfurt	1. FC KÃ¶ln	1:1	2:1	05.01.1974	15:30	1973	1974	18
+Rot-Weiss Essen	Kickers Offenbach	1:1	1:2	05.01.1974	15:30	1973	1974	18
+Werder Bremen	1. FC Kaiserslautern	1:0	3:1	05.01.1974	15:30	1973	1974	18
+Hertha BSC	Hamburger SV	0:0	2:1	05.01.1974	15:30	1973	1974	18
+FC Schalke 04	VfB Stuttgart	1:2	2:3	05.01.1974	15:30	1973	1974	18
+Wuppertaler SV	VfL Bochum	1:0	2:0	05.01.1974	15:30	1973	1974	18
+Hannover 96	MSV Duisburg	1:1	2:2	05.01.1974	15:30	1973	1974	18
+Fortuna DÃ¼sseldorf	Bayern MÃ¼nchen	1:1	4:2	05.01.1974	15:30	1973	1974	18
+VfB Stuttgart	Werder Bremen	1:1	2:2	12.01.1974	15:30	1973	1974	19
+VfL Bochum	FC Schalke 04	0:3	2:5	12.01.1974	15:30	1973	1974	19
+Bayern MÃ¼nchen	Fortuna KÃ¶ln	3:1	5:1	12.01.1974	15:30	1973	1974	19
+Bor. MÃ¶nchengladbach	Rot-Weiss Essen	1:1	2:2	12.01.1974	15:30	1973	1974	19
+Kickers Offenbach	Hertha BSC	1:0	1:1	12.01.1974	15:30	1973	1974	19
+Hamburger SV	Wuppertaler SV	2:1	2:1	12.01.1974	15:30	1973	1974	19
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	2:0	4:2	12.01.1974	15:30	1973	1974	19
+1. FC Kaiserslautern	Hannover 96	2:0	2:1	12.01.1974	15:30	1973	1974	19
+MSV Duisburg	Eintracht Frankfurt	0:1	1:1	12.01.1974	15:30	1973	1974	19
+Eintracht Frankfurt	1. FC Kaiserslautern	2:0	3:1	19.01.1974	15:30	1973	1974	20
+1. FC KÃ¶ln	MSV Duisburg	3:1	5:1	19.01.1974	15:30	1973	1974	20
+Hannover 96	VfB Stuttgart	2:0	3:0	19.01.1974	15:30	1973	1974	20
+Fortuna DÃ¼sseldorf	Fortuna KÃ¶ln	3:0	5:1	19.01.1974	15:30	1973	1974	20
+Hertha BSC	Bor. MÃ¶nchengladbach	1:3	3:4	19.01.1974	15:30	1973	1974	20
+FC Schalke 04	Hamburger SV	3:1	3:1	19.01.1974	15:30	1973	1974	20
+Werder Bremen	VfL Bochum	1:0	1:0	19.01.1974	15:30	1973	1974	20
+Rot-Weiss Essen	Bayern MÃ¼nchen	0:0	0:1	19.01.1974	15:30	1973	1974	20
+Wuppertaler SV	Kickers Offenbach	1:0	1:1	30.01.1974	20:00	1973	1974	20
+VfB Stuttgart	Eintracht Frankfurt	2:0	3:1	26.01.1974	15:30	1973	1974	21
+VfL Bochum	Hannover 96	1:1	3:1	26.01.1974	15:30	1973	1974	21
+Kickers Offenbach	FC Schalke 04	0:1	1:2	26.01.1974	15:30	1973	1974	21
+Bayern MÃ¼nchen	Hertha BSC	1:0	3:1	26.01.1974	15:30	1973	1974	21
+Bor. MÃ¶nchengladbach	Wuppertaler SV	2:1	7:1	26.01.1974	15:30	1973	1974	21
+Fortuna KÃ¶ln	Rot-Weiss Essen	0:1	1:3	26.01.1974	15:30	1973	1974	21
+Hamburger SV	Werder Bremen	1:0	3:0	26.01.1974	15:30	1973	1974	21
+MSV Duisburg	Fortuna DÃ¼sseldorf	0:0	0:1	26.01.1974	15:30	1973	1974	21
+1. FC Kaiserslautern	1. FC KÃ¶ln	1:1	1:2	26.01.1974	15:30	1973	1974	21
+Eintracht Frankfurt	VfL Bochum	1:0	3:1	02.02.1974	15:30	1973	1974	22
+Werder Bremen	Kickers Offenbach	0:2	0:2	02.02.1974	15:30	1973	1974	22
+MSV Duisburg	1. FC Kaiserslautern	1:0	2:1	02.02.1974	15:30	1973	1974	22
+FC Schalke 04	Bor. MÃ¶nchengladbach	1:0	2:0	02.02.1974	15:30	1973	1974	22
+1. FC KÃ¶ln	VfB Stuttgart	3:0	5:2	02.02.1974	15:30	1973	1974	22
+Hertha BSC	Fortuna KÃ¶ln	1:1	1:1	02.02.1974	15:30	1973	1974	22
+Fortuna DÃ¼sseldorf	Rot-Weiss Essen	0:0	3:0	02.02.1974	15:30	1973	1974	22
+Hannover 96	Hamburger SV	2:1	2:2	02.02.1974	15:30	1973	1974	22
+Wuppertaler SV	Bayern MÃ¼nchen	1:1	1:4	02.02.1974	15:30	1973	1974	22
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	2:0	3:2	09.02.1974	09:30	1973	1974	23
+VfB Stuttgart	MSV Duisburg	0:1	0:1	09.02.1974	15:30	1973	1974	23
+Kickers Offenbach	Hannover 96	0:0	2:1	09.02.1974	15:30	1973	1974	23
+Bor. MÃ¶nchengladbach	Werder Bremen	0:1	3:1	09.02.1974	15:30	1973	1974	23
+Hamburger SV	Eintracht Frankfurt	1:1	4:2	09.02.1974	15:30	1973	1974	23
+Bayern MÃ¼nchen	FC Schalke 04	2:0	5:1	09.02.1974	15:30	1973	1974	23
+VfL Bochum	1. FC KÃ¶ln	0:1	0:2	09.02.1974	15:30	1973	1974	23
+Fortuna KÃ¶ln	Wuppertaler SV	0:0	2:1	09.02.1974	15:30	1973	1974	23
+Rot-Weiss Essen	Hertha BSC	2:1	3:2	23.02.1974	15:30	1973	1974	23
+Wuppertaler SV	Rot-Weiss Essen	2:0	2:0	01.03.1974	20:00	1973	1974	24
+FC Schalke 04	Fortuna KÃ¶ln	2:0	6:1	02.03.1974	15:30	1973	1974	24
+Hannover 96	Bor. MÃ¶nchengladbach	0:2	0:2	02.03.1974	15:30	1973	1974	24
+MSV Duisburg	VfL Bochum	0:0	0:0	02.03.1974	15:30	1973	1974	24
+1. FC Kaiserslautern	VfB Stuttgart	1:0	4:0	02.03.1974	15:30	1973	1974	24
+Fortuna DÃ¼sseldorf	Hertha BSC	0:1	1:1	02.03.1974	15:30	1973	1974	24
+1. FC KÃ¶ln	Hamburger SV	1:1	1:2	02.03.1974	15:30	1973	1974	24
+Werder Bremen	Bayern MÃ¼nchen	1:0	1:1	02.03.1974	15:30	1973	1974	24
+Eintracht Frankfurt	Kickers Offenbach	1:0	2:2	02.03.1974	15:30	1973	1974	24
+VfL Bochum	1. FC Kaiserslautern	0:0	2:2	09.03.1974	15:30	1973	1974	25
+Hamburger SV	MSV Duisburg	0:0	2:0	09.03.1974	15:30	1973	1974	25
+Rot-Weiss Essen	FC Schalke 04	0:2	2:5	09.03.1974	15:30	1973	1974	25
+Hertha BSC	Wuppertaler SV	0:0	3:0	09.03.1974	15:30	1973	1974	25
+Kickers Offenbach	1. FC KÃ¶ln	1:1	1:2	09.03.1974	15:30	1973	1974	25
+Bayern MÃ¼nchen	Hannover 96	1:0	5:1	09.03.1974	15:30	1973	1974	25
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:0	0:0	09.03.1974	15:30	1973	1974	25
+Fortuna KÃ¶ln	Werder Bremen	0:1	1:3	09.03.1974	15:30	1973	1974	25
+VfB Stuttgart	Fortuna DÃ¼sseldorf	0:0	0:0	09.03.1974	15:30	1973	1974	25
+Fortuna DÃ¼sseldorf	Wuppertaler SV	1:0	2:0	15.03.1974	20:00	1973	1974	26
+Werder Bremen	Rot-Weiss Essen	1:0	1:1	16.03.1974	15:30	1973	1974	26
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:0	0:1	16.03.1974	15:30	1973	1974	26
+VfB Stuttgart	VfL Bochum	0:0	2:0	16.03.1974	15:30	1973	1974	26
+FC Schalke 04	Hertha BSC	3:0	3:0	16.03.1974	15:30	1973	1974	26
+MSV Duisburg	Kickers Offenbach	3:0	4:0	16.03.1974	15:30	1973	1974	26
+Hannover 96	Fortuna KÃ¶ln	1:0	1:1	16.03.1974	15:30	1973	1974	26
+Eintracht Frankfurt	Bayern MÃ¼nchen	1:0	1:1	16.03.1974	15:30	1973	1974	26
+1. FC Kaiserslautern	Hamburger SV	0:1	1:4	16.03.1974	15:30	1973	1974	26
+Hertha BSC	Werder Bremen	0:0	0:0	23.03.1974	15:30	1973	1974	27
+Bayern MÃ¼nchen	1. FC KÃ¶ln	2:1	4:1	23.03.1974	15:30	1973	1974	27
+Rot-Weiss Essen	Hannover 96	1:0	1:1	23.03.1974	15:30	1973	1974	27
+Kickers Offenbach	1. FC Kaiserslautern	2:0	2:3	23.03.1974	15:30	1973	1974	27
+Wuppertaler SV	FC Schalke 04	0:1	1:1	23.03.1974	15:30	1973	1974	27
+Bor. MÃ¶nchengladbach	MSV Duisburg	3:1	3:2	23.03.1974	15:30	1973	1974	27
+VfL Bochum	Fortuna DÃ¼sseldorf	1:2	3:3	23.03.1974	15:30	1973	1974	27
+Hamburger SV	VfB Stuttgart	1:0	1:0	23.03.1974	15:30	1973	1974	27
+Fortuna KÃ¶ln	Eintracht Frankfurt	2:0	3:2	23.03.1974	15:30	1973	1974	27
+Eintracht Frankfurt	Rot-Weiss Essen	2:0	6:0	30.03.1974	15:30	1973	1974	28
+Werder Bremen	Wuppertaler SV	2:0	3:0	30.03.1974	15:30	1973	1974	28
+Fortuna DÃ¼sseldorf	FC Schalke 04	0:1	0:1	30.03.1974	15:30	1973	1974	28
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	0:3	2:4	30.03.1974	15:30	1973	1974	28
+VfB Stuttgart	Kickers Offenbach	4:0	4:0	30.03.1974	15:30	1973	1974	28
+VfL Bochum	Hamburger SV	1:0	2:0	30.03.1974	15:30	1973	1974	28
+1. FC KÃ¶ln	Fortuna KÃ¶ln	1:0	5:0	30.03.1974	15:30	1973	1974	28
+MSV Duisburg	Bayern MÃ¼nchen	0:1	0:4	30.03.1974	15:30	1973	1974	28
+Hannover 96	Hertha BSC	1:0	3:1	30.03.1974	15:30	1973	1974	28
+Fortuna KÃ¶ln	MSV Duisburg	2:0	3:0	06.04.1974	15:30	1973	1974	29
+Wuppertaler SV	Hannover 96	0:0	2:1	06.04.1974	15:30	1973	1974	29
+Rot-Weiss Essen	1. FC KÃ¶ln	1:0	1:1	06.04.1974	15:30	1973	1974	29
+Bor. MÃ¶nchengladbach	VfB Stuttgart	2:0	3:1	06.04.1974	15:30	1973	1974	29
+FC Schalke 04	Werder Bremen	2:1	4:2	06.04.1974	15:30	1973	1974	29
+Hertha BSC	Eintracht Frankfurt	1:1	2:1	06.04.1974	15:30	1973	1974	29
+Bayern MÃ¼nchen	1. FC Kaiserslautern	0:0	1:1	06.04.1974	15:30	1973	1974	29
+Hamburger SV	Fortuna DÃ¼sseldorf	0:2	1:3	06.04.1974	15:30	1973	1974	29
+Kickers Offenbach	VfL Bochum	0:1	2:2	06.04.1974	15:30	1973	1974	29
+MSV Duisburg	Rot-Weiss Essen	1:0	1:0	19.04.1974	20:00	1973	1974	30
+Eintracht Frankfurt	Wuppertaler SV	1:0	1:0	20.04.1974	15:30	1973	1974	30
+VfB Stuttgart	Bayern MÃ¼nchen	1:0	1:1	20.04.1974	15:30	1973	1974	30
+Hannover 96	FC Schalke 04	0:1	0:1	20.04.1974	15:30	1973	1974	30
+Hamburger SV	Kickers Offenbach	0:0	0:0	20.04.1974	15:30	1973	1974	30
+Fortuna DÃ¼sseldorf	Werder Bremen	1:0	1:1	20.04.1974	15:30	1973	1974	30
+VfL Bochum	Bor. MÃ¶nchengladbach	0:1	1:1	20.04.1974	15:30	1973	1974	30
+1. FC KÃ¶ln	Hertha BSC	1:2	3:4	20.04.1974	15:30	1973	1974	30
+1. FC Kaiserslautern	Fortuna KÃ¶ln	0:0	2:1	20.04.1974	15:30	1973	1974	30
+Hertha BSC	MSV Duisburg	1:0	2:4	23.04.1974	20:00	1973	1974	31
+FC Schalke 04	Eintracht Frankfurt	1:0	3:1	23.04.1974	20:00	1973	1974	31
+Wuppertaler SV	1. FC KÃ¶ln	0:1	1:3	27.04.1974	15:30	1973	1974	31
+Bayern MÃ¼nchen	VfL Bochum	3:0	4:0	27.04.1974	15:30	1973	1974	31
+Werder Bremen	Hannover 96	0:3	3:3	27.04.1974	15:30	1973	1974	31
+Kickers Offenbach	Fortuna DÃ¼sseldorf	3:0	3:0	27.04.1974	15:30	1973	1974	31
+Bor. MÃ¶nchengladbach	Hamburger SV	3:0	6:1	27.04.1974	15:30	1973	1974	31
+Fortuna KÃ¶ln	VfB Stuttgart	0:0	1:0	27.04.1974	15:30	1973	1974	31
+Rot-Weiss Essen	1. FC Kaiserslautern	1:1	3:3	27.04.1974	15:30	1973	1974	31
+Eintracht Frankfurt	Werder Bremen	0:0	1:1	04.05.1974	15:30	1973	1974	32
+Hamburger SV	Bayern MÃ¼nchen	0:2	0:5	04.05.1974	15:30	1973	1974	32
+Hannover 96	Fortuna DÃ¼sseldorf	0:1	1:2	04.05.1974	15:30	1973	1974	32
+Bor. MÃ¶nchengladbach	Kickers Offenbach	2:0	5:1	04.05.1974	15:30	1973	1974	32
+1. FC KÃ¶ln	FC Schalke 04	2:1	3:1	04.05.1974	15:30	1973	1974	32
+VfL Bochum	Fortuna KÃ¶ln	1:0	2:0	04.05.1974	15:30	1973	1974	32
+MSV Duisburg	Wuppertaler SV	0:0	0:0	04.05.1974	15:30	1973	1974	32
+VfB Stuttgart	Rot-Weiss Essen	0:1	0:3	04.05.1974	15:30	1973	1974	32
+1. FC Kaiserslautern	Hertha BSC	0:0	3:1	04.05.1974	15:30	1973	1974	32
+Hannover 96	Eintracht Frankfurt	0:0	0:0	11.05.1974	15:30	1973	1974	33
+FC Schalke 04	MSV Duisburg	0:0	0:1	11.05.1974	15:30	1973	1974	33
+Bayern MÃ¼nchen	Kickers Offenbach	0:0	1:0	11.05.1974	15:30	1973	1974	33
+Werder Bremen	1. FC KÃ¶ln	2:2	4:2	11.05.1974	15:30	1973	1974	33
+Fortuna KÃ¶ln	Hamburger SV	0:0	3:0	11.05.1974	15:30	1973	1974	33
+Rot-Weiss Essen	VfL Bochum	2:1	2:2	11.05.1974	15:30	1973	1974	33
+Wuppertaler SV	1. FC Kaiserslautern	0:3	2:4	11.05.1974	15:30	1973	1974	33
+Hertha BSC	VfB Stuttgart	0:0	1:0	11.05.1974	15:30	1973	1974	33
+Fortuna DÃ¼sseldorf	Bor. MÃ¶nchengladbach	1:0	1:0	11.05.1974	15:30	1973	1974	33
+VfB Stuttgart	Wuppertaler SV	2:1	2:2	18.05.1974	15:30	1973	1974	34
+1. FC Kaiserslautern	FC Schalke 04	3:0	4:0	18.05.1974	15:30	1973	1974	34
+Hamburger SV	Rot-Weiss Essen	1:1	2:3	18.05.1974	15:30	1973	1974	34
+1. FC KÃ¶ln	Hannover 96	2:0	2:1	18.05.1974	15:30	1973	1974	34
+Kickers Offenbach	Fortuna KÃ¶ln	1:0	4:0	18.05.1974	15:30	1973	1974	34
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	4:0	5:0	18.05.1974	15:30	1973	1974	34
+Eintracht Frankfurt	Fortuna DÃ¼sseldorf	0:1	2:1	18.05.1974	15:30	1973	1974	34
+VfL Bochum	Hertha BSC	1:0	2:1	18.05.1974	15:30	1973	1974	34
+MSV Duisburg	Werder Bremen	0:0	3:1	18.05.1974	15:30	1973	1974	34

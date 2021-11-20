@@ -1,0 +1,380 @@
+Valencia CF	Real Betis	1:0	2:1	26.08.2006	22:00	2006	2007	1
+Deportivo La CoruÃ±a	Real Zaragoza	2:1	3:2	27.08.2006	22:00	2006	2007	1
+Recreativo Huelva	RCD Mallorca	0:0	1:1	27.08.2006	19:00	2006	2007	1
+Real Madrid	Villarreal CF	0:0	0:0	27.08.2006	19:00	2006	2007	1
+Racing Santander	AtlÃ©tico Madrid	0:1	0:1	27.08.2006	19:00	2006	2007	1
+CA Osasuna	Getafe CF	0:0	0:2	27.08.2006	19:00	2006	2007	1
+Espanyol Barcelona	GimnÃ stic	0:0	0:1	27.08.2006	19:00	2006	2007	1
+Athletic Bilbao	Real Sociedad	1:0	1:1	27.08.2006	19:00	2006	2007	1
+Celta Vigo	FC Barcelona	1:0	2:3	28.08.2006	21:00	2006	2007	1
+Sevilla FC	Levante UD	2:0	4:0	29.08.2006	21:00	2006	2007	1
+FC Barcelona	CA Osasuna	3:0	3:0	09.09.2006	20:00	2006	2007	2
+AtlÃ©tico Madrid	Valencia CF	0:1	0:1	09.09.2006	20:00	2006	2007	2
+RCD Mallorca	Deportivo La CoruÃ±a	0:0	0:0	10.09.2006	19:00	2006	2007	2
+Villarreal CF	Recreativo Huelva	0:0	0:1	10.09.2006	19:00	2006	2007	2
+Levante UD	Real Madrid	1:2	1:4	10.09.2006	19:00	2006	2007	2
+Real Sociedad	Sevilla FC	0:1	1:3	10.09.2006	19:00	2006	2007	2
+Real Betis	Athletic Bilbao	2:0	3:0	10.09.2006	19:00	2006	2007	2
+Getafe CF	Racing Santander	0:0	1:0	10.09.2006	19:00	2006	2007	2
+GimnÃ stic	Celta Vigo	0:0	1:2	10.09.2006	19:00	2006	2007	2
+Real Zaragoza	Espanyol Barcelona	1:0	3:0	10.09.2006	19:00	2006	2007	2
+Deportivo La CoruÃ±a	Villarreal CF	1:0	2:0	16.09.2006	22:00	2006	2007	3
+Sevilla FC	Real Betis	1:1	3:2	17.09.2006	22:00	2006	2007	3
+Real Zaragoza	RCD Mallorca	0:0	2:0	17.09.2006	20:00	2006	2007	3
+Recreativo Huelva	Levante UD	0:0	0:1	17.09.2006	20:00	2006	2007	3
+Athletic Bilbao	AtlÃ©tico Madrid	0:2	1:4	17.09.2006	20:00	2006	2007	3
+Valencia CF	Getafe CF	1:0	2:0	17.09.2006	20:00	2006	2007	3
+Racing Santander	FC Barcelona	0:1	0:3	17.09.2006	20:00	2006	2007	3
+CA Osasuna	GimnÃ stic	1:0	2:0	17.09.2006	20:00	2006	2007	3
+Espanyol Barcelona	Celta Vigo	0:0	2:1	17.09.2006	20:00	2006	2007	3
+Real Madrid	Real Sociedad	0:0	2:0	17.09.2006	20:00	2006	2007	3
+Real Betis	Real Madrid	0:1	0:1	23.09.2006	22:00	2006	2007	4
+AtlÃ©tico Madrid	Sevilla FC	0:1	2:1	24.09.2006	22:00	2006	2007	4
+RCD Mallorca	Espanyol Barcelona	0:0	1:0	24.09.2006	20:00	2006	2007	4
+Villarreal CF	Real Zaragoza	0:1	3:2	24.09.2006	20:00	2006	2007	4
+Levante UD	Deportivo La CoruÃ±a	1:0	2:0	24.09.2006	20:00	2006	2007	4
+Real Sociedad	Recreativo Huelva	0:1	2:3	24.09.2006	20:00	2006	2007	4
+Getafe CF	Athletic Bilbao	0:0	0:0	24.09.2006	20:00	2006	2007	4
+GimnÃ stic	Racing Santander	1:0	2:2	24.09.2006	20:00	2006	2007	4
+Celta Vigo	CA Osasuna	0:1	0:2	24.09.2006	20:00	2006	2007	4
+FC Barcelona	Valencia CF	0:1	1:1	24.09.2006	20:00	2006	2007	4
+Athletic Bilbao	FC Barcelona	1:1	1:3	30.09.2006	22:00	2006	2007	5
+RCD Mallorca	Villarreal CF	0:2	1:2	01.10.2006	22:00	2006	2007	5
+Real Zaragoza	Levante UD	0:2	2:2	01.10.2006	18:00	2006	2007	5
+Deportivo La CoruÃ±a	Real Sociedad	0:0	2:0	01.10.2006	18:00	2006	2007	5
+Recreativo Huelva	Real Betis	0:0	2:0	01.10.2006	18:00	2006	2007	5
+Real Madrid	AtlÃ©tico Madrid	1:1	1:1	01.10.2006	18:00	2006	2007	5
+Sevilla FC	Getafe CF	1:0	1:0	01.10.2006	18:00	2006	2007	5
+Racing Santander	Celta Vigo	1:0	1:1	01.10.2006	18:00	2006	2007	5
+Espanyol Barcelona	CA Osasuna	0:0	0:0	01.10.2006	18:00	2006	2007	5
+Valencia CF	GimnÃ stic	1:0	4:0	01.10.2006	18:00	2006	2007	5
+Getafe CF	Real Madrid	0:0	1:0	14.10.2006	20:00	2006	2007	6
+AtlÃ©tico Madrid	Recreativo Huelva	0:0	2:1	14.10.2006	20:00	2006	2007	6
+Villarreal CF	Espanyol Barcelona	0:0	0:0	15.10.2006	17:00	2006	2007	6
+Levante UD	RCD Mallorca	0:1	0:1	15.10.2006	17:00	2006	2007	6
+Real Sociedad	Real Zaragoza	1:1	1:3	15.10.2006	17:00	2006	2007	6
+GimnÃ stic	Athletic Bilbao	0:2	2:3	15.10.2006	17:00	2006	2007	6
+Celta Vigo	Valencia CF	1:1	3:2	15.10.2006	17:00	2006	2007	6
+CA Osasuna	Racing Santander	0:0	0:1	15.10.2006	17:00	2006	2007	6
+FC Barcelona	Sevilla FC	2:1	3:1	15.10.2006	19:00	2006	2007	6
+Real Betis	Deportivo La CoruÃ±a	0:0	1:1	15.10.2006	19:00	2006	2007	6
+Villarreal CF	Levante UD	0:0	1:1	21.10.2006	20:00	2006	2007	7
+Real Zaragoza	Real Betis	2:0	2:1	21.10.2006	20:00	2006	2007	7
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:0	1:0	21.10.2006	22:00	2006	2007	7
+RCD Mallorca	Real Sociedad	0:0	0:0	22.10.2006	22:00	2006	2007	7
+Recreativo Huelva	Getafe CF	0:1	1:2	22.10.2006	17:00	2006	2007	7
+Sevilla FC	GimnÃ stic	2:0	2:1	22.10.2006	17:00	2006	2007	7
+Athletic Bilbao	Celta Vigo	0:1	0:1	22.10.2006	17:00	2006	2007	7
+Valencia CF	CA Osasuna	1:0	1:0	22.10.2006	17:00	2006	2007	7
+Espanyol Barcelona	Racing Santander	1:1	2:2	22.10.2006	17:00	2006	2007	7
+Real Madrid	FC Barcelona	1:0	2:0	22.10.2006	17:00	2006	2007	7
+FC Barcelona	Recreativo Huelva	1:0	3:0	28.10.2006	20:00	2006	2007	8
+Racing Santander	Valencia CF	0:0	1:0	28.10.2006	20:00	2006	2007	8
+GimnÃ stic	Real Madrid	1:1	1:3	28.10.2006	22:00	2006	2007	8
+Levante UD	Espanyol Barcelona	0:0	0:0	29.10.2006	22:00	2006	2007	8
+Real Sociedad	Villarreal CF	0:0	0:1	29.10.2006	17:00	2006	2007	8
+Real Betis	RCD Mallorca	0:0	0:1	29.10.2006	17:00	2006	2007	8
+Getafe CF	Deportivo La CoruÃ±a	1:0	2:0	29.10.2006	17:00	2006	2007	8
+Celta Vigo	Sevilla FC	1:1	1:2	29.10.2006	17:00	2006	2007	8
+CA Osasuna	Athletic Bilbao	0:1	1:1	29.10.2006	19:00	2006	2007	8
+AtlÃ©tico Madrid	Real Zaragoza	0:0	0:1	29.10.2006	19:00	2006	2007	8
+Levante UD	Real Sociedad	1:0	2:0	04.11.2006	20:00	2006	2007	9
+RCD Mallorca	AtlÃ©tico Madrid	0:0	0:0	04.11.2006	20:00	2006	2007	9
+Deportivo La CoruÃ±a	FC Barcelona	0:1	1:1	04.11.2006	22:00	2006	2007	9
+Villarreal CF	Real Betis	1:1	3:2	05.11.2006	22:00	2006	2007	9
+Real Zaragoza	Getafe CF	1:0	3:1	05.11.2006	17:00	2006	2007	9
+Recreativo Huelva	GimnÃ stic	1:1	2:1	05.11.2006	17:00	2006	2007	9
+Sevilla FC	CA Osasuna	0:0	2:0	05.11.2006	17:00	2006	2007	9
+Athletic Bilbao	Racing Santander	0:0	0:0	05.11.2006	17:00	2006	2007	9
+Real Madrid	Celta Vigo	1:1	1:2	05.11.2006	19:00	2006	2007	9
+Espanyol Barcelona	Valencia CF	1:1	1:1	05.11.2006	19:00	2006	2007	9
+AtlÃ©tico Madrid	Villarreal CF	2:1	3:1	11.11.2006	20:00	2006	2007	10
+Valencia CF	Athletic Bilbao	1:0	1:1	11.11.2006	20:00	2006	2007	10
+Real Sociedad	Espanyol Barcelona	1:0	1:1	12.11.2006	17:00	2006	2007	10
+Real Betis	Levante UD	1:0	2:1	12.11.2006	17:00	2006	2007	10
+Getafe CF	RCD Mallorca	0:0	1:0	12.11.2006	17:00	2006	2007	10
+GimnÃ stic	Deportivo La CoruÃ±a	0:0	0:0	12.11.2006	17:00	2006	2007	10
+Celta Vigo	Recreativo Huelva	0:0	1:2	12.11.2006	17:00	2006	2007	10
+Racing Santander	Sevilla FC	0:0	0:0	12.11.2006	17:00	2006	2007	10
+CA Osasuna	Real Madrid	0:3	1:4	12.11.2006	19:00	2006	2007	10
+FC Barcelona	Real Zaragoza	1:1	3:1	12.11.2006	19:00	2006	2007	10
+Real Madrid	Racing Santander	1:0	3:1	18.11.2006	20:00	2006	2007	11
+Sevilla FC	Valencia CF	1:0	3:0	18.11.2006	20:00	2006	2007	11
+Real Sociedad	Real Betis	0:0	0:0	19.11.2006	17:00	2006	2007	11
+Levante UD	AtlÃ©tico Madrid	0:1	0:3	19.11.2006	17:00	2006	2007	11
+Villarreal CF	Getafe CF	0:0	1:0	19.11.2006	17:00	2006	2007	11
+Real Zaragoza	GimnÃ stic	0:0	3:0	19.11.2006	17:00	2006	2007	11
+Recreativo Huelva	CA Osasuna	1:0	2:0	19.11.2006	17:00	2006	2007	11
+Espanyol Barcelona	Athletic Bilbao	0:0	3:2	19.11.2006	17:00	2006	2007	11
+RCD Mallorca	FC Barcelona	0:1	1:4	19.11.2006	19:00	2006	2007	11
+Deportivo La CoruÃ±a	Celta Vigo	0:0	0:1	19.11.2006	19:00	2006	2007	11
+FC Barcelona	Villarreal CF	1:0	4:0	25.11.2006	20:00	2006	2007	12
+AtlÃ©tico Madrid	Real Sociedad	0:1	1:1	25.11.2006	20:00	2006	2007	12
+Real Betis	Espanyol Barcelona	1:0	1:1	26.11.2006	17:00	2006	2007	12
+Getafe CF	Levante UD	0:0	0:0	26.11.2006	17:00	2006	2007	12
+GimnÃ stic	RCD Mallorca	1:0	2:3	26.11.2006	17:00	2006	2007	12
+Celta Vigo	Real Zaragoza	0:1	1:1	26.11.2006	17:00	2006	2007	12
+CA Osasuna	Deportivo La CoruÃ±a	2:1	4:1	26.11.2006	17:00	2006	2007	12
+Racing Santander	Recreativo Huelva	3:1	4:3	26.11.2006	17:00	2006	2007	12
+Valencia CF	Real Madrid	0:0	0:1	26.11.2006	19:00	2006	2007	12
+Athletic Bilbao	Sevilla FC	0:2	1:3	26.11.2006	19:00	2006	2007	12
+Levante UD	FC Barcelona	0:1	1:1	02.12.2006	20:00	2006	2007	13
+Recreativo Huelva	Valencia CF	1:0	2:0	02.12.2006	20:00	2006	2007	13
+Real Betis	AtlÃ©tico Madrid	0:1	0:1	02.12.2006	22:00	2006	2007	13
+Real Sociedad	Getafe CF	0:0	0:0	03.12.2006	22:00	2006	2007	13
+Villarreal CF	GimnÃ stic	2:0	2:0	03.12.2006	17:00	2006	2007	13
+RCD Mallorca	Celta Vigo	1:0	2:2	03.12.2006	17:00	2006	2007	13
+Deportivo La CoruÃ±a	Racing Santander	0:0	0:0	03.12.2006	17:00	2006	2007	13
+Espanyol Barcelona	Sevilla FC	0:1	2:1	03.12.2006	17:00	2006	2007	13
+Real Madrid	Athletic Bilbao	0:1	2:1	03.12.2006	19:00	2006	2007	13
+Real Zaragoza	CA Osasuna	1:0	1:2	03.12.2006	19:00	2006	2007	13
+FC Barcelona	Real Sociedad	0:0	1:0	09.12.2006	20:00	2006	2007	14
+Sevilla FC	Real Madrid	1:1	2:1	09.12.2006	20:00	2006	2007	14
+Getafe CF	Real Betis	0:0	1:1	10.12.2006	17:00	2006	2007	14
+GimnÃ stic	Levante UD	1:1	2:1	10.12.2006	17:00	2006	2007	14
+Celta Vigo	Villarreal CF	1:0	1:1	10.12.2006	17:00	2006	2007	14
+CA Osasuna	RCD Mallorca	0:0	3:0	10.12.2006	17:00	2006	2007	14
+Racing Santander	Real Zaragoza	0:0	0:2	10.12.2006	17:00	2006	2007	14
+Athletic Bilbao	Recreativo Huelva	3:0	4:2	10.12.2006	17:00	2006	2007	14
+AtlÃ©tico Madrid	Espanyol Barcelona	0:1	1:2	10.12.2006	19:00	2006	2007	14
+Valencia CF	Deportivo La CoruÃ±a	2:0	4:0	10.12.2006	19:00	2006	2007	14
+RCD Mallorca	Racing Santander	1:0	1:2	16.12.2006	20:00	2006	2007	15
+Deportivo La CoruÃ±a	Athletic Bilbao	0:1	0:2	16.12.2006	20:00	2006	2007	15
+Real Zaragoza	Valencia CF	0:1	0:1	16.12.2006	22:00	2006	2007	15
+Real Sociedad	GimnÃ stic	0:1	3:2	17.12.2006	22:00	2006	2007	15
+Levante UD	Celta Vigo	0:1	1:1	17.12.2006	17:00	2006	2007	15
+Villarreal CF	CA Osasuna	0:2	1:4	17.12.2006	17:00	2006	2007	15
+Recreativo Huelva	Sevilla FC	1:2	1:3	17.12.2006	17:00	2006	2007	15
+Espanyol Barcelona	Real Madrid	0:0	0:1	17.12.2006	17:00	2006	2007	15
+AtlÃ©tico Madrid	Getafe CF	1:0	1:0	17.12.2006	21:00	2006	2007	15
+Real Betis	FC Barcelona	1:0	1:1	24.01.2007	21:00	2006	2007	15
+Valencia CF	RCD Mallorca	1:0	3:1	19.12.2006	21:00	2006	2007	16
+Athletic Bilbao	Real Zaragoza	0:0	0:0	19.12.2006	21:00	2006	2007	16
+Getafe CF	Espanyol Barcelona	0:0	0:1	20.12.2006	20:00	2006	2007	16
+GimnÃ stic	Real Betis	0:0	0:1	20.12.2006	20:00	2006	2007	16
+Celta Vigo	Real Sociedad	0:0	0:0	20.12.2006	20:00	2006	2007	16
+CA Osasuna	Levante UD	0:0	2:1	20.12.2006	20:00	2006	2007	16
+Racing Santander	Villarreal CF	0:0	2:1	20.12.2006	20:00	2006	2007	16
+Sevilla FC	Deportivo La CoruÃ±a	1:0	4:0	20.12.2006	20:00	2006	2007	16
+Real Madrid	Recreativo Huelva	0:1	0:3	20.12.2006	21:00	2006	2007	16
+FC Barcelona	AtlÃ©tico Madrid	1:0	1:1	21.12.2006	21:00	2006	2007	16
+AtlÃ©tico Madrid	GimnÃ stic	0:0	0:0	06.01.2007	20:00	2006	2007	17
+Real Sociedad	CA Osasuna	1:0	2:1	06.01.2007	20:00	2006	2007	17
+Real Zaragoza	Sevilla FC	1:0	2:1	06.01.2007	22:00	2006	2007	17
+Getafe CF	FC Barcelona	0:0	1:1	07.01.2007	22:00	2006	2007	17
+Real Betis	Celta Vigo	0:0	1:0	07.01.2007	17:00	2006	2007	17
+Levante UD	Racing Santander	0:0	2:0	07.01.2007	17:00	2006	2007	17
+RCD Mallorca	Athletic Bilbao	0:1	1:3	07.01.2007	17:00	2006	2007	17
+Espanyol Barcelona	Recreativo Huelva	0:0	0:1	07.01.2007	17:00	2006	2007	17
+Deportivo La CoruÃ±a	Real Madrid	1:0	2:0	07.01.2007	19:00	2006	2007	17
+Villarreal CF	Valencia CF	0:0	0:1	07.01.2007	19:00	2006	2007	17
+Valencia CF	Levante UD	0:0	3:0	13.01.2007	20:00	2006	2007	18
+Espanyol Barcelona	FC Barcelona	1:0	3:1	13.01.2007	20:00	2006	2007	18
+GimnÃ stic	Getafe CF	0:2	1:3	14.01.2007	17:00	2006	2007	18
+CA Osasuna	Real Betis	2:1	5:1	14.01.2007	17:00	2006	2007	18
+Racing Santander	Real Sociedad	0:0	1:0	14.01.2007	17:00	2006	2007	18
+Athletic Bilbao	Villarreal CF	0:0	0:1	14.01.2007	17:00	2006	2007	18
+Sevilla FC	RCD Mallorca	1:0	1:2	14.01.2007	17:00	2006	2007	18
+Recreativo Huelva	Deportivo La CoruÃ±a	1:1	1:1	14.01.2007	17:00	2006	2007	18
+Celta Vigo	AtlÃ©tico Madrid	0:2	1:3	14.01.2007	19:00	2006	2007	18
+Real Madrid	Real Zaragoza	1:0	1:0	14.01.2007	19:00	2006	2007	18
+AtlÃ©tico Madrid	CA Osasuna	0:0	1:0	20.01.2007	20:00	2006	2007	19
+Villarreal CF	Sevilla FC	0:0	0:0	20.01.2007	20:00	2006	2007	19
+Getafe CF	Celta Vigo	1:0	1:0	21.01.2007	17:00	2006	2007	19
+Real Betis	Racing Santander	0:0	1:1	21.01.2007	17:00	2006	2007	19
+Real Sociedad	Valencia CF	0:1	0:1	21.01.2007	17:00	2006	2007	19
+Levante UD	Athletic Bilbao	0:0	0:0	21.01.2007	17:00	2006	2007	19
+Real Zaragoza	Recreativo Huelva	0:0	0:0	21.01.2007	17:00	2006	2007	19
+Deportivo La CoruÃ±a	Espanyol Barcelona	0:0	0:0	21.01.2007	17:00	2006	2007	19
+FC Barcelona	GimnÃ stic	1:0	3:0	21.01.2007	19:00	2006	2007	19
+RCD Mallorca	Real Madrid	0:0	0:1	21.01.2007	19:00	2006	2007	19
+AtlÃ©tico Madrid	Racing Santander	0:0	1:1	27.01.2007	20:00	2006	2007	20
+Villarreal CF	Real Madrid	0:0	1:0	27.01.2007	20:00	2006	2007	20
+Real Zaragoza	Deportivo La CoruÃ±a	0:1	1:1	28.01.2007	17:00	2006	2007	20
+RCD Mallorca	Recreativo Huelva	2:0	2:1	28.01.2007	17:00	2006	2007	20
+Levante UD	Sevilla FC	0:1	2:4	28.01.2007	17:00	2006	2007	20
+Real Sociedad	Athletic Bilbao	0:1	0:2	28.01.2007	17:00	2006	2007	20
+Getafe CF	CA Osasuna	2:0	2:0	28.01.2007	17:00	2006	2007	20
+GimnÃ stic	Espanyol Barcelona	4:0	4:0	28.01.2007	17:00	2006	2007	20
+FC Barcelona	Celta Vigo	1:0	3:1	28.01.2007	19:00	2006	2007	20
+Real Betis	Valencia CF	1:1	2:1	28.01.2007	19:00	2006	2007	20
+Espanyol Barcelona	Real Zaragoza	0:0	1:2	03.02.2007	20:00	2006	2007	21
+Deportivo La CoruÃ±a	RCD Mallorca	1:0	1:0	03.02.2007	20:00	2006	2007	21
+Valencia CF	AtlÃ©tico Madrid	1:0	3:1	03.02.2007	22:00	2006	2007	21
+Recreativo Huelva	Villarreal CF	1:0	2:1	04.02.2007	22:00	2006	2007	21
+Sevilla FC	Real Sociedad	0:0	0:0	04.02.2007	17:00	2006	2007	21
+Athletic Bilbao	Real Betis	0:1	1:2	04.02.2007	17:00	2006	2007	21
+Racing Santander	Getafe CF	1:0	1:0	04.02.2007	17:00	2006	2007	21
+Celta Vigo	GimnÃ stic	0:0	1:1	04.02.2007	17:00	2006	2007	21
+Real Madrid	Levante UD	0:1	0:1	04.02.2007	19:00	2006	2007	21
+CA Osasuna	FC Barcelona	0:0	0:0	04.02.2007	19:00	2006	2007	21
+Real Sociedad	Real Madrid	1:1	1:2	10.02.2007	20:00	2006	2007	22
+Real Betis	Sevilla FC	0:0	0:0	10.02.2007	20:00	2006	2007	22
+RCD Mallorca	Real Zaragoza	0:0	2:1	11.02.2007	17:00	2006	2007	22
+Villarreal CF	Deportivo La CoruÃ±a	0:1	0:2	11.02.2007	17:00	2006	2007	22
+Levante UD	Recreativo Huelva	2:0	2:1	11.02.2007	17:00	2006	2007	22
+Getafe CF	Valencia CF	0:0	3:0	11.02.2007	17:00	2006	2007	22
+GimnÃ stic	CA Osasuna	1:1	2:3	11.02.2007	17:00	2006	2007	22
+Celta Vigo	Espanyol Barcelona	0:1	0:2	11.02.2007	17:00	2006	2007	22
+FC Barcelona	Racing Santander	0:0	2:0	11.02.2007	19:00	2006	2007	22
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	1:0	11.02.2007	19:00	2006	2007	22
+Real Madrid	Real Betis	0:0	0:0	17.02.2007	20:00	2006	2007	23
+Real Zaragoza	Villarreal CF	1:0	1:0	17.02.2007	20:00	2006	2007	23
+Espanyol Barcelona	RCD Mallorca	1:1	3:1	18.02.2007	17:00	2006	2007	23
+Deportivo La CoruÃ±a	Levante UD	0:0	0:0	18.02.2007	17:00	2006	2007	23
+Recreativo Huelva	Real Sociedad	0:0	1:0	18.02.2007	17:00	2006	2007	23
+Athletic Bilbao	Getafe CF	1:0	2:0	18.02.2007	17:00	2006	2007	23
+Racing Santander	GimnÃ stic	0:0	4:1	18.02.2007	17:00	2006	2007	23
+CA Osasuna	Celta Vigo	0:1	0:1	18.02.2007	17:00	2006	2007	23
+Valencia CF	FC Barcelona	0:0	2:1	18.02.2007	19:00	2006	2007	23
+Sevilla FC	AtlÃ©tico Madrid	2:0	3:1	18.02.2007	19:00	2006	2007	23
+Real Sociedad	Deportivo La CoruÃ±a	0:1	0:1	24.02.2007	20:00	2006	2007	24
+AtlÃ©tico Madrid	Real Madrid	1:0	1:1	24.02.2007	20:00	2006	2007	24
+Villarreal CF	RCD Mallorca	1:1	2:1	25.02.2007	17:00	2006	2007	24
+Levante UD	Real Zaragoza	0:0	0:0	25.02.2007	17:00	2006	2007	24
+Real Betis	Recreativo Huelva	0:0	0:0	25.02.2007	17:00	2006	2007	24
+Getafe CF	Sevilla FC	0:0	0:0	25.02.2007	17:00	2006	2007	24
+Celta Vigo	Racing Santander	2:0	2:2	25.02.2007	17:00	2006	2007	24
+CA Osasuna	Espanyol Barcelona	0:1	0:2	25.02.2007	17:00	2006	2007	24
+GimnÃ stic	Valencia CF	0:0	1:1	25.02.2007	19:00	2006	2007	24
+FC Barcelona	Athletic Bilbao	3:0	3:0	25.02.2007	19:00	2006	2007	24
+Valencia CF	Celta Vigo	0:0	1:0	03.03.2007	20:00	2006	2007	25
+Sevilla FC	FC Barcelona	1:1	2:1	03.03.2007	20:00	2006	2007	25
+Espanyol Barcelona	Villarreal CF	1:0	1:1	04.03.2007	17:00	2006	2007	25
+RCD Mallorca	Levante UD	0:0	3:1	04.03.2007	17:00	2006	2007	25
+Real Zaragoza	Real Sociedad	0:1	3:2	04.03.2007	17:00	2006	2007	25
+Deportivo La CoruÃ±a	Real Betis	0:0	0:1	04.03.2007	17:00	2006	2007	25
+Athletic Bilbao	GimnÃ stic	0:1	0:2	04.03.2007	17:00	2006	2007	25
+Racing Santander	CA Osasuna	0:0	1:0	04.03.2007	17:00	2006	2007	25
+Real Madrid	Getafe CF	1:1	1:1	04.03.2007	19:00	2006	2007	25
+Recreativo Huelva	AtlÃ©tico Madrid	1:0	1:0	04.03.2007	19:00	2006	2007	25
+Levante UD	Villarreal CF	0:1	0:2	10.03.2007	20:00	2006	2007	26
+FC Barcelona	Real Madrid	2:2	3:3	10.03.2007	20:00	2006	2007	26
+Real Sociedad	RCD Mallorca	2:1	3:1	11.03.2007	17:00	2006	2007	26
+Real Betis	Real Zaragoza	1:1	1:1	11.03.2007	17:00	2006	2007	26
+Getafe CF	Recreativo Huelva	1:1	1:1	11.03.2007	17:00	2006	2007	26
+GimnÃ stic	Sevilla FC	0:0	1:0	11.03.2007	17:00	2006	2007	26
+Celta Vigo	Athletic Bilbao	1:0	1:1	11.03.2007	17:00	2006	2007	26
+Racing Santander	Espanyol Barcelona	1:1	1:1	11.03.2007	17:00	2006	2007	26
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	2:0	11.03.2007	19:00	2006	2007	26
+CA Osasuna	Valencia CF	1:0	1:1	11.03.2007	19:00	2006	2007	26
+Valencia CF	Racing Santander	0:1	0:2	17.03.2007	18:00	2006	2007	27
+RCD Mallorca	Real Betis	2:0	2:0	17.03.2007	18:00	2006	2007	27
+Recreativo Huelva	FC Barcelona	0:3	0:4	17.03.2007	20:00	2006	2007	27
+Athletic Bilbao	CA Osasuna	0:1	0:3	17.03.2007	20:00	2006	2007	27
+Espanyol Barcelona	Levante UD	1:1	1:1	18.03.2007	17:00	2006	2007	27
+Villarreal CF	Real Sociedad	0:1	1:1	18.03.2007	17:00	2006	2007	27
+Real Zaragoza	AtlÃ©tico Madrid	1:0	1:0	18.03.2007	17:00	2006	2007	27
+Deportivo La CoruÃ±a	Getafe CF	0:0	1:0	18.03.2007	17:00	2006	2007	27
+Real Madrid	GimnÃ stic	0:0	2:0	18.03.2007	19:00	2006	2007	27
+Sevilla FC	Celta Vigo	0:0	2:0	18.03.2007	19:00	2006	2007	27
+Real Betis	Villarreal CF	1:1	3:3	31.03.2007	18:00	2006	2007	28
+Real Sociedad	Levante UD	1:0	1:0	31.03.2007	18:00	2006	2007	28
+Valencia CF	Espanyol Barcelona	2:1	3:2	31.03.2007	20:00	2006	2007	28
+FC Barcelona	Deportivo La CoruÃ±a	1:0	2:1	31.03.2007	20:00	2006	2007	28
+AtlÃ©tico Madrid	RCD Mallorca	1:0	1:1	01.04.2007	17:00	2006	2007	28
+Getafe CF	Real Zaragoza	1:2	2:2	01.04.2007	17:00	2006	2007	28
+GimnÃ stic	Recreativo Huelva	1:1	1:1	01.04.2007	17:00	2006	2007	28
+Racing Santander	Athletic Bilbao	0:1	5:4	01.04.2007	17:00	2006	2007	28
+Celta Vigo	Real Madrid	1:1	1:2	01.04.2007	19:00	2006	2007	28
+CA Osasuna	Sevilla FC	0:0	0:0	01.04.2007	19:00	2006	2007	28
+Real Zaragoza	FC Barcelona	0:0	1:0	07.04.2007	20:00	2006	2007	29
+Athletic Bilbao	Valencia CF	1:0	1:0	07.04.2007	20:00	2006	2007	29
+Espanyol Barcelona	Real Sociedad	0:0	1:0	08.04.2007	17:00	2006	2007	29
+Levante UD	Real Betis	1:0	1:1	08.04.2007	17:00	2006	2007	29
+RCD Mallorca	Getafe CF	0:0	2:0	08.04.2007	17:00	2006	2007	29
+Deportivo La CoruÃ±a	GimnÃ stic	0:0	1:0	08.04.2007	17:00	2006	2007	29
+Recreativo Huelva	Celta Vigo	1:0	4:2	08.04.2007	17:00	2006	2007	29
+Sevilla FC	Racing Santander	0:0	0:0	08.04.2007	17:00	2006	2007	29
+Real Madrid	CA Osasuna	1:0	2:0	08.04.2007	19:00	2006	2007	29
+Villarreal CF	AtlÃ©tico Madrid	0:1	0:1	08.04.2007	19:00	2006	2007	29
+Racing Santander	Real Madrid	0:1	2:1	14.04.2007	20:00	2006	2007	30
+Real Betis	Real Sociedad	0:1	0:1	14.04.2007	20:00	2006	2007	30
+AtlÃ©tico Madrid	Levante UD	0:0	1:0	15.04.2007	17:00	2006	2007	30
+Getafe CF	Villarreal CF	1:0	3:0	15.04.2007	17:00	2006	2007	30
+GimnÃ stic	Real Zaragoza	0:0	1:0	15.04.2007	17:00	2006	2007	30
+Celta Vigo	Deportivo La CoruÃ±a	0:0	1:0	15.04.2007	17:00	2006	2007	30
+CA Osasuna	Recreativo Huelva	0:0	1:1	15.04.2007	17:00	2006	2007	30
+Athletic Bilbao	Espanyol Barcelona	0:1	2:1	15.04.2007	17:00	2006	2007	30
+FC Barcelona	RCD Mallorca	0:0	1:0	15.04.2007	19:00	2006	2007	30
+Valencia CF	Sevilla FC	1:0	2:0	15.04.2007	19:00	2006	2007	30
+Real Sociedad	AtlÃ©tico Madrid	1:0	2:0	21.04.2007	20:00	2006	2007	31
+Real Madrid	Valencia CF	1:0	2:1	21.04.2007	20:00	2006	2007	31
+Espanyol Barcelona	Real Betis	1:1	2:2	22.04.2007	17:00	2006	2007	31
+Levante UD	Getafe CF	1:0	1:1	22.04.2007	17:00	2006	2007	31
+RCD Mallorca	GimnÃ stic	1:0	1:0	22.04.2007	17:00	2006	2007	31
+Real Zaragoza	Celta Vigo	0:0	2:0	22.04.2007	17:00	2006	2007	31
+Deportivo La CoruÃ±a	CA Osasuna	0:0	1:0	22.04.2007	17:00	2006	2007	31
+Recreativo Huelva	Racing Santander	3:1	4:2	22.04.2007	17:00	2006	2007	31
+Sevilla FC	Athletic Bilbao	0:0	4:1	22.04.2007	19:00	2006	2007	31
+Villarreal CF	FC Barcelona	0:0	2:0	22.04.2007	19:00	2006	2007	31
+AtlÃ©tico Madrid	Real Betis	0:0	0:0	28.04.2007	20:00	2006	2007	32
+Valencia CF	Recreativo Huelva	0:0	2:0	28.04.2007	20:00	2006	2007	32
+Getafe CF	Real Sociedad	0:0	1:0	29.04.2007	17:00	2006	2007	32
+GimnÃ stic	Villarreal CF	0:1	0:3	29.04.2007	17:00	2006	2007	32
+Celta Vigo	RCD Mallorca	0:2	0:3	29.04.2007	17:00	2006	2007	32
+CA Osasuna	Real Zaragoza	1:1	2:2	29.04.2007	17:00	2006	2007	32
+Racing Santander	Deportivo La CoruÃ±a	0:0	0:0	29.04.2007	17:00	2006	2007	32
+Sevilla FC	Espanyol Barcelona	0:0	3:1	29.04.2007	17:00	2006	2007	32
+FC Barcelona	Levante UD	1:0	1:0	29.04.2007	19:00	2006	2007	32
+Athletic Bilbao	Real Madrid	0:2	1:4	29.04.2007	19:00	2006	2007	32
+Real Sociedad	FC Barcelona	0:0	0:2	05.05.2007	20:00	2006	2007	33
+Deportivo La CoruÃ±a	Valencia CF	0:1	1:2	05.05.2007	20:00	2006	2007	33
+Real Betis	Getafe CF	0:2	0:2	06.05.2007	17:00	2006	2007	33
+Levante UD	GimnÃ stic	2:0	2:0	06.05.2007	17:00	2006	2007	33
+Villarreal CF	Celta Vigo	0:0	1:0	06.05.2007	17:00	2006	2007	33
+RCD Mallorca	CA Osasuna	1:0	3:1	06.05.2007	17:00	2006	2007	33
+Real Zaragoza	Racing Santander	0:0	0:0	06.05.2007	17:00	2006	2007	33
+Recreativo Huelva	Athletic Bilbao	0:0	0:0	06.05.2007	17:00	2006	2007	33
+Espanyol Barcelona	AtlÃ©tico Madrid	1:0	2:1	06.05.2007	19:00	2006	2007	33
+Real Madrid	Sevilla FC	0:1	3:2	06.05.2007	19:00	2006	2007	33
+Real Madrid	Espanyol Barcelona	1:3	4:3	12.05.2007	20:00	2006	2007	34
+Sevilla FC	Recreativo Huelva	1:0	2:1	12.05.2007	20:00	2006	2007	34
+Getafe CF	AtlÃ©tico Madrid	1:2	1:4	13.05.2007	17:00	2006	2007	34
+GimnÃ stic	Real Sociedad	1:2	1:3	13.05.2007	17:00	2006	2007	34
+Celta Vigo	Levante UD	0:1	1:2	13.05.2007	17:00	2006	2007	34
+CA Osasuna	Villarreal CF	1:1	1:4	13.05.2007	17:00	2006	2007	34
+Racing Santander	RCD Mallorca	0:0	0:2	13.05.2007	17:00	2006	2007	34
+Athletic Bilbao	Deportivo La CoruÃ±a	0:0	1:1	13.05.2007	17:00	2006	2007	34
+FC Barcelona	Real Betis	1:0	1:1	13.05.2007	19:00	2006	2007	34
+Valencia CF	Real Zaragoza	2:0	2:0	13.05.2007	19:00	2006	2007	34
+Real Betis	GimnÃ stic	0:0	1:1	19.05.2007	20:00	2006	2007	35
+RCD Mallorca	Valencia CF	0:0	0:1	19.05.2007	20:00	2006	2007	35
+Real Zaragoza	Athletic Bilbao	4:1	4:3	19.05.2007	22:00	2006	2007	35
+Espanyol Barcelona	Getafe CF	1:2	1:5	20.05.2007	22:00	2006	2007	35
+Real Sociedad	Celta Vigo	0:1	3:1	20.05.2007	17:00	2006	2007	35
+Levante UD	CA Osasuna	1:3	1:4	20.05.2007	17:00	2006	2007	35
+Villarreal CF	Racing Santander	1:0	2:1	20.05.2007	17:00	2006	2007	35
+Deportivo La CoruÃ±a	Sevilla FC	0:0	1:2	20.05.2007	17:00	2006	2007	35
+Recreativo Huelva	Real Madrid	0:1	2:3	20.05.2007	19:00	2006	2007	35
+AtlÃ©tico Madrid	FC Barcelona	0:3	0:6	20.05.2007	19:00	2006	2007	35
+Valencia CF	Villarreal CF	1:1	2:3	26.05.2007	18:00	2006	2007	36
+Real Madrid	Deportivo La CoruÃ±a	1:0	3:1	26.05.2007	18:00	2006	2007	36
+FC Barcelona	Getafe CF	1:0	1:0	26.05.2007	22:00	2006	2007	36
+Celta Vigo	Real Betis	1:1	2:1	27.05.2007	22:00	2006	2007	36
+CA Osasuna	Real Sociedad	2:0	2:0	27.05.2007	17:00	2006	2007	36
+Racing Santander	Levante UD	1:2	2:3	27.05.2007	17:00	2006	2007	36
+Athletic Bilbao	RCD Mallorca	0:0	1:0	27.05.2007	17:00	2006	2007	36
+Recreativo Huelva	Espanyol Barcelona	0:0	0:1	27.05.2007	17:00	2006	2007	36
+GimnÃ stic	AtlÃ©tico Madrid	0:1	0:2	27.05.2007	19:00	2006	2007	36
+Sevilla FC	Real Zaragoza	1:0	3:1	27.05.2007	19:00	2006	2007	36
+FC Barcelona	Espanyol Barcelona	1:1	2:2	09.06.2007	21:00	2006	2007	37
+AtlÃ©tico Madrid	Celta Vigo	1:1	2:3	09.06.2007	21:00	2006	2007	37
+Real Betis	CA Osasuna	0:1	0:5	09.06.2007	21:00	2006	2007	37
+Real Sociedad	Racing Santander	0:0	0:0	09.06.2007	21:00	2006	2007	37
+Levante UD	Valencia CF	2:1	4:2	09.06.2007	21:00	2006	2007	37
+Villarreal CF	Athletic Bilbao	2:1	3:1	09.06.2007	21:00	2006	2007	37
+RCD Mallorca	Sevilla FC	0:0	0:0	09.06.2007	21:00	2006	2007	37
+Real Zaragoza	Real Madrid	1:0	2:2	09.06.2007	21:00	2006	2007	37
+Getafe CF	GimnÃ stic	0:0	0:1	10.06.2007	17:00	2006	2007	37
+Deportivo La CoruÃ±a	Recreativo Huelva	0:2	2:5	10.06.2007	17:00	2006	2007	37
+Celta Vigo	Getafe CF	1:1	2:1	17.06.2007	17:00	2006	2007	38
+Racing Santander	Real Betis	0:0	0:2	17.06.2007	17:00	2006	2007	38
+Valencia CF	Real Sociedad	2:2	3:3	17.06.2007	17:00	2006	2007	38
+Athletic Bilbao	Levante UD	0:0	2:0	17.06.2007	17:00	2006	2007	38
+Espanyol Barcelona	Deportivo La CoruÃ±a	0:0	1:3	17.06.2007	17:00	2006	2007	38
+GimnÃ stic	FC Barcelona	0:3	1:5	17.06.2007	17:00	2006	2007	38
+CA Osasuna	AtlÃ©tico Madrid	0:1	1:2	17.06.2007	21:00	2006	2007	38
+Sevilla FC	Villarreal CF	0:0	0:1	17.06.2007	21:00	2006	2007	38
+Real Madrid	RCD Mallorca	0:1	3:1	17.06.2007	21:00	2006	2007	38
+Recreativo Huelva	Real Zaragoza	1:0	1:1	17.06.2007	21:00	2006	2007	38

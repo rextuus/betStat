@@ -1,5 +1,10 @@
 monolog:
     handlers:
+        backup:
+            # log all messages (since debug is the lowest level)
+            level:    debug
+            type:     stream
+            path:     '%kernel.logs_dir%/backup.log'
         main:
             type: stream
             path: "%kernel.logs_dir%/%kernel.environment%.log"

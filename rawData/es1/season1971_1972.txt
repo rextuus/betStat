@@ -1,0 +1,306 @@
+Athletic Bilbao	UD Las Palmas	0:1	1:2	04.09.1971	00:00	1971	1972	1
+Valencia CF	Espanyol Barcelona	0:0	1:1	04.09.1971	00:00	1971	1972	1
+Celta Vigo	AtlÃ©tico Madrid	1:0	2:1	05.09.1971	00:00	1971	1972	1
+FC Barcelona	Real Sociedad	2:0	3:0	05.09.1971	00:00	1971	1972	1
+Real Madrid	Real Betis	2:0	2:0	05.09.1971	00:00	1971	1972	1
+CE Sabadell	Sporting GijÃ³n	0:1	0:2	05.09.1971	00:00	1971	1972	1
+Granada CF	CD MÃ¡laga	1:0	2:0	05.09.1971	00:00	1971	1972	1
+Deportivo La CoruÃ±a	CÃ³rdoba CF	2:1	3:2	05.09.1971	00:00	1971	1972	1
+Sevilla FC	Burgos CF	1:0	2:0	05.09.1971	00:00	1971	1972	1
+UD Las Palmas	Valencia CF	0:0	1:1	11.09.1971	00:00	1971	1972	2
+CD MÃ¡laga	Deportivo La CoruÃ±a	1:0	2:0	11.09.1971	00:00	1971	1972	2
+Sporting GijÃ³n	Athletic Bilbao	2:0	3:2	11.09.1971	00:00	1971	1972	2
+AtlÃ©tico Madrid	CE Sabadell	4:0	5:0	11.09.1971	00:00	1971	1972	2
+Real Sociedad	Granada CF	1:0	3:1	12.09.1971	00:00	1971	1972	2
+Real Betis	Celta Vigo	0:1	1:1	12.09.1971	00:00	1971	1972	2
+CÃ³rdoba CF	Sevilla FC	0:0	1:1	12.09.1971	00:00	1971	1972	2
+Espanyol Barcelona	FC Barcelona	0:0	3:0	12.09.1971	00:00	1971	1972	2
+Burgos CF	Real Madrid	1:1	1:2	12.09.1971	00:00	1971	1972	2
+Valencia CF	Sporting GijÃ³n	1:0	1:0	18.09.1971	00:00	1971	1972	3
+Real Madrid	Celta Vigo	2:0	3:0	19.09.1971	00:00	1971	1972	3
+Granada CF	Espanyol Barcelona	0:0	0:0	19.09.1971	00:00	1971	1972	3
+Burgos CF	CÃ³rdoba CF	0:0	1:0	19.09.1971	00:00	1971	1972	3
+Sevilla FC	CD MÃ¡laga	1:2	1:2	19.09.1971	00:00	1971	1972	3
+FC Barcelona	UD Las Palmas	1:0	1:2	19.09.1971	00:00	1971	1972	3
+Athletic Bilbao	AtlÃ©tico Madrid	0:0	0:1	19.09.1971	00:00	1971	1972	3
+Deportivo La CoruÃ±a	Real Sociedad	0:0	1:0	19.09.1971	00:00	1971	1972	3
+CE Sabadell	Real Betis	0:1	2:1	19.09.1971	00:00	1971	1972	3
+UD Las Palmas	Granada CF	1:1	2:2	25.09.1971	00:00	1971	1972	4
+AtlÃ©tico Madrid	Valencia CF	0:1	0:1	26.09.1971	00:00	1971	1972	4
+CD MÃ¡laga	Burgos CF	2:0	4:1	26.09.1971	00:00	1971	1972	4
+Celta Vigo	CE Sabadell	0:1	0:1	26.09.1971	00:00	1971	1972	4
+Real Sociedad	Sevilla FC	1:0	1:1	26.09.1971	00:00	1971	1972	4
+Real Betis	Athletic Bilbao	1:0	1:0	26.09.1971	00:00	1971	1972	4
+Sporting GijÃ³n	FC Barcelona	1:0	1:0	26.09.1971	00:00	1971	1972	4
+CÃ³rdoba CF	Real Madrid	1:1	2:2	26.09.1971	00:00	1971	1972	4
+Espanyol Barcelona	Deportivo La CoruÃ±a	2:0	2:0	26.09.1971	00:00	1971	1972	4
+FC Barcelona	AtlÃ©tico Madrid	0:0	0:0	03.10.1971	00:00	1971	1972	5
+Deportivo La CoruÃ±a	UD Las Palmas	1:0	1:0	03.10.1971	00:00	1971	1972	5
+Real Madrid	CE Sabadell	1:0	2:0	03.10.1971	00:00	1971	1972	5
+CÃ³rdoba CF	CD MÃ¡laga	0:0	0:0	03.10.1971	00:00	1971	1972	5
+Granada CF	Sporting GijÃ³n	1:0	1:0	03.10.1971	00:00	1971	1972	5
+Sevilla FC	Espanyol Barcelona	1:0	1:0	03.10.1971	00:00	1971	1972	5
+Burgos CF	Real Sociedad	2:0	3:1	03.10.1971	00:00	1971	1972	5
+Valencia CF	Real Betis	1:0	2:0	03.10.1971	00:00	1971	1972	5
+Athletic Bilbao	Celta Vigo	3:0	4:0	03.10.1971	00:00	1971	1972	5
+UD Las Palmas	Sevilla FC	1:0	1:1	09.10.1971	00:00	1971	1972	6
+CE Sabadell	Athletic Bilbao	0:0	0:0	10.10.1971	00:00	1971	1972	6
+Espanyol Barcelona	Burgos CF	1:0	1:1	10.10.1971	00:00	1971	1972	6
+Real Sociedad	CÃ³rdoba CF	0:1	2:1	10.10.1971	00:00	1971	1972	6
+AtlÃ©tico Madrid	Granada CF	0:0	1:0	10.10.1971	00:00	1971	1972	6
+Celta Vigo	Valencia CF	1:2	1:3	10.10.1971	00:00	1971	1972	6
+Real Betis	FC Barcelona	0:0	0:0	10.10.1971	00:00	1971	1972	6
+CD MÃ¡laga	Real Madrid	1:1	1:1	10.10.1971	00:00	1971	1972	6
+Sporting GijÃ³n	Deportivo La CoruÃ±a	1:0	2:0	10.10.1971	00:00	1971	1972	6
+FC Barcelona	Celta Vigo	0:0	1:0	16.10.1971	00:00	1971	1972	7
+Real Madrid	Athletic Bilbao	0:0	1:0	16.10.1971	00:00	1971	1972	7
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:1	1:1	17.10.1971	00:00	1971	1972	7
+Sevilla FC	Sporting GijÃ³n	0:0	3:1	17.10.1971	00:00	1971	1972	7
+Burgos CF	UD Las Palmas	1:0	1:0	17.10.1971	00:00	1971	1972	7
+Valencia CF	CE Sabadell	1:1	3:1	17.10.1971	00:00	1971	1972	7
+CÃ³rdoba CF	Espanyol Barcelona	3:1	3:1	17.10.1971	00:00	1971	1972	7
+Granada CF	Real Betis	0:0	0:0	17.10.1971	00:00	1971	1972	7
+CD MÃ¡laga	Real Sociedad	0:0	1:1	17.10.1971	00:00	1971	1972	7
+AtlÃ©tico Madrid	Sevilla FC	0:1	0:2	31.10.1971	00:00	1971	1972	8
+Sporting GijÃ³n	Burgos CF	0:0	0:0	31.10.1971	00:00	1971	1972	8
+UD Las Palmas	CÃ³rdoba CF	2:0	3:0	31.10.1971	00:00	1971	1972	8
+Celta Vigo	Granada CF	0:0	0:0	31.10.1971	00:00	1971	1972	8
+Real Betis	Deportivo La CoruÃ±a	1:0	2:0	31.10.1971	00:00	1971	1972	8
+Athletic Bilbao	Valencia CF	0:1	1:1	31.10.1971	00:00	1971	1972	8
+CE Sabadell	FC Barcelona	0:0	0:0	31.10.1971	00:00	1971	1972	8
+Real Sociedad	Real Madrid	0:1	0:2	31.10.1971	00:00	1971	1972	8
+Espanyol Barcelona	CD MÃ¡laga	2:0	4:1	31.10.1971	00:00	1971	1972	8
+Burgos CF	AtlÃ©tico Madrid	0:0	0:0	14.11.1971	00:00	1971	1972	9
+CD MÃ¡laga	UD Las Palmas	0:0	0:0	14.11.1971	00:00	1971	1972	9
+Granada CF	CE Sabadell	1:0	3:1	14.11.1971	00:00	1971	1972	9
+CÃ³rdoba CF	Sporting GijÃ³n	0:0	0:1	14.11.1971	00:00	1971	1972	9
+FC Barcelona	Athletic Bilbao	0:0	0:1	14.11.1971	00:00	1971	1972	9
+Sevilla FC	Real Betis	2:0	3:1	14.11.1971	00:00	1971	1972	9
+Real Madrid	Valencia CF	1:1	1:1	14.11.1971	00:00	1971	1972	9
+Real Sociedad	Espanyol Barcelona	0:0	4:1	14.11.1971	00:00	1971	1972	9
+Deportivo La CoruÃ±a	Celta Vigo	0:0	0:1	14.11.1971	00:00	1971	1972	9
+UD Las Palmas	Real Sociedad	0:0	0:0	20.11.1971	00:00	1971	1972	10
+Celta Vigo	Sevilla FC	3:0	4:1	21.11.1971	00:00	1971	1972	10
+Real Betis	Burgos CF	1:0	2:0	21.11.1971	00:00	1971	1972	10
+AtlÃ©tico Madrid	CÃ³rdoba CF	1:0	2:2	21.11.1971	00:00	1971	1972	10
+Athletic Bilbao	Granada CF	0:0	1:0	21.11.1971	00:00	1971	1972	10
+CE Sabadell	Deportivo La CoruÃ±a	1:0	4:1	21.11.1971	00:00	1971	1972	10
+Valencia CF	FC Barcelona	0:0	1:0	21.11.1971	00:00	1971	1972	10
+Espanyol Barcelona	Real Madrid	0:0	0:0	21.11.1971	00:00	1971	1972	10
+Sporting GijÃ³n	CD MÃ¡laga	0:2	1:2	21.11.1971	00:00	1971	1972	10
+Espanyol Barcelona	UD Las Palmas	1:0	4:0	28.11.1971	00:00	1971	1972	11
+CD MÃ¡laga	AtlÃ©tico Madrid	0:0	0:0	28.11.1971	00:00	1971	1972	11
+Sevilla FC	CE Sabadell	0:0	1:1	28.11.1971	00:00	1971	1972	11
+Real Sociedad	Sporting GijÃ³n	3:0	3:1	28.11.1971	00:00	1971	1972	11
+Real Madrid	FC Barcelona	1:0	1:1	28.11.1971	00:00	1971	1972	11
+Granada CF	Valencia CF	0:0	1:0	28.11.1971	00:00	1971	1972	11
+Deportivo La CoruÃ±a	Athletic Bilbao	0:0	1:0	28.11.1971	00:00	1971	1972	11
+Burgos CF	Celta Vigo	2:1	3:2	28.11.1971	00:00	1971	1972	11
+CÃ³rdoba CF	Real Betis	1:0	3:1	28.11.1971	00:00	1971	1972	11
+UD Las Palmas	Real Madrid	1:0	2:0	04.12.1971	00:00	1971	1972	12
+AtlÃ©tico Madrid	Real Sociedad	4:0	5:0	05.12.1971	00:00	1971	1972	12
+CE Sabadell	Burgos CF	1:1	2:1	05.12.1971	00:00	1971	1972	12
+Celta Vigo	CÃ³rdoba CF	0:0	2:0	05.12.1971	00:00	1971	1972	12
+FC Barcelona	Granada CF	1:0	2:0	05.12.1971	00:00	1971	1972	12
+Valencia CF	Deportivo La CoruÃ±a	0:1	1:1	05.12.1971	00:00	1971	1972	12
+Athletic Bilbao	Sevilla FC	1:0	2:0	05.12.1971	00:00	1971	1972	12
+Sporting GijÃ³n	Espanyol Barcelona	0:0	4:0	05.12.1971	00:00	1971	1972	12
+Real Betis	CD MÃ¡laga	0:0	0:0	05.12.1971	00:00	1971	1972	12
+UD Las Palmas	Sporting GijÃ³n	4:0	5:1	11.12.1971	00:00	1971	1972	13
+Real Sociedad	Real Betis	4:0	6:0	12.12.1971	00:00	1971	1972	13
+Espanyol Barcelona	AtlÃ©tico Madrid	1:1	1:2	12.12.1971	00:00	1971	1972	13
+CD MÃ¡laga	Celta Vigo	0:1	1:1	12.12.1971	00:00	1971	1972	13
+CÃ³rdoba CF	CE Sabadell	1:0	4:1	12.12.1971	00:00	1971	1972	13
+Burgos CF	Athletic Bilbao	0:0	1:0	12.12.1971	00:00	1971	1972	13
+Deportivo La CoruÃ±a	FC Barcelona	0:1	0:2	12.12.1971	00:00	1971	1972	13
+Sevilla FC	Valencia CF	1:0	2:0	12.12.1971	00:00	1971	1972	13
+Real Madrid	Granada CF	2:0	4:2	12.12.1971	00:00	1971	1972	13
+Celta Vigo	Real Sociedad	0:1	0:1	19.12.1971	00:00	1971	1972	14
+Valencia CF	Burgos CF	1:0	2:0	19.12.1971	00:00	1971	1972	14
+Athletic Bilbao	CÃ³rdoba CF	1:0	5:0	19.12.1971	00:00	1971	1972	14
+CE Sabadell	CD MÃ¡laga	0:1	1:1	19.12.1971	00:00	1971	1972	14
+AtlÃ©tico Madrid	UD Las Palmas	0:0	2:0	19.12.1971	00:00	1971	1972	14
+FC Barcelona	Sevilla FC	0:0	1:0	19.12.1971	00:00	1971	1972	14
+Real Betis	Espanyol Barcelona	0:0	0:1	19.12.1971	00:00	1971	1972	14
+Sporting GijÃ³n	Real Madrid	0:1	1:1	19.12.1971	00:00	1971	1972	14
+Granada CF	Deportivo La CoruÃ±a	1:0	2:2	19.12.1971	00:00	1971	1972	14
+UD Las Palmas	Real Betis	2:0	2:0	01.01.1972	00:00	1971	1972	15
+Sporting GijÃ³n	AtlÃ©tico Madrid	1:0	1:2	02.01.1972	00:00	1971	1972	15
+Espanyol Barcelona	Celta Vigo	0:0	1:0	02.01.1972	00:00	1971	1972	15
+Real Madrid	Deportivo La CoruÃ±a	1:0	1:0	02.01.1972	00:00	1971	1972	15
+Real Sociedad	CE Sabadell	0:0	2:0	02.01.1972	00:00	1971	1972	15
+CD MÃ¡laga	Athletic Bilbao	0:0	1:0	02.01.1972	00:00	1971	1972	15
+Burgos CF	FC Barcelona	2:2	2:3	02.01.1972	00:00	1971	1972	15
+Sevilla FC	Granada CF	1:1	2:1	02.01.1972	00:00	1971	1972	15
+CÃ³rdoba CF	Valencia CF	0:1	0:4	02.01.1972	00:00	1971	1972	15
+Real Betis	Sporting GijÃ³n	2:0	2:1	06.01.1972	00:00	1971	1972	16
+Granada CF	Burgos CF	2:0	2:1	06.01.1972	00:00	1971	1972	16
+Valencia CF	CD MÃ¡laga	2:0	3:0	06.01.1972	00:00	1971	1972	16
+Celta Vigo	UD Las Palmas	1:0	2:0	06.01.1972	00:00	1971	1972	16
+Athletic Bilbao	Real Sociedad	0:1	1:2	06.01.1972	00:00	1971	1972	16
+Deportivo La CoruÃ±a	Sevilla FC	0:0	1:0	06.01.1972	00:00	1971	1972	16
+Real Madrid	AtlÃ©tico Madrid	1:0	1:0	06.01.1972	00:00	1971	1972	16
+CE Sabadell	Espanyol Barcelona	0:0	0:2	06.01.1972	00:00	1971	1972	16
+FC Barcelona	CÃ³rdoba CF	2:1	4:1	06.01.1972	00:00	1971	1972	16
+UD Las Palmas	CE Sabadell	0:0	0:0	15.01.1972	00:00	1971	1972	17
+CÃ³rdoba CF	Granada CF	1:0	2:0	16.01.1972	00:00	1971	1972	17
+Sevilla FC	Real Madrid	0:1	0:2	16.01.1972	00:00	1971	1972	17
+CD MÃ¡laga	FC Barcelona	0:0	0:0	16.01.1972	00:00	1971	1972	17
+Espanyol Barcelona	Athletic Bilbao	1:2	1:2	16.01.1972	00:00	1971	1972	17
+Real Sociedad	Valencia CF	1:0	1:0	16.01.1972	00:00	1971	1972	17
+AtlÃ©tico Madrid	Real Betis	3:0	4:1	16.01.1972	00:00	1971	1972	17
+Sporting GijÃ³n	Celta Vigo	2:0	2:2	16.01.1972	00:00	1971	1972	17
+Burgos CF	Deportivo La CoruÃ±a	1:1	3:1	16.01.1972	00:00	1971	1972	17
+UD Las Palmas	Athletic Bilbao	1:0	2:1	22.01.1972	00:00	1971	1972	18
+Real Betis	Real Madrid	0:0	0:0	23.01.1972	00:00	1971	1972	18
+Real Sociedad	FC Barcelona	0:1	2:2	23.01.1972	00:00	1971	1972	18
+Espanyol Barcelona	Valencia CF	2:1	3:1	23.01.1972	00:00	1971	1972	18
+Burgos CF	Sevilla FC	0:0	1:0	23.01.1972	00:00	1971	1972	18
+AtlÃ©tico Madrid	Celta Vigo	0:0	0:0	23.01.1972	00:00	1971	1972	18
+CÃ³rdoba CF	Deportivo La CoruÃ±a	0:0	0:0	23.01.1972	00:00	1971	1972	18
+CD MÃ¡laga	Granada CF	1:0	1:0	23.01.1972	00:00	1971	1972	18
+Sporting GijÃ³n	CE Sabadell	2:0	3:0	23.01.1972	00:00	1971	1972	18
+CE Sabadell	AtlÃ©tico Madrid	1:0	3:1	30.01.1972	00:00	1971	1972	19
+Real Madrid	Burgos CF	0:0	1:1	30.01.1972	00:00	1971	1972	19
+Sevilla FC	CÃ³rdoba CF	1:1	1:1	30.01.1972	00:00	1971	1972	19
+Deportivo La CoruÃ±a	CD MÃ¡laga	0:0	0:0	30.01.1972	00:00	1971	1972	19
+Athletic Bilbao	Sporting GijÃ³n	3:1	3:1	30.01.1972	00:00	1971	1972	19
+Valencia CF	UD Las Palmas	2:0	4:0	30.01.1972	00:00	1971	1972	19
+Granada CF	Real Sociedad	1:0	1:0	30.01.1972	00:00	1971	1972	19
+FC Barcelona	Espanyol Barcelona	1:0	2:0	30.01.1972	00:00	1971	1972	19
+Celta Vigo	Real Betis	0:0	1:0	30.01.1972	00:00	1971	1972	19
+Real Sociedad	Deportivo La CoruÃ±a	0:1	0:1	06.02.1972	00:00	1971	1972	20
+UD Las Palmas	FC Barcelona	0:1	1:2	06.02.1972	00:00	1971	1972	20
+CÃ³rdoba CF	Burgos CF	0:0	0:0	06.02.1972	00:00	1971	1972	20
+Real Betis	CE Sabadell	0:0	1:0	06.02.1972	00:00	1971	1972	20
+Espanyol Barcelona	Granada CF	1:2	2:3	06.02.1972	00:00	1971	1972	20
+Celta Vigo	Real Madrid	0:0	1:1	06.02.1972	00:00	1971	1972	20
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	1:2	06.02.1972	00:00	1971	1972	20
+Sporting GijÃ³n	Valencia CF	1:0	4:0	06.02.1972	00:00	1971	1972	20
+CD MÃ¡laga	Sevilla FC	1:1	2:2	06.02.1972	00:00	1971	1972	20
+CE Sabadell	Celta Vigo	1:0	1:1	13.02.1972	00:00	1971	1972	21
+Real Madrid	CÃ³rdoba CF	1:1	4:1	13.02.1972	00:00	1971	1972	21
+Burgos CF	CD MÃ¡laga	1:0	3:1	13.02.1972	00:00	1971	1972	21
+Granada CF	UD Las Palmas	1:0	3:0	13.02.1972	00:00	1971	1972	21
+Athletic Bilbao	Real Betis	2:0	3:0	13.02.1972	00:00	1971	1972	21
+Sevilla FC	Real Sociedad	0:1	0:1	13.02.1972	00:00	1971	1972	21
+Valencia CF	AtlÃ©tico Madrid	1:0	1:0	13.02.1972	00:00	1971	1972	21
+Deportivo La CoruÃ±a	Espanyol Barcelona	2:0	3:1	13.02.1972	00:00	1971	1972	21
+FC Barcelona	Sporting GijÃ³n	0:0	1:0	13.02.1972	00:00	1971	1972	21
+AtlÃ©tico Madrid	FC Barcelona	1:0	1:1	20.02.1972	00:00	1971	1972	22
+Real Sociedad	Burgos CF	1:0	2:0	20.02.1972	00:00	1971	1972	22
+CD MÃ¡laga	CÃ³rdoba CF	0:0	2:2	20.02.1972	00:00	1971	1972	22
+Sporting GijÃ³n	Granada CF	0:0	2:0	20.02.1972	00:00	1971	1972	22
+UD Las Palmas	Deportivo La CoruÃ±a	1:0	2:0	20.02.1972	00:00	1971	1972	22
+Celta Vigo	Athletic Bilbao	0:0	2:0	20.02.1972	00:00	1971	1972	22
+Real Betis	Valencia CF	1:0	1:0	20.02.1972	00:00	1971	1972	22
+CE Sabadell	Real Madrid	0:2	1:2	20.02.1972	00:00	1971	1972	22
+Espanyol Barcelona	Sevilla FC	0:0	2:0	20.02.1972	00:00	1971	1972	22
+FC Barcelona	Real Betis	2:2	2:2	27.02.1972	00:00	1971	1972	23
+Athletic Bilbao	CE Sabadell	1:0	3:1	27.02.1972	00:00	1971	1972	23
+Real Madrid	CD MÃ¡laga	1:0	1:0	27.02.1972	00:00	1971	1972	23
+Deportivo La CoruÃ±a	Sporting GijÃ³n	1:0	1:1	27.02.1972	00:00	1971	1972	23
+Valencia CF	Celta Vigo	0:0	4:0	27.02.1972	00:00	1971	1972	23
+CÃ³rdoba CF	Real Sociedad	0:0	1:0	27.02.1972	00:00	1971	1972	23
+Granada CF	AtlÃ©tico Madrid	1:0	1:0	27.02.1972	00:00	1971	1972	23
+Burgos CF	Espanyol Barcelona	1:0	2:1	27.02.1972	00:00	1971	1972	23
+Sevilla FC	UD Las Palmas	0:0	0:2	27.02.1972	00:00	1971	1972	23
+UD Las Palmas	Burgos CF	1:1	3:1	04.03.1972	00:00	1971	1972	24
+CE Sabadell	Valencia CF	0:0	1:1	05.03.1972	00:00	1971	1972	24
+Real Betis	Granada CF	0:0	1:0	05.03.1972	00:00	1971	1972	24
+Real Sociedad	CD MÃ¡laga	1:0	1:0	05.03.1972	00:00	1971	1972	24
+Espanyol Barcelona	CÃ³rdoba CF	0:1	1:1	05.03.1972	00:00	1971	1972	24
+Celta Vigo	FC Barcelona	1:1	1:2	05.03.1972	00:00	1971	1972	24
+Athletic Bilbao	Real Madrid	1:0	1:0	05.03.1972	00:00	1971	1972	24
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:1	2:1	05.03.1972	00:00	1971	1972	24
+Sporting GijÃ³n	Sevilla FC	1:0	1:0	05.03.1972	00:00	1971	1972	24
+Real Madrid	Real Sociedad	2:1	2:1	12.03.1972	00:00	1971	1972	25
+FC Barcelona	CE Sabadell	0:0	2:0	12.03.1972	00:00	1971	1972	25
+Burgos CF	Sporting GijÃ³n	0:0	1:0	12.03.1972	00:00	1971	1972	25
+CÃ³rdoba CF	UD Las Palmas	1:1	2:2	12.03.1972	00:00	1971	1972	25
+Deportivo La CoruÃ±a	Real Betis	1:1	1:1	12.03.1972	00:00	1971	1972	25
+Sevilla FC	AtlÃ©tico Madrid	2:2	3:3	12.03.1972	00:00	1971	1972	25
+CD MÃ¡laga	Espanyol Barcelona	0:0	1:0	12.03.1972	00:00	1971	1972	25
+Valencia CF	Athletic Bilbao	1:0	2:0	12.03.1972	00:00	1971	1972	25
+Granada CF	Celta Vigo	0:0	0:0	12.03.1972	00:00	1971	1972	25
+UD Las Palmas	CD MÃ¡laga	1:0	2:0	18.03.1972	00:00	1971	1972	26
+Real Betis	Sevilla FC	1:0	1:1	19.03.1972	00:00	1971	1972	26
+AtlÃ©tico Madrid	Burgos CF	0:0	1:0	19.03.1972	00:00	1971	1972	26
+Sporting GijÃ³n	CÃ³rdoba CF	0:0	0:0	19.03.1972	00:00	1971	1972	26
+CE Sabadell	Granada CF	0:0	0:0	19.03.1972	00:00	1971	1972	26
+Espanyol Barcelona	Real Sociedad	1:0	1:0	19.03.1972	00:00	1971	1972	26
+Athletic Bilbao	FC Barcelona	0:1	0:1	19.03.1972	00:00	1971	1972	26
+Valencia CF	Real Madrid	0:0	1:2	19.03.1972	00:00	1971	1972	26
+Celta Vigo	Deportivo La CoruÃ±a	0:0	3:1	19.03.1972	00:00	1971	1972	26
+CÃ³rdoba CF	AtlÃ©tico Madrid	0:1	0:1	26.03.1972	00:00	1971	1972	27
+Deportivo La CoruÃ±a	CE Sabadell	0:0	1:0	26.03.1972	00:00	1971	1972	27
+CD MÃ¡laga	Sporting GijÃ³n	1:0	1:1	26.03.1972	00:00	1971	1972	27
+Real Sociedad	UD Las Palmas	0:0	1:0	26.03.1972	00:00	1971	1972	27
+Burgos CF	Real Betis	0:0	0:1	26.03.1972	00:00	1971	1972	27
+FC Barcelona	Valencia CF	0:1	1:1	26.03.1972	00:00	1971	1972	27
+Real Madrid	Espanyol Barcelona	2:0	3:0	26.03.1972	00:00	1971	1972	27
+Granada CF	Athletic Bilbao	1:0	5:1	26.03.1972	00:00	1971	1972	27
+Sevilla FC	Celta Vigo	2:0	4:0	26.03.1972	00:00	1971	1972	27
+Real Betis	CÃ³rdoba CF	0:0	0:0	02.04.1972	00:00	1971	1972	28
+Athletic Bilbao	Deportivo La CoruÃ±a	0:0	1:0	02.04.1972	00:00	1971	1972	28
+Celta Vigo	Burgos CF	1:0	2:0	02.04.1972	00:00	1971	1972	28
+UD Las Palmas	Espanyol Barcelona	0:0	1:0	02.04.1972	00:00	1971	1972	28
+Sporting GijÃ³n	Real Sociedad	0:0	1:0	02.04.1972	00:00	1971	1972	28
+CE Sabadell	Sevilla FC	0:0	0:0	02.04.1972	00:00	1971	1972	28
+Valencia CF	Granada CF	1:1	2:1	02.04.1972	00:00	1971	1972	28
+AtlÃ©tico Madrid	CD MÃ¡laga	0:0	0:0	02.04.1972	00:00	1971	1972	28
+FC Barcelona	Real Madrid	1:0	1:0	03.04.1972	00:00	1971	1972	28
+Real Sociedad	AtlÃ©tico Madrid	0:0	0:0	09.04.1972	00:00	1971	1972	29
+Burgos CF	CE Sabadell	0:0	4:1	09.04.1972	00:00	1971	1972	29
+Espanyol Barcelona	Sporting GijÃ³n	0:0	0:0	09.04.1972	00:00	1971	1972	29
+Real Madrid	UD Las Palmas	0:0	2:0	09.04.1972	00:00	1971	1972	29
+CD MÃ¡laga	Real Betis	0:0	0:0	09.04.1972	00:00	1971	1972	29
+Deportivo La CoruÃ±a	Valencia CF	2:0	3:0	09.04.1972	00:00	1971	1972	29
+Sevilla FC	Athletic Bilbao	0:0	0:1	09.04.1972	00:00	1971	1972	29
+Granada CF	FC Barcelona	1:0	2:0	09.04.1972	00:00	1971	1972	29
+CÃ³rdoba CF	Celta Vigo	0:0	0:0	09.04.1972	00:00	1971	1972	29
+FC Barcelona	Deportivo La CoruÃ±a	1:0	1:0	16.04.1972	00:00	1971	1972	30
+Sporting GijÃ³n	UD Las Palmas	0:1	0:1	16.04.1972	00:00	1971	1972	30
+Celta Vigo	CD MÃ¡laga	0:0	1:1	16.04.1972	00:00	1971	1972	30
+Athletic Bilbao	Burgos CF	0:0	1:0	16.04.1972	00:00	1971	1972	30
+Valencia CF	Sevilla FC	0:0	2:0	16.04.1972	00:00	1971	1972	30
+AtlÃ©tico Madrid	Espanyol Barcelona	1:1	1:1	16.04.1972	00:00	1971	1972	30
+Granada CF	Real Madrid	1:1	2:1	16.04.1972	00:00	1971	1972	30
+Real Betis	Real Sociedad	0:0	1:0	16.04.1972	00:00	1971	1972	30
+CE Sabadell	CÃ³rdoba CF	0:0	1:0	16.04.1972	00:00	1971	1972	30
+UD Las Palmas	AtlÃ©tico Madrid	0:0	1:0	22.04.1972	00:00	1971	1972	31
+Sevilla FC	FC Barcelona	1:1	1:2	22.04.1972	00:00	1971	1972	31
+Burgos CF	Valencia CF	0:1	0:1	23.04.1972	00:00	1971	1972	31
+CD MÃ¡laga	CE Sabadell	0:0	1:0	23.04.1972	00:00	1971	1972	31
+Deportivo La CoruÃ±a	Granada CF	0:0	2:0	23.04.1972	00:00	1971	1972	31
+Real Madrid	Sporting GijÃ³n	1:0	1:0	23.04.1972	00:00	1971	1972	31
+Espanyol Barcelona	Real Betis	0:0	3:0	23.04.1972	00:00	1971	1972	31
+CÃ³rdoba CF	Athletic Bilbao	0:0	0:1	23.04.1972	00:00	1971	1972	31
+Real Sociedad	Celta Vigo	0:0	0:0	23.04.1972	00:00	1971	1972	31
+Valencia CF	CÃ³rdoba CF	1:1	4:2	29.04.1972	00:00	1971	1972	32
+CE Sabadell	Real Sociedad	2:1	3:1	30.04.1972	00:00	1971	1972	32
+Real Betis	UD Las Palmas	1:0	2:1	30.04.1972	00:00	1971	1972	32
+AtlÃ©tico Madrid	Sporting GijÃ³n	0:0	1:0	30.04.1972	00:00	1971	1972	32
+FC Barcelona	Burgos CF	2:0	2:1	30.04.1972	00:00	1971	1972	32
+Celta Vigo	Espanyol Barcelona	2:1	4:2	30.04.1972	00:00	1971	1972	32
+Deportivo La CoruÃ±a	Real Madrid	0:0	1:0	30.04.1972	00:00	1971	1972	32
+Athletic Bilbao	CD MÃ¡laga	0:0	0:0	30.04.1972	00:00	1971	1972	32
+Granada CF	Sevilla FC	3:0	3:0	30.04.1972	00:00	1971	1972	32
+UD Las Palmas	Celta Vigo	0:0	1:1	06.05.1972	00:00	1971	1972	33
+CD MÃ¡laga	Valencia CF	0:0	0:2	06.05.1972	00:00	1971	1972	33
+Sporting GijÃ³n	Real Betis	2:0	3:1	07.05.1972	00:00	1971	1972	33
+Espanyol Barcelona	CE Sabadell	2:0	2:1	07.05.1972	00:00	1971	1972	33
+Sevilla FC	Deportivo La CoruÃ±a	0:0	1:0	07.05.1972	00:00	1971	1972	33
+Real Sociedad	Athletic Bilbao	0:0	1:0	07.05.1972	00:00	1971	1972	33
+CÃ³rdoba CF	FC Barcelona	0:0	1:0	07.05.1972	00:00	1971	1972	33
+AtlÃ©tico Madrid	Real Madrid	2:1	4:1	07.05.1972	00:00	1971	1972	33
+Burgos CF	Granada CF	1:0	1:1	07.05.1972	00:00	1971	1972	33
+Deportivo La CoruÃ±a	Burgos CF	0:0	0:0	14.05.1972	00:00	1971	1972	34
+Athletic Bilbao	Espanyol Barcelona	1:0	1:1	14.05.1972	00:00	1971	1972	34
+Real Betis	AtlÃ©tico Madrid	0:0	1:3	14.05.1972	00:00	1971	1972	34
+Real Madrid	Sevilla FC	2:0	4:1	14.05.1972	00:00	1971	1972	34
+Valencia CF	Real Sociedad	1:1	2:1	14.05.1972	00:00	1971	1972	34
+CE Sabadell	UD Las Palmas	0:0	0:1	14.05.1972	00:00	1971	1972	34
+Celta Vigo	Sporting GijÃ³n	1:1	2:2	14.05.1972	00:00	1971	1972	34
+FC Barcelona	CD MÃ¡laga	0:0	0:1	14.05.1972	00:00	1971	1972	34
+Granada CF	CÃ³rdoba CF	1:0	1:0	14.05.1972	00:00	1971	1972	34

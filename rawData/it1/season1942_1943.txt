@@ -1,0 +1,240 @@
+Genova 1893 Circolo del Calcio	Vicenza Virtus	0:0	6:1	01.01.2000	00:00	1942	1943	1
+Unione Triestina	Lazio Roma	0:0	0:0	01.01.2000	00:00	1942	1943	1
+AS Roma	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1942	1943	1
+Juventus	AC Milan	0:0	1:1	01.01.2000	00:00	1942	1943	1
+Bologna FC	Atalanta	0:0	2:0	01.01.2000	00:00	1942	1943	1
+AS Bari	AC Liguria	0:0	2:0	01.01.2000	00:00	1942	1943	1
+Inter	Torino FC	0:0	1:0	01.01.2000	00:00	1942	1943	1
+US Livorno	AC Venezia	0:0	2:1	01.01.2000	00:00	1942	1943	1
+Vicenza Virtus	AS Roma	0:0	1:2	01.01.2000	00:00	1942	1943	2
+AC Venezia	Juventus	0:0	1:1	01.01.2000	00:00	1942	1943	2
+Atalanta	AS Bari	0:0	2:0	01.01.2000	00:00	1942	1943	2
+ACF Fiorentina	Unione Triestina	0:0	2:2	01.01.2000	00:00	1942	1943	2
+Lazio Roma	Bologna FC	0:0	2:1	01.01.2000	00:00	1942	1943	2
+AC Liguria	Inter	0:0	1:1	01.01.2000	00:00	1942	1943	2
+Torino FC	US Livorno	0:0	1:2	01.01.2000	00:00	1942	1943	2
+AC Milan	Genova 1893 Circolo del Calcio	0:0	0:0	01.01.2000	00:00	1942	1943	2
+ACF Fiorentina	Vicenza Virtus	0:0	4:2	01.01.2000	00:00	1942	1943	3
+AS Bari	Lazio Roma	0:0	2:1	01.01.2000	00:00	1942	1943	3
+Genova 1893 Circolo del Calcio	AC Venezia	0:0	5:1	01.01.2000	00:00	1942	1943	3
+Juventus	Torino FC	0:0	2:5	01.01.2000	00:00	1942	1943	3
+US Livorno	AC Liguria	0:0	3:1	01.01.2000	00:00	1942	1943	3
+AS Roma	AC Milan	0:0	1:1	01.01.2000	00:00	1942	1943	3
+Unione Triestina	Bologna FC	0:0	0:0	01.01.2000	00:00	1942	1943	3
+Inter	Atalanta	0:0	1:0	01.01.2000	00:00	1942	1943	3
+Vicenza Virtus	Unione Triestina	0:0	2:1	01.01.2000	00:00	1942	1943	4
+AC Venezia	AS Roma	0:0	0:0	01.01.2000	00:00	1942	1943	4
+Torino FC	Genova 1893 Circolo del Calcio	0:0	3:1	01.01.2000	00:00	1942	1943	4
+AC Milan	ACF Fiorentina	0:0	1:3	01.01.2000	00:00	1942	1943	4
+AC Liguria	Juventus	0:0	1:0	01.01.2000	00:00	1942	1943	4
+Lazio Roma	Inter	0:0	3:1	01.01.2000	00:00	1942	1943	4
+Bologna FC	AS Bari	0:0	4:0	01.01.2000	00:00	1942	1943	4
+Atalanta	US Livorno	0:0	0:2	01.01.2000	00:00	1942	1943	4
+ACF Fiorentina	AC Venezia	0:0	2:1	01.01.2000	00:00	1942	1943	5
+Unione Triestina	AS Bari	0:0	1:1	01.01.2000	00:00	1942	1943	5
+Vicenza Virtus	AC Milan	0:0	1:1	01.01.2000	00:00	1942	1943	5
+AS Roma	Torino FC	0:0	0:4	01.01.2000	00:00	1942	1943	5
+US Livorno	Lazio Roma	0:0	4:2	01.01.2000	00:00	1942	1943	5
+Genova 1893 Circolo del Calcio	AC Liguria	0:0	3:0	01.01.2000	00:00	1942	1943	5
+Inter	Bologna FC	0:0	1:0	01.01.2000	00:00	1942	1943	5
+Juventus	Atalanta	0:0	5:1	01.01.2000	00:00	1942	1943	5
+AC Venezia	Vicenza Virtus	0:0	0:1	01.01.2000	00:00	1942	1943	6
+Torino FC	ACF Fiorentina	0:0	5:0	01.01.2000	00:00	1942	1943	6
+AC Milan	Unione Triestina	0:0	2:0	01.01.2000	00:00	1942	1943	6
+AC Liguria	AS Roma	0:0	3:0	01.01.2000	00:00	1942	1943	6
+Lazio Roma	Juventus	0:0	5:3	01.01.2000	00:00	1942	1943	6
+Atalanta	Genova 1893 Circolo del Calcio	0:0	3:1	01.01.2000	00:00	1942	1943	6
+AS Bari	Inter	0:0	1:0	01.01.2000	00:00	1942	1943	6
+Bologna FC	US Livorno	0:0	1:2	01.01.2000	00:00	1942	1943	6
+Vicenza Virtus	Torino FC	0:0	0:1	01.01.2000	00:00	1942	1943	7
+ACF Fiorentina	AC Liguria	0:0	5:1	01.01.2000	00:00	1942	1943	7
+Genova 1893 Circolo del Calcio	Lazio Roma	0:0	6:5	01.01.2000	00:00	1942	1943	7
+Juventus	Bologna FC	0:0	3:1	01.01.2000	00:00	1942	1943	7
+US Livorno	AS Bari	0:0	1:1	01.01.2000	00:00	1942	1943	7
+AC Milan	AC Venezia	0:0	1:2	01.01.2000	00:00	1942	1943	7
+AS Roma	Atalanta	0:0	2:1	01.01.2000	00:00	1942	1943	7
+Unione Triestina	Inter	0:0	0:0	01.01.2000	00:00	1942	1943	7
+AC Liguria	Vicenza Virtus	0:0	3:1	01.01.2000	00:00	1942	1943	8
+AC Venezia	Unione Triestina	0:0	1:1	01.01.2000	00:00	1942	1943	8
+Lazio Roma	AS Roma	0:0	3:1	01.01.2000	00:00	1942	1943	8
+Inter	US Livorno	0:0	0:1	01.01.2000	00:00	1942	1943	8
+Torino FC	AC Milan	0:0	0:1	01.01.2000	00:00	1942	1943	8
+Atalanta	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1942	1943	8
+AS Bari	Juventus	0:0	2:3	01.01.2000	00:00	1942	1943	8
+Bologna FC	Genova 1893 Circolo del Calcio	0:0	3:1	01.01.2000	00:00	1942	1943	8
+AC Venezia	Torino FC	0:0	0:3	01.01.2000	00:00	1942	1943	9
+Vicenza Virtus	Atalanta	0:0	2:3	01.01.2000	00:00	1942	1943	9
+ACF Fiorentina	Lazio Roma	0:0	1:1	01.01.2000	00:00	1942	1943	9
+Genova 1893 Circolo del Calcio	AS Bari	0:0	3:2	01.01.2000	00:00	1942	1943	9
+Juventus	Inter	0:0	4:2	01.01.2000	00:00	1942	1943	9
+AC Milan	AC Liguria	0:0	0:0	01.01.2000	00:00	1942	1943	9
+AS Roma	Bologna FC	0:0	1:1	01.01.2000	00:00	1942	1943	9
+Unione Triestina	US Livorno	0:0	1:1	01.01.2000	00:00	1942	1943	9
+US Livorno	Juventus	0:0	0:3	01.01.2000	00:00	1942	1943	10
+AC Liguria	AC Venezia	0:0	1:0	01.01.2000	00:00	1942	1943	10
+Lazio Roma	Vicenza Virtus	0:0	2:1	01.01.2000	00:00	1942	1943	10
+Bologna FC	ACF Fiorentina	0:0	3:1	01.01.2000	00:00	1942	1943	10
+Atalanta	AC Milan	0:0	0:0	01.01.2000	00:00	1942	1943	10
+Torino FC	Unione Triestina	0:0	4:1	01.01.2000	00:00	1942	1943	10
+Inter	Genova 1893 Circolo del Calcio	0:0	3:0	01.01.2000	00:00	1942	1943	10
+AS Bari	AS Roma	0:0	2:2	01.01.2000	00:00	1942	1943	10
+Torino FC	AC Liguria	0:0	3:0	01.01.2000	00:00	1942	1943	11
+Vicenza Virtus	Bologna FC	0:0	0:1	01.01.2000	00:00	1942	1943	11
+AC Venezia	Atalanta	0:0	1:1	01.01.2000	00:00	1942	1943	11
+Unione Triestina	Juventus	0:0	1:1	01.01.2000	00:00	1942	1943	11
+AC Milan	Lazio Roma	0:0	4:1	01.01.2000	00:00	1942	1943	11
+ACF Fiorentina	AS Bari	0:0	1:0	01.01.2000	00:00	1942	1943	11
+Genova 1893 Circolo del Calcio	US Livorno	0:0	5:2	01.01.2000	00:00	1942	1943	11
+AS Roma	Inter	0:0	1:3	01.01.2000	00:00	1942	1943	11
+AS Bari	Vicenza Virtus	0:0	0:0	01.01.2000	00:00	1942	1943	12
+US Livorno	AS Roma	0:0	2:0	01.01.2000	00:00	1942	1943	12
+AC Liguria	Unione Triestina	0:0	1:1	01.01.2000	00:00	1942	1943	12
+Lazio Roma	AC Venezia	0:0	1:1	01.01.2000	00:00	1942	1943	12
+Bologna FC	AC Milan	0:0	3:0	01.01.2000	00:00	1942	1943	12
+Atalanta	Torino FC	0:0	1:0	01.01.2000	00:00	1942	1943	12
+Inter	ACF Fiorentina	0:0	4:0	01.01.2000	00:00	1942	1943	12
+Juventus	Genova 1893 Circolo del Calcio	0:0	3:2	01.01.2000	00:00	1942	1943	12
+Vicenza Virtus	Inter	0:0	2:2	01.01.2000	00:00	1942	1943	13
+AC Venezia	Bologna FC	0:0	1:0	01.01.2000	00:00	1942	1943	13
+ACF Fiorentina	US Livorno	0:0	4:3	01.01.2000	00:00	1942	1943	13
+Unione Triestina	Genova 1893 Circolo del Calcio	0:0	0:1	01.01.2000	00:00	1942	1943	13
+Torino FC	Lazio Roma	0:0	2:2	01.01.2000	00:00	1942	1943	13
+AC Liguria	Atalanta	0:0	3:0	01.01.2000	00:00	1942	1943	13
+AS Roma	Juventus	0:0	1:2	01.01.2000	00:00	1942	1943	13
+AC Milan	AS Bari	0:0	3:1	01.01.2000	00:00	1942	1943	13
+US Livorno	Vicenza Virtus	0:0	2:0	01.01.2000	00:00	1942	1943	14
+Unione Triestina	Atalanta	0:0	0:1	01.01.2000	00:00	1942	1943	14
+Inter	AC Milan	0:0	3:1	01.01.2000	00:00	1942	1943	14
+AS Bari	AC Venezia	0:0	2:1	01.01.2000	00:00	1942	1943	14
+Bologna FC	Torino FC	0:0	1:2	01.01.2000	00:00	1942	1943	14
+Genova 1893 Circolo del Calcio	AS Roma	0:0	0:2	01.01.2000	00:00	1942	1943	14
+Juventus	ACF Fiorentina	0:0	5:2	01.01.2000	00:00	1942	1943	14
+Lazio Roma	AC Liguria	0:0	5:1	01.01.2000	00:00	1942	1943	14
+Vicenza Virtus	Juventus	0:0	0:0	01.01.2000	00:00	1942	1943	15
+AC Venezia	Inter	0:0	0:2	01.01.2000	00:00	1942	1943	15
+Torino FC	AS Bari	0:0	3:0	01.01.2000	00:00	1942	1943	15
+AS Roma	Unione Triestina	0:0	1:2	01.01.2000	00:00	1942	1943	15
+AC Milan	US Livorno	0:0	1:1	01.01.2000	00:00	1942	1943	15
+ACF Fiorentina	Genova 1893 Circolo del Calcio	0:0	3:2	01.01.2000	00:00	1942	1943	15
+Atalanta	Lazio Roma	0:0	2:0	01.01.2000	00:00	1942	1943	15
+AC Liguria	Bologna FC	0:0	1:7	01.01.2000	00:00	1942	1943	15
+AC Milan	Juventus	0:0	2:0	01.01.2000	00:00	1942	1943	16
+AC Venezia	US Livorno	0:0	0:1	01.01.2000	00:00	1942	1943	16
+Vicenza Virtus	Genova 1893 Circolo del Calcio	0:0	0:1	01.01.2000	00:00	1942	1943	16
+Torino FC	Inter	0:0	1:3	01.01.2000	00:00	1942	1943	16
+Lazio Roma	Unione Triestina	0:0	3:1	01.01.2000	00:00	1942	1943	16
+ACF Fiorentina	AS Roma	0:0	3:0	01.01.2000	00:00	1942	1943	16
+Atalanta	Bologna FC	0:0	1:0	01.01.2000	00:00	1942	1943	16
+AC Liguria	AS Bari	0:0	1:0	01.01.2000	00:00	1942	1943	16
+Bologna FC	Lazio Roma	0:0	4:0	01.01.2000	00:00	1942	1943	17
+Inter	AC Liguria	0:0	5:1	01.01.2000	00:00	1942	1943	17
+Unione Triestina	ACF Fiorentina	0:0	3:0	01.01.2000	00:00	1942	1943	17
+AS Roma	Vicenza Virtus	0:0	1:0	01.01.2000	00:00	1942	1943	17
+US Livorno	Torino FC	0:0	0:0	01.01.2000	00:00	1942	1943	17
+Genova 1893 Circolo del Calcio	AC Milan	0:0	4:2	01.01.2000	00:00	1942	1943	17
+AS Bari	Atalanta	0:0	0:0	01.01.2000	00:00	1942	1943	17
+Juventus	AC Venezia	0:0	5:2	01.01.2000	00:00	1942	1943	17
+Lazio Roma	AS Bari	0:0	0:0	01.01.2000	00:00	1942	1943	18
+AC Venezia	Genova 1893 Circolo del Calcio	0:0	4:1	01.01.2000	00:00	1942	1943	18
+Torino FC	Juventus	0:0	2:0	01.01.2000	00:00	1942	1943	18
+Vicenza Virtus	ACF Fiorentina	0:0	3:0	01.01.2000	00:00	1942	1943	18
+Bologna FC	Unione Triestina	0:0	2:2	01.01.2000	00:00	1942	1943	18
+Atalanta	Inter	0:0	2:5	01.01.2000	00:00	1942	1943	18
+AC Milan	AS Roma	0:0	4:1	01.01.2000	00:00	1942	1943	18
+AC Liguria	US Livorno	0:0	1:2	01.01.2000	00:00	1942	1943	18
+ACF Fiorentina	AC Milan	0:0	3:0	01.01.2000	00:00	1942	1943	19
+Unione Triestina	Vicenza Virtus	0:0	2:0	01.01.2000	00:00	1942	1943	19
+AS Roma	AC Venezia	0:0	2:1	01.01.2000	00:00	1942	1943	19
+US Livorno	Atalanta	0:0	1:1	01.01.2000	00:00	1942	1943	19
+Genova 1893 Circolo del Calcio	Torino FC	0:0	3:3	01.01.2000	00:00	1942	1943	19
+AS Bari	Bologna FC	0:0	0:1	01.01.2000	00:00	1942	1943	19
+Inter	Lazio Roma	0:0	4:1	01.01.2000	00:00	1942	1943	19
+Juventus	AC Liguria	0:0	4:1	01.01.2000	00:00	1942	1943	19
+Lazio Roma	US Livorno	0:0	0:1	01.01.2000	00:00	1942	1943	20
+Torino FC	AS Roma	0:0	4:0	01.01.2000	00:00	1942	1943	20
+AC Venezia	ACF Fiorentina	0:0	2:2	01.01.2000	00:00	1942	1943	20
+AC Liguria	Genova 1893 Circolo del Calcio	0:0	1:2	01.01.2000	00:00	1942	1943	20
+AS Bari	Unione Triestina	0:0	1:0	01.01.2000	00:00	1942	1943	20
+Atalanta	Juventus	0:0	0:2	01.01.2000	00:00	1942	1943	20
+AC Milan	Vicenza Virtus	0:0	1:1	01.01.2000	00:00	1942	1943	20
+Bologna FC	Inter	0:0	3:1	01.01.2000	00:00	1942	1943	20
+Unione Triestina	AC Milan	0:0	0:1	01.01.2000	00:00	1942	1943	21
+Vicenza Virtus	AC Venezia	0:0	2:0	01.01.2000	00:00	1942	1943	21
+AS Roma	AC Liguria	0:0	5:1	01.01.2000	00:00	1942	1943	21
+US Livorno	Bologna FC	0:0	1:0	01.01.2000	00:00	1942	1943	21
+Genova 1893 Circolo del Calcio	Atalanta	0:0	1:0	01.01.2000	00:00	1942	1943	21
+ACF Fiorentina	Torino FC	0:0	2:3	01.01.2000	00:00	1942	1943	21
+Inter	AS Bari	0:0	0:0	01.01.2000	00:00	1942	1943	21
+Juventus	Lazio Roma	0:0	2:4	01.01.2000	00:00	1942	1943	21
+AS Bari	US Livorno	0:0	1:1	01.01.2000	00:00	1942	1943	22
+AC Venezia	AC Milan	0:0	1:3	01.01.2000	00:00	1942	1943	22
+Torino FC	Vicenza Virtus	0:0	0:0	01.01.2000	00:00	1942	1943	22
+AC Liguria	ACF Fiorentina	0:0	2:2	01.01.2000	00:00	1942	1943	22
+Inter	Unione Triestina	0:0	1:0	01.01.2000	00:00	1942	1943	22
+Bologna FC	Juventus	0:0	2:2	01.01.2000	00:00	1942	1943	22
+Atalanta	AS Roma	0:0	2:1	01.01.2000	00:00	1942	1943	22
+Lazio Roma	Genova 1893 Circolo del Calcio	0:0	1:1	01.01.2000	00:00	1942	1943	22
+AC Milan	Torino FC	0:0	1:0	01.01.2000	00:00	1942	1943	23
+Unione Triestina	AC Venezia	0:0	1:1	01.01.2000	00:00	1942	1943	23
+Vicenza Virtus	AC Liguria	0:0	1:1	01.01.2000	00:00	1942	1943	23
+AS Roma	Lazio Roma	0:0	1:0	01.01.2000	00:00	1942	1943	23
+Juventus	AS Bari	0:0	5:0	01.01.2000	00:00	1942	1943	23
+Genova 1893 Circolo del Calcio	Bologna FC	0:0	3:1	01.01.2000	00:00	1942	1943	23
+ACF Fiorentina	Atalanta	0:0	2:0	01.01.2000	00:00	1942	1943	23
+US Livorno	Inter	0:0	4:2	01.01.2000	00:00	1942	1943	23
+AS Bari	Genova 1893 Circolo del Calcio	0:0	0:0	01.01.2000	00:00	1942	1943	24
+Inter	Juventus	0:0	3:1	01.01.2000	00:00	1942	1943	24
+Torino FC	AC Venezia	0:0	3:1	01.01.2000	00:00	1942	1943	24
+US Livorno	Unione Triestina	0:0	0:0	01.01.2000	00:00	1942	1943	24
+AC Liguria	AC Milan	0:0	2:2	01.01.2000	00:00	1942	1943	24
+Bologna FC	AS Roma	0:0	4:2	01.01.2000	00:00	1942	1943	24
+Atalanta	Vicenza Virtus	0:0	2:2	01.01.2000	00:00	1942	1943	24
+Lazio Roma	ACF Fiorentina	0:0	3:3	01.01.2000	00:00	1942	1943	24
+Juventus	US Livorno	0:0	3:0	01.01.2000	00:00	1942	1943	25
+AC Venezia	AC Liguria	0:0	1:0	01.01.2000	00:00	1942	1943	25
+Unione Triestina	Torino FC	0:0	2:3	01.01.2000	00:00	1942	1943	25
+Vicenza Virtus	Lazio Roma	0:0	1:1	01.01.2000	00:00	1942	1943	25
+Genova 1893 Circolo del Calcio	Inter	0:0	1:0	01.01.2000	00:00	1942	1943	25
+ACF Fiorentina	Bologna FC	0:0	0:1	01.01.2000	00:00	1942	1943	25
+AS Roma	AS Bari	0:0	1:0	01.01.2000	00:00	1942	1943	25
+AC Milan	Atalanta	0:0	0:1	01.01.2000	00:00	1942	1943	25
+AS Bari	ACF Fiorentina	0:0	4:2	01.01.2000	00:00	1942	1943	26
+US Livorno	Genova 1893 Circolo del Calcio	0:0	3:1	01.01.2000	00:00	1942	1943	26
+AC Liguria	Torino FC	0:0	2:3	01.01.2000	00:00	1942	1943	26
+Lazio Roma	AC Milan	0:0	4:2	01.01.2000	00:00	1942	1943	26
+Bologna FC	Vicenza Virtus	0:0	1:2	01.01.2000	00:00	1942	1943	26
+Atalanta	AC Venezia	0:0	1:2	01.01.2000	00:00	1942	1943	26
+Inter	AS Roma	0:0	0:2	01.01.2000	00:00	1942	1943	26
+Juventus	Unione Triestina	0:0	6:2	01.01.2000	00:00	1942	1943	26
+Vicenza Virtus	AS Bari	0:0	1:0	01.01.2000	00:00	1942	1943	27
+AC Venezia	Lazio Roma	0:0	2:1	01.01.2000	00:00	1942	1943	27
+ACF Fiorentina	Inter	0:0	2:0	01.01.2000	00:00	1942	1943	27
+Unione Triestina	AC Liguria	0:0	3:1	01.01.2000	00:00	1942	1943	27
+Torino FC	Atalanta	0:0	4:2	01.01.2000	00:00	1942	1943	27
+Genova 1893 Circolo del Calcio	Juventus	0:0	1:2	01.01.2000	00:00	1942	1943	27
+AS Roma	US Livorno	0:0	1:0	01.01.2000	00:00	1942	1943	27
+AC Milan	Bologna FC	0:0	3:2	01.01.2000	00:00	1942	1943	27
+Lazio Roma	Torino FC	0:0	2:3	01.01.2000	00:00	1942	1943	28
+US Livorno	ACF Fiorentina	0:0	4:1	01.01.2000	00:00	1942	1943	28
+Juventus	AS Roma	0:0	1:2	01.01.2000	00:00	1942	1943	28
+Genova 1893 Circolo del Calcio	Unione Triestina	0:0	1:1	01.01.2000	00:00	1942	1943	28
+AS Bari	AC Milan	0:0	2:0	01.01.2000	00:00	1942	1943	28
+Atalanta	AC Liguria	0:0	2:0	01.01.2000	00:00	1942	1943	28
+Inter	Vicenza Virtus	0:0	1:2	01.01.2000	00:00	1942	1943	28
+Bologna FC	AC Venezia	0:0	0:2	01.01.2000	00:00	1942	1943	28
+AC Liguria	Lazio Roma	0:0	2:0	01.01.2000	00:00	1942	1943	29
+Vicenza Virtus	US Livorno	0:0	1:3	01.01.2000	00:00	1942	1943	29
+AC Venezia	AS Bari	0:0	0:0	01.01.2000	00:00	1942	1943	29
+Torino FC	Bologna FC	0:0	2:1	01.01.2000	00:00	1942	1943	29
+Atalanta	Unione Triestina	0:0	2:2	01.01.2000	00:00	1942	1943	29
+AC Milan	Inter	0:0	0:3	01.01.2000	00:00	1942	1943	29
+ACF Fiorentina	Juventus	0:0	3:4	01.01.2000	00:00	1942	1943	29
+AS Roma	Genova 1893 Circolo del Calcio	0:0	2:3	01.01.2000	00:00	1942	1943	29
+Genova 1893 Circolo del Calcio	ACF Fiorentina	0:0	0:2	01.01.2000	00:00	1942	1943	30
+Lazio Roma	Atalanta	0:0	3:2	01.01.2000	00:00	1942	1943	30
+US Livorno	AC Milan	0:0	3:1	01.01.2000	00:00	1942	1943	30
+Juventus	Vicenza Virtus	0:0	2:6	01.01.2000	00:00	1942	1943	30
+AS Bari	Torino FC	0:0	0:1	01.01.2000	00:00	1942	1943	30
+Unione Triestina	AS Roma	0:0	2:0	01.01.2000	00:00	1942	1943	30
+Inter	AC Venezia	0:0	1:4	01.01.2000	00:00	1942	1943	30
+Bologna FC	AC Liguria	0:0	3:3	01.01.2000	00:00	1942	1943	30

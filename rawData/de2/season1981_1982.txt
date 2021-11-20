@@ -1,0 +1,380 @@
+SpVgg FÃ¼rth	Hertha BSC	0:0	2:0	01.08.1981	15:00	1981	1982	1
+Wormatia Worms	Fortuna KÃ¶ln	0:0	0:1	01.08.1981	15:00	1981	1982	1
+SpVgg Bayreuth	Hessen Kassel	0:0	0:0	01.08.1981	15:00	1981	1982	1
+Waldhof Mannheim	Rot-Weiss Essen	0:1	1:1	01.08.1981	15:00	1981	1982	1
+Freiburger FC	Bayer 05 Uerdingen	1:0	2:0	01.08.1981	15:00	1981	1982	1
+FC Schalke 04	TSV 1860 MÃ¼nchen	2:0	3:1	01.08.1981	15:00	1981	1982	1
+Hannover 96	SC Freiburg	1:0	2:0	01.08.1981	15:00	1981	1982	1
+SG Union Solingen	SG Wattenscheid 09	1:0	1:1	01.08.1981	15:00	1981	1982	1
+Alemannia Aachen	Stuttgarter Kickers	1:0	1:1	01.08.1981	15:00	1981	1982	1
+VfL OsnabrÃ¼ck	Kickers Offenbach	1:1	1:2	18.08.1981	19:00	1981	1982	1
+SC Freiburg	Wormatia Worms	0:0	2:0	04.08.1981	19:30	1981	1982	2
+SG Wattenscheid 09	Freiburger FC	0:0	1:1	04.08.1981	19:30	1981	1982	2
+Fortuna KÃ¶ln	SpVgg FÃ¼rth	2:0	3:1	04.08.1981	19:30	1981	1982	2
+Hessen Kassel	Hannover 96	0:0	1:0	04.08.1981	19:30	1981	1982	2
+Stuttgarter Kickers	Waldhof Mannheim	0:0	2:0	04.08.1981	19:30	1981	1982	2
+TSV 1860 MÃ¼nchen	VfL OsnabrÃ¼ck	1:0	1:1	04.08.1981	19:30	1981	1982	2
+Bayer 05 Uerdingen	Alemannia Aachen	1:0	1:0	04.08.1981	19:30	1981	1982	2
+Kickers Offenbach	SG Union Solingen	0:2	5:2	04.08.1981	19:30	1981	1982	2
+Rot-Weiss Essen	SpVgg Bayreuth	1:0	3:0	04.08.1981	19:30	1981	1982	2
+Hertha BSC	FC Schalke 04	1:0	3:1	04.08.1981	19:30	1981	1982	2
+Wormatia Worms	Hessen Kassel	1:0	1:0	08.08.1981	15:00	1981	1982	3
+SG Union Solingen	TSV 1860 MÃ¼nchen	0:1	1:2	08.08.1981	15:00	1981	1982	3
+Freiburger FC	Kickers Offenbach	1:2	2:2	08.08.1981	15:00	1981	1982	3
+Hertha BSC	Fortuna KÃ¶ln	3:0	4:0	08.08.1981	15:00	1981	1982	3
+Waldhof Mannheim	Bayer 05 Uerdingen	1:0	3:0	08.08.1981	15:00	1981	1982	3
+Hannover 96	Rot-Weiss Essen	2:0	3:0	08.08.1981	15:00	1981	1982	3
+SpVgg FÃ¼rth	SC Freiburg	1:2	2:2	08.08.1981	15:00	1981	1982	3
+FC Schalke 04	VfL OsnabrÃ¼ck	2:2	2:2	08.08.1981	15:00	1981	1982	3
+Alemannia Aachen	SG Wattenscheid 09	1:0	3:0	08.08.1981	15:00	1981	1982	3
+SpVgg Bayreuth	Stuttgarter Kickers	1:1	3:1	08.08.1981	15:00	1981	1982	3
+SC Freiburg	Hertha BSC	0:1	0:2	15.08.1981	15:00	1981	1982	4
+Fortuna KÃ¶ln	FC Schalke 04	1:0	1:2	15.08.1981	15:00	1981	1982	4
+Rot-Weiss Essen	Wormatia Worms	0:0	2:0	15.08.1981	15:00	1981	1982	4
+SG Wattenscheid 09	Waldhof Mannheim	1:1	1:1	15.08.1981	15:00	1981	1982	4
+Bayer 05 Uerdingen	SpVgg Bayreuth	1:1	3:2	15.08.1981	15:00	1981	1982	4
+Kickers Offenbach	Alemannia Aachen	0:0	1:0	15.08.1981	15:00	1981	1982	4
+TSV 1860 MÃ¼nchen	Freiburger FC	0:0	1:1	15.08.1981	15:00	1981	1982	4
+Hessen Kassel	SpVgg FÃ¼rth	1:0	1:1	15.08.1981	15:00	1981	1982	4
+VfL OsnabrÃ¼ck	SG Union Solingen	0:0	0:0	15.08.1981	15:00	1981	1982	4
+Stuttgarter Kickers	Hannover 96	2:1	2:1	15.08.1981	15:00	1981	1982	4
+SpVgg FÃ¼rth	Rot-Weiss Essen	1:1	1:1	22.08.1981	15:00	1981	1982	5
+Wormatia Worms	Stuttgarter Kickers	1:0	1:3	22.08.1981	15:00	1981	1982	5
+Fortuna KÃ¶ln	SC Freiburg	1:1	3:1	22.08.1981	15:00	1981	1982	5
+Freiburger FC	VfL OsnabrÃ¼ck	0:0	2:0	22.08.1981	15:00	1981	1982	5
+Waldhof Mannheim	Kickers Offenbach	1:1	3:1	22.08.1981	15:00	1981	1982	5
+Hannover 96	Bayer 05 Uerdingen	0:0	1:0	22.08.1981	15:00	1981	1982	5
+FC Schalke 04	SG Union Solingen	0:0	1:1	22.08.1981	15:00	1981	1982	5
+Hertha BSC	Hessen Kassel	0:0	2:2	22.08.1981	15:00	1981	1982	5
+Alemannia Aachen	TSV 1860 MÃ¼nchen	0:0	2:0	22.08.1981	15:00	1981	1982	5
+SpVgg Bayreuth	SG Wattenscheid 09	0:1	2:2	22.08.1981	15:00	1981	1982	5
+Stuttgarter Kickers	SpVgg FÃ¼rth	1:0	3:1	25.08.1981	19:30	1981	1982	6
+VfL OsnabrÃ¼ck	Alemannia Aachen	0:0	1:0	25.08.1981	19:30	1981	1982	6
+SG Union Solingen	Freiburger FC	1:0	5:2	25.08.1981	19:30	1981	1982	6
+SC Freiburg	FC Schalke 04	0:0	0:1	25.08.1981	19:30	1981	1982	6
+SG Wattenscheid 09	Hannover 96	1:0	3:1	25.08.1981	19:30	1981	1982	6
+Bayer 05 Uerdingen	Wormatia Worms	1:0	4:1	25.08.1981	19:30	1981	1982	6
+Kickers Offenbach	SpVgg Bayreuth	1:0	2:1	25.08.1981	19:30	1981	1982	6
+TSV 1860 MÃ¼nchen	Waldhof Mannheim	0:0	2:1	25.08.1981	19:30	1981	1982	6
+Hessen Kassel	Fortuna KÃ¶ln	0:0	1:1	25.08.1981	19:30	1981	1982	6
+Rot-Weiss Essen	Hertha BSC	1:2	2:2	25.08.1981	19:30	1981	1982	6
+Waldhof Mannheim	VfL OsnabrÃ¼ck	0:0	0:1	05.09.1981	15:00	1981	1982	7
+FC Schalke 04	Freiburger FC	2:3	3:3	05.09.1981	15:00	1981	1982	7
+SpVgg FÃ¼rth	Bayer 05 Uerdingen	0:0	2:2	05.09.1981	15:00	1981	1982	7
+Hertha BSC	Stuttgarter Kickers	2:1	4:1	05.09.1981	15:00	1981	1982	7
+SC Freiburg	Hessen Kassel	0:0	0:0	05.09.1981	15:00	1981	1982	7
+SpVgg Bayreuth	TSV 1860 MÃ¼nchen	1:2	2:3	05.09.1981	15:00	1981	1982	7
+Hannover 96	Kickers Offenbach	0:0	1:0	05.09.1981	15:00	1981	1982	7
+Wormatia Worms	SG Wattenscheid 09	0:0	1:1	05.09.1981	15:00	1981	1982	7
+Alemannia Aachen	SG Union Solingen	0:1	3:2	05.09.1981	15:00	1981	1982	7
+Fortuna KÃ¶ln	Rot-Weiss Essen	0:0	2:0	05.09.1981	15:00	1981	1982	7
+SG Union Solingen	Waldhof Mannheim	0:1	1:1	12.09.1981	15:00	1981	1982	8
+TSV 1860 MÃ¼nchen	Hannover 96	1:1	1:3	12.09.1981	15:00	1981	1982	8
+SG Wattenscheid 09	SpVgg FÃ¼rth	2:3	4:3	12.09.1981	15:00	1981	1982	8
+Hessen Kassel	FC Schalke 04	0:0	1:0	12.09.1981	15:00	1981	1982	8
+VfL OsnabrÃ¼ck	SpVgg Bayreuth	1:0	3:0	12.09.1981	15:00	1981	1982	8
+Rot-Weiss Essen	SC Freiburg	0:0	0:2	12.09.1981	15:00	1981	1982	8
+Kickers Offenbach	Wormatia Worms	0:1	2:2	12.09.1981	15:00	1981	1982	8
+Bayer 05 Uerdingen	Hertha BSC	2:0	3:1	12.09.1981	15:00	1981	1982	8
+Stuttgarter Kickers	Fortuna KÃ¶ln	1:1	2:2	12.09.1981	15:00	1981	1982	8
+Freiburger FC	Alemannia Aachen	1:1	1:1	12.09.1981	15:00	1981	1982	8
+SpVgg Bayreuth	SG Union Solingen	0:0	4:0	19.09.1981	15:00	1981	1982	9
+Hertha BSC	SG Wattenscheid 09	0:0	1:2	19.09.1981	15:00	1981	1982	9
+SC Freiburg	Stuttgarter Kickers	0:0	1:1	19.09.1981	15:00	1981	1982	9
+Fortuna KÃ¶ln	Bayer 05 Uerdingen	2:0	3:1	19.09.1981	15:00	1981	1982	9
+Waldhof Mannheim	Freiburger FC	1:0	2:1	19.09.1981	15:00	1981	1982	9
+Wormatia Worms	TSV 1860 MÃ¼nchen	1:0	1:3	19.09.1981	15:00	1981	1982	9
+SpVgg FÃ¼rth	Kickers Offenbach	1:0	1:1	19.09.1981	15:00	1981	1982	9
+FC Schalke 04	Alemannia Aachen	1:0	2:0	19.09.1981	15:00	1981	1982	9
+Hannover 96	VfL OsnabrÃ¼ck	0:2	2:3	19.09.1981	15:00	1981	1982	9
+Hessen Kassel	Rot-Weiss Essen	3:2	7:3	19.09.1981	15:00	1981	1982	9
+Rot-Weiss Essen	FC Schalke 04	1:1	1:2	26.09.1981	15:00	1981	1982	10
+Freiburger FC	SpVgg Bayreuth	1:1	3:2	26.09.1981	15:00	1981	1982	10
+Alemannia Aachen	Waldhof Mannheim	2:1	2:1	26.09.1981	15:00	1981	1982	10
+TSV 1860 MÃ¼nchen	SpVgg FÃ¼rth	1:1	3:1	26.09.1981	15:00	1981	1982	10
+VfL OsnabrÃ¼ck	Wormatia Worms	0:1	2:1	26.09.1981	15:00	1981	1982	10
+Kickers Offenbach	Hertha BSC	0:0	3:2	26.09.1981	15:00	1981	1982	10
+Bayer 05 Uerdingen	SC Freiburg	0:0	2:1	26.09.1981	15:00	1981	1982	10
+SG Wattenscheid 09	Fortuna KÃ¶ln	1:0	2:2	26.09.1981	15:00	1981	1982	10
+Stuttgarter Kickers	Hessen Kassel	0:1	1:3	26.09.1981	15:00	1981	1982	10
+SG Union Solingen	Hannover 96	2:0	2:3	26.09.1981	15:00	1981	1982	10
+SpVgg Bayreuth	Alemannia Aachen	0:1	0:2	03.10.1981	15:00	1981	1982	11
+Rot-Weiss Essen	Stuttgarter Kickers	1:0	1:0	03.10.1981	15:00	1981	1982	11
+Hertha BSC	TSV 1860 MÃ¼nchen	0:0	0:1	03.10.1981	15:00	1981	1982	11
+SC Freiburg	SG Wattenscheid 09	1:0	2:0	03.10.1981	15:00	1981	1982	11
+Hannover 96	Freiburger FC	3:3	3:3	03.10.1981	15:00	1981	1982	11
+Wormatia Worms	SG Union Solingen	0:1	4:3	03.10.1981	15:00	1981	1982	11
+SpVgg FÃ¼rth	VfL OsnabrÃ¼ck	2:0	3:1	03.10.1981	15:00	1981	1982	11
+FC Schalke 04	Waldhof Mannheim	0:0	1:0	03.10.1981	15:00	1981	1982	11
+Fortuna KÃ¶ln	Kickers Offenbach	3:2	4:3	03.10.1981	15:00	1981	1982	11
+Hessen Kassel	Bayer 05 Uerdingen	1:1	2:1	21.11.1981	19:00	1981	1982	11
+Alemannia Aachen	Hannover 96	1:2	3:2	17.10.1981	15:00	1981	1982	12
+Bayer 05 Uerdingen	Rot-Weiss Essen	1:0	1:1	17.10.1981	15:00	1981	1982	12
+Freiburger FC	Wormatia Worms	2:1	4:2	17.10.1981	15:00	1981	1982	12
+VfL OsnabrÃ¼ck	Hertha BSC	0:1	0:3	17.10.1981	15:00	1981	1982	12
+SG Union Solingen	SpVgg FÃ¼rth	1:0	1:0	17.10.1981	15:00	1981	1982	12
+Stuttgarter Kickers	FC Schalke 04	0:2	0:3	17.10.1981	15:00	1981	1982	12
+Kickers Offenbach	SC Freiburg	0:0	3:2	17.10.1981	15:00	1981	1982	12
+SG Wattenscheid 09	Hessen Kassel	0:0	1:1	17.10.1981	15:00	1981	1982	12
+TSV 1860 MÃ¼nchen	Fortuna KÃ¶ln	1:0	4:0	17.10.1981	15:00	1981	1982	12
+Waldhof Mannheim	SpVgg Bayreuth	0:1	3:1	17.10.1981	15:00	1981	1982	12
+Hessen Kassel	Kickers Offenbach	1:0	2:0	24.10.1981	15:00	1981	1982	13
+SC Freiburg	TSV 1860 MÃ¼nchen	0:2	1:5	24.10.1981	15:00	1981	1982	13
+Wormatia Worms	Alemannia Aachen	0:0	0:0	24.10.1981	15:00	1981	1982	13
+Fortuna KÃ¶ln	VfL OsnabrÃ¼ck	4:0	5:2	24.10.1981	15:00	1981	1982	13
+FC Schalke 04	SpVgg Bayreuth	1:0	6:0	24.10.1981	15:00	1981	1982	13
+Stuttgarter Kickers	Bayer 05 Uerdingen	1:0	6:1	24.10.1981	15:00	1981	1982	13
+Hannover 96	Waldhof Mannheim	0:0	3:0	24.10.1981	15:00	1981	1982	13
+SpVgg FÃ¼rth	Freiburger FC	1:1	2:1	24.10.1981	15:00	1981	1982	13
+Rot-Weiss Essen	SG Wattenscheid 09	1:1	4:2	24.10.1981	15:00	1981	1982	13
+Hertha BSC	SG Union Solingen	3:0	4:0	24.10.1981	15:00	1981	1982	13
+Freiburger FC	Hertha BSC	0:2	2:3	31.10.1981	15:00	1981	1982	14
+SpVgg Bayreuth	Hannover 96	0:1	3:1	31.10.1981	15:00	1981	1982	14
+Waldhof Mannheim	Wormatia Worms	0:0	1:0	31.10.1981	15:00	1981	1982	14
+VfL OsnabrÃ¼ck	SC Freiburg	0:0	1:0	31.10.1981	15:00	1981	1982	14
+SG Union Solingen	Fortuna KÃ¶ln	2:0	4:2	31.10.1981	15:00	1981	1982	14
+Alemannia Aachen	SpVgg FÃ¼rth	0:0	2:0	31.10.1981	15:00	1981	1982	14
+Bayer 05 Uerdingen	FC Schalke 04	0:0	0:0	31.10.1981	15:00	1981	1982	14
+TSV 1860 MÃ¼nchen	Hessen Kassel	1:0	1:1	31.10.1981	15:00	1981	1982	14
+Kickers Offenbach	Rot-Weiss Essen	1:0	2:1	31.10.1981	15:00	1981	1982	14
+SG Wattenscheid 09	Stuttgarter Kickers	1:0	1:0	20.11.1981	19:30	1981	1982	14
+Wormatia Worms	SpVgg Bayreuth	0:0	1:0	07.11.1981	15:00	1981	1982	15
+Fortuna KÃ¶ln	Freiburger FC	2:1	3:2	07.11.1981	15:00	1981	1982	15
+Bayer 05 Uerdingen	SG Wattenscheid 09	0:0	0:0	07.11.1981	15:00	1981	1982	15
+SpVgg FÃ¼rth	Waldhof Mannheim	0:0	0:0	07.11.1981	15:00	1981	1982	15
+Hertha BSC	Alemannia Aachen	1:0	4:1	07.11.1981	15:00	1981	1982	15
+Hessen Kassel	VfL OsnabrÃ¼ck	1:0	3:0	07.11.1981	15:00	1981	1982	15
+FC Schalke 04	Hannover 96	1:1	1:1	07.11.1981	15:00	1981	1982	15
+Stuttgarter Kickers	Kickers Offenbach	0:0	2:0	07.11.1981	15:00	1981	1982	15
+Rot-Weiss Essen	TSV 1860 MÃ¼nchen	0:2	1:4	07.11.1981	15:00	1981	1982	15
+SC Freiburg	SG Union Solingen	0:0	0:0	07.11.1981	15:00	1981	1982	15
+Freiburger FC	SC Freiburg	1:0	1:1	14.11.1981	15:00	1981	1982	16
+SpVgg Bayreuth	SpVgg FÃ¼rth	0:1	2:1	14.11.1981	15:00	1981	1982	16
+Kickers Offenbach	Bayer 05 Uerdingen	1:1	2:1	14.11.1981	15:00	1981	1982	16
+SG Wattenscheid 09	FC Schalke 04	0:1	0:3	14.11.1981	15:00	1981	1982	16
+SG Union Solingen	Hessen Kassel	3:2	3:2	14.11.1981	15:00	1981	1982	16
+Waldhof Mannheim	Hertha BSC	1:2	4:2	14.11.1981	15:00	1981	1982	16
+Hannover 96	Wormatia Worms	3:0	5:0	14.11.1981	15:00	1981	1982	16
+TSV 1860 MÃ¼nchen	Stuttgarter Kickers	2:0	5:1	14.11.1981	15:00	1981	1982	16
+Alemannia Aachen	Fortuna KÃ¶ln	1:0	1:0	14.11.1981	15:00	1981	1982	16
+VfL OsnabrÃ¼ck	Rot-Weiss Essen	1:0	1:1	14.11.1981	15:00	1981	1982	16
+Rot-Weiss Essen	SG Union Solingen	0:0	1:0	28.11.1981	15:00	1981	1982	17
+Hessen Kassel	Freiburger FC	2:0	3:0	28.11.1981	15:00	1981	1982	17
+Fortuna KÃ¶ln	Waldhof Mannheim	1:1	2:2	28.11.1981	15:00	1981	1982	17
+Wormatia Worms	FC Schalke 04	0:1	0:3	28.11.1981	15:00	1981	1982	17
+Hertha BSC	SpVgg Bayreuth	0:0	0:0	28.11.1981	15:00	1981	1982	17
+Stuttgarter Kickers	VfL OsnabrÃ¼ck	2:2	5:3	28.11.1981	15:00	1981	1982	17
+Bayer 05 Uerdingen	TSV 1860 MÃ¼nchen	1:2	3:2	28.11.1981	15:00	1981	1982	17
+SpVgg FÃ¼rth	Hannover 96	2:1	2:4	28.11.1981	15:00	1981	1982	17
+SC Freiburg	Alemannia Aachen	0:0	2:0	28.11.1981	15:00	1981	1982	17
+SG Wattenscheid 09	Kickers Offenbach	1:2	1:3	10.01.1982	15:00	1981	1982	17
+Freiburger FC	Rot-Weiss Essen	1:0	3:1	12.12.1981	15:00	1981	1982	18
+SpVgg Bayreuth	Fortuna KÃ¶ln	1:1	4:2	12.12.1981	15:00	1981	1982	18
+Hannover 96	Hertha BSC	0:1	2:3	12.12.1981	15:00	1981	1982	18
+TSV 1860 MÃ¼nchen	SG Wattenscheid 09	0:0	1:0	12.12.1981	15:00	1981	1982	18
+FC Schalke 04	Kickers Offenbach	1:0	3:0	23.12.1981	19:30	1981	1982	18
+Wormatia Worms	SpVgg FÃ¼rth	0:1	1:1	02.01.1982	19:30	1981	1982	18
+SG Union Solingen	Stuttgarter Kickers	1:1	4:4	09.01.1982	15:00	1981	1982	18
+VfL OsnabrÃ¼ck	Bayer 05 Uerdingen	1:0	1:0	10.01.1982	15:00	1981	1982	18
+Alemannia Aachen	Hessen Kassel	0:0	0:0	10.01.1982	15:00	1981	1982	18
+Waldhof Mannheim	SC Freiburg	1:0	3:0	20.03.1982	19:00	1981	1982	18
+Fortuna KÃ¶ln	Hannover 96	0:1	2:2	16.12.1981	19:00	1981	1982	19
+SG Wattenscheid 09	VfL OsnabrÃ¼ck	0:1	1:2	19.12.1981	15:00	1981	1982	19
+Hertha BSC	Wormatia Worms	1:1	2:1	19.12.1981	15:00	1981	1982	19
+Rot-Weiss Essen	Alemannia Aachen	1:0	1:0	19.12.1981	15:00	1981	1982	19
+Bayer 05 Uerdingen	SG Union Solingen	0:0	0:0	19.12.1981	15:00	1981	1982	19
+Hessen Kassel	Waldhof Mannheim	1:0	1:0	19.12.1981	15:00	1981	1982	19
+Kickers Offenbach	TSV 1860 MÃ¼nchen	1:0	2:0	20.01.1982	15:00	1981	1982	19
+SC Freiburg	SpVgg Bayreuth	0:1	2:2	20.02.1982	19:30	1981	1982	19
+Stuttgarter Kickers	Freiburger FC	1:0	3:1	20.02.1982	19:30	1981	1982	19
+SpVgg FÃ¼rth	FC Schalke 04	1:1	2:1	20.03.1982	19:30	1981	1982	19
+Rot-Weiss Essen	Waldhof Mannheim	0:1	0:1	16.01.1982	15:00	1981	1982	20
+SG Wattenscheid 09	SG Union Solingen	0:0	0:0	16.01.1982	15:00	1981	1982	20
+SC Freiburg	Hannover 96	1:1	3:1	16.01.1982	15:00	1981	1982	20
+Kickers Offenbach	VfL OsnabrÃ¼ck	0:0	2:0	16.01.1982	15:00	1981	1982	20
+Hessen Kassel	SpVgg Bayreuth	0:0	0:0	16.01.1982	15:00	1981	1982	20
+Fortuna KÃ¶ln	Wormatia Worms	1:0	2:0	16.01.1982	15:00	1981	1982	20
+Hertha BSC	SpVgg FÃ¼rth	0:0	0:0	16.01.1982	15:00	1981	1982	20
+TSV 1860 MÃ¼nchen	FC Schalke 04	2:0	2:0	20.02.1982	19:30	1981	1982	20
+Bayer 05 Uerdingen	Freiburger FC	0:0	3:1	02.03.1982	19:30	1981	1982	20
+Stuttgarter Kickers	Alemannia Aachen	1:0	3:0	20.03.1982	19:30	1981	1982	20
+Hannover 96	Hessen Kassel	1:0	1:0	23.01.1982	15:00	1981	1982	21
+FC Schalke 04	Hertha BSC	1:0	2:1	23.01.1982	15:00	1981	1982	21
+SpVgg FÃ¼rth	Fortuna KÃ¶ln	0:1	1:2	23.01.1982	15:00	1981	1982	21
+SpVgg Bayreuth	Rot-Weiss Essen	1:1	1:2	23.01.1982	15:00	1981	1982	21
+Waldhof Mannheim	Stuttgarter Kickers	1:1	3:2	23.01.1982	15:00	1981	1982	21
+VfL OsnabrÃ¼ck	TSV 1860 MÃ¼nchen	2:2	3:3	23.01.1982	15:00	1981	1982	21
+Alemannia Aachen	Bayer 05 Uerdingen	0:1	0:1	20.02.1982	19:30	1981	1982	21
+SG Union Solingen	Kickers Offenbach	1:0	2:2	20.02.1982	19:30	1981	1982	21
+Freiburger FC	SG Wattenscheid 09	0:0	0:3	20.03.1982	19:30	1981	1982	21
+Wormatia Worms	SC Freiburg	2:0	2:1	31.03.1982	19:30	1981	1982	21
+Kickers Offenbach	Freiburger FC	1:0	3:0	30.01.1982	15:00	1981	1982	22
+Fortuna KÃ¶ln	Hertha BSC	0:1	2:4	30.01.1982	15:00	1981	1982	22
+TSV 1860 MÃ¼nchen	SG Union Solingen	0:1	1:1	30.01.1982	15:00	1981	1982	22
+Stuttgarter Kickers	SpVgg Bayreuth	1:0	1:0	30.01.1982	15:00	1981	1982	22
+SC Freiburg	SpVgg FÃ¼rth	1:1	2:3	30.01.1982	15:00	1981	1982	22
+VfL OsnabrÃ¼ck	FC Schalke 04	0:1	1:1	30.01.1982	15:00	1981	1982	22
+Bayer 05 Uerdingen	Waldhof Mannheim	2:0	3:1	30.01.1982	15:00	1981	1982	22
+Rot-Weiss Essen	Hannover 96	0:0	0:0	20.02.1982	19:00	1981	1982	22
+Hessen Kassel	Wormatia Worms	0:0	2:0	20.02.1982	19:30	1981	1982	22
+SG Wattenscheid 09	Alemannia Aachen	0:1	1:3	02.03.1982	19:30	1981	1982	22
+SpVgg FÃ¼rth	Hessen Kassel	4:1	8:1	06.02.1982	15:00	1981	1982	23
+Wormatia Worms	Rot-Weiss Essen	0:0	2:1	06.02.1982	15:00	1981	1982	23
+Hannover 96	Stuttgarter Kickers	0:0	1:0	06.02.1982	15:00	1981	1982	23
+Waldhof Mannheim	SG Wattenscheid 09	0:0	1:0	06.02.1982	15:00	1981	1982	23
+SpVgg Bayreuth	Bayer 05 Uerdingen	0:2	0:2	06.02.1982	15:00	1981	1982	23
+Freiburger FC	TSV 1860 MÃ¼nchen	1:2	1:5	06.02.1982	15:00	1981	1982	23
+SG Union Solingen	VfL OsnabrÃ¼ck	0:0	0:1	06.02.1982	15:00	1981	1982	23
+Alemannia Aachen	Kickers Offenbach	2:2	6:3	06.02.1982	15:00	1981	1982	23
+FC Schalke 04	Fortuna KÃ¶ln	0:0	2:2	06.02.1982	15:00	1981	1982	23
+Hertha BSC	SC Freiburg	2:0	2:1	30.04.1982	19:00	1981	1982	23
+Bayer 05 Uerdingen	Hannover 96	1:1	3:2	13.02.1982	15:00	1981	1982	24
+SG Wattenscheid 09	SpVgg Bayreuth	1:0	2:0	13.02.1982	15:00	1981	1982	24
+Stuttgarter Kickers	Wormatia Worms	0:0	2:1	13.02.1982	15:00	1981	1982	24
+SC Freiburg	Fortuna KÃ¶ln	1:1	3:1	13.02.1982	15:00	1981	1982	24
+VfL OsnabrÃ¼ck	Freiburger FC	1:0	2:1	13.02.1982	15:00	1981	1982	24
+TSV 1860 MÃ¼nchen	Alemannia Aachen	0:1	1:1	13.02.1982	15:00	1981	1982	24
+Rot-Weiss Essen	SpVgg FÃ¼rth	0:0	2:0	13.02.1982	15:00	1981	1982	24
+SG Union Solingen	FC Schalke 04	0:0	1:0	13.02.1982	15:00	1981	1982	24
+Hessen Kassel	Hertha BSC	1:1	2:2	13.02.1982	15:00	1981	1982	24
+Kickers Offenbach	Waldhof Mannheim	1:0	3:0	13.02.1982	15:00	1981	1982	24
+Hertha BSC	Rot-Weiss Essen	2:1	4:2	27.02.1982	15:00	1981	1982	25
+Alemannia Aachen	VfL OsnabrÃ¼ck	0:0	1:0	27.02.1982	15:00	1981	1982	25
+Freiburger FC	SG Union Solingen	0:1	0:2	27.02.1982	15:00	1981	1982	25
+Fortuna KÃ¶ln	Hessen Kassel	1:0	2:0	27.02.1982	15:00	1981	1982	25
+Hannover 96	SG Wattenscheid 09	0:0	0:0	27.02.1982	15:00	1981	1982	25
+SpVgg FÃ¼rth	Stuttgarter Kickers	2:0	2:0	27.02.1982	15:00	1981	1982	25
+Wormatia Worms	Bayer 05 Uerdingen	0:0	0:0	27.02.1982	15:00	1981	1982	25
+SpVgg Bayreuth	Kickers Offenbach	0:1	0:1	27.02.1982	15:00	1981	1982	25
+Waldhof Mannheim	TSV 1860 MÃ¼nchen	1:0	1:0	27.02.1982	15:00	1981	1982	25
+FC Schalke 04	SC Freiburg	0:0	2:0	27.02.1982	15:00	1981	1982	25
+Hessen Kassel	SC Freiburg	1:1	1:1	06.03.1982	15:00	1981	1982	26
+Bayer 05 Uerdingen	SpVgg FÃ¼rth	1:1	2:1	06.03.1982	15:00	1981	1982	26
+Freiburger FC	FC Schalke 04	1:1	1:1	06.03.1982	15:00	1981	1982	26
+Stuttgarter Kickers	Hertha BSC	1:0	1:2	06.03.1982	15:00	1981	1982	26
+Rot-Weiss Essen	Fortuna KÃ¶ln	2:1	4:1	06.03.1982	15:00	1981	1982	26
+TSV 1860 MÃ¼nchen	SpVgg Bayreuth	0:1	1:2	06.03.1982	15:00	1981	1982	26
+Kickers Offenbach	Hannover 96	2:1	3:2	06.03.1982	15:00	1981	1982	26
+SG Union Solingen	Alemannia Aachen	0:1	0:1	06.03.1982	15:00	1981	1982	26
+SG Wattenscheid 09	Wormatia Worms	0:0	0:0	06.03.1982	15:00	1981	1982	26
+VfL OsnabrÃ¼ck	Waldhof Mannheim	0:0	0:0	06.03.1982	15:00	1981	1982	26
+SC Freiburg	Rot-Weiss Essen	0:1	2:1	13.03.1982	15:00	1981	1982	27
+FC Schalke 04	Hessen Kassel	0:0	2:0	13.03.1982	15:00	1981	1982	27
+SpVgg Bayreuth	VfL OsnabrÃ¼ck	1:0	1:0	13.03.1982	15:00	1981	1982	27
+SpVgg FÃ¼rth	SG Wattenscheid 09	0:0	0:0	13.03.1982	15:00	1981	1982	27
+Fortuna KÃ¶ln	Stuttgarter Kickers	1:1	1:1	13.03.1982	15:00	1981	1982	27
+Hertha BSC	Bayer 05 Uerdingen	0:0	0:0	13.03.1982	15:00	1981	1982	27
+Hannover 96	TSV 1860 MÃ¼nchen	3:1	5:2	13.03.1982	15:00	1981	1982	27
+Wormatia Worms	Kickers Offenbach	1:2	2:3	13.03.1982	15:00	1981	1982	27
+Waldhof Mannheim	SG Union Solingen	2:0	2:1	13.03.1982	15:00	1981	1982	27
+Alemannia Aachen	Freiburger FC	1:0	2:0	16.03.1982	19:30	1981	1982	27
+Freiburger FC	Waldhof Mannheim	0:0	0:1	27.03.1982	15:00	1981	1982	28
+Stuttgarter Kickers	SC Freiburg	0:0	1:2	27.03.1982	15:00	1981	1982	28
+SG Wattenscheid 09	Hertha BSC	0:1	0:1	27.03.1982	15:00	1981	1982	28
+Bayer 05 Uerdingen	Fortuna KÃ¶ln	0:0	1:1	27.03.1982	15:00	1981	1982	28
+Rot-Weiss Essen	Hessen Kassel	1:1	5:1	27.03.1982	15:00	1981	1982	28
+SG Union Solingen	SpVgg Bayreuth	0:0	1:0	27.03.1982	15:00	1981	1982	28
+TSV 1860 MÃ¼nchen	Wormatia Worms	4:0	7:0	27.03.1982	15:00	1981	1982	28
+Kickers Offenbach	SpVgg FÃ¼rth	3:1	3:2	27.03.1982	15:00	1981	1982	28
+VfL OsnabrÃ¼ck	Hannover 96	0:2	1:2	27.03.1982	15:00	1981	1982	28
+Alemannia Aachen	FC Schalke 04	2:0	2:2	27.03.1982	15:00	1981	1982	28
+FC Schalke 04	Rot-Weiss Essen	1:1	1:1	03.04.1982	15:00	1981	1982	29
+SpVgg Bayreuth	Freiburger FC	0:2	0:2	03.04.1982	15:00	1981	1982	29
+Waldhof Mannheim	Alemannia Aachen	0:0	0:0	03.04.1982	15:00	1981	1982	29
+SpVgg FÃ¼rth	TSV 1860 MÃ¼nchen	1:0	3:1	03.04.1982	15:00	1981	1982	29
+Wormatia Worms	VfL OsnabrÃ¼ck	1:0	1:0	03.04.1982	15:00	1981	1982	29
+Hertha BSC	Kickers Offenbach	3:0	5:1	03.04.1982	15:00	1981	1982	29
+SC Freiburg	Bayer 05 Uerdingen	1:0	2:0	03.04.1982	15:00	1981	1982	29
+Fortuna KÃ¶ln	SG Wattenscheid 09	0:0	2:0	03.04.1982	15:00	1981	1982	29
+Hessen Kassel	Stuttgarter Kickers	0:0	1:0	03.04.1982	15:00	1981	1982	29
+Hannover 96	SG Union Solingen	1:0	3:1	03.04.1982	15:00	1981	1982	29
+Alemannia Aachen	SpVgg Bayreuth	2:0	4:0	08.04.1982	20:15	1981	1982	30
+Bayer 05 Uerdingen	Hessen Kassel	2:0	3:1	08.04.1982	20:15	1981	1982	30
+Stuttgarter Kickers	Rot-Weiss Essen	2:0	3:0	08.04.1982	20:15	1981	1982	30
+TSV 1860 MÃ¼nchen	Hertha BSC	0:0	1:0	08.04.1982	20:15	1981	1982	30
+SG Wattenscheid 09	SC Freiburg	0:2	2:2	08.04.1982	20:15	1981	1982	30
+Freiburger FC	Hannover 96	1:1	1:3	08.04.1982	20:15	1981	1982	30
+SG Union Solingen	Wormatia Worms	2:0	4:1	08.04.1982	20:15	1981	1982	30
+VfL OsnabrÃ¼ck	SpVgg FÃ¼rth	1:0	2:0	08.04.1982	20:15	1981	1982	30
+Waldhof Mannheim	FC Schalke 04	0:0	2:1	08.04.1982	20:15	1981	1982	30
+Kickers Offenbach	Fortuna KÃ¶ln	1:1	3:1	08.04.1982	20:15	1981	1982	30
+SpVgg Bayreuth	Waldhof Mannheim	0:1	0:1	12.04.1982	20:15	1981	1982	31
+Hannover 96	Alemannia Aachen	1:0	2:1	12.04.1982	20:15	1981	1982	31
+Wormatia Worms	Freiburger FC	3:1	3:1	12.04.1982	20:15	1981	1982	31
+Rot-Weiss Essen	Bayer 05 Uerdingen	1:0	1:2	12.04.1982	20:15	1981	1982	31
+Hertha BSC	VfL OsnabrÃ¼ck	3:1	5:1	12.04.1982	20:15	1981	1982	31
+Hessen Kassel	SG Wattenscheid 09	0:0	2:2	12.04.1982	20:15	1981	1982	31
+FC Schalke 04	Stuttgarter Kickers	0:0	1:1	12.04.1982	20:15	1981	1982	31
+SC Freiburg	Kickers Offenbach	1:1	1:1	12.04.1982	20:15	1981	1982	31
+Fortuna KÃ¶ln	TSV 1860 MÃ¼nchen	0:0	2:1	12.04.1982	20:15	1981	1982	31
+SpVgg FÃ¼rth	SG Union Solingen	0:0	2:1	12.04.1982	20:15	1981	1982	31
+Kickers Offenbach	Hessen Kassel	0:0	1:0	17.04.1982	15:00	1981	1982	32
+TSV 1860 MÃ¼nchen	SC Freiburg	1:0	4:1	17.04.1982	15:00	1981	1982	32
+Alemannia Aachen	Wormatia Worms	0:0	1:1	17.04.1982	15:00	1981	1982	32
+VfL OsnabrÃ¼ck	Fortuna KÃ¶ln	1:1	2:2	17.04.1982	15:00	1981	1982	32
+SpVgg Bayreuth	FC Schalke 04	0:1	1:2	17.04.1982	15:00	1981	1982	32
+Bayer 05 Uerdingen	Stuttgarter Kickers	0:0	0:0	17.04.1982	15:00	1981	1982	32
+Waldhof Mannheim	Hannover 96	1:0	1:1	17.04.1982	15:00	1981	1982	32
+Freiburger FC	SpVgg FÃ¼rth	1:1	2:2	17.04.1982	15:00	1981	1982	32
+SG Wattenscheid 09	Rot-Weiss Essen	0:2	1:3	17.04.1982	15:00	1981	1982	32
+SG Union Solingen	Hertha BSC	0:0	1:0	17.04.1982	15:00	1981	1982	32
+Hertha BSC	Freiburger FC	0:1	4:1	24.04.1982	15:00	1981	1982	33
+Wormatia Worms	Waldhof Mannheim	0:0	0:1	24.04.1982	15:00	1981	1982	33
+Hannover 96	SpVgg Bayreuth	0:0	3:1	24.04.1982	15:00	1981	1982	33
+SC Freiburg	VfL OsnabrÃ¼ck	0:0	1:1	24.04.1982	15:00	1981	1982	33
+Fortuna KÃ¶ln	SG Union Solingen	1:1	2:2	24.04.1982	15:00	1981	1982	33
+FC Schalke 04	Bayer 05 Uerdingen	2:0	3:1	24.04.1982	15:00	1981	1982	33
+Hessen Kassel	TSV 1860 MÃ¼nchen	2:1	3:1	24.04.1982	15:00	1981	1982	33
+Stuttgarter Kickers	SG Wattenscheid 09	4:0	7:1	24.04.1982	15:00	1981	1982	33
+Rot-Weiss Essen	Kickers Offenbach	1:0	1:1	24.04.1982	15:00	1981	1982	33
+SpVgg FÃ¼rth	Alemannia Aachen	0:0	0:0	24.04.1982	15:00	1981	1982	33
+VfL OsnabrÃ¼ck	Hessen Kassel	0:0	1:0	28.04.1982	19:30	1981	1982	34
+Waldhof Mannheim	SpVgg FÃ¼rth	1:1	2:2	28.04.1982	19:30	1981	1982	34
+SG Union Solingen	SC Freiburg	1:0	1:0	28.04.1982	19:30	1981	1982	34
+SG Wattenscheid 09	Bayer 05 Uerdingen	1:0	1:0	28.04.1982	19:30	1981	1982	34
+TSV 1860 MÃ¼nchen	Rot-Weiss Essen	1:0	4:0	28.04.1982	19:30	1981	1982	34
+Kickers Offenbach	Stuttgarter Kickers	1:2	1:3	28.04.1982	19:30	1981	1982	34
+SpVgg Bayreuth	Wormatia Worms	2:2	2:2	28.04.1982	19:30	1981	1982	34
+Hannover 96	FC Schalke 04	0:1	0:1	28.04.1982	19:30	1981	1982	34
+Freiburger FC	Fortuna KÃ¶ln	2:0	3:2	28.04.1982	19:30	1981	1982	34
+Alemannia Aachen	Hertha BSC	1:0	1:1	04.05.1982	19:30	1981	1982	34
+Hessen Kassel	SG Union Solingen	1:0	3:0	08.05.1982	15:00	1981	1982	35
+Bayer 05 Uerdingen	Kickers Offenbach	2:0	2:2	08.05.1982	15:00	1981	1982	35
+SpVgg FÃ¼rth	SpVgg Bayreuth	1:1	2:2	08.05.1982	15:00	1981	1982	35
+FC Schalke 04	SG Wattenscheid 09	2:0	4:0	08.05.1982	15:00	1981	1982	35
+Rot-Weiss Essen	VfL OsnabrÃ¼ck	2:1	5:2	08.05.1982	15:00	1981	1982	35
+SC Freiburg	Freiburger FC	2:0	4:0	08.05.1982	15:00	1981	1982	35
+Hertha BSC	Waldhof Mannheim	1:0	3:3	08.05.1982	15:00	1981	1982	35
+Wormatia Worms	Hannover 96	1:0	1:2	08.05.1982	15:00	1981	1982	35
+Fortuna KÃ¶ln	Alemannia Aachen	0:1	0:2	08.05.1982	15:00	1981	1982	35
+Stuttgarter Kickers	TSV 1860 MÃ¼nchen	3:0	4:1	08.05.1982	15:00	1981	1982	35
+Alemannia Aachen	SC Freiburg	1:0	1:1	15.05.1982	15:00	1981	1982	36
+VfL OsnabrÃ¼ck	Stuttgarter Kickers	0:1	0:3	15.05.1982	15:00	1981	1982	36
+Waldhof Mannheim	Fortuna KÃ¶ln	0:1	2:2	15.05.1982	15:00	1981	1982	36
+FC Schalke 04	Wormatia Worms	2:0	4:0	15.05.1982	15:00	1981	1982	36
+SpVgg Bayreuth	Hertha BSC	0:2	0:6	15.05.1982	15:00	1981	1982	36
+SG Union Solingen	Rot-Weiss Essen	0:1	1:2	15.05.1982	15:00	1981	1982	36
+Kickers Offenbach	SG Wattenscheid 09	0:1	1:4	15.05.1982	15:00	1981	1982	36
+TSV 1860 MÃ¼nchen	Bayer 05 Uerdingen	3:0	6:1	15.05.1982	15:00	1981	1982	36
+Hannover 96	SpVgg FÃ¼rth	1:1	2:2	15.05.1982	15:00	1981	1982	36
+Freiburger FC	Hessen Kassel	0:2	0:3	15.05.1982	15:00	1981	1982	36
+Rot-Weiss Essen	Freiburger FC	3:0	4:2	22.05.1982	15:00	1981	1982	37
+Fortuna KÃ¶ln	SpVgg Bayreuth	4:1	5:1	22.05.1982	15:00	1981	1982	37
+Hertha BSC	Hannover 96	2:0	2:0	22.05.1982	15:00	1981	1982	37
+Stuttgarter Kickers	SG Union Solingen	1:0	3:1	22.05.1982	15:00	1981	1982	37
+Bayer 05 Uerdingen	VfL OsnabrÃ¼ck	0:2	0:4	22.05.1982	15:00	1981	1982	37
+Hessen Kassel	Alemannia Aachen	2:0	3:0	22.05.1982	15:00	1981	1982	37
+SC Freiburg	Waldhof Mannheim	1:1	2:1	22.05.1982	15:00	1981	1982	37
+SpVgg FÃ¼rth	Wormatia Worms	2:0	2:0	22.05.1982	15:00	1981	1982	37
+SG Wattenscheid 09	TSV 1860 MÃ¼nchen	1:0	1:1	22.05.1982	15:00	1981	1982	37
+Kickers Offenbach	FC Schalke 04	0:0	0:0	22.05.1982	15:00	1981	1982	37
+SpVgg Bayreuth	SC Freiburg	1:0	1:1	29.05.1982	15:00	1981	1982	38
+VfL OsnabrÃ¼ck	SG Wattenscheid 09	1:0	3:0	29.05.1982	15:00	1981	1982	38
+TSV 1860 MÃ¼nchen	Kickers Offenbach	1:2	5:2	29.05.1982	15:00	1981	1982	38
+Wormatia Worms	Hertha BSC	1:0	1:0	29.05.1982	15:00	1981	1982	38
+Hannover 96	Fortuna KÃ¶ln	2:0	2:0	29.05.1982	15:00	1981	1982	38
+Waldhof Mannheim	Hessen Kassel	0:1	2:2	29.05.1982	15:00	1981	1982	38
+Alemannia Aachen	Rot-Weiss Essen	0:1	0:1	29.05.1982	15:00	1981	1982	38
+Freiburger FC	Stuttgarter Kickers	1:1	1:3	29.05.1982	15:00	1981	1982	38
+FC Schalke 04	SpVgg FÃ¼rth	1:1	3:3	29.05.1982	15:00	1981	1982	38
+SG Union Solingen	Bayer 05 Uerdingen	1:0	1:0	29.05.1982	15:00	1981	1982	38

@@ -1,0 +1,380 @@
+FC Augsburg	Rot-Weiss Essen	0:0	0:0	07.08.1982	15:00	1982	1983	1
+BV 08 LÃ¼ttringhausen	SpVgg FÃ¼rth	1:0	4:2	07.08.1982	15:00	1982	1983	1
+TuS SchloÃ-Neuhaus	Waldhof Mannheim	0:0	0:2	07.08.1982	15:00	1982	1983	1
+SC Freiburg	SG Union Solingen	2:1	2:2	07.08.1982	15:00	1982	1983	1
+FSV Frankfurt	MSV Duisburg	1:0	2:1	07.08.1982	15:00	1982	1983	1
+Stuttgarter Kickers	Hannover 96	2:0	4:0	07.08.1982	15:00	1982	1983	1
+Fortuna KÃ¶ln	Hessen Kassel	1:0	2:0	07.08.1982	15:00	1982	1983	1
+Bayer 05 Uerdingen	SG Wattenscheid 09	1:1	3:1	07.08.1982	15:00	1982	1983	1
+Kickers Offenbach	VfL OsnabrÃ¼ck	2:0	4:0	07.08.1982	15:00	1982	1983	1
+Alemannia Aachen	SV Darmstadt 98	0:0	0:0	07.08.1982	15:00	1982	1983	1
+MSV Duisburg	FC Augsburg	0:0	0:1	14.08.1982	15:00	1982	1983	2
+SG Wattenscheid 09	Alemannia Aachen	0:1	1:2	14.08.1982	15:00	1982	1983	2
+Hessen Kassel	SC Freiburg	0:0	0:0	14.08.1982	15:00	1982	1983	2
+SV Darmstadt 98	Stuttgarter Kickers	1:2	1:2	14.08.1982	15:00	1982	1983	2
+Hannover 96	Fortuna KÃ¶ln	1:1	4:2	14.08.1982	15:00	1982	1983	2
+Rot-Weiss Essen	BV 08 LÃ¼ttringhausen	2:0	2:1	14.08.1982	15:00	1982	1983	2
+Waldhof Mannheim	Kickers Offenbach	0:1	0:1	14.08.1982	15:00	1982	1983	2
+SG Union Solingen	TuS SchloÃ-Neuhaus	0:0	1:1	14.08.1982	15:00	1982	1983	2
+VfL OsnabrÃ¼ck	FSV Frankfurt	1:1	3:1	14.08.1982	15:00	1982	1983	2
+SpVgg FÃ¼rth	Bayer 05 Uerdingen	1:0	1:1	14.08.1982	15:00	1982	1983	2
+Stuttgarter Kickers	SG Wattenscheid 09	2:0	3:1	21.08.1982	15:00	1982	1983	3
+Hessen Kassel	Hannover 96	1:1	3:1	21.08.1982	15:00	1982	1983	3
+FSV Frankfurt	Waldhof Mannheim	0:2	0:2	21.08.1982	15:00	1982	1983	3
+FC Augsburg	VfL OsnabrÃ¼ck	0:0	0:2	21.08.1982	15:00	1982	1983	3
+SC Freiburg	TuS SchloÃ-Neuhaus	1:0	4:0	21.08.1982	15:00	1982	1983	3
+Kickers Offenbach	SG Union Solingen	0:0	2:0	21.08.1982	15:00	1982	1983	3
+Bayer 05 Uerdingen	Rot-Weiss Essen	1:0	2:0	21.08.1982	15:00	1982	1983	3
+Fortuna KÃ¶ln	SV Darmstadt 98	1:0	3:0	21.08.1982	15:00	1982	1983	3
+Alemannia Aachen	SpVgg FÃ¼rth	1:0	3:1	21.08.1982	15:00	1982	1983	3
+BV 08 LÃ¼ttringhausen	MSV Duisburg	0:0	2:0	21.08.1982	15:00	1982	1983	3
+TuS SchloÃ-Neuhaus	Kickers Offenbach	0:1	1:2	24.08.1982	19:30	1982	1983	4
+Hannover 96	SC Freiburg	0:0	0:2	24.08.1982	19:30	1982	1983	4
+SpVgg FÃ¼rth	Stuttgarter Kickers	1:0	2:1	24.08.1982	19:30	1982	1983	4
+Rot-Weiss Essen	Alemannia Aachen	0:1	0:1	24.08.1982	19:30	1982	1983	4
+Waldhof Mannheim	FC Augsburg	3:0	4:0	24.08.1982	19:30	1982	1983	4
+VfL OsnabrÃ¼ck	BV 08 LÃ¼ttringhausen	3:0	5:0	24.08.1982	19:30	1982	1983	4
+SV Darmstadt 98	Hessen Kassel	1:1	4:2	24.08.1982	19:30	1982	1983	4
+SG Wattenscheid 09	Fortuna KÃ¶ln	0:0	0:2	24.08.1982	19:30	1982	1983	4
+MSV Duisburg	Bayer 05 Uerdingen	0:0	0:1	24.08.1982	19:30	1982	1983	4
+SG Union Solingen	FSV Frankfurt	4:1	6:3	24.08.1982	19:30	1982	1983	4
+Stuttgarter Kickers	Rot-Weiss Essen	1:0	4:0	01.09.1982	19:30	1982	1983	5
+Hessen Kassel	SG Wattenscheid 09	1:0	2:1	01.09.1982	19:30	1982	1983	5
+BV 08 LÃ¼ttringhausen	Waldhof Mannheim	3:0	5:2	01.09.1982	19:30	1982	1983	5
+FC Augsburg	SG Union Solingen	2:0	3:0	01.09.1982	19:30	1982	1983	5
+SC Freiburg	Kickers Offenbach	3:1	3:3	01.09.1982	19:30	1982	1983	5
+Fortuna KÃ¶ln	SpVgg FÃ¼rth	0:1	2:2	01.09.1982	19:30	1982	1983	5
+FSV Frankfurt	TuS SchloÃ-Neuhaus	0:0	1:1	01.09.1982	19:30	1982	1983	5
+Bayer 05 Uerdingen	VfL OsnabrÃ¼ck	1:1	4:2	01.09.1982	19:30	1982	1983	5
+Alemannia Aachen	MSV Duisburg	0:0	0:0	01.09.1982	19:30	1982	1983	5
+Hannover 96	SV Darmstadt 98	1:0	1:2	01.09.1982	19:30	1982	1983	5
+SG Wattenscheid 09	Hannover 96	0:1	0:3	04.09.1982	15:00	1982	1983	6
+SV Darmstadt 98	SC Freiburg	0:2	2:3	04.09.1982	15:00	1982	1983	6
+SG Union Solingen	BV 08 LÃ¼ttringhausen	0:0	3:0	04.09.1982	15:00	1982	1983	6
+TuS SchloÃ-Neuhaus	FC Augsburg	1:0	1:0	04.09.1982	15:00	1982	1983	6
+SpVgg FÃ¼rth	Hessen Kassel	2:2	2:2	04.09.1982	15:00	1982	1983	6
+MSV Duisburg	Stuttgarter Kickers	2:0	3:1	04.09.1982	15:00	1982	1983	6
+Waldhof Mannheim	Bayer 05 Uerdingen	0:0	1:1	04.09.1982	15:00	1982	1983	6
+Kickers Offenbach	FSV Frankfurt	2:0	6:2	04.09.1982	15:00	1982	1983	6
+VfL OsnabrÃ¼ck	Alemannia Aachen	0:2	1:2	04.09.1982	15:00	1982	1983	6
+Rot-Weiss Essen	Fortuna KÃ¶ln	0:1	2:4	04.09.1982	15:00	1982	1983	6
+Bayer 05 Uerdingen	SG Union Solingen	1:0	4:0	11.09.1982	15:00	1982	1983	7
+Hessen Kassel	Rot-Weiss Essen	1:0	3:0	11.09.1982	15:00	1982	1983	7
+Fortuna KÃ¶ln	MSV Duisburg	1:0	2:0	11.09.1982	15:00	1982	1983	7
+SC Freiburg	FSV Frankfurt	0:0	1:1	11.09.1982	15:00	1982	1983	7
+Alemannia Aachen	Waldhof Mannheim	2:1	3:1	11.09.1982	15:00	1982	1983	7
+BV 08 LÃ¼ttringhausen	TuS SchloÃ-Neuhaus	3:2	4:2	11.09.1982	15:00	1982	1983	7
+Stuttgarter Kickers	VfL OsnabrÃ¼ck	1:1	4:2	11.09.1982	15:00	1982	1983	7
+Hannover 96	SpVgg FÃ¼rth	2:0	3:1	11.09.1982	15:00	1982	1983	7
+SV Darmstadt 98	SG Wattenscheid 09	0:0	1:0	11.09.1982	15:00	1982	1983	7
+FC Augsburg	Kickers Offenbach	2:0	2:0	11.09.1982	15:00	1982	1983	7
+SG Wattenscheid 09	SC Freiburg	0:1	0:2	18.09.1982	15:00	1982	1983	8
+SG Union Solingen	Alemannia Aachen	2:0	3:0	18.09.1982	15:00	1982	1983	8
+SpVgg FÃ¼rth	SV Darmstadt 98	2:1	3:2	18.09.1982	15:00	1982	1983	8
+TuS SchloÃ-Neuhaus	Bayer 05 Uerdingen	0:1	1:3	18.09.1982	15:00	1982	1983	8
+FSV Frankfurt	FC Augsburg	0:0	2:0	18.09.1982	15:00	1982	1983	8
+Waldhof Mannheim	Stuttgarter Kickers	1:0	2:0	18.09.1982	15:00	1982	1983	8
+VfL OsnabrÃ¼ck	Fortuna KÃ¶ln	2:1	4:2	18.09.1982	15:00	1982	1983	8
+Kickers Offenbach	BV 08 LÃ¼ttringhausen	2:0	2:0	18.09.1982	15:00	1982	1983	8
+MSV Duisburg	Hessen Kassel	0:0	1:0	18.09.1982	15:00	1982	1983	8
+Rot-Weiss Essen	Hannover 96	0:0	0:0	18.09.1982	15:00	1982	1983	8
+BV 08 LÃ¼ttringhausen	FSV Frankfurt	0:0	1:1	25.09.1982	15:00	1982	1983	9
+Bayer 05 Uerdingen	Kickers Offenbach	1:1	2:1	25.09.1982	15:00	1982	1983	9
+Alemannia Aachen	TuS SchloÃ-Neuhaus	1:0	1:0	25.09.1982	15:00	1982	1983	9
+SC Freiburg	FC Augsburg	1:0	2:0	25.09.1982	15:00	1982	1983	9
+SV Darmstadt 98	Rot-Weiss Essen	1:1	3:1	25.09.1982	15:00	1982	1983	9
+SG Wattenscheid 09	SpVgg FÃ¼rth	4:2	5:3	25.09.1982	15:00	1982	1983	9
+Stuttgarter Kickers	SG Union Solingen	1:1	1:1	25.09.1982	15:00	1982	1983	9
+Fortuna KÃ¶ln	Waldhof Mannheim	1:1	1:1	25.09.1982	15:00	1982	1983	9
+Hannover 96	MSV Duisburg	0:1	2:3	25.09.1982	15:00	1982	1983	9
+Hessen Kassel	VfL OsnabrÃ¼ck	0:2	1:2	25.09.1982	15:00	1982	1983	9
+Waldhof Mannheim	Hessen Kassel	1:0	2:1	02.10.1982	15:00	1982	1983	10
+FSV Frankfurt	Bayer 05 Uerdingen	1:1	2:2	02.10.1982	15:00	1982	1983	10
+FC Augsburg	BV 08 LÃ¼ttringhausen	0:0	0:0	02.10.1982	15:00	1982	1983	10
+TuS SchloÃ-Neuhaus	Stuttgarter Kickers	1:1	3:1	02.10.1982	15:00	1982	1983	10
+VfL OsnabrÃ¼ck	Hannover 96	0:1	0:3	02.10.1982	15:00	1982	1983	10
+SG Union Solingen	Fortuna KÃ¶ln	1:0	2:2	02.10.1982	15:00	1982	1983	10
+Kickers Offenbach	Alemannia Aachen	0:0	2:0	02.10.1982	15:00	1982	1983	10
+Rot-Weiss Essen	SG Wattenscheid 09	2:0	4:0	02.10.1982	15:00	1982	1983	10
+MSV Duisburg	SV Darmstadt 98	0:2	3:3	02.10.1982	15:00	1982	1983	10
+SpVgg FÃ¼rth	SC Freiburg	1:1	2:1	02.10.1982	15:00	1982	1983	10
+Stuttgarter Kickers	Kickers Offenbach	1:0	1:1	09.10.1982	00:00	1982	1983	11
+Hessen Kassel	SG Union Solingen	2:0	2:0	09.10.1982	00:00	1982	1983	11
+Hannover 96	Waldhof Mannheim	2:0	2:2	09.10.1982	00:00	1982	1983	11
+SG Wattenscheid 09	MSV Duisburg	0:1	1:3	09.10.1982	00:00	1982	1983	11
+SC Freiburg	BV 08 LÃ¼ttringhausen	1:0	3:0	09.10.1982	00:00	1982	1983	11
+Bayer 05 Uerdingen	FC Augsburg	0:0	2:0	09.10.1982	00:00	1982	1983	11
+SV Darmstadt 98	VfL OsnabrÃ¼ck	1:0	2:1	09.10.1982	00:00	1982	1983	11
+Alemannia Aachen	FSV Frankfurt	1:0	5:1	09.10.1982	00:00	1982	1983	11
+Fortuna KÃ¶ln	TuS SchloÃ-Neuhaus	0:1	4:2	09.10.1982	00:00	1982	1983	11
+SpVgg FÃ¼rth	Rot-Weiss Essen	0:0	0:0	09.10.1982	00:00	1982	1983	11
+FC Augsburg	Alemannia Aachen	0:1	2:1	23.10.1982	15:00	1982	1983	12
+FSV Frankfurt	Stuttgarter Kickers	0:1	0:3	23.10.1982	15:00	1982	1983	12
+TuS SchloÃ-Neuhaus	Hessen Kassel	0:3	1:5	23.10.1982	15:00	1982	1983	12
+Rot-Weiss Essen	SC Freiburg	1:0	3:0	23.10.1982	15:00	1982	1983	12
+MSV Duisburg	SpVgg FÃ¼rth	0:0	1:0	23.10.1982	15:00	1982	1983	12
+Waldhof Mannheim	SV Darmstadt 98	1:0	3:1	23.10.1982	15:00	1982	1983	12
+VfL OsnabrÃ¼ck	SG Wattenscheid 09	0:1	2:2	23.10.1982	15:00	1982	1983	12
+Kickers Offenbach	Fortuna KÃ¶ln	1:2	3:2	23.10.1982	15:00	1982	1983	12
+SG Union Solingen	Hannover 96	0:1	1:1	23.10.1982	15:00	1982	1983	12
+BV 08 LÃ¼ttringhausen	Bayer 05 Uerdingen	0:0	1:1	23.10.1982	15:00	1982	1983	12
+Hannover 96	TuS SchloÃ-Neuhaus	2:0	6:1	15.10.1982	19:00	1982	1983	13
+SpVgg FÃ¼rth	VfL OsnabrÃ¼ck	1:1	2:1	30.10.1982	15:00	1982	1983	13
+SC Freiburg	Bayer 05 Uerdingen	1:0	1:0	30.10.1982	15:00	1982	1983	13
+Hessen Kassel	Kickers Offenbach	1:0	3:2	30.10.1982	15:00	1982	1983	13
+Rot-Weiss Essen	MSV Duisburg	1:1	2:2	30.10.1982	15:00	1982	1983	13
+Fortuna KÃ¶ln	FSV Frankfurt	3:1	6:1	30.10.1982	15:00	1982	1983	13
+SG Wattenscheid 09	Waldhof Mannheim	0:0	1:1	30.10.1982	15:00	1982	1983	13
+SV Darmstadt 98	SG Union Solingen	1:1	4:1	30.10.1982	15:00	1982	1983	13
+Alemannia Aachen	BV 08 LÃ¼ttringhausen	1:0	3:0	30.10.1982	15:00	1982	1983	13
+Stuttgarter Kickers	FC Augsburg	1:0	2:0	30.10.1982	15:00	1982	1983	13
+FSV Frankfurt	Hessen Kassel	1:2	3:6	06.11.1982	15:00	1982	1983	14
+SG Union Solingen	SG Wattenscheid 09	0:1	2:1	06.11.1982	15:00	1982	1983	14
+FC Augsburg	Fortuna KÃ¶ln	1:1	1:1	06.11.1982	15:00	1982	1983	14
+MSV Duisburg	SC Freiburg	1:1	1:1	06.11.1982	15:00	1982	1983	14
+BV 08 LÃ¼ttringhausen	Stuttgarter Kickers	1:1	4:1	06.11.1982	15:00	1982	1983	14
+Waldhof Mannheim	SpVgg FÃ¼rth	1:0	4:0	06.11.1982	15:00	1982	1983	14
+Bayer 05 Uerdingen	Alemannia Aachen	1:0	3:1	06.11.1982	15:00	1982	1983	14
+VfL OsnabrÃ¼ck	Rot-Weiss Essen	1:0	2:1	06.11.1982	15:00	1982	1983	14
+Kickers Offenbach	Hannover 96	2:0	5:1	06.11.1982	15:00	1982	1983	14
+TuS SchloÃ-Neuhaus	SV Darmstadt 98	0:0	3:1	06.11.1982	15:00	1982	1983	14
+Rot-Weiss Essen	Waldhof Mannheim	0:0	0:1	13.11.1982	15:00	1982	1983	15
+SV Darmstadt 98	Kickers Offenbach	0:2	0:2	13.11.1982	15:00	1982	1983	15
+SpVgg FÃ¼rth	SG Union Solingen	2:1	5:1	13.11.1982	15:00	1982	1983	15
+SC Freiburg	Alemannia Aachen	2:1	4:1	13.11.1982	15:00	1982	1983	15
+SG Wattenscheid 09	TuS SchloÃ-Neuhaus	2:1	3:2	13.11.1982	15:00	1982	1983	15
+MSV Duisburg	VfL OsnabrÃ¼ck	0:0	2:0	13.11.1982	15:00	1982	1983	15
+Stuttgarter Kickers	Bayer 05 Uerdingen	2:2	3:4	13.11.1982	15:00	1982	1983	15
+Fortuna KÃ¶ln	BV 08 LÃ¼ttringhausen	0:0	3:0	13.11.1982	15:00	1982	1983	15
+Hannover 96	FSV Frankfurt	2:1	2:1	13.11.1982	15:00	1982	1983	15
+Hessen Kassel	FC Augsburg	1:0	3:0	13.11.1982	15:00	1982	1983	15
+SG Union Solingen	Rot-Weiss Essen	0:1	2:3	20.11.1982	15:00	1982	1983	16
+FSV Frankfurt	SV Darmstadt 98	1:0	1:2	20.11.1982	15:00	1982	1983	16
+Alemannia Aachen	Stuttgarter Kickers	0:0	1:0	20.11.1982	15:00	1982	1983	16
+Waldhof Mannheim	MSV Duisburg	2:0	3:0	20.11.1982	15:00	1982	1983	16
+VfL OsnabrÃ¼ck	SC Freiburg	1:0	3:0	20.11.1982	15:00	1982	1983	16
+FC Augsburg	Hannover 96	1:2	2:2	20.11.1982	15:00	1982	1983	16
+Bayer 05 Uerdingen	Fortuna KÃ¶ln	0:0	1:1	20.11.1982	15:00	1982	1983	16
+Kickers Offenbach	SG Wattenscheid 09	1:1	3:2	20.11.1982	15:00	1982	1983	16
+BV 08 LÃ¼ttringhausen	Hessen Kassel	0:1	0:2	20.11.1982	15:00	1982	1983	16
+TuS SchloÃ-Neuhaus	SpVgg FÃ¼rth	0:0	1:1	20.11.1982	15:00	1982	1983	16
+Rot-Weiss Essen	TuS SchloÃ-Neuhaus	1:0	5:0	27.11.1982	15:00	1982	1983	17
+VfL OsnabrÃ¼ck	Waldhof Mannheim	0:1	0:2	27.11.1982	15:00	1982	1983	17
+SpVgg FÃ¼rth	Kickers Offenbach	2:1	2:2	27.11.1982	15:00	1982	1983	17
+Hessen Kassel	Bayer 05 Uerdingen	1:0	2:0	27.11.1982	15:00	1982	1983	17
+SG Wattenscheid 09	FSV Frankfurt	1:0	1:1	27.11.1982	15:00	1982	1983	17
+MSV Duisburg	SG Union Solingen	0:1	1:1	27.11.1982	15:00	1982	1983	17
+Stuttgarter Kickers	SC Freiburg	2:1	4:1	27.11.1982	15:00	1982	1983	17
+Fortuna KÃ¶ln	Alemannia Aachen	0:0	0:0	27.11.1982	15:00	1982	1983	17
+SV Darmstadt 98	FC Augsburg	0:0	1:0	27.11.1982	15:00	1982	1983	17
+Hannover 96	BV 08 LÃ¼ttringhausen	2:0	2:2	27.11.1982	15:00	1982	1983	17
+Alemannia Aachen	Hessen Kassel	1:0	1:1	04.12.1982	15:00	1982	1983	18
+SG Union Solingen	VfL OsnabrÃ¼ck	0:1	1:3	04.12.1982	15:00	1982	1983	18
+Bayer 05 Uerdingen	Hannover 96	0:0	2:1	04.12.1982	15:00	1982	1983	18
+Stuttgarter Kickers	Fortuna KÃ¶ln	1:0	2:1	04.12.1982	15:00	1982	1983	18
+Kickers Offenbach	Rot-Weiss Essen	1:0	3:0	04.12.1982	15:00	1982	1983	18
+TuS SchloÃ-Neuhaus	MSV Duisburg	0:1	0:1	04.12.1982	15:00	1982	1983	18
+FSV Frankfurt	SpVgg FÃ¼rth	0:0	2:0	04.12.1982	15:00	1982	1983	18
+BV 08 LÃ¼ttringhausen	SV Darmstadt 98	1:1	2:2	04.12.1982	15:00	1982	1983	18
+SC Freiburg	Waldhof Mannheim	1:0	1:1	04.12.1982	15:00	1982	1983	18
+FC Augsburg	SG Wattenscheid 09	0:0	1:0	04.12.1982	15:00	1982	1983	18
+VfL OsnabrÃ¼ck	TuS SchloÃ-Neuhaus	1:1	3:1	11.12.1982	15:00	1982	1983	19
+Fortuna KÃ¶ln	SC Freiburg	0:0	3:0	11.12.1982	15:00	1982	1983	19
+Waldhof Mannheim	SG Union Solingen	0:0	2:2	11.12.1982	15:00	1982	1983	19
+Rot-Weiss Essen	FSV Frankfurt	0:4	2:4	11.12.1982	15:00	1982	1983	19
+SpVgg FÃ¼rth	FC Augsburg	2:0	3:1	11.12.1982	15:00	1982	1983	19
+SG Wattenscheid 09	BV 08 LÃ¼ttringhausen	3:0	4:2	11.12.1982	15:00	1982	1983	19
+Hannover 96	Alemannia Aachen	2:1	3:3	11.12.1982	15:00	1982	1983	19
+Hessen Kassel	Stuttgarter Kickers	0:1	3:1	11.12.1982	15:00	1982	1983	19
+MSV Duisburg	Kickers Offenbach	0:0	0:1	11.12.1982	15:00	1982	1983	19
+SV Darmstadt 98	Bayer 05 Uerdingen	2:0	2:0	11.12.1982	15:00	1982	1983	19
+VfL OsnabrÃ¼ck	Kickers Offenbach	1:0	1:1	08.01.1983	15:00	1982	1983	20
+Hessen Kassel	Fortuna KÃ¶ln	1:1	2:2	08.01.1983	15:00	1982	1983	20
+Hannover 96	Stuttgarter Kickers	0:1	1:1	08.01.1983	15:00	1982	1983	20
+SG Wattenscheid 09	Bayer 05 Uerdingen	0:0	0:0	08.01.1983	15:00	1982	1983	20
+Rot-Weiss Essen	FC Augsburg	1:0	3:0	08.01.1983	15:00	1982	1983	20
+MSV Duisburg	FSV Frankfurt	0:0	4:1	08.01.1983	15:00	1982	1983	20
+SG Union Solingen	SC Freiburg	0:0	0:1	08.01.1983	15:00	1982	1983	20
+SpVgg FÃ¼rth	BV 08 LÃ¼ttringhausen	4:1	4:2	08.01.1983	15:00	1982	1983	20
+Waldhof Mannheim	TuS SchloÃ-Neuhaus	1:0	3:0	08.01.1983	15:00	1982	1983	20
+SV Darmstadt 98	Alemannia Aachen	2:0	2:1	08.01.1983	15:00	1982	1983	20
+Alemannia Aachen	SG Wattenscheid 09	1:0	1:2	15.01.1983	15:00	1982	1983	21
+Stuttgarter Kickers	SV Darmstadt 98	0:0	1:1	15.01.1983	15:00	1982	1983	21
+BV 08 LÃ¼ttringhausen	Rot-Weiss Essen	1:0	3:0	15.01.1983	15:00	1982	1983	21
+Kickers Offenbach	Waldhof Mannheim	0:1	0:2	15.01.1983	15:00	1982	1983	21
+Fortuna KÃ¶ln	Hannover 96	2:0	3:2	15.01.1983	15:00	1982	1983	21
+TuS SchloÃ-Neuhaus	SG Union Solingen	1:1	2:3	15.01.1983	15:00	1982	1983	21
+FSV Frankfurt	VfL OsnabrÃ¼ck	0:1	2:1	15.01.1983	15:00	1982	1983	21
+FC Augsburg	MSV Duisburg	1:1	2:1	15.01.1983	15:00	1982	1983	21
+SC Freiburg	Hessen Kassel	1:0	2:1	15.01.1983	15:00	1982	1983	21
+Bayer 05 Uerdingen	SpVgg FÃ¼rth	0:0	3:0	12.02.1983	15:00	1982	1983	21
+SG Wattenscheid 09	Stuttgarter Kickers	1:0	1:1	22.01.1983	15:00	1982	1983	22
+TuS SchloÃ-Neuhaus	SC Freiburg	1:1	1:1	22.01.1983	15:00	1982	1983	22
+Hannover 96	Hessen Kassel	1:1	1:2	22.01.1983	15:00	1982	1983	22
+Waldhof Mannheim	FSV Frankfurt	0:0	3:0	22.01.1983	15:00	1982	1983	22
+VfL OsnabrÃ¼ck	FC Augsburg	0:0	2:0	22.01.1983	15:00	1982	1983	22
+SpVgg FÃ¼rth	Alemannia Aachen	0:1	2:2	22.01.1983	15:00	1982	1983	22
+SG Union Solingen	Kickers Offenbach	1:0	1:0	22.01.1983	15:00	1982	1983	22
+Rot-Weiss Essen	Bayer 05 Uerdingen	1:1	3:1	22.01.1983	15:00	1982	1983	22
+SV Darmstadt 98	Fortuna KÃ¶ln	1:0	1:1	22.01.1983	15:00	1982	1983	22
+MSV Duisburg	BV 08 LÃ¼ttringhausen	2:0	3:0	22.01.1983	15:00	1982	1983	22
+FSV Frankfurt	SG Union Solingen	1:0	1:1	29.01.1983	15:00	1982	1983	23
+FC Augsburg	Waldhof Mannheim	0:0	0:0	29.01.1983	15:00	1982	1983	23
+Kickers Offenbach	TuS SchloÃ-Neuhaus	0:1	2:1	29.01.1983	15:00	1982	1983	23
+Bayer 05 Uerdingen	MSV Duisburg	1:2	1:3	29.01.1983	15:00	1982	1983	23
+Hessen Kassel	SV Darmstadt 98	0:0	1:0	29.01.1983	15:00	1982	1983	23
+BV 08 LÃ¼ttringhausen	VfL OsnabrÃ¼ck	2:0	3:2	29.01.1983	15:00	1982	1983	23
+Fortuna KÃ¶ln	SG Wattenscheid 09	1:0	1:2	29.01.1983	15:00	1982	1983	23
+Stuttgarter Kickers	SpVgg FÃ¼rth	1:0	4:0	29.01.1983	15:00	1982	1983	23
+Alemannia Aachen	Rot-Weiss Essen	0:0	0:0	12.02.1983	15:00	1982	1983	23
+SC Freiburg	Hannover 96	1:0	2:0	31.03.1983	19:00	1982	1983	23
+Kickers Offenbach	SC Freiburg	1:0	3:0	05.02.1983	15:00	1982	1983	24
+SG Wattenscheid 09	Hessen Kassel	1:0	4:1	05.02.1983	15:00	1982	1983	24
+Waldhof Mannheim	BV 08 LÃ¼ttringhausen	2:0	8:0	05.02.1983	15:00	1982	1983	24
+SpVgg FÃ¼rth	Fortuna KÃ¶ln	0:0	2:0	05.02.1983	15:00	1982	1983	24
+TuS SchloÃ-Neuhaus	FSV Frankfurt	1:0	2:0	05.02.1983	15:00	1982	1983	24
+Rot-Weiss Essen	Stuttgarter Kickers	1:0	1:0	05.02.1983	15:00	1982	1983	24
+SV Darmstadt 98	Hannover 96	1:0	2:1	08.03.1983	19:00	1982	1983	24
+MSV Duisburg	Alemannia Aachen	1:0	1:1	09.03.1983	15:00	1982	1983	24
+VfL OsnabrÃ¼ck	Bayer 05 Uerdingen	2:0	5:1	30.03.1983	19:30	1982	1983	24
+SG Union Solingen	FC Augsburg	1:1	2:1	31.03.1983	19:00	1982	1983	24
+Hannover 96	SG Wattenscheid 09	0:0	2:0	19.02.1983	15:00	1982	1983	25
+FC Augsburg	TuS SchloÃ-Neuhaus	0:1	2:1	19.02.1983	15:00	1982	1983	25
+SC Freiburg	SV Darmstadt 98	1:0	1:1	19.02.1983	15:00	1982	1983	25
+FSV Frankfurt	Kickers Offenbach	1:2	1:3	19.02.1983	15:00	1982	1983	25
+Hessen Kassel	SpVgg FÃ¼rth	1:1	3:1	19.02.1983	15:00	1982	1983	25
+Fortuna KÃ¶ln	Rot-Weiss Essen	1:0	2:2	19.02.1983	15:00	1982	1983	25
+Stuttgarter Kickers	MSV Duisburg	1:0	4:1	31.03.1983	19:00	1982	1983	25
+Alemannia Aachen	VfL OsnabrÃ¼ck	0:0	0:1	02.04.1983	15:00	1982	1983	25
+BV 08 LÃ¼ttringhausen	SG Union Solingen	0:0	1:0	04.04.1983	15:00	1982	1983	25
+Bayer 05 Uerdingen	Waldhof Mannheim	2:1	2:1	04.04.1983	15:00	1982	1983	25
+MSV Duisburg	Fortuna KÃ¶ln	1:0	2:3	26.02.1983	15:00	1982	1983	26
+SG Wattenscheid 09	SV Darmstadt 98	1:1	4:2	26.02.1983	15:00	1982	1983	26
+Waldhof Mannheim	Alemannia Aachen	2:1	5:1	26.02.1983	15:00	1982	1983	26
+Rot-Weiss Essen	Hessen Kassel	3:1	6:1	31.03.1983	19:00	1982	1983	26
+TuS SchloÃ-Neuhaus	BV 08 LÃ¼ttringhausen	1:1	1:2	31.03.1983	19:00	1982	1983	26
+SpVgg FÃ¼rth	Hannover 96	0:0	2:2	02.04.1983	19:00	1982	1983	26
+FSV Frankfurt	SC Freiburg	0:0	0:0	04.04.1983	15:00	1982	1983	26
+Kickers Offenbach	FC Augsburg	1:1	3:2	04.04.1983	15:00	1982	1983	26
+VfL OsnabrÃ¼ck	Stuttgarter Kickers	2:1	2:2	22.04.1983	20:00	1982	1983	26
+SG Union Solingen	Bayer 05 Uerdingen	1:0	1:1	24.04.1983	15:00	1982	1983	26
+FC Augsburg	FSV Frankfurt	1:1	2:1	05.03.1983	15:00	1982	1983	27
+Hessen Kassel	MSV Duisburg	1:0	3:1	05.03.1983	15:00	1982	1983	27
+SV Darmstadt 98	SpVgg FÃ¼rth	1:0	3:0	05.03.1983	15:00	1982	1983	27
+Alemannia Aachen	SG Union Solingen	1:0	2:1	05.03.1983	15:00	1982	1983	27
+Bayer 05 Uerdingen	TuS SchloÃ-Neuhaus	1:0	3:0	05.03.1983	15:00	1982	1983	27
+Hannover 96	Rot-Weiss Essen	1:0	4:0	05.03.1983	15:00	1982	1983	27
+BV 08 LÃ¼ttringhausen	Kickers Offenbach	1:1	1:1	05.03.1983	15:00	1982	1983	27
+Fortuna KÃ¶ln	VfL OsnabrÃ¼ck	1:0	4:0	05.03.1983	15:00	1982	1983	27
+Stuttgarter Kickers	Waldhof Mannheim	1:1	2:4	05.03.1983	15:00	1982	1983	27
+SC Freiburg	SG Wattenscheid 09	0:1	2:1	05.03.1983	15:00	1982	1983	27
+FSV Frankfurt	BV 08 LÃ¼ttringhausen	1:0	2:1	12.03.1983	15:00	1982	1983	28
+Kickers Offenbach	Bayer 05 Uerdingen	2:0	4:0	12.03.1983	15:00	1982	1983	28
+TuS SchloÃ-Neuhaus	Alemannia Aachen	1:0	3:1	12.03.1983	15:00	1982	1983	28
+FC Augsburg	SC Freiburg	0:0	1:1	12.03.1983	15:00	1982	1983	28
+SpVgg FÃ¼rth	SG Wattenscheid 09	1:1	2:3	12.03.1983	15:00	1982	1983	28
+SG Union Solingen	Stuttgarter Kickers	1:1	2:2	12.03.1983	15:00	1982	1983	28
+Waldhof Mannheim	Fortuna KÃ¶ln	1:1	2:1	12.03.1983	15:00	1982	1983	28
+MSV Duisburg	Hannover 96	2:0	3:1	12.03.1983	15:00	1982	1983	28
+Rot-Weiss Essen	SV Darmstadt 98	1:1	2:2	12.03.1983	15:00	1982	1983	28
+VfL OsnabrÃ¼ck	Hessen Kassel	1:0	2:0	12.03.1983	15:00	1982	1983	28
+SV Darmstadt 98	MSV Duisburg	2:2	6:2	19.03.1983	15:00	1982	1983	29
+SC Freiburg	SpVgg FÃ¼rth	1:0	1:1	19.03.1983	15:00	1982	1983	29
+Hannover 96	VfL OsnabrÃ¼ck	2:3	4:3	19.03.1983	15:00	1982	1983	29
+Bayer 05 Uerdingen	FSV Frankfurt	0:1	2:1	19.03.1983	15:00	1982	1983	29
+SG Wattenscheid 09	Rot-Weiss Essen	1:0	2:1	19.03.1983	15:00	1982	1983	29
+Hessen Kassel	Waldhof Mannheim	1:0	1:1	19.03.1983	15:00	1982	1983	29
+Fortuna KÃ¶ln	SG Union Solingen	2:0	3:0	19.03.1983	15:00	1982	1983	29
+Alemannia Aachen	Kickers Offenbach	1:0	1:0	19.03.1983	15:00	1982	1983	29
+Stuttgarter Kickers	TuS SchloÃ-Neuhaus	4:0	6:1	19.03.1983	15:00	1982	1983	29
+BV 08 LÃ¼ttringhausen	FC Augsburg	0:0	0:0	24.04.1983	18:15	1982	1983	29
+FC Augsburg	Bayer 05 Uerdingen	0:1	1:1	26.03.1983	15:00	1982	1983	30
+Waldhof Mannheim	Hannover 96	2:0	4:1	26.03.1983	15:00	1982	1983	30
+MSV Duisburg	SG Wattenscheid 09	1:0	2:0	26.03.1983	15:00	1982	1983	30
+Rot-Weiss Essen	SpVgg FÃ¼rth	0:0	1:1	26.03.1983	15:00	1982	1983	30
+SG Union Solingen	Hessen Kassel	0:1	0:2	26.03.1983	15:00	1982	1983	30
+Kickers Offenbach	Stuttgarter Kickers	1:1	1:1	26.03.1983	15:00	1982	1983	30
+VfL OsnabrÃ¼ck	SV Darmstadt 98	0:0	1:1	26.03.1983	15:00	1982	1983	30
+FSV Frankfurt	Alemannia Aachen	0:2	1:3	26.03.1983	15:00	1982	1983	30
+TuS SchloÃ-Neuhaus	Fortuna KÃ¶ln	0:1	1:1	26.03.1983	15:00	1982	1983	30
+BV 08 LÃ¼ttringhausen	SC Freiburg	0:0	1:0	13.04.1983	19:00	1982	1983	30
+Hannover 96	SG Union Solingen	0:0	3:1	09.04.1983	15:00	1982	1983	31
+Hessen Kassel	TuS SchloÃ-Neuhaus	3:1	4:2	09.04.1983	15:00	1982	1983	31
+SpVgg FÃ¼rth	MSV Duisburg	1:0	1:0	09.04.1983	15:00	1982	1983	31
+SV Darmstadt 98	Waldhof Mannheim	1:1	1:1	09.04.1983	15:00	1982	1983	31
+Fortuna KÃ¶ln	Kickers Offenbach	0:2	1:4	09.04.1983	15:00	1982	1983	31
+SG Wattenscheid 09	VfL OsnabrÃ¼ck	0:0	2:0	09.04.1983	15:00	1982	1983	31
+Bayer 05 Uerdingen	BV 08 LÃ¼ttringhausen	0:0	0:0	09.04.1983	15:00	1982	1983	31
+Stuttgarter Kickers	FSV Frankfurt	0:0	1:0	13.04.1983	19:00	1982	1983	31
+SC Freiburg	Rot-Weiss Essen	1:0	1:1	22.04.1983	18:15	1982	1983	31
+Alemannia Aachen	FC Augsburg	1:1	2:1	22.04.1983	20:00	1982	1983	31
+Waldhof Mannheim	SG Wattenscheid 09	1:0	4:0	16.04.1983	15:00	1982	1983	32
+Kickers Offenbach	Hessen Kassel	0:0	2:0	16.04.1983	15:00	1982	1983	32
+MSV Duisburg	Rot-Weiss Essen	0:0	0:2	16.04.1983	15:00	1982	1983	32
+FC Augsburg	Stuttgarter Kickers	0:1	0:2	16.04.1983	15:00	1982	1983	32
+Bayer 05 Uerdingen	SC Freiburg	2:0	3:0	16.04.1983	15:00	1982	1983	32
+VfL OsnabrÃ¼ck	SpVgg FÃ¼rth	1:0	2:1	16.04.1983	15:00	1982	1983	32
+TuS SchloÃ-Neuhaus	Hannover 96	1:0	1:1	16.04.1983	15:00	1982	1983	32
+SG Union Solingen	SV Darmstadt 98	1:2	3:2	16.04.1983	15:00	1982	1983	32
+BV 08 LÃ¼ttringhausen	Alemannia Aachen	1:0	3:0	16.04.1983	15:00	1982	1983	32
+FSV Frankfurt	Fortuna KÃ¶ln	0:0	2:0	16.04.1983	15:00	1982	1983	32
+SV Darmstadt 98	TuS SchloÃ-Neuhaus	3:0	7:0	30.04.1983	15:00	1982	1983	33
+SC Freiburg	MSV Duisburg	1:0	1:1	30.04.1983	15:00	1982	1983	33
+Fortuna KÃ¶ln	FC Augsburg	0:0	7:0	30.04.1983	15:00	1982	1983	33
+Stuttgarter Kickers	BV 08 LÃ¼ttringhausen	2:0	3:0	30.04.1983	15:00	1982	1983	33
+Hessen Kassel	FSV Frankfurt	0:0	0:1	30.04.1983	15:00	1982	1983	33
+SpVgg FÃ¼rth	Waldhof Mannheim	1:0	1:0	30.04.1983	15:00	1982	1983	33
+SG Wattenscheid 09	SG Union Solingen	3:1	6:2	30.04.1983	15:00	1982	1983	33
+Rot-Weiss Essen	VfL OsnabrÃ¼ck	0:0	0:1	30.04.1983	15:00	1982	1983	33
+Alemannia Aachen	Bayer 05 Uerdingen	2:0	2:1	30.04.1983	15:00	1982	1983	33
+Hannover 96	Kickers Offenbach	1:0	2:0	30.04.1983	15:00	1982	1983	33
+BV 08 LÃ¼ttringhausen	Fortuna KÃ¶ln	0:0	0:2	07.05.1983	15:00	1982	1983	34
+FC Augsburg	Hessen Kassel	0:0	1:0	07.05.1983	15:00	1982	1983	34
+Kickers Offenbach	SV Darmstadt 98	1:1	2:2	07.05.1983	15:00	1982	1983	34
+Alemannia Aachen	SC Freiburg	0:0	1:1	07.05.1983	15:00	1982	1983	34
+Waldhof Mannheim	Rot-Weiss Essen	2:0	3:1	07.05.1983	15:00	1982	1983	34
+FSV Frankfurt	Hannover 96	1:1	1:2	07.05.1983	15:00	1982	1983	34
+Bayer 05 Uerdingen	Stuttgarter Kickers	1:1	2:1	07.05.1983	15:00	1982	1983	34
+VfL OsnabrÃ¼ck	MSV Duisburg	0:0	0:2	07.05.1983	15:00	1982	1983	34
+TuS SchloÃ-Neuhaus	SG Wattenscheid 09	0:2	0:5	07.05.1983	15:00	1982	1983	34
+SG Union Solingen	SpVgg FÃ¼rth	0:1	2:1	17.05.1983	19:30	1982	1983	34
+Hannover 96	FC Augsburg	1:0	1:1	14.05.1983	15:00	1982	1983	35
+SC Freiburg	VfL OsnabrÃ¼ck	1:0	1:1	14.05.1983	15:00	1982	1983	35
+SV Darmstadt 98	FSV Frankfurt	4:2	6:2	14.05.1983	15:00	1982	1983	35
+MSV Duisburg	Waldhof Mannheim	2:2	3:3	14.05.1983	15:00	1982	1983	35
+SpVgg FÃ¼rth	TuS SchloÃ-Neuhaus	0:0	0:2	14.05.1983	15:00	1982	1983	35
+Hessen Kassel	BV 08 LÃ¼ttringhausen	1:0	2:0	14.05.1983	15:00	1982	1983	35
+Fortuna KÃ¶ln	Bayer 05 Uerdingen	0:0	0:0	14.05.1983	15:00	1982	1983	35
+Stuttgarter Kickers	Alemannia Aachen	0:1	1:2	14.05.1983	15:00	1982	1983	35
+SG Wattenscheid 09	Kickers Offenbach	0:0	0:0	14.05.1983	15:00	1982	1983	35
+Rot-Weiss Essen	SG Union Solingen	1:1	3:1	14.05.1983	15:00	1982	1983	35
+TuS SchloÃ-Neuhaus	Rot-Weiss Essen	0:0	1:0	21.05.1983	15:00	1982	1983	36
+FSV Frankfurt	SG Wattenscheid 09	0:2	0:2	21.05.1983	15:00	1982	1983	36
+Waldhof Mannheim	VfL OsnabrÃ¼ck	2:0	3:0	21.05.1983	15:00	1982	1983	36
+Kickers Offenbach	SpVgg FÃ¼rth	1:0	3:2	21.05.1983	15:00	1982	1983	36
+Bayer 05 Uerdingen	Hessen Kassel	0:0	0:1	21.05.1983	15:00	1982	1983	36
+FC Augsburg	SV Darmstadt 98	2:0	2:1	21.05.1983	15:00	1982	1983	36
+SG Union Solingen	MSV Duisburg	1:0	2:0	21.05.1983	15:00	1982	1983	36
+SC Freiburg	Stuttgarter Kickers	0:0	0:1	21.05.1983	15:00	1982	1983	36
+Alemannia Aachen	Fortuna KÃ¶ln	0:0	0:0	21.05.1983	15:00	1982	1983	36
+BV 08 LÃ¼ttringhausen	Hannover 96	2:1	6:3	21.05.1983	15:00	1982	1983	36
+SpVgg FÃ¼rth	FSV Frankfurt	1:0	2:2	28.05.1983	15:00	1982	1983	37
+Hannover 96	Bayer 05 Uerdingen	0:2	0:3	28.05.1983	15:00	1982	1983	37
+Fortuna KÃ¶ln	Stuttgarter Kickers	1:0	1:2	28.05.1983	15:00	1982	1983	37
+MSV Duisburg	TuS SchloÃ-Neuhaus	2:1	2:2	28.05.1983	15:00	1982	1983	37
+Rot-Weiss Essen	Kickers Offenbach	2:0	4:2	28.05.1983	15:00	1982	1983	37
+SG Wattenscheid 09	FC Augsburg	0:0	0:0	28.05.1983	15:00	1982	1983	37
+SV Darmstadt 98	BV 08 LÃ¼ttringhausen	3:0	4:0	28.05.1983	15:00	1982	1983	37
+Hessen Kassel	Alemannia Aachen	1:0	3:0	28.05.1983	15:00	1982	1983	37
+Waldhof Mannheim	SC Freiburg	0:0	0:3	28.05.1983	15:00	1982	1983	37
+VfL OsnabrÃ¼ck	SG Union Solingen	0:0	5:3	28.05.1983	15:00	1982	1983	37
+TuS SchloÃ-Neuhaus	VfL OsnabrÃ¼ck	1:1	1:1	05.06.1983	15:00	1982	1983	38
+Bayer 05 Uerdingen	SV Darmstadt 98	2:0	5:0	05.06.1983	15:00	1982	1983	38
+Alemannia Aachen	Hannover 96	0:2	1:2	05.06.1983	15:00	1982	1983	38
+Kickers Offenbach	MSV Duisburg	1:0	1:2	05.06.1983	15:00	1982	1983	38
+Stuttgarter Kickers	Hessen Kassel	1:0	5:1	05.06.1983	15:00	1982	1983	38
+FC Augsburg	SpVgg FÃ¼rth	1:0	3:0	05.06.1983	15:00	1982	1983	38
+FSV Frankfurt	Rot-Weiss Essen	1:1	3:1	05.06.1983	15:00	1982	1983	38
+SC Freiburg	Fortuna KÃ¶ln	1:1	1:1	05.06.1983	15:00	1982	1983	38
+SG Union Solingen	Waldhof Mannheim	1:0	2:0	05.06.1983	15:00	1982	1983	38
+BV 08 LÃ¼ttringhausen	SG Wattenscheid 09	1:0	2:1	05.06.1983	15:00	1982	1983	38

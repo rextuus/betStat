@@ -1,0 +1,306 @@
+Genova 1893 Circolo del Calcio	AS Bari	0:0	3:0	01.01.2000	00:00	1931	1932	1
+Torino FC	Lazio Roma	0:0	3:1	01.01.2000	00:00	1931	1932	1
+AS Roma	Modena FC	0:0	4:2	01.01.2000	00:00	1931	1932	1
+Aurora Pro Patria	Juventus	0:0	1:1	01.01.2000	00:00	1931	1932	1
+Bologna FC	Pro Vercelli	0:0	1:0	01.01.2000	00:00	1931	1932	1
+AC Milan	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1931	1932	1
+Casale	Inter	0:0	3:1	01.01.2000	00:00	1931	1932	1
+Brescia Calcio	US Alessandria 1912	0:0	1:0	01.01.2000	00:00	1931	1932	1
+SSC Napoli	Unione Triestina	0:0	4:2	01.01.2000	00:00	1931	1932	1
+Pro Vercelli	Casale	0:0	0:1	01.01.2000	00:00	1931	1932	2
+Unione Triestina	AS Roma	0:0	2:0	01.01.2000	00:00	1931	1932	2
+Lazio Roma	AC Milan	0:0	0:0	01.01.2000	00:00	1931	1932	2
+Modena FC	Aurora Pro Patria	0:0	1:1	01.01.2000	00:00	1931	1932	2
+ACF Fiorentina	Brescia Calcio	0:0	2:1	01.01.2000	00:00	1931	1932	2
+AS Bari	Bologna FC	0:0	1:2	01.01.2000	00:00	1931	1932	2
+Inter	Torino FC	0:0	1:1	01.01.2000	00:00	1931	1932	2
+US Alessandria 1912	Genova 1893 Circolo del Calcio	0:0	2:2	01.01.2000	00:00	1931	1932	2
+Juventus	SSC Napoli	0:0	5:3	01.01.2000	00:00	1931	1932	2
+AS Roma	Pro Vercelli	0:0	2:1	01.01.2000	00:00	1931	1932	3
+Torino FC	Modena FC	0:0	6:0	01.01.2000	00:00	1931	1932	3
+Aurora Pro Patria	Unione Triestina	0:0	0:2	01.01.2000	00:00	1931	1932	3
+SSC Napoli	AS Bari	0:0	3:0	01.01.2000	00:00	1931	1932	3
+Genova 1893 Circolo del Calcio	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1931	1932	3
+Casale	Juventus	0:0	1:1	01.01.2000	00:00	1931	1932	3
+Bologna FC	Lazio Roma	0:0	5:1	01.01.2000	00:00	1931	1932	3
+Brescia Calcio	Inter	0:0	0:2	01.01.2000	00:00	1931	1932	3
+AC Milan	US Alessandria 1912	0:0	1:1	01.01.2000	00:00	1931	1932	3
+ACF Fiorentina	Bologna FC	0:0	1:3	01.01.2000	00:00	1931	1932	4
+Unione Triestina	Genova 1893 Circolo del Calcio	0:0	0:0	01.01.2000	00:00	1931	1932	4
+Pro Vercelli	Torino FC	0:0	2:0	01.01.2000	00:00	1931	1932	4
+Modena FC	Brescia Calcio	0:0	2:2	01.01.2000	00:00	1931	1932	4
+US Alessandria 1912	AS Roma	0:0	0:1	01.01.2000	00:00	1931	1932	4
+Juventus	AC Milan	0:0	2:0	01.01.2000	00:00	1931	1932	4
+AS Bari	Casale	0:0	0:1	01.01.2000	00:00	1931	1932	4
+Inter	SSC Napoli	0:0	6:1	01.01.2000	00:00	1931	1932	4
+Lazio Roma	Aurora Pro Patria	0:0	1:2	01.01.2000	00:00	1931	1932	4
+Pro Vercelli	Aurora Pro Patria	0:0	1:0	01.01.2000	00:00	1931	1932	5
+Unione Triestina	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1931	1932	5
+Torino FC	Bologna FC	0:0	1:1	01.01.2000	00:00	1931	1932	5
+AS Roma	Juventus	0:0	2:0	01.01.2000	00:00	1931	1932	5
+AC Milan	Inter	0:0	2:3	01.01.2000	00:00	1931	1932	5
+Genova 1893 Circolo del Calcio	Modena FC	0:0	3:0	01.01.2000	00:00	1931	1932	5
+Casale	Lazio Roma	0:0	0:1	01.01.2000	00:00	1931	1932	5
+AS Bari	Brescia Calcio	0:0	1:1	01.01.2000	00:00	1931	1932	5
+SSC Napoli	US Alessandria 1912	0:0	1:1	01.01.2000	00:00	1931	1932	5
+Casale	Brescia Calcio	0:0	2:1	01.01.2000	00:00	1931	1932	6
+US Alessandria 1912	AS Bari	0:0	3:0	01.01.2000	00:00	1931	1932	6
+Aurora Pro Patria	AS Roma	0:0	2:2	01.01.2000	00:00	1931	1932	6
+Modena FC	Unione Triestina	0:0	1:1	01.01.2000	00:00	1931	1932	6
+Lazio Roma	SSC Napoli	0:0	0:2	01.01.2000	00:00	1931	1932	6
+ACF Fiorentina	Torino FC	0:0	4:2	01.01.2000	00:00	1931	1932	6
+Bologna FC	AC Milan	0:0	3:0	01.01.2000	00:00	1931	1932	6
+Inter	Pro Vercelli	0:0	4:1	01.01.2000	00:00	1931	1932	6
+Juventus	Genova 1893 Circolo del Calcio	0:0	2:1	01.01.2000	00:00	1931	1932	6
+Genova 1893 Circolo del Calcio	Casale	0:0	3:1	01.01.2000	00:00	1931	1932	7
+AS Roma	Bologna FC	0:0	1:1	01.01.2000	00:00	1931	1932	7
+Modena FC	Inter	0:0	3:1	01.01.2000	00:00	1931	1932	7
+Unione Triestina	Pro Vercelli	0:0	1:1	01.01.2000	00:00	1931	1932	7
+ACF Fiorentina	Lazio Roma	0:0	2:0	01.01.2000	00:00	1931	1932	7
+Brescia Calcio	Torino FC	0:0	1:2	01.01.2000	00:00	1931	1932	7
+AS Bari	Aurora Pro Patria	0:0	2:1	01.01.2000	00:00	1931	1932	7
+AC Milan	SSC Napoli	0:0	3:1	01.01.2000	00:00	1931	1932	7
+Juventus	US Alessandria 1912	0:0	3:0	01.01.2000	00:00	1931	1932	7
+Brescia Calcio	AC Milan	0:0	2:3	01.01.2000	00:00	1931	1932	8
+Torino FC	Aurora Pro Patria	0:0	3:1	01.01.2000	00:00	1931	1932	8
+Pro Vercelli	Modena FC	0:0	2:1	01.01.2000	00:00	1931	1932	8
+SSC Napoli	ACF Fiorentina	0:0	0:2	01.01.2000	00:00	1931	1932	8
+Casale	AS Roma	0:0	1:0	01.01.2000	00:00	1931	1932	8
+Bologna FC	Genova 1893 Circolo del Calcio	0:0	2:0	01.01.2000	00:00	1931	1932	8
+AS Bari	Juventus	0:0	0:1	01.01.2000	00:00	1931	1932	8
+Inter	US Alessandria 1912	0:0	4:0	01.01.2000	00:00	1931	1932	8
+Lazio Roma	Unione Triestina	0:0	2:0	01.01.2000	00:00	1931	1932	8
+Lazio Roma	Genova 1893 Circolo del Calcio	0:0	0:0	01.01.2000	00:00	1931	1932	9
+Unione Triestina	Juventus	0:0	0:1	01.01.2000	00:00	1931	1932	9
+Torino FC	AS Bari	0:0	6:1	01.01.2000	00:00	1931	1932	9
+Aurora Pro Patria	Brescia Calcio	0:0	0:0	01.01.2000	00:00	1931	1932	9
+SSC Napoli	Casale	0:0	5:1	01.01.2000	00:00	1931	1932	9
+ACF Fiorentina	AS Roma	0:0	3:1	01.01.2000	00:00	1931	1932	9
+Bologna FC	Inter	0:0	2:0	01.01.2000	00:00	1931	1932	9
+US Alessandria 1912	Pro Vercelli	0:0	4:5	01.01.2000	00:00	1931	1932	9
+AC Milan	Modena FC	0:0	5:0	01.01.2000	00:00	1931	1932	9
+Aurora Pro Patria	Casale	0:0	3:1	01.01.2000	00:00	1931	1932	10
+AS Roma	SSC Napoli	0:0	1:0	01.01.2000	00:00	1931	1932	10
+Modena FC	Bologna FC	0:0	0:0	01.01.2000	00:00	1931	1932	10
+Juventus	Pro Vercelli	0:0	4:1	01.01.2000	00:00	1931	1932	10
+Brescia Calcio	Unione Triestina	0:0	2:1	01.01.2000	00:00	1931	1932	10
+AS Bari	AC Milan	0:0	2:5	01.01.2000	00:00	1931	1932	10
+US Alessandria 1912	Lazio Roma	0:0	2:1	01.01.2000	00:00	1931	1932	10
+Inter	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1931	1932	10
+Genova 1893 Circolo del Calcio	Torino FC	0:0	2:2	01.01.2000	00:00	1931	1932	10
+ACF Fiorentina	Aurora Pro Patria	0:0	1:0	01.01.2000	00:00	1931	1932	11
+Unione Triestina	Inter	0:0	2:2	01.01.2000	00:00	1931	1932	11
+Torino FC	SSC Napoli	0:0	4:1	01.01.2000	00:00	1931	1932	11
+AS Roma	Lazio Roma	0:0	2:0	01.01.2000	00:00	1931	1932	11
+AS Bari	Modena FC	0:0	1:0	01.01.2000	00:00	1931	1932	11
+AC Milan	Genova 1893 Circolo del Calcio	0:0	3:0	01.01.2000	00:00	1931	1932	11
+Casale	US Alessandria 1912	0:0	2:2	01.01.2000	00:00	1931	1932	11
+Bologna FC	Juventus	0:0	1:1	01.01.2000	00:00	1931	1932	11
+Pro Vercelli	Brescia Calcio	0:0	1:0	01.01.2000	00:00	1931	1932	11
+SSC Napoli	Modena FC	0:0	4:1	01.01.2000	00:00	1931	1932	12
+Pro Vercelli	AC Milan	0:0	0:2	01.01.2000	00:00	1931	1932	12
+Torino FC	Juventus	0:0	0:0	01.01.2000	00:00	1931	1932	12
+Aurora Pro Patria	Bologna FC	0:0	0:2	01.01.2000	00:00	1931	1932	12
+Genova 1893 Circolo del Calcio	Brescia Calcio	0:0	4:0	01.01.2000	00:00	1931	1932	12
+Casale	ACF Fiorentina	0:0	3:2	01.01.2000	00:00	1931	1932	12
+US Alessandria 1912	Unione Triestina	0:0	4:0	01.01.2000	00:00	1931	1932	12
+Inter	AS Roma	0:0	2:1	01.01.2000	00:00	1931	1932	12
+Lazio Roma	AS Bari	0:0	3:2	01.01.2000	00:00	1931	1932	12
+Juventus	Lazio Roma	0:0	1:2	01.01.2000	00:00	1931	1932	13
+Inter	AS Bari	0:0	0:0	01.01.2000	00:00	1931	1932	13
+Unione Triestina	AC Milan	0:0	1:3	01.01.2000	00:00	1931	1932	13
+AS Roma	Torino FC	0:0	2:3	01.01.2000	00:00	1931	1932	13
+Aurora Pro Patria	US Alessandria 1912	0:0	2:1	01.01.2000	00:00	1931	1932	13
+Modena FC	Casale	0:0	4:1	01.01.2000	00:00	1931	1932	13
+ACF Fiorentina	Pro Vercelli	0:0	1:0	01.01.2000	00:00	1931	1932	13
+Brescia Calcio	Bologna FC	0:0	0:1	01.01.2000	00:00	1931	1932	13
+SSC Napoli	Genova 1893 Circolo del Calcio	0:0	3:1	01.01.2000	00:00	1931	1932	13
+Casale	Torino FC	0:0	1:1	01.01.2000	00:00	1931	1932	14
+AC Milan	Aurora Pro Patria	0:0	1:1	01.01.2000	00:00	1931	1932	14
+Lazio Roma	Brescia Calcio	0:0	2:0	01.01.2000	00:00	1931	1932	14
+Pro Vercelli	SSC Napoli	0:0	1:1	01.01.2000	00:00	1931	1932	14
+Bologna FC	Unione Triestina	0:0	8:0	01.01.2000	00:00	1931	1932	14
+AS Bari	AS Roma	0:0	1:2	01.01.2000	00:00	1931	1932	14
+US Alessandria 1912	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1931	1932	14
+Juventus	Modena FC	0:0	3:0	01.01.2000	00:00	1931	1932	14
+Genova 1893 Circolo del Calcio	Inter	0:0	0:1	01.01.2000	00:00	1931	1932	14
+Brescia Calcio	Juventus	0:0	0:4	01.01.2000	00:00	1931	1932	15
+Unione Triestina	Casale	0:0	2:2	01.01.2000	00:00	1931	1932	15
+Torino FC	AC Milan	0:0	0:0	01.01.2000	00:00	1931	1932	15
+AS Roma	Genova 1893 Circolo del Calcio	0:0	6:0	01.01.2000	00:00	1931	1932	15
+Modena FC	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1931	1932	15
+Bologna FC	US Alessandria 1912	0:0	3:1	01.01.2000	00:00	1931	1932	15
+AS Bari	Pro Vercelli	0:0	1:0	01.01.2000	00:00	1931	1932	15
+Inter	Lazio Roma	0:0	2:0	01.01.2000	00:00	1931	1932	15
+Aurora Pro Patria	SSC Napoli	0:0	0:0	01.01.2000	00:00	1931	1932	15
+Lazio Roma	Pro Vercelli	0:0	5:0	01.01.2000	00:00	1931	1932	16
+Unione Triestina	Torino FC	0:0	1:0	01.01.2000	00:00	1931	1932	16
+SSC Napoli	Brescia Calcio	0:0	1:1	01.01.2000	00:00	1931	1932	16
+AC Milan	AS Roma	0:0	1:2	01.01.2000	00:00	1931	1932	16
+Genova 1893 Circolo del Calcio	Aurora Pro Patria	0:0	4:1	01.01.2000	00:00	1931	1932	16
+ACF Fiorentina	AS Bari	0:0	2:1	01.01.2000	00:00	1931	1932	16
+Casale	Bologna FC	0:0	1:5	01.01.2000	00:00	1931	1932	16
+US Alessandria 1912	Modena FC	0:0	5:0	01.01.2000	00:00	1931	1932	16
+Juventus	Inter	0:0	6:2	01.01.2000	00:00	1931	1932	16
+AS Roma	Brescia Calcio	0:0	3:1	01.01.2000	00:00	1931	1932	17
+Torino FC	US Alessandria 1912	0:0	1:3	01.01.2000	00:00	1931	1932	17
+Pro Vercelli	Genova 1893 Circolo del Calcio	0:0	4:2	01.01.2000	00:00	1931	1932	17
+SSC Napoli	Bologna FC	0:0	1:1	01.01.2000	00:00	1931	1932	17
+ACF Fiorentina	Juventus	0:0	1:2	01.01.2000	00:00	1931	1932	17
+Casale	AC Milan	0:0	0:1	01.01.2000	00:00	1931	1932	17
+AS Bari	Unione Triestina	0:0	3:2	01.01.2000	00:00	1931	1932	17
+Inter	Aurora Pro Patria	0:0	3:1	01.01.2000	00:00	1931	1932	17
+Modena FC	Lazio Roma	0:0	3:1	01.01.2000	00:00	1931	1932	17
+ACF Fiorentina	AC Milan	0:0	3:0	01.01.2000	00:00	1931	1932	18
+Unione Triestina	SSC Napoli	0:0	1:2	01.01.2000	00:00	1931	1932	18
+Pro Vercelli	Bologna FC	0:0	1:1	01.01.2000	00:00	1931	1932	18
+Modena FC	AS Roma	0:0	2:3	01.01.2000	00:00	1931	1932	18
+US Alessandria 1912	Brescia Calcio	0:0	3:2	01.01.2000	00:00	1931	1932	18
+Juventus	Aurora Pro Patria	0:0	7:2	01.01.2000	00:00	1931	1932	18
+AS Bari	Genova 1893 Circolo del Calcio	0:0	4:2	01.01.2000	00:00	1931	1932	18
+Inter	Casale	0:0	4:0	01.01.2000	00:00	1931	1932	18
+Lazio Roma	Torino FC	0:0	2:0	01.01.2000	00:00	1931	1932	18
+Genova 1893 Circolo del Calcio	US Alessandria 1912	0:0	1:2	01.01.2000	00:00	1931	1932	19
+AS Roma	Unione Triestina	0:0	1:0	01.01.2000	00:00	1931	1932	19
+Aurora Pro Patria	Modena FC	0:0	3:1	01.01.2000	00:00	1931	1932	19
+Torino FC	Inter	0:0	2:1	01.01.2000	00:00	1931	1932	19
+Casale	Pro Vercelli	0:0	0:1	01.01.2000	00:00	1931	1932	19
+Brescia Calcio	ACF Fiorentina	0:0	0:1	01.01.2000	00:00	1931	1932	19
+Bologna FC	AS Bari	0:0	2:0	01.01.2000	00:00	1931	1932	19
+SSC Napoli	Juventus	0:0	2:0	01.01.2000	00:00	1931	1932	19
+AC Milan	Lazio Roma	0:0	2:0	01.01.2000	00:00	1931	1932	19
+ACF Fiorentina	Genova 1893 Circolo del Calcio	0:0	2:2	01.01.2000	00:00	1931	1932	20
+Pro Vercelli	AS Roma	0:0	0:0	01.01.2000	00:00	1931	1932	20
+Modena FC	Torino FC	0:0	5:2	01.01.2000	00:00	1931	1932	20
+Juventus	Casale	0:0	3:2	01.01.2000	00:00	1931	1932	20
+Unione Triestina	Aurora Pro Patria	0:0	0:0	01.01.2000	00:00	1931	1932	20
+AS Bari	SSC Napoli	0:0	0:2	01.01.2000	00:00	1931	1932	20
+Inter	Brescia Calcio	0:0	5:0	01.01.2000	00:00	1931	1932	20
+US Alessandria 1912	AC Milan	0:0	2:1	01.01.2000	00:00	1931	1932	20
+Lazio Roma	Bologna FC	0:0	2:1	01.01.2000	00:00	1931	1932	20
+SSC Napoli	Inter	0:0	1:0	01.01.2000	00:00	1931	1932	21
+AS Roma	US Alessandria 1912	0:0	1:2	01.01.2000	00:00	1931	1932	21
+Torino FC	Pro Vercelli	0:0	4:0	01.01.2000	00:00	1931	1932	21
+Aurora Pro Patria	Lazio Roma	0:0	1:1	01.01.2000	00:00	1931	1932	21
+AC Milan	Juventus	0:0	0:0	01.01.2000	00:00	1931	1932	21
+Genova 1893 Circolo del Calcio	Unione Triestina	0:0	2:0	01.01.2000	00:00	1931	1932	21
+Casale	AS Bari	0:0	6:2	01.01.2000	00:00	1931	1932	21
+Bologna FC	ACF Fiorentina	0:0	2:1	01.01.2000	00:00	1931	1932	21
+Brescia Calcio	Modena FC	0:0	2:1	01.01.2000	00:00	1931	1932	21
+Juventus	AS Roma	0:0	7:1	01.01.2000	00:00	1931	1932	22
+Modena FC	Genova 1893 Circolo del Calcio	0:0	0:0	01.01.2000	00:00	1931	1932	22
+Inter	AC Milan	0:0	0:0	01.01.2000	00:00	1931	1932	22
+Lazio Roma	Casale	0:0	1:3	01.01.2000	00:00	1931	1932	22
+Aurora Pro Patria	Pro Vercelli	0:0	2:1	01.01.2000	00:00	1931	1932	22
+Bologna FC	Torino FC	0:0	4:2	01.01.2000	00:00	1931	1932	22
+US Alessandria 1912	SSC Napoli	0:0	3:1	01.01.2000	00:00	1931	1932	22
+Brescia Calcio	AS Bari	0:0	0:0	01.01.2000	00:00	1931	1932	22
+ACF Fiorentina	Unione Triestina	0:0	1:0	01.01.2000	00:00	1931	1932	22
+AC Milan	Bologna FC	0:0	1:0	01.01.2000	00:00	1931	1932	23
+Torino FC	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1931	1932	23
+AS Roma	Aurora Pro Patria	0:0	0:0	01.01.2000	00:00	1931	1932	23
+SSC Napoli	Lazio Roma	0:0	0:0	01.01.2000	00:00	1931	1932	23
+Unione Triestina	Modena FC	0:0	5:2	01.01.2000	00:00	1931	1932	23
+Genova 1893 Circolo del Calcio	Juventus	0:0	2:0	01.01.2000	00:00	1931	1932	23
+Brescia Calcio	Casale	0:0	1:0	01.01.2000	00:00	1931	1932	23
+AS Bari	US Alessandria 1912	0:0	1:0	01.01.2000	00:00	1931	1932	23
+Pro Vercelli	Inter	0:0	2:0	01.01.2000	00:00	1931	1932	23
+SSC Napoli	AC Milan	0:0	3:1	01.01.2000	00:00	1931	1932	24
+Torino FC	Brescia Calcio	0:0	4:0	01.01.2000	00:00	1931	1932	24
+Pro Vercelli	Unione Triestina	0:0	1:1	01.01.2000	00:00	1931	1932	24
+Aurora Pro Patria	AS Bari	0:0	2:2	01.01.2000	00:00	1931	1932	24
+Lazio Roma	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1931	1932	24
+Casale	Genova 1893 Circolo del Calcio	0:0	2:0	01.01.2000	00:00	1931	1932	24
+Bologna FC	AS Roma	0:0	3:0	01.01.2000	00:00	1931	1932	24
+US Alessandria 1912	Juventus	0:0	2:3	01.01.2000	00:00	1931	1932	24
+Inter	Modena FC	0:0	4:2	01.01.2000	00:00	1931	1932	24
+Aurora Pro Patria	Torino FC	0:0	2:1	01.01.2000	00:00	1931	1932	25
+Juventus	AS Bari	0:0	7:3	01.01.2000	00:00	1931	1932	25
+Unione Triestina	Lazio Roma	0:0	3:2	01.01.2000	00:00	1931	1932	25
+AS Roma	Casale	0:0	4:0	01.01.2000	00:00	1931	1932	25
+US Alessandria 1912	Inter	0:0	2:1	01.01.2000	00:00	1931	1932	25
+Modena FC	Pro Vercelli	0:0	2:0	01.01.2000	00:00	1931	1932	25
+Genova 1893 Circolo del Calcio	Bologna FC	0:0	3:2	01.01.2000	00:00	1931	1932	25
+ACF Fiorentina	SSC Napoli	0:0	2:0	01.01.2000	00:00	1931	1932	25
+AC Milan	Brescia Calcio	0:0	2:2	01.01.2000	00:00	1931	1932	25
+Pro Vercelli	US Alessandria 1912	0:0	1:1	01.01.2000	00:00	1931	1932	26
+AS Roma	ACF Fiorentina	0:0	1:1	01.01.2000	00:00	1931	1932	26
+Modena FC	AC Milan	0:0	2:1	01.01.2000	00:00	1931	1932	26
+Juventus	Unione Triestina	0:0	4:2	01.01.2000	00:00	1931	1932	26
+Casale	SSC Napoli	0:0	1:0	01.01.2000	00:00	1931	1932	26
+Brescia Calcio	Aurora Pro Patria	0:0	0:0	01.01.2000	00:00	1931	1932	26
+AS Bari	Torino FC	0:0	3:2	01.01.2000	00:00	1931	1932	26
+Inter	Bologna FC	0:0	4:3	01.01.2000	00:00	1931	1932	26
+Genova 1893 Circolo del Calcio	Lazio Roma	0:0	1:0	01.01.2000	00:00	1931	1932	26
+Lazio Roma	US Alessandria 1912	0:0	2:2	01.01.2000	00:00	1931	1932	27
+Unione Triestina	Brescia Calcio	0:0	1:1	01.01.2000	00:00	1931	1932	27
+Torino FC	Genova 1893 Circolo del Calcio	0:0	3:1	01.01.2000	00:00	1931	1932	27
+Pro Vercelli	Juventus	0:0	1:2	01.01.2000	00:00	1931	1932	27
+Bologna FC	Modena FC	0:0	4:0	01.01.2000	00:00	1931	1932	27
+AC Milan	AS Bari	0:0	2:1	01.01.2000	00:00	1931	1932	27
+ACF Fiorentina	Inter	0:0	3:0	01.01.2000	00:00	1931	1932	27
+Casale	Aurora Pro Patria	0:0	1:2	01.01.2000	00:00	1931	1932	27
+SSC Napoli	AS Roma	0:0	1:0	01.01.2000	00:00	1931	1932	27
+Modena FC	AS Bari	0:0	0:0	01.01.2000	00:00	1931	1932	28
+SSC Napoli	Torino FC	0:0	0:0	01.01.2000	00:00	1931	1932	28
+Juventus	Bologna FC	0:0	3:2	01.01.2000	00:00	1931	1932	28
+Lazio Roma	AS Roma	0:0	1:4	01.01.2000	00:00	1931	1932	28
+Brescia Calcio	Pro Vercelli	0:0	2:0	01.01.2000	00:00	1931	1932	28
+Inter	Unione Triestina	0:0	4:3	01.01.2000	00:00	1931	1932	28
+US Alessandria 1912	Casale	0:0	1:4	01.01.2000	00:00	1931	1932	28
+Genova 1893 Circolo del Calcio	AC Milan	0:0	1:2	01.01.2000	00:00	1931	1932	28
+Aurora Pro Patria	ACF Fiorentina	0:0	0:3	01.01.2000	00:00	1931	1932	28
+AS Roma	Inter	0:0	2:1	01.01.2000	00:00	1931	1932	29
+Unione Triestina	US Alessandria 1912	0:0	1:4	01.01.2000	00:00	1931	1932	29
+Modena FC	SSC Napoli	0:0	2:2	01.01.2000	00:00	1931	1932	29
+AC Milan	Pro Vercelli	0:0	3:0	01.01.2000	00:00	1931	1932	29
+ACF Fiorentina	Casale	0:0	4:1	01.01.2000	00:00	1931	1932	29
+Brescia Calcio	Genova 1893 Circolo del Calcio	0:0	4:2	01.01.2000	00:00	1931	1932	29
+AS Bari	Lazio Roma	0:0	1:0	01.01.2000	00:00	1931	1932	29
+Bologna FC	Aurora Pro Patria	0:0	4:0	01.01.2000	00:00	1931	1932	29
+Juventus	Torino FC	0:0	3:0	01.01.2000	00:00	1931	1932	29
+Casale	Modena FC	0:0	4:0	01.01.2000	00:00	1931	1932	30
+Torino FC	AS Roma	0:0	2:1	01.01.2000	00:00	1931	1932	30
+Pro Vercelli	ACF Fiorentina	0:0	1:0	01.01.2000	00:00	1931	1932	30
+AC Milan	Unione Triestina	0:0	1:1	01.01.2000	00:00	1931	1932	30
+US Alessandria 1912	Aurora Pro Patria	0:0	6:1	01.01.2000	00:00	1931	1932	30
+Genova 1893 Circolo del Calcio	SSC Napoli	0:0	1:0	01.01.2000	00:00	1931	1932	30
+Bologna FC	Brescia Calcio	0:0	6:1	01.01.2000	00:00	1931	1932	30
+AS Bari	Inter	0:0	0:0	01.01.2000	00:00	1931	1932	30
+Lazio Roma	Juventus	0:0	0:3	01.01.2000	00:00	1931	1932	30
+SSC Napoli	Pro Vercelli	0:0	2:1	01.01.2000	00:00	1931	1932	31
+Aurora Pro Patria	AC Milan	0:0	2:0	01.01.2000	00:00	1931	1932	31
+AS Roma	AS Bari	0:0	0:0	01.01.2000	00:00	1931	1932	31
+Unione Triestina	Bologna FC	0:0	1:1	01.01.2000	00:00	1931	1932	31
+ACF Fiorentina	US Alessandria 1912	0:0	0:1	01.01.2000	00:00	1931	1932	31
+Brescia Calcio	Lazio Roma	0:0	1:0	01.01.2000	00:00	1931	1932	31
+Inter	Genova 1893 Circolo del Calcio	0:0	3:1	01.01.2000	00:00	1931	1932	31
+Torino FC	Casale	0:0	3:1	01.01.2000	00:00	1931	1932	31
+Modena FC	Juventus	0:0	0:1	01.01.2000	00:00	1931	1932	31
+Genova 1893 Circolo del Calcio	AS Roma	0:0	1:1	01.01.2000	00:00	1931	1932	32
+Pro Vercelli	AS Bari	0:0	2:0	01.01.2000	00:00	1931	1932	32
+SSC Napoli	Aurora Pro Patria	0:0	1:1	01.01.2000	00:00	1931	1932	32
+AC Milan	Torino FC	0:0	6:1	01.01.2000	00:00	1931	1932	32
+Juventus	Brescia Calcio	0:0	3:0	01.01.2000	00:00	1931	1932	32
+ACF Fiorentina	Modena FC	0:0	5:0	01.01.2000	00:00	1931	1932	32
+Casale	Unione Triestina	0:0	0:1	01.01.2000	00:00	1931	1932	32
+US Alessandria 1912	Bologna FC	0:0	3:3	01.01.2000	00:00	1931	1932	32
+Lazio Roma	Inter	0:0	2:2	01.01.2000	00:00	1931	1932	32
+Aurora Pro Patria	Genova 1893 Circolo del Calcio	0:0	2:0	01.01.2000	00:00	1931	1932	33
+AS Bari	ACF Fiorentina	0:0	3:0	01.01.2000	00:00	1931	1932	33
+AS Roma	AC Milan	0:0	1:0	01.01.2000	00:00	1931	1932	33
+Pro Vercelli	Lazio Roma	0:0	2:2	01.01.2000	00:00	1931	1932	33
+Torino FC	Unione Triestina	0:0	1:1	01.01.2000	00:00	1931	1932	33
+Modena FC	US Alessandria 1912	0:0	2:1	01.01.2000	00:00	1931	1932	33
+Bologna FC	Casale	0:0	4:2	01.01.2000	00:00	1931	1932	33
+Inter	Juventus	0:0	2:4	01.01.2000	00:00	1931	1932	33
+Brescia Calcio	SSC Napoli	0:0	1:0	01.01.2000	00:00	1931	1932	33
+Unione Triestina	AS Bari	0:0	2:0	01.01.2000	00:00	1931	1932	34
+US Alessandria 1912	Torino FC	0:0	1:1	01.01.2000	00:00	1931	1932	34
+Bologna FC	SSC Napoli	0:0	2:0	01.01.2000	00:00	1931	1932	34
+Brescia Calcio	AS Roma	0:0	1:1	01.01.2000	00:00	1931	1932	34
+Genova 1893 Circolo del Calcio	Pro Vercelli	0:0	2:1	01.01.2000	00:00	1931	1932	34
+Juventus	ACF Fiorentina	0:0	2:2	01.01.2000	00:00	1931	1932	34
+Lazio Roma	Modena FC	0:0	9:1	01.01.2000	00:00	1931	1932	34
+AC Milan	Casale	0:0	4:2	01.01.2000	00:00	1931	1932	34
+Aurora Pro Patria	Inter	0:0	1:1	01.01.2000	00:00	1931	1932	34

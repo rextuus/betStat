@@ -1,0 +1,306 @@
+Arminia Bielefeld	Rot-WeiÃ Oberhausen	0:1	1:3	03.08.2003	15:00	2003	2004	1
+SpVgg Greuther FÃ¼rth	SpVgg Unterhaching	1:2	2:4	03.08.2003	15:00	2003	2004	1
+Erzgebirge Aue	Jahn Regensburg	0:1	0:1	03.08.2003	15:00	2003	2004	1
+Energie Cottbus	Eintracht Trier	2:1	2:3	03.08.2003	15:00	2003	2004	1
+1. FSV Mainz 05	1. FC Union Berlin	1:1	2:1	03.08.2003	15:00	2003	2004	1
+Wacker Burghausen	Alemannia Aachen	1:1	1:1	03.08.2003	15:00	2003	2004	1
+LR Ahlen	VfL OsnabrÃ¼ck	0:1	0:1	03.08.2003	15:00	2003	2004	1
+MSV Duisburg	VfB LÃ¼beck	0:0	2:1	03.08.2003	15:00	2003	2004	1
+Karlsruher SC	1. FC NÃ¼rnberg	0:0	2:3	04.08.2003	20:15	2003	2004	1
+Eintracht Trier	Erzgebirge Aue	2:0	2:1	08.08.2003	19:00	2003	2004	2
+Jahn Regensburg	SpVgg Greuther FÃ¼rth	0:0	0:0	08.08.2003	19:00	2003	2004	2
+VfB LÃ¼beck	Arminia Bielefeld	0:0	0:0	08.08.2003	19:00	2003	2004	2
+VfL OsnabrÃ¼ck	Karlsruher SC	0:1	1:2	10.08.2003	15:00	2003	2004	2
+1. FC NÃ¼rnberg	Wacker Burghausen	1:0	2:0	10.08.2003	15:00	2003	2004	2
+1. FC Union Berlin	Energie Cottbus	0:1	0:1	10.08.2003	15:00	2003	2004	2
+SpVgg Unterhaching	MSV Duisburg	0:0	1:0	10.08.2003	15:00	2003	2004	2
+Rot-WeiÃ Oberhausen	LR Ahlen	1:0	1:3	10.08.2003	15:00	2003	2004	2
+Alemannia Aachen	1. FSV Mainz 05	1:1	2:2	11.08.2003	20:15	2003	2004	2
+Erzgebirge Aue	1. FC Union Berlin	2:1	2:1	15.08.2003	19:00	2003	2004	3
+Karlsruher SC	Rot-WeiÃ Oberhausen	0:2	1:2	15.08.2003	19:00	2003	2004	3
+VfB LÃ¼beck	SpVgg Unterhaching	0:0	0:2	15.08.2003	19:00	2003	2004	3
+Arminia Bielefeld	LR Ahlen	2:0	3:0	17.08.2003	15:00	2003	2004	3
+SpVgg Greuther FÃ¼rth	Eintracht Trier	2:1	4:2	17.08.2003	15:00	2003	2004	3
+Energie Cottbus	Alemannia Aachen	1:0	3:1	17.08.2003	15:00	2003	2004	3
+Wacker Burghausen	VfL OsnabrÃ¼ck	2:0	4:1	17.08.2003	15:00	2003	2004	3
+MSV Duisburg	Jahn Regensburg	1:1	2:2	17.08.2003	15:00	2003	2004	3
+1. FSV Mainz 05	1. FC NÃ¼rnberg	1:0	2:1	18.08.2003	20:15	2003	2004	3
+Eintracht Trier	MSV Duisburg	1:1	1:1	22.08.2003	19:00	2003	2004	4
+Jahn Regensburg	VfB LÃ¼beck	0:2	0:4	22.08.2003	19:00	2003	2004	4
+LR Ahlen	Karlsruher SC	1:1	1:2	22.08.2003	19:00	2003	2004	4
+VfL OsnabrÃ¼ck	1. FSV Mainz 05	2:1	2:2	24.08.2003	15:00	2003	2004	4
+Alemannia Aachen	Erzgebirge Aue	1:0	1:0	24.08.2003	15:00	2003	2004	4
+1. FC Union Berlin	SpVgg Greuther FÃ¼rth	1:0	3:0	24.08.2003	15:00	2003	2004	4
+SpVgg Unterhaching	Arminia Bielefeld	1:0	1:0	24.08.2003	15:00	2003	2004	4
+Rot-WeiÃ Oberhausen	Wacker Burghausen	0:0	1:2	24.08.2003	15:00	2003	2004	4
+1. FC NÃ¼rnberg	Energie Cottbus	1:2	2:2	25.08.2003	20:15	2003	2004	4
+1. FSV Mainz 05	Rot-WeiÃ Oberhausen	1:0	2:0	12.09.2003	19:00	2003	2004	5
+Wacker Burghausen	LR Ahlen	0:0	0:1	12.09.2003	19:00	2003	2004	5
+MSV Duisburg	1. FC Union Berlin	1:0	1:0	12.09.2003	19:00	2003	2004	5
+SpVgg Greuther FÃ¼rth	Alemannia Aachen	4:1	7:1	14.09.2003	15:00	2003	2004	5
+Erzgebirge Aue	1. FC NÃ¼rnberg	1:2	3:3	14.09.2003	15:00	2003	2004	5
+Energie Cottbus	VfL OsnabrÃ¼ck	2:0	3:0	14.09.2003	15:00	2003	2004	5
+SpVgg Unterhaching	Jahn Regensburg	1:2	2:2	14.09.2003	15:00	2003	2004	5
+VfB LÃ¼beck	Eintracht Trier	0:1	2:2	14.09.2003	15:00	2003	2004	5
+Arminia Bielefeld	Karlsruher SC	2:0	3:1	15.09.2003	20:15	2003	2004	5
+Alemannia Aachen	MSV Duisburg	2:0	2:1	19.09.2003	19:00	2003	2004	6
+1. FC Union Berlin	VfB LÃ¼beck	0:0	1:2	19.09.2003	19:00	2003	2004	6
+Jahn Regensburg	Arminia Bielefeld	1:2	1:2	19.09.2003	19:00	2003	2004	6
+VfL OsnabrÃ¼ck	Erzgebirge Aue	0:0	0:1	21.09.2003	15:00	2003	2004	6
+Eintracht Trier	SpVgg Unterhaching	1:0	2:1	21.09.2003	15:00	2003	2004	6
+Karlsruher SC	Wacker Burghausen	0:0	0:0	21.09.2003	15:00	2003	2004	6
+LR Ahlen	1. FSV Mainz 05	0:1	1:3	21.09.2003	15:00	2003	2004	6
+Rot-WeiÃ Oberhausen	Energie Cottbus	0:0	0:0	21.09.2003	15:00	2003	2004	6
+1. FC NÃ¼rnberg	SpVgg Greuther FÃ¼rth	1:0	1:1	22.09.2003	20:15	2003	2004	6
+Energie Cottbus	LR Ahlen	2:0	3:2	26.09.2003	19:00	2003	2004	7
+SpVgg Unterhaching	1. FC Union Berlin	1:0	1:1	26.09.2003	19:00	2003	2004	7
+VfB LÃ¼beck	Alemannia Aachen	1:3	3:5	26.09.2003	19:00	2003	2004	7
+Arminia Bielefeld	Wacker Burghausen	1:1	3:1	28.09.2003	15:00	2003	2004	7
+SpVgg Greuther FÃ¼rth	VfL OsnabrÃ¼ck	0:0	1:1	28.09.2003	15:00	2003	2004	7
+Erzgebirge Aue	Rot-WeiÃ Oberhausen	1:1	1:1	28.09.2003	15:00	2003	2004	7
+Jahn Regensburg	Eintracht Trier	1:1	2:1	28.09.2003	15:00	2003	2004	7
+MSV Duisburg	1. FC NÃ¼rnberg	1:0	2:1	28.09.2003	15:00	2003	2004	7
+1. FSV Mainz 05	Karlsruher SC	0:0	1:1	29.09.2003	20:15	2003	2004	7
+VfL OsnabrÃ¼ck	MSV Duisburg	1:1	2:2	03.10.2003	19:00	2003	2004	8
+Eintracht Trier	Arminia Bielefeld	1:2	2:3	03.10.2003	19:00	2003	2004	8
+Karlsruher SC	Energie Cottbus	0:1	3:1	03.10.2003	19:00	2003	2004	8
+1. FC NÃ¼rnberg	VfB LÃ¼beck	1:0	1:2	05.10.2003	15:00	2003	2004	8
+1. FC Union Berlin	Jahn Regensburg	1:0	2:2	05.10.2003	15:00	2003	2004	8
+Wacker Burghausen	1. FSV Mainz 05	1:0	2:0	05.10.2003	15:00	2003	2004	8
+LR Ahlen	Erzgebirge Aue	0:0	1:0	05.10.2003	15:00	2003	2004	8
+Rot-WeiÃ Oberhausen	SpVgg Greuther FÃ¼rth	2:0	3:1	05.10.2003	15:00	2003	2004	8
+Alemannia Aachen	SpVgg Unterhaching	2:1	5:1	06.10.2003	20:15	2003	2004	8
+Eintracht Trier	1. FC Union Berlin	0:1	1:1	17.10.2003	19:00	2003	2004	9
+VfB LÃ¼beck	VfL OsnabrÃ¼ck	1:1	1:1	17.10.2003	19:00	2003	2004	9
+MSV Duisburg	Rot-WeiÃ Oberhausen	0:1	1:1	17.10.2003	19:00	2003	2004	9
+Arminia Bielefeld	1. FSV Mainz 05	1:0	1:0	19.10.2003	15:00	2003	2004	9
+SpVgg Greuther FÃ¼rth	LR Ahlen	2:0	2:0	19.10.2003	15:00	2003	2004	9
+Erzgebirge Aue	Karlsruher SC	1:0	2:0	19.10.2003	15:00	2003	2004	9
+Energie Cottbus	Wacker Burghausen	0:1	2:1	19.10.2003	15:00	2003	2004	9
+Jahn Regensburg	Alemannia Aachen	1:1	1:2	19.10.2003	15:00	2003	2004	9
+SpVgg Unterhaching	1. FC NÃ¼rnberg	0:0	1:1	20.10.2003	20:15	2003	2004	9
+1. FC NÃ¼rnberg	Jahn Regensburg	2:0	3:2	24.10.2003	19:00	2003	2004	10
+Wacker Burghausen	Erzgebirge Aue	0:0	2:0	24.10.2003	19:00	2003	2004	10
+Rot-WeiÃ Oberhausen	VfB LÃ¼beck	2:2	3:3	24.10.2003	19:00	2003	2004	10
+VfL OsnabrÃ¼ck	SpVgg Unterhaching	1:1	2:1	26.10.2003	15:00	2003	2004	10
+Alemannia Aachen	Eintracht Trier	1:0	2:0	26.10.2003	15:00	2003	2004	10
+1. FC Union Berlin	Arminia Bielefeld	1:0	1:0	26.10.2003	15:00	2003	2004	10
+Karlsruher SC	SpVgg Greuther FÃ¼rth	0:0	1:0	26.10.2003	15:00	2003	2004	10
+LR Ahlen	MSV Duisburg	1:0	2:3	26.10.2003	15:00	2003	2004	10
+1. FSV Mainz 05	Energie Cottbus	2:1	4:1	27.10.2003	20:15	2003	2004	10
+Arminia Bielefeld	Energie Cottbus	1:0	1:3	31.10.2003	19:00	2003	2004	11
+Erzgebirge Aue	1. FSV Mainz 05	1:0	1:1	31.10.2003	19:00	2003	2004	11
+VfB LÃ¼beck	LR Ahlen	2:0	4:1	31.10.2003	19:00	2003	2004	11
+SpVgg Greuther FÃ¼rth	Wacker Burghausen	1:1	2:2	02.11.2003	15:00	2003	2004	11
+Eintracht Trier	1. FC NÃ¼rnberg	0:0	0:2	02.11.2003	15:00	2003	2004	11
+Jahn Regensburg	VfL OsnabrÃ¼ck	0:0	1:0	02.11.2003	15:00	2003	2004	11
+SpVgg Unterhaching	Rot-WeiÃ Oberhausen	1:1	1:4	02.11.2003	15:00	2003	2004	11
+MSV Duisburg	Karlsruher SC	0:0	0:2	02.11.2003	15:00	2003	2004	11
+1. FC Union Berlin	Alemannia Aachen	0:1	2:1	03.11.2003	20:15	2003	2004	11
+VfL OsnabrÃ¼ck	Eintracht Trier	1:0	3:0	07.11.2003	19:00	2003	2004	12
+1. FSV Mainz 05	SpVgg Greuther FÃ¼rth	1:1	1:3	07.11.2003	19:00	2003	2004	12
+Rot-WeiÃ Oberhausen	Jahn Regensburg	1:1	2:1	07.11.2003	19:00	2003	2004	12
+1. FC NÃ¼rnberg	1. FC Union Berlin	1:0	3:0	09.11.2003	15:00	2003	2004	12
+Alemannia Aachen	Arminia Bielefeld	1:0	2:0	09.11.2003	15:00	2003	2004	12
+Wacker Burghausen	MSV Duisburg	1:1	1:2	09.11.2003	15:00	2003	2004	12
+Karlsruher SC	VfB LÃ¼beck	1:0	1:0	09.11.2003	15:00	2003	2004	12
+LR Ahlen	SpVgg Unterhaching	0:0	2:2	09.11.2003	15:00	2003	2004	12
+Energie Cottbus	Erzgebirge Aue	0:1	2:1	10.11.2003	20:15	2003	2004	12
+Arminia Bielefeld	Erzgebirge Aue	1:1	1:1	21.11.2003	19:00	2003	2004	13
+1. FC Union Berlin	VfL OsnabrÃ¼ck	1:0	2:0	21.11.2003	19:00	2003	2004	13
+VfB LÃ¼beck	Wacker Burghausen	0:0	2:2	21.11.2003	19:00	2003	2004	13
+MSV Duisburg	1. FSV Mainz 05	0:0	0:1	21.11.2003	19:00	2003	2004	13
+SpVgg Greuther FÃ¼rth	Energie Cottbus	2:1	2:1	23.11.2003	15:00	2003	2004	13
+Eintracht Trier	Rot-WeiÃ Oberhausen	0:2	0:3	23.11.2003	15:00	2003	2004	13
+Jahn Regensburg	LR Ahlen	0:0	3:0	23.11.2003	15:00	2003	2004	13
+SpVgg Unterhaching	Karlsruher SC	2:0	3:0	23.11.2003	15:00	2003	2004	13
+Alemannia Aachen	1. FC NÃ¼rnberg	2:2	3:2	26.01.2004	20:15	2003	2004	13
+VfL OsnabrÃ¼ck	Alemannia Aachen	1:0	3:1	28.11.2003	19:00	2003	2004	14
+Energie Cottbus	MSV Duisburg	0:0	1:1	28.11.2003	19:00	2003	2004	14
+Karlsruher SC	Jahn Regensburg	0:1	0:3	28.11.2003	19:00	2003	2004	14
+Erzgebirge Aue	SpVgg Greuther FÃ¼rth	1:1	1:1	30.11.2003	15:00	2003	2004	14
+1. FSV Mainz 05	VfB LÃ¼beck	1:1	3:1	30.11.2003	15:00	2003	2004	14
+Wacker Burghausen	SpVgg Unterhaching	0:2	0:2	30.11.2003	15:00	2003	2004	14
+LR Ahlen	Eintracht Trier	0:0	2:0	30.11.2003	15:00	2003	2004	14
+Rot-WeiÃ Oberhausen	1. FC Union Berlin	0:0	0:0	30.11.2003	15:00	2003	2004	14
+1. FC NÃ¼rnberg	Arminia Bielefeld	1:0	1:0	01.12.2003	20:15	2003	2004	14
+Eintracht Trier	Karlsruher SC	0:0	1:1	05.12.2003	19:00	2003	2004	15
+Jahn Regensburg	Wacker Burghausen	0:1	0:2	05.12.2003	19:00	2003	2004	15
+MSV Duisburg	Erzgebirge Aue	2:1	2:2	05.12.2003	19:00	2003	2004	15
+Arminia Bielefeld	SpVgg Greuther FÃ¼rth	1:0	1:1	07.12.2003	15:00	2003	2004	15
+1. FC NÃ¼rnberg	VfL OsnabrÃ¼ck	1:0	2:0	07.12.2003	15:00	2003	2004	15
+Alemannia Aachen	Rot-WeiÃ Oberhausen	0:0	1:0	07.12.2003	15:00	2003	2004	15
+1. FC Union Berlin	LR Ahlen	0:0	0:2	07.12.2003	15:00	2003	2004	15
+VfB LÃ¼beck	Energie Cottbus	0:0	1:1	07.12.2003	15:00	2003	2004	15
+SpVgg Unterhaching	1. FSV Mainz 05	0:1	1:1	08.12.2003	20:15	2003	2004	15
+Arminia Bielefeld	VfL OsnabrÃ¼ck	3:0	5:0	12.12.2003	19:00	2003	2004	16
+SpVgg Greuther FÃ¼rth	MSV Duisburg	2:2	3:3	12.12.2003	19:00	2003	2004	16
+LR Ahlen	Alemannia Aachen	0:0	0:0	12.12.2003	19:00	2003	2004	16
+Rot-WeiÃ Oberhausen	1. FC NÃ¼rnberg	1:1	3:1	12.12.2003	19:00	2003	2004	16
+Erzgebirge Aue	VfB LÃ¼beck	0:0	0:0	14.12.2003	15:00	2003	2004	16
+Energie Cottbus	SpVgg Unterhaching	1:1	3:1	14.12.2003	15:00	2003	2004	16
+1. FSV Mainz 05	Jahn Regensburg	0:0	1:1	14.12.2003	15:00	2003	2004	16
+Wacker Burghausen	Eintracht Trier	1:0	1:1	14.12.2003	15:00	2003	2004	16
+Karlsruher SC	1. FC Union Berlin	2:1	2:1	14.12.2003	15:00	2003	2004	16
+MSV Duisburg	Arminia Bielefeld	0:0	0:2	16.12.2003	18:00	2003	2004	17
+VfL OsnabrÃ¼ck	Rot-WeiÃ Oberhausen	0:1	0:2	16.12.2003	19:00	2003	2004	17
+1. FC NÃ¼rnberg	LR Ahlen	1:0	2:0	16.12.2003	19:00	2003	2004	17
+Eintracht Trier	1. FSV Mainz 05	1:0	1:0	17.12.2003	18:00	2003	2004	17
+VfB LÃ¼beck	SpVgg Greuther FÃ¼rth	0:0	1:0	17.12.2003	18:00	2003	2004	17
+Alemannia Aachen	Karlsruher SC	0:0	0:0	17.12.2003	19:00	2003	2004	17
+1. FC Union Berlin	Wacker Burghausen	1:1	1:2	17.12.2003	19:00	2003	2004	17
+SpVgg Unterhaching	Erzgebirge Aue	1:1	1:2	17.12.2003	19:00	2003	2004	17
+Jahn Regensburg	Energie Cottbus	0:0	0:0	18.12.2003	20:15	2003	2004	17
+SpVgg Unterhaching	SpVgg Greuther FÃ¼rth	1:1	3:1	31.01.2004	13:30	2003	2004	18
+Alemannia Aachen	Wacker Burghausen	0:1	0:1	31.01.2004	13:30	2003	2004	18
+Jahn Regensburg	Erzgebirge Aue	1:0	1:1	01.02.2004	15:00	2003	2004	18
+Eintracht Trier	Energie Cottbus	1:0	2:0	01.02.2004	15:00	2003	2004	18
+1. FC Union Berlin	1. FSV Mainz 05	1:0	1:1	01.02.2004	15:00	2003	2004	18
+1. FC NÃ¼rnberg	Karlsruher SC	2:0	2:0	01.02.2004	15:00	2003	2004	18
+VfL OsnabrÃ¼ck	LR Ahlen	1:1	1:2	01.02.2004	15:00	2003	2004	18
+Rot-WeiÃ Oberhausen	Arminia Bielefeld	0:1	3:2	02.02.2004	20:15	2003	2004	18
+VfB LÃ¼beck	MSV Duisburg	1:1	1:1	11.02.2004	19:00	2003	2004	18
+Karlsruher SC	VfL OsnabrÃ¼ck	3:0	3:0	06.02.2004	19:00	2003	2004	19
+Wacker Burghausen	1. FC NÃ¼rnberg	0:0	0:0	06.02.2004	19:00	2003	2004	19
+LR Ahlen	Rot-WeiÃ Oberhausen	0:2	0:2	06.02.2004	19:00	2003	2004	19
+1. FSV Mainz 05	Alemannia Aachen	0:2	3:2	08.02.2004	15:00	2003	2004	19
+Erzgebirge Aue	Eintracht Trier	1:1	2:1	08.02.2004	15:00	2003	2004	19
+SpVgg Greuther FÃ¼rth	Jahn Regensburg	1:2	2:2	08.02.2004	15:00	2003	2004	19
+MSV Duisburg	SpVgg Unterhaching	0:1	0:1	08.02.2004	15:00	2003	2004	19
+Arminia Bielefeld	VfB LÃ¼beck	0:1	1:3	08.02.2004	15:00	2003	2004	19
+Energie Cottbus	1. FC Union Berlin	1:0	2:1	09.02.2004	20:15	2003	2004	19
+Eintracht Trier	SpVgg Greuther FÃ¼rth	0:0	2:0	13.02.2004	19:00	2003	2004	20
+VfL OsnabrÃ¼ck	Wacker Burghausen	1:0	3:0	13.02.2004	19:00	2003	2004	20
+Rot-WeiÃ Oberhausen	Karlsruher SC	0:0	1:0	13.02.2004	19:00	2003	2004	20
+LR Ahlen	Arminia Bielefeld	0:0	0:0	15.02.2004	15:00	2003	2004	20
+1. FC Union Berlin	Erzgebirge Aue	1:0	3:0	15.02.2004	15:00	2003	2004	20
+Alemannia Aachen	Energie Cottbus	0:1	0:2	15.02.2004	15:00	2003	2004	20
+SpVgg Unterhaching	VfB LÃ¼beck	0:1	0:1	15.02.2004	15:00	2003	2004	20
+Jahn Regensburg	MSV Duisburg	0:1	0:5	15.02.2004	15:00	2003	2004	20
+1. FC NÃ¼rnberg	1. FSV Mainz 05	1:1	2:2	16.02.2004	20:15	2003	2004	20
+1. FSV Mainz 05	VfL OsnabrÃ¼ck	0:0	0:0	20.02.2004	19:00	2003	2004	21
+Energie Cottbus	1. FC NÃ¼rnberg	1:2	1:3	20.02.2004	19:00	2003	2004	21
+MSV Duisburg	Eintracht Trier	1:0	2:0	20.02.2004	19:00	2003	2004	21
+Erzgebirge Aue	Alemannia Aachen	0:1	0:1	22.02.2004	15:00	2003	2004	21
+SpVgg Greuther FÃ¼rth	1. FC Union Berlin	1:1	2:2	22.02.2004	15:00	2003	2004	21
+VfB LÃ¼beck	Jahn Regensburg	0:2	0:3	22.02.2004	15:00	2003	2004	21
+Karlsruher SC	LR Ahlen	0:0	1:0	22.02.2004	15:00	2003	2004	21
+Wacker Burghausen	Rot-WeiÃ Oberhausen	2:0	5:0	22.02.2004	15:00	2003	2004	21
+Arminia Bielefeld	SpVgg Unterhaching	1:0	1:0	23.02.2004	20:15	2003	2004	21
+Karlsruher SC	Arminia Bielefeld	0:1	2:2	27.02.2004	19:00	2003	2004	22
+Alemannia Aachen	SpVgg Greuther FÃ¼rth	0:0	0:0	27.02.2004	19:00	2003	2004	22
+1. FC NÃ¼rnberg	Erzgebirge Aue	2:0	2:0	27.02.2004	19:00	2003	2004	22
+VfL OsnabrÃ¼ck	Energie Cottbus	0:0	0:1	29.02.2004	15:00	2003	2004	22
+Jahn Regensburg	SpVgg Unterhaching	1:0	1:0	29.02.2004	15:00	2003	2004	22
+1. FC Union Berlin	MSV Duisburg	0:1	2:1	29.02.2004	15:00	2003	2004	22
+Eintracht Trier	VfB LÃ¼beck	2:1	4:2	01.03.2004	20:15	2003	2004	22
+Rot-WeiÃ Oberhausen	1. FSV Mainz 05	0:0	0:0	10.03.2004	18:15	2003	2004	22
+LR Ahlen	Wacker Burghausen	3:1	3:1	17.03.2004	18:00	2003	2004	22
+VfB LÃ¼beck	1. FC Union Berlin	0:1	0:2	05.03.2004	19:00	2003	2004	23
+SpVgg Unterhaching	Eintracht Trier	0:0	0:0	05.03.2004	19:00	2003	2004	23
+Wacker Burghausen	Karlsruher SC	0:0	0:0	05.03.2004	19:00	2003	2004	23
+Erzgebirge Aue	VfL OsnabrÃ¼ck	0:0	1:0	07.03.2004	15:00	2003	2004	23
+SpVgg Greuther FÃ¼rth	1. FC NÃ¼rnberg	2:1	2:2	07.03.2004	15:00	2003	2004	23
+Arminia Bielefeld	Jahn Regensburg	0:0	0:0	07.03.2004	15:00	2003	2004	23
+1. FSV Mainz 05	LR Ahlen	0:0	0:0	07.03.2004	15:00	2003	2004	23
+Energie Cottbus	Rot-WeiÃ Oberhausen	1:0	3:1	07.03.2004	15:00	2003	2004	23
+MSV Duisburg	Alemannia Aachen	0:1	2:1	08.03.2004	20:15	2003	2004	23
+LR Ahlen	Energie Cottbus	0:0	0:0	12.03.2004	19:00	2003	2004	24
+Eintracht Trier	Jahn Regensburg	1:0	4:0	12.03.2004	19:00	2003	2004	24
+Alemannia Aachen	VfB LÃ¼beck	1:1	3:1	12.03.2004	19:00	2003	2004	24
+Wacker Burghausen	Arminia Bielefeld	0:1	0:1	14.03.2004	15:00	2003	2004	24
+VfL OsnabrÃ¼ck	SpVgg Greuther FÃ¼rth	0:1	0:1	14.03.2004	15:00	2003	2004	24
+Rot-WeiÃ Oberhausen	Erzgebirge Aue	1:1	1:4	14.03.2004	15:00	2003	2004	24
+1. FC Union Berlin	SpVgg Unterhaching	0:0	0:0	14.03.2004	15:00	2003	2004	24
+1. FC NÃ¼rnberg	MSV Duisburg	1:0	2:0	14.03.2004	15:00	2003	2004	24
+Karlsruher SC	1. FSV Mainz 05	0:0	1:1	15.03.2004	20:15	2003	2004	24
+MSV Duisburg	VfL OsnabrÃ¼ck	2:1	3:1	19.03.2004	19:00	2003	2004	25
+Energie Cottbus	Karlsruher SC	0:0	2:1	19.03.2004	19:00	2003	2004	25
+SpVgg Greuther FÃ¼rth	Rot-WeiÃ Oberhausen	0:1	0:1	19.03.2004	19:00	2003	2004	25
+SpVgg Unterhaching	Alemannia Aachen	0:1	1:1	21.03.2004	15:00	2003	2004	25
+Jahn Regensburg	1. FC Union Berlin	3:0	3:1	21.03.2004	15:00	2003	2004	25
+Arminia Bielefeld	Eintracht Trier	2:1	3:1	21.03.2004	15:00	2003	2004	25
+1. FSV Mainz 05	Wacker Burghausen	0:0	1:0	21.03.2004	15:00	2003	2004	25
+Erzgebirge Aue	LR Ahlen	1:0	2:0	21.03.2004	15:00	2003	2004	25
+VfB LÃ¼beck	1. FC NÃ¼rnberg	1:0	2:1	22.03.2004	20:15	2003	2004	25
+Wacker Burghausen	Energie Cottbus	1:0	1:1	26.03.2004	19:00	2003	2004	26
+VfL OsnabrÃ¼ck	VfB LÃ¼beck	2:1	3:1	26.03.2004	19:00	2003	2004	26
+Rot-WeiÃ Oberhausen	MSV Duisburg	0:1	0:3	26.03.2004	19:00	2003	2004	26
+LR Ahlen	SpVgg Greuther FÃ¼rth	1:0	3:2	28.03.2004	15:00	2003	2004	26
+Karlsruher SC	Erzgebirge Aue	1:4	3:5	28.03.2004	15:00	2003	2004	26
+1. FC Union Berlin	Eintracht Trier	1:0	1:3	28.03.2004	15:00	2003	2004	26
+Alemannia Aachen	Jahn Regensburg	0:0	1:0	28.03.2004	15:00	2003	2004	26
+1. FC NÃ¼rnberg	SpVgg Unterhaching	2:0	3:0	28.03.2004	15:00	2003	2004	26
+1. FSV Mainz 05	Arminia Bielefeld	0:1	0:2	29.03.2004	20:15	2003	2004	26
+Jahn Regensburg	1. FC NÃ¼rnberg	1:0	2:1	02.04.2004	19:00	2003	2004	27
+Eintracht Trier	Alemannia Aachen	1:2	3:3	02.04.2004	19:00	2003	2004	27
+VfB LÃ¼beck	Rot-WeiÃ Oberhausen	0:0	1:0	02.04.2004	19:00	2003	2004	27
+SpVgg Unterhaching	VfL OsnabrÃ¼ck	1:1	2:1	04.04.2004	15:00	2003	2004	27
+Arminia Bielefeld	1. FC Union Berlin	1:1	2:1	04.04.2004	15:00	2003	2004	27
+Erzgebirge Aue	Wacker Burghausen	1:0	3:0	04.04.2004	15:00	2003	2004	27
+SpVgg Greuther FÃ¼rth	Karlsruher SC	0:1	2:1	04.04.2004	15:00	2003	2004	27
+MSV Duisburg	LR Ahlen	1:0	1:2	04.04.2004	15:00	2003	2004	27
+Energie Cottbus	1. FSV Mainz 05	0:0	0:0	05.04.2004	20:15	2003	2004	27
+Energie Cottbus	Arminia Bielefeld	0:0	1:2	08.04.2004	19:00	2003	2004	28
+Alemannia Aachen	1. FC Union Berlin	2:2	4:2	08.04.2004	19:00	2003	2004	28
+Rot-WeiÃ Oberhausen	SpVgg Unterhaching	1:0	3:1	08.04.2004	19:00	2003	2004	28
+Wacker Burghausen	SpVgg Greuther FÃ¼rth	0:1	0:2	11.04.2004	15:00	2003	2004	28
+1. FSV Mainz 05	Erzgebirge Aue	0:0	1:1	11.04.2004	15:00	2003	2004	28
+VfL OsnabrÃ¼ck	Jahn Regensburg	1:0	3:0	11.04.2004	15:00	2003	2004	28
+LR Ahlen	VfB LÃ¼beck	1:1	1:1	11.04.2004	15:00	2003	2004	28
+Karlsruher SC	MSV Duisburg	1:0	1:0	11.04.2004	15:00	2003	2004	28
+1. FC NÃ¼rnberg	Eintracht Trier	2:1	3:1	12.04.2004	20:15	2003	2004	28
+Erzgebirge Aue	Energie Cottbus	0:0	1:0	16.04.2004	19:00	2003	2004	29
+VfB LÃ¼beck	Karlsruher SC	1:0	2:2	16.04.2004	19:00	2003	2004	29
+Jahn Regensburg	Rot-WeiÃ Oberhausen	1:1	1:1	16.04.2004	19:00	2003	2004	29
+Eintracht Trier	VfL OsnabrÃ¼ck	0:0	0:0	18.04.2004	15:00	2003	2004	29
+1. FC Union Berlin	1. FC NÃ¼rnberg	1:3	3:5	18.04.2004	15:00	2003	2004	29
+SpVgg Greuther FÃ¼rth	1. FSV Mainz 05	2:0	3:1	18.04.2004	15:00	2003	2004	29
+MSV Duisburg	Wacker Burghausen	0:0	1:0	18.04.2004	15:00	2003	2004	29
+SpVgg Unterhaching	LR Ahlen	0:0	0:0	18.04.2004	15:00	2003	2004	29
+Arminia Bielefeld	Alemannia Aachen	1:0	3:0	19.04.2004	20:15	2003	2004	29
+VfL OsnabrÃ¼ck	1. FC Union Berlin	0:1	0:2	23.04.2004	19:00	2003	2004	30
+Wacker Burghausen	VfB LÃ¼beck	0:0	2:1	23.04.2004	19:00	2003	2004	30
+1. FSV Mainz 05	MSV Duisburg	2:0	4:1	23.04.2004	19:00	2003	2004	30
+Erzgebirge Aue	Arminia Bielefeld	0:1	1:1	25.04.2004	15:00	2003	2004	30
+Energie Cottbus	SpVgg Greuther FÃ¼rth	0:1	4:2	25.04.2004	15:00	2003	2004	30
+Rot-WeiÃ Oberhausen	Eintracht Trier	1:1	1:2	25.04.2004	15:00	2003	2004	30
+LR Ahlen	Jahn Regensburg	0:1	3:1	25.04.2004	15:00	2003	2004	30
+Karlsruher SC	SpVgg Unterhaching	0:0	0:1	25.04.2004	15:00	2003	2004	30
+1. FC NÃ¼rnberg	Alemannia Aachen	0:0	3:0	26.04.2004	20:15	2003	2004	30
+Alemannia Aachen	VfL OsnabrÃ¼ck	0:0	2:1	30.04.2004	19:00	2003	2004	31
+VfB LÃ¼beck	1. FSV Mainz 05	1:2	1:4	30.04.2004	19:00	2003	2004	31
+Eintracht Trier	LR Ahlen	2:0	3:0	30.04.2004	19:00	2003	2004	31
+SpVgg Greuther FÃ¼rth	Erzgebirge Aue	3:1	5:1	02.05.2004	15:00	2003	2004	31
+MSV Duisburg	Energie Cottbus	1:0	4:2	02.05.2004	15:00	2003	2004	31
+SpVgg Unterhaching	Wacker Burghausen	0:0	1:2	02.05.2004	15:00	2003	2004	31
+Jahn Regensburg	Karlsruher SC	0:1	1:1	02.05.2004	15:00	2003	2004	31
+1. FC Union Berlin	Rot-WeiÃ Oberhausen	1:0	2:2	02.05.2004	15:00	2003	2004	31
+Arminia Bielefeld	1. FC NÃ¼rnberg	1:2	1:3	03.05.2004	20:15	2003	2004	31
+VfL OsnabrÃ¼ck	1. FC NÃ¼rnberg	2:1	3:4	07.05.2004	19:00	2003	2004	32
+Wacker Burghausen	Jahn Regensburg	2:0	2:0	07.05.2004	19:00	2003	2004	32
+1. FSV Mainz 05	SpVgg Unterhaching	2:0	2:0	07.05.2004	19:00	2003	2004	32
+SpVgg Greuther FÃ¼rth	Arminia Bielefeld	0:2	1:2	09.05.2004	15:00	2003	2004	32
+LR Ahlen	1. FC Union Berlin	0:0	1:0	09.05.2004	15:00	2003	2004	32
+Karlsruher SC	Eintracht Trier	0:0	0:1	09.05.2004	15:00	2003	2004	32
+Energie Cottbus	VfB LÃ¼beck	1:0	1:1	09.05.2004	15:00	2003	2004	32
+Erzgebirge Aue	MSV Duisburg	0:1	2:1	09.05.2004	15:00	2003	2004	32
+Rot-WeiÃ Oberhausen	Alemannia Aachen	1:0	1:2	10.05.2004	20:15	2003	2004	32
+VfL OsnabrÃ¼ck	Arminia Bielefeld	0:0	0:0	16.05.2004	15:00	2003	2004	33
+MSV Duisburg	SpVgg Greuther FÃ¼rth	1:1	1:1	16.05.2004	15:00	2003	2004	33
+VfB LÃ¼beck	Erzgebirge Aue	0:2	2:2	16.05.2004	15:00	2003	2004	33
+SpVgg Unterhaching	Energie Cottbus	2:0	2:0	16.05.2004	15:00	2003	2004	33
+Jahn Regensburg	1. FSV Mainz 05	0:0	0:0	16.05.2004	15:00	2003	2004	33
+Eintracht Trier	Wacker Burghausen	0:0	0:0	16.05.2004	15:00	2003	2004	33
+1. FC Union Berlin	Karlsruher SC	2:1	2:2	16.05.2004	15:00	2003	2004	33
+Alemannia Aachen	LR Ahlen	0:1	1:1	16.05.2004	15:00	2003	2004	33
+1. FC NÃ¼rnberg	Rot-WeiÃ Oberhausen	0:1	1:3	16.05.2004	15:00	2003	2004	33
+Rot-WeiÃ Oberhausen	VfL OsnabrÃ¼ck	1:2	3:2	23.05.2004	15:00	2003	2004	34
+LR Ahlen	1. FC NÃ¼rnberg	2:0	2:0	23.05.2004	15:00	2003	2004	34
+Karlsruher SC	Alemannia Aachen	1:0	1:0	23.05.2004	15:00	2003	2004	34
+Wacker Burghausen	1. FC Union Berlin	2:0	3:1	23.05.2004	15:00	2003	2004	34
+1. FSV Mainz 05	Eintracht Trier	1:0	3:0	23.05.2004	15:00	2003	2004	34
+Energie Cottbus	Jahn Regensburg	1:0	3:0	23.05.2004	15:00	2003	2004	34
+Erzgebirge Aue	SpVgg Unterhaching	2:3	3:3	23.05.2004	15:00	2003	2004	34
+SpVgg Greuther FÃ¼rth	VfB LÃ¼beck	1:0	2:0	23.05.2004	15:00	2003	2004	34
+Arminia Bielefeld	MSV Duisburg	0:1	1:3	23.05.2004	15:00	2003	2004	34

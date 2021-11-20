@@ -1,0 +1,380 @@
+CD AlavÃ©s	FC Barcelona	0:0	0:0	27.08.2005	20:00	2005	2006	1
+Valencia CF	Real Betis	0:0	1:0	27.08.2005	20:00	2005	2006	1
+Athletic Bilbao	Real Sociedad	0:0	3:0	27.08.2005	22:00	2005	2006	1
+Sevilla FC	Racing Santander	1:0	1:0	28.08.2005	22:00	2005	2006	1
+Celta Vigo	MÃ¡laga CF	1:0	2:0	28.08.2005	19:00	2005	2006	1
+Espanyol Barcelona	Getafe CF	0:0	0:2	28.08.2005	19:00	2005	2006	1
+RCD Mallorca	Deportivo La CoruÃ±a	0:1	0:1	28.08.2005	19:00	2005	2006	1
+AtlÃ©tico Madrid	Real Zaragoza	0:0	0:0	28.08.2005	19:00	2005	2006	1
+CA Osasuna	Villarreal CF	1:0	2:1	28.08.2005	19:00	2005	2006	1
+CÃ¡diz CF	Real Madrid	0:1	1:2	28.08.2005	19:00	2005	2006	1
+Real Madrid	Celta Vigo	2:2	2:3	10.09.2005	20:00	2005	2006	2
+Real Betis	CA Osasuna	0:0	1:0	10.09.2005	20:00	2005	2006	2
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	0:0	1:0	10.09.2005	22:00	2005	2006	2
+Villarreal CF	Sevilla FC	0:1	1:1	11.09.2005	22:00	2005	2006	2
+FC Barcelona	RCD Mallorca	2:0	2:0	11.09.2005	19:00	2005	2006	2
+Real Sociedad	CD AlavÃ©s	2:0	2:1	11.09.2005	19:00	2005	2006	2
+Getafe CF	Athletic Bilbao	1:1	1:1	11.09.2005	19:00	2005	2006	2
+Racing Santander	CÃ¡diz CF	0:0	0:1	11.09.2005	19:00	2005	2006	2
+Real Zaragoza	Valencia CF	2:1	2:2	11.09.2005	21:00	2005	2006	2
+MÃ¡laga CF	Espanyol Barcelona	0:1	1:2	11.09.2005	21:00	2005	2006	2
+Valencia CF	Deportivo La CoruÃ±a	0:1	2:2	17.09.2005	20:00	2005	2006	3
+RCD Mallorca	Real Sociedad	1:2	5:2	17.09.2005	20:00	2005	2006	3
+CÃ¡diz CF	Villarreal CF	1:1	1:1	18.09.2005	17:00	2005	2006	3
+Celta Vigo	Racing Santander	0:0	0:1	18.09.2005	17:00	2005	2006	3
+Athletic Bilbao	MÃ¡laga CF	0:0	1:2	18.09.2005	17:00	2005	2006	3
+CD AlavÃ©s	Getafe CF	2:3	3:4	18.09.2005	17:00	2005	2006	3
+CA Osasuna	Sevilla FC	0:0	1:0	18.09.2005	17:00	2005	2006	3
+Real Betis	Real Zaragoza	0:0	0:0	18.09.2005	17:00	2005	2006	3
+Espanyol Barcelona	Real Madrid	0:0	1:0	18.09.2005	19:00	2005	2006	3
+AtlÃ©tico Madrid	FC Barcelona	1:1	2:1	18.09.2005	19:00	2005	2006	3
+Villarreal CF	Celta Vigo	0:1	1:2	21.09.2005	21:00	2005	2006	4
+Sevilla FC	CÃ¡diz CF	0:0	0:0	21.09.2005	21:00	2005	2006	4
+Real Zaragoza	CA Osasuna	0:0	3:1	21.09.2005	21:00	2005	2006	4
+Deportivo La CoruÃ±a	Real Betis	1:1	1:1	21.09.2005	21:00	2005	2006	4
+FC Barcelona	Valencia CF	1:0	2:2	21.09.2005	21:00	2005	2006	4
+Real Sociedad	AtlÃ©tico Madrid	0:2	3:2	21.09.2005	21:00	2005	2006	4
+Getafe CF	RCD Mallorca	1:0	1:1	21.09.2005	21:00	2005	2006	4
+MÃ¡laga CF	CD AlavÃ©s	0:0	0:0	21.09.2005	21:00	2005	2006	4
+Racing Santander	Espanyol Barcelona	0:0	1:0	21.09.2005	21:00	2005	2006	4
+Real Madrid	Athletic Bilbao	0:1	3:1	22.09.2005	21:00	2005	2006	4
+Valencia CF	Real Sociedad	1:0	2:1	24.09.2005	20:00	2005	2006	5
+Real Zaragoza	Deportivo La CoruÃ±a	1:1	1:1	24.09.2005	20:00	2005	2006	5
+Espanyol Barcelona	Villarreal CF	0:1	1:2	24.09.2005	20:00	2005	2006	5
+AtlÃ©tico Madrid	Getafe CF	0:0	0:1	24.09.2005	20:00	2005	2006	5
+Real Betis	FC Barcelona	1:1	1:4	24.09.2005	22:00	2005	2006	5
+CD AlavÃ©s	Real Madrid	0:0	0:3	25.09.2005	22:00	2005	2006	5
+RCD Mallorca	MÃ¡laga CF	0:2	1:4	25.09.2005	17:00	2005	2006	5
+CA Osasuna	CÃ¡diz CF	1:0	2:0	25.09.2005	17:00	2005	2006	5
+Athletic Bilbao	Racing Santander	0:0	0:0	25.09.2005	19:00	2005	2006	5
+Celta Vigo	Sevilla FC	2:0	2:1	25.09.2005	19:00	2005	2006	5
+FC Barcelona	Real Zaragoza	0:0	2:2	01.10.2005	20:00	2005	2006	6
+Getafe CF	Valencia CF	1:1	2:1	01.10.2005	20:00	2005	2006	6
+Villarreal CF	Athletic Bilbao	1:1	3:1	02.10.2005	17:00	2005	2006	6
+Sevilla FC	Espanyol Barcelona	0:1	1:1	02.10.2005	17:00	2005	2006	6
+CÃ¡diz CF	Celta Vigo	1:1	1:1	02.10.2005	17:00	2005	2006	6
+Deportivo La CoruÃ±a	CA Osasuna	0:1	0:1	02.10.2005	17:00	2005	2006	6
+Real Sociedad	Real Betis	0:1	1:1	02.10.2005	17:00	2005	2006	6
+Racing Santander	CD AlavÃ©s	0:1	1:2	02.10.2005	17:00	2005	2006	6
+Real Madrid	RCD Mallorca	2:0	4:0	02.10.2005	19:00	2005	2006	6
+MÃ¡laga CF	AtlÃ©tico Madrid	0:0	0:2	02.10.2005	19:00	2005	2006	6
+CD AlavÃ©s	Villarreal CF	1:1	1:1	15.10.2005	18:00	2005	2006	7
+Deportivo La CoruÃ±a	FC Barcelona	1:2	3:3	15.10.2005	18:00	2005	2006	7
+AtlÃ©tico Madrid	Real Madrid	0:1	0:3	15.10.2005	22:00	2005	2006	7
+Real Betis	Getafe CF	1:0	1:0	16.10.2005	22:00	2005	2006	7
+Real Zaragoza	Real Sociedad	0:1	0:1	16.10.2005	17:00	2005	2006	7
+RCD Mallorca	Racing Santander	0:0	0:0	16.10.2005	17:00	2005	2006	7
+CA Osasuna	Celta Vigo	0:0	2:0	16.10.2005	17:00	2005	2006	7
+Valencia CF	MÃ¡laga CF	1:0	2:1	16.10.2005	17:00	2005	2006	7
+Espanyol Barcelona	CÃ¡diz CF	0:0	0:2	16.10.2005	19:00	2005	2006	7
+Athletic Bilbao	Sevilla FC	0:1	0:1	16.10.2005	19:00	2005	2006	7
+Sevilla FC	CD AlavÃ©s	1:0	2:0	22.10.2005	20:00	2005	2006	8
+FC Barcelona	CA Osasuna	0:0	3:0	22.10.2005	20:00	2005	2006	8
+Villarreal CF	RCD Mallorca	3:0	3:0	23.10.2005	17:00	2005	2006	8
+CÃ¡diz CF	Athletic Bilbao	1:0	1:0	23.10.2005	17:00	2005	2006	8
+Celta Vigo	Espanyol Barcelona	0:0	1:0	23.10.2005	17:00	2005	2006	8
+Real Sociedad	Deportivo La CoruÃ±a	0:0	2:0	23.10.2005	17:00	2005	2006	8
+Getafe CF	Real Zaragoza	4:0	5:2	23.10.2005	17:00	2005	2006	8
+MÃ¡laga CF	Real Betis	2:0	5:0	23.10.2005	17:00	2005	2006	8
+Racing Santander	AtlÃ©tico Madrid	0:0	0:1	23.10.2005	19:00	2005	2006	8
+Real Madrid	Valencia CF	1:2	1:2	23.10.2005	19:00	2005	2006	8
+Real Betis	Real Madrid	0:1	0:2	29.10.2005	20:00	2005	2006	9
+Athletic Bilbao	Celta Vigo	1:0	1:1	29.10.2005	20:00	2005	2006	9
+Valencia CF	Racing Santander	1:1	1:1	30.10.2005	17:00	2005	2006	9
+Real Zaragoza	MÃ¡laga CF	1:1	1:1	30.10.2005	17:00	2005	2006	9
+Deportivo La CoruÃ±a	Getafe CF	1:0	1:0	30.10.2005	17:00	2005	2006	9
+CD AlavÃ©s	CÃ¡diz CF	0:0	0:0	30.10.2005	17:00	2005	2006	9
+RCD Mallorca	Sevilla FC	1:1	1:1	30.10.2005	17:00	2005	2006	9
+CA Osasuna	Espanyol Barcelona	1:0	2:0	30.10.2005	17:00	2005	2006	9
+FC Barcelona	Real Sociedad	2:0	5:0	30.10.2005	19:00	2005	2006	9
+AtlÃ©tico Madrid	Villarreal CF	1:0	1:1	30.10.2005	19:00	2005	2006	9
+Real Sociedad	CA Osasuna	1:1	1:2	05.11.2005	18:00	2005	2006	10
+Espanyol Barcelona	Athletic Bilbao	0:1	1:1	05.11.2005	18:00	2005	2006	10
+Villarreal CF	Valencia CF	1:0	1:0	05.11.2005	22:00	2005	2006	10
+Sevilla FC	AtlÃ©tico Madrid	0:0	0:0	06.11.2005	22:00	2005	2006	10
+CÃ¡diz CF	RCD Mallorca	1:1	1:2	06.11.2005	17:00	2005	2006	10
+Celta Vigo	CD AlavÃ©s	1:0	2:1	06.11.2005	17:00	2005	2006	10
+MÃ¡laga CF	Deportivo La CoruÃ±a	0:0	1:1	06.11.2005	17:00	2005	2006	10
+Racing Santander	Real Betis	0:1	1:1	06.11.2005	17:00	2005	2006	10
+Real Madrid	Real Zaragoza	0:0	1:0	06.11.2005	19:00	2005	2006	10
+Getafe CF	FC Barcelona	0:1	1:3	06.11.2005	19:00	2005	2006	10
+Real Betis	Villarreal CF	1:1	2:3	26.10.2005	20:00	2005	2006	11
+RCD Mallorca	Celta Vigo	0:0	1:0	26.10.2005	20:00	2005	2006	11
+CA Osasuna	Athletic Bilbao	1:1	3:2	26.10.2005	20:00	2005	2006	11
+FC Barcelona	MÃ¡laga CF	0:0	2:0	26.10.2005	20:00	2005	2006	11
+Deportivo La CoruÃ±a	Real Madrid	2:0	3:1	26.10.2005	22:00	2005	2006	11
+Real Zaragoza	Racing Santander	1:0	1:1	27.10.2005	22:00	2005	2006	11
+Real Sociedad	Getafe CF	3:0	3:0	27.10.2005	20:00	2005	2006	11
+CD AlavÃ©s	Espanyol Barcelona	1:1	1:1	27.10.2005	20:00	2005	2006	11
+AtlÃ©tico Madrid	CÃ¡diz CF	1:0	3:0	27.10.2005	20:00	2005	2006	11
+Valencia CF	Sevilla FC	0:1	0:2	27.10.2005	20:00	2005	2006	11
+Villarreal CF	Real Zaragoza	0:0	0:0	19.11.2005	18:00	2005	2006	12
+Getafe CF	CA Osasuna	0:0	0:0	19.11.2005	18:00	2005	2006	12
+Real Madrid	FC Barcelona	0:1	0:3	19.11.2005	20:00	2005	2006	12
+Sevilla FC	Real Betis	0:0	1:0	19.11.2005	20:00	2005	2006	12
+CÃ¡diz CF	Valencia CF	0:0	0:1	20.11.2005	17:00	2005	2006	12
+Espanyol Barcelona	RCD Mallorca	2:0	2:0	20.11.2005	17:00	2005	2006	12
+Athletic Bilbao	CD AlavÃ©s	0:1	0:2	20.11.2005	17:00	2005	2006	12
+MÃ¡laga CF	Real Sociedad	0:0	3:1	20.11.2005	17:00	2005	2006	12
+Celta Vigo	AtlÃ©tico Madrid	1:0	2:1	20.11.2005	19:00	2005	2006	12
+Racing Santander	Deportivo La CoruÃ±a	0:1	0:3	20.11.2005	19:00	2005	2006	12
+RCD Mallorca	Athletic Bilbao	0:0	0:1	26.11.2005	20:00	2005	2006	13
+Valencia CF	Celta Vigo	0:0	2:0	26.11.2005	20:00	2005	2006	13
+Real Betis	CÃ¡diz CF	1:0	1:1	27.11.2005	17:00	2005	2006	13
+Real Zaragoza	Sevilla FC	0:0	0:2	27.11.2005	17:00	2005	2006	13
+Deportivo La CoruÃ±a	Villarreal CF	0:0	0:2	27.11.2005	17:00	2005	2006	13
+Getafe CF	MÃ¡laga CF	2:1	3:2	27.11.2005	17:00	2005	2006	13
+AtlÃ©tico Madrid	Espanyol Barcelona	1:1	1:1	27.11.2005	17:00	2005	2006	13
+CA Osasuna	CD AlavÃ©s	0:0	3:2	27.11.2005	17:00	2005	2006	13
+Real Sociedad	Real Madrid	1:0	2:2	27.11.2005	19:00	2005	2006	13
+FC Barcelona	Racing Santander	1:0	4:1	27.11.2005	19:00	2005	2006	13
+Celta Vigo	Real Betis	2:0	2:1	03.12.2005	18:00	2005	2006	14
+Real Madrid	Getafe CF	1:0	1:0	03.12.2005	18:00	2005	2006	14
+Athletic Bilbao	AtlÃ©tico Madrid	0:1	1:1	03.12.2005	22:00	2005	2006	14
+CÃ¡diz CF	Real Zaragoza	1:0	1:2	04.12.2005	22:00	2005	2006	14
+Espanyol Barcelona	Valencia CF	0:2	1:3	04.12.2005	17:00	2005	2006	14
+CD AlavÃ©s	RCD Mallorca	0:1	0:3	04.12.2005	17:00	2005	2006	14
+Racing Santander	Real Sociedad	0:1	2:2	04.12.2005	17:00	2005	2006	14
+MÃ¡laga CF	CA Osasuna	1:2	1:2	04.12.2005	17:00	2005	2006	14
+Villarreal CF	FC Barcelona	0:1	0:2	04.12.2005	19:00	2005	2006	14
+Sevilla FC	Deportivo La CoruÃ±a	0:2	0:2	04.12.2005	19:00	2005	2006	14
+Valencia CF	Athletic Bilbao	0:0	1:1	10.12.2005	20:00	2005	2006	15
+Real Sociedad	Villarreal CF	1:1	1:3	10.12.2005	20:00	2005	2006	15
+Real Betis	Espanyol Barcelona	0:0	0:0	11.12.2005	17:00	2005	2006	15
+Real Zaragoza	Celta Vigo	0:0	1:0	11.12.2005	17:00	2005	2006	15
+Deportivo La CoruÃ±a	CÃ¡diz CF	0:0	1:0	11.12.2005	17:00	2005	2006	15
+Getafe CF	Racing Santander	1:1	1:2	11.12.2005	17:00	2005	2006	15
+AtlÃ©tico Madrid	CD AlavÃ©s	0:0	1:1	11.12.2005	17:00	2005	2006	15
+CA Osasuna	RCD Mallorca	1:0	1:0	11.12.2005	17:00	2005	2006	15
+MÃ¡laga CF	Real Madrid	0:2	0:2	11.12.2005	19:00	2005	2006	15
+FC Barcelona	Sevilla FC	0:0	2:1	11.12.2005	19:00	2005	2006	15
+Athletic Bilbao	Real Betis	2:0	2:0	17.12.2005	20:00	2005	2006	16
+Celta Vigo	Deportivo La CoruÃ±a	0:3	0:3	17.12.2005	20:00	2005	2006	16
+CÃ¡diz CF	FC Barcelona	0:2	1:3	17.12.2005	22:00	2005	2006	16
+Villarreal CF	Getafe CF	1:1	2:1	18.12.2005	22:00	2005	2006	16
+Sevilla FC	Real Sociedad	0:1	3:2	18.12.2005	17:00	2005	2006	16
+Espanyol Barcelona	Real Zaragoza	0:0	2:2	18.12.2005	17:00	2005	2006	16
+CD AlavÃ©s	Valencia CF	0:1	0:1	18.12.2005	17:00	2005	2006	16
+Racing Santander	MÃ¡laga CF	1:1	1:1	18.12.2005	17:00	2005	2006	16
+RCD Mallorca	AtlÃ©tico Madrid	1:2	2:2	18.12.2005	19:00	2005	2006	16
+Real Madrid	CA Osasuna	0:0	1:1	18.12.2005	19:00	2005	2006	16
+FC Barcelona	Celta Vigo	1:0	2:0	20.12.2005	21:00	2005	2006	17
+Real Betis	CD AlavÃ©s	1:0	3:0	21.12.2005	21:00	2005	2006	17
+Real Zaragoza	Athletic Bilbao	0:1	3:2	21.12.2005	20:00	2005	2006	17
+Deportivo La CoruÃ±a	Espanyol Barcelona	0:0	1:2	21.12.2005	20:00	2005	2006	17
+Real Sociedad	CÃ¡diz CF	1:0	2:0	21.12.2005	20:00	2005	2006	17
+Getafe CF	Sevilla FC	1:0	1:0	21.12.2005	20:00	2005	2006	17
+MÃ¡laga CF	Villarreal CF	0:0	0:0	21.12.2005	20:00	2005	2006	17
+Real Madrid	Racing Santander	0:2	1:2	21.12.2005	20:00	2005	2006	17
+Valencia CF	RCD Mallorca	0:0	3:0	21.12.2005	21:00	2005	2006	17
+CA Osasuna	AtlÃ©tico Madrid	2:1	2:1	22.12.2005	21:00	2005	2006	17
+Athletic Bilbao	Deportivo La CoruÃ±a	0:1	1:2	07.01.2006	20:00	2005	2006	18
+Espanyol Barcelona	FC Barcelona	0:1	1:2	07.01.2006	20:00	2005	2006	18
+Sevilla FC	MÃ¡laga CF	1:0	3:1	08.01.2006	17:00	2005	2006	18
+CÃ¡diz CF	Getafe CF	1:0	1:0	08.01.2006	17:00	2005	2006	18
+Celta Vigo	Real Sociedad	1:0	1:0	08.01.2006	17:00	2005	2006	18
+CD AlavÃ©s	Real Zaragoza	0:0	0:2	08.01.2006	17:00	2005	2006	18
+RCD Mallorca	Real Betis	1:1	1:1	08.01.2006	17:00	2005	2006	18
+CA Osasuna	Racing Santander	1:1	1:1	08.01.2006	17:00	2005	2006	18
+Villarreal CF	Real Madrid	0:0	0:0	08.01.2006	19:00	2005	2006	18
+AtlÃ©tico Madrid	Valencia CF	0:0	0:0	08.01.2006	19:00	2005	2006	18
+Real Betis	AtlÃ©tico Madrid	1:0	1:0	14.01.2006	20:00	2005	2006	19
+Valencia CF	CA Osasuna	1:0	2:0	14.01.2006	20:00	2005	2006	19
+Real Zaragoza	RCD Mallorca	2:0	3:1	15.01.2006	17:00	2005	2006	19
+Deportivo La CoruÃ±a	CD AlavÃ©s	0:1	0:2	15.01.2006	17:00	2005	2006	19
+Real Sociedad	Espanyol Barcelona	0:0	0:1	15.01.2006	17:00	2005	2006	19
+Getafe CF	Celta Vigo	1:0	1:1	15.01.2006	17:00	2005	2006	19
+MÃ¡laga CF	CÃ¡diz CF	0:2	0:2	15.01.2006	17:00	2005	2006	19
+Racing Santander	Villarreal CF	1:0	1:0	15.01.2006	17:00	2005	2006	19
+FC Barcelona	Athletic Bilbao	1:1	2:1	15.01.2006	19:00	2005	2006	19
+Real Madrid	Sevilla FC	1:0	4:2	15.01.2006	19:00	2005	2006	19
+Real Zaragoza	AtlÃ©tico Madrid	0:1	0:2	21.01.2006	20:00	2005	2006	20
+Real Madrid	CÃ¡diz CF	0:0	3:1	21.01.2006	20:00	2005	2006	20
+Real Betis	Valencia CF	0:1	0:2	22.01.2006	17:00	2005	2006	20
+Racing Santander	Sevilla FC	1:1	2:3	22.01.2006	17:00	2005	2006	20
+Villarreal CF	CA Osasuna	0:1	2:1	22.01.2006	17:00	2005	2006	20
+Deportivo La CoruÃ±a	RCD Mallorca	2:0	2:2	22.01.2006	17:00	2005	2006	20
+Getafe CF	Espanyol Barcelona	2:0	5:0	22.01.2006	17:00	2005	2006	20
+MÃ¡laga CF	Celta Vigo	0:0	0:2	22.01.2006	17:00	2005	2006	20
+FC Barcelona	CD AlavÃ©s	0:0	2:0	22.01.2006	19:00	2005	2006	20
+Real Sociedad	Athletic Bilbao	2:0	3:3	22.01.2006	19:00	2005	2006	20
+CÃ¡diz CF	Racing Santander	0:0	1:1	28.01.2006	18:00	2005	2006	21
+Athletic Bilbao	Getafe CF	0:0	1:0	28.01.2006	18:00	2005	2006	21
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	3:2	28.01.2006	22:00	2005	2006	21
+Valencia CF	Real Zaragoza	0:1	2:2	29.01.2006	22:00	2005	2006	21
+Sevilla FC	Villarreal CF	1:0	2:0	29.01.2006	17:00	2005	2006	21
+Espanyol Barcelona	MÃ¡laga CF	3:1	3:1	29.01.2006	17:00	2005	2006	21
+CD AlavÃ©s	Real Sociedad	1:0	3:1	29.01.2006	17:00	2005	2006	21
+CA Osasuna	Real Betis	0:1	0:2	29.01.2006	17:00	2005	2006	21
+RCD Mallorca	FC Barcelona	0:1	0:3	29.01.2006	19:00	2005	2006	21
+Celta Vigo	Real Madrid	1:1	1:2	29.01.2006	19:00	2005	2006	21
+MÃ¡laga CF	Athletic Bilbao	1:1	2:1	04.02.2006	18:00	2005	2006	22
+Real Madrid	Espanyol Barcelona	3:0	4:0	04.02.2006	18:00	2005	2006	22
+Deportivo La CoruÃ±a	Valencia CF	0:1	0:1	04.02.2006	22:00	2005	2006	22
+Villarreal CF	CÃ¡diz CF	0:1	1:1	05.02.2006	22:00	2005	2006	22
+Real Zaragoza	Real Betis	4:1	4:3	05.02.2006	17:00	2005	2006	22
+Real Sociedad	RCD Mallorca	1:1	2:1	05.02.2006	17:00	2005	2006	22
+Getafe CF	CD AlavÃ©s	1:1	2:2	05.02.2006	17:00	2005	2006	22
+Racing Santander	Celta Vigo	0:0	0:1	05.02.2006	17:00	2005	2006	22
+FC Barcelona	AtlÃ©tico Madrid	0:1	1:3	05.02.2006	19:00	2005	2006	22
+Sevilla FC	CA Osasuna	0:0	0:1	05.02.2006	19:00	2005	2006	22
+CÃ¡diz CF	Sevilla FC	0:1	0:4	11.02.2006	20:00	2005	2006	23
+CA Osasuna	Real Zaragoza	1:1	1:1	11.02.2006	20:00	2005	2006	23
+Athletic Bilbao	Real Madrid	0:1	0:2	11.02.2006	22:00	2005	2006	23
+Real Betis	Deportivo La CoruÃ±a	0:0	0:1	12.02.2006	22:00	2005	2006	23
+Celta Vigo	Villarreal CF	1:0	1:0	12.02.2006	17:00	2005	2006	23
+Espanyol Barcelona	Racing Santander	0:0	0:2	12.02.2006	17:00	2005	2006	23
+CD AlavÃ©s	MÃ¡laga CF	1:0	3:2	12.02.2006	17:00	2005	2006	23
+RCD Mallorca	Getafe CF	0:0	1:1	12.02.2006	17:00	2005	2006	23
+AtlÃ©tico Madrid	Real Sociedad	0:0	1:0	12.02.2006	19:00	2005	2006	23
+Valencia CF	FC Barcelona	1:0	1:0	12.02.2006	19:00	2005	2006	23
+Villarreal CF	Espanyol Barcelona	3:0	4:0	18.02.2006	18:00	2005	2006	24
+Real Madrid	CD AlavÃ©s	2:0	3:0	18.02.2006	18:00	2005	2006	24
+FC Barcelona	Real Betis	3:0	5:1	18.02.2006	22:00	2005	2006	24
+Sevilla FC	Celta Vigo	1:0	1:0	18.02.2006	22:00	2005	2006	24
+Deportivo La CoruÃ±a	Real Zaragoza	0:1	1:1	19.02.2006	17:00	2005	2006	24
+Racing Santander	Athletic Bilbao	0:0	0:1	19.02.2006	17:00	2005	2006	24
+CÃ¡diz CF	CA Osasuna	1:2	1:3	19.02.2006	17:00	2005	2006	24
+Real Sociedad	Valencia CF	1:0	1:2	19.02.2006	17:00	2005	2006	24
+MÃ¡laga CF	RCD Mallorca	0:0	0:2	19.02.2006	19:00	2005	2006	24
+Getafe CF	AtlÃ©tico Madrid	0:1	0:3	19.02.2006	19:00	2005	2006	24
+AtlÃ©tico Madrid	MÃ¡laga CF	3:0	5:0	25.02.2006	20:00	2005	2006	25
+Real Zaragoza	FC Barcelona	0:0	0:2	25.02.2006	20:00	2005	2006	25
+Athletic Bilbao	Villarreal CF	1:1	1:1	26.02.2006	17:00	2005	2006	25
+Espanyol Barcelona	Sevilla FC	1:0	5:0	26.02.2006	17:00	2005	2006	25
+Celta Vigo	CÃ¡diz CF	1:0	2:0	26.02.2006	17:00	2005	2006	25
+Real Betis	Real Sociedad	1:0	2:0	26.02.2006	17:00	2005	2006	25
+Valencia CF	Getafe CF	0:0	1:1	26.02.2006	17:00	2005	2006	25
+CD AlavÃ©s	Racing Santander	2:1	2:2	26.02.2006	17:00	2005	2006	25
+RCD Mallorca	Real Madrid	0:1	2:1	26.02.2006	19:00	2005	2006	25
+CA Osasuna	Deportivo La CoruÃ±a	1:0	1:2	26.02.2006	19:00	2005	2006	25
+CÃ¡diz CF	Espanyol Barcelona	0:0	2:0	04.03.2006	18:00	2005	2006	26
+Villarreal CF	CD AlavÃ©s	1:2	3:2	04.03.2006	18:00	2005	2006	26
+Real Madrid	AtlÃ©tico Madrid	2:1	2:1	04.03.2006	20:00	2005	2006	26
+FC Barcelona	Deportivo La CoruÃ±a	2:2	3:2	04.03.2006	20:00	2005	2006	26
+Getafe CF	Real Betis	1:0	1:0	05.03.2006	17:00	2005	2006	26
+Real Sociedad	Real Zaragoza	1:0	1:3	05.03.2006	17:00	2005	2006	26
+Racing Santander	RCD Mallorca	0:0	0:0	05.03.2006	17:00	2005	2006	26
+Celta Vigo	CA Osasuna	1:0	2:0	05.03.2006	17:00	2005	2006	26
+Sevilla FC	Athletic Bilbao	1:1	2:1	05.03.2006	19:00	2005	2006	26
+MÃ¡laga CF	Valencia CF	0:0	0:0	05.03.2006	19:00	2005	2006	26
+Espanyol Barcelona	Celta Vigo	2:0	2:0	11.03.2006	18:00	2005	2006	27
+Deportivo La CoruÃ±a	Real Sociedad	0:0	0:1	11.03.2006	18:00	2005	2006	27
+Valencia CF	Real Madrid	0:0	0:0	11.03.2006	22:00	2005	2006	27
+RCD Mallorca	Villarreal CF	1:1	1:1	12.03.2006	22:00	2005	2006	27
+CD AlavÃ©s	Sevilla FC	2:1	2:1	12.03.2006	17:00	2005	2006	27
+Athletic Bilbao	CÃ¡diz CF	0:0	1:0	12.03.2006	17:00	2005	2006	27
+Real Zaragoza	Getafe CF	1:1	1:2	12.03.2006	17:00	2005	2006	27
+Real Betis	MÃ¡laga CF	1:0	1:1	12.03.2006	17:00	2005	2006	27
+AtlÃ©tico Madrid	Racing Santander	0:0	2:1	12.03.2006	19:00	2005	2006	27
+CA Osasuna	FC Barcelona	1:0	2:1	12.03.2006	19:00	2005	2006	27
+Getafe CF	Deportivo La CoruÃ±a	0:1	1:2	18.03.2006	18:00	2005	2006	28
+Real Sociedad	FC Barcelona	0:1	0:2	18.03.2006	18:00	2005	2006	28
+Villarreal CF	AtlÃ©tico Madrid	1:0	1:1	18.03.2006	22:00	2005	2006	28
+Racing Santander	Valencia CF	1:0	2:1	19.03.2006	22:00	2005	2006	28
+CÃ¡diz CF	CD AlavÃ©s	0:0	0:0	19.03.2006	17:00	2005	2006	28
+Sevilla FC	RCD Mallorca	1:0	1:1	19.03.2006	17:00	2005	2006	28
+Espanyol Barcelona	CA Osasuna	1:3	2:4	19.03.2006	17:00	2005	2006	28
+Real Madrid	Real Betis	0:0	0:0	19.03.2006	17:00	2005	2006	28
+MÃ¡laga CF	Real Zaragoza	0:0	0:1	19.03.2006	19:00	2005	2006	28
+Celta Vigo	Athletic Bilbao	0:1	0:1	19.03.2006	19:00	2005	2006	28
+FC Barcelona	Getafe CF	1:1	3:1	21.03.2006	21:00	2005	2006	29
+Valencia CF	Villarreal CF	1:0	1:1	22.03.2006	21:00	2005	2006	29
+RCD Mallorca	CÃ¡diz CF	1:0	1:0	22.03.2006	20:00	2005	2006	29
+CD AlavÃ©s	Celta Vigo	0:0	1:0	22.03.2006	20:00	2005	2006	29
+Athletic Bilbao	Espanyol Barcelona	0:1	1:1	22.03.2006	20:00	2005	2006	29
+CA Osasuna	Real Sociedad	1:0	2:0	22.03.2006	20:00	2005	2006	29
+Deportivo La CoruÃ±a	MÃ¡laga CF	0:1	2:1	22.03.2006	20:00	2005	2006	29
+Real Betis	Racing Santander	1:0	1:0	22.03.2006	20:00	2005	2006	29
+Real Zaragoza	Real Madrid	0:0	1:1	22.03.2006	21:00	2005	2006	29
+AtlÃ©tico Madrid	Sevilla FC	0:0	0:1	23.03.2006	21:00	2005	2006	29
+Villarreal CF	Real Betis	0:2	1:2	25.03.2006	18:00	2005	2006	30
+MÃ¡laga CF	FC Barcelona	0:0	0:0	25.03.2006	18:00	2005	2006	30
+Athletic Bilbao	CA Osasuna	0:0	1:0	25.03.2006	22:00	2005	2006	30
+Sevilla FC	Valencia CF	0:0	1:0	26.03.2006	22:00	2005	2006	30
+Racing Santander	Real Zaragoza	0:0	0:0	26.03.2006	17:00	2005	2006	30
+Getafe CF	Real Sociedad	1:1	2:1	26.03.2006	17:00	2005	2006	30
+Espanyol Barcelona	CD AlavÃ©s	0:0	0:0	26.03.2006	17:00	2005	2006	30
+Celta Vigo	RCD Mallorca	2:0	2:0	26.03.2006	17:00	2005	2006	30
+Real Madrid	Deportivo La CoruÃ±a	2:0	4:0	26.03.2006	19:00	2005	2006	30
+CÃ¡diz CF	AtlÃ©tico Madrid	0:1	1:1	26.03.2006	19:00	2005	2006	30
+Real Zaragoza	Villarreal CF	0:1	0:1	01.04.2006	20:00	2005	2006	31
+Real Sociedad	MÃ¡laga CF	1:0	3:0	01.04.2006	20:00	2005	2006	31
+FC Barcelona	Real Madrid	1:1	1:1	01.04.2006	22:00	2005	2006	31
+Valencia CF	CÃ¡diz CF	3:1	5:3	02.04.2006	22:00	2005	2006	31
+RCD Mallorca	Espanyol Barcelona	0:0	0:0	02.04.2006	17:00	2005	2006	31
+CD AlavÃ©s	Athletic Bilbao	0:0	0:0	02.04.2006	17:00	2005	2006	31
+CA Osasuna	Getafe CF	0:2	0:4	02.04.2006	17:00	2005	2006	31
+Deportivo La CoruÃ±a	Racing Santander	1:0	2:0	02.04.2006	17:00	2005	2006	31
+AtlÃ©tico Madrid	Celta Vigo	0:0	0:3	02.04.2006	19:00	2005	2006	31
+Real Betis	Sevilla FC	2:1	2:1	02.04.2006	19:00	2005	2006	31
+MÃ¡laga CF	Getafe CF	0:1	1:2	08.04.2006	17:00	2005	2006	32
+CÃ¡diz CF	Real Betis	0:0	1:1	08.04.2006	17:00	2005	2006	32
+Real Madrid	Real Sociedad	1:0	1:1	08.04.2006	20:00	2005	2006	32
+Celta Vigo	Valencia CF	0:1	0:1	08.04.2006	20:00	2005	2006	32
+Athletic Bilbao	RCD Mallorca	1:1	1:1	09.04.2006	17:00	2005	2006	32
+Espanyol Barcelona	AtlÃ©tico Madrid	0:0	1:1	09.04.2006	17:00	2005	2006	32
+CD AlavÃ©s	CA Osasuna	0:1	1:2	09.04.2006	17:00	2005	2006	32
+Sevilla FC	Real Zaragoza	0:0	1:1	09.04.2006	17:00	2005	2006	32
+Racing Santander	FC Barcelona	2:2	2:2	09.04.2006	19:00	2005	2006	32
+Villarreal CF	Deportivo La CoruÃ±a	0:0	1:1	09.04.2006	19:00	2005	2006	32
+FC Barcelona	Villarreal CF	1:0	1:0	14.04.2006	20:30	2005	2006	33
+RCD Mallorca	CD AlavÃ©s	0:0	0:0	15.04.2006	20:30	2005	2006	33
+Real Sociedad	Racing Santander	0:0	1:0	15.04.2006	20:00	2005	2006	33
+Deportivo La CoruÃ±a	Sevilla FC	0:0	0:0	15.04.2006	20:00	2005	2006	33
+Real Zaragoza	CÃ¡diz CF	1:1	1:2	16.04.2006	17:00	2005	2006	33
+Real Betis	Celta Vigo	0:1	0:2	16.04.2006	17:00	2005	2006	33
+Valencia CF	Espanyol Barcelona	1:0	4:0	16.04.2006	17:00	2005	2006	33
+CA Osasuna	MÃ¡laga CF	1:0	1:1	16.04.2006	17:00	2005	2006	33
+Getafe CF	Real Madrid	0:0	1:1	16.04.2006	19:00	2005	2006	33
+AtlÃ©tico Madrid	Athletic Bilbao	0:0	1:0	16.04.2006	19:00	2005	2006	33
+Villarreal CF	Real Sociedad	0:2	0:2	22.04.2006	18:00	2005	2006	34
+CD AlavÃ©s	AtlÃ©tico Madrid	0:1	0:1	22.04.2006	18:00	2005	2006	34
+Celta Vigo	Real Zaragoza	1:0	4:0	22.04.2006	22:00	2005	2006	34
+Athletic Bilbao	Valencia CF	0:0	0:3	23.04.2006	22:00	2005	2006	34
+Espanyol Barcelona	Real Betis	1:0	2:0	23.04.2006	17:00	2005	2006	34
+CÃ¡diz CF	Deportivo La CoruÃ±a	0:1	1:1	23.04.2006	17:00	2005	2006	34
+Racing Santander	Getafe CF	1:1	1:3	23.04.2006	17:00	2005	2006	34
+RCD Mallorca	CA Osasuna	0:0	0:1	23.04.2006	17:00	2005	2006	34
+Real Madrid	MÃ¡laga CF	0:1	2:1	23.04.2006	19:00	2005	2006	34
+Sevilla FC	FC Barcelona	2:2	3:2	13.05.2006	19:00	2005	2006	34
+Real Betis	Athletic Bilbao	1:0	1:1	29.04.2006	20:00	2005	2006	35
+Deportivo La CoruÃ±a	Celta Vigo	0:1	0:2	29.04.2006	20:00	2005	2006	35
+FC Barcelona	CÃ¡diz CF	1:0	1:0	29.04.2006	22:00	2005	2006	35
+Getafe CF	Villarreal CF	1:1	1:1	30.04.2006	22:00	2005	2006	35
+Real Sociedad	Sevilla FC	0:0	1:2	30.04.2006	17:00	2005	2006	35
+Real Zaragoza	Espanyol Barcelona	1:0	1:1	30.04.2006	17:00	2005	2006	35
+Valencia CF	CD AlavÃ©s	2:0	3:0	30.04.2006	17:00	2005	2006	35
+MÃ¡laga CF	Racing Santander	2:1	2:3	30.04.2006	17:00	2005	2006	35
+AtlÃ©tico Madrid	RCD Mallorca	0:0	0:1	30.04.2006	19:00	2005	2006	35
+CA Osasuna	Real Madrid	0:0	0:1	30.04.2006	19:00	2005	2006	35
+RCD Mallorca	Valencia CF	1:1	2:1	03.05.2006	20:00	2005	2006	36
+CD AlavÃ©s	Real Betis	1:0	2:0	03.05.2006	20:00	2005	2006	36
+Athletic Bilbao	Real Zaragoza	0:0	1:0	03.05.2006	20:00	2005	2006	36
+Espanyol Barcelona	Deportivo La CoruÃ±a	1:0	1:2	03.05.2006	20:00	2005	2006	36
+CÃ¡diz CF	Real Sociedad	0:1	2:2	03.05.2006	20:00	2005	2006	36
+Sevilla FC	Getafe CF	3:0	3:0	03.05.2006	20:00	2005	2006	36
+Villarreal CF	MÃ¡laga CF	2:1	2:1	03.05.2006	20:00	2005	2006	36
+AtlÃ©tico Madrid	CA Osasuna	0:1	0:1	03.05.2006	20:00	2005	2006	36
+Celta Vigo	FC Barcelona	0:0	0:1	03.05.2006	21:00	2005	2006	36
+Racing Santander	Real Madrid	0:1	2:3	04.05.2006	21:00	2005	2006	36
+MÃ¡laga CF	Sevilla FC	0:1	0:2	06.05.2006	20:00	2005	2006	37
+FC Barcelona	Espanyol Barcelona	1:0	2:0	06.05.2006	20:00	2005	2006	37
+Valencia CF	AtlÃ©tico Madrid	1:1	1:1	06.05.2006	22:00	2005	2006	37
+Getafe CF	CÃ¡diz CF	0:1	3:1	07.05.2006	22:00	2005	2006	37
+Real Sociedad	Celta Vigo	2:1	2:2	07.05.2006	17:00	2005	2006	37
+Real Zaragoza	CD AlavÃ©s	0:0	3:0	07.05.2006	17:00	2005	2006	37
+Real Betis	RCD Mallorca	2:0	2:1	07.05.2006	17:00	2005	2006	37
+Racing Santander	CA Osasuna	0:0	2:1	07.05.2006	17:00	2005	2006	37
+Real Madrid	Villarreal CF	1:2	3:3	07.05.2006	19:00	2005	2006	37
+Deportivo La CoruÃ±a	Athletic Bilbao	1:0	1:2	07.05.2006	19:00	2005	2006	37
+AtlÃ©tico Madrid	Real Betis	1:0	1:1	13.05.2006	20:00	2005	2006	38
+RCD Mallorca	Real Zaragoza	1:1	3:1	13.05.2006	20:00	2005	2006	38
+Celta Vigo	Getafe CF	1:0	1:0	13.05.2006	20:00	2005	2006	38
+CÃ¡diz CF	MÃ¡laga CF	1:0	5:0	13.05.2006	20:00	2005	2006	38
+CD AlavÃ©s	Deportivo La CoruÃ±a	0:0	1:0	13.05.2006	22:00	2005	2006	38
+Espanyol Barcelona	Real Sociedad	0:0	1:0	13.05.2006	22:00	2005	2006	38
+Villarreal CF	Racing Santander	1:0	2:0	13.05.2006	22:00	2005	2006	38
+CA Osasuna	Valencia CF	0:0	2:1	16.05.2006	22:00	2005	2006	38
+Sevilla FC	Real Madrid	4:2	4:3	16.05.2006	21:00	2005	2006	38
+Athletic Bilbao	FC Barcelona	0:1	3:1	20.05.2006	21:00	2005	2006	38

@@ -1,0 +1,306 @@
+Alemannia Aachen	FC Carl Zeiss Jena	2:1	2:2	10.08.2007	18:00	2007	2008	1
+FC St. Pauli	1. FC KÃ¶ln	0:0	0:2	10.08.2007	18:00	2007	2008	1
+VfL OsnabrÃ¼ck	SC Freiburg	1:0	2:1	10.08.2007	18:00	2007	2008	1
+1. FSV Mainz 05	TuS Koblenz	1:1	4:1	12.08.2007	14:00	2007	2008	1
+FC Augsburg	TSV 1860 MÃ¼nchen	1:3	2:6	12.08.2007	14:00	2007	2008	1
+Erzgebirge Aue	SpVgg Greuther FÃ¼rth	0:0	1:1	12.08.2007	14:00	2007	2008	1
+SC Paderborn 07	Kickers Offenbach	0:0	0:2	12.08.2007	14:00	2007	2008	1
+1899 Hoffenheim	SV Wehen Wiesbaden	2:1	2:3	12.08.2007	14:00	2007	2008	1
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	0:0	1:1	13.08.2007	20:15	2007	2008	1
+SC Freiburg	SC Paderborn 07	0:0	1:0	17.08.2007	18:00	2007	2008	2
+TuS Koblenz	FC Augsburg	1:0	2:1	17.08.2007	18:00	2007	2008	2
+SV Wehen Wiesbaden	VfL OsnabrÃ¼ck	0:1	1:1	17.08.2007	18:00	2007	2008	2
+Bor. MÃ¶nchengladbach	1899 Hoffenheim	0:0	0:0	19.08.2007	14:00	2007	2008	2
+SpVgg Greuther FÃ¼rth	1. FSV Mainz 05	1:0	3:0	19.08.2007	14:00	2007	2008	2
+TSV 1860 MÃ¼nchen	1. FC Kaiserslautern	0:1	3:1	19.08.2007	14:00	2007	2008	2
+FC Carl Zeiss Jena	FC St. Pauli	0:1	0:1	19.08.2007	14:00	2007	2008	2
+Kickers Offenbach	Erzgebirge Aue	2:1	3:2	19.08.2007	14:00	2007	2008	2
+1. FC KÃ¶ln	Alemannia Aachen	0:1	0:1	20.08.2007	20:15	2007	2008	2
+1. FSV Mainz 05	Bor. MÃ¶nchengladbach	2:0	4:1	24.08.2007	18:00	2007	2008	3
+1. FC KÃ¶ln	FC Carl Zeiss Jena	1:2	4:3	24.08.2007	18:00	2007	2008	3
+VfL OsnabrÃ¼ck	SC Paderborn 07	0:0	0:0	24.08.2007	18:00	2007	2008	3
+Alemannia Aachen	Kickers Offenbach	0:0	4:0	26.08.2007	14:00	2007	2008	3
+1. FC Kaiserslautern	SpVgg Greuther FÃ¼rth	0:1	0:1	26.08.2007	14:00	2007	2008	3
+Erzgebirge Aue	SV Wehen Wiesbaden	0:0	3:0	26.08.2007	14:00	2007	2008	3
+1899 Hoffenheim	TSV 1860 MÃ¼nchen	0:2	0:3	26.08.2007	14:00	2007	2008	3
+FC St. Pauli	TuS Koblenz	0:0	1:0	26.08.2007	14:00	2007	2008	3
+FC Augsburg	SC Freiburg	1:0	1:1	27.08.2007	20:15	2007	2008	3
+TSV 1860 MÃ¼nchen	1. FC KÃ¶ln	0:0	1:1	31.08.2007	18:00	2007	2008	4
+TuS Koblenz	1. FC Kaiserslautern	1:1	2:2	31.08.2007	18:00	2007	2008	4
+Kickers Offenbach	FC Augsburg	0:0	1:0	31.08.2007	18:00	2007	2008	4
+Bor. MÃ¶nchengladbach	VfL OsnabrÃ¼ck	2:0	2:1	02.09.2007	14:00	2007	2008	4
+SpVgg Greuther FÃ¼rth	FC St. Pauli	1:1	2:1	02.09.2007	14:00	2007	2008	4
+SC Paderborn 07	Erzgebirge Aue	0:0	0:1	02.09.2007	14:00	2007	2008	4
+FC Carl Zeiss Jena	1. FSV Mainz 05	0:1	1:2	02.09.2007	14:00	2007	2008	4
+SV Wehen Wiesbaden	Alemannia Aachen	0:0	3:0	02.09.2007	14:00	2007	2008	4
+SC Freiburg	1899 Hoffenheim	2:1	3:2	03.09.2007	20:15	2007	2008	4
+1. FC Kaiserslautern	SC Paderborn 07	0:0	0:0	14.09.2007	18:00	2007	2008	5
+FC Carl Zeiss Jena	TuS Koblenz	1:2	1:2	14.09.2007	18:00	2007	2008	5
+FC St. Pauli	Kickers Offenbach	2:1	3:1	14.09.2007	18:00	2007	2008	5
+1. FSV Mainz 05	SC Freiburg	0:0	1:1	16.09.2007	14:00	2007	2008	5
+Alemannia Aachen	TSV 1860 MÃ¼nchen	0:0	0:0	16.09.2007	14:00	2007	2008	5
+FC Augsburg	SV Wehen Wiesbaden	3:0	5:1	16.09.2007	14:00	2007	2008	5
+1. FC KÃ¶ln	SpVgg Greuther FÃ¼rth	0:0	0:0	16.09.2007	14:00	2007	2008	5
+1899 Hoffenheim	VfL OsnabrÃ¼ck	0:1	3:1	16.09.2007	14:00	2007	2008	5
+Erzgebirge Aue	Bor. MÃ¶nchengladbach	0:2	2:3	17.09.2007	20:15	2007	2008	5
+Bor. MÃ¶nchengladbach	FC Augsburg	1:0	4:2	21.09.2007	18:00	2007	2008	6
+SpVgg Greuther FÃ¼rth	Alemannia Aachen	1:0	2:0	21.09.2007	18:00	2007	2008	6
+TSV 1860 MÃ¼nchen	FC St. Pauli	2:1	2:1	21.09.2007	18:00	2007	2008	6
+SC Paderborn 07	1899 Hoffenheim	0:2	0:2	21.09.2007	18:00	2007	2008	6
+VfL OsnabrÃ¼ck	Erzgebirge Aue	1:0	2:1	21.09.2007	18:00	2007	2008	6
+SC Freiburg	1. FC Kaiserslautern	0:0	1:0	23.09.2007	14:00	2007	2008	6
+TuS Koblenz	1. FC KÃ¶ln	1:1	1:2	23.09.2007	14:00	2007	2008	6
+Kickers Offenbach	1. FSV Mainz 05	1:0	2:0	23.09.2007	14:00	2007	2008	6
+SV Wehen Wiesbaden	FC Carl Zeiss Jena	4:0	5:1	23.09.2007	14:00	2007	2008	6
+Alemannia Aachen	SC Paderborn 07	2:1	3:1	25.09.2007	17:30	2007	2008	7
+FC Augsburg	VfL OsnabrÃ¼ck	1:0	2:0	25.09.2007	17:30	2007	2008	7
+Erzgebirge Aue	1899 Hoffenheim	1:1	2:2	25.09.2007	17:30	2007	2008	7
+FC St. Pauli	Bor. MÃ¶nchengladbach	0:1	0:3	25.09.2007	17:30	2007	2008	7
+1. FC Kaiserslautern	SV Wehen Wiesbaden	0:0	0:2	26.09.2007	17:30	2007	2008	7
+1. FC KÃ¶ln	SC Freiburg	1:1	1:3	26.09.2007	17:30	2007	2008	7
+TuS Koblenz	SpVgg Greuther FÃ¼rth	2:0	3:0	26.09.2007	17:30	2007	2008	7
+FC Carl Zeiss Jena	Kickers Offenbach	1:0	2:0	26.09.2007	17:30	2007	2008	7
+1. FSV Mainz 05	TSV 1860 MÃ¼nchen	1:0	3:0	27.09.2007	20:15	2007	2008	7
+Bor. MÃ¶nchengladbach	Alemannia Aachen	2:0	2:1	28.09.2007	18:00	2007	2008	8
+SC Paderborn 07	FC Augsburg	0:1	1:1	28.09.2007	18:00	2007	2008	8
+VfL OsnabrÃ¼ck	FC St. Pauli	1:0	3:1	28.09.2007	18:00	2007	2008	8
+SC Freiburg	Erzgebirge Aue	0:0	2:0	30.09.2007	14:00	2007	2008	8
+SpVgg Greuther FÃ¼rth	FC Carl Zeiss Jena	1:1	2:2	30.09.2007	14:00	2007	2008	8
+TSV 1860 MÃ¼nchen	TuS Koblenz	1:1	2:2	30.09.2007	14:00	2007	2008	8
+SV Wehen Wiesbaden	1. FC KÃ¶ln	3:2	4:3	30.09.2007	14:00	2007	2008	8
+1899 Hoffenheim	1. FSV Mainz 05	1:0	1:0	30.09.2007	14:00	2007	2008	8
+Kickers Offenbach	1. FC Kaiserslautern	0:0	0:0	01.10.2007	20:15	2007	2008	8
+SpVgg Greuther FÃ¼rth	SV Wehen Wiesbaden	1:1	1:1	05.10.2007	18:00	2007	2008	9
+1. FC KÃ¶ln	Kickers Offenbach	2:1	4:1	05.10.2007	18:00	2007	2008	9
+FC Carl Zeiss Jena	TSV 1860 MÃ¼nchen	0:0	0:2	05.10.2007	18:00	2007	2008	9
+1. FSV Mainz 05	Erzgebirge Aue	0:1	4:1	07.10.2007	14:00	2007	2008	9
+1. FC Kaiserslautern	VfL OsnabrÃ¼ck	1:0	3:0	07.10.2007	14:00	2007	2008	9
+FC Augsburg	1899 Hoffenheim	2:0	2:2	07.10.2007	14:00	2007	2008	9
+TuS Koblenz	Bor. MÃ¶nchengladbach	0:2	0:5	07.10.2007	14:00	2007	2008	9
+FC St. Pauli	SC Paderborn 07	2:0	2:1	07.10.2007	14:00	2007	2008	9
+Alemannia Aachen	SC Freiburg	1:0	2:0	08.10.2007	20:15	2007	2008	9
+Kickers Offenbach	TuS Koblenz	0:1	1:1	19.10.2007	18:00	2007	2008	10
+1899 Hoffenheim	1. FC Kaiserslautern	0:0	1:0	19.10.2007	18:00	2007	2008	10
+VfL OsnabrÃ¼ck	Alemannia Aachen	1:2	2:2	19.10.2007	18:00	2007	2008	10
+SC Freiburg	FC St. Pauli	1:0	2:0	21.10.2007	14:00	2007	2008	10
+TSV 1860 MÃ¼nchen	SpVgg Greuther FÃ¼rth	0:1	0:3	21.10.2007	14:00	2007	2008	10
+Erzgebirge Aue	FC Augsburg	0:0	3:0	21.10.2007	14:00	2007	2008	10
+SC Paderborn 07	FC Carl Zeiss Jena	2:2	2:2	21.10.2007	14:00	2007	2008	10
+SV Wehen Wiesbaden	1. FSV Mainz 05	0:1	1:3	21.10.2007	14:00	2007	2008	10
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	0:0	2:2	22.10.2007	20:15	2007	2008	10
+1. FSV Mainz 05	FC Augsburg	1:0	1:1	26.10.2007	18:00	2007	2008	11
+Alemannia Aachen	1899 Hoffenheim	1:0	2:2	26.10.2007	18:00	2007	2008	11
+SpVgg Greuther FÃ¼rth	Bor. MÃ¶nchengladbach	0:2	1:3	26.10.2007	18:00	2007	2008	11
+TSV 1860 MÃ¼nchen	Kickers Offenbach	1:0	3:0	26.10.2007	18:00	2007	2008	11
+FC St. Pauli	SV Wehen Wiesbaden	0:1	1:1	26.10.2007	18:00	2007	2008	11
+1. FC Kaiserslautern	Erzgebirge Aue	2:0	2:0	28.10.2007	14:00	2007	2008	11
+1. FC KÃ¶ln	SC Paderborn 07	1:0	2:1	28.10.2007	14:00	2007	2008	11
+TuS Koblenz	VfL OsnabrÃ¼ck	0:0	1:0	28.10.2007	14:00	2007	2008	11
+FC Carl Zeiss Jena	SC Freiburg	0:1	1:2	28.10.2007	14:00	2007	2008	11
+VfL OsnabrÃ¼ck	1. FC KÃ¶ln	2:0	2:1	01.11.2007	20:15	2007	2008	12
+Erzgebirge Aue	Alemannia Aachen	1:1	2:1	02.11.2007	18:00	2007	2008	12
+Kickers Offenbach	SpVgg Greuther FÃ¼rth	1:0	1:2	02.11.2007	18:00	2007	2008	12
+1899 Hoffenheim	FC St. Pauli	0:1	1:1	02.11.2007	18:00	2007	2008	12
+SC Freiburg	TuS Koblenz	0:0	4:2	04.11.2007	14:00	2007	2008	12
+FC Augsburg	1. FC Kaiserslautern	0:0	0:0	04.11.2007	14:00	2007	2008	12
+SC Paderborn 07	1. FSV Mainz 05	1:1	1:1	04.11.2007	14:00	2007	2008	12
+SV Wehen Wiesbaden	TSV 1860 MÃ¼nchen	0:0	0:0	04.11.2007	14:00	2007	2008	12
+Bor. MÃ¶nchengladbach	FC Carl Zeiss Jena	1:1	2:1	05.11.2007	20:15	2007	2008	12
+1. FSV Mainz 05	VfL OsnabrÃ¼ck	1:1	4:1	09.11.2007	18:00	2007	2008	13
+1. FC KÃ¶ln	Erzgebirge Aue	2:2	3:2	09.11.2007	18:00	2007	2008	13
+Kickers Offenbach	SV Wehen Wiesbaden	0:0	0:0	09.11.2007	18:00	2007	2008	13
+Alemannia Aachen	1. FC Kaiserslautern	1:0	2:1	11.11.2007	14:00	2007	2008	13
+SpVgg Greuther FÃ¼rth	SC Freiburg	0:0	1:1	11.11.2007	14:00	2007	2008	13
+FC Carl Zeiss Jena	1899 Hoffenheim	0:0	0:1	11.11.2007	14:00	2007	2008	13
+FC St. Pauli	FC Augsburg	1:0	2:0	11.11.2007	14:00	2007	2008	13
+TSV 1860 MÃ¼nchen	Bor. MÃ¶nchengladbach	0:0	0:0	12.11.2007	20:15	2007	2008	13
+TuS Koblenz	SC Paderborn 07	0:0	0:0	13.11.2007	18:00	2007	2008	13
+Bor. MÃ¶nchengladbach	Kickers Offenbach	1:0	3:0	23.11.2007	18:00	2007	2008	14
+SC Paderborn 07	SpVgg Greuther FÃ¼rth	0:0	1:0	23.11.2007	18:00	2007	2008	14
+SV Wehen Wiesbaden	TuS Koblenz	0:0	0:2	23.11.2007	18:00	2007	2008	14
+VfL OsnabrÃ¼ck	FC Carl Zeiss Jena	1:0	1:1	23.11.2007	18:00	2007	2008	14
+SC Freiburg	TSV 1860 MÃ¼nchen	1:0	2:2	25.11.2007	14:00	2007	2008	14
+FC Augsburg	Alemannia Aachen	0:0	1:0	25.11.2007	14:00	2007	2008	14
+Erzgebirge Aue	FC St. Pauli	0:0	0:0	25.11.2007	14:00	2007	2008	14
+1899 Hoffenheim	1. FC KÃ¶ln	0:1	0:2	25.11.2007	14:00	2007	2008	14
+1. FC Kaiserslautern	1. FSV Mainz 05	0:0	0:0	26.11.2007	20:15	2007	2008	14
+FC Carl Zeiss Jena	Erzgebirge Aue	0:1	2:1	30.11.2007	18:00	2007	2008	15
+SV Wehen Wiesbaden	Bor. MÃ¶nchengladbach	1:0	1:1	30.11.2007	18:00	2007	2008	15
+FC St. Pauli	1. FC Kaiserslautern	2:3	3:4	30.11.2007	18:00	2007	2008	15
+SpVgg Greuther FÃ¼rth	VfL OsnabrÃ¼ck	3:1	6:3	02.12.2007	14:00	2007	2008	15
+TSV 1860 MÃ¼nchen	SC Paderborn 07	0:0	0:0	02.12.2007	14:00	2007	2008	15
+1. FC KÃ¶ln	FC Augsburg	1:0	3:0	02.12.2007	14:00	2007	2008	15
+TuS Koblenz	1899 Hoffenheim	1:1	2:2	02.12.2007	14:00	2007	2008	15
+Kickers Offenbach	SC Freiburg	0:0	0:0	02.12.2007	14:00	2007	2008	15
+Alemannia Aachen	1. FSV Mainz 05	0:1	0:3	03.12.2007	20:15	2007	2008	15
+1. FSV Mainz 05	1. FC KÃ¶ln	0:0	1:0	07.12.2007	18:00	2007	2008	16
+Alemannia Aachen	FC St. Pauli	0:1	2:2	07.12.2007	18:00	2007	2008	16
+Erzgebirge Aue	TuS Koblenz	0:0	0:0	07.12.2007	18:00	2007	2008	16
+1. FC Kaiserslautern	FC Carl Zeiss Jena	2:0	2:3	09.12.2007	14:00	2007	2008	16
+FC Augsburg	SpVgg Greuther FÃ¼rth	1:0	3:0	09.12.2007	14:00	2007	2008	16
+SC Paderborn 07	SV Wehen Wiesbaden	1:0	1:1	09.12.2007	14:00	2007	2008	16
+1899 Hoffenheim	Kickers Offenbach	2:0	2:2	09.12.2007	14:00	2007	2008	16
+VfL OsnabrÃ¼ck	TSV 1860 MÃ¼nchen	2:0	3:0	09.12.2007	14:00	2007	2008	16
+SC Freiburg	Bor. MÃ¶nchengladbach	0:1	1:3	10.12.2007	20:15	2007	2008	16
+TuS Koblenz	Alemannia Aachen	0:0	0:0	14.12.2007	18:00	2007	2008	17
+Kickers Offenbach	VfL OsnabrÃ¼ck	1:1	3:3	14.12.2007	18:00	2007	2008	17
+FC St. Pauli	1. FSV Mainz 05	1:0	1:0	14.12.2007	18:00	2007	2008	17
+Bor. MÃ¶nchengladbach	SC Paderborn 07	0:0	1:1	16.12.2007	14:00	2007	2008	17
+SpVgg Greuther FÃ¼rth	1899 Hoffenheim	1:1	4:1	16.12.2007	14:00	2007	2008	17
+TSV 1860 MÃ¼nchen	Erzgebirge Aue	2:0	5:0	16.12.2007	14:00	2007	2008	17
+FC Carl Zeiss Jena	FC Augsburg	0:2	1:2	16.12.2007	14:00	2007	2008	17
+SV Wehen Wiesbaden	SC Freiburg	2:1	2:2	16.12.2007	14:00	2007	2008	17
+1. FC KÃ¶ln	1. FC Kaiserslautern	1:1	2:1	17.12.2007	20:15	2007	2008	17
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	1:0	1:1	01.02.2008	18:00	2007	2008	18
+SV Wehen Wiesbaden	1899 Hoffenheim	0:2	0:2	01.02.2008	18:00	2007	2008	18
+1. FC KÃ¶ln	FC St. Pauli	0:1	1:1	01.02.2008	18:00	2007	2008	18
+TuS Koblenz	1. FSV Mainz 05	1:1	1:1	03.02.2008	14:00	2007	2008	18
+TSV 1860 MÃ¼nchen	FC Augsburg	0:1	0:3	03.02.2008	14:00	2007	2008	18
+SpVgg Greuther FÃ¼rth	Erzgebirge Aue	2:0	2:0	03.02.2008	14:00	2007	2008	18
+Kickers Offenbach	SC Paderborn 07	2:1	2:1	03.02.2008	14:00	2007	2008	18
+SC Freiburg	VfL OsnabrÃ¼ck	1:1	1:1	03.02.2008	14:00	2007	2008	18
+FC Carl Zeiss Jena	Alemannia Aachen	1:1	2:3	04.02.2008	20:15	2007	2008	18
+1. FC Kaiserslautern	TSV 1860 MÃ¼nchen	1:0	1:2	08.02.2008	18:00	2007	2008	19
+FC St. Pauli	FC Carl Zeiss Jena	1:0	2:2	08.02.2008	18:00	2007	2008	19
+Erzgebirge Aue	Kickers Offenbach	2:0	3:1	08.02.2008	18:00	2007	2008	19
+1899 Hoffenheim	Bor. MÃ¶nchengladbach	0:2	4:2	10.02.2008	14:00	2007	2008	19
+SC Paderborn 07	SC Freiburg	1:1	3:2	10.02.2008	14:00	2007	2008	19
+1. FSV Mainz 05	SpVgg Greuther FÃ¼rth	0:0	1:2	10.02.2008	14:00	2007	2008	19
+VfL OsnabrÃ¼ck	SV Wehen Wiesbaden	0:1	0:2	10.02.2008	14:00	2007	2008	19
+FC Augsburg	TuS Koblenz	1:0	1:0	10.02.2008	14:00	2007	2008	19
+Alemannia Aachen	1. FC KÃ¶ln	1:1	3:2	11.02.2008	20:15	2007	2008	19
+FC Carl Zeiss Jena	1. FC KÃ¶ln	0:1	1:3	15.02.2008	18:00	2007	2008	20
+SV Wehen Wiesbaden	Erzgebirge Aue	2:0	3:0	15.02.2008	18:00	2007	2008	20
+TuS Koblenz	FC St. Pauli	0:0	1:1	15.02.2008	18:00	2007	2008	20
+Kickers Offenbach	Alemannia Aachen	1:1	1:1	17.02.2008	14:00	2007	2008	20
+SpVgg Greuther FÃ¼rth	1. FC Kaiserslautern	0:0	0:1	17.02.2008	14:00	2007	2008	20
+SC Freiburg	FC Augsburg	1:0	1:0	17.02.2008	14:00	2007	2008	20
+TSV 1860 MÃ¼nchen	1899 Hoffenheim	0:1	0:1	17.02.2008	14:00	2007	2008	20
+SC Paderborn 07	VfL OsnabrÃ¼ck	0:0	1:3	17.02.2008	14:00	2007	2008	20
+Bor. MÃ¶nchengladbach	1. FSV Mainz 05	0:1	0:1	18.02.2008	20:15	2007	2008	20
+1899 Hoffenheim	SC Freiburg	1:0	2:0	22.02.2008	18:00	2007	2008	21
+1. FC KÃ¶ln	TSV 1860 MÃ¼nchen	0:0	0:0	22.02.2008	18:00	2007	2008	21
+1. FSV Mainz 05	FC Carl Zeiss Jena	1:0	2:2	22.02.2008	18:00	2007	2008	21
+VfL OsnabrÃ¼ck	Bor. MÃ¶nchengladbach	1:2	2:2	24.02.2008	14:00	2007	2008	21
+FC St. Pauli	SpVgg Greuther FÃ¼rth	0:1	1:1	24.02.2008	14:00	2007	2008	21
+Erzgebirge Aue	SC Paderborn 07	3:0	6:0	24.02.2008	14:00	2007	2008	21
+FC Augsburg	Kickers Offenbach	0:0	1:1	24.02.2008	14:00	2007	2008	21
+Alemannia Aachen	SV Wehen Wiesbaden	1:2	2:3	24.02.2008	14:00	2007	2008	21
+1. FC Kaiserslautern	TuS Koblenz	1:2	2:3	25.02.2008	20:15	2007	2008	21
+SV Wehen Wiesbaden	FC Augsburg	1:0	2:1	29.02.2008	18:00	2007	2008	22
+SpVgg Greuther FÃ¼rth	1. FC KÃ¶ln	1:2	2:2	29.02.2008	18:00	2007	2008	22
+Bor. MÃ¶nchengladbach	Erzgebirge Aue	1:0	2:0	29.02.2008	18:00	2007	2008	22
+TSV 1860 MÃ¼nchen	Alemannia Aachen	0:0	0:0	02.03.2008	14:00	2007	2008	22
+SC Paderborn 07	1. FC Kaiserslautern	0:0	0:0	02.03.2008	14:00	2007	2008	22
+TuS Koblenz	FC Carl Zeiss Jena	1:0	2:0	02.03.2008	14:00	2007	2008	22
+VfL OsnabrÃ¼ck	1899 Hoffenheim	0:2	0:3	02.03.2008	14:00	2007	2008	22
+Kickers Offenbach	FC St. Pauli	1:2	4:3	02.03.2008	14:00	2007	2008	22
+SC Freiburg	1. FSV Mainz 05	0:0	1:1	03.03.2008	20:15	2007	2008	22
+FC Augsburg	Bor. MÃ¶nchengladbach	0:1	0:2	07.03.2008	18:00	2007	2008	23
+1. FC Kaiserslautern	SC Freiburg	0:0	0:0	07.03.2008	18:00	2007	2008	23
+Alemannia Aachen	SpVgg Greuther FÃ¼rth	1:3	2:5	07.03.2008	18:00	2007	2008	23
+1899 Hoffenheim	SC Paderborn 07	0:0	1:0	09.03.2008	14:00	2007	2008	23
+1. FC KÃ¶ln	TuS Koblenz	0:0	1:0	09.03.2008	14:00	2007	2008	23
+1. FSV Mainz 05	Kickers Offenbach	0:0	1:0	09.03.2008	14:00	2007	2008	23
+FC Carl Zeiss Jena	SV Wehen Wiesbaden	2:0	2:2	09.03.2008	14:00	2007	2008	23
+Erzgebirge Aue	VfL OsnabrÃ¼ck	0:0	0:1	09.03.2008	14:00	2007	2008	23
+FC St. Pauli	TSV 1860 MÃ¼nchen	0:0	0:0	10.03.2008	20:15	2007	2008	23
+SC Paderborn 07	Alemannia Aachen	0:1	0:1	14.03.2008	18:00	2007	2008	24
+SV Wehen Wiesbaden	1. FC Kaiserslautern	0:2	0:2	14.03.2008	18:00	2007	2008	24
+Kickers Offenbach	FC Carl Zeiss Jena	1:0	2:1	14.03.2008	18:00	2007	2008	24
+TSV 1860 MÃ¼nchen	1. FSV Mainz 05	0:0	1:1	16.03.2008	14:00	2007	2008	24
+VfL OsnabrÃ¼ck	FC Augsburg	0:1	0:2	16.03.2008	14:00	2007	2008	24
+1899 Hoffenheim	Erzgebirge Aue	0:0	1:0	16.03.2008	14:00	2007	2008	24
+SpVgg Greuther FÃ¼rth	TuS Koblenz	0:0	0:1	16.03.2008	14:00	2007	2008	24
+Bor. MÃ¶nchengladbach	FC St. Pauli	0:0	1:0	16.03.2008	14:00	2007	2008	24
+SC Freiburg	1. FC KÃ¶ln	0:0	1:0	17.03.2008	20:15	2007	2008	24
+FC Augsburg	SC Paderborn 07	0:0	0:1	20.03.2008	18:00	2007	2008	25
+1. FC Kaiserslautern	Kickers Offenbach	0:1	1:1	20.03.2008	18:00	2007	2008	25
+FC St. Pauli	VfL OsnabrÃ¼ck	1:0	2:1	20.03.2008	18:00	2007	2008	25
+Erzgebirge Aue	SC Freiburg	1:0	2:2	23.03.2008	14:00	2007	2008	25
+FC Carl Zeiss Jena	SpVgg Greuther FÃ¼rth	1:0	1:0	23.03.2008	14:00	2007	2008	25
+TuS Koblenz	TSV 1860 MÃ¼nchen	2:1	3:1	23.03.2008	14:00	2007	2008	25
+1. FC KÃ¶ln	SV Wehen Wiesbaden	2:1	2:1	23.03.2008	14:00	2007	2008	25
+1. FSV Mainz 05	1899 Hoffenheim	0:0	1:1	23.03.2008	14:00	2007	2008	25
+Alemannia Aachen	Bor. MÃ¶nchengladbach	1:0	1:1	24.03.2008	20:15	2007	2008	25
+Erzgebirge Aue	1. FSV Mainz 05	2:1	3:3	28.03.2008	18:00	2007	2008	26
+SC Freiburg	Alemannia Aachen	1:0	1:0	28.03.2008	18:00	2007	2008	26
+1899 Hoffenheim	FC Augsburg	0:0	2:0	28.03.2008	18:00	2007	2008	26
+SV Wehen Wiesbaden	SpVgg Greuther FÃ¼rth	1:0	1:1	30.03.2008	14:00	2007	2008	26
+Kickers Offenbach	1. FC KÃ¶ln	1:1	1:3	30.03.2008	14:00	2007	2008	26
+Bor. MÃ¶nchengladbach	TuS Koblenz	0:0	1:0	30.03.2008	14:00	2007	2008	26
+TSV 1860 MÃ¼nchen	FC Carl Zeiss Jena	0:0	1:2	30.03.2008	14:00	2007	2008	26
+SC Paderborn 07	FC St. Pauli	1:1	4:1	30.03.2008	14:00	2007	2008	26
+VfL OsnabrÃ¼ck	1. FC Kaiserslautern	0:0	2:0	31.03.2008	20:15	2007	2008	26
+SpVgg Greuther FÃ¼rth	TSV 1860 MÃ¼nchen	1:1	3:1	04.04.2008	18:00	2007	2008	27
+TuS Koblenz	Kickers Offenbach	0:1	1:1	04.04.2008	18:00	2007	2008	27
+1. FC Kaiserslautern	1899 Hoffenheim	0:0	0:2	04.04.2008	18:00	2007	2008	27
+FC St. Pauli	SC Freiburg	3:0	5:0	06.04.2008	14:00	2007	2008	27
+FC Augsburg	Erzgebirge Aue	0:1	1:1	06.04.2008	14:00	2007	2008	27
+FC Carl Zeiss Jena	SC Paderborn 07	1:0	3:0	06.04.2008	14:00	2007	2008	27
+1. FSV Mainz 05	SV Wehen Wiesbaden	2:0	3:0	06.04.2008	14:00	2007	2008	27
+Alemannia Aachen	VfL OsnabrÃ¼ck	0:0	3:0	06.04.2008	14:00	2007	2008	27
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:1	1:1	07.04.2008	20:15	2007	2008	27
+FC Augsburg	1. FSV Mainz 05	1:1	2:1	11.04.2008	18:00	2007	2008	28
+Erzgebirge Aue	1. FC Kaiserslautern	0:0	0:0	11.04.2008	18:00	2007	2008	28
+SC Paderborn 07	1. FC KÃ¶ln	1:1	2:2	11.04.2008	18:00	2007	2008	28
+VfL OsnabrÃ¼ck	TuS Koblenz	1:0	2:0	11.04.2008	18:00	2007	2008	28
+SV Wehen Wiesbaden	FC St. Pauli	0:0	1:3	11.04.2008	18:00	2007	2008	28
+1899 Hoffenheim	Alemannia Aachen	0:0	1:2	13.04.2008	14:00	2007	2008	28
+Bor. MÃ¶nchengladbach	SpVgg Greuther FÃ¼rth	1:0	3:0	13.04.2008	14:00	2007	2008	28
+Kickers Offenbach	TSV 1860 MÃ¼nchen	1:0	2:0	13.04.2008	14:00	2007	2008	28
+SC Freiburg	FC Carl Zeiss Jena	1:0	2:0	13.04.2008	14:00	2007	2008	28
+1. FC Kaiserslautern	FC Augsburg	2:0	2:0	15.04.2008	17:30	2007	2008	29
+1. FSV Mainz 05	SC Paderborn 07	2:0	6:1	15.04.2008	17:30	2007	2008	29
+1. FC KÃ¶ln	VfL OsnabrÃ¼ck	2:0	2:0	15.04.2008	17:30	2007	2008	29
+FC Carl Zeiss Jena	Bor. MÃ¶nchengladbach	2:0	2:2	16.04.2008	17:30	2007	2008	29
+TuS Koblenz	SC Freiburg	1:1	3:2	16.04.2008	17:30	2007	2008	29
+Alemannia Aachen	Erzgebirge Aue	0:0	1:0	16.04.2008	17:30	2007	2008	29
+SpVgg Greuther FÃ¼rth	Kickers Offenbach	1:0	2:1	16.04.2008	17:30	2007	2008	29
+FC St. Pauli	1899 Hoffenheim	1:1	3:1	16.04.2008	17:30	2007	2008	29
+TSV 1860 MÃ¼nchen	SV Wehen Wiesbaden	1:0	2:1	17.04.2008	20:15	2007	2008	29
+1. FC Kaiserslautern	Alemannia Aachen	1:1	2:1	25.04.2008	18:00	2007	2008	30
+Erzgebirge Aue	1. FC KÃ¶ln	2:2	3:3	25.04.2008	18:00	2007	2008	30
+SC Paderborn 07	TuS Koblenz	3:1	3:2	25.04.2008	18:00	2007	2008	30
+VfL OsnabrÃ¼ck	1. FSV Mainz 05	1:2	1:2	27.04.2008	14:00	2007	2008	30
+Bor. MÃ¶nchengladbach	TSV 1860 MÃ¼nchen	1:2	2:2	27.04.2008	14:00	2007	2008	30
+1899 Hoffenheim	FC Carl Zeiss Jena	4:0	5:0	27.04.2008	14:00	2007	2008	30
+SV Wehen Wiesbaden	Kickers Offenbach	0:1	2:1	27.04.2008	14:00	2007	2008	30
+FC Augsburg	FC St. Pauli	0:0	1:0	27.04.2008	14:00	2007	2008	30
+SC Freiburg	SpVgg Greuther FÃ¼rth	1:1	3:2	28.04.2008	20:15	2007	2008	30
+TSV 1860 MÃ¼nchen	SC Freiburg	0:2	0:3	02.05.2008	18:00	2007	2008	31
+1. FSV Mainz 05	1. FC Kaiserslautern	1:1	2:1	02.05.2008	18:00	2007	2008	31
+FC St. Pauli	Erzgebirge Aue	2:2	4:2	02.05.2008	18:00	2007	2008	31
+SpVgg Greuther FÃ¼rth	SC Paderborn 07	0:0	1:1	02.05.2008	18:00	2007	2008	31
+FC Carl Zeiss Jena	VfL OsnabrÃ¼ck	0:0	1:1	02.05.2008	18:00	2007	2008	31
+Kickers Offenbach	Bor. MÃ¶nchengladbach	0:1	1:7	04.05.2008	14:00	2007	2008	31
+Alemannia Aachen	FC Augsburg	1:0	3:0	04.05.2008	14:00	2007	2008	31
+TuS Koblenz	SV Wehen Wiesbaden	1:0	2:0	04.05.2008	14:00	2007	2008	31
+1. FC KÃ¶ln	1899 Hoffenheim	1:1	3:1	04.05.2008	14:00	2007	2008	31
+VfL OsnabrÃ¼ck	SpVgg Greuther FÃ¼rth	0:0	0:0	06.05.2008	17:30	2007	2008	32
+SC Paderborn 07	TSV 1860 MÃ¼nchen	1:0	3:1	06.05.2008	17:30	2007	2008	32
+Erzgebirge Aue	FC Carl Zeiss Jena	2:0	5:0	06.05.2008	17:30	2007	2008	32
+1. FC Kaiserslautern	FC St. Pauli	1:0	2:0	06.05.2008	17:30	2007	2008	32
+1. FSV Mainz 05	Alemannia Aachen	0:0	0:1	07.05.2008	17:30	2007	2008	32
+FC Augsburg	1. FC KÃ¶ln	0:2	1:3	07.05.2008	17:30	2007	2008	32
+1899 Hoffenheim	TuS Koblenz	1:0	3:1	07.05.2008	17:30	2007	2008	32
+SC Freiburg	Kickers Offenbach	0:0	0:1	07.05.2008	17:30	2007	2008	32
+Bor. MÃ¶nchengladbach	SV Wehen Wiesbaden	1:0	3:0	07.05.2008	17:30	2007	2008	32
+1. FC KÃ¶ln	1. FSV Mainz 05	1:0	2:0	11.05.2008	14:00	2007	2008	33
+FC St. Pauli	Alemannia Aachen	0:2	0:2	11.05.2008	14:00	2007	2008	33
+Bor. MÃ¶nchengladbach	SC Freiburg	0:2	2:3	11.05.2008	14:00	2007	2008	33
+FC Carl Zeiss Jena	1. FC Kaiserslautern	1:0	2:2	11.05.2008	14:00	2007	2008	33
+SpVgg Greuther FÃ¼rth	FC Augsburg	1:0	3:2	11.05.2008	14:00	2007	2008	33
+TuS Koblenz	Erzgebirge Aue	0:0	2:2	11.05.2008	14:00	2007	2008	33
+SV Wehen Wiesbaden	SC Paderborn 07	1:0	1:1	11.05.2008	14:00	2007	2008	33
+Kickers Offenbach	1899 Hoffenheim	0:0	1:1	11.05.2008	14:00	2007	2008	33
+TSV 1860 MÃ¼nchen	VfL OsnabrÃ¼ck	0:1	1:1	11.05.2008	14:00	2007	2008	33
+SC Paderborn 07	Bor. MÃ¶nchengladbach	2:1	2:3	18.05.2008	14:00	2007	2008	34
+1899 Hoffenheim	SpVgg Greuther FÃ¼rth	1:0	5:0	18.05.2008	14:00	2007	2008	34
+Erzgebirge Aue	TSV 1860 MÃ¼nchen	0:0	1:1	18.05.2008	14:00	2007	2008	34
+1. FC Kaiserslautern	1. FC KÃ¶ln	0:0	3:0	18.05.2008	14:00	2007	2008	34
+Alemannia Aachen	TuS Koblenz	0:0	1:3	18.05.2008	14:00	2007	2008	34
+FC Augsburg	FC Carl Zeiss Jena	0:0	1:1	18.05.2008	14:00	2007	2008	34
+VfL OsnabrÃ¼ck	Kickers Offenbach	1:0	3:0	18.05.2008	14:00	2007	2008	34
+SC Freiburg	SV Wehen Wiesbaden	0:2	0:2	18.05.2008	14:00	2007	2008	34
+1. FSV Mainz 05	FC St. Pauli	3:0	5:1	18.05.2008	14:00	2007	2008	34

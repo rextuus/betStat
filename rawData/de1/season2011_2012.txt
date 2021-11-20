@@ -1,0 +1,306 @@
+Borussia Dortmund	Hamburger SV	2:0	3:1	05.08.2011	20:30	2011	2012	1
+Werder Bremen	1. FC Kaiserslautern	0:0	2:0	06.08.2011	15:30	2011	2012	1
+Hannover 96	1899 Hoffenheim	2:1	2:1	06.08.2011	15:30	2011	2012	1
+VfB Stuttgart	FC Schalke 04	1:0	3:0	06.08.2011	15:30	2011	2012	1
+1. FC KÃ¶ln	VfL Wolfsburg	0:1	0:3	06.08.2011	15:30	2011	2012	1
+FC Augsburg	SC Freiburg	0:0	2:2	06.08.2011	15:30	2011	2012	1
+Hertha BSC	1. FC NÃ¼rnberg	0:0	0:1	06.08.2011	18:30	2011	2012	1
+1. FSV Mainz 05	Bayer Leverkusen	1:0	2:0	07.08.2011	15:30	2011	2012	1
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	0:0	0:1	07.08.2011	17:30	2011	2012	1
+Hamburger SV	Hertha BSC	1:1	2:2	13.08.2011	15:30	2011	2012	2
+1. FC NÃ¼rnberg	Hannover 96	0:2	1:2	13.08.2011	15:30	2011	2012	2
+SC Freiburg	1. FSV Mainz 05	0:0	1:2	13.08.2011	15:30	2011	2012	2
+1899 Hoffenheim	Borussia Dortmund	1:0	1:0	13.08.2011	15:30	2011	2012	2
+VfL Wolfsburg	Bayern MÃ¼nchen	0:0	0:1	13.08.2011	15:30	2011	2012	2
+FC Schalke 04	1. FC KÃ¶ln	1:1	5:1	13.08.2011	15:40	2011	2012	2
+Bor. MÃ¶nchengladbach	VfB Stuttgart	0:0	1:1	13.08.2011	18:30	2011	2012	2
+1. FC Kaiserslautern	FC Augsburg	0:1	1:1	14.08.2011	15:30	2011	2012	2
+Bayer Leverkusen	Werder Bremen	0:0	1:0	14.08.2011	17:30	2011	2012	2
+Bor. MÃ¶nchengladbach	VfL Wolfsburg	3:1	4:1	19.08.2011	20:30	2011	2012	3
+Borussia Dortmund	1. FC NÃ¼rnberg	0:0	2:0	20.08.2011	15:30	2011	2012	3
+Bayern MÃ¼nchen	Hamburger SV	3:0	5:0	20.08.2011	15:30	2011	2012	3
+Werder Bremen	SC Freiburg	2:1	5:3	20.08.2011	15:30	2011	2012	3
+VfB Stuttgart	Bayer Leverkusen	0:1	0:1	20.08.2011	15:30	2011	2012	3
+FC Augsburg	1899 Hoffenheim	0:1	0:2	20.08.2011	15:30	2011	2012	3
+1. FC KÃ¶ln	1. FC Kaiserslautern	1:1	1:1	20.08.2011	18:30	2011	2012	3
+1. FSV Mainz 05	FC Schalke 04	2:0	2:4	21.08.2011	15:30	2011	2012	3
+Hannover 96	Hertha BSC	1:0	1:1	21.08.2011	17:30	2011	2012	3
+Hertha BSC	VfB Stuttgart	0:0	1:0	26.08.2011	20:30	2011	2012	4
+Hamburger SV	1. FC KÃ¶ln	1:1	3:4	27.08.2011	15:30	2011	2012	4
+1. FC NÃ¼rnberg	FC Augsburg	0:0	1:0	27.08.2011	15:30	2011	2012	4
+SC Freiburg	VfL Wolfsburg	2:0	3:0	27.08.2011	15:30	2011	2012	4
+1. FC Kaiserslautern	Bayern MÃ¼nchen	0:1	0:3	27.08.2011	15:30	2011	2012	4
+1899 Hoffenheim	Werder Bremen	1:1	1:2	27.08.2011	15:30	2011	2012	4
+Bayer Leverkusen	Borussia Dortmund	0:0	0:0	27.08.2011	18:30	2011	2012	4
+Hannover 96	1. FSV Mainz 05	1:1	1:1	28.08.2011	15:30	2011	2012	4
+FC Schalke 04	Bor. MÃ¶nchengladbach	0:0	1:0	28.08.2011	17:30	2011	2012	4
+FC Augsburg	Bayer Leverkusen	1:2	1:4	09.09.2011	20:30	2011	2012	5
+Borussia Dortmund	Hertha BSC	0:0	1:2	10.09.2011	15:30	2011	2012	5
+Bayern MÃ¼nchen	SC Freiburg	3:0	7:0	10.09.2011	15:30	2011	2012	5
+1. FSV Mainz 05	1899 Hoffenheim	0:2	0:4	10.09.2011	15:30	2011	2012	5
+VfB Stuttgart	Hannover 96	1:0	3:0	10.09.2011	15:30	2011	2012	5
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	0:0	1:0	10.09.2011	15:30	2011	2012	5
+Werder Bremen	Hamburger SV	0:0	2:0	10.09.2011	18:30	2011	2012	5
+1. FC KÃ¶ln	1. FC NÃ¼rnberg	1:2	1:2	11.09.2011	15:30	2011	2012	5
+VfL Wolfsburg	FC Schalke 04	1:1	2:1	11.09.2011	17:30	2011	2012	5
+SC Freiburg	VfB Stuttgart	0:1	1:2	16.09.2011	20:45	2011	2012	6
+Bayer Leverkusen	1. FC KÃ¶ln	0:1	1:4	17.09.2011	15:30	2011	2012	6
+Hamburger SV	Bor. MÃ¶nchengladbach	0:0	0:1	17.09.2011	15:30	2011	2012	6
+1. FC NÃ¼rnberg	Werder Bremen	0:1	1:1	17.09.2011	15:30	2011	2012	6
+1899 Hoffenheim	VfL Wolfsburg	2:0	3:1	17.09.2011	15:30	2011	2012	6
+Hertha BSC	FC Augsburg	0:1	2:2	17.09.2011	15:30	2011	2012	6
+1. FC Kaiserslautern	1. FSV Mainz 05	1:1	3:1	17.09.2011	18:30	2011	2012	6
+Hannover 96	Borussia Dortmund	0:0	2:1	18.09.2011	15:30	2011	2012	6
+FC Schalke 04	Bayern MÃ¼nchen	0:1	0:2	18.09.2011	17:30	2011	2012	6
+VfB Stuttgart	Hamburger SV	1:0	1:2	23.09.2011	20:40	2011	2012	7
+FC Schalke 04	SC Freiburg	1:1	4:2	24.09.2011	15:30	2011	2012	7
+1. FSV Mainz 05	Borussia Dortmund	1:0	1:2	24.09.2011	15:30	2011	2012	7
+VfL Wolfsburg	1. FC Kaiserslautern	0:0	1:0	24.09.2011	15:30	2011	2012	7
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	0:0	1:0	24.09.2011	15:30	2011	2012	7
+FC Augsburg	Hannover 96	0:0	0:0	24.09.2011	15:30	2011	2012	7
+Bayern MÃ¼nchen	Bayer Leverkusen	2:0	3:0	24.09.2011	18:30	2011	2012	7
+1. FC KÃ¶ln	1899 Hoffenheim	1:0	2:0	25.09.2011	15:40	2011	2012	7
+Werder Bremen	Hertha BSC	1:1	2:1	25.09.2011	17:30	2011	2012	7
+1. FC Kaiserslautern	VfB Stuttgart	0:0	0:2	30.09.2011	20:40	2011	2012	8
+Borussia Dortmund	FC Augsburg	2:0	4:0	01.10.2011	15:30	2011	2012	8
+Bayer Leverkusen	VfL Wolfsburg	1:0	3:1	01.10.2011	15:30	2011	2012	8
+1. FC NÃ¼rnberg	1. FSV Mainz 05	2:2	3:3	01.10.2011	15:30	2011	2012	8
+SC Freiburg	Bor. MÃ¶nchengladbach	1:0	1:0	01.10.2011	15:30	2011	2012	8
+1899 Hoffenheim	Bayern MÃ¼nchen	0:0	0:0	01.10.2011	15:30	2011	2012	8
+Hertha BSC	1. FC KÃ¶ln	3:0	3:0	01.10.2011	18:30	2011	2012	8
+Hannover 96	Werder Bremen	2:1	3:2	02.10.2011	15:30	2011	2012	8
+Hamburger SV	FC Schalke 04	1:1	1:2	02.10.2011	17:30	2011	2012	8
+Werder Bremen	Borussia Dortmund	0:1	0:2	14.10.2011	20:30	2011	2012	9
+Bayern MÃ¼nchen	Hertha BSC	3:0	4:0	15.10.2011	15:30	2011	2012	9
+1. FSV Mainz 05	FC Augsburg	0:0	0:1	15.10.2011	15:30	2011	2012	9
+VfB Stuttgart	1899 Hoffenheim	0:0	2:0	15.10.2011	15:30	2011	2012	9
+VfL Wolfsburg	1. FC NÃ¼rnberg	1:0	2:1	15.10.2011	15:30	2011	2012	9
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	0:1	2:2	15.10.2011	15:30	2011	2012	9
+FC Schalke 04	1. FC Kaiserslautern	0:1	1:2	15.10.2011	18:30	2011	2012	9
+SC Freiburg	Hamburger SV	0:1	1:2	16.10.2011	15:30	2011	2012	9
+1. FC KÃ¶ln	Hannover 96	1:0	2:0	16.10.2011	17:30	2011	2012	9
+FC Augsburg	Werder Bremen	0:0	1:1	21.10.2011	20:30	2011	2012	10
+Borussia Dortmund	1. FC KÃ¶ln	3:0	5:0	22.10.2011	15:30	2011	2012	10
+1. FC NÃ¼rnberg	VfB Stuttgart	1:0	2:2	22.10.2011	15:30	2011	2012	10
+1. FC Kaiserslautern	SC Freiburg	0:0	1:0	22.10.2011	15:30	2011	2012	10
+1899 Hoffenheim	Bor. MÃ¶nchengladbach	0:0	1:0	22.10.2011	15:30	2011	2012	10
+Hertha BSC	1. FSV Mainz 05	0:0	0:0	22.10.2011	15:30	2011	2012	10
+Hamburger SV	VfL Wolfsburg	0:1	1:1	22.10.2011	18:30	2011	2012	10
+Bayer Leverkusen	FC Schalke 04	0:0	0:1	23.10.2011	15:30	2011	2012	10
+Hannover 96	Bayern MÃ¼nchen	1:0	2:1	23.10.2011	17:30	2011	2012	10
+SC Freiburg	Bayer Leverkusen	0:1	0:1	28.10.2011	20:30	2011	2012	11
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	3:0	4:0	29.10.2011	15:30	2011	2012	11
+FC Schalke 04	1899 Hoffenheim	1:0	3:1	29.10.2011	15:30	2011	2012	11
+VfL Wolfsburg	Hertha BSC	1:2	2:3	29.10.2011	15:30	2011	2012	11
+Bor. MÃ¶nchengladbach	Hannover 96	1:1	2:1	29.10.2011	15:30	2011	2012	11
+VfB Stuttgart	Borussia Dortmund	1:1	1:1	29.10.2011	15:45	2011	2012	11
+1. FSV Mainz 05	Werder Bremen	1:1	1:3	29.10.2011	18:30	2011	2012	11
+1. FC KÃ¶ln	FC Augsburg	2:0	3:0	30.10.2011	15:30	2011	2012	11
+Hamburger SV	1. FC Kaiserslautern	0:1	1:1	30.10.2011	17:30	2011	2012	11
+1. FSV Mainz 05	VfB Stuttgart	0:0	3:1	04.11.2011	20:30	2011	2012	12
+Borussia Dortmund	VfL Wolfsburg	2:0	5:1	05.11.2011	15:30	2011	2012	12
+Werder Bremen	1. FC KÃ¶ln	0:2	3:2	05.11.2011	15:30	2011	2012	12
+1. FC NÃ¼rnberg	SC Freiburg	1:1	1:2	05.11.2011	15:30	2011	2012	12
+1899 Hoffenheim	1. FC Kaiserslautern	1:0	1:1	05.11.2011	15:30	2011	2012	12
+Hertha BSC	Bor. MÃ¶nchengladbach	1:1	1:2	05.11.2011	15:30	2011	2012	12
+Bayer Leverkusen	Hamburger SV	2:1	2:2	05.11.2011	18:30	2011	2012	12
+Hannover 96	FC Schalke 04	1:1	2:2	06.11.2011	15:30	2011	2012	12
+FC Augsburg	Bayern MÃ¼nchen	0:2	1:2	06.11.2011	17:30	2011	2012	12
+1. FC Kaiserslautern	Bayer Leverkusen	0:0	0:2	18.11.2011	20:30	2011	2012	13
+FC Schalke 04	1. FC NÃ¼rnberg	2:0	4:0	19.11.2011	15:30	2011	2012	13
+SC Freiburg	Hertha BSC	0:2	2:2	19.11.2011	15:30	2011	2012	13
+VfL Wolfsburg	Hannover 96	2:1	4:1	19.11.2011	15:30	2011	2012	13
+Bor. MÃ¶nchengladbach	Werder Bremen	3:0	5:0	19.11.2011	15:30	2011	2012	13
+Bayern MÃ¼nchen	Borussia Dortmund	0:0	0:1	19.11.2011	18:30	2011	2012	13
+VfB Stuttgart	FC Augsburg	1:0	2:1	20.11.2011	15:30	2011	2012	13
+Hamburger SV	1899 Hoffenheim	1:0	2:0	20.11.2011	17:30	2011	2012	13
+1. FC KÃ¶ln	1. FSV Mainz 05	0:0	1:1	13.12.2011	20:30	2011	2012	13
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:2	0:3	25.11.2011	20:30	2011	2012	14
+Borussia Dortmund	FC Schalke 04	1:0	2:0	26.11.2011	15:30	2011	2012	14
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	1:0	1:0	26.11.2011	15:30	2011	2012	14
+1899 Hoffenheim	SC Freiburg	1:0	1:1	26.11.2011	15:30	2011	2012	14
+FC Augsburg	VfL Wolfsburg	0:0	2:0	26.11.2011	15:30	2011	2012	14
+Hertha BSC	Bayer Leverkusen	2:1	3:3	26.11.2011	15:30	2011	2012	14
+Hannover 96	Hamburger SV	0:0	1:1	26.11.2011	18:30	2011	2012	14
+Werder Bremen	VfB Stuttgart	0:0	2:0	27.11.2011	15:30	2011	2012	14
+1. FSV Mainz 05	Bayern MÃ¼nchen	1:0	3:2	27.11.2011	17:30	2011	2012	14
+Bayer Leverkusen	1899 Hoffenheim	1:0	2:0	02.12.2011	20:30	2011	2012	15
+Bayern MÃ¼nchen	Werder Bremen	1:0	4:1	03.12.2011	15:30	2011	2012	15
+SC Freiburg	Hannover 96	0:1	1:1	03.12.2011	15:30	2011	2012	15
+1. FC Kaiserslautern	Hertha BSC	1:1	1:1	03.12.2011	15:30	2011	2012	15
+VfL Wolfsburg	1. FSV Mainz 05	2:0	2:2	03.12.2011	15:30	2011	2012	15
+Bor. MÃ¶nchengladbach	Borussia Dortmund	0:1	1:1	03.12.2011	15:30	2011	2012	15
+VfB Stuttgart	1. FC KÃ¶ln	2:1	2:2	03.12.2011	18:30	2011	2012	15
+Hamburger SV	1. FC NÃ¼rnberg	1:0	2:0	04.12.2011	15:30	2011	2012	15
+FC Schalke 04	FC Augsburg	1:0	3:1	04.12.2011	17:30	2011	2012	15
+Hertha BSC	FC Schalke 04	1:2	1:2	09.12.2011	20:30	2011	2012	16
+Werder Bremen	VfL Wolfsburg	2:0	4:1	10.12.2011	15:30	2011	2012	16
+1. FSV Mainz 05	Hamburger SV	0:0	0:0	10.12.2011	15:30	2011	2012	16
+1. FC NÃ¼rnberg	1899 Hoffenheim	0:1	0:2	10.12.2011	15:30	2011	2012	16
+1. FC KÃ¶ln	SC Freiburg	1:0	4:0	10.12.2011	15:30	2011	2012	16
+FC Augsburg	Bor. MÃ¶nchengladbach	0:0	1:0	10.12.2011	15:30	2011	2012	16
+Hannover 96	Bayer Leverkusen	0:0	0:0	10.12.2011	18:30	2011	2012	16
+Borussia Dortmund	1. FC Kaiserslautern	1:0	1:1	11.12.2011	15:30	2011	2012	16
+VfB Stuttgart	Bayern MÃ¼nchen	1:1	1:2	11.12.2011	17:30	2011	2012	16
+Bayern MÃ¼nchen	1. FC KÃ¶ln	0:0	3:0	16.12.2011	20:30	2011	2012	17
+Bayer Leverkusen	1. FC NÃ¼rnberg	0:2	0:3	17.12.2011	15:30	2011	2012	17
+Hamburger SV	FC Augsburg	0:0	1:1	17.12.2011	15:30	2011	2012	17
+SC Freiburg	Borussia Dortmund	1:2	1:4	17.12.2011	15:30	2011	2012	17
+1899 Hoffenheim	Hertha BSC	1:0	1:1	17.12.2011	15:30	2011	2012	17
+VfL Wolfsburg	VfB Stuttgart	0:0	1:0	17.12.2011	15:30	2011	2012	17
+FC Schalke 04	Werder Bremen	2:0	5:0	17.12.2011	18:30	2011	2012	17
+1. FC Kaiserslautern	Hannover 96	0:1	1:1	18.12.2011	15:30	2011	2012	17
+Bor. MÃ¶nchengladbach	1. FSV Mainz 05	1:0	1:0	18.12.2011	17:30	2011	2012	17
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	2:0	3:1	20.01.2012	20:30	2011	2012	18
+1899 Hoffenheim	Hannover 96	0:0	0:0	21.01.2012	15:30	2011	2012	18
+FC Schalke 04	VfB Stuttgart	1:0	3:1	21.01.2012	15:30	2011	2012	18
+VfL Wolfsburg	1. FC KÃ¶ln	0:0	1:0	21.01.2012	15:30	2011	2012	18
+SC Freiburg	FC Augsburg	0:0	1:0	21.01.2012	15:30	2011	2012	18
+1. FC NÃ¼rnberg	Hertha BSC	1:0	2:0	21.01.2012	15:30	2011	2012	18
+1. FC Kaiserslautern	Werder Bremen	0:0	0:0	21.01.2012	18:30	2011	2012	18
+Hamburger SV	Borussia Dortmund	0:2	1:5	22.01.2012	15:30	2011	2012	18
+Bayer Leverkusen	1. FSV Mainz 05	2:0	3:2	22.01.2012	17:30	2011	2012	18
+Hannover 96	1. FC NÃ¼rnberg	1:0	1:0	27.01.2012	20:30	2011	2012	19
+Werder Bremen	Bayer Leverkusen	1:0	1:1	28.01.2012	15:30	2011	2012	19
+Hertha BSC	Hamburger SV	0:2	1:2	28.01.2012	15:30	2011	2012	19
+FC Augsburg	1. FC Kaiserslautern	1:1	2:2	28.01.2012	15:30	2011	2012	19
+Borussia Dortmund	1899 Hoffenheim	2:0	3:1	28.01.2012	15:30	2011	2012	19
+Bayern MÃ¼nchen	VfL Wolfsburg	0:0	2:0	28.01.2012	15:30	2011	2012	19
+1. FC KÃ¶ln	FC Schalke 04	1:0	1:4	28.01.2012	18:30	2011	2012	19
+1. FSV Mainz 05	SC Freiburg	3:0	3:1	29.01.2012	15:30	2011	2012	19
+VfB Stuttgart	Bor. MÃ¶nchengladbach	0:1	0:3	29.01.2012	17:30	2011	2012	19
+1. FC NÃ¼rnberg	Borussia Dortmund	0:0	0:2	03.02.2012	20:30	2011	2012	20
+Hertha BSC	Hannover 96	0:0	0:1	04.02.2012	15:30	2011	2012	20
+FC Schalke 04	1. FSV Mainz 05	0:1	1:1	04.02.2012	15:30	2011	2012	20
+Bayer Leverkusen	VfB Stuttgart	1:1	2:2	04.02.2012	15:30	2011	2012	20
+VfL Wolfsburg	Bor. MÃ¶nchengladbach	0:0	0:0	04.02.2012	15:30	2011	2012	20
+1899 Hoffenheim	FC Augsburg	1:1	2:2	04.02.2012	15:30	2011	2012	20
+Hamburger SV	Bayern MÃ¼nchen	1:0	1:1	04.02.2012	18:30	2011	2012	20
+SC Freiburg	Werder Bremen	1:1	2:2	05.02.2012	15:30	2011	2012	20
+1. FC Kaiserslautern	1. FC KÃ¶ln	0:0	0:1	05.02.2012	17:30	2011	2012	20
+VfL Wolfsburg	SC Freiburg	2:2	3:2	10.02.2012	20:30	2011	2012	21
+Borussia Dortmund	Bayer Leverkusen	1:0	1:0	11.02.2012	15:30	2011	2012	21
+1. FSV Mainz 05	Hannover 96	1:0	1:1	11.02.2012	15:30	2011	2012	21
+Bayern MÃ¼nchen	1. FC Kaiserslautern	2:0	2:0	11.02.2012	15:30	2011	2012	21
+Werder Bremen	1899 Hoffenheim	0:1	1:1	11.02.2012	15:30	2011	2012	21
+VfB Stuttgart	Hertha BSC	4:0	5:0	11.02.2012	15:30	2011	2012	21
+Bor. MÃ¶nchengladbach	FC Schalke 04	3:0	3:0	11.02.2012	18:30	2011	2012	21
+FC Augsburg	1. FC NÃ¼rnberg	0:0	0:0	12.02.2012	15:30	2011	2012	21
+1. FC KÃ¶ln	Hamburger SV	0:0	0:1	12.02.2012	17:30	2011	2012	21
+1899 Hoffenheim	1. FSV Mainz 05	1:1	1:1	17.02.2012	20:30	2011	2012	22
+Hertha BSC	Borussia Dortmund	0:0	0:1	18.02.2012	15:30	2011	2012	22
+Hamburger SV	Werder Bremen	0:2	1:3	18.02.2012	15:30	2011	2012	22
+1. FC NÃ¼rnberg	1. FC KÃ¶ln	1:0	2:1	18.02.2012	15:30	2011	2012	22
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	0:2	1:2	18.02.2012	15:30	2011	2012	22
+Bayer Leverkusen	FC Augsburg	1:0	4:1	18.02.2012	15:30	2011	2012	22
+SC Freiburg	Bayern MÃ¼nchen	0:0	0:0	18.02.2012	18:30	2011	2012	22
+FC Schalke 04	VfL Wolfsburg	2:0	4:0	19.02.2012	15:30	2011	2012	22
+Hannover 96	VfB Stuttgart	2:0	4:2	19.02.2012	17:30	2011	2012	22
+Bor. MÃ¶nchengladbach	Hamburger SV	1:0	1:1	24.02.2012	20:30	2011	2012	23
+1. FC KÃ¶ln	Bayer Leverkusen	0:1	0:2	25.02.2012	15:30	2011	2012	23
+VfB Stuttgart	SC Freiburg	2:1	4:1	25.02.2012	15:30	2011	2012	23
+1. FSV Mainz 05	1. FC Kaiserslautern	3:0	4:0	25.02.2012	15:30	2011	2012	23
+VfL Wolfsburg	1899 Hoffenheim	0:1	1:2	25.02.2012	15:30	2011	2012	23
+FC Augsburg	Hertha BSC	0:0	3:0	25.02.2012	15:30	2011	2012	23
+Werder Bremen	1. FC NÃ¼rnberg	0:0	0:1	25.02.2012	18:30	2011	2012	23
+Bayern MÃ¼nchen	FC Schalke 04	1:0	2:0	26.02.2012	15:30	2011	2012	23
+Borussia Dortmund	Hannover 96	1:0	3:1	26.02.2012	17:30	2011	2012	23
+Bayer Leverkusen	Bayern MÃ¼nchen	0:0	2:0	03.03.2012	15:30	2011	2012	24
+SC Freiburg	FC Schalke 04	1:0	2:1	03.03.2012	15:30	2011	2012	24
+Hertha BSC	Werder Bremen	0:0	1:0	03.03.2012	15:30	2011	2012	24
+Hamburger SV	VfB Stuttgart	0:2	0:4	03.03.2012	15:30	2011	2012	24
+1. FC Kaiserslautern	VfL Wolfsburg	0:0	0:0	03.03.2012	15:30	2011	2012	24
+Hannover 96	FC Augsburg	1:1	2:2	03.03.2012	15:30	2011	2012	24
+Borussia Dortmund	1. FSV Mainz 05	1:0	2:1	03.03.2012	18:30	2011	2012	24
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	0:0	1:0	04.03.2012	15:30	2011	2012	24
+1899 Hoffenheim	1. FC KÃ¶ln	1:0	1:1	04.03.2012	17:30	2011	2012	24
+VfB Stuttgart	1. FC Kaiserslautern	0:0	0:0	09.03.2012	20:30	2011	2012	25
+VfL Wolfsburg	Bayer Leverkusen	2:1	3:2	10.03.2012	15:30	2011	2012	25
+1. FSV Mainz 05	1. FC NÃ¼rnberg	2:0	2:1	10.03.2012	15:30	2011	2012	25
+Bor. MÃ¶nchengladbach	SC Freiburg	0:0	0:0	10.03.2012	15:30	2011	2012	25
+Bayern MÃ¼nchen	1899 Hoffenheim	5:0	7:1	10.03.2012	15:30	2011	2012	25
+1. FC KÃ¶ln	Hertha BSC	1:0	1:0	10.03.2012	15:30	2011	2012	25
+FC Augsburg	Borussia Dortmund	0:0	0:0	10.03.2012	18:30	2011	2012	25
+Werder Bremen	Hannover 96	1:0	3:0	11.03.2012	15:30	2011	2012	25
+FC Schalke 04	Hamburger SV	3:1	3:1	11.03.2012	17:30	2011	2012	25
+1899 Hoffenheim	VfB Stuttgart	0:2	1:2	16.03.2012	20:30	2011	2012	26
+Borussia Dortmund	Werder Bremen	1:0	1:0	17.03.2012	15:30	2011	2012	26
+FC Augsburg	1. FSV Mainz 05	1:1	2:1	17.03.2012	15:30	2011	2012	26
+Hamburger SV	SC Freiburg	0:2	1:3	17.03.2012	15:30	2011	2012	26
+1. FC NÃ¼rnberg	VfL Wolfsburg	1:2	1:3	17.03.2012	15:30	2011	2012	26
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	0:1	1:2	17.03.2012	15:30	2011	2012	26
+Hertha BSC	Bayern MÃ¼nchen	0:3	0:6	17.03.2012	18:30	2011	2012	26
+1. FC Kaiserslautern	FC Schalke 04	1:2	1:4	18.03.2012	15:30	2011	2012	26
+Hannover 96	1. FC KÃ¶ln	1:1	4:1	18.03.2012	17:30	2011	2012	26
+VfL Wolfsburg	Hamburger SV	0:0	2:1	23.03.2012	20:30	2011	2012	27
+Bayern MÃ¼nchen	Hannover 96	1:0	2:1	24.03.2012	15:30	2011	2012	27
+SC Freiburg	1. FC Kaiserslautern	2:0	2:0	24.03.2012	15:30	2011	2012	27
+Bor. MÃ¶nchengladbach	1899 Hoffenheim	1:0	1:2	24.03.2012	15:30	2011	2012	27
+Werder Bremen	FC Augsburg	0:0	1:1	24.03.2012	15:30	2011	2012	27
+1. FSV Mainz 05	Hertha BSC	0:1	1:3	24.03.2012	15:30	2011	2012	27
+FC Schalke 04	Bayer Leverkusen	1:0	2:0	24.03.2012	18:30	2011	2012	27
+VfB Stuttgart	1. FC NÃ¼rnberg	0:0	1:0	25.03.2012	15:30	2011	2012	27
+1. FC KÃ¶ln	Borussia Dortmund	1:1	1:6	25.03.2012	17:40	2011	2012	27
+Borussia Dortmund	VfB Stuttgart	1:0	4:4	30.03.2012	20:30	2011	2012	28
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	0:0	0:1	31.03.2012	15:30	2011	2012	28
+1. FC Kaiserslautern	Hamburger SV	0:1	0:1	31.03.2012	15:30	2011	2012	28
+Werder Bremen	1. FSV Mainz 05	0:1	0:3	31.03.2012	15:30	2011	2012	28
+Bayer Leverkusen	SC Freiburg	0:1	0:2	31.03.2012	15:30	2011	2012	28
+FC Augsburg	1. FC KÃ¶ln	2:1	2:1	31.03.2012	15:30	2011	2012	28
+Hertha BSC	VfL Wolfsburg	1:2	1:4	31.03.2012	18:30	2011	2012	28
+Hannover 96	Bor. MÃ¶nchengladbach	0:0	2:1	01.04.2012	15:30	2011	2012	28
+1899 Hoffenheim	FC Schalke 04	1:0	1:1	01.04.2012	17:30	2011	2012	28
+VfL Wolfsburg	Borussia Dortmund	0:1	1:3	07.04.2012	15:30	2011	2012	29
+1. FC KÃ¶ln	Werder Bremen	1:1	1:1	07.04.2012	15:30	2011	2012	29
+VfB Stuttgart	1. FSV Mainz 05	1:1	4:1	07.04.2012	15:30	2011	2012	29
+SC Freiburg	1. FC NÃ¼rnberg	0:2	2:2	07.04.2012	15:30	2011	2012	29
+1. FC Kaiserslautern	1899 Hoffenheim	0:1	1:2	07.04.2012	15:30	2011	2012	29
+Bayern MÃ¼nchen	FC Augsburg	1:1	2:1	07.04.2012	15:30	2011	2012	29
+Bor. MÃ¶nchengladbach	Hertha BSC	0:0	0:0	07.04.2012	18:30	2011	2012	29
+FC Schalke 04	Hannover 96	1:0	3:0	08.04.2012	15:30	2011	2012	29
+Hamburger SV	Bayer Leverkusen	1:0	1:1	08.04.2012	17:30	2011	2012	29
+Hertha BSC	SC Freiburg	0:1	1:2	10.04.2012	20:00	2011	2012	30
+FC Augsburg	VfB Stuttgart	1:2	1:3	10.04.2012	20:00	2011	2012	30
+1. FSV Mainz 05	1. FC KÃ¶ln	3:0	4:0	10.04.2012	20:00	2011	2012	30
+Werder Bremen	Bor. MÃ¶nchengladbach	1:0	2:2	10.04.2012	20:00	2011	2012	30
+Borussia Dortmund	Bayern MÃ¼nchen	0:0	1:0	11.04.2012	20:00	2011	2012	30
+1. FC NÃ¼rnberg	FC Schalke 04	3:0	4:1	11.04.2012	20:00	2011	2012	30
+1899 Hoffenheim	Hamburger SV	2:0	4:0	11.04.2012	20:00	2011	2012	30
+Bayer Leverkusen	1. FC Kaiserslautern	1:1	3:1	11.04.2012	20:00	2011	2012	30
+Hannover 96	VfL Wolfsburg	1:0	2:0	11.04.2012	20:00	2011	2012	30
+VfB Stuttgart	Werder Bremen	2:1	4:1	13.04.2012	20:30	2011	2012	31
+FC Schalke 04	Borussia Dortmund	1:1	1:2	14.04.2012	15:30	2011	2012	31
+Hamburger SV	Hannover 96	1:0	1:0	14.04.2012	15:30	2011	2012	31
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	0:1	0:2	14.04.2012	15:30	2011	2012	31
+VfL Wolfsburg	FC Augsburg	1:1	1:2	14.04.2012	15:30	2011	2012	31
+Bayer Leverkusen	Hertha BSC	1:0	3:3	14.04.2012	15:30	2011	2012	31
+Bayern MÃ¼nchen	1. FSV Mainz 05	0:0	0:0	14.04.2012	18:30	2011	2012	31
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	1:0	3:0	15.04.2012	15:30	2011	2012	31
+SC Freiburg	1899 Hoffenheim	0:0	0:0	15.04.2012	17:30	2011	2012	31
+1. FSV Mainz 05	VfL Wolfsburg	0:0	0:0	20.04.2012	20:30	2011	2012	32
+1899 Hoffenheim	Bayer Leverkusen	0:0	0:1	21.04.2012	15:30	2011	2012	32
+Werder Bremen	Bayern MÃ¼nchen	0:0	1:2	21.04.2012	15:30	2011	2012	32
+1. FC NÃ¼rnberg	Hamburger SV	0:0	1:1	21.04.2012	15:30	2011	2012	32
+Hertha BSC	1. FC Kaiserslautern	0:2	1:2	21.04.2012	15:30	2011	2012	32
+1. FC KÃ¶ln	VfB Stuttgart	0:0	1:1	21.04.2012	15:30	2011	2012	32
+Borussia Dortmund	Bor. MÃ¶nchengladbach	1:0	2:0	21.04.2012	18:30	2011	2012	32
+FC Augsburg	FC Schalke 04	1:1	1:1	22.04.2012	15:30	2011	2012	32
+Hannover 96	SC Freiburg	0:0	0:0	22.04.2012	17:30	2011	2012	32
+1. FC Kaiserslautern	Borussia Dortmund	1:3	2:5	28.04.2012	15:30	2011	2012	33
+VfL Wolfsburg	Werder Bremen	1:1	3:1	28.04.2012	15:30	2011	2012	33
+Bayer Leverkusen	Hannover 96	0:0	1:0	28.04.2012	15:30	2011	2012	33
+Hamburger SV	1. FSV Mainz 05	0:0	0:0	28.04.2012	15:30	2011	2012	33
+1899 Hoffenheim	1. FC NÃ¼rnberg	1:2	2:3	28.04.2012	15:30	2011	2012	33
+Bayern MÃ¼nchen	VfB Stuttgart	1:0	2:0	28.04.2012	15:30	2011	2012	33
+SC Freiburg	1. FC KÃ¶ln	1:0	4:1	28.04.2012	15:30	2011	2012	33
+Bor. MÃ¶nchengladbach	FC Augsburg	0:0	0:0	28.04.2012	15:30	2011	2012	33
+FC Schalke 04	Hertha BSC	1:0	4:0	28.04.2012	15:30	2011	2012	33
+1. FC NÃ¼rnberg	Bayer Leverkusen	0:2	1:4	05.05.2012	15:30	2011	2012	34
+1. FC KÃ¶ln	Bayern MÃ¼nchen	0:1	1:4	05.05.2012	15:30	2011	2012	34
+Werder Bremen	FC Schalke 04	1:1	2:3	05.05.2012	15:30	2011	2012	34
+FC Augsburg	Hamburger SV	1:0	1:0	05.05.2012	15:30	2011	2012	34
+Borussia Dortmund	SC Freiburg	4:0	4:0	05.05.2012	15:30	2011	2012	34
+Hannover 96	1. FC Kaiserslautern	1:1	2:1	05.05.2012	15:30	2011	2012	34
+Hertha BSC	1899 Hoffenheim	1:0	3:1	05.05.2012	15:30	2011	2012	34
+VfB Stuttgart	VfL Wolfsburg	0:1	3:2	05.05.2012	15:30	2011	2012	34
+1. FSV Mainz 05	Bor. MÃ¶nchengladbach	0:1	0:3	05.05.2012	15:30	2011	2012	34

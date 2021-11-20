@@ -1,0 +1,380 @@
+Newcastle United	Sheffield Wednesday	1:1	2:1	09.08.1997	00:00	1997	1998	1
+Southampton FC	Bolton Wanderers	0:1	0:1	09.08.1997	00:00	1997	1998	1
+Barnsley FC	West Ham United	1:0	1:2	09.08.1997	00:00	1997	1998	1
+Blackburn Rovers	Derby County	1:0	1:0	09.08.1997	00:00	1997	1998	1
+Coventry City	Chelsea FC	1:1	3:2	09.08.1997	00:00	1997	1998	1
+Wimbledon FC	Liverpool FC	0:0	1:1	09.08.1997	00:00	1997	1998	1
+Everton FC	Crystal Palace	0:1	1:2	09.08.1997	00:00	1997	1998	1
+Leeds United	Arsenal FC	1:1	1:1	09.08.1997	00:00	1997	1998	1
+Leicester City	Aston Villa	1:0	1:0	09.08.1997	00:00	1997	1998	1
+Tottenham Hotspur	Manchester United	0:0	0:2	10.08.1997	00:00	1997	1998	1
+Arsenal FC	Coventry City	1:0	2:0	11.08.1997	00:00	1997	1998	2
+Crystal Palace	Barnsley FC	0:0	0:1	12.08.1997	00:00	1997	1998	2
+Liverpool FC	Leicester City	0:1	1:2	13.08.1997	00:00	1997	1998	2
+Manchester United	Southampton FC	0:0	1:0	13.08.1997	00:00	1997	1998	2
+Aston Villa	Blackburn Rovers	0:3	0:4	13.08.1997	00:00	1997	1998	2
+Sheffield Wednesday	Leeds United	0:2	1:3	13.08.1997	00:00	1997	1998	2
+West Ham United	Tottenham Hotspur	1:0	2:1	13.08.1997	00:00	1997	1998	2
+Derby County	Wimbledon FC	0:0	1:1	22.10.1997	00:00	1997	1998	2
+Chelsea FC	Everton FC	0:0	2:0	26.11.1997	00:00	1997	1998	2
+Bolton Wanderers	Newcastle United	1:0	1:0	01.12.1997	00:00	1997	1998	2
+Southampton FC	Arsenal FC	1:1	1:3	23.08.1997	00:00	1997	1998	3
+Blackburn Rovers	Liverpool FC	0:0	1:1	23.08.1997	00:00	1997	1998	3
+Tottenham Hotspur	Derby County	1:0	1:0	23.08.1997	00:00	1997	1998	3
+Coventry City	Bolton Wanderers	2:0	2:2	23.08.1997	00:00	1997	1998	3
+Wimbledon FC	Sheffield Wednesday	1:0	1:1	23.08.1997	00:00	1997	1998	3
+Everton FC	West Ham United	0:1	2:1	23.08.1997	00:00	1997	1998	3
+Leeds United	Crystal Palace	0:1	0:2	23.08.1997	00:00	1997	1998	3
+Leicester City	Manchester United	0:0	0:0	23.08.1997	00:00	1997	1998	3
+Newcastle United	Aston Villa	1:0	1:0	23.08.1997	00:00	1997	1998	3
+Barnsley FC	Chelsea FC	0:3	0:6	24.08.1997	00:00	1997	1998	3
+Blackburn Rovers	Sheffield Wednesday	5:1	7:2	25.08.1997	00:00	1997	1998	4
+Leeds United	Liverpool FC	0:1	0:2	26.08.1997	00:00	1997	1998	4
+Leicester City	Arsenal FC	0:1	3:3	27.08.1997	00:00	1997	1998	4
+Barnsley FC	Bolton Wanderers	1:1	2:1	27.08.1997	00:00	1997	1998	4
+Southampton FC	Crystal Palace	0:0	1:0	27.08.1997	00:00	1997	1998	4
+Tottenham Hotspur	Aston Villa	1:1	3:2	27.08.1997	00:00	1997	1998	4
+Wimbledon FC	Chelsea FC	0:0	0:2	27.08.1997	00:00	1997	1998	4
+Coventry City	West Ham United	1:0	1:1	27.08.1997	00:00	1997	1998	4
+Everton FC	Manchester United	0:1	0:2	27.08.1997	00:00	1997	1998	4
+Newcastle United	Derby County	0:0	0:0	17.12.1997	00:00	1997	1998	4
+Manchester United	Coventry City	1:0	3:0	30.08.1997	00:00	1997	1998	5
+Arsenal FC	Tottenham Hotspur	0:0	0:0	30.08.1997	00:00	1997	1998	5
+Aston Villa	Leeds United	0:0	1:0	30.08.1997	00:00	1997	1998	5
+Sheffield Wednesday	Leicester City	0:0	1:0	30.08.1997	00:00	1997	1998	5
+West Ham United	Wimbledon FC	0:0	3:1	30.08.1997	00:00	1997	1998	5
+Chelsea FC	Southampton FC	4:1	4:2	30.08.1997	00:00	1997	1998	5
+Crystal Palace	Blackburn Rovers	0:2	1:2	30.08.1997	00:00	1997	1998	5
+Derby County	Barnsley FC	1:0	1:0	30.08.1997	00:00	1997	1998	5
+Bolton Wanderers	Everton FC	0:0	0:0	01.09.1997	00:00	1997	1998	5
+Liverpool FC	Newcastle United	1:0	1:0	20.01.1998	00:00	1997	1998	5
+Leicester City	Tottenham Hotspur	0:0	3:0	13.09.1997	00:00	1997	1998	6
+Liverpool FC	Sheffield Wednesday	0:0	2:1	13.09.1997	00:00	1997	1998	6
+Arsenal FC	Bolton Wanderers	3:1	4:1	13.09.1997	00:00	1997	1998	6
+Manchester United	West Ham United	1:1	2:1	13.09.1997	00:00	1997	1998	6
+Newcastle United	Wimbledon FC	1:1	1:3	13.09.1997	00:00	1997	1998	6
+Barnsley FC	Aston Villa	0:1	0:3	13.09.1997	00:00	1997	1998	6
+Coventry City	Southampton FC	0:0	1:0	13.09.1997	00:00	1997	1998	6
+Crystal Palace	Chelsea FC	0:2	0:3	13.09.1997	00:00	1997	1998	6
+Derby County	Everton FC	2:1	3:1	13.09.1997	00:00	1997	1998	6
+Blackburn Rovers	Leeds United	3:4	3:4	14.09.1997	00:00	1997	1998	6
+Aston Villa	Derby County	0:1	2:1	20.09.1997	00:00	1997	1998	7
+Sheffield Wednesday	Coventry City	0:0	0:0	20.09.1997	00:00	1997	1998	7
+Southampton FC	Liverpool FC	0:1	1:1	20.09.1997	00:00	1997	1998	7
+Tottenham Hotspur	Blackburn Rovers	0:0	0:0	20.09.1997	00:00	1997	1998	7
+Bolton Wanderers	Manchester United	0:0	0:0	20.09.1997	00:00	1997	1998	7
+West Ham United	Newcastle United	0:1	0:1	20.09.1997	00:00	1997	1998	7
+Wimbledon FC	Crystal Palace	0:0	0:1	20.09.1997	00:00	1997	1998	7
+Everton FC	Barnsley FC	2:1	4:2	20.09.1997	00:00	1997	1998	7
+Leeds United	Leicester City	0:1	0:1	20.09.1997	00:00	1997	1998	7
+Chelsea FC	Arsenal FC	1:1	2:3	21.09.1997	00:00	1997	1998	7
+Liverpool FC	Aston Villa	0:0	3:0	22.09.1997	00:00	1997	1998	8
+Bolton Wanderers	Tottenham Hotspur	1:0	1:1	23.09.1997	00:00	1997	1998	8
+Wimbledon FC	Barnsley FC	0:1	4:1	23.09.1997	00:00	1997	1998	8
+Coventry City	Crystal Palace	1:1	1:1	24.09.1997	00:00	1997	1998	8
+Leicester City	Blackburn Rovers	1:1	1:1	24.09.1997	00:00	1997	1998	8
+Manchester United	Chelsea FC	1:1	2:2	24.09.1997	00:00	1997	1998	8
+Arsenal FC	West Ham United	4:0	4:0	24.09.1997	00:00	1997	1998	8
+Newcastle United	Everton FC	0:0	1:0	24.09.1997	00:00	1997	1998	8
+Sheffield Wednesday	Derby County	2:3	2:5	24.09.1997	00:00	1997	1998	8
+Southampton FC	Leeds United	0:1	0:2	24.09.1997	00:00	1997	1998	8
+Aston Villa	Sheffield Wednesday	1:2	2:2	27.09.1997	00:00	1997	1998	9
+Barnsley FC	Leicester City	0:0	0:2	27.09.1997	00:00	1997	1998	9
+West Ham United	Liverpool FC	1:0	2:1	27.09.1997	00:00	1997	1998	9
+Chelsea FC	Newcastle United	0:0	1:0	27.09.1997	00:00	1997	1998	9
+Crystal Palace	Bolton Wanderers	2:1	2:2	27.09.1997	00:00	1997	1998	9
+Derby County	Southampton FC	0:0	4:0	27.09.1997	00:00	1997	1998	9
+Everton FC	Arsenal FC	0:2	2:2	27.09.1997	00:00	1997	1998	9
+Leeds United	Manchester United	1:0	1:0	27.09.1997	00:00	1997	1998	9
+Tottenham Hotspur	Wimbledon FC	0:0	0:0	27.09.1997	00:00	1997	1998	9
+Blackburn Rovers	Coventry City	0:0	0:0	28.09.1997	00:00	1997	1998	9
+Manchester United	Crystal Palace	2:0	2:0	04.10.1997	00:00	1997	1998	10
+Arsenal FC	Barnsley FC	3:0	5:0	04.10.1997	00:00	1997	1998	10
+Newcastle United	Tottenham Hotspur	0:0	1:0	04.10.1997	00:00	1997	1998	10
+Sheffield Wednesday	Everton FC	0:0	3:1	04.10.1997	00:00	1997	1998	10
+Southampton FC	West Ham United	0:0	3:0	04.10.1997	00:00	1997	1998	10
+Bolton Wanderers	Aston Villa	0:1	0:1	04.10.1997	00:00	1997	1998	10
+Wimbledon FC	Blackburn Rovers	0:1	0:1	04.10.1997	00:00	1997	1998	10
+Coventry City	Leeds United	0:0	0:0	04.10.1997	00:00	1997	1998	10
+Liverpool FC	Chelsea FC	2:1	4:2	05.10.1997	00:00	1997	1998	10
+Leicester City	Derby County	0:1	1:2	06.10.1997	00:00	1997	1998	10
+Aston Villa	Wimbledon FC	1:1	1:2	18.10.1997	00:00	1997	1998	11
+Blackburn Rovers	Southampton FC	1:0	1:0	18.10.1997	00:00	1997	1998	11
+West Ham United	Bolton Wanderers	0:0	3:0	18.10.1997	00:00	1997	1998	11
+Chelsea FC	Leicester City	0:0	1:0	18.10.1997	00:00	1997	1998	11
+Crystal Palace	Arsenal FC	0:0	0:0	18.10.1997	00:00	1997	1998	11
+Derby County	Manchester United	2:0	2:2	18.10.1997	00:00	1997	1998	11
+Everton FC	Liverpool FC	1:0	2:0	18.10.1997	00:00	1997	1998	11
+Leeds United	Newcastle United	3:0	4:1	18.10.1997	00:00	1997	1998	11
+Tottenham Hotspur	Sheffield Wednesday	3:0	3:2	19.10.1997	00:00	1997	1998	11
+Barnsley FC	Coventry City	1:0	2:0	20.10.1997	00:00	1997	1998	11
+Newcastle United	Blackburn Rovers	1:0	1:1	25.10.1997	00:00	1997	1998	12
+Sheffield Wednesday	Crystal Palace	0:1	1:3	25.10.1997	00:00	1997	1998	12
+Southampton FC	Tottenham Hotspur	0:1	3:2	25.10.1997	00:00	1997	1998	12
+Liverpool FC	Derby County	1:0	4:0	25.10.1997	00:00	1997	1998	12
+Manchester United	Barnsley FC	4:0	7:0	25.10.1997	00:00	1997	1998	12
+Wimbledon FC	Leeds United	1:0	1:0	25.10.1997	00:00	1997	1998	12
+Coventry City	Everton FC	0:0	0:0	25.10.1997	00:00	1997	1998	12
+Arsenal FC	Aston Villa	0:0	0:0	26.10.1997	00:00	1997	1998	12
+Bolton Wanderers	Chelsea FC	0:0	1:0	26.10.1997	00:00	1997	1998	12
+Leicester City	West Ham United	1:0	2:1	27.10.1997	00:00	1997	1998	12
+Manchester United	Sheffield Wednesday	4:0	6:1	01.11.1997	00:00	1997	1998	13
+Aston Villa	Chelsea FC	0:1	0:2	01.11.1997	00:00	1997	1998	13
+Newcastle United	Leicester City	2:2	3:3	01.11.1997	00:00	1997	1998	13
+Barnsley FC	Blackburn Rovers	0:1	1:1	01.11.1997	00:00	1997	1998	13
+Tottenham Hotspur	Leeds United	0:1	0:1	01.11.1997	00:00	1997	1998	13
+Bolton Wanderers	Liverpool FC	0:1	1:1	01.11.1997	00:00	1997	1998	13
+Wimbledon FC	Coventry City	1:2	1:2	01.11.1997	00:00	1997	1998	13
+Derby County	Arsenal FC	0:0	3:0	01.11.1997	00:00	1997	1998	13
+Everton FC	Southampton FC	0:1	0:2	02.11.1997	00:00	1997	1998	13
+West Ham United	Crystal Palace	2:1	4:1	03.12.1997	00:00	1997	1998	13
+Sheffield Wednesday	Bolton Wanderers	5:0	5:0	08.11.1997	00:00	1997	1998	14
+Southampton FC	Barnsley FC	3:1	4:1	08.11.1997	00:00	1997	1998	14
+Blackburn Rovers	Everton FC	1:1	3:2	08.11.1997	00:00	1997	1998	14
+Liverpool FC	Tottenham Hotspur	0:0	4:0	08.11.1997	00:00	1997	1998	14
+Coventry City	Newcastle United	1:1	2:2	08.11.1997	00:00	1997	1998	14
+Crystal Palace	Aston Villa	1:0	1:1	08.11.1997	00:00	1997	1998	14
+Leeds United	Derby County	2:3	4:3	08.11.1997	00:00	1997	1998	14
+Arsenal FC	Manchester United	2:2	3:2	09.11.1997	00:00	1997	1998	14
+Chelsea FC	West Ham United	0:0	2:1	09.11.1997	00:00	1997	1998	14
+Leicester City	Wimbledon FC	0:0	0:1	10.11.1997	00:00	1997	1998	14
+Leicester City	Bolton Wanderers	0:0	0:0	22.11.1997	00:00	1997	1998	15
+Liverpool FC	Barnsley FC	0:1	0:1	22.11.1997	00:00	1997	1998	15
+Aston Villa	Everton FC	1:1	2:1	22.11.1997	00:00	1997	1998	15
+Newcastle United	Southampton FC	0:1	2:1	22.11.1997	00:00	1997	1998	15
+Sheffield Wednesday	Arsenal FC	1:0	2:0	22.11.1997	00:00	1997	1998	15
+Blackburn Rovers	Chelsea FC	1:0	1:0	22.11.1997	00:00	1997	1998	15
+Wimbledon FC	Manchester United	0:0	2:5	22.11.1997	00:00	1997	1998	15
+Derby County	Coventry City	3:0	3:1	22.11.1997	00:00	1997	1998	15
+Leeds United	West Ham United	0:0	3:1	23.11.1997	00:00	1997	1998	15
+Tottenham Hotspur	Crystal Palace	0:0	0:1	24.11.1997	00:00	1997	1998	15
+Southampton FC	Sheffield Wednesday	0:1	2:3	29.11.1997	00:00	1997	1998	16
+West Ham United	Aston Villa	1:0	2:1	29.11.1997	00:00	1997	1998	16
+Bolton Wanderers	Wimbledon FC	0:0	1:0	29.11.1997	00:00	1997	1998	16
+Chelsea FC	Derby County	2:0	4:0	29.11.1997	00:00	1997	1998	16
+Coventry City	Leicester City	0:1	0:2	29.11.1997	00:00	1997	1998	16
+Barnsley FC	Leeds United	2:1	2:3	29.11.1997	00:00	1997	1998	16
+Crystal Palace	Newcastle United	0:1	1:2	29.11.1997	00:00	1997	1998	16
+Everton FC	Tottenham Hotspur	0:0	0:2	29.11.1997	00:00	1997	1998	16
+Manchester United	Blackburn Rovers	1:0	4:0	30.11.1997	00:00	1997	1998	16
+Arsenal FC	Liverpool FC	0:0	0:1	30.11.1997	00:00	1997	1998	16
+Leicester City	Crystal Palace	0:1	1:1	06.12.1997	00:00	1997	1998	17
+Liverpool FC	Manchester United	0:0	1:3	06.12.1997	00:00	1997	1998	17
+Newcastle United	Arsenal FC	0:1	0:1	06.12.1997	00:00	1997	1998	17
+Aston Villa	Coventry City	1:0	3:0	06.12.1997	00:00	1997	1998	17
+Blackburn Rovers	Bolton Wanderers	2:0	3:1	06.12.1997	00:00	1997	1998	17
+Tottenham Hotspur	Chelsea FC	1:1	1:6	06.12.1997	00:00	1997	1998	17
+Derby County	West Ham United	1:0	2:0	06.12.1997	00:00	1997	1998	17
+Leeds United	Everton FC	0:0	0:0	06.12.1997	00:00	1997	1998	17
+Wimbledon FC	Southampton FC	1:0	1:0	07.12.1997	00:00	1997	1998	17
+Sheffield Wednesday	Barnsley FC	1:1	2:1	08.12.1997	00:00	1997	1998	17
+Arsenal FC	Blackburn Rovers	1:0	1:3	13.12.1997	00:00	1997	1998	18
+Barnsley FC	Newcastle United	1:1	2:2	13.12.1997	00:00	1997	1998	18
+Southampton FC	Leicester City	1:0	2:1	13.12.1997	00:00	1997	1998	18
+West Ham United	Sheffield Wednesday	0:0	1:0	13.12.1997	00:00	1997	1998	18
+Chelsea FC	Leeds United	0:0	0:0	13.12.1997	00:00	1997	1998	18
+Coventry City	Tottenham Hotspur	1:0	4:0	13.12.1997	00:00	1997	1998	18
+Crystal Palace	Liverpool FC	0:1	0:3	13.12.1997	00:00	1997	1998	18
+Everton FC	Wimbledon FC	0:0	0:0	13.12.1997	00:00	1997	1998	18
+Bolton Wanderers	Derby County	0:0	3:3	14.12.1997	00:00	1997	1998	18
+Manchester United	Aston Villa	0:0	1:0	15.12.1997	00:00	1997	1998	18
+Aston Villa	Southampton FC	0:0	1:1	20.12.1997	00:00	1997	1998	19
+Sheffield Wednesday	Chelsea FC	0:1	1:4	20.12.1997	00:00	1997	1998	19
+Tottenham Hotspur	Barnsley FC	3:0	3:0	20.12.1997	00:00	1997	1998	19
+Blackburn Rovers	West Ham United	1:0	3:0	20.12.1997	00:00	1997	1998	19
+Leicester City	Everton FC	0:0	0:1	20.12.1997	00:00	1997	1998	19
+Liverpool FC	Coventry City	1:0	1:0	20.12.1997	00:00	1997	1998	19
+Derby County	Crystal Palace	0:0	0:0	20.12.1997	00:00	1997	1998	19
+Leeds United	Bolton Wanderers	0:0	2:0	20.12.1997	00:00	1997	1998	19
+Newcastle United	Manchester United	0:0	0:1	21.12.1997	00:00	1997	1998	19
+Wimbledon FC	Arsenal FC	0:1	0:1	11.03.1998	00:00	1997	1998	19
+Liverpool FC	Leeds United	0:0	3:1	26.12.1997	00:00	1997	1998	20
+Manchester United	Everton FC	2:0	2:0	26.12.1997	00:00	1997	1998	20
+Arsenal FC	Leicester City	1:0	2:1	26.12.1997	00:00	1997	1998	20
+Sheffield Wednesday	Blackburn Rovers	0:0	0:0	26.12.1997	00:00	1997	1998	20
+Aston Villa	Tottenham Hotspur	1:0	4:1	26.12.1997	00:00	1997	1998	20
+Bolton Wanderers	Barnsley FC	1:1	1:1	26.12.1997	00:00	1997	1998	20
+West Ham United	Coventry City	1:0	1:0	26.12.1997	00:00	1997	1998	20
+Chelsea FC	Wimbledon FC	1:1	1:1	26.12.1997	00:00	1997	1998	20
+Crystal Palace	Southampton FC	0:1	1:1	26.12.1997	00:00	1997	1998	20
+Derby County	Newcastle United	1:0	1:0	26.12.1997	00:00	1997	1998	20
+Leicester City	Sheffield Wednesday	1:0	1:1	28.12.1997	00:00	1997	1998	21
+Newcastle United	Liverpool FC	1:2	1:2	28.12.1997	00:00	1997	1998	21
+Barnsley FC	Derby County	0:0	1:0	28.12.1997	00:00	1997	1998	21
+Blackburn Rovers	Crystal Palace	1:1	2:2	28.12.1997	00:00	1997	1998	21
+Tottenham Hotspur	Arsenal FC	1:0	1:1	28.12.1997	00:00	1997	1998	21
+Wimbledon FC	West Ham United	0:1	1:2	28.12.1997	00:00	1997	1998	21
+Coventry City	Manchester United	1:1	3:2	28.12.1997	00:00	1997	1998	21
+Everton FC	Bolton Wanderers	2:2	3:2	28.12.1997	00:00	1997	1998	21
+Leeds United	Aston Villa	0:0	1:1	28.12.1997	00:00	1997	1998	21
+Southampton FC	Chelsea FC	1:0	1:0	29.12.1997	00:00	1997	1998	21
+Arsenal FC	Leeds United	0:0	2:1	10.01.1998	00:00	1997	1998	22
+Manchester United	Tottenham Hotspur	1:0	2:0	10.01.1998	00:00	1997	1998	22
+Aston Villa	Leicester City	0:0	1:1	10.01.1998	00:00	1997	1998	22
+Sheffield Wednesday	Newcastle United	1:1	2:1	10.01.1998	00:00	1997	1998	22
+West Ham United	Barnsley FC	2:0	6:0	10.01.1998	00:00	1997	1998	22
+Bolton Wanderers	Southampton FC	0:0	0:0	10.01.1998	00:00	1997	1998	22
+Chelsea FC	Coventry City	0:1	3:1	10.01.1998	00:00	1997	1998	22
+Liverpool FC	Wimbledon FC	0:0	2:0	10.01.1998	00:00	1997	1998	22
+Crystal Palace	Everton FC	1:3	1:3	10.01.1998	00:00	1997	1998	22
+Derby County	Blackburn Rovers	2:0	3:1	11.01.1998	00:00	1997	1998	22
+Newcastle United	Bolton Wanderers	1:0	2:1	17.01.1998	00:00	1997	1998	23
+Barnsley FC	Crystal Palace	1:0	1:0	17.01.1998	00:00	1997	1998	23
+Blackburn Rovers	Aston Villa	2:0	5:0	17.01.1998	00:00	1997	1998	23
+Tottenham Hotspur	West Ham United	1:0	1:0	17.01.1998	00:00	1997	1998	23
+Coventry City	Arsenal FC	1:0	2:2	17.01.1998	00:00	1997	1998	23
+Wimbledon FC	Derby County	0:0	0:0	17.01.1998	00:00	1997	1998	23
+Everton FC	Chelsea FC	1:1	3:1	17.01.1998	00:00	1997	1998	23
+Leeds United	Sheffield Wednesday	0:0	1:2	17.01.1998	00:00	1997	1998	23
+Leicester City	Liverpool FC	0:0	0:0	17.01.1998	00:00	1997	1998	23
+Southampton FC	Manchester United	1:0	1:0	19.01.1998	00:00	1997	1998	23
+Liverpool FC	Blackburn Rovers	0:0	0:0	31.01.1998	00:00	1997	1998	24
+Manchester United	Leicester City	0:1	0:1	31.01.1998	00:00	1997	1998	24
+Arsenal FC	Southampton FC	0:0	3:0	31.01.1998	00:00	1997	1998	24
+Sheffield Wednesday	Wimbledon FC	1:1	1:1	31.01.1998	00:00	1997	1998	24
+Bolton Wanderers	Coventry City	1:1	1:5	31.01.1998	00:00	1997	1998	24
+Chelsea FC	Barnsley FC	1:0	2:0	31.01.1998	00:00	1997	1998	24
+West Ham United	Everton FC	1:1	2:2	31.01.1998	00:00	1997	1998	24
+Crystal Palace	Leeds United	0:2	0:2	31.01.1998	00:00	1997	1998	24
+Derby County	Tottenham Hotspur	1:0	2:1	31.01.1998	00:00	1997	1998	24
+Aston Villa	Newcastle United	0:0	0:1	01.02.1998	00:00	1997	1998	24
+Leicester City	Leeds United	1:0	1:0	07.02.1998	00:00	1997	1998	25
+Liverpool FC	Southampton FC	1:1	2:3	07.02.1998	00:00	1997	1998	25
+Manchester United	Bolton Wanderers	0:0	1:1	07.02.1998	00:00	1997	1998	25
+Newcastle United	West Ham United	0:1	0:1	07.02.1998	00:00	1997	1998	25
+Barnsley FC	Everton FC	1:1	2:2	07.02.1998	00:00	1997	1998	25
+Blackburn Rovers	Tottenham Hotspur	0:1	0:3	07.02.1998	00:00	1997	1998	25
+Coventry City	Sheffield Wednesday	0:0	1:0	07.02.1998	00:00	1997	1998	25
+Derby County	Aston Villa	0:0	0:1	07.02.1998	00:00	1997	1998	25
+Arsenal FC	Chelsea FC	2:0	2:0	08.02.1998	00:00	1997	1998	25
+Crystal Palace	Wimbledon FC	0:0	0:3	09.02.1998	00:00	1997	1998	25
+Tottenham Hotspur	Leicester City	0:1	1:1	14.02.1998	00:00	1997	1998	26
+Sheffield Wednesday	Liverpool FC	1:1	3:3	14.02.1998	00:00	1997	1998	26
+Everton FC	Derby County	0:1	1:2	14.02.1998	00:00	1997	1998	26
+Southampton FC	Coventry City	0:2	1:2	18.02.1998	00:00	1997	1998	26
+Leeds United	Blackburn Rovers	0:0	4:0	11.03.1998	00:00	1997	1998	26
+Chelsea FC	Crystal Palace	3:1	6:2	11.03.1998	00:00	1997	1998	26
+West Ham United	Manchester United	1:0	1:1	11.03.1998	00:00	1997	1998	26
+Aston Villa	Barnsley FC	0:1	0:1	11.03.1998	00:00	1997	1998	26
+Wimbledon FC	Newcastle United	0:0	0:0	31.03.1998	00:00	1997	1998	26
+Bolton Wanderers	Arsenal FC	0:0	0:1	31.03.1998	00:00	1997	1998	26
+Sheffield Wednesday	Tottenham Hotspur	1:0	1:0	21.02.1998	00:00	1997	1998	27
+Southampton FC	Blackburn Rovers	1:0	3:0	21.02.1998	00:00	1997	1998	27
+Bolton Wanderers	West Ham United	0:0	1:1	21.02.1998	00:00	1997	1998	27
+Wimbledon FC	Aston Villa	2:1	2:1	21.02.1998	00:00	1997	1998	27
+Coventry City	Barnsley FC	0:0	1:0	21.02.1998	00:00	1997	1998	27
+Leicester City	Chelsea FC	1:0	2:0	21.02.1998	00:00	1997	1998	27
+Manchester United	Derby County	1:0	2:0	21.02.1998	00:00	1997	1998	27
+Arsenal FC	Crystal Palace	0:0	1:0	21.02.1998	00:00	1997	1998	27
+Newcastle United	Leeds United	0:0	1:1	22.02.1998	00:00	1997	1998	27
+Liverpool FC	Everton FC	0:0	1:1	23.02.1998	00:00	1997	1998	27
+Aston Villa	Liverpool FC	1:1	2:1	28.02.1998	00:00	1997	1998	28
+Barnsley FC	Wimbledon FC	1:0	2:1	28.02.1998	00:00	1997	1998	28
+Blackburn Rovers	Leicester City	3:0	5:3	28.02.1998	00:00	1997	1998	28
+Chelsea FC	Manchester United	0:1	0:1	28.02.1998	00:00	1997	1998	28
+Crystal Palace	Coventry City	0:2	0:3	28.02.1998	00:00	1997	1998	28
+Derby County	Sheffield Wednesday	1:0	3:0	28.02.1998	00:00	1997	1998	28
+Everton FC	Newcastle United	0:0	0:0	28.02.1998	00:00	1997	1998	28
+Leeds United	Southampton FC	0:0	0:1	28.02.1998	00:00	1997	1998	28
+Tottenham Hotspur	Bolton Wanderers	1:0	1:0	01.03.1998	00:00	1997	1998	28
+West Ham United	Arsenal FC	0:0	0:0	02.03.1998	00:00	1997	1998	28
+Leeds United	Tottenham Hotspur	1:0	1:0	04.03.1998	00:00	1997	1998	29
+Liverpool FC	Bolton Wanderers	0:1	2:1	07.03.1998	00:00	1997	1998	29
+Sheffield Wednesday	Manchester United	1:0	2:0	07.03.1998	00:00	1997	1998	29
+Southampton FC	Everton FC	0:0	2:1	07.03.1998	00:00	1997	1998	29
+Chelsea FC	Aston Villa	0:0	0:1	08.03.1998	00:00	1997	1998	29
+Blackburn Rovers	Barnsley FC	1:0	2:1	31.03.1998	00:00	1997	1998	29
+Arsenal FC	Derby County	1:0	1:0	29.04.1998	00:00	1997	1998	29
+Coventry City	Wimbledon FC	0:0	0:0	29.04.1998	00:00	1997	1998	29
+Leicester City	Newcastle United	0:0	0:0	29.04.1998	00:00	1997	1998	29
+Crystal Palace	West Ham United	1:1	3:3	05.05.1998	00:00	1997	1998	29
+Everton FC	Blackburn Rovers	0:0	1:0	14.03.1998	00:00	1997	1998	30
+Wimbledon FC	Leicester City	1:0	2:1	14.03.1998	00:00	1997	1998	30
+Manchester United	Arsenal FC	0:0	0:1	14.03.1998	00:00	1997	1998	30
+Newcastle United	Coventry City	0:0	0:0	14.03.1998	00:00	1997	1998	30
+Aston Villa	Crystal Palace	3:0	3:1	14.03.1998	00:00	1997	1998	30
+Barnsley FC	Southampton FC	3:2	4:3	14.03.1998	00:00	1997	1998	30
+Tottenham Hotspur	Liverpool FC	1:1	3:3	14.03.1998	00:00	1997	1998	30
+Bolton Wanderers	Sheffield Wednesday	1:1	3:2	14.03.1998	00:00	1997	1998	30
+West Ham United	Chelsea FC	0:0	2:1	14.03.1998	00:00	1997	1998	30
+Derby County	Leeds United	0:3	0:5	15.03.1998	00:00	1997	1998	30
+Manchester United	Wimbledon FC	0:0	2:0	28.03.1998	00:00	1997	1998	31
+Arsenal FC	Sheffield Wednesday	1:0	1:0	28.03.1998	00:00	1997	1998	31
+Barnsley FC	Liverpool FC	1:1	2:3	28.03.1998	00:00	1997	1998	31
+Southampton FC	Newcastle United	0:0	2:1	28.03.1998	00:00	1997	1998	31
+Bolton Wanderers	Leicester City	0:0	2:0	28.03.1998	00:00	1997	1998	31
+Coventry City	Derby County	1:0	1:0	28.03.1998	00:00	1997	1998	31
+Crystal Palace	Tottenham Hotspur	0:0	1:3	28.03.1998	00:00	1997	1998	31
+Everton FC	Aston Villa	1:1	1:4	28.03.1998	00:00	1997	1998	31
+West Ham United	Leeds United	2:0	3:0	30.03.1998	00:00	1997	1998	31
+Chelsea FC	Blackburn Rovers	0:0	0:1	29.04.1998	00:00	1997	1998	31
+Newcastle United	Crystal Palace	0:2	1:2	18.03.1998	00:00	1997	1998	32
+Aston Villa	West Ham United	0:0	2:0	04.04.1998	00:00	1997	1998	32
+Sheffield Wednesday	Southampton FC	0:0	1:0	04.04.1998	00:00	1997	1998	32
+Leicester City	Coventry City	0:0	1:1	04.04.1998	00:00	1997	1998	32
+Tottenham Hotspur	Everton FC	0:1	1:1	04.04.1998	00:00	1997	1998	32
+Wimbledon FC	Bolton Wanderers	0:0	0:0	04.04.1998	00:00	1997	1998	32
+Leeds United	Barnsley FC	1:1	2:1	04.04.1998	00:00	1997	1998	32
+Derby County	Chelsea FC	0:1	0:1	05.04.1998	00:00	1997	1998	32
+Blackburn Rovers	Manchester United	1:0	1:3	06.04.1998	00:00	1997	1998	32
+Leeds United	Chelsea FC	2:1	3:1	08.04.1998	00:00	1997	1998	32
+Liverpool FC	Arsenal FC	3:0	4:0	06.05.1998	00:00	1997	1998	32
+Manchester United	Liverpool FC	1:1	1:1	10.04.1998	00:00	1997	1998	33
+Arsenal FC	Newcastle United	1:0	3:1	11.04.1998	00:00	1997	1998	33
+Barnsley FC	Sheffield Wednesday	0:0	2:1	11.04.1998	00:00	1997	1998	33
+Southampton FC	Wimbledon FC	0:1	0:1	11.04.1998	00:00	1997	1998	33
+Bolton Wanderers	Blackburn Rovers	1:0	2:1	11.04.1998	00:00	1997	1998	33
+West Ham United	Derby County	0:0	0:0	11.04.1998	00:00	1997	1998	33
+Chelsea FC	Tottenham Hotspur	0:0	2:0	11.04.1998	00:00	1997	1998	33
+Coventry City	Aston Villa	0:1	1:2	11.04.1998	00:00	1997	1998	33
+Crystal Palace	Leicester City	0:1	0:3	11.04.1998	00:00	1997	1998	33
+Everton FC	Leeds United	2:0	2:0	11.04.1998	00:00	1997	1998	33
+Aston Villa	Manchester United	0:0	0:2	18.02.1998	00:00	1997	1998	34
+Liverpool FC	Crystal Palace	1:0	2:1	13.04.1998	00:00	1997	1998	34
+Newcastle United	Barnsley FC	1:0	2:1	13.04.1998	00:00	1997	1998	34
+Sheffield Wednesday	West Ham United	0:1	1:1	13.04.1998	00:00	1997	1998	34
+Blackburn Rovers	Arsenal FC	0:4	1:4	13.04.1998	00:00	1997	1998	34
+Tottenham Hotspur	Coventry City	0:0	1:1	13.04.1998	00:00	1997	1998	34
+Wimbledon FC	Everton FC	0:0	0:0	13.04.1998	00:00	1997	1998	34
+Derby County	Bolton Wanderers	4:0	4:0	13.04.1998	00:00	1997	1998	34
+Leicester City	Southampton FC	1:2	3:3	14.04.1998	00:00	1997	1998	34
+Manchester United	Newcastle United	1:1	1:1	18.04.1998	00:00	1997	1998	35
+Arsenal FC	Wimbledon FC	3:0	5:0	18.04.1998	00:00	1997	1998	35
+Southampton FC	Aston Villa	1:1	1:2	18.04.1998	00:00	1997	1998	35
+Barnsley FC	Tottenham Hotspur	1:0	1:1	18.04.1998	00:00	1997	1998	35
+Bolton Wanderers	Leeds United	0:2	2:3	18.04.1998	00:00	1997	1998	35
+West Ham United	Blackburn Rovers	2:1	2:1	18.04.1998	00:00	1997	1998	35
+Crystal Palace	Derby County	0:0	3:1	18.04.1998	00:00	1997	1998	35
+Everton FC	Leicester City	1:1	1:1	18.04.1998	00:00	1997	1998	35
+Chelsea FC	Sheffield Wednesday	1:0	1:0	19.04.1998	00:00	1997	1998	35
+Coventry City	Liverpool FC	0:1	1:1	19.04.1998	00:00	1997	1998	35
+Aston Villa	Bolton Wanderers	0:2	1:3	25.04.1998	00:00	1997	1998	36
+Barnsley FC	Arsenal FC	0:1	0:2	25.04.1998	00:00	1997	1998	36
+Blackburn Rovers	Wimbledon FC	0:0	0:0	25.04.1998	00:00	1997	1998	36
+Tottenham Hotspur	Newcastle United	1:0	2:0	25.04.1998	00:00	1997	1998	36
+West Ham United	Southampton FC	1:1	2:4	25.04.1998	00:00	1997	1998	36
+Chelsea FC	Liverpool FC	1:1	4:1	25.04.1998	00:00	1997	1998	36
+Everton FC	Sheffield Wednesday	0:2	1:3	25.04.1998	00:00	1997	1998	36
+Leeds United	Coventry City	2:2	3:3	25.04.1998	00:00	1997	1998	36
+Derby County	Leicester City	0:4	0:4	26.04.1998	00:00	1997	1998	36
+Crystal Palace	Manchester United	0:2	0:3	27.04.1998	00:00	1997	1998	36
+Leicester City	Barnsley FC	0:0	1:0	02.05.1998	00:00	1997	1998	37
+Coventry City	Blackburn Rovers	2:0	2:0	02.05.1998	00:00	1997	1998	37
+Wimbledon FC	Tottenham Hotspur	2:2	2:6	02.05.1998	00:00	1997	1998	37
+Liverpool FC	West Ham United	4:0	5:0	02.05.1998	00:00	1997	1998	37
+Newcastle United	Chelsea FC	2:0	3:1	02.05.1998	00:00	1997	1998	37
+Sheffield Wednesday	Aston Villa	0:2	1:3	02.05.1998	00:00	1997	1998	37
+Southampton FC	Derby County	0:0	0:2	02.05.1998	00:00	1997	1998	37
+Bolton Wanderers	Crystal Palace	3:2	5:2	02.05.1998	00:00	1997	1998	37
+Arsenal FC	Everton FC	2:0	4:0	03.05.1998	00:00	1997	1998	37
+Manchester United	Leeds United	2:0	3:0	04.05.1998	00:00	1997	1998	37
+Aston Villa	Arsenal FC	1:0	1:0	10.05.1998	00:00	1997	1998	38
+Barnsley FC	Manchester United	0:1	0:2	10.05.1998	00:00	1997	1998	38
+Blackburn Rovers	Newcastle United	0:0	1:0	10.05.1998	00:00	1997	1998	38
+Tottenham Hotspur	Southampton FC	1:1	1:1	10.05.1998	00:00	1997	1998	38
+Chelsea FC	Bolton Wanderers	0:0	2:0	10.05.1998	00:00	1997	1998	38
+West Ham United	Leicester City	2:0	4:3	10.05.1998	00:00	1997	1998	38
+Crystal Palace	Sheffield Wednesday	0:0	1:0	10.05.1998	00:00	1997	1998	38
+Derby County	Liverpool FC	0:0	1:0	10.05.1998	00:00	1997	1998	38
+Everton FC	Coventry City	1:0	1:1	10.05.1998	00:00	1997	1998	38
+Leeds United	Wimbledon FC	0:0	1:1	10.05.1998	00:00	1997	1998	38

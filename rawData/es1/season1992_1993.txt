@@ -1,0 +1,380 @@
+Valencia CF	Rayo Vallecano	0:0	1:0	05.09.1992	00:00	1992	1993	1
+FC Barcelona	Real Madrid	1:0	2:1	05.09.1992	00:00	1992	1993	1
+Real Zaragoza	Espanyol Barcelona	0:0	2:1	06.09.1992	00:00	1992	1993	1
+Albacete	Sevilla FC	1:1	3:4	06.09.1992	00:00	1992	1993	1
+Real Burgos	Real Sociedad	2:0	4:0	06.09.1992	00:00	1992	1993	1
+Deportivo La CoruÃ±a	Celta Vigo	2:0	2:0	06.09.1992	00:00	1992	1993	1
+CD LogroÃ±Ã©s	Real Oviedo	1:0	1:0	06.09.1992	00:00	1992	1993	1
+Sporting GijÃ³n	CA Osasuna	0:0	0:0	06.09.1992	00:00	1992	1993	1
+Athletic Bilbao	CÃ¡diz CF	2:0	2:1	06.09.1992	00:00	1992	1993	1
+AtlÃ©tico Madrid	CD Tenerife	1:0	3:2	06.09.1992	00:00	1992	1993	1
+Real Sociedad	Sporting GijÃ³n	0:1	1:2	12.09.1992	00:00	1992	1993	2
+CD Tenerife	FC Barcelona	0:1	1:1	12.09.1992	00:00	1992	1993	2
+CA Osasuna	Albacete	1:0	3:0	13.09.1992	00:00	1992	1993	2
+Rayo Vallecano	CD LogroÃ±Ã©s	1:0	2:1	13.09.1992	00:00	1992	1993	2
+Real Madrid	Real Burgos	1:0	3:0	13.09.1992	00:00	1992	1993	2
+Sevilla FC	Deportivo La CoruÃ±a	0:2	1:3	13.09.1992	00:00	1992	1993	2
+CÃ¡diz CF	Real Zaragoza	1:0	1:1	13.09.1992	00:00	1992	1993	2
+Espanyol Barcelona	AtlÃ©tico Madrid	0:1	1:3	13.09.1992	00:00	1992	1993	2
+Real Oviedo	Athletic Bilbao	1:0	1:0	13.09.1992	00:00	1992	1993	2
+Celta Vigo	Valencia CF	0:0	0:0	13.09.1992	00:00	1992	1993	2
+Valencia CF	Sevilla FC	1:1	1:1	19.09.1992	00:00	1992	1993	3
+AtlÃ©tico Madrid	FC Barcelona	1:2	1:4	19.09.1992	00:00	1992	1993	3
+CD LogroÃ±Ã©s	Celta Vigo	0:1	0:1	19.09.1992	00:00	1992	1993	3
+Deportivo La CoruÃ±a	CA Osasuna	1:0	2:1	20.09.1992	00:00	1992	1993	3
+Real Burgos	CD Tenerife	0:2	0:3	20.09.1992	00:00	1992	1993	3
+Athletic Bilbao	Rayo Vallecano	2:1	4:2	20.09.1992	00:00	1992	1993	3
+Espanyol Barcelona	CÃ¡diz CF	0:2	1:2	20.09.1992	00:00	1992	1993	3
+Albacete	Real Sociedad	1:1	1:2	20.09.1992	00:00	1992	1993	3
+Real Zaragoza	Real Oviedo	0:0	1:0	20.09.1992	00:00	1992	1993	3
+Sporting GijÃ³n	Real Madrid	0:0	0:0	20.09.1992	00:00	1992	1993	3
+Real Madrid	Albacete	0:0	3:0	26.09.1992	00:00	1992	1993	4
+Sevilla FC	CD LogroÃ±Ã©s	2:0	3:0	26.09.1992	00:00	1992	1993	4
+Real Sociedad	Deportivo La CoruÃ±a	0:0	0:2	26.09.1992	00:00	1992	1993	4
+CA Osasuna	Valencia CF	2:1	2:2	26.09.1992	00:00	1992	1993	4
+FC Barcelona	Real Burgos	3:1	4:1	27.09.1992	00:00	1992	1993	4
+CD Tenerife	Sporting GijÃ³n	0:0	0:2	27.09.1992	00:00	1992	1993	4
+Rayo Vallecano	Real Zaragoza	0:0	0:0	27.09.1992	00:00	1992	1993	4
+CÃ¡diz CF	AtlÃ©tico Madrid	0:0	1:1	27.09.1992	00:00	1992	1993	4
+Celta Vigo	Athletic Bilbao	1:0	1:0	27.09.1992	00:00	1992	1993	4
+Real Oviedo	Espanyol Barcelona	0:0	2:2	27.09.1992	00:00	1992	1993	4
+Deportivo La CoruÃ±a	Real Madrid	1:2	3:2	03.10.1992	00:00	1992	1993	5
+CD LogroÃ±Ã©s	CA Osasuna	1:0	1:1	04.10.1992	00:00	1992	1993	5
+CÃ¡diz CF	Real Oviedo	0:0	0:2	04.10.1992	00:00	1992	1993	5
+Albacete	CD Tenerife	0:0	1:0	04.10.1992	00:00	1992	1993	5
+AtlÃ©tico Madrid	Real Burgos	1:0	2:0	04.10.1992	00:00	1992	1993	5
+Valencia CF	Real Sociedad	0:0	1:0	04.10.1992	00:00	1992	1993	5
+Athletic Bilbao	Sevilla FC	0:1	2:1	04.10.1992	00:00	1992	1993	5
+Espanyol Barcelona	Rayo Vallecano	1:1	2:2	04.10.1992	00:00	1992	1993	5
+Sporting GijÃ³n	FC Barcelona	0:1	1:1	04.10.1992	00:00	1992	1993	5
+Real Zaragoza	Celta Vigo	0:0	0:0	04.10.1992	00:00	1992	1993	5
+Sevilla FC	Real Zaragoza	0:0	1:0	07.10.1992	00:00	1992	1993	6
+FC Barcelona	Albacete	3:1	3:3	07.10.1992	00:00	1992	1993	6
+Real Sociedad	CD LogroÃ±Ã©s	1:0	3:0	07.10.1992	00:00	1992	1993	6
+Rayo Vallecano	CÃ¡diz CF	0:0	1:1	07.10.1992	00:00	1992	1993	6
+Real Burgos	Sporting GijÃ³n	0:0	2:1	07.10.1992	00:00	1992	1993	6
+Real Oviedo	AtlÃ©tico Madrid	0:1	1:4	07.10.1992	00:00	1992	1993	6
+Celta Vigo	Espanyol Barcelona	0:0	0:1	07.10.1992	00:00	1992	1993	6
+CA Osasuna	Athletic Bilbao	1:2	1:2	07.10.1992	00:00	1992	1993	6
+CD Tenerife	Deportivo La CoruÃ±a	2:1	3:1	07.10.1992	00:00	1992	1993	6
+Real Madrid	Valencia CF	0:0	2:0	08.10.1992	00:00	1992	1993	6
+Deportivo La CoruÃ±a	FC Barcelona	0:0	1:0	17.10.1992	00:00	1992	1993	7
+AtlÃ©tico Madrid	Sporting GijÃ³n	1:0	1:1	18.10.1992	00:00	1992	1993	7
+Real Oviedo	Rayo Vallecano	0:0	1:1	18.10.1992	00:00	1992	1993	7
+Valencia CF	CD Tenerife	1:0	2:1	18.10.1992	00:00	1992	1993	7
+Albacete	Real Burgos	2:0	4:0	18.10.1992	00:00	1992	1993	7
+Real Zaragoza	CA Osasuna	3:1	3:2	18.10.1992	00:00	1992	1993	7
+Athletic Bilbao	Real Sociedad	2:0	2:0	18.10.1992	00:00	1992	1993	7
+Espanyol Barcelona	Sevilla FC	0:0	1:1	18.10.1992	00:00	1992	1993	7
+CD LogroÃ±Ã©s	Real Madrid	0:1	0:3	18.10.1992	00:00	1992	1993	7
+CÃ¡diz CF	Celta Vigo	1:0	1:1	18.10.1992	00:00	1992	1993	7
+Real Madrid	Athletic Bilbao	1:0	2:0	24.10.1992	00:00	1992	1993	8
+Real Sociedad	Real Zaragoza	0:0	1:1	25.10.1992	00:00	1992	1993	8
+CD Tenerife	CD LogroÃ±Ã©s	0:0	1:1	25.10.1992	00:00	1992	1993	8
+Sevilla FC	CÃ¡diz CF	1:0	1:0	25.10.1992	00:00	1992	1993	8
+Celta Vigo	Real Oviedo	0:0	0:0	25.10.1992	00:00	1992	1993	8
+Sporting GijÃ³n	Albacete	0:0	1:0	25.10.1992	00:00	1992	1993	8
+Rayo Vallecano	AtlÃ©tico Madrid	2:0	2:0	25.10.1992	00:00	1992	1993	8
+FC Barcelona	Valencia CF	1:0	3:0	25.10.1992	00:00	1992	1993	8
+CA Osasuna	Espanyol Barcelona	0:1	1:3	25.10.1992	00:00	1992	1993	8
+Real Burgos	Deportivo La CoruÃ±a	0:0	0:0	25.10.1992	00:00	1992	1993	8
+Real Zaragoza	Real Madrid	0:1	0:1	31.10.1992	00:00	1992	1993	9
+CD LogroÃ±Ã©s	FC Barcelona	1:2	1:2	31.10.1992	00:00	1992	1993	9
+Deportivo La CoruÃ±a	Sporting GijÃ³n	1:0	2:1	01.11.1992	00:00	1992	1993	9
+Athletic Bilbao	CD Tenerife	1:0	2:2	01.11.1992	00:00	1992	1993	9
+AtlÃ©tico Madrid	Albacete	2:0	3:2	01.11.1992	00:00	1992	1993	9
+Valencia CF	Real Burgos	5:0	5:0	01.11.1992	00:00	1992	1993	9
+CÃ¡diz CF	CA Osasuna	0:1	0:2	01.11.1992	00:00	1992	1993	9
+Rayo Vallecano	Celta Vigo	0:1	0:1	01.11.1992	00:00	1992	1993	9
+Espanyol Barcelona	Real Sociedad	3:0	4:1	01.11.1992	00:00	1992	1993	9
+Real Oviedo	Sevilla FC	1:1	1:1	01.11.1992	00:00	1992	1993	9
+FC Barcelona	Athletic Bilbao	1:0	2:1	07.11.1992	00:00	1992	1993	10
+CA Osasuna	Real Oviedo	2:1	2:1	08.11.1992	00:00	1992	1993	10
+CD Tenerife	Real Zaragoza	2:1	2:2	08.11.1992	00:00	1992	1993	10
+Real Burgos	CD LogroÃ±Ã©s	0:0	2:2	08.11.1992	00:00	1992	1993	10
+Sevilla FC	Rayo Vallecano	1:1	3:2	08.11.1992	00:00	1992	1993	10
+Real Sociedad	CÃ¡diz CF	1:0	3:0	08.11.1992	00:00	1992	1993	10
+Celta Vigo	AtlÃ©tico Madrid	0:0	0:2	08.11.1992	00:00	1992	1993	10
+Sporting GijÃ³n	Valencia CF	0:0	1:0	08.11.1992	00:00	1992	1993	10
+Real Madrid	Espanyol Barcelona	0:1	3:1	08.11.1992	00:00	1992	1993	10
+Albacete	Deportivo La CoruÃ±a	0:0	1:1	08.11.1992	00:00	1992	1993	10
+Real Zaragoza	FC Barcelona	0:3	1:6	21.11.1992	00:00	1992	1993	11
+CÃ¡diz CF	Real Madrid	0:0	1:1	21.11.1992	00:00	1992	1993	11
+Real Oviedo	Real Sociedad	1:1	2:2	22.11.1992	00:00	1992	1993	11
+Espanyol Barcelona	CD Tenerife	0:0	0:0	22.11.1992	00:00	1992	1993	11
+Athletic Bilbao	Real Burgos	1:0	1:1	22.11.1992	00:00	1992	1993	11
+Rayo Vallecano	CA Osasuna	1:0	1:0	22.11.1992	00:00	1992	1993	11
+CD LogroÃ±Ã©s	Sporting GijÃ³n	0:2	1:2	22.11.1992	00:00	1992	1993	11
+Valencia CF	Albacete	0:0	2:0	22.11.1992	00:00	1992	1993	11
+Celta Vigo	Sevilla FC	1:2	1:2	22.11.1992	00:00	1992	1993	11
+AtlÃ©tico Madrid	Deportivo La CoruÃ±a	1:0	2:1	22.11.1992	00:00	1992	1993	11
+Sevilla FC	AtlÃ©tico Madrid	1:2	1:3	28.11.1992	00:00	1992	1993	12
+CA Osasuna	Celta Vigo	1:0	3:0	29.11.1992	00:00	1992	1993	12
+Real Sociedad	Rayo Vallecano	0:0	1:2	29.11.1992	00:00	1992	1993	12
+CD Tenerife	CÃ¡diz CF	1:1	1:1	29.11.1992	00:00	1992	1993	12
+Real Madrid	Real Oviedo	1:1	3:2	29.11.1992	00:00	1992	1993	12
+Real Burgos	Real Zaragoza	1:0	1:1	29.11.1992	00:00	1992	1993	12
+Deportivo La CoruÃ±a	Valencia CF	0:0	0:0	29.11.1992	00:00	1992	1993	12
+FC Barcelona	Espanyol Barcelona	2:0	5:0	29.11.1992	00:00	1992	1993	12
+Albacete	CD LogroÃ±Ã©s	0:0	3:1	29.11.1992	00:00	1992	1993	12
+Sporting GijÃ³n	Athletic Bilbao	0:3	0:4	29.11.1992	00:00	1992	1993	12
+AtlÃ©tico Madrid	Valencia CF	1:1	1:1	05.12.1992	00:00	1992	1993	13
+Real Zaragoza	Sporting GijÃ³n	1:0	1:1	05.12.1992	00:00	1992	1993	13
+CD LogroÃ±Ã©s	Deportivo La CoruÃ±a	0:0	0:3	06.12.1992	00:00	1992	1993	13
+Athletic Bilbao	Albacete	1:0	3:1	06.12.1992	00:00	1992	1993	13
+Real Oviedo	CD Tenerife	0:1	1:2	06.12.1992	00:00	1992	1993	13
+Espanyol Barcelona	Real Burgos	1:0	3:1	06.12.1992	00:00	1992	1993	13
+Sevilla FC	CA Osasuna	0:0	0:0	06.12.1992	00:00	1992	1993	13
+CÃ¡diz CF	FC Barcelona	0:2	0:4	06.12.1992	00:00	1992	1993	13
+Rayo Vallecano	Real Madrid	2:0	2:0	06.12.1992	00:00	1992	1993	13
+Celta Vigo	Real Sociedad	1:1	2:1	06.12.1992	00:00	1992	1993	13
+Real Sociedad	Sevilla FC	1:0	1:0	12.12.1992	00:00	1992	1993	14
+Albacete	Real Zaragoza	1:1	1:3	13.12.1992	00:00	1992	1993	14
+Valencia CF	CD LogroÃ±Ã©s	2:1	2:1	13.12.1992	00:00	1992	1993	14
+CD Tenerife	Rayo Vallecano	0:0	4:0	13.12.1992	00:00	1992	1993	14
+Real Madrid	Celta Vigo	0:0	1:0	13.12.1992	00:00	1992	1993	14
+CA Osasuna	AtlÃ©tico Madrid	0:0	1:0	13.12.1992	00:00	1992	1993	14
+Sporting GijÃ³n	Espanyol Barcelona	1:1	1:1	13.12.1992	00:00	1992	1993	14
+Deportivo La CoruÃ±a	Athletic Bilbao	2:0	3:0	13.12.1992	00:00	1992	1993	14
+Real Burgos	CÃ¡diz CF	0:2	0:2	13.12.1992	00:00	1992	1993	14
+FC Barcelona	Real Oviedo	1:0	2:0	03.03.1993	00:00	1992	1993	14
+Sevilla FC	Real Madrid	1:0	2:0	19.12.1992	00:00	1992	1993	15
+Real Oviedo	Real Burgos	1:0	3:0	20.12.1992	00:00	1992	1993	15
+Espanyol Barcelona	Albacete	1:0	2:0	20.12.1992	00:00	1992	1993	15
+Celta Vigo	CD Tenerife	0:0	0:1	20.12.1992	00:00	1992	1993	15
+AtlÃ©tico Madrid	CD LogroÃ±Ã©s	0:0	0:1	20.12.1992	00:00	1992	1993	15
+Rayo Vallecano	FC Barcelona	2:1	3:3	20.12.1992	00:00	1992	1993	15
+CÃ¡diz CF	Sporting GijÃ³n	0:1	2:3	20.12.1992	00:00	1992	1993	15
+Athletic Bilbao	Valencia CF	0:1	1:4	20.12.1992	00:00	1992	1993	15
+Real Zaragoza	Deportivo La CoruÃ±a	0:2	0:2	20.12.1992	00:00	1992	1993	15
+CA Osasuna	Real Sociedad	0:0	2:0	20.12.1992	00:00	1992	1993	15
+Real Sociedad	AtlÃ©tico Madrid	0:0	1:0	02.01.1993	00:00	1992	1993	16
+CD Tenerife	Sevilla FC	1:0	3:0	03.01.1993	00:00	1992	1993	16
+Real Burgos	Rayo Vallecano	0:2	0:3	03.01.1993	00:00	1992	1993	16
+Albacete	CÃ¡diz CF	3:0	5:0	03.01.1993	00:00	1992	1993	16
+Real Madrid	CA Osasuna	0:0	3:0	03.01.1993	00:00	1992	1993	16
+Sporting GijÃ³n	Real Oviedo	0:1	0:1	03.01.1993	00:00	1992	1993	16
+Valencia CF	Real Zaragoza	0:0	0:1	03.01.1993	00:00	1992	1993	16
+Deportivo La CoruÃ±a	Espanyol Barcelona	1:0	3:0	03.01.1993	00:00	1992	1993	16
+CD LogroÃ±Ã©s	Athletic Bilbao	0:1	0:1	03.01.1993	00:00	1992	1993	16
+FC Barcelona	Celta Vigo	2:0	2:0	03.01.1993	00:00	1992	1993	16
+Espanyol Barcelona	Valencia CF	0:0	1:1	09.01.1993	00:00	1992	1993	17
+CÃ¡diz CF	Deportivo La CoruÃ±a	0:1	0:3	10.01.1993	00:00	1992	1993	17
+Celta Vigo	Real Burgos	0:0	1:1	10.01.1993	00:00	1992	1993	17
+Real Zaragoza	CD LogroÃ±Ã©s	0:0	1:1	10.01.1993	00:00	1992	1993	17
+Real Oviedo	Albacete	0:0	0:0	10.01.1993	00:00	1992	1993	17
+AtlÃ©tico Madrid	Athletic Bilbao	0:1	1:1	10.01.1993	00:00	1992	1993	17
+Sevilla FC	FC Barcelona	0:0	0:0	10.01.1993	00:00	1992	1993	17
+Real Sociedad	Real Madrid	1:2	1:5	10.01.1993	00:00	1992	1993	17
+CA Osasuna	CD Tenerife	1:1	1:2	10.01.1993	00:00	1992	1993	17
+Rayo Vallecano	Sporting GijÃ³n	1:1	2:2	10.01.1993	00:00	1992	1993	17
+AtlÃ©tico Madrid	Real Madrid	1:1	1:1	16.01.1993	00:00	1992	1993	18
+Deportivo La CoruÃ±a	Real Oviedo	1:0	2:1	17.01.1993	00:00	1992	1993	18
+Albacete	Rayo Vallecano	0:0	1:0	17.01.1993	00:00	1992	1993	18
+FC Barcelona	CA Osasuna	0:0	2:1	17.01.1993	00:00	1992	1993	18
+Sporting GijÃ³n	Celta Vigo	0:0	0:3	17.01.1993	00:00	1992	1993	18
+CD Tenerife	Real Sociedad	0:0	1:0	17.01.1993	00:00	1992	1993	18
+Real Burgos	Sevilla FC	0:2	0:2	17.01.1993	00:00	1992	1993	18
+CD LogroÃ±Ã©s	Espanyol Barcelona	0:0	0:0	17.01.1993	00:00	1992	1993	18
+Athletic Bilbao	Real Zaragoza	2:2	3:2	17.01.1993	00:00	1992	1993	18
+Valencia CF	CÃ¡diz CF	1:0	5:0	17.01.1993	00:00	1992	1993	18
+Rayo Vallecano	Deportivo La CoruÃ±a	1:0	1:1	23.01.1993	00:00	1992	1993	19
+Real Sociedad	FC Barcelona	0:1	2:2	24.01.1993	00:00	1992	1993	19
+Real Madrid	CD Tenerife	1:0	3:0	24.01.1993	00:00	1992	1993	19
+CÃ¡diz CF	CD LogroÃ±Ã©s	2:0	2:2	24.01.1993	00:00	1992	1993	19
+CA Osasuna	Real Burgos	1:0	1:0	24.01.1993	00:00	1992	1993	19
+Sevilla FC	Sporting GijÃ³n	1:0	1:0	24.01.1993	00:00	1992	1993	19
+Real Zaragoza	AtlÃ©tico Madrid	0:0	1:0	24.01.1993	00:00	1992	1993	19
+Espanyol Barcelona	Athletic Bilbao	0:0	2:0	24.01.1993	00:00	1992	1993	19
+Celta Vigo	Albacete	0:0	1:1	24.01.1993	00:00	1992	1993	19
+Real Oviedo	Valencia CF	0:1	0:1	24.01.1993	00:00	1992	1993	19
+Real Madrid	FC Barcelona	2:1	2:1	30.01.1993	00:00	1992	1993	20
+CÃ¡diz CF	Athletic Bilbao	0:2	2:3	31.01.1993	00:00	1992	1993	20
+Rayo Vallecano	Valencia CF	0:1	0:1	31.01.1993	00:00	1992	1993	20
+CD Tenerife	AtlÃ©tico Madrid	2:0	2:2	31.01.1993	00:00	1992	1993	20
+Espanyol Barcelona	Real Zaragoza	1:0	2:0	31.01.1993	00:00	1992	1993	20
+CA Osasuna	Sporting GijÃ³n	2:0	3:0	31.01.1993	00:00	1992	1993	20
+Celta Vigo	Deportivo La CoruÃ±a	0:0	0:0	31.01.1993	00:00	1992	1993	20
+Real Sociedad	Real Burgos	1:0	2:2	31.01.1993	00:00	1992	1993	20
+Real Oviedo	CD LogroÃ±Ã©s	0:0	0:0	31.01.1993	00:00	1992	1993	20
+Sevilla FC	Albacete	1:1	2:1	31.01.1993	00:00	1992	1993	20
+Deportivo La CoruÃ±a	Sevilla FC	0:0	2:0	06.02.1993	00:00	1992	1993	21
+Real Burgos	Real Madrid	0:1	1:2	07.02.1993	00:00	1992	1993	21
+FC Barcelona	CD Tenerife	0:1	1:1	07.02.1993	00:00	1992	1993	21
+CD LogroÃ±Ã©s	Rayo Vallecano	0:0	0:0	07.02.1993	00:00	1992	1993	21
+Real Zaragoza	CÃ¡diz CF	0:0	0:0	07.02.1993	00:00	1992	1993	21
+Albacete	CA Osasuna	0:0	0:0	07.02.1993	00:00	1992	1993	21
+Athletic Bilbao	Real Oviedo	0:0	1:0	07.02.1993	00:00	1992	1993	21
+Valencia CF	Celta Vigo	1:0	1:1	07.02.1993	00:00	1992	1993	21
+AtlÃ©tico Madrid	Espanyol Barcelona	1:1	2:1	07.02.1993	00:00	1992	1993	21
+Sporting GijÃ³n	Real Sociedad	1:2	2:4	07.02.1993	00:00	1992	1993	21
+FC Barcelona	AtlÃ©tico Madrid	1:0	1:1	13.02.1993	00:00	1992	1993	22
+Rayo Vallecano	Athletic Bilbao	0:0	1:0	13.02.1993	00:00	1992	1993	22
+CA Osasuna	Deportivo La CoruÃ±a	1:0	1:1	14.02.1993	00:00	1992	1993	22
+Real Sociedad	Albacete	1:0	2:1	14.02.1993	00:00	1992	1993	22
+Celta Vigo	CD LogroÃ±Ã©s	0:0	2:0	14.02.1993	00:00	1992	1993	22
+CD Tenerife	Real Burgos	1:0	3:1	14.02.1993	00:00	1992	1993	22
+Real Oviedo	Real Zaragoza	2:0	4:1	14.02.1993	00:00	1992	1993	22
+CÃ¡diz CF	Espanyol Barcelona	1:0	1:0	14.02.1993	00:00	1992	1993	22
+Real Madrid	Sporting GijÃ³n	0:0	0:0	14.02.1993	00:00	1992	1993	22
+Sevilla FC	Valencia CF	1:1	2:2	14.02.1993	00:00	1992	1993	22
+Sporting GijÃ³n	CD Tenerife	1:1	1:2	20.02.1993	00:00	1992	1993	23
+CD LogroÃ±Ã©s	Sevilla FC	1:0	2:0	21.02.1993	00:00	1992	1993	23
+Real Zaragoza	Rayo Vallecano	1:0	2:0	21.02.1993	00:00	1992	1993	23
+AtlÃ©tico Madrid	CÃ¡diz CF	1:0	2:0	21.02.1993	00:00	1992	1993	23
+Valencia CF	CA Osasuna	1:0	3:1	21.02.1993	00:00	1992	1993	23
+Espanyol Barcelona	Real Oviedo	1:0	2:0	21.02.1993	00:00	1992	1993	23
+Deportivo La CoruÃ±a	Real Sociedad	3:1	5:1	21.02.1993	00:00	1992	1993	23
+Real Burgos	FC Barcelona	0:1	0:1	21.02.1993	00:00	1992	1993	23
+Albacete	Real Madrid	0:0	0:3	21.02.1993	00:00	1992	1993	23
+Athletic Bilbao	Celta Vigo	0:1	0:1	21.02.1993	00:00	1992	1993	23
+Real Madrid	Deportivo La CoruÃ±a	0:1	2:1	27.02.1993	00:00	1992	1993	24
+CA Osasuna	CD LogroÃ±Ã©s	0:0	1:2	28.02.1993	00:00	1992	1993	24
+FC Barcelona	Sporting GijÃ³n	3:0	7:2	28.02.1993	00:00	1992	1993	24
+CD Tenerife	Albacete	1:2	2:2	28.02.1993	00:00	1992	1993	24
+Real Sociedad	Valencia CF	0:0	1:0	28.02.1993	00:00	1992	1993	24
+Rayo Vallecano	Espanyol Barcelona	1:1	1:1	28.02.1993	00:00	1992	1993	24
+Sevilla FC	Athletic Bilbao	1:0	3:1	28.02.1993	00:00	1992	1993	24
+Celta Vigo	Real Zaragoza	0:0	0:1	28.02.1993	00:00	1992	1993	24
+Real Oviedo	CÃ¡diz CF	2:1	2:1	11.03.1993	00:00	1992	1993	24
+Real Burgos	AtlÃ©tico Madrid	0:1	0:2	25.03.1993	00:00	1992	1993	24
+Athletic Bilbao	CA Osasuna	0:0	1:0	06.03.1993	00:00	1992	1993	25
+Real Zaragoza	Sevilla FC	2:1	2:1	07.03.1993	00:00	1992	1993	25
+Deportivo La CoruÃ±a	CD Tenerife	1:0	2:2	07.03.1993	00:00	1992	1993	25
+CÃ¡diz CF	Rayo Vallecano	1:0	1:1	07.03.1993	00:00	1992	1993	25
+Sporting GijÃ³n	Real Burgos	0:0	0:0	07.03.1993	00:00	1992	1993	25
+AtlÃ©tico Madrid	Real Oviedo	1:0	2:1	07.03.1993	00:00	1992	1993	25
+CD LogroÃ±Ã©s	Real Sociedad	0:0	0:1	07.03.1993	00:00	1992	1993	25
+Albacete	FC Barcelona	0:2	0:2	07.03.1993	00:00	1992	1993	25
+Valencia CF	Real Madrid	1:0	1:2	07.03.1993	00:00	1992	1993	25
+Espanyol Barcelona	Celta Vigo	0:0	0:0	07.03.1993	00:00	1992	1993	25
+FC Barcelona	Deportivo La CoruÃ±a	2:0	3:0	13.03.1993	00:00	1992	1993	26
+CA Osasuna	Real Zaragoza	0:0	1:0	14.03.1993	00:00	1992	1993	26
+Real Madrid	CD LogroÃ±Ã©s	0:0	2:2	14.03.1993	00:00	1992	1993	26
+Real Burgos	Albacete	0:0	0:0	14.03.1993	00:00	1992	1993	26
+Celta Vigo	CÃ¡diz CF	0:0	1:0	14.03.1993	00:00	1992	1993	26
+Rayo Vallecano	Real Oviedo	0:1	2:2	14.03.1993	00:00	1992	1993	26
+CD Tenerife	Valencia CF	0:0	0:0	14.03.1993	00:00	1992	1993	26
+Sevilla FC	Espanyol Barcelona	1:1	1:1	14.03.1993	00:00	1992	1993	26
+Real Sociedad	Athletic Bilbao	1:0	1:0	14.03.1993	00:00	1992	1993	26
+Sporting GijÃ³n	AtlÃ©tico Madrid	0:0	2:1	14.03.1993	00:00	1992	1993	26
+Valencia CF	FC Barcelona	1:1	3:4	20.03.1993	00:00	1992	1993	27
+Real Oviedo	Celta Vigo	1:0	3:1	21.03.1993	00:00	1992	1993	27
+AtlÃ©tico Madrid	Rayo Vallecano	0:0	1:0	21.03.1993	00:00	1992	1993	27
+Deportivo La CoruÃ±a	Real Burgos	3:0	5:0	21.03.1993	00:00	1992	1993	27
+Albacete	Sporting GijÃ³n	3:2	6:2	21.03.1993	00:00	1992	1993	27
+CD LogroÃ±Ã©s	CD Tenerife	1:0	2:0	21.03.1993	00:00	1992	1993	27
+Real Zaragoza	Real Sociedad	0:0	1:1	21.03.1993	00:00	1992	1993	27
+CÃ¡diz CF	Sevilla FC	0:0	0:0	21.03.1993	00:00	1992	1993	27
+Athletic Bilbao	Real Madrid	0:1	1:1	21.03.1993	00:00	1992	1993	27
+Espanyol Barcelona	CA Osasuna	1:0	2:1	21.03.1993	00:00	1992	1993	27
+Albacete	AtlÃ©tico Madrid	2:1	2:1	03.04.1993	00:00	1992	1993	28
+Sevilla FC	Real Oviedo	0:0	0:1	04.04.1993	00:00	1992	1993	28
+Celta Vigo	Rayo Vallecano	0:0	0:0	04.04.1993	00:00	1992	1993	28
+FC Barcelona	CD LogroÃ±Ã©s	1:0	3:0	04.04.1993	00:00	1992	1993	28
+CA Osasuna	CÃ¡diz CF	1:0	1:1	04.04.1993	00:00	1992	1993	28
+Sporting GijÃ³n	Deportivo La CoruÃ±a	0:0	0:1	04.04.1993	00:00	1992	1993	28
+Real Madrid	Real Zaragoza	3:0	4:0	04.04.1993	00:00	1992	1993	28
+Real Burgos	Valencia CF	0:0	1:1	04.04.1993	00:00	1992	1993	28
+Real Sociedad	Espanyol Barcelona	1:0	4:1	04.04.1993	00:00	1992	1993	28
+CD Tenerife	Athletic Bilbao	1:0	2:1	04.04.1993	00:00	1992	1993	28
+Athletic Bilbao	FC Barcelona	0:0	1:0	10.04.1993	00:00	1992	1993	29
+Valencia CF	Sporting GijÃ³n	1:0	2:0	11.04.1993	00:00	1992	1993	29
+Deportivo La CoruÃ±a	Albacete	2:1	3:2	11.04.1993	00:00	1992	1993	29
+Real Zaragoza	CD Tenerife	0:1	2:2	11.04.1993	00:00	1992	1993	29
+CD LogroÃ±Ã©s	Real Burgos	0:0	0:1	11.04.1993	00:00	1992	1993	29
+AtlÃ©tico Madrid	Celta Vigo	1:1	1:1	11.04.1993	00:00	1992	1993	29
+CÃ¡diz CF	Real Sociedad	0:0	2:1	11.04.1993	00:00	1992	1993	29
+Rayo Vallecano	Sevilla FC	0:0	0:1	11.04.1993	00:00	1992	1993	29
+Espanyol Barcelona	Real Madrid	1:1	1:3	11.04.1993	00:00	1992	1993	29
+Real Oviedo	CA Osasuna	0:2	1:2	11.04.1993	00:00	1992	1993	29
+Deportivo La CoruÃ±a	AtlÃ©tico Madrid	1:0	1:1	17.04.1993	00:00	1992	1993	30
+Real Burgos	Athletic Bilbao	0:0	1:1	17.04.1993	00:00	1992	1993	30
+Albacete	Valencia CF	0:0	0:1	18.04.1993	00:00	1992	1993	30
+CA Osasuna	Rayo Vallecano	1:0	1:0	18.04.1993	00:00	1992	1993	30
+Real Madrid	CÃ¡diz CF	0:1	3:1	18.04.1993	00:00	1992	1993	30
+Real Sociedad	Real Oviedo	0:0	1:0	18.04.1993	00:00	1992	1993	30
+FC Barcelona	Real Zaragoza	1:0	1:0	18.04.1993	00:00	1992	1993	30
+Sporting GijÃ³n	CD LogroÃ±Ã©s	0:0	1:1	18.04.1993	00:00	1992	1993	30
+CD Tenerife	Espanyol Barcelona	2:1	2:1	18.04.1993	00:00	1992	1993	30
+Sevilla FC	Celta Vigo	0:0	1:0	18.04.1993	00:00	1992	1993	30
+Valencia CF	Deportivo La CoruÃ±a	2:0	3:0	01.05.1993	00:00	1992	1993	31
+Real Oviedo	Real Madrid	0:2	0:4	01.05.1993	00:00	1992	1993	31
+Rayo Vallecano	Real Sociedad	1:0	1:1	01.05.1993	00:00	1992	1993	31
+Athletic Bilbao	Sporting GijÃ³n	0:0	0:0	02.05.1993	00:00	1992	1993	31
+CÃ¡diz CF	CD Tenerife	0:1	1:3	02.05.1993	00:00	1992	1993	31
+Real Zaragoza	Real Burgos	2:0	2:1	02.05.1993	00:00	1992	1993	31
+Celta Vigo	CA Osasuna	0:0	0:0	02.05.1993	00:00	1992	1993	31
+AtlÃ©tico Madrid	Sevilla FC	0:0	1:0	02.05.1993	00:00	1992	1993	31
+Espanyol Barcelona	FC Barcelona	0:0	0:1	02.05.1993	00:00	1992	1993	31
+CD LogroÃ±Ã©s	Albacete	0:0	1:0	02.05.1993	00:00	1992	1993	31
+Valencia CF	AtlÃ©tico Madrid	1:0	1:0	08.05.1993	00:00	1992	1993	32
+Sporting GijÃ³n	Real Zaragoza	1:0	3:1	08.05.1993	00:00	1992	1993	32
+CD Tenerife	Real Oviedo	0:0	1:2	09.05.1993	00:00	1992	1993	32
+Deportivo La CoruÃ±a	CD LogroÃ±Ã©s	0:0	0:1	09.05.1993	00:00	1992	1993	32
+Real Madrid	Rayo Vallecano	0:0	1:1	09.05.1993	00:00	1992	1993	32
+FC Barcelona	CÃ¡diz CF	2:0	4:1	09.05.1993	00:00	1992	1993	32
+CA Osasuna	Sevilla FC	0:0	0:1	09.05.1993	00:00	1992	1993	32
+Real Burgos	Espanyol Barcelona	1:0	1:1	09.05.1993	00:00	1992	1993	32
+Real Sociedad	Celta Vigo	0:1	1:1	09.05.1993	00:00	1992	1993	32
+Albacete	Athletic Bilbao	0:2	4:5	26.05.1993	00:00	1992	1993	32
+AtlÃ©tico Madrid	CA Osasuna	0:0	2:1	15.05.1993	00:00	1992	1993	33
+Real Oviedo	FC Barcelona	1:0	1:0	15.05.1993	00:00	1992	1993	33
+Celta Vigo	Real Madrid	0:1	1:1	15.05.1993	00:00	1992	1993	33
+Sevilla FC	Real Sociedad	2:0	3:1	16.05.1993	00:00	1992	1993	33
+Real Zaragoza	Albacete	0:0	0:1	16.05.1993	00:00	1992	1993	33
+Rayo Vallecano	CD Tenerife	0:0	2:2	16.05.1993	00:00	1992	1993	33
+CÃ¡diz CF	Real Burgos	2:1	3:2	16.05.1993	00:00	1992	1993	33
+Espanyol Barcelona	Sporting GijÃ³n	0:0	1:2	16.05.1993	00:00	1992	1993	33
+CD LogroÃ±Ã©s	Valencia CF	1:1	3:2	16.05.1993	00:00	1992	1993	33
+Athletic Bilbao	Deportivo La CoruÃ±a	0:0	0:1	16.05.1993	00:00	1992	1993	33
+Valencia CF	Athletic Bilbao	0:0	3:1	22.05.1993	00:00	1992	1993	34
+Real Burgos	Real Oviedo	0:0	1:1	23.05.1993	00:00	1992	1993	34
+FC Barcelona	Rayo Vallecano	2:0	4:0	23.05.1993	00:00	1992	1993	34
+Sporting GijÃ³n	CÃ¡diz CF	0:0	1:0	23.05.1993	00:00	1992	1993	34
+Real Sociedad	CA Osasuna	0:2	1:3	23.05.1993	00:00	1992	1993	34
+Albacete	Espanyol Barcelona	0:0	2:0	23.05.1993	00:00	1992	1993	34
+Deportivo La CoruÃ±a	Real Zaragoza	0:0	1:0	23.05.1993	00:00	1992	1993	34
+CD LogroÃ±Ã©s	AtlÃ©tico Madrid	1:0	2:1	23.05.1993	00:00	1992	1993	34
+CD Tenerife	Celta Vigo	0:0	1:0	23.05.1993	00:00	1992	1993	34
+Real Madrid	Sevilla FC	4:0	5:0	23.05.1993	00:00	1992	1993	34
+Sevilla FC	CD Tenerife	1:0	1:0	29.05.1993	00:00	1992	1993	35
+Real Oviedo	Sporting GijÃ³n	0:1	2:1	29.05.1993	00:00	1992	1993	35
+Celta Vigo	FC Barcelona	2:1	3:2	30.05.1993	00:00	1992	1993	35
+CÃ¡diz CF	Albacete	1:0	1:1	30.05.1993	00:00	1992	1993	35
+Athletic Bilbao	CD LogroÃ±Ã©s	0:0	2:0	30.05.1993	00:00	1992	1993	35
+Rayo Vallecano	Real Burgos	0:0	2:1	30.05.1993	00:00	1992	1993	35
+Espanyol Barcelona	Deportivo La CoruÃ±a	0:1	0:2	30.05.1993	00:00	1992	1993	35
+Real Zaragoza	Valencia CF	1:0	2:1	30.05.1993	00:00	1992	1993	35
+CA Osasuna	Real Madrid	0:0	0:0	30.05.1993	00:00	1992	1993	35
+AtlÃ©tico Madrid	Real Sociedad	0:0	0:0	30.05.1993	00:00	1992	1993	35
+Deportivo La CoruÃ±a	CÃ¡diz CF	0:0	3:0	05.06.1993	00:00	1992	1993	36
+Real Madrid	Real Sociedad	0:0	2:0	05.06.1993	00:00	1992	1993	36
+FC Barcelona	Sevilla FC	0:1	2:1	05.06.1993	00:00	1992	1993	36
+CD LogroÃ±Ã©s	Real Zaragoza	0:0	0:0	06.06.1993	00:00	1992	1993	36
+Real Burgos	Celta Vigo	0:1	1:1	06.06.1993	00:00	1992	1993	36
+Albacete	Real Oviedo	2:0	2:0	06.06.1993	00:00	1992	1993	36
+Sporting GijÃ³n	Rayo Vallecano	0:0	1:0	06.06.1993	00:00	1992	1993	36
+Valencia CF	Espanyol Barcelona	0:0	2:0	06.06.1993	00:00	1992	1993	36
+CD Tenerife	CA Osasuna	0:0	2:2	06.06.1993	00:00	1992	1993	36
+Athletic Bilbao	AtlÃ©tico Madrid	0:0	1:2	06.06.1993	00:00	1992	1993	36
+Real Madrid	AtlÃ©tico Madrid	0:0	1:0	12.06.1993	00:00	1992	1993	37
+Sevilla FC	Real Burgos	1:0	1:1	13.06.1993	00:00	1992	1993	37
+Rayo Vallecano	Albacete	0:1	2:2	13.06.1993	00:00	1992	1993	37
+Espanyol Barcelona	CD LogroÃ±Ã©s	0:0	0:1	13.06.1993	00:00	1992	1993	37
+Real Oviedo	Deportivo La CoruÃ±a	1:2	3:3	13.06.1993	00:00	1992	1993	37
+CÃ¡diz CF	Valencia CF	0:1	0:2	13.06.1993	00:00	1992	1993	37
+Real Zaragoza	Athletic Bilbao	0:2	0:3	13.06.1993	00:00	1992	1993	37
+CA Osasuna	FC Barcelona	0:0	0:1	13.06.1993	00:00	1992	1993	37
+Celta Vigo	Sporting GijÃ³n	0:0	0:0	13.06.1993	00:00	1992	1993	37
+Real Sociedad	CD Tenerife	2:0	3:1	13.06.1993	00:00	1992	1993	37
+Deportivo La CoruÃ±a	Rayo Vallecano	1:0	1:1	19.06.1993	00:00	1992	1993	38
+Real Burgos	CA Osasuna	0:0	1:0	19.06.1993	00:00	1992	1993	38
+Valencia CF	Real Oviedo	0:0	3:0	20.06.1993	00:00	1992	1993	38
+Albacete	Celta Vigo	0:0	1:0	20.06.1993	00:00	1992	1993	38
+AtlÃ©tico Madrid	Real Zaragoza	0:1	2:2	20.06.1993	00:00	1992	1993	38
+FC Barcelona	Real Sociedad	1:0	1:0	20.06.1993	00:00	1992	1993	38
+Sporting GijÃ³n	Sevilla FC	0:1	1:3	20.06.1993	00:00	1992	1993	38
+CD Tenerife	Real Madrid	2:0	2:0	20.06.1993	00:00	1992	1993	38
+CD LogroÃ±Ã©s	CÃ¡diz CF	0:0	1:0	20.06.1993	00:00	1992	1993	38
+Athletic Bilbao	Espanyol Barcelona	2:0	2:0	20.06.1993	00:00	1992	1993	38

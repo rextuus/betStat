@@ -1,0 +1,306 @@
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	0:2	0:4	06.08.1993	20:00	1993	1994	1
+Hamburger SV	1. FC NÃ¼rnberg	2:1	5:2	06.08.1993	20:00	1993	1994	1
+Borussia Dortmund	Karlsruher SC	0:0	2:1	06.08.1993	20:00	1993	1994	1
+1. FC KÃ¶ln	1. FC Kaiserslautern	0:0	0:2	07.08.1993	15:30	1993	1994	1
+SG Wattenscheid 09	FC Schalke 04	2:0	3:0	07.08.1993	15:30	1993	1994	1
+Bayern MÃ¼nchen	SC Freiburg	3:1	3:1	07.08.1993	15:30	1993	1994	1
+MSV Duisburg	Bayer Leverkusen	1:0	2:2	07.08.1993	15:30	1993	1994	1
+VfB Leipzig	Dynamo Dresden	3:2	3:3	07.08.1993	15:30	1993	1994	1
+Werder Bremen	VfB Stuttgart	2:0	5:1	08.08.1993	18:00	1993	1994	1
+1. FC NÃ¼rnberg	1. FC KÃ¶ln	1:0	1:0	13.08.1993	20:00	1993	1994	2
+Dynamo Dresden	MSV Duisburg	0:0	0:1	13.08.1993	20:00	1993	1994	2
+Bayer Leverkusen	Bayern MÃ¼nchen	1:1	2:1	14.08.1993	15:30	1993	1994	2
+SC Freiburg	SG Wattenscheid 09	1:0	4:1	14.08.1993	15:30	1993	1994	2
+Karlsruher SC	Hamburger SV	1:0	2:0	14.08.1993	15:30	1993	1994	2
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	2:1	4:2	14.08.1993	15:30	1993	1994	2
+Eintracht Frankfurt	Werder Bremen	1:1	2:2	14.08.1993	15:30	1993	1994	2
+FC Schalke 04	Borussia Dortmund	0:0	1:0	15.08.1993	18:00	1993	1994	2
+VfB Stuttgart	VfB Leipzig	0:0	0:0	11.09.1993	15:30	1993	1994	2
+Werder Bremen	VfB Leipzig	1:1	3:1	17.08.1993	20:00	1993	1994	3
+SG Wattenscheid 09	Bayer Leverkusen	1:1	1:2	20.08.1993	19:30	1993	1994	3
+1. FC KÃ¶ln	Karlsruher SC	1:0	2:1	20.08.1993	20:00	1993	1994	3
+Bor. MÃ¶nchengladbach	1. FC NÃ¼rnberg	1:0	2:0	21.08.1993	15:30	1993	1994	3
+Hamburger SV	FC Schalke 04	3:0	4:1	21.08.1993	15:30	1993	1994	3
+Borussia Dortmund	SC Freiburg	0:1	3:2	21.08.1993	15:30	1993	1994	3
+MSV Duisburg	VfB Stuttgart	2:1	2:2	21.08.1993	15:30	1993	1994	3
+Eintracht Frankfurt	1. FC Kaiserslautern	1:0	1:0	21.08.1993	15:30	1993	1994	3
+Bayern MÃ¼nchen	Dynamo Dresden	2:0	5:0	22.08.1993	18:00	1993	1994	3
+SC Freiburg	Hamburger SV	0:1	0:1	27.08.1993	19:30	1993	1994	4
+Karlsruher SC	Bor. MÃ¶nchengladbach	1:0	1:0	27.08.1993	20:00	1993	1994	4
+VfB Leipzig	MSV Duisburg	0:1	1:1	27.08.1993	20:00	1993	1994	4
+Bayer Leverkusen	Borussia Dortmund	1:1	2:1	28.08.1993	15:30	1993	1994	4
+FC Schalke 04	1. FC KÃ¶ln	1:2	1:2	28.08.1993	15:30	1993	1994	4
+1. FC NÃ¼rnberg	Eintracht Frankfurt	0:2	1:5	28.08.1993	15:30	1993	1994	4
+1. FC Kaiserslautern	Werder Bremen	0:1	2:3	28.08.1993	15:30	1993	1994	4
+Dynamo Dresden	SG Wattenscheid 09	0:1	1:1	28.08.1993	15:30	1993	1994	4
+VfB Stuttgart	Bayern MÃ¼nchen	1:2	2:2	29.08.1993	18:00	1993	1994	4
+Bor. MÃ¶nchengladbach	FC Schalke 04	3:1	3:2	31.08.1993	20:00	1993	1994	5
+1. FC Kaiserslautern	1. FC NÃ¼rnberg	0:0	3:1	31.08.1993	20:00	1993	1994	5
+Eintracht Frankfurt	Karlsruher SC	0:0	3:1	31.08.1993	20:00	1993	1994	5
+Werder Bremen	MSV Duisburg	0:0	1:5	31.08.1993	20:00	1993	1994	5
+SG Wattenscheid 09	VfB Stuttgart	1:1	2:4	01.09.1993	19:30	1993	1994	5
+1. FC KÃ¶ln	SC Freiburg	1:0	2:0	01.09.1993	20:00	1993	1994	5
+Hamburger SV	Bayer Leverkusen	0:0	2:1	01.09.1993	20:00	1993	1994	5
+Borussia Dortmund	Dynamo Dresden	1:0	4:0	01.09.1993	20:00	1993	1994	5
+Bayern MÃ¼nchen	VfB Leipzig	1:0	3:0	01.09.1993	20:00	1993	1994	5
+Karlsruher SC	1. FC Kaiserslautern	0:1	1:1	03.09.1993	20:00	1993	1994	6
+1. FC NÃ¼rnberg	Werder Bremen	0:0	0:1	03.09.1993	20:00	1993	1994	6
+VfB Stuttgart	Borussia Dortmund	1:1	2:2	04.09.1993	15:30	1993	1994	6
+Bayer Leverkusen	1. FC KÃ¶ln	2:1	2:1	04.09.1993	15:30	1993	1994	6
+SC Freiburg	Bor. MÃ¶nchengladbach	1:0	3:3	04.09.1993	15:30	1993	1994	6
+FC Schalke 04	Eintracht Frankfurt	1:2	1:3	04.09.1993	15:30	1993	1994	6
+MSV Duisburg	Bayern MÃ¼nchen	1:1	2:2	04.09.1993	15:30	1993	1994	6
+VfB Leipzig	SG Wattenscheid 09	0:0	0:0	04.09.1993	15:30	1993	1994	6
+Dynamo Dresden	Hamburger SV	1:1	1:1	05.09.1993	18:00	1993	1994	6
+Bor. MÃ¶nchengladbach	Bayer Leverkusen	1:1	2:2	07.09.1993	20:00	1993	1994	7
+Borussia Dortmund	VfB Leipzig	0:1	0:1	07.09.1993	20:00	1993	1994	7
+1. FC NÃ¼rnberg	Karlsruher SC	1:1	1:1	07.09.1993	20:00	1993	1994	7
+SG Wattenscheid 09	MSV Duisburg	0:0	0:2	08.09.1993	19:30	1993	1994	7
+1. FC KÃ¶ln	Dynamo Dresden	0:0	0:1	08.09.1993	20:00	1993	1994	7
+Hamburger SV	VfB Stuttgart	2:2	3:2	08.09.1993	20:00	1993	1994	7
+1. FC Kaiserslautern	FC Schalke 04	0:0	0:0	08.09.1993	20:00	1993	1994	7
+Eintracht Frankfurt	SC Freiburg	2:0	3:0	08.09.1993	20:00	1993	1994	7
+Werder Bremen	Bayern MÃ¼nchen	0:0	1:0	09.09.1993	20:15	1993	1994	7
+SC Freiburg	1. FC Kaiserslautern	0:1	2:3	17.09.1993	19:30	1993	1994	8
+VfB Stuttgart	1. FC KÃ¶ln	0:1	1:1	17.09.1993	20:00	1993	1994	8
+VfB Leipzig	Hamburger SV	0:2	1:4	17.09.1993	20:00	1993	1994	8
+Bayer Leverkusen	Eintracht Frankfurt	0:0	2:2	18.09.1993	15:30	1993	1994	8
+FC Schalke 04	1. FC NÃ¼rnberg	1:1	1:2	18.09.1993	15:30	1993	1994	8
+Bayern MÃ¼nchen	SG Wattenscheid 09	1:1	3:3	18.09.1993	15:30	1993	1994	8
+MSV Duisburg	Borussia Dortmund	1:1	2:2	18.09.1993	15:30	1993	1994	8
+Dynamo Dresden	Bor. MÃ¶nchengladbach	1:1	2:1	18.09.1993	15:30	1993	1994	8
+Karlsruher SC	Werder Bremen	0:1	0:3	19.09.1993	18:00	1993	1994	8
+Hamburger SV	MSV Duisburg	0:0	0:1	24.09.1993	20:00	1993	1994	9
+Karlsruher SC	FC Schalke 04	0:0	0:0	24.09.1993	20:00	1993	1994	9
+Eintracht Frankfurt	Dynamo Dresden	0:1	3:2	24.09.1993	20:00	1993	1994	9
+1. FC KÃ¶ln	VfB Leipzig	0:0	3:1	25.09.1993	15:30	1993	1994	9
+Borussia Dortmund	Bayern MÃ¼nchen	0:1	1:1	25.09.1993	15:30	1993	1994	9
+1. FC NÃ¼rnberg	SC Freiburg	1:0	2:2	25.09.1993	15:30	1993	1994	9
+1. FC Kaiserslautern	Bayer Leverkusen	2:1	3:2	25.09.1993	15:30	1993	1994	9
+Werder Bremen	SG Wattenscheid 09	0:0	0:0	25.09.1993	15:30	1993	1994	9
+Bor. MÃ¶nchengladbach	VfB Stuttgart	0:1	0:2	29.09.1993	20:00	1993	1994	9
+MSV Duisburg	1. FC KÃ¶ln	0:0	0:0	01.10.1993	19:30	1993	1994	10
+Dynamo Dresden	1. FC Kaiserslautern	2:1	3:1	01.10.1993	20:00	1993	1994	10
+VfB Stuttgart	Eintracht Frankfurt	0:0	0:2	02.10.1993	15:30	1993	1994	10
+Bayer Leverkusen	1. FC NÃ¼rnberg	2:0	4:0	02.10.1993	15:30	1993	1994	10
+SC Freiburg	Karlsruher SC	2:1	3:3	02.10.1993	15:30	1993	1994	10
+Bayern MÃ¼nchen	Hamburger SV	1:0	4:0	02.10.1993	15:30	1993	1994	10
+VfB Leipzig	Bor. MÃ¶nchengladbach	0:0	1:1	02.10.1993	15:30	1993	1994	10
+SG Wattenscheid 09	Borussia Dortmund	1:0	1:2	03.10.1993	18:00	1993	1994	10
+FC Schalke 04	Werder Bremen	0:0	1:1	04.10.1993	17:30	1993	1994	10
+Karlsruher SC	Bayer Leverkusen	2:0	2:0	08.10.1993	20:00	1993	1994	11
+1. FC NÃ¼rnberg	Dynamo Dresden	2:0	3:0	08.10.1993	20:00	1993	1994	11
+Werder Bremen	Borussia Dortmund	0:0	4:0	08.10.1993	20:00	1993	1994	11
+Bor. MÃ¶nchengladbach	MSV Duisburg	3:0	4:1	09.10.1993	15:30	1993	1994	11
+1. FC KÃ¶ln	Bayern MÃ¼nchen	0:1	0:4	09.10.1993	15:30	1993	1994	11
+Hamburger SV	SG Wattenscheid 09	2:1	2:1	09.10.1993	15:30	1993	1994	11
+FC Schalke 04	SC Freiburg	0:1	1:3	09.10.1993	15:30	1993	1994	11
+1. FC Kaiserslautern	VfB Stuttgart	3:0	5:0	09.10.1993	15:30	1993	1994	11
+Eintracht Frankfurt	VfB Leipzig	1:0	2:1	09.10.1993	15:30	1993	1994	11
+SG Wattenscheid 09	1. FC KÃ¶ln	0:2	2:2	15.10.1993	19:30	1993	1994	12
+MSV Duisburg	Eintracht Frankfurt	1:0	1:0	15.10.1993	19:30	1993	1994	12
+Dynamo Dresden	Karlsruher SC	1:1	1:1	15.10.1993	20:00	1993	1994	12
+VfB Stuttgart	1. FC NÃ¼rnberg	1:0	1:0	16.10.1993	15:30	1993	1994	12
+Bayer Leverkusen	FC Schalke 04	3:0	5:1	16.10.1993	15:30	1993	1994	12
+SC Freiburg	Werder Bremen	0:0	0:0	16.10.1993	15:30	1993	1994	12
+Borussia Dortmund	Hamburger SV	0:0	2:1	16.10.1993	15:30	1993	1994	12
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	3:0	3:1	16.10.1993	15:30	1993	1994	12
+VfB Leipzig	1. FC Kaiserslautern	0:0	0:0	17.10.1993	18:00	1993	1994	12
+Bor. MÃ¶nchengladbach	SG Wattenscheid 09	1:1	3:3	22.10.1993	20:00	1993	1994	13
+1. FC NÃ¼rnberg	VfB Leipzig	3:0	5:0	22.10.1993	20:00	1993	1994	13
+1. FC Kaiserslautern	MSV Duisburg	1:0	2:0	22.10.1993	20:00	1993	1994	13
+1. FC KÃ¶ln	Borussia Dortmund	0:0	2:0	23.10.1993	15:30	1993	1994	13
+SC Freiburg	Bayer Leverkusen	0:0	1:0	23.10.1993	15:30	1993	1994	13
+FC Schalke 04	Dynamo Dresden	0:0	0:0	23.10.1993	15:30	1993	1994	13
+Eintracht Frankfurt	Bayern MÃ¼nchen	1:2	2:2	23.10.1993	15:30	1993	1994	13
+Werder Bremen	Hamburger SV	0:2	0:2	24.10.1993	18:00	1993	1994	13
+Karlsruher SC	VfB Stuttgart	0:0	0:0	10.11.1993	20:00	1993	1994	13
+Borussia Dortmund	Bor. MÃ¶nchengladbach	1:0	3:0	29.10.1993	20:00	1993	1994	14
+Dynamo Dresden	SC Freiburg	0:1	1:2	29.10.1993	20:00	1993	1994	14
+VfB Stuttgart	FC Schalke 04	1:0	3:0	30.10.1993	15:30	1993	1994	14
+Bayer Leverkusen	Werder Bremen	1:2	2:2	30.10.1993	15:30	1993	1994	14
+Hamburger SV	1. FC KÃ¶ln	0:3	2:4	30.10.1993	15:30	1993	1994	14
+SG Wattenscheid 09	Eintracht Frankfurt	0:0	0:0	30.10.1993	15:30	1993	1994	14
+Bayern MÃ¼nchen	1. FC Kaiserslautern	2:0	4:0	30.10.1993	15:30	1993	1994	14
+MSV Duisburg	1. FC NÃ¼rnberg	1:0	1:0	30.10.1993	15:30	1993	1994	14
+VfB Leipzig	Karlsruher SC	0:0	1:0	30.10.1993	15:30	1993	1994	14
+Bor. MÃ¶nchengladbach	Hamburger SV	1:1	2:2	05.11.1993	20:00	1993	1994	15
+FC Schalke 04	VfB Leipzig	1:0	3:1	05.11.1993	20:00	1993	1994	15
+1. FC Kaiserslautern	SG Wattenscheid 09	1:1	4:1	05.11.1993	20:00	1993	1994	15
+1. FC KÃ¶ln	Werder Bremen	1:0	2:0	06.11.1993	15:30	1993	1994	15
+SC Freiburg	VfB Stuttgart	2:1	2:1	06.11.1993	15:30	1993	1994	15
+Karlsruher SC	MSV Duisburg	2:0	5:0	06.11.1993	15:30	1993	1994	15
+1. FC NÃ¼rnberg	Bayern MÃ¼nchen	1:0	2:0	06.11.1993	15:30	1993	1994	15
+Eintracht Frankfurt	Borussia Dortmund	0:0	2:0	06.11.1993	15:30	1993	1994	15
+Dynamo Dresden	Bayer Leverkusen	1:0	1:1	06.11.1993	15:30	1993	1994	15
+MSV Duisburg	FC Schalke 04	1:0	1:0	12.11.1993	19:30	1993	1994	16
+Borussia Dortmund	1. FC Kaiserslautern	1:1	2:1	12.11.1993	20:00	1993	1994	16
+Werder Bremen	Dynamo Dresden	0:1	0:1	12.11.1993	20:00	1993	1994	16
+VfB Stuttgart	Bayer Leverkusen	1:2	1:4	13.11.1993	15:30	1993	1994	16
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:2	0:4	13.11.1993	15:30	1993	1994	16
+Hamburger SV	Eintracht Frankfurt	0:0	3:0	13.11.1993	15:30	1993	1994	16
+SG Wattenscheid 09	1. FC NÃ¼rnberg	1:0	2:1	13.11.1993	15:30	1993	1994	16
+Bayern MÃ¼nchen	Karlsruher SC	0:0	1:0	13.11.1993	15:30	1993	1994	16
+VfB Leipzig	SC Freiburg	0:2	2:2	14.11.1993	18:00	1993	1994	16
+Bor. MÃ¶nchengladbach	Werder Bremen	1:2	3:2	19.11.1993	20:00	1993	1994	17
+Karlsruher SC	SG Wattenscheid 09	1:0	2:0	19.11.1993	20:00	1993	1994	17
+Eintracht Frankfurt	1. FC KÃ¶ln	0:0	0:3	19.11.1993	20:00	1993	1994	17
+Bayer Leverkusen	VfB Leipzig	0:1	3:1	20.11.1993	15:30	1993	1994	17
+SC Freiburg	MSV Duisburg	0:1	1:2	20.11.1993	15:30	1993	1994	17
+FC Schalke 04	Bayern MÃ¼nchen	0:0	1:1	20.11.1993	15:30	1993	1994	17
+1. FC Kaiserslautern	Hamburger SV	3:0	3:0	20.11.1993	15:30	1993	1994	17
+1. FC NÃ¼rnberg	Borussia Dortmund	0:0	0:0	20.11.1993	20:00	1993	1994	17
+Dynamo Dresden	VfB Stuttgart	0:0	1:0	21.11.1993	18:00	1993	1994	17
+1. FC Kaiserslautern	1. FC KÃ¶ln	2:0	3:0	26.11.1993	20:00	1993	1994	18
+FC Schalke 04	SG Wattenscheid 09	2:1	4:1	26.11.1993	20:00	1993	1994	18
+Dynamo Dresden	VfB Leipzig	1:0	1:0	26.11.1993	20:00	1993	1994	18
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	0:2	0:3	27.11.1993	15:30	1993	1994	18
+1. FC NÃ¼rnberg	Hamburger SV	0:1	0:1	27.11.1993	15:30	1993	1994	18
+Karlsruher SC	Borussia Dortmund	3:3	3:3	27.11.1993	15:30	1993	1994	18
+SC Freiburg	Bayern MÃ¼nchen	1:0	3:1	27.11.1993	15:30	1993	1994	18
+Bayer Leverkusen	MSV Duisburg	1:0	2:1	27.11.1993	15:30	1993	1994	18
+VfB Stuttgart	Werder Bremen	0:0	0:0	27.11.1993	15:30	1993	1994	18
+Borussia Dortmund	FC Schalke 04	0:0	1:1	03.12.1993	20:00	1993	1994	19
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	0:0	3:1	03.12.1993	20:00	1993	1994	19
+VfB Leipzig	VfB Stuttgart	0:0	0:0	04.12.1993	15:30	1993	1994	19
+Bayern MÃ¼nchen	Bayer Leverkusen	0:0	1:1	04.12.1993	15:30	1993	1994	19
+SG Wattenscheid 09	SC Freiburg	1:0	3:1	04.12.1993	15:30	1993	1994	19
+Hamburger SV	Karlsruher SC	1:0	1:1	04.12.1993	15:30	1993	1994	19
+1. FC KÃ¶ln	1. FC NÃ¼rnberg	0:0	0:1	04.12.1993	15:30	1993	1994	19
+Werder Bremen	Eintracht Frankfurt	0:0	1:0	04.12.1993	15:30	1993	1994	19
+MSV Duisburg	Dynamo Dresden	1:0	1:1	05.12.1993	18:00	1993	1994	19
+1. FC NÃ¼rnberg	Bor. MÃ¶nchengladbach	1:2	2:4	10.12.1993	20:00	1993	1994	20
+Dynamo Dresden	Bayern MÃ¼nchen	1:0	1:1	10.12.1993	20:00	1993	1994	20
+VfB Stuttgart	MSV Duisburg	3:0	4:0	10.12.1993	20:00	1993	1994	20
+Karlsruher SC	1. FC KÃ¶ln	1:0	2:0	11.12.1993	15:30	1993	1994	20
+FC Schalke 04	Hamburger SV	0:0	1:0	11.12.1993	15:30	1993	1994	20
+SC Freiburg	Borussia Dortmund	1:0	4:1	11.12.1993	15:30	1993	1994	20
+Bayer Leverkusen	SG Wattenscheid 09	1:1	1:1	11.12.1993	15:30	1993	1994	20
+1. FC Kaiserslautern	Eintracht Frankfurt	1:1	1:1	11.12.1993	15:30	1993	1994	20
+VfB Leipzig	Werder Bremen	1:0	1:1	11.12.1993	15:30	1993	1994	20
+SG Wattenscheid 09	Dynamo Dresden	1:1	1:1	11.02.1994	19:30	1993	1994	21
+Bor. MÃ¶nchengladbach	Karlsruher SC	1:0	1:2	11.02.1994	20:00	1993	1994	21
+Borussia Dortmund	Bayer Leverkusen	1:0	1:0	12.02.1994	15:30	1993	1994	21
+Hamburger SV	SC Freiburg	0:1	1:1	12.02.1994	15:30	1993	1994	21
+Eintracht Frankfurt	1. FC NÃ¼rnberg	1:1	1:1	12.02.1994	15:30	1993	1994	21
+Werder Bremen	1. FC Kaiserslautern	2:0	2:0	12.02.1994	15:30	1993	1994	21
+MSV Duisburg	VfB Leipzig	1:0	2:1	12.02.1994	15:30	1993	1994	21
+Bayern MÃ¼nchen	VfB Stuttgart	1:1	1:3	13.02.1994	20:00	1993	1994	21
+1. FC KÃ¶ln	FC Schalke 04	1:1	1:1	16.02.1994	20:00	1993	1994	21
+MSV Duisburg	Werder Bremen	0:0	1:0	18.02.1994	19:30	1993	1994	22
+Dynamo Dresden	Borussia Dortmund	1:0	3:0	18.02.1994	20:00	1993	1994	22
+VfB Stuttgart	SG Wattenscheid 09	0:0	3:0	18.02.1994	20:00	1993	1994	22
+FC Schalke 04	Bor. MÃ¶nchengladbach	1:0	2:1	19.02.1994	15:30	1993	1994	22
+SC Freiburg	1. FC KÃ¶ln	0:2	2:4	19.02.1994	15:30	1993	1994	22
+Bayer Leverkusen	Hamburger SV	1:0	1:2	19.02.1994	15:30	1993	1994	22
+VfB Leipzig	Bayern MÃ¼nchen	0:3	1:3	19.02.1994	15:30	1993	1994	22
+1. FC NÃ¼rnberg	1. FC Kaiserslautern	0:1	0:2	19.02.1994	15:30	1993	1994	22
+Karlsruher SC	Eintracht Frankfurt	1:0	1:0	19.02.1994	15:30	1993	1994	22
+Werder Bremen	1. FC NÃ¼rnberg	1:1	2:2	25.02.1994	20:00	1993	1994	23
+1. FC KÃ¶ln	Bayer Leverkusen	0:1	1:1	26.02.1994	15:30	1993	1994	23
+Bor. MÃ¶nchengladbach	SC Freiburg	1:1	1:1	26.02.1994	15:30	1993	1994	23
+Eintracht Frankfurt	FC Schalke 04	0:1	1:3	26.02.1994	15:30	1993	1994	23
+1. FC Kaiserslautern	Karlsruher SC	0:0	0:0	26.02.1994	15:30	1993	1994	23
+Bayern MÃ¼nchen	MSV Duisburg	4:0	4:0	26.02.1994	15:30	1993	1994	23
+Hamburger SV	Dynamo Dresden	0:0	1:1	26.02.1994	15:30	1993	1994	23
+SG Wattenscheid 09	VfB Leipzig	1:1	2:2	27.02.1994	18:00	1993	1994	23
+Borussia Dortmund	VfB Stuttgart	0:0	1:2	08.03.1994	20:00	1993	1994	23
+MSV Duisburg	SG Wattenscheid 09	2:1	2:1	04.03.1994	19:30	1993	1994	24
+Dynamo Dresden	1. FC KÃ¶ln	0:1	1:1	04.03.1994	20:00	1993	1994	24
+Bayer Leverkusen	Bor. MÃ¶nchengladbach	0:1	0:1	05.03.1994	15:30	1993	1994	24
+VfB Stuttgart	Hamburger SV	0:0	4:0	05.03.1994	15:30	1993	1994	24
+VfB Leipzig	Borussia Dortmund	1:0	2:3	05.03.1994	15:30	1993	1994	24
+Karlsruher SC	1. FC NÃ¼rnberg	0:1	3:2	05.03.1994	15:30	1993	1994	24
+FC Schalke 04	1. FC Kaiserslautern	0:0	2:0	05.03.1994	15:30	1993	1994	24
+Bayern MÃ¼nchen	Werder Bremen	0:0	2:0	05.03.1994	15:30	1993	1994	24
+SC Freiburg	Eintracht Frankfurt	1:2	1:3	06.03.1994	18:00	1993	1994	24
+Eintracht Frankfurt	Bayer Leverkusen	1:0	2:0	11.03.1994	20:00	1993	1994	25
+Borussia Dortmund	MSV Duisburg	1:0	2:1	11.03.1994	20:00	1993	1994	25
+1. FC Kaiserslautern	SC Freiburg	1:0	1:0	12.03.1994	15:30	1993	1994	25
+1. FC NÃ¼rnberg	FC Schalke 04	0:0	1:0	12.03.1994	15:30	1993	1994	25
+Werder Bremen	Karlsruher SC	0:0	0:2	12.03.1994	15:30	1993	1994	25
+SG Wattenscheid 09	Bayern MÃ¼nchen	0:0	1:3	12.03.1994	15:30	1993	1994	25
+Hamburger SV	VfB Leipzig	2:0	3:0	12.03.1994	15:30	1993	1994	25
+Bor. MÃ¶nchengladbach	Dynamo Dresden	2:1	2:1	12.03.1994	15:30	1993	1994	25
+1. FC KÃ¶ln	VfB Stuttgart	1:1	3:1	13.03.1994	18:00	1993	1994	25
+MSV Duisburg	Hamburger SV	0:0	0:1	18.03.1994	19:30	1993	1994	26
+VfB Leipzig	1. FC KÃ¶ln	0:0	2:3	18.03.1994	20:00	1993	1994	26
+VfB Stuttgart	Bor. MÃ¶nchengladbach	2:0	3:0	19.03.1994	15:30	1993	1994	26
+FC Schalke 04	Karlsruher SC	0:0	2:0	19.03.1994	15:30	1993	1994	26
+SC Freiburg	1. FC NÃ¼rnberg	0:0	0:0	19.03.1994	15:30	1993	1994	26
+Bayer Leverkusen	1. FC Kaiserslautern	1:1	3:2	19.03.1994	15:30	1993	1994	26
+Dynamo Dresden	Eintracht Frankfurt	0:1	0:4	19.03.1994	15:30	1993	1994	26
+Bayern MÃ¼nchen	Borussia Dortmund	0:0	0:0	20.03.1994	18:00	1993	1994	26
+SG Wattenscheid 09	Werder Bremen	1:1	2:2	22.03.1994	19:30	1993	1994	26
+Karlsruher SC	SC Freiburg	1:1	2:1	25.03.1994	20:00	1993	1994	27
+Werder Bremen	FC Schalke 04	0:1	0:1	25.03.1994	20:00	1993	1994	27
+1. FC Kaiserslautern	Dynamo Dresden	0:0	0:0	25.03.1994	20:00	1993	1994	27
+Eintracht Frankfurt	VfB Stuttgart	0:0	0:0	26.03.1994	15:30	1993	1994	27
+1. FC NÃ¼rnberg	Bayer Leverkusen	1:1	2:3	26.03.1994	15:30	1993	1994	27
+Borussia Dortmund	SG Wattenscheid 09	1:0	2:0	26.03.1994	15:30	1993	1994	27
+1. FC KÃ¶ln	MSV Duisburg	1:0	1:0	26.03.1994	15:30	1993	1994	27
+Bor. MÃ¶nchengladbach	VfB Leipzig	3:0	6:1	26.03.1994	15:30	1993	1994	27
+Hamburger SV	Bayern MÃ¼nchen	0:0	1:2	27.03.1994	20:00	1993	1994	27
+MSV Duisburg	Bor. MÃ¶nchengladbach	1:0	2:0	31.03.1994	19:30	1993	1994	28
+SG Wattenscheid 09	Hamburger SV	0:0	3:1	31.03.1994	19:30	1993	1994	28
+Dynamo Dresden	1. FC NÃ¼rnberg	0:1	1:1	31.03.1994	20:00	1993	1994	28
+VfB Stuttgart	1. FC Kaiserslautern	1:1	1:1	31.03.1994	20:00	1993	1994	28
+Bayern MÃ¼nchen	1. FC KÃ¶ln	0:0	1:0	02.04.1994	15:30	1993	1994	28
+SC Freiburg	FC Schalke 04	1:1	2:3	02.04.1994	15:30	1993	1994	28
+Bayer Leverkusen	Karlsruher SC	1:0	3:1	02.04.1994	15:30	1993	1994	28
+VfB Leipzig	Eintracht Frankfurt	1:0	1:0	02.04.1994	15:30	1993	1994	28
+Borussia Dortmund	Werder Bremen	0:1	3:2	02.04.1994	15:30	1993	1994	28
+1. FC NÃ¼rnberg	VfB Stuttgart	0:0	1:0	05.04.1994	20:00	1993	1994	29
+Hamburger SV	Borussia Dortmund	0:0	0:0	05.04.1994	20:00	1993	1994	29
+1. FC KÃ¶ln	SG Wattenscheid 09	2:0	3:2	05.04.1994	20:00	1993	1994	29
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	0:0	2:0	05.04.1994	20:00	1993	1994	29
+1. FC Kaiserslautern	VfB Leipzig	0:0	1:0	05.04.1994	20:00	1993	1994	29
+FC Schalke 04	Bayer Leverkusen	1:0	1:1	06.04.1994	20:00	1993	1994	29
+Werder Bremen	SC Freiburg	2:1	3:2	06.04.1994	20:00	1993	1994	29
+Eintracht Frankfurt	MSV Duisburg	0:1	1:2	06.04.1994	20:00	1993	1994	29
+Karlsruher SC	Dynamo Dresden	0:0	1:0	06.04.1994	20:00	1993	1994	29
+Borussia Dortmund	1. FC KÃ¶ln	2:1	2:1	08.04.1994	20:00	1993	1994	30
+VfB Leipzig	1. FC NÃ¼rnberg	0:1	0:2	08.04.1994	20:00	1993	1994	30
+SG Wattenscheid 09	Bor. MÃ¶nchengladbach	1:1	3:1	09.04.1994	15:30	1993	1994	30
+Bayer Leverkusen	SC Freiburg	1:0	2:1	09.04.1994	15:30	1993	1994	30
+Dynamo Dresden	FC Schalke 04	0:0	1:0	09.04.1994	15:30	1993	1994	30
+VfB Stuttgart	Karlsruher SC	1:0	3:0	09.04.1994	15:30	1993	1994	30
+Bayern MÃ¼nchen	Eintracht Frankfurt	1:1	2:1	09.04.1994	15:30	1993	1994	30
+Hamburger SV	Werder Bremen	1:1	1:1	09.04.1994	15:30	1993	1994	30
+MSV Duisburg	1. FC Kaiserslautern	0:1	1:7	10.04.1994	18:00	1993	1994	30
+1. FC Kaiserslautern	Bayern MÃ¼nchen	0:0	4:0	14.04.1994	20:00	1993	1994	31
+SC Freiburg	Dynamo Dresden	0:0	0:1	15.04.1994	19:30	1993	1994	31
+1. FC KÃ¶ln	Hamburger SV	1:0	3:0	15.04.1994	20:00	1993	1994	31
+FC Schalke 04	VfB Stuttgart	0:1	0:1	16.04.1994	15:30	1993	1994	31
+Werder Bremen	Bayer Leverkusen	1:0	2:1	16.04.1994	15:30	1993	1994	31
+Eintracht Frankfurt	SG Wattenscheid 09	2:0	5:1	16.04.1994	15:30	1993	1994	31
+1. FC NÃ¼rnberg	MSV Duisburg	0:0	0:0	16.04.1994	15:30	1993	1994	31
+Karlsruher SC	VfB Leipzig	2:0	3:2	16.04.1994	15:30	1993	1994	31
+Bor. MÃ¶nchengladbach	Borussia Dortmund	0:0	0:0	17.04.1994	18:00	1993	1994	31
+SG Wattenscheid 09	1. FC Kaiserslautern	0:0	0:2	22.04.1994	19:30	1993	1994	32
+Werder Bremen	1. FC KÃ¶ln	2:1	3:1	22.04.1994	20:00	1993	1994	32
+Hamburger SV	Bor. MÃ¶nchengladbach	0:1	1:3	23.04.1994	15:30	1993	1994	32
+VfB Stuttgart	SC Freiburg	0:1	0:4	23.04.1994	15:30	1993	1994	32
+VfB Leipzig	FC Schalke 04	0:2	2:2	23.04.1994	15:30	1993	1994	32
+MSV Duisburg	Karlsruher SC	0:0	1:2	23.04.1994	15:30	1993	1994	32
+Borussia Dortmund	Eintracht Frankfurt	1:0	2:0	23.04.1994	15:30	1993	1994	32
+Bayer Leverkusen	Dynamo Dresden	0:0	1:1	24.04.1994	18:00	1993	1994	32
+Bayern MÃ¼nchen	1. FC NÃ¼rnberg	0:0	5:0	03.05.1994	20:15	1993	1994	32
+Bayer Leverkusen	VfB Stuttgart	0:1	1:1	30.04.1994	15:30	1993	1994	33
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	0:1	4:1	30.04.1994	15:30	1993	1994	33
+Eintracht Frankfurt	Hamburger SV	1:1	1:1	30.04.1994	15:30	1993	1994	33
+1. FC Kaiserslautern	Borussia Dortmund	1:0	2:0	30.04.1994	15:30	1993	1994	33
+1. FC NÃ¼rnberg	SG Wattenscheid 09	2:0	4:1	30.04.1994	15:30	1993	1994	33
+Karlsruher SC	Bayern MÃ¼nchen	1:1	1:1	30.04.1994	15:30	1993	1994	33
+FC Schalke 04	MSV Duisburg	0:1	1:3	30.04.1994	15:30	1993	1994	33
+SC Freiburg	VfB Leipzig	0:0	1:0	30.04.1994	15:30	1993	1994	33
+Dynamo Dresden	Werder Bremen	0:0	1:0	30.04.1994	15:30	1993	1994	33
+Werder Bremen	Bor. MÃ¶nchengladbach	1:1	4:2	07.05.1994	15:30	1993	1994	34
+VfB Leipzig	Bayer Leverkusen	1:2	2:3	07.05.1994	15:30	1993	1994	34
+MSV Duisburg	SC Freiburg	0:1	0:2	07.05.1994	15:30	1993	1994	34
+Bayern MÃ¼nchen	FC Schalke 04	0:0	2:0	07.05.1994	15:30	1993	1994	34
+SG Wattenscheid 09	Karlsruher SC	2:0	5:1	07.05.1994	15:30	1993	1994	34
+Borussia Dortmund	1. FC NÃ¼rnberg	2:1	4:1	07.05.1994	15:30	1993	1994	34
+Hamburger SV	1. FC Kaiserslautern	1:1	1:3	07.05.1994	15:30	1993	1994	34
+1. FC KÃ¶ln	Eintracht Frankfurt	0:1	2:3	07.05.1994	15:30	1993	1994	34
+VfB Stuttgart	Dynamo Dresden	2:0	3:0	07.05.1994	15:30	1993	1994	34

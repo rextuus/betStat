@@ -1,0 +1,306 @@
+Hannover 96	Bor. MÃ¶nchengladbach	2:2	3:3	09.08.1975	15:30	1975	1976	1
+Bayern MÃ¼nchen	Eintracht Braunschweig	0:1	1:1	09.08.1975	15:30	1975	1976	1
+1. FC Kaiserslautern	Kickers Offenbach	0:0	2:2	09.08.1975	15:30	1975	1976	1
+Hamburger SV	FC Schalke 04	2:1	4:1	09.08.1975	15:30	1975	1976	1
+VfL Bochum	Werder Bremen	0:2	0:3	09.08.1975	15:30	1975	1976	1
+MSV Duisburg	Fortuna DÃ¼sseldorf	0:1	2:2	09.08.1975	15:30	1975	1976	1
+Rot-Weiss Essen	Bayer 05 Uerdingen	2:0	2:1	09.08.1975	15:30	1975	1976	1
+Hertha BSC	1. FC KÃ¶ln	1:1	2:1	09.08.1975	15:30	1975	1976	1
+Eintracht Frankfurt	Karlsruher SC	0:0	0:2	09.08.1975	15:30	1975	1976	1
+Werder Bremen	Eintracht Frankfurt	0:1	1:2	15.08.1975	20:00	1975	1976	2
+Kickers Offenbach	Hamburger SV	2:1	3:2	15.08.1975	20:00	1975	1976	2
+Eintracht Braunschweig	Hertha BSC	2:0	5:2	16.08.1975	15:30	1975	1976	2
+Bor. MÃ¶nchengladbach	1. FC Kaiserslautern	1:0	3:0	16.08.1975	15:30	1975	1976	2
+FC Schalke 04	MSV Duisburg	2:0	5:1	16.08.1975	15:30	1975	1976	2
+Bayer 05 Uerdingen	VfL Bochum	0:0	0:0	16.08.1975	15:30	1975	1976	2
+Fortuna DÃ¼sseldorf	Rot-Weiss Essen	2:1	5:2	16.08.1975	15:30	1975	1976	2
+1. FC KÃ¶ln	Hannover 96	1:1	2:1	16.08.1975	15:30	1975	1976	2
+Karlsruher SC	Bayern MÃ¼nchen	0:1	1:2	16.08.1975	15:30	1975	1976	2
+1. FC Kaiserslautern	Hannover 96	0:1	2:2	22.08.1975	20:00	1975	1976	3
+Bayern MÃ¼nchen	Werder Bremen	0:0	4:0	22.08.1975	20:00	1975	1976	3
+Hamburger SV	Bor. MÃ¶nchengladbach	0:0	0:0	23.08.1975	15:30	1975	1976	3
+Hertha BSC	Karlsruher SC	0:0	1:1	23.08.1975	15:30	1975	1976	3
+MSV Duisburg	Kickers Offenbach	2:1	6:2	23.08.1975	15:30	1975	1976	3
+Eintracht Frankfurt	Bayer 05 Uerdingen	0:1	3:1	23.08.1975	15:30	1975	1976	3
+Rot-Weiss Essen	FC Schalke 04	0:0	0:0	23.08.1975	15:30	1975	1976	3
+VfL Bochum	Fortuna DÃ¼sseldorf	0:1	0:1	23.08.1975	15:30	1975	1976	3
+Eintracht Braunschweig	1. FC KÃ¶ln	0:0	0:0	23.08.1975	15:30	1975	1976	3
+Bor. MÃ¶nchengladbach	MSV Duisburg	1:0	3:0	26.08.1975	20:00	1975	1976	4
+Werder Bremen	Hertha BSC	2:1	3:2	27.08.1975	20:00	1975	1976	4
+Kickers Offenbach	Rot-Weiss Essen	0:2	0:4	27.08.1975	20:00	1975	1976	4
+Fortuna DÃ¼sseldorf	Eintracht Frankfurt	0:1	1:1	27.08.1975	20:00	1975	1976	4
+FC Schalke 04	VfL Bochum	0:0	1:1	27.08.1975	20:00	1975	1976	4
+Bayer 05 Uerdingen	Bayern MÃ¼nchen	0:0	2:1	27.08.1975	20:00	1975	1976	4
+Hannover 96	Hamburger SV	1:0	1:0	27.08.1975	20:00	1975	1976	4
+Karlsruher SC	Eintracht Braunschweig	0:1	0:2	27.08.1975	20:00	1975	1976	4
+1. FC KÃ¶ln	1. FC Kaiserslautern	0:1	1:1	27.08.1975	20:00	1975	1976	4
+Rot-Weiss Essen	Bor. MÃ¶nchengladbach	1:2	1:3	30.08.1975	15:30	1975	1976	5
+Hertha BSC	Bayer 05 Uerdingen	3:0	5:0	30.08.1975	15:30	1975	1976	5
+VfL Bochum	Kickers Offenbach	0:1	5:1	30.08.1975	15:30	1975	1976	5
+Eintracht Frankfurt	FC Schalke 04	1:1	2:1	30.08.1975	15:30	1975	1976	5
+Bayern MÃ¼nchen	Fortuna DÃ¼sseldorf	2:0	5:0	30.08.1975	15:30	1975	1976	5
+MSV Duisburg	Hannover 96	3:3	4:3	30.08.1975	15:30	1975	1976	5
+Eintracht Braunschweig	Werder Bremen	1:0	3:2	30.08.1975	15:30	1975	1976	5
+Hamburger SV	1. FC Kaiserslautern	1:0	2:0	30.08.1975	15:30	1975	1976	5
+Karlsruher SC	1. FC KÃ¶ln	0:1	3:1	30.08.1975	15:30	1975	1976	5
+Bor. MÃ¶nchengladbach	VfL Bochum	1:0	1:1	06.09.1975	15:30	1975	1976	6
+1. FC KÃ¶ln	Hamburger SV	1:0	1:1	06.09.1975	15:30	1975	1976	6
+Fortuna DÃ¼sseldorf	Hertha BSC	1:0	2:1	06.09.1975	15:30	1975	1976	6
+Werder Bremen	Karlsruher SC	0:0	1:0	06.09.1975	15:30	1975	1976	6
+Hannover 96	Rot-Weiss Essen	0:0	0:0	06.09.1975	15:30	1975	1976	6
+Bayer 05 Uerdingen	Eintracht Braunschweig	0:0	0:0	06.09.1975	15:30	1975	1976	6
+1. FC Kaiserslautern	MSV Duisburg	1:0	3:0	06.09.1975	15:30	1975	1976	6
+Kickers Offenbach	Eintracht Frankfurt	1:0	2:1	06.09.1975	15:30	1975	1976	6
+FC Schalke 04	Bayern MÃ¼nchen	1:1	2:2	06.09.1975	15:30	1975	1976	6
+MSV Duisburg	Hamburger SV	1:1	1:1	12.09.1975	20:00	1975	1976	7
+Hertha BSC	FC Schalke 04	2:0	2:1	13.09.1975	15:30	1975	1976	7
+Bayern MÃ¼nchen	Kickers Offenbach	1:0	3:1	13.09.1975	15:30	1975	1976	7
+VfL Bochum	Hannover 96	1:0	2:0	13.09.1975	15:30	1975	1976	7
+Eintracht Frankfurt	Bor. MÃ¶nchengladbach	1:0	1:1	13.09.1975	15:30	1975	1976	7
+Rot-Weiss Essen	1. FC Kaiserslautern	2:0	5:1	13.09.1975	15:30	1975	1976	7
+Karlsruher SC	Bayer 05 Uerdingen	0:0	1:0	13.09.1975	15:30	1975	1976	7
+Eintracht Braunschweig	Fortuna DÃ¼sseldorf	1:1	3:1	13.09.1975	15:30	1975	1976	7
+Werder Bremen	1. FC KÃ¶ln	2:2	3:2	13.09.1975	15:30	1975	1976	7
+1. FC Kaiserslautern	VfL Bochum	0:0	2:1	19.09.1975	20:00	1975	1976	8
+Kickers Offenbach	Hertha BSC	2:0	2:1	20.09.1975	15:30	1975	1976	8
+Hannover 96	Eintracht Frankfurt	1:0	3:2	20.09.1975	15:30	1975	1976	8
+FC Schalke 04	Eintracht Braunschweig	1:1	5:1	20.09.1975	15:30	1975	1976	8
+Bor. MÃ¶nchengladbach	Bayern MÃ¼nchen	1:0	4:1	20.09.1975	15:30	1975	1976	8
+Fortuna DÃ¼sseldorf	Karlsruher SC	0:1	0:2	20.09.1975	15:30	1975	1976	8
+Hamburger SV	Rot-Weiss Essen	1:0	4:1	20.09.1975	15:30	1975	1976	8
+Bayer 05 Uerdingen	Werder Bremen	2:1	2:1	20.09.1975	15:30	1975	1976	8
+1. FC KÃ¶ln	MSV Duisburg	1:1	3:2	20.09.1975	15:30	1975	1976	8
+Eintracht Braunschweig	Kickers Offenbach	2:0	5:1	27.09.1975	15:30	1975	1976	9
+Bayer 05 Uerdingen	1. FC KÃ¶ln	1:0	1:1	27.09.1975	15:30	1975	1976	9
+Bayern MÃ¼nchen	Hannover 96	1:0	3:1	27.09.1975	15:30	1975	1976	9
+Karlsruher SC	FC Schalke 04	0:2	2:2	27.09.1975	15:30	1975	1976	9
+Werder Bremen	Fortuna DÃ¼sseldorf	1:0	3:0	27.09.1975	15:30	1975	1976	9
+Rot-Weiss Essen	MSV Duisburg	3:2	5:2	27.09.1975	15:30	1975	1976	9
+Eintracht Frankfurt	1. FC Kaiserslautern	1:0	1:1	27.09.1975	15:30	1975	1976	9
+VfL Bochum	Hamburger SV	0:1	0:3	27.09.1975	15:30	1975	1976	9
+Hertha BSC	Bor. MÃ¶nchengladbach	1:0	3:0	27.09.1975	19:30	1975	1976	9
+Bor. MÃ¶nchengladbach	Eintracht Braunschweig	0:0	0:0	04.10.1975	15:30	1975	1976	10
+Hannover 96	Hertha BSC	1:3	2:6	04.10.1975	15:30	1975	1976	10
+Kickers Offenbach	Karlsruher SC	0:0	0:0	04.10.1975	15:30	1975	1976	10
+Hamburger SV	Eintracht Frankfurt	3:1	4:2	04.10.1975	15:30	1975	1976	10
+FC Schalke 04	Werder Bremen	2:1	4:2	04.10.1975	15:30	1975	1976	10
+MSV Duisburg	VfL Bochum	0:0	1:1	04.10.1975	15:30	1975	1976	10
+Fortuna DÃ¼sseldorf	Bayer 05 Uerdingen	0:0	2:0	04.10.1975	15:30	1975	1976	10
+1. FC KÃ¶ln	Rot-Weiss Essen	0:0	3:0	04.10.1975	15:30	1975	1976	10
+1. FC Kaiserslautern	Bayern MÃ¼nchen	1:1	2:1	04.10.1975	15:30	1975	1976	10
+VfL Bochum	Rot-Weiss Essen	0:0	2:1	24.10.1975	20:00	1975	1976	11
+Bayer 05 Uerdingen	FC Schalke 04	1:0	3:2	25.10.1975	14:30	1975	1976	11
+Bayern MÃ¼nchen	Hamburger SV	1:0	1:0	25.10.1975	15:30	1975	1976	11
+Eintracht Braunschweig	Hannover 96	2:1	3:2	25.10.1975	15:30	1975	1976	11
+Werder Bremen	Kickers Offenbach	1:1	3:1	25.10.1975	15:30	1975	1976	11
+Fortuna DÃ¼sseldorf	1. FC KÃ¶ln	0:0	0:0	25.10.1975	15:30	1975	1976	11
+Hertha BSC	1. FC Kaiserslautern	1:0	3:0	25.10.1975	15:30	1975	1976	11
+Eintracht Frankfurt	MSV Duisburg	1:0	1:1	25.10.1975	15:30	1975	1976	11
+Karlsruher SC	Bor. MÃ¶nchengladbach	1:2	2:4	26.10.1975	15:30	1975	1976	11
+MSV Duisburg	Bayern MÃ¼nchen	1:1	1:1	31.10.1975	20:00	1975	1976	12
+Bor. MÃ¶nchengladbach	Werder Bremen	1:0	3:0	31.10.1975	20:00	1975	1976	12
+Rot-Weiss Essen	Eintracht Frankfurt	1:0	4:3	31.10.1975	20:00	1975	1976	12
+FC Schalke 04	Fortuna DÃ¼sseldorf	2:0	2:0	31.10.1975	20:00	1975	1976	12
+1. FC KÃ¶ln	VfL Bochum	0:0	1:0	31.10.1975	20:00	1975	1976	12
+Kickers Offenbach	Bayer 05 Uerdingen	1:2	2:3	01.11.1975	15:30	1975	1976	12
+Hamburger SV	Hertha BSC	1:1	2:1	01.11.1975	15:30	1975	1976	12
+Hannover 96	Karlsruher SC	2:0	2:0	01.11.1975	15:30	1975	1976	12
+1. FC Kaiserslautern	Eintracht Braunschweig	0:0	3:1	01.11.1975	15:30	1975	1976	12
+Bayer 05 Uerdingen	Bor. MÃ¶nchengladbach	0:0	1:1	08.11.1975	14:30	1975	1976	13
+Hertha BSC	MSV Duisburg	1:2	1:2	08.11.1975	15:30	1975	1976	13
+Fortuna DÃ¼sseldorf	Kickers Offenbach	0:0	0:0	08.11.1975	15:30	1975	1976	13
+Eintracht Frankfurt	VfL Bochum	1:0	6:0	08.11.1975	15:30	1975	1976	13
+FC Schalke 04	1. FC KÃ¶ln	1:1	3:1	08.11.1975	15:30	1975	1976	13
+Bayern MÃ¼nchen	Rot-Weiss Essen	1:0	5:1	08.11.1975	15:30	1975	1976	13
+Werder Bremen	Hannover 96	0:0	0:0	08.11.1975	15:30	1975	1976	13
+Eintracht Braunschweig	Hamburger SV	1:0	1:0	08.11.1975	15:30	1975	1976	13
+Karlsruher SC	1. FC Kaiserslautern	0:2	3:5	08.11.1975	15:30	1975	1976	13
+Kickers Offenbach	FC Schalke 04	1:0	1:1	14.11.1975	20:00	1975	1976	14
+Bor. MÃ¶nchengladbach	Fortuna DÃ¼sseldorf	0:0	1:0	15.11.1975	15:30	1975	1976	14
+Rot-Weiss Essen	Hertha BSC	2:1	3:1	15.11.1975	15:30	1975	1976	14
+1. FC KÃ¶ln	Eintracht Frankfurt	0:2	3:3	15.11.1975	15:30	1975	1976	14
+VfL Bochum	Bayern MÃ¼nchen	2:0	3:1	15.11.1975	15:30	1975	1976	14
+Hannover 96	Bayer 05 Uerdingen	1:1	3:1	15.11.1975	15:30	1975	1976	14
+MSV Duisburg	Eintracht Braunschweig	0:0	1:0	15.11.1975	15:30	1975	1976	14
+1. FC Kaiserslautern	Werder Bremen	1:0	4:0	15.11.1975	15:30	1975	1976	14
+Hamburger SV	Karlsruher SC	0:0	3:0	15.11.1975	15:30	1975	1976	14
+Bayer 05 Uerdingen	1. FC Kaiserslautern	0:1	2:2	22.11.1975	14:30	1975	1976	15
+Eintracht Braunschweig	Rot-Weiss Essen	0:0	1:1	22.11.1975	15:00	1975	1976	15
+FC Schalke 04	Bor. MÃ¶nchengladbach	0:0	2:2	22.11.1975	15:30	1975	1976	15
+Hertha BSC	VfL Bochum	4:1	4:1	22.11.1975	15:30	1975	1976	15
+1. FC KÃ¶ln	Kickers Offenbach	2:0	4:0	22.11.1975	15:30	1975	1976	15
+Eintracht Frankfurt	Bayern MÃ¼nchen	5:0	6:0	22.11.1975	15:30	1975	1976	15
+Fortuna DÃ¼sseldorf	Hannover 96	1:0	3:0	22.11.1975	15:30	1975	1976	15
+Karlsruher SC	MSV Duisburg	0:0	2:2	22.11.1975	15:30	1975	1976	15
+Werder Bremen	Hamburger SV	0:2	1:3	22.11.1975	15:30	1975	1976	15
+Bor. MÃ¶nchengladbach	Kickers Offenbach	1:0	2:0	28.11.1975	20:00	1975	1976	16
+VfL Bochum	Eintracht Braunschweig	0:0	2:0	28.11.1975	20:00	1975	1976	16
+Eintracht Frankfurt	Hertha BSC	1:0	1:1	29.11.1975	15:30	1975	1976	16
+Hannover 96	FC Schalke 04	1:0	1:1	29.11.1975	15:30	1975	1976	16
+1. FC Kaiserslautern	Fortuna DÃ¼sseldorf	1:0	2:1	29.11.1975	15:30	1975	1976	16
+Rot-Weiss Essen	Karlsruher SC	0:0	1:0	29.11.1975	15:30	1975	1976	16
+Hamburger SV	Bayer 05 Uerdingen	0:0	0:0	29.11.1975	15:30	1975	1976	16
+MSV Duisburg	Werder Bremen	2:0	2:0	29.11.1975	15:30	1975	1976	16
+Bayern MÃ¼nchen	1. FC KÃ¶ln	1:1	1:2	29.11.1975	15:30	1975	1976	16
+Bayer 05 Uerdingen	MSV Duisburg	0:1	0:4	06.12.1975	14:30	1975	1976	17
+1. FC KÃ¶ln	Bor. MÃ¶nchengladbach	0:3	0:4	06.12.1975	15:30	1975	1976	17
+Hertha BSC	Bayern MÃ¼nchen	0:1	2:1	06.12.1975	15:30	1975	1976	17
+Kickers Offenbach	Hannover 96	0:0	1:0	06.12.1975	15:30	1975	1976	17
+Eintracht Braunschweig	Eintracht Frankfurt	1:0	2:0	06.12.1975	15:30	1975	1976	17
+FC Schalke 04	1. FC Kaiserslautern	0:1	2:2	06.12.1975	15:30	1975	1976	17
+Karlsruher SC	VfL Bochum	0:1	2:2	06.12.1975	15:30	1975	1976	17
+Fortuna DÃ¼sseldorf	Hamburger SV	0:0	1:0	06.12.1975	15:30	1975	1976	17
+Werder Bremen	Rot-Weiss Essen	2:1	3:3	06.12.1975	15:30	1975	1976	17
+Fortuna DÃ¼sseldorf	MSV Duisburg	0:0	1:3	16.01.1976	20:00	1975	1976	18
+Bayer 05 Uerdingen	Rot-Weiss Essen	0:0	1:1	17.01.1976	14:30	1975	1976	18
+Bor. MÃ¶nchengladbach	Hannover 96	1:0	2:0	17.01.1976	15:30	1975	1976	18
+Eintracht Braunschweig	Bayern MÃ¼nchen	0:0	1:1	17.01.1976	15:30	1975	1976	18
+Kickers Offenbach	1. FC Kaiserslautern	0:2	1:4	17.01.1976	15:30	1975	1976	18
+FC Schalke 04	Hamburger SV	0:0	0:1	17.01.1976	15:30	1975	1976	18
+Werder Bremen	VfL Bochum	1:1	4:1	17.01.1976	15:30	1975	1976	18
+1. FC KÃ¶ln	Hertha BSC	0:0	2:0	17.01.1976	15:30	1975	1976	18
+Karlsruher SC	Eintracht Frankfurt	0:0	1:0	17.01.1976	15:30	1975	1976	18
+Eintracht Frankfurt	Werder Bremen	0:0	2:0	24.01.1976	15:30	1975	1976	19
+Hamburger SV	Kickers Offenbach	0:0	2:0	24.01.1976	15:30	1975	1976	19
+Hertha BSC	Eintracht Braunschweig	0:0	1:0	24.01.1976	15:30	1975	1976	19
+1. FC Kaiserslautern	Bor. MÃ¶nchengladbach	0:2	0:3	24.01.1976	15:30	1975	1976	19
+MSV Duisburg	FC Schalke 04	1:1	1:3	24.01.1976	15:30	1975	1976	19
+VfL Bochum	Bayer 05 Uerdingen	2:0	3:0	24.01.1976	15:30	1975	1976	19
+Rot-Weiss Essen	Fortuna DÃ¼sseldorf	1:2	2:2	24.01.1976	15:30	1975	1976	19
+Hannover 96	1. FC KÃ¶ln	1:0	3:3	24.01.1976	15:30	1975	1976	19
+Bayern MÃ¼nchen	Karlsruher SC	1:0	2:0	24.01.1976	15:30	1975	1976	19
+Hannover 96	1. FC Kaiserslautern	1:0	2:0	07.02.1976	15:30	1975	1976	20
+Werder Bremen	Bayern MÃ¼nchen	0:0	0:0	07.02.1976	15:30	1975	1976	20
+Bor. MÃ¶nchengladbach	Hamburger SV	1:1	1:1	07.02.1976	15:30	1975	1976	20
+Karlsruher SC	Hertha BSC	1:0	3:0	07.02.1976	15:30	1975	1976	20
+Kickers Offenbach	MSV Duisburg	0:0	2:1	07.02.1976	15:30	1975	1976	20
+Bayer 05 Uerdingen	Eintracht Frankfurt	0:1	0:5	07.02.1976	15:30	1975	1976	20
+FC Schalke 04	Rot-Weiss Essen	1:1	5:1	07.02.1976	15:30	1975	1976	20
+Fortuna DÃ¼sseldorf	VfL Bochum	2:0	3:1	07.02.1976	15:30	1975	1976	20
+1. FC KÃ¶ln	Eintracht Braunschweig	0:1	1:1	07.02.1976	15:30	1975	1976	20
+MSV Duisburg	Bor. MÃ¶nchengladbach	2:1	2:3	14.02.1976	15:30	1975	1976	21
+Eintracht Frankfurt	Fortuna DÃ¼sseldorf	2:2	5:2	14.02.1976	15:30	1975	1976	21
+Bayern MÃ¼nchen	Bayer 05 Uerdingen	0:0	2:0	14.02.1976	15:30	1975	1976	21
+Rot-Weiss Essen	Kickers Offenbach	0:1	2:2	17.02.1976	20:00	1975	1976	21
+Hamburger SV	Hannover 96	0:0	3:0	17.02.1976	20:00	1975	1976	21
+1. FC Kaiserslautern	1. FC KÃ¶ln	1:0	1:1	09.03.1976	20:00	1975	1976	21
+Hertha BSC	Werder Bremen	0:0	0:0	23.03.1976	20:00	1975	1976	21
+VfL Bochum	FC Schalke 04	0:1	1:4	02.04.1976	20:00	1975	1976	21
+Eintracht Braunschweig	Karlsruher SC	1:0	2:0	03.04.1976	15:30	1975	1976	21
+Bor. MÃ¶nchengladbach	Rot-Weiss Essen	1:2	1:2	21.02.1976	15:30	1975	1976	22
+Bayer 05 Uerdingen	Hertha BSC	0:0	1:1	21.02.1976	15:30	1975	1976	22
+Kickers Offenbach	VfL Bochum	1:0	1:0	21.02.1976	15:30	1975	1976	22
+FC Schalke 04	Eintracht Frankfurt	2:0	2:4	21.02.1976	15:30	1975	1976	22
+Fortuna DÃ¼sseldorf	Bayern MÃ¼nchen	1:0	1:1	21.02.1976	15:30	1975	1976	22
+Hannover 96	MSV Duisburg	0:1	0:2	21.02.1976	15:30	1975	1976	22
+Werder Bremen	Eintracht Braunschweig	0:0	0:1	21.02.1976	15:30	1975	1976	22
+1. FC Kaiserslautern	Hamburger SV	1:0	2:0	21.02.1976	15:30	1975	1976	22
+1. FC KÃ¶ln	Karlsruher SC	1:0	1:3	21.02.1976	15:30	1975	1976	22
+VfL Bochum	Bor. MÃ¶nchengladbach	0:0	2:0	06.03.1976	15:30	1975	1976	23
+Hamburger SV	1. FC KÃ¶ln	0:1	2:1	06.03.1976	15:30	1975	1976	23
+Hertha BSC	Fortuna DÃ¼sseldorf	1:0	2:2	06.03.1976	15:30	1975	1976	23
+Karlsruher SC	Werder Bremen	0:0	2:0	06.03.1976	15:30	1975	1976	23
+Rot-Weiss Essen	Hannover 96	1:0	1:0	06.03.1976	15:30	1975	1976	23
+Eintracht Braunschweig	Bayer 05 Uerdingen	1:0	1:0	06.03.1976	15:30	1975	1976	23
+MSV Duisburg	1. FC Kaiserslautern	1:1	1:2	06.03.1976	15:30	1975	1976	23
+Eintracht Frankfurt	Kickers Offenbach	0:0	1:0	06.03.1976	15:30	1975	1976	23
+Bayern MÃ¼nchen	FC Schalke 04	3:0	3:2	06.03.1976	15:30	1975	1976	23
+Hamburger SV	MSV Duisburg	1:0	3:0	12.03.1976	20:00	1975	1976	24
+FC Schalke 04	Hertha BSC	1:0	2:2	13.03.1976	15:30	1975	1976	24
+Kickers Offenbach	Bayern MÃ¼nchen	1:1	2:2	13.03.1976	15:30	1975	1976	24
+Hannover 96	VfL Bochum	2:0	4:1	13.03.1976	15:30	1975	1976	24
+Bor. MÃ¶nchengladbach	Eintracht Frankfurt	2:1	4:2	13.03.1976	15:30	1975	1976	24
+1. FC Kaiserslautern	Rot-Weiss Essen	3:0	5:0	13.03.1976	15:30	1975	1976	24
+Bayer 05 Uerdingen	Karlsruher SC	1:1	1:1	13.03.1976	15:30	1975	1976	24
+Fortuna DÃ¼sseldorf	Eintracht Braunschweig	1:2	3:3	13.03.1976	15:30	1975	1976	24
+1. FC KÃ¶ln	Werder Bremen	0:0	1:1	13.03.1976	15:30	1975	1976	24
+VfL Bochum	1. FC Kaiserslautern	1:0	2:0	20.03.1976	15:30	1975	1976	25
+Hertha BSC	Kickers Offenbach	0:0	1:0	20.03.1976	15:30	1975	1976	25
+Eintracht Frankfurt	Hannover 96	3:0	5:1	20.03.1976	15:30	1975	1976	25
+Eintracht Braunschweig	FC Schalke 04	1:1	4:1	20.03.1976	15:30	1975	1976	25
+Bayern MÃ¼nchen	Bor. MÃ¶nchengladbach	2:0	4:0	20.03.1976	15:30	1975	1976	25
+Karlsruher SC	Fortuna DÃ¼sseldorf	1:0	1:0	20.03.1976	15:30	1975	1976	25
+Rot-Weiss Essen	Hamburger SV	1:0	1:1	20.03.1976	15:30	1975	1976	25
+Werder Bremen	Bayer 05 Uerdingen	0:0	3:0	20.03.1976	15:30	1975	1976	25
+MSV Duisburg	1. FC KÃ¶ln	0:1	0:4	20.03.1976	15:30	1975	1976	25
+MSV Duisburg	Rot-Weiss Essen	1:0	4:0	26.03.1976	20:00	1975	1976	26
+1. FC Kaiserslautern	Eintracht Frankfurt	1:0	3:1	26.03.1976	20:00	1975	1976	26
+Bor. MÃ¶nchengladbach	Hertha BSC	0:1	1:1	27.03.1976	15:30	1975	1976	26
+Kickers Offenbach	Eintracht Braunschweig	2:2	4:2	27.03.1976	15:30	1975	1976	26
+1. FC KÃ¶ln	Bayer 05 Uerdingen	1:0	4:0	27.03.1976	15:30	1975	1976	26
+Hannover 96	Bayern MÃ¼nchen	1:1	2:2	27.03.1976	15:30	1975	1976	26
+FC Schalke 04	Karlsruher SC	3:1	6:2	27.03.1976	15:30	1975	1976	26
+Fortuna DÃ¼sseldorf	Werder Bremen	1:0	3:0	27.03.1976	15:30	1975	1976	26
+Hamburger SV	VfL Bochum	0:1	5:3	27.03.1976	15:30	1975	1976	26
+Eintracht Braunschweig	Bor. MÃ¶nchengladbach	0:0	0:0	10.04.1976	15:30	1975	1976	27
+Hertha BSC	Hannover 96	1:0	1:0	10.04.1976	15:30	1975	1976	27
+Karlsruher SC	Kickers Offenbach	0:0	2:1	10.04.1976	15:30	1975	1976	27
+Eintracht Frankfurt	Hamburger SV	0:0	1:0	10.04.1976	15:30	1975	1976	27
+Werder Bremen	FC Schalke 04	1:0	1:1	10.04.1976	15:30	1975	1976	27
+VfL Bochum	MSV Duisburg	0:1	1:2	10.04.1976	15:30	1975	1976	27
+Bayer 05 Uerdingen	Fortuna DÃ¼sseldorf	2:0	2:0	10.04.1976	15:30	1975	1976	27
+Rot-Weiss Essen	1. FC KÃ¶ln	0:3	2:3	10.04.1976	15:30	1975	1976	27
+Bayern MÃ¼nchen	1. FC Kaiserslautern	1:1	3:4	10.04.1976	15:30	1975	1976	27
+1. FC Kaiserslautern	Hertha BSC	2:0	5:0	15.04.1976	20:00	1975	1976	28
+FC Schalke 04	Bayer 05 Uerdingen	2:0	5:1	15.04.1976	20:00	1975	1976	28
+Rot-Weiss Essen	VfL Bochum	0:0	1:0	17.04.1976	15:30	1975	1976	28
+Hamburger SV	Bayern MÃ¼nchen	0:0	0:1	17.04.1976	15:30	1975	1976	28
+Hannover 96	Eintracht Braunschweig	0:0	2:0	17.04.1976	15:30	1975	1976	28
+Kickers Offenbach	Werder Bremen	1:0	2:0	17.04.1976	15:30	1975	1976	28
+1. FC KÃ¶ln	Fortuna DÃ¼sseldorf	2:0	4:0	17.04.1976	15:30	1975	1976	28
+MSV Duisburg	Eintracht Frankfurt	0:1	1:1	17.04.1976	15:30	1975	1976	28
+Bor. MÃ¶nchengladbach	Karlsruher SC	1:0	4:0	17.04.1976	15:30	1975	1976	28
+Karlsruher SC	Hannover 96	2:0	3:2	23.04.1976	20:00	1975	1976	29
+Eintracht Frankfurt	Rot-Weiss Essen	0:2	1:3	30.04.1976	20:00	1975	1976	29
+Fortuna DÃ¼sseldorf	FC Schalke 04	0:2	1:2	30.04.1976	20:00	1975	1976	29
+Eintracht Braunschweig	1. FC Kaiserslautern	1:0	2:0	30.04.1976	20:00	1975	1976	29
+Bayern MÃ¼nchen	MSV Duisburg	1:0	3:0	01.05.1976	15:30	1975	1976	29
+Werder Bremen	Bor. MÃ¶nchengladbach	2:1	2:2	01.05.1976	15:30	1975	1976	29
+VfL Bochum	1. FC KÃ¶ln	1:0	1:0	01.05.1976	15:30	1975	1976	29
+Bayer 05 Uerdingen	Kickers Offenbach	1:1	1:2	01.05.1976	15:30	1975	1976	29
+Hertha BSC	Hamburger SV	0:1	1:1	01.05.1976	15:30	1975	1976	29
+Kickers Offenbach	Fortuna DÃ¼sseldorf	1:1	1:1	07.05.1976	20:00	1975	1976	30
+Bor. MÃ¶nchengladbach	Bayer 05 Uerdingen	2:0	6:1	08.05.1976	15:30	1975	1976	30
+MSV Duisburg	Hertha BSC	0:1	2:1	08.05.1976	15:30	1975	1976	30
+VfL Bochum	Eintracht Frankfurt	1:2	5:3	08.05.1976	15:30	1975	1976	30
+Rot-Weiss Essen	Bayern MÃ¼nchen	0:0	3:3	08.05.1976	15:30	1975	1976	30
+Hannover 96	Werder Bremen	0:0	0:0	08.05.1976	15:30	1975	1976	30
+Hamburger SV	Eintracht Braunschweig	0:0	4:0	08.05.1976	15:30	1975	1976	30
+1. FC Kaiserslautern	Karlsruher SC	2:1	3:1	08.05.1976	15:30	1975	1976	30
+1. FC KÃ¶ln	FC Schalke 04	1:1	2:1	25.05.1976	20:00	1975	1976	30
+FC Schalke 04	Kickers Offenbach	1:1	1:1	15.05.1976	15:30	1975	1976	31
+Fortuna DÃ¼sseldorf	Bor. MÃ¶nchengladbach	1:1	1:1	15.05.1976	15:30	1975	1976	31
+Hertha BSC	Rot-Weiss Essen	1:1	2:2	15.05.1976	15:30	1975	1976	31
+Eintracht Frankfurt	1. FC KÃ¶ln	2:0	2:2	15.05.1976	15:30	1975	1976	31
+Bayern MÃ¼nchen	VfL Bochum	1:0	4:0	15.05.1976	15:30	1975	1976	31
+Bayer 05 Uerdingen	Hannover 96	0:0	1:1	15.05.1976	15:30	1975	1976	31
+Eintracht Braunschweig	MSV Duisburg	0:1	3:1	15.05.1976	15:30	1975	1976	31
+Werder Bremen	1. FC Kaiserslautern	3:0	3:2	15.05.1976	15:30	1975	1976	31
+Karlsruher SC	Hamburger SV	1:2	3:2	15.05.1976	15:30	1975	1976	31
+Rot-Weiss Essen	Eintracht Braunschweig	1:0	2:2	28.05.1976	20:00	1975	1976	32
+Bor. MÃ¶nchengladbach	FC Schalke 04	0:1	0:2	29.05.1976	15:30	1975	1976	32
+VfL Bochum	Hertha BSC	1:0	2:0	29.05.1976	15:30	1975	1976	32
+Kickers Offenbach	1. FC KÃ¶ln	1:2	1:5	29.05.1976	15:30	1975	1976	32
+Bayern MÃ¼nchen	Eintracht Frankfurt	0:0	1:1	29.05.1976	15:30	1975	1976	32
+Hannover 96	Fortuna DÃ¼sseldorf	0:0	1:2	29.05.1976	15:30	1975	1976	32
+1. FC Kaiserslautern	Bayer 05 Uerdingen	1:0	1:2	29.05.1976	15:30	1975	1976	32
+MSV Duisburg	Karlsruher SC	0:0	1:0	29.05.1976	15:30	1975	1976	32
+Hamburger SV	Werder Bremen	1:2	1:2	29.05.1976	15:30	1975	1976	32
+Kickers Offenbach	Bor. MÃ¶nchengladbach	0:0	1:1	04.06.1976	15:30	1975	1976	33
+Eintracht Braunschweig	VfL Bochum	0:1	1:1	04.06.1976	15:30	1975	1976	33
+Hertha BSC	Eintracht Frankfurt	2:0	4:4	04.06.1976	15:30	1975	1976	33
+FC Schalke 04	Hannover 96	0:2	1:2	04.06.1976	15:30	1975	1976	33
+Fortuna DÃ¼sseldorf	1. FC Kaiserslautern	1:1	5:1	04.06.1976	15:30	1975	1976	33
+Karlsruher SC	Rot-Weiss Essen	1:1	1:2	04.06.1976	15:30	1975	1976	33
+Bayer 05 Uerdingen	Hamburger SV	0:1	0:1	04.06.1976	15:30	1975	1976	33
+Werder Bremen	MSV Duisburg	1:0	2:0	04.06.1976	15:30	1975	1976	33
+1. FC KÃ¶ln	Bayern MÃ¼nchen	0:0	1:0	04.06.1976	15:30	1975	1976	33
+Bor. MÃ¶nchengladbach	1. FC KÃ¶ln	2:0	2:1	12.06.1976	15:30	1975	1976	34
+Bayern MÃ¼nchen	Hertha BSC	6:0	7:4	12.06.1976	15:30	1975	1976	34
+Hannover 96	Kickers Offenbach	1:0	4:0	12.06.1976	15:30	1975	1976	34
+Eintracht Frankfurt	Eintracht Braunschweig	3:0	6:1	12.06.1976	15:30	1975	1976	34
+1. FC Kaiserslautern	FC Schalke 04	0:0	1:3	12.06.1976	15:30	1975	1976	34
+VfL Bochum	Karlsruher SC	2:0	4:2	12.06.1976	15:30	1975	1976	34
+Hamburger SV	Fortuna DÃ¼sseldorf	1:1	3:1	12.06.1976	15:30	1975	1976	34
+Rot-Weiss Essen	Werder Bremen	1:0	2:0	12.06.1976	15:30	1975	1976	34
+MSV Duisburg	Bayer 05 Uerdingen	2:0	2:0	12.06.1976	15:30	1975	1976	34

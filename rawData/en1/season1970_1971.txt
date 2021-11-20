@@ -1,0 +1,462 @@
+Burnley FC	Liverpool FC	1:1	1:2	15.08.1970	00:00	1970	1971	1
+Tottenham Hotspur	West Ham United	2:1	2:2	15.08.1970	00:00	1970	1971	1
+Stoke City	Ipswich Town	0:0	0:0	15.08.1970	00:00	1970	1971	1
+Southampton FC	Manchester City	0:1	1:1	15.08.1970	00:00	1970	1971	1
+Nottingham Forest	Coventry City	2:0	2:0	15.08.1970	00:00	1970	1971	1
+Newcastle United	Wolverhampton Wanderers	1:0	3:2	15.08.1970	00:00	1970	1971	1
+Manchester United	Leeds United	0:1	0:1	15.08.1970	00:00	1970	1971	1
+Huddersfield Town	Blackpool FC	1:0	3:0	15.08.1970	00:00	1970	1971	1
+Everton FC	Arsenal FC	0:1	2:2	15.08.1970	00:00	1970	1971	1
+Chelsea FC	Derby County	0:1	2:1	15.08.1970	00:00	1970	1971	1
+West Bromwich Albion	Crystal Palace	0:0	0:0	15.08.1970	00:00	1970	1971	1
+Blackpool FC	Liverpool FC	0:0	0:0	17.08.1970	00:00	1970	1971	2
+West Ham United	Arsenal FC	0:0	0:0	17.08.1970	00:00	1970	1971	2
+Nottingham Forest	West Bromwich Albion	2:1	3:3	18.08.1970	00:00	1970	1971	2
+Ipswich Town	Coventry City	0:0	0:2	18.08.1970	00:00	1970	1971	2
+Huddersfield Town	Southampton FC	0:1	3:1	18.08.1970	00:00	1970	1971	2
+Everton FC	Burnley FC	0:1	1:1	18.08.1970	00:00	1970	1971	2
+Crystal Palace	Manchester City	0:0	0:1	19.08.1970	00:00	1970	1971	2
+Manchester United	Chelsea FC	0:0	0:0	19.08.1970	00:00	1970	1971	2
+Stoke City	Newcastle United	0:0	3:0	19.08.1970	00:00	1970	1971	2
+Tottenham Hotspur	Leeds United	0:0	0:2	19.08.1970	00:00	1970	1971	2
+Wolverhampton Wanderers	Derby County	2:4	2:4	19.08.1970	00:00	1970	1971	2
+Arsenal FC	Manchester United	2:0	4:0	22.08.1970	00:00	1970	1971	3
+West Ham United	Chelsea FC	2:0	2:2	22.08.1970	00:00	1970	1971	3
+Manchester City	Burnley FC	0:0	0:0	22.08.1970	00:00	1970	1971	3
+Liverpool FC	Huddersfield Town	2:0	4:0	22.08.1970	00:00	1970	1971	3
+Leeds United	Everton FC	1:2	3:2	22.08.1970	00:00	1970	1971	3
+Ipswich Town	Nottingham Forest	0:0	0:0	22.08.1970	00:00	1970	1971	3
+Derby County	Stoke City	1:0	2:0	22.08.1970	00:00	1970	1971	3
+Crystal Palace	Newcastle United	1:0	1:0	22.08.1970	00:00	1970	1971	3
+Coventry City	Southampton FC	1:0	1:0	22.08.1970	00:00	1970	1971	3
+Blackpool FC	West Bromwich Albion	3:1	3:1	22.08.1970	00:00	1970	1971	3
+Wolverhampton Wanderers	Tottenham Hotspur	0:2	0:3	22.08.1970	00:00	1970	1971	3
+Arsenal FC	Huddersfield Town	0:0	1:0	25.08.1970	00:00	1970	1971	4
+Burnley FC	Manchester United	0:0	0:2	25.08.1970	00:00	1970	1971	4
+Coventry City	Wolverhampton Wanderers	0:0	0:1	25.08.1970	00:00	1970	1971	4
+Liverpool FC	Crystal Palace	1:0	1:1	25.08.1970	00:00	1970	1971	4
+Southampton FC	Tottenham Hotspur	0:0	0:0	25.08.1970	00:00	1970	1971	4
+Newcastle United	Nottingham Forest	0:1	1:1	26.08.1970	00:00	1970	1971	4
+Manchester City	Blackpool FC	2:0	2:0	26.08.1970	00:00	1970	1971	4
+Leeds United	West Ham United	1:0	3:0	26.08.1970	00:00	1970	1971	4
+Derby County	Ipswich Town	2:0	2:0	26.08.1970	00:00	1970	1971	4
+Chelsea FC	Everton FC	1:2	2:2	26.08.1970	00:00	1970	1971	4
+West Bromwich Albion	Stoke City	1:1	5:2	26.08.1970	00:00	1970	1971	4
+Burnley FC	Leeds United	0:3	0:3	29.08.1970	00:00	1970	1971	5
+Tottenham Hotspur	Coventry City	1:0	1:0	29.08.1970	00:00	1970	1971	5
+Stoke City	Crystal Palace	0:0	0:0	29.08.1970	00:00	1970	1971	5
+Southampton FC	Ipswich Town	1:0	1:0	29.08.1970	00:00	1970	1971	5
+Nottingham Forest	Wolverhampton Wanderers	1:1	4:1	29.08.1970	00:00	1970	1971	5
+Newcastle United	Blackpool FC	1:1	1:2	29.08.1970	00:00	1970	1971	5
+Manchester United	West Ham United	1:1	1:1	29.08.1970	00:00	1970	1971	5
+Huddersfield Town	Derby County	0:0	0:0	29.08.1970	00:00	1970	1971	5
+Everton FC	Manchester City	0:1	0:1	29.08.1970	00:00	1970	1971	5
+Chelsea FC	Arsenal FC	1:0	2:1	29.08.1970	00:00	1970	1971	5
+West Bromwich Albion	Liverpool FC	0:1	1:1	29.08.1970	00:00	1970	1971	5
+West Ham United	Southampton FC	0:1	1:1	31.08.1970	00:00	1970	1971	6
+Arsenal FC	Leeds United	0:0	0:0	01.09.1970	00:00	1970	1971	6
+Burnley FC	Chelsea FC	0:0	0:0	01.09.1970	00:00	1970	1971	6
+Huddersfield Town	Tottenham Hotspur	0:0	1:1	01.09.1970	00:00	1970	1971	6
+Ipswich Town	Wolverhampton Wanderers	1:3	2:3	01.09.1970	00:00	1970	1971	6
+Stoke City	Nottingham Forest	0:0	0:0	02.09.1970	00:00	1970	1971	6
+Manchester United	Everton FC	0:0	2:0	02.09.1970	00:00	1970	1971	6
+Derby County	Coventry City	2:2	3:4	02.09.1970	00:00	1970	1971	6
+Crystal Palace	Blackpool FC	1:0	1:0	02.09.1970	00:00	1970	1971	6
+West Bromwich Albion	Newcastle United	1:1	1:2	02.09.1970	00:00	1970	1971	6
+Liverpool FC	Manchester City	0:0	0:0	12.01.1971	00:00	1970	1971	6
+Arsenal FC	Tottenham Hotspur	2:0	2:0	05.09.1970	00:00	1970	1971	7
+West Ham United	Everton FC	0:2	1:2	05.09.1970	00:00	1970	1971	7
+Manchester City	West Bromwich Albion	1:1	4:1	05.09.1970	00:00	1970	1971	7
+Liverpool FC	Manchester United	1:1	1:1	05.09.1970	00:00	1970	1971	7
+Leeds United	Chelsea FC	0:0	1:0	05.09.1970	00:00	1970	1971	7
+Ipswich Town	Burnley FC	2:0	3:0	05.09.1970	00:00	1970	1971	7
+Derby County	Newcastle United	1:2	1:2	05.09.1970	00:00	1970	1971	7
+Crystal Palace	Nottingham Forest	1:0	2:0	05.09.1970	00:00	1970	1971	7
+Coventry City	Huddersfield Town	0:0	0:0	05.09.1970	00:00	1970	1971	7
+Blackpool FC	Southampton FC	0:0	0:3	05.09.1970	00:00	1970	1971	7
+Wolverhampton Wanderers	Stoke City	1:1	1:1	05.09.1970	00:00	1970	1971	7
+Burnley FC	Arsenal FC	1:1	1:2	12.09.1970	00:00	1970	1971	8
+Tottenham Hotspur	Blackpool FC	1:0	3:0	12.09.1970	00:00	1970	1971	8
+Stoke City	Leeds United	1:0	3:0	12.09.1970	00:00	1970	1971	8
+Southampton FC	Derby County	1:0	4:0	12.09.1970	00:00	1970	1971	8
+Nottingham Forest	Manchester City	0:1	0:1	12.09.1970	00:00	1970	1971	8
+Newcastle United	Liverpool FC	0:0	0:0	12.09.1970	00:00	1970	1971	8
+Manchester United	Coventry City	0:0	2:0	12.09.1970	00:00	1970	1971	8
+Huddersfield Town	Crystal Palace	0:0	0:2	12.09.1970	00:00	1970	1971	8
+Everton FC	Ipswich Town	1:0	2:0	12.09.1970	00:00	1970	1971	8
+Chelsea FC	Wolverhampton Wanderers	0:2	2:2	12.09.1970	00:00	1970	1971	8
+West Bromwich Albion	West Ham United	1:1	2:1	12.09.1970	00:00	1970	1971	8
+Arsenal FC	West Bromwich Albion	2:0	6:2	19.09.1970	00:00	1970	1971	9
+West Ham United	Newcastle United	0:1	0:2	19.09.1970	00:00	1970	1971	9
+Manchester City	Stoke City	3:0	4:1	19.09.1970	00:00	1970	1971	9
+Liverpool FC	Nottingham Forest	2:0	3:0	19.09.1970	00:00	1970	1971	9
+Leeds United	Southampton FC	1:0	1:0	19.09.1970	00:00	1970	1971	9
+Ipswich Town	Manchester United	3:0	4:0	19.09.1970	00:00	1970	1971	9
+Derby County	Burnley FC	1:0	1:0	19.09.1970	00:00	1970	1971	9
+Crystal Palace	Tottenham Hotspur	0:1	0:3	19.09.1970	00:00	1970	1971	9
+Coventry City	Chelsea FC	0:0	0:1	19.09.1970	00:00	1970	1971	9
+Blackpool FC	Everton FC	0:1	0:2	19.09.1970	00:00	1970	1971	9
+Wolverhampton Wanderers	Huddersfield Town	2:1	3:1	19.09.1970	00:00	1970	1971	9
+Burnley FC	Wolverhampton Wanderers	0:1	2:3	26.09.1970	00:00	1970	1971	10
+Tottenham Hotspur	Manchester City	1:0	2:0	26.09.1970	00:00	1970	1971	10
+Stoke City	Arsenal FC	2:0	5:0	26.09.1970	00:00	1970	1971	10
+Southampton FC	Liverpool FC	0:0	1:0	26.09.1970	00:00	1970	1971	10
+Nottingham Forest	Leeds United	0:0	0:0	26.09.1970	00:00	1970	1971	10
+Newcastle United	Coventry City	0:0	0:0	26.09.1970	00:00	1970	1971	10
+Manchester United	Blackpool FC	1:0	1:1	26.09.1970	00:00	1970	1971	10
+Huddersfield Town	West Ham United	1:0	1:1	26.09.1970	00:00	1970	1971	10
+Everton FC	Crystal Palace	3:1	3:1	26.09.1970	00:00	1970	1971	10
+Chelsea FC	Ipswich Town	1:0	2:1	26.09.1970	00:00	1970	1971	10
+West Bromwich Albion	Derby County	1:0	2:1	26.09.1970	00:00	1970	1971	10
+Arsenal FC	Nottingham Forest	1:0	4:0	03.10.1970	00:00	1970	1971	11
+West Ham United	Burnley FC	2:0	3:1	03.10.1970	00:00	1970	1971	11
+Manchester City	Newcastle United	0:0	1:1	03.10.1970	00:00	1970	1971	11
+Liverpool FC	Chelsea FC	1:0	1:0	03.10.1970	00:00	1970	1971	11
+Leeds United	Huddersfield Town	1:0	2:0	03.10.1970	00:00	1970	1971	11
+Ipswich Town	West Bromwich Albion	2:1	2:2	03.10.1970	00:00	1970	1971	11
+Derby County	Tottenham Hotspur	0:0	1:1	03.10.1970	00:00	1970	1971	11
+Crystal Palace	Southampton FC	1:0	3:1	03.10.1970	00:00	1970	1971	11
+Coventry City	Everton FC	1:1	3:1	03.10.1970	00:00	1970	1971	11
+Blackpool FC	Stoke City	1:0	1:1	03.10.1970	00:00	1970	1971	11
+Wolverhampton Wanderers	Manchester United	2:1	3:2	03.10.1970	00:00	1970	1971	11
+Burnley FC	Coventry City	0:0	0:0	10.10.1970	00:00	1970	1971	12
+Tottenham Hotspur	Liverpool FC	0:0	1:0	10.10.1970	00:00	1970	1971	12
+Stoke City	West Ham United	1:1	2:1	10.10.1970	00:00	1970	1971	12
+Southampton FC	Wolverhampton Wanderers	1:2	1:2	10.10.1970	00:00	1970	1971	12
+Nottingham Forest	Blackpool FC	1:0	3:1	10.10.1970	00:00	1970	1971	12
+Newcastle United	Arsenal FC	0:1	1:1	10.10.1970	00:00	1970	1971	12
+Manchester United	Crystal Palace	0:0	0:1	10.10.1970	00:00	1970	1971	12
+Huddersfield Town	Ipswich Town	0:0	1:0	10.10.1970	00:00	1970	1971	12
+Everton FC	Derby County	1:0	1:1	10.10.1970	00:00	1970	1971	12
+Chelsea FC	Manchester City	1:1	1:1	10.10.1970	00:00	1970	1971	12
+West Bromwich Albion	Leeds United	1:1	2:2	10.10.1970	00:00	1970	1971	12
+Arsenal FC	Everton FC	2:0	4:0	17.10.1970	00:00	1970	1971	13
+West Ham United	Tottenham Hotspur	1:2	2:2	17.10.1970	00:00	1970	1971	13
+Manchester City	Southampton FC	0:1	1:1	17.10.1970	00:00	1970	1971	13
+Liverpool FC	Burnley FC	1:0	2:0	17.10.1970	00:00	1970	1971	13
+Leeds United	Manchester United	1:1	2:2	17.10.1970	00:00	1970	1971	13
+Ipswich Town	Stoke City	1:0	2:0	17.10.1970	00:00	1970	1971	13
+Derby County	Chelsea FC	1:1	1:2	17.10.1970	00:00	1970	1971	13
+Crystal Palace	West Bromwich Albion	1:0	3:0	17.10.1970	00:00	1970	1971	13
+Coventry City	Nottingham Forest	2:0	2:0	17.10.1970	00:00	1970	1971	13
+Blackpool FC	Huddersfield Town	1:1	2:2	17.10.1970	00:00	1970	1971	13
+Wolverhampton Wanderers	Newcastle United	0:1	3:2	17.10.1970	00:00	1970	1971	13
+Blackpool FC	Chelsea FC	3:0	3:4	24.10.1970	00:00	1970	1971	14
+Tottenham Hotspur	Stoke City	3:0	3:0	24.10.1970	00:00	1970	1971	14
+Southampton FC	Burnley FC	1:0	2:0	24.10.1970	00:00	1970	1971	14
+Manchester United	West Bromwich Albion	0:1	2:1	24.10.1970	00:00	1970	1971	14
+Ipswich Town	Liverpool FC	1:0	1:0	24.10.1970	00:00	1970	1971	14
+Huddersfield Town	Nottingham Forest	0:0	0:0	24.10.1970	00:00	1970	1971	14
+Everton FC	Newcastle United	2:0	3:1	24.10.1970	00:00	1970	1971	14
+Derby County	Leeds United	0:0	0:2	24.10.1970	00:00	1970	1971	14
+Crystal Palace	West Ham United	0:1	1:1	24.10.1970	00:00	1970	1971	14
+Coventry City	Arsenal FC	0:1	1:3	24.10.1970	00:00	1970	1971	14
+Wolverhampton Wanderers	Manchester City	1:0	3:0	24.10.1970	00:00	1970	1971	14
+Arsenal FC	Derby County	1:0	2:0	31.10.1970	00:00	1970	1971	15
+West Bromwich Albion	Everton FC	1:0	3:0	31.10.1970	00:00	1970	1971	15
+Stoke City	Huddersfield Town	1:0	3:1	31.10.1970	00:00	1970	1971	15
+Nottingham Forest	Tottenham Hotspur	0:0	0:1	31.10.1970	00:00	1970	1971	15
+Newcastle United	Manchester United	0:0	1:0	31.10.1970	00:00	1970	1971	15
+Manchester City	Ipswich Town	1:0	2:0	31.10.1970	00:00	1970	1971	15
+Liverpool FC	Wolverhampton Wanderers	0:0	2:0	31.10.1970	00:00	1970	1971	15
+Leeds United	Coventry City	1:0	2:0	31.10.1970	00:00	1970	1971	15
+Chelsea FC	Southampton FC	1:1	2:2	31.10.1970	00:00	1970	1971	15
+Burnley FC	Crystal Palace	2:0	2:1	31.10.1970	00:00	1970	1971	15
+West Ham United	Blackpool FC	1:1	2:1	31.10.1970	00:00	1970	1971	15
+Blackpool FC	Arsenal FC	0:0	0:1	07.11.1970	00:00	1970	1971	16
+Tottenham Hotspur	Burnley FC	1:0	4:0	07.11.1970	00:00	1970	1971	16
+Southampton FC	Newcastle United	0:0	2:0	07.11.1970	00:00	1970	1971	16
+Manchester United	Stoke City	1:1	2:2	07.11.1970	00:00	1970	1971	16
+Ipswich Town	West Ham United	0:1	2:1	07.11.1970	00:00	1970	1971	16
+Huddersfield Town	Chelsea FC	0:0	0:1	07.11.1970	00:00	1970	1971	16
+Everton FC	Nottingham Forest	0:0	1:0	07.11.1970	00:00	1970	1971	16
+Derby County	Liverpool FC	0:0	0:0	07.11.1970	00:00	1970	1971	16
+Crystal Palace	Leeds United	0:0	1:1	07.11.1970	00:00	1970	1971	16
+Coventry City	Manchester City	2:0	2:1	07.11.1970	00:00	1970	1971	16
+Wolverhampton Wanderers	West Bromwich Albion	1:0	2:1	07.11.1970	00:00	1970	1971	16
+Arsenal FC	Crystal Palace	1:1	1:1	14.11.1970	00:00	1970	1971	17
+West Bromwich Albion	Southampton FC	1:0	1:0	14.11.1970	00:00	1970	1971	17
+Stoke City	Everton FC	0:1	1:1	14.11.1970	00:00	1970	1971	17
+Nottingham Forest	Manchester United	0:1	1:2	14.11.1970	00:00	1970	1971	17
+Newcastle United	Ipswich Town	0:0	0:0	14.11.1970	00:00	1970	1971	17
+Manchester City	Derby County	0:1	1:1	14.11.1970	00:00	1970	1971	17
+Liverpool FC	Coventry City	0:0	0:0	14.11.1970	00:00	1970	1971	17
+Leeds United	Blackpool FC	1:0	3:1	14.11.1970	00:00	1970	1971	17
+Chelsea FC	Tottenham Hotspur	0:0	0:2	14.11.1970	00:00	1970	1971	17
+Burnley FC	Huddersfield Town	1:1	2:3	14.11.1970	00:00	1970	1971	17
+West Ham United	Wolverhampton Wanderers	1:1	3:3	14.11.1970	00:00	1970	1971	17
+Tottenham Hotspur	Newcastle United	0:1	1:2	21.11.1970	00:00	1970	1971	18
+Southampton FC	Manchester United	1:0	1:0	21.11.1970	00:00	1970	1971	18
+Manchester City	West Ham United	1:0	2:0	21.11.1970	00:00	1970	1971	18
+Liverpool FC	Everton FC	0:0	3:2	21.11.1970	00:00	1970	1971	18
+Ipswich Town	Arsenal FC	0:0	0:1	21.11.1970	00:00	1970	1971	18
+Huddersfield Town	West Bromwich Albion	2:1	2:1	21.11.1970	00:00	1970	1971	18
+Derby County	Blackpool FC	1:0	2:0	21.11.1970	00:00	1970	1971	18
+Coventry City	Crystal Palace	1:0	2:1	21.11.1970	00:00	1970	1971	18
+Chelsea FC	Stoke City	2:1	2:1	21.11.1970	00:00	1970	1971	18
+Burnley FC	Nottingham Forest	1:0	2:1	21.11.1970	00:00	1970	1971	18
+Wolverhampton Wanderers	Leeds United	1:3	2:3	21.11.1970	00:00	1970	1971	18
+Arsenal FC	Liverpool FC	0:0	2:0	28.11.1970	00:00	1970	1971	19
+West Bromwich Albion	Chelsea FC	1:2	2:2	28.11.1970	00:00	1970	1971	19
+Stoke City	Southampton FC	0:0	0:0	28.11.1970	00:00	1970	1971	19
+Nottingham Forest	Derby County	2:1	2:4	28.11.1970	00:00	1970	1971	19
+Newcastle United	Burnley FC	1:1	3:1	28.11.1970	00:00	1970	1971	19
+Manchester United	Huddersfield Town	1:1	1:1	28.11.1970	00:00	1970	1971	19
+Everton FC	Tottenham Hotspur	0:0	0:0	28.11.1970	00:00	1970	1971	19
+Crystal Palace	Wolverhampton Wanderers	1:0	1:1	28.11.1970	00:00	1970	1971	19
+Blackpool FC	Ipswich Town	0:0	0:2	28.11.1970	00:00	1970	1971	19
+West Ham United	Coventry City	0:2	1:2	28.11.1970	00:00	1970	1971	19
+Leeds United	Manchester City	0:0	1:0	28.11.1970	00:00	1970	1971	19
+Tottenham Hotspur	Manchester United	0:1	2:2	05.12.1970	00:00	1970	1971	20
+Southampton FC	Nottingham Forest	2:1	4:1	05.12.1970	00:00	1970	1971	20
+Manchester City	Arsenal FC	0:0	0:2	05.12.1970	00:00	1970	1971	20
+Ipswich Town	Crystal Palace	0:1	1:2	05.12.1970	00:00	1970	1971	20
+Huddersfield Town	Everton FC	0:1	1:1	05.12.1970	00:00	1970	1971	20
+Derby County	West Ham United	2:2	2:4	05.12.1970	00:00	1970	1971	20
+Chelsea FC	Newcastle United	1:0	1:0	05.12.1970	00:00	1970	1971	20
+Burnley FC	West Bromwich Albion	0:0	1:1	05.12.1970	00:00	1970	1971	20
+Wolverhampton Wanderers	Blackpool FC	1:0	1:0	05.12.1970	00:00	1970	1971	20
+Coventry City	Stoke City	1:0	1:0	05.12.1970	00:00	1970	1971	20
+Liverpool FC	Leeds United	0:0	1:1	05.12.1970	00:00	1970	1971	20
+West Bromwich Albion	Tottenham Hotspur	0:1	3:1	12.12.1970	00:00	1970	1971	21
+Stoke City	Burnley FC	0:0	0:0	12.12.1970	00:00	1970	1971	21
+Nottingham Forest	Chelsea FC	1:1	1:1	12.12.1970	00:00	1970	1971	21
+Newcastle United	Huddersfield Town	2:0	2:0	12.12.1970	00:00	1970	1971	21
+Manchester United	Manchester City	0:2	1:4	12.12.1970	00:00	1970	1971	21
+Leeds United	Ipswich Town	0:0	0:0	12.12.1970	00:00	1970	1971	21
+Everton FC	Southampton FC	0:0	4:1	12.12.1970	00:00	1970	1971	21
+Crystal Palace	Derby County	0:0	0:0	12.12.1970	00:00	1970	1971	21
+Blackpool FC	Coventry City	1:0	1:0	12.12.1970	00:00	1970	1971	21
+Arsenal FC	Wolverhampton Wanderers	1:0	2:1	12.12.1970	00:00	1970	1971	21
+West Ham United	Liverpool FC	1:2	1:2	12.12.1970	00:00	1970	1971	21
+Burnley FC	Manchester City	0:2	0:4	19.12.1970	00:00	1970	1971	22
+Tottenham Hotspur	Wolverhampton Wanderers	0:0	0:0	19.12.1970	00:00	1970	1971	22
+Southampton FC	Coventry City	1:0	3:0	19.12.1970	00:00	1970	1971	22
+Nottingham Forest	Ipswich Town	0:0	0:1	19.12.1970	00:00	1970	1971	22
+Newcastle United	Crystal Palace	1:0	2:0	19.12.1970	00:00	1970	1971	22
+Manchester United	Arsenal FC	1:3	1:3	19.12.1970	00:00	1970	1971	22
+Huddersfield Town	Liverpool FC	0:0	0:0	19.12.1970	00:00	1970	1971	22
+Everton FC	Leeds United	0:1	0:1	19.12.1970	00:00	1970	1971	22
+Chelsea FC	West Ham United	2:1	2:1	19.12.1970	00:00	1970	1971	22
+West Bromwich Albion	Blackpool FC	1:0	1:1	19.12.1970	00:00	1970	1971	22
+Stoke City	Derby County	0:0	1:0	19.12.1970	00:00	1970	1971	22
+Wolverhampton Wanderers	Everton FC	0:0	2:0	26.12.1970	00:00	1970	1971	23
+Manchester City	Huddersfield Town	0:0	1:1	26.12.1970	00:00	1970	1971	23
+Leeds United	Newcastle United	1:0	3:0	26.12.1970	00:00	1970	1971	23
+Derby County	Manchester United	2:0	4:4	26.12.1970	00:00	1970	1971	23
+Coventry City	West Bromwich Albion	1:0	1:1	26.12.1970	00:00	1970	1971	23
+Blackpool FC	Burnley FC	1:0	1:1	26.12.1970	00:00	1970	1971	23
+Arsenal FC	Southampton FC	0:0	0:0	26.12.1970	00:00	1970	1971	23
+Liverpool FC	Stoke City	0:0	0:0	26.12.1970	00:00	1970	1971	23
+Crystal Palace	Chelsea FC	0:0	0:0	13.01.1971	00:00	1970	1971	23
+West Ham United	Nottingham Forest	1:0	2:0	24.02.1971	00:00	1970	1971	23
+Ipswich Town	Tottenham Hotspur	1:0	1:2	23.03.1971	00:00	1970	1971	23
+Arsenal FC	West Ham United	1:0	2:0	09.01.1971	00:00	1970	1971	24
+Chelsea FC	Manchester United	0:0	1:2	09.01.1971	00:00	1970	1971	24
+Coventry City	Ipswich Town	1:0	1:0	09.01.1971	00:00	1970	1971	24
+Leeds United	Tottenham Hotspur	1:1	1:2	09.01.1971	00:00	1970	1971	24
+Manchester City	Crystal Palace	0:0	1:0	09.01.1971	00:00	1970	1971	24
+West Bromwich Albion	Nottingham Forest	0:0	0:1	09.01.1971	00:00	1970	1971	24
+Southampton FC	Huddersfield Town	1:0	1:0	09.01.1971	00:00	1970	1971	24
+Newcastle United	Stoke City	0:1	0:2	09.01.1971	00:00	1970	1971	24
+Liverpool FC	Blackpool FC	1:1	2:2	09.01.1971	00:00	1970	1971	24
+Derby County	Wolverhampton Wanderers	0:1	1:2	09.01.1971	00:00	1970	1971	24
+Burnley FC	Everton FC	1:0	2:2	09.01.1971	00:00	1970	1971	24
+Ipswich Town	Derby County	0:0	0:1	16.01.1971	00:00	1970	1971	25
+West Ham United	Leeds United	0:1	2:3	16.01.1971	00:00	1970	1971	25
+Blackpool FC	Manchester City	2:1	3:3	16.01.1971	00:00	1970	1971	25
+Wolverhampton Wanderers	Coventry City	0:0	0:0	16.01.1971	00:00	1970	1971	25
+Tottenham Hotspur	Southampton FC	1:3	1:3	16.01.1971	00:00	1970	1971	25
+Nottingham Forest	Newcastle United	2:0	2:1	16.01.1971	00:00	1970	1971	25
+Manchester United	Burnley FC	0:0	1:1	16.01.1971	00:00	1970	1971	25
+Huddersfield Town	Arsenal FC	1:0	2:1	16.01.1971	00:00	1970	1971	25
+Everton FC	Chelsea FC	2:0	3:0	16.01.1971	00:00	1970	1971	25
+Crystal Palace	Liverpool FC	0:0	1:0	16.01.1971	00:00	1970	1971	25
+Stoke City	West Bromwich Albion	1:0	2:0	16.01.1971	00:00	1970	1971	25
+Wolverhampton Wanderers	Crystal Palace	1:1	2:1	30.01.1971	00:00	1970	1971	26
+Tottenham Hotspur	Everton FC	1:1	2:1	30.01.1971	00:00	1970	1971	26
+Southampton FC	Stoke City	1:1	2:1	30.01.1971	00:00	1970	1971	26
+Liverpool FC	Arsenal FC	1:0	2:0	30.01.1971	00:00	1970	1971	26
+Ipswich Town	Blackpool FC	1:1	2:1	30.01.1971	00:00	1970	1971	26
+Huddersfield Town	Manchester United	1:2	1:2	30.01.1971	00:00	1970	1971	26
+Chelsea FC	West Bromwich Albion	2:1	4:1	30.01.1971	00:00	1970	1971	26
+Burnley FC	Newcastle United	1:0	1:1	30.01.1971	00:00	1970	1971	26
+Manchester City	Leeds United	0:2	0:2	30.01.1971	00:00	1970	1971	26
+Coventry City	West Ham United	0:1	0:1	08.02.1971	00:00	1970	1971	26
+Derby County	Nottingham Forest	0:1	1:2	31.03.1971	00:00	1970	1971	26
+Nottingham Forest	Southampton FC	2:0	2:0	06.02.1971	00:00	1970	1971	27
+West Ham United	Derby County	0:3	1:4	06.02.1971	00:00	1970	1971	27
+Crystal Palace	Ipswich Town	0:0	1:0	06.02.1971	00:00	1970	1971	27
+West Bromwich Albion	Burnley FC	1:0	1:0	06.02.1971	00:00	1970	1971	27
+Newcastle United	Chelsea FC	0:1	0:1	06.02.1971	00:00	1970	1971	27
+Manchester United	Tottenham Hotspur	2:1	2:1	06.02.1971	00:00	1970	1971	27
+Everton FC	Huddersfield Town	1:0	2:1	06.02.1971	00:00	1970	1971	27
+Blackpool FC	Wolverhampton Wanderers	0:0	0:2	06.02.1971	00:00	1970	1971	27
+Arsenal FC	Manchester City	0:0	1:0	06.02.1971	00:00	1970	1971	27
+Leeds United	Liverpool FC	0:1	0:1	06.02.1971	00:00	1970	1971	27
+Stoke City	Coventry City	1:1	2:1	06.02.1971	00:00	1970	1971	27
+Coventry City	Blackpool FC	0:0	2:0	13.02.1971	00:00	1970	1971	28
+Huddersfield Town	Newcastle United	0:1	1:1	13.02.1971	00:00	1970	1971	28
+Liverpool FC	West Ham United	0:0	1:0	16.02.1971	00:00	1970	1971	28
+Southampton FC	Everton FC	1:1	2:2	16.02.1971	00:00	1970	1971	28
+Tottenham Hotspur	West Bromwich Albion	1:1	2:2	17.02.1971	00:00	1970	1971	28
+Derby County	Crystal Palace	0:0	1:0	17.02.1971	00:00	1970	1971	28
+Chelsea FC	Nottingham Forest	1:0	2:0	17.02.1971	00:00	1970	1971	28
+Ipswich Town	Leeds United	2:1	2:4	23.02.1971	00:00	1970	1971	28
+Burnley FC	Stoke City	0:1	1:1	23.02.1971	00:00	1970	1971	28
+Wolverhampton Wanderers	Arsenal FC	0:2	0:3	02.03.1971	00:00	1970	1971	28
+Manchester City	Manchester United	0:3	3:4	05.05.1971	00:00	1970	1971	28
+Arsenal FC	Ipswich Town	3:0	3:2	20.02.1971	00:00	1970	1971	29
+Manchester United	Southampton FC	4:0	5:1	20.02.1971	00:00	1970	1971	29
+Nottingham Forest	Burnley FC	0:0	1:0	20.02.1971	00:00	1970	1971	29
+West Ham United	Manchester City	0:0	0:0	20.02.1971	00:00	1970	1971	29
+West Bromwich Albion	Huddersfield Town	0:0	2:1	20.02.1971	00:00	1970	1971	29
+Newcastle United	Tottenham Hotspur	1:0	1:0	20.02.1971	00:00	1970	1971	29
+Leeds United	Wolverhampton Wanderers	1:0	3:0	20.02.1971	00:00	1970	1971	29
+Everton FC	Liverpool FC	0:0	0:0	20.02.1971	00:00	1970	1971	29
+Crystal Palace	Coventry City	0:0	1:2	20.02.1971	00:00	1970	1971	29
+Blackpool FC	Derby County	0:1	0:1	20.02.1971	00:00	1970	1971	29
+Stoke City	Chelsea FC	0:0	1:2	20.02.1971	00:00	1970	1971	29
+Ipswich Town	Manchester City	1:0	2:0	26.02.1971	00:00	1970	1971	30
+Coventry City	Leeds United	0:0	0:1	26.02.1971	00:00	1970	1971	30
+Derby County	Arsenal FC	1:0	2:0	27.02.1971	00:00	1970	1971	30
+Wolverhampton Wanderers	Liverpool FC	1:0	1:0	27.02.1971	00:00	1970	1971	30
+Manchester United	Newcastle United	1:0	1:0	27.02.1971	00:00	1970	1971	30
+Huddersfield Town	Stoke City	0:0	0:1	27.02.1971	00:00	1970	1971	30
+Crystal Palace	Burnley FC	0:2	0:2	27.02.1971	00:00	1970	1971	30
+Blackpool FC	West Ham United	1:0	1:1	27.02.1971	00:00	1970	1971	30
+Everton FC	West Bromwich Albion	3:2	3:3	27.02.1971	00:00	1970	1971	30
+Southampton FC	Chelsea FC	0:0	0:0	27.02.1971	00:00	1970	1971	30
+Tottenham Hotspur	Nottingham Forest	0:1	0:1	10.03.1971	00:00	1970	1971	30
+Leeds United	Derby County	0:0	1:0	06.03.1971	00:00	1970	1971	31
+West Ham United	Crystal Palace	0:0	0:0	06.03.1971	00:00	1970	1971	31
+West Bromwich Albion	Manchester United	1:1	4:3	06.03.1971	00:00	1970	1971	31
+Nottingham Forest	Huddersfield Town	1:1	1:3	06.03.1971	00:00	1970	1971	31
+Burnley FC	Southampton FC	0:0	0:1	06.03.1971	00:00	1970	1971	31
+Chelsea FC	Blackpool FC	0:0	2:0	06.03.1971	00:00	1970	1971	31
+Manchester City	Wolverhampton Wanderers	0:0	0:0	06.03.1971	00:00	1970	1971	31
+Newcastle United	Everton FC	1:0	2:1	18.03.1971	00:00	1970	1971	31
+Liverpool FC	Ipswich Town	1:0	2:1	29.03.1971	00:00	1970	1971	31
+Arsenal FC	Coventry City	0:0	1:0	06.04.1971	00:00	1970	1971	31
+Stoke City	Tottenham Hotspur	0:1	0:1	05.05.1971	00:00	1970	1971	31
+Coventry City	Liverpool FC	1:0	1:0	13.03.1971	00:00	1970	1971	32
+Derby County	Manchester City	0:0	0:0	13.03.1971	00:00	1970	1971	32
+Ipswich Town	Newcastle United	0:0	1:0	13.03.1971	00:00	1970	1971	32
+Wolverhampton Wanderers	West Ham United	0:0	2:0	13.03.1971	00:00	1970	1971	32
+Southampton FC	West Bromwich Albion	1:0	1:0	13.03.1971	00:00	1970	1971	32
+Manchester United	Nottingham Forest	2:0	2:0	13.03.1971	00:00	1970	1971	32
+Huddersfield Town	Burnley FC	0:1	0:1	13.03.1971	00:00	1970	1971	32
+Everton FC	Stoke City	0:0	2:0	13.03.1971	00:00	1970	1971	32
+Crystal Palace	Arsenal FC	0:1	0:2	13.03.1971	00:00	1970	1971	32
+Blackpool FC	Leeds United	1:0	1:1	13.03.1971	00:00	1970	1971	32
+Tottenham Hotspur	Chelsea FC	0:0	2:1	13.03.1971	00:00	1970	1971	32
+Liverpool FC	Derby County	1:0	2:0	20.03.1971	00:00	1970	1971	33
+Manchester City	Coventry City	0:1	1:1	20.03.1971	00:00	1970	1971	33
+West Ham United	Ipswich Town	1:0	2:2	20.03.1971	00:00	1970	1971	33
+West Bromwich Albion	Wolverhampton Wanderers	1:0	2:4	20.03.1971	00:00	1970	1971	33
+Stoke City	Manchester United	0:2	1:2	20.03.1971	00:00	1970	1971	33
+Newcastle United	Southampton FC	1:0	2:2	20.03.1971	00:00	1970	1971	33
+Leeds United	Crystal Palace	1:1	2:1	20.03.1971	00:00	1970	1971	33
+Burnley FC	Tottenham Hotspur	0:0	0:0	20.03.1971	00:00	1970	1971	33
+Arsenal FC	Blackpool FC	0:0	1:0	20.03.1971	00:00	1970	1971	33
+Chelsea FC	Huddersfield Town	0:0	0:0	20.03.1971	00:00	1970	1971	33
+Nottingham Forest	Everton FC	2:1	3:2	20.03.1971	00:00	1970	1971	33
+Nottingham Forest	Crystal Palace	1:1	3:1	27.03.1971	00:00	1970	1971	34
+West Bromwich Albion	Manchester City	0:0	0:0	27.03.1971	00:00	1970	1971	34
+Southampton FC	Blackpool FC	0:0	1:1	27.03.1971	00:00	1970	1971	34
+Newcastle United	Derby County	2:0	3:1	27.03.1971	00:00	1970	1971	34
+Burnley FC	Ipswich Town	0:0	2:2	27.03.1971	00:00	1970	1971	34
+Chelsea FC	Leeds United	2:0	3:1	27.03.1971	00:00	1970	1971	34
+Huddersfield Town	Coventry City	1:0	1:0	27.03.1971	00:00	1970	1971	34
+Everton FC	West Ham United	0:1	0:1	30.03.1971	00:00	1970	1971	34
+Stoke City	Wolverhampton Wanderers	0:0	1:0	07.04.1971	00:00	1970	1971	34
+Manchester United	Liverpool FC	0:1	0:2	19.04.1971	00:00	1970	1971	34
+Tottenham Hotspur	Arsenal FC	0:0	0:1	03.05.1971	00:00	1970	1971	34
+Liverpool FC	West Bromwich Albion	0:0	1:1	02.04.1971	00:00	1970	1971	35
+Coventry City	Tottenham Hotspur	0:0	0:0	03.04.1971	00:00	1970	1971	35
+Crystal Palace	Stoke City	2:0	3:2	03.04.1971	00:00	1970	1971	35
+West Ham United	Manchester United	2:0	2:1	03.04.1971	00:00	1970	1971	35
+Wolverhampton Wanderers	Nottingham Forest	2:0	4:0	03.04.1971	00:00	1970	1971	35
+Leeds United	Burnley FC	2:0	4:0	03.04.1971	00:00	1970	1971	35
+Ipswich Town	Southampton FC	0:0	1:3	03.04.1971	00:00	1970	1971	35
+Blackpool FC	Newcastle United	0:0	0:1	03.04.1971	00:00	1970	1971	35
+Arsenal FC	Chelsea FC	0:0	2:0	03.04.1971	00:00	1970	1971	35
+Derby County	Huddersfield Town	2:2	3:2	03.04.1971	00:00	1970	1971	35
+Manchester City	Everton FC	3:0	3:0	03.04.1971	00:00	1970	1971	35
+Leeds United	Stoke City	2:1	4:1	18.11.1970	00:00	1970	1971	36
+Wolverhampton Wanderers	Chelsea FC	0:0	1:0	13.02.1971	00:00	1970	1971	36
+Crystal Palace	Huddersfield Town	0:1	0:3	24.03.1971	00:00	1970	1971	36
+Liverpool FC	Newcastle United	1:1	1:1	06.04.1971	00:00	1970	1971	36
+Ipswich Town	Everton FC	0:0	0:0	06.04.1971	00:00	1970	1971	36
+West Ham United	West Bromwich Albion	0:1	2:1	09.04.1971	00:00	1970	1971	36
+Manchester City	Nottingham Forest	1:1	1:3	09.04.1971	00:00	1970	1971	36
+Blackpool FC	Tottenham Hotspur	0:0	0:0	12.04.1971	00:00	1970	1971	36
+Derby County	Southampton FC	0:0	0:0	12.04.1971	00:00	1970	1971	36
+Coventry City	Manchester United	1:0	2:1	13.04.1971	00:00	1970	1971	36
+Arsenal FC	Burnley FC	1:0	1:0	20.04.1971	00:00	1970	1971	36
+Manchester United	Derby County	0:1	1:2	10.04.1971	00:00	1970	1971	37
+Tottenham Hotspur	Ipswich Town	2:0	2:0	10.04.1971	00:00	1970	1971	37
+Burnley FC	Blackpool FC	0:0	1:0	10.04.1971	00:00	1970	1971	37
+Southampton FC	Arsenal FC	1:1	1:2	10.04.1971	00:00	1970	1971	37
+Stoke City	Liverpool FC	0:1	0:1	10.04.1971	00:00	1970	1971	37
+West Bromwich Albion	Coventry City	0:0	0:0	10.04.1971	00:00	1970	1971	37
+Nottingham Forest	West Ham United	1:0	1:0	10.04.1971	00:00	1970	1971	37
+Newcastle United	Leeds United	0:0	1:1	10.04.1971	00:00	1970	1971	37
+Huddersfield Town	Manchester City	0:0	1:0	10.04.1971	00:00	1970	1971	37
+Chelsea FC	Crystal Palace	0:1	1:1	10.04.1971	00:00	1970	1971	37
+Everton FC	Wolverhampton Wanderers	0:1	1:2	10.04.1971	00:00	1970	1971	37
+Tottenham Hotspur	Derby County	1:1	2:1	07.04.1971	00:00	1970	1971	38
+Manchester United	Wolverhampton Wanderers	1:0	1:0	12.04.1971	00:00	1970	1971	38
+Chelsea FC	Liverpool FC	1:0	1:0	12.04.1971	00:00	1970	1971	38
+Huddersfield Town	Leeds United	0:0	0:0	12.04.1971	00:00	1970	1971	38
+Newcastle United	Manchester City	0:0	0:0	12.04.1971	00:00	1970	1971	38
+West Bromwich Albion	Ipswich Town	0:0	0:1	12.04.1971	00:00	1970	1971	38
+Everton FC	Coventry City	2:0	3:0	12.04.1971	00:00	1970	1971	38
+Burnley FC	West Ham United	0:0	1:0	13.04.1971	00:00	1970	1971	38
+Stoke City	Blackpool FC	1:1	1:1	13.04.1971	00:00	1970	1971	38
+Nottingham Forest	Arsenal FC	0:2	0:3	13.04.1971	00:00	1970	1971	38
+Southampton FC	Crystal Palace	3:0	6:0	04.05.1971	00:00	1970	1971	38
+Liverpool FC	Tottenham Hotspur	0:0	0:0	17.04.1971	00:00	1970	1971	39
+Coventry City	Burnley FC	0:0	3:0	17.04.1971	00:00	1970	1971	39
+Crystal Palace	Manchester United	2:1	3:5	17.04.1971	00:00	1970	1971	39
+West Ham United	Stoke City	0:0	1:0	17.04.1971	00:00	1970	1971	39
+Wolverhampton Wanderers	Southampton FC	0:0	0:1	17.04.1971	00:00	1970	1971	39
+Manchester City	Chelsea FC	0:0	1:1	17.04.1971	00:00	1970	1971	39
+Leeds United	West Bromwich Albion	0:1	1:2	17.04.1971	00:00	1970	1971	39
+Ipswich Town	Huddersfield Town	0:0	2:0	17.04.1971	00:00	1970	1971	39
+Blackpool FC	Nottingham Forest	2:2	2:3	17.04.1971	00:00	1970	1971	39
+Arsenal FC	Newcastle United	0:0	1:0	17.04.1971	00:00	1970	1971	39
+Derby County	Everton FC	1:0	3:1	17.04.1971	00:00	1970	1971	39
+Tottenham Hotspur	Crystal Palace	1:0	2:0	24.04.1971	00:00	1970	1971	40
+Southampton FC	Leeds United	0:2	0:3	24.04.1971	00:00	1970	1971	40
+Stoke City	Manchester City	1:0	2:0	24.04.1971	00:00	1970	1971	40
+West Bromwich Albion	Arsenal FC	1:1	2:2	24.04.1971	00:00	1970	1971	40
+Nottingham Forest	Liverpool FC	0:0	0:1	24.04.1971	00:00	1970	1971	40
+Newcastle United	West Ham United	1:1	1:1	24.04.1971	00:00	1970	1971	40
+Manchester United	Ipswich Town	2:1	3:2	24.04.1971	00:00	1970	1971	40
+Huddersfield Town	Wolverhampton Wanderers	1:2	1:2	24.04.1971	00:00	1970	1971	40
+Chelsea FC	Coventry City	0:0	2:1	24.04.1971	00:00	1970	1971	40
+Burnley FC	Derby County	1:0	1:2	24.04.1971	00:00	1970	1971	40
+Everton FC	Blackpool FC	0:0	0:0	24.04.1971	00:00	1970	1971	40
+Everton FC	Manchester United	1:0	1:0	23.02.1971	00:00	1970	1971	41
+Leeds United	Arsenal FC	0:0	1:0	26.04.1971	00:00	1970	1971	41
+Blackpool FC	Crystal Palace	2:0	3:1	26.04.1971	00:00	1970	1971	41
+Chelsea FC	Burnley FC	0:0	0:1	26.04.1971	00:00	1970	1971	41
+Manchester City	Liverpool FC	1:2	2:2	26.04.1971	00:00	1970	1971	41
+Wolverhampton Wanderers	Ipswich Town	0:0	0:0	26.04.1971	00:00	1970	1971	41
+Southampton FC	West Ham United	0:1	1:2	27.04.1971	00:00	1970	1971	41
+Coventry City	Derby County	0:0	0:0	27.04.1971	00:00	1970	1971	41
+Nottingham Forest	Stoke City	0:0	0:0	27.04.1971	00:00	1970	1971	41
+Tottenham Hotspur	Huddersfield Town	0:1	1:1	28.04.1971	00:00	1970	1971	41
+Newcastle United	West Bromwich Albion	0:0	3:0	28.04.1971	00:00	1970	1971	41
+Manchester City	Tottenham Hotspur	0:1	0:1	01.05.1971	00:00	1970	1971	42
+Arsenal FC	Stoke City	0:0	1:0	01.05.1971	00:00	1970	1971	42
+Blackpool FC	Manchester United	1:1	1:1	01.05.1971	00:00	1970	1971	42
+Liverpool FC	Southampton FC	1:0	1:0	01.05.1971	00:00	1970	1971	42
+Coventry City	Newcastle United	1:0	2:0	01.05.1971	00:00	1970	1971	42
+Wolverhampton Wanderers	Burnley FC	0:0	1:0	01.05.1971	00:00	1970	1971	42
+West Ham United	Huddersfield Town	0:0	0:1	01.05.1971	00:00	1970	1971	42
+Leeds United	Nottingham Forest	2:0	2:0	01.05.1971	00:00	1970	1971	42
+Ipswich Town	Chelsea FC	0:0	0:0	01.05.1971	00:00	1970	1971	42
+Derby County	West Bromwich Albion	1:0	2:0	01.05.1971	00:00	1970	1971	42
+Crystal Palace	Everton FC	1:0	2:0	01.05.1971	00:00	1970	1971	42

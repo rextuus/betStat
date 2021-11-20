@@ -1,0 +1,380 @@
+Blau-WeiÃ 90 Berlin	Alemannia Aachen	0:1	1:2	09.08.1984	20:15	1984	1985	1
+Kickers Offenbach	SG Wattenscheid 09	0:1	0:1	09.08.1984	20:15	1984	1985	1
+Fortuna KÃ¶ln	FC 08 Homburg	0:0	0:0	09.08.1984	20:15	1984	1985	1
+MSV Duisburg	Hessen Kassel	1:2	2:2	09.08.1984	20:15	1984	1985	1
+1. FC NÃ¼rnberg	Hertha BSC	0:0	0:0	09.08.1984	20:15	1984	1985	1
+FC St. Pauli	Rot-WeiÃ Oberhausen	0:0	2:0	09.08.1984	20:15	1984	1985	1
+1. FC SaarbrÃ¼cken	SSV Ulm 1846	1:0	2:0	14.08.1984	20:15	1984	1985	1
+Stuttgarter Kickers	SG Union Solingen	0:0	2:0	14.08.1984	20:15	1984	1985	1
+SC Freiburg	SV Darmstadt 98	1:1	2:1	14.08.1984	20:15	1984	1985	1
+VfR BÃ¼rstadt	Hannover 96	1:2	1:2	14.08.1984	20:15	1984	1985	1
+Hertha BSC	MSV Duisburg	2:0	4:3	18.08.1984	15:00	1984	1985	2
+Hessen Kassel	SC Freiburg	2:0	3:2	18.08.1984	15:00	1984	1985	2
+Rot-WeiÃ Oberhausen	VfR BÃ¼rstadt	0:1	0:2	18.08.1984	15:00	1984	1985	2
+Alemannia Aachen	FC St. Pauli	1:0	4:0	18.08.1984	15:00	1984	1985	2
+SG Wattenscheid 09	Blau-WeiÃ 90 Berlin	1:0	2:1	18.08.1984	15:00	1984	1985	2
+SSV Ulm 1846	Kickers Offenbach	0:2	2:2	18.08.1984	15:00	1984	1985	2
+SG Union Solingen	1. FC SaarbrÃ¼cken	1:0	2:1	18.08.1984	15:00	1984	1985	2
+SV Darmstadt 98	Fortuna KÃ¶ln	1:0	1:1	18.08.1984	15:00	1984	1985	2
+Hannover 96	1. FC NÃ¼rnberg	2:2	4:2	18.08.1984	15:00	1984	1985	2
+FC 08 Homburg	Stuttgarter Kickers	2:0	3:2	18.08.1984	15:00	1984	1985	2
+SC Freiburg	Hertha BSC	0:0	2:0	25.08.1984	15:00	1984	1985	3
+Blau-WeiÃ 90 Berlin	SSV Ulm 1846	1:1	3:2	25.08.1984	15:00	1984	1985	3
+VfR BÃ¼rstadt	1. FC NÃ¼rnberg	1:0	2:0	25.08.1984	15:00	1984	1985	3
+Rot-WeiÃ Oberhausen	Alemannia Aachen	2:1	3:1	25.08.1984	15:00	1984	1985	3
+MSV Duisburg	Hannover 96	1:0	1:2	25.08.1984	15:00	1984	1985	3
+Stuttgarter Kickers	SV Darmstadt 98	1:0	4:2	25.08.1984	15:00	1984	1985	3
+FC St. Pauli	SG Wattenscheid 09	1:1	1:1	25.08.1984	15:00	1984	1985	3
+Kickers Offenbach	SG Union Solingen	2:0	4:0	25.08.1984	15:00	1984	1985	3
+Fortuna KÃ¶ln	Hessen Kassel	2:0	3:0	25.08.1984	15:00	1984	1985	3
+1. FC SaarbrÃ¼cken	FC 08 Homburg	0:0	1:0	25.08.1984	15:00	1984	1985	3
+FC 08 Homburg	Kickers Offenbach	1:1	3:1	28.08.1984	19:30	1984	1985	4
+Hessen Kassel	Stuttgarter Kickers	0:0	2:0	28.08.1984	19:30	1984	1985	4
+1. FC NÃ¼rnberg	MSV Duisburg	1:1	2:1	28.08.1984	19:30	1984	1985	4
+Alemannia Aachen	VfR BÃ¼rstadt	1:0	1:1	28.08.1984	19:30	1984	1985	4
+SG Wattenscheid 09	Rot-WeiÃ Oberhausen	1:0	1:1	28.08.1984	19:30	1984	1985	4
+SG Union Solingen	Blau-WeiÃ 90 Berlin	3:1	5:3	28.08.1984	19:30	1984	1985	4
+SV Darmstadt 98	1. FC SaarbrÃ¼cken	0:0	1:1	28.08.1984	19:30	1984	1985	4
+Hertha BSC	Fortuna KÃ¶ln	0:0	2:1	28.08.1984	19:30	1984	1985	4
+Hannover 96	SC Freiburg	0:0	0:0	28.08.1984	19:30	1984	1985	4
+SSV Ulm 1846	FC St. Pauli	0:0	1:0	28.08.1984	19:30	1984	1985	4
+SC Freiburg	1. FC NÃ¼rnberg	0:1	0:1	08.09.1984	15:00	1984	1985	5
+Fortuna KÃ¶ln	Hannover 96	2:3	3:5	08.09.1984	15:00	1984	1985	5
+VfR BÃ¼rstadt	MSV Duisburg	5:0	7:2	08.09.1984	15:00	1984	1985	5
+Alemannia Aachen	SG Wattenscheid 09	1:0	3:0	08.09.1984	15:00	1984	1985	5
+1. FC SaarbrÃ¼cken	Hessen Kassel	1:2	2:2	08.09.1984	15:00	1984	1985	5
+FC St. Pauli	SG Union Solingen	0:3	1:5	08.09.1984	15:00	1984	1985	5
+Kickers Offenbach	SV Darmstadt 98	1:0	1:1	08.09.1984	15:00	1984	1985	5
+Rot-WeiÃ Oberhausen	SSV Ulm 1846	2:2	3:4	08.09.1984	15:00	1984	1985	5
+Blau-WeiÃ 90 Berlin	FC 08 Homburg	0:0	2:0	08.09.1984	15:00	1984	1985	5
+Stuttgarter Kickers	Hertha BSC	0:0	2:2	08.09.1984	15:00	1984	1985	5
+FC 08 Homburg	FC St. Pauli	2:0	3:1	15.09.1984	15:00	1984	1985	6
+Hessen Kassel	Kickers Offenbach	2:0	2:0	15.09.1984	15:00	1984	1985	6
+1. FC NÃ¼rnberg	Fortuna KÃ¶ln	3:0	6:0	15.09.1984	15:00	1984	1985	6
+MSV Duisburg	SC Freiburg	2:1	2:1	15.09.1984	15:00	1984	1985	6
+SG Wattenscheid 09	VfR BÃ¼rstadt	0:2	3:2	15.09.1984	15:00	1984	1985	6
+SG Union Solingen	Rot-WeiÃ Oberhausen	2:0	4:1	15.09.1984	15:00	1984	1985	6
+SV Darmstadt 98	Blau-WeiÃ 90 Berlin	2:0	4:1	15.09.1984	15:00	1984	1985	6
+Hertha BSC	1. FC SaarbrÃ¼cken	1:1	4:3	15.09.1984	15:00	1984	1985	6
+Hannover 96	Stuttgarter Kickers	2:0	2:1	15.09.1984	15:00	1984	1985	6
+SSV Ulm 1846	Alemannia Aachen	1:0	3:1	15.09.1984	15:00	1984	1985	6
+Fortuna KÃ¶ln	MSV Duisburg	0:0	0:0	22.09.1984	15:00	1984	1985	7
+Rot-WeiÃ Oberhausen	FC 08 Homburg	2:0	4:1	22.09.1984	15:00	1984	1985	7
+VfR BÃ¼rstadt	SC Freiburg	1:0	2:1	22.09.1984	15:00	1984	1985	7
+Alemannia Aachen	SG Union Solingen	0:1	2:2	22.09.1984	15:00	1984	1985	7
+SG Wattenscheid 09	SSV Ulm 1846	1:1	2:1	22.09.1984	15:00	1984	1985	7
+1. FC SaarbrÃ¼cken	Hannover 96	3:0	3:0	22.09.1984	15:00	1984	1985	7
+Kickers Offenbach	Hertha BSC	0:0	1:0	22.09.1984	15:00	1984	1985	7
+Blau-WeiÃ 90 Berlin	Hessen Kassel	1:0	2:2	22.09.1984	15:00	1984	1985	7
+FC St. Pauli	SV Darmstadt 98	0:0	3:0	22.09.1984	15:00	1984	1985	7
+Stuttgarter Kickers	1. FC NÃ¼rnberg	0:0	1:2	22.09.1984	15:00	1984	1985	7
+1. FC NÃ¼rnberg	1. FC SaarbrÃ¼cken	0:1	1:2	29.09.1984	15:00	1984	1985	8
+Hannover 96	Kickers Offenbach	1:3	2:3	29.09.1984	15:00	1984	1985	8
+Hessen Kassel	FC St. Pauli	1:4	5:4	29.09.1984	15:00	1984	1985	8
+MSV Duisburg	Stuttgarter Kickers	0:0	0:1	29.09.1984	15:00	1984	1985	8
+SC Freiburg	Fortuna KÃ¶ln	1:1	1:4	29.09.1984	15:00	1984	1985	8
+SG Union Solingen	SG Wattenscheid 09	1:0	1:0	29.09.1984	15:00	1984	1985	8
+FC 08 Homburg	Alemannia Aachen	0:2	3:4	29.09.1984	15:00	1984	1985	8
+SV Darmstadt 98	Rot-WeiÃ Oberhausen	2:1	2:1	29.09.1984	15:00	1984	1985	8
+Hertha BSC	Blau-WeiÃ 90 Berlin	1:0	2:0	29.09.1984	15:00	1984	1985	8
+SSV Ulm 1846	VfR BÃ¼rstadt	1:0	4:1	29.09.1984	15:00	1984	1985	8
+1. FC SaarbrÃ¼cken	MSV Duisburg	1:0	4:1	06.10.1984	15:00	1984	1985	9
+VfR BÃ¼rstadt	Fortuna KÃ¶ln	1:1	2:1	06.10.1984	15:00	1984	1985	9
+Rot-WeiÃ Oberhausen	Hessen Kassel	1:0	2:1	06.10.1984	15:00	1984	1985	9
+Alemannia Aachen	SV Darmstadt 98	1:0	2:0	06.10.1984	15:00	1984	1985	9
+SG Wattenscheid 09	FC 08 Homburg	0:1	2:1	06.10.1984	15:00	1984	1985	9
+FC St. Pauli	Hertha BSC	1:1	1:2	06.10.1984	15:00	1984	1985	9
+Stuttgarter Kickers	SC Freiburg	0:0	0:1	06.10.1984	15:00	1984	1985	9
+Kickers Offenbach	1. FC NÃ¼rnberg	2:0	2:3	06.10.1984	15:00	1984	1985	9
+Blau-WeiÃ 90 Berlin	Hannover 96	0:2	1:3	06.10.1984	15:00	1984	1985	9
+SSV Ulm 1846	SG Union Solingen	0:1	0:1	06.10.1984	15:00	1984	1985	9
+Fortuna KÃ¶ln	Stuttgarter Kickers	2:0	4:0	13.10.1984	15:00	1984	1985	10
+SC Freiburg	1. FC SaarbrÃ¼cken	0:1	1:1	13.10.1984	15:00	1984	1985	10
+Hessen Kassel	Alemannia Aachen	0:0	0:0	13.10.1984	15:00	1984	1985	10
+MSV Duisburg	Kickers Offenbach	1:1	1:1	13.10.1984	15:00	1984	1985	10
+FC 08 Homburg	SSV Ulm 1846	0:0	3:1	13.10.1984	15:00	1984	1985	10
+Hannover 96	FC St. Pauli	1:0	2:0	13.10.1984	15:00	1984	1985	10
+SV Darmstadt 98	SG Wattenscheid 09	0:4	1:4	13.10.1984	15:00	1984	1985	10
+SG Union Solingen	VfR BÃ¼rstadt	0:0	1:0	13.10.1984	15:00	1984	1985	10
+Hertha BSC	Rot-WeiÃ Oberhausen	2:1	4:1	13.10.1984	15:00	1984	1985	10
+1. FC NÃ¼rnberg	Blau-WeiÃ 90 Berlin	0:1	2:1	13.10.1984	15:00	1984	1985	10
+1. FC SaarbrÃ¼cken	Fortuna KÃ¶ln	2:0	6:1	20.10.1984	15:00	1984	1985	11
+VfR BÃ¼rstadt	Stuttgarter Kickers	1:0	2:0	20.10.1984	15:00	1984	1985	11
+Rot-WeiÃ Oberhausen	Hannover 96	1:0	1:1	20.10.1984	15:00	1984	1985	11
+Alemannia Aachen	Hertha BSC	1:0	3:0	20.10.1984	15:00	1984	1985	11
+SG Wattenscheid 09	Hessen Kassel	1:1	3:2	20.10.1984	15:00	1984	1985	11
+SG Union Solingen	FC 08 Homburg	0:1	1:3	20.10.1984	15:00	1984	1985	11
+Kickers Offenbach	SC Freiburg	2:0	2:1	20.10.1984	15:00	1984	1985	11
+Blau-WeiÃ 90 Berlin	MSV Duisburg	1:0	3:0	20.10.1984	15:00	1984	1985	11
+FC St. Pauli	1. FC NÃ¼rnberg	0:0	2:0	20.10.1984	15:00	1984	1985	11
+SSV Ulm 1846	SV Darmstadt 98	1:0	1:1	20.10.1984	15:00	1984	1985	11
+Fortuna KÃ¶ln	Kickers Offenbach	0:1	2:1	27.10.1984	15:00	1984	1985	12
+1. FC NÃ¼rnberg	Rot-WeiÃ Oberhausen	1:0	1:1	27.10.1984	15:00	1984	1985	12
+Hessen Kassel	SSV Ulm 1846	2:0	3:1	27.10.1984	15:00	1984	1985	12
+MSV Duisburg	FC St. Pauli	3:1	3:1	27.10.1984	15:00	1984	1985	12
+SC Freiburg	Blau-WeiÃ 90 Berlin	1:0	2:1	27.10.1984	15:00	1984	1985	12
+FC 08 Homburg	VfR BÃ¼rstadt	1:0	3:1	27.10.1984	15:00	1984	1985	12
+SV Darmstadt 98	SG Union Solingen	3:1	4:2	27.10.1984	15:00	1984	1985	12
+Hertha BSC	SG Wattenscheid 09	2:1	3:1	27.10.1984	15:00	1984	1985	12
+Hannover 96	Alemannia Aachen	1:2	3:3	27.10.1984	15:00	1984	1985	12
+Stuttgarter Kickers	1. FC SaarbrÃ¼cken	0:0	1:0	27.10.1984	15:00	1984	1985	12
+SG Union Solingen	Hessen Kassel	0:1	0:2	03.11.1984	15:00	1984	1985	13
+FC St. Pauli	SC Freiburg	0:2	3:3	03.11.1984	15:00	1984	1985	13
+Rot-WeiÃ Oberhausen	MSV Duisburg	2:1	2:2	03.11.1984	15:00	1984	1985	13
+Alemannia Aachen	1. FC NÃ¼rnberg	1:1	2:1	03.11.1984	15:00	1984	1985	13
+SSV Ulm 1846	Hertha BSC	0:0	0:0	03.11.1984	15:00	1984	1985	13
+VfR BÃ¼rstadt	1. FC SaarbrÃ¼cken	0:1	1:2	03.11.1984	15:00	1984	1985	13
+FC 08 Homburg	SV Darmstadt 98	0:1	0:1	03.11.1984	15:00	1984	1985	13
+Kickers Offenbach	Stuttgarter Kickers	1:0	1:0	03.11.1984	15:00	1984	1985	13
+Blau-WeiÃ 90 Berlin	Fortuna KÃ¶ln	0:0	0:0	03.11.1984	15:00	1984	1985	13
+SG Wattenscheid 09	Hannover 96	1:0	2:0	03.11.1984	15:00	1984	1985	13
+Fortuna KÃ¶ln	FC St. Pauli	1:0	2:0	10.11.1984	15:00	1984	1985	14
+1. FC NÃ¼rnberg	SG Wattenscheid 09	0:0	2:0	10.11.1984	15:00	1984	1985	14
+Hessen Kassel	FC 08 Homburg	1:1	3:2	10.11.1984	15:00	1984	1985	14
+MSV Duisburg	Alemannia Aachen	0:1	0:2	10.11.1984	15:00	1984	1985	14
+SC Freiburg	Rot-WeiÃ Oberhausen	0:0	1:1	10.11.1984	15:00	1984	1985	14
+Stuttgarter Kickers	Blau-WeiÃ 90 Berlin	1:0	1:2	10.11.1984	15:00	1984	1985	14
+1. FC SaarbrÃ¼cken	Kickers Offenbach	4:0	5:0	10.11.1984	15:00	1984	1985	14
+SV Darmstadt 98	VfR BÃ¼rstadt	0:0	1:2	10.11.1984	15:00	1984	1985	14
+Hannover 96	SSV Ulm 1846	0:0	2:0	10.11.1984	15:00	1984	1985	14
+Hertha BSC	SG Union Solingen	1:0	3:2	10.11.1984	15:00	1984	1985	14
+VfR BÃ¼rstadt	Kickers Offenbach	0:1	0:1	11.09.1984	19:30	1984	1985	15
+SSV Ulm 1846	1. FC NÃ¼rnberg	1:1	3:2	11.09.1984	19:30	1984	1985	15
+Rot-WeiÃ Oberhausen	Fortuna KÃ¶ln	1:0	2:0	14.11.1984	19:30	1984	1985	15
+Alemannia Aachen	SC Freiburg	1:0	1:0	14.11.1984	19:30	1984	1985	15
+SG Wattenscheid 09	MSV Duisburg	0:2	2:4	14.11.1984	19:30	1984	1985	15
+SV Darmstadt 98	Hessen Kassel	1:0	1:0	14.11.1984	19:30	1984	1985	15
+Blau-WeiÃ 90 Berlin	1. FC SaarbrÃ¼cken	1:1	2:2	14.11.1984	19:30	1984	1985	15
+SG Union Solingen	Hannover 96	2:1	3:2	14.11.1984	19:30	1984	1985	15
+FC 08 Homburg	Hertha BSC	2:1	3:2	11.01.1985	19:30	1984	1985	15
+FC St. Pauli	Stuttgarter Kickers	0:0	2:0	11.01.1985	19:30	1984	1985	15
+1. FC SaarbrÃ¼cken	FC St. Pauli	2:1	4:1	17.11.1984	15:00	1984	1985	16
+1. FC NÃ¼rnberg	SG Union Solingen	1:0	2:1	17.11.1984	15:00	1984	1985	16
+MSV Duisburg	SSV Ulm 1846	0:0	5:0	17.11.1984	15:00	1984	1985	16
+SC Freiburg	SG Wattenscheid 09	0:1	0:2	17.11.1984	15:00	1984	1985	16
+Stuttgarter Kickers	Rot-WeiÃ Oberhausen	2:0	3:1	17.11.1984	15:00	1984	1985	16
+Hessen Kassel	VfR BÃ¼rstadt	2:1	3:2	17.11.1984	15:00	1984	1985	16
+Kickers Offenbach	Blau-WeiÃ 90 Berlin	1:1	1:1	17.11.1984	15:00	1984	1985	16
+Hertha BSC	SV Darmstadt 98	0:0	0:0	17.11.1984	15:00	1984	1985	16
+Fortuna KÃ¶ln	Alemannia Aachen	0:1	0:1	17.11.1984	15:00	1984	1985	16
+Hannover 96	FC 08 Homburg	0:1	1:1	05.12.1984	19:00	1984	1985	16
+SSV Ulm 1846	SC Freiburg	0:1	1:4	24.11.1984	15:00	1984	1985	17
+Rot-WeiÃ Oberhausen	1. FC SaarbrÃ¼cken	0:1	2:1	24.11.1984	15:00	1984	1985	17
+Alemannia Aachen	Stuttgarter Kickers	0:0	1:1	24.11.1984	15:00	1984	1985	17
+SG Wattenscheid 09	Fortuna KÃ¶ln	2:1	4:1	24.11.1984	15:00	1984	1985	17
+SG Union Solingen	MSV Duisburg	0:1	1:1	24.11.1984	15:00	1984	1985	17
+FC 08 Homburg	1. FC NÃ¼rnberg	0:0	0:1	24.11.1984	15:00	1984	1985	17
+SV Darmstadt 98	Hannover 96	0:1	1:2	24.11.1984	15:00	1984	1985	17
+FC St. Pauli	Kickers Offenbach	0:2	2:2	24.11.1984	15:00	1984	1985	17
+Blau-WeiÃ 90 Berlin	VfR BÃ¼rstadt	0:0	2:0	24.11.1984	15:00	1984	1985	17
+Hessen Kassel	Hertha BSC	0:0	1:1	08.04.1985	19:00	1984	1985	17
+Fortuna KÃ¶ln	SSV Ulm 1846	3:0	3:2	01.12.1984	15:00	1984	1985	18
+1. FC NÃ¼rnberg	SV Darmstadt 98	1:0	2:2	01.12.1984	15:00	1984	1985	18
+VfR BÃ¼rstadt	Hertha BSC	1:0	2:2	01.12.1984	15:00	1984	1985	18
+MSV Duisburg	FC 08 Homburg	0:0	1:0	01.12.1984	15:00	1984	1985	18
+SC Freiburg	SG Union Solingen	0:0	0:0	01.12.1984	15:00	1984	1985	18
+1. FC SaarbrÃ¼cken	Alemannia Aachen	1:0	2:1	01.12.1984	15:00	1984	1985	18
+Kickers Offenbach	Rot-WeiÃ Oberhausen	0:0	2:1	01.12.1984	15:00	1984	1985	18
+Hannover 96	Hessen Kassel	0:1	1:3	01.12.1984	15:00	1984	1985	18
+Blau-WeiÃ 90 Berlin	FC St. Pauli	0:0	1:1	01.12.1984	15:00	1984	1985	18
+Stuttgarter Kickers	SG Wattenscheid 09	2:0	4:0	01.12.1984	15:00	1984	1985	18
+SG Union Solingen	Fortuna KÃ¶ln	2:0	4:1	08.12.1984	15:00	1984	1985	19
+Hessen Kassel	1. FC NÃ¼rnberg	2:0	4:0	08.12.1984	15:00	1984	1985	19
+Rot-WeiÃ Oberhausen	Blau-WeiÃ 90 Berlin	1:3	2:5	08.12.1984	15:00	1984	1985	19
+Alemannia Aachen	Kickers Offenbach	0:0	1:0	08.12.1984	15:00	1984	1985	19
+SSV Ulm 1846	Stuttgarter Kickers	2:0	2:2	08.12.1984	15:00	1984	1985	19
+FC 08 Homburg	SC Freiburg	0:0	0:1	08.12.1984	15:00	1984	1985	19
+SV Darmstadt 98	MSV Duisburg	1:2	1:3	08.12.1984	15:00	1984	1985	19
+Hertha BSC	Hannover 96	1:1	2:2	08.12.1984	15:00	1984	1985	19
+FC St. Pauli	VfR BÃ¼rstadt	1:0	3:0	08.12.1984	15:00	1984	1985	19
+SG Wattenscheid 09	1. FC SaarbrÃ¼cken	1:0	1:2	08.12.1984	15:00	1984	1985	19
+SV Darmstadt 98	SC Freiburg	0:0	0:0	23.04.1985	19:00	1984	1985	20
+Alemannia Aachen	Blau-WeiÃ 90 Berlin	0:1	1:3	23.04.1985	19:00	1984	1985	20
+Hannover 96	VfR BÃ¼rstadt	1:0	3:0	23.04.1985	19:00	1984	1985	20
+Hessen Kassel	MSV Duisburg	1:0	2:0	23.04.1985	19:00	1984	1985	20
+SG Union Solingen	Stuttgarter Kickers	0:0	1:1	23.04.1985	19:00	1984	1985	20
+Rot-WeiÃ Oberhausen	FC St. Pauli	0:0	1:0	23.04.1985	19:00	1984	1985	20
+SG Wattenscheid 09	Kickers Offenbach	1:1	1:1	23.04.1985	19:00	1984	1985	20
+SSV Ulm 1846	1. FC SaarbrÃ¼cken	0:0	0:0	23.04.1985	19:00	1984	1985	20
+FC 08 Homburg	Fortuna KÃ¶ln	3:0	3:0	23.04.1985	19:00	1984	1985	20
+Hertha BSC	1. FC NÃ¼rnberg	0:3	0:3	28.05.1985	19:00	1984	1985	20
+VfR BÃ¼rstadt	Rot-WeiÃ Oberhausen	0:0	1:1	27.04.1985	15:00	1984	1985	21
+FC St. Pauli	Alemannia Aachen	0:0	1:1	27.04.1985	15:00	1984	1985	21
+Blau-WeiÃ 90 Berlin	SG Wattenscheid 09	0:0	0:1	27.04.1985	15:00	1984	1985	21
+1. FC SaarbrÃ¼cken	SG Union Solingen	1:0	3:0	27.04.1985	15:00	1984	1985	21
+SC Freiburg	Hessen Kassel	1:0	2:1	27.04.1985	15:00	1984	1985	21
+Fortuna KÃ¶ln	SV Darmstadt 98	3:1	4:2	27.04.1985	15:00	1984	1985	21
+MSV Duisburg	Hertha BSC	1:0	1:1	27.04.1985	15:00	1984	1985	21
+Kickers Offenbach	SSV Ulm 1846	2:1	2:2	27.04.1985	15:00	1984	1985	21
+Stuttgarter Kickers	FC 08 Homburg	1:0	2:1	28.04.1985	15:00	1984	1985	21
+1. FC NÃ¼rnberg	Hannover 96	1:0	2:0	28.04.1985	15:00	1984	1985	21
+Hessen Kassel	Fortuna KÃ¶ln	0:1	2:1	02.02.1985	15:00	1984	1985	22
+Alemannia Aachen	Rot-WeiÃ Oberhausen	0:1	1:1	02.02.1985	15:00	1984	1985	22
+Hannover 96	MSV Duisburg	0:0	0:0	02.02.1985	15:00	1984	1985	22
+SV Darmstadt 98	Stuttgarter Kickers	1:0	1:0	02.02.1985	15:00	1984	1985	22
+SG Union Solingen	Kickers Offenbach	0:1	2:1	02.02.1985	15:00	1984	1985	22
+SG Wattenscheid 09	FC St. Pauli	1:1	3:1	02.02.1985	15:00	1984	1985	22
+1. FC NÃ¼rnberg	VfR BÃ¼rstadt	2:1	3:1	02.02.1985	15:00	1984	1985	22
+SSV Ulm 1846	Blau-WeiÃ 90 Berlin	3:0	3:3	02.02.1985	15:00	1984	1985	22
+Hertha BSC	SC Freiburg	0:0	0:0	23.02.1985	19:00	1984	1985	22
+FC 08 Homburg	1. FC SaarbrÃ¼cken	1:1	1:2	10.04.1985	19:00	1984	1985	22
+FC St. Pauli	SSV Ulm 1846	0:0	0:0	09.02.1985	15:00	1984	1985	23
+Stuttgarter Kickers	Hessen Kassel	1:0	1:1	09.02.1985	15:00	1984	1985	23
+SC Freiburg	Hannover 96	1:0	1:1	09.02.1985	15:00	1984	1985	23
+MSV Duisburg	1. FC NÃ¼rnberg	0:2	1:3	23.02.1985	19:00	1984	1985	23
+VfR BÃ¼rstadt	Alemannia Aachen	0:0	2:0	23.02.1985	19:00	1984	1985	23
+Rot-WeiÃ Oberhausen	SG Wattenscheid 09	1:0	2:2	23.02.1985	19:00	1984	1985	23
+1. FC SaarbrÃ¼cken	SV Darmstadt 98	2:0	3:0	26.02.1985	19:00	1984	1985	23
+Kickers Offenbach	FC 08 Homburg	0:1	0:2	05.03.1985	19:00	1984	1985	23
+Fortuna KÃ¶ln	Hertha BSC	0:0	1:0	12.03.1985	19:00	1984	1985	23
+Blau-WeiÃ 90 Berlin	SG Union Solingen	0:0	3:0	08.04.1985	19:00	1984	1985	23
+SSV Ulm 1846	Rot-WeiÃ Oberhausen	0:1	0:1	16.02.1985	15:00	1984	1985	24
+1. FC NÃ¼rnberg	SC Freiburg	2:1	2:1	16.02.1985	15:00	1984	1985	24
+Hannover 96	Fortuna KÃ¶ln	2:1	3:2	23.02.1985	19:00	1984	1985	24
+Hessen Kassel	1. FC SaarbrÃ¼cken	2:0	3:0	23.02.1985	19:00	1984	1985	24
+SV Darmstadt 98	Kickers Offenbach	0:0	0:1	23.02.1985	19:00	1984	1985	24
+FC 08 Homburg	Blau-WeiÃ 90 Berlin	0:0	1:1	23.02.1985	19:00	1984	1985	24
+SG Union Solingen	FC St. Pauli	0:3	1:3	23.02.1985	19:00	1984	1985	24
+MSV Duisburg	VfR BÃ¼rstadt	1:1	2:1	05.03.1985	19:00	1984	1985	24
+SG Wattenscheid 09	Alemannia Aachen	1:0	2:2	19.03.1985	19:00	1984	1985	24
+Hertha BSC	Stuttgarter Kickers	1:1	1:3	26.03.1985	19:00	1984	1985	24
+Alemannia Aachen	SSV Ulm 1846	1:1	2:2	02.03.1985	15:00	1984	1985	25
+Rot-WeiÃ Oberhausen	SG Union Solingen	1:0	5:1	02.03.1985	15:00	1984	1985	25
+Kickers Offenbach	Hessen Kassel	0:0	0:1	02.03.1985	15:00	1984	1985	25
+Fortuna KÃ¶ln	1. FC NÃ¼rnberg	1:0	2:0	02.03.1985	15:00	1984	1985	25
+Stuttgarter Kickers	Hannover 96	1:0	1:1	02.03.1985	15:00	1984	1985	25
+Blau-WeiÃ 90 Berlin	SV Darmstadt 98	1:1	3:1	12.03.1985	19:00	1984	1985	25
+FC St. Pauli	FC 08 Homburg	1:0	3:0	06.04.1985	19:00	1984	1985	25
+SC Freiburg	MSV Duisburg	1:2	2:2	08.04.1985	15:00	1984	1985	25
+VfR BÃ¼rstadt	SG Wattenscheid 09	1:1	1:2	09.04.1985	15:00	1984	1985	25
+1. FC SaarbrÃ¼cken	Hertha BSC	0:0	0:0	14.05.1985	19:00	1984	1985	25
+Hannover 96	1. FC SaarbrÃ¼cken	1:1	3:1	09.03.1985	15:00	1984	1985	26
+FC 08 Homburg	Rot-WeiÃ Oberhausen	0:0	1:3	09.03.1985	15:00	1984	1985	26
+SG Union Solingen	Alemannia Aachen	0:0	3:1	09.03.1985	15:00	1984	1985	26
+SSV Ulm 1846	SG Wattenscheid 09	3:1	3:3	09.03.1985	15:00	1984	1985	26
+1. FC NÃ¼rnberg	Stuttgarter Kickers	3:0	3:0	09.03.1985	15:00	1984	1985	26
+SC Freiburg	VfR BÃ¼rstadt	2:1	2:1	09.03.1985	15:00	1984	1985	26
+Hertha BSC	Kickers Offenbach	0:1	0:1	09.03.1985	15:00	1984	1985	26
+Hessen Kassel	Blau-WeiÃ 90 Berlin	1:1	1:4	09.03.1985	15:00	1984	1985	26
+SV Darmstadt 98	FC St. Pauli	2:0	3:1	09.03.1985	15:00	1984	1985	26
+MSV Duisburg	Fortuna KÃ¶ln	4:0	5:0	09.03.1985	15:00	1984	1985	26
+VfR BÃ¼rstadt	SSV Ulm 1846	1:0	2:0	16.03.1985	15:00	1984	1985	27
+Stuttgarter Kickers	MSV Duisburg	0:0	2:1	16.03.1985	15:00	1984	1985	27
+Fortuna KÃ¶ln	SC Freiburg	0:0	0:0	16.03.1985	15:00	1984	1985	27
+SG Wattenscheid 09	SG Union Solingen	0:1	0:1	16.03.1985	15:00	1984	1985	27
+Alemannia Aachen	FC 08 Homburg	1:0	3:1	16.03.1985	15:00	1984	1985	27
+Rot-WeiÃ Oberhausen	SV Darmstadt 98	0:1	1:3	16.03.1985	15:00	1984	1985	27
+Kickers Offenbach	Hannover 96	2:1	3:3	16.03.1985	15:00	1984	1985	27
+FC St. Pauli	Hessen Kassel	0:1	1:2	16.03.1985	15:00	1984	1985	27
+Blau-WeiÃ 90 Berlin	Hertha BSC	0:1	0:2	16.03.1985	15:00	1984	1985	27
+1. FC SaarbrÃ¼cken	1. FC NÃ¼rnberg	0:1	3:2	30.04.1985	19:00	1984	1985	27
+SG Union Solingen	SSV Ulm 1846	1:0	2:0	23.03.1985	15:00	1984	1985	28
+Fortuna KÃ¶ln	VfR BÃ¼rstadt	0:0	2:0	23.03.1985	15:00	1984	1985	28
+Hessen Kassel	Rot-WeiÃ Oberhausen	0:0	1:0	23.03.1985	15:00	1984	1985	28
+SV Darmstadt 98	Alemannia Aachen	1:1	3:1	23.03.1985	15:00	1984	1985	28
+FC 08 Homburg	SG Wattenscheid 09	0:0	2:0	23.03.1985	15:00	1984	1985	28
+MSV Duisburg	1. FC SaarbrÃ¼cken	0:0	2:0	23.03.1985	15:00	1984	1985	28
+1. FC NÃ¼rnberg	Kickers Offenbach	0:0	0:0	23.03.1985	15:00	1984	1985	28
+Hertha BSC	FC St. Pauli	0:1	1:1	23.03.1985	15:00	1984	1985	28
+Hannover 96	Blau-WeiÃ 90 Berlin	2:0	2:1	23.03.1985	15:00	1984	1985	28
+SC Freiburg	Stuttgarter Kickers	1:0	1:0	23.03.1985	15:00	1984	1985	28
+VfR BÃ¼rstadt	SG Union Solingen	1:0	3:0	30.03.1985	15:00	1984	1985	29
+Blau-WeiÃ 90 Berlin	1. FC NÃ¼rnberg	0:1	0:2	30.03.1985	15:00	1984	1985	29
+Kickers Offenbach	MSV Duisburg	0:0	0:0	30.03.1985	15:00	1984	1985	29
+Stuttgarter Kickers	Fortuna KÃ¶ln	1:0	1:1	30.03.1985	15:00	1984	1985	29
+SSV Ulm 1846	FC 08 Homburg	0:0	0:0	30.03.1985	15:00	1984	1985	29
+SG Wattenscheid 09	SV Darmstadt 98	2:2	2:2	30.03.1985	15:00	1984	1985	29
+Rot-WeiÃ Oberhausen	Hertha BSC	1:0	5:1	30.03.1985	15:00	1984	1985	29
+FC St. Pauli	Hannover 96	0:0	1:1	30.03.1985	15:00	1984	1985	29
+Alemannia Aachen	Hessen Kassel	1:0	3:0	30.03.1985	15:00	1984	1985	29
+1. FC SaarbrÃ¼cken	SC Freiburg	0:0	3:0	30.03.1985	15:00	1984	1985	29
+SV Darmstadt 98	SSV Ulm 1846	0:0	2:0	03.04.1985	19:30	1984	1985	30
+Hannover 96	Rot-WeiÃ Oberhausen	1:1	5:3	03.04.1985	19:30	1984	1985	30
+Hertha BSC	Alemannia Aachen	0:0	0:0	03.04.1985	19:30	1984	1985	30
+Hessen Kassel	SG Wattenscheid 09	1:1	5:1	03.04.1985	19:30	1984	1985	30
+Fortuna KÃ¶ln	1. FC SaarbrÃ¼cken	0:1	1:2	03.04.1985	19:30	1984	1985	30
+SC Freiburg	Kickers Offenbach	1:0	2:0	03.04.1985	19:30	1984	1985	30
+1. FC NÃ¼rnberg	FC St. Pauli	1:1	2:1	03.04.1985	19:30	1984	1985	30
+MSV Duisburg	Blau-WeiÃ 90 Berlin	1:1	1:1	03.04.1985	19:30	1984	1985	30
+FC 08 Homburg	SG Union Solingen	2:1	4:3	03.04.1985	19:30	1984	1985	30
+Stuttgarter Kickers	VfR BÃ¼rstadt	2:0	2:0	04.04.1985	19:30	1984	1985	30
+VfR BÃ¼rstadt	FC 08 Homburg	1:0	1:0	13.04.1985	15:00	1984	1985	31
+FC St. Pauli	MSV Duisburg	0:0	1:0	13.04.1985	15:00	1984	1985	31
+Blau-WeiÃ 90 Berlin	SC Freiburg	0:0	3:0	13.04.1985	15:00	1984	1985	31
+1. FC SaarbrÃ¼cken	Stuttgarter Kickers	1:0	1:0	13.04.1985	15:00	1984	1985	31
+SSV Ulm 1846	Hessen Kassel	0:1	0:1	13.04.1985	15:00	1984	1985	31
+SG Wattenscheid 09	Hertha BSC	1:0	3:0	13.04.1985	15:00	1984	1985	31
+Kickers Offenbach	Fortuna KÃ¶ln	1:3	2:4	13.04.1985	15:00	1984	1985	31
+Alemannia Aachen	Hannover 96	1:0	1:1	16.04.1985	19:00	1984	1985	31
+SG Union Solingen	SV Darmstadt 98	0:0	1:3	30.04.1985	19:00	1984	1985	31
+Rot-WeiÃ Oberhausen	1. FC NÃ¼rnberg	0:0	2:1	14.05.1985	19:00	1984	1985	31
+Hertha BSC	SSV Ulm 1846	1:0	5:1	20.04.1985	15:00	1984	1985	32
+MSV Duisburg	Rot-WeiÃ Oberhausen	1:1	2:1	20.04.1985	15:00	1984	1985	32
+1. FC NÃ¼rnberg	Alemannia Aachen	1:0	2:1	20.04.1985	15:00	1984	1985	32
+Hannover 96	SG Wattenscheid 09	2:0	3:2	20.04.1985	15:00	1984	1985	32
+Hessen Kassel	SG Union Solingen	4:0	6:0	20.04.1985	15:00	1984	1985	32
+SV Darmstadt 98	FC 08 Homburg	1:0	1:1	20.04.1985	15:00	1984	1985	32
+Stuttgarter Kickers	Kickers Offenbach	1:1	3:2	20.04.1985	15:00	1984	1985	32
+SC Freiburg	FC St. Pauli	1:0	1:2	20.04.1985	15:00	1984	1985	32
+1. FC SaarbrÃ¼cken	VfR BÃ¼rstadt	0:0	1:0	20.04.1985	15:00	1984	1985	32
+Fortuna KÃ¶ln	Blau-WeiÃ 90 Berlin	1:0	1:0	20.04.1985	15:00	1984	1985	32
+FC St. Pauli	Fortuna KÃ¶ln	1:0	1:1	04.05.1985	15:00	1984	1985	33
+FC 08 Homburg	Hessen Kassel	0:0	0:0	04.05.1985	15:00	1984	1985	33
+SG Wattenscheid 09	1. FC NÃ¼rnberg	0:0	1:3	04.05.1985	15:00	1984	1985	33
+Alemannia Aachen	MSV Duisburg	1:0	4:0	04.05.1985	15:00	1984	1985	33
+Rot-WeiÃ Oberhausen	SC Freiburg	0:1	1:2	04.05.1985	15:00	1984	1985	33
+Kickers Offenbach	1. FC SaarbrÃ¼cken	0:1	1:3	04.05.1985	15:00	1984	1985	33
+VfR BÃ¼rstadt	SV Darmstadt 98	0:0	0:2	04.05.1985	15:00	1984	1985	33
+SSV Ulm 1846	Hannover 96	1:2	1:4	04.05.1985	15:00	1984	1985	33
+SG Union Solingen	Hertha BSC	1:0	3:0	04.05.1985	15:00	1984	1985	33
+Blau-WeiÃ 90 Berlin	Stuttgarter Kickers	1:0	2:0	04.05.1985	15:00	1984	1985	33
+Hannover 96	SG Union Solingen	1:1	2:2	11.05.1985	15:00	1984	1985	34
+Kickers Offenbach	VfR BÃ¼rstadt	1:0	1:1	11.05.1985	15:00	1984	1985	34
+Fortuna KÃ¶ln	Rot-WeiÃ Oberhausen	0:1	4:1	11.05.1985	15:00	1984	1985	34
+SC Freiburg	Alemannia Aachen	0:0	2:1	11.05.1985	15:00	1984	1985	34
+1. FC NÃ¼rnberg	SSV Ulm 1846	1:1	3:2	11.05.1985	15:00	1984	1985	34
+Hertha BSC	FC 08 Homburg	0:2	3:3	11.05.1985	15:00	1984	1985	34
+Hessen Kassel	SV Darmstadt 98	0:0	2:0	11.05.1985	15:00	1984	1985	34
+1. FC SaarbrÃ¼cken	Blau-WeiÃ 90 Berlin	1:0	1:2	11.05.1985	15:00	1984	1985	34
+Stuttgarter Kickers	FC St. Pauli	2:0	3:0	11.05.1985	15:00	1984	1985	34
+MSV Duisburg	SG Wattenscheid 09	0:0	1:1	11.05.1985	15:00	1984	1985	34
+Alemannia Aachen	Fortuna KÃ¶ln	0:0	1:0	18.05.1985	15:00	1984	1985	35
+SG Union Solingen	1. FC NÃ¼rnberg	0:0	2:1	18.05.1985	15:00	1984	1985	35
+VfR BÃ¼rstadt	Hessen Kassel	1:0	2:1	18.05.1985	15:00	1984	1985	35
+SSV Ulm 1846	MSV Duisburg	0:2	2:3	18.05.1985	15:00	1984	1985	35
+SG Wattenscheid 09	SC Freiburg	2:1	2:3	18.05.1985	15:00	1984	1985	35
+FC St. Pauli	1. FC SaarbrÃ¼cken	0:0	1:0	18.05.1985	15:00	1984	1985	35
+Blau-WeiÃ 90 Berlin	Kickers Offenbach	1:0	2:1	18.05.1985	15:00	1984	1985	35
+FC 08 Homburg	Hannover 96	2:0	3:3	18.05.1985	15:00	1984	1985	35
+SV Darmstadt 98	Hertha BSC	0:1	2:1	18.05.1985	15:00	1984	1985	35
+Rot-WeiÃ Oberhausen	Stuttgarter Kickers	0:0	0:0	18.05.1985	15:00	1984	1985	35
+Hertha BSC	Hessen Kassel	1:0	1:1	01.05.1985	15:00	1984	1985	36
+MSV Duisburg	SG Union Solingen	0:2	0:2	25.05.1985	15:00	1984	1985	36
+1. FC SaarbrÃ¼cken	Rot-WeiÃ Oberhausen	0:0	0:1	25.05.1985	15:00	1984	1985	36
+Stuttgarter Kickers	Alemannia Aachen	0:0	1:1	25.05.1985	15:00	1984	1985	36
+SC Freiburg	SSV Ulm 1846	1:0	2:0	25.05.1985	15:00	1984	1985	36
+1. FC NÃ¼rnberg	FC 08 Homburg	1:0	3:0	25.05.1985	15:00	1984	1985	36
+Hannover 96	SV Darmstadt 98	1:0	4:1	25.05.1985	15:00	1984	1985	36
+VfR BÃ¼rstadt	Blau-WeiÃ 90 Berlin	0:0	0:0	25.05.1985	15:00	1984	1985	36
+Kickers Offenbach	FC St. Pauli	0:0	0:0	25.05.1985	15:00	1984	1985	36
+Fortuna KÃ¶ln	SG Wattenscheid 09	2:1	2:1	25.05.1985	15:00	1984	1985	36
+SG Wattenscheid 09	Stuttgarter Kickers	1:2	2:4	02.06.1985	15:00	1984	1985	37
+SV Darmstadt 98	1. FC NÃ¼rnberg	0:0	0:4	02.06.1985	15:00	1984	1985	37
+FC 08 Homburg	MSV Duisburg	2:0	3:0	02.06.1985	15:00	1984	1985	37
+Hertha BSC	VfR BÃ¼rstadt	1:0	1:1	02.06.1985	15:00	1984	1985	37
+SSV Ulm 1846	Fortuna KÃ¶ln	3:2	4:4	02.06.1985	15:00	1984	1985	37
+Rot-WeiÃ Oberhausen	Kickers Offenbach	1:0	2:1	02.06.1985	15:00	1984	1985	37
+FC St. Pauli	Blau-WeiÃ 90 Berlin	1:0	1:0	02.06.1985	15:00	1984	1985	37
+Hessen Kassel	Hannover 96	2:2	2:2	02.06.1985	15:00	1984	1985	37
+SG Union Solingen	SC Freiburg	1:0	3:1	02.06.1985	15:00	1984	1985	37
+Alemannia Aachen	1. FC SaarbrÃ¼cken	1:0	1:1	02.06.1985	15:00	1984	1985	37
+Fortuna KÃ¶ln	SG Union Solingen	0:0	1:2	09.06.1985	15:00	1984	1985	38
+Blau-WeiÃ 90 Berlin	Rot-WeiÃ Oberhausen	3:2	6:4	09.06.1985	15:00	1984	1985	38
+Kickers Offenbach	Alemannia Aachen	1:0	1:0	09.06.1985	15:00	1984	1985	38
+Stuttgarter Kickers	SSV Ulm 1846	0:0	2:0	09.06.1985	15:00	1984	1985	38
+SC Freiburg	FC 08 Homburg	0:1	0:2	09.06.1985	15:00	1984	1985	38
+MSV Duisburg	SV Darmstadt 98	1:0	3:1	09.06.1985	15:00	1984	1985	38
+Hannover 96	Hertha BSC	1:0	2:0	09.06.1985	15:00	1984	1985	38
+VfR BÃ¼rstadt	FC St. Pauli	0:0	1:1	09.06.1985	15:00	1984	1985	38
+1. FC NÃ¼rnberg	Hessen Kassel	0:0	2:0	09.06.1985	15:00	1984	1985	38
+1. FC SaarbrÃ¼cken	SG Wattenscheid 09	1:1	2:1	09.06.1985	15:00	1984	1985	38

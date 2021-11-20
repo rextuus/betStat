@@ -1,0 +1,380 @@
+Leeds United	Southampton FC	0:0	2:0	18.08.2001	16:00	2001	2002	1
+Derby County	Blackburn Rovers	1:0	2:1	18.08.2001	16:00	2001	2002	1
+Sunderland AFC	Ipswich Town	1:0	1:0	18.08.2001	16:00	2001	2002	1
+Leicester City	Bolton Wanderers	0:4	0:5	18.08.2001	16:00	2001	2002	1
+Liverpool FC	West Ham United	1:1	2:1	18.08.2001	16:00	2001	2002	1
+Charlton Athletic	Everton FC	0:0	1:2	18.08.2001	16:00	2001	2002	1
+Tottenham Hotspur	Aston Villa	0:0	0:0	18.08.2001	16:00	2001	2002	1
+Middlesbrough FC	Arsenal FC	0:1	0:4	18.08.2001	16:00	2001	2002	1
+Chelsea FC	Newcastle United	1:0	1:1	19.08.2001	15:00	2001	2002	1
+Manchester United	Fulham FC	1:1	3:2	19.08.2001	17:00	2001	2002	1
+Everton FC	Tottenham Hotspur	0:1	1:1	20.08.2001	21:00	2001	2002	2
+Bolton Wanderers	Middlesbrough FC	1:0	1:0	21.08.2001	20:45	2001	2002	2
+Ipswich Town	Derby County	1:0	3:1	21.08.2001	20:45	2001	2002	2
+Arsenal FC	Leeds United	1:1	1:2	21.08.2001	21:00	2001	2002	2
+Fulham FC	Sunderland AFC	0:0	2:0	22.08.2001	20:45	2001	2002	2
+Blackburn Rovers	Manchester United	0:1	2:2	22.08.2001	21:00	2001	2002	2
+Newcastle United	Leicester City	1:0	1:0	26.09.2001	20:45	2001	2002	2
+Aston Villa	Charlton Athletic	1:0	1:0	24.10.2001	20:45	2001	2002	2
+West Ham United	Chelsea FC	2:1	2:1	24.10.2001	20:45	2001	2002	2
+Southampton FC	Liverpool FC	0:0	2:0	09.01.2002	21:00	2001	2002	2
+Blackburn Rovers	Tottenham Hotspur	1:0	2:1	25.08.2001	16:00	2001	2002	3
+Arsenal FC	Leicester City	2:0	4:0	25.08.2001	16:00	2001	2002	3
+Fulham FC	Derby County	0:0	0:0	25.08.2001	16:00	2001	2002	3
+Everton FC	Middlesbrough FC	1:0	2:0	25.08.2001	16:00	2001	2002	3
+Ipswich Town	Charlton Athletic	0:0	0:1	25.08.2001	16:00	2001	2002	3
+Southampton FC	Chelsea FC	0:1	0:2	25.08.2001	16:00	2001	2002	3
+West Ham United	Leeds United	0:0	0:0	25.08.2001	16:00	2001	2002	3
+Aston Villa	Manchester United	1:0	1:1	26.08.2001	15:00	2001	2002	3
+Newcastle United	Sunderland AFC	1:1	1:1	26.08.2001	17:00	2001	2002	3
+Bolton Wanderers	Liverpool FC	1:0	2:1	27.08.2001	21:00	2001	2002	3
+Leeds United	Bolton Wanderers	0:0	0:0	08.09.2001	16:00	2001	2002	4
+Manchester United	Everton FC	2:0	4:1	08.09.2001	16:00	2001	2002	4
+Chelsea FC	Arsenal FC	1:1	1:1	08.09.2001	16:00	2001	2002	4
+Derby County	West Ham United	0:0	0:0	08.09.2001	16:00	2001	2002	4
+Sunderland AFC	Blackburn Rovers	0:0	1:0	08.09.2001	16:00	2001	2002	4
+Leicester City	Ipswich Town	0:1	1:1	08.09.2001	16:00	2001	2002	4
+Liverpool FC	Aston Villa	0:1	1:3	08.09.2001	16:00	2001	2002	4
+Middlesbrough FC	Newcastle United	1:1	1:4	08.09.2001	16:00	2001	2002	4
+Tottenham Hotspur	Southampton FC	0:0	2:0	09.09.2001	15:00	2001	2002	4
+Charlton Athletic	Fulham FC	1:1	1:1	09.09.2001	17:00	2001	2002	4
+Everton FC	Liverpool FC	1:2	1:3	15.09.2001	13:00	2001	2002	5
+Derby County	Leicester City	1:1	2:3	15.09.2001	16:00	2001	2002	5
+Bolton Wanderers	Southampton FC	0:0	0:1	15.09.2001	16:00	2001	2002	5
+Newcastle United	Manchester United	2:1	4:3	15.09.2001	16:00	2001	2002	5
+Fulham FC	Arsenal FC	0:1	1:3	15.09.2001	16:00	2001	2002	5
+Middlesbrough FC	West Ham United	2:0	2:0	15.09.2001	16:00	2001	2002	5
+Tottenham Hotspur	Chelsea FC	0:1	2:3	16.09.2001	15:00	2001	2002	5
+Charlton Athletic	Leeds United	0:1	0:2	16.09.2001	15:00	2001	2002	5
+Aston Villa	Sunderland AFC	0:0	0:0	16.09.2001	16:00	2001	2002	5
+Ipswich Town	Blackburn Rovers	1:0	1:1	16.09.2001	17:00	2001	2002	5
+Leicester City	Middlesbrough FC	1:0	1:2	17.09.2001	21:00	2001	2002	6
+Blackburn Rovers	Bolton Wanderers	0:0	1:1	19.09.2001	20:45	2001	2002	6
+Sunderland AFC	Tottenham Hotspur	0:1	1:2	19.09.2001	21:00	2001	2002	6
+Southampton FC	Ipswich Town	2:1	3:3	24.10.2001	20:45	2001	2002	6
+Chelsea FC	Charlton Athletic	0:0	0:1	05.12.2001	20:45	2001	2002	6
+West Ham United	Aston Villa	0:1	1:1	05.12.2001	20:45	2001	2002	6
+Liverpool FC	Fulham FC	0:0	0:0	12.12.2001	21:00	2001	2002	6
+Manchester United	Derby County	2:0	5:0	12.12.2001	21:00	2001	2002	6
+Arsenal FC	Newcastle United	1:0	1:3	18.12.2001	21:00	2001	2002	6
+Leeds United	Everton FC	2:0	3:2	19.12.2001	20:45	2001	2002	6
+Liverpool FC	Tottenham Hotspur	0:0	1:0	22.09.2001	16:00	2001	2002	7
+Arsenal FC	Bolton Wanderers	0:0	1:1	22.09.2001	16:00	2001	2002	7
+Blackburn Rovers	Everton FC	1:0	1:0	22.09.2001	16:00	2001	2002	7
+Leicester City	Fulham FC	0:0	0:0	22.09.2001	16:00	2001	2002	7
+Sunderland AFC	Charlton Athletic	0:1	2:2	22.09.2001	16:00	2001	2002	7
+Manchester United	Ipswich Town	2:0	4:0	22.09.2001	16:00	2001	2002	7
+Chelsea FC	Middlesbrough FC	2:0	2:2	23.09.2001	15:00	2001	2002	7
+Leeds United	Derby County	1:0	3:0	23.09.2001	15:00	2001	2002	7
+West Ham United	Newcastle United	1:0	3:0	23.09.2001	17:00	2001	2002	7
+Southampton FC	Aston Villa	1:2	1:3	24.09.2001	21:00	2001	2002	7
+Derby County	Arsenal FC	0:1	0:2	29.09.2001	16:00	2001	2002	8
+Tottenham Hotspur	Manchester United	3:0	3:5	29.09.2001	16:00	2001	2002	8
+Bolton Wanderers	Sunderland AFC	0:0	0:2	29.09.2001	16:00	2001	2002	8
+Charlton Athletic	Leicester City	1:0	2:0	29.09.2001	16:00	2001	2002	8
+Everton FC	West Ham United	1:0	5:0	29.09.2001	16:00	2001	2002	8
+Middlesbrough FC	Southampton FC	0:0	1:3	29.09.2001	16:00	2001	2002	8
+Fulham FC	Chelsea FC	0:1	1:1	30.09.2001	13:00	2001	2002	8
+Newcastle United	Liverpool FC	0:1	0:2	30.09.2001	15:00	2001	2002	8
+Aston Villa	Blackburn Rovers	0:0	2:0	30.09.2001	16:00	2001	2002	8
+Ipswich Town	Leeds United	1:0	1:2	30.09.2001	17:00	2001	2002	8
+Liverpool FC	Leeds United	0:1	1:1	13.10.2001	13:00	2001	2002	9
+Bolton Wanderers	Newcastle United	0:1	0:4	13.10.2001	16:00	2001	2002	9
+Southampton FC	Arsenal FC	0:1	0:2	13.10.2001	16:00	2001	2002	9
+Charlton Athletic	Middlesbrough FC	0:0	0:0	13.10.2001	16:00	2001	2002	9
+Chelsea FC	Leicester City	2:0	2:0	13.10.2001	16:00	2001	2002	9
+Ipswich Town	Everton FC	0:0	0:0	13.10.2001	16:00	2001	2002	9
+Sunderland AFC	Manchester United	0:1	1:3	13.10.2001	16:00	2001	2002	9
+Blackburn Rovers	West Ham United	3:1	7:1	14.10.2001	15:00	2001	2002	9
+Aston Villa	Fulham FC	0:0	2:0	14.10.2001	17:00	2001	2002	9
+Tottenham Hotspur	Derby County	2:1	3:1	15.10.2001	21:00	2001	2002	9
+Everton FC	Aston Villa	0:0	3:2	20.10.2001	16:00	2001	2002	10
+Manchester United	Bolton Wanderers	1:1	1:2	20.10.2001	16:00	2001	2002	10
+Arsenal FC	Blackburn Rovers	0:1	3:3	20.10.2001	16:00	2001	2002	10
+Derby County	Charlton Athletic	1:0	1:1	20.10.2001	16:00	2001	2002	10
+Leicester City	Liverpool FC	0:3	1:4	20.10.2001	16:00	2001	2002	10
+West Ham United	Southampton FC	0:0	2:0	20.10.2001	16:00	2001	2002	10
+Fulham FC	Ipswich Town	1:0	1:1	21.10.2001	14:00	2001	2002	10
+Newcastle United	Tottenham Hotspur	0:2	0:2	21.10.2001	15:00	2001	2002	10
+Leeds United	Chelsea FC	0:0	0:0	21.10.2001	17:00	2001	2002	10
+Middlesbrough FC	Sunderland AFC	2:0	2:0	22.10.2001	21:00	2001	2002	10
+Manchester United	Leeds United	0:0	1:1	27.10.2001	13:00	2001	2002	11
+Tottenham Hotspur	Middlesbrough FC	0:1	2:1	27.10.2001	16:00	2001	2002	11
+Aston Villa	Bolton Wanderers	2:1	3:2	27.10.2001	16:00	2001	2002	11
+Charlton Athletic	Liverpool FC	0:2	0:2	27.10.2001	16:00	2001	2002	11
+Everton FC	Newcastle United	0:1	1:3	27.10.2001	16:00	2001	2002	11
+Fulham FC	Southampton FC	2:1	2:1	27.10.2001	16:00	2001	2002	11
+Sunderland AFC	Arsenal FC	0:1	1:1	27.10.2001	16:00	2001	2002	11
+Ipswich Town	West Ham United	0:1	2:3	28.10.2001	15:00	2001	2002	11
+Derby County	Chelsea FC	1:0	1:1	28.10.2001	17:00	2001	2002	11
+Blackburn Rovers	Leicester City	0:0	0:0	29.10.2001	21:00	2001	2002	11
+Leicester City	Sunderland AFC	0:0	1:0	03.11.2001	13:00	2001	2002	12
+Bolton Wanderers	Everton FC	1:1	2:2	03.11.2001	16:00	2001	2002	12
+West Ham United	Fulham FC	0:1	0:2	03.11.2001	16:00	2001	2002	12
+Middlesbrough FC	Derby County	0:0	5:1	03.11.2001	16:00	2001	2002	12
+Newcastle United	Aston Villa	1:0	3:0	03.11.2001	16:00	2001	2002	12
+Southampton FC	Blackburn Rovers	1:1	1:2	03.11.2001	16:00	2001	2002	12
+Liverpool FC	Manchester United	2:0	3:1	04.11.2001	12:30	2001	2002	12
+Leeds United	Tottenham Hotspur	0:0	2:1	04.11.2001	13:00	2001	2002	12
+Chelsea FC	Ipswich Town	1:0	2:1	04.11.2001	15:00	2001	2002	12
+Arsenal FC	Charlton Athletic	1:2	2:4	04.11.2001	15:00	2001	2002	12
+Blackburn Rovers	Liverpool FC	0:1	1:1	17.11.2001	13:00	2001	2002	13
+Derby County	Southampton FC	1:0	1:0	17.11.2001	16:00	2001	2002	13
+Tottenham Hotspur	Arsenal FC	0:0	1:1	17.11.2001	16:00	2001	2002	13
+Aston Villa	Middlesbrough FC	0:0	0:0	17.11.2001	16:00	2001	2002	13
+Manchester United	Leicester City	1:0	2:0	17.11.2001	16:00	2001	2002	13
+Fulham FC	Newcastle United	2:0	3:1	17.11.2001	16:00	2001	2002	13
+Everton FC	Chelsea FC	0:0	0:0	18.11.2001	15:00	2001	2002	13
+Sunderland AFC	Leeds United	0:0	2:0	18.11.2001	16:00	2001	2002	13
+Ipswich Town	Bolton Wanderers	1:2	1:2	18.11.2001	17:00	2001	2002	13
+Charlton Athletic	West Ham United	2:2	4:4	19.11.2001	21:00	2001	2002	13
+Chelsea FC	Blackburn Rovers	0:0	0:0	24.11.2001	16:00	2001	2002	14
+Bolton Wanderers	Fulham FC	0:0	0:0	24.11.2001	16:00	2001	2002	14
+West Ham United	Tottenham Hotspur	0:0	0:1	24.11.2001	16:00	2001	2002	14
+Leicester City	Everton FC	0:0	0:0	24.11.2001	16:00	2001	2002	14
+Newcastle United	Derby County	1:0	1:0	24.11.2001	16:00	2001	2002	14
+Southampton FC	Charlton Athletic	0:0	1:0	24.11.2001	16:00	2001	2002	14
+Liverpool FC	Sunderland AFC	1:0	1:0	25.11.2001	15:00	2001	2002	14
+Leeds United	Aston Villa	1:1	1:1	25.11.2001	16:00	2001	2002	14
+Middlesbrough FC	Ipswich Town	0:0	0:0	25.11.2001	16:00	2001	2002	14
+Arsenal FC	Manchester United	0:1	3:1	25.11.2001	17:00	2001	2002	14
+Manchester United	Chelsea FC	0:1	0:3	01.12.2001	13:00	2001	2002	15
+Derby County	Liverpool FC	0:1	0:1	01.12.2001	16:00	2001	2002	15
+Aston Villa	Leicester City	0:1	0:2	01.12.2001	16:00	2001	2002	15
+Blackburn Rovers	Middlesbrough FC	0:1	0:1	01.12.2001	16:00	2001	2002	15
+Charlton Athletic	Newcastle United	0:0	1:1	01.12.2001	16:00	2001	2002	15
+Ipswich Town	Arsenal FC	0:1	0:2	01.12.2001	16:00	2001	2002	15
+Sunderland AFC	West Ham United	0:0	1:0	01.12.2001	16:00	2001	2002	15
+Fulham FC	Leeds United	0:0	0:0	02.12.2001	15:00	2001	2002	15
+Everton FC	Southampton FC	0:0	2:0	02.12.2001	17:00	2001	2002	15
+Tottenham Hotspur	Bolton Wanderers	0:1	3:2	03.12.2001	21:00	2001	2002	15
+Derby County	Bolton Wanderers	0:0	1:0	08.12.2001	16:00	2001	2002	16
+Manchester United	West Ham United	0:0	0:1	08.12.2001	16:00	2001	2002	16
+Charlton Athletic	Tottenham Hotspur	2:0	3:1	08.12.2001	16:00	2001	2002	16
+Leicester City	Southampton FC	0:1	0:4	08.12.2001	16:00	2001	2002	16
+Liverpool FC	Middlesbrough FC	2:0	2:0	08.12.2001	16:00	2001	2002	16
+Fulham FC	Everton FC	1:0	2:0	08.12.2001	16:00	2001	2002	16
+Blackburn Rovers	Leeds United	0:0	1:2	09.12.2001	14:00	2001	2002	16
+Sunderland AFC	Chelsea FC	0:0	0:0	09.12.2001	15:00	2001	2002	16
+Ipswich Town	Newcastle United	0:1	0:1	09.12.2001	16:00	2001	2002	16
+Arsenal FC	Aston Villa	0:2	3:2	09.12.2001	17:00	2001	2002	16
+Newcastle United	Blackburn Rovers	0:1	2:1	15.12.2001	16:00	2001	2002	17
+Bolton Wanderers	Charlton Athletic	0:0	0:0	15.12.2001	16:00	2001	2002	17
+West Ham United	Arsenal FC	1:1	1:1	15.12.2001	16:00	2001	2002	17
+Everton FC	Derby County	0:0	1:0	15.12.2001	16:00	2001	2002	17
+Middlesbrough FC	Manchester United	0:0	0:1	15.12.2001	16:00	2001	2002	17
+Southampton FC	Sunderland AFC	1:0	2:0	15.12.2001	16:00	2001	2002	17
+Tottenham Hotspur	Fulham FC	2:0	4:0	15.12.2001	16:00	2001	2002	17
+Leeds United	Leicester City	1:0	2:2	16.12.2001	15:00	2001	2002	17
+Chelsea FC	Liverpool FC	2:0	4:0	16.12.2001	17:00	2001	2002	17
+Aston Villa	Ipswich Town	1:1	2:1	17.12.2001	21:00	2001	2002	17
+Derby County	Aston Villa	1:1	3:1	22.12.2001	13:00	2001	2002	18
+Leeds United	Newcastle United	1:1	3:4	22.12.2001	16:00	2001	2002	18
+Manchester United	Southampton FC	3:0	6:1	22.12.2001	16:00	2001	2002	18
+Sunderland AFC	Everton FC	0:0	1:0	22.12.2001	16:00	2001	2002	18
+Leicester City	West Ham United	1:0	1:1	22.12.2001	16:00	2001	2002	18
+Charlton Athletic	Blackburn Rovers	0:0	0:2	22.12.2001	16:00	2001	2002	18
+Tottenham Hotspur	Ipswich Town	1:1	1:2	22.12.2001	16:00	2001	2002	18
+Chelsea FC	Bolton Wanderers	2:1	5:1	23.12.2001	15:00	2001	2002	18
+Liverpool FC	Arsenal FC	0:1	1:2	23.12.2001	17:00	2001	2002	18
+Middlesbrough FC	Fulham FC	1:0	2:1	19.02.2002	20:45	2001	2002	18
+Arsenal FC	Chelsea FC	0:1	2:1	26.12.2001	13:00	2001	2002	19
+Fulham FC	Charlton Athletic	0:0	0:0	26.12.2001	13:00	2001	2002	19
+Bolton Wanderers	Leeds United	0:2	0:3	26.12.2001	13:00	2001	2002	19
+Southampton FC	Tottenham Hotspur	0:0	1:0	26.12.2001	13:00	2001	2002	19
+West Ham United	Derby County	1:0	4:0	26.12.2001	13:00	2001	2002	19
+Blackburn Rovers	Sunderland AFC	0:2	0:3	26.12.2001	16:00	2001	2002	19
+Newcastle United	Middlesbrough FC	1:0	3:0	26.12.2001	16:00	2001	2002	19
+Aston Villa	Liverpool FC	1:1	1:2	26.12.2001	16:00	2001	2002	19
+Everton FC	Manchester United	0:0	0:2	26.12.2001	16:00	2001	2002	19
+Ipswich Town	Leicester City	0:0	2:0	26.12.2001	16:00	2001	2002	19
+West Ham United	Liverpool FC	1:0	1:1	29.12.2001	16:00	2001	2002	20
+Southampton FC	Leeds United	0:0	0:1	29.12.2001	16:00	2001	2002	20
+Ipswich Town	Sunderland AFC	4:0	5:0	29.12.2001	16:00	2001	2002	20
+Everton FC	Charlton Athletic	0:1	0:3	29.12.2001	16:00	2001	2002	20
+Bolton Wanderers	Leicester City	1:2	2:2	29.12.2001	16:00	2001	2002	20
+Aston Villa	Tottenham Hotspur	0:1	1:1	29.12.2001	16:00	2001	2002	20
+Arsenal FC	Middlesbrough FC	0:1	2:1	29.12.2001	16:00	2001	2002	20
+Newcastle United	Chelsea FC	1:2	1:2	29.12.2001	16:00	2001	2002	20
+Blackburn Rovers	Derby County	0:1	0:1	29.12.2001	16:00	2001	2002	20
+Fulham FC	Manchester United	1:2	2:3	30.12.2001	15:00	2001	2002	20
+Middlesbrough FC	Everton FC	0:0	1:0	01.01.2002	16:00	2001	2002	21
+Tottenham Hotspur	Blackburn Rovers	1:0	1:0	01.01.2002	16:00	2001	2002	21
+Charlton Athletic	Ipswich Town	2:2	3:2	01.01.2002	16:00	2001	2002	21
+Liverpool FC	Bolton Wanderers	0:0	1:1	01.01.2002	16:00	2001	2002	21
+Sunderland AFC	Aston Villa	0:0	1:1	01.01.2002	16:00	2001	2002	21
+Chelsea FC	Southampton FC	2:1	2:4	01.01.2002	16:00	2001	2002	21
+Leeds United	West Ham United	2:0	3:0	01.01.2002	21:00	2001	2002	21
+Derby County	Fulham FC	0:0	0:1	02.01.2002	20:45	2001	2002	21
+Manchester United	Newcastle United	1:0	3:1	02.01.2002	21:00	2001	2002	21
+Leicester City	Arsenal FC	0:2	1:3	23.01.2002	20:45	2001	2002	21
+West Ham United	Leicester City	1:0	1:0	12.01.2002	16:00	2001	2002	22
+Ipswich Town	Tottenham Hotspur	1:0	2:1	12.01.2002	16:00	2001	2002	22
+Everton FC	Sunderland AFC	1:0	1:0	12.01.2002	16:00	2001	2002	22
+Bolton Wanderers	Chelsea FC	0:0	2:2	12.01.2002	16:00	2001	2002	22
+Fulham FC	Middlesbrough FC	2:1	2:1	12.01.2002	16:00	2001	2002	22
+Aston Villa	Derby County	2:1	2:1	12.01.2002	16:00	2001	2002	22
+Newcastle United	Leeds United	1:1	3:1	12.01.2002	16:00	2001	2002	22
+Blackburn Rovers	Charlton Athletic	2:0	4:1	12.01.2002	16:00	2001	2002	22
+Southampton FC	Manchester United	1:2	1:3	13.01.2002	15:00	2001	2002	22
+Arsenal FC	Liverpool FC	0:0	1:1	13.01.2002	17:00	2001	2002	22
+Middlesbrough FC	Bolton Wanderers	1:0	1:1	19.01.2002	16:00	2001	2002	23
+Tottenham Hotspur	Everton FC	1:1	1:1	19.01.2002	16:00	2001	2002	23
+Liverpool FC	Southampton FC	1:0	1:1	19.01.2002	16:00	2001	2002	23
+Leicester City	Newcastle United	0:0	0:0	19.01.2002	16:00	2001	2002	23
+Sunderland AFC	Fulham FC	0:1	1:1	19.01.2002	16:00	2001	2002	23
+Derby County	Ipswich Town	0:0	1:3	19.01.2002	16:00	2001	2002	23
+Manchester United	Blackburn Rovers	1:0	2:1	19.01.2002	16:00	2001	2002	23
+Chelsea FC	West Ham United	1:0	5:1	20.01.2002	15:00	2001	2002	23
+Leeds United	Arsenal FC	1:1	1:1	20.01.2002	17:00	2001	2002	23
+Charlton Athletic	Aston Villa	0:2	1:2	21.01.2002	21:00	2001	2002	23
+Sunderland AFC	Middlesbrough FC	0:1	0:1	29.01.2002	20:45	2001	2002	24
+Charlton Athletic	Derby County	0:0	1:0	29.01.2002	20:45	2001	2002	24
+Bolton Wanderers	Manchester United	0:2	0:4	29.01.2002	21:00	2001	2002	24
+Tottenham Hotspur	Newcastle United	1:0	1:3	30.01.2002	20:45	2001	2002	24
+Blackburn Rovers	Arsenal FC	2:2	2:3	30.01.2002	20:45	2001	2002	24
+Aston Villa	Everton FC	0:0	0:0	30.01.2002	20:45	2001	2002	24
+Southampton FC	West Ham United	1:0	2:0	30.01.2002	20:45	2001	2002	24
+Ipswich Town	Fulham FC	1:0	1:0	30.01.2002	20:45	2001	2002	24
+Liverpool FC	Leicester City	0:0	1:0	30.01.2002	21:00	2001	2002	24
+Chelsea FC	Leeds United	2:0	2:0	30.01.2002	21:00	2001	2002	24
+Derby County	Tottenham Hotspur	1:0	1:0	02.02.2002	13:00	2001	2002	25
+West Ham United	Blackburn Rovers	1:0	2:0	02.02.2002	16:00	2001	2002	25
+Newcastle United	Bolton Wanderers	2:2	3:2	02.02.2002	16:00	2001	2002	25
+Leicester City	Chelsea FC	1:0	2:3	02.02.2002	16:00	2001	2002	25
+Fulham FC	Aston Villa	0:0	0:0	02.02.2002	16:00	2001	2002	25
+Arsenal FC	Southampton FC	1:0	1:1	02.02.2002	16:00	2001	2002	25
+Manchester United	Sunderland AFC	4:1	4:1	02.02.2002	16:00	2001	2002	25
+Everton FC	Ipswich Town	1:2	1:2	02.02.2002	16:00	2001	2002	25
+Leeds United	Liverpool FC	0:1	0:4	03.02.2002	13:00	2001	2002	25
+Middlesbrough FC	Charlton Athletic	0:0	0:0	03.02.2002	17:00	2001	2002	25
+Middlesbrough FC	Leeds United	0:1	2:2	09.02.2002	16:00	2001	2002	26
+Fulham FC	Blackburn Rovers	1:0	2:0	09.02.2002	16:00	2001	2002	26
+Ipswich Town	Liverpool FC	0:2	0:6	09.02.2002	16:00	2001	2002	26
+Newcastle United	Southampton FC	3:1	3:1	09.02.2002	16:00	2001	2002	26
+Bolton Wanderers	West Ham United	1:0	1:0	09.02.2002	16:00	2001	2002	26
+Aston Villa	Chelsea FC	1:0	1:1	09.02.2002	16:00	2001	2002	26
+Tottenham Hotspur	Leicester City	1:0	2:1	09.02.2002	16:00	2001	2002	26
+Derby County	Sunderland AFC	0:0	0:1	09.02.2002	16:00	2001	2002	26
+Charlton Athletic	Manchester United	0:1	0:2	10.02.2002	15:00	2001	2002	26
+Everton FC	Arsenal FC	0:0	0:1	10.02.2002	17:00	2001	2002	26
+Manchester United	Aston Villa	0:0	1:0	23.02.2002	13:00	2001	2002	27
+Southampton FC	Bolton Wanderers	0:0	0:0	23.02.2002	16:00	2001	2002	27
+Leicester City	Derby County	0:0	0:3	23.02.2002	16:00	2001	2002	27
+West Ham United	Middlesbrough FC	0:0	1:0	23.02.2002	16:00	2001	2002	27
+Arsenal FC	Fulham FC	3:1	4:1	23.02.2002	16:00	2001	2002	27
+Liverpool FC	Everton FC	0:0	1:1	23.02.2002	16:00	2001	2002	27
+Sunderland AFC	Newcastle United	0:0	0:1	24.02.2002	14:00	2001	2002	27
+Leeds United	Charlton Athletic	0:0	0:0	24.02.2002	16:00	2001	2002	27
+Blackburn Rovers	Ipswich Town	2:0	2:1	13.03.2002	20:45	2001	2002	27
+Chelsea FC	Tottenham Hotspur	1:0	4:0	13.03.2002	20:45	2001	2002	27
+Middlesbrough FC	Leicester City	1:0	1:0	02.03.2002	16:00	2001	2002	28
+Fulham FC	Liverpool FC	0:1	0:2	02.03.2002	16:00	2001	2002	28
+Ipswich Town	Southampton FC	0:0	1:3	02.03.2002	16:00	2001	2002	28
+Charlton Athletic	Chelsea FC	0:0	2:1	02.03.2002	16:00	2001	2002	28
+Bolton Wanderers	Blackburn Rovers	1:0	1:1	02.03.2002	16:00	2001	2002	28
+Aston Villa	West Ham United	1:1	2:1	02.03.2002	16:00	2001	2002	28
+Tottenham Hotspur	Sunderland AFC	1:1	2:1	02.03.2002	16:00	2001	2002	28
+Newcastle United	Arsenal FC	0:2	0:2	02.03.2002	18:30	2001	2002	28
+Everton FC	Leeds United	0:0	0:0	03.03.2002	16:00	2001	2002	28
+Derby County	Manchester United	1:1	2:2	03.03.2002	17:00	2001	2002	28
+Arsenal FC	Derby County	0:0	1:0	05.03.2002	20:45	2001	2002	29
+Blackburn Rovers	Aston Villa	1:0	3:0	05.03.2002	21:00	2001	2002	29
+Sunderland AFC	Bolton Wanderers	1:0	1:0	05.03.2002	21:00	2001	2002	29
+Southampton FC	Middlesbrough FC	1:0	1:1	06.03.2002	20:45	2001	2002	29
+West Ham United	Everton FC	0:0	1:0	06.03.2002	20:45	2001	2002	29
+Chelsea FC	Fulham FC	2:1	3:2	06.03.2002	20:45	2001	2002	29
+Leeds United	Ipswich Town	0:0	2:0	06.03.2002	20:45	2001	2002	29
+Manchester United	Tottenham Hotspur	2:0	4:0	06.03.2002	21:00	2001	2002	29
+Liverpool FC	Newcastle United	1:0	3:0	06.03.2002	21:00	2001	2002	29
+Leicester City	Charlton Athletic	1:1	1:1	09.03.2002	16:00	2001	2002	29
+Middlesbrough FC	Liverpool FC	0:1	1:2	16.03.2002	13:00	2001	2002	30
+Southampton FC	Leicester City	1:2	2:2	16.03.2002	16:00	2001	2002	30
+Everton FC	Fulham FC	2:0	2:1	16.03.2002	16:00	2001	2002	30
+West Ham United	Manchester United	2:2	3:5	16.03.2002	16:00	2001	2002	30
+Bolton Wanderers	Derby County	0:1	1:3	16.03.2002	16:00	2001	2002	30
+Newcastle United	Ipswich Town	0:0	2:2	16.03.2002	16:00	2001	2002	30
+Chelsea FC	Sunderland AFC	1:0	4:0	16.03.2002	16:00	2001	2002	30
+Leeds United	Blackburn Rovers	2:0	3:1	17.03.2002	15:00	2001	2002	30
+Aston Villa	Arsenal FC	0:1	1:2	17.03.2002	17:00	2001	2002	30
+Tottenham Hotspur	Charlton Athletic	0:0	0:1	18.03.2002	21:00	2001	2002	30
+Sunderland AFC	Southampton FC	0:0	1:1	23.03.2002	16:00	2001	2002	31
+Ipswich Town	Aston Villa	0:0	0:0	23.03.2002	16:00	2001	2002	31
+Leicester City	Leeds United	0:2	0:2	23.03.2002	16:00	2001	2002	31
+Charlton Athletic	Bolton Wanderers	0:2	1:2	23.03.2002	16:00	2001	2002	31
+Manchester United	Middlesbrough FC	0:1	0:1	23.03.2002	16:00	2001	2002	31
+Derby County	Everton FC	0:1	3:4	23.03.2002	16:00	2001	2002	31
+Liverpool FC	Chelsea FC	0:0	1:0	24.03.2002	15:00	2001	2002	31
+Fulham FC	Tottenham Hotspur	0:2	0:2	24.03.2002	17:00	2001	2002	31
+Blackburn Rovers	Newcastle United	1:0	2:2	23.04.2002	21:00	2001	2002	31
+Arsenal FC	West Ham United	0:0	2:0	24.04.2002	21:00	2001	2002	31
+Newcastle United	Everton FC	2:2	6:2	29.03.2002	15:00	2001	2002	32
+Leeds United	Manchester United	1:3	3:4	30.03.2002	13:00	2001	2002	32
+Southampton FC	Fulham FC	1:1	1:1	30.03.2002	16:00	2001	2002	32
+Leicester City	Blackburn Rovers	1:0	2:1	30.03.2002	16:00	2001	2002	32
+West Ham United	Ipswich Town	1:0	3:1	30.03.2002	16:00	2001	2002	32
+Bolton Wanderers	Aston Villa	2:2	3:2	30.03.2002	16:00	2001	2002	32
+Arsenal FC	Sunderland AFC	3:0	3:0	30.03.2002	16:00	2001	2002	32
+Liverpool FC	Charlton Athletic	2:0	2:0	30.03.2002	16:00	2001	2002	32
+Chelsea FC	Derby County	0:0	2:1	30.03.2002	16:00	2001	2002	32
+Middlesbrough FC	Tottenham Hotspur	0:1	1:1	30.03.2002	18:35	2001	2002	32
+Manchester United	Liverpool FC	0:0	0:1	22.01.2002	21:00	2001	2002	33
+Sunderland AFC	Leicester City	2:1	2:1	01.04.2002	16:00	2001	2002	33
+Fulham FC	West Ham United	0:1	0:1	01.04.2002	16:00	2001	2002	33
+Ipswich Town	Chelsea FC	0:0	0:0	01.04.2002	16:00	2001	2002	33
+Everton FC	Bolton Wanderers	1:0	3:1	01.04.2002	16:00	2001	2002	33
+Charlton Athletic	Arsenal FC	0:3	0:3	01.04.2002	16:00	2001	2002	33
+Tottenham Hotspur	Leeds United	2:0	2:1	01.04.2002	16:00	2001	2002	33
+Derby County	Middlesbrough FC	0:1	0:1	01.04.2002	16:00	2001	2002	33
+Blackburn Rovers	Southampton FC	2:0	2:0	01.04.2002	21:00	2001	2002	33
+Aston Villa	Newcastle United	1:1	1:1	02.04.2002	20:45	2001	2002	33
+Leicester City	Manchester United	0:0	0:1	06.04.2002	13:00	2001	2002	34
+Southampton FC	Derby County	1:0	2:0	06.04.2002	16:00	2001	2002	34
+Middlesbrough FC	Aston Villa	1:0	2:1	06.04.2002	16:00	2001	2002	34
+West Ham United	Charlton Athletic	2:0	2:0	06.04.2002	16:00	2001	2002	34
+Bolton Wanderers	Ipswich Town	4:0	4:1	06.04.2002	16:00	2001	2002	34
+Arsenal FC	Tottenham Hotspur	1:0	2:1	06.04.2002	16:00	2001	2002	34
+Chelsea FC	Everton FC	2:0	3:0	06.04.2002	16:00	2001	2002	34
+Leeds United	Sunderland AFC	1:0	2:0	07.04.2002	17:00	2001	2002	34
+Newcastle United	Fulham FC	1:0	1:1	08.04.2002	21:00	2001	2002	34
+Liverpool FC	Blackburn Rovers	2:1	4:3	08.05.2002	21:00	2001	2002	34
+Blackburn Rovers	Chelsea FC	0:0	0:0	10.04.2002	21:00	2001	2002	35
+Derby County	Newcastle United	0:0	2:3	13.04.2002	16:00	2001	2002	35
+Tottenham Hotspur	West Ham United	0:0	1:1	13.04.2002	16:00	2001	2002	35
+Aston Villa	Leeds United	0:1	0:1	13.04.2002	16:00	2001	2002	35
+Charlton Athletic	Southampton FC	1:0	1:1	13.04.2002	16:00	2001	2002	35
+Everton FC	Leicester City	0:2	2:2	13.04.2002	16:00	2001	2002	35
+Sunderland AFC	Liverpool FC	0:0	0:1	13.04.2002	18:35	2001	2002	35
+Fulham FC	Bolton Wanderers	1:0	3:0	23.04.2002	20:45	2001	2002	35
+Ipswich Town	Middlesbrough FC	0:0	1:0	24.04.2002	20:45	2001	2002	35
+Manchester United	Arsenal FC	0:0	0:1	08.05.2002	21:00	2001	2002	35
+Chelsea FC	Manchester United	0:2	0:3	20.04.2002	13:00	2001	2002	36
+Liverpool FC	Derby County	1:0	2:0	20.04.2002	16:00	2001	2002	36
+Bolton Wanderers	Tottenham Hotspur	0:1	1:1	20.04.2002	16:00	2001	2002	36
+West Ham United	Sunderland AFC	1:0	3:0	20.04.2002	16:00	2001	2002	36
+Leeds United	Fulham FC	0:0	0:1	20.04.2002	16:00	2001	2002	36
+Leicester City	Aston Villa	1:2	2:2	20.04.2002	16:00	2001	2002	36
+Middlesbrough FC	Blackburn Rovers	0:1	1:3	20.04.2002	16:00	2001	2002	36
+Newcastle United	Charlton Athletic	1:0	3:0	20.04.2002	16:00	2001	2002	36
+Southampton FC	Everton FC	0:1	0:1	20.04.2002	18:15	2001	2002	36
+Arsenal FC	Ipswich Town	0:0	2:0	21.04.2002	17:00	2001	2002	36
+Tottenham Hotspur	Liverpool FC	1:0	1:0	27.04.2002	13:00	2001	2002	37
+Derby County	Leeds United	0:1	0:1	27.04.2002	16:00	2001	2002	37
+Aston Villa	Southampton FC	2:0	2:1	27.04.2002	16:00	2001	2002	37
+Charlton Athletic	Sunderland AFC	1:2	2:2	27.04.2002	16:00	2001	2002	37
+Newcastle United	West Ham United	1:1	3:1	27.04.2002	16:00	2001	2002	37
+Fulham FC	Leicester City	0:0	0:0	27.04.2002	16:00	2001	2002	37
+Middlesbrough FC	Chelsea FC	0:2	0:2	27.04.2002	16:00	2001	2002	37
+Ipswich Town	Manchester United	0:1	0:1	27.04.2002	18:35	2001	2002	37
+Everton FC	Blackburn Rovers	0:1	1:2	28.04.2002	17:00	2001	2002	37
+Bolton Wanderers	Arsenal FC	0:2	0:2	29.04.2002	21:00	2001	2002	37
+Chelsea FC	Aston Villa	0:1	1:3	11.05.2002	16:00	2001	2002	38
+Liverpool FC	Ipswich Town	2:0	5:0	11.05.2002	16:00	2001	2002	38
+Arsenal FC	Everton FC	2:2	4:3	11.05.2002	16:00	2001	2002	38
+Blackburn Rovers	Fulham FC	0:0	3:0	11.05.2002	16:00	2001	2002	38
+West Ham United	Bolton Wanderers	1:0	2:1	11.05.2002	16:00	2001	2002	38
+Leeds United	Middlesbrough FC	0:0	1:0	11.05.2002	16:00	2001	2002	38
+Leicester City	Tottenham Hotspur	0:0	2:1	11.05.2002	16:00	2001	2002	38
+Sunderland AFC	Derby County	1:0	1:1	11.05.2002	16:00	2001	2002	38
+Manchester United	Charlton Athletic	0:0	0:0	11.05.2002	16:00	2001	2002	38
+Southampton FC	Newcastle United	2:0	3:1	11.05.2002	16:00	2001	2002	38

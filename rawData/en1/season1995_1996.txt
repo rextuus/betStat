@@ -1,0 +1,380 @@
+Aston Villa	Manchester United	3:0	3:1	19.08.1995	15:00	1995	1996	1
+Blackburn Rovers	Queens Park Rangers	1:0	1:0	19.08.1995	15:00	1995	1996	1
+Chelsea FC	Everton FC	0:0	0:0	19.08.1995	15:00	1995	1996	1
+Liverpool FC	Sheffield Wednesday	0:0	1:0	19.08.1995	15:00	1995	1996	1
+Manchester City	Tottenham Hotspur	0:1	1:1	19.08.1995	15:00	1995	1996	1
+Newcastle United	Coventry City	1:0	3:0	19.08.1995	15:00	1995	1996	1
+Southampton FC	Nottingham Forest	1:3	3:4	19.08.1995	15:00	1995	1996	1
+West Ham United	Leeds United	1:0	1:2	19.08.1995	15:00	1995	1996	1
+Wimbledon FC	Bolton Wanderers	2:2	3:2	19.08.1995	15:00	1995	1996	1
+Arsenal FC	Middlesbrough FC	1:1	1:1	20.08.1995	16:00	1995	1996	1
+Leeds United	Liverpool FC	0:0	1:0	21.08.1995	20:00	1995	1996	2
+Bolton Wanderers	Newcastle United	0:1	1:3	22.08.1995	19:45	1995	1996	2
+Coventry City	Manchester City	1:0	2:1	23.08.1995	20:00	1995	1996	2
+Everton FC	Arsenal FC	0:0	0:2	23.08.1995	20:00	1995	1996	2
+Manchester United	West Ham United	0:0	2:1	23.08.1995	20:00	1995	1996	2
+Nottingham Forest	Chelsea FC	0:0	0:0	23.08.1995	20:00	1995	1996	2
+Queens Park Rangers	Wimbledon FC	0:1	0:3	23.08.1995	20:00	1995	1996	2
+Sheffield Wednesday	Blackburn Rovers	1:0	2:1	23.08.1995	20:00	1995	1996	2
+Tottenham Hotspur	Aston Villa	0:0	0:1	23.08.1995	20:00	1995	1996	2
+Middlesbrough FC	Southampton FC	0:0	0:0	12.09.1995	19:45	1995	1996	2
+Bolton Wanderers	Blackburn Rovers	1:0	2:1	26.08.1995	15:00	1995	1996	3
+Coventry City	Arsenal FC	0:0	0:0	26.08.1995	15:00	1995	1996	3
+Everton FC	Southampton FC	2:0	2:0	26.08.1995	15:00	1995	1996	3
+Leeds United	Aston Villa	1:0	2:0	26.08.1995	15:00	1995	1996	3
+Manchester United	Wimbledon FC	1:0	3:1	26.08.1995	15:00	1995	1996	3
+Middlesbrough FC	Chelsea FC	1:0	2:0	26.08.1995	15:00	1995	1996	3
+Nottingham Forest	West Ham United	1:1	1:1	26.08.1995	15:00	1995	1996	3
+Queens Park Rangers	Manchester City	1:0	1:0	26.08.1995	15:00	1995	1996	3
+Tottenham Hotspur	Liverpool FC	0:2	1:3	26.08.1995	15:00	1995	1996	3
+Sheffield Wednesday	Newcastle United	0:0	0:2	27.08.1995	16:00	1995	1996	3
+Blackburn Rovers	Manchester United	0:0	1:2	28.08.1995	20:00	1995	1996	4
+Arsenal FC	Nottingham Forest	1:0	1:1	29.08.1995	19:45	1995	1996	4
+Wimbledon FC	Sheffield Wednesday	1:1	2:2	30.08.1995	20:00	1995	1996	4
+Aston Villa	Bolton Wanderers	0:0	1:0	30.08.1995	20:00	1995	1996	4
+Chelsea FC	Coventry City	2:1	2:2	30.08.1995	20:00	1995	1996	4
+Liverpool FC	Queens Park Rangers	1:0	1:0	30.08.1995	20:00	1995	1996	4
+Manchester City	Everton FC	0:0	0:2	30.08.1995	20:00	1995	1996	4
+Newcastle United	Middlesbrough FC	0:0	1:0	30.08.1995	20:00	1995	1996	4
+Southampton FC	Leeds United	0:0	1:1	30.08.1995	20:00	1995	1996	4
+West Ham United	Tottenham Hotspur	1:0	1:1	30.08.1995	20:00	1995	1996	4
+Blackburn Rovers	Aston Villa	0:1	1:1	09.09.1995	15:00	1995	1996	5
+Bolton Wanderers	Middlesbrough FC	1:0	1:1	09.09.1995	15:00	1995	1996	5
+Coventry City	Nottingham Forest	1:1	1:1	09.09.1995	15:00	1995	1996	5
+Everton FC	Manchester United	1:1	2:3	09.09.1995	15:00	1995	1996	5
+Queens Park Rangers	Sheffield Wednesday	0:0	0:3	09.09.1995	15:00	1995	1996	5
+Southampton FC	Newcastle United	0:0	1:0	09.09.1995	15:00	1995	1996	5
+Tottenham Hotspur	Leeds United	1:0	2:1	09.09.1995	15:00	1995	1996	5
+Wimbledon FC	Liverpool FC	1:0	1:0	09.09.1995	15:00	1995	1996	5
+Manchester City	Arsenal FC	0:0	0:1	10.09.1995	16:00	1995	1996	5
+West Ham United	Chelsea FC	0:2	1:3	11.09.1995	20:00	1995	1996	5
+Arsenal FC	West Ham United	0:0	1:0	16.09.1995	15:00	1995	1996	6
+Aston Villa	Wimbledon FC	1:0	2:0	16.09.1995	15:00	1995	1996	6
+Chelsea FC	Southampton FC	0:0	3:0	16.09.1995	15:00	1995	1996	6
+Leeds United	Queens Park Rangers	0:2	1:3	16.09.1995	15:00	1995	1996	6
+Liverpool FC	Blackburn Rovers	3:0	3:0	16.09.1995	15:00	1995	1996	6
+Manchester United	Bolton Wanderers	2:0	3:0	16.09.1995	15:00	1995	1996	6
+Middlesbrough FC	Coventry City	0:0	2:1	16.09.1995	15:00	1995	1996	6
+Newcastle United	Manchester City	2:0	3:1	16.09.1995	15:00	1995	1996	6
+Sheffield Wednesday	Tottenham Hotspur	1:1	1:3	16.09.1995	15:00	1995	1996	6
+Nottingham Forest	Everton FC	2:0	3:2	17.09.1995	16:00	1995	1996	6
+Arsenal FC	Southampton FC	2:2	4:2	23.09.1995	15:00	1995	1996	7
+Aston Villa	Nottingham Forest	0:0	1:1	23.09.1995	15:00	1995	1996	7
+Blackburn Rovers	Coventry City	2:1	5:1	23.09.1995	15:00	1995	1996	7
+Liverpool FC	Bolton Wanderers	2:0	5:2	23.09.1995	15:00	1995	1996	7
+Manchester City	Middlesbrough FC	0:1	0:1	23.09.1995	15:00	1995	1996	7
+Sheffield Wednesday	Manchester United	0:0	0:0	23.09.1995	15:00	1995	1996	7
+West Ham United	Everton FC	2:1	2:1	23.09.1995	15:00	1995	1996	7
+Wimbledon FC	Leeds United	1:3	2:4	23.09.1995	15:00	1995	1996	7
+Newcastle United	Chelsea FC	1:0	2:0	23.09.1995	16:00	1995	1996	7
+Queens Park Rangers	Tottenham Hotspur	1:0	2:3	24.09.1995	20:00	1995	1996	7
+Bolton Wanderers	Queens Park Rangers	0:0	0:1	30.09.1995	15:00	1995	1996	8
+Chelsea FC	Arsenal FC	0:0	1:0	30.09.1995	15:00	1995	1996	8
+Coventry City	Aston Villa	0:1	0:3	30.09.1995	15:00	1995	1996	8
+Leeds United	Sheffield Wednesday	1:0	2:0	30.09.1995	15:00	1995	1996	8
+Middlesbrough FC	Blackburn Rovers	1:0	2:0	30.09.1995	15:00	1995	1996	8
+Nottingham Forest	Manchester City	1:0	3:0	30.09.1995	15:00	1995	1996	8
+Tottenham Hotspur	Wimbledon FC	2:1	3:1	30.09.1995	15:00	1995	1996	8
+Everton FC	Newcastle United	0:1	1:3	01.10.1995	16:00	1995	1996	8
+Manchester United	Liverpool FC	1:1	2:2	01.10.1995	16:00	1995	1996	8
+Southampton FC	West Ham United	0:0	0:0	02.10.1995	20:00	1995	1996	8
+Aston Villa	Chelsea FC	0:0	0:1	14.10.1995	15:00	1995	1996	9
+Blackburn Rovers	Southampton FC	1:0	2:1	14.10.1995	15:00	1995	1996	9
+Bolton Wanderers	Everton FC	1:0	1:1	14.10.1995	15:00	1995	1996	9
+Leeds United	Arsenal FC	0:1	0:3	14.10.1995	15:00	1995	1996	9
+Liverpool FC	Coventry City	0:0	0:0	14.10.1995	15:00	1995	1996	9
+Manchester United	Manchester City	1:0	1:0	14.10.1995	15:00	1995	1996	9
+Queens Park Rangers	Newcastle United	1:0	2:3	14.10.1995	15:00	1995	1996	9
+Tottenham Hotspur	Nottingham Forest	0:0	0:1	14.10.1995	15:00	1995	1996	9
+Sheffield Wednesday	Middlesbrough FC	0:0	0:1	15.10.1995	16:00	1995	1996	9
+Wimbledon FC	West Ham United	0:1	0:1	16.10.1995	20:00	1995	1996	9
+Arsenal FC	Aston Villa	0:0	2:0	21.10.1995	15:00	1995	1996	10
+Chelsea FC	Manchester United	0:2	1:4	21.10.1995	15:00	1995	1996	10
+Coventry City	Sheffield Wednesday	0:1	0:1	21.10.1995	15:00	1995	1996	10
+Manchester City	Leeds United	0:0	0:0	21.10.1995	15:00	1995	1996	10
+Middlesbrough FC	Queens Park Rangers	1:0	1:0	21.10.1995	15:00	1995	1996	10
+Newcastle United	Wimbledon FC	3:0	6:1	21.10.1995	15:00	1995	1996	10
+Nottingham Forest	Bolton Wanderers	1:1	3:2	21.10.1995	15:00	1995	1996	10
+West Ham United	Blackburn Rovers	1:0	1:1	21.10.1995	15:00	1995	1996	10
+Everton FC	Tottenham Hotspur	1:1	1:1	22.10.1995	16:00	1995	1996	10
+Southampton FC	Liverpool FC	1:1	1:3	22.10.1995	16:00	1995	1996	10
+Aston Villa	Everton FC	0:0	1:0	28.10.1995	15:00	1995	1996	11
+Blackburn Rovers	Chelsea FC	1:0	3:0	28.10.1995	15:00	1995	1996	11
+Leeds United	Coventry City	2:1	3:1	28.10.1995	15:00	1995	1996	11
+Liverpool FC	Manchester City	2:0	6:0	28.10.1995	15:00	1995	1996	11
+Manchester United	Middlesbrough FC	1:0	2:0	28.10.1995	15:00	1995	1996	11
+Queens Park Rangers	Nottingham Forest	0:0	1:1	28.10.1995	15:00	1995	1996	11
+Sheffield Wednesday	West Ham United	0:1	0:1	28.10.1995	15:00	1995	1996	11
+Wimbledon FC	Southampton FC	0:1	1:2	28.10.1995	15:00	1995	1996	11
+Tottenham Hotspur	Newcastle United	1:0	1:1	29.10.1995	16:00	1995	1996	11
+Bolton Wanderers	Arsenal FC	1:0	1:0	30.10.1995	20:00	1995	1996	11
+Arsenal FC	Manchester United	1:0	1:0	04.11.1995	15:00	1995	1996	12
+Chelsea FC	Sheffield Wednesday	0:0	0:0	04.11.1995	15:00	1995	1996	12
+Coventry City	Tottenham Hotspur	1:2	2:3	04.11.1995	15:00	1995	1996	12
+Manchester City	Bolton Wanderers	1:0	1:0	04.11.1995	15:00	1995	1996	12
+Middlesbrough FC	Leeds United	1:1	1:1	04.11.1995	15:00	1995	1996	12
+Newcastle United	Liverpool FC	1:1	2:1	04.11.1995	15:00	1995	1996	12
+Southampton FC	Queens Park Rangers	1:0	2:0	04.11.1995	15:00	1995	1996	12
+West Ham United	Aston Villa	0:1	1:4	04.11.1995	15:00	1995	1996	12
+Everton FC	Blackburn Rovers	1:0	1:0	05.11.1995	16:00	1995	1996	12
+Nottingham Forest	Wimbledon FC	2:1	4:1	06.11.1995	20:00	1995	1996	12
+Aston Villa	Newcastle United	1:0	1:1	18.11.1995	15:00	1995	1996	13
+Blackburn Rovers	Nottingham Forest	2:0	7:0	18.11.1995	15:00	1995	1996	13
+Bolton Wanderers	West Ham United	0:0	0:3	18.11.1995	15:00	1995	1996	13
+Leeds United	Chelsea FC	0:0	1:0	18.11.1995	15:00	1995	1996	13
+Liverpool FC	Everton FC	0:0	1:2	18.11.1995	15:00	1995	1996	13
+Manchester United	Southampton FC	3:0	4:1	18.11.1995	15:00	1995	1996	13
+Sheffield Wednesday	Manchester City	1:0	1:1	18.11.1995	15:00	1995	1996	13
+Tottenham Hotspur	Arsenal FC	1:1	2:1	18.11.1995	15:00	1995	1996	13
+Wimbledon FC	Middlesbrough FC	0:0	0:0	18.11.1995	15:00	1995	1996	13
+Queens Park Rangers	Coventry City	1:0	1:1	19.11.1995	16:00	1995	1996	13
+Newcastle United	Blackburn Rovers	1:0	1:0	08.11.1995	20:00	1995	1996	14
+Southampton FC	Aston Villa	0:1	0:1	20.11.1995	20:00	1995	1996	14
+Arsenal FC	Sheffield Wednesday	1:2	4:2	21.11.1995	19:45	1995	1996	14
+Middlesbrough FC	Tottenham Hotspur	0:0	0:1	21.11.1995	19:45	1995	1996	14
+Chelsea FC	Bolton Wanderers	1:1	3:2	22.11.1995	20:00	1995	1996	14
+Coventry City	Manchester United	0:1	0:4	22.11.1995	20:00	1995	1996	14
+Everton FC	Queens Park Rangers	2:0	2:0	22.11.1995	20:00	1995	1996	14
+Manchester City	Wimbledon FC	0:0	1:0	22.11.1995	20:00	1995	1996	14
+West Ham United	Liverpool FC	0:0	0:0	22.11.1995	20:00	1995	1996	14
+Nottingham Forest	Leeds United	1:0	2:1	31.01.1996	20:00	1995	1996	14
+Chelsea FC	Tottenham Hotspur	0:0	0:0	25.11.1995	15:00	1995	1996	15
+Coventry City	Wimbledon FC	1:2	3:3	25.11.1995	15:00	1995	1996	15
+Everton FC	Sheffield Wednesday	1:2	2:2	25.11.1995	15:00	1995	1996	15
+Manchester City	Aston Villa	0:0	1:0	25.11.1995	15:00	1995	1996	15
+Middlesbrough FC	Liverpool FC	1:0	2:1	25.11.1995	15:00	1995	1996	15
+Newcastle United	Leeds United	0:1	2:1	25.11.1995	15:00	1995	1996	15
+Southampton FC	Bolton Wanderers	0:0	1:0	25.11.1995	15:00	1995	1996	15
+West Ham United	Queens Park Rangers	0:0	1:0	25.11.1995	15:00	1995	1996	15
+Arsenal FC	Blackburn Rovers	0:0	0:0	26.11.1995	16:00	1995	1996	15
+Nottingham Forest	Manchester United	1:0	1:1	27.11.1995	20:00	1995	1996	15
+Aston Villa	Arsenal FC	0:0	1:1	02.12.1995	15:00	1995	1996	16
+Blackburn Rovers	West Ham United	3:0	4:2	02.12.1995	15:00	1995	1996	16
+Bolton Wanderers	Nottingham Forest	0:0	1:1	02.12.1995	15:00	1995	1996	16
+Leeds United	Manchester City	0:0	0:1	02.12.1995	15:00	1995	1996	16
+Liverpool FC	Southampton FC	0:0	1:1	02.12.1995	15:00	1995	1996	16
+Manchester United	Chelsea FC	0:0	1:1	02.12.1995	15:00	1995	1996	16
+Queens Park Rangers	Middlesbrough FC	1:1	1:1	02.12.1995	15:00	1995	1996	16
+Tottenham Hotspur	Everton FC	0:0	0:0	02.12.1995	15:00	1995	1996	16
+Wimbledon FC	Newcastle United	2:3	3:3	03.12.1995	16:00	1995	1996	16
+Sheffield Wednesday	Coventry City	2:2	4:3	04.12.1995	20:00	1995	1996	16
+Southampton FC	Arsenal FC	0:0	0:0	09.12.1995	15:00	1995	1996	17
+Coventry City	Blackburn Rovers	1:0	5:0	09.12.1995	15:00	1995	1996	17
+Bolton Wanderers	Liverpool FC	0:0	0:1	09.12.1995	15:00	1995	1996	17
+Middlesbrough FC	Manchester City	1:1	4:1	09.12.1995	15:00	1995	1996	17
+Chelsea FC	Newcastle United	1:0	1:0	09.12.1995	15:00	1995	1996	17
+Tottenham Hotspur	Queens Park Rangers	1:0	1:0	09.12.1995	15:00	1995	1996	17
+Manchester United	Sheffield Wednesday	1:0	2:2	09.12.1995	15:00	1995	1996	17
+Leeds United	Wimbledon FC	0:1	1:1	09.12.1995	15:00	1995	1996	17
+Nottingham Forest	Aston Villa	0:0	1:1	10.12.1995	16:00	1995	1996	17
+Everton FC	West Ham United	2:0	3:0	11.12.1995	20:00	1995	1996	17
+Queens Park Rangers	Bolton Wanderers	1:1	2:1	16.12.1995	15:00	1995	1996	18
+Arsenal FC	Chelsea FC	0:1	1:1	16.12.1995	15:00	1995	1996	18
+Aston Villa	Coventry City	2:0	4:1	16.12.1995	15:00	1995	1996	18
+Newcastle United	Everton FC	1:0	1:0	16.12.1995	15:00	1995	1996	18
+Sheffield Wednesday	Leeds United	3:1	6:2	16.12.1995	15:00	1995	1996	18
+Blackburn Rovers	Middlesbrough FC	1:0	1:0	16.12.1995	15:00	1995	1996	18
+West Ham United	Southampton FC	0:1	2:1	16.12.1995	15:00	1995	1996	18
+Wimbledon FC	Tottenham Hotspur	0:0	0:1	16.12.1995	15:00	1995	1996	18
+Liverpool FC	Manchester United	1:0	2:0	17.12.1995	16:00	1995	1996	18
+Manchester City	Nottingham Forest	1:0	1:1	18.12.1995	20:00	1995	1996	18
+Coventry City	Everton FC	0:0	2:1	23.12.1995	15:00	1995	1996	19
+Liverpool FC	Arsenal FC	1:1	3:1	23.12.1995	15:00	1995	1996	19
+Manchester City	Chelsea FC	0:0	0:1	23.12.1995	15:00	1995	1996	19
+Middlesbrough FC	West Ham United	3:0	4:2	23.12.1995	15:00	1995	1996	19
+Newcastle United	Nottingham Forest	2:1	3:1	23.12.1995	15:00	1995	1996	19
+Queens Park Rangers	Aston Villa	0:0	1:0	23.12.1995	15:00	1995	1996	19
+Sheffield Wednesday	Southampton FC	1:1	2:2	23.12.1995	15:00	1995	1996	19
+Tottenham Hotspur	Bolton Wanderers	0:0	2:2	23.12.1995	15:00	1995	1996	19
+Wimbledon FC	Blackburn Rovers	0:1	1:1	23.12.1995	15:00	1995	1996	19
+Leeds United	Manchester United	2:1	3:1	24.12.1995	16:00	1995	1996	19
+Nottingham Forest	Sheffield Wednesday	1:0	1:0	26.12.1995	16:00	1995	1996	20
+Southampton FC	Tottenham Hotspur	0:0	0:0	26.12.1995	16:00	1995	1996	20
+Arsenal FC	Queens Park Rangers	1:0	3:0	26.12.1995	16:00	1995	1996	20
+Blackburn Rovers	Manchester City	1:0	2:0	26.12.1995	16:00	1995	1996	20
+Chelsea FC	Wimbledon FC	1:2	1:2	26.12.1995	16:00	1995	1996	20
+Everton FC	Middlesbrough FC	2:0	4:0	26.12.1995	16:00	1995	1996	20
+Manchester United	Newcastle United	1:0	2:0	27.12.1995	16:00	1995	1996	20
+Bolton Wanderers	Leeds United	0:1	0:2	27.12.1995	16:00	1995	1996	20
+West Ham United	Coventry City	0:0	3:2	31.01.1996	20:00	1995	1996	20
+Aston Villa	Liverpool FC	0:0	0:2	31.01.1996	20:00	1995	1996	20
+Arsenal FC	Wimbledon FC	1:1	1:3	30.12.1995	15:00	1995	1996	21
+Blackburn Rovers	Tottenham Hotspur	2:0	2:1	30.12.1995	15:00	1995	1996	21
+Bolton Wanderers	Coventry City	1:1	1:2	30.12.1995	15:00	1995	1996	21
+Chelsea FC	Liverpool FC	2:1	2:2	30.12.1995	15:00	1995	1996	21
+Everton FC	Leeds United	1:0	2:0	30.12.1995	15:00	1995	1996	21
+Manchester United	Queens Park Rangers	1:0	2:1	30.12.1995	15:00	1995	1996	21
+Nottingham Forest	Middlesbrough FC	1:0	1:0	30.12.1995	15:00	1995	1996	21
+Southampton FC	Manchester City	0:0	1:1	31.01.1996	20:00	1995	1996	21
+West Ham United	Newcastle United	1:0	2:0	21.02.1996	20:00	1995	1996	21
+Aston Villa	Sheffield Wednesday	0:1	3:2	06.03.1996	20:00	1995	1996	21
+Coventry City	Southampton FC	0:0	1:1	01.01.1996	20:00	1995	1996	22
+Leeds United	Blackburn Rovers	0:0	0:0	01.01.1996	20:00	1995	1996	22
+Liverpool FC	Nottingham Forest	2:2	4:2	01.01.1996	20:00	1995	1996	22
+Manchester City	West Ham United	1:0	2:1	01.01.1996	20:00	1995	1996	22
+Middlesbrough FC	Aston Villa	0:2	0:2	01.01.1996	20:00	1995	1996	22
+Sheffield Wednesday	Bolton Wanderers	2:0	4:2	01.01.1996	20:00	1995	1996	22
+Tottenham Hotspur	Manchester United	2:1	4:1	01.01.1996	20:00	1995	1996	22
+Wimbledon FC	Everton FC	0:3	2:3	01.01.1996	20:00	1995	1996	22
+Newcastle United	Arsenal FC	1:0	2:0	02.01.1996	19:45	1995	1996	22
+Queens Park Rangers	Chelsea FC	0:0	1:2	02.01.1996	19:45	1995	1996	22
+Middlesbrough FC	Arsenal FC	1:1	2:3	13.01.1996	15:00	1995	1996	23
+Manchester United	Aston Villa	0:0	0:0	13.01.1996	15:00	1995	1996	23
+Queens Park Rangers	Blackburn Rovers	0:0	0:1	13.01.1996	15:00	1995	1996	23
+Everton FC	Chelsea FC	1:1	1:1	13.01.1996	15:00	1995	1996	23
+Sheffield Wednesday	Liverpool FC	1:0	1:1	13.01.1996	15:00	1995	1996	23
+Tottenham Hotspur	Manchester City	0:0	1:0	13.01.1996	15:00	1995	1996	23
+Nottingham Forest	Southampton FC	1:0	1:0	13.01.1996	15:00	1995	1996	23
+Leeds United	West Ham United	1:0	2:0	13.01.1996	15:00	1995	1996	23
+Bolton Wanderers	Wimbledon FC	1:0	1:0	13.01.1996	15:00	1995	1996	23
+Coventry City	Newcastle United	0:1	0:1	14.01.1996	16:00	1995	1996	23
+Newcastle United	Bolton Wanderers	2:1	2:1	20.01.1996	15:00	1995	1996	24
+Liverpool FC	Leeds United	1:0	5:0	20.01.1996	15:00	1995	1996	24
+Southampton FC	Middlesbrough FC	0:1	2:1	20.01.1996	15:00	1995	1996	24
+Manchester City	Coventry City	0:0	1:1	20.01.1996	15:00	1995	1996	24
+Arsenal FC	Everton FC	1:0	1:2	20.01.1996	15:00	1995	1996	24
+Chelsea FC	Nottingham Forest	0:0	1:0	20.01.1996	15:00	1995	1996	24
+Wimbledon FC	Queens Park Rangers	1:0	2:1	20.01.1996	15:00	1995	1996	24
+Blackburn Rovers	Sheffield Wednesday	2:0	3:0	20.01.1996	15:00	1995	1996	24
+Aston Villa	Tottenham Hotspur	1:1	2:1	21.01.1996	16:00	1995	1996	24
+West Ham United	Manchester United	0:1	0:1	22.01.1996	20:00	1995	1996	24
+Blackburn Rovers	Bolton Wanderers	1:1	3:1	03.02.1996	15:00	1995	1996	25
+Arsenal FC	Coventry City	1:1	1:1	03.02.1996	15:00	1995	1996	25
+Southampton FC	Everton FC	0:0	2:2	03.02.1996	15:00	1995	1996	25
+Aston Villa	Leeds United	2:0	3:0	03.02.1996	15:00	1995	1996	25
+Wimbledon FC	Manchester United	0:2	2:4	03.02.1996	15:00	1995	1996	25
+West Ham United	Nottingham Forest	1:0	1:0	03.02.1996	15:00	1995	1996	25
+Manchester City	Queens Park Rangers	1:0	2:0	03.02.1996	15:00	1995	1996	25
+Newcastle United	Sheffield Wednesday	0:0	2:0	03.02.1996	15:00	1995	1996	25
+Liverpool FC	Tottenham Hotspur	0:0	0:0	03.02.1996	15:00	1995	1996	25
+Chelsea FC	Middlesbrough FC	3:0	5:0	04.02.1996	16:00	1995	1996	25
+Nottingham Forest	Arsenal FC	0:0	0:1	10.02.1996	15:00	1995	1996	26
+Manchester United	Blackburn Rovers	1:0	1:0	10.02.1996	15:00	1995	1996	26
+Sheffield Wednesday	Wimbledon FC	0:0	2:1	10.02.1996	15:00	1995	1996	26
+Bolton Wanderers	Aston Villa	0:1	0:2	10.02.1996	15:00	1995	1996	26
+Coventry City	Chelsea FC	1:0	1:0	10.02.1996	15:00	1995	1996	26
+Everton FC	Manchester City	1:0	2:0	10.02.1996	15:00	1995	1996	26
+Middlesbrough FC	Newcastle United	1:0	1:2	10.02.1996	15:00	1995	1996	26
+Queens Park Rangers	Liverpool FC	0:2	1:2	11.02.1996	16:00	1995	1996	26
+Tottenham Hotspur	West Ham United	0:1	0:1	12.02.1996	20:00	1995	1996	26
+Leeds United	Southampton FC	0:0	1:0	03.04.1996	20:00	1995	1996	26
+Middlesbrough FC	Bolton Wanderers	1:2	1:4	17.02.1996	15:00	1995	1996	27
+Sheffield Wednesday	Queens Park Rangers	1:1	1:3	17.02.1996	15:00	1995	1996	27
+Chelsea FC	West Ham United	1:0	1:2	17.02.1996	15:00	1995	1996	27
+Aston Villa	Blackburn Rovers	0:0	2:0	28.02.1996	20:00	1995	1996	27
+Arsenal FC	Manchester City	2:0	3:1	05.03.1996	19:45	1995	1996	27
+Liverpool FC	Wimbledon FC	1:0	2:2	13.03.1996	20:00	1995	1996	27
+Nottingham Forest	Coventry City	0:0	0:0	17.04.1996	20:00	1995	1996	27
+Manchester United	Everton FC	1:0	2:0	17.04.1996	20:00	1995	1996	27
+Newcastle United	Southampton FC	1:0	1:0	17.04.1996	20:00	1995	1996	27
+Leeds United	Tottenham Hotspur	1:2	1:3	02.05.1996	20:00	1995	1996	27
+West Ham United	Arsenal FC	0:1	0:1	24.02.1996	15:00	1995	1996	28
+Wimbledon FC	Aston Villa	1:1	3:3	24.02.1996	15:00	1995	1996	28
+Southampton FC	Chelsea FC	2:2	2:3	24.02.1996	15:00	1995	1996	28
+Blackburn Rovers	Liverpool FC	1:2	2:3	24.02.1996	15:00	1995	1996	28
+Coventry City	Middlesbrough FC	0:0	0:0	24.02.1996	15:00	1995	1996	28
+Manchester City	Newcastle United	1:1	3:3	24.02.1996	15:00	1995	1996	28
+Everton FC	Nottingham Forest	0:0	3:0	24.02.1996	15:00	1995	1996	28
+Tottenham Hotspur	Sheffield Wednesday	1:0	1:0	24.02.1996	15:00	1995	1996	28
+Bolton Wanderers	Manchester United	0:2	0:6	25.02.1996	16:00	1995	1996	28
+Queens Park Rangers	Leeds United	1:2	1:2	06.03.1996	20:00	1995	1996	28
+Queens Park Rangers	Arsenal FC	1:0	1:1	02.03.1996	15:00	1995	1996	29
+Manchester City	Blackburn Rovers	0:0	1:1	02.03.1996	15:00	1995	1996	29
+Leeds United	Bolton Wanderers	0:1	0:1	02.03.1996	15:00	1995	1996	29
+Wimbledon FC	Chelsea FC	1:1	1:1	02.03.1996	15:00	1995	1996	29
+Middlesbrough FC	Everton FC	0:2	0:2	02.03.1996	15:00	1995	1996	29
+Sheffield Wednesday	Nottingham Forest	0:1	1:3	02.03.1996	15:00	1995	1996	29
+Tottenham Hotspur	Southampton FC	0:0	1:0	02.03.1996	15:00	1995	1996	29
+Coventry City	West Ham United	2:2	2:2	02.03.1996	15:00	1995	1996	29
+Liverpool FC	Aston Villa	3:0	3:0	03.03.1996	16:00	1995	1996	29
+Newcastle United	Manchester United	0:0	0:1	04.03.1996	20:00	1995	1996	29
+Everton FC	Coventry City	2:1	2:2	09.03.1996	15:00	1995	1996	30
+West Ham United	Middlesbrough FC	1:0	2:0	09.03.1996	15:00	1995	1996	30
+Aston Villa	Queens Park Rangers	1:0	4:2	09.03.1996	15:00	1995	1996	30
+Chelsea FC	Manchester City	1:1	1:1	12.03.1996	19:45	1995	1996	30
+Southampton FC	Sheffield Wednesday	0:1	0:1	20.03.1996	20:00	1995	1996	30
+Bolton Wanderers	Tottenham Hotspur	0:1	2:3	20.03.1996	20:00	1995	1996	30
+Manchester United	Leeds United	0:0	1:0	17.04.1996	20:00	1995	1996	30
+Blackburn Rovers	Wimbledon FC	1:1	3:2	17.04.1996	20:00	1995	1996	30
+Arsenal FC	Liverpool FC	0:0	0:0	01.05.1996	20:00	1995	1996	30
+Nottingham Forest	Newcastle United	0:1	1:1	02.05.1996	20:00	1995	1996	30
+Wimbledon FC	Arsenal FC	0:0	0:3	16.03.1996	15:00	1995	1996	31
+Sheffield Wednesday	Aston Villa	0:0	2:0	16.03.1996	15:00	1995	1996	31
+Tottenham Hotspur	Blackburn Rovers	0:2	2:3	16.03.1996	15:00	1995	1996	31
+Coventry City	Bolton Wanderers	0:0	0:2	16.03.1996	15:00	1995	1996	31
+Liverpool FC	Chelsea FC	0:0	2:0	16.03.1996	15:00	1995	1996	31
+Queens Park Rangers	Manchester United	0:0	1:1	16.03.1996	15:00	1995	1996	31
+Middlesbrough FC	Nottingham Forest	0:0	1:1	16.03.1996	15:00	1995	1996	31
+Manchester City	Southampton FC	2:0	2:1	16.03.1996	15:00	1995	1996	31
+Leeds United	Everton FC	2:1	2:2	17.03.1996	16:00	1995	1996	31
+Newcastle United	West Ham United	1:0	3:0	18.03.1996	20:00	1995	1996	31
+Blackburn Rovers	Leeds United	0:0	1:0	13.03.1996	20:00	1995	1996	32
+Aston Villa	Middlesbrough FC	0:0	0:0	19.03.1996	19:45	1995	1996	32
+Nottingham Forest	Liverpool FC	1:0	1:0	23.03.1996	15:00	1995	1996	32
+West Ham United	Manchester City	1:0	4:2	23.03.1996	15:00	1995	1996	32
+Arsenal FC	Newcastle United	2:0	2:0	23.03.1996	15:00	1995	1996	32
+Chelsea FC	Queens Park Rangers	1:1	1:1	23.03.1996	15:00	1995	1996	32
+Bolton Wanderers	Sheffield Wednesday	1:1	2:1	23.03.1996	15:00	1995	1996	32
+Everton FC	Wimbledon FC	1:1	2:4	23.03.1996	15:00	1995	1996	32
+Manchester United	Tottenham Hotspur	0:0	1:0	24.03.1996	16:00	1995	1996	32
+Southampton FC	Coventry City	1:0	1:0	25.03.1996	20:00	1995	1996	32
+Manchester United	Arsenal FC	0:0	1:0	20.03.1996	20:00	1995	1996	33
+Wimbledon FC	Nottingham Forest	0:0	1:0	30.03.1996	15:00	1995	1996	33
+Queens Park Rangers	Southampton FC	1:0	3:0	30.03.1996	15:00	1995	1996	33
+Tottenham Hotspur	Coventry City	0:1	3:1	30.03.1996	15:00	1995	1996	33
+Blackburn Rovers	Everton FC	0:0	0:3	30.03.1996	15:00	1995	1996	33
+Bolton Wanderers	Manchester City	0:1	1:1	30.03.1996	15:00	1995	1996	33
+Leeds United	Middlesbrough FC	0:1	0:1	30.03.1996	15:00	1995	1996	33
+Liverpool FC	Newcastle United	1:2	4:3	03.04.1996	20:00	1995	1996	33
+Aston Villa	West Ham United	1:0	1:1	17.04.1996	20:00	1995	1996	33
+Sheffield Wednesday	Chelsea FC	0:0	0:0	17.04.1996	20:00	1995	1996	33
+Middlesbrough FC	Sheffield Wednesday	0:0	3:1	05.04.1996	20:00	1995	1996	34
+Chelsea FC	Aston Villa	1:1	1:2	06.04.1996	15:00	1995	1996	34
+Southampton FC	Blackburn Rovers	0:0	1:0	06.04.1996	15:00	1995	1996	34
+Everton FC	Bolton Wanderers	1:0	3:0	06.04.1996	15:00	1995	1996	34
+Arsenal FC	Leeds United	1:0	2:1	06.04.1996	15:00	1995	1996	34
+Coventry City	Liverpool FC	1:0	1:0	06.04.1996	15:00	1995	1996	34
+Manchester City	Manchester United	1:2	2:3	06.04.1996	15:00	1995	1996	34
+Newcastle United	Queens Park Rangers	0:0	2:1	06.04.1996	15:00	1995	1996	34
+Nottingham Forest	Tottenham Hotspur	1:0	2:1	06.04.1996	15:00	1995	1996	34
+West Ham United	Wimbledon FC	1:1	1:1	06.04.1996	15:00	1995	1996	34
+Blackburn Rovers	Newcastle United	0:0	2:1	08.04.1996	20:00	1995	1996	35
+Sheffield Wednesday	Arsenal FC	0:0	1:0	08.04.1996	20:00	1995	1996	35
+Tottenham Hotspur	Middlesbrough FC	0:0	1:1	08.04.1996	20:00	1995	1996	35
+Bolton Wanderers	Chelsea FC	2:1	2:1	08.04.1996	20:00	1995	1996	35
+Manchester United	Coventry City	0:0	1:0	08.04.1996	20:00	1995	1996	35
+Queens Park Rangers	Everton FC	2:0	3:1	08.04.1996	20:00	1995	1996	35
+Wimbledon FC	Manchester City	1:0	3:0	08.04.1996	20:00	1995	1996	35
+Leeds United	Nottingham Forest	1:2	1:3	08.04.1996	20:00	1995	1996	35
+Aston Villa	Southampton FC	0:0	3:0	08.04.1996	20:00	1995	1996	35
+Liverpool FC	West Ham United	2:0	2:0	08.04.1996	20:00	1995	1996	35
+Nottingham Forest	Blackburn Rovers	1:3	1:5	13.04.1996	15:00	1995	1996	36
+West Ham United	Bolton Wanderers	1:0	1:0	13.04.1996	15:00	1995	1996	36
+Chelsea FC	Leeds United	4:0	4:1	13.04.1996	15:00	1995	1996	36
+Southampton FC	Manchester United	3:0	3:1	13.04.1996	15:00	1995	1996	36
+Coventry City	Queens Park Rangers	0:0	1:0	13.04.1996	15:00	1995	1996	36
+Manchester City	Sheffield Wednesday	0:0	1:0	13.04.1996	15:00	1995	1996	36
+Middlesbrough FC	Wimbledon FC	1:1	1:2	13.04.1996	15:00	1995	1996	36
+Newcastle United	Aston Villa	0:0	1:0	14.04.1996	16:00	1995	1996	36
+Arsenal FC	Tottenham Hotspur	0:0	0:0	15.04.1996	20:00	1995	1996	36
+Everton FC	Liverpool FC	1:0	1:1	16.04.1996	19:45	1995	1996	36
+Blackburn Rovers	Arsenal FC	1:0	1:1	27.04.1996	15:00	1995	1996	37
+Tottenham Hotspur	Chelsea FC	0:1	1:1	27.04.1996	15:00	1995	1996	37
+Wimbledon FC	Coventry City	0:0	0:2	27.04.1996	15:00	1995	1996	37
+Sheffield Wednesday	Everton FC	1:3	2:5	27.04.1996	15:00	1995	1996	37
+Aston Villa	Manchester City	0:0	0:1	27.04.1996	15:00	1995	1996	37
+Liverpool FC	Middlesbrough FC	0:0	1:0	27.04.1996	15:00	1995	1996	37
+Bolton Wanderers	Southampton FC	0:1	0:1	27.04.1996	15:00	1995	1996	37
+Queens Park Rangers	West Ham United	0:0	3:0	27.04.1996	15:00	1995	1996	37
+Manchester United	Nottingham Forest	2:0	5:0	28.04.1996	16:00	1995	1996	37
+Leeds United	Newcastle United	0:1	0:1	29.04.1996	20:00	1995	1996	37
+Everton FC	Aston Villa	0:0	1:0	04.05.1996	15:00	1995	1996	38
+Chelsea FC	Blackburn Rovers	1:1	2:3	04.05.1996	15:00	1995	1996	38
+Arsenal FC	Bolton Wanderers	0:0	2:1	04.05.1996	15:00	1995	1996	38
+Coventry City	Leeds United	0:0	0:0	04.05.1996	15:00	1995	1996	38
+Manchester City	Liverpool FC	0:2	2:2	04.05.1996	15:00	1995	1996	38
+Middlesbrough FC	Manchester United	0:1	0:3	04.05.1996	15:00	1995	1996	38
+Nottingham Forest	Queens Park Rangers	1:0	3:0	04.05.1996	15:00	1995	1996	38
+West Ham United	Sheffield Wednesday	0:0	1:1	04.05.1996	15:00	1995	1996	38
+Newcastle United	Tottenham Hotspur	0:0	1:1	04.05.1996	15:00	1995	1996	38
+Southampton FC	Wimbledon FC	0:0	0:0	04.05.1996	15:00	1995	1996	38
