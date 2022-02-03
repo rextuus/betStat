@@ -27,6 +27,7 @@ class LeagueFactory
     public function mapData(LeagueData $data, League $league)
     {
         $league->setIdent($data->getIdent());
+        $league->setApiId($data->getApiId());
 
         return $league;
     }

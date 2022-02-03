@@ -4,6 +4,7 @@
 namespace App\Service\Club;
 
 use App\Entity\Club;
+use App\Entity\League;
 use App\Repository\ClubRepository;
 
 class ClubService
@@ -68,4 +69,30 @@ class ClubService
         return $this->clubRepository->findOneBy(['id' => $id]);
     }
 
+    /**
+     * @param int $apiKey
+     * @return Club|null
+     */
+    public function findByApiKey(int $apiKey): ?Club
+    {
+        return $this->clubRepository->findOneBy(['apiId' => $apiKey]);
+    }
+
+    /**
+     * @param Club $club
+     * @param ClubData $clubData
+     * @return Club
+     * @throws \Doctrine\ORM\ORMException
+     */
+    public function updateClub(Club $club, ClubData $clubData): Club
+    {
+        $club = $this->clubFactory->mapData($clubData, $club);
+        $this->clubRepository->persist($club);
+        return $club;
+    }
+
+    public function findByLeagueAndSeason(League $league, int $seasonYear)
+    {
+        return $this->clubRepository->findByLeagueAndSeason($league, $seasonYear);
+    }
 }

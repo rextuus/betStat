@@ -3,6 +3,7 @@
 namespace App\Repository;
 
 use App\Entity\Club;
+use App\Entity\Fixture;
 use App\Entity\League;
 use App\Entity\MatchDayGame;
 use App\Entity\Season;
@@ -81,7 +82,7 @@ class SeasonRepository extends ServiceEntityRepository
     {
         $qb = $this->createQueryBuilder('s');
         $qb->select('m');
-        $qb->innerJoin(MatchDayGame::class, 'm', 'WITH', 'm.season = s.id')
+        $qb->innerJoin(Fixture::class, 'f', 'WITH', 'm.season = s.id')
             ->where($qb->expr()->eq('s.startYear', ':startYear'))
             ->andWhere($qb->expr()->eq('s.endYear', ':endYear'))
             ->andWhere($qb->expr()->eq('s.league', ':league'))
@@ -123,6 +124,18 @@ class SeasonRepository extends ServiceEntityRepository
             ->where($qb->expr()->eq('l.ident', ':ident'))
             ->andWhere($qb->expr()->eq('s.startYear', ':startYear'));
         $qb->setParameter('ident', $leagueIdent)
+            ->setParameter('startYear', $seasonYear)
+            ->distinct();
+        return $qb->getQuery()->getResult();
+    }
+
+    public function findBySeasonAndRound(League $league, int $seasonYear, int $round)
+    {
+        $qb = $this->createQueryBuilder('s');
+        $qb->innerJoin(League::class, 'l', 'WITH', 's.league = l')
+            ->where($qb->expr()->eq('l.id', ':leagueId'))
+            ->andWhere($qb->expr()->eq('s.startYear', ':startYear'));
+        $qb->setParameter('leagueId', $league->getId())
             ->setParameter('startYear', $seasonYear)
             ->distinct();
         return $qb->getQuery()->getResult();

@@ -4,6 +4,7 @@
 namespace App\Service\Club;
 
 
+use App\Entity\Club;
 use App\Entity\League;
 
 class ClubData
@@ -17,6 +18,21 @@ class ClubData
      * @var League
      */
     private $league;
+
+    /**
+     * @var string
+     */
+    private $form;
+
+    /**
+     * @var int
+     */
+    private $apiId;
+
+    /**
+     * @var int
+     */
+    private $formRound;
 
     /**
      * @return string
@@ -48,5 +64,70 @@ class ClubData
     public function setLeague(League $league): void
     {
         $this->league = $league;
+    }
+
+    /**
+     * @return string
+     */
+    public function getForm(): string
+    {
+        return $this->form;
+    }
+
+    /**
+     * @param string $form
+     */
+    public function setForm(string $form): void
+    {
+        $this->form = $form;
+    }
+
+    /**
+     * @return int
+     */
+    public function getApiId(): int
+    {
+        return $this->apiId;
+    }
+
+    /**
+     * @param int $apiId
+     */
+    public function setApiId(int $apiId): void
+    {
+        $this->apiId = $apiId;
+    }
+
+    /**
+     * @return int
+     */
+    public function getFormRound(): int
+    {
+        return $this->formRound;
+    }
+
+    /**
+     * @param int $formRound
+     */
+    public function setFormRound(int $formRound): void
+    {
+        $this->formRound = $formRound;
+    }
+
+
+    /**
+     * @param Club $club
+     * @return ClubData
+     */
+    public function initFrom(Club $club): ClubData
+    {
+        $clubData = new self();
+        $clubData->setApiId($club->getApiId());
+        $clubData->setForm($club->getCurrentForm());
+        $clubData->setName($club->getName());
+        $clubData->setLeague($club->getLeague());
+        $clubData->setFormRound($club->getFormRound());
+
+        return $clubData;
     }
 }

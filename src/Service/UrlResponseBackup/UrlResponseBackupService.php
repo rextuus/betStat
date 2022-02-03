@@ -4,8 +4,11 @@
 namespace App\Service\UrlResponseBackup;
 
 
+use App\Entity\League;
 use App\Entity\UrlResponseBackup;
 use App\Repository\UrlResponseBackupRepository;
+use Doctrine\ORM\OptimisticLockException;
+use Doctrine\ORM\ORMException;
 
 class UrlResponseBackupService
 {
@@ -34,6 +37,7 @@ class UrlResponseBackupService
      * @param UrlResponseBackupData $data
      * @return UrlResponseBackup
      * @throws ORMException
+     * @throws OptimisticLockException
      */
     public function createByData(UrlResponseBackupData $data)
     {
@@ -42,8 +46,8 @@ class UrlResponseBackupService
         return $urlResponseBackup;
     }
 
-    public function findByLeague($int)
+    public function findByLeague(League $league, int $matchDay)
     {
-        return $this->urlResponseBackupRepository->find(21);
+        return $this->urlResponseBackupRepository->findBy(['league' => $league->getId(), 'matchDay' => $matchDay]);
     }
 }

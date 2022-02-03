@@ -43,7 +43,13 @@ class SeasonService
         return $season;
     }
 
-    public function findByYears(string $startYear, string $endYear, League $league)
+    /**
+     * @param int $startYear
+     * @param int $endYear
+     * @param League $league
+     * @return Season|null
+     */
+    public function findByYears(int $startYear, int $endYear, League $league): ?Season
     {
         return $this->seasonRepository->findOneBy(['startYear' => $startYear, 'endYear' => $endYear, 'league' => $league->getId()]);
     }
@@ -71,6 +77,11 @@ class SeasonService
     public function getSeasonByLeagueAndStartYear(string $leagueIdent, int $startYear)
     {
         return $this->seasonRepository->findByLeagueIdentAndYear($leagueIdent, $startYear)[0];
+    }
+
+    public function findBySeasonAndRound(League $league, int $seasonYear, int $round)
+    {
+        return $this->seasonRepository->findBySeasonAndRound($league, $seasonYear, $round);
     }
 
 }

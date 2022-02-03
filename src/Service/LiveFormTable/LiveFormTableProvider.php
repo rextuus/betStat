@@ -9,12 +9,14 @@ use App\Service\Club\ClubService;
 use App\Service\League\LeagueService;
 use App\Service\MatchGame\MatchDayGameService;
 use App\Service\Season\SeasonService;
+use App\Service\UrlResponseBackup\UrlResponseBackupService;
 use DateTime;
 use Doctrine\ORM\NonUniqueResultException;
 use Doctrine\ORM\NoResultException;
 use DOMElement;
 use ErrorException;
 use Exception;
+use Proxies\__CG__\App\Entity\UrlResponseBackup;
 use Symfony\Component\DomCrawler\Crawler;
 use Symfony\Component\HttpClient\HttpClient;
 use Symfony\Contracts\HttpClient\Exception\ClientExceptionInterface;
@@ -22,6 +24,7 @@ use Symfony\Contracts\HttpClient\Exception\RedirectionExceptionInterface;
 use Symfony\Contracts\HttpClient\Exception\ServerExceptionInterface;
 use Symfony\Contracts\HttpClient\Exception\TransportExceptionInterface;
 use function PHPUnit\Framework\isEmpty;
+use function PHPUnit\Framework\isNull;
 
 class LiveFormTableProvider
 {
@@ -87,6 +90,10 @@ class LiveFormTableProvider
      * @var SeasonService
      */
     private $seasonService;
+    /**
+     * @var UrlResponseBackupService
+     */
+    private $urlResponseBackupService;
 
     /**
      * LiveFormTableProvider constructor.
@@ -94,18 +101,21 @@ class LiveFormTableProvider
      * @param ClubService $clubService
      * @param MatchDayGameService $matchDayGameService
      * @param SeasonService $seasonService
+     * @param UrlResponseBackupService $urlResponseBackupService
      */
     public function __construct(
         LeagueService $leagueService,
         ClubService $clubService,
         MatchDayGameService $matchDayGameService,
-        SeasonService $seasonService
+        SeasonService $seasonService,
+        UrlResponseBackupService $urlResponseBackupService
     )
     {
         $this->leagueService = $leagueService;
         $this->clubService = $clubService;
         $this->matchDayGameService = $matchDayGameService;
         $this->seasonService = $seasonService;
+        $this->urlResponseBackupService = $urlResponseBackupService;
     }
 
     /**
@@ -132,9 +142,28 @@ class LiveFormTableProvider
             $matchDayUrl = self::BASE_URL . $this->getMatchDayLinkByLeague($leagueName);
             $matches = [];
             try {
-                $matches = $this->calculateLiveForms($matchDayUrl, $league['teams']);
+                // get html raw site
+                $httpClient = HttpClient::create();
+                $response = $httpClient->request('GET', $matchDayUrl);
+
+                $matches = $this->calculateLiveForms($response->getContent());
             } catch (Exception $e) {
                 $errors[] = $leagueName;
+            }
+
+            // check if there was errors => try some backup urls
+            if (in_array($leagueName, $errors)){
+                dump($currentSeason->getLeague());
+                dump($this->getMatchDayByLeague($leagueName));
+                $urlBackups = $this->urlResponseBackupService->findByLeague(
+                    $currentSeason->getLeague(),
+                    $this->getMatchDayByLeague($leagueName)
+                );
+
+
+                if (!isEmpty($urlBackups) && $matchDayUrl == $urlBackups[0]->getUrl()){
+                    $matches = $this->calculateLiveForms($urlBackups[0]->getRawContent());
+                }
             }
 
             // check matches for candidates to bet on
@@ -223,22 +252,17 @@ class LiveFormTableProvider
     }
 
     /**
-     * @param string $url
-     * @param int $numberOfTeams
+     * @param string $httpResponseContent
      * @return array
-     * @throws ClientExceptionInterface
-     * @throws RedirectionExceptionInterface
-     * @throws ServerExceptionInterface
-     * @throws TransportExceptionInterface
      */
-    public function calculateLiveForms(string $url, int $numberOfTeams)
+    public function calculateLiveForms(string $httpResponseContent)
     {
         // get html raw site
-        $httpClient = HttpClient::create();
-        $response = $httpClient->request('GET', $url);
+//        $httpClient = HttpClient::create();
+//        $response = $httpClient->request('GET', $url);
 
         // remove spaces
-        $cleanHttpResponseContent = preg_replace("/\s+/", " ", $response->getContent());
+        $cleanHttpResponseContent = preg_replace("/\s+/", " ", $httpResponseContent);
 
         // get clubs
         $clubs = $this->extractClubsFromResponse($cleanHttpResponseContent);
@@ -251,7 +275,7 @@ class LiveFormTableProvider
             $matchCandidates[] = $liveFormEntry;
         }
 
-        $crawler = new Crawler($response->getContent());
+        $crawler = new Crawler($httpResponseContent);
 
         // get home serieses
         $homeFormCrawler = $crawler->filter('td[class="rechts-no-padding hide-for-small"]');
@@ -287,6 +311,9 @@ class LiveFormTableProvider
 
         return $matchCandidates;
     }
+
+
+
 
     /**
      * @param string $cleanHttpResponseContent

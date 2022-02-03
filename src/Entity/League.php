@@ -39,11 +39,22 @@ class League
      */
     private $urlResponseBackups;
 
+    /**
+     * @ORM\Column(type="integer")
+     */
+    private $apiId;
+
+    /**
+     * @ORM\OneToMany(targetEntity=Fixture::class, mappedBy="league")
+     */
+    private $fixtures;
+
     public function __construct()
     {
         $this->clubs = new ArrayCollection();
         $this->seasons = new ArrayCollection();
         $this->urlResponseBackups = new ArrayCollection();
+        $this->fixtures = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -147,6 +158,48 @@ class League
             // set the owning side to null (unless already changed)
             if ($urlResponseBackup->getLeague() === $this) {
                 $urlResponseBackup->setLeague(null);
+            }
+        }
+
+        return $this;
+    }
+
+    public function getApiId(): ?int
+    {
+        return $this->apiId;
+    }
+
+    public function setApiId(int $apiId): self
+    {
+        $this->apiId = $apiId;
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Fixture[]
+     */
+    public function getFixtures(): Collection
+    {
+        return $this->fixtures;
+    }
+
+    public function addFixture(Fixture $fixture): self
+    {
+        if (!$this->fixtures->contains($fixture)) {
+            $this->fixtures[] = $fixture;
+            $fixture->setLeague($this);
+        }
+
+        return $this;
+    }
+
+    public function removeFixture(Fixture $fixture): self
+    {
+        if ($this->fixtures->removeElement($fixture)) {
+            // set the owning side to null (unless already changed)
+            if ($fixture->getLeague() === $this) {
+                $fixture->setLeague(null);
             }
         }
 

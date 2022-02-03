@@ -3,6 +3,8 @@
 namespace App\Repository;
 
 use App\Entity\Club;
+use App\Entity\League;
+use App\Entity\Season;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 
@@ -55,5 +57,14 @@ class ClubRepository extends ServiceEntityRepository
     {
         $this->_em->persist($club);
         $this->_em->flush();
+    }
+
+    public function findByLeagueAndSeason(?\App\Entity\League $league, int $seasonYear)
+    {
+        $qb = $this->createQueryBuilder('c');
+        $qb->where($qb->expr()->in('c', ':clubs'));
+        $qb->setParameter('clubs', $league->getClubs())
+            ->distinct();
+        return $qb->getQuery()->getResult();
     }
 }

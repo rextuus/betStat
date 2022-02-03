@@ -12,7 +12,7 @@ use App\Service\MatchGame\MatchDayGameService;
 use App\Service\Season\SeasonService;
 use App\Service\SeasonTable\SeasonTableData;
 use App\Service\SeasonTable\SeasonTableService;
-use App\Service\TableEntry\TableEntryData;
+use App\Service\TableEntry\SeedinData;
 use App\Service\TableEntry\TableEntryService;
 use Doctrine\ORM\ORMException;
 use Exception;
@@ -101,12 +101,12 @@ class SeasonTableConstructor
 
     /**
      * @param MatchDayGame $matchDayGame
-     * @param TableEntryData $tableEntryDataHomeTeam
-     * @param TableEntryData $tableEntryDataAwayTeam
+     * @param SeedinData $tableEntryDataHomeTeam
+     * @param SeedinData $tableEntryDataAwayTeam
      * @return array
      * @throws ORMException
      */
-    private function calculatePoints(MatchDayGame $matchDayGame, TableEntryData $tableEntryDataHomeTeam, TableEntryData $tableEntryDataAwayTeam)
+    private function calculatePoints(MatchDayGame $matchDayGame, SeedinData $tableEntryDataHomeTeam, SeedinData $tableEntryDataAwayTeam)
     {
         if ($matchDayGame->getHomeGoalsSecond() > $matchDayGame->getAwayGoalsSecond()) {
             $tableEntryDataHomeTeam->setWins(1);
@@ -154,14 +154,14 @@ class SeasonTableConstructor
         $matchesOfMatchDay = $this->matchDayGameService->getAllMatchesBelongingToMatchDayAndSeason($seasonTable->getMatchDay(), $season);
         $entries = array();
         foreach ($matchesOfMatchDay as $matchDayGame) {
-            $tableEntryDataHomeTeam = new TableEntryData();
+            $tableEntryDataHomeTeam = new SeedinData();
             $tableEntryDataHomeTeam->setGoals($matchDayGame->getHomeGoalsSecond());
             $tableEntryDataHomeTeam->setConcededGoals($matchDayGame->getAwayGoalsSecond());
             $tableEntryDataHomeTeam->setClub($matchDayGame->getHomeTeam());
             $tableEntryDataHomeTeam->setSeasonTable($seasonTable);
             $tableEntryDataHomeTeam->setPosition(1);
 
-            $tableEntryDataAwayTeam = new TableEntryData();
+            $tableEntryDataAwayTeam = new SeedinData();
             $tableEntryDataAwayTeam->setGoals($matchDayGame->getAwayGoalsSecond());
             $tableEntryDataAwayTeam->setConcededGoals($matchDayGame->getHomeGoalsSecond());
             $tableEntryDataAwayTeam->setClub($matchDayGame->getAwayTeam());
@@ -175,7 +175,7 @@ class SeasonTableConstructor
             $previousSeasonTable = $this->seasonTableService->getPreviousSeason($seasonTable);
             $previousEntries = $this->tableEntryService->getEntriesForTable($previousSeasonTable[0]);
             foreach ($entries as $entry) {
-                /** @var TableEntryData $entry */
+                /** @var SeedinData $entry */
                 foreach ($previousEntries as $previousEntry) {
                     if ($entry->getClub()->getId() == $previousEntry->getClub()->getId()) {
                         $entry->setPoints($entry->getPoints() + $previousEntry->getPoints());

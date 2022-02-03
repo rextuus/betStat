@@ -50,12 +50,39 @@ class Club
      */
     private $tableEntries;
 
+    /**
+     * @ORM\Column(type="integer")
+     */
+    private $apiId;
+
+    /**
+     * @ORM\Column(type="string", length=255)
+     */
+    private $currentForm;
+
+    /**
+     * @ORM\OneToMany(targetEntity=Fixture::class, mappedBy="homeTeam")
+     */
+    private $fixtures;
+
+    /**
+     * @ORM\OneToMany(targetEntity=Seeding::class, mappedBy="club")
+     */
+    private $seedings;
+
+    /**
+     * @ORM\Column(type="integer")
+     */
+    private $formRound;
+
     public function __construct()
     {
         $this->matchGames = new ArrayCollection();
         $this->formTableStatistics = new ArrayCollection();
         $this->seasons = new ArrayCollection();
         $this->tableEntries = new ArrayCollection();
+        $this->fixtures = new ArrayCollection();
+        $this->seedings = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -200,6 +227,102 @@ class Club
                 $tableEntry->setClub(null);
             }
         }
+
+        return $this;
+    }
+
+    public function getApiId(): ?int
+    {
+        return $this->apiId;
+    }
+
+    public function setApiId(int $apiId): self
+    {
+        $this->apiId = $apiId;
+
+        return $this;
+    }
+
+    public function getCurrentForm(): ?string
+    {
+        return $this->currentForm;
+    }
+
+    public function setCurrentForm(string $currentForm): self
+    {
+        $this->currentForm = $currentForm;
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Fixture[]
+     */
+    public function getFixtures(): Collection
+    {
+        return $this->fixtures;
+    }
+
+    public function addFixture(Fixture $fixture): self
+    {
+        if (!$this->fixtures->contains($fixture)) {
+            $this->fixtures[] = $fixture;
+            $fixture->setHomeTeam($this);
+        }
+
+        return $this;
+    }
+
+    public function removeFixture(Fixture $fixture): self
+    {
+        if ($this->fixtures->removeElement($fixture)) {
+            // set the owning side to null (unless already changed)
+            if ($fixture->getHomeTeam() === $this) {
+                $fixture->setHomeTeam(null);
+            }
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Seeding[]
+     */
+    public function getSeedings(): Collection
+    {
+        return $this->seedings;
+    }
+
+    public function addSeeding(Seeding $seeding): self
+    {
+        if (!$this->seedings->contains($seeding)) {
+            $this->seedings[] = $seeding;
+            $seeding->setClub($this);
+        }
+
+        return $this;
+    }
+
+    public function removeSeeding(Seeding $seeding): self
+    {
+        if ($this->seedings->removeElement($seeding)) {
+            // set the owning side to null (unless already changed)
+            if ($seeding->getClub() === $this) {
+                $seeding->setClub(null);
+            }
+        }
+
+        return $this;
+    }
+
+    public function getFormRound(): ?int
+    {
+        return $this->formRound;
+    }
+
+    public function setFormRound(int $formRound): self
+    {
+        $this->formRound = $formRound;
 
         return $this;
     }

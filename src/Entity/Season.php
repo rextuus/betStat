@@ -55,12 +55,24 @@ class Season
      */
     private $clubs;
 
+    /**
+     * @ORM\OneToMany(targetEntity=Fixture::class, mappedBy="season")
+     */
+    private $fixtures;
+
+    /**
+     * @ORM\OneToMany(targetEntity=Seeding::class, mappedBy="season")
+     */
+    private $seedings;
+
     public function __construct()
     {
         $this->matchDayGames = new ArrayCollection();
         $this->formTableStatistics = new ArrayCollection();
         $this->seasonTables = new ArrayCollection();
         $this->clubs = new ArrayCollection();
+        $this->fixtures = new ArrayCollection();
+        $this->seedings = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -232,5 +244,65 @@ class Season
     public function getNumberOfClubs()
     {
         return count($this->getClubs());
+    }
+
+    /**
+     * @return Collection|Fixture[]
+     */
+    public function getFixtures(): Collection
+    {
+        return $this->fixtures;
+    }
+
+    public function addFixture(Fixture $fixture): self
+    {
+        if (!$this->fixtures->contains($fixture)) {
+            $this->fixtures[] = $fixture;
+            $fixture->setSeason($this);
+        }
+
+        return $this;
+    }
+
+    public function removeFixture(Fixture $fixture): self
+    {
+        if ($this->fixtures->removeElement($fixture)) {
+            // set the owning side to null (unless already changed)
+            if ($fixture->getSeason() === $this) {
+                $fixture->setSeason(null);
+            }
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return Collection|Seeding[]
+     */
+    public function getSeedings(): Collection
+    {
+        return $this->seedings;
+    }
+
+    public function addSeeding(Seeding $seeding): self
+    {
+        if (!$this->seedings->contains($seeding)) {
+            $this->seedings[] = $seeding;
+            $seeding->setSeason($this);
+        }
+
+        return $this;
+    }
+
+    public function removeSeeding(Seeding $seeding): self
+    {
+        if ($this->seedings->removeElement($seeding)) {
+            // set the owning side to null (unless already changed)
+            if ($seeding->getSeason() === $this) {
+                $seeding->setSeason(null);
+            }
+        }
+
+        return $this;
     }
 }

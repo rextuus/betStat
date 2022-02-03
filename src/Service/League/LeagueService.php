@@ -50,4 +50,18 @@ class LeagueService
     {
         return $this->leagueRepository->getNumberOfTeamsOfLastSeason($leagueIdent)[0]->getNumberOfClubs();
     }
+
+    /**
+     * @param int $apiKey
+     * @return League|null
+     */
+    public function findByApiKey(int $apiKey): ?League
+    {
+        return $this->leagueRepository->findOneBy(['apiId' => $apiKey]);
+    }
+
+    public function findByIdent(string $ident)
+    {
+        return $this->leagueRepository->findOneBy(['ident' => $ident]);
+    }
 }

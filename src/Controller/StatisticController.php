@@ -2,17 +2,24 @@
 
 namespace App\Controller;
 
-use App\Service\Club\ClubData;
+use App\Service\Api\FootballApiGateway;
 use App\Service\Club\ClubService;
 use App\Service\Import\RawFileImporter;
 use App\Service\LiveFormTable\LiveFormTableProvider;
 use App\Service\Season\SeasonService;
 use App\Service\SeasonTable\SeasonTableService;
 use App\Service\TableEntry\TableEntryService;
+use App\Service\UrlResponseBackup\UrlBackuper;
 use Doctrine\ORM\NonUniqueResultException;
-use Doctrine\ORM\NoResultException;
+use Doctrine\ORM\OptimisticLockException;
+use Doctrine\ORM\ORMException;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
+use Symfony\Contracts\HttpClient\Exception\ClientExceptionInterface;
+use Symfony\Contracts\HttpClient\Exception\RedirectionExceptionInterface;
+use Symfony\Contracts\HttpClient\Exception\ServerExceptionInterface;
+use Symfony\Contracts\HttpClient\Exception\TransportExceptionInterface;
+use Sensio\Bundle\FrameworkExtraBundle\Configuration\IsGranted;
 use Symfony\Component\Routing\Annotation\Route;
 
 
@@ -65,14 +72,50 @@ class StatisticController extends AbstractController
      * @Route("/weekend", name="show_weekend")
      * @param LiveFormTableProvider $liveFormTableProvider
      * @return Response
-     * @throws NoResultException
      * @throws NonUniqueResultException
+     * @throws ClientExceptionInterface
+     * @throws RedirectionExceptionInterface
+     * @throws ServerExceptionInterface
+     * @throws TransportExceptionInterface
      */
     public function showWeekend(
         LiveFormTableProvider $liveFormTableProvider
     ): Response
     {
-        $leagues = [
+        $candidates = $liveFormTableProvider->getAllCandidatesForWeekend();
+        dump($candidates->getErrors());
+        return $this->render('statistic/weekend.html.twig', [
+            'candidates' => $candidates->getMatches(),
+            'errors' => $candidates->getErrors(),
+            'leagues' => $this->getLeagueUrls()
+        ]);
+    }
+
+    /**
+     * @Route("/backup", name="backup_url")
+     * @param UrlBackuper $urlBackuper
+     * @return Response
+     * @throws ClientExceptionInterface
+     * @throws RedirectionExceptionInterface
+     * @throws ServerExceptionInterface
+     * @throws TransportExceptionInterface
+     * @throws ORMException
+     * @throws OptimisticLockException
+     */
+    public function backupUrls(
+        UrlBackuper $urlBackuper
+    ): Response
+    {
+        $urlBackuper->backupUrls();
+        return $this->redirect('show_weekend');
+    }
+
+    /**
+     * @return array
+     */
+    private function getLeagueUrls(): array
+    {
+        return [
             'en1' => 'https://www.transfermarkt.de/premier-league/spieltagtabelle/wettbewerb/GB1/saison_id/2021',
             'en2' =>
                 'https://www.transfermarkt.de/championship/spieltagtabelle/wettbewerb/GB2/saison_id/2021'
@@ -100,14 +143,19 @@ class StatisticController extends AbstractController
             ,
             'de2' =>
                 'https://www.transfermarkt.de/2-de1/spieltagtabelle/wettbewerb/L2/saison_id/2021'
-
         ];
+    }
 
-        $candidates = $liveFormTableProvider->getAllCandidatesForWeekend();dump($candidates->getErrors());
-        return $this->render('statistic/weekend.html.twig', [
-            'candidates' => $candidates->getMatches(),
-            'errors' => $candidates->getErrors(),
-            'leagues' => $leagues
-        ]);
+    /**
+     * @Route("/test", name="backup_url")
+     * @param FootballApiGateway $footballApiGateway
+     * @return Response
+     */
+    public function test(
+        FootballApiGateway $footballApiGateway
+    ): Response
+    {
+        dd($footballApiGateway->getNextFixturesForLeagueAndRound(39, 2021, 1));
+        return $this->redirect('show_weekend');
     }
 }

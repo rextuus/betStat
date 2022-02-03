@@ -24,6 +24,8 @@ class ClubFactory
     {
         $club->setName($data->getName());
         $club->setLeague($data->getLeague());
+        $club->setCurrentForm($data->getForm());
+        $club->setApiId($data->getApiId());
         return $club;
     }
 
