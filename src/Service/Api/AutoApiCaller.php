@@ -92,10 +92,10 @@ class AutoApiCaller
         $this->identifyCandidates();
         // 3. decorate fixtures
         $this->goOnWithBetDecoration();
-        // 4. update last played round (results)
-        $this->updateResultsOfAlreadyFinishedFixtures();
         // 5. get fixtures for older rounds
         $this->increaseOldFixtureStock();
+        // 4. update last played round (results)
+        $this->updateResultsOfAlreadyFinishedFixtures();
     }
 
     public function increaseOldFixtureStock(): bool

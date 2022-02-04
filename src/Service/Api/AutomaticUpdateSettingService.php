@@ -81,7 +81,7 @@ class AutomaticUpdateSettingService
         return true;
     }
 
-    public function setCompletedRoundByLeague(int $leagueIdent, int $completedRound)
+    public function setCompletedRoundByLeague(string $leagueIdent, int $completedRound)
     {
         $automaticUpdateSetting = $this->automaticUpdateSettingRepository->find(1);
         $completedRounds = $automaticUpdateSetting->getCompletedRounds();
