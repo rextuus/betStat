@@ -185,7 +185,7 @@ class UpdateService
             $seasonData->setClubs($clubs);
             $seasonData->setStartYear($standings->getSeasonStartYear());
             $seasonData->setEndYear($standings->getSeasonStartYear()+1);
-            $this->seasonService->createByData($seasonData);
+            $season = $this->seasonService->createByData($seasonData);
         }
 
         foreach ($seedingsData as $seedingData){
