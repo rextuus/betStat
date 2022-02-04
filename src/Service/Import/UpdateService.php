@@ -20,6 +20,7 @@ use App\Service\Season\SeasonData;
 use App\Service\Season\SeasonService;
 use App\Service\Seeding\SeedingData;
 use App\Service\Seeding\SeedingService;
+use function PHPUnit\Framework\isNull;
 
 class UpdateService
 {
@@ -225,7 +226,6 @@ class UpdateService
             return false;
         }
         $fixtureResponses = $this->footballApiGateway->getOddsForFixture($fixtureApiId);
-        dump($fixtureResponses);
         foreach ($fixtureResponses as $fixtureResponse){
             $oddData = new FixtureOddData();
             // get Fixture for odd
@@ -321,6 +321,10 @@ class UpdateService
         foreach ($fixturesResponses as $fixtureResponse) {
             /** @var FixtureResponse $fixtureResponse */
             $fixtureToUpdate = $this->fixtureService->findByApiKey($fixtureResponse->getApiId());
+            if (isNull($fixtureToUpdate)){
+                dump($fixtureResponse);
+                continue;
+            }
             $fixtureData = (new FixtureData())->initFrom($fixtureToUpdate);
             $fixtureData->setScoreHomeFull($fixtureResponse->getScoreHomeFullTime());
             $fixtureData->setScoreHomeHalf($fixtureResponse->getScoreHomeHalfTime());

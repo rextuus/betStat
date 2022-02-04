@@ -14,6 +14,8 @@ use function PHPUnit\Framework\isEmpty;
 
 class AutoApiCaller
 {
+    private const DEFAULT_LIMIT = 50;
+
     /**
      * @var UpdateService
      */
@@ -68,6 +70,10 @@ class AutoApiCaller
         $this->fixtureService = $fixtureService;
         $this->clubService = $clubService;
         $this->fixtureDecorateLimit = $fixtureDecorateLimit;
+
+        if ($this->fixtureDecorateLimit < self::DEFAULT_LIMIT){
+            $this->fixtureDecorateLimit = self::DEFAULT_LIMIT;
+        }
     }
 
 
