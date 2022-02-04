@@ -187,6 +187,7 @@ class AutoApiCaller
         while (!is_null($fixtureToDecorate) && $nrOfStoredOdds <= $this->fixtureDecorateLimit){
             // getOddsForFixture will return false if no api calls were left
             $oddsStored = $this->updateService->storeOddsForFixture($fixtureToDecorate->getApiId());
+            dump($oddsStored);
             if($oddsStored){
                 // set Fixture flag to decorated
                 $fixtureUpdateData = (new FixtureData())->initFrom($fixtureToDecorate);
