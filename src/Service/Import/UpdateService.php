@@ -124,9 +124,6 @@ class UpdateService
 
     public function updateLeagues(){
         foreach (self::LEAGUES as $leagueName => $apiKey){
-            // check if league is up to date
-            $league = $this->leagueService->findByApiKey($apiKey);
-            $clubs = $this->clubService->findByLeagueAndSeason($league, 2021);
             $this->updateLeague($leagueName, $apiKey, 2021);
         }
     }

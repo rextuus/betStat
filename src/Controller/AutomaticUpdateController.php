@@ -3,6 +3,7 @@
 
 namespace App\Controller;
 
+use App\Service\Api\AutoApiCaller;
 use App\Service\Api\AutomaticUpdateSettingService;
 use App\Service\Api\FootballApiManagerService;
 use Doctrine\ORM\OptimisticLockException;
@@ -30,14 +31,21 @@ class AutomaticUpdateController extends AbstractController
     private $footballApiManagerService;
 
     /**
+     * @var AutoApiCaller
+     */
+    private $autoApiCaller;
+
+    /**
      * AutomaticUpdateController constructor.
      * @param AutomaticUpdateSettingService $automaticUpdateSettingService
      * @param FootballApiManagerService $footballApiManagerService
+     * @param AutoApiCaller $autoApiCaller
      */
-    public function __construct(AutomaticUpdateSettingService $automaticUpdateSettingService, FootballApiManagerService $footballApiManagerService)
+    public function __construct(AutomaticUpdateSettingService $automaticUpdateSettingService, FootballApiManagerService $footballApiManagerService, AutoApiCaller $autoApiCaller)
     {
         $this->automaticUpdateSettingService = $automaticUpdateSettingService;
         $this->footballApiManagerService = $footballApiManagerService;
+        $this->autoApiCaller = $autoApiCaller;
     }
 
     /**
@@ -63,6 +71,18 @@ class AutomaticUpdateController extends AbstractController
     ): Response
     {
         $this->footballApiManagerService->resetApiCallCounter();
+        return $this->render('<h1>Reset succeeded</h1>');
+    }
+
+    /**
+     * @Route("/process", name="process")
+     * @return Response
+     * @throws \Exception
+     */
+    public function processDaily(
+    ): Response
+    {
+        $this->autoApiCaller->useFullApiCallLimit();
         return $this->render('<h1>Reset succeeded</h1>');
     }
 }

@@ -94,4 +94,16 @@ class FixtureRepository extends ServiceEntityRepository
         $qb->setParameter('league', $league);
         return $qb->getQuery()->getResult();
     }
+
+    public function findUndecorated()
+    {
+        $qb = $this->createQueryBuilder('f');
+        $qb->select('f')
+            ->where($qb->expr()->isNull('f.scoreHomeHalf'))
+            ->orWhere($qb->expr()->isNull('f.scoreAwayHalf'))
+            ->orWhere($qb->expr()->isNull('f.scoreHomeFull'))
+            ->orWhere($qb->expr()->isNull('f.scoreAwayFull'))
+            ->orderBy('f.timeStamp', 'DESC');
+        return $qb->getQuery()->getResult();
+    }
 }

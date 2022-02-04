@@ -85,4 +85,9 @@ class FixtureService
     {
         return $this->fixtureRepository->find($dbId);
     }
+
+    public function getUndecoratedFixtures()
+    {
+        return $this->fixtureRepository->findUndecorated();
+    }
 }

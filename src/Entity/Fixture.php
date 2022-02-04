@@ -301,4 +301,19 @@ class Fixture
 
         return $this;
     }
+
+    public function __toString()
+    {
+        $output = sprintf(
+            "%d: %s [%d] - [%d] %s (%s)",
+            $this->getMatchDay(),
+            $this->getHomeTeam()->getName(),
+            $this->getScoreHomeFull(),
+            $this->getScoreAwayFull(),
+            $this->getAwayTeam()->getName(),
+            $this->getDate()->format('Y-m-d H:i:s')
+        );
+
+        return $output;
+    }
 }

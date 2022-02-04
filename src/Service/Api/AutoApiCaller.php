@@ -95,6 +95,25 @@ class AutoApiCaller
     public function increaseOldFixtureStock(): bool
     {
 
+        $leagueRoundsToUpdate = array();
+        $fixtures = $this->fixtureService->getUndecoratedFixtures();
+        foreach ($fixtures as $fixture){
+            /** @var Fixture $fixture */
+            $currentTimestamp = (new DateTime())->getTimestamp();
+            if ($currentTimestamp > $fixture->getTimeStamp()+150){
+                $leagueRoundsToUpdate[$fixture->getLeague()->getApiId()."_".$fixture->getMatchDay()] = 1;
+            }
+        }
+
+        // update played fixtures
+        foreach (array_keys($leagueRoundsToUpdate) as $roundToUpdate) {
+            $information = explode('_', $roundToUpdate);
+            $updatedFixtures = $this->updateService->updateFixtureForLeagueAndRound($information[0], 2021, $information[1]);
+            if (!$updatedFixtures){
+                return false;
+            }
+        }
+
         return true;
     }
 

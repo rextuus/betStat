@@ -73,18 +73,7 @@ class InitFootballApiManager extends Command
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
-
-//        $this->updateService->updateLeagues();
-
-//        $settings = $this->automaticUpdateSettingService->getSettings();
-//        foreach ($settings->getCurrentRounds() as $leagueIdent => $round){
-//            $league = $this->leagueService->findByIdent($leagueIdent);
-//            $this->updateService->storeFixtureForLeagueAndRound($league->getApiId(), 2021, $round-1);
-//        }
-
-//        $this->updateService->updateLeague(UpdateService::LEAGUE_PREMIER_LEAGUE, UpdateService::LEAGUES[UpdateService::LEAGUE_PREMIER_LEAGUE], 2021);
-        $result = $this->autoApiCaller->identifyCandidates();
-        dump($result);
+        $this->updateService->updateLeagues();
 
         return Command::SUCCESS;
     }

@@ -35,7 +35,7 @@ class FootballApiManagerService
             $apiManager = new FootballApiManager();
             $apiManager->setIdent(self::IDENT_STANDARD);
             $apiManager->setDailyCalls(0);
-            $apiManager->setDailyLimit(100);
+            $apiManager->setDailyLimit(95);
             $apiManager->setIsActive(true);
             $this->footballApiManagerRepository->persist($apiManager);
         }
