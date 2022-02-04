@@ -200,6 +200,8 @@ class AutoApiCaller
                 $fixtureToDecorateId = $fixtureToDecorateId + 1;
                 $fixtureToDecorate = $this->fixtureService->findByApiKey($fixtureToDecorateId);
                 $nrOfStoredOdds++;
+                dump($nrOfStoredOdds);
+                dump($fixtureToDecorateId);
                 dump($fixtureToDecorate);
             }else{
                 $fixtureToDecorate = null;
