@@ -198,7 +198,7 @@ class AutoApiCaller
                 $this->automaticUpdateSettingService->setLastOddDecoratedFixtureId($fixtureToDecorate->getId());
                 // go on with next one
                 $fixtureToDecorateId = $fixtureToDecorateId + 1;
-                $fixtureToDecorate = $this->fixtureService->findByApiKey($fixtureToDecorateId);
+                $fixtureToDecorate = $this->fixtureService->findByDbId($fixtureToDecorateId);
                 $nrOfStoredOdds++;
                 dump($nrOfStoredOdds);
                 dump($fixtureToDecorateId);
