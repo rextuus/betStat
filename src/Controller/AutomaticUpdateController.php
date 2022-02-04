@@ -57,8 +57,8 @@ class AutomaticUpdateController extends AbstractController
     public function initApplication(
     ): Response
     {
-        $this->automaticUpdateSettingService->initSettings();
         $this->footballApiManagerService->initializeApiManager();
+        $this->automaticUpdateSettingService->initSettings();
         return $this->render('<h1>Init succeeded</h1>');
     }
 
