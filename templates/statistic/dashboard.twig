@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block body %}
+<table class="table table-bordered">
+    <tr>
+        <th>Spiel </th>
+    </tr>
+    {% for entry in candidates %}
+        <tr>
+                <tr>
+                    <td>{{ entry.textForm }}</td>
+                </tr>
+        </tr>
+
+    {% endfor %}
+</table>
+{% endblock %}

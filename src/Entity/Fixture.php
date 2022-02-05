@@ -316,4 +316,8 @@ class Fixture
 
         return $output;
     }
+
+    public function getTextForm(){
+        return (string) $this->__toString();
+    }
 }
