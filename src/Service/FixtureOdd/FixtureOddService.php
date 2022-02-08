@@ -45,12 +45,12 @@ class FixtureOddService
     }
 
     /**
-     * @param int $apiKey
-     * @return FixtureOdd|null
+     * @param Fixture $fixture
+     * @return FixtureOdd[]
      */
-    public function findByApiKey(int $apiKey): ?FixtureOdd
+    public function findByFixture(Fixture $fixture): array
     {
-        return $this->fixtureOddRepository->findOneBy(['apiId' => $apiKey]);
+        return $this->fixtureOddRepository->findBy(['fixture' => $fixture]);
     }
 
     /**

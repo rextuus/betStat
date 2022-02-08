@@ -4,6 +4,10 @@
 namespace App\Service\Seeding;
 
 
+use App\Entity\Club;
+use App\Entity\Fixture;
+use App\Entity\League;
+use App\Entity\Season;
 use App\Entity\Seeding;
 use App\Repository\SeedingRepository;
 use Doctrine\ORM\ORMException;
@@ -51,5 +55,11 @@ class SeedingService
     {
         $this->seedingFactory->mapData($updateData, $seeding);
         $this->seedingRepository->persist($seeding);
+    }
+
+    public function findByClubAndSeasonAndLRound(Club $club, Season $season, int $round)
+    {
+        return $this->seedingRepository->findOneBy(['club' => $club, 'round' => $round, 'season' => $season]);
+
     }
 }

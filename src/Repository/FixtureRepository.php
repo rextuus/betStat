@@ -95,7 +95,7 @@ class FixtureRepository extends ServiceEntityRepository
         return $qb->getQuery()->getResult();
     }
 
-    public function findUndecorated()
+    public function findUnevaluated()
     {
         $qb = $this->createQueryBuilder('f');
         $qb->select('f')
@@ -106,4 +106,5 @@ class FixtureRepository extends ServiceEntityRepository
             ->orderBy('f.timeStamp', 'DESC');
         return $qb->getQuery()->getResult();
     }
+
 }

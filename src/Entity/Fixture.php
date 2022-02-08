@@ -6,6 +6,7 @@ use App\Repository\FixtureRepository;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
+use function PHPUnit\Framework\isNull;
 
 /**
  * @ORM\Entity(repositoryClass=FixtureRepository::class)
@@ -319,5 +320,21 @@ class Fixture
 
     public function getTextForm(){
         return (string) $this->__toString();
+    }
+
+        public function isPlayed(): bool
+    {
+        return (!isNull($this->getScoreHomeFull()) && !isNull($this->getScoreAwayFull()) && !isNull($this->getScoreHomeHalf()) && !isNull($this->getScoreAwayHalf()));
+    }
+
+    public function getDescription()
+    {
+        $output = sprintf(
+            "%s - %s",
+            $this->getHomeTeam()->getName(),
+            $this->getAwayTeam()->getName()
+        );
+
+        return $output;
     }
 }

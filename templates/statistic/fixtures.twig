@@ -1,0 +1,37 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block body %}
+<table class="table table-bordered">
+    <tr>
+        <th>Fixture </th>
+        <th>Date </th>
+        <th>Round </th>
+        <th>Played </th>
+        <th>Bets </th>
+        <th>Candidate </th>
+    </tr>
+    {% for entry in fixtures %}
+        <tr>
+                <tr>
+                    <td>{{ entry.description }}</td>
+                    <td>{{ entry.date }}</td>
+                    <td>{{ entry.round }}</td>
+                    <td>{% if entry.played %}Yes{% else %}No{% endif %}</td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td>{{ entry.singleHome }}</td>
+                                <td>{{ entry.singleDraw }}</td>
+                                <td>{{ entry.singleAway }}</td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>{% if entry.isCandidate %}Yes{% else %}No{% endif %}</td>
+                </tr>
+        </tr>
+
+    {% endfor %}
+</table>
+{% endblock %}

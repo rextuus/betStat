@@ -6,7 +6,12 @@ namespace App\Service\Fixture;
 
 use App\Entity\Club;
 use App\Entity\Fixture;
+use App\Entity\FixtureOdd;
 use App\Repository\FixtureRepository;
+use App\Service\Fixture\Transport\FixtureTransport;
+use App\Service\FixtureOdd\FixtureOddService;
+use App\Service\Seeding\SeedingService;
+use function PHPUnit\Framework\isEmpty;
 
 class FixtureService
 {
@@ -21,15 +26,23 @@ class FixtureService
     private $fixtureFactory;
 
     /**
+     * @var FixtureOddService
+     */
+    private $fixtureOddService;
+
+    /**
      * FixtureService constructor.
      * @param FixtureRepository $fixtureRepository
      * @param FixtureFactory $fixtureFactory
+     * @param FixtureOddService $fixtureOddService
      */
-    public function __construct(FixtureRepository $fixtureRepository, FixtureFactory $fixtureFactory)
+    public function __construct(FixtureRepository $fixtureRepository, FixtureFactory $fixtureFactory, FixtureOddService $fixtureOddService)
     {
         $this->fixtureRepository = $fixtureRepository;
         $this->fixtureFactory = $fixtureFactory;
+        $this->fixtureOddService = $fixtureOddService;
     }
+
 
     /**
      * @param FixtureData $data
@@ -86,8 +99,16 @@ class FixtureService
         return $this->fixtureRepository->find($dbId);
     }
 
+    public function getUnevaluatedFixtures()
+    {
+        return $this->fixtureRepository->findUnevaluated();
+    }
+
     public function getUndecoratedFixtures()
     {
-        return $this->fixtureRepository->findUndecorated();
+        return $this->fixtureRepository->findBy(['isBetDecorated' => false]);
     }
+
+
+
 }

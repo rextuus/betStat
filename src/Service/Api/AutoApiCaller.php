@@ -96,13 +96,14 @@ class AutoApiCaller
         $this->increaseOldFixtureStock();
         // 4. update last played round (results)
         $this->updateResultsOfAlreadyFinishedFixtures();
+        // 6. check fixtures which arent decorated
     }
 
     public function increaseOldFixtureStock(): bool
     {
 
         $leagueRoundsToUpdate = array();
-        $fixtures = $this->fixtureService->getUndecoratedFixtures();
+        $fixtures = $this->fixtureService->getUnevaluatedFixtures();
         foreach ($fixtures as $fixture){
             /** @var Fixture $fixture */
             $currentTimestamp = (new DateTime())->getTimestamp();

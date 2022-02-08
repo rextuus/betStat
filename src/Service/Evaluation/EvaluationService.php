@@ -12,6 +12,7 @@ use App\Service\Fixture\FixtureService;
 use App\Service\FixtureOdd\FixtureOddService;
 use App\Service\League\LeagueService;
 use App\Service\Season\SeasonService;
+use App\Service\Seeding\SeedingService;
 
 class EvaluationService
 {
@@ -41,21 +42,29 @@ class EvaluationService
     private $clubService;
 
     /**
+     * @var SeedingService
+     */
+    private $seedingService;
+
+    /**
      * EvaluationService constructor.
      * @param FixtureService $fixtureService
      * @param FixtureOddService $fixtureOddService
      * @param LeagueService $leagueService
      * @param SeasonService $seasonService
      * @param ClubService $clubService
+     * @param SeedingService $seedingService
      */
-    public function __construct(FixtureService $fixtureService, FixtureOddService $fixtureOddService, LeagueService $leagueService, SeasonService $seasonService, ClubService $clubService)
+    public function __construct(FixtureService $fixtureService, FixtureOddService $fixtureOddService, LeagueService $leagueService, SeasonService $seasonService, ClubService $clubService, SeedingService $seedingService)
     {
         $this->fixtureService = $fixtureService;
         $this->fixtureOddService = $fixtureOddService;
         $this->leagueService = $leagueService;
         $this->seasonService = $seasonService;
         $this->clubService = $clubService;
+        $this->seedingService = $seedingService;
     }
+
 
     public function calculateFormForAllTeamsOfRound(int $apiLeagueId, int $seasonYear, int $round)
     {
@@ -101,6 +110,47 @@ class EvaluationService
             return 'W';
         }
         return 'L';
+    }
+
+    public function getCandidateForFixture(Fixture $fixture)
+    {
+        $homeSeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getHomeTeam(), $fixture->getSeason(), $fixture->getMatchDay());
+        $awaySeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getAwayTeam(), $fixture->getSeason(), $fixture->getMatchDay());
+
+        if (is_null($homeSeeding) || is_null($awaySeeding)){
+            return -1;
+        }
+
+        if (is_null($homeSeeding->getForm()) || is_null($awaySeeding->getForm())){
+            return -1;
+        }
+
+        $homeIsCandidate = $this->checkIfFormFitsCondition($homeSeeding->getForm());
+        $awayIsCandidate = $this->checkIfFormFitsCondition($awaySeeding->getForm());
+        if ($homeIsCandidate && $awayIsCandidate){
+            return 0;
+        }
+        if ($homeIsCandidate && !$awayIsCandidate){
+            return 1;
+        }
+        if (!$homeIsCandidate && $awayIsCandidate){
+            return 2;
+        }
+        return -1;
+    }
+
+    private function checkIfFormFitsCondition(string $currentForm)
+    {
+        // form is read from right to left: LWLLL == 5. L, 4. L, 3. L, 2. W, 1. L
+        $form = str_split($currentForm);
+        if (count($form) > 1){
+            $lastMatch = $form[count($form)-1];
+            $matchBeforeLastMatch = $form[count($form)-2];
+            if (($matchBeforeLastMatch == 'D' || $matchBeforeLastMatch == 'L') && $lastMatch == 'W'){
+                return true;
+            }
+        }
+        return false;
     }
 
 }
