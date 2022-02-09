@@ -109,6 +109,13 @@ class FixtureService
         return $this->fixtureRepository->findBy(['isBetDecorated' => false]);
     }
 
+    /**
+     * @return Fixture[]
+     */
+    public function getUndecoratedFixturesTimeStampVariant(): array
+    {
+        return $this->fixtureRepository->findUndecorated();
+    }
 
 
 }

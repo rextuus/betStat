@@ -4,6 +4,7 @@ namespace App\Repository;
 
 use App\Entity\Club;
 use App\Entity\Fixture;
+use App\Entity\FixtureOdd;
 use App\Entity\League;
 use App\Entity\Season;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
@@ -104,6 +105,14 @@ class FixtureRepository extends ServiceEntityRepository
             ->orWhere($qb->expr()->isNull('f.scoreHomeFull'))
             ->orWhere($qb->expr()->isNull('f.scoreAwayFull'))
             ->orderBy('f.timeStamp', 'DESC');
+        return $qb->getQuery()->getResult();
+    }
+
+    public function findUndecorated()
+    {
+        $qb = $this->createQueryBuilder('f');
+        $qb->select('f')
+            ->where($qb->expr()->isNull('f.oddDecorationDate'));
         return $qb->getQuery()->getResult();
     }
 

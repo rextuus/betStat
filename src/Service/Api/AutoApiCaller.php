@@ -91,7 +91,8 @@ class AutoApiCaller
         // 2. identify candidates
         $this->identifyCandidates();
         // 3. decorate fixtures
-        $this->goOnWithBetDecoration();
+//        $this->goOnWithBetDecoration();
+        $this->goOnWithBetDecorationTimestampVariant();
         // 5. get fixtures for older rounds
         $this->increaseOldFixtureStock();
         // 4. update last played round (results)
@@ -257,5 +258,27 @@ class AutoApiCaller
             }
         }
         return false;
+    }
+
+    public function goOnWithBetDecorationTimestampVariant()
+    {
+        $fixtures = $this->fixtureService->getUndecoratedFixturesTimeStampVariant();
+
+        $nrOfStoredOdds = 0;
+        while ($nrOfStoredOdds <= $this->fixtureDecorateLimit){
+            // getOddsForFixture will return false if no api calls were left
+            $oddsStored = $this->updateService->storeOddsForFixture($fixtures[$nrOfStoredOdds]->getApiId());
+            if($oddsStored){
+                // set Fixture flag to decorated
+                $fixtureUpdateData = (new FixtureData())->initFrom($fixtures[$nrOfStoredOdds]);
+                $fixtureUpdateData->setIsBetDecorated(true);
+                $fixtureUpdateData->setOddDecorationDate(new DateTime());
+                $this->fixtureService->updateFixture($fixtures[$nrOfStoredOdds], $fixtureUpdateData);
+
+                $nrOfStoredOdds++;
+            }else{
+                $fixtureToDecorate = null;
+            }
+        }
     }
 }
