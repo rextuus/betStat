@@ -19,9 +19,8 @@
                     <td>{{ entry.description }}</td>
                     <td>{{ entry.date }}</td>
                     <td>{{ entry.round }}</td>
-                    <td>{{ entry.round }}</td>
                     <td>{% if entry.played %}Yes{% else %}No{% endif %}</td>
-                    <td>{{ entry.realBetDecorated }}</td>
+                    <td>{% if entry.realBetDecorated %}Yes{% else %}No  <a href=" {{ path('fixture_odds', {fixture_id: entry.fixtureId}) }}" class="btn btn-primary btn-lg square" role="button">Update</a>{% endif %}</td>
                     <td>
                         <table>
                             <tr>

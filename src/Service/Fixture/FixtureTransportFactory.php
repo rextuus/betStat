@@ -51,6 +51,7 @@ class FixtureTransportFactory
         $transports = array();
         foreach($allFixtures as $fixture){
             $fixtureTransport =  new FixtureTransport();
+            $fixtureTransport->setFixtureId($fixture->getId());
             $fixtureTransport->setRound($fixture->getMatchDay());
             $fixtureTransport->setDate($fixture->getDate()->format('Y-m-d H:i:s'));
             $fixtureTransport->setPlayed($fixture->isPlayed());

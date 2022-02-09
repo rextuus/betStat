@@ -36,7 +36,7 @@ class DashboardController extends AbstractController
     }
 
     /**
-     * @Route("/fixtures", name="dashboard_fixtures")
+         * @Route("/fixtures", name="dashboard_fixtures")
      * @param FixtureTransportFactory $fixtureTransportFactory
      * @return Response
      */

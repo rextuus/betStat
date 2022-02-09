@@ -77,6 +77,11 @@ class FixtureTransport
     private $toBetOn;
 
     /**
+     * @var int
+     */
+    private $fixtureId;
+
+    /**
      * @return string
      */
     public function getDescription(): string
@@ -298,5 +303,21 @@ class FixtureTransport
     public function setToBetOn(int $toBetOn): void
     {
         $this->toBetOn = $toBetOn;
+    }
+
+    /**
+     * @return int
+     */
+    public function getFixtureId(): int
+    {
+        return $this->fixtureId;
+    }
+
+    /**
+     * @param int $fixtureId
+     */
+    public function setFixtureId(int $fixtureId): void
+    {
+        $this->fixtureId = $fixtureId;
     }
 }
