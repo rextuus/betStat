@@ -82,6 +82,16 @@ class FixtureTransport
     private $fixtureId;
 
     /**
+     * @var string
+     */
+    private $homeForm;
+
+    /**
+     * @var string
+     */
+    private $awayForm;
+
+    /**
      * @return string
      */
     public function getDescription(): string
@@ -319,5 +329,37 @@ class FixtureTransport
     public function setFixtureId(int $fixtureId): void
     {
         $this->fixtureId = $fixtureId;
+    }
+
+    /**
+     * @return string
+     */
+    public function getHomeForm(): string
+    {
+        return $this->homeForm;
+    }
+
+    /**
+     * @param string $homeForm
+     */
+    public function setHomeForm(string $homeForm): void
+    {
+        $this->homeForm = $homeForm;
+    }
+
+    /**
+     * @return string
+     */
+    public function getAwayForm(): string
+    {
+        return $this->awayForm;
+    }
+
+    /**
+     * @param string $awayForm
+     */
+    public function setAwayForm(string $awayForm): void
+    {
+        $this->awayForm = $awayForm;
     }
 }

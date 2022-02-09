@@ -192,6 +192,7 @@ class AutoApiCaller
                 // set Fixture flag to decorated
                 $fixtureUpdateData = (new FixtureData())->initFrom($fixtureToDecorate);
                 $fixtureUpdateData->setIsBetDecorated(true);
+                $fixtureUpdateData->setOddDecorationDate(new DateTime());
                 $this->fixtureService->updateFixture($fixtureToDecorate, $fixtureUpdateData);
                 // update settings
                 $this->automaticUpdateSettingService->setLastOddDecoratedFixtureId($fixtureToDecorate->getId());

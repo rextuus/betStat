@@ -10,6 +10,7 @@ use App\Entity\FixtureOdd;
 use App\Entity\League;
 use App\Entity\Season;
 use DateTime;
+use DateTimeInterface;
 
 class FixtureData
 {
@@ -88,6 +89,11 @@ class FixtureData
      * @var boolean
      */
     private $isDoubleChanceCandidate;
+
+    /**
+     * @var DateTimeInterface|null
+     */
+    private $oddDecorationDate;
 
     /**
      * @return int
@@ -330,6 +336,22 @@ class FixtureData
     }
 
     /**
+     * @return DateTimeInterface|null
+     */
+    public function getOddDecorationDate(): ?DateTimeInterface
+    {
+        return $this->oddDecorationDate;
+    }
+
+    /**
+     * @param DateTimeInterface|null $oddDecorationDate
+     */
+    public function setOddDecorationDate(?DateTimeInterface $oddDecorationDate): void
+    {
+        $this->oddDecorationDate = $oddDecorationDate;
+    }
+
+    /**
      * @param Fixture $fixture
      * @return FixtureData
      */
@@ -350,6 +372,7 @@ class FixtureData
         $fixtureData->setScoreAwayFull($fixture->getScoreAwayFull());
         $fixtureData->setIsDoubleChanceCandidate($fixture->getIsDoubleChanceCandidate());
         $fixtureData->setIsBetDecorated($fixture->getIsBetDecorated());
+        $fixtureData->setOddDecorationDate($fixture->getOddDecorationDate());
 
         return $fixtureData;
     }

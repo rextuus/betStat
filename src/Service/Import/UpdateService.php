@@ -20,6 +20,7 @@ use App\Service\Season\SeasonData;
 use App\Service\Season\SeasonService;
 use App\Service\Seeding\SeedingData;
 use App\Service\Seeding\SeedingService;
+use DateTime;
 use function PHPUnit\Framework\isNull;
 
 class UpdateService
@@ -237,6 +238,11 @@ class UpdateService
             $oddData->setDrawOdd($fixtureResponse->getDrawOdd());
             $oddData->setAwayOdd($fixtureResponse->getAwayOdd());
             $this->fixtureOddService->createByData($oddData);
+
+            // update oddtime in fixture
+            $fixtureUpdateDate = (new FixtureData())->initFrom($fixture);
+            $fixtureUpdateDate->setOddDecorationDate(new DateTime());
+            $this->fixtureService->updateFixture($fixture, $fixtureUpdateDate);
         }
         return true;
     }

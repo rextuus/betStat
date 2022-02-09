@@ -5,18 +5,23 @@
 {% block body %}
 <table class="table table-bordered">
     <tr>
+        <th>HomeForm <--</th>
         <th>Fixture </th>
+        <th>AwayForm <--</th>
         <th>Date </th>
         <th>Round </th>
         <th>Played </th>
         <th>Real Decorated </th>
         <th>Bets </th>
         <th>Candidate </th>
+        <th>BetOn </th>
     </tr>
     {% for entry in fixtures %}
         <tr>
                 <tr>
+                    <td>{{ entry.homeForm }}</td>
                     <td>{{ entry.description }}</td>
+                    <td>{{ entry.awayForm }}</td>
                     <td>{{ entry.date }}</td>
                     <td>{{ entry.round }}</td>
                     <td>{% if entry.played %}Yes{% else %}No{% endif %}</td>
@@ -33,6 +38,7 @@
                         </table>
                     </td>
                     <td>{% if entry.isCandidate %}Yes{% else %}No{% endif %}</td>
+                    <td>{{ entry.toBetOn }}</td>
                 </tr>
         </tr>
 

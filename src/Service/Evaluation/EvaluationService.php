@@ -6,6 +6,7 @@ namespace App\Service\Evaluation;
 
 use App\Entity\Club;
 use App\Entity\Fixture;
+use App\Entity\Seeding;
 use App\Service\Club\ClubService;
 use App\Service\Evaluation\Entity\Form;
 use App\Service\Fixture\FixtureService;
@@ -112,6 +113,34 @@ class EvaluationService
         return 'L';
     }
 
+    /**
+     * @param Fixture $fixture
+     * @return Seeding[]
+     */
+    public function getSeedingsForFixture(Fixture $fixture): array
+    {
+        $homeSeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getHomeTeam(), $fixture->getSeason(), $fixture->getMatchDay());
+        $awaySeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getAwayTeam(), $fixture->getSeason(), $fixture->getMatchDay());
+
+        // be aware that we need only the last ones not the current game
+
+        if (is_null($homeSeeding)){
+            $homeSeeding = '-';
+        }else{
+            $homeSeeding = $homeSeeding->getForm();
+            $homeSeeding = substr($homeSeeding, 1, 5);
+        }
+
+        if (is_null($awaySeeding)){
+            $awaySeeding = '-';
+        }else{
+            $awaySeeding = $awaySeeding->getForm();
+            $awaySeeding = substr($awaySeeding, 1, 5);
+        }
+
+        return ['homeSeeding' => $homeSeeding, 'awaySeeding' => $awaySeeding];
+    }
+
     public function getCandidateForFixture(Fixture $fixture)
     {
         $homeSeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getHomeTeam(), $fixture->getSeason(), $fixture->getMatchDay());
@@ -125,8 +154,9 @@ class EvaluationService
             return -1;
         }
 
-        $homeIsCandidate = $this->checkIfFormFitsCondition($homeSeeding->getForm());
-        $awayIsCandidate = $this->checkIfFormFitsCondition($awaySeeding->getForm());
+        $seedings = $this->getSeedingsForFixture($fixture);
+        $homeIsCandidate = $this->checkIfFormFitsCondition($seedings['homeSeeding']);
+        $awayIsCandidate = $this->checkIfFormFitsCondition($seedings['awaySeeding']);
         if ($homeIsCandidate && $awayIsCandidate){
             return 0;
         }

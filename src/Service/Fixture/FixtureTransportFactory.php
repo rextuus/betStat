@@ -60,12 +60,15 @@ class FixtureTransportFactory
             $fixtureTransport->setIsCandidate($fixture->getIsDoubleChanceCandidate());
             $fixtureTransport->setToBetOn($this->evaluationService->getCandidateForFixture($fixture));
 
+            $seedings = $this->evaluationService->getSeedingsForFixture($fixture);
+            $fixtureTransport->setHomeForm($seedings['homeSeeding']);
+            $fixtureTransport->setAwayForm($seedings['awaySeeding']);
+
             // check if real odds exists
             $fixtureTransport->setRealBetDecorated(false);
             $odds = $this->fixtureOddService->findByFixture($fixture);
 
             if (!empty($odds)){
-                dump($odds);
                 $fixtureTransport->setRealBetDecorated(true);
 
                 $singleHome = array();

@@ -95,6 +95,11 @@ class Fixture
      */
     private $isBetDecorated;
 
+    /**
+     * @ORM\Column(type="datetime", nullable=true)
+     */
+    private $oddDecorationDate;
+
     public function __construct()
     {
         $this->fixtureOdds = new ArrayCollection();
@@ -336,5 +341,17 @@ class Fixture
         );
 
         return $output;
+    }
+
+    public function getOddDecorationDate(): ?\DateTimeInterface
+    {
+        return $this->oddDecorationDate;
+    }
+
+    public function setOddDecorationDate(?\DateTimeInterface $oddDecorationDate): self
+    {
+        $this->oddDecorationDate = $oddDecorationDate;
+
+        return $this;
     }
 }

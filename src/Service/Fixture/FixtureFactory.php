@@ -41,6 +41,9 @@ class FixtureFactory
                 $fixture->addFixtureOdd($odd);
             }
         }
+        if (!is_null($data->getOddDecorationDate())){
+            $fixture->setOddDecorationDate($data->getOddDecorationDate());
+        }
         return $fixture;
     }
 
