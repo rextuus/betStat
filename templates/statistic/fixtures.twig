@@ -9,6 +9,7 @@
         <th>Date </th>
         <th>Round </th>
         <th>Played </th>
+        <th>Real Decorated </th>
         <th>Bets </th>
         <th>Candidate </th>
     </tr>
@@ -18,13 +19,17 @@
                     <td>{{ entry.description }}</td>
                     <td>{{ entry.date }}</td>
                     <td>{{ entry.round }}</td>
+                    <td>{{ entry.round }}</td>
                     <td>{% if entry.played %}Yes{% else %}No{% endif %}</td>
+                    <td>{{ entry.realBetDecorated }}</td>
                     <td>
                         <table>
                             <tr>
-                                <td>{{ entry.singleHome }}</td>
-                                <td>{{ entry.singleDraw }}</td>
-                                <td>{{ entry.singleAway }}</td>
+                                <td>{{ entry.singleHome|round(2, 'floor') }} | </td>
+                                <td>{{ entry.singleDraw|round(2, 'floor') }} | </td>
+                                <td>{{ entry.singleAway|round(2, 'floor') }} | [</td>
+                                <td>{{ entry.homeDouble|round(2, 'floor') }} | </td>
+                                <td>{{ entry.awayDouble|round(2, 'floor') }} ]</td>
                             </tr>
                         </table>
                     </td>

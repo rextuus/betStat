@@ -62,7 +62,9 @@ class FixtureTransportFactory
             // check if real odds exists
             $fixtureTransport->setRealBetDecorated(false);
             $odds = $this->fixtureOddService->findByFixture($fixture);
-            if (!isEmpty($odds)){
+
+            if (!empty($odds)){
+                dump($odds);
                 $fixtureTransport->setRealBetDecorated(true);
 
                 $singleHome = array();
