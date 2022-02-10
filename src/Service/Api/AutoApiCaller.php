@@ -10,6 +10,7 @@ use App\Service\Fixture\FixtureService;
 use App\Service\Import\UpdateService;
 use App\Service\League\LeagueService;
 use DateTime;
+use Psr\Log\LoggerInterface;
 use function PHPUnit\Framework\isEmpty;
 
 class AutoApiCaller
@@ -52,6 +53,11 @@ class AutoApiCaller
     private $fixtureDecorateLimit;
 
     /**
+     * @var LoggerInterface
+     */
+    private $logger;
+
+    /**
      * AutoApiCaller constructor.
      * @param UpdateService $updateService
      * @param AutomaticUpdateSettingService $automaticUpdateSettingService
@@ -60,8 +66,9 @@ class AutoApiCaller
      * @param FixtureService $fixtureService
      * @param ClubService $clubService
      * @param int $fixtureDecorateLimit
+     * @param LoggerInterface $autoUpdateLogger
      */
-    public function __construct(UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, FootballApiManagerService $footballApiManagerService, LeagueService $leagueService, FixtureService $fixtureService, ClubService $clubService, int $fixtureDecorateLimit)
+    public function __construct(UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, FootballApiManagerService $footballApiManagerService, LeagueService $leagueService, FixtureService $fixtureService, ClubService $clubService, int $fixtureDecorateLimit, LoggerInterface $autoUpdateLogger)
     {
         $this->updateService = $updateService;
         $this->automaticUpdateSettingService = $automaticUpdateSettingService;
@@ -70,33 +77,42 @@ class AutoApiCaller
         $this->fixtureService = $fixtureService;
         $this->clubService = $clubService;
         $this->fixtureDecorateLimit = $fixtureDecorateLimit;
+        $this->logger = $autoUpdateLogger;
 
-        if ($this->fixtureDecorateLimit < self::DEFAULT_LIMIT){
+        if ($this->fixtureDecorateLimit < self::DEFAULT_LIMIT) {
             $this->fixtureDecorateLimit = self::DEFAULT_LIMIT;
         }
     }
 
 
-    public function useFullApiCallLimit(){
+    public function useFullApiCallLimit()
+    {
+        $this->logger->info("##################################");
+        $this->logger->info("Start with daily auto api calling");
+        $this->logger->info("##################################");
+
         // TODO this method should handle the complete update stuff each day
         // 1. check if a round is over and all fixtures of current rounds are stored
         $lastRoundCompleted = $this->checkIfLastRoundMatchIsReached();
-        if ($lastRoundCompleted){
-            dump("Current round fixtures for all leagues are stored");
-        }else{
+        if ($lastRoundCompleted) {
+            $this->logger->info("Current round fixtures for all leagues are stored");
+        } else {
             $currentMadeApiCalls = $this->footballApiManagerService->getApiCallLimit();
-            dump("There are missing fixtures for current rounds");
-            dump(sprintf("Made api calls: %d", $currentMadeApiCalls));
+            $this->logger->info("There are missing fixtures for current rounds");
+            $this->logger->info(sprintf("Currently made api calls: %d", $currentMadeApiCalls));
+            $this->logger->info("_____________________________________________________");
         }
+        // 2. update Seedings
+        $this->updateService->updateLeagues();
         // 2. identify candidates
         $this->identifyCandidates();
         // 3. decorate fixtures
 //        $this->goOnWithBetDecoration();
         $this->goOnWithBetDecorationTimestampVariant();
-        // 5. get fixtures for older rounds
-        $this->increaseOldFixtureStock();
         // 4. update last played round (results)
         $this->updateResultsOfAlreadyFinishedFixtures();
+        // 5. get fixtures for older rounds
+        $this->increaseOldFixtureStock();
         // 6. check fixtures which arent decorated
     }
 
@@ -105,11 +121,11 @@ class AutoApiCaller
 
         $leagueRoundsToUpdate = array();
         $fixtures = $this->fixtureService->getUnevaluatedFixtures();
-        foreach ($fixtures as $fixture){
+        foreach ($fixtures as $fixture) {
             /** @var Fixture $fixture */
             $currentTimestamp = (new DateTime())->getTimestamp();
-            if ($currentTimestamp > $fixture->getTimeStamp()+150){
-                $leagueRoundsToUpdate[$fixture->getLeague()->getApiId()."_".$fixture->getMatchDay()] = 1;
+            if ($currentTimestamp > $fixture->getTimeStamp() + 150) {
+                $leagueRoundsToUpdate[$fixture->getLeague()->getApiId() . "_" . $fixture->getMatchDay()] = 1;
             }
         }
 
@@ -117,7 +133,7 @@ class AutoApiCaller
         foreach (array_keys($leagueRoundsToUpdate) as $roundToUpdate) {
             $information = explode('_', $roundToUpdate);
             $updatedFixtures = $this->updateService->updateFixtureForLeagueAndRound($information[0], 2021, $information[1]);
-            if (!$updatedFixtures){
+            if (!$updatedFixtures) {
                 return false;
             }
         }
@@ -129,31 +145,42 @@ class AutoApiCaller
     {
         $settings = $this->automaticUpdateSettingService->getSettings();
         // go over current saved rounds and get the fixtures for them
-        foreach ($settings->getCurrentRounds() as $leagueIdent => $round){
+        foreach ($settings->getCurrentRounds() as $leagueIdent => $round) {
+            $this->logger->info(sprintf("Check if round %d of %s is completely played", $round, $leagueIdent));
             /** @var Fixture[] $fixtures */
             $fixtures = $this->fixtureService->findByLeagueAndSeasonAndRound(UpdateService::LEAGUES[$leagueIdent], 2021, $round);
-            if (count($fixtures) == 0){
+
+            // if for given round league combi no fixtures are present => get them
+            if (count($fixtures) == 0) {
                 $storedNewFixtures = $this->updateService->storeFixtureForLeagueAndRound(UpdateService::LEAGUES[$leagueIdent], 2021, $round);
-                if (!$storedNewFixtures){
+                if (!$storedNewFixtures) {
                     return false;
                 }
                 $fixtures = $this->fixtureService->findByLeagueAndSeasonAndRound(UpdateService::LEAGUES[$leagueIdent], 2021, $round);
+                $this->logger->info(sprintf("Get new %d fixtures for round %d of %s", count($fixtures), $round, $leagueIdent));
             }
+
             // get last startTime of this round
             $lastStartTime = $fixtures[0]->getTimeStamp();
-            foreach ($fixtures as $fixture){
-                if($fixture->getTimeStamp() > $lastStartTime){
+            $lastStartTimeLog = $fixtures[0]->getDate()->format('Y-m-d H:i:s');
+            foreach ($fixtures as $fixture) {
+                if ($fixture->getTimeStamp() > $lastStartTime) {
                     $lastStartTime = $fixture->getTimeStamp();
+                    $lastStartTimeLog = $fixture->getDate()->format('Y-m-d H:i:s');
                 }
             }
+            $this->logger->info(sprintf("Last fixture of round %d of %s starts on %s", $round, $leagueIdent, $lastStartTimeLog));
+
             // check if round is completely finished
+            // TODO maybe check if round contains of right amount of fixtures to
             $currentTimestamp = (new DateTime())->getTimestamp();
-            if ($currentTimestamp > $lastStartTime){
+            if ($currentTimestamp > $lastStartTime) {
                 // store new round number in DB
                 $roundRefreshed = $this->automaticUpdateSettingService->refreshCurrentRound($leagueIdent);
-                if (!$roundRefreshed){
+                if (!$roundRefreshed) {
                     return false;
                 }
+                $this->logger->info(sprintf("Round %d of %s completed", count($fixtures), $round));
             }
         }
         return true;
@@ -162,12 +189,12 @@ class AutoApiCaller
     public function identifyCandidates()
     {
         $settings = $this->automaticUpdateSettingService->getSettings();
-        foreach ($settings->getCompletedRounds() as $leagueIdent => $round){
+        foreach ($settings->getCompletedRounds() as $leagueIdent => $round) {
             $league = $this->leagueService->findByApiKey(UpdateService::LEAGUES[$leagueIdent]);
             $clubs = $this->clubService->findByLeagueAndSeason($league, 2021);
-            foreach ($clubs as $club){
+            foreach ($clubs as $club) {
                 /** @var Club $club */
-                if($this->checkIfFormFitsCondition($club->getCurrentForm()) && $round == $club->getFormRound() ){
+                if ($this->checkIfFormFitsCondition($club->getCurrentForm()) && $round == $club->getFormRound()) {
                     $fixtureSoMarkAsCandidate = $this->fixtureService->findByClubAndSeasonAndRound($club, 2021, $round);
                     $fixtureUpdateData = (new FixtureData())->initFrom($fixtureSoMarkAsCandidate);
                     $fixtureUpdateData->setIsDoubleChanceCandidate(true);
@@ -183,13 +210,13 @@ class AutoApiCaller
         $settings = $this->automaticUpdateSettingService->getSettings();
         // use last fixture that was decorated to go on with
         $lastFixtureId = $settings->getLastOddDecoratedFixtureId();
-        $fixtureToDecorateId = $lastFixtureId+1;
+        $fixtureToDecorateId = $lastFixtureId + 1;
         $fixtureToDecorate = $this->fixtureService->findByDbId($fixtureToDecorateId);
         $nrOfStoredOdds = 0;
-        while (!is_null($fixtureToDecorate) && $nrOfStoredOdds <= $this->fixtureDecorateLimit){
+        while (!is_null($fixtureToDecorate) && $nrOfStoredOdds <= $this->fixtureDecorateLimit) {
             // getOddsForFixture will return false if no api calls were left
             $oddsStored = $this->updateService->storeOddsForFixture($fixtureToDecorate->getApiId());
-            if($oddsStored){
+            if ($oddsStored) {
                 // set Fixture flag to decorated
                 $fixtureUpdateData = (new FixtureData())->initFrom($fixtureToDecorate);
                 $fixtureUpdateData->setIsBetDecorated(true);
@@ -201,7 +228,7 @@ class AutoApiCaller
                 $fixtureToDecorateId = $fixtureToDecorateId + 1;
                 $fixtureToDecorate = $this->fixtureService->findByDbId($fixtureToDecorateId);
                 $nrOfStoredOdds++;
-            }else{
+            } else {
                 $fixtureToDecorate = null;
             }
         }
@@ -211,38 +238,36 @@ class AutoApiCaller
     public function updateResultsOfAlreadyFinishedFixtures()
     {
         $settings = $this->automaticUpdateSettingService->getSettings();
-        foreach ($settings->getCompletedRounds() as $leagueIdent => $round){
+        foreach ($settings->getCompletedRounds() as $leagueIdent => $round) {
             $league = $this->leagueService->findByIdent($leagueIdent);
             $updatedFixtures = $this->updateService->updateFixtureForLeagueAndRound($league->getApiId(), 2021, $round + 1);
-            if ($updatedFixtures){
+            if ($updatedFixtures) {
                 $this->automaticUpdateSettingService->setCompletedRoundByLeague($leagueIdent, $round + 1);
             }
         }
     }
 
 
-
-
-
-
-
-    public function getCurrentRoundMatchesForAllLeagues(){
+    public function getCurrentRoundMatchesForAllLeagues()
+    {
         $settings = $this->automaticUpdateSettingService->getSettings();
-        foreach ($settings->getCurrentRounds() as $leagueIdent => $round){
+        foreach ($settings->getCurrentRounds() as $leagueIdent => $round) {
             $league = $this->leagueService->findByIdent($leagueIdent);
             $this->updateService->storeFixtureForLeagueAndRound($league->getApiId(), 2021, $round);
         }
     }
 
-    public function getLastRoundMatchesForAllLeagues(){
+    public function getLastRoundMatchesForAllLeagues()
+    {
         $settings = $this->automaticUpdateSettingService->getSettings();
-        foreach ($settings->getCurrentRounds() as $leagueIdent => $round){
+        foreach ($settings->getCurrentRounds() as $leagueIdent => $round) {
             $league = $this->leagueService->findByIdent($leagueIdent);
-            $this->updateService->storeFixtureForLeagueAndRound($league->getApiId(), 2021, $round-1);
+            $this->updateService->storeFixtureForLeagueAndRound($league->getApiId(), 2021, $round - 1);
         }
     }
 
-    public function getCurrentMatchDays(){
+    public function getCurrentMatchDays()
+    {
         $this->automaticUpdateSettingService->refreshCurrentRounds();
     }
 
@@ -250,10 +275,10 @@ class AutoApiCaller
     {
         // form is read from right to left: LWLLL == 5. L, 4. L, 3. L, 2. W, 1. L
         $form = str_split($currentForm);
-        if (count($form) > 1){
-            $lastMatch = $form[count($form)-1];
-            $matchBeforeLastMatch = $form[count($form)-2];
-            if (($matchBeforeLastMatch == 'D' || $matchBeforeLastMatch == 'L') && $lastMatch == 'W'){
+        if (count($form) > 1) {
+            $lastMatch = $form[count($form) - 1];
+            $matchBeforeLastMatch = $form[count($form) - 2];
+            if (($matchBeforeLastMatch == 'D' || $matchBeforeLastMatch == 'L') && $lastMatch == 'W') {
                 return true;
             }
         }
@@ -264,11 +289,27 @@ class AutoApiCaller
     {
         $fixtures = $this->fixtureService->getUndecoratedFixturesTimeStampVariant();
 
+        usort(
+            $fixtures,
+            function (Fixture $a, Fixture $b) {
+                if ($a->getTimeStamp() == $b->getTimeStamp()) {
+                    return 0;
+                }
+                return ($a->getTimeStamp() > $b->getTimeStamp()) ? -1 : 1;
+            }
+        );
+
+        $currentTimeStamp = (new DateTime('+10 days'))->getTimestamp();
+
         $nrOfStoredOdds = 0;
-        while ($nrOfStoredOdds <= $this->fixtureDecorateLimit){
+        while ($nrOfStoredOdds <= $this->fixtureDecorateLimit) {
+            if ($fixtures[$nrOfStoredOdds]->getTimeStamp() > $currentTimeStamp) {
+                $nrOfStoredOdds++;
+                continue;
+            }
             // getOddsForFixture will return false if no api calls were left
             $oddsStored = $this->updateService->storeOddsForFixture($fixtures[$nrOfStoredOdds]->getApiId());
-            if($oddsStored){
+            if ($oddsStored) {
                 // set Fixture flag to decorated
                 $fixtureUpdateData = (new FixtureData())->initFrom($fixtures[$nrOfStoredOdds]);
                 $fixtureUpdateData->setIsBetDecorated(true);
@@ -276,7 +317,7 @@ class AutoApiCaller
                 $this->fixtureService->updateFixture($fixtures[$nrOfStoredOdds], $fixtureUpdateData);
 
                 $nrOfStoredOdds++;
-            }else{
+            } else {
                 $fixtureToDecorate = null;
             }
         }
