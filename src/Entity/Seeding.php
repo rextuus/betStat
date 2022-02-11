@@ -210,4 +210,9 @@ class Seeding
 
         return $this;
     }
+
+    public function __toString()
+    {
+        return sprintf("%d.[%s]", $this->getPosition(), $this->getForm());
+    }
 }

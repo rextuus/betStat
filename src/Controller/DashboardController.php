@@ -28,7 +28,7 @@ class DashboardController extends AbstractController
      * @param FixtureService $fixtureService
      * @return Response
      */
-    public function initApplication(FixtureService $fixtureService): Response
+    public function showUndecorated(FixtureService $fixtureService): Response
     {
         return $this->render('statistic/dashboard.twig', [
             'candidates' => $fixtureService->getUndecoratedFixtures(),

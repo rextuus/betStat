@@ -4,6 +4,7 @@ namespace App\Service\Api;
 
 use App\Entity\Club;
 use App\Entity\Fixture;
+use App\Entity\Seeding;
 use App\Service\Club\ClubService;
 use App\Service\Fixture\FixtureData;
 use App\Service\Fixture\FixtureService;
@@ -12,10 +13,12 @@ use App\Service\League\LeagueService;
 use DateTime;
 use Psr\Log\LoggerInterface;
 use function PHPUnit\Framework\isEmpty;
+use function PHPUnit\Framework\isInstanceOf;
 
 class AutoApiCaller
 {
     private const DEFAULT_LIMIT = 50;
+    private const DEFAULT_FIXTURE_SEEDING_LIMIT = 0;
 
     /**
      * @var UpdateService
@@ -53,6 +56,11 @@ class AutoApiCaller
     private $fixtureDecorateLimit;
 
     /**
+     * @var int
+     */
+    private $seedingDecorateLimit;
+
+    /**
      * @var LoggerInterface
      */
     private $logger;
@@ -66,9 +74,10 @@ class AutoApiCaller
      * @param FixtureService $fixtureService
      * @param ClubService $clubService
      * @param int $fixtureDecorateLimit
+     * @param int $seedingDecorateLimit
      * @param LoggerInterface $autoUpdateLogger
      */
-    public function __construct(UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, FootballApiManagerService $footballApiManagerService, LeagueService $leagueService, FixtureService $fixtureService, ClubService $clubService, int $fixtureDecorateLimit, LoggerInterface $autoUpdateLogger)
+    public function __construct(UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, FootballApiManagerService $footballApiManagerService, LeagueService $leagueService, FixtureService $fixtureService, ClubService $clubService, int $fixtureDecorateLimit, int $seedingDecorateLimit, LoggerInterface $autoUpdateLogger)
     {
         $this->updateService = $updateService;
         $this->automaticUpdateSettingService = $automaticUpdateSettingService;
@@ -77,6 +86,7 @@ class AutoApiCaller
         $this->fixtureService = $fixtureService;
         $this->clubService = $clubService;
         $this->fixtureDecorateLimit = $fixtureDecorateLimit;
+        $this->seedingDecorateLimit = $seedingDecorateLimit;
         $this->logger = $autoUpdateLogger;
 
         if ($this->fixtureDecorateLimit < self::DEFAULT_LIMIT) {
@@ -104,16 +114,17 @@ class AutoApiCaller
         }
         // 2. update Seedings
         $this->updateService->updateLeagues();
-        // 2. identify candidates
+//        $this->updateSeedings();
+        // 3. identify candidates
         $this->identifyCandidates();
-        // 3. decorate fixtures
+        // 4. decorate fixtures
 //        $this->goOnWithBetDecoration();
         $this->goOnWithBetDecorationTimestampVariant();
-        // 4. update last played round (results)
+        // 5. update last played round (results)
         $this->updateResultsOfAlreadyFinishedFixtures();
-        // 5. get fixtures for older rounds
+        // 6. get fixtures for older rounds
         $this->increaseOldFixtureStock();
-        // 6. check fixtures which arent decorated
+        // 7. check fixtures which arent decorated
     }
 
     public function increaseOldFixtureStock(): bool
@@ -321,5 +332,37 @@ class AutoApiCaller
                 $fixtureToDecorate = null;
             }
         }
+    }
+
+    public function updateSeedings()
+    {
+        $settings = $this->automaticUpdateSettingService->getSettings();
+        $currentRounds = $settings->getCurrentRounds();
+
+        // search fixture without seeding and sort by newest ones
+        $fixtures = $this->fixtureService->getNonSeededFixtures($this->seedingDecorateLimit);
+        foreach ($fixtures as $fixture){
+            // check if fixture still needs decoration (maybe another did it before)
+            if($this->updateService->checkIfFixtureHaveSeedings($fixture)){
+                continue;
+            }
+
+            // check if fixture is part of current round => get update for current round
+            $currentRound = $currentRounds[$fixture->getLeague()->getIdent()];
+            if ($currentRound === $fixture->getMatchDay()){
+                $this->updateService->updateLeague($fixture->getLeague()->getIdent(), $fixture->getLeague()->getApiId(), 2021);
+            }
+
+            // check if fixture still needs decoration (maybe another did it before)
+            if($this->updateService->checkIfFixtureHaveSeedings($fixture)){
+                continue;
+            }
+
+            // else get latest form for club and calculate seedings for all older fixtures of it
+            $this->updateService->updateSeedingFormsForFixture($fixture);
+            // get current form
+            // get fixtures with club as home or away team
+        }
+
     }
 }

@@ -7,11 +7,13 @@ namespace App\Service\Fixture;
 use App\Entity\Club;
 use App\Entity\Fixture;
 use App\Entity\FixtureOdd;
+use App\Entity\Seeding;
 use App\Repository\FixtureRepository;
 use App\Service\Fixture\Transport\FixtureTransport;
 use App\Service\FixtureOdd\FixtureOddService;
 use App\Service\Seeding\SeedingService;
 use function PHPUnit\Framework\isEmpty;
+use function PHPUnit\Framework\isNull;
 
 class FixtureService
 {
@@ -47,7 +49,6 @@ class FixtureService
     /**
      * @param FixtureData $data
      * @return Fixture
-     * @throws \Doctrine\ORM\ORMException
      */
     public function createByData(FixtureData $data)
     {
@@ -69,7 +70,6 @@ class FixtureService
      * @param Fixture $fixture
      * @param FixtureData $data
      * @return Fixture
-     * @throws \Doctrine\ORM\ORMException
      */
     public function updateFixture(Fixture $fixture, FixtureData $data): Fixture
     {
@@ -117,5 +117,22 @@ class FixtureService
         return $this->fixtureRepository->findUndecorated();
     }
 
+    /**
+     * @param int $fixturesToReturn
+     * @return Fixture[]
+     */
+    public function getNonSeededFixtures(int $fixturesToReturn): array
+    {
+        $fixtureIds = $this->fixtureRepository->findNonSeededFixtures();
 
+        $fixtures = array();
+
+        $fixtureNr = 0;
+        while ($fixtureNr < $fixturesToReturn){
+            $fixtures[] = $this->fixtureRepository->find(['id' => $fixtureIds[$fixtureNr]['id']]);
+            $fixtureNr++;
+        }
+
+        return $fixtures;
+    }
 }

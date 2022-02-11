@@ -7,6 +7,7 @@ use App\Entity\Fixture;
 use App\Entity\FixtureOdd;
 use App\Entity\League;
 use App\Entity\Season;
+use App\Entity\Seeding;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 
@@ -116,4 +117,29 @@ class FixtureRepository extends ServiceEntityRepository
         return $qb->getQuery()->getResult();
     }
 
+    /**
+     * Creates a list of all fixtures dont having a seeding
+     *
+     * @return array
+     * @throws \Doctrine\DBAL\Driver\Exception
+     * @throws \Doctrine\DBAL\Exception
+     */
+    public function findNonSeededFixtures()
+    {
+        $queryString = "
+                SELECT fixture.id, fixture.api_id, fixture.time_stamp
+                FROM fixture
+                WHERE fixture.id NOT IN 
+                (
+                    SELECT fixture.id
+                    FROM fixture
+                    INNER JOIN club ON (fixture.home_team_id = club.id OR fixture.away_team_id = club.id)
+                    INNER JOIN seeding ON (club.id = seeding.club_id)
+                )
+                ORDER BY fixture.time_stamp DESC
+            ";
+
+        $stmt = $this->getEntityManager()->getConnection()->executeQuery($queryString, []);
+        return $stmt->fetchAllAssociative();
+    }
 }

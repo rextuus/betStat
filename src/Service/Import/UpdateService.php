@@ -4,6 +4,7 @@
 namespace App\Service\Import;
 
 
+use App\Entity\Fixture;
 use App\Entity\FootballApiManager;
 use App\Service\Api\FootballApiGateway;
 use App\Service\Api\FootballApiManagerService;
@@ -338,5 +339,17 @@ class UpdateService
             $fixtureData->setScoreAwayHalf($fixtureResponse->getScoreAwayHalfTime());
             $this->fixtureService->updateFixture($fixtureToUpdate, $fixtureData);
         }
+    }
+
+    /**
+     * @param Fixture $fixture
+     * @return bool
+     */
+    public function checkIfFixtureHaveSeedings(Fixture $fixture): bool
+    {
+        $homeSeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getHomeTeam(), $fixture->getSeason(), $fixture->getMatchDay());
+        $awaySeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getAwayTeam(), $fixture->getSeason(), $fixture->getMatchDay());
+
+        return !is_null($homeSeeding) && !is_null($awaySeeding);
     }
 }

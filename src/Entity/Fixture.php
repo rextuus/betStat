@@ -28,7 +28,7 @@ class Fixture
     /**
      * @ORM\ManyToOne(targetEntity=Club::class, inversedBy="fixtures")
      */
-    private $homeTeam;
+        private $homeTeam;
 
     /**
      * @ORM\ManyToOne(targetEntity=Club::class, inversedBy="fixtures")

@@ -74,7 +74,7 @@ class InitFootballApiManager extends Command
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
 //        $this->updateService->updateLeagues();
-        $this->autoApiCaller->useFullApiCallLimit();
+        $this->autoApiCaller->updateSeedings();
 
         return Command::SUCCESS;
     }

@@ -57,7 +57,14 @@ class SeedingService
         $this->seedingRepository->persist($seeding);
     }
 
-    public function findByClubAndSeasonAndLRound(Club $club, Season $season, int $round)
+    /**
+     * @param Club $club
+     * @param Season $season
+     * @param int $round
+     *
+     * @return Seeding|null
+     */
+    public function findByClubAndSeasonAndLRound(Club $club, Season $season, int $round): ?Seeding
     {
         return $this->seedingRepository->findOneBy(['club' => $club, 'round' => $round, 'season' => $season]);
 
