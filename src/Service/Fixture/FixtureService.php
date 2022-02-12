@@ -124,11 +124,11 @@ class FixtureService
     public function getNonSeededFixtures(int $fixturesToReturn): array
     {
         $fixtureIds = $this->fixtureRepository->findNonSeededFixtures();
-
+dump($fixtureIds);
         $fixtures = array();
 
         $fixtureNr = 0;
-        while ($fixtureNr < $fixturesToReturn){
+        while ($fixtureNr < $fixturesToReturn && $fixtureNr < count($fixtures)){
             $fixtures[] = $this->fixtureRepository->find(['id' => $fixtureIds[$fixtureNr]['id']]);
             $fixtureNr++;
         }
