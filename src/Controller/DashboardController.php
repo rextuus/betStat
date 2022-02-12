@@ -36,7 +36,7 @@ class DashboardController extends AbstractController
      */
     public function showFixtures(FixtureTransportFactory $fixtureTransportFactory): Response
     {
-        return $this->render('statistic/step.twig', [
+        return $this->render('statistic/fixtures.twig', [
             'fixtures' => $fixtureTransportFactory->createFixtureTransports(),
         ]);
     }
