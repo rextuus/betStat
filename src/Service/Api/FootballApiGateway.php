@@ -164,8 +164,6 @@ class FootballApiGateway
     /**
      * @param int $fixtureId
      * @return FixtureOddResponse[]
-     * @throws \Doctrine\ORM\ORMException
-     * @throws \Doctrine\ORM\OptimisticLockException
      */
     public function getOddsForFixture(int $fixtureId): array
     {
@@ -190,6 +188,34 @@ class FootballApiGateway
             return [];
         }
         return $this->parseOddResponse($response['response'][0]);
+    }
+
+    /**
+     * @param int $leagueApiId
+     * @param int $seasonApiId
+     * @param int $teamApiId
+     * @return string
+     */
+    public function getCurrentFormForClub(int $leagueApiId, int $seasonApiId, int $teamApiId): string
+    {
+        $headers = ['x-rapidapi-host' => 'api-football-v1.p.rapidapi.com', 'x-rapidapi-key' => self::API_KEY];
+
+        $client = $this->clientFactory->createClient($headers, self::BASE_URI);
+
+        $options = [
+            'query' => ['league' => $leagueApiId, 'season' => $seasonApiId, 'team' => $teamApiId]
+        ];
+
+        try {
+            $response = $client->request('GET', 'teams/statistics', $options);
+        } catch (GuzzleException $e) {
+            return [];
+        }
+        $this->footballApiManagerService->increaseCallCounter();
+
+        $response = json_decode($response->getBody(), true);
+
+        return $response['response']['form'];
     }
 
     /**

@@ -4,8 +4,10 @@
 namespace App\Service\Import;
 
 
+use App\Entity\Club;
 use App\Entity\Fixture;
 use App\Entity\FootballApiManager;
+use App\Entity\Season;
 use App\Service\Api\FootballApiGateway;
 use App\Service\Api\FootballApiManagerService;
 use App\Service\Api\Response\FixtureResponse;
@@ -22,6 +24,7 @@ use App\Service\Season\SeasonService;
 use App\Service\Seeding\SeedingData;
 use App\Service\Seeding\SeedingService;
 use DateTime;
+use Psr\Log\LoggerInterface;
 use function PHPUnit\Framework\isNull;
 
 class UpdateService
@@ -103,6 +106,11 @@ class UpdateService
     private $footballApiManagerService;
 
     /**
+     * @var LoggerInterface
+     */
+    private $logger;
+
+    /**
      * UpdateService constructor.
      * @param FootballApiGateway $footballApiGateway
      * @param ClubService $clubService
@@ -112,8 +120,9 @@ class UpdateService
      * @param FixtureService $fixtureService
      * @param FixtureOddService $fixtureOddService
      * @param FootballApiManagerService $footballApiManagerService
+     * @param LoggerInterface $autoUpdateLogger
      */
-    public function __construct(FootballApiGateway $footballApiGateway, ClubService $clubService, LeagueService $leagueService, SeasonService $seasonService, SeedingService $seedingService, FixtureService $fixtureService, FixtureOddService $fixtureOddService, FootballApiManagerService $footballApiManagerService)
+    public function __construct(FootballApiGateway $footballApiGateway, ClubService $clubService, LeagueService $leagueService, SeasonService $seasonService, SeedingService $seedingService, FixtureService $fixtureService, FixtureOddService $fixtureOddService, FootballApiManagerService $footballApiManagerService, LoggerInterface $autoUpdateLogger)
     {
         $this->footballApiGateway = $footballApiGateway;
         $this->clubService = $clubService;
@@ -123,6 +132,7 @@ class UpdateService
         $this->fixtureService = $fixtureService;
         $this->fixtureOddService = $fixtureOddService;
         $this->footballApiManagerService = $footballApiManagerService;
+        $this->logger = $autoUpdateLogger;
     }
 
     public function updateLeagues(){
@@ -351,5 +361,74 @@ class UpdateService
         $awaySeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getAwayTeam(), $fixture->getSeason(), $fixture->getMatchDay());
 
         return !is_null($homeSeeding) && !is_null($awaySeeding);
+    }
+
+    /**
+     * @param Fixture $fixture
+     * @return void
+     */
+    public function updateSeedingFormsForFixture(Fixture $fixture): void
+    {
+        // got current form
+        $season = $fixture->getSeason();
+
+//        $form = 'WLWWDLLLWWDDLWLWLLWLW';
+        $homeTeam = $fixture->getHomeTeam();
+        $homeForm =  $this->footballApiGateway->getCurrentFormForClub($fixture->getLeague()->getApiId(), $season->getStartYear(), $homeTeam->getApiId());
+        $this->storeFormsTillCurrentRound($homeForm, $homeTeam, $season);
+
+        $awayTeam = $fixture->getHomeTeam();
+        $awayForm =  $this->footballApiGateway->getCurrentFormForClub($fixture->getLeague()->getApiId(), $season->getStartYear(), $awayTeam->getApiId());
+        $this->storeFormsTillCurrentRound($awayForm, $awayTeam, $season);
+    }
+
+    /**
+     * @param array $formTillRound
+     * @param string $variant
+     * @return int
+     */
+    private function getNumberOfMatchEndings(array $formTillRound, string $variant)
+    {
+        $counter = 0;
+        foreach ($formTillRound as $round){
+            if ($round === $variant){
+                $counter++;
+            }
+        }
+        return $counter;
+    }
+
+    /**
+     * @param string $form
+     * @param Club $team
+     * @param Season $season
+     */
+    private function storeFormsTillCurrentRound(string $form, Club $team, Season $season): void
+    {
+        for ($roundNr = 1; $roundNr <= strlen($form); $roundNr++) {
+            $currentForm = substr($form, 0, $roundNr);
+            $seeding = $this->seedingService->findByClubAndSeasonAndLRound($team, $season, $roundNr);
+            if (is_null($seeding)) {
+                $formArray = str_split($currentForm);
+
+                $seedingData = new SeedingData();
+                $seedingData->setRound($roundNr);
+                $seedingData->setSeason($season);
+                $seedingData->setWins($this->getNumberOfMatchEndings($formArray, 'W'));
+                $seedingData->setLooses($this->getNumberOfMatchEndings($formArray, 'L'));
+                $seedingData->setDraws($this->getNumberOfMatchEndings($formArray, 'D'));
+                $seedingData->setGoals(-1);
+                $seedingData->setAgainstGoals(-1);
+                $seedingData->setClub($team);
+                $seedingData->setPoints(-1);
+                $seedingData->setPosition(-1);
+
+                $seedingData->setForm($currentForm);
+
+                $this->seedingService->createByData($seedingData);
+
+                $this->logger->info(sprintf("created seeding for %s and round %d", $team->getName(), $roundNr));
+            }
+        }
     }
 }

@@ -118,4 +118,19 @@ class AutomaticUpdateController extends AbstractController
         $this->updateService->storeOddsForFixture($fixture->getApiId());
         return new RedirectResponse($this->router->generate('dashboard_fixtures'));
     }
+
+    /**
+     * @Route("/step/seeding", name="step_seeding")
+     * @return Response
+     * @throws \Exception
+     */
+    public function updateSeedings(
+    ): Response
+    {
+//        $this->autoApiCaller->updateSeedings();
+
+        return $this->render('update/step.twig', [
+            'step' => 'Update Seedings',
+        ]);
+    }
 }

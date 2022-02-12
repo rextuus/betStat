@@ -7,6 +7,7 @@ namespace App\Command;
 use App\Service\Api\AutoApiCaller;
 use App\Service\Api\AutomaticUpdateSettingService;
 use App\Service\Api\FootballApiManagerService;
+use App\Service\Fixture\FixtureService;
 use App\Service\Import\UpdateService;
 use App\Service\League\LeagueService;
 use Symfony\Component\Console\Command\Command;
@@ -43,23 +44,30 @@ class InitFootballApiManager extends Command
     private $leagueService;
 
     /**
+     * @var FixtureService
+     */
+    private $fixtureService;
+
+    /**
      * InitFootballApiManager constructor.
      * @param FootballApiManagerService $footballApiManagerService
      * @param UpdateService $updateService
      * @param AutomaticUpdateSettingService $automaticUpdateSettingService
      * @param AutoApiCaller $autoApiCaller
      * @param LeagueService $leagueService
+     * @param FixtureService $fixtureService
      */
-    public function __construct(FootballApiManagerService $footballApiManagerService, UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, AutoApiCaller $autoApiCaller, LeagueService $leagueService)
+    public function __construct(FootballApiManagerService $footballApiManagerService, UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, AutoApiCaller $autoApiCaller, LeagueService $leagueService, FixtureService $fixtureService)
     {
         $this->footballApiManagerService = $footballApiManagerService;
         $this->updateService = $updateService;
         $this->automaticUpdateSettingService = $automaticUpdateSettingService;
         $this->autoApiCaller = $autoApiCaller;
         $this->leagueService = $leagueService;
+        $this->fixtureService = $fixtureService;
+
         parent::__construct();
     }
-
 
     protected function configure(): void
     {
@@ -74,7 +82,8 @@ class InitFootballApiManager extends Command
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
 //        $this->updateService->updateLeagues();
-        $this->autoApiCaller->updateSeedings();
+
+        $res = $this->updateService->updateSeedingFormsForFixture($this->fixtureService->findByApiKey(719533));
 
         return Command::SUCCESS;
     }

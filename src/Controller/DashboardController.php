@@ -3,14 +3,8 @@
 
 namespace App\Controller;
 
-use App\Entity\Fixture;
-use App\Service\Api\AutoApiCaller;
-use App\Service\Api\AutomaticUpdateSettingService;
-use App\Service\Api\FootballApiManagerService;
 use App\Service\Fixture\FixtureService;
 use App\Service\Fixture\FixtureTransportFactory;
-use Doctrine\ORM\OptimisticLockException;
-use Doctrine\ORM\ORMException;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\IsGranted;
@@ -42,7 +36,7 @@ class DashboardController extends AbstractController
      */
     public function showFixtures(FixtureTransportFactory $fixtureTransportFactory): Response
     {
-        return $this->render('statistic/fixtures.twig', [
+        return $this->render('statistic/step.twig', [
             'fixtures' => $fixtureTransportFactory->createFixtureTransports(),
         ]);
     }

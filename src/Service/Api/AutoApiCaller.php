@@ -112,19 +112,20 @@ class AutoApiCaller
             $this->logger->info(sprintf("Currently made api calls: %d", $currentMadeApiCalls));
             $this->logger->info("_____________________________________________________");
         }
-        // 2. update Seedings
+        // 2. update leagues
         $this->updateService->updateLeagues();
-//        $this->updateSeedings();
-        // 3. identify candidates
+        // 3. update Seedings
+        $this->updateSeedings();
+        // 4. identify candidates
         $this->identifyCandidates();
-        // 4. decorate fixtures
+        // 5. decorate fixtures
 //        $this->goOnWithBetDecoration();
         $this->goOnWithBetDecorationTimestampVariant();
-        // 5. update last played round (results)
+        // 6. update last played round (results)
         $this->updateResultsOfAlreadyFinishedFixtures();
-        // 6. get fixtures for older rounds
+        // 7. get fixtures for older rounds
         $this->increaseOldFixtureStock();
-        // 7. check fixtures which arent decorated
+        // 8. check fixtures which arent decorated
     }
 
     public function increaseOldFixtureStock(): bool
@@ -360,9 +361,6 @@ class AutoApiCaller
 
             // else get latest form for club and calculate seedings for all older fixtures of it
             $this->updateService->updateSeedingFormsForFixture($fixture);
-            // get current form
-            // get fixtures with club as home or away team
         }
-
     }
 }
