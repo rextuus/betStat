@@ -158,7 +158,7 @@ class UpdateService
         }
 
         $clubs = array();
-        $seedingsData = array();
+        $seedingDataSets = array();
         foreach ($standings->getClubStandings() as $clubStanding){
             $club = $this->clubService->findByApiKey($clubStanding->getClubId());
             if (is_null($club)){
@@ -188,7 +188,7 @@ class UpdateService
             $seedingData->setForm($clubStanding->getForm());
             $seedingData->setRound($clubStanding->getRound());
             $clubs[] = $club;
-            $seedingsData[] = $seedingData;
+            $seedingDataSets[] = $seedingData;
         }
 
         $season = $this->seasonService->findByYears($startYear, $startYear+1, $league);
@@ -201,7 +201,7 @@ class UpdateService
             $season = $this->seasonService->createByData($seasonData);
         }
 
-        foreach ($seedingsData as $seedingData){
+        foreach ($seedingDataSets as $seedingData){
             $seedingData->setSeason($season);
             $this->seedingService->createByData($seedingData);
         }

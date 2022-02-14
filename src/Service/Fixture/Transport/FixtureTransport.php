@@ -92,6 +92,12 @@ class FixtureTransport
     private $awayForm;
 
     /**
+     * @var int
+     */
+    private $result;
+
+
+    /**
      * @return string
      */
     public function getDescription(): string
@@ -361,5 +367,21 @@ class FixtureTransport
     public function setAwayForm(string $awayForm): void
     {
         $this->awayForm = $awayForm;
+    }
+
+    /**
+     * @return int
+     */
+    public function getResult(): int
+    {
+        return $this->result;
+    }
+
+    /**
+     * @param int $result
+     */
+    public function setResult(int $result): void
+    {
+        $this->result = $result;
     }
 }

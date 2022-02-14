@@ -47,14 +47,15 @@ class FixtureTransportFactory
      */
     public function createFixtureTransports(): array
     {
-        $allFixtures = $this->fixtureRepository->findAll();
+        $allFixtures = $this->fixtureRepository->findAllSortedByFilter();
         $transports = array();
         foreach($allFixtures as $fixture){
             $fixtureTransport =  new FixtureTransport();
             $fixtureTransport->setFixtureId($fixture->getId());
             $fixtureTransport->setRound($fixture->getMatchDay());
             $fixtureTransport->setDate($fixture->getDate()->format('Y-m-d H:i:s'));
-            $fixtureTransport->setPlayed($fixture->isPlayed());
+            $fixtureTransport->setPlayed($fixture->getResult());
+            $fixtureTransport->setResult($fixture->isPlayed());
             $fixtureTransport->setDescription($fixture->getDescription());
             $fixtureTransport->setBetDecorated($fixture->getIsBetDecorated());
             $fixtureTransport->setIsCandidate($fixture->getIsDoubleChanceCandidate());

@@ -10,6 +10,7 @@ use App\Entity\Season;
 use App\Entity\Seeding;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
+use PHPUnit\Util\Filter;
 
 /**
  * @method Fixture|null find($id, $lockMode = null, $lockVersion = null)
@@ -142,4 +143,16 @@ class FixtureRepository extends ServiceEntityRepository
         $stmt = $this->getEntityManager()->getConnection()->executeQuery($queryString, []);
         return $stmt->fetchAllAssociative();
     }
+
+    /**
+     * @return Fixture[]
+     */
+    public function findAllSortedByFilter(): array
+    {
+        $qb = $this->createQueryBuilder('f');
+        $qb->select('f')
+            ->orderBy('f.timeStamp', 'DESC');
+        return $qb->getQuery()->getResult();
+    }
+
 }

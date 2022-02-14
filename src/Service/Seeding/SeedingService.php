@@ -38,13 +38,17 @@ class SeedingService
     /**
      * @param SeedingData $data
      * @return Seeding
-     * @throws ORMException
      */
     public function createByData(SeedingData $data)
     {
-        $season = $this->seedingFactory->createByData($data);
-        $this->seedingRepository->persist($season);
-        return $season;
+        $seeding = $this->findByClubAndSeasonAndLRound($data->getClub(), $data->getSeason(), $data->getRound());
+        if (!is_null($seeding)){
+            return $seeding;
+        }
+
+        $seeding = $this->seedingFactory->createByData($data);
+        $this->seedingRepository->persist($seeding);
+        return $seeding;
     }
 
     /**

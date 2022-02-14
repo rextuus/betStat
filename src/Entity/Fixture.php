@@ -3,6 +3,7 @@
 namespace App\Entity;
 
 use App\Repository\FixtureRepository;
+use DateTimeInterface;
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
@@ -151,7 +152,7 @@ class Fixture
         return $this->date;
     }
 
-    public function setDate(\DateTimeInterface $date): self
+    public function setDate(DateTimeInterface $date): self
     {
         $this->date = $date;
 
@@ -343,15 +344,30 @@ class Fixture
         return $output;
     }
 
-    public function getOddDecorationDate(): ?\DateTimeInterface
+    public function getOddDecorationDate(): ?DateTimeInterface
     {
         return $this->oddDecorationDate;
     }
 
-    public function setOddDecorationDate(?\DateTimeInterface $oddDecorationDate): self
+    public function setOddDecorationDate(?DateTimeInterface $oddDecorationDate): self
     {
         $this->oddDecorationDate = $oddDecorationDate;
 
         return $this;
+    }
+
+    public function getResult(): int
+    {
+        if ($this->isPlayed()){
+            if ($this->getScoreHomeFull() > $this->getScoreAwayFull()){
+                return 1;
+            }
+            if ($this->getScoreHomeFull() < $this->getScoreAwayFull()){
+                return 2;
+            }
+            return 0;
+        }
+
+        return 0;
     }
 }

@@ -7,6 +7,7 @@
     <tr>
         <th>HomeForm <--</th>
         <th>Fixture </th>
+        <th>Result </th>
         <th>AwayForm <--</th>
         <th>Date </th>
         <th>Round </th>
@@ -19,9 +20,10 @@
     {% for entry in fixtures %}
         <tr>
                 <tr>
-                    <td>{{ entry.homeForm }}</td>
+                    <td>{{ entry.homeForm }}.</td>
                     <td>{{ entry.description }}</td>
-                    <td>{{ entry.awayForm }}</td>
+                    <td>{{ entry.result }}</td>
+                    <td>.{{ entry.awayForm }}</td>
                     <td>{{ entry.date }}</td>
                     <td>{{ entry.round }}</td>
                     <td>{% if entry.played %}Yes{% else %}No{% endif %}</td>

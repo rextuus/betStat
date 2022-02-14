@@ -119,8 +119,9 @@ class EvaluationService
      */
     public function getSeedingsForFixture(Fixture $fixture): array
     {
-        $homeSeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getHomeTeam(), $fixture->getSeason(), $fixture->getMatchDay());
-        $awaySeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getAwayTeam(), $fixture->getSeason(), $fixture->getMatchDay());
+        // ATTENTION. YOU got the seeding from before this round
+        $homeSeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getHomeTeam(), $fixture->getSeason(), $fixture->getMatchDay() -1);
+        $awaySeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getAwayTeam(), $fixture->getSeason(), $fixture->getMatchDay() -1);
 
         // be aware that we need only the last ones not the current game
 
@@ -128,14 +129,14 @@ class EvaluationService
             $homeSeeding = '-';
         }else{
             $homeSeeding = $homeSeeding->getForm();
-            $homeSeeding = substr($homeSeeding, 1, 5);
+            $homeSeeding = substr($homeSeeding, 0, 5);
         }
 
         if (is_null($awaySeeding)){
             $awaySeeding = '-';
         }else{
             $awaySeeding = $awaySeeding->getForm();
-            $awaySeeding = substr($awaySeeding, 1, 5);
+            $awaySeeding = substr($awaySeeding, 0, 5);
         }
 
         return ['homeSeeding' => $homeSeeding, 'awaySeeding' => $awaySeeding];
@@ -143,8 +144,8 @@ class EvaluationService
 
     public function getCandidateForFixture(Fixture $fixture)
     {
-        $homeSeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getHomeTeam(), $fixture->getSeason(), $fixture->getMatchDay());
-        $awaySeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getAwayTeam(), $fixture->getSeason(), $fixture->getMatchDay());
+        $homeSeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getHomeTeam(), $fixture->getSeason(), $fixture->getMatchDay() -1 );
+        $awaySeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getAwayTeam(), $fixture->getSeason(), $fixture->getMatchDay()- 1);
 
         if (is_null($homeSeeding) || is_null($awaySeeding)){
             return -1;
@@ -156,7 +157,7 @@ class EvaluationService
 
         $seedings = $this->getSeedingsForFixture($fixture);
         $homeIsCandidate = $this->checkIfFormFitsCondition($seedings['homeSeeding']);
-        $awayIsCandidate = $this->checkIfFormFitsCondition($seedings['awaySeeding']);
+        $awayIsCandidate = $this->checkIfFormFitsCondition(strrev($seedings['awaySeeding']));
         if ($homeIsCandidate && $awayIsCandidate){
             return 0;
         }
