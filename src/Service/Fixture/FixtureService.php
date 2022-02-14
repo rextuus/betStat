@@ -129,7 +129,7 @@ class FixtureService
 
         $fixtureNr = 0;
         while ($fixtureNr < $fixturesToReturn && $fixtureNr < count($fixtureIds)){
-            $fixtures[] = $this->fixtureRepository->find([$fixtureIds[$fixtureNr]['id']]);
+            $fixtures[] = $this->fixtureRepository->find($fixtureIds[$fixtureNr]['id']);
             $fixtureNr++;
         }
 
