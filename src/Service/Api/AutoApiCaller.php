@@ -103,6 +103,7 @@ class AutoApiCaller
 
         // TODO this method should handle the complete update stuff each day
         // 1. check if a round is over and all fixtures of current rounds are stored
+        $this->logger->info("1. Start with checking round is finished");
         $lastRoundCompleted = $this->checkIfLastRoundMatchIsReached();
         if ($lastRoundCompleted) {
             $this->logger->info("Current round fixtures for all leagues are stored");
@@ -113,17 +114,23 @@ class AutoApiCaller
             $this->logger->info("_____________________________________________________");
         }
         // 2. update leagues
+        $this->logger->info("2. Start with updating leagues");
         $this->updateService->updateLeagues();
         // 3. update Seedings
+        $this->logger->info("3. Start with updating seeding");
         $this->updateSeedings();
         // 4. identify candidates
+        $this->logger->info("4. Start with candidate identification");
         $this->identifyCandidates();
         // 5. decorate fixtures
 //        $this->goOnWithBetDecoration();
+        $this->logger->info("5. Go on with bet decoration");
         $this->goOnWithBetDecorationTimestampVariant();
         // 6. update last played round (results)
+        $this->logger->info("6. Get results for finished fixtures");
         $this->updateResultsOfAlreadyFinishedFixtures();
         // 7. get fixtures for older rounds
+        $this->logger->info("7. Get fixtures for old rounds");
         $this->increaseOldFixtureStock();
         // 8. check fixtures which arent decorated
     }

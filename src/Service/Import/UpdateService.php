@@ -146,6 +146,7 @@ class UpdateService
         if ($this->footballApiManagerService->isApiCallLimitReached()){
             return;
         }
+        $this->logger->info("UPDATE league: ".$leagueIdent);
 
         $standings = $this->footballApiGateway->getStandingForLeagues($leagueApiKey, $startYear);
 
@@ -403,7 +404,7 @@ class UpdateService
      * @param Club $team
      * @param Season $season
      */
-    private function storeFormsTillCurrentRound(string $form, Club $team, Season $season): void
+    public function storeFormsTillCurrentRound(string $form, Club $team, Season $season): void
     {
         for ($roundNr = 1; $roundNr <= strlen($form); $roundNr++) {
             $currentForm = substr($form, 0, $roundNr);
