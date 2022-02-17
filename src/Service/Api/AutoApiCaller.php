@@ -348,6 +348,7 @@ class AutoApiCaller
                 $fixtureUpdateData->setIsBetDecorated(true);
                 $fixtureUpdateData->setOddDecorationDate(new DateTime());
                 $this->fixtureService->updateFixture($fixtures[$nrOfStoredOdds], $fixtureUpdateData);
+                $this->logger->info(sprintf("Stored bets for fixture %s", (string) $fixtures[$nrOfStoredOdds]));
 
                 $nrOfStoredOdds++;
             } else {
