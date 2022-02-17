@@ -198,9 +198,9 @@ class AutoApiCaller
 
             // get last fixture thats fits average week (if a game was shifted)
             foreach ($fixtures as $fixture) {
-                $week = $fixture->format("W");
+                $week = $fixture->getDate()->format("W");
                 if ($week <= $weekAverage){
-                    $lastStartTime = $fixture->getDate()->getTimeStamp();
+                    $lastStartTime = $fixture->getTimeStamp();
                 }
             }
 
