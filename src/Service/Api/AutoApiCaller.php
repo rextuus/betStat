@@ -190,7 +190,7 @@ class AutoApiCaller
                     $lastStartTime = $fixture->getTimeStamp();
                     $lastStartTimeLog = $fixture->getDate()->format('Y-m-d H:i:s');
                 }
-                $fixtureWeeks[] = $fixture->format("W");
+                $fixtureWeeks[] = $fixture->getDate()->format("W");
             }
             $this->logger->info(sprintf("Last fixture of round %d of %s starts on %s", $round, $leagueIdent, $lastStartTimeLog));
 
@@ -200,7 +200,7 @@ class AutoApiCaller
             foreach ($fixtures as $fixture) {
                 $week = $fixture->format("W");
                 if ($week <= $weekAverage){
-                    $lastStartTime = $fixture->getTimeStamp();
+                    $lastStartTime = $fixture->getDate()->getTimeStamp();
                 }
             }
 
