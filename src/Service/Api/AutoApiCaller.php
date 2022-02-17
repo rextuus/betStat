@@ -11,6 +11,7 @@ use App\Service\Fixture\FixtureService;
 use App\Service\Import\UpdateService;
 use App\Service\League\LeagueService;
 use DateTime;
+use Monolog\Handler\IFTTTHandler;
 use Psr\Log\LoggerInterface;
 use function PHPUnit\Framework\isEmpty;
 use function PHPUnit\Framework\isInstanceOf;
@@ -114,11 +115,12 @@ class AutoApiCaller
             $this->logger->info("_____________________________________________________");
         }
         // 2. update leagues
+        // TODO Think we this for seeding
         $this->logger->info("2. Start with updating leagues");
         $this->updateService->updateLeagues();
         // 3. update Seedings
         $this->logger->info("3. Start with updating seeding");
-        $this->updateSeedings();
+//        $this->updateSeedings();
         // 4. identify candidates
         $this->logger->info("4. Start with candidate identification");
         $this->identifyCandidates();
@@ -182,13 +184,25 @@ class AutoApiCaller
             // get last startTime of this round
             $lastStartTime = $fixtures[0]->getTimeStamp();
             $lastStartTimeLog = $fixtures[0]->getDate()->format('Y-m-d H:i:s');
+            $fixtureWeeks = array();
             foreach ($fixtures as $fixture) {
                 if ($fixture->getTimeStamp() > $lastStartTime) {
                     $lastStartTime = $fixture->getTimeStamp();
                     $lastStartTimeLog = $fixture->getDate()->format('Y-m-d H:i:s');
                 }
+                $fixtureWeeks[] = $fixture->format("W");
             }
             $this->logger->info(sprintf("Last fixture of round %d of %s starts on %s", $round, $leagueIdent, $lastStartTimeLog));
+
+            $weekAverage = array_sum($fixtureWeeks)/count($fixtureWeeks);
+
+            // get last fixture thats fits average week (if a game was shifted)
+            foreach ($fixtures as $fixture) {
+                $week = $fixture->format("W");
+                if ($week <= $weekAverage){
+                    $lastStartTime = $fixture->getTimeStamp();
+                }
+            }
 
             // check if round is completely finished
             // TODO maybe check if round contains of right amount of fixtures to

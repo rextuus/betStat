@@ -133,4 +133,19 @@ class AutomaticUpdateController extends AbstractController
             'step' => 'Update Seedings',
         ]);
     }
+
+    /**
+     * @Route("/step/check", name="step_check")
+     * @return Response
+     * @throws \Exception
+     */
+    public function updateChecks(
+    ): Response
+    {
+        $this->autoApiCaller->checkIfLastRoundMatchIsReached();
+
+        return $this->render('update/step.twig', [
+            'step' => 'Checked if rounds are finished',
+        ]);
+    }
 }
