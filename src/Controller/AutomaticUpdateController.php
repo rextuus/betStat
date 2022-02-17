@@ -148,4 +148,19 @@ class AutomaticUpdateController extends AbstractController
             'step' => 'Checked if rounds are finished',
         ]);
     }
+
+    /**
+     * @Route("/step/bet", name="step_bet")
+     * @return Response
+     * @throws \Exception
+     */
+    public function updateBetDecoration(
+    ): Response
+    {
+        $this->autoApiCaller->goOnWithBetDecorationTimestampVariant();
+
+        return $this->render('update/step.twig', [
+            'step' => 'Bet decoration',
+        ]);
+    }
 }
