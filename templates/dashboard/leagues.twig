@@ -1,0 +1,31 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block body %}
+<table class="table table-bordered">
+    <tr>
+        <th>League</th>
+        <th>Rounds </th>
+    </tr>
+
+    <tr>
+        <td></td>
+            {% for i in 1..50 %}
+        <td>{{ i }}</td>
+            {% endfor %}
+    </tr>
+
+    {% for key, rounds in leagues %}
+        <tr>
+        <td>
+            {{ key }}
+        </td>
+            {% for key, round in rounds %}
+            {% if round == 1  %}<td> [X]{% elseif round == 2 %}<td style="background-color:#184d00;">{% else %}<td> {{ round }}{% endif %} </td>
+            {% endfor %}
+    </tr>
+    {% endfor %}
+
+</table>
+{% endblock %}

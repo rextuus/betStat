@@ -50,6 +50,16 @@ class UpdateService
     public const LEAGUE_SERIE_B= 'serieB';
     public const LEAGUE_LEAGUE_A= 'leagueA';
     public const LEAGUE_LEAGUE_B= 'leagueB';
+    public const ROUND_BUNDESLIGA = 9;
+    public const ROUND_BUNDESLIGA_2 = 9;
+    public const ROUND_PREMIER_LEAGUE = 10;
+    public const ROUND_CHAMPIONS_CHIP = 12;
+    public const ROUND_PRIMERA_DIVISION= 10;
+    public const ROUND_SECUNDA_DIVISION= 11;
+    public const ROUND_SERIE_A= 10;
+    public const ROUND_SERIE_B= 10;
+    public const ROUND_LEAGUE_A= 10;
+    public const ROUND_LEAGUE_B= 10;
 
     public const LEAGUES = [
         self::LEAGUE_BUNDESLIGA => self::API_KEY_BUNDESLIGA,
@@ -62,6 +72,19 @@ class UpdateService
         self::LEAGUE_SERIE_B => self::API_KEY_SERIE_B,
         self::LEAGUE_LEAGUE_A => self::API_KEY_LEAGUE_A,
         self::LEAGUE_LEAGUE_B => self::API_KEY_LEAGUE_B,
+    ];
+
+    public const ROUNDS = [
+        self::LEAGUE_BUNDESLIGA => self::ROUND_BUNDESLIGA,
+        self::LEAGUE_BUNDESLIGA_2 => self::ROUND_BUNDESLIGA_2,
+        self::LEAGUE_PREMIER_LEAGUE => self::ROUND_PREMIER_LEAGUE,
+        self::LEAGUE_CHAMPIONS_CHIP => self::ROUND_CHAMPIONS_CHIP,
+        self::LEAGUE_PRIMERA_DIVISION => self::ROUND_PRIMERA_DIVISION,
+        self::LEAGUE_SECUNDA_DIVISION => self::ROUND_SECUNDA_DIVISION,
+        self::LEAGUE_SERIE_A => self::ROUND_SERIE_A,
+        self::LEAGUE_SERIE_B => self::ROUND_SERIE_B,
+        self::LEAGUE_LEAGUE_A => self::ROUND_LEAGUE_A,
+        self::LEAGUE_LEAGUE_B => self::ROUND_LEAGUE_B,
     ];
 
 

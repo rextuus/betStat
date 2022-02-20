@@ -12,6 +12,7 @@ use App\Repository\FixtureRepository;
 use App\Service\Fixture\Transport\FixtureTransport;
 use App\Service\FixtureOdd\FixtureOddService;
 use App\Service\Seeding\SeedingService;
+use DateTime;
 use function PHPUnit\Framework\isEmpty;
 use function PHPUnit\Framework\isNull;
 
@@ -134,5 +135,18 @@ class FixtureService
         }
 
         return $fixtures;
+    }
+
+    /**
+     * @param int $leagueApiKey
+     * @param int $round
+     */
+    public function getStatisticForLeagueAndRound(int $leagueApiKey, int $round)
+    {
+        $fixtures = $this->fixtureRepository->findByLeagueAndSeasonAndRound($leagueApiKey, 2021, $round);
+        $currentDate = (new DateTime())->getTimestamp();
+        foreach ($fixtures as $fixture){
+
+        }
     }
 }
