@@ -60,14 +60,13 @@ class SeedingRepository extends ServiceEntityRepository
     {
         $qb = $this->createQueryBuilder('s');
         $qb->select('s');
-        $qb->innerJoin(Club::class, 'c', 'WITH', 's.club = c.id');
-        $qb->innerJoin(Season::class, 'se', 'WITH', 's.season = se.id')
+        $qb->leftJoin(Club::class, 'c', 'WITH', 's.club = c.id');
+        $qb->leftJoin(Season::class, 'se', 'WITH', 's.season = se.id')
             ->where($qb->expr()->eq('se.startYear', ':startYear'))
             ->andWhere($qb->expr()->eq('c.id', ':clubId'))
-            ->orderBy('s.round', 'DESC')
-            ->setMaxResults(1);
-        $qb->setParameter('startYear', $season);
-        $qb->setParameter('clubId', $club);
+            ->orderBy('s.round', 'DESC');
+        $qb->setParameter('startYear', $season->getStartYear());
+        $qb->setParameter('clubId', $club->getId());
         return $qb->getQuery()->getResult();
     }
 }
