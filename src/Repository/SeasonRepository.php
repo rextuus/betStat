@@ -129,7 +129,7 @@ class SeasonRepository extends ServiceEntityRepository
         return $qb->getQuery()->getResult();
     }
 
-    public function findBySeasonAndRound(League $league, int $seasonYear, int $round)
+    public function findByLeagueAndStartYear(League $league, int $seasonYear)
     {
         $qb = $this->createQueryBuilder('s');
         $qb->innerJoin(League::class, 'l', 'WITH', 's.league = l')

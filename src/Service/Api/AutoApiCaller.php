@@ -120,6 +120,7 @@ class AutoApiCaller
         $this->updateService->updateLeagues();
         // 3. update Seedings
         $this->logger->info("3. Start with updating seeding");
+        $this->updateSeedingsForAllOldOne();
 //        $this->updateSeedings();
         // 4. identify candidates
         $this->logger->info("4. Start with candidate identification");
@@ -383,6 +384,22 @@ class AutoApiCaller
 
             // else get latest form for club and calculate seedings for all older fixtures of it
             $this->updateService->updateSeedingFormsForFixture($fixture);
+        }
+    }
+
+    public function updateSeedingsForAllOldOne()
+    {
+        // get all clubs
+        $counter = 0;
+        foreach (UpdateService::LEAGUES as $leagueIdent => $leagueApiKey){
+            $league = $this->leagueService->findByApiKey($leagueApiKey);
+            $clubs = $this->clubService->findByLeagueAndSeason($league, 2021);
+            foreach ($clubs as $club){
+                if ($counter < $this->seedingDecorateLimit){
+                    $this->updateService->getSeedingsForClubTillCurrentRound($league, 2021, $club);
+                    $counter++;
+                }
+            }
         }
     }
 }

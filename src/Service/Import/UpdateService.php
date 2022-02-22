@@ -7,6 +7,7 @@ namespace App\Service\Import;
 use App\Entity\Club;
 use App\Entity\Fixture;
 use App\Entity\FootballApiManager;
+use App\Entity\League;
 use App\Entity\Season;
 use App\Service\Api\FootballApiGateway;
 use App\Service\Api\FootballApiManagerService;
@@ -406,6 +407,18 @@ class UpdateService
         $this->storeFormsTillCurrentRound($awayForm, $awayTeam, $season);
     }
 
+    function getSeedingsForClubTillCurrentRound(League $league, int $startYear, Club $club){
+        $season = $this->seasonService->findByLeagueAndStartYear($league, $startYear);
+        $form =  $this->footballApiGateway->getCurrentFormForClub($league->getApiId(), $startYear, $club->getApiId());
+        $roundNr = strlen($form);
+
+
+        if (is_null($this->seedingService->findByClubAndSeasonAndLRound($club, $season, $roundNr))){
+            $this->logger->info(sprintf("Get form for %s fitting last %d round: %s", $club->getName(), $roundNr, $form));
+            $this->storeFormsTillCurrentRound($form, $club, $season);
+        }
+    }
+
     /**
      * @param array $formTillRound
      * @param string $variant
@@ -451,7 +464,7 @@ class UpdateService
 
                 $this->seedingService->createByData($seedingData);
 
-                $this->logger->info(sprintf("created seeding for %s and round %d", $team->getName(), $roundNr));
+                $this->logger->info(sprintf("created seeding for %s and round %d: %s", $team->getName(), $roundNr, $currentForm));
             }
         }
     }

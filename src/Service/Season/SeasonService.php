@@ -79,9 +79,9 @@ class SeasonService
         return $this->seasonRepository->findByLeagueIdentAndYear($leagueIdent, $startYear)[0];
     }
 
-    public function findBySeasonAndRound(League $league, int $seasonYear, int $round)
+    public function findByLeagueAndStartYear(League $league, int $seasonYear)
     {
-        return $this->seasonRepository->findBySeasonAndRound($league, $seasonYear, $round);
+        return $this->seasonRepository->findByLeagueAndStartYear($league, $seasonYear);
     }
 
 }

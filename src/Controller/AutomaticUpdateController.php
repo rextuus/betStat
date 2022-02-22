@@ -127,7 +127,7 @@ class AutomaticUpdateController extends AbstractController
     public function updateSeedings(
     ): Response
     {
-        $this->autoApiCaller->updateSeedings();
+        $this->autoApiCaller->updateSeedingsForAllOldOne();
 
         return $this->render('update/step.twig', [
             'step' => 'Update Seedings',
