@@ -408,7 +408,7 @@ class UpdateService
     }
 
     function getSeedingsForClubTillCurrentRound(League $league, int $startYear, Club $club){
-        $season = $this->seasonService->findByLeagueAndStartYear($league, $startYear);
+        $season = $this->seasonService->findByLeagueAndStartYear($league, $startYear)[0];
         $form =  $this->footballApiGateway->getCurrentFormForClub($league->getApiId(), $startYear, $club->getApiId());
         $roundNr = strlen($form);
 
