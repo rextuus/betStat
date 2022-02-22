@@ -76,6 +76,10 @@ class SeedingService
 
     public function findLastSeedingForClubAndSeason(Club $club, Season $season): ?Seeding
     {
-        return $this->seedingRepository->findLastSeedingForClubAndSeason($club, $season)[0];
+        $seedings = $this->seedingRepository->findLastSeedingForClubAndSeason($club, $season);
+        if (empty($seedings)){
+            return null;
+        }
+        return $seedings[0];
     }
 }
