@@ -70,10 +70,10 @@ class FixtureTransportFactory
 
             $wishedResult = 0;
             if ($fixtureTransport->getToBetOn() !== -1 && $fixture->isPlayed()){
-                if ($fixture->getWinner() == $fixtureTransport->getToBetOn()){
+                if ($fixture->getWinner() !== $fixtureTransport->getToBetOn()){
                     $wishedResult = 1;
                 }
-                if ($fixture->getWinner() !== $fixtureTransport->getToBetOn()){
+                else{
                     $wishedResult = -1;
                 }
             }
