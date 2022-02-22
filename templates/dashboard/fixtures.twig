@@ -20,7 +20,7 @@
     </tr>
     {% for entry in fixtures %}
         <tr>
-                <tr>
+                {% if entry.wishedResult == 1 %}<tr style="background-color:#b0ff9e;">{% elseif  entry.wishedResult == -1 %}<tr style="background-color:#ff6649;">{% else %}<tr>{% endif %}
                     <td>{{ entry.homeForm }}.</td>
                     <td>{{ entry.description }}</td>
                     <td>.{{ entry.awayForm }}</td>

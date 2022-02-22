@@ -112,6 +112,11 @@ class FixtureTransport
     private $league;
 
     /**
+     * @var int
+     */
+    private $wishedResult;
+
+    /**
      * @return string
      */
     public function getDescription(): string
@@ -445,5 +450,21 @@ class FixtureTransport
     public function setLeague(string $league): void
     {
         $this->league = $league;
+    }
+
+    /**
+     * @return int
+     */
+    public function getWishedResult(): int
+    {
+        return $this->wishedResult;
+    }
+
+    /**
+     * @param int $wishedResult
+     */
+    public function setWishedResult(int $wishedResult): void
+    {
+        $this->wishedResult = $wishedResult;
     }
 }

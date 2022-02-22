@@ -370,4 +370,18 @@ class Fixture
 
         return 0;
     }
+
+    public function getWinner(): int
+    {
+        if(!$this->isPlayed()){
+            return -1;
+        }
+        if($this->getScoreHomeFull() > $this->getScoreAwayFull()){
+            return 1;
+        }
+        if($this->getScoreAwayFull() > $this->getScoreHomeFull()){
+            return 2;
+        }
+        return 0;
+    }
 }

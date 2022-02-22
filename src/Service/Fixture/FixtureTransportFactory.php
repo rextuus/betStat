@@ -68,6 +68,17 @@ class FixtureTransportFactory
             $fixtureTransport->setHomeForm($seedings['homeSeeding']);
             $fixtureTransport->setAwayForm($seedings['awaySeeding']);
 
+            $wishedResult = 0;
+            if ($fixtureTransport->getToBetOn() !== -1 && $fixture->isPlayed()){
+                if ($fixture->getWinner() == $fixtureTransport->getToBetOn()){
+                    $wishedResult = 1;
+                }
+                if ($fixture->getWinner() !== $fixtureTransport->getToBetOn()){
+                    $wishedResult = -1;
+                }
+            }
+            $fixtureTransport->setWishedResult($wishedResult);
+
             // check if real odds exists
             $fixtureTransport->setRealBetDecorated(false);
             $odds = $this->fixtureOddService->findByFixture($fixture);
