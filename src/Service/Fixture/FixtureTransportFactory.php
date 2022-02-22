@@ -54,12 +54,15 @@ class FixtureTransportFactory
             $fixtureTransport->setFixtureId($fixture->getId());
             $fixtureTransport->setRound($fixture->getMatchDay());
             $fixtureTransport->setDate($fixture->getDate()->format('Y-m-d H:i:s'));
-            $fixtureTransport->setPlayed($fixture->getResult());
-            $fixtureTransport->setResult($fixture->isPlayed());
+            $fixtureTransport->setPlayed($fixture->isPlayed());
+            $fixtureTransport->setResult($fixture->getResult());
             $fixtureTransport->setDescription($fixture->getDescription());
             $fixtureTransport->setBetDecorated($fixture->getIsBetDecorated());
             $fixtureTransport->setIsCandidate($fixture->getIsDoubleChanceCandidate());
             $fixtureTransport->setToBetOn($this->evaluationService->getCandidateForFixture($fixture));
+            $fixtureTransport->setHomeGoals($fixture->getScoreHomeFull());
+            $fixtureTransport->setAwayGoals($fixture->getScoreAwayFull());
+            $fixtureTransport->setLeague($fixture->getLeague()->getIdent());
 
             $seedings = $this->evaluationService->getSeedingsForFixture($fixture);
             $fixtureTransport->setHomeForm($seedings['homeSeeding']);

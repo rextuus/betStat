@@ -330,7 +330,7 @@ class Fixture
 
         public function isPlayed(): bool
     {
-        return (!isNull($this->getScoreHomeFull()) && !isNull($this->getScoreAwayFull()) && !isNull($this->getScoreHomeHalf()) && !isNull($this->getScoreAwayHalf()));
+        return (!is_null($this->getScoreHomeFull()) && !is_null($this->getScoreAwayFull()) && !is_null($this->getScoreHomeHalf()) && !is_null($this->getScoreAwayHalf()));
     }
 
     public function getDescription()

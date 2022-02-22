@@ -96,6 +96,20 @@ class FixtureTransport
      */
     private $result;
 
+    /**
+     * @var int|null
+     */
+    private $homeGoals;
+
+    /**
+     * @var int|null
+     */
+    private $awayGoals;
+
+    /**
+     * @var string
+     */
+    private $league;
 
     /**
      * @return string
@@ -383,5 +397,53 @@ class FixtureTransport
     public function setResult(int $result): void
     {
         $this->result = $result;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getHomeGoals(): ?int
+    {
+        return $this->homeGoals;
+    }
+
+    /**
+     * @param int|null $homeGoals
+     */
+    public function setHomeGoals(?int $homeGoals): void
+    {
+        $this->homeGoals = $homeGoals;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getAwayGoals(): ?int
+    {
+        return $this->awayGoals;
+    }
+
+    /**
+     * @param int|null $awayGoals
+     */
+    public function setAwayGoals(?int $awayGoals): void
+    {
+        $this->awayGoals = $awayGoals;
+    }
+
+    /**
+     * @return string
+     */
+    public function getLeague(): string
+    {
+        return $this->league;
+    }
+
+    /**
+     * @param string $league
+     */
+    public function setLeague(string $league): void
+    {
+        $this->league = $league;
     }
 }

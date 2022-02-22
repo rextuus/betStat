@@ -5,12 +5,13 @@
 {% block body %}
 <table class="table table-bordered">
     <tr>
-        <th>HomeForm <--</th>
+        <th>HomeForm --></th>
         <th>Fixture </th>
-        <th>Result </th>
         <th>AwayForm <--</th>
+        <th>Result </th>
         <th>Date </th>
         <th>Round </th>
+        <th>League </th>
         <th>Played </th>
         <th>Real Decorated </th>
         <th>Bets </th>
@@ -22,10 +23,11 @@
                 <tr>
                     <td>{{ entry.homeForm }}.</td>
                     <td>{{ entry.description }}</td>
-                    <td>{{ entry.result }}</td>
                     <td>.{{ entry.awayForm }}</td>
+                    {% if entry.played %}<td style="background-color:#20a734;">{% else %}<td style="background-color:#e3391b;">{% endif %}[{{ entry.homeGoals }} - {{ entry.awayGoals }}]</td>
                     <td>{{ entry.date }}</td>
                     <td>{{ entry.round }}</td>
+                    <td>{{ entry.league }}</td>
                     <td>{% if entry.played %}Yes{% else %}No{% endif %}</td>
                     <td>{% if entry.realBetDecorated %}Yes{% else %}No  <a href=" {{ path('fixture_odds', {fixture_id: entry.fixtureId}) }}" class="btn btn-primary btn-lg square" role="button">Update</a>{% endif %}</td>
                     <td>
