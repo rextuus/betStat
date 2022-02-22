@@ -2,6 +2,9 @@
 
 namespace App\Repository;
 
+use App\Entity\Club;
+use App\Entity\League;
+use App\Entity\Season;
 use App\Entity\Seeding;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
@@ -51,5 +54,20 @@ class SeedingRepository extends ServiceEntityRepository
     {
         $this->_em->persist($season);
         $this->_em->flush();
+    }
+
+    public function findLastSeedingForClubAndSeason(Club $club, Season $season): array
+    {
+        $qb = $this->createQueryBuilder('s');
+        $qb->select('s');
+        $qb->innerJoin(Club::class, 'c', 'WITH', 's.club = c.id');
+        $qb->innerJoin(Season::class, 'se', 'WITH', 's.season = se.id')
+            ->where($qb->expr()->eq('s.startYear', ':startYear'))
+            ->andWhere($qb->expr()->eq('c.id', ':clubId'))
+            ->orderBy('s.round', 'DESC')
+            ->setMaxResults(1);
+        $qb->setParameter('startYear', $season);
+        $qb->setParameter('clubId', $club);
+        return $qb->getQuery()->getResult();
     }
 }

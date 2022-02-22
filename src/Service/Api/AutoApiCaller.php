@@ -396,8 +396,10 @@ class AutoApiCaller
             $clubs = $this->clubService->findByLeagueAndSeason($league, 2021);
             foreach ($clubs as $club){
                 if ($counter < $this->seedingDecorateLimit){
-                    $this->updateService->getSeedingsForClubTillCurrentRound($league, 2021, $club);
-                    $counter++;
+                    $seedingsCreated = $this->updateService->getSeedingsForClubTillCurrentRound($league, 2021, $club);
+                    if ($seedingsCreated){
+                        $counter++;
+                    }
                 }
             }
         }

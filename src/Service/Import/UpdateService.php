@@ -407,16 +407,20 @@ class UpdateService
         $this->storeFormsTillCurrentRound($awayForm, $awayTeam, $season);
     }
 
-    function getSeedingsForClubTillCurrentRound(League $league, int $startYear, Club $club){
+    function getSeedingsForClubTillCurrentRound(League $league, int $startYear, Club $club): bool
+    {
         $season = $this->seasonService->findByLeagueAndStartYear($league, $startYear)[0];
-        $form =  $this->footballApiGateway->getCurrentFormForClub($league->getApiId(), $startYear, $club->getApiId());
-        $roundNr = strlen($form);
 
+        $lastSeeding = $this->seedingService->findLastSeedingForClubAndSeason($club, $season);
 
-        if (is_null($this->seedingService->findByClubAndSeasonAndLRound($club, $season, $roundNr))){
+        if (is_null($lastSeeding)){
+            $form =  $this->footballApiGateway->getCurrentFormForClub($league->getApiId(), $startYear, $club->getApiId());
+            $roundNr = strlen($form);
             $this->logger->info(sprintf("Get form for %s fitting last %d round: %s", $club->getName(), $roundNr, $form));
             $this->storeFormsTillCurrentRound($form, $club, $season);
+            return true;
         }
+        return false;
     }
 
     /**

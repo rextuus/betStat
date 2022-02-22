@@ -73,4 +73,9 @@ class SeedingService
         return $this->seedingRepository->findOneBy(['club' => $club, 'round' => $round, 'season' => $season]);
 
     }
+
+    public function findLastSeedingForClubAndSeason(Club $club, Season $season): ?Seeding
+    {
+        return $this->seedingRepository->findLastSeedingForClubAndSeason($club, $season)[0];
+    }
 }
