@@ -66,8 +66,8 @@ class SeedingRepository extends ServiceEntityRepository
             ->andWhere($qb->expr()->eq('c.id', ':clubId'))
             ->orderBy('s.round', 'DESC')
             ->setMaxResults(1);
-        $qb->setParameter('startYear', $season);
-        $qb->setParameter('clubId', $club);
+        $qb->setParameter('startYear', $season->getStartYear());
+        $qb->setParameter('clubId', $club->getId());
         return $qb->getQuery()->getResult();
     }
 }
