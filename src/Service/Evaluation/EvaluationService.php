@@ -136,7 +136,7 @@ class EvaluationService
             $awaySeeding = '-';
         }else{
             $awaySeeding = $awaySeeding->getForm();
-            $awaySeeding = substr($homeSeeding, strlen($awaySeeding)-5, strlen($awaySeeding)-1);
+            $awaySeeding = substr($awaySeeding, strlen($awaySeeding)-5, strlen($awaySeeding)-1);
         }
 
         return ['homeSeeding' => $homeSeeding, 'awaySeeding' => $awaySeeding];
