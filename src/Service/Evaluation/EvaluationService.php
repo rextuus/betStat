@@ -129,14 +129,14 @@ class EvaluationService
             $homeSeeding = '-';
         }else{
             $homeSeeding = $homeSeeding->getForm();
-            $homeSeeding = substr($homeSeeding, 0, 5);
+            $homeSeeding = substr($homeSeeding, strlen($homeSeeding)-5, strlen($homeSeeding)-1);
         }
 
         if (is_null($awaySeeding)){
             $awaySeeding = '-';
         }else{
             $awaySeeding = $awaySeeding->getForm();
-            $awaySeeding = substr($awaySeeding, 0, 5);
+            $awaySeeding = substr($homeSeeding, strlen($homeSeeding)-5, strlen($homeSeeding)-1);
         }
 
         return ['homeSeeding' => $homeSeeding, 'awaySeeding' => $awaySeeding];
