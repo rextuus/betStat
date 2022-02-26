@@ -333,11 +333,11 @@ class AutoApiCaller
             }
         );
 
-        $currentTimeStamp = (new DateTime('+10 days'))->getTimestamp();
+        $currentTimeStamp = (new DateTime('-10 days'))->getTimestamp();
 
         $nrOfStoredOdds = 0;
         while ($nrOfStoredOdds <= $this->fixtureDecorateLimit) {
-            if ($fixtures[$nrOfStoredOdds]->getTimeStamp() > $currentTimeStamp) {
+            if ($fixtures[$nrOfStoredOdds]->getTimeStamp() > $currentTimeStamp && array_key_exists($nrOfStoredOdds, $fixtures)) {
                 $nrOfStoredOdds++;
                 continue;
             }

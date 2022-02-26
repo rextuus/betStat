@@ -101,9 +101,15 @@ class Fixture
      */
     private $oddDecorationDate;
 
+    /**
+     * @ORM\OneToMany(targetEntity=Placement::class, mappedBy="fixture")
+     */
+    private $placements;
+
     public function __construct()
     {
         $this->fixtureOdds = new ArrayCollection();
+        $this->placements = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -383,5 +389,35 @@ class Fixture
             return 2;
         }
         return 0;
+    }
+
+    /**
+     * @return Collection|Placement[]
+     */
+    public function getPlacements(): Collection
+    {
+        return $this->placements;
+    }
+
+    public function addPlacement(Placement $placement): self
+    {
+        if (!$this->placements->contains($placement)) {
+            $this->placements[] = $placement;
+            $placement->setFixture($this);
+        }
+
+        return $this;
+    }
+
+    public function removePlacement(Placement $placement): self
+    {
+        if ($this->placements->removeElement($placement)) {
+            // set the owning side to null (unless already changed)
+            if ($placement->getFixture() === $this) {
+                $placement->setFixture(null);
+            }
+        }
+
+        return $this;
     }
 }
