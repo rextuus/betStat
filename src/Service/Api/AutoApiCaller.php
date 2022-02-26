@@ -322,7 +322,7 @@ class AutoApiCaller
     public function goOnWithBetDecorationTimestampVariant()
     {
         $fixtures = $this->fixtureService->getUndecoratedFixturesTimeStampVariant();
-
+dump($fixtures);
         usort(
             $fixtures,
             function (Fixture $a, Fixture $b) {
