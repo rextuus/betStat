@@ -30,9 +30,9 @@ class SimulationService
      * SimulationService constructor.
      * @param PlacementService $placementService
      * @param SimulatorStrategyService $simulatorStrategyService
-     * @param SimulationService $simulatorService
+     * @param SimulatorService $simulatorService
      */
-    public function __construct(PlacementService $placementService, SimulatorStrategyService $simulatorStrategyService, SimulationService $simulatorService)
+    public function __construct(PlacementService $placementService, SimulatorStrategyService $simulatorStrategyService, SimulatorService $simulatorService)
     {
         $this->placementService = $placementService;
         $this->simulatorStrategyService = $simulatorStrategyService;
