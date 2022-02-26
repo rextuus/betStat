@@ -333,12 +333,12 @@ class AutoApiCaller
             }
         );
 
-        $currentTimeStamp = (new DateTime('-10 days'))->getTimestamp();
+        $currentTimeStamp = (new DateTime('+10 days'))->getTimestamp();
 
         $nrOfStoredOdds = 0;
         while ($nrOfStoredOdds <= $this->fixtureDecorateLimit) {
-            if (array_key_exists($nrOfStoredOdds, $fixtures) && $fixtures[$nrOfStoredOdds]->getTimeStamp() > $currentTimeStamp) {
-                $nrOfStoredOdds++;
+            // skip if array end is reached or fixture is to far in the future
+            if (!array_key_exists($nrOfStoredOdds, $fixtures) || $fixtures[$nrOfStoredOdds]->getTimeStamp() > $currentTimeStamp) {
                 continue;
             }
             // getOddsForFixture will return false if no api calls were left
