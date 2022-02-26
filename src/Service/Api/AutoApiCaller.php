@@ -337,7 +337,7 @@ class AutoApiCaller
 
         $nrOfStoredOdds = 0;
         while ($nrOfStoredOdds <= $this->fixtureDecorateLimit) {
-            if ($fixtures[$nrOfStoredOdds]->getTimeStamp() > $currentTimeStamp && array_key_exists($nrOfStoredOdds, $fixtures)) {
+            if (array_key_exists($nrOfStoredOdds, $fixtures) && $fixtures[$nrOfStoredOdds]->getTimeStamp() > $currentTimeStamp) {
                 $nrOfStoredOdds++;
                 continue;
             }
