@@ -339,6 +339,7 @@ dump($fixtures);
         while ($nrOfStoredOdds <= $this->fixtureDecorateLimit) {
             // skip if array end is reached or fixture is to far in the future
             if (!array_key_exists($nrOfStoredOdds, $fixtures) || $fixtures[$nrOfStoredOdds]->getTimeStamp() > $currentTimeStamp) {
+                $nrOfStoredOdds++;
                 continue;
             }
             // getOddsForFixture will return false if no api calls were left
@@ -352,8 +353,6 @@ dump($fixtures);
                 $this->logger->info(sprintf("Stored bets for fixture %s", (string) $fixtures[$nrOfStoredOdds]));
 
                 $nrOfStoredOdds++;
-            } else {
-                $fixtureToDecorate = null;
             }
         }
     }

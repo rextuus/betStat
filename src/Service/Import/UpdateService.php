@@ -280,6 +280,9 @@ class UpdateService
             $fixtureUpdateDate->setOddDecorationDate(new DateTime());
             $this->fixtureService->updateFixture($fixture, $fixtureUpdateDate);
         }
+        if (!count($fixtureResponse)){
+            return false;
+        }
         return true;
     }
 
