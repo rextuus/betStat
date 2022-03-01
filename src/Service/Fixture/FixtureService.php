@@ -149,4 +149,12 @@ class FixtureService
 
         }
     }
+
+    /**
+     * @return Fixture[]
+     */
+    public function getFixturesWithoutResult(): array
+    {
+        return $this->fixtureRepository->getFixturesWithoutResult();
+    }
 }

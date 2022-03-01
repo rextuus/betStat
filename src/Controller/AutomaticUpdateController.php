@@ -163,4 +163,19 @@ class AutomaticUpdateController extends AbstractController
             'step' => 'Bet decoration',
         ]);
     }
+
+    /**
+     * @Route("/step/result", name="step_result")
+     * @return Response
+     * @throws \Exception
+     */
+    public function updateResultDecoration(
+    ): Response
+    {
+        $this->autoApiCaller->updateResultsOfAlreadyFinishedFixtures();
+
+        return $this->render('update/step.twig', [
+            'step' => 'Result decoration',
+        ]);
+    }
 }

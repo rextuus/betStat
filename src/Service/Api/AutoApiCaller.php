@@ -271,14 +271,21 @@ class AutoApiCaller
 
     public function updateResultsOfAlreadyFinishedFixtures()
     {
-        $settings = $this->automaticUpdateSettingService->getSettings();
-        foreach ($settings->getCompletedRounds() as $leagueIdent => $round) {
-            $league = $this->leagueService->findByIdent($leagueIdent);
-            $updatedFixtures = $this->updateService->updateFixtureForLeagueAndRound($league->getApiId(), 2021, $round + 1);
-            if ($updatedFixtures) {
-                $this->automaticUpdateSettingService->setCompletedRoundByLeague($leagueIdent, $round + 1);
-            }
+        // get all undecorated fixtures
+        $fixtureRoundsWithoutResults = $this->fixtureService->getFixturesWithoutResult();
+
+        foreach($fixtureRoundsWithoutResults as $fixtureRound){
+            // call round for league round
+            $this->updateService->getFixturesForRound($fixtureRound['apiId'], $fixtureRound['startYear'], $fixtureRound['matchDay']);
         }
+//        $settings = $this->automaticUpdateSettingService->getSettings();
+//        foreach ($settings->getCompletedRounds() as $leagueIdent => $round) {
+//            $league = $this->leagueService->findByIdent($leagueIdent);
+//            $updatedFixtures = $this->updateService->updateFixtureForLeagueAndRound($league->getApiId(), 2021, $round + 1);
+//            if ($updatedFixtures) {
+//                $this->automaticUpdateSettingService->setCompletedRoundByLeague($leagueIdent, $round + 1);
+//            }
+//        }
     }
 
 

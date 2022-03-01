@@ -8,6 +8,7 @@ use App\Entity\FixtureOdd;
 use App\Service\Api\Response\ClubStanding;
 use App\Service\Api\Response\FixtureOddResponse;
 use App\Service\Api\Response\FixtureResponse;
+use App\Service\Api\Response\RoundResponse;
 use App\Service\Api\Response\StandingResponse;
 use DateTime;
 use GuzzleHttp\Exception\GuzzleException;
@@ -219,6 +220,34 @@ class FootballApiGateway
     }
 
     /**
+     * @param int $leagueApiId
+     * @param int $seasonStartYear
+     * @param int $round
+     * @return RoundResponse[]
+     */
+    public function getRoundForLeague(int $leagueApiId, int $seasonStartYear, int $round): array
+    {
+        $headers = ['x-rapidapi-host' => 'api-football-v1.p.rapidapi.com', 'x-rapidapi-key' => self::API_KEY];
+
+        $client = $this->clientFactory->createClient($headers, self::BASE_URI);
+
+        $options = [
+            'query' => ['league' => $leagueApiId, 'season' => $seasonStartYear, 'round' => 'Regular Season - '.$round]
+        ];
+
+        try {
+            $response = $client->request('GET', 'teams/statistics', $options);
+        } catch (GuzzleException $e) {
+            return [];
+        }
+        $this->footballApiManagerService->increaseCallCounter();
+
+        $response = json_decode($response->getBody(), true);
+
+        return $this->parseRoundResponse($response['response']);
+    }
+
+    /**
      * @param array $response
      * @return StandingResponse
      */
@@ -328,5 +357,29 @@ class FootballApiGateway
             }
         }
         return $oddResponses;
+    }
+
+    /**
+     * @param array $response
+     * @return RoundResponse[]
+     */
+    private function parseRoundResponse(array $response): array
+    {
+        $roundResponses = array();
+        foreach ($response as $fixture){
+            $roundResponse = new RoundResponse();
+            $roundResponse->setFixtureApiId($fixture['fixture']['id']);
+            if ($fixture['fixture']['status']['short'] === 'FT'){
+                $roundResponse->setStatus(true);
+            }else{
+                $roundResponse->setStatus(false);
+            }
+            $roundResponse->setHomeFull($fixture['score']['fulltime']['home']);
+            $roundResponse->setAwayFull($fixture['score']['fulltime']['away']);
+            $roundResponse->setHomeHalf($fixture['score']['halftime']['home']);
+            $roundResponse->setAwayHalf($fixture['score']['halftime']['away']);
+            $roundResponses[] = $roundResponse;
+        }
+        return $roundResponses;
     }
 }

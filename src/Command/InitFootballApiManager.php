@@ -83,7 +83,9 @@ class InitFootballApiManager extends Command
     {
 //        $this->updateService->updateLeagues();
 
-        $res = $this->updateService->updateSeedingFormsForFixture($this->fixtureService->findByApiKey(719533));
+//        $res = $this->updateService->updateSeedingFormsForFixture($this->fixtureService->findByApiKey(719533));
+
+        $this->autoApiCaller->updateResultsOfAlreadyFinishedFixtures();
 
         return Command::SUCCESS;
     }

@@ -475,4 +475,33 @@ class UpdateService
             }
         }
     }
+
+    /**
+     * @param int $leagueApiIdent
+     * @param int $seasonStartYear
+     * @param int $round
+     * @return bool
+     */
+    public function getFixturesForRound(int $leagueApiIdent, int $seasonStartYear, int $round): bool
+    {
+        if ($this->footballApiManagerService->isApiCallLimitReached()){
+            return false;
+        }
+
+        $fixtures = $this->footballApiGateway->getRoundForLeague($leagueApiIdent, $seasonStartYear, $round);
+        foreach ($fixtures as $fixture){
+            if ($fixture->isStatus()){
+                $fixtureToUpdate = $this->fixtureService->findByApiKey($fixture->getFixtureApiId());
+                $fixtureUpdate = (new FixtureData())->initFrom($fixtureToUpdate);
+                $fixtureToUpdate->setScoreHomeFull($fixture->getHomeFull());
+                $fixtureToUpdate->setScoreAwayFull($fixture->getAwayFull());
+                $fixtureToUpdate->setScoreHomeHalf($fixture->getHomeHalf());
+                $fixtureToUpdate->setScoreAwayHalf($fixture->getAwayHalf());
+                $this->fixtureService->updateFixture($fixtureToUpdate, $fixtureUpdate);
+                $this->logger->info(sprintf("Updated result for fixture with Id %d: %s", $fixtureToUpdate->getId(), $fixtureToUpdate));
+            }
+        }
+
+        return true;
+    }
 }
