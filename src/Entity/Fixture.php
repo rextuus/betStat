@@ -318,7 +318,9 @@ class Fixture
     public function __toString()
     {
         $output = sprintf(
-            "%d: %s [%d] - [%d] %s (%s)",
+            "%d(%d): %d. %s [%d] - [%d] %s (%s)",
+            $this->getId(),
+            $this->getApiId(),
             $this->getMatchDay(),
             $this->getHomeTeam()->getName(),
             $this->getScoreHomeFull(),
