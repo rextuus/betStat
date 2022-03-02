@@ -280,7 +280,8 @@ class UpdateService
             $fixtureUpdateDate->setOddDecorationDate(new DateTime());
             $this->fixtureService->updateFixture($fixture, $fixtureUpdateDate);
         }
-        if (is_null($fixtureResponses) || empty($fixtureResponses) || !count($fixtureResponses)){
+        if (empty($fixtureResponses) || !count($fixtureResponses)){
+            $this->logger->info('Error during bet collection: EmptyResponse=>%d CountResponse=>%d', (empty($fixtureResponses)), !count($fixtureResponses));
             return false;
         }
         return true;
