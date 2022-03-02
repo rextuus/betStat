@@ -281,7 +281,7 @@ class UpdateService
             $this->fixtureService->updateFixture($fixture, $fixtureUpdateDate);
         }
         if (empty($fixtureResponses) || !count($fixtureResponses)){
-            $this->logger->info('Error during bet collection: EmptyResponse=>%d CountResponse=>%d', (empty($fixtureResponses)), !count($fixtureResponses));
+            $this->logger->info(sprintf('Error during bet collection: EmptyResponse=>%d CountResponse=>%d', (empty($fixtureResponses)), !count($fixtureResponses)));
             return false;
         }
         return true;
