@@ -342,6 +342,8 @@ dump($fixtures);
 
         $currentTimeStamp = (new DateTime('+5 days'))->getTimestamp();
 
+        $this->logger->info(sprintf("Check %d bets after %s", count($fixtures), (new DateTime('+5 days'))->format('Y-m-d H:i:s')));
+
         $nrOfStoredOdds = 0;
         while ($nrOfStoredOdds <= $this->fixtureDecorateLimit) {
             // skip if array end is reached or fixture is to far in the future
