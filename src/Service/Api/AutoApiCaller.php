@@ -349,7 +349,7 @@ dump($fixtures);
             // skip if array end is reached or fixture is to far in the future
             if (!array_key_exists($nrOfStoredOdds, $fixtures) || $fixtures[$nrOfStoredOdds]->getTimeStamp() > $currentTimeStamp) {
                 $nrOfStoredOdds++;
-                $this->logger->info(sprintf("Problem with bet %s", (string) $fixtures));
+                $this->logger->info(sprintf("Problem with bet %s", ((string) $fixtures[$nrOfStoredOdds])));
                 continue;
             }
             // getOddsForFixture will return false if no api calls were left
