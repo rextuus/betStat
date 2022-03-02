@@ -340,7 +340,7 @@ dump($fixtures);
             }
         );
 
-        $currentTimeStamp = (new DateTime('+10 days'))->getTimestamp();
+        $currentTimeStamp = (new DateTime('+5 days'))->getTimestamp();
 
         $nrOfStoredOdds = 0;
         while ($nrOfStoredOdds <= $this->fixtureDecorateLimit) {
