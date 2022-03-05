@@ -505,6 +505,7 @@ class UpdateService
 
                 $this->fixtureService->updateFixture($fixtureToUpdate, $fixtureUpdate);
                 $this->logger->info(sprintf("Updated result for fixture with Id %d: %s", $fixtureToUpdate->getId(), $fixtureToUpdate));
+                $this->logger->info(sprintf("Used values %d, %d, %d, %d", $fixture->getHomeFull(), $fixture->getAwayFull(), $fixture->getHomeHalf(), $fixture->getAwayHalf()));
             }
             else{
                 $fixtureToUpdate = $this->fixtureService->findByApiKey($fixture->getFixtureApiId());
