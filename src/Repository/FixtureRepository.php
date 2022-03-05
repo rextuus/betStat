@@ -158,7 +158,7 @@ class FixtureRepository extends ServiceEntityRepository
     public function getFixturesWithoutResult()
     {
         $qb = $this->createQueryBuilder('f');
-        $qb->select('f.matchDay, l.id, s.startYear');
+        $qb->select('f.matchDay, l.apiId, s.startYear');
         $qb->innerJoin(League::class, 'l', 'WITH', 'f.league = l.id');
         $qb->innerJoin(Season::class, 's', 'WITH', 'f.season = s.id')
             ->where($qb->expr()->isNull('f.scoreHomeFull'))
