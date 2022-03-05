@@ -10,6 +10,8 @@ use App\Service\Fixture\FixtureData;
 use App\Service\Fixture\FixtureService;
 use App\Service\Import\UpdateService;
 use App\Service\League\LeagueService;
+use App\Service\Setting\AutomaticUpdateSettingService;
+use App\Service\Setting\FootballApiManagerService;
 use DateTime;
 use Monolog\Handler\IFTTTHandler;
 use Psr\Log\LoggerInterface;

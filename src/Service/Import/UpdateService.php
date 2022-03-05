@@ -10,7 +10,7 @@ use App\Entity\FootballApiManager;
 use App\Entity\League;
 use App\Entity\Season;
 use App\Service\Api\FootballApiGateway;
-use App\Service\Api\FootballApiManagerService;
+use App\Service\Setting\FootballApiManagerService;
 use App\Service\Api\Response\FixtureResponse;
 use App\Service\Club\ClubData;
 use App\Service\Club\ClubService;

@@ -1,11 +1,12 @@
 <?php
 
 
-namespace App\Service\Api;
+namespace App\Service\Setting;
 
 
 use App\Entity\FootballApiManager;
 use App\Repository\FootballApiManagerRepository;
+use DateTime;
 use Exception;
 
 class FootballApiManagerService
@@ -88,5 +89,29 @@ class FootballApiManagerService
             throw new Exception("There is no standard api manager set");
         }
         return $manager->getDailyCalls();
+    }
+
+    /**
+     * @return ApiManagerDto[]
+     */
+    public function getManagerDtos(): array
+    {
+        $accounts = $this->footballApiManagerRepository->findAll();
+        $dtos = array();
+        foreach ($accounts as $account){
+            $dto = new ApiManagerDto();
+            $dto->setIdent($account->getIdent());
+            $dto->setLimit($account->getDailyLimit());
+            $dto->setCurrent($account->getDailyCalls());
+            $dto->setActive($account->getIsActive());
+            $dto->setResetDate($account->getResetDate()->format('Y-m-d H:i:s'));
+            $currentDateTime = new DateTime();
+            $dto->setLastResetColor('#20A734FF');
+            if ($account->getResetDate() < $currentDateTime){
+                $dto->setLastResetColor('#184d00');
+            }
+            $dtos[] = $dto;
+        }
+        return $dtos;
     }
 }

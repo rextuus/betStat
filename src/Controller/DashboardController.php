@@ -7,6 +7,7 @@ use App\Service\Fixture\FixtureService;
 use App\Service\Fixture\FixtureTransportFactory;
 use App\Service\Import\UpdateService;
 use App\Service\League\LeagueService;
+use App\Service\Setting\FootballApiManagerService;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\IsGranted;
@@ -21,13 +22,13 @@ class DashboardController extends AbstractController
 {
     /**
      * @Route("/show", name="dashboard_show")
-     * @param FixtureService $fixtureService
+     * @param FootballApiManagerService $footballApiManagerService
      * @return Response
      */
-    public function showUndecorated(FixtureService $fixtureService): Response
+    public function showUndecorated(FootballApiManagerService $footballApiManagerService): Response
     {
-        return $this->render('statistic/dashboard.twig', [
-            'candidates' => $fixtureService->getUndecoratedFixtures(),
+        return $this->render('dashboard/main.twig', [
+            'managers' => $footballApiManagerService->getManagerDtos(),
         ]);
     }
 

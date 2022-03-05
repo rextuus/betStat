@@ -9,7 +9,7 @@ use App\Entity\Fixture;
 use App\Entity\Season;
 use App\Entity\Seeding;
 use App\Service\Api\FootballApiGateway;
-use App\Service\Api\FootballApiManagerService;
+use App\Service\Setting\FootballApiManagerService;
 use App\Service\Club\ClubService;
 use App\Service\Evaluation\EvaluationService;
 use App\Service\Fixture\FixtureService;

@@ -37,6 +37,11 @@ class FootballApiManager
      */
     private $ident;
 
+    /**
+     * @ORM\Column(type="datetime")
+     */
+    private $resetDate;
+
     public function getId(): ?int
     {
         return $this->id;
@@ -86,6 +91,18 @@ class FootballApiManager
     public function setIdent(string $ident): self
     {
         $this->ident = $ident;
+
+        return $this;
+    }
+
+    public function getResetDate(): ?\DateTimeInterface
+    {
+        return $this->resetDate;
+    }
+
+    public function setResetDate(\DateTimeInterface $resetDate): self
+    {
+        $this->resetDate = $resetDate;
 
         return $this;
     }

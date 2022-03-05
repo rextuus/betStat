@@ -5,8 +5,8 @@ namespace App\Command;
 
 
 use App\Service\Api\AutoApiCaller;
-use App\Service\Api\AutomaticUpdateSettingService;
-use App\Service\Api\FootballApiManagerService;
+use App\Service\Setting\AutomaticUpdateSettingService;
+use App\Service\Setting\FootballApiManagerService;
 use App\Service\Fixture\FixtureService;
 use App\Service\Import\UpdateService;
 use App\Service\League\LeagueService;

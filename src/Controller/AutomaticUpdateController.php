@@ -5,8 +5,8 @@ namespace App\Controller;
 
 use App\Entity\Fixture;
 use App\Service\Api\AutoApiCaller;
-use App\Service\Api\AutomaticUpdateSettingService;
-use App\Service\Api\FootballApiManagerService;
+use App\Service\Setting\AutomaticUpdateSettingService;
+use App\Service\Setting\FootballApiManagerService;
 use App\Service\Import\UpdateService;
 use Doctrine\ORM\OptimisticLockException;
 use Doctrine\ORM\ORMException;

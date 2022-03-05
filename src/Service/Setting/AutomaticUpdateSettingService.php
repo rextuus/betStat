@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Service\Api;
+namespace App\Service\Setting;
 
 
 use App\Entity\AutomaticUpdateSetting;

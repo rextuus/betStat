@@ -10,6 +10,7 @@ use App\Service\Api\Response\FixtureOddResponse;
 use App\Service\Api\Response\FixtureResponse;
 use App\Service\Api\Response\RoundResponse;
 use App\Service\Api\Response\StandingResponse;
+use App\Service\Setting\FootballApiManagerService;
 use DateTime;
 use GuzzleHttp\Exception\GuzzleException;
 use Psr\Http\Message\ResponseInterface;
@@ -377,8 +378,8 @@ class FootballApiGateway
             }
             $roundResponse->setHomeFull(!is_null($fixture['score']['fulltime']['home']) ? $fixture['score']['fulltime']['home'] : 0);
             $roundResponse->setAwayFull(!is_null($fixture['score']['fulltime']['away']) ? $fixture['score']['fulltime']['home'] : 0);
-            $roundResponse->setHomeHalf(!is_null($fixture['score']['halftime']['home']) ? $fixture['score']['fulltime']['home'] : 0);
-            $roundResponse->setAwayHalf(!is_null($fixture['score']['halftime']['home']) ? $fixture['score']['fulltime']['home'] : 0);
+            $roundResponse->setHomeHalf(!is_null($fixture['score']['halftime']['home']) ? $fixture['score']['halftime']['home'] : 0);
+            $roundResponse->setAwayHalf(!is_null($fixture['score']['halftime']['home']) ? $fixture['score']['halftime']['home'] : 0);
             $roundResponses[] = $roundResponse;
         }
         return $roundResponses;

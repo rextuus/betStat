@@ -1,0 +1,42 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block body %}
+    <h1>Bet Statistics</h1>
+    <div>
+        <h2>Api Managers</h2>
+
+        <table class="table table-bordered">
+            <tr>
+                <th>Ident</th>
+                <th>Calls</th>
+                <th>Limit</th>
+                <th>Percentage</th>
+                <th>Active</th>
+                <th>Last Reset</th>
+            </tr>
+            {% for manager in managers %}
+                <tr>
+                    <th>{{ manager.ident }}</th>
+                    <th>{{ manager.current }}</th>
+                    <th>{{ manager.limit }}</th>
+                    <th>{{ manager.percentage }}%</th>
+                    <th>{{ manager.active }}</th>
+                    <th>{{ manager.resetDate }}</th>
+                </tr>
+            {% endfor %}
+        </table>
+    </div>
+    <div>
+        <h2>Next 5 Candidate Matches</h2>
+    </div>
+    <div>
+        <h2>Last 5 Candidate Matches</h2>
+    </div>
+    <div>
+        <h2>Detail Views</h2>
+        <a href=" {{ path('dashboard_fixtures') }}" class="btn btn-primary btn-lg square" role="button">Fixtures</a>
+        <a href=" {{ path('dashboard_leagues') }}" class="btn btn-primary btn-lg square" role="button">Leagues</a>
+    </div>
+{% endblock %}
