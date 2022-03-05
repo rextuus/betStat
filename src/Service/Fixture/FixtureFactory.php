@@ -44,6 +44,10 @@ class FixtureFactory
         if (!is_null($data->getOddDecorationDate())){
             $fixture->setOddDecorationDate($data->getOddDecorationDate());
         }
+        $fixture->setPlayed($data->isPlayed());
+        if (!is_null($data->getResultDecorationDate())){
+            $fixture->setResultDecorationDate($data->getResultDecorationDate());
+        }
         return $fixture;
     }
 

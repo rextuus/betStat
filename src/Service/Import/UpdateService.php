@@ -495,15 +495,15 @@ class UpdateService
         foreach ($fixtures as $fixture){
             if ($fixture->isStatus()){
                 $fixtureToUpdate = $this->fixtureService->findByApiKey($fixture->getFixtureApiId());
-                $fixtureUpdate = (new FixtureData())->initFrom($fixtureToUpdate);
-                $fixtureToUpdate->setScoreHomeFull($fixture->getHomeFull());
-                $fixtureToUpdate->setScoreAwayFull($fixture->getAwayFull());
-                $fixtureToUpdate->setScoreHomeHalf($fixture->getHomeHalf());
-                $fixtureToUpdate->setScoreAwayHalf($fixture->getAwayHalf());
-                $fixtureToUpdate->setPlayed($fixture->isStatus());
-                $fixtureToUpdate->setResultDecorationDate(new DateTime());
+                $fixtureUpdateData = (new FixtureData())->initFrom($fixtureToUpdate);
+                $fixtureUpdateData->setScoreHomeFull($fixture->getHomeFull());
+                $fixtureUpdateData->setScoreAwayFull($fixture->getAwayFull());
+                $fixtureUpdateData->setScoreHomeHalf($fixture->getHomeHalf());
+                $fixtureUpdateData->setScoreAwayHalf($fixture->getAwayHalf());
+                $fixtureUpdateData->setPlayed($fixture->isStatus());
+                $fixtureUpdateData->setResultDecorationDate(new DateTime());
 
-                $this->fixtureService->updateFixture($fixtureToUpdate, $fixtureUpdate);
+                $fixtureToUpdate = $this->fixtureService->updateFixture($fixtureToUpdate, $fixtureUpdateData);
                 $this->logger->info(sprintf("Updated result for fixture with Id %d: %s", $fixtureToUpdate->getId(), $fixtureToUpdate));
                 $this->logger->info(sprintf("Used values %d, %d, %d, %d", $fixture->getHomeFull(), $fixture->getAwayFull(), $fixture->getHomeHalf(), $fixture->getAwayHalf()));
             }
@@ -511,7 +511,7 @@ class UpdateService
                 $fixtureToUpdate = $this->fixtureService->findByApiKey($fixture->getFixtureApiId());
                 $fixtureToUpdate->setPlayed(false);
                 $fixtureToUpdate->setResultDecorationDate(new DateTime());
-                $this->fixtureService->updateFixture($fixtureToUpdate, $fixtureUpdate);
+                $this->fixtureService->updateFixture($fixtureToUpdate, $fixtureUpdateData);
                 $this->logger->info(sprintf("!!!Updated for fixture with Id %d: %s failed", $fixtureToUpdate->getId(), $fixtureToUpdate));
             }
         }

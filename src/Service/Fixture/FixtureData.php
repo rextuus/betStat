@@ -96,6 +96,16 @@ class FixtureData
     private $oddDecorationDate;
 
     /**
+     * @var boolean
+     */
+    private $played;
+
+    /**
+     * @var DateTimeInterface|null
+     */
+    private $resultDecorationDate;
+
+    /**
      * @return int
      */
     public function getApiId(): int
@@ -352,6 +362,40 @@ class FixtureData
     }
 
     /**
+     * @return bool
+     */
+    public function isPlayed(): bool
+    {
+        return $this->played;
+    }
+
+    /**
+     * @param bool $played
+     */
+    public function setPlayed(bool $played): void
+    {
+        $this->played = $played;
+    }
+
+    /**
+     * @return DateTimeInterface|null
+     */
+    public function getResultDecorationDate(): ?DateTimeInterface
+    {
+        return $this->resultDecorationDate;
+    }
+
+    /**
+     * @param DateTimeInterface|null $resultDecorationDate
+     */
+    public function setResultDecorationDate(?DateTimeInterface $resultDecorationDate): void
+    {
+        $this->resultDecorationDate = $resultDecorationDate;
+    }
+
+
+
+    /**
      * @param Fixture $fixture
      * @return FixtureData
      */
@@ -373,6 +417,8 @@ class FixtureData
         $fixtureData->setIsDoubleChanceCandidate($fixture->getIsDoubleChanceCandidate());
         $fixtureData->setIsBetDecorated($fixture->getIsBetDecorated());
         $fixtureData->setOddDecorationDate($fixture->getOddDecorationDate());
+        $fixtureData->setResultDecorationDate($fixture->getResultDecorationDate());
+        $fixtureData->setPlayed($fixture->isPlayed());
 
         return $fixtureData;
     }
