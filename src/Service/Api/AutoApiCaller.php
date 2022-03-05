@@ -62,6 +62,11 @@ class AutoApiCaller
     private $seedingDecorateLimit;
 
     /**
+     * @var int
+     */
+    private $resultDecorateLimit;
+
+    /**
      * @var LoggerInterface
      */
     private $logger;
@@ -76,9 +81,10 @@ class AutoApiCaller
      * @param ClubService $clubService
      * @param int $fixtureDecorateLimit
      * @param int $seedingDecorateLimit
+     * @param int $resultDecorateLimit
      * @param LoggerInterface $autoUpdateLogger
      */
-    public function __construct(UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, FootballApiManagerService $footballApiManagerService, LeagueService $leagueService, FixtureService $fixtureService, ClubService $clubService, int $fixtureDecorateLimit, int $seedingDecorateLimit, LoggerInterface $autoUpdateLogger)
+    public function __construct(UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, FootballApiManagerService $footballApiManagerService, LeagueService $leagueService, FixtureService $fixtureService, ClubService $clubService, int $fixtureDecorateLimit, int $seedingDecorateLimit, int $resultDecorateLimit, LoggerInterface $autoUpdateLogger)
     {
         $this->updateService = $updateService;
         $this->automaticUpdateSettingService = $automaticUpdateSettingService;
@@ -88,6 +94,7 @@ class AutoApiCaller
         $this->clubService = $clubService;
         $this->fixtureDecorateLimit = $fixtureDecorateLimit;
         $this->seedingDecorateLimit = $seedingDecorateLimit;
+        $this->resultDecorateLimit = $resultDecorateLimit;
         $this->logger = $autoUpdateLogger;
 
         if ($this->fixtureDecorateLimit < self::DEFAULT_LIMIT) {
@@ -277,7 +284,10 @@ class AutoApiCaller
         $counter = 0;
         foreach($fixtureRoundsWithoutResults as $fixtureRound){
             // call round for league round
-            if ($counter > 0) continue;
+            if ($counter > $this->resultDecorateLimit)
+            {
+                continue;
+            }
             $counter++;
             $this->updateService->getFixturesForRound($fixtureRound['apiId'], $fixtureRound['startYear'], $fixtureRound['matchDay']);
         }

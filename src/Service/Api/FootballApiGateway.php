@@ -236,8 +236,9 @@ class FootballApiGateway
         ];
 
         try {
-            $response = $client->request('GET', 'teams/statistics', $options);
+            $response = $client->request('GET', 'fixtures', $options);
         } catch (GuzzleException $e) {
+            dump($e);
             return [];
         }
         $this->footballApiManagerService->increaseCallCounter();
@@ -374,10 +375,10 @@ class FootballApiGateway
             }else{
                 $roundResponse->setStatus(false);
             }
-            $roundResponse->setHomeFull($fixture['score']['fulltime']['home']);
-            $roundResponse->setAwayFull($fixture['score']['fulltime']['away']);
-            $roundResponse->setHomeHalf($fixture['score']['halftime']['home']);
-            $roundResponse->setAwayHalf($fixture['score']['halftime']['away']);
+            $roundResponse->setHomeFull(!is_null($fixture['score']['fulltime']['home']) ? $fixture['score']['fulltime']['home'] : 0);
+            $roundResponse->setAwayFull(!is_null($fixture['score']['fulltime']['away']) ? $fixture['score']['fulltime']['home'] : 0);
+            $roundResponse->setHomeHalf(!is_null($fixture['score']['halftime']['home']) ? $fixture['score']['fulltime']['home'] : 0);
+            $roundResponse->setAwayHalf(!is_null($fixture['score']['halftime']['home']) ? $fixture['score']['fulltime']['home'] : 0);
             $roundResponses[] = $roundResponse;
         }
         return $roundResponses;
