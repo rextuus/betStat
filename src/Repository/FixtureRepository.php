@@ -163,7 +163,9 @@ class FixtureRepository extends ServiceEntityRepository
         $qb->innerJoin(Season::class, 's', 'WITH', 'f.season = s.id')
             ->where($qb->expr()->isNull('f.scoreHomeFull'))
             ->orWhere($qb->expr()->isNull('f.scoreAwayFull'))
-            ->groupBy('f.matchDay, l.ident, s.startYear');
+            ->groupBy('f.matchDay')
+            ->addGroupBy('l.ident')
+            ->addGroupBy('s.startYear');
         return $qb->getQuery()->getResult();
     }
 
