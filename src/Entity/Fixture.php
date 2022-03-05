@@ -106,6 +106,16 @@ class Fixture
      */
     private $placements;
 
+    /**
+     * @ORM\Column(type="datetime")
+     */
+    private $resultDecorationDate;
+
+    /**
+     * @ORM\Column(type="boolean")
+     */
+    private $played;
+
     public function __construct()
     {
         $this->fixtureOdds = new ArrayCollection();
@@ -419,6 +429,30 @@ class Fixture
                 $placement->setFixture(null);
             }
         }
+
+        return $this;
+    }
+
+    public function getResultDecorationDate(): ?\DateTimeInterface
+    {
+        return $this->resultDecorationDate;
+    }
+
+    public function setResultDecorationDate(\DateTimeInterface $resultDecorationDate): self
+    {
+        $this->resultDecorationDate = $resultDecorationDate;
+
+        return $this;
+    }
+
+    public function getPlayed(): ?bool
+    {
+        return $this->played;
+    }
+
+    public function setPlayed(bool $played): self
+    {
+        $this->played = $played;
 
         return $this;
     }

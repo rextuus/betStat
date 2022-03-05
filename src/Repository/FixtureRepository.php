@@ -163,9 +163,13 @@ class FixtureRepository extends ServiceEntityRepository
         $qb->innerJoin(Season::class, 's', 'WITH', 'f.season = s.id')
             ->where($qb->expr()->isNull('f.scoreHomeFull'))
             ->orWhere($qb->expr()->isNull('f.scoreAwayFull'))
+            ->andWhere($qb->expr()->eq('f.played', ':played'))
+            ->andWhere($qb->expr()->lt('f.resultDecorationDate', ':currentDate'))
             ->groupBy('f.matchDay')
             ->addGroupBy('l.ident')
             ->addGroupBy('s.startYear');
+        $qb->setParameter('played', false);
+        $qb->setParameter('currentDate', new \DateTime('-5 days'));
         return $qb->getQuery()->getResult();
     }
 

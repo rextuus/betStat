@@ -376,6 +376,7 @@ class FootballApiGateway
             }else{
                 $roundResponse->setStatus(false);
             }
+
             $roundResponse->setHomeFull(!is_null($fixture['score']['fulltime']['home']) ? $fixture['score']['fulltime']['home'] : 0);
             $roundResponse->setAwayFull(!is_null($fixture['score']['fulltime']['away']) ? $fixture['score']['fulltime']['away'] : 0);
             $roundResponse->setHomeHalf(!is_null($fixture['score']['halftime']['home']) ? $fixture['score']['halftime']['home'] : 0);

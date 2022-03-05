@@ -500,6 +500,9 @@ class UpdateService
                 $fixtureToUpdate->setScoreAwayFull($fixture->getAwayFull());
                 $fixtureToUpdate->setScoreHomeHalf($fixture->getHomeHalf());
                 $fixtureToUpdate->setScoreAwayHalf($fixture->getAwayHalf());
+                $fixtureToUpdate->setPlayed($fixture->isStatus());
+                $fixtureToUpdate->setResultDecorationDate(new DateTime());
+
                 $this->fixtureService->updateFixture($fixtureToUpdate, $fixtureUpdate);
                 $this->logger->info(sprintf("Updated result for fixture with Id %d: %s", $fixtureToUpdate->getId(), $fixtureToUpdate));
             }

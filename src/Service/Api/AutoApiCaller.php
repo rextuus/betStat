@@ -282,7 +282,7 @@ class AutoApiCaller
     {
         // get all undecorated fixtures
         $fixtureRoundsWithoutResults = $this->fixtureService->getFixturesWithoutResult();
-
+dump($fixtureRoundsWithoutResults);
         $counter = 0;
         foreach($fixtureRoundsWithoutResults as $fixtureRound){
             // call round for league round
