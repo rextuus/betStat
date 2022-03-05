@@ -490,6 +490,7 @@ class UpdateService
         }
 
         $fixtures = $this->footballApiGateway->getRoundForLeague($leagueApiIdent, $seasonStartYear, $round);
+        $this->logger->info(sprintf("Got fixture results for round %d of league %d", $round, $leagueApiIdent));
         foreach ($fixtures as $fixture){
             if ($fixture->isStatus()){
                 $fixtureToUpdate = $this->fixtureService->findByApiKey($fixture->getFixtureApiId());

@@ -274,8 +274,11 @@ class AutoApiCaller
         // get all undecorated fixtures
         $fixtureRoundsWithoutResults = $this->fixtureService->getFixturesWithoutResult();
 
+        $counter = 0;
         foreach($fixtureRoundsWithoutResults as $fixtureRound){
             // call round for league round
+            if ($counter > 0) continue;
+            $counter++;
             $this->updateService->getFixturesForRound($fixtureRound['apiId'], $fixtureRound['startYear'], $fixtureRound['matchDay']);
         }
 //        $settings = $this->automaticUpdateSettingService->getSettings();
