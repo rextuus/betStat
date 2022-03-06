@@ -509,8 +509,9 @@ class UpdateService
             }
             else{
                 $fixtureToUpdate = $this->fixtureService->findByApiKey($fixture->getFixtureApiId());
-                $fixtureToUpdate->setPlayed(false);
-                $fixtureToUpdate->setResultDecorationDate(new DateTime());
+                $fixtureUpdateData = (new FixtureData())->initFrom($fixtureToUpdate);
+                $fixtureUpdateData->setPlayed(false);
+                $fixtureUpdateData->setResultDecorationDate(new DateTime());
                 $this->fixtureService->updateFixture($fixtureToUpdate, $fixtureUpdateData);
                 $this->logger->info(sprintf("!!!Updated for fixture with Id %d: %s failed", $fixtureToUpdate->getId(), $fixtureToUpdate));
             }
