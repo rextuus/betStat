@@ -320,6 +320,7 @@ class UpdateService
             $fixtureData->setSeason($season);
             $fixtureData->setIsDoubleChanceCandidate(false);
             $fixtureData->setIsBetDecorated(false);
+            $fixtureData->setPlayed(false);
             $this->fixtureService->createByData($fixtureData);
         }
     }
