@@ -123,6 +123,9 @@ class FixtureOddResponse
      */
     public function getDrawOdd(): float
     {
+        if (is_null($this->drawOdd)){
+            dump($this);
+        }
         return $this->drawOdd;
     }
 
