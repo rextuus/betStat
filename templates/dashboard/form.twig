@@ -6,6 +6,6 @@
     <span style="font-size:{{ sizes[2] }}px; color:{{ colors[2] }}">{{ parts[2] }}</span>
     {%if position == 2 %}|{% endif %}
     <span style="font-size:{{ sizes[3] }}px; color:{{ colors[3] }}">{{ parts[3] }}</span>
-    <span style="font-size:{{ sizes[4] }}px; color:{{ colors[4] }}">{{ parts[4] }}</span>
+    {%if parts|length == 5 %}<span style="font-size:{{ sizes[4] }}px; color:{{ colors[4] }}">{{ parts[4] }}</span>{% endif %}
     {%if position == 2 %}|{% endif %}
 </p>
