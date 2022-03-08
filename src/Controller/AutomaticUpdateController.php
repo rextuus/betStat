@@ -91,7 +91,7 @@ class AutomaticUpdateController extends AbstractController
     ): Response
     {
         $this->footballApiManagerService->resetApiCallCounter();
-        return $this->render('<h1>Reset succeeded</h1>');
+        return $this->redirectToRoute('dashboard_show', []);
     }
 
     /**

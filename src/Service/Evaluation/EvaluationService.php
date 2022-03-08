@@ -144,6 +144,9 @@ class EvaluationService
 
     public function getCandidateForFixture(Fixture $fixture)
     {
+
+        // TODO form from updates (5 last game variant) is read from right to left <- WWWWL == last match was a lose
+        // TODO in the older ones got by global request it seems to be the same
         $homeSeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getHomeTeam(), $fixture->getSeason(), $fixture->getMatchDay() -1 );
         $awaySeeding = $this->seedingService->findByClubAndSeasonAndLRound($fixture->getAwayTeam(), $fixture->getSeason(), $fixture->getMatchDay()- 1);
 
@@ -157,7 +160,7 @@ class EvaluationService
 
         $seedings = $this->getSeedingsForFixture($fixture);
         $homeIsCandidate = $this->checkIfFormFitsCondition($seedings['homeSeeding']);
-        $awayIsCandidate = $this->checkIfFormFitsCondition(strrev($seedings['awaySeeding']));
+        $awayIsCandidate = $this->checkIfFormFitsCondition($seedings['awaySeeding']);
         if ($homeIsCandidate && $awayIsCandidate){
             return 0;
         }
@@ -172,7 +175,7 @@ class EvaluationService
 
     private function checkIfFormFitsCondition(string $currentForm)
     {
-        // form is read from right to left: LWLLL == 5. L, 4. L, 3. L, 2. W, 1. L
+        // form is read from right to left <-: LWLLL == 5. L, 4. L, 3. L, 2. W, 1. L
         $form = str_split($currentForm);
         if (count($form) > 1){
             $lastMatch = $form[count($form)-1];

@@ -47,44 +47,45 @@ class FixtureTransportFactory
      */
     public function createFixtureTransports(): array
     {
+
         $allFixtures = $this->fixtureRepository->findAllSortedByFilter();
         $transports = array();
         foreach($allFixtures as $fixture){
-            $fixtureTransport =  new FixtureTransport();
-            $fixtureTransport->setFixtureId($fixture->getId());
-            $fixtureTransport->setRound($fixture->getMatchDay());
-            $fixtureTransport->setDate($fixture->getDate()->format('Y-m-d H:i:s'));
-            $fixtureTransport->setPlayed($fixture->isPlayed());
-            $fixtureTransport->setResult($fixture->getResult());
-            $fixtureTransport->setDescription($fixture->getDescription());
-            $fixtureTransport->setBetDecorated($fixture->getIsBetDecorated());
-            $fixtureTransport->setIsCandidate($fixture->getIsDoubleChanceCandidate());
-            $fixtureTransport->setToBetOn($this->evaluationService->getCandidateForFixture($fixture));
-            $fixtureTransport->setHomeGoals($fixture->getScoreHomeFull());
-            $fixtureTransport->setAwayGoals($fixture->getScoreAwayFull());
-            $fixtureTransport->setLeague($fixture->getLeague()->getIdent());
+            $fixtureDto =  new FixtureTransport();
+            $fixtureDto->setFixtureId($fixture->getId());
+            $fixtureDto->setRound($fixture->getMatchDay());
+            $fixtureDto->setDate($fixture->getDate()->format('Y-m-d H:i:s'));
+            $fixtureDto->setPlayed($fixture->isPlayed());
+            $fixtureDto->setResult($fixture->getResult());
+            $fixtureDto->setDescription($fixture->getDescription());
+            $fixtureDto->setBetDecorated($fixture->getIsBetDecorated());
+            $fixtureDto->setIsCandidate($fixture->getIsDoubleChanceCandidate());
+            $fixtureDto->setToBetOn($this->evaluationService->getCandidateForFixture($fixture));
+            $fixtureDto->setHomeGoals($fixture->getScoreHomeFull());
+            $fixtureDto->setAwayGoals($fixture->getScoreAwayFull());
+            $fixtureDto->setLeague($fixture->getLeague()->getIdent());
 
             $seedings = $this->evaluationService->getSeedingsForFixture($fixture);
-            $fixtureTransport->setHomeForm($seedings['homeSeeding']);
-            $fixtureTransport->setAwayForm($seedings['awaySeeding']);
+            $fixtureDto->setHomeForm($seedings['homeSeeding']);
+            $fixtureDto->setAwayForm($seedings['awaySeeding']);
 
             $wishedResult = 0;
-            if ($fixtureTransport->getToBetOn() !== -1 && $fixture->isPlayed()){
-                if ($fixture->getWinner() !== $fixtureTransport->getToBetOn()){
+            if ($fixtureDto->getToBetOn() !== -1 && $fixture->isPlayed()){
+                if ($fixture->getWinner() !== $fixtureDto->getToBetOn()){
                     $wishedResult = 1;
                 }
                 else{
                     $wishedResult = -1;
                 }
             }
-            $fixtureTransport->setWishedResult($wishedResult);
+            $fixtureDto->setWishedResult($wishedResult);
 
             // check if real odds exists
-            $fixtureTransport->setRealBetDecorated(false);
+            $fixtureDto->setRealBetDecorated(false);
             $odds = $this->fixtureOddService->findByFixture($fixture);
 
             if (!empty($odds)){
-                $fixtureTransport->setRealBetDecorated(true);
+                $fixtureDto->setRealBetDecorated(true);
 
                 $singleHome = array();
                 $singleDraw = array();
@@ -106,11 +107,11 @@ class FixtureTransportFactory
                     }
                 }
 
-                $fixtureTransport->setSingleHome($this->calculateAverageForSet($singleHome));
-                $fixtureTransport->setSingleDraw($this->calculateAverageForSet($singleDraw));
-                $fixtureTransport->setSingleAway($this->calculateAverageForSet($singleAway));
-                $fixtureTransport->setHomeDouble($this->calculateAverageForSet($doubleHome));
-                $fixtureTransport->setAwayDouble($this->calculateAverageForSet($doubleAway));
+                $fixtureDto->setSingleHome($this->calculateAverageForSet($singleHome));
+                $fixtureDto->setSingleDraw($this->calculateAverageForSet($singleDraw));
+                $fixtureDto->setSingleAway($this->calculateAverageForSet($singleAway));
+                $fixtureDto->setHomeDouble($this->calculateAverageForSet($doubleHome));
+                $fixtureDto->setAwayDouble($this->calculateAverageForSet($doubleAway));
 
                 if ($fixture->getIsBetDecorated() && $fixture->getIsDoubleChanceCandidate()){
                     $highlighting = [false, false, false, false, false];
@@ -122,11 +123,11 @@ class FixtureTransportFactory
                             $highlighting = [false, true, true, false, true];
                             break;
                     }
-                    $fixtureTransport->setHighlighted($highlighting);
+                    $fixtureDto->setHighlighted($highlighting);
                 }
             }
 
-            $transports[] = $fixtureTransport;
+            $transports[] = $fixtureDto;
         }
         return $transports;
     }

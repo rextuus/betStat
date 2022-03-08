@@ -215,7 +215,7 @@ class AutoApiCaller
             }
 
             // check if round is completely finished
-            // TODO maybe check if round contains of right amount of fixtures to
+            // TODO maybe check if round contains of correct amount of fixtures to
             $currentTimestamp = (new DateTime())->getTimestamp();
             if ($currentTimestamp > $lastStartTime) {
                 // store new round number in DB

@@ -78,6 +78,7 @@ class FootballApiManagerService
             throw new Exception("There is no standard api manager set");
         }
         $manager->setDailyCalls(0);
+        $manager->setResetDate(new DateTime());
         $this->footballApiManagerRepository->persist($manager);
     }
 

@@ -24,6 +24,9 @@
                     <th>{{ manager.percentage }}%</th>
                     <th>{{ manager.active }}</th>
                     <th>{{ manager.resetDate }}</th>
+                    <th>
+                        <a href=" {{ path('reset_api_counter') }}" class="btn btn-primary btn-lg square" role="button">Reset</a>
+                    </th>
                 </tr>
             {% endfor %}
         </table>

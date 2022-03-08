@@ -21,9 +21,9 @@
     {% for entry in fixtures %}
         <tr>
                 {% if entry.wishedResult == 1 %}<tr style="background-color:#b0ff9e;">{% elseif  entry.wishedResult == -1 %}<tr style="background-color:#ff6649;">{% else %}<tr>{% endif %}
-                    <td>{{ entry.homeForm }}.</td>
+                    <td>{{ render_form(entry.homeForm, -1) }}{{ entry.homeForm }}</td>
                     <td>{{ entry.description }}</td>
-                    <td>.{{ entry.awayForm }}</td>
+                    <td>{{ render_form(entry.awayForm) }}{{ entry.awayForm }}</td>
                     {% if entry.played %}<td style="background-color:#20a734;">{% else %}<td style="background-color:#e3391b;">{% endif %}[{{ entry.homeGoals }} - {{ entry.awayGoals }}]</td>
                     <td>{{ entry.date }}</td>
                     <td>{{ entry.round }}</td>
