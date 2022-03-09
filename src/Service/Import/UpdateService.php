@@ -520,20 +520,4 @@ class UpdateService
 
         return true;
     }
-
-    public function storeOldRounds(){
-        foreach (self::LEAGUES as $ident => $leagueApiKey){
-            for($round = 1; $round <= 25; $round++){
-                $fixtures = $this->fixtureService->findByLeagueAndSeasonAndRound($leagueApiKey, 2021, $round);
-
-                if (count($fixtures) == self::ROUNDS[$ident]){
-                    continue;
-                }
-
-                // update it
-                $this->getFixturesForRound($leagueApiKey, 2021, $round);
-            }
-        }
-
-    }
 }

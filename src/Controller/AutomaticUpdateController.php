@@ -187,10 +187,10 @@ class AutomaticUpdateController extends AbstractController
     public function updateOldRounds(
     ): Response
     {
-        $this->autoApiCaller->updateResultsOfAlreadyFinishedFixtures();
+        $this->autoApiCaller->increaseOldFixtureStock();
 
         return $this->render('update/step.twig', [
-            'step' => 'Result decoration',
+            'step' => 'Store old bets',
         ]);
     }
 }
