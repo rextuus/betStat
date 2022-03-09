@@ -178,4 +178,19 @@ class AutomaticUpdateController extends AbstractController
             'step' => 'Result decoration',
         ]);
     }
+
+    /**
+     * @Route("/step/old", name="step_old_results")
+     * @return Response
+     * @throws \Exception
+     */
+    public function updateOldRounds(
+    ): Response
+    {
+        $this->autoApiCaller->updateResultsOfAlreadyFinishedFixtures();
+
+        return $this->render('update/step.twig', [
+            'step' => 'Result decoration',
+        ]);
+    }
 }

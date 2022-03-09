@@ -45,10 +45,10 @@ class FixtureTransportFactory
     /**
      * @return FixtureTransport[]
      */
-    public function createFixtureTransports(): array
+    public function createFixtureTransports(array $filter): array
     {
 
-        $allFixtures = $this->fixtureRepository->findAllSortedByFilter();
+        $allFixtures = $this->fixtureRepository->findAllSortedByFilter($filter);
         $transports = array();
         foreach($allFixtures as $fixture){
             $fixtureDto =  new FixtureTransport();

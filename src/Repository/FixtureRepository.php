@@ -147,11 +147,20 @@ class FixtureRepository extends ServiceEntityRepository
     /**
      * @return Fixture[]
      */
-    public function findAllSortedByFilter(): array
+    public function findAllSortedByFilter(array $filter): array
     {
         $qb = $this->createQueryBuilder('f');
-        $qb->select('f')
-            ->orderBy('f.timeStamp', 'DESC');
+        $qb->select('f');
+        if (count($filter)){
+            if (isset($filter['oddDecorated']) && $filter['oddDecorated']){
+                $qb->where($qb->expr()->isNotNull('f.oddDecorationDate'));
+            }
+            if (isset($filter['played']) && $filter['played']){
+                $qb->andWhere($qb->expr()->eq('f.played', ':played'));
+                $qb->setParameter('played', true);
+            }
+        }
+        $qb->orderBy('f.timeStamp', 'DESC');
         return $qb->getQuery()->getResult();
     }
 

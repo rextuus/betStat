@@ -69,6 +69,11 @@ class AutoApiCaller
     private $resultDecorateLimit;
 
     /**
+     * @var int
+     */
+    private int $oldRoundDecorateLimit;
+
+    /**
      * @var LoggerInterface
      */
     private $logger;
@@ -84,9 +89,10 @@ class AutoApiCaller
      * @param int $fixtureDecorateLimit
      * @param int $seedingDecorateLimit
      * @param int $resultDecorateLimit
+     * @param int $oldRoundDecorateLimit
      * @param LoggerInterface $autoUpdateLogger
      */
-    public function __construct(UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, FootballApiManagerService $footballApiManagerService, LeagueService $leagueService, FixtureService $fixtureService, ClubService $clubService, int $fixtureDecorateLimit, int $seedingDecorateLimit, int $resultDecorateLimit, LoggerInterface $autoUpdateLogger)
+    public function __construct(UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, FootballApiManagerService $footballApiManagerService, LeagueService $leagueService, FixtureService $fixtureService, ClubService $clubService, int $fixtureDecorateLimit, int $seedingDecorateLimit, int $resultDecorateLimit, int $oldRoundDecorateLimit, LoggerInterface $autoUpdateLogger)
     {
         $this->updateService = $updateService;
         $this->automaticUpdateSettingService = $automaticUpdateSettingService;
@@ -97,6 +103,7 @@ class AutoApiCaller
         $this->fixtureDecorateLimit = $fixtureDecorateLimit;
         $this->seedingDecorateLimit = $seedingDecorateLimit;
         $this->resultDecorateLimit = $resultDecorateLimit;
+        $this->oldRoundDecorateLimit = $oldRoundDecorateLimit;
         $this->logger = $autoUpdateLogger;
 
         if ($this->fixtureDecorateLimit < self::DEFAULT_LIMIT) {
@@ -149,25 +156,43 @@ class AutoApiCaller
 
     public function increaseOldFixtureStock(): bool
     {
+        $counter = 0;
+        foreach (UpdateService::LEAGUES as $ident => $leagueApiKey){
+            for($round = 1; $round <= 25; $round++){
+                $fixtures = $this->fixtureService->findByLeagueAndSeasonAndRound($leagueApiKey, 2021, $round);
 
-        $leagueRoundsToUpdate = array();
-        $fixtures = $this->fixtureService->getUnevaluatedFixtures();
-        foreach ($fixtures as $fixture) {
-            /** @var Fixture $fixture */
-            $currentTimestamp = (new DateTime())->getTimestamp();
-            if ($currentTimestamp > $fixture->getTimeStamp() + 150) {
-                $leagueRoundsToUpdate[$fixture->getLeague()->getApiId() . "_" . $fixture->getMatchDay()] = 1;
+                if ($counter > $this->oldRoundDecorateLimit){
+                    continue;
+                }
+
+                if (count($fixtures) == UpdateService::ROUNDS[$ident]){
+                    continue;
+                }
+
+                // update it
+                $this->updateService->getFixturesForRound($leagueApiKey, 2021, $round);
+                $counter++;
             }
         }
 
-        // update played fixtures
-        foreach (array_keys($leagueRoundsToUpdate) as $roundToUpdate) {
-            $information = explode('_', $roundToUpdate);
-            $updatedFixtures = $this->updateService->updateFixtureForLeagueAndRound($information[0], 2021, $information[1]);
-            if (!$updatedFixtures) {
-                return false;
-            }
-        }
+//        $leagueRoundsToUpdate = array();
+//        $fixtures = $this->fixtureService->getUnevaluatedFixtures();
+//        foreach ($fixtures as $fixture) {
+//            /** @var Fixture $fixture */
+//            $currentTimestamp = (new DateTime())->getTimestamp();
+//            if ($currentTimestamp > $fixture->getTimeStamp() + 150) {
+//                $leagueRoundsToUpdate[$fixture->getLeague()->getApiId() . "_" . $fixture->getMatchDay()] = 1;
+//            }
+//        }
+//
+//        // update played fixtures
+//        foreach (array_keys($leagueRoundsToUpdate) as $roundToUpdate) {
+//            $information = explode('_', $roundToUpdate);
+//            $updatedFixtures = $this->updateService->updateFixtureForLeagueAndRound($information[0], 2021, $information[1]);
+//            if (!$updatedFixtures) {
+//                return false;
+//            }
+//        }
 
         return true;
     }
