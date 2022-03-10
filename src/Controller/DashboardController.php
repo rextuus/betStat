@@ -39,8 +39,26 @@ class DashboardController extends AbstractController
      */
     public function showFixtures(FixtureTransportFactory $fixtureTransportFactory): Response
     {
+        $fixtureTransports = $fixtureTransportFactory->createFixtureTransports([]);
+        $candidates = 0;
+        $wins = 0;
+        $loses = 0;
+        foreach ($fixtureTransports as $fixtureTransport){
+            if ($fixtureTransport->getWishedResult() != 0){
+                $candidates++;
+                if ($fixtureTransport->getWishedResult() === 1){
+                    $wins++;
+                }
+                if ($fixtureTransport->getWishedResult() === -1){
+                    $loses++;
+                }
+            }
+        }
         return $this->render('dashboard/fixtures.twig', [
-            'fixtures' => $fixtureTransportFactory->createFixtureTransports([]),
+            'fixtures' => $fixtureTransports,
+            'total' => $candidates,
+            'wins' => $wins,
+            'loses' => $loses,
         ]);
     }
 

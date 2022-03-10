@@ -129,9 +129,7 @@ class AutomaticUpdateController extends AbstractController
     {
         $this->autoApiCaller->updateSeedingsForAllOldOne();
 
-        return $this->render('update/step.twig', [
-            'step' => 'Update Seedings',
-        ]);
+        return new RedirectResponse($this->router->generate('dashboard_fixtures'));
     }
 
     /**
@@ -144,9 +142,7 @@ class AutomaticUpdateController extends AbstractController
     {
         $this->autoApiCaller->checkIfLastRoundMatchIsReached();
 
-        return $this->render('update/step.twig', [
-            'step' => 'Checked if rounds are finished',
-        ]);
+        return new RedirectResponse($this->router->generate('dashboard_fixtures'));
     }
 
     /**
@@ -159,9 +155,7 @@ class AutomaticUpdateController extends AbstractController
     {
         $this->autoApiCaller->goOnWithBetDecorationTimestampVariant();
 
-        return $this->render('update/step.twig', [
-            'step' => 'Bet decoration',
-        ]);
+        return new RedirectResponse($this->router->generate('dashboard_fixtures'));
     }
 
     /**
@@ -174,9 +168,7 @@ class AutomaticUpdateController extends AbstractController
     {
         $this->autoApiCaller->updateResultsOfAlreadyFinishedFixtures();
 
-        return $this->render('update/step.twig', [
-            'step' => 'Result decoration',
-        ]);
+        return new RedirectResponse($this->router->generate('dashboard_fixtures'));
     }
 
     /**
@@ -189,8 +181,6 @@ class AutomaticUpdateController extends AbstractController
     {
         $this->autoApiCaller->increaseOldFixtureStock();
 
-        return $this->render('update/step.twig', [
-            'step' => 'Store old bets',
-        ]);
+        return new RedirectResponse($this->router->generate('dashboard_fixtures'));
     }
 }
