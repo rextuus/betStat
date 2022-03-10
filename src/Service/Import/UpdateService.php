@@ -529,6 +529,7 @@ class UpdateService
 
                 $newFixture = $this->fixtureService->createByData($fixtureData);
                 $this->logger->info(sprintf("Created new fixture: %s", $newFixture));
+                continue;
             }
 
             if ($fixture->isStatus()){
