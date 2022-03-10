@@ -28,6 +28,10 @@ class FormExtension extends AbstractExtension
             return '-';
         }
 
+        if (strlen($form) < 4){
+            return '-';
+        }
+
         $position = 1;
         $sizes = [18, 14, 12, 10, 8];
         if ($direction == -1){
