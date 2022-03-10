@@ -381,6 +381,12 @@ class FootballApiGateway
             $roundResponse->setAwayFull(!is_null($fixture['score']['fulltime']['away']) ? $fixture['score']['fulltime']['away'] : 0);
             $roundResponse->setHomeHalf(!is_null($fixture['score']['halftime']['home']) ? $fixture['score']['halftime']['home'] : 0);
             $roundResponse->setAwayHalf(!is_null($fixture['score']['halftime']['away']) ? $fixture['score']['halftime']['away'] : 0);
+
+            $roundResponse->setDate($fixture['fixture']['date']);
+            $roundResponse->setDate($fixture['fixture']['timestamp']);
+            $roundResponse->setHomeTeamApiId($fixture['teams']['home']['id']);
+            $roundResponse->setAwayTeamApiId($fixture['teams']['away']['id']);
+            $roundResponse->setLeagueApiId($fixture['league']['id']);
             $roundResponses[] = $roundResponse;
         }
         return $roundResponses;

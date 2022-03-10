@@ -494,8 +494,44 @@ class UpdateService
         $this->logger->info(sprintf("Got fixture results for round %d of league %d", $round, $leagueApiIdent));
         dump($fixtures);
         foreach ($fixtures as $fixture){
+            $fixtureToUpdate = $this->fixtureService->findByApiKey($fixture->getFixtureApiId());
+
+            // store new if not exist
+            if (is_null($fixtureToUpdate)){
+                $fixtureData = new FixtureData();
+                $fixtureData->setApiId($fixture->getFixtureApiId());
+                $fixtureData->setTimeStamp($fixture->getTimeStamp());
+                $fixtureData->setDate($fixture->getDate());
+                // parse round string
+                $fixtureData->setMatchDay($round);
+                // find Teams
+                $homeClub = $this->clubService->findByApiKey($fixture->getHomeTeamApiId());
+
+                $fixtureData->setHomeTeam($homeClub);
+                $awayClub = $this->clubService->findByApiKey($fixture->getAwayTeamApiId());
+                $fixtureData->setAwayTeam($awayClub);
+                $fixtureData->setScoreHomeFull($fixture->getHomeFull());
+                $fixtureData->setScoreHomeHalf($fixture->getHomeHalf());
+                $fixtureData->setScoreAwayFull($fixture->getAwayFull());
+                $fixtureData->setScoreAwayHalf($fixture->getAwayHalf());
+                //search season
+                $league = $this->leagueService->findByApiKey($fixture->getLeagueApiId());
+                $season = $this->seasonService->findByYears($seasonStartYear, $seasonStartYear + 1, $league);
+                $fixtureData->setLeague($league);
+                $fixtureData->setSeason($season);
+                $fixtureData->setIsDoubleChanceCandidate(false);
+                $fixtureData->setIsBetDecorated(false);
+                $fixtureData->setPlayed(false);
+
+                if ($fixture->isStatus()) {
+                    $fixtureData->setResultDecorationDate(new DateTime());
+                }
+
+                $newFixture = $this->fixtureService->createByData($fixtureData);
+                $this->logger->info(sprintf("Created new fixture: %s", $newFixture));
+            }
+
             if ($fixture->isStatus()){
-                $fixtureToUpdate = $this->fixtureService->findByApiKey($fixture->getFixtureApiId());
                 $fixtureUpdateData = (new FixtureData())->initFrom($fixtureToUpdate);
                 $fixtureUpdateData->setScoreHomeFull($fixture->getHomeFull());
                 $fixtureUpdateData->setScoreAwayFull($fixture->getAwayFull());

@@ -4,6 +4,8 @@
 namespace App\Service\Api\Response;
 
 
+use DateTime;
+
 class RoundResponse
 {
     /**
@@ -35,6 +37,32 @@ class RoundResponse
      * @var int
      */
     private $awayFull;
+
+    /**
+     * @var DateTime
+     */
+    private $date;
+
+    /**
+     * @var int
+     */
+    private $timeStamp;
+
+    /**
+     * @var int
+     */
+    private $leagueApiId;
+
+    /**
+     * @var int
+     */
+    private $homeTeamApiId;
+
+    /**
+     * @var int
+     */
+    private $awayTeamApiId;
+
 
     /**
      * @return int
@@ -130,5 +158,85 @@ class RoundResponse
     public function setAwayFull(int $awayFull): void
     {
         $this->awayFull = $awayFull;
+    }
+
+    /**
+     * @return DateTime
+     */
+    public function getDate(): DateTime
+    {
+        return $this->date;
+    }
+
+    /**
+     * @param DateTime $date
+     */
+    public function setDate(DateTime $date): void
+    {
+        $this->date = $date;
+    }
+
+    /**
+     * @return int
+     */
+    public function getTimeStamp(): int
+    {
+        return $this->timeStamp;
+    }
+
+    /**
+     * @param int $timeStamp
+     */
+    public function setTimeStamp(int $timeStamp): void
+    {
+        $this->timeStamp = $timeStamp;
+    }
+
+    /**
+     * @return int
+     */
+    public function getLeagueApiId(): int
+    {
+        return $this->leagueApiId;
+    }
+
+    /**
+     * @param int $leagueApiId
+     */
+    public function setLeagueApiId(int $leagueApiId): void
+    {
+        $this->leagueApiId = $leagueApiId;
+    }
+
+    /**
+     * @return int
+     */
+    public function getHomeTeamApiId(): int
+    {
+        return $this->homeTeamApiId;
+    }
+
+    /**
+     * @param int $homeTeamApiId
+     */
+    public function setHomeTeamApiId(int $homeTeamApiId): void
+    {
+        $this->homeTeamApiId = $homeTeamApiId;
+    }
+
+    /**
+     * @return int
+     */
+    public function getAwayTeamApiId(): int
+    {
+        return $this->awayTeamApiId;
+    }
+
+    /**
+     * @param int $awayTeamApiId
+     */
+    public function setAwayTeamApiId(int $awayTeamApiId): void
+    {
+        $this->awayTeamApiId = $awayTeamApiId;
     }
 }
