@@ -160,7 +160,7 @@ class FixtureRepository extends ServiceEntityRepository
                 $qb->setParameter('played', true);
             }
         }
-        $qb->orderBy('f.timeStamp', 'DESC');
+        $qb->orderBy('f.timeStamp', 'ASC');
         return $qb->getQuery()->getResult();
     }
 

@@ -1,0 +1,42 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block body %}
+    <h1>Simulation</h1>
+    <table class="table table-bordered">
+        <tr>
+            <th>Cash Register</th>
+            <th>Commitment</th>
+            <th>Commitment Change</th>
+            <th>Odd Low</th>
+            <th>Odd High</th>
+            <th>Made placements</th>
+            <th>Won placements</th>
+            <th>Lose placements</th>
+            <th>Win rate percentage</th>
+            <th>Odd Average</th>
+        </tr>
+        <tr>
+            <td>{{ simulation.cashRegister }}</td>
+            <td>{{ simulation.commitment }}</td>
+            <td>{{ simulation.commitmentChange }}</td>
+            <td>{{ simulation.oddBorderLow }}</td>
+            <td>{{ simulation.oddBorderHigh }}</td>
+            <td>{{ simulation.madePlacements }}</td>
+            <td>{{ simulation.wonPlacements }}</td>
+            <td>{{ simulation.loosePlacements }}</td>
+            <td>{{ simulation.winRatePercentage }}%</td>
+            <td>{{ simulation.oddAverage }}</td>
+        </tr>
+    </table>
+    <table class="table table-bordered">
+        {% for placement in simulation.placements %}
+           <tr>
+               <td>
+                   {{ placement }}
+               </td>
+            </tr>
+        {% endfor %}
+    </table>
+{% endblock %}
