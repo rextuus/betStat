@@ -748,7 +748,7 @@ class UpdateService
         $season = $this->seasonService->findBySportsmonksApiKey($seasonId);
         // TODO check if season rounds are already stored
         $storedRoundsForSeason = $this->roundService->findBySeason($season);
-        $expectedSeasonFixtures = ($season->getClubs()-1)*2;
+        $expectedSeasonFixtures = ($season->getNumberOfClubs()-1)*2;
         $completedRounds = 0;
         foreach ($storedRoundsForSeason as $storedRound){
             if ($storedRound->getState() > Round::STATE_PARTIAL_STORED){
