@@ -50,6 +50,7 @@ class FixtureTransportFactory
 
         $allFixtures = $this->fixtureRepository->findAllSortedByFilter($filter);
         $transports = array();
+        dump($allFixtures);
         foreach($allFixtures as $fixture){
             $fixtureDto =  new FixtureTransport();
             $fixtureDto->setFixtureId($fixture->getId());
@@ -70,8 +71,11 @@ class FixtureTransportFactory
             $fixtureDto->setAwayForm($seedings['awaySeeding']);
 
             $wishedResult = 0;
+            if (isset($filter['useDraws']) && !$filter['useDraws'] && $fixtureDto->getToBetOn() == 0){
+                $fixtureDto->setToBetOn(-1);
+            }
             if ($fixtureDto->getToBetOn() !== -1 && $fixture->isPlayed()){
-                if ($fixture->getWinner() !== $fixtureDto->getToBetOn()){
+                if ($fixture->getWinner() !== $fixtureDto->getToBetOn() && $fixture->getWinner() !== 0){
                     $wishedResult = 1;
                 }
                 else{

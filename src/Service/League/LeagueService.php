@@ -38,6 +38,18 @@ class LeagueService
     }
 
     /**
+     * @param League $league
+     * @param LeagueData $leagueData
+     * @return League
+     */
+    public function updateLeague(League $league, LeagueData $leagueData): League
+    {
+        $league = $this->leagueFactory->mapData($leagueData, $league);
+        $this->leagueRepository->persist($league);
+        return $league;
+    }
+
+    /**
      * @param string $ident
      * @return League|null
      */
@@ -60,8 +72,25 @@ class LeagueService
         return $this->leagueRepository->findOneBy(['apiId' => $apiKey]);
     }
 
+    /**
+     * @param int $apiKey
+     * @return League|null
+     */
+    public function findBySportsmonksApiKey(int $apiKey): ?League
+    {
+        return $this->leagueRepository->findOneBy(['sportmonksApiId' => $apiKey]);
+    }
+
     public function findByIdent(string $ident)
     {
         return $this->leagueRepository->findOneBy(['ident' => $ident]);
+    }
+
+    /**
+     * @return League[]
+     */
+    public function getAll(): array
+    {
+        return $this->leagueRepository->findAll();
     }
 }

@@ -38,6 +38,7 @@ class FootballApiManagerService
             $apiManager->setDailyCalls(0);
             $apiManager->setDailyLimit(95);
             $apiManager->setIsActive(true);
+            $apiManager->setResetDate(new DateTime());
             $this->footballApiManagerRepository->persist($apiManager);
         }
     }

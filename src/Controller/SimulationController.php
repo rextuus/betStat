@@ -40,7 +40,7 @@ class SimulationController extends AbstractController
             $data = $form->getData();
             $simulation = (new Simulation())->initFrom($data);
 
-            $simulationService->simulateBetSeries($simulation);
+            $simulationService->simulateBetSeries($simulation, $data->getLeagues());
 
             return $this->render('simulation/simulation.show.html.twig', [
                 'simulation' => $simulation,

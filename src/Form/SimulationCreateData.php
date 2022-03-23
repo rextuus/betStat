@@ -20,21 +20,6 @@ class SimulationCreateData
     private $commitmentChange;
 
     /**
-     * @var bool
-     */
-    private $betOnHome;
-
-    /**
-     * @var bool
-     */
-    private $betOnDraw;
-
-    /**
-     * @var bool
-     */
-    private $betOnAway;
-
-    /**
      * @var float
      */
     private $oddBorderLow;
@@ -43,6 +28,11 @@ class SimulationCreateData
      * @var float
      */
     private $oddBorderHigh;
+
+    /**
+     * @var array|null
+     */
+    private $leagues;
 
     /**
      * @return float
@@ -170,5 +160,21 @@ class SimulationCreateData
     public function setOddBorderHigh(float $oddBorderHigh): void
     {
         $this->oddBorderHigh = $oddBorderHigh;
+    }
+
+    /**
+     * @return array|null
+     */
+    public function getLeagues(): ?array
+    {
+        return $this->leagues;
+    }
+
+    /**
+     * @param array|null $leagues
+     */
+    public function setLeagues(?array $leagues): void
+    {
+        $this->leagues = $leagues;
     }
 }

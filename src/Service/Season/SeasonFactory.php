@@ -29,7 +29,8 @@ class SeasonFactory
         $season->setStartYear($data->getStartYear());
         $season->setEndYear($data->getEndYear());
         $season->setLeague($data->getLeague());
-        foreach ($data->getClubs() as $club) {
+        $season->setSportmonksApiId($data->getSportsmonkApiId());
+        foreach ($data->getClubs() as $clubNr => $club) {
             $season->addClub($club);
         }
         return $season;

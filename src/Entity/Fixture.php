@@ -102,11 +102,6 @@ class Fixture
     private $oddDecorationDate;
 
     /**
-     * @ORM\OneToMany(targetEntity=Placement::class, mappedBy="fixture")
-     */
-    private $placements;
-
-    /**
      * @ORM\Column(type="datetime", nullable=true)
      */
     private $resultDecorationDate;
@@ -115,6 +110,17 @@ class Fixture
      * @ORM\Column(type="boolean")
      */
     private $played;
+
+    /**
+     * @ORM\Column(type="integer")
+     */
+    private $sportmonksApiId;
+
+    /**
+     * @ORM\ManyToOne(targetEntity=Round::class, inversedBy="fixtures")
+     * @ORM\JoinColumn(nullable=false)
+     */
+    private $round;
 
     public function __construct()
     {
@@ -328,9 +334,11 @@ class Fixture
     public function __toString()
     {
         $output = sprintf(
-            "%d(%d): %d. %s [%d] - [%d] %s (%s)",
+            "%d(%d|%d): %s %d. %s [%d] - [%d] %s (%s)",
             $this->getId(),
             $this->getApiId(),
+            $this->getSportmonksApiId(),
+            $this->getLeague(),
             $this->getMatchDay(),
             $this->getHomeTeam()->getName(),
             $this->getScoreHomeFull(),
@@ -403,35 +411,6 @@ class Fixture
         return 0;
     }
 
-    /**
-     * @return Collection|Placement[]
-     */
-    public function getPlacements(): Collection
-    {
-        return $this->placements;
-    }
-
-    public function addPlacement(Placement $placement): self
-    {
-        if (!$this->placements->contains($placement)) {
-            $this->placements[] = $placement;
-            $placement->setFixture($this);
-        }
-
-        return $this;
-    }
-
-    public function removePlacement(Placement $placement): self
-    {
-        if ($this->placements->removeElement($placement)) {
-            // set the owning side to null (unless already changed)
-            if ($placement->getFixture() === $this) {
-                $placement->setFixture(null);
-            }
-        }
-
-        return $this;
-    }
 
     public function getResultDecorationDate(): ?\DateTimeInterface
     {
@@ -453,6 +432,30 @@ class Fixture
     public function setPlayed(bool $played): self
     {
         $this->played = $played;
+
+        return $this;
+    }
+
+    public function getSportmonksApiId(): ?int
+    {
+        return $this->sportmonksApiId;
+    }
+
+    public function setSportmonksApiId(int $sportmonksApiId): self
+    {
+        $this->sportmonksApiId = $sportmonksApiId;
+
+        return $this;
+    }
+
+    public function getRound(): ?Round
+    {
+        return $this->round;
+    }
+
+    public function setRound(?Round $round): self
+    {
+        $this->round = $round;
 
         return $this;
     }

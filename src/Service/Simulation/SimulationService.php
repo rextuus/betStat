@@ -46,8 +46,14 @@ class SimulationService
     }
 
 
-    public function simulateBetSeries(Simulation $simulation){
-        $allFixtures =  $this->fixtureRepository->findAllSortedByFilter([]);
+    public function simulateBetSeries(Simulation $simulation, array $leagues){
+        $allFixtures =  $this->fixtureRepository->findAllSortedByFilter(
+            [
+                'maxResults' => 10000,
+                'oddDecorated' => true,
+                'leagues' => $leagues
+            ]
+        );
 
         $oddAverage = [];
         $commitmentChange = $simulation->getCommitmentChange();
@@ -57,11 +63,11 @@ class SimulationService
         }
 
         $commitmentChanger = 0;
+        $longestSeries = 0;
         foreach ($allFixtures as $fixture){
             $toBetOn = $this->evaluationService->getCandidateForFixture($fixture);
             $odds = $this->fixtureOddService->findByFixture($fixture);
             if (!empty($odds) && $toBetOn != -1 && $fixture->isPlayed()){
-                dump((string) $fixture);
 
                 $singleHome = array();
                 $singleDraw = array();
@@ -117,7 +123,7 @@ class SimulationService
                         (string) $fixture,
                         $odd,
                         $toBetOn == 1 ? "Away" : "Home",
-                        $simulation->getCashRegister(),
+                        $simulation->getCashRegister()
                     );
                 }else{
                     $placement = sprintf(
@@ -141,10 +147,14 @@ class SimulationService
                         $commitmentChanger = 0;
                     }
                 }
+                if ($commitmentChanger > $longestSeries){
+                    $longestSeries = $commitmentChanger;
+                }
 
                 $simulation->setCurrentCommitment($commitmentChanges[$commitmentChanger]);
             }
         }
+        $simulation->setLongestLoosingSeries($longestSeries);
         $simulation->setOddAverage(array_sum($oddAverage)/count($oddAverage));
     }
 

@@ -28,6 +28,7 @@ class LeagueFactory
     {
         $league->setIdent($data->getIdent());
         $league->setApiId($data->getApiId());
+        $league->setSportMonksApiId($data->getSportsmonkApiId());
 
         return $league;
     }

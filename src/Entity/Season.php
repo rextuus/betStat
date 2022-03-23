@@ -65,6 +65,16 @@ class Season
      */
     private $seedings;
 
+    /**
+     * @ORM\Column(type="integer")
+     */
+    private $sportmonksApiId;
+
+    /**
+     * @ORM\OneToMany(targetEntity=Round::class, mappedBy="season")
+     */
+    private $rounds;
+
     public function __construct()
     {
         $this->matchDayGames = new ArrayCollection();
@@ -73,6 +83,7 @@ class Season
         $this->clubs = new ArrayCollection();
         $this->fixtures = new ArrayCollection();
         $this->seedings = new ArrayCollection();
+        $this->rounds = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -304,5 +315,51 @@ class Season
         }
 
         return $this;
+    }
+
+    /**
+     * @return Collection<int, Round>
+     */
+    public function getRounds(): Collection
+    {
+        return $this->rounds;
+    }
+
+    public function addRound(Round $round): self
+    {
+        if (!$this->rounds->contains($round)) {
+            $this->rounds[] = $round;
+            $round->setSeason($this);
+        }
+
+        return $this;
+    }
+
+    public function removeRound(Round $round): self
+    {
+        if ($this->rounds->removeElement($round)) {
+            // set the owning side to null (unless already changed)
+            if ($round->getSeason() === $this) {
+                $round->setSeason(null);
+            }
+        }
+
+        return $this;
+    }
+
+    /**
+     * @return mixed
+     */
+    public function getSportmonksApiId()
+    {
+        return $this->sportmonksApiId;
+    }
+
+    /**
+     * @param mixed $sportmonksApiId
+     */
+    public function setSportmonksApiId($sportmonksApiId): void
+    {
+        $this->sportmonksApiId = $sportmonksApiId;
     }
 }

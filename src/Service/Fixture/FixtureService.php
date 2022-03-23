@@ -68,6 +68,15 @@ class FixtureService
     }
 
     /**
+     * @param int $apiKey
+     * @return Fixture|null
+     */
+    public function findBySportsmonkApiKey(int $apiKey): ?Fixture
+    {
+        return $this->fixtureRepository->findOneBy(['sportmonksApiId' => $apiKey]);
+    }
+
+    /**
      * @param Fixture $fixture
      * @param FixtureData $data
      * @return Fixture
@@ -86,13 +95,13 @@ class FixtureService
 
     /**
      * @param int $leagueApiId
-     * @param int $season
+     * @param int $startYear
      * @param int $round
      * @return Fixture[]
      */
-    public function findByLeagueAndSeasonAndRound(int $leagueApiId, int $season, int $round): array
+    public function findByLeagueAndSeasonAndRound(int $leagueApiId, int $startYear, int $round, bool $useApiKey = true): array
     {
-        return $this->fixtureRepository->findByLeagueAndSeasonAndRound($leagueApiId, $season, $round);
+        return $this->fixtureRepository->findByLeagueAndSeasonAndRound($leagueApiId, $startYear, $round, $useApiKey);
     }
 
     public function findByDbId(int $dbId)
@@ -113,9 +122,11 @@ class FixtureService
     /**
      * @return Fixture[]
      */
-    public function getUndecoratedFixturesTimeStampVariant(): array
+    public function getUndecoratedFixturesTimeStampVariant(int $fromTimestamp = null): array
     {
-        return $this->fixtureRepository->findUndecorated();
+        $fixtures = $this->fixtureRepository->findUndecorated($fromTimestamp);
+
+        return $fixtures;
     }
 
     /**

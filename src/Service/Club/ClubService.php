@@ -79,6 +79,16 @@ class ClubService
     }
 
     /**
+     * @param int $apiKey
+     * @return Club|null
+     */
+    public function findBySportsmonkApiKey(int $apiKey): ?Club
+    {
+        return $this->clubRepository->findOneBy(['sportmonksApiId' => $apiKey]);
+    }
+
+
+    /**
      * @param Club $club
      * @param ClubData $clubData
      * @return Club
@@ -94,5 +104,15 @@ class ClubService
     public function findByLeagueAndSeason(League $league, int $seasonYear)
     {
         return $this->clubRepository->findByLeagueAndSeason($league, $seasonYear);
+    }
+
+    public function findByLeague(League $league)
+    {
+        return $this->clubRepository->findBy(['league' => $league->getId()]);
+    }
+
+    public function findClubByNamePlain($name): ?Club
+    {
+        return $this->clubRepository->findOneBy(['name' => $name]);
     }
 }

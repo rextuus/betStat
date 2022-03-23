@@ -63,6 +63,11 @@ class Simulation
     private $placements;
 
     /**
+     * @var int
+     */
+    private $longestLoosingSeries;
+
+    /**
      * @return float
      */
     public function getCashRegister(): float
@@ -271,5 +276,21 @@ class Simulation
     public function addPlacement(string $placement)
     {
         $this->placements[] = $placement;
+    }
+
+    /**
+     * @return int
+     */
+    public function getLongestLoosingSeries(): int
+    {
+        return $this->longestLoosingSeries;
+    }
+
+    /**
+     * @param int $longestLoosingSeries
+     */
+    public function setLongestLoosingSeries(int $longestLoosingSeries): void
+    {
+        $this->longestLoosingSeries = $longestLoosingSeries;
     }
 }

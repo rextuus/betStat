@@ -81,7 +81,34 @@ class SeasonService
 
     public function findByLeagueAndStartYear(League $league, int $seasonYear)
     {
-        return $this->seasonRepository->findByLeagueAndStartYear($league, $seasonYear);
+        $candidate = $this->seasonRepository->findByLeagueAndStartYear($league, $seasonYear);
+        if (empty($candidate)){
+            return null;
+        }
+        return $candidate[0];
     }
 
+    /**
+     * @param int $apiKey
+     * @return Season|null
+     */
+    public function findBySportsmonksApiKey(int $apiKey): ?Season
+    {
+        return $this->seasonRepository->findOneBy(['sportmonksApiId' => $apiKey]);
+    }
+
+    /**
+     * @return Season[]
+     */
+    public function getAll(): array
+    {
+        return $this->seasonRepository->findAll();
+    }
+
+    public function updateSeason(Season $season, SeasonData $seasonData)
+    {
+        $season = $this->seasonFactory->mapData($seasonData, $season);
+        $this->seasonRepository->persist($season);
+        return $season;
+    }
 }

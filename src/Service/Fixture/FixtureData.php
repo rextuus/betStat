@@ -8,6 +8,7 @@ use App\Entity\Club;
 use App\Entity\Fixture;
 use App\Entity\FixtureOdd;
 use App\Entity\League;
+use App\Entity\Round;
 use App\Entity\Season;
 use DateTime;
 use DateTimeInterface;
@@ -104,6 +105,16 @@ class FixtureData
      * @var DateTimeInterface|null
      */
     private $resultDecorationDate;
+
+    /**
+     * @var int
+     */
+    private $sportsmonkApiId;
+
+    /**
+     * @var Round
+     */
+    private $round;
 
     /**
      * @return int
@@ -393,7 +404,37 @@ class FixtureData
         $this->resultDecorationDate = $resultDecorationDate;
     }
 
+    /**
+     * @return int
+     */
+    public function getSportsmonkApiId(): int
+    {
+        return $this->sportsmonkApiId;
+    }
 
+    /**
+     * @param int $sportsmonkApiId
+     */
+    public function setSportsmonkApiId(int $sportsmonkApiId): void
+    {
+        $this->sportsmonkApiId = $sportsmonkApiId;
+    }
+
+    /**
+     * @return Round
+     */
+    public function getRound(): Round
+    {
+        return $this->round;
+    }
+
+    /**
+     * @param Round $round
+     */
+    public function setRound(Round $round): void
+    {
+        $this->round = $round;
+    }
 
     /**
      * @param Fixture $fixture
@@ -403,6 +444,7 @@ class FixtureData
     {
         $fixtureData = new self();
         $fixtureData->setApiId($fixture->getApiId());
+        $fixtureData->setSportsmonkApiId($fixture->getSportmonksApiId());
         $fixtureData->setDate($fixture->getDate());
         $fixtureData->setTimeStamp($fixture->getTimeStamp());
         $fixtureData->setLeague($fixture->getLeague());
@@ -419,6 +461,7 @@ class FixtureData
         $fixtureData->setOddDecorationDate($fixture->getOddDecorationDate());
         $fixtureData->setResultDecorationDate($fixture->getResultDecorationDate());
         $fixtureData->setPlayed($fixture->isPlayed());
+        $fixtureData->setRound($fixture->getRound());
 
         return $fixtureData;
     }

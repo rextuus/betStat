@@ -23,12 +23,16 @@ class SimulationCreateForm extends AbstractType
             ->add('cashRegister', MoneyType::class)
             ->add('commitment', MoneyType::class)
             ->add('commitmentChange', TextType::class)
-            ->add('betOnHome', CheckboxType::class, ['required' => false])
-            ->add('betOnDraw', CheckboxType::class, ['required' => false])
-            ->add('betOnAway', CheckboxType::class, ['required' => false])
+            ->add('leagues', ChoiceType::class, [
+                'choices' => [
+                    'Superleague' => 1,
+                    'PremierLeague' => 2,
+                ],
+                'multiple' => true,
+            ])
             ->add('oddBorderLow', MoneyType::class)
             ->add('oddBorderHigh', MoneyType::class)
-            ->add('submit', SubmitType::class, ['label' => 'Transaktion erstellen']);
+            ->add('submit', SubmitType::class, ['label' => 'Start']);
     }
 
     public function configureOptions(OptionsResolver $resolver)

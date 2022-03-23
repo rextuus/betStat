@@ -23,6 +23,8 @@ class FixtureFactory
     public function mapData(FixtureData $data, Fixture $fixture)
     {
         $fixture->setApiId($data->getApiId());
+        $fixture->setSportmonksApiId($data->getSportsmonkApiId());
+        $fixture->setRound($data->getRound());
         $fixture->setLeague($data->getLeague());
         $fixture->setSeason($data->getSeason());
         $fixture->setHomeTeam($data->getHomeTeam());

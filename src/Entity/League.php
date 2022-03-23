@@ -49,6 +49,11 @@ class League
      */
     private $fixtures;
 
+    /**
+     * @ORM\Column(type="integer")
+     */
+    private $sportmonksApiId;
+
     public function __construct()
     {
         $this->clubs = new ArrayCollection();
@@ -205,4 +210,25 @@ class League
 
         return $this;
     }
+
+    /**
+     * @return mixed
+     */
+    public function getSportmonksApiId()
+    {
+        return $this->sportmonksApiId;
+    }
+
+    /**
+     * @param mixed $sportmonksApiId
+     */
+    public function setSportmonksApiId($sportmonksApiId): void
+    {
+        $this->sportmonksApiId = $sportmonksApiId;
+    }
+
+    public function __toString(){
+        return $this->getIdent();
+    }
+
 }

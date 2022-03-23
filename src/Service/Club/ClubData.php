@@ -35,6 +35,11 @@ class ClubData
     private $formRound;
 
     /**
+     * @var int
+     */
+    private $sportsmonkApiId;
+
+    /**
      * @return string
      */
     public function getName(): string
@@ -114,6 +119,21 @@ class ClubData
         $this->formRound = $formRound;
     }
 
+    /**
+     * @return int
+     */
+    public function getSportsmonkApiId(): int
+    {
+        return $this->sportsmonkApiId;
+    }
+
+    /**
+     * @param int $sportsmonkApiId
+     */
+    public function setSportsmonkApiId(int $sportsmonkApiId): void
+    {
+        $this->sportsmonkApiId = $sportsmonkApiId;
+    }
 
     /**
      * @param Club $club
@@ -123,6 +143,7 @@ class ClubData
     {
         $clubData = new self();
         $clubData->setApiId($club->getApiId());
+        $clubData->setSportsmonkApiId($club->getSportmonksApiId());
         $clubData->setForm($club->getCurrentForm());
         $clubData->setName($club->getName());
         $clubData->setLeague($club->getLeague());

@@ -262,21 +262,24 @@ class FootballApiGateway
         $standingResponse->setSeasonStartYear($league['season']);
 
         $standings = array();
-        foreach ($league['standings'][0] as $club){
-            $clubsStanding = new ClubStanding();
-            $clubsStanding->setClubId($club['team']['id']);
-            $clubsStanding->setClubName($club['team']['name']);
-            $clubsStanding->setForm($club['form']);
-            $clubsStanding->setRank($club['rank']);
-            $clubsStanding->setPoints($club['points']);
-            $clubsStanding->setRound($club['all']['played']);
-            $clubsStanding->setWins($club['all']['win']);
-            $clubsStanding->setDraws($club['all']['draw']);
-            $clubsStanding->setLooses($club['all']['lose']);
-            $clubsStanding->setGoals($club['all']['goals']['for']);
-            $clubsStanding->setAgainstGoals($club['all']['goals']['against']);
-            $standings[] = $clubsStanding;
+        foreach ($league['standings'] as $leagueRound){
+            foreach ($leagueRound as $club){
+                $clubsStanding = new ClubStanding();
+                $clubsStanding->setClubId($club['team']['id']);
+                $clubsStanding->setClubName($club['team']['name']);
+                $clubsStanding->setForm($club['form']);
+                $clubsStanding->setRank($club['rank']);
+                $clubsStanding->setPoints($club['points']);
+                $clubsStanding->setRound($club['all']['played']);
+                $clubsStanding->setWins($club['all']['win']);
+                $clubsStanding->setDraws($club['all']['draw']);
+                $clubsStanding->setLooses($club['all']['lose']);
+                $clubsStanding->setGoals($club['all']['goals']['for']);
+                $clubsStanding->setAgainstGoals($club['all']['goals']['against']);
+                $standings[] = $clubsStanding;
+            }
         }
+
         $standingResponse->setClubStandings($standings);
         return $standingResponse;
     }

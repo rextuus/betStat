@@ -9,6 +9,7 @@ use App\Entity\League;
 use App\Entity\Season;
 use App\Entity\Seeding;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
+use Doctrine\ORM\Tools\Pagination\Paginator;
 use Doctrine\Persistence\ManagerRegistry;
 use PHPUnit\Util\Filter;
 
@@ -82,7 +83,7 @@ class FixtureRepository extends ServiceEntityRepository
         return $qb->getQuery()->getResult();
     }
 
-    public function findByLeagueAndSeasonAndRound(int $league, int $season, int $round)
+    public function findByLeagueAndSeasonAndRound(int $league, int $startYear, int $round, bool $useApiKey = true)
     {
         $qb = $this->createQueryBuilder('f');
         $qb->select('f');
@@ -90,9 +91,13 @@ class FixtureRepository extends ServiceEntityRepository
         $qb->innerJoin(Season::class, 's', 'WITH', 'f.season = s.id')
             ->where($qb->expr()->eq('s.startYear', ':startYear'))
             ->andWhere($qb->expr()->eq('f.matchDay', ':round'))
-            ->andWhere($qb->expr()->eq('l.apiId', ':league'))
             ->orderBy('f.timeStamp', 'DESC');
-        $qb->setParameter('startYear', $season);
+        if ($useApiKey){
+            $qb ->andWhere($qb->expr()->eq('l.apiId', ':league'));
+        }else{
+            $qb ->andWhere($qb->expr()->eq('l.sportmonksApiId', ':league'));
+        }
+        $qb->setParameter('startYear', $startYear);
         $qb->setParameter('round', $round);
         $qb->setParameter('league', $league);
         return $qb->getQuery()->getResult();
@@ -110,11 +115,17 @@ class FixtureRepository extends ServiceEntityRepository
         return $qb->getQuery()->getResult();
     }
 
-    public function findUndecorated()
+    public function findUndecorated(int $fromTimestamp = null)
     {
         $qb = $this->createQueryBuilder('f');
         $qb->select('f')
             ->where($qb->expr()->isNull('f.oddDecorationDate'));
+        if (!is_null($fromTimestamp)){
+            $qb->andWhere($qb->expr()->gt('f.timeStamp', ':from'));
+            $qb->setParameter('from', $fromTimestamp);
+            $qb->orderBy('f.timeStamp', 'ASC');
+        }
+
         return $qb->getQuery()->getResult();
     }
 
@@ -145,9 +156,9 @@ class FixtureRepository extends ServiceEntityRepository
     }
 
     /**
-     * @return Fixture[]
+     * @return Paginator
      */
-    public function findAllSortedByFilter(array $filter): array
+    public function findAllSortedByFilter(array $filter): Paginator
     {
         $qb = $this->createQueryBuilder('f');
         $qb->select('f');
@@ -159,9 +170,24 @@ class FixtureRepository extends ServiceEntityRepository
                 $qb->andWhere($qb->expr()->eq('f.played', ':played'));
                 $qb->setParameter('played', true);
             }
+            if (isset($filter['from']) && $filter['from']){
+                $qb->andWhere($qb->expr()->gt('f.timeStamp', ':from'));
+                $qb->setParameter('from', $filter['from']);
+            }
+            if (isset($filter['leagues']) && $filter['leagues']){
+                $qb->innerJoin(League::class, 'l', 'WITH', 'f.league = l.id');
+                $qb->andWhere($qb->expr()->in('l.id', ':leagues'));
+
+                $qb->setParameter('leagues', $filter['leagues']);
+            }
         }
+        $qb->setFirstResult(0)->setMaxResults($filter['maxResults']);
+//        $qb->setParameter('maxResults', $filter['maxResults']);
+
+
         $qb->orderBy('f.timeStamp', 'ASC');
-        return $qb->getQuery()->getResult();
+        $paginator = new Paginator($qb->getQuery(), $fetchJoinCollection = true);
+        return $paginator;
     }
 
     public function getFixturesWithoutResult()

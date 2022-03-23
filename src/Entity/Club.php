@@ -75,6 +75,11 @@ class Club
      */
     private $formRound;
 
+    /**
+     * @ORM\Column(type="integer")
+     */
+    private $sportmonksApiId;
+
     public function __construct()
     {
         $this->matchGames = new ArrayCollection();
@@ -325,5 +330,22 @@ class Club
         $this->formRound = $formRound;
 
         return $this;
+    }
+
+    public function getSportmonksApiId(): ?int
+    {
+        return $this->sportmonksApiId;
+    }
+
+    public function setSportmonksApiId(int $sportmonksApiId): self
+    {
+        $this->sportmonksApiId = $sportmonksApiId;
+
+        return $this;
+    }
+
+    public function __toString()
+    {
+        return $this->getName();
     }
 }

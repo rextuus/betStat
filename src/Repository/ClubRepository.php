@@ -59,7 +59,7 @@ class ClubRepository extends ServiceEntityRepository
         $this->_em->flush();
     }
 
-    public function findByLeagueAndSeason(?\App\Entity\League $league, int $seasonYear)
+    public function findByLeagueAndSeason(?League $league, int $seasonYear)
     {
         $qb = $this->createQueryBuilder('c');
         $qb->where($qb->expr()->in('c', ':clubs'));

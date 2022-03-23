@@ -4,22 +4,21 @@
 
 {% block body %}
     <div>
-        <input type="checkbox" id="betDecorated" name="betDecorated" checked>
-        <label for="betDecorated">Bets</label>
-        <input type="checkbox" id="resultDecorated" name="resultDecorated" checked>
-        <label for="resultDecorated">Results</label>
+        {{ form(form) }}
     </div>
     <div>
         <table>
             <tr>
-                <th>Total</th>
-                <th>Wins</th>
-                <th>Loses</th>
+                <th>Total </th>
+                <th>Wins </th>
+                <th>Loses </th>
+                <th>Longest Loosing Row </th>
             </tr>
             <tr>
                 <td>{{ total }}</td>
                 <td>{{ wins }}</td>
                 <td>{{ loses }}</td>
+                <td>{{ loosingRow }}</td>
             </tr>
         </table>
     </div>

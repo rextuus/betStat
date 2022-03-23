@@ -39,6 +39,11 @@ class FixtureOddResponse
     private $drawOdd;
 
     /**
+     * @var bool
+     */
+    private $isFilled;
+
+    /**
      * @return int
      */
     public function getFixtureApiId(): int
@@ -87,10 +92,13 @@ class FixtureOddResponse
     }
 
     /**
-     * @return float
+     * @return float|null
      */
-    public function getHomeOdd(): float
+    public function getHomeOdd(): ?float
     {
+        if (is_null($this->drawOdd)){
+            dump($this);
+        }
         return $this->homeOdd;
     }
 
@@ -103,10 +111,13 @@ class FixtureOddResponse
     }
 
     /**
-     * @return float
+     * @return float|null
      */
-    public function getAwayOdd(): float
+    public function getAwayOdd(): ?float
     {
+        if (is_null($this->drawOdd)){
+            dump($this);
+        }
         return $this->awayOdd;
     }
 
@@ -119,9 +130,9 @@ class FixtureOddResponse
     }
 
     /**
-     * @return float
+     * @return float|null
      */
-    public function getDrawOdd(): float
+    public function getDrawOdd(): ?float
     {
         if (is_null($this->drawOdd)){
             dump($this);
@@ -135,5 +146,21 @@ class FixtureOddResponse
     public function setDrawOdd(float $drawOdd): void
     {
         $this->drawOdd = $drawOdd;
+    }
+
+    /**
+     * @return bool
+     */
+    public function isFilled(): bool
+    {
+        return $this->isFilled;
+    }
+
+    /**
+     * @param bool $isFilled
+     */
+    public function setIsFilled(bool $isFilled): void
+    {
+        $this->isFilled = $isFilled;
     }
 }

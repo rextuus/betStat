@@ -6,6 +6,7 @@ namespace App\Service\Season;
 
 use App\Entity\Club;
 use App\Entity\League;
+use App\Entity\Season;
 
 class SeasonData
 {
@@ -29,6 +30,10 @@ class SeasonData
      */
     private $clubs;
 
+    /**
+     * @var int
+     */
+    private $sportsmonkApiId;
 
     /**
      * @return int
@@ -92,5 +97,32 @@ class SeasonData
     public function setClubs(array $clubs): void
     {
         $this->clubs = $clubs;
+    }
+
+    /**
+     * @return int
+     */
+    public function getSportsmonkApiId(): int
+    {
+        return $this->sportsmonkApiId;
+    }
+
+    /**
+     * @param int $sportsmonkApiId
+     */
+    public function setSportsmonkApiId(int $sportsmonkApiId): void
+    {
+        $this->sportsmonkApiId = $sportsmonkApiId;
+    }
+
+    public function initFrom(Season $season)
+    {
+        $seasonData = new self();
+        $seasonData->setLeague($season->getLeague());
+        $seasonData->setClubs($season->getClubs()->getValues());
+        $seasonData->setStartYear($season->getStartYear());
+        $seasonData->setEndYear($season->getEndYear());
+        $seasonData->setSportsmonkApiId($season->getSportmonksApiId());
+        return $seasonData;
     }
 }
