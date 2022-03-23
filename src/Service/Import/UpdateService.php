@@ -791,8 +791,6 @@ class UpdateService
 
                 if (count($round['fixtures']['data']) == 0){
                     dump('Api-Response for '.((string) $season).' is empty');
-                    dump($existingRound->getNumberOfFixtures());
-                    dump($round['fixtures']['data']);
                     continue;
                 }
             }
