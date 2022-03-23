@@ -36,6 +36,11 @@ class SeasonData
     private $sportsmonkApiId;
 
     /**
+     * @var bool
+     */
+    private $roundsCompleted;
+
+    /**
      * @return int
      */
     public function getStartYear(): int
@@ -115,11 +120,30 @@ class SeasonData
         $this->sportsmonkApiId = $sportsmonkApiId;
     }
 
+    /**
+     * @return bool
+     */
+    public function isRoundsCompleted(): bool
+    {
+        return $this->roundsCompleted;
+    }
+
+    /**
+     * @param bool $roundsCompleted
+     */
+    public function setRoundsCompleted(bool $roundsCompleted): void
+    {
+        $this->roundsCompleted = $roundsCompleted;
+    }
+
+
+
     public function initFrom(Season $season)
     {
         $seasonData = new self();
         $seasonData->setLeague($season->getLeague());
         $seasonData->setClubs($season->getClubs()->getValues());
+        $seasonData->setRoundsCompleted($season->getRoundsCompleted());
         $seasonData->setStartYear($season->getStartYear());
         $seasonData->setEndYear($season->getEndYear());
         $seasonData->setSportsmonkApiId($season->getSportmonksApiId());

@@ -746,6 +746,11 @@ class UpdateService
     public function storeRoundsFromSportmonk(int $seasonId): array
     {
         $season = $this->seasonService->findBySportsmonksApiKey($seasonId);
+
+        if ($season->getRoundsCompleted()){
+            return [];
+        }
+
         // TODO check if season rounds are already stored
         $storedRoundsForSeason = $this->roundService->findBySeason($season);
         $expectedSeasonFixtures = ($season->getNumberOfClubs()-1)*2;
@@ -756,7 +761,11 @@ class UpdateService
             }
         }
         if ($completedRounds == $expectedSeasonFixtures){
+            $seasonData = (new SeasonData())->initFrom($season);
+            $seasonData->setRoundsCompleted(true);
+            $this->seasonService->updateSeason($seasonData, $season);
             dump(((string) $season).' already completed');
+            return [];
         }
 
         $rounds = $this->sportsmonkApiGateway->getRoundForSeason($seasonId);

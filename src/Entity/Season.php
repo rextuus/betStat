@@ -75,6 +75,11 @@ class Season
      */
     private $rounds;
 
+    /**
+     * @ORM\Column(type="boolean")
+     */
+    private $roundsCompleted;
+
     public function __construct()
     {
         $this->matchDayGames = new ArrayCollection();
@@ -366,5 +371,17 @@ class Season
     public function __toString()
     {
        return $this->getLeague()->getIdent().': '.$this->getStartYear().'/'.$this->getEndYear();
+    }
+
+    public function getRoundsCompleted(): ?bool
+    {
+        return $this->roundsCompleted;
+    }
+
+    public function setRoundsCompleted(bool $roundsCompleted): self
+    {
+        $this->roundsCompleted = $roundsCompleted;
+
+        return $this;
     }
 }
