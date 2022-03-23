@@ -664,6 +664,7 @@ class UpdateService
                         continue;
                     }
                     $seasonData->setClubs($clubs);
+                    $seasonData->setRoundsCompleted(false);
                     $this->seasonService->createByData($seasonData);
                 }else{
                     $seasonData = (new SeasonData())->initFrom($seasonCandidate);
