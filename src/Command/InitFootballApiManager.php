@@ -100,10 +100,12 @@ class InitFootballApiManager extends Command
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         // step 1: init all available leagues
-        $this->updateService->storeLeaguesFromSportmonk();
+        if (true){
+            $this->updateService->storeLeaguesFromSportmonk();
+        }
 
         // step 2: init all season for leagues
-        if (false){
+        if (true){
             $helper = $this->getHelper('question');
             $question = new ChoiceQuestion(
                 'There is an club with similiar name. Should we use it?',
@@ -115,7 +117,7 @@ class InitFootballApiManager extends Command
         }
 
         // step 3: store fixtures for seasons
-        if (true) {
+        if (false) {
             $seasons = $this->seasonService->getAll();
             foreach ($seasons as $season) {
                 $this->storeRoundsFromSportsmonk($season->getSportmonksApiId());
