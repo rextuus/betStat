@@ -3,6 +3,7 @@
 namespace App\Service\Round;
 
 use App\Entity\Round;
+use App\Entity\Season;
 use App\Repository\RoundRepository;
 use Doctrine\ORM\ORMException;
 
@@ -59,5 +60,10 @@ class RoundService
         $round = $this->roundFactory->mapData($roundData, $round);
         $this->roundRepository->persist($round);
         return $round;
+    }
+
+    public function findBySeason(Season $season)
+    {
+        return $this->roundRepository->findBy(['season' => $season->getId()]);
     }
 }

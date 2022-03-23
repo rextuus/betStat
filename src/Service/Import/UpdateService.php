@@ -745,10 +745,22 @@ class UpdateService
      */
     public function storeRoundsFromSportmonk(int $seasonId): array
     {
-        // TODO save if a round is complete
+        $season = $this->seasonService->findBySportsmonksApiKey($seasonId);
+        // TODO check if season rounds are already stored
+        $storedRoundsForSeason = $this->roundService->findBySeason($season);
+        $expectedSeasonFixtures = ($season->getClubs()-1)*2;
+        $completedRounds = 0;
+        foreach ($storedRoundsForSeason as $storedRound){
+            if ($storedRound->getState() > Round::STATE_PARTIAL_STORED){
+                $completedRounds++;
+            }
+        }
+        if ($completedRounds == $expectedSeasonFixtures){
+            dump(((string) $season).' already completed');
+        }
+
         $rounds = $this->sportsmonkApiGateway->getRoundForSeason($seasonId);
         $league = $this->leagueService->findBySportsmonksApiKey($rounds[0]['league_id']);
-        $season = $this->seasonService->findBySportsmonksApiKey($seasonId);
 
         foreach ($rounds as $round){
             $roundNr = $round['name'];

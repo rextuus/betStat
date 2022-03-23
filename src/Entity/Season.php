@@ -362,4 +362,9 @@ class Season
     {
         $this->sportmonksApiId = $sportmonksApiId;
     }
+
+    public function __toString()
+    {
+       return $this->getLeague()->getIdent().': '.$this->getStartYear().'/'.$this->getEndYear();
+    }
 }
