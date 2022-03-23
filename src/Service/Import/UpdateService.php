@@ -801,6 +801,7 @@ class UpdateService
                 $alreadyStoredFixture = $this->fixtureService->findBySportsmonkApiKey($fixture['id']);
                 if (!is_null($alreadyStoredFixture)){
                     $fixtureOfRound[] = $alreadyStoredFixture;
+                    dump($alreadyStoredFixture.' already exists');
                     continue;
                 }
                 // skip is fixture not part of season
