@@ -763,7 +763,7 @@ class UpdateService
         if ($completedRounds == $expectedSeasonFixtures){
             $seasonData = (new SeasonData())->initFrom($season);
             $seasonData->setRoundsCompleted(true);
-            $this->seasonService->updateSeason($seasonData, $season);
+            $this->seasonService->updateSeason($season, $seasonData);
             dump(((string) $season).' already completed');
             return [];
         }
