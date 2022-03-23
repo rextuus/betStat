@@ -54,7 +54,7 @@ class DashboardController extends AbstractController
 
         $filter = ['maxResults' => 100];
         if ($form->isSubmitted() && $form->isValid()) {
-            $fromDate = new DateTime('2018-06-01');
+            $fromDate = new DateTime('2000-01-01');
 
             /** @var FilterData $data */
             $data = $form->getData();
@@ -66,6 +66,8 @@ class DashboardController extends AbstractController
                     'played' => $data->getPlayed() ?: false,
                     'useDraws' => $data->getUseDraws() ?: false,
                     'maxResults' => $data->getMaxResults() ?: 100,
+                    'round' => $data->getRound() ?: null,
+                    'season' => $data->getSeason() ?: null,
                 ];
         }
         dump($filter);

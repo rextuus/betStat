@@ -174,6 +174,15 @@ class FixtureRepository extends ServiceEntityRepository
                 $qb->andWhere($qb->expr()->gt('f.timeStamp', ':from'));
                 $qb->setParameter('from', $filter['from']);
             }
+            if (isset($filter['round']) && $filter['round']){
+                $qb->andWhere($qb->expr()->eq('f.matchDay', ':round'));
+                $qb->setParameter('round', $filter['round']);
+            }
+            if (isset($filter['season']) && $filter['season']){
+                $qb->innerJoin(Season::class, 's', 'WITH', 'f.season = s.id');
+                $qb->andWhere($qb->expr()->eq('s.startYear', ':season'));
+                $qb->setParameter('season', $filter['season']);
+            }
             if (isset($filter['leagues']) && $filter['leagues']){
                 $qb->innerJoin(League::class, 'l', 'WITH', 'f.league = l.id');
                 $qb->andWhere($qb->expr()->in('l.id', ':leagues'));

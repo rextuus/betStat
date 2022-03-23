@@ -2,6 +2,7 @@
 
 namespace App\Form;
 
+use App\Service\League\LeagueService;
 use DateTime;
 use EasyCorp\Bundle\EasyAdminBundle\Field\NumberField;
 use Symfony\Component\Form\AbstractType;
@@ -17,6 +18,20 @@ use Symfony\Component\OptionsResolver\OptionsResolver;
 
 class FilterForm extends AbstractType
 {
+    /**
+     * @var LeagueService
+     */
+    private $leagueService;
+
+    /**
+     * @param LeagueService $leagueService
+     */
+    public function __construct(LeagueService $leagueService)
+    {
+        $this->leagueService = $leagueService;
+    }
+
+
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
         $builder
@@ -32,16 +47,15 @@ class FilterForm extends AbstractType
                 'label'    => 'Use draws',
                 'required' => false,
             ])
-            ->add('from', DateTimeType::class)
+            ->add('from', DateTimeType::class, ['required' => false])
 //            ->add('league', IntegerType::class)
             ->add('leagues', ChoiceType::class, [
-                'choices' => [
-                    'Superleague' => 1,
-                    'PremierLeague' => 2,
-                ],
+                'choices' => $this->getLeagueChoiceList(),
                 'multiple' => true,
             ])
             ->add('maxResults', IntegerType::class)
+            ->add('round', IntegerType::class)
+            ->add('season', IntegerType::class, ['required' => false])
             ->add('submit', SubmitType::class, ['label' => 'Search']);
     }
 
@@ -50,5 +64,16 @@ class FilterForm extends AbstractType
         $resolver->setDefaults([
             'data_class' => FilterData::class
         ]);
+    }
+
+    private function getLeagueChoiceList(){
+        $leagues = $this->leagueService->getAll();
+        $choices = array();
+        foreach ($leagues as $league){
+            $choices[$league->getIdent()] = $league->getId();
+        }
+        ksort($choices);
+        dump($choices);
+        return $choices;
     }
 }

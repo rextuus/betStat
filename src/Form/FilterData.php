@@ -36,6 +36,16 @@ class FilterData
     private $maxResults;
 
     /**
+     * @var int|null
+     */
+    private $round;
+
+    /**
+     * @var int|null
+     */
+    private $season;
+
+    /**
      * @return bool|null
      */
     public function getOddDecorated(): ?bool
@@ -129,5 +139,37 @@ class FilterData
     public function setMaxResults(?int $maxResults): void
     {
         $this->maxResults = $maxResults;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getRound(): ?int
+    {
+        return $this->round;
+    }
+
+    /**
+     * @param int|null $round
+     */
+    public function setRound(?int $round): void
+    {
+        $this->round = $round;
+    }
+
+    /**
+     * @return int|null
+     */
+    public function getSeason(): ?int
+    {
+        return $this->season;
+    }
+
+    /**
+     * @param int|null $season
+     */
+    public function setSeason(?int $season): void
+    {
+        $this->season = $season;
     }
 }
