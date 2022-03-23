@@ -111,4 +111,9 @@ class SeasonService
         $this->seasonRepository->persist($season);
         return $season;
     }
+
+    public function findByLeague(League $liga)
+    {
+        return $this->seasonRepository->findBy(['league' => $liga->getId()]);
+    }
 }

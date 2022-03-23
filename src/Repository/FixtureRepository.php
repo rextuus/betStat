@@ -193,7 +193,7 @@ class FixtureRepository extends ServiceEntityRepository
         $qb->setFirstResult(0)->setMaxResults($filter['maxResults']);
 //        $qb->setParameter('maxResults', $filter['maxResults']);
 
-
+dump($qb->getQuery());
         $qb->orderBy('f.timeStamp', 'ASC');
         $paginator = new Paginator($qb->getQuery(), $fetchJoinCollection = true);
         return $paginator;

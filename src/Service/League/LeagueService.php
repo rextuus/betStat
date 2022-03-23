@@ -93,4 +93,9 @@ class LeagueService
     {
         return $this->leagueRepository->findAll();
     }
+
+    public function findById(int $famousLeagueId)
+    {
+        return $this->leagueRepository->find($famousLeagueId);
+    }
 }

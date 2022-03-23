@@ -100,12 +100,12 @@ class InitFootballApiManager extends Command
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
         // step 1: init all available leagues
-        if (false){
+        if (true){
             $this->updateService->storeLeaguesFromSportmonk();
         }
 
         // step 2: init all season for leagues
-        if (false){
+        if (true){
             $helper = $this->getHelper('question');
             $question = new ChoiceQuestion(
                 'There is an club with similiar name. Should we use it?',
@@ -117,11 +117,52 @@ class InitFootballApiManager extends Command
         }
 
         // step 3: store fixtures for seasons
-        if (true) {
-            $seasons = $this->seasonService->getAll();
-            foreach ($seasons as $season) {
-                $this->storeRoundsFromSportsmonk($season->getSportmonksApiId());
+        if (false) {
+
+            /*
+             * "1. HNL" => 22
+  "2. Bundesliga" => 16
+  "Admiral Bundesliga" => 18
+  "Bundesliga" => 15
+  "Champions League" => 1
+  "Championship" => 4
+  "Eerste Divisie" => 13
+  "Ekstraklasa" => 37
+  "Eliteserien" => 36
+  "Eredivisie" => 12
+  "Europa League" => 2
+  "First Division" => 25
+  "First Division B" => 20
+  "Fortuna Liga" => 23
+  "La Liga" => 46
+  "La Liga 2" => 47
+  "League One" => 5
+  "League Two" => 6
+  "Liga 1" => 40
+  "Ligue 1" => 70
+  "Ligue 2" => 28
+  "Major League Soccer" => 67
+  "Parva Liga" => 21
+  "Premier League" => 74
+  "Premiership" => 45
+  "Primeira Liga" => 38
+  "Primera Division" => 66
+  "Serie A" => 55
+  "Serie B" => 56
+             */
+            $famousLeagues = [22, 16, 18, 15, 1, 4, 13, 37, 36, 12, 2, 25, 20,23,46,47,5,6,40,70,28,67,21,74,45,38,66,55,56];
+            foreach ($famousLeagues as $famousLeagueId){
+                $famousLeague = $this->leagueService->findById($famousLeagueId);
+                $seasons = $this->seasonService->findByLeague($famousLeague);
+                dump("Store ".count($seasons)." season for league".$famousLeague->getIdent());
+                foreach ($seasons as $season) {
+                    dump((string) $season);
+                    $this->storeRoundsFromSportsmonk($season->getSportmonksApiId());
+                }
             }
+
+//            $seasons = $this->seasonService->getAll();
+
         }
 
 
