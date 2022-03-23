@@ -779,8 +779,13 @@ class UpdateService
                     $this->roundService->updateRound($existingRound, $roundData);
                     continue;
                 }
-                dump($existingRound->getNumberOfFixtures());
-                dump(count($round['fixtures']['data']));
+
+                if (count($round['fixtures']['data']) == 0){
+                    dump('Api-Response for '.((string) $season).' is empty');
+                    dump($existingRound->getNumberOfFixtures());
+                    dump(count($round['fixtures']['data']));
+                    continue;
+                }
             }
 
             // create the round
