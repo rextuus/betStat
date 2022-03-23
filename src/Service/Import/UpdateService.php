@@ -8,6 +8,7 @@ use App\Entity\Club;
 use App\Entity\Fixture;
 use App\Entity\FootballApiManager;
 use App\Entity\League;
+use App\Entity\Round;
 use App\Entity\Season;
 use App\Service\Api\FootballApiGateway;
 use App\Service\Api\SportsmonkApiGateway;
@@ -752,15 +753,22 @@ class UpdateService
         foreach ($rounds as $round){
             $roundNr = $round['name'];
 
-            // if round already is stored go on
+            // if round already is stored and has more than 0 fixtures go on
             $existingRound = $this->roundService->findBySportsmonkApiId($round['id']);
             if (!is_null($existingRound)){
-                $numberOfStoredFixtures = count($existingRound->getFixtures());
-                dump($numberOfStoredFixtures);
-                dump(count($round['fixtures']['data']));
-                if ($numberOfStoredFixtures == count($round['fixtures']['data'])){
+                if ($existingRound->getState() == 2){
                     continue;
                 }
+
+                if ($existingRound->getNumberOfFixtures() == count($round['fixtures']['data']) && $existingRound->getNumberOfFixtures() > 0){
+                    // set it to complete Stored
+                    $roundData = (new RoundData())->initFrom($existingRound);
+                    $roundData->setState(Round::STATE_COMPLETE_STORED);
+                    $this->roundService->updateRound($existingRound, $roundData);
+                    continue;
+                }
+                dump($existingRound->getNumberOfFixtures());
+                dump(count($round['fixtures']['data']));
             }
 
             // create the round
@@ -834,6 +842,7 @@ class UpdateService
             }
             $roundData = (new RoundData())->initFrom($newRound);
             $roundData->setFixtures($fixtureOfRound);
+            $roundData->setState(Round::STATE_COMPLETE_STORED);
             $this->roundService->updateRound($newRound, $roundData);
         }
         return [];

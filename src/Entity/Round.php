@@ -12,6 +12,12 @@ use Doctrine\ORM\Mapping as ORM;
  */
 class Round
 {
+    public const STATE_PARTIAL_STORED = 1;
+    public const STATE_COMPLETE_STORED = 2;
+    public const STATE_RESULT_DECORATED= 3;
+    public const STATE_SEEDING_DECORATED= 4;
+    public const STATE_BET_DECORATED= 5;
+
     /**
      * @ORM\Id
      * @ORM\GeneratedValue
@@ -114,5 +120,9 @@ class Round
         $this->sportmonksApiId = $sportmonksApiId;
 
         return $this;
+    }
+
+    public function getNumberOfFixtures(): int{
+        return count($this->getFixtures());
     }
 }
