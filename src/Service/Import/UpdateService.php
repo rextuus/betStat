@@ -798,6 +798,11 @@ class UpdateService
 
             $fixtureOfRound = array();
             foreach ($round['fixtures']['data'] as $fixture){
+                $alreadyStoredFixture = $this->fixtureService->findBySportsmonkApiKey($fixture['id']);
+                if (!is_null($alreadyStoredFixture)){
+                    $fixtureOfRound[] = $alreadyStoredFixture;
+                    continue;
+                }
                 // skip is fixture not part of season
                 if ($fixture['season_id'] !== $seasonId){
                     continue;
@@ -852,10 +857,10 @@ class UpdateService
                 $fixtureData->setIsDoubleChanceCandidate(false);
                 $fixtureData->setIsBetDecorated(false);
 
-                $fixture = $this->fixtureService->createByData($fixtureData);
+                $newFixture = $this->fixtureService->createByData($fixtureData);
 
-                $fixtureOfRound[] = $fixture;
-                dump((string) $fixture);
+                $fixtureOfRound[] = $newFixture;
+                dump((string) $newFixture);
             }
             $roundData = (new RoundData())->initFrom($newRound);
             $roundData->setFixtures($fixtureOfRound);
