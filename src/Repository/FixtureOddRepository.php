@@ -29,6 +29,17 @@ class FixtureOddRepository extends ServiceEntityRepository
         $this->_em->flush();
     }
 
+    /**
+     * @param FixtureOdd[] $fixtureOdds
+     */
+    public function persistMultiple(array $fixtureOdds)
+    {
+        foreach ($fixtureOdds as $fixtureOdd){
+            $this->_em->persist($fixtureOdd);
+        }
+        $this->_em->flush();
+    }
+
     // /**
     //  * @return FixtureOdd[] Returns an array of FixtureOdd objects
     //  */

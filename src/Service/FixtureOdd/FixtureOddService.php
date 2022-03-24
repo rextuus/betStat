@@ -45,6 +45,19 @@ class FixtureOddService
     }
 
     /**
+     * @param FixtureOddData[] $datas
+     */
+    public function createMultipleByData(array $datas)
+    {
+        $newOdds = array();
+        foreach ($datas as $data){
+            $newOdds[] = $this->fixtureOddFactory->createByData($data);
+        }
+
+        $this->fixtureOddRepository->persistMultiple($newOdds);
+    }
+
+    /**
      * @param Fixture $fixture
      * @return FixtureOdd[]
      */

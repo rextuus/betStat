@@ -921,6 +921,8 @@ class UpdateService
                     $faultyOddsCounter++;
                     dump($faultyOddsCounter." empty response");
                 }
+
+                $oddDatas = array();
                 foreach ($oddResponses as $oddResponse) {
                     $oddData = new FixtureOddData();
 
@@ -941,17 +943,21 @@ class UpdateService
 
                     $oddData->setAwayOdd($oddResponse->getAwayOdd());
 
-
-                    $this->fixtureOddService->createByData($oddData);
+                    $oddDatas[] = $oddData;
+//                    $this->fixtureOddService->createByData($oddData);
 
                     // update oddtime in fixture
-                    $fixtureUpdateDate = (new FixtureData())->initFrom($fixture);
-                    $fixtureUpdateDate->setOddDecorationDate(new DateTime());
-                    $this->fixtureService->updateFixture($fixture, $fixtureUpdateDate);
+//                    $fixtureUpdateDate = (new FixtureData())->initFrom($fixture);
+//                    $fixtureUpdateDate->setOddDecorationDate(new DateTime());
+//                    $this->fixtureService->updateFixture($fixture, $fixtureUpdateDate);
+//                    $fixturesDatas[] = $fixtureUpdateDate;
                     dump("stored odds for: " . $fixture);
                     $this->logger->info("stored odds for: " . $fixture);
                 }
+                $this->fixtureOddService->createMultipleByData($oddDatas);
             }
+            $this->fixtureService->setOddDecorationTimeToMultipleOnes($fixtures);
+
             $roundData = (new RoundData())->initFrom($round);
             $roundData->setState(Round::STATE_BET_DECORATED);
             $this->roundService->updateRound($round, $roundData);

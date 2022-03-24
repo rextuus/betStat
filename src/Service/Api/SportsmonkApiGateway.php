@@ -203,14 +203,19 @@ class SportsmonkApiGateway
                 if ($betVariant['name'] === '3Way Result') {
                     $odds = $bookmaker['odds']['data'];
                     foreach ($odds as $odd) {
-                        if ($odd['label'] == '1') {
-                            $oddResponse->setHomeOdd($odd['value']);
-                        }
-                        if ($odd['label'] == 'X') {
-                            $oddResponse->setDrawOdd($odd['value']);
-                        }
-                        if ($odd['label'] == '2') {
-                            $oddResponse->setAwayOdd($odd['value']);
+                        try {
+                            if ($odd['label'] == '1') {
+                                $oddResponse->setHomeOdd($odd['value']);
+                            }
+                            if ($odd['label'] == 'X') {
+                                $oddResponse->setDrawOdd($odd['value']);
+                            }
+                            if ($odd['label'] == '2') {
+                                $oddResponse->setAwayOdd($odd['value']);
+                            }
+                        } catch (\Exception $e) {
+                            dump($response);
+                            throw $e;
                         }
                     }
                     $oddResponse->setType(FixtureOdd::TYPE_CLASSIC);
@@ -220,14 +225,19 @@ class SportsmonkApiGateway
                 if ($betVariant['name'] === 'Double Chance') {
                     $odds = $bookmaker['odds']['data'];
                     foreach ($odds as $odd) {
-                        if ($odd['label'] == '1X') {
-                            $oddResponse->setHomeOdd($odd['value']);
-                        }
-                        if ($odd['label'] == '12') {
-                            $oddResponse->setDrawOdd($odd['value']);
-                        }
-                        if ($odd['label'] == 'X2') {
-                            $oddResponse->setAwayOdd($odd['value']);
+                        try {
+                            if ($odd['label'] == '1X') {
+                                $oddResponse->setHomeOdd($odd['value']);
+                            }
+                            if ($odd['label'] == '12') {
+                                $oddResponse->setDrawOdd($odd['value']);
+                            }
+                            if ($odd['label'] == 'X2') {
+                                $oddResponse->setAwayOdd($odd['value']);
+                            }
+                        } catch (\Exception $e) {
+                            dump($response);
+                            throw $e;
                         }
                     }
                     $oddResponse->setType(FixtureOdd::TYPE_DOUBLE_CHANCE);

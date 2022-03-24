@@ -30,10 +30,22 @@ class FixtureRepository extends ServiceEntityRepository
      * @param Fixture $fixture
      * @throws \Doctrine\ORM\ORMException
      */
-    public function persist(Fixture $fixture)
+    public function persist(Fixture $fixture, bool $flush = true)
     {
         $this->_em->persist($fixture);
+        if ($flush){
+            $this->_em->flush();
+        }
+    }
+
+    /**
+     * @param Fixture $fixture
+     * @throws \Doctrine\ORM\ORMException
+     */
+    public function flush()
+    {
         $this->_em->flush();
+
     }
 
     // /**

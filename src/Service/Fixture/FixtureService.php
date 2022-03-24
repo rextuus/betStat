@@ -88,6 +88,21 @@ class FixtureService
         return $fixture;
     }
 
+    /**
+     * @param Fixture $fixtures
+     * @return void
+     */
+    public function setOddDecorationTimeToMultipleOnes(array $fixtures)
+    {
+        foreach ($fixtures as $fixture){
+            $fixtureUpdateDate = (new FixtureData())->initFrom($fixture);
+            $fixtureUpdateDate->setOddDecorationDate(new DateTime());
+            $fixture = $this->fixtureFactory->mapData($fixtureUpdateDate, $fixture);
+            $this->fixtureRepository->persist($fixture, false);
+        }
+        $this->fixtureRepository->flush();
+    }
+
     public function findByClubAndSeasonAndRound(Club $club, int $season, int $round)
     {
         return $this->fixtureRepository->findByClubAndSeasonAndRound($club, $season, $round);
