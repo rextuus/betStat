@@ -41,36 +41,36 @@ class UpdateService
     public const API_KEY_BUNDESLIGA_2 = 79;
     public const API_KEY_PREMIER_LEAGUE = 39;
     public const API_KEY_CHAMPIONS_CHIP = 40;
-    public const API_KEY_PRIMERA_DIVISION= 140;
-    public const API_KEY_SECUNDA_DIVISION= 141;
-    public const API_KEY_SERIE_A= 135;
-    public const API_KEY_SERIE_B= 136;
-    public const API_KEY_LEAGUE_A= 61;
-    public const API_KEY_LEAGUE_B= 62;
-    public const API_KEY_DEN_SUPERLIGA= 119;
-    public const API_KEY_SCT_PREMIERSHIP= 179;
+    public const API_KEY_PRIMERA_DIVISION = 140;
+    public const API_KEY_SECUNDA_DIVISION = 141;
+    public const API_KEY_SERIE_A = 135;
+    public const API_KEY_SERIE_B = 136;
+    public const API_KEY_LEAGUE_A = 61;
+    public const API_KEY_LEAGUE_B = 62;
+    public const API_KEY_DEN_SUPERLIGA = 119;
+    public const API_KEY_SCT_PREMIERSHIP = 179;
     public const LEAGUE_BUNDESLIGA = 'bundesliga';
     public const LEAGUE_BUNDESLIGA_2 = 'bundesliga2';
     public const LEAGUE_PREMIER_LEAGUE = 'premierLeague';
     public const LEAGUE_CHAMPIONS_CHIP = 'championsChip';
-    public const LEAGUE_PRIMERA_DIVISION= 'primeraDivision';
-    public const LEAGUE_SECUNDA_DIVISION= 'secundaDivision';
-    public const LEAGUE_SERIE_A= 'serieA';
-    public const LEAGUE_SERIE_B= 'serieB';
-    public const LEAGUE_LEAGUE_A= 'leagueA';
-    public const LEAGUE_LEAGUE_B= 'leagueB';
-    public const LEAGUE_DEN_SUPERLIGA= 'superLiga';
-    public const LEAGUE_SCT_PREMIERSHIP= 'premierShip';
+    public const LEAGUE_PRIMERA_DIVISION = 'primeraDivision';
+    public const LEAGUE_SECUNDA_DIVISION = 'secundaDivision';
+    public const LEAGUE_SERIE_A = 'serieA';
+    public const LEAGUE_SERIE_B = 'serieB';
+    public const LEAGUE_LEAGUE_A = 'leagueA';
+    public const LEAGUE_LEAGUE_B = 'leagueB';
+    public const LEAGUE_DEN_SUPERLIGA = 'superLiga';
+    public const LEAGUE_SCT_PREMIERSHIP = 'premierShip';
     public const ROUND_BUNDESLIGA = 9;
     public const ROUND_BUNDESLIGA_2 = 9;
     public const ROUND_PREMIER_LEAGUE = 10;
     public const ROUND_CHAMPIONS_CHIP = 12;
-    public const ROUND_PRIMERA_DIVISION= 10;
-    public const ROUND_SECUNDA_DIVISION= 11;
-    public const ROUND_SERIE_A= 10;
-    public const ROUND_SERIE_B= 10;
-    public const ROUND_LEAGUE_A= 10;
-    public const ROUND_LEAGUE_B= 10;
+    public const ROUND_PRIMERA_DIVISION = 10;
+    public const ROUND_SECUNDA_DIVISION = 11;
+    public const ROUND_SERIE_A = 10;
+    public const ROUND_SERIE_B = 10;
+    public const ROUND_LEAGUE_A = 10;
+    public const ROUND_LEAGUE_B = 10;
 
     private const SPORTSMONK_API_KEY_DEN_SUPERLIGA = 271;
     private const SPORTSMONK_API_KEY_SCT_PREMIERSHIP = 501;
@@ -176,17 +176,17 @@ class UpdateService
      * @param LoggerInterface $autoUpdateLogger
      */
     public function __construct(
-        FootballApiGateway $footballApiGateway,
-        SportsmonkApiGateway $sportsmonkApiGateway,
-        ClubService $clubService,
-        LeagueService $leagueService,
-        SeasonService $seasonService,
-        SeedingService $seedingService,
-        FixtureService $fixtureService,
-        FixtureOddService $fixtureOddService,
-        RoundService $roundService,
+        FootballApiGateway        $footballApiGateway,
+        SportsmonkApiGateway      $sportsmonkApiGateway,
+        ClubService               $clubService,
+        LeagueService             $leagueService,
+        SeasonService             $seasonService,
+        SeedingService            $seedingService,
+        FixtureService            $fixtureService,
+        FixtureOddService         $fixtureOddService,
+        RoundService              $roundService,
         FootballApiManagerService $footballApiManagerService,
-        LoggerInterface $autoUpdateLogger
+        LoggerInterface           $autoUpdateLogger
     )
     {
         $this->footballApiGateway = $footballApiGateway;
@@ -202,26 +202,27 @@ class UpdateService
         $this->logger = $autoUpdateLogger;
     }
 
-    public function updateLeagues(){
-        foreach (self::LEAGUES as $leagueName => $apiKey){
+    public function updateLeagues()
+    {
+        foreach (self::LEAGUES as $leagueName => $apiKey) {
             $this->updateLeague($leagueName, $apiKey, 2021);
         }
     }
 
     public function updateLeague(string $leagueIdent, int $leagueApiKey, int $startYear)
     {
-        if ($this->footballApiManagerService->isApiCallLimitReached()){
+        if ($this->footballApiManagerService->isApiCallLimitReached()) {
             return;
         }
-        $this->logger->info("UPDATE league: ".$leagueIdent);
+        $this->logger->info("UPDATE league: " . $leagueIdent);
 
         $standings = $this->footballApiGateway->getStandingForLeagues($leagueApiKey, $startYear);
 
         $league = $this->leagueService->findByApiKey($leagueApiKey);
-        if (is_null($league)){
+        if (is_null($league)) {
             $league = $this->leagueService->findByIdent($leagueApiKey);
         }
-        if (is_null($league)){
+        if (is_null($league)) {
             $leagueData = new LeagueData();
             $leagueData->setIdent($leagueIdent);
             $leagueData->setApiId($standings->getLeagueId());
@@ -231,9 +232,9 @@ class UpdateService
 
         $clubs = array();
         $seedingDataSets = array();
-        foreach ($standings->getClubStandings() as $clubStanding){
+        foreach ($standings->getClubStandings() as $clubStanding) {
             $club = $this->clubService->findByApiKey($clubStanding->getClubId());
-            if (is_null($club)){
+            if (is_null($club)) {
                 $clubData = new ClubData();
                 $clubData->setLeague($league);
                 $clubData->setName($clubStanding->getClubName());
@@ -242,7 +243,7 @@ class UpdateService
                 $clubData->setFormRound($clubStanding->getRound());
                 $clubData->setSportsmonkApiId(-1);
                 $club = $this->clubService->createByData($clubData);
-            }else{
+            } else {
                 $clubData = (new ClubData())->initFrom($club);
                 $clubData->setForm($clubStanding->getForm());
                 $club = $this->clubService->updateClub($club, $clubData);
@@ -264,32 +265,33 @@ class UpdateService
             $seedingDataSets[] = $seedingData;
         }
 
-        $season = $this->seasonService->findByYears($startYear, $startYear+1, $league);
-        if (is_null($season)){
+        $season = $this->seasonService->findByYears($startYear, $startYear + 1, $league);
+        if (is_null($season)) {
             $seasonData = new SeasonData();
             $seasonData->setLeague($league);
             $seasonData->setClubs($clubs);
             $seasonData->setStartYear($standings->getSeasonStartYear());
-            $seasonData->setEndYear($standings->getSeasonStartYear()+1);
+            $seasonData->setEndYear($standings->getSeasonStartYear() + 1);
             $seasonData->setSportsmonkApiId(-1);
             $season = $this->seasonService->createByData($seasonData);
         }
 
-        foreach ($seedingDataSets as $seedingData){
+        foreach ($seedingDataSets as $seedingData) {
             $seedingData->setSeason($season);
             $this->seedingService->createByData($seedingData);
         }
     }
 
-    public function getFixturesForCurrentRounds(){
-        foreach (self::LEAGUES as $leagueName => $apiKey){
+    public function getFixturesForCurrentRounds()
+    {
+        foreach (self::LEAGUES as $leagueName => $apiKey) {
             $this->getFixtureForCurrentRound($apiKey, 2021);
         }
     }
 
     private function getFixtureForCurrentRound(int $apiLeagueKey, int $seasonYear)
     {
-        if ($this->footballApiManagerService->isApiCallLimitReached()){
+        if ($this->footballApiManagerService->isApiCallLimitReached()) {
             return;
         }
         $fixturesResponses = $this->footballApiGateway->getNextFixturesForLeagueAndCurrentRound($apiLeagueKey, $seasonYear);
@@ -298,7 +300,7 @@ class UpdateService
 
     public function storeFixtureForLeagueAndRound(int $apiLeagueKey, int $seasonYear, int $round): bool
     {
-        if ($this->footballApiManagerService->isApiCallLimitReached()){
+        if ($this->footballApiManagerService->isApiCallLimitReached()) {
             return false;
         }
         $fixturesResponses = $this->footballApiGateway->getNextFixturesForLeagueAndRound($apiLeagueKey, $seasonYear, $round);
@@ -308,11 +310,11 @@ class UpdateService
 
     public function storeOddsForFixture(int $fixtureApiId): bool
     {
-        if ($this->footballApiManagerService->isApiCallLimitReached()){
+        if ($this->footballApiManagerService->isApiCallLimitReached()) {
             return false;
         }
         $fixtureResponses = $this->footballApiGateway->getOddsForFixture($fixtureApiId);
-        foreach ($fixtureResponses as $fixtureResponse){
+        foreach ($fixtureResponses as $fixtureResponse) {
             $oddData = new FixtureOddData();
             // get Fixture for odd
             $fixture = $this->fixtureService->findByApiKey($fixtureResponse->getFixtureApiId());
@@ -329,7 +331,7 @@ class UpdateService
             $fixtureUpdateDate->setOddDecorationDate(new DateTime());
             $this->fixtureService->updateFixture($fixture, $fixtureUpdateDate);
         }
-        if (empty($fixtureResponses) || !count($fixtureResponses)){
+        if (empty($fixtureResponses) || !count($fixtureResponses)) {
             $this->logger->info(sprintf('Error during bet collection: EmptyResponse=>%d CountResponse=>%d', (empty($fixtureResponses)), !count($fixtureResponses)));
             return false;
         }
@@ -374,16 +376,16 @@ class UpdateService
         }
     }
 
-    public function getCurrentRoundForAllLeagues():array
+    public function getCurrentRoundForAllLeagues(): array
     {
         $currentRounds = array();
-        foreach (self::LEAGUES as $leagueName => $apiKey){
-            if ($this->footballApiManagerService->isApiCallLimitReached()){
+        foreach (self::LEAGUES as $leagueName => $apiKey) {
+            if ($this->footballApiManagerService->isApiCallLimitReached()) {
                 return [];
             }
             $response = $this->footballApiGateway->getCurrentRoundForLeague($apiKey, 2021);
             $response = json_decode($response->getBody(), true);
-            $parsedRoundString = explode(' - ', $response['response'][count($response['response'])-1]);
+            $parsedRoundString = explode(' - ', $response['response'][count($response['response']) - 1]);
             dump($parsedRoundString);
             $currentRounds[$leagueName] = $parsedRoundString[1];
         }
@@ -393,18 +395,18 @@ class UpdateService
     public function getCurrentRoundForLeague(string $leagueIdent): ?int
     {
         $apiKey = self::LEAGUES[$leagueIdent];
-        if ($this->footballApiManagerService->isApiCallLimitReached()){
+        if ($this->footballApiManagerService->isApiCallLimitReached()) {
             return null;
         }
         $response = $this->footballApiGateway->getCurrentRoundForLeague($apiKey, 2021);
         $response = json_decode($response->getBody(), true);
-        $parsedRoundString = explode(' - ', $response['response'][count($response['response'])-1]);
+        $parsedRoundString = explode(' - ', $response['response'][count($response['response']) - 1]);
         return $parsedRoundString[1];
     }
 
     public function updateFixtureForLeagueAndRound(int $apiLeagueKey, int $seasonYear, $round)
     {
-        if ($this->footballApiManagerService->isApiCallLimitReached()){
+        if ($this->footballApiManagerService->isApiCallLimitReached()) {
             return false;
         }
         $fixturesResponses = $this->footballApiGateway->getNextFixturesForLeagueAndRound($apiLeagueKey, $seasonYear, $round);
@@ -417,7 +419,7 @@ class UpdateService
         foreach ($fixturesResponses as $fixtureResponse) {
             /** @var FixtureResponse $fixtureResponse */
             $fixtureToUpdate = $this->fixtureService->findByApiKey($fixtureResponse->getApiId());
-            if (isNull($fixtureToUpdate)){
+            if (isNull($fixtureToUpdate)) {
                 dump($fixtureResponse);
                 continue;
             }
@@ -453,11 +455,11 @@ class UpdateService
 
 //        $form = 'WLWWDLLLWWDDLWLWLLWLW';
         $homeTeam = $fixture->getHomeTeam();
-        $homeForm =  $this->footballApiGateway->getCurrentFormForClub($fixture->getLeague()->getApiId(), $season->getStartYear(), $homeTeam->getApiId());
+        $homeForm = $this->footballApiGateway->getCurrentFormForClub($fixture->getLeague()->getApiId(), $season->getStartYear(), $homeTeam->getApiId());
         $this->storeFormsTillCurrentRound($homeForm, $homeTeam, $season);
 
         $awayTeam = $fixture->getHomeTeam();
-        $awayForm =  $this->footballApiGateway->getCurrentFormForClub($fixture->getLeague()->getApiId(), $season->getStartYear(), $awayTeam->getApiId());
+        $awayForm = $this->footballApiGateway->getCurrentFormForClub($fixture->getLeague()->getApiId(), $season->getStartYear(), $awayTeam->getApiId());
         $this->storeFormsTillCurrentRound($awayForm, $awayTeam, $season);
     }
 
@@ -467,8 +469,8 @@ class UpdateService
 
         $lastSeeding = $this->seedingService->findLastSeedingForClubAndSeason($club, $season);
 
-        if (is_null($lastSeeding)){
-            $form =  $this->footballApiGateway->getCurrentFormForClub($league->getApiId(), $startYear, $club->getApiId());
+        if (is_null($lastSeeding)) {
+            $form = $this->footballApiGateway->getCurrentFormForClub($league->getApiId(), $startYear, $club->getApiId());
             $roundNr = strlen($form);
             $this->logger->info(sprintf("Get form for %s fitting last %d round: %s", $club->getName(), $roundNr, $form));
             $this->storeFormsTillCurrentRound($form, $club, $season);
@@ -485,8 +487,8 @@ class UpdateService
     private function getNumberOfMatchEndings(array $formTillRound, string $variant)
     {
         $counter = 0;
-        foreach ($formTillRound as $round){
-            if ($round === $variant){
+        foreach ($formTillRound as $round) {
+            if ($round === $variant) {
                 $counter++;
             }
         }
@@ -535,18 +537,18 @@ class UpdateService
      */
     public function getFixturesForRound(int $leagueApiIdent, int $seasonStartYear, int $round): bool
     {
-        if ($this->footballApiManagerService->isApiCallLimitReached()){
+        if ($this->footballApiManagerService->isApiCallLimitReached()) {
             return false;
         }
 
         $fixtures = $this->footballApiGateway->getRoundForLeague($leagueApiIdent, $seasonStartYear, $round);
         $this->logger->info(sprintf("Got fixture results for round %d of league %d", $round, $leagueApiIdent));
         dump($fixtures);
-        foreach ($fixtures as $fixture){
+        foreach ($fixtures as $fixture) {
             $fixtureToUpdate = $this->fixtureService->findByApiKey($fixture->getFixtureApiId());
 
             // store new if not exist
-            if (is_null($fixtureToUpdate)){
+            if (is_null($fixtureToUpdate)) {
                 $fixtureData = new FixtureData();
                 $fixtureData->setApiId($fixture->getFixtureApiId());
                 $fixtureData->setTimeStamp($fixture->getTimeStamp());
@@ -581,7 +583,7 @@ class UpdateService
                 continue;
             }
 
-            if ($fixture->isStatus()){
+            if ($fixture->isStatus()) {
                 $fixtureUpdateData = (new FixtureData())->initFrom($fixtureToUpdate);
                 $fixtureUpdateData->setScoreHomeFull($fixture->getHomeFull());
                 $fixtureUpdateData->setScoreAwayFull($fixture->getAwayFull());
@@ -593,8 +595,7 @@ class UpdateService
                 $fixtureToUpdate = $this->fixtureService->updateFixture($fixtureToUpdate, $fixtureUpdateData);
                 $this->logger->info(sprintf("Updated result for fixture with Id %d: %s", $fixtureToUpdate->getId(), $fixtureToUpdate));
                 $this->logger->info(sprintf("Used values %d, %d, %d, %d", $fixture->getHomeFull(), $fixture->getAwayFull(), $fixture->getHomeHalf(), $fixture->getAwayHalf()));
-            }
-            else{
+            } else {
                 $fixtureToUpdate = $this->fixtureService->findByApiKey($fixture->getFixtureApiId());
                 $fixtureUpdateData = (new FixtureData())->initFrom($fixtureToUpdate);
                 $fixtureUpdateData->setPlayed(false);
@@ -607,15 +608,16 @@ class UpdateService
         return true;
     }
 
-    public function storeLeaguesFromSportmonk(){
+    public function storeLeaguesFromSportmonk()
+    {
         $leagues = $this->sportsmonkApiGateway->getAvailableLeagues();
 
-        foreach ($leagues as $league){
-            if(strpos($league['name'], 'Play-offs') || strpos($league['name'], 'Play-Offs')){
+        foreach ($leagues as $league) {
+            if (strpos($league['name'], 'Play-offs') || strpos($league['name'], 'Play-Offs')) {
                 continue;
             }
             // check if league is already stored
-            if (!is_null($this->leagueService->findBySportsmonksApiKey($league['id']))){
+            if (!is_null($this->leagueService->findBySportsmonksApiKey($league['id']))) {
                 continue;
             }
 
@@ -628,45 +630,46 @@ class UpdateService
         }
     }
 
-    public function storeSeasonsFromSportmonk($helper, $input, $output){
+    public function storeSeasonsFromSportmonk($helper, $input, $output)
+    {
         // check pages by simple call
         $pageCall = $this->sportsmonkApiGateway->getAvailableSeasonsPageCall();
         $pages = $pageCall['pagination']['total_pages'];
-        for ($pageNr = 0; $pageNr < $pages; $pageNr++){
+        for ($pageNr = 0; $pageNr < $pages; $pageNr++) {
             $seasons = $this->sportsmonkApiGateway->getAvailableSeasons($pageNr + 1);
-            foreach ($seasons as $season){
+            foreach ($seasons as $season) {
                 $league = $this->leagueService->findBySportsmonksApiKey($season['league_id']);
-                if (is_null($league)){
+                if (is_null($league)) {
                     continue;
                 }
-                dump("Store season ".$season['name'].' of '.$league->getIdent());
+                dump("Store season " . $season['name'] . ' of ' . $league->getIdent());
 
                 $years = explode('/', $season['name']);
                 // check if a season already exists
 
-                if (strlen($years[0]) > 4){
+                if (strlen($years[0]) > 4) {
                     dump($years);
                     continue;
                 }
                 $seasonCandidate = $this->seasonService->findByLeagueAndStartYear($league, $years[0]);
-                if (is_null($seasonCandidate)){
+                if (is_null($seasonCandidate)) {
                     $seasonData = new SeasonData();
 
                     $seasonData->setStartYear($years[0]);
-                    if (!array_key_exists(1, $years)){
-                        $years[1] = $years[0]+1;
+                    if (!array_key_exists(1, $years)) {
+                        $years[1] = $years[0] + 1;
                     }
                     $seasonData->setEndYear($years[1]);
                     $seasonData->setLeague($league);
                     $seasonData->setSportsmonkApiId($season['id']);
                     $clubs = $this->storeClubsFromSportmonk($season['id'], $league, $helper, $input, $output);
-                    if (empty($clubs)){
+                    if (empty($clubs)) {
                         continue;
                     }
                     $seasonData->setClubs($clubs);
                     $seasonData->setRoundsCompleted(false);
                     $this->seasonService->createByData($seasonData);
-                }else{
+                } else {
                     $seasonData = (new SeasonData())->initFrom($seasonCandidate);
                     $seasonData->setSportsmonkApiId($season['id']);
                     $this->seasonService->updateSeason($seasonCandidate, $seasonData);
@@ -684,14 +687,14 @@ class UpdateService
     {
         $sportmonksClubs = $this->sportsmonkApiGateway->getClubsForSeason($seasonId);
         $clubs = array();
-        foreach ($sportmonksClubs as $sportsmonkClub){
+        foreach ($sportmonksClubs as $sportsmonkClub) {
             $club = $this->clubService->findBySportsmonkApiKey($sportsmonkClub['id']);
-            if (!is_null($club)){
+            if (!is_null($club)) {
                 $clubs[] = $club;
                 continue;
             }
             $club = $this->clubService->findClubByNamePlain($sportsmonkClub['name']);
-            if (!is_null($club)){
+            if (!is_null($club)) {
                 $clubs[] = $club;
                 continue;
             }
@@ -748,41 +751,41 @@ class UpdateService
     {
         $season = $this->seasonService->findBySportsmonksApiKey($seasonId);
 
-        if ($season->getRoundsCompleted()){
+        if ($season->getRoundsCompleted()) {
             return [];
         }
 
         // TODO check if season rounds are already stored
         $storedRoundsForSeason = $this->roundService->findBySeason($season);
-        $expectedSeasonFixtures = ($season->getNumberOfClubs()-1)*2;
+        $expectedSeasonFixtures = ($season->getNumberOfClubs() - 1) * 2;
         $completedRounds = 0;
-        foreach ($storedRoundsForSeason as $storedRound){
-            if ($storedRound->getState() > Round::STATE_PARTIAL_STORED){
+        foreach ($storedRoundsForSeason as $storedRound) {
+            if ($storedRound->getState() > Round::STATE_PARTIAL_STORED) {
                 $completedRounds++;
             }
         }
-        if ($completedRounds == $expectedSeasonFixtures){
+        if ($completedRounds == $expectedSeasonFixtures) {
             $seasonData = (new SeasonData())->initFrom($season);
             $seasonData->setRoundsCompleted(true);
             $this->seasonService->updateSeason($season, $seasonData);
-            dump(((string) $season).' already completed');
+            dump(((string)$season) . ' already completed');
             return [];
         }
 
         $rounds = $this->sportsmonkApiGateway->getRoundForSeason($seasonId);
         $league = $this->leagueService->findBySportsmonksApiKey($rounds[0]['league_id']);
 
-        foreach ($rounds as $round){
+        foreach ($rounds as $round) {
             $roundNr = $round['name'];
 
             // if round already is stored and has more than 0 fixtures go on
             $existingRound = $this->roundService->findBySportsmonkApiId($round['id']);
-            if (!is_null($existingRound)){
-                if ($existingRound->getState() == 2){
+            if (!is_null($existingRound)) {
+                if ($existingRound->getState() == 2) {
                     continue;
                 }
 
-                if ($existingRound->getNumberOfFixtures() == count($round['fixtures']['data']) && $existingRound->getNumberOfFixtures() > 0){
+                if ($existingRound->getNumberOfFixtures() == count($round['fixtures']['data']) && $existingRound->getNumberOfFixtures() > 0) {
                     // set it to complete Stored
                     $roundData = (new RoundData())->initFrom($existingRound);
                     $roundData->setState(Round::STATE_COMPLETE_STORED);
@@ -790,8 +793,8 @@ class UpdateService
                     continue;
                 }
 
-                if (count($round['fixtures']['data']) == 0){
-                    dump('Api-Response for '.((string) $season).' is empty');
+                if (count($round['fixtures']['data']) == 0) {
+                    dump('Api-Response for ' . ((string)$season) . ' is empty');
                     continue;
                 }
             }
@@ -805,15 +808,15 @@ class UpdateService
             $newRound = $this->roundService->createByData($roundData);
 
             $fixtureOfRound = array();
-            foreach ($round['fixtures']['data'] as $fixture){
+            foreach ($round['fixtures']['data'] as $fixture) {
                 $alreadyStoredFixture = $this->fixtureService->findBySportsmonkApiKey($fixture['id']);
-                if (!is_null($alreadyStoredFixture)){
+                if (!is_null($alreadyStoredFixture)) {
                     $fixtureOfRound[] = $alreadyStoredFixture;
-                    dump($alreadyStoredFixture.' already exists');
+                    dump($alreadyStoredFixture . ' already exists');
                     continue;
                 }
                 // skip is fixture not part of season
-                if ($fixture['season_id'] !== $seasonId){
+                if ($fixture['season_id'] !== $seasonId) {
                     continue;
                 }
 
@@ -827,12 +830,12 @@ class UpdateService
                 $fixtureData->setPlayed(true);
 
                 $homeClub = $this->clubService->findBySportsmonkApiKey($fixture['localteam_id']);
-                if (is_null($homeClub)){
+                if (is_null($homeClub)) {
                     continue;
                 }
 
                 $awayClub = $this->clubService->findBySportsmonkApiKey($fixture['visitorteam_id']);
-                if (is_null($awayClub)){
+                if (is_null($awayClub)) {
                     continue;
                 }
 
@@ -844,18 +847,18 @@ class UpdateService
                 $fixtureData->setScoreAwayHalf(-1);
                 $scoreHome = $fixture['scores']['localteam_score'];
                 $scoreAway = $fixture['scores']['visitorteam_score'];
-                if (!is_null($fixture['scores']['ft_score'])){
+                if (!is_null($fixture['scores']['ft_score'])) {
                     $fullTimeScores = explode('-', $fixture['scores']['ft_score']);
-                    if ($fullTimeScores[0] == $scoreHome && $fullTimeScores[1] == $scoreAway){
-                    }else{
+                    if ($fullTimeScores[0] == $scoreHome && $fullTimeScores[1] == $scoreAway) {
+                    } else {
                         dump('!!!! Fulltime score is invalid');
                     }
                 }
-                if (!is_null($fixture['scores']['ht_score'])){
+                if (!is_null($fixture['scores']['ht_score'])) {
                     $halfTimeScores = explode('-', $fixture['scores']['ft_score']);
-                    if (is_null($halfTimeScores[0]) && is_null($halfTimeScores[1])){
+                    if (is_null($halfTimeScores[0]) && is_null($halfTimeScores[1])) {
                         dump('!!!! Halftime score is empty');
-                    }else{
+                    } else {
                         $fixtureData->setScoreHomeHalf($halfTimeScores[0]);
                         $fixtureData->setScoreAwayHalf($halfTimeScores[1]);
                     }
@@ -869,7 +872,7 @@ class UpdateService
                 $newFixture = $this->fixtureService->createByData($fixtureData);
 
                 $fixtureOfRound[] = $newFixture;
-                dump((string) $newFixture);
+                dump((string)$newFixture);
             }
             $roundData = (new RoundData())->initFrom($newRound);
             $roundData->setFixtures($fixtureOfRound);
@@ -881,70 +884,101 @@ class UpdateService
 
     public function storeOddsForFixtureFromSportsmonk(Season $season)
     {
-        $fixruesOfFirstRound = $this->fixtureService->findByLeagueAndSeasonAndRound($season->getLeague()->getSportmonksApiId(), $season->getStartYear(), 1, false);
+//        $fixruesOfFirstRound = $this->fixtureService->findByLeagueAndSeasonAndRound($season->getLeague()->getSportmonksApiId(), $season->getStartYear(), 1, false);
+//
+//        $fromDate = $fixruesOfFirstRound[0]->getTimeStamp() - 86400;
+//
+//        $fixtures = $this->fixtureService->getUndecoratedFixturesTimeStampVariant($fromDate);
 
-        $fromDate = $fixruesOfFirstRound[0]->getTimeStamp()-86400;
-
-        $fixtures = $this->fixtureService->getUndecoratedFixturesTimeStampVariant($fromDate);
-
-        foreach ($fixtures as $fixture){
-            dump("try to store odds for ".$fixture.' :'.$fixture->getSportmonksApiId());
-            $this->logger->info("try to store odds for ".$fixture.' :'.$fixture->getSportmonksApiId());
-            if (!is_null($fixture->getOddDecorationDate())){
+        $rounds = $this->roundService->findBySeason($season);
+        foreach ($rounds as $round) {
+            if ($round->getState() == Round::STATE_BET_DECORATED) {
                 continue;
             }
-            $oddResponses = $this->sportsmonkApiGateway->getOddsForFixture($fixture->getSportmonksApiId());
-            foreach($oddResponses as $oddResponse){
-                $oddData = new FixtureOddData();
 
-                // get Fixture for odd
-                // filter faulty odds
-                if (is_null($oddResponse->getHomeOdd()) || is_null($oddResponse->getDrawOdd()) || is_null($oddResponse->getAwayOdd())){
-                    dump('Faulty odd response');
-                    dump($oddResponse);
-                    $this->logger->info("Faulty odd response:");
-                    continue;
+            $faultyOddsCounter = 0;
+            $fixtures = $round->getFixtures();
+            foreach ($fixtures as $fixture) {
+                // break if there are to many faulty responses and set rounds to finished
+                if ($faultyOddsCounter > 5) {
+                    dump('Discard this season');
+                    foreach ($rounds as $round2){
+                        $roundData = (new RoundData())->initFrom($round2);
+                        $roundData->setState(Round::STATE_BET_DECORATED);
+                        $this->roundService->updateRound($round2, $roundData);
+                    }
+                    return;
                 }
 
-                $oddData->setFixture($fixture);
-                $oddData->setType($oddResponse->getType());
-                $oddData->setProvider($oddResponse->getProvider());
-                $oddData->setHomeOdd($oddResponse->getHomeOdd());
-                $oddData->setDrawOdd($oddResponse->getDrawOdd());
+                dump("try to store odds for " . $fixture . ' :' . $fixture->getSportmonksApiId());
+                $this->logger->info("try to store odds for " . $fixture . ' :' . $fixture->getSportmonksApiId());
+                if (!is_null($fixture->getOddDecorationDate())) {
+                    continue;
+                }
+                $oddResponses = $this->sportsmonkApiGateway->getOddsForFixture($fixture->getSportmonksApiId());
 
-                $oddData->setAwayOdd($oddResponse->getAwayOdd());
+                if (empty($oddResponses)){
+                    $faultyOddsCounter++;
+                    dump($faultyOddsCounter." empty response");
+                }
+                foreach ($oddResponses as $oddResponse) {
+                    $oddData = new FixtureOddData();
+
+                    // get Fixture for odd
+                    // filter faulty odds
+                    if (is_null($oddResponse->getHomeOdd()) || is_null($oddResponse->getDrawOdd()) || is_null($oddResponse->getAwayOdd())) {
+                        dump('Faulty odd response');
+                        dump($oddResponse);
+                        $this->logger->info("Faulty odd response:");
+                        $faultyOddsCounter++;
+                        continue;
+                    }
+
+                    $oddData->setFixture($fixture);
+                    $oddData->setType($oddResponse->getType());
+                    $oddData->setProvider($oddResponse->getProvider());
+                    $oddData->setHomeOdd($oddResponse->getHomeOdd());
+                    $oddData->setDrawOdd($oddResponse->getDrawOdd());
+
+                    $oddData->setAwayOdd($oddResponse->getAwayOdd());
 
 
-                $this->fixtureOddService->createByData($oddData);
+                    $this->fixtureOddService->createByData($oddData);
 
-                // update oddtime in fixture
-                $fixtureUpdateDate = (new FixtureData())->initFrom($fixture);
-                $fixtureUpdateDate->setOddDecorationDate(new DateTime());
-                $this->fixtureService->updateFixture($fixture, $fixtureUpdateDate);
-                dump("stored odds for: ".$fixture);
-                $this->logger->info("stored odds for: ".$fixture);
+                    // update oddtime in fixture
+                    $fixtureUpdateDate = (new FixtureData())->initFrom($fixture);
+                    $fixtureUpdateDate->setOddDecorationDate(new DateTime());
+                    $this->fixtureService->updateFixture($fixture, $fixtureUpdateDate);
+                    dump("stored odds for: " . $fixture);
+                    $this->logger->info("stored odds for: " . $fixture);
+                }
             }
+            $roundData = (new RoundData())->initFrom($round);
+            $roundData->setState(Round::STATE_BET_DECORATED);
+            $this->roundService->updateRound($round, $roundData);
         }
+
     }
 
-    public function getStandingsForSeason(Season $season){
+    public function getStandingsForSeason(Season $season)
+    {
         $rounds = $this->sportsmonkApiGateway->getRoundForSeason($season->getSportmonksApiId());
-        foreach ($rounds as $round){
+        foreach ($rounds as $round) {
             // check if seedings are already stored
             $decorated = 0;
-            foreach($season->getClubs() as $club){
+            foreach ($season->getClubs() as $club) {
                 $seeding = $this->seedingService->findByClubAndSeasonAndLRound($club, $season, $round['name']);
-                if (!is_null($seeding)){
+                if (!is_null($seeding)) {
                     $decorated++;
                 }
             }
 
-            if ($decorated == count($season->getClubs())){
+            if ($decorated == count($season->getClubs())) {
                 continue;
             }
 
             $standings = $this->sportsmonkApiGateway->getStandingsForSeasonRound($season->getSportmonksApiId(), $round['id']);
-            foreach ($standings as $standing){
+            foreach ($standings as $standing) {
                 $seedingData = new SeedingData();
                 $seedingData->setSeason($season);
                 $seedingData->setWins($standing['overall']['won']);
@@ -960,8 +994,8 @@ class UpdateService
 
                 $seedingData->setForm($standing['recent_form']);
                 $this->seedingService->createByData($seedingData);
-                dump('Stored seeding for club '.$team.' for round '.$round['name'].' of '. $season);
-                $this->logger->info('Stored seeding for club '.$team.' for round '.$round['name'].' of '. $season);
+                dump('Stored seeding for club ' . $team . ' for round ' . $round['name'] . ' of ' . $season);
+                $this->logger->info('Stored seeding for club ' . $team . ' for round ' . $round['name'] . ' of ' . $season);
             }
         }
     }

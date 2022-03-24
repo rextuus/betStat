@@ -7,6 +7,7 @@ namespace App\Command;
 use App\Service\Api\AutoApiCaller;
 use App\Service\Api\SportsmonkApiGateway;
 use App\Service\League\LeagueData;
+use App\Service\Round\RoundService;
 use App\Service\Season\SeasonService;
 use App\Service\Setting\AutomaticUpdateSettingService;
 use App\Service\Setting\FootballApiManagerService;
@@ -64,16 +65,23 @@ class InitFootballApiManager extends Command
     private $seasonService;
 
     /**
+     * @var RoundService
+     */
+    private $roundService;
+
+    /**
      * InitFootballApiManager constructor.
      * @param FootballApiManagerService $footballApiManagerService
      * @param UpdateService $updateService
      * @param AutomaticUpdateSettingService $automaticUpdateSettingService
      * @param AutoApiCaller $autoApiCaller
      * @param LeagueService $leagueService
-     * @param SeasonService $seasonService
      * @param FixtureService $fixtureService
+     * @param SeasonService $seasonService
+     * @param RoundService $roundService
+     * @param SportsmonkApiGateway $sportsmonkApiGateway
      */
-    public function __construct(FootballApiManagerService $footballApiManagerService, UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, AutoApiCaller $autoApiCaller, LeagueService $leagueService, FixtureService $fixtureService, SeasonService $seasonService, SportsmonkApiGateway $sportsmonkApiGateway)
+    public function __construct(FootballApiManagerService $footballApiManagerService, UpdateService $updateService, AutomaticUpdateSettingService $automaticUpdateSettingService, AutoApiCaller $autoApiCaller, LeagueService $leagueService, FixtureService $fixtureService, SeasonService $seasonService, RoundService $roundService, SportsmonkApiGateway $sportsmonkApiGateway)
     {
         $this->footballApiManagerService = $footballApiManagerService;
         $this->updateService = $updateService;
@@ -82,6 +90,7 @@ class InitFootballApiManager extends Command
         $this->leagueService = $leagueService;
         $this->fixtureService = $fixtureService;
         $this->seasonService = $seasonService;
+        $this->roundService = $roundService;
         $this->sportsmonkApiGateway = $sportsmonkApiGateway;
 
         parent::__construct();
@@ -119,38 +128,8 @@ class InitFootballApiManager extends Command
         // step 3: store fixtures for seasons
         if (true) {
 
-            /*
-             * "1. HNL" => 22
-  "2. Bundesliga" => 16
-  "Admiral Bundesliga" => 18
-  "Bundesliga" => 15
-  "Champions League" => 1
-  "Championship" => 4
-  "Eerste Divisie" => 13
-  "Ekstraklasa" => 37
-  "Eliteserien" => 36
-  "Eredivisie" => 12
-  "Europa League" => 2
-  "First Division" => 25
-  "First Division B" => 20
-  "Fortuna Liga" => 23
-  "La Liga" => 46
-  "La Liga 2" => 47
-  "League One" => 5
-  "League Two" => 6
-  "Liga 1" => 40
-  "Ligue 1" => 70
-  "Ligue 2" => 28
-  "Major League Soccer" => 67
-  "Parva Liga" => 21
-  "Premier League" => 74
-  "Premiership" => 45
-  "Primeira Liga" => 38
-  "Primera Division" => 66
-  "Serie A" => 55
-  "Serie B" => 56
-             */
-            $famousLeagues = [22, 16, 18, 15, 1, 4, 13, 37, 36, 12, 2, 25, 20,23,46,47,5,6,40,70,28,67,21,74,45,38,66,55,56];
+//            $famousLeagues = [22, 16, 18, 15, 1, 4, 13, 37, 36, 12, 2, 25, 20,23,46,47,5,6,40,70,28,67,21,74,45,38,66,55,56];
+            $famousLeagues = [70,28,67,21,74,45,38,66,55,56];
             foreach ($famousLeagues as $famousLeagueId){
                 $famousLeague = $this->leagueService->findById($famousLeagueId);
                 $seasons = $this->seasonService->findByLeague($famousLeague);
@@ -165,42 +144,17 @@ class InitFootballApiManager extends Command
 
         }
 
-
-//        $this->updateService->updateLeagues();
-
-//        $res = $this->updateService->updateSeedingFormsForFixture($this->fixtureService->findByApiKey(719533));
-
-//        $this->updateService->storeLeaguesFromSportmonk();
-//        $seasons = $this->seasonService->getAll();
-//        foreach ($seasons as $season){
-//            $this->updateService->storeRoundsFromSportmonk($season->getSportmonksApiId());
-//        }
-//        dump($this->sportsmonkApiGateway->getFixturesInDateRange('2006-03-29'));
-
-//        $seasons = $this->seasonService->getAll();
-//        foreach ($seasons as $season){
-//            if ($season->getStartYear() < 2018 || $season->getStartYear() > 2020){
-//                continue;
-//            }
-//            dump($season->getStartYear());
-//            $this->updateService->storeOddsForFixtureFromSportsmonk($season);
-//        }
-
-        $helper = $this->getHelper('question');
-//        $question = new ChoiceQuestion(
-//            'There is an club with similiar name. Should we use it?',
-//            // choices can also be PHP objects that implement __toString() method
-//            ['yes', 'no'],
-//            0
-//        );
-//        $question->setErrorMessage('Color %s is invalid.');
-//
-//        $color = $helper->ask($input, $output, $question);
-
-//        $seasons = $this->seasonService->getAll();
-//        foreach ($seasons as $season){
-//            $this->storeRoundsFromSportsmonk($season->getSportmonksApiId());
-//        }
+        // step 4: store odds for fixtures
+        if (false){
+            $famousLeagues = [22, 16, 18, 15, 1, 4, 13, 37, 36, 12, 2, 25, 20,23,46,47,5,6,40,70,28,67,21,74,45,38,66,55,56];
+            foreach ($famousLeagues as $famousLeagueId){
+                $famousLeague = $this->leagueService->findById($famousLeagueId);
+                $seasons = $this->seasonService->findByLeague($famousLeague);
+                foreach($seasons as $season){
+                    $this->updateService->storeOddsForFixtureFromSportsmonk($season);
+                }
+            }
+        }
 
         return Command::SUCCESS;
     }
@@ -256,3 +210,36 @@ class InitFootballApiManager extends Command
         $this->footballApiManagerService->initializeApiManager();
     }
 }
+
+
+/*
+ * "1. HNL" => 22
+"2. Bundesliga" => 16
+"Admiral Bundesliga" => 18
+"Bundesliga" => 15
+"Champions League" => 1
+"Championship" => 4
+"Eerste Divisie" => 13
+"Ekstraklasa" => 37
+"Eliteserien" => 36
+"Eredivisie" => 12
+"Europa League" => 2
+"First Division" => 25
+"First Division B" => 20
+"Fortuna Liga" => 23
+"La Liga" => 46
+"La Liga 2" => 47
+"League One" => 5
+"League Two" => 6
+"Liga 1" => 40
+"Ligue 1" => 70
+"Ligue 2" => 28
+"Major League Soccer" => 67
+"Parva Liga" => 21
+"Premier League" => 74
+"Premiership" => 45
+"Primeira Liga" => 38
+"Primera Division" => 66
+"Serie A" => 55
+"Serie B" => 56
+ */
