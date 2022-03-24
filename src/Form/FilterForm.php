@@ -52,9 +52,10 @@ class FilterForm extends AbstractType
             ->add('leagues', ChoiceType::class, [
                 'choices' => $this->getLeagueChoiceList(),
                 'multiple' => true,
+                'empty_data' => 0
             ])
-            ->add('maxResults', IntegerType::class)
-            ->add('round', IntegerType::class)
+            ->add('maxResults', IntegerType::class, ['required' => false, 'empty_data' => 100])
+            ->add('round', IntegerType::class, ['required' => false, 'empty_data' => null])
             ->add('season', IntegerType::class, ['required' => false])
             ->add('submit', SubmitType::class, ['label' => 'Search']);
     }
@@ -69,11 +70,26 @@ class FilterForm extends AbstractType
     private function getLeagueChoiceList(){
         $leagues = $this->leagueService->getAll();
         $choices = array();
+        //            [15, 16, 3, 4, 33, 34, 46, 47, 27, 28]
+//            [De1, De2, En1, En2, It1, It2, Sp1, Sp2, Fr1, Fr2]
         foreach ($leagues as $league){
             $choices[$league->getIdent()] = $league->getId();
         }
         ksort($choices);
-        dump($choices);
+
+        $choices = [
+            'All' => null,
+            'De1' => 15,
+            'De2' => 16,
+            'En1' => 3,
+            'En2' => 4,
+            'It1' => 33,
+            'It2' => 34,
+            'Es1' => 46,
+            'Es2' => 47,
+            'Fr1' => 27,
+            'Fr2' => 28,
+        ];
         return $choices;
     }
 }
