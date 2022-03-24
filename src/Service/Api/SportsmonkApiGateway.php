@@ -214,7 +214,7 @@ class SportsmonkApiGateway
                                 $oddResponse->setAwayOdd($odd['value']);
                             }
                         } catch (\Exception $e) {
-//                            dump($response);
+                            dump($odd);
                             throw $e;
                         }
                     }
@@ -236,7 +236,7 @@ class SportsmonkApiGateway
                                 $oddResponse->setAwayOdd($odd['value']);
                             }
                         } catch (\Exception $e) {
-//                            dump($response);
+                            dump($odd);
                             throw $e;
                         }
                     }
