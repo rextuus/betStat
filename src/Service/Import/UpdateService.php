@@ -930,7 +930,6 @@ class UpdateService
                         dump('Faulty odd response');
                         dump($oddResponse);
                         $this->logger->info("Faulty odd response:");
-                        $faultyOddsCounter++;
                         continue;
                     }
 
