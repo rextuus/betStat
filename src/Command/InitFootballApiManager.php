@@ -129,7 +129,7 @@ class InitFootballApiManager extends Command
         if (true) {
 
 //            $famousLeagues = [22, 16, 18, 15, 1, 4, 13, 37, 36, 12, 2, 25, 20,23,46,47,5,6,40,70,28,67,21,74,45,38,66,55,56];
-            $famousLeagues = [70,28,67,21,74,45,38,66,55,56];
+            $famousLeagues = [21,74,45,38,66,55,56];
             foreach ($famousLeagues as $famousLeagueId){
                 $famousLeague = $this->leagueService->findById($famousLeagueId);
                 $seasons = $this->seasonService->findByLeague($famousLeague);
