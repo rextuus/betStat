@@ -204,6 +204,7 @@ class SportsmonkApiGateway
                     $odds = $bookmaker['odds']['data'];
                     foreach ($odds as $odd) {
                         try {
+                            $odd['value'] = str_replace(',', '', $odd['value']);
                             if ($odd['label'] == '1') {
                                 $oddResponse->setHomeOdd($odd['value']);
                             }
@@ -226,6 +227,7 @@ class SportsmonkApiGateway
                     $odds = $bookmaker['odds']['data'];
                     foreach ($odds as $odd) {
                         try {
+                            $odd['value'] = str_replace(',', '', $odd['value']);
                             if ($odd['label'] == '1X') {
                                 $oddResponse->setHomeOdd($odd['value']);
                             }
