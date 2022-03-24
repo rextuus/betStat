@@ -38,6 +38,7 @@ class FixtureOddRepository extends ServiceEntityRepository
             $this->_em->persist($fixtureOdd);
         }
         $this->_em->flush();
+        $this->_em->clear();
     }
 
     // /**
