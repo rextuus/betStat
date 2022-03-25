@@ -17,6 +17,7 @@ class Round
     public const STATE_RESULT_DECORATED= 3;
     public const STATE_SEEDING_DECORATED= 4;
     public const STATE_BET_DECORATED= 5;
+    public const STATE_BET_DECORATED_FAILED= 6;
 
     /**
      * @ORM\Id

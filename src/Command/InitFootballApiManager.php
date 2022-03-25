@@ -15,6 +15,7 @@ use App\Service\Fixture\FixtureService;
 use App\Service\Import\UpdateService;
 use App\Service\League\LeagueService;
 use Symfony\Component\Console\Command\Command;
+use Symfony\Component\Console\Command\LockableTrait;
 use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Output\OutputInterface;
 use Symfony\Component\Console\Question\ChoiceQuestion;
@@ -22,6 +23,8 @@ use Symfony\Component\Console\Question\ConfirmationQuestion;
 
 class InitFootballApiManager extends Command
 {
+    use LockableTrait;
+
     // the name of the command (the part after "bin/console")
     protected static $defaultName = 'bet:init:manager';
     /**
@@ -108,6 +111,12 @@ class InitFootballApiManager extends Command
      */
     protected function execute(InputInterface $input, OutputInterface $output): int
     {
+        if (!$this->lock()) {
+            $output->writeln('The command is already running in another process.');
+
+            return Command::SUCCESS;
+        }
+
         // step 1: init all available leagues
         if (false){
             $this->updateService->storeLeaguesFromSportmonk();
@@ -157,7 +166,7 @@ class InitFootballApiManager extends Command
                 }
             }
         }
-
+        $this->release();
         return Command::SUCCESS;
     }
 

@@ -892,7 +892,7 @@ class UpdateService
 
         $rounds = $this->roundService->findBySeason($season);
         foreach ($rounds as $round) {
-            if ($round->getState() == Round::STATE_BET_DECORATED) {
+            if ($round->getState() == Round::STATE_BET_DECORATED || $round->getState() == Round::STATE_BET_DECORATED_FAILED) {
                 continue;
             }
 
@@ -904,7 +904,7 @@ class UpdateService
                     dump('Discard this season');
                     foreach ($rounds as $round2){
                         $roundData = (new RoundData())->initFrom($round2);
-                        $roundData->setState(Round::STATE_BET_DECORATED);
+                        $roundData->setState(Round::STATE_BET_DECORATED_FAILED);
                         $this->roundService->updateRound($round2, $roundData);
                     }
                     return;
