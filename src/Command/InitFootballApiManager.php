@@ -154,7 +154,7 @@ class InitFootballApiManager extends Command
         }
 
         // step 4: store odds for fixtures
-        if (true){
+        if (false){
 //            [15, 16, 3, 4, 33, 34, 46, 47, 27, 28]
 //            [De1, De2, En1, En2, It1, It2, Sp1, Sp2, Fr1, Fr2]
             $famousLeagues = [15, 16, 3, 4, 33, 34, 46, 47, 27, 28];
@@ -163,6 +163,20 @@ class InitFootballApiManager extends Command
                 $seasons = $this->seasonService->findByLeague($famousLeague);
                 foreach($seasons as $season){
                     $this->updateService->storeOddsForFixtureFromSportsmonk($season);
+                }
+            }
+        }
+
+        // step 5: store seedings for fixtures
+        if (true){
+//            [15, 16, 3, 4, 33, 34, 46, 47, 27, 28]
+//            [De1, De2, En1, En2, It1, It2, Sp1, Sp2, Fr1, Fr2]
+            $famousLeagues = [15, 16, 3, 4, 33, 34, 46, 47, 27, 28];
+            foreach ($famousLeagues as $famousLeagueId){
+                $famousLeague = $this->leagueService->findById($famousLeagueId);
+                $seasons = $this->seasonService->findByLeague($famousLeague);
+                foreach($seasons as $season){
+                    $this->updateService->getStandingsForSeason($season);
                 }
             }
         }

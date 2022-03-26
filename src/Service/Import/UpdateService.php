@@ -966,12 +966,21 @@ class UpdateService
 
     public function getStandingsForSeason(Season $season)
     {
-        $rounds = $this->sportsmonkApiGateway->getRoundForSeason($season->getSportmonksApiId());
+//        $rounds = $this->sportsmonkApiGateway->getRoundForSeason($season->getSportmonksApiId());
+        $rounds  = $season->getRounds()->toArray();
+
+        usort($rounds,
+            function (Round $a, Round $b) {
+                return strcmp($a->getId(), $b->getId());
+            }
+        );
+
+        $roundNr = 1;
         foreach ($rounds as $round) {
             // check if seedings are already stored
             $decorated = 0;
             foreach ($season->getClubs() as $club) {
-                $seeding = $this->seedingService->findByClubAndSeasonAndLRound($club, $season, $round['name']);
+                $seeding = $this->seedingService->findByClubAndSeasonAndLRound($club, $season, $roundNr);
                 if (!is_null($seeding)) {
                     $decorated++;
                 }
@@ -981,7 +990,7 @@ class UpdateService
                 continue;
             }
 
-            $standings = $this->sportsmonkApiGateway->getStandingsForSeasonRound($season->getSportmonksApiId(), $round['id']);
+            $standings = $this->sportsmonkApiGateway->getStandingsForSeasonRound($season->getSportmonksApiId(), $round->getSportmonksApiId());
             foreach ($standings as $standing) {
                 $seedingData = new SeedingData();
                 $seedingData->setSeason($season);
@@ -1001,6 +1010,7 @@ class UpdateService
                 dump('Stored seeding for club ' . $team . ' for round ' . $round['name'] . ' of ' . $season);
                 $this->logger->info('Stored seeding for club ' . $team . ' for round ' . $round['name'] . ' of ' . $season);
             }
+            $roundNr++;
         }
     }
 }
