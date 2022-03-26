@@ -1003,12 +1003,12 @@ class UpdateService
                 $seedingData->setClub($team);
                 $seedingData->setPoints($standing['points']);
                 $seedingData->setPosition($standing['position']);
-                $seedingData->setRound($round['name']);
+                $seedingData->setRound($roundNr);
 
                 $seedingData->setForm($standing['recent_form']);
                 $this->seedingService->createByData($seedingData);
-                dump('Stored seeding for club ' . $team . ' for round ' . $round['name'] . ' of ' . $season);
-                $this->logger->info('Stored seeding for club ' . $team . ' for round ' . $round['name'] . ' of ' . $season);
+                dump('Stored seeding for club ' . $team . ' for round ' . $roundNr . ' of ' . $season);
+                $this->logger->info('Stored seeding for club ' . $team . ' for round ' . $roundNr . ' of ' . $season);
             }
             $roundNr++;
         }
