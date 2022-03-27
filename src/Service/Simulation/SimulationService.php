@@ -4,6 +4,7 @@ namespace App\Service\Simulation;
 
 use App\Entity\FixtureOdd;
 use App\Entity\Simulator;
+use App\Form\SimulationCreateData;
 use App\Repository\FixtureRepository;
 use App\Service\Evaluation\EvaluationService;
 use App\Service\Fixture\FixtureTransportFactory;
@@ -46,12 +47,14 @@ class SimulationService
     }
 
 
-    public function simulateBetSeries(Simulation $simulation, array $leagues){
+    public function simulateBetSeries(Simulation $simulation, SimulationCreateData $data){
         $allFixtures =  $this->fixtureRepository->findAllSortedByFilter(
             [
                 'maxResults' => 10000,
                 'oddDecorated' => true,
-                'leagues' => $leagues
+                'from' => $data->getFrom(),
+                'until' => $data->getUntil(),
+                'leagues' => $data->getLeagues()
             ]
         );
 

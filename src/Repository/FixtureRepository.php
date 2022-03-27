@@ -186,6 +186,10 @@ class FixtureRepository extends ServiceEntityRepository
                 $qb->andWhere($qb->expr()->gt('f.timeStamp', ':from'));
                 $qb->setParameter('from', $filter['from']);
             }
+            if (isset($filter['until']) && $filter['until']){
+                $qb->andWhere($qb->expr()->gt('f.timeStamp', ':until'));
+                $qb->setParameter('until', $filter['until']);
+            }
             if (isset($filter['round']) && $filter['round']){
                 $qb->andWhere($qb->expr()->eq('f.matchDay', ':round'));
                 $qb->setParameter('round', $filter['round']);

@@ -2,6 +2,8 @@
 
 namespace App\Form;
 
+use DateTime;
+
 class SimulationCreateData
 {
     /**
@@ -33,6 +35,16 @@ class SimulationCreateData
      * @var array|null
      */
     private $leagues;
+
+    /**
+     * @var DateTime|null
+     */
+    private $from;
+
+    /**
+     * @var DateTime|null
+     */
+    private $until;
 
     /**
      * @return float
@@ -176,5 +188,37 @@ class SimulationCreateData
     public function setLeagues(?array $leagues): void
     {
         $this->leagues = $leagues;
+    }
+
+    /**
+     * @return DateTime|null
+     */
+    public function getFrom(): ?DateTime
+    {
+        return $this->from;
+    }
+
+    /**
+     * @param DateTime|null $from
+     */
+    public function setFrom(?DateTime $from): void
+    {
+        $this->from = $from;
+    }
+
+    /**
+     * @return DateTime|null
+     */
+    public function getUntil(): ?DateTime
+    {
+        return $this->until;
+    }
+
+    /**
+     * @param DateTime|null $until
+     */
+    public function setUntil(?DateTime $until): void
+    {
+        $this->until = $until;
     }
 }

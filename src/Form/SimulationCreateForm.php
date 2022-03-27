@@ -9,6 +9,7 @@ use App\Service\User\UserService;
 use Symfony\Component\Form\AbstractType;
 use Symfony\Component\Form\Extension\Core\Type\CheckboxType;
 use Symfony\Component\Form\Extension\Core\Type\ChoiceType;
+use Symfony\Component\Form\Extension\Core\Type\DateTimeType;
 use Symfony\Component\Form\Extension\Core\Type\MoneyType;
 use Symfony\Component\Form\Extension\Core\Type\SubmitType;
 use Symfony\Component\Form\Extension\Core\Type\TextType;
@@ -28,6 +29,18 @@ class SimulationCreateForm extends AbstractType
                 'multiple' => true,
                 'empty_data' => 0
             ])
+            ->add('from', DateTimeType::class, [
+                'required' => false,
+                'widget' => 'choice',
+                'years' => range(date('Y')-20, date('Y') + 1),
+                'months' => range(date('m'), 12),
+                'days' => range(date('d'), 31)])
+            ->add('until', DateTimeType::class, [
+                'required' => false,
+                'widget' => 'choice',
+                'years' => range(date('Y')-20, date('Y') + 1),
+                'months' => range(date('m'), 12),
+                'days' => range(date('d'), 31)])
             ->add('oddBorderLow', MoneyType::class)
             ->add('oddBorderHigh', MoneyType::class)
             ->add('submit', SubmitType::class, ['label' => 'Start']);
@@ -40,7 +53,8 @@ class SimulationCreateForm extends AbstractType
         ]);
     }
 
-    private function getLeagueChoiceList(){
+    private function getLeagueChoiceList()
+    {
 
         $choices = [
             'All' => null,
