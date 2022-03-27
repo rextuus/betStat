@@ -209,6 +209,7 @@ class FixtureRepository extends ServiceEntityRepository
             }
         }
         $qb->setFirstResult(0)->setMaxResults($filter['maxResults']);
+        $qb->orderBy('f.timeStamp', 'DESC');
 //        $qb->setParameter('maxResults', $filter['maxResults']);
 
 
