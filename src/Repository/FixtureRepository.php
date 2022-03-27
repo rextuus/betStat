@@ -172,6 +172,8 @@ class FixtureRepository extends ServiceEntityRepository
      */
     public function findAllSortedByFilter(array $filter, $page)
     {
+        $this->getEntityManager()->clear();
+
         $qb = $this->createQueryBuilder('f');
         $qb->select('f');
         if (count($filter)){
