@@ -211,7 +211,7 @@ class FixtureRepository extends ServiceEntityRepository
 
 
         // get entity manager
-        $em = $this->getDoctrine()->getManager();
+        $em = $this->getEntityManager();
 
         //set page size
         $pageSize = '100';
