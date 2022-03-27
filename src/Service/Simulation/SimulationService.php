@@ -9,6 +9,7 @@ use App\Repository\FixtureRepository;
 use App\Service\Evaluation\EvaluationService;
 use App\Service\Fixture\FixtureTransportFactory;
 use App\Service\FixtureOdd\FixtureOddService;
+use Doctrine\ORM\EntityManager;
 
 class SimulationService
 {
@@ -33,17 +34,24 @@ class SimulationService
     private $fixtureOddService;
 
     /**
+     * @var EntityManager
+     */
+    private $entityManager;
+
+    /**
      * @param FixtureTransportFactory $fixtureTransportFactory
      * @param EvaluationService $evaluationService
      * @param FixtureRepository $fixtureRepository
      * @param FixtureOddService $fixtureOddService
+     * @param EntityManager $entityManager
      */
-    public function __construct(FixtureTransportFactory $fixtureTransportFactory, EvaluationService $evaluationService, FixtureRepository $fixtureRepository, FixtureOddService $fixtureOddService)
+    public function __construct(FixtureTransportFactory $fixtureTransportFactory, EvaluationService $evaluationService, FixtureRepository $fixtureRepository, FixtureOddService $fixtureOddService, EntityManager $entityManager)
     {
         $this->fixtureTransportFactory = $fixtureTransportFactory;
         $this->evaluationService = $evaluationService;
         $this->fixtureRepository = $fixtureRepository;
         $this->fixtureOddService = $fixtureOddService;
+        $this->entityManager = $entityManager;
     }
 
 
@@ -68,6 +76,7 @@ class SimulationService
         $commitmentChanger = 0;
         $longestSeries = 0;
         foreach ($allFixtures as $fixture){
+
             $toBetOn = $this->evaluationService->getCandidateForFixture($fixture);
             $odds = $this->fixtureOddService->findByFixture($fixture);
             if (!empty($odds) && $toBetOn != -1 && $fixture->isPlayed()){
@@ -156,6 +165,7 @@ class SimulationService
 
                 $simulation->setCurrentCommitment($commitmentChanges[$commitmentChanger]);
             }
+            $this->entityManager->clear();
         }
         $simulation->setLongestLoosingSeries($longestSeries);
         $simulation->setOddAverage(array_sum($oddAverage)/count($oddAverage));

@@ -168,9 +168,9 @@ class FixtureRepository extends ServiceEntityRepository
     }
 
     /**
-     * @return Paginator
+     * @return Paginator|iterable|mixed[]
      */
-    public function findAllSortedByFilter(array $filter): Paginator
+    public function findAllSortedByFilter(array $filter)
     {
         $qb = $this->createQueryBuilder('f');
         $qb->select('f');
@@ -209,10 +209,10 @@ class FixtureRepository extends ServiceEntityRepository
         $qb->setFirstResult(0)->setMaxResults($filter['maxResults']);
 //        $qb->setParameter('maxResults', $filter['maxResults']);
 
-dump($qb->getQuery());
+//dump($qb->getQuery());
         $qb->orderBy('f.timeStamp', 'ASC');
         $paginator = new Paginator($qb->getQuery(), $fetchJoinCollection = true);
-        return $paginator;
+        return $qb->getQuery()->toIterable();
     }
 
     public function getFixturesWithoutResult()
