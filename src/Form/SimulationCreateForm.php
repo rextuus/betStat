@@ -24,11 +24,9 @@ class SimulationCreateForm extends AbstractType
             ->add('commitment', MoneyType::class)
             ->add('commitmentChange', TextType::class)
             ->add('leagues', ChoiceType::class, [
-                'choices' => [
-                    'Superleague' => 1,
-                    'PremierLeague' => 2,
-                ],
+                'choices' => $this->getLeagueChoiceList(),
                 'multiple' => true,
+                'empty_data' => 0
             ])
             ->add('oddBorderLow', MoneyType::class)
             ->add('oddBorderHigh', MoneyType::class)
@@ -40,5 +38,23 @@ class SimulationCreateForm extends AbstractType
         $resolver->setDefaults([
             'data_class' => SimulationCreateData::class
         ]);
+    }
+
+    private function getLeagueChoiceList(){
+
+        $choices = [
+            'All' => null,
+            'De1' => 15,
+            'De2' => 16,
+            'En1' => 3,
+            'En2' => 4,
+            'It1' => 33,
+            'It2' => 34,
+            'Es1' => 46,
+            'Es2' => 47,
+            'Fr1' => 27,
+            'Fr2' => 28,
+        ];
+        return $choices;
     }
 }
