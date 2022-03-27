@@ -170,7 +170,7 @@ class FixtureRepository extends ServiceEntityRepository
     /**
      * @return Paginator|iterable|mixed[]
      */
-    public function findAllSortedByFilter(array $filter)
+    public function findAllSortedByFilter(array $filter, $page)
     {
         $qb = $this->createQueryBuilder('f');
         $qb->select('f');
@@ -209,10 +209,30 @@ class FixtureRepository extends ServiceEntityRepository
         $qb->setFirstResult(0)->setMaxResults($filter['maxResults']);
 //        $qb->setParameter('maxResults', $filter['maxResults']);
 
-//dump($qb->getQuery());
-        $qb->orderBy('f.timeStamp', 'ASC');
-        $paginator = new Paginator($qb->getQuery(), $fetchJoinCollection = true);
-        return $qb->getQuery()->toIterable();
+
+        // get entity manager
+        $em = $this->getDoctrine()->getManager();
+
+        //set page size
+        $pageSize = '100';
+
+        // load doctrine Paginator
+        $paginator = new \Doctrine\ORM\Tools\Pagination\Paginator($qb);
+
+        // you can get total items
+        $totalItems = count($paginator);
+
+        // get total pages
+        $pagesCount = ceil($totalItems / $pageSize);
+
+        // now get one page's items:
+        // now get one page's items:
+        $paginator
+            ->getQuery()
+            ->setFirstResult($pageSize * ($page-1)) // set the offset
+            ->setMaxResults($pageSize); // set the limit
+
+        return ['count' => $paginator->count(), 'paginator' => $paginator];
     }
 
     public function getFixturesWithoutResult()
