@@ -54,12 +54,18 @@ class League
      */
     private $sportmonksApiId;
 
+    /**
+     * @ORM\ManyToMany(targetEntity=SimulationResult::class, mappedBy="leagues")
+     */
+    private $simulationResults;
+
     public function __construct()
     {
         $this->clubs = new ArrayCollection();
         $this->seasons = new ArrayCollection();
         $this->urlResponseBackups = new ArrayCollection();
         $this->fixtures = new ArrayCollection();
+        $this->simulationResults = new ArrayCollection();
     }
 
     public function getId(): ?int
@@ -229,6 +235,33 @@ class League
 
     public function __toString(){
         return $this->getIdent();
+    }
+
+    /**
+     * @return Collection<int, SimulationResult>
+     */
+    public function getSimulationResults(): Collection
+    {
+        return $this->simulationResults;
+    }
+
+    public function addSimulationResult(SimulationResult $simulationResult): self
+    {
+        if (!$this->simulationResults->contains($simulationResult)) {
+            $this->simulationResults[] = $simulationResult;
+            $simulationResult->addLeague($this);
+        }
+
+        return $this;
+    }
+
+    public function removeSimulationResult(SimulationResult $simulationResult): self
+    {
+        if ($this->simulationResults->removeElement($simulationResult)) {
+            $simulationResult->removeLeague($this);
+        }
+
+        return $this;
     }
 
 }

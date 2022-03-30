@@ -47,6 +47,11 @@ class SimulationCreateData
     private $until;
 
     /**
+     * @var string
+     */
+    private $ident;
+
+    /**
      * @return float
      */
     public function getCashRegister(): float
@@ -220,5 +225,21 @@ class SimulationCreateData
     public function setUntil(?DateTime $until): void
     {
         $this->until = $until;
+    }
+
+    /**
+     * @return string
+     */
+    public function getIdent(): string
+    {
+        return $this->ident;
+    }
+
+    /**
+     * @param string $ident
+     */
+    public function setIdent(string $ident): void
+    {
+        $this->ident = $ident;
     }
 }

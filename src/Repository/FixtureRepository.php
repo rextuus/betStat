@@ -170,7 +170,7 @@ class FixtureRepository extends ServiceEntityRepository
     /**
      * @return Paginator|iterable|mixed[]
      */
-    public function findAllSortedByFilter(array $filter, $page)
+    public function findAllSortedByFilter(array $filter, $page, $order ='DESC')
     {
         $this->getEntityManager()->clear();
 
@@ -189,7 +189,7 @@ class FixtureRepository extends ServiceEntityRepository
                 $qb->setParameter('from', $filter['from']);
             }
             if (isset($filter['until']) && $filter['until']){
-                $qb->andWhere($qb->expr()->gt('f.timeStamp', ':until'));
+                $qb->andWhere($qb->expr()->lt('f.timeStamp', ':until'));
                 $qb->setParameter('until', $filter['until']);
             }
             if (isset($filter['round']) && $filter['round']){
@@ -209,7 +209,7 @@ class FixtureRepository extends ServiceEntityRepository
             }
         }
         $qb->setFirstResult(0)->setMaxResults($filter['maxResults']);
-        $qb->orderBy('f.timeStamp', 'DESC');
+        $qb->orderBy('f.timeStamp', $order);
 //        $qb->setParameter('maxResults', $filter['maxResults']);
 
 
@@ -235,7 +235,7 @@ class FixtureRepository extends ServiceEntityRepository
             ->setFirstResult($pageSize * ($page-1)) // set the offset
             ->setMaxResults($pageSize); // set the limit
 
-        return ['count' => $paginator->count(), 'paginator' => $paginator];
+        return ['count' => $pagesCount, 'paginator' => $paginator];
     }
 
     public function getFixturesWithoutResult()

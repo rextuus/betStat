@@ -48,10 +48,10 @@ class FixtureTransportFactory
     public function createFixtureTransports(array $filter): array
     {
 
-        $allFixtures = $this->fixtureRepository->findAllSortedByFilter($filter);
+        $allFixtures = $this->fixtureRepository->findAllSortedByFilter($filter, 1);
         $transports = array();
         dump($allFixtures);
-        foreach($allFixtures as $fixture){
+        foreach($allFixtures['paginator'] as $fixture){
             $fixtureDto =  new FixtureTransport();
             $fixtureDto->setFixtureId($fixture->getId());
             $fixtureDto->setRound($fixture->getMatchDay());

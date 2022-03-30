@@ -21,6 +21,7 @@ class SimulationCreateForm extends AbstractType
     public function buildForm(FormBuilderInterface $builder, array $options)
     {
         $builder
+            ->add('ident', TextType::class)
             ->add('cashRegister', MoneyType::class)
             ->add('commitment', MoneyType::class)
             ->add('commitmentChange', TextType::class)

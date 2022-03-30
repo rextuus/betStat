@@ -68,6 +68,26 @@ class Simulation
     private $longestLoosingSeries;
 
     /**
+     * @var int
+     */
+    private $fromTimestamp;
+
+    /**
+     * @var int
+     */
+    private $untilTimestamp;
+
+    /**
+     * @var int[]
+     */
+    private $leagues;
+
+    /**
+     * @var int
+     */
+    private $commitmentChanger;
+
+    /**
      * @return float
      */
     public function getCashRegister(): float
@@ -260,7 +280,11 @@ class Simulation
         return round($this->wonPlacements/$this->madePlacements * 100.0, 2);
     }
 
-    public function initFrom(SimulationCreateData $data)
+    /**
+     * @param SimulationCreateData $data
+     * @return $this
+     */
+    public function initFrom(SimulationCreateData $data): Simulation
     {
         $this->setCashRegister($data->getCashRegister());
         $this->setCommitment($data->getCommitment());
@@ -292,5 +316,69 @@ class Simulation
     public function setLongestLoosingSeries(int $longestLoosingSeries): void
     {
         $this->longestLoosingSeries = $longestLoosingSeries;
+    }
+
+    /**
+     * @return int
+     */
+    public function getFromTimestamp(): int
+    {
+        return $this->fromTimestamp;
+    }
+
+    /**
+     * @param int $fromTimestamp
+     */
+    public function setFromTimestamp(int $fromTimestamp): void
+    {
+        $this->fromTimestamp = $fromTimestamp;
+    }
+
+    /**
+     * @return int
+     */
+    public function getUntilTimestamp(): int
+    {
+        return $this->untilTimestamp;
+    }
+
+    /**
+     * @param int $untilTimestamp
+     */
+    public function setUntilTimestamp(int $untilTimestamp): void
+    {
+        $this->untilTimestamp = $untilTimestamp;
+    }
+
+    /**
+     * @return int[]
+     */
+    public function getLeagues(): array
+    {
+        return $this->leagues;
+    }
+
+    /**
+     * @param int[] $leagues
+     */
+    public function setLeagues(array $leagues): void
+    {
+        $this->leagues = $leagues;
+    }
+
+    /**
+     * @return int
+     */
+    public function getCommitmentChanger(): int
+    {
+        return $this->commitmentChanger;
+    }
+
+    /**
+     * @param int $commitmentChanger
+     */
+    public function setCommitmentChanger(int $commitmentChanger): void
+    {
+        $this->commitmentChanger = $commitmentChanger;
     }
 }
