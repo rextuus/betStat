@@ -1,0 +1,27 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block body %}
+    <table class="table table-bordered">
+        <tr>
+            <th>Ident</th>
+            <th>Cash Register</th>
+            <th>Longest loosing series</th>
+            <th>Processed</th>
+        </tr>
+
+        {% for simulation in simulations %}
+            <tr>
+            {% if simulation.currentPage - 1 < simulation.totalPages %}<tr style="background-color:#e3391b;">{% endif %}
+
+            <td> <a href="{{ path('simulator_show', {'simulationResult': simulation.id}) }}" class="btn btn-primary btn-lg square" role="button">{{ simulation.ident }}</a></td>
+                <td>{{ simulation.cashRegister }}</td>
+                <td>{{ simulation.longestLoosingSeries }}</td>
+                <td>{{ simulation.currentPage - 1}}/{{ simulation.totalPages }}</td>
+            </tr>
+        {% endfor %}
+
+    </table>
+{% endblock %}
+

@@ -115,15 +115,15 @@ class SimulationService
         $simulation->setLoosePlacements(0);
         $simulation->setOddAverage(0.0);
         $simulation->setState(0);
-        $this->simulationResultService->persist($simulation);
+        $simulation = $this->simulationResultService->persist($simulation);
 
         // set first message
-        $message = new SimulateBetRow($simulation->getId());
+        $message = new SimulateBetRow($simulation->getId(), $simulation->getIdent());
         $this->messageBus->dispatch($message);
     }
 
-    public function simulatePage(int $simulationResultId){
-        $simulation = $this->simulationResultService->findById($simulationResultId);
+    public function simulatePage(SimulationResult $simulation){
+//        $simulation = $this->simulationResultService->findById($simulationResultId);
 
         $fromDate = new DateTime('2000-01-01');
         $untilDate = new DateTime('2030-01-01');
@@ -137,151 +137,6 @@ class SimulationService
                 'leagues' => $simulation->getLeagues()
             ],
             $simulation->getCurrentPage(),
-            'ASC'
-        );
-
-        // create credentials
-        $commitmentChange = $simulation->getCommitmentChange();
-        $commitmentChanges = [$simulation->getCommitment()];
-        if ($commitmentChange !== '-'){
-            $commitmentChanges = explode(';', $commitmentChange);
-        }
-
-        $oddAverage = [];
-        $commitmentChanger = $simulation->getCommitmentChanger();
-        $longestSeries = 0;
-
-        foreach ($allFixtures['paginator'] as $fixture){
-
-            $toBetOn = $this->evaluationService->getCandidateForFixture($fixture);
-            $odds = $this->fixtureOddService->findByFixture($fixture);
-            if (!empty($odds) && $toBetOn != -1 && $fixture->isPlayed()){
-
-                $singleHome = array();
-                $singleDraw = array();
-                $singleAway = array();
-                $doubleHome = array();
-                $doubleAway = array();
-
-                foreach ($odds as $odd){
-                    // classic
-                    if ($odd->getType() === 'classic'){
-                        $singleHome[] = $odd->getHomeOdd();
-                        $singleDraw[] = $odd->getDrawOdd();
-                        $singleAway[] = $odd->getAwayOdd();
-                    }
-                    if ($odd->getType() === 'doubleChance'){
-                        $doubleHome[] = $odd->getHomeOdd();
-                        $doubleAway[] = $odd->getAwayOdd();
-                    }
-                }
-
-                // to betOn have to loose or draw: Beton = 2 if winner == 2 => false
-                $winCondition = $fixture->getWinner() != $toBetOn && $fixture->getWinner() !== 0;
-
-                // if home is candidate to loose => choose away double odd
-                $odd = $this->calculateAverageForSet($singleAway);
-                // if away is candidate to loose => choose home double odd
-                if ($toBetOn == 2){
-                    $odd = $this->calculateAverageForSet($singleHome);
-                }
-                // dont place bets in invalid range
-                if ($odd < $simulation->getOddBorderLow() || $odd > $simulation->getOddBorderHigh()){
-                    continue;
-                }
-
-                if ($winCondition){
-                    $simulation->setWonPlacements($simulation->getWonPlacements() + 1);
-                }else{
-                    $simulation->setLoosePlacements($simulation->getLoosePlacements() + 1);
-                }
-                $simulation->setMadePlacements($simulation->getMadePlacements()+1);
-
-                $this->placeBet2(
-                    $simulation,
-                    $odd,
-                    $winCondition
-                );
-
-                // create archive placement
-                if ($winCondition){
-                    $placement = sprintf(
-                        "Set %d on fixture %s with odd %f: Wished result %s \nWon!!! New cash register is: %f",
-                        $simulation->getCurrentCommitment(),
-                        (string) $fixture,
-                        $odd,
-                        $toBetOn == 1 ? "Away" : "Home",
-                        $simulation->getCashRegister()
-                    );
-                }else{
-                    $placement = sprintf(
-                        "Set %d on fixture %s with odd %f: Wished result %s \nLoose!!! New cash register is: %f",
-                        $simulation->getCurrentCommitment(),
-                        (string) $fixture,
-                        $odd,
-                        $toBetOn == 1 ? "Away" : "Home",
-                        $simulation->getCashRegister()
-                    );
-                }
-                $simulation->addPlacement($placement);
-
-                $oddAverage[] = $odd;
-
-                if ($winCondition){
-                    $commitmentChanger = 0;
-                }else{
-                    $commitmentChanger++;
-                    if ($commitmentChanger == count($commitmentChanges)){
-                        $commitmentChanger = 0;
-                    }
-                }
-                if ($commitmentChanger > $longestSeries){
-                    $longestSeries = $commitmentChanger;
-                }
-
-                $simulation->setCurrentCommitment($commitmentChanges[$commitmentChanger]);
-            }
-        }
-        $simulation->setCommitmentChanger($commitmentChanger);
-        if ($longestSeries > $simulation->getLongestLoosingSeries()){
-            $simulation->setLongestLoosingSeries($longestSeries);
-        }
-
-        if (count($oddAverage) > 0){
-            $oddAverageValue = array_sum($oddAverage)/count($oddAverage);
-            if($simulation->getCurrentPage() > 1){
-                $simulation->setOddAverage(($oddAverageValue + $simulation->getOddAverage()) / 2);
-            }else{
-                $simulation->setOddAverage($oddAverageValue);
-            }
-        }
-
-        $simulation->setCurrentPage($simulation->getCurrentPage()+1);
-
-        // save changes
-//        $this->entityManager->persist($simulation);
-        $this->simulationResultService->update($simulation);
-
-//        if ($simulation->getCurrentPage() <= $simulation->getTotalPages()) {
-//            $message = new SimulateBetRow($simulation->getId() + 1);
-//            $this->messageBus->dispatch($message);
-//        }
-    }
-
-    public function simulateBetSeriesPage(Simulation $simulation, int $page){
-
-        $fromDate = new DateTime('2000-01-01');
-        $untilDate = new DateTime('2030-01-01');
-
-        $allFixtures =  $this->fixtureRepository->findAllSortedByFilter(
-            [
-                'maxResults' => 10000,
-                'oddDecorated' => true,
-                'from' => $simulation->getFromTimestamp(),
-                'until' => $simulation->getFromTimestamp(),
-                'leagues' => $simulation->getLeagues()
-            ],
-            $page,
             'ASC'
         );
 
@@ -394,158 +249,22 @@ class SimulationService
 
         if (count($oddAverage) > 0){
             $oddAverageValue = array_sum($oddAverage)/count($oddAverage);
-            $simulation->setOddAverage(($oddAverageValue + $simulation->getOddAverage()) / 2);
-            $simulation->setOddAverage($oddAverageValue);
-        }
-
-        return $simulation;
-    }
-
-
-    public function simulateBetSeries(Simulation $simulation, SimulationCreateData $data){
-        $allFixtures =  $this->fixtureRepository->findAllSortedByFilter(
-            [
-                'maxResults' => 10000,
-                'oddDecorated' => true,
-                'from' => $data->getFrom(),
-                'until' => $data->getUntil(),
-                'leagues' => $data->getLeagues()
-            ],
-            1
-        );
-
-        $oddAverage = [];
-        $commitmentChange = $simulation->getCommitmentChange();
-        $commitmentChanges = [$simulation->getCommitment()];
-        if ($commitmentChange !== '-'){
-            $commitmentChanges = explode(';', $commitmentChange);
-        }
-
-        $commitmentChanger = 0;
-        $longestSeries = 0;
-
-        for ($pageNr = 1; $pageNr < $allFixtures['count']; $pageNr++){
-            $allFixtures =  $this->fixtureRepository->findAllSortedByFilter(
-                [
-                    'maxResults' => 10000,
-                    'oddDecorated' => true,
-                    'from' => $data->getFrom(),
-                    'until' => $data->getUntil(),
-                    'leagues' => $data->getLeagues()
-                ],
-                $pageNr
-            );
-
-            foreach ($allFixtures['paginator'] as $fixture){
-
-                $toBetOn = $this->evaluationService->getCandidateForFixture($fixture);
-                $odds = $this->fixtureOddService->findByFixture($fixture);
-                if (!empty($odds) && $toBetOn != -1 && $fixture->isPlayed()){
-
-                    $singleHome = array();
-                    $singleDraw = array();
-                    $singleAway = array();
-                    $doubleHome = array();
-                    $doubleAway = array();
-
-                    foreach ($odds as $odd){
-                        // classic
-                        if ($odd->getType() === 'classic'){
-                            $singleHome[] = $odd->getHomeOdd();
-                            $singleDraw[] = $odd->getDrawOdd();
-                            $singleAway[] = $odd->getAwayOdd();
-                        }
-                        if ($odd->getType() === 'doubleChance'){
-                            $doubleHome[] = $odd->getHomeOdd();
-                            $doubleAway[] = $odd->getAwayOdd();
-                        }
-                    }
-
-                    // to betOn have to loose or draw: Beton = 2 if winner == 2 => false
-                    $winCondition = $fixture->getWinner() != $toBetOn && $fixture->getWinner() !== 0;
-
-                    // if home is candidate to loose => choose away double odd
-                    $odd = $this->calculateAverageForSet($singleAway);
-                    // if away is candidate to loose => choose home double odd
-                    if ($toBetOn == 2){
-                        $odd = $this->calculateAverageForSet($singleHome);
-                    }
-                    // dont place bets in invalid range
-                    if ($odd < $simulation->getOddBorderLow() || $odd > $simulation->getOddBorderHigh()){
-                        continue;
-                    }
-
-                    if ($winCondition){
-                        $simulation->setWonPlacements($simulation->getWonPlacements() + 1);
-                    }else{
-                        $simulation->setLoosePlacements($simulation->getLoosePlacements() + 1);
-                    }
-                    $simulation->setMadePlacements($simulation->getMadePlacements()+1);
-
-                    $this->placeBet(
-                        $simulation,
-                        $odd,
-                        $winCondition
-                    );
-
-                    // create archive placement
-                    if ($winCondition){
-                        $placement = sprintf(
-                            "Set %d on fixture %s with odd %f: Wished result %s \nWon!!! New cash register is: %f",
-                            $simulation->getCurrentCommitment(),
-                            (string) $fixture,
-                            $odd,
-                            $toBetOn == 1 ? "Away" : "Home",
-                            $simulation->getCashRegister()
-                        );
-                    }else{
-                        $placement = sprintf(
-                            "Set %d on fixture %s with odd %f: Wished result %s \nLoose!!! New cash register is: %f",
-                            $simulation->getCurrentCommitment(),
-                            (string) $fixture,
-                            $odd,
-                            $toBetOn == 1 ? "Away" : "Home",
-                            $simulation->getCashRegister()
-                    );
-                    }
-                    $simulation->addPlacement($placement);
-
-                    $oddAverage[] = $odd;
-
-                    if ($winCondition){
-                        $commitmentChanger = 0;
-                    }else{
-                        $commitmentChanger++;
-                        if ($commitmentChanger == count($commitmentChanges)){
-                            $commitmentChanger = 0;
-                        }
-                    }
-                    if ($commitmentChanger > $longestSeries){
-                        $longestSeries = $commitmentChanger;
-                    }
-
-                    $simulation->setCurrentCommitment($commitmentChanges[$commitmentChanger]);
-                }
+            if($simulation->getCurrentPage() > 1){
+                $simulation->setOddAverage(($oddAverageValue + $simulation->getOddAverage()) / 2);
+            }else{
+                $simulation->setOddAverage($oddAverageValue);
             }
         }
 
-        $simulation->setLongestLoosingSeries($longestSeries);
-        $simulation->setOddAverage(array_sum($oddAverage)/count($oddAverage));
+        $simulation->setCurrentPage($simulation->getCurrentPage()+1);
+
+        // save changes
+//        $this->entityManager->persist($simulation);
+        $this->simulationResultService->update($simulation);
     }
 
-    private function placeBet(Simulation $simulation, float $doubleAway, bool $betWon)
-    {
-        // reduce by commitment
-        $simulation->setCashRegister($simulation->getCashRegister() - $simulation->getCurrentCommitment());
-        // add possible win
-        if ($betWon){
-            $win = $doubleAway * $simulation->getCurrentCommitment();
-            $tax = 0.05 * $win;
-            $simulation->setCashRegister($simulation->getCashRegister() + $win - $tax);
-        }
-    }
 
-    private function placeBet2(SimulationResult $simulation, float $doubleAway, bool $betWon)
+    private function placeBet(SimulationResult $simulation, float $doubleAway, bool $betWon)
     {
         // reduce by commitment
         $simulation->setCashRegister($simulation->getCashRegister() - $simulation->getCurrentCommitment());

@@ -2,9 +2,7 @@
 
 namespace App\Handler;
 
-use App\Entity\SimulationResult;
-
-class SimulateBetRow
+class CleanBetRow
 {
     /**
      * @var int
@@ -57,5 +55,4 @@ class SimulateBetRow
     {
         $this->ident = $ident;
     }
-
 }

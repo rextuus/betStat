@@ -64,4 +64,19 @@ class SimulationResultService
     {
         return$this->simulationResultRepository->find($id);
     }
+
+    public function findLatestVersionByIdent(string $getIdent): int
+    {
+        return $this->simulationResultRepository->findLatestVersionByIdent($getIdent);
+    }
+
+    public function findAllByIdent($ident)
+    {
+        return $this->simulationResultRepository->find(['ident' => $ident]);
+    }
+
+    public function findAllLimited(): array
+    {
+        return $this->simulationResultRepository->findAllLimited();
+    }
 }

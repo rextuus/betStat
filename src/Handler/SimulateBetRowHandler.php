@@ -79,8 +79,15 @@ class SimulateBetRowHandler implements MessageHandlerInterface
     public function __invoke(SimulateBetRow $simulateBetRow)
     {
 
-        $id = $simulateBetRow->getSimulationResultId();
+//        $id = $simulateBetRow->getSimulationResultId();
+//        $simulation = $this->simulationResultRepository->find($id);
+        $id = $this->simulationResultRepository->findLatestVersionByIdent($simulateBetRow->getIdent());
+
+        if ($id == 0){
+            $id = $simulateBetRow->getSimulationResultId();
+        }
         $simulation = $this->simulationResultRepository->find($id);
+
 
 //        $this->simulationService->simulatePage($id);
 
@@ -206,39 +213,44 @@ class SimulateBetRowHandler implements MessageHandlerInterface
 //        }
 //        $simulation->setCommitmentChanger($commitmentChanger);
 
-        $simulationProxy = new Simulation();
-        $simulationProxy->setCashRegister($simulation->getCashRegister());
-        $simulationProxy->setCommitment($simulation->getCommitment());
-        $simulationProxy->setCurrentCommitment($simulation->getCommitment());
-        $simulationProxy->setOddBorderHigh($simulation->getOddBorderHigh());
-        $simulationProxy->setOddBorderLow($simulation->getOddBorderLow());
-        $simulationProxy->setCommitmentChange($simulation->getCommitmentChange());
-        $simulationProxy->setFromTimestamp($simulation->getFromDate()->getTimestamp());
-        $simulationProxy->setUntilTimestamp($simulation->getUntilDate()->getTimestamp());
-        $simulationProxy->setLeagues($simulation->getLeagues());
-        $simulationProxy->setCommitmentChanger($simulation->getCommitmentChanger());
-        $simulationProxy->setLongestLoosingSeries(0);
-        $simulationProxy->setPlacements([]);
-        $result = $this->testFunction($simulationProxy, $simulation->getCurrentPage());
-        dump($result);
+//        $simulationProxy = new Simulation();
+//        $simulationProxy->setCashRegister($simulation->getCashRegister());
+//        $simulationProxy->setCommitment($simulation->getCommitment());
+//        $simulationProxy->setCurrentCommitment($simulation->getCommitment());
+//        $simulationProxy->setOddBorderHigh($simulation->getOddBorderHigh());
+//        $simulationProxy->setOddBorderLow($simulation->getOddBorderLow());
+//        $simulationProxy->setCommitmentChange($simulation->getCommitmentChange());
+//        $simulationProxy->setFromTimestamp($simulation->getFromDate()->getTimestamp());
+//        $simulationProxy->setUntilTimestamp($simulation->getUntilDate()->getTimestamp());
+//        $simulationProxy->setLeagues($simulation->getLeagues());
+//        $simulationProxy->setCommitmentChanger($simulation->getCommitmentChanger());
+//        $simulationProxy->setLongestLoosingSeries(0);
+//        $simulationProxy->setPlacements([]);
+//        $result = $this->testFunction($simulationProxy, $simulation->getCurrentPage());
 
-        $simulation->setIdent('Changed');
-        $simulation->setCommitmentChanger('3');
-        $simulation->setWonPlacements(88);
-        $simulation->setLoosePlacements(77);
-        $simulation->setTotalPages(65);
-        $simulation->setCurrentPage($simulation->getCurrentPage()+1);
-        $simulation->setCashRegister(4);
-        $simulation->addPlacement('TestPlacement');
+
+//        $simulation->setIdent('Changed');
+//        $simulation->setCommitmentChanger('3');
+//        $simulation->setWonPlacements(88);
+//        $simulation->setLoosePlacements(77);
+//        $simulation->setTotalPages(65);
+//        $simulation->setCurrentPage($simulation->getCurrentPage()+1);
+//        $simulation->setCashRegister(4);
+//        $simulation->addPlacement('TestPlacement');
 
         $simulation->setParentId($id);
+        $this->simulationService->simulatePage($simulation);
         $this->entityManager->persist($simulation);
         $this->entityManager->flush();
         $simulation = $this->simulationResultRepository->find($id);
-        sleep(10);
 
-        if ($simulation->getCurrentPage() <= $simulation->getTotalPages()){
-            $message = new SimulateBetRow($simulation->getId());
+        if ($simulation->getCurrentPage() < $simulation->getTotalPages()){
+            $message = new SimulateBetRow($simulation->getId()+1,$simulation->getIdent() );
+            $this->messageBus->dispatch($message);
+        }
+        if ($simulation->getCurrentPage() == $simulation->getTotalPages()){
+            dump("CLEARING");
+            $message = new CleanBetRow($simulation->getId()+1,$simulation->getIdent() );
             $this->messageBus->dispatch($message);
         }
     }

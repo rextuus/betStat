@@ -408,4 +408,8 @@ class SimulationResult
 
         return $this;
     }
+
+    public function getWinRatePercentage(){
+        return round($this->wonPlacements/$this->madePlacements * 100.0, 2);
+    }
 }

@@ -84,4 +84,37 @@ class SimulationResultRepository extends ServiceEntityRepository
     {
         $this->_em->flush();
     }
+
+    public function findLatestVersionByIdent(string $getIdent): ?int
+    {
+        $qb = $this->createQueryBuilder('s');
+        $qb->select('s.id');
+        $qb->where($qb->expr()->eq('s.ident', ':ident'))
+            ->orderBy('s.id', 'DESC');
+        $qb->setParameter('ident', $getIdent);
+        $qb->setMaxResults(1);
+        if (array_key_exists(0, $qb->getQuery()->getResult())){
+            return $qb->getQuery()->getResult()[0]['id'];
+        }
+        return null;
+    }
+
+    public function deleteAllExpectLastOneForIdent(string $ident, int $simulationResultId)
+    {
+
+        $qb = $this->createQueryBuilder('s');
+        $qb->delete(SimulationResult::class, 's');
+        $qb->where($qb->expr()->eq('s.ident', ':ident'))
+            ->andWhere($qb->expr()->neq('s.id', ':id'));
+        $qb->setParameter('ident', $ident);
+        $qb->setParameter('id', $simulationResultId);
+    }
+
+    public function findAllLimited()
+    {
+        $qb = $this->createQueryBuilder('s');
+        $qb->select('s, MAX(s.id) AS HIDDEN max_score');
+        $qb->groupBy('s.ident');
+        return $qb->getQuery()->getResult();
+    }
 }

@@ -12,3 +12,4 @@ framework:
         routing:
             # Route your messages to the transports
             'App\Handler\SimulateBetRow': async
+            'App\Handler\CleanBetRow': async
